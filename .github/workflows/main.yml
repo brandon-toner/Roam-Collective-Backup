@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    -   cron: "15 10 * * *"  # At minute 5 past every 8th hour.
+    -   cron: "5 */6 * * *"  # At minute 5 past every 6th hour.
 
 jobs:
   backup:
