@@ -1,6 +1,13 @@
+- #Announcements
+    - Change in [convention]([[Conventions]])! [[Chat]]
+        - From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]])
+- :hiccup [:hr]
+- 
 - :hiccup [:hr]
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #Scratchpad
+        - #Tips
+            - Use the #Tensions tag to flag areas of conflict without clear resolution.
         - #Observations
             - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
                 - #[[Open Questions]] How could we preserve the chat integrity as the blocks they reference change?
@@ -23,13 +30,46 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [[Projects/Establish automated graph backups]]
+        - `#how-should-I-tag-this` (resolved) [[Start from abundance.]]
+            - This is [[David Perell]]'s articulation of this idea... 
+            - If it were MY idea, It would be an [evergreen note]([[evergreen notes]]).
+                - `#[[Open Questions]]` How should I represent the ideas of others? (resolved)
+                    - Actually... since this is [[multiplayer]] - there are MANY authors of [[evergreen notes]]! So I think make this an EN, with [[David Perell]] as the author.
     - #Administration #not_populated
         - #[[Change Log]] 
             - Adjusted not-populated to not_populated based on [[Matthew Vogel]]'s suggestion.
+            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td)))
+                - Related:: {{[[embed]]: ((JfnNhLc4U))}}
         - #[[Next Steps]]
             - {{[[TODO]]}} Set up reminder to backup graph daily.
                 - SmartBlocks?
-    - #[[The Zettelkasten]] #not_populated
+            - {{[[TODO]]}} Implement a more broad task&project centric tag that would encompass `Next Steps`.
+                - Similar to #GTD in my personal graph.
+                    - Images:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
+    - #[[The Zettelkasten]]
+        - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].
+            - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
+        - #[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. 
+            - Shared purpose and objectives align efforts towards a common goal.
+        - #[[Fleeting Notes]] Clear processes are important within a [[collaborative graph]] to maintain clarity and [[order]].
+        - #[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [[collaborative graph]] #chat
+        - #Scratchpad #zettelkasten
+            - [[zettelkasten]] #Processes #Overview
+                - Fleeting Notes -[contribute to]> Projects
+                - Fleeting Notes -[contribute to]> Evergreen Notes
+                - Literature Notes -[contribute to]> Projects
+                - Literature Notes -[contribute to]> Evergreen Notes
+            - Purpose:
+                - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                    - #[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [[collaborative graph]].
+            - Process:
+                - Capture assertions as [[fleeting notes]] (atomic ideas, succinct)
+                - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
+                - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
+                - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
+                    - Related:: [[Start from abundance.]]
     - #Promptstorming
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -79,6 +119,14 @@
     - #Comments
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
             - whoops will do in the future!
+        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))"
+            - Completely possible, actually pretty easy
+    - #Promptstorming
+        - #[[Daily Writing Prompt]]
+            - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+                - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.
+                    - It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for
+                    - Need to do some further investigation into all the ideas brought but by [[David Bieber]] [here](((1NzXjSWfB)))
     - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`

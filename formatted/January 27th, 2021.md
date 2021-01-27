@@ -1,6 +1,13 @@
+- [Announcements](<Announcements.md>)
+    - Change in [convention]([Conventions](<Conventions.md>))! [Chat](<Chat.md>)
+        - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>))
+- :hiccup [:hr]
+- 
 - :hiccup [:hr]
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
+        - [Tips](<Tips.md>)
+            - Use the [Tensions](<Tensions.md>) tag to flag areas of conflict without clear resolution.
         - [Observations](<Observations.md>)
             - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
                 - #[Open Questions](<Open Questions.md>) How could we preserve the chat integrity as the blocks they reference change?
@@ -23,13 +30,46 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+        - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [Start from abundance.](<Start from abundance..md>)
+            - This is [David Perell](<David Perell.md>)'s articulation of this idea... 
+            - If it were MY idea, It would be an [evergreen note]([evergreen notes](<evergreen notes.md>)).
+                - `#[Open Questions](<Open Questions.md>)` How should I represent the ideas of others? (resolved)
+                    - Actually... since this is [multiplayer](<multiplayer.md>) - there are MANY authors of [evergreen notes](<evergreen notes.md>)! So I think make this an EN, with [David Perell](<David Perell.md>) as the author.
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
         - #[Change Log](<Change Log.md>) 
             - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'s suggestion.
+            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td)))
+                - **[Related](<Related.md>):** {{[embed](<embed.md>): ((JfnNhLc4U))}}
         - #[Next Steps](<Next Steps.md>)
             - [ ] Set up reminder to backup graph daily.
                 - SmartBlocks?
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+            - [ ] Implement a more broad task&project centric tag that would encompass `Next Steps`.
+                - Similar to [GTD](<GTD.md>) in my personal graph.
+                    - Images:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph](<collaborative graph.md>).
+            - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>) to make use of. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). 
+            - Shared purpose and objectives align efforts towards a common goal.
+        - #[Fleeting Notes](<Fleeting Notes.md>) Clear processes are important within a [collaborative graph](<collaborative graph.md>) to maintain clarity and [order](<order.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>) for unread notifications is important for any system of communication in a [collaborative graph](<collaborative graph.md>) [chat](<chat.md>)
+        - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
+            - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
+                - Fleeting Notes -[contribute to]> Projects
+                - Fleeting Notes -[contribute to]> Evergreen Notes
+                - Literature Notes -[contribute to]> Projects
+                - Literature Notes -[contribute to]> Evergreen Notes
+            - Purpose:
+                - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph](<collaborative graph.md>).
+            - Process:
+                - Capture assertions as [fleeting notes](<fleeting notes.md>) (atomic ideas, succinct)
+                - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
+                - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
+                - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                    - **[Related](<Related.md>):** [Start from abundance.](<Start from abundance..md>)
     - [Promptstorming](<Promptstorming.md>)
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -79,6 +119,14 @@
     - [Comments](<Comments.md>)
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)"
             - whoops will do in the future!
+        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))"
+            - Completely possible, actually pretty easy
+    - [Promptstorming](<Promptstorming.md>)
+        - #[Daily Writing Prompt](<Daily Writing Prompt.md>)
+            - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+                - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [notifications](<notifications.md>) of mentions and/or block ref of your created blocks.
+                    - It's early days but I've worked up some `:q` [queries](<queries.md>) that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [Roam API](<Roam API.md>) for
+                    - Need to do some further investigation into all the ideas brought but by [David Bieber](<David Bieber.md>) [here](((1NzXjSWfB)))
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
@@ -101,5 +149,8 @@
 
 # Backlinks
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+- **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
+
+## [Start from abundance.](<Start from abundance..md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 

@@ -5,10 +5,11 @@
         - [[Eneko Uruñuela]]
         - [[Matthew Vogel]]
     - Areas:: [[Areas/Roam Collective]]
-    - Project Status:: [[Status/Active]]
+    - Project Status:: [[Status/Enabled]]
     - Due Date:: #[[not_populated]] #Housekeeping
     - Reminders:: #[[not_populated]] 
     - Date Completed:: #[[Status/Not Completed]]
     - Notes::
         - See discussion on [[Slack]]
     - Tasks:: #not_populated
+    - URL:: (Is currently set as private but a public backup could be nice)

@@ -2933,12 +2933,92 @@
   {
     "children": [
       {
+        ":block/refs": [
+          {
+            ":block/uid": "H7NGD4VcI"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "8f35qV3Rc"
+              },
+              {
+                ":block/uid": "TxsV9GIET"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "k3mSojzr9"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611771574996,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611772045769,
+                "refs": [
+                  {
+                    "uid": "k3mSojzr9"
+                  }
+                ],
+                "string": "From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]])",
+                "uid": "XA3MK4DQg"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611771561646,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611771583594,
+            "refs": [
+              {
+                "uid": "8f35qV3Rc"
+              },
+              {
+                "uid": "TxsV9GIET"
+              }
+            ],
+            "string": "Change in [convention]([[Conventions]])! [[Chat]]",
+            "uid": "tL3n97zoP"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611771557618,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611771561657,
+        "refs": [
+          {
+            "uid": "H7NGD4VcI"
+          }
+        ],
+        "string": "#Announcements",
+        "uid": "zkzzI9Cm4"
+      },
+      {
         "create-email": "toner.brandon@gmail.com",
         "create-time": 1611723320797,
         "edit-email": "toner.brandon@gmail.com",
         "edit-time": 1611723388083,
         "string": ":hiccup [:hr]",
         "uid": "pg1z4aFB0"
+      },
+      {
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611771552661,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611771552661,
+        "string": "",
+        "uid": "9jYMfkcd3"
+      },
+      {
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611771540911,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611771540911,
+        "string": ":hiccup [:hr]",
+        "uid": "kvUhKEeE_"
       },
       {
         ":block/refs": [
@@ -2957,6 +3037,44 @@
               }
             ],
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "R6GwNfuun"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_x0IDg5ji"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611769251927,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611769276369,
+                    "refs": [
+                      {
+                        "uid": "_x0IDg5ji"
+                      }
+                    ],
+                    "string": "Use the #Tensions tag to flag areas of conflict without clear resolution.",
+                    "uid": "G8VYqbHpi"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611769246623,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611769251935,
+                "refs": [
+                  {
+                    "uid": "R6GwNfuun"
+                  }
+                ],
+                "string": "#Tips",
+                "uid": "c9jz-bjl1"
+              },
               {
                 ":block/refs": [
                   {
@@ -3204,6 +3322,104 @@
                 ],
                 "string": "[[Projects/Establish automated graph backups]]",
                 "uid": "F08_UlzYg"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fopdz6Eqe"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3toHtnjhR"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611770483724,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611770508625,
+                    "refs": [
+                      {
+                        "uid": "3toHtnjhR"
+                      }
+                    ],
+                    "string": "This is [[David Perell]]'s articulation of this idea... ",
+                    "uid": "1ZUa5cKoK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "0x08w0lSE"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0x08w0lSE"
+                              },
+                              {
+                                ":block/uid": "VtjsSxHCN"
+                              },
+                              {
+                                ":block/uid": "3toHtnjhR"
+                              }
+                            ],
+                            "create-email": "toner.brandon@gmail.com",
+                            "create-time": 1611770567829,
+                            "edit-email": "toner.brandon@gmail.com",
+                            "edit-time": 1611770752500,
+                            "refs": [
+                              {
+                                "uid": "0x08w0lSE"
+                              },
+                              {
+                                "uid": "VtjsSxHCN"
+                              },
+                              {
+                                "uid": "3toHtnjhR"
+                              }
+                            ],
+                            "string": "Actually... since this is [[multiplayer]] - there are MANY authors of [[evergreen notes]]! So I think make this an EN, with [[David Perell]] as the author.",
+                            "uid": "oZSXlOwV0"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611770544308,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611771079962,
+                        "string": "`#[[Open Questions]]` How should I represent the ideas of others? (resolved)",
+                        "uid": "qdyMVq80V"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611770508384,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611770544315,
+                    "refs": [
+                      {
+                        "uid": "0x08w0lSE"
+                      }
+                    ],
+                    "string": "If it were MY idea, It would be an [evergreen note]([[evergreen notes]]).",
+                    "uid": "c7-vvYgRY"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611770477743,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611771050805,
+                "refs": [
+                  {
+                    "uid": "fopdz6Eqe"
+                  }
+                ],
+                "string": "`#how-should-I-tag-this` (resolved) [[Start from abundance.]]",
+                "uid": "JspVT1Pvm"
               }
             ],
             "create-email": "toner.brandon@gmail.com",
@@ -3252,6 +3468,62 @@
                     ],
                     "string": "Adjusted not-populated to not_populated based on [[Matthew Vogel]]'s suggestion.",
                     "uid": "2bto23J6N"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ley0GPQlY"
+                      },
+                      {
+                        ":block/uid": "DhNyAu1Td"
+                      }
+                    ],
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "503BjZUJn"
+                          },
+                          {
+                            ":block/uid": "JfnNhLc4U"
+                          },
+                          {
+                            ":block/uid": "1pLEGSLmj"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611771172345,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611771193399,
+                        "refs": [
+                          {
+                            "uid": "503BjZUJn"
+                          },
+                          {
+                            "uid": "JfnNhLc4U"
+                          },
+                          {
+                            "uid": "1pLEGSLmj"
+                          }
+                        ],
+                        "string": "Related:: {{[[embed]]: ((JfnNhLc4U))}}",
+                        "uid": "xBIgYhjed"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611771102624,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611771171414,
+                    "refs": [
+                      {
+                        "uid": "ley0GPQlY"
+                      },
+                      {
+                        "uid": "DhNyAu1Td"
+                      }
+                    ],
+                    "string": "Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td)))",
+                    "uid": "bEsJXYWZs"
                   }
                 ],
                 "create-email": "toner.brandon@gmail.com",
@@ -3300,6 +3572,72 @@
                     ],
                     "string": "{{[[TODO]]}} Set up reminder to backup graph daily.",
                     "uid": "mdpTKTiGJ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sOFO_CQh4"
+                      }
+                    ],
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "iF_j5T0jr"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "toner.brandon@gmail.com",
+                                "create-time": 1611768937856,
+                                "edit-email": "toner.brandon@gmail.com",
+                                "edit-time": 1611768957911,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)",
+                                "uid": "ApQkGEpAs"
+                              },
+                              {
+                                "create-email": "toner.brandon@gmail.com",
+                                "create-time": 1611768996735,
+                                "edit-email": "toner.brandon@gmail.com",
+                                "edit-time": 1611769001711,
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)",
+                                "uid": "qhjLWtw15"
+                              }
+                            ],
+                            "create-email": "toner.brandon@gmail.com",
+                            "create-time": 1611768992553,
+                            "edit-email": "toner.brandon@gmail.com",
+                            "edit-time": 1611768995431,
+                            "string": "Images:",
+                            "uid": "HrnW1xkXR"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611768926032,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611768937626,
+                        "refs": [
+                          {
+                            "uid": "iF_j5T0jr"
+                          }
+                        ],
+                        "string": "Similar to #GTD in my personal graph.",
+                        "uid": "kSFwgcBL2"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611768801796,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611768926042,
+                    "refs": [
+                      {
+                        "uid": "sOFO_CQh4"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} Implement a more broad task&project centric tag that would encompass `Next Steps`.",
+                    "uid": "Su0y4mQCs"
                   }
                 ],
                 "create-email": "toner.brandon@gmail.com",
@@ -3334,24 +3672,442 @@
             ":block/refs": [
               {
                 ":block/uid": "i5L7Z8P19"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fdTOSMhgC"
+                  },
+                  {
+                    ":block/uid": "VmPA54-A_"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_ala-JkX-"
+                      },
+                      {
+                        ":block/uid": "DeBaKd4gC"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611768551756,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611768554212,
+                    "refs": [
+                      {
+                        "uid": "_ala-JkX-"
+                      },
+                      {
+                        "uid": "DeBaKd4gC"
+                      }
+                    ],
+                    "string": "Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. ",
+                    "uid": "vIcqtVpTv"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611768473016,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611768517364,
+                "refs": [
+                  {
+                    "uid": "fdTOSMhgC"
+                  },
+                  {
+                    "uid": "VmPA54-A_"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].",
+                "uid": "40_0kQRd_"
               },
               {
-                ":block/uid": "bjQLhCc-Z"
+                ":block/refs": [
+                  {
+                    ":block/uid": "fdTOSMhgC"
+                  },
+                  {
+                    ":block/uid": "VmPA54-A_"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611768552011,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611768693597,
+                    "string": "Shared purpose and objectives align efforts towards a common goal.",
+                    "uid": "AHFbknHo4"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611768670420,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611768677845,
+                "refs": [
+                  {
+                    "uid": "fdTOSMhgC"
+                  },
+                  {
+                    "uid": "VmPA54-A_"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. ",
+                "uid": "ZfP0Ae9zu"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fdTOSMhgC"
+                  },
+                  {
+                    ":block/uid": "VmPA54-A_"
+                  },
+                  {
+                    ":block/uid": "uqApiqh9Q"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611768695819,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611768730902,
+                "refs": [
+                  {
+                    "uid": "fdTOSMhgC"
+                  },
+                  {
+                    "uid": "VmPA54-A_"
+                  },
+                  {
+                    "uid": "uqApiqh9Q"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] Clear processes are important within a [[collaborative graph]] to maintain clarity and [[order]].",
+                "uid": "lngeif8Bw"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "KQkUYX5OF"
+                  },
+                  {
+                    ":block/uid": "fdTOSMhgC"
+                  },
+                  {
+                    ":block/uid": "VmPA54-A_"
+                  },
+                  {
+                    ":block/uid": "ZGQTHFTKe"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611769040045,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611769208923,
+                "refs": [
+                  {
+                    "uid": "KQkUYX5OF"
+                  },
+                  {
+                    "uid": "fdTOSMhgC"
+                  },
+                  {
+                    "uid": "VmPA54-A_"
+                  },
+                  {
+                    "uid": "ZGQTHFTKe"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [[collaborative graph]] #chat",
+                "uid": "8qQeuQVlT"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "rTvBzGtyV"
+                  },
+                  {
+                    ":block/uid": "O6NKTa69_"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rTvBzGtyV"
+                      },
+                      {
+                        ":block/uid": "96eXFXGqt"
+                      },
+                      {
+                        ":block/uid": "i6kch4wlB"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769838882,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611769902152,
+                        "string": "Fleeting Notes -[contribute to]> Projects",
+                        "uid": "hsON_mdyr"
+                      },
+                      {
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769863248,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611769912754,
+                        "string": "Fleeting Notes -[contribute to]> Evergreen Notes",
+                        "uid": "a5YaRKyth"
+                      },
+                      {
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769872546,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611769917412,
+                        "string": "Literature Notes -[contribute to]> Projects",
+                        "uid": "kyaKEg6MY"
+                      },
+                      {
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769882504,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611769926624,
+                        "string": "Literature Notes -[contribute to]> Evergreen Notes",
+                        "uid": "QIwBqOx7j"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611769939442,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611769953108,
+                    "refs": [
+                      {
+                        "uid": "rTvBzGtyV"
+                      },
+                      {
+                        "uid": "96eXFXGqt"
+                      },
+                      {
+                        "uid": "i6kch4wlB"
+                      }
+                    ],
+                    "string": "[[zettelkasten]] #Processes #Overview",
+                    "uid": "Oc08EGo3H"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "fdTOSMhgC"
+                              },
+                              {
+                                ":block/uid": "VmPA54-A_"
+                              },
+                              {
+                                ":block/uid": "6MWd53iDm"
+                              },
+                              {
+                                ":block/uid": "XwAM271wF"
+                              }
+                            ],
+                            "create-email": "toner.brandon@gmail.com",
+                            "create-time": 1611770209024,
+                            "edit-email": "toner.brandon@gmail.com",
+                            "edit-time": 1611770271969,
+                            "refs": [
+                              {
+                                "uid": "fdTOSMhgC"
+                              },
+                              {
+                                "uid": "VmPA54-A_"
+                              },
+                              {
+                                "uid": "6MWd53iDm"
+                              },
+                              {
+                                "uid": "XwAM271wF"
+                              }
+                            ],
+                            "string": "#[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [[collaborative graph]].",
+                            "uid": "pqeOXmvXA"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611770117118,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611770209031,
+                        "string": "The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.",
+                        "uid": "tbPidcFWz"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611770098879,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611770117141,
+                    "string": "Purpose:",
+                    "uid": "eUGU8quqX"
+                  },
+                  {
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "PR7kFqSpB"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769928465,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611770040260,
+                        "refs": [
+                          {
+                            "uid": "PR7kFqSpB"
+                          }
+                        ],
+                        "string": "Capture assertions as [[fleeting notes]] (atomic ideas, succinct)",
+                        "uid": "urQTO_UfU"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "9iCx4i5l8"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611769992457,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611770045458,
+                        "refs": [
+                          {
+                            "uid": "9iCx4i5l8"
+                          }
+                        ],
+                        "string": "Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)",
+                        "uid": "aPG_WYhWX"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0x08w0lSE"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611770046516,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611770095068,
+                        "refs": [
+                          {
+                            "uid": "0x08w0lSE"
+                          }
+                        ],
+                        "string": "Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. ",
+                        "uid": "VKwQfFxvQ"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N8z0R_eFJ"
+                          },
+                          {
+                            ":block/uid": "tAkBcbbxV"
+                          },
+                          {
+                            ":block/uid": "5P2wx6cjh"
+                          },
+                          {
+                            ":block/uid": "DrUF0rCUt"
+                          }
+                        ],
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "503BjZUJn"
+                              },
+                              {
+                                ":block/uid": "fopdz6Eqe"
+                              }
+                            ],
+                            "create-email": "toner.brandon@gmail.com",
+                            "create-time": 1611770459302,
+                            "edit-email": "toner.brandon@gmail.com",
+                            "edit-time": 1611770472325,
+                            "refs": [
+                              {
+                                "uid": "503BjZUJn"
+                              },
+                              {
+                                "uid": "fopdz6Eqe"
+                              }
+                            ],
+                            "string": "Related:: [[Start from abundance.]]",
+                            "uid": "aXV0wNId5"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611770272132,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611770459120,
+                        "refs": [
+                          {
+                            "uid": "N8z0R_eFJ"
+                          },
+                          {
+                            "uid": "tAkBcbbxV"
+                          },
+                          {
+                            "uid": "5P2wx6cjh"
+                          },
+                          {
+                            "uid": "DrUF0rCUt"
+                          }
+                        ],
+                        "string": "Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].",
+                        "uid": "J9cpUWOOH"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611769971562,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611769976406,
+                    "string": "Process:",
+                    "uid": "nh_gJ1fh2"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611769826046,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611770296077,
+                "refs": [
+                  {
+                    "uid": "rTvBzGtyV"
+                  },
+                  {
+                    "uid": "O6NKTa69_"
+                  }
+                ],
+                "string": "#Scratchpad #zettelkasten",
+                "uid": "JfnNhLc4U"
               }
             ],
             "create-email": "toner.brandon@gmail.com",
             "create-time": 1611723466080,
             "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611758032869,
+            "edit-time": 1611768473032,
             "refs": [
               {
                 "uid": "i5L7Z8P19"
-              },
-              {
-                "uid": "bjQLhCc-Z"
               }
             ],
-            "string": "#[[The Zettelkasten]] #not_populated",
+            "string": "#[[The Zettelkasten]]",
             "uid": "2SJQzjk6-"
           },
           {
@@ -4178,6 +4934,34 @@
                 ],
                 "string": "((MU1CJD-LI))",
                 "uid": "m4OIKHnV8"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "n7BXm7uQM"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611772819476,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611772835846,
+                    "string": "Completely possible, actually pretty easy",
+                    "uid": "t2ap8lpKh"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611772814367,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611772819482,
+                "refs": [
+                  {
+                    "uid": "n7BXm7uQM"
+                  }
+                ],
+                "string": "((n7BXm7uQM))",
+                "uid": "oosoc-JEy"
               }
             ],
             "create-email": "mainmoniker@gmail.com",
@@ -4191,6 +4975,134 @@
             ],
             "string": "#Comments",
             "uid": "gAyR9yY-N"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "YaMqIAJh8"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "OS9zn-KfR"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "8d2Kkx9mW"
+                      }
+                    ],
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "7E6M3b5Ts"
+                          }
+                        ],
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "JzHo6HDiU"
+                              },
+                              {
+                                ":block/uid": "5pU79Snf6"
+                              }
+                            ],
+                            "create-email": "mainmoniker@gmail.com",
+                            "create-time": 1611769239949,
+                            "edit-email": "mainmoniker@gmail.com",
+                            "edit-time": 1611769420460,
+                            "refs": [
+                              {
+                                "uid": "JzHo6HDiU"
+                              },
+                              {
+                                "uid": "5pU79Snf6"
+                              }
+                            ],
+                            "string": "It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for",
+                            "uid": "1u2lDnNWC"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "1NzXjSWfB"
+                              },
+                              {
+                                ":block/uid": "AKLASTlvM"
+                              }
+                            ],
+                            "create-email": "mainmoniker@gmail.com",
+                            "create-time": 1611769864804,
+                            "edit-email": "mainmoniker@gmail.com",
+                            "edit-time": 1611769900108,
+                            "refs": [
+                              {
+                                "uid": "1NzXjSWfB"
+                              },
+                              {
+                                "uid": "AKLASTlvM"
+                              }
+                            ],
+                            "string": "Need to do some further investigation into all the ideas brought but by [[David Bieber]] [here](((1NzXjSWfB)))",
+                            "uid": "pmPeWc5eg"
+                          }
+                        ],
+                        "create-email": "mainmoniker@gmail.com",
+                        "create-time": 1611768990031,
+                        "edit-email": "mainmoniker@gmail.com",
+                        "edit-time": 1611769461058,
+                        "refs": [
+                          {
+                            "uid": "7E6M3b5Ts"
+                          }
+                        ],
+                        "string": "Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.",
+                        "uid": "jMzfRp8cF"
+                      }
+                    ],
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611768976849,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611768978117,
+                    "refs": [
+                      {
+                        "uid": "8d2Kkx9mW"
+                      }
+                    ],
+                    "string": "((8d2Kkx9mW))",
+                    "uid": "tehhSn5uZ"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611768966821,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611768976509,
+                "refs": [
+                  {
+                    "uid": "OS9zn-KfR"
+                  }
+                ],
+                "string": "#[[Daily Writing Prompt]]",
+                "uid": "0nzrG3P17"
+              }
+            ],
+            "create-email": "mainmoniker@gmail.com",
+            "create-time": 1611768962683,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611768966749,
+            "refs": [
+              {
+                "uid": "YaMqIAJh8"
+              }
+            ],
+            "string": "#Promptstorming",
+            "uid": "njfZ8BmIl"
           },
           {
             ":block/refs": [
@@ -4677,6 +5589,22 @@
     "edit-time": 1611719118163,
     "title": "Redirect",
     "uid": "quMHLaZjI"
+  },
+  {
+    "children": [
+      {
+        "create-email": "mainmoniker@gmail.com",
+        "create-time": 1611769984721,
+        "edit-email": "mainmoniker@gmail.com",
+        "edit-time": 1611769984721,
+        "string": "",
+        "uid": "Xpp9QeY2E"
+      }
+    ],
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611769989644,
+    "title": "your_name_here",
+    "uid": "dyFBDr3LG"
   },
   {
     "create-email": "charles.sims.farr@gmail.com",
@@ -6035,24 +6963,18 @@
             ":block/refs": [
               {
                 ":block/uid": "qkQJ02wno"
-              },
-              {
-                ":block/uid": "bjQLhCc-Z"
               }
             ],
             "create-email": "mainmoniker@gmail.com",
             "create-time": 1611753120903,
-            "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611758032869,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611771437416,
             "refs": [
               {
                 "uid": "qkQJ02wno"
-              },
-              {
-                "uid": "bjQLhCc-Z"
               }
             ],
-            "string": "Time Zone:: #not_populated",
+            "string": "Time Zone:: EST",
             "uid": "c7qsrGauo"
           },
           {
@@ -6115,46 +7037,160 @@
                 ":block/uid": "IvrdtTLbw"
               },
               {
-                ":block/uid": "bjQLhCc-Z"
+                ":block/uid": "pIfh2RNgx"
+              },
+              {
+                ":block/uid": "4mGAA7j4G"
+              },
+              {
+                ":block/uid": "sXp5I-ZNf"
+              },
+              {
+                ":block/uid": "ud6n_dxe2"
+              },
+              {
+                ":block/uid": "Serrwl6NX"
               }
             ],
             "create-email": "mainmoniker@gmail.com",
             "create-time": 1611753374759,
-            "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611758032869,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611771762094,
             "refs": [
               {
                 "uid": "IvrdtTLbw"
               },
               {
-                "uid": "bjQLhCc-Z"
+                "uid": "pIfh2RNgx"
+              },
+              {
+                "uid": "4mGAA7j4G"
+              },
+              {
+                "uid": "sXp5I-ZNf"
+              },
+              {
+                "uid": "ud6n_dxe2"
+              },
+              {
+                "uid": "Serrwl6NX"
               }
             ],
-            "string": "Interests::#not_populated",
+            "string": "Interests::[[cooking]] [[architecture]] [[design]] [[metacognition]] comedic [[improvisation]] ",
             "uid": "c3HXHeVa4"
           },
           {
             ":block/refs": [
               {
-                ":block/uid": "bjQLhCc-Z"
+                ":block/uid": "l7Fiygh9G"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "7E6M3b5Ts"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YMMdr5Yd5"
+                      },
+                      {
+                        ":block/uid": "KQkUYX5OF"
+                      },
+                      {
+                        ":block/uid": "86GGMpHF5"
+                      }
+                    ],
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611771890899,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611771906256,
+                    "refs": [
+                      {
+                        "uid": "YMMdr5Yd5"
+                      },
+                      {
+                        "uid": "KQkUYX5OF"
+                      },
+                      {
+                        "uid": "86GGMpHF5"
+                      }
+                    ],
+                    "string": "{{[[query]]: {and: [[@]] [[Matthew Vogel]] {not: [[query]]}}}}",
+                    "uid": "mhMqwr1vE"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611771929582,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611771933113,
+                "refs": [
+                  {
+                    "uid": "7E6M3b5Ts"
+                  }
+                ],
+                "string": "[[notifications]]",
+                "uid": "uQpKPoACe"
               },
               {
-                ":block/uid": "l7Fiygh9G"
+                ":block/refs": [
+                  {
+                    ":block/uid": "K663xHvZz"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1pLEGSLmj"
+                      },
+                      {
+                        ":block/uid": "6zu7U0y7r"
+                      }
+                    ],
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611771789152,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611771808704,
+                    "refs": [
+                      {
+                        "uid": "1pLEGSLmj"
+                      },
+                      {
+                        "uid": "6zu7U0y7r"
+                      }
+                    ],
+                    "string": "{{[[embed]]: ((((6zu7U0y7r))))}}",
+                    "uid": "ng53rB_Z0"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611771938498,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611771946577,
+                "refs": [
+                  {
+                    "uid": "K663xHvZz"
+                  }
+                ],
+                "string": "Misc #datalog queries",
+                "uid": "yOUPVTp-a"
               }
             ],
             "create-email": "mainmoniker@gmail.com",
             "create-time": 1611753374759,
-            "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611758032868,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611771789168,
             "refs": [
-              {
-                "uid": "bjQLhCc-Z"
-              },
               {
                 "uid": "l7Fiygh9G"
               }
             ],
-            "string": "Queries::#not_populated",
+            "string": "Queries::",
             "uid": "zNgCSOXxX"
           },
           {
@@ -6454,22 +7490,22 @@
                 ":block/uid": "bpcjkw-1x"
               },
               {
-                ":block/uid": "LBz0LB1u_"
+                ":block/uid": "1bbITl5EY"
               }
             ],
             "create-email": "toner.brandon@gmail.com",
             "create-time": 1611762982657,
-            "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611763032302,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611771169060,
             "refs": [
               {
                 "uid": "bpcjkw-1x"
               },
               {
-                "uid": "LBz0LB1u_"
+                "uid": "1bbITl5EY"
               }
             ],
-            "string": "Project Status:: [[Status/Active]]",
+            "string": "Project Status:: [[Status/Enabled]]",
             "uid": "o6FEYj1ns"
           },
           {
@@ -6611,6 +7647,24 @@
             ],
             "string": "Tasks:: #not_populated",
             "uid": "apKGiYNM9"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Y04H9ccUw"
+              }
+            ],
+            "create-email": "mainmoniker@gmail.com",
+            "create-time": 1611771315746,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611771361566,
+            "refs": [
+              {
+                "uid": "Y04H9ccUw"
+              }
+            ],
+            "string": "URL:: (Is currently set as private but a public backup could be nice)",
+            "uid": "VIfFSqI_z"
           }
         ],
         "create-email": "toner.brandon@gmail.com",
@@ -6675,5 +7729,481 @@
     "edit-time": 1611763056144,
     "title": "Areas/Roam Collective",
     "uid": "ZF2IN-OVg"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611769953110,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611769953112,
+    "title": "Overview",
+    "uid": "i6kch4wlB"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770227034,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770227065,
+    "title": "collaborative zettelkasten",
+    "uid": "6MWd53iDm"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770246880,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770246883,
+    "title": "convergence",
+    "uid": "XwAM271wF"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "IqVrptT82"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770391918,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770393273,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "IqVrptT82"
+          }
+        ],
+        "string": "Tags:: #Abbreviations",
+        "uid": "zHqaG4LWP"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0x08w0lSE"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770393266,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770397482,
+        "refs": [
+          {
+            "uid": "0x08w0lSE"
+          }
+        ],
+        "string": "[[evergreen notes]]",
+        "uid": "i8NjZQCX2"
+      }
+    ],
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770338953,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770338954,
+    "title": "EN",
+    "uid": "N8z0R_eFJ"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "IqVrptT82"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770349026,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770354627,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "IqVrptT82"
+          }
+        ],
+        "string": "Tags:: #Abbreviations",
+        "uid": "_81wWqtez"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PR7kFqSpB"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770358996,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770368332,
+        "refs": [
+          {
+            "uid": "PR7kFqSpB"
+          }
+        ],
+        "string": "[[fleeting notes]]",
+        "uid": "-UO4D09a5"
+      }
+    ],
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770343843,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770343844,
+    "title": "FN",
+    "uid": "tAkBcbbxV"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "IqVrptT82"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770375096,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770381752,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "IqVrptT82"
+          }
+        ],
+        "string": "Tags:: #Abbreviations",
+        "uid": "xpdDydn64"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "9iCx4i5l8"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770387500,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770391573,
+        "refs": [
+          {
+            "uid": "9iCx4i5l8"
+          }
+        ],
+        "string": "[[literature notes]]",
+        "uid": "qcLT5pUCu"
+      }
+    ],
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770343843,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770343844,
+    "title": "LN",
+    "uid": "5P2wx6cjh"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770447545,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770447549,
+    "title": "creative projects",
+    "uid": "DrUF0rCUt"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "puYWab8Fa"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "khGCfP8qM"
+              },
+              {
+                ":block/uid": "01-27-2021"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611770965177,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611770968844,
+            "refs": [
+              {
+                "uid": "khGCfP8qM"
+              },
+              {
+                "uid": "01-27-2021"
+              }
+            ],
+            "string": "Date Created:: [[January 27th, 2021]]",
+            "uid": "59WaqNRGQ"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "3toHtnjhR"
+              },
+              {
+                ":block/uid": "rUKtZGHJW"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611770987449,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611770994173,
+            "refs": [
+              {
+                "uid": "3toHtnjhR"
+              },
+              {
+                "uid": "rUKtZGHJW"
+              }
+            ],
+            "string": "Author:: [[David Perell]]",
+            "uid": "R-ksEqm7H"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "XZvFbRwQE"
+              },
+              {
+                ":block/uid": "BegIC9Bzs"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611770965177,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611770965177,
+            "refs": [
+              {
+                "uid": "XZvFbRwQE"
+              },
+              {
+                "uid": "BegIC9Bzs"
+              }
+            ],
+            "string": "References:: #not-populated",
+            "uid": "W6GEymApX"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "503BjZUJn"
+              },
+              {
+                ":block/uid": "XZvFbRwQE"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611770965177,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611770965177,
+            "refs": [
+              {
+                "uid": "503BjZUJn"
+              },
+              {
+                "uid": "XZvFbRwQE"
+              }
+            ],
+            "string": "Related:: #not-populated",
+            "uid": "a080eOoYu"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "HPSSk6k0E"
+              },
+              {
+                ":block/uid": "XZvFbRwQE"
+              }
+            ],
+            "create-email": "toner.brandon@gmail.com",
+            "create-time": 1611770965177,
+            "edit-email": "toner.brandon@gmail.com",
+            "edit-time": 1611770965177,
+            "refs": [
+              {
+                "uid": "HPSSk6k0E"
+              },
+              {
+                "uid": "XZvFbRwQE"
+              }
+            ],
+            "string": "Notes:: #not-populated",
+            "uid": "tMneBdqTI"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611770756857,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611770756857,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "puYWab8Fa"
+          }
+        ],
+        "string": "Tags:: #[[Evergreen Notes]]",
+        "uid": "K_zraAY1J"
+      }
+    ],
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770472328,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770472342,
+    "title": "Start from abundance.",
+    "uid": "fopdz6Eqe"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770494542,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770494543,
+    "title": "David Perell",
+    "uid": "3toHtnjhR"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770815061,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770815061,
+    "title": "Creative Projects",
+    "uid": "93-upolUZ"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770815075,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770815076,
+    "title": "not-populated",
+    "uid": "XZvFbRwQE"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770815075,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770815076,
+    "title": "Outline",
+    "uid": "05HrBq3P-"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770815083,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770815084,
+    "title": "Relevant Notes",
+    "uid": "dqVNe0865"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770815091,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770815091,
+    "title": "Sources",
+    "uid": "_Pm2R1Wq0"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770894707,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770894711,
+    "title": "References",
+    "uid": "BegIC9Bzs"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611770978596,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611770978598,
+    "title": "Author",
+    "uid": "rUKtZGHJW"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611771719578,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611771719579,
+    "title": "architecture",
+    "uid": "pIfh2RNgx"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611771756559,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611771756560,
+    "title": "cooking",
+    "uid": "sXp5I-ZNf"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611771756559,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611771756561,
+    "title": "metacognition",
+    "uid": "ud6n_dxe2"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611771756559,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611771756561,
+    "title": "improvisation",
+    "uid": "Serrwl6NX"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611771946579,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611771946580,
+    "title": "datalog",
+    "uid": "K663xHvZz"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          }
+        ],
+        "create-email": "toner.brandon@gmail.com",
+        "create-time": 1611772048203,
+        "edit-email": "toner.brandon@gmail.com",
+        "edit-time": 1611772051451,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          }
+        ],
+        "string": "Tags:: ",
+        "uid": "bbRvNphbA"
+      }
+    ],
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611772045773,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611772045775,
+    "title": "complex page names",
+    "uid": "k3mSojzr9"
   }
 ]

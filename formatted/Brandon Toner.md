@@ -25,6 +25,8 @@
 - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)`
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
