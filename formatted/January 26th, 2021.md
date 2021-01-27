@@ -1,0 +1,181 @@
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - Riffing while in transit...
+            - how do you capture notes from live sessions? How do you document them? How should they be processed?
+            - critical communication patterns to address
+                - synchronous versus asynchronous
+                - targeted versus broad
+                - Individual versus group versus graph
+                - collaborative versus instructive
+            - memorializing synchronous communication to allow for broader asynchronous distribution
+            - identity within the graph
+                - more important at scale / in distributed
+            - forced cross-pollination
+            - templates activities for different purposes
+                - exploration
+                - divergent discussion
+                - Convergence
+                - generative knowledge
+            - how can you leverage serendipity through tools and processes to seed divergent thinking? How can you leverage it to drive towards convergence?
+            - is it possible to combine serendipity (through surfacing random information) with spaced repetition (surfacing targeted information)?
+                - how can SRS be used to support an individual goals versus group goals?
+            - foundations of knowledge
+                - References
+                - Notes
+                - Summaries
+                - Assertions / Claims
+                - Confirmations / Rejections
+            - is there a better mythology for the component parts of a knowledge graph than the components of a Zettelkasten?
+                - how does the goal of a graph determine this?
+                - with Zettelkasten rooted in academia, are there different "schemas" that better correspond with other industries and purposes?
+                - what about the language of database design? How about the language used by mentats in dune?
+            - how can you optimize the graph for simple searching? Roam at its core does this, but how can you develop some sort of schema that makes it trivial for even new users to find information...
+            - potential [artifacts](<artifacts.md>) for Roam Games
+                - set of schemas or mythologies
+                    - including tags and what they are designed for
+                    - Examples of how they can be used
+                    - Examples of how they can be adapted
+                    - Associated CSS to add to the visual language
+                - roam templates and smart blocks to make it very easy to implement in practice
+                    - place holders would go a long way to speeding adoption
+                - a standardized set of queries that essentially serve as an automatic dashboard for the content
+                    - a self-accruing table of contents enabling rapid plumbing of depths
+                    - could we build some JavaScript smart blocks to help visualize key nodes?
+                        - where are the gatekeeper nodes?
+                - at a more basic level, perhaps a set of primitives (focused on meta data) that allow for all of this. This would be the started template...
+                - 23:08 — adding a few more
+                    - 
+            - are there visual design principle associated with knowledge representation that could be used?
+            - how does a graph and collective roaming facilitate sensemaking? How are facts identified and decided upon?
+            - what do jam sessions look like? How do you identify key questions for all to pursue? How do you identify when to shift from divergent thinking to convergent thinking?
+            - is there a way to trace the development of an idea?
+            - is there a place for more polished writing in the graph? Content → notes → collections → __posts/summaries/microblogs__
+                - these posts would be viewed as lasting community contributions. They could be written individually or as a group. They should reference the other parts of the graph heavily. Would love to see not only a summary of an idea, but also a story of how it came together.
+            - are there styles of writing that should be emulated within the graph?
+                - inductive versus deductive arguments
+                - for instance, using the pyramid principle for building arguments (easily rolled up to higher levels)
+        - [Clubhouse](<Clubhouse.md>) "Working with Roam"
+            - **[Participants](<Participants.md>):** [Jason Griffing](<Jason Griffing.md>), [Beau Hann](<Beau Hann.md>), [Adam Bartley](<Adam Bartley.md>), [David Bieber](<David Bieber.md>), [Norman Chella](<Norman Chella.md>), [Lindsey Johnston](<Lindsey Johnston.md>), [Brandon Toner](<Brandon Toner.md>), [Kyle Stratis](<Kyle Stratis.md>)
+            - [Kyle Stratis](<Kyle Stratis.md>)
+                - touches on "[seeding](<seeding.md>) graphs" with knowledge modules
+            - [David Bieber](<David Bieber.md>)
+                - Difficult to share his raw Roam Graph
+                - Tends to turn content into a linear post
+        - 
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone))
+        - [Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))
+            - I would love to be able to jump into the graph and see something like...
+                - ### This is what happened yesterday [January 26th, 2021](<January 26th, 2021.md>) in the graph
+                    - [Brandon Toner](<Brandon Toner.md>) wrote 1400 words
+                    - [Charles Farr](<Charles Farr.md>) wrote 1300 words
+                    - [Eneko Uruñuela](<Eneko Uruñuela.md>) added his first blocks
+                    - Top new references
+                        - X
+                        - Y
+                        - Z
+                    - Top old references
+                        - X
+                        - Y
+                        - Z
+                    - Most referenced blocks
+                        - X
+                        - Y
+                        - Z
+                    - Ongoing chats
+                        - X
+                        - Y
+                        - Z
+        - [Q](<Q.md>) Is there a way to standardize the color format to indicate specific types of tags (e.g., meta vs personal vs administrative etc...)?
+    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond))
+        - [Q](<Q.md>) What types of [communication](<communication.md>) does a collective framework need to be able to handle?
+            - "synchronous versus asynchronous"
+            - "targeted versus broad"
+            - "Individual versus group versus graph"
+            - "collaborative versus instructive"
+        - [Q](<Q.md>) How do you memorialize [synchronous](<synchronous.md>) conversation to allow for broader [asynchronous](<asynchronous.md>) communication?
+        - [Q](<Q.md>) What processes would benefit from [templates](<templates.md>) / [algorithms](<algorithms.md>)?
+            - Graph exploration
+            - Divergent brainstorming
+            - Convergent alignment
+            - Summarizing resource / meeting / <event>
+            - **[Fleeting Notes](<Fleeting Notes.md>):** The team algorithm of thought is used quite often in the Roam community, but it seems less accessible to a broader market. Is there a more approachable phrasing that strips away the [jargon](<jargon.md>)-iness from the term?
+        - [Q](<Q.md>) How can a community leverage [serendipity](<serendipity.md>) (and serendipity [generators](<generators.md>)) to seed [divergent](<divergent.md>) thinking? How can these tools be used to drive towards [convergent](<convergent.md>) thought?
+        - [Q](<Q.md>) [spaced repetition](<spaced repetition.md>) can be invaluable to an individual — are there similar use cases for communities?
+            - To be clear, [spaced repetition](<spaced repetition.md>) is very valuable to members in a community, and a community can encourage its members to implement spaced repetition. But is there a way in which space repetition can be used at the community level to drive towards an objective?
+        - [Q](<Q.md>) A [zettelkasten](<zettelkasten.md>) / [slipbox](<slipbox.md>) is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))
+            - [Q](<Q.md>) How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?
+        - [Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))
+            - What is the core set of primitives that can be combined into any higher-order knowledge represenation?
+            - [Comment](<Comment.md>) This question is really more of a #[Follow Up](<Follow Up.md>), as I have a feeling this is a question as old as time and many smarter than I have pondered the question...
+        - [Q](<Q.md>) Roam makes the knowledge graph infinitely more accessible, putting what was previously stored in your brain or disparate notes into a unified location — however, a Roam graph can still be incredibly difficult to navigate. Are there specific "views" or UIs that can help the uninitiated explore a graph / understand a concept? [*](((J3RHoNJDa)))
+            - Gets at the point [David Bieber](<David Bieber.md>) raised during "[Clubhouse](<Clubhouse.md>) "Working with Roam"", i.e., it is "Difficult to share his raw Roam Graph"
+            - [Q](<Q.md>) Are there design principles associated with display of knowledge that we could leverage to build effective artifacts? [*](((nXHqG3MVb)))
+        - [Q](<Q.md>) Does added transparency around ideas and their foundations and development strengthen a community? [*](((E7WnIh2V1)))
+            - Does it improve the quality of the knowledge representation?
+            - Does it impact community participation and relationships?
+        - [Q](<Q.md>) Should a graph stipulate stylistic approaches to writing? If so, in what contexts? [*](((KKSDDfhmZ)))
+            -  For example, in consulting there is a strong emphasis on using [The Pyramid Principle](<The Pyramid Principle.md>) pioneered by Barbara Minto at McKinsey
+                - Funnily enough, writing using the principle resembles the trees in Roam
+                - Goal was to write in a way that an argument that could easily be broken into its components. The components could then be reused. Also allowed for easier flattening.
+                - Another important element was taking an [inductive](<inductive.md>) approach — essentially showing the answer up front and then digging into the details where necessary
+                    - As opposed to a [deductive](<deductive.md>) approach, which slowly builds knowledge by stacking details until arriving at the final answer
+                        - Most problems are solved deductively, but there are benefits to presenting a solution inductively
+                - #[Follow Up](<Follow Up.md>) on the [The Pyramid Principle](<The Pyramid Principle.md>)
+        - [Q](<Q.md>) How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
+    - [Comments](<Comments.md>)
+        - "I've landed on " [Brandon Toner](<Brandon Toner.md>)
+            - Developing the question a bit more...
+                - "[Q](<Q.md>) A [zettelkasten](<zettelkasten.md>) / [slipbox](<slipbox.md>) is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))"
+                    - "[Q](<Q.md>) How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?"
+    - #[Change Log](<Change Log.md>)
+        - Added a second tag for questions — `[Q](<Q.md>)`
+            - Goal is to use the `[Q](<Q.md>)` tag at the **block level**, which will enable graph users to query individual questions
+            - Expands the function of both the `#[Open Questions](<Open Questions.md>)` and `[Questions](<Questions.md>)` tags
+            - Envision being able to use it with [SmartBlocks](<SmartBlocks.md>) and [queries](<queries.md>)
+        - Added new CSS from Maggie Delano to clean up queries
+            - Here: "Query Display Options"
+                - `[minimal](<minimal.md>)` — hides breadcrumbs and page reference
+                - `[min-con](<min-con.md>)` — hides the breadcrumbs in a query
+                - `[min-title](<min-title.md>)` — hides the page references
+                - `[min-q](<min-q.md>)` — hides query header
+                - `[page-focus](<page-focus.md>)` — focuses on pages
+        - Added a `#[Follow Up](<Follow Up.md>)` tag to identify areas that I would like to return to...
+            - See query aggregating these follow ups here
+            - [@](<@.md>)[Brandon Toner](<Brandon Toner.md>) do you have a tag already created that you use similarly? If so, we should merge them... 
+    - [Chat](<Chat.md>)
+        - "Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>)"
+            - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>)
+            - One tricky approach I've used myself is to create a block like...
+                - **Key Questions**
+                    - <Insert Question Here>
+                - Then in the ".Daily Template (universal) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates" smartblock, add an `{{embed: ((yO46x9t2h))}}`
+                - So long as you don't touch the top level bullet, you can move blocks in and out of it
+                - Relies on people block referencing the block in question though, because you don't want them to write inside of the block necessarily...
+                    - **this is a downfall**
+            - Another approach could be to use a tag e.g., `[DailyMessage](<DailyMessage.md>)`, and a <%BLOCKMENTIONS:1,`DailyMessage`%>
+                - This would require you to manually change the block associated with the daily message, as ideally you would only want one block associated with the tag at a given time
+        - "Added a [Resources Template](((gix1P4auD))) cc: [~](<~.md>)[Charles Farr](<Charles Farr.md>)"
+            - Looks good! Similar to how you have the `For descriptions of the other "DNP Modules", visit this page → [DNP Modules](<DNP Modules.md>)`, could be worthwhile to include a  list of additional characteristics users can input...
+                - Haven't thought about any to add right now but I think the included instructions is a really nice touch
+        - "[~](<~.md>)[Charles Farr](<Charles Farr.md>) — Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>) as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [Roam Book Club](<Roam Book Club.md>) and other communities. "
+            - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>) 👌🏼— I think this is a great goal
+                - Have been thinking in my head about having a "quiz" (using indentation and  block references) that would help a community identify which elements could be useful for their purposes...
+                    - For instance...
+                        - What is your intent...
+                            - To learn
+                            - To build a new repository of knowledge
+                            - To ...
+                    - And based on the answer users might be advised on parts they can adapt or "seed" their own graphs with ([Kyle Stratis](<Kyle Stratis.md>) the team seed is fantastic by the way...)
+        - "Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): ((eS1df-Egf))"
+            - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>) almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more
+                - One benefit of this approach is getting a bunch of fresh ideas right at the start of a member's participation, hopefully, without any of our current ideas biasing them towards what they think [multiplayer](<multiplayer.md>) Roam looks like...
+        - "Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)"
+            - It's working thus far! I like this as well as the unseen references feature
+                - The `@` is great when your **explicitly** trying to get someone's attention, rather than just building on a block...
+                - I will note that using the compound @ like `[@[[Charles Farr](<@[[Charles Farr.md>)]]` gives you a bit more control when filtering
+                    - Filtering for `@` & `Charles Farr` gives me all of the above blocks...
+
+# Backlinks
+## [January 26th, 2021](<January 26th, 2021.md>)
+- ### This is what happened yesterday [January 26th, 2021](<January 26th, 2021.md>)
+

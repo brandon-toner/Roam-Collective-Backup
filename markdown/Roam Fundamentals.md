@@ -1,0 +1,7 @@
+- The Fundamentals of Roam, as described in a tweet by [[Andy Henson]]:
+    - There's only 5 fundamentals you need to learn Roam effectively (in this order):
+        - 1. Get used to writing on the [Daily Notes pages]([[Daily Notes Page]])
+        - 2. Get used to [[atomic thinking]] in blocks - one thought per block
+        - 3. [Indentation]([[indentation]])
+        - 4. [Page References]([[page references]])/Tags
+        - 5. [Block References]([[block references]])

@@ -1,0 +1,10 @@
+- About me::
+    - Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)
+    - Website:: Not yet because I can't stop tweaking it long enough to actually get it up
+    - Location:: [[New York City]] [[United States]]
+    - Time Zone:: #not_populated
+    - Work:: [[Architect]] [[Designer]]
+    - How to contact me:: Either twitter or the [[Roam Slack]] works 
+    - Interests::#not_populated
+    - Queries::#not_populated
+    - SmartBlocks::#not_populated

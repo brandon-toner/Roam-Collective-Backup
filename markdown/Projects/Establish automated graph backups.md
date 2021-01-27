@@ -1,0 +1,14 @@
+- Tags:: #Projects #backup #[[Roam-Collective]]
+    - Date Created:: [[January 27th, 2021]]
+    - Related:: #[[not_populated]]
+    - People:: 
+        - [[Eneko Uruñuela]]
+        - [[Matthew Vogel]]
+    - Areas:: [[Areas/Roam Collective]]
+    - Project Status:: [[Status/Active]]
+    - Due Date:: #[[not_populated]] #Housekeeping
+    - Reminders:: #[[not_populated]] 
+    - Date Completed:: #[[Status/Not Completed]]
+    - Notes::
+        - See discussion on [[Slack]]
+    - Tasks:: #not_populated

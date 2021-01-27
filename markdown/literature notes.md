@@ -1,0 +1,2 @@
+- Tags:: #Glossary #zettelkasten
+- Related:: [[fleeting notes]], [[evergreen notes]]

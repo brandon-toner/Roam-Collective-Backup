@@ -1,0 +1,100 @@
+- :hiccup [:hr]
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #Scratchpad
+        - #Observations
+            - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
+                - #[[Open Questions]] How could we preserve the chat integrity as the blocks they reference change?
+        - #[[Open Questions]]
+            - How could we build a convention for "waiting for reply"? 
+                - i.e. you tag someone in a chat and it is still unread.
+                - May need a From:Brandon type page to include in a query
+                    - e.g. `[[From[[Brandon Toner]]]]` AND `[[@]]` 
+                        - Don't love it yet, but it might be on the right track. Feels like a lot of work? Maybe not though. I'd rather the "from" information be implied by it's place in the graph... i.e. nested under your DNP section under Comments might work. 
+            - How do we improve [[Chat]] conventions so that we avoid the "[shouting as you run by](((R9BCN_mmu)))" feeling? 
+        - I'd like to come up with some topic tags...
+            - Collaboration
+            - Chat
+            - Project Management
+            - Multiplayer
+            - ... There is a lot of overlap in terms. Having some set topic tags could help us to compile information by category - improving the ease of review.
+            - I can even see this extending into other niche topics like:
+                - Roam Medical
+                - Writing
+                - And other interest subjects...
+            - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
+        - [[Projects/Establish automated graph backups]]
+    - #Administration #not_populated
+        - #[[Change Log]] 
+            - Adjusted not-populated to not_populated based on [[Matthew Vogel]]'s suggestion.
+        - #[[Next Steps]]
+            - {{[[TODO]]}} Set up reminder to backup graph daily.
+                - SmartBlocks?
+    - #[[The Zettelkasten]] #not_populated
+    - #Promptstorming
+        - "Explore your vision for the future of collaboration in Roam."
+            - Effortless communication among many users.
+                - "200,000 people in the group chat" without it being total chaos.
+            - Ability to host multiple conversations, multiple groups, etc in the same space.
+                - Filtering content to hone the experience and focus.
+    - Notifications Inbox
+        - {{[[query]]: {and: [[@[[Brandon Toner]]]]}}}
+    - #Comments 
+        - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+            - Yup, this is a great idea! 
+            - I added the [[roam/js/tag-cycle]] page such that "CTRL+SHIFT+C HASH" removes the not-populated tag as well -- another option.
+            - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]
+        - "Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [[~]][[Brandon Toner]]"
+            - Check out the #Chat page for some conventions. 
+            - I'll leave some breadcrumbs on the conventions page as well.
+        - "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[[query]]: {and: [[@]] [[Mark Robertson]]}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [[~]][[Brandon Toner]]"
+            - Yea, I noticed this the other day as well...
+            - If we made complex pages like [[@[[Mark Robertson]]]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags
+        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]"
+            - Is this captured by this tip? [[@[[Mark Robertson]]]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."
+        - "There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]"
+            - Yup, I feel this as a [tension]([[Tensions]]) as well...
+                - I this "Questions" is more a training thing. Asking for clarity, process, or convention.
+                - While #[[[[Feedback]]: [[Suggestions]]]] are suggestions for improvement.
+                - Either way works well in the short term, but I think more mutually exclusive distinctions would be helpful for clarity and consolidation. [[@[[Mark Robertson]]]]
+            - 
+        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]"
+            - Ou, yea that's an important difference for sync. 
+            - I'll adjust the wording to suggest zooming.
+        - "That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [[~]][[Brandon Toner]]"
+            - That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [[@[[Mark Robertson]]]]
+        - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
+            - This "shouting while running by" description is great. I feel that.
+            - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
+    - #Feedback 
+        - #[[[[Feedback]]: What could be better]]
+            - Chat conventions feel a bit messy confusing. #Conventions
+                - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
+                - Block references feel like the right way to go. 
+                - I think I prefer `[[@[[Brandon Toner]]]]` for sake of queries.
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+    - #Questions ((about the graph, or directed towards someone)) 
+        - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
+    - #Comments
+        - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
+            - whoops will do in the future!
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not_populated
+        - [[@]][[Mark Robertson]] testing
+    - #Questions ((about the graph, or directed towards someone)) 
+        - Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [[~]][[Brandon Toner]]
+            - That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [[~]][[Brandon Toner]]
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+        - And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]
+        - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]
+            - You maybe right with your comment here: "Is this captured by this tip? [[@[[Mark Robertson]]]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."" . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [[~]][[Brandon Toner]]
+        - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[[query]]: {and: [[@]] [[Mark Robertson]]}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [[~]][[Brandon Toner]]
+            - Re: "If we made complex pages like [[@[[Mark Robertson]]]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [[@]][[Mark Robertson]]
+        - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+- 
