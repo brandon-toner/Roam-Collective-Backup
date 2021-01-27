@@ -1,35 +1,40 @@
-name: "Roam Research backup"
+name: "Roam Research Backup"
 
 on:
   push:
     branches:
       - master
   schedule:
-    -   cron: "0 * * * *"
+    -   cron: "15 10 * * *"  # At minute 5 past every 8th hour.
 
 jobs:
   backup:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     name: Backup
     timeout-minutes: 15
     steps:
       -   uses: actions/checkout@v2
-      -   name: Set up Python 3.8
+      -   name: Setup Python 3.8
           uses: actions/setup-python@v1
           with:
             python-version: 3.8
 
-      -   name: Setup dependencies
+      -   name: Setup Dependencies
           run: |
-            pip install git+https://github.com/MatthieuBizien/roam-to-git.git
+            brew install borkdude/brew/jet
+            pip install git+https://github.com/adithyabsk/roam-to-git.git@master
       -   name: Run backup
-          run: roam-to-git --skip-git .
+          run: |
+            roam-to-git --skip-git -f json markdown formatted edn -- .
           env:
             ROAMRESEARCH_USER: ${{ secrets.ROAMRESEARCH_USER }}
             ROAMRESEARCH_PASSWORD: ${{ secrets.ROAMRESEARCH_PASSWORD }}
             ROAMRESEARCH_DATABASE: ${{ secrets.ROAMRESEARCH_DATABASE }}
 
-      -   name: Commit changes
-          uses: elstudio/actions-js-build/commit@v3
+      -   name: Commit Changes
+          uses: stefanzweifel/git-auto-commit-action@v4
           with:
-            commitMessage: Automated snapshot
+            commit_message: Automated snapshot
+            commit_user_name: GitHub Actions
+            commit_user_email: actions@github.com
+            commit_author: GitHub Actions <actions@github.com>
