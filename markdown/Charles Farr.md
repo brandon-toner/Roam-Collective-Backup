@@ -1,0 +1,7 @@
+- Personal Questions
+    - Questions
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Questions]] [[Q]] {not: {or: }}  }}}
+    - Open Questions
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Open Questions]] [[Q]] {not: {or: }}  }}}
+- Follow Ups
+    - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}

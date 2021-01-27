@@ -1,14 +1,16 @@
 - About me::
     - Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)
     - Website:: Not yet because I can't stop tweaking it long enough to actually get it up
-    - Location:: [[New York City]] [[United States]]
-    - Time Zone:: EST
+    - Location:: [[Brooklyn]] [[New York City]] [[United States]]
+    - Time Zone:: EST [UTC−05:00]
     - Work:: [[Architect]] [[Designer]]
     - How to contact me:: Either twitter or the [[Roam Slack]] works 
     - Interests::[[cooking]] [[architecture]] [[design]] [[metacognition]] comedic [[improvisation]] 
     - Queries::
         - [[notifications]]
             - {{[[query]]: {and: [[@]] [[Matthew Vogel]] {not: [[query]]}}}}
-        - Misc #datalog queries
+        - Misc useful #datalog #queries
             - {{[[embed]]: ((((6zu7U0y7r))))}}
+        - People near me!
+            - {{[[query]]: {and: [[Location]] {or: [[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]] }}}}
     - SmartBlocks::#not_populated

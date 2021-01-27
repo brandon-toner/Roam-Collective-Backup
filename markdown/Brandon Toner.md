@@ -7,3 +7,5 @@
         - Send me a DM on Roam Slack (preferred)
         - Send me a DM on Twitter (also great)
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
+    - Queries::
+        - {{[[query]]: {and: [[@[[Brandon Toner]]]]}}}

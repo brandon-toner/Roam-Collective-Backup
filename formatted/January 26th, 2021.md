@@ -1,3 +1,140 @@
+- {{embed: ((b9pQnEURN))}}
+- #[Daily Writing Prompts](<Daily Writing Prompts.md>) 
+    - "What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?"
+- #[Daily Log Book](<Daily Log Book.md>)
+    - 10:00 — 11:00 played around a bit. [Brandon Toner](<Brandon Toner.md>)
+        -  {{[embed](<embed.md>): ((mbcPwYoAX))}}
+    - Made a few minor additions as I worked through open questions. [Charles Farr](<Charles Farr.md>)
+        - {{embed: ((DJkpCjWNY))}}
+- #[The Main Feed](<The Main Feed.md>)
+    - **Questions:**
+        - {{[query](<query.md>): {and: [January 26th, 2021](<January 26th, 2021.md>) [Questions](<Questions.md>)}}}
+    - {{[embed](<embed.md>): ((uXSkzmCUC))}}
+    - Add your name to the "contributors" section of the project if you are interested in working on [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]]. {{[embed](<embed.md>): ((IrBm1tWBA))}}
+- 
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - 09:52 — Loving [Kahlil Corazo](<Kahlil Corazo.md>)'s idea for his upcoming [rBook](<rBook.md>)! 
+            - Such a great demonstration of the type of thing I'd love to see come out of these [Roam Games](<Roam Games.md>).
+            - Driving creativity. Pushing for publishing something finishing and "complete". 
+            - Interestingly enough, he posted his [table of contents](<table of contents.md>) for the project which is quite in line with [today's writing prompt](((kLMNagtp9))).
+                - I'm not sure by looking at it whether Kahlil intends to write it for the __individual__ or the __team__. But either way his work should help to inform some options and best practices for [[[project management](<[[project management.md>) in Roam]].
+        - [Tips](<Tips.md>)
+            - If while writing in a section like the Scratchpad, and the content feels relevant to another section, you can use that section tag within context to make sure what you're writing is captured in that linked reference section. — i.e. if you ended up addressing a prompt in your Scratchpad, you could tag on a Promptstorming tag to ensure that it was captured there as well.
+            - Be cautious of referencing a reference; the "[double reference](<double reference.md>)".
+                - Most risky in the Daily Writing Prompt, you want to make sure that you are referencing the block where you WANT your commentary to be placed.
+                - Rather than referencing the block that is SHOWCASING the [DWP](<DWP.md>)... reference the prompt itself. 
+                - This can be done by 
+                    - copying the block ref ID from the block where it is referenced
+                    - following it back to it's original place and copying it from there
+                    - referencing the reference and then "[replace with text](<replace with text.md>)"
+            - You can filter any of the main [DNP Modules](<DNP Modules.md>) by your name! (or anyone else's) — This is SUPER powerful for being able to narrow down information. As data builds, [the ability to effectively filter]([filtering](<filtering.md>)) becomes both more important and more interesting.
+                - **[Example](<Example.md>):** Akiff's Next Steps
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F4BF8PfKzR9.png?alt=media&token=1c07dbe2-83f6-495f-99dd-0aa8dba3b2f0)
+            - Play around with [collapsing](<collapsing.md>) to simplify your view of the [DNP](<DNP.md>). I often collapse my section, or the sections of others to give me a change in perspective.
+                - I believe that collapse-status is user-specific. So you don't interfere with how others see the graph. (Is this correct? [Questions](<Questions.md>))
+        - 10:00 — Another source of inspiration for [[[project management](<[[project management.md>) in Roam]] might be [Nat Eliason](<Nat Eliason.md>)'s course. I recall there was a section on project management, albeit quite simple. [*](((616RDJ9d2)))
+        - 10:07 — **You can colour outside the lines.**
+            - While the templates and conventions used in this graph are relatively structured — they are "encouraged but optional"
+            - It's important to think about WHY the structure exists. Why conventions? Why conform to similar templates?
+                - The shared page naming, tag-using, and nesting conventions all help to COMPILE data in a predictable way. We want our ideas to blend together. To collect in the same places if similar, so that we can observe patterns, and draw common elements. 
+                - This helps to synthesize and create new content on the shoulders of the work of others. I see this as the key strength of collaboration within a shared graph! 
+                - I related it to the concept of [idea sex](<idea sex.md>) from [Anne-Laure Le Cunff](<Anne-Laure Le Cunff.md>) of [Ness Labs](<Ness Labs.md>). [Link](https://nesslabs.com/inspiration-to-idea-sex)
+            - But... That doesn't mean the conventions should be __suffocating__! 
+            - #[Fleeting Notes](<Fleeting Notes.md>) [It is ok to colour outside of the lines.](<It is ok to colour outside of the lines..md>)
+                - Some conventions are more important than others. If you just:
+                    - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
+                        - **[Example](<Example.md>):** This is a perfect example from [Akiff Premjee](<Akiff Premjee.md>)! He picked up on the key parts of the structure right away, used the scratchpad as the main part of his writing, and added other [DNP Modules](<DNP Modules.md>) (Next Steps) to capture information under those sections. __*chef's kiss*__
+                            - {{[embed](<embed.md>): ((YLOA8RfwF))}}
+                    - Plus, the [editors]([graph editors](<graph editors.md>)) can always sprinkle some tags and block references in there to foster some connections. 
+                        - #[Fleeting Notes](<Fleeting Notes.md>) [Start writing, and worry about optimizing structure later.](<Start writing, and worry about optimizing structure later..md>)
+        - [Questions](<Questions.md>) If I [filter](<filter.md>)-out some page links from a page (e.g. hiding "not-populated"), does that filter it out for everyone or just me?
+        - #[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
+            - My goal would be to put blocks that I want input or commentary on in a commonly reviewed place (like Announcements) so that it increases the probability of being seen. 
+            - Maybe another tag that gets pinned to the top? The `[Mainstage](<Mainstage.md>)` or "requests for input" maybe? 
+            - Using `[Highlights](<Highlights.md>)` is a possibility! 
+                - **[Example](<Example.md>):** "Added first project! [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]] [Highlights](<Highlights.md>)"
+        - 10:49 — Creating a first project! [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]]
+        - **["Goals](<"Goals.md>):** ((See block references for additional ideas.))"
+            - To build a community that can help people learn how to use Roam by observing how others use Roam. 
+    - [Resources](<Resources.md>)
+        - [RoamLab](<RoamLab.md>) by [Kyle Stratis](<Kyle Stratis.md>) — [link](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
+        - [Joel Chan](<Joel Chan.md>)'s work on [knowledge synthesis](<knowledge synthesis.md>) [synthesis](<synthesis.md>)
+            - [Oasis Lab paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+            - [Roam Tour](<Roam Tour.md>) with [Robert Haisfield](<Robert Haisfield.md>) — [link](https://www.youtube.com/watch?v=JoCjpTXCklw)
+        - [David Bieber](<David Bieber.md>) on [notifications](<notifications.md>) — [link](https://davidbieber.com/snippets/2021-01-25-notifications-in-roam-research/)
+        - [Kahlil Corazo](<Kahlil Corazo.md>)'s work on [project management](<project management.md>) — [link](((gi9lVXkEs)))
+        - [Beau Hann](<Beau Hann.md>) on [zettelkasten](<zettelkasten.md>)
+            - [Roam Tour](<Roam Tour.md>) with [Robert Haisfield](<Robert Haisfield.md>) — [link](https://www.youtube.com/watch?v=KoddCmn3eL0)
+        - [Andy Henson](<Andy Henson.md>)'s [Roam Fundamentals](<Roam Fundamentals.md>)
+        - [Andy Matuschak](<Andy Matuschak.md>)'s "Andy's Working Notes"
+    - #[Open Questions](<Open Questions.md>)
+        - How to import highlights and take [literature notes](<literature notes.md>) in [Roam-Collective](<Roam-Collective.md>)?
+            - [x] Build "resource" template... for articles/books/twitter threads etc. 
+                - Based on [Readwise](<Readwise.md>) template.
+                - "Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
+        - How to use Roam for school and learning?
+            - Spaced repetition
+    - #[Help Wanted](<Help Wanted.md>)
+        - Extracting highlights, and literature notes from any of the `[Resources](<Resources.md>)`. Using the [Resources Template](((gix1P4auD)))
+        - Sharing your [feedback](<feedback.md>)! 
+        - Reflecting on any of the Prompts — check out the [Daily Writing Prompts](<Daily Writing Prompts.md>), and follow your nose to whatever catches your inspiration.
+    - [Administration](<Administration.md>) 
+        - #[Change Log](<Change Log.md>)
+            - Added [Date Planner](<Date Planner.md>)
+            - Added [roam/templates](<roam/templates.md>)
+            - Added a [Projects template](Projects Template)
+            - Added some [Project Statuses]([Project Status](<Project Status.md>))
+            - Added first project! [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]] [Highlights](<Highlights.md>)
+            - Added a [Resources Template](((gix1P4auD))) cc: [~](<~.md>)[Charles Farr](<Charles Farr.md>)
+                - This allows the structured input of external knowledge — books, articles, etc. With a spot for corresponding [literature notes](<literature notes.md>). [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>)
+        - #[Next Steps](<Next Steps.md>)
+            - [ ] Adjust the [roam/css](<roam/css.md>) for `[@](<@.md>)` and `[~](<~.md>)` to make them prettier
+                - Maybe just remove the borders?
+            - [x] Make the tags grey (how to I change that in [roam/css](<roam/css.md>))? 
+        - [Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax.
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>)
+        - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
+            - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.
+                - #[Next Steps](<Next Steps.md>)
+                    - [ ] Add [Date Planner](<Date Planner.md>) framework from personal graph
+                    - [ ] Add project template
+        - "What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?"
+            - The importance of shared conventions
+            - The double-edged sword of conventions (there is a balance)
+            - Chat & notifications
+            - Building ideas: a collective zettelkasten
+            - Using external tools to support the graph ([Clubhouse](<Clubhouse.md>), [Zoom](<Zoom.md>), [Slack](<Slack.md>))
+            - [[[project management](<[[project management.md>) in Roam]]
+            - Using SmartBlocks & templates to facilitate structure and effortlessly drive conventions
+    - [Chat](<Chat.md>)
+        - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
+            - "#[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+    - [Comments](<Comments.md>)
+        - In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>) perhaps. I consider making a page link a step in [zettelkasten](<zettelkasten.md>) maturity.
+            - A NEXT step would be to add some content to those pages, maybe add the [evergreen notes](<evergreen notes.md>) template to it to complete the metamorphosis.
+        - **["Contributors](<"Contributors.md>):** #[Help Wanted](<Help Wanted.md>)"
+            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... [Ideas](<Ideas.md>)
+        - "Riffing while in transit..." [Charles Farr](<Charles Farr.md>)
+            - Love this! Great use of the Scratchpad.
+            - "foundations of knowledge"
+                - This is interesting...
+            - "is there a better mythology for the component parts of a knowledge graph than the components of a Zettelkasten?"
+                - I've landed on 
+                    - fleeting notes
+                        - Not a fan of this term — in my usage, they are quite refined still. Nothing is truly fleeting in Roam.
+                    - literature notes
+                        - I almost like this term — but it feels too limited to "literature" — read material. 
+                        - "Content" notes or similar feels better?
+                        - I currently use it out of common convention.
+                    - evergreen notes
+                        - I like this term. It's nice. 
+            - "potential [artifacts](<artifacts.md>) for Roam Games"
+                - Great 
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>)[Eneko Uruñuela](<Eneko Uruñuela.md>) {{word-count}}
+    - Still reading the docs. I hope I get to play around and be helpful.
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Riffing while in transit...
@@ -158,15 +295,15 @@
             - Looks good! Similar to how you have the `For descriptions of the other "DNP Modules", visit this page → [DNP Modules](<DNP Modules.md>)`, could be worthwhile to include a  list of additional characteristics users can input...
                 - Haven't thought about any to add right now but I think the included instructions is a really nice touch
         - "[~](<~.md>)[Charles Farr](<Charles Farr.md>) — Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>) as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [Roam Book Club](<Roam Book Club.md>) and other communities. "
-            - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>) 👌🏼— I think this is a great goal
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] 👌🏼— I think this is a great goal
                 - Have been thinking in my head about having a "quiz" (using indentation and  block references) that would help a community identify which elements could be useful for their purposes...
-                    - For instance...
+                    - For instance... 
                         - What is your intent...
                             - To learn
                             - To build a new repository of knowledge
                             - To ...
                     - And based on the answer users might be advised on parts they can adapt or "seed" their own graphs with ([Kyle Stratis](<Kyle Stratis.md>) the team seed is fantastic by the way...)
-        - "Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): ((eS1df-Egf))"
+        - "Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): "Block ref the sections to add your ideas around mission, vision, purpose, goals, etc.""
             - [@](<@.md>) [Brandon Toner](<Brandon Toner.md>) almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more
                 - One benefit of this approach is getting a bunch of fresh ideas right at the start of a member's participation, hopefully, without any of our current ideas biasing them towards what they think [multiplayer](<multiplayer.md>) Roam looks like...
         - "Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)"
@@ -177,5 +314,13 @@
 
 # Backlinks
 ## [January 26th, 2021](<January 26th, 2021.md>)
+- {{[query](<query.md>): {and: [January 26th, 2021](<January 26th, 2021.md>)
+
 - ### This is what happened yesterday [January 26th, 2021](<January 26th, 2021.md>)
+
+## [Kyle Stratis](<Kyle Stratis.md>)
+- ~~The site isn't up yet.~~ Goal is to have it up [January 26th, 2021](<January 26th, 2021.md>)
+
+## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
+- **[Date Created](<Date Created.md>):** [January 26th, 2021](<January 26th, 2021.md>)
 

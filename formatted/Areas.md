@@ -7,3 +7,7 @@
 - [Matthew Vogel](<Matthew Vogel.md>)
     - **[Areas](<Areas.md>):**
 
+## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
+- 
+    - **[Areas](<Areas.md>):**
+

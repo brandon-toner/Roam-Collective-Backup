@@ -1,9 +1,24 @@
+- {{embed: ((b9pQnEURN))}}
 - [Announcements](<Announcements.md>)
     - Change in [convention]([Conventions](<Conventions.md>))! [Chat](<Chat.md>)
         - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>))
-- :hiccup [:hr]
-- 
-- :hiccup [:hr]
+        - Can now "**save**" a notification by changing to a `^` "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+- ---
+- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+    - "Explore your vision for the future of collaboration in Roam."
+    - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+- #[The Main Feed](<The Main Feed.md>)
+    - {{[embed](<embed.md>): ((JfnNhLc4U))}}
+- #[Daily Log Book](<Daily Log Book.md>)
+    - 11:49 - Discussion about chat conventions 
+    - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+    - 12:30 - EDN, JSON, and Markdown [backup](<backup.md>) is up and running with ownership being transferred to [Brandon Toner](<Brandon Toner.md>) #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+    - 14:13 - Did some work on the [zettelkasten](<zettelkasten.md>) workflow. I quite like it.
+        - {{[embed](<embed.md>): ((bEsJXYWZs))}}
+        - #[Help Wanted](<Help Wanted.md>) 
+            - Would love some feedback on this.
+                - Tag feedback with `[Feedback](<Feedback.md>)` and `[zettelkasten](<zettelkasten.md>)` with block references to the context.
+- ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
         - [Tips](<Tips.md>)
@@ -38,7 +53,7 @@
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
         - #[Change Log](<Change Log.md>) 
             - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'s suggestion.
-            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td)))
+            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
                 - **[Related](<Related.md>):** {{[embed](<embed.md>): ((JfnNhLc4U))}}
         - #[Next Steps](<Next Steps.md>)
             - [ ] Set up reminder to backup graph daily.
@@ -48,6 +63,7 @@
                     - Images:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
+            - [ ] Complete the [GitHub](<GitHub.md>) transfer #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph](<collaborative graph.md>).
             - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>) to make use of. 
@@ -57,10 +73,10 @@
         - #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>) for unread notifications is important for any system of communication in a [collaborative graph](<collaborative graph.md>) [chat](<chat.md>)
         - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
             - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
-                - Fleeting Notes -[contribute to]> Projects
-                - Fleeting Notes -[contribute to]> Evergreen Notes
-                - Literature Notes -[contribute to]> Projects
-                - Literature Notes -[contribute to]> Evergreen Notes
+                - Fleeting Notes **-[contribute to]>** Creative Projects
+                - Fleeting Notes **-[contribute to]>** Evergreen Notes
+                - Literature Notes **-[contribute to]>** Creative Projects
+                - Literature Notes **-[contribute to]>** Evergreen Notes
             - Purpose:
                 - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
                     - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph](<collaborative graph.md>).
@@ -70,6 +86,17 @@
                 - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
                     - **[Related](<Related.md>):** [Start from abundance.](<Start from abundance..md>)
+                - #[Next Steps](<Next Steps.md>) 
+                    - [ ] Clarify this zettelkasten workflow further... with images and a longer write-up.
+                -  [Chat](<Chat.md>)
+                    - [@[[Charles Farr](<@[[Charles Farr.md>)]], [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
+        - #[Fleeting Notes](<Fleeting Notes.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+            - Block reference the FN into your Comments module, then nest comments underneath.
+                - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
+                    - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [@[[Charles Farr](<@[[Charles Farr.md>)]]
+        - [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any [fleeting notes](<fleeting notes.md>) to promote effective [convergence](<convergence.md>). [zettelkasten](<zettelkasten.md>)
+        - [Ideas](<Ideas.md>) A Roam highlighter extension might be a good way to bring highlights from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>)  
     - [Promptstorming](<Promptstorming.md>)
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -77,7 +104,6 @@
             - Ability to host multiple conversations, multiple groups, etc in the same space.
                 - Filtering content to hone the experience and focus.
     - Notifications Inbox
-        - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]]}}}
     - [Comments](<Comments.md>) 
         - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
             - Yup, this is a great idea! 
@@ -106,6 +132,11 @@
             - This "shouting while running by" description is great. I feel that.
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
     - [Feedback](<Feedback.md>) 
+        - #[[[Feedback](<[[Feedback.md>): What's working]]
+            - Loving the (()) symbol for hiding instructions within templates. 
+                - **[Example](<Example.md>):**
+                    - {{embed: ((qONZuXh3Y))}}
+            - Liking the idea of the `#[Help Wanted](<Help Wanted.md>)` tag -- this could be great for teamwork.
         - #[[[Feedback](<[[Feedback.md>): What could be better]]
             - Chat conventions feel a bit messy confusing. [Conventions](<Conventions.md>)
                 - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
@@ -119,17 +150,20 @@
     - [Comments](<Comments.md>)
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)"
             - whoops will do in the future!
-        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))"
-            - Completely possible, actually pretty easy
+        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" [Ideas](<Ideas.md>)
+            - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
+        - "[Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax."
+            - [@](<@.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
+            - ---
     - [Promptstorming](<Promptstorming.md>)
-        - #[Daily Writing Prompt](<Daily Writing Prompt.md>)
+        - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
             - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [notifications](<notifications.md>) of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [queries](<queries.md>) that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [Roam API](<Roam API.md>) for
                     - Need to do some further investigation into all the ideas brought but by [David Bieber](<David Bieber.md>) [here](((1NzXjSWfB)))
-    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
+    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) 
+        - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not_populated](<not_populated.md>)
         - [@](<@.md>)[Mark Robertson](<Mark Robertson.md>) testing
@@ -145,7 +179,14 @@
             - Re: "If we made complex pages like [@[[Mark Robertson](<@[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [@](<@.md>)[Mark Robertson](<Mark Robertson.md>)
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-- 
+- #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
+    - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
+    - [Comments](<Comments.md>)
+        - partially in response to: "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+            - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
+            - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
+            - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start
+    - 
 
 # Backlinks
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)

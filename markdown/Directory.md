@@ -1,0 +1,21 @@
+- Members::
+    - [[Akiff Premjee]]
+    - [[Brandon Toner]]
+    - [[Charles Farr]]
+    - [[Eneko Uruñuela]]
+    - [[Kyle Stratis]]
+    - [[Lindsey Johnston]]
+    - [[Marc Koenig]]
+    - [[Mark Robertson]]
+    - [[Mellisa Waltzer]]
+    - [[Tyler Wince]]
+    - [[Wiel Zouantcha]]
+    - [[Winston Teng]]
+    - [[Reddy2Go]]
+    - [[Deepu Asok]]
+    - [[Michael Shulman]]
+    - [[Andy Henson]]
+    - [[Matthew Vogel]]
+- Queries::
+    - :q [:find ?members
+ :where [?b :user/display-name ?members]]

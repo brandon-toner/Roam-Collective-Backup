@@ -1,0 +1,3 @@
+- Might be nice to add some queries here? Maybe an index of active projects?
+- Active Projects
+    - {{[[query]]: {and: [[Projects]] [[Status/Active]] {not: [[query]]]}}}}

@@ -1,9 +1,24 @@
+- {{embed: ((b9pQnEURN))}}
 - #Announcements
     - Change in [convention]([[Conventions]])! [[Chat]]
         - From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]])
-- :hiccup [:hr]
-- 
-- :hiccup [:hr]
+        - Can now "**save**" a notification by changing to a `^` "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+- ---
+- #[[Daily Writing Prompts]]
+    - "Explore your vision for the future of collaboration in Roam."
+    - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+- #[[The Main Feed]]
+    - {{[[embed]]: ((JfnNhLc4U))}}
+- #[[Daily Log Book]]
+    - 11:49 - Discussion about chat conventions 
+    - 11:54 - [[Matthew Vogel]] and [[Eneko Uruñuela]] are looking into [[backup]] solutions #[[Projects/Establish automated graph backups]]
+    - 12:30 - EDN, JSON, and Markdown [[backup]] is up and running with ownership being transferred to [[Brandon Toner]] #[[Projects/Establish automated graph backups]]
+    - 14:13 - Did some work on the [[zettelkasten]] workflow. I quite like it.
+        - {{[[embed]]: ((bEsJXYWZs))}}
+        - #[[Help Wanted]] 
+            - Would love some feedback on this.
+                - Tag feedback with `#Feedback` and `#zettelkasten` with block references to the context.
+- ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #Scratchpad
         - #Tips
@@ -38,7 +53,7 @@
     - #Administration #not_populated
         - #[[Change Log]] 
             - Adjusted not-populated to not_populated based on [[Matthew Vogel]]'s suggestion.
-            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td)))
+            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) #zettelkasten
                 - Related:: {{[[embed]]: ((JfnNhLc4U))}}
         - #[[Next Steps]]
             - {{[[TODO]]}} Set up reminder to backup graph daily.
@@ -48,6 +63,7 @@
                     - Images:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
+            - {{[[TODO]]}} Complete the [[GitHub]] transfer #[[Projects/Establish automated graph backups]]
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].
             - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
@@ -57,10 +73,10 @@
         - #[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [[collaborative graph]] #chat
         - #Scratchpad #zettelkasten
             - [[zettelkasten]] #Processes #Overview
-                - Fleeting Notes -[contribute to]> Projects
-                - Fleeting Notes -[contribute to]> Evergreen Notes
-                - Literature Notes -[contribute to]> Projects
-                - Literature Notes -[contribute to]> Evergreen Notes
+                - Fleeting Notes **-[contribute to]>** Creative Projects
+                - Fleeting Notes **-[contribute to]>** Evergreen Notes
+                - Literature Notes **-[contribute to]>** Creative Projects
+                - Literature Notes **-[contribute to]>** Evergreen Notes
             - Purpose:
                 - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
                     - #[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [[collaborative graph]].
@@ -70,6 +86,17 @@
                 - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
                     - Related:: [[Start from abundance.]]
+                - #[[Next Steps]] 
+                    - {{[[TODO]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
+                -  #Chat
+                    - [[@[[Charles Farr]]]], [[@[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
+        - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
+        - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
+            - Block reference the FN into your Comments module, then nest comments underneath.
+                - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
+                    - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[@[[Charles Farr]]]]
+        - #Conventions relevant [[tags]] should be appended to any [[fleeting notes]] to promote effective [[convergence]]. #zettelkasten
+        - #Ideas A Roam highlighter extension might be a good way to bring highlights from articles into the graph #zettelkasten #resources  
     - #Promptstorming
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -77,7 +104,6 @@
             - Ability to host multiple conversations, multiple groups, etc in the same space.
                 - Filtering content to hone the experience and focus.
     - Notifications Inbox
-        - {{[[query]]: {and: [[@[[Brandon Toner]]]]}}}
     - #Comments 
         - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
             - Yup, this is a great idea! 
@@ -106,6 +132,11 @@
             - This "shouting while running by" description is great. I feel that.
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
     - #Feedback 
+        - #[[[[Feedback]]: What's working]]
+            - Loving the (()) symbol for hiding instructions within templates. 
+                - Example::
+                    - {{embed: ((qONZuXh3Y))}}
+            - Liking the idea of the `#[[Help Wanted]]` tag -- this could be great for teamwork.
         - #[[[[Feedback]]: What could be better]]
             - Chat conventions feel a bit messy confusing. #Conventions
                 - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
@@ -119,17 +150,20 @@
     - #Comments
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
             - whoops will do in the future!
-        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))"
-            - Completely possible, actually pretty easy
+        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" #Ideas
+            - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
+        - "#Questions How do I make a [[horizontal line]]? I know there is a way with hiccup, but I can't recall the syntax."
+            - [[@]][[Brandon Toner]] Why do you want to use hiccup? use `---`
+            - ---
     - #Promptstorming
-        - #[[Daily Writing Prompt]]
+        - #[[Daily Writing Prompts]]
             - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for
                     - Need to do some further investigation into all the ideas brought but by [[David Bieber]] [here](((1NzXjSWfB)))
-    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) 
+        - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
-    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not_populated
         - [[@]][[Mark Robertson]] testing
@@ -145,4 +179,11 @@
             - Re: "If we made complex pages like [[@[[Mark Robertson]]]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [[@]][[Mark Robertson]]
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
-- 
+- #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
+    - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
+    - #Comments
+        - partially in response to: "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+            - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
+            - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
+            - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start
+    - 
