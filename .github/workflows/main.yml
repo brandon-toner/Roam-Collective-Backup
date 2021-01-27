@@ -3,7 +3,7 @@ name: "Roam Research Backup"
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     -   cron: "5 */3 * * *"  # At minute 5 past every 3rd hour.
 
