@@ -206,8 +206,8 @@
                         [6 :version/id "0.7.8" 536870914]
                         [6
                          :version/nonce
-                         "uuid38cc9248-a5bd-483c-857a-c7d5e9f512bc"
-                         536879759]
+                         "uuid7bc5f16f-8192-48fd-9a11-dcb99ad84e85"
+                         536879811]
                         [7 :block/open true 536870915]
                         [7 :block/order 12 536870915]
                         [7 :block/page 4 536870917]
@@ -1692,6 +1692,7 @@
                         [122 :block/uid "WPtmfRTtA" 536871134]
                         [122 :edit/seen-by 60 536878505]
                         [122 :edit/seen-by 235 536876740]
+                        [122 :edit/seen-by 1732 536879780]
                         [122
                          :entity/attrs
                          #{[{:source [:block/uid "WPtmfRTtA"],
@@ -12578,6 +12579,7 @@
                          "toner.brandon@gmail.com"
                          536877353]
                         [847 :edit/seen-by 60 536878534]
+                        [847 :edit/seen-by 1732 536879778]
                         [847 :edit/time 1611773455218 536877353]
                         [847
                          :entity/attrs
@@ -12692,6 +12694,7 @@
                          "mainmoniker@gmail.com"
                          536874428]
                         [848 :edit/seen-by 60 536878534]
+                        [848 :edit/seen-by 1732 536879778]
                         [848 :edit/time 1611753114047 536874428]
                         [848
                          :entity/attrs
@@ -13134,6 +13137,7 @@
                          "mainmoniker@gmail.com"
                          536877087]
                         [872 :edit/seen-by 60 536878534]
+                        [872 :edit/seen-by 1732 536879778]
                         [872 :edit/time 1611771789168 536877087]
                         [873 :block/open true 536874559]
                         [873 :block/order 8 536877090]
@@ -18167,9 +18171,11 @@
                         [1181 :block/uid "GPCO_r7H3" 536876734]
                         [1181 :edit/seen-by 60 536878533]
                         [1181 :edit/seen-by 235 536876734]
+                        [1181 :edit/seen-by 1732 536879779]
                         [1182 :block/uid "vxKXH9a0r" 536876734]
                         [1182 :edit/seen-by 60 536878533]
                         [1182 :edit/seen-by 235 536876734]
+                        [1182 :edit/seen-by 1732 536879779]
                         [1182
                          :entity/attrs
                          #{[{:source [:block/uid "vxKXH9a0r"],
@@ -19220,6 +19226,7 @@
                          "mainmoniker@gmail.com"
                          536877053]
                         [1237 :edit/seen-by 60 536878533]
+                        [1237 :edit/seen-by 1732 536879779]
                         [1237 :edit/time 1611771679471 536877060]
                         [1239 :block/uid "pIfh2RNgx" 536877070]
                         [1239
@@ -19294,6 +19301,7 @@
                          "mainmoniker@gmail.com"
                          536877084]
                         [1244 :edit/seen-by 60 536878534]
+                        [1244 :edit/seen-by 1732 536879782]
                         [1244 :edit/time 1611771808704 536877099]
                         [1245 :block/open true 536877103]
                         [1245 :block/order 0 536877118]
@@ -19367,6 +19375,7 @@
                          "mainmoniker@gmail.com"
                          536877121]
                         [1247 :edit/seen-by 60 536878534]
+                        [1247 :edit/seen-by 1732 536879778]
                         [1247 :edit/time 1611773602980 536877436]
                         [1248 :block/uid "K663xHvZz" 536877129]
                         [1248
@@ -22010,6 +22019,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878523]
+                        [1433 :edit/seen-by 1732 536879780]
                         [1433 :edit/time 1611802114263 536878525]
                         [1434 :block/children 1435 536878542]
                         [1434 :block/open true 536878535]
@@ -22028,6 +22038,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878535]
+                        [1434 :edit/seen-by 1732 536879780]
                         [1434 :edit/time 1611802270801 536878541]
                         [1435 :block/open true 536878538]
                         [1435 :block/order 0 536878542]
@@ -22051,6 +22062,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878538]
+                        [1435 :edit/seen-by 1732 536879780]
                         [1435 :edit/time 1611802276562 536878547]
                         [1436 :block/uid "EMBh2kOoB" 536878555]
                         [1436
@@ -26723,4 +26735,70 @@
                          "toner.brandon@gmail.com"
                          536879736]
                         [1730 :edit/time 1611809363795 536879736]
-                        [1730 :node/title "Tweet Threads" 536879736]]}
+                        [1730 :node/title "Tweet Threads" 536879736]
+                        [1732 :block/uid "dz11paMyY" 536879762]
+                        [1732
+                         :user/email
+                         "wadedominic93@gmail.com"
+                         536879762]
+                        [1732
+                         :user/settings
+                         {:namespace-options [:none :partial :full],
+                          :right-sidebar-pinned {}}
+                         536879783]
+                        [1732
+                         :user/uid
+                         "qn4qilHBwEb2vvDadhljgooKo2l1"
+                         536879762]
+                        [1734 :block/children 1735 536879766]
+                        [1734 :block/children 1740 536879808]
+                        [1734 :block/uid "nI1cMZ0dt" 536879765]
+                        [1734
+                         :create/email
+                         "wadedominic93@gmail.com"
+                         536879765]
+                        [1734 :create/time 1611823631667 536879765]
+                        [1734
+                         :edit/email
+                         "wadedominic93@gmail.com"
+                         536879765]
+                        [1734 :edit/time 1611823631668 536879765]
+                        [1734 :node/title "Wade Dominic" 536879765]
+                        [1735 :block/open true 536879766]
+                        [1735 :block/order 0 536879766]
+                        [1735 :block/page 1734 536879767]
+                        [1735 :block/parents 1734 536879767]
+                        [1735
+                         :block/string
+                         ":q [:find (count ?members)\n:where [?e :user/display-name ?members]]"
+                         536879800]
+                        [1735 :block/uid "Bdzy8Ct8u" 536879766]
+                        [1735
+                         :create/email
+                         "wadedominic93@gmail.com"
+                         536879766]
+                        [1735 :create/time 1611823633091 536879766]
+                        [1735
+                         :edit/email
+                         "wadedominic93@gmail.com"
+                         536879766]
+                        [1735 :edit/time 1611823814241 536879800]
+                        [1740 :block/open true 536879808]
+                        [1740 :block/order 1 536879808]
+                        [1740 :block/page 1734 536879808]
+                        [1740 :block/parents 1734 536879808]
+                        [1740
+                         :block/string
+                         ":q [:find  ?members\n:where [?e :user/display-name ?members]]"
+                         536879811]
+                        [1740 :block/uid "yZFY-pmpf" 536879808]
+                        [1740
+                         :create/email
+                         "wadedominic93@gmail.com"
+                         536879808]
+                        [1740 :create/time 1611824028599 536879808]
+                        [1740
+                         :edit/email
+                         "wadedominic93@gmail.com"
+                         536879808]
+                        [1740 :edit/time 1611824050130 536879811]]}
