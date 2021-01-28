@@ -1,6 +1,6 @@
 - 
 - #[[The Main Feed]]
-    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in "#[[The Zettelkasten]]"
+    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in ((2SJQzjk6-))
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
@@ -12,33 +12,42 @@
         - #[[Roam Enhancement Requests]]
             - Addition of OR operators to the page and reference [[filtering]].
                 - Currently, it is limited to AND and NOT.
-        - ""And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]""
-            - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
-    - #Resources
-        - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
+        - #Resources
+            - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
     - #Administration #not_populated
         - #[[Change Log]] #not_populated
         - #[[Next Steps]] 
             - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[TODO]]}} Add some [[literature notes]]
-                - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
+                - **Suggestion:** ((88h-N8xL9))
     - #[[The Zettelkasten]] #not_populated
+    - #Resources
+        - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
     - #Promptstorming #not_populated
-    - #Comments
-        - "[[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
+    - #Comments 
+        - "[[~[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
             - Absolutely! 
                 - My suggestion would be #Experiments & to make a note that you made that addition under the #[[Change Log]]
                     - .... That being said... there are a TON of tags and pages missing right now, so we should hold off until things restore appropriately. 
 
 I may have to upload the backup.
-    - #Feedback  #not_populated
+        - "Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?"
+            - I'll draw something out on this to further clarify, but in this expression [[fleeting notes]] are NOT based on the literature, and [[literature notes]] are based on some source material. #zettelkasten #Processes #Conventions #[[Follow Up]] [[^[[Brandon Toner]]]]
+                - Both could contribute to the development of [[evergreen notes]], being listed under `References` on the [[EN]] note page. (OPTIONAL)
+                    - As indicated [here](((dhqC2IN0s))) in the template
+                - Both could ALSO contribute to [[creative projects]]. Any notes within the [[zettelkasten]] can be used to support ideas within a creative project. (OPTIONAL)
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
     - #Scratchpad #not_populated
     - #Chat
         - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
-            - Seems like it's missing a step where [[literature notes]] inform/strengthen [[Fleeting Notes]] or would that happen at the [[creative projects]] phase?
+            - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
         - [[@[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
+            - [[@[[leekeifon]]]] Sounds like you're talking about [Personas](((-vJfNui_K))), have you taken a look at Persona styled tags to label those inner voices? [Antar](((bO-o1wmpp))) looks to be doing something similar
+                - {{[[embed]]: ((EZzT3MAmv))}}
+                - Could be interesting to use those together to inform external communication
+    - #Resources
+        - [Antar Mobile app](https://play.google.com/store/apps/details?id=com.satya.antar&hl=en_US&gl=US): Chat with your inner personas, Reflection
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
         - The concept “space” is hard to define in the context of Roam collaboration, as mentioned [here](((bIl7_WLyg))). But, the **correct public Roam collaboration space** should...
@@ -54,10 +63,21 @@ I may have to upload the backup.
             - Roam reputation system
                 - This is the actual measurable reward for those members who’re producing knowledge and controlling their output complexity so that other people could find and understand his/her contents easily.
                 - Soft rewards are better than restriction(?maybe) on encouraging Roamans to control the complexity of their contents when publishing.
+        - {{[[embed]]: ((yFC7BCyMf))}}
     - #[[Chat]]
-        - [[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?
+        - [[~[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?
             - For example, I may want to add a tag like `#experiment` for the sake of easy query.
-        - [[@[[Matthew Vogel]]]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ...
+        - [[~[[Matthew Vogel]]]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ...
             - One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves(i.e. Antar, an Android app) and outside world.
                 - **reason** why I wanna combine inner selves chat and outside world chat as one single model is that, ...
-                    - it’s achievable, as we could think of ‘I’ in different time as different person, then, the question change into async 
+                    - we could model **‘I’ in different time as different person**, then, the question is then transformed into **async communication with outside world**.
+                    - also, take the Android app, Antar, as an example, it mainly focus on **commutation between different modes of ones own**, e.g. angry me, calm me, etc.
+                    - this model maybe [[Related]] to [[spaced repetition]].
+- #[[Quick Capture]]
+    - #Replication https://twitter.com/paulnovosad/status/1354803866710142979?s=09
+
+
+- #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
+    - #Comments
+        - ((R9BCN_mmu))
+            - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]

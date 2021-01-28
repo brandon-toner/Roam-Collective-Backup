@@ -1,2 +1,0 @@
-- Follow Ups
-    - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
