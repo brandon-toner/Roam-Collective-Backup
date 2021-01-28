@@ -1,0 +1,7 @@
+- Tags:: #Glossary #zettelkasten
+- Related::
+    - [[reference notes]]
+    - [[fleeting notes]]
+    - [[literature notes]]
+    - [[evergreen notes]]
+- For the collection of reference notes, visit: #[[Reference Notes]]

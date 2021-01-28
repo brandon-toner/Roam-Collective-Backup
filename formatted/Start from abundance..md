@@ -11,3 +11,7 @@
 
 - **[Related](<Related.md>):** [Start from abundance.](<Start from abundance..md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)[Start from abundance.](<Start from abundance..md>)
+
+- [Start from abundance.](<Start from abundance..md>)
+

@@ -5,7 +5,7 @@
         - [Eneko Uruñuela](<../Eneko Uruñuela.md>)
         - [Matthew Vogel](<../Matthew Vogel.md>)
     - **[Areas](<../Areas.md>):** [Areas/Roam Collective](<../Areas/Roam Collective.md>)
-    - **[Project Status](<../Project Status.md>):** [Status/Enabled](<../Status/Enabled.md>)
+    - **[Project Status](<../Project Status.md>):** [Status/Completed](<../Status/Completed.md>)
     - **[Due Date](<../Due Date.md>):** #[not_populated](<../not_populated.md>) [Housekeeping](<../Housekeeping.md>)
     - **[Reminders](<../Reminders.md>):** #[not_populated](<../not_populated.md>) 
     - **[Date Completed](<../Date Completed.md>):** [January 27th, 2021](<../January 27th, 2021.md>)

@@ -65,10 +65,20 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
             - [ ] Complete the [GitHub](<GitHub.md>) transfer #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>)) power. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) and tags are key to compiling group discussion on a given idea
+        - #[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) [tensions](<tensions.md>) could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. [collaboration](<collaboration.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) Adding the `[Chat](<Chat.md>)` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [commentary](<commentary.md>) on.
+        - #[Fleeting Notes](<Fleeting Notes.md>) The [DNP Modules](<DNP Modules.md>) tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) [convergence](<convergence.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph](<collaborative graph.md>).
             - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>) to make use of. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph](<collaborative graph.md>) is both critical and difficult.
+            - #[Open Questions](<Open Questions.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>) community? 
+            - #[Open Questions](<Open Questions.md>) What [conventions](<conventions.md>) are helpful to [converge](<converge.md>) group thinking towards intentional outputs? [convergence](<convergence.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). 
             - Shared purpose and objectives align efforts towards a common goal.
+            - When there is a shared sense of direction... you can build structures ([conventions](<conventions.md>)) that bias towards the achievement of those goals.
         - #[Fleeting Notes](<Fleeting Notes.md>) Clear processes are important within a [collaborative graph](<collaborative graph.md>) to maintain clarity and [order](<order.md>).
         - #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>) for unread notifications is important for any system of communication in a [collaborative graph](<collaborative graph.md>) [chat](<chat.md>)
         - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
@@ -96,7 +106,58 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [@[[Charles Farr](<@[[Charles Farr.md>)]]
         - [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any [fleeting notes](<fleeting notes.md>) to promote effective [convergence](<convergence.md>). [zettelkasten](<zettelkasten.md>)
-        - [Ideas](<Ideas.md>) A Roam highlighter extension might be a good way to bring highlights from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>)  
+        - [Ideas](<Ideas.md>) A [Roam highlighter](<Roam highlighter.md>) extension might be a good way to bring [highlights](<highlights.md>) from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>) #[reference notes](<reference notes.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. ((Izp3AV6M_)) #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+        - Fleeting Notes from [[[Roam Book Club](<[[Roam Book Club.md>) II]] imported (in same format and on the same theme!)
+            - #[Fleeting Notes](<Fleeting Notes.md>) custom [CSS](<CSS.md>) is a helpful tool for encouraging user alignment with important [conventions](<conventions.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[enhancement request](<enhancement request.md>) [Highlight](<Highlight.md>)
+                - **[IssueType](<IssueType.md>):** #[enhancement request](<enhancement request.md>)
+                - [Chat](<Chat.md>) [Chinarut](<Chinarut.md>) invite ya to tag enhancement requests [support](<support.md>) and make a few of them todos!
+            - #[Fleeting Notes](<Fleeting Notes.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).[*](((3oGNZLyip)))
+            - #[Fleeting Notes](<Fleeting Notes.md>)[Start from abundance.](<Start from abundance..md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) `[not-populated](<not-populated.md>)` tags can be used to filter out empty attributes [conventions](<conventions.md>)
+                - This reduces the amount of noise on a page and improves the [signal-to-noise ratio](<signal-to-noise ratio.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>)).
+                - ((_sY7e8FNg)) #[Live Session 2](<Live Session 2.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>) to [noise](<noise.md>) by promoting [clarity](<clarity.md>) and [order](<order.md>). [*](((io7qOh0kA)))
+            - #[Fleeting Notes](<Fleeting Notes.md>) The writing context affects the style and structure of expression.
+            - #[Fleeting Notes](<Fleeting Notes.md>) The [meta](<meta.md>) fades when the system is clear. #[The Main Feed](<The Main Feed.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) few ideas are truly [permanent](<permanent.md>) #[permanent notes](<permanent notes.md>)
+                - For this reason I am [hesitant](<hesitant.md>) to use the term.
+                - [evergreen notes](<evergreen notes.md>) feels softer, less certain — more approachable maybe.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [inline code-blocks](<inline code-blocks.md>) can be used as an alternative formatting option.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [inline code-blocks](<inline code-blocks.md>) can be used to "deactivate" a tag, preventing it from appearing in queries or references.
+                - This is. helpful when demonstrating the **use of a tag** when you don't want to muddy up the references.
+            - #[Fleeting Notes](<Fleeting Notes.md>)[literature notes](<literature notes.md>) should be [atomic](<atomic.md>) and [concise](<concise.md>) in nature. Only one idea or concept per literature note. [zettelkasten](<zettelkasten.md>) [*](((7nHVatWGu)))
+            - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) far outnumber [literature notes](<literature notes.md>) and [permanent notes](<permanent notes.md>) in quantity. It take an accumulation of [fleeting notes](<fleeting notes.md>) before more mature and original ideas take form.
+                - The [evergreen notes](<evergreen notes.md>) [metaphor](<metaphor.md>) works better here. 
+                    - [seedlings](<seedlings.md>) are the base-ideas. The "seeds" of more mature thought. These accumulate and grow connections until they can mature into [evergreen notes](<evergreen notes.md>).
+            - #[Fleeting Notes](<Fleeting Notes.md>) when beginning a [zettelkasten](<zettelkasten.md>), it may take weeks or months before [permanent notes](<permanent notes.md>) start to accumulate.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [context preservation](<context preservation.md>) empowers connected thought.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [context preservation](<context preservation.md>) improves [memory](<memory.md>) and idea [recall](<recall.md>).
+                - "#[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant."
+            - #[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant.
+            - #[Fleeting Notes](<Fleeting Notes.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
+                - [Start from abundance.](<Start from abundance..md>) — [David Perell](<David Perell.md>)
+        - My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)
+            - [consume](<consume.md>) & [engage](<engage.md>): (read, watch, listen, converse, reflect)
+            - As content resonates with me, I save them as [reference notes](<reference notes.md>) (capturing [context](<context.md>) — [bibliographical notes](<bibliographical notes.md>), [highlights](<highlights.md>), and [quotes](<quotes.md>)) [capture](<capture.md>)
+            - As my wanderings inspire thoughts and ideas, I save those ideas as [fleeting notes](<fleeting notes.md>).
+                - These are statements written inline with my notes. [fleeting notes](<fleeting notes.md>) are **the first tier of notes worth documenting** in my [interpretation](<interpretation.md>).
+                - I keep the `originals` of these notes in a designated place. I keep a copy of the reference [inline](<inline.md>) to preserve the context of where the note originated. 
+                    - **[Example](<Example.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>))."
+                - [supporting information](<supporting information.md>) is nested underneath the original block. As a block reference if necessary to preserve context of the related idea.
+                    - These are [context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s [interpretation](<interpretation.md>)
+                - [tags](<tags.md>) may be added inline at the end of the note or nested underneath to aid in [connection](<connection.md>) and [resurfacing](<resurfacing.md>).
+                - When adding new [fleeting notes](<fleeting notes.md>) to my [zettelkasten](<zettelkasten.md>), if they feel relevant to several different areas of the zettelkasten, I will create a [reference](<reference.md>) to nest it underneath the other related note(s). 
+                    - More commonly, I just create them in context and rely on references for convergence and patterns.
+            - For content that I consider worth summarizing (the author makes great points that I would love to reference later in my own writing/ideas) — I form `[Literature](<Literature.md>) Notes` #[literature notes](<literature notes.md>)
+                - These are core concept summaries. They are **the author's ideas** phrased **in my own words**. They should be [concise](<concise.md>) and [atomic](<atomic.md>) in nature. **Only one idea or concept per literature note**.
+            - As both [fleeting notes](<fleeting notes.md>) and [literature notes](<literature notes.md>) accumulate, [patterns](<patterns.md>) emerge and my [opinions](<opinions.md>) embolden. When it feels like I can form a [permanent note]([permanent notes](<permanent notes.md>)) on the subject, I create one.
+            - As [project ideas](<project ideas.md>) arise through different stages of the workflow, I add them to a section of my [zettelkasten](<zettelkasten.md>) called `[Project Ideas](<Project Ideas.md>)`.
+                - Over time, I link ideas that may be related to the project by referencing them as a [nested block](<nested block.md>).
+                - Once a clear outline has formed, or enough [content](<content.md>) exists to easily begin [writing](<writing.md>), **I complete the project and the cycle continues**. 🎉🥂 
+                    - "#[Fleeting Notes](<Fleeting Notes.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)"
     - [Promptstorming](<Promptstorming.md>)
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -137,6 +198,13 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`"
             - `---` is WAY better. Using that now.
             - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+        - **["URL](<"URL.md>):** (Is currently set as private but a public backup could be nice)"
+            - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] Public would be better for sure — easy to do? Private is certainly fine for now. 
+        - "#[Fleeting Notes](<Fleeting Notes.md>) [inline code-blocks](<inline code-blocks.md>) can be used to "deactivate" a tag, preventing it from appearing in queries or references."
+            - Fascinating to see this idea documented in [[[Roam Book Club](<[[Roam Book Club.md>) II]] — I forgot I thought of it over there first.
+        - "My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)"
+            - This is a decent summary. Not too outdated. System has been quite stable. 
+            - 
     - [Feedback](<Feedback.md>) 
         - #[[[Feedback](<[[Feedback.md>): What's working]]
             - Loving the (()) symbol for hiding instructions within templates. 

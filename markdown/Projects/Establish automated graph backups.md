@@ -5,7 +5,7 @@
         - [[Eneko Uruñuela]]
         - [[Matthew Vogel]]
     - Areas:: [[Areas/Roam Collective]]
-    - Project Status:: [[Status/Enabled]]
+    - Project Status:: [[Status/Completed]]
     - Due Date:: #[[not_populated]] #Housekeeping
     - Reminders:: #[[not_populated]] 
     - Date Completed:: [[January 27th, 2021]]
