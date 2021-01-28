@@ -12,6 +12,9 @@
 
 - As content resonates with me, I save them as [reference notes](<reference notes.md>)
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- [ ] Populate a [reference note]([reference notes](<reference notes.md>))
+
 ## [reference notes](<reference notes.md>)
 - [reference notes](<reference notes.md>)
 

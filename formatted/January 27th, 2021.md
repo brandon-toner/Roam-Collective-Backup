@@ -76,6 +76,15 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph](<collaborative graph.md>) is both critical and difficult.
             - #[Open Questions](<Open Questions.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>) community? 
             - #[Open Questions](<Open Questions.md>) What [conventions](<conventions.md>) are helpful to [converge](<converge.md>) group thinking towards intentional outputs? [convergence](<convergence.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). 
+            - Learning through observation.
+            - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>) affects your own writing habits and [conventions](<conventions.md>).
+                - Shared graphs allow you to LEARN from the way others structure their thoughts
+        - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
+        - #[Project Ideas](<Project Ideas.md>) Perhaps, collectively, we could create a [template](<template.md>) of [conventions](<conventions.md>) that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
+            - This EXACT block was written during the first session in [[[Roam Book Club](<[[Roam Book Club.md>) II]] and describes the [mission](<mission.md>) of this graph well. The product is the [Roam Collaboration Guide](<Roam Collaboration Guide.md>). 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [alignment](<alignment.md>) with community [conventions](<conventions.md>) is key to [leveraging](<leveraging.md>) the scale of community and unlocking the power of the [collective intelligence](<collective intelligence.md>)
+        - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor Sullivan-White](<Conor Sullivan-White.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([conventions](<conventions.md>)) that bias towards the achievement of those goals.
@@ -250,7 +259,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
             - You maybe right with your comment here: "Is this captured by this tip? [@[[Mark Robertson](<@[[Mark Robertson.md>)]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."" . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
         - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
-            - Re: "If we made complex pages like [@[[Mark Robertson](<@[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [@](<@.md>)[Mark Robertson](<Mark Robertson.md>)
+            - Re: "If we made complex pages like [@[[Mark Robertson](<@[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [@[[Mark Robertson](<@[[Mark Robertson.md>)]]
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
@@ -265,8 +274,14 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - With this huge surge of interest in solving the problems that us [Roam](<Roam.md>) users  are facing, I was having a chat with [Bill Petro](<Bill Petro.md>) on [Slack](<Slack.md>) and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring.
         - As an idea towards solving this problem, I really think if there was a push into figuring this out for #[Roam Games](<Roam Games.md>) would be very much possible.
             - My time at the moment is completely slammed with #[Roam Book Club](<Roam Book Club.md>) 3, so obviously can't focus on this, but I figured I'd stir the pot a'bit~ 
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+    - 
+- 
 
 # Backlinks
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>)
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 

@@ -10,5 +10,5 @@
 
 - Added a `#[Follow Up](<Follow Up.md>)`
 
-- [@](<@.md>) [Brandon Toner](<Brandon Toner.md>) almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>)
+- [^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>)
 

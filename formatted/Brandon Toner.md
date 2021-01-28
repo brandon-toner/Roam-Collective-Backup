@@ -18,12 +18,6 @@
 
 - "I've landed on " [Brandon Toner](<Brandon Toner.md>)
 
-- [@](<@.md>)[Brandon Toner](<Brandon Toner.md>)
-
-- [@](<@.md>) [Brandon Toner](<Brandon Toner.md>)
-
-- [@](<@.md>) [Brandon Toner](<Brandon Toner.md>)
-
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)`
 
@@ -68,6 +62,9 @@
 - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
 - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [complex page names](<complex page names.md>)
 - `[Brandon Toner](<Brandon Toner.md>)`

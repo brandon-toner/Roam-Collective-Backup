@@ -141,10 +141,10 @@
                 - `#page-focus` — focuses on pages
         - Added a `#[[Follow Up]]` tag to identify areas that I would like to return to...
             - See query aggregating these follow ups here
-            - [[@]][[Brandon Toner]] do you have a tag already created that you use similarly? If so, we should merge them... 
+            - [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #Chat
         - "Thoughts on this? [[~]][[Charles Farr]]"
-            - [[@]] [[Brandon Toner]]
+            - 
             - One tricky approach I've used myself is to create a block like...
                 - **Key Questions**
                     - <Insert Question Here>
@@ -167,7 +167,7 @@
                             - To ...
                     - And based on the answer users might be advised on parts they can adapt or "seed" their own graphs with ([[Kyle Stratis]] the team seed is fantastic by the way...)
         - "Thoughts on this? [[~]][[Charles Farr]], [[Everyone]]: ((eS1df-Egf))"
-            - [[@]] [[Brandon Toner]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more
+            - [[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more
                 - One benefit of this approach is getting a bunch of fresh ideas right at the start of a member's participation, hopefully, without any of our current ideas biasing them towards what they think [[multiplayer]] Roam looks like...
         - "Thoughts? [[~]] [[Charles Farr]]"
             - It's working thus far! I like this as well as the unseen references feature

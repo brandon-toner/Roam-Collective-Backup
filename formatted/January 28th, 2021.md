@@ -1,0 +1,27 @@
+- 
+- #[The Main Feed](<The Main Feed.md>)
+    - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - Universal tag [conventions](<conventions.md>) from [Robert Haisfield](<Robert Haisfield.md>): `[Ideas](<Ideas.md>), [Plan](<Plan.md>), and #[Open Questions](<Open Questions.md>)`
+            - **[Image](<Image.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FEqMGUb7Ry3.png?alt=media&token=2e6b76d5-8230-4007-8157-5f59b42b69b5)
+            - Of these, [Plan](<Plan.md>) is new to me. 
+                - #[Open Questions](<Open Questions.md>) How could [Robert Haisfield](<Robert Haisfield.md>)'s "Plan" tag be used as a [convention]([conventions](<conventions.md>))? 
+        - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+            - Addition of OR operators to the page and reference [filtering](<filtering.md>).
+                - Currently, it is limited to AND and NOT.
+    - [Resources](<Resources.md>)
+        - This [twitter thread]([Tweet Threads](<Tweet Threads.md>)) from [Kahlil Corazo](<Kahlil Corazo.md>): https://twitter.com/roamfu/status/1354414908327170050?s=21 #[project management](<project management.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])
+    - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
+        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+        - #[Next Steps](<Next Steps.md>) 
+            - [ ] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>)
+                - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
+                - [ ] Add some [literature notes](<literature notes.md>)
+                - **Suggestion:** "[Joel Chan](<Joel Chan.md>)'s work on [knowledge synthesis](<knowledge synthesis.md>) [synthesis](<synthesis.md>)"
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
