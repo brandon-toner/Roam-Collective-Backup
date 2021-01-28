@@ -14,8 +14,3 @@
     - I started using [Roam](<Roam.md>) in [February 2020](<February 2020.md>)
         - Other tools I'd have a hard time living without, or that there aren't good substitutes for: [DEVONthink](<DEVONthink.md>) [Amazing Marvin](<Amazing Marvin.md>) [Liquid Text](<Liquid Text.md>)
     - **[Interests](<Interests.md>):** [tools for thought](<tools for thought.md>) [teamwork](<teamwork.md>) [music](<music.md>) [photography](<photography.md>) [singing](<singing.md>) [reading](<reading.md>) [cars](<cars.md>)
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Michael Shulman](<Michael Shulman.md>)
-

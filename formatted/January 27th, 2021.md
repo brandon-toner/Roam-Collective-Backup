@@ -1,23 +1,12 @@
-- {{embed: ((b9pQnEURN))}}
 - [Announcements](<Announcements.md>)
     - Change in [convention]([Conventions](<Conventions.md>))! [Chat](<Chat.md>)
-        - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>))
+        - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>)) — **note that the CSS box should wrap the name**
         - Can now "**save**" a notification by changing to a `^` "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
+    - {{[embed](<embed.md>): ((XS29OCnVF))}}
 - ---
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
-    - "Explore your vision for the future of collaboration in Roam."
-    - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
 - #[The Main Feed](<The Main Feed.md>)
     - {{[embed](<embed.md>): ((JfnNhLc4U))}}
-- #[Daily Log Book](<Daily Log Book.md>)
-    - 11:49 - Discussion about chat conventions 
-    - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
-    - 12:30 - EDN, JSON, and Markdown [backup](<backup.md>) is up and running with ownership being transferred to [Brandon Toner](<Brandon Toner.md>) #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
-    - 14:13 - Did some work on the [zettelkasten](<zettelkasten.md>) workflow. I quite like it.
-        - {{[embed](<embed.md>): ((bEsJXYWZs))}}
-        - #[Help Wanted](<Help Wanted.md>) 
-            - Would love some feedback on this.
-                - Tag feedback with `[Feedback](<Feedback.md>)` and `[zettelkasten](<zettelkasten.md>)` with block references to the context.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
@@ -50,11 +39,22 @@
             - If it were MY idea, It would be an [evergreen note]([evergreen notes](<evergreen notes.md>)).
                 - `#[Open Questions](<Open Questions.md>)` How should I represent the ideas of others? (resolved)
                     - Actually... since this is [multiplayer](<multiplayer.md>) - there are MANY authors of [evergreen notes](<evergreen notes.md>)! So I think make this an EN, with [David Perell](<David Perell.md>) as the author.
-    - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
+        - On the use of tags & [tag proliferation](<tag proliferation.md>)
+            - I see tags as “optional but beneficial”
+
+Nothing “breaks” if they are not used, but as more people use shared conventions, there are benefits in usability and convergence.
+
+So, I’d say “if you know the convention, use it — if you don’t, rely on context” [Tips](<Tips.md>)
+        - 
+    - [Administration](<Administration.md>) 
         - #[Change Log](<Change Log.md>) 
             - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'s suggestion.
             - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
                 - **[Related](<Related.md>):** {{[embed](<embed.md>): ((JfnNhLc4U))}}
+            - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
+                - **[Example](<Example.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
         - #[Next Steps](<Next Steps.md>)
             - [ ] Set up reminder to backup graph daily.
                 - SmartBlocks?
@@ -103,6 +103,9 @@
                 - "200,000 people in the group chat" without it being total chaos.
             - Ability to host multiple conversations, multiple groups, etc in the same space.
                 - Filtering content to hone the experience and focus.
+    - [Bookmarks](<Bookmarks.md>)
+        - [Mark Robertson](<Mark Robertson.md>) On working together, rather than "shouting as you run by"
+            - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
     - Notifications Inbox
     - [Comments](<Comments.md>) 
         - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
@@ -131,6 +134,9 @@
         - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
             - This "shouting while running by" description is great. I feel that.
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
+        - "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`"
+            - `---` is WAY better. Using that now.
+            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
     - [Feedback](<Feedback.md>) 
         - #[[[Feedback](<[[Feedback.md>): What's working]]
             - Loving the (()) symbol for hiding instructions within templates. 
@@ -152,8 +158,8 @@
             - whoops will do in the future!
         - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" [Ideas](<Ideas.md>)
             - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
-        - "[Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax."
-            - [@](<@.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
+        - ((3ivhdwNua))
+            - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
             - ---
     - [Promptstorming](<Promptstorming.md>)
         - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
@@ -165,7 +171,7 @@
         - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) 
         - [@](<@.md>)[Mark Robertson](<Mark Robertson.md>) testing
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
@@ -186,11 +192,17 @@
             - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
             - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
             - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start
-    - 
+- #[My Daily Notes](<My Daily Notes.md>) [Beau Haan 📌](<Beau Haan 📌.md>) {{word-count}}
+    - Hey everyone! 👋🏼
+        - With this huge surge of interest in solving the problems that us [Roam](<Roam.md>) users  are facing, I was having a chat with [Bill Petro](<Bill Petro.md>) on [Slack](<Slack.md>) and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring.
+        - As an idea towards solving this problem, I really think if there was a push into figuring this out for #[Roam Games](<Roam Games.md>) would be very much possible.
+            - My time at the moment is completely slammed with #[Roam Book Club](<Roam Book Club.md>) 3, so obviously can't focus on this, but I figured I'd stir the pot a'bit~ 
 
 # Backlinks
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
+
+- **[Date Completed](<Date Completed.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 
 ## [Start from abundance.](<Start from abundance..md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)

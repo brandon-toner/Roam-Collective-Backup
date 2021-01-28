@@ -1,3 +1,0 @@
-- {{embed: ((b9pQnEURN))}}
-- #[[Daily Writing Prompts]]
-- #[[Daily Log Book]]

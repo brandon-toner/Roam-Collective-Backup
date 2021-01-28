@@ -1,2 +1,0 @@
-- Invite link: Expires [[February 17th, 2021]] 
-    - https://join.slack.com/t/roamresearch/shared_invite/zt-lc0srxwg-puIOHiwQSOqEHEXIYYwpfQ

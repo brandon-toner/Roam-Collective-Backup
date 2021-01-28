@@ -1,3 +1,0 @@
-- Tags:: #Glossary
-- Attributes or tags that are intended to have content, but don't have any content populated. 
-- They can noisy-up the graph and make it harder to separate [[signal]] from noise.

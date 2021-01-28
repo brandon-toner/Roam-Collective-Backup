@@ -10,8 +10,3 @@
         - Tag me in something here ([under development]([Chat](<Chat.md>)))
     - I started using [Roam](<Roam.md>) in [July 2020](<July 2020.md>) but still agnostic due to 80% of my workflow being mobile
     - **[Interests](<Interests.md>):** [hiking](<hiking.md>), [tools for thought](<tools for thought.md>), [learning](<learning.md>), [interdisciplinary thinking](<interdisciplinary thinking.md>), [systems thinking](<systems thinking.md>), [conversation](<conversation.md>) [philosophy](<philosophy.md>), [rucking](<rucking.md>)
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Reddy2Go](<Reddy2Go.md>)
-

@@ -16,12 +16,7 @@
     - **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Matthew Vogel](<Matthew Vogel.md>)
-
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- 11:54 - [Matthew Vogel](<Matthew Vogel.md>)
-
 - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'
 
 - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)

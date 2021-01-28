@@ -8,7 +8,7 @@
     - Project Status:: [[Status/Enabled]]
     - Due Date:: #[[not_populated]] #Housekeeping
     - Reminders:: #[[not_populated]] 
-    - Date Completed:: #[[Status/Not Completed]]
+    - Date Completed:: [[January 27th, 2021]]
     - Notes::
         - See discussion on [[Slack]]
     - Tasks:: #not_populated

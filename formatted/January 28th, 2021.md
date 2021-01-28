@@ -1,3 +1,0 @@
-- {{embed: ((b9pQnEURN))}}
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
-- #[Daily Log Book](<Daily Log Book.md>)

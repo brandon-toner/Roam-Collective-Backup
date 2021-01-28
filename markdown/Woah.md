@@ -1,3 +1,0 @@
-- Tags:: [[Reactions]]
-- [[Brandon Toner]]
-    - Playing around with this — might be a fun way to collect reactions to things.
