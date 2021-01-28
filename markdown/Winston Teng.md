@@ -1,0 +1,10 @@
+- About me::
+    - Time Zone::  [[UTC]] +8:00
+    - Twitter:: [@syncretizm](http://twitter.com/syncretizm)
+    - Work:: [[doctor]]
+    - How to contact me::
+        - Send me a DM on Twitter or Roam Slack.
+    - Started using [[Roam]] in [[July 2020]]
+    - Interests:: [[learning]], [[research]], [[productivity]], [[interdisciplinary thinking]], [[meditation]], [[music]], [[photography]], etc.
+- Queries::
+    - {{[[query]]: {and: [[@]] [[Winston Teng]]}}}

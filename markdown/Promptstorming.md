@@ -1,0 +1,2 @@
+- See [[Prompts]] for a curated prompt library 
+- Or sift through the references to [[Open Questions]] to take a stab at answering an open question posed by a member. 

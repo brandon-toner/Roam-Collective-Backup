@@ -1,0 +1,297 @@
+- {{embed: ((b9pQnEURN))}}
+- #[[Daily Writing Prompts]] 
+    - "What sections should be included in a [[Roam Collaboration Guide]]? What might chapters would need to be included? What questions should the guide answer?"
+- #[[Daily Log Book]]
+    - 10:00 — 11:00 played around a bit. [[Brandon Toner]]
+        -  {{[[embed]]: ((mbcPwYoAX))}}
+    - Made a few minor additions as I worked through open questions. [[Charles Farr]]
+        - {{embed: ((DJkpCjWNY))}}
+- #[[The Main Feed]]
+    - **Questions:**
+        - {{[[query]]: {and: [[January 26th, 2021]] [[Questions]]}}}
+    - {{[[embed]]: ((uXSkzmCUC))}}
+    - Add your name to the "contributors" section of the project if you are interested in working on [[Projects/Publish a [[Roam Collaboration Guide]]]]. {{[[embed]]: ((IrBm1tWBA))}}
+- 
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #[[Scratchpad]] 
+        - 09:52 — Loving [[Kahlil Corazo]]'s idea for his upcoming [[rBook]]! 
+            - Such a great demonstration of the type of thing I'd love to see come out of these [[Roam Games]].
+            - Driving creativity. Pushing for publishing something finishing and "complete". 
+            - Interestingly enough, he posted his [[table of contents]] for the project which is quite in line with [today's writing prompt](((kLMNagtp9))).
+                - I'm not sure by looking at it whether Kahlil intends to write it for the __individual__ or the __team__. But either way his work should help to inform some options and best practices for [[[[project management]] in Roam]].
+        - #Tips
+            - If while writing in a section like the Scratchpad, and the content feels relevant to another section, you can use that section tag within context to make sure what you're writing is captured in that linked reference section. — i.e. if you ended up addressing a prompt in your Scratchpad, you could tag on a Promptstorming tag to ensure that it was captured there as well.
+            - Be cautious of referencing a reference; the "[[double reference]]".
+                - Most risky in the Daily Writing Prompt, you want to make sure that you are referencing the block where you WANT your commentary to be placed.
+                - Rather than referencing the block that is SHOWCASING the [[DWP]]... reference the prompt itself. 
+                - This can be done by 
+                    - copying the block ref ID from the block where it is referenced
+                    - following it back to it's original place and copying it from there
+                    - referencing the reference and then "[[replace with text]]"
+            - You can filter any of the main [[DNP Modules]] by your name! (or anyone else's) — This is SUPER powerful for being able to narrow down information. As data builds, [the ability to effectively filter]([[filtering]]) becomes both more important and more interesting.
+                - Example:: Akiff's Next Steps
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F4BF8PfKzR9.png?alt=media&token=1c07dbe2-83f6-495f-99dd-0aa8dba3b2f0)
+            - Play around with [[collapsing]] to simplify your view of the [[DNP]]. I often collapse my section, or the sections of others to give me a change in perspective.
+                - I believe that collapse-status is user-specific. So you don't interfere with how others see the graph. (Is this correct? #Questions)
+        - 10:00 — Another source of inspiration for [[[[project management]] in Roam]] might be [[Nat Eliason]]'s course. I recall there was a section on project management, albeit quite simple. [*](((616RDJ9d2)))
+        - 10:07 — **You can colour outside the lines.**
+            - While the templates and conventions used in this graph are relatively structured — they are "encouraged but optional"
+            - It's important to think about WHY the structure exists. Why conventions? Why conform to similar templates?
+                - The shared page naming, tag-using, and nesting conventions all help to COMPILE data in a predictable way. We want our ideas to blend together. To collect in the same places if similar, so that we can observe patterns, and draw common elements. 
+                - This helps to synthesize and create new content on the shoulders of the work of others. I see this as the key strength of collaboration within a shared graph! 
+                - I related it to the concept of [[idea sex]] from [[Anne-Laure Le Cunff]] of [[Ness Labs]]. [Link](https://nesslabs.com/inspiration-to-idea-sex)
+            - But... That doesn't mean the conventions should be __suffocating__! 
+            - #[[Fleeting Notes]] [[It is ok to colour outside of the lines.]]
+                - Some conventions are more important than others. If you just:
+                    - Plus, the [editors]([[graph editors]]) can always sprinkle some tags and block references in there to foster some connections. 
+                        - #[[Fleeting Notes]] [[Start writing, and worry about optimizing structure later.]]
+                    - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
+        - #Questions If I [[filter]]-out some page links from a page (e.g. hiding "not-populated"), does that filter it out for everyone or just me?
+        - #[[Open Questions]] How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
+            - My goal would be to put blocks that I want input or commentary on in a commonly reviewed place (like Announcements) so that it increases the probability of being seen. 
+            - Maybe another tag that gets pinned to the top? The `#Mainstage` or "requests for input" maybe? 
+            - Using `#Highlights` is a possibility! 
+                - Example:: "Added first project! [[Projects/Publish a [[Roam Collaboration Guide]]]] #Highlights"
+        - 10:49 — Creating a first project! [[Projects/Publish a [[Roam Collaboration Guide]]]]
+        - "Goals:: ((See block references for additional ideas.))"
+            - To build a community that can help people learn how to use Roam by observing how others use Roam. 
+    - #Resources
+        - [[RoamLab]] by [[Kyle Stratis]] — [link](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
+        - [[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis
+            - [Oasis Lab paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+            - [[Roam Tour]] with [[Robert Haisfield]] — [link](https://www.youtube.com/watch?v=JoCjpTXCklw)
+        - [[David Bieber]] on [[notifications]] — [link](https://davidbieber.com/snippets/2021-01-25-notifications-in-roam-research/)
+        - [[Kahlil Corazo]]'s work on [[project management]] — [link](((gi9lVXkEs)))
+        - [[Beau Hann]] on [[zettelkasten]]
+            - [[Roam Tour]] with [[Robert Haisfield]] — [link](https://www.youtube.com/watch?v=KoddCmn3eL0)
+        - [[Andy Henson]]'s [[Roam Fundamentals]]
+        - [[Andy Matuschak]]'s "Andy's Working Notes"
+    - #[[Open Questions]]
+        - How to import highlights and take [[literature notes]] in [[Roam-Collective]]?
+            - {{[[DONE]]}} Build "resource" template... for articles/books/twitter threads etc. 
+                - Based on [[Readwise]] template.
+                - "Reference Note Template #42SmartBlock #roam/templates"
+        - How to use Roam for school and learning?
+            - Spaced repetition
+    - #[[Help Wanted]]
+        - Extracting highlights, and literature notes from any of the `#Resources`. Using the [Resources Template](((gix1P4auD)))
+        - Sharing your [[feedback]]! 
+        - Reflecting on any of the Prompts — check out the [[Daily Writing Prompts]], and follow your nose to whatever catches your inspiration.
+    - #[[The Zettelkasten]] #not_populated
+    - #Promptstorming
+        - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
+            - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.
+                - #[[Next Steps]]
+                    - {{[[TODO]]}} Add [[Date Planner]] framework from personal graph
+                    - {{[[TODO]]}} Add project template
+        - "What sections should be included in a [[Roam Collaboration Guide]]? What might chapters would need to be included? What questions should the guide answer?"
+            - The importance of shared conventions
+            - The double-edged sword of conventions (there is a balance)
+            - Chat & notifications
+            - Building ideas: a collective zettelkasten
+            - Using external tools to support the graph ([[Clubhouse]], [[Zoom]], [[Slack]])
+            - [[[[project management]] in Roam]]
+            - Using SmartBlocks & templates to facilitate structure and effortlessly drive conventions
+    - #Chat
+        - Thoughts on this? [[~]][[Charles Farr]]
+            - "#[[Open Questions]] How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+    - #Comments
+        - In [these](((PmZ_NjkFA))) [[fleeting notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
+            - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
+        - "Contributors:: #[[Help Wanted]]"
+            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... #Ideas
+        - "Riffing while in transit..." [[Charles Farr]]
+            - Love this! Great use of the Scratchpad.
+            - "foundations of knowledge"
+                - This is interesting...
+            - "is there a better mythology for the component parts of a knowledge graph than the components of a Zettelkasten?"
+                - I've landed on 
+                    - fleeting notes
+                        - Not a fan of this term — in my usage, they are quite refined still. Nothing is truly fleeting in Roam.
+                    - literature notes
+                        - I almost like this term — but it feels too limited to "literature" — read material. 
+                        - "Content" notes or similar feels better?
+                        - I currently use it out of common convention.
+                    - evergreen notes
+                        - I like this term. It's nice. 
+            - "potential [[artifacts]] for Roam Games"
+                - Great 
+    - #Feedback  #not_populated
+- #[[My Daily Notes]][[Eneko Uruñuela]] {{word-count}}
+    - Still reading the docs. I hope I get to play around and be helpful.
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Riffing while in transit...
+            - how do you capture notes from live sessions? How do you document them? How should they be processed?
+            - critical communication patterns to address
+                - synchronous versus asynchronous
+                - targeted versus broad
+                - Individual versus group versus graph
+                - collaborative versus instructive
+            - memorializing synchronous communication to allow for broader asynchronous distribution
+            - identity within the graph
+                - more important at scale / in distributed
+            - forced cross-pollination
+            - templates activities for different purposes
+                - exploration
+                - divergent discussion
+                - Convergence
+                - generative knowledge
+            - how can you leverage serendipity through tools and processes to seed divergent thinking? How can you leverage it to drive towards convergence?
+            - is it possible to combine serendipity (through surfacing random information) with spaced repetition (surfacing targeted information)?
+                - how can SRS be used to support an individual goals versus group goals?
+            - foundations of knowledge
+                - References
+                - Notes
+                - Summaries
+                - Assertions / Claims
+                - Confirmations / Rejections
+            - is there a better mythology for the component parts of a knowledge graph than the components of a Zettelkasten?
+                - how does the goal of a graph determine this?
+                - with Zettelkasten rooted in academia, are there different "schemas" that better correspond with other industries and purposes?
+                - what about the language of database design? How about the language used by mentats in dune?
+            - how can you optimize the graph for simple searching? Roam at its core does this, but how can you develop some sort of schema that makes it trivial for even new users to find information...
+            - potential [[artifacts]] for Roam Games
+                - set of schemas or mythologies
+                    - including tags and what they are designed for
+                    - Examples of how they can be used
+                    - Examples of how they can be adapted
+                    - Associated CSS to add to the visual language
+                - roam templates and smart blocks to make it very easy to implement in practice
+                    - place holders would go a long way to speeding adoption
+                - a standardized set of queries that essentially serve as an automatic dashboard for the content
+                    - a self-accruing table of contents enabling rapid plumbing of depths
+                    - could we build some JavaScript smart blocks to help visualize key nodes?
+                        - where are the gatekeeper nodes?
+                - at a more basic level, perhaps a set of primitives (focused on meta data) that allow for all of this. This would be the started template...
+                - 23:08 — adding a few more
+                    - 
+            - are there visual design principle associated with knowledge representation that could be used?
+            - how does a graph and collective roaming facilitate sensemaking? How are facts identified and decided upon?
+            - what do jam sessions look like? How do you identify key questions for all to pursue? How do you identify when to shift from divergent thinking to convergent thinking?
+            - is there a way to trace the development of an idea?
+            - is there a place for more polished writing in the graph? Content → notes → collections → __posts/summaries/microblogs__
+                - these posts would be viewed as lasting community contributions. They could be written individually or as a group. They should reference the other parts of the graph heavily. Would love to see not only a summary of an idea, but also a story of how it came together.
+            - are there styles of writing that should be emulated within the graph?
+                - inductive versus deductive arguments
+                - for instance, using the pyramid principle for building arguments (easily rolled up to higher levels)
+        - [[Clubhouse]] "Working with Roam"
+            - Participants:: [[Jason Griffing]], [[Beau Hann]], [[Adam Bartley]], [[David Bieber]], [[Norman Chella]], [[Lindsey Johnston]], [[Brandon Toner]], [[Kyle Stratis]]
+            - [[Kyle Stratis]]
+                - touches on "[[seeding]] graphs" with knowledge modules
+            - [[David Bieber]]
+                - Difficult to share his raw Roam Graph
+                - Tends to turn content into a linear post
+        - 
+    - #Questions ((about the graph, or directed towards someone))
+        - #Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))
+            - I would love to be able to jump into the graph and see something like...
+                - ### This is what happened yesterday [[January 26th, 2021]] in the graph
+                    - [[Brandon Toner]] wrote 1400 words
+                    - [[Charles Farr]] wrote 1300 words
+                    - [[Eneko Uruñuela]] added his first blocks
+                    - Top new references
+                        - X
+                        - Y
+                        - Z
+                    - Top old references
+                        - X
+                        - Y
+                        - Z
+                    - Most referenced blocks
+                        - X
+                        - Y
+                        - Z
+                    - Ongoing chats
+                        - X
+                        - Y
+                        - Z
+        - #Q Is there a way to standardize the color format to indicate specific types of tags (e.g., meta vs personal vs administrative etc...)?
+    - #[[Open Questions]] ((about collaboration and beyond))
+        - #Q What types of [[communication]] does a collective framework need to be able to handle?
+            - "synchronous versus asynchronous"
+            - "targeted versus broad"
+            - "Individual versus group versus graph"
+            - "collaborative versus instructive"
+        - #Q How do you memorialize [[synchronous]] conversation to allow for broader [[asynchronous]] communication?
+        - #Q What processes would benefit from [[templates]] / [[algorithms]]?
+            - Graph exploration
+            - Divergent brainstorming
+            - Convergent alignment
+            - Summarizing resource / meeting / <event>
+            - Fleeting Notes:: The team algorithm of thought is used quite often in the Roam community, but it seems less accessible to a broader market. Is there a more approachable phrasing that strips away the [[jargon]]-iness from the term?
+        - #Q How can a community leverage [[serendipity]] (and serendipity [[generators]]) to seed [[divergent]] thinking? How can these tools be used to drive towards [[convergent]] thought?
+        - #Q [[spaced repetition]] can be invaluable to an individual — are there similar use cases for communities?
+            - To be clear, [[spaced repetition]] is very valuable to members in a community, and a community can encourage its members to implement spaced repetition. But is there a way in which space repetition can be used at the community level to drive towards an objective?
+        - #Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))
+            - #Q How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?
+        - #Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))
+            - What is the core set of primitives that can be combined into any higher-order knowledge represenation?
+            - #Comment This question is really more of a #[[Follow Up]], as I have a feeling this is a question as old as time and many smarter than I have pondered the question...
+        - #Q Roam makes the knowledge graph infinitely more accessible, putting what was previously stored in your brain or disparate notes into a unified location — however, a Roam graph can still be incredibly difficult to navigate. Are there specific "views" or UIs that can help the uninitiated explore a graph / understand a concept? [*](((J3RHoNJDa)))
+            - Gets at the point [[David Bieber]] raised during "[[Clubhouse]] "Working with Roam"", i.e., it is "Difficult to share his raw Roam Graph"
+            - #Q Are there design principles associated with display of knowledge that we could leverage to build effective artifacts? [*](((nXHqG3MVb)))
+        - #Q Does added transparency around ideas and their foundations and development strengthen a community? [*](((E7WnIh2V1)))
+            - Does it improve the quality of the knowledge representation?
+            - Does it impact community participation and relationships?
+        - #Q Should a graph stipulate stylistic approaches to writing? If so, in what contexts? [*](((KKSDDfhmZ)))
+            -  For example, in consulting there is a strong emphasis on using [[The Pyramid Principle]] pioneered by Barbara Minto at McKinsey
+                - Funnily enough, writing using the principle resembles the trees in Roam
+                - Goal was to write in a way that an argument that could easily be broken into its components. The components could then be reused. Also allowed for easier flattening.
+                - Another important element was taking an [[inductive]] approach — essentially showing the answer up front and then digging into the details where necessary
+                    - As opposed to a [[deductive]] approach, which slowly builds knowledge by stacking details until arriving at the final answer
+                        - Most problems are solved deductively, but there are benefits to presenting a solution inductively
+                - #[[Follow Up]] on the [[The Pyramid Principle]]
+        - #Q How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
+    - #Comments
+        - "I've landed on " [[Brandon Toner]]
+            - Developing the question a bit more...
+                - "#Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))"
+                    - "#Q How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?"
+    - #[[Change Log]]
+        - Added a second tag for questions — `#Q`
+            - Goal is to use the `#Q` tag at the **block level**, which will enable graph users to query individual questions
+            - Expands the function of both the `#[[Open Questions]]` and `#Questions` tags
+            - Envision being able to use it with [[SmartBlocks]] and [[queries]]
+        - Added new CSS from Maggie Delano to clean up queries
+            - Here: "Query Display Options"
+                - `#minimal` — hides breadcrumbs and page reference
+                - `#min-con` — hides the breadcrumbs in a query
+                - `#min-title` — hides the page references
+                - `#min-q` — hides query header
+                - `#page-focus` — focuses on pages
+        - Added a `#[[Follow Up]]` tag to identify areas that I would like to return to...
+            - See query aggregating these follow ups here
+            - [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
+    - #Chat
+        - "Thoughts on this? [[~]][[Charles Farr]]"
+            - 
+            - One tricky approach I've used myself is to create a block like...
+                - **Key Questions**
+                    - <Insert Question Here>
+                - Then in the ".Daily Template (universal) #42SmartBlock #roam/templates" smartblock, add an `{{embed: ((yO46x9t2h))}}`
+                - So long as you don't touch the top level bullet, you can move blocks in and out of it
+                - Relies on people block referencing the block in question though, because you don't want them to write inside of the block necessarily...
+                    - **this is a downfall**
+            - Another approach could be to use a tag e.g., `#DailyMessage`, and a <%BLOCKMENTIONS:1,`DailyMessage`%>
+                - This would require you to manually change the block associated with the daily message, as ideally you would only want one block associated with the tag at a given time
+        - "Added a [Resources Template](((gix1P4auD))) cc: [[~]][[Charles Farr]]"
+            - Looks good! Similar to how you have the `For descriptions of the other "DNP Modules", visit this page → [[DNP Modules]]`, could be worthwhile to include a  list of additional characteristics users can input...
+                - Haven't thought about any to add right now but I think the included instructions is a really nice touch
+        - "[[~]][[Charles Farr]] — Added [[Roam Collaboration Guide]] as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [[Roam Book Club]] and other communities. "
+            - [[^[[Brandon Toner]]]] 👌🏼— I think this is a great goal
+                - Have been thinking in my head about having a "quiz" (using indentation and  block references) that would help a community identify which elements could be useful for their purposes...
+                    - For instance... 
+                        - What is your intent...
+                            - To learn
+                            - To build a new repository of knowledge
+                            - To ...
+                    - And based on the answer users might be advised on parts they can adapt or "seed" their own graphs with ([[Kyle Stratis]] the team seed is fantastic by the way...)
+        - "Thoughts on this? [[~]][[Charles Farr]], [[Everyone]]: "Block ref the sections to add your ideas around mission, vision, purpose, goals, etc.""
+            - [[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more
+                - One benefit of this approach is getting a bunch of fresh ideas right at the start of a member's participation, hopefully, without any of our current ideas biasing them towards what they think [[multiplayer]] Roam looks like...
+        - "Thoughts? [[~]] [[Charles Farr]]"
+            - It's working thus far! I like this as well as the unseen references feature
+                - The `@` is great when your **explicitly** trying to get someone's attention, rather than just building on a block...
+                - I will note that using the compound @ like `[[@[[Charles Farr]]]]` gives you a bit more control when filtering
+                    - Filtering for `@` & `Charles Farr` gives me all of the above blocks...

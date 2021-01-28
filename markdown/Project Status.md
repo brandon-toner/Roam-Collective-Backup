@@ -1,0 +1,6 @@
+- Options::
+    - #[[Status/Active]]
+    - #[[Status/Completed]]
+    - #[[Status/On-Hold]]
+    - #[[Status/Dropped]]
+    - #[[Status/Someday|Maybe]]

@@ -1,0 +1,10 @@
+- Processes::
+    - Commenting on Blocks
+        - To comment on blocks, copy the block reference of the block you want to comment on, paste it into your [Daily Notes section]([[My Daily Notes]]), and nest your comments underneath the #Comments tag.
+            - Example::
+                - {{embed: ((2_7tPownb))}}
+- Queries::
+    - **Processes in progress:** (Next Steps + Processes)
+        -  {{[[query]]: {and: [[Next Steps]] [[Processes]]}}}
+- Index::
+    - [Commenting on Blocks](((spBYrPEYv)))

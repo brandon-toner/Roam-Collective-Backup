@@ -1,0 +1,291 @@
+- #Announcements
+    - Change in [convention]([[Conventions]])! [[Chat]]
+        - From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]]) — **note that the CSS box should wrap the name**
+        - Can now "**save**" a notification by changing to a `^` "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
+    - {{[[embed]]: ((XS29OCnVF))}}
+- {{embed: ((b9pQnEURN))}}
+- ---
+- #[[The Main Feed]]
+    - {{[[embed]]: ((JfnNhLc4U))}}
+- ---
+- #[[Daily Writing Prompts]]
+    - "Explore your vision for the future of collaboration in Roam."
+    - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #Scratchpad
+        - #Tips
+            - Use the #Tensions tag to flag areas of conflict without clear resolution.
+        - #Observations
+            - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
+                - #[[Open Questions]] How could we preserve the chat integrity as the blocks they reference change?
+        - #[[Open Questions]]
+            - How could we build a convention for "waiting for reply"? 
+                - i.e. you tag someone in a chat and it is still unread.
+                - May need a From:Brandon type page to include in a query
+                    - e.g. `[[From[[Brandon Toner]]]]` AND `[[@]]` 
+                        - Don't love it yet, but it might be on the right track. Feels like a lot of work? Maybe not though. I'd rather the "from" information be implied by it's place in the graph... i.e. nested under your DNP section under Comments might work. 
+            - How do we improve [[Chat]] conventions so that we avoid the "[shouting as you run by](((R9BCN_mmu)))" feeling? 
+        - I'd like to come up with some topic tags...
+            - Collaboration
+            - Chat
+            - Project Management
+            - Multiplayer
+            - ... There is a lot of overlap in terms. Having some set topic tags could help us to compile information by category - improving the ease of review.
+            - I can even see this extending into other niche topics like:
+                - Roam Medical
+                - Writing
+                - And other interest subjects...
+            - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
+        - [[Projects/Establish automated graph backups]]
+        - `#how-should-I-tag-this` (resolved) [[Start from abundance]]
+            - This is [[David Perell]]'s articulation of this idea... 
+            - If it were MY idea, It would be an [evergreen note]([[evergreen notes]]).
+                - `#[[Open Questions]]` How should I represent the ideas of others? (resolved)
+                    - Actually... since this is [[multiplayer]] - there are MANY authors of [[evergreen notes]]! So I think make this an EN, with [[David Perell]] as the author.
+        - On the use of tags & [[tag proliferation]]
+            - I see tags as “optional but beneficial”
+
+Nothing “breaks” if they are not used, but as more people use shared conventions, there are benefits in usability and convergence.
+
+So, I’d say “if you know the convention, use it — if you don’t, rely on context” #Tips
+        - 
+    - #Administration 
+        - #[[Change Log]] 
+            - Adjusted not-populated to not_populated based on [[Matthew Vogel]]'s suggestion.
+            - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) #zettelkasten
+                - Related:: {{[[embed]]: ((JfnNhLc4U))}}
+            - Added #Bookmarks to the [[DNP Modules]]
+                - Example::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
+        - #[[Next Steps]]
+            - {{[[TODO]]}} Set up reminder to backup graph daily.
+                - SmartBlocks?
+            - {{[[TODO]]}} Implement a more broad task&project centric tag that would encompass `Next Steps`.
+                - Similar to #GTD in my personal graph.
+                    - Images:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
+            - {{[[TODO]]}} Complete the [[GitHub]] transfer #[[Projects/Establish automated graph backups]]
+    - #[[The Zettelkasten]]
+        - #[[Fleeting Notes]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. 
+        - #[[Fleeting Notes]] [[block references]] and tags are key to compiling group discussion on a given idea
+        - #[[Fleeting Notes]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]].
+        - #[[Fleeting Notes]] #tensions could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. #collaboration
+        - #[[Fleeting Notes]] Adding the `#Chat` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [[commentary]] on.
+        - #[[Fleeting Notes]] The [[DNP Modules]] tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) #convergence
+        - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].
+            - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
+        - #[[Fleeting Notes]] Setting the [[conventions]] in a [[collaborative graph]] is both critical and difficult.
+            - #[[Open Questions]] Should community [[conventions]] be seeded or emergent within a [[collaborative graph]] community? 
+            - #[[Open Questions]] What [[conventions]] are helpful to [[converge]] group thinking towards intentional outputs? #convergence
+        - #[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. 
+            - Learning through observation.
+            - #[[Fleeting Notes]] Watching others use [[Roam]] affects your own writing habits and [[conventions]].
+                - Shared graphs allow you to LEARN from the way others structure their thoughts
+        - #[[Fleeting Notes]]  A shared [[writing]] environment is an accelerator for cycles of [[order]] and [[chaos]] ([[expansion]] and [[contraction]]) ([[divergence]] and [[convergence]])
+        - #[[Project Ideas]] Perhaps, collectively, we could create a [[template]] of [[conventions]] that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
+            - This EXACT block was written during the first session in [[[[Roam Book Club]] II]] and describes the [[mission]] of this graph well. The product is the [[Roam Collaboration Guide]]. 
+        - #[[Fleeting Notes]] [[alignment]] with community [[conventions]] is key to [[leveraging]] the scale of community and unlocking the power of the [[collective intelligence]]
+        - #Quotes [[collective intelligence]] > [[artificial intelligence]] - [[Conor Sullivan-White]]
+        - #[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. 
+            - Shared purpose and objectives align efforts towards a common goal.
+            - When there is a shared sense of direction... you can build structures ([[conventions]]) that bias towards the achievement of those goals.
+        - #[[Fleeting Notes]] Clear processes are important within a [[collaborative graph]] to maintain clarity and [[order]].
+        - #[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [[collaborative graph]] #chat
+        - #Scratchpad #zettelkasten
+            - [[zettelkasten]] #Processes #Overview
+                - Fleeting Notes **-[contribute to]>** Creative Projects
+                - Fleeting Notes **-[contribute to]>** Evergreen Notes
+                - Literature Notes **-[contribute to]>** Creative Projects
+                - Literature Notes **-[contribute to]>** Evergreen Notes
+            - Purpose:
+                - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                    - #[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [[collaborative graph]].
+            - Process:
+                - Capture assertions as [[fleeting notes]] (atomic ideas, succinct)
+                - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
+                - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
+                - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
+                    - Related:: [[Start from abundance]]
+                - #[[Next Steps]] 
+                    - {{[[TODO]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
+                -  #Chat
+                    - [[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
+        - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
+        - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
+            - Block reference the FN into your Comments module, then nest comments underneath.
+                - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
+                    - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[@[[Charles Farr]]]]
+        - #Conventions relevant [[tags]] should be appended to any [[fleeting notes]] to promote effective [[convergence]]. #zettelkasten
+        - #Ideas A [[Roam highlighter]] extension might be a good way to bring [[highlights]] from articles into the graph #zettelkasten #resources #[[reference notes]]
+        - #[[Fleeting Notes]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]
+        - Fleeting Notes from [[[[Roam Book Club]] II]] imported (in same format and on the same theme!)
+            - #[[Fleeting Notes]] custom [[CSS]] is a helpful tool for encouraging user alignment with important [[conventions]]
+            - #[[Fleeting Notes]][[hidden tags]] would be hugely beneficial to the [[UX]] in a shared Roam database. #Suggestions #[[enhancement request]] #Highlight
+                - IssueType:: #[[enhancement request]]
+                - #Chat [[Chinarut]] invite ya to tag enhancement requests #support and make a few of them todos!
+            - #[[Fleeting Notes]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
+            - #[[Fleeting Notes]][[Start from abundance]]
+            - #[[Fleeting Notes]] `#not-populated` tags can be used to filter out empty attributes #conventions
+                - This reduces the amount of noise on a page and improves the [[signal-to-noise ratio]]
+            - #[[Fleeting Notes]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]]).
+                - ((_sY7e8FNg)) #[[Live Session 2]]
+            - #[[Fleeting Notes]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))
+            - #[[Fleeting Notes]] The writing context affects the style and structure of expression.
+            - #[[Fleeting Notes]] The [[meta]] fades when the system is clear. #[[The Main Feed]]
+            - #[[Fleeting Notes]] few ideas are truly [[permanent]] #[[permanent notes]]
+                - For this reason I am [[hesitant]] to use the term.
+                - [[evergreen notes]] feels softer, less certain — more approachable maybe.
+            - #[[Fleeting Notes]] [[inline code-blocks]] can be used as an alternative formatting option.
+            - #[[Fleeting Notes]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references.
+                - This is. helpful when demonstrating the **use of a tag** when you don't want to muddy up the references.
+            - #[[Fleeting Notes]][[literature notes]] should be [[atomic]] and [[concise]] in nature. Only one idea or concept per literature note. #zettelkasten [*](((7nHVatWGu)))
+            - #[[Fleeting Notes]] [[fleeting notes]] far outnumber [[literature notes]] and [[permanent notes]] in quantity. It take an accumulation of [[fleeting notes]] before more mature and original ideas take form.
+                - The [[evergreen notes]] [[metaphor]] works better here. 
+                    - [[seedlings]] are the base-ideas. The "seeds" of more mature thought. These accumulate and grow connections until they can mature into [[evergreen notes]].
+            - #[[Fleeting Notes]] when beginning a [[zettelkasten]], it may take weeks or months before [[permanent notes]] start to accumulate.
+            - #[[Fleeting Notes]] [[context preservation]] empowers connected thought.
+            - #[[Fleeting Notes]] [[context preservation]] improves [[memory]] and idea [[recall]].
+                - "#[[Fleeting Notes]] [[memory]] is very [[context]]-dependant."
+            - #[[Fleeting Notes]] [[memory]] is very [[context]]-dependant.
+            - #[[Fleeting Notes]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]
+                - [[Start from abundance]] — [[David Perell]]
+        - My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten
+            - [[consume]] & [[engage]]: (read, watch, listen, converse, reflect)
+            - As content resonates with me, I save them as [[reference notes]] (capturing [[context]] — [[bibliographical notes]], [[highlights]], and [[quotes]]) #capture
+            - As my wanderings inspire thoughts and ideas, I save those ideas as [[fleeting notes]].
+                - These are statements written inline with my notes. [[fleeting notes]] are **the first tier of notes worth documenting** in my [[interpretation]].
+                - I keep the `originals` of these notes in a designated place. I keep a copy of the reference [[inline]] to preserve the context of where the note originated. 
+                    - Example:: "#[[Fleeting Notes]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]])."
+                - [[supporting information]] is nested underneath the original block. As a block reference if necessary to preserve context of the related idea.
+                    - These are [[context snippets]] in [[Joel Chan]]'s [[interpretation]]
+                - [[tags]] may be added inline at the end of the note or nested underneath to aid in [[connection]] and [[resurfacing]].
+                - When adding new [[fleeting notes]] to my [[zettelkasten]], if they feel relevant to several different areas of the zettelkasten, I will create a [[reference]] to nest it underneath the other related note(s). 
+                    - More commonly, I just create them in context and rely on references for convergence and patterns.
+            - For content that I consider worth summarizing (the author makes great points that I would love to reference later in my own writing/ideas) — I form `#Literature Notes` #[[literature notes]]
+                - These are core concept summaries. They are **the author's ideas** phrased **in my own words**. They should be [[concise]] and [[atomic]] in nature. **Only one idea or concept per literature note**.
+            - As both [[fleeting notes]] and [[literature notes]] accumulate, [[patterns]] emerge and my [[opinions]] embolden. When it feels like I can form a [permanent note]([[permanent notes]]) on the subject, I create one.
+            - As [[project ideas]] arise through different stages of the workflow, I add them to a section of my [[zettelkasten]] called `[[Project Ideas]]`.
+                - Over time, I link ideas that may be related to the project by referencing them as a [[nested block]].
+                - Once a clear outline has formed, or enough [[content]] exists to easily begin [[writing]], **I complete the project and the cycle continues**. 🎉🥂 
+                    - "#[[Fleeting Notes]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]"
+    - #Promptstorming
+        - "Explore your vision for the future of collaboration in Roam."
+            - Effortless communication among many users.
+                - "200,000 people in the group chat" without it being total chaos.
+            - Ability to host multiple conversations, multiple groups, etc in the same space.
+                - Filtering content to hone the experience and focus.
+    - #Bookmarks
+        - [[Mark Robertson]] On working together, rather than "shouting as you run by"
+            - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
+    - Notifications Inbox
+    - #Comments 
+        - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+            - Yup, this is a great idea! 
+            - I added the [[roam/js/tag-cycle]] page such that "CTRL+SHIFT+C HASH" removes the not-populated tag as well -- another option.
+            - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]
+        - "Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [[~]][[Brandon Toner]]"
+            - Check out the #Chat page for some conventions. 
+            - I'll leave some breadcrumbs on the conventions page as well.
+        - "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[[query]]: {and: [[@]] [[Mark Robertson]]}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [[~]][[Brandon Toner]]"
+            - Yea, I noticed this the other day as well...
+            - If we made complex pages like [[@[[Mark Robertson]]]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags
+        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]"
+            - Is this captured by this tip? [[@[[Mark Robertson]]]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."
+        - "There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]"
+            - Yup, I feel this as a [tension]([[Tensions]]) as well...
+                - I this "Questions" is more a training thing. Asking for clarity, process, or convention.
+                - While #[[[[Feedback]]: [[Suggestions]]]] are suggestions for improvement.
+                - Either way works well in the short term, but I think more mutually exclusive distinctions would be helpful for clarity and consolidation. [[@[[Mark Robertson]]]]
+            - 
+        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]"
+            - Ou, yea that's an important difference for sync. 
+            - I'll adjust the wording to suggest zooming.
+        - "That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [[~]][[Brandon Toner]]"
+            - That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [[@[[Mark Robertson]]]]
+        - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
+            - This "shouting while running by" description is great. I feel that.
+            - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
+        - "[[~]][[Brandon Toner]] Why do you want to use hiccup? use `---`"
+            - `---` is WAY better. Using that now.
+            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[~[[Matthew Vogel]]]]
+        - "URL:: (Is currently set as private but a public backup could be nice)"
+            - [[~[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. 
+        - "#[[Fleeting Notes]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references."
+            - Fascinating to see this idea documented in [[[[Roam Book Club]] II]] — I forgot I thought of it over there first.
+        - "My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten"
+            - This is a decent summary. Not too outdated. System has been quite stable. 
+            - 
+    - #Feedback 
+        - #[[[[Feedback]]: What's working]]
+            - Loving the (()) symbol for hiding instructions within templates. 
+                - Example::
+                    - {{embed: ((qONZuXh3Y))}}
+            - Liking the idea of the `#[[Help Wanted]]` tag -- this could be great for teamwork.
+        - #[[[[Feedback]]: What could be better]]
+            - Chat conventions feel a bit messy confusing. #Conventions
+                - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
+                - Block references feel like the right way to go. 
+                - I think I prefer `[[@[[Brandon Toner]]]]` for sake of queries.
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+    - #Questions ((about the graph, or directed towards someone)) 
+        - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
+    - #Comments
+        - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
+            - whoops will do in the future!
+        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" #Ideas
+            - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
+        - "#Questions How do I make a [[horizontal line]]? I know there is a way with hiccup, but I can't recall the syntax."
+            - [[~]][[Brandon Toner]] Why do you want to use hiccup? use `---`
+            - ---
+    - #Promptstorming
+        - #[[Daily Writing Prompts]]
+            - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+                - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.
+                    - It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for
+                    - Need to do some further investigation into all the ideas brought but by [[David Bieber]] [here](((1NzXjSWfB)))
+    - #[[Open Questions]] ((about collaboration and beyond)) 
+        - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- #[[Daily Log Book]]
+    - 11:49 - Discussion about chat conventions 
+    - 11:54 - [[Matthew Vogel]] and [[Eneko Uruñuela]] are looking into [[backup]] solutions #[[Projects/Establish automated graph backups]]
+    - 12:30 - EDN, JSON, and Markdown [[backup]] is up and running with ownership being transferred to [[Brandon Toner]] #[[Projects/Establish automated graph backups]]
+    - 14:13 - Did some work on the [[zettelkasten]] workflow. I quite like it.
+        - {{[[embed]]: ((bEsJXYWZs))}}
+        - #[[Help Wanted]] 
+            - Would love some feedback on this.
+                - Tag feedback with `#Feedback` and `#zettelkasten` with block references to the context.
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) 
+        - 
+    - #Questions ((about the graph, or directed towards someone)) 
+        - Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [[~]][[Brandon Toner]]
+            - That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [[~]][[Brandon Toner]]
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+        - And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]
+        - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [[Roam]] to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [[~]] [[Brandon Toner]]
+            - You maybe right with your comment here: "Is this captured by this tip? [[@[[Mark Robertson]]]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."" . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [[~]][[Brandon Toner]]
+        - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[[query]]: {and: [[@]] [[Mark Robertson]]}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [[~]][[Brandon Toner]]
+            - Re: "If we made complex pages like [[@[[Mark Robertson]]]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [[@[[Mark Robertson]]]]
+        - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]
+- #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
+    - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
+    - #Comments
+        - partially in response to: "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+            - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
+            - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
+            - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start
+- #[[My Daily Notes]] [[Beau Haan 📌]] {{word-count}}
+    - Hey everyone! 👋🏼
+        - With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring.
+        - As an idea towards solving this problem, I really think if there was a push into figuring this out for #[[Roam Games]] would be very much possible.
+            - My time at the moment is completely slammed with #[[Roam Book Club]] 3, so obviously can't focus on this, but I figured I'd stir the pot a'bit~ 
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - 
+- 

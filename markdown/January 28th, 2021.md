@@ -1,6 +1,21 @@
-- 
+- {{embed: ((b9pQnEURN))}}
 - #[[The Main Feed]]
-    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in ((2SJQzjk6-))
+    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in "#[[The Zettelkasten]]"
+- ---
+- #[[The Main Feed]]
+    - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]"
+- #[[Daily Writing Prompts]]
+    - "Explore your [vision]([[Vision]]) for [[project management]] in Roam. Describe a workflow that could be implemented in this graph. Include how [[handoffs]] could be facilitated between different team members. [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
+        - **Existing structure:**
+            - Projects naming convention `[[Projects/Project name]]`.
+                - Example:: [[Projects/Establish automated graph backups]]
+            - [Template](((d4tbH1tCA))) for structuring consistent [[metadata]].
+- #[[Daily Log Book]] [*]([[Change Log]])
+    - 
+    - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]
+        - WE BACK.
+    - 11:10 -- Added experimental persona CSS examples for [[leekeifon]] 
+        - {{[[embed]]: ((((EZzT3MAmv))))}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
@@ -20,7 +35,7 @@
             - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[TODO]]}} Add some [[literature notes]]
-                - **Suggestion:** ((88h-N8xL9))
+                - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
     - #[[The Zettelkasten]] #not_populated
     - #Resources
         - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
@@ -79,5 +94,10 @@ I may have to upload the backup.
 
 - #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
     - #Comments
-        - ((R9BCN_mmu))
+        - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not_populated
+        - "With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
+            - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]
+        - 
