@@ -206,8 +206,8 @@
                         [6 :version/id "0.7.8" 536870914]
                         [6
                          :version/nonce
-                         "uuid411e62f9-1bbd-4b25-a87b-0b6ff5fbe437"
-                         536879812]
+                         "uuidc7262e84-84f4-472c-ad3d-27ae457e5f34"
+                         536880671]
                         [7 :block/open true 536870915]
                         [7 :block/order 12 536870915]
                         [7 :block/page 4 536870917]
@@ -2233,6 +2233,7 @@
                         [194 :edit/seen-by 274 536871661]
                         [194 :edit/seen-by 276 536871660]
                         [194 :edit/seen-by 454 536872256]
+                        [194 :edit/seen-by 1406 536879928]
                         [194 :edit/time 1611687924217 536871443]
                         [194 :log/id 1611687924214 536871443]
                         [194
@@ -2478,7 +2479,9 @@
                         [213 :edit/seen-by 219 536879467]
                         [213 :edit/seen-by 235 536874579]
                         [213 :edit/seen-by 260 536878130]
+                        [213 :edit/seen-by 276 536879814]
                         [213 :edit/seen-by 895 536874684]
+                        [213 :edit/seen-by 1406 536879856]
                         [213 :edit/time 1611688613608 536871494]
                         [213 :log/id 1611688613607 536871494]
                         [213
@@ -2628,10 +2631,14 @@
                          536871586]
                         [235
                          :user/settings
-                         {:namespace-options [:none :partial :full],
+                         {:namespace-options [:partial :full :none],
                           :right-sidebar-pinned {},
-                          :roam/js {:active-blocks #{}}}
-                         536874486]
+                          :roam/js {:active-blocks #{}},
+                          :allow-custom-components? true,
+                          :showing-user-icons? true,
+                          :global-filters {:includes (),
+                                           :removes ("bjQLhCc-Z")}}
+                         536879999]
                         [235
                          :user/uid
                          "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
@@ -2971,10 +2978,23 @@
                          "kyle.stratis@gmail.com"
                          536871658]
                         [275 :edit/time 1611718303808 536871658]
+                        [276 :block/uid "8arMk5A3N" 536879813]
+                        [276
+                         :user/display-name
+                         "Kyle Stratis"
+                         536879813]
                         [276
                          :user/email
                          "kyle.stratis@gmail.com"
                          536871660]
+                        [276
+                         :user/photo-url
+                         "https://lh3.googleusercontent.com/a-/AOh14GhRfu4k_TNhXW-2Eh24vIIz2_GKzO9Yx1R99NNOKDo=s96-c"
+                         536879813]
+                        [276
+                         :user/uid
+                         "JCnCdm1ANBeQuyaZRVLIccO0pgZ2"
+                         536879813]
                         [277 :block/uid "3ivhdwNua" 536871661]
                         [277 :edit/seen-by 274 536871661]
                         [278 :block/uid "QMqILaMXE" 536871661]
@@ -3191,6 +3211,7 @@
                          536871718]
                         [311 :edit/seen-by 60 536872132]
                         [311 :edit/seen-by 235 536877240]
+                        [311 :edit/seen-by 1406 536879928]
                         [311 :edit/time 1611719386007 536871754]
                         [312 :block/uid "z2TSTtqY9" 536871724]
                         [312 :edit/seen-by 190 536871724]
@@ -3284,6 +3305,7 @@
                          :edit/email
                          "charles.sims.farr@gmail.com"
                          536871739]
+                        [318 :edit/seen-by 1406 536879928]
                         [318 :edit/time 1611727967674 536873768]
                         [319 :block/uid "w7BupGa2Y" 536871742]
                         [322 :block/uid "_ala-JkX-" 536871752]
@@ -4689,6 +4711,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536875486]
+                        [385 :edit/seen-by 276 536879834]
                         [385 :edit/time 1611779426985 536877914]
                         [385
                          :entity/attrs
@@ -5743,6 +5766,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536872162]
+                        [449 :edit/seen-by 276 536879834]
                         [449 :edit/time 1611720872219 536872162]
                         [449
                          :entity/attrs
@@ -6988,6 +7012,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536872568]
+                        [523 :edit/seen-by 235 536880000]
                         [523 :edit/seen-by 895 536875138]
                         [523 :edit/time 1611779205508 536877828]
                         [525 :block/children 531 536872590]
@@ -7021,7 +7046,9 @@
                         [525 :edit/seen-by 190 536872978]
                         [525 :edit/seen-by 197 536876453]
                         [525 :edit/seen-by 235 536874579]
+                        [525 :edit/seen-by 276 536879814]
                         [525 :edit/seen-by 895 536875278]
+                        [525 :edit/seen-by 1406 536879925]
                         [525 :edit/time 1611723426057 536872575]
                         [526 :block/open true 536872577]
                         [526 :block/order 3 536872577]
@@ -7202,6 +7229,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536872590]
+                        [534 :edit/seen-by 235 536880072]
                         [534 :edit/time 1611768473032 536876111]
                         [535 :block/children 1100 536876020]
                         [535 :block/open false 536878095]
@@ -7224,6 +7252,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536872590]
+                        [535 :edit/seen-by 1406 536879974]
                         [535 :edit/time 1611763161331 536876012]
                         [536 :block/children 903 536874707]
                         [536 :block/children 956 536874852]
@@ -7255,6 +7284,7 @@
                          "toner.brandon@gmail.com"
                          536872590]
                         [536 :edit/seen-by 235 536875756]
+                        [536 :edit/seen-by 276 536879814]
                         [536 :edit/seen-by 895 536875278]
                         [536 :edit/time 1611757923286 536874703]
                         [537 :block/children 1056 536875783]
@@ -9833,6 +9863,7 @@
                          :edit/email
                          "charles.sims.farr@gmail.com"
                          536873135]
+                        [673 :edit/seen-by 1406 536879928]
                         [673 :edit/time 1611726704778 536873323]
                         [674 :block/open true 536873141]
                         [674 :block/order 1 536873141]
@@ -10209,6 +10240,7 @@
                          :edit/email
                          "charles.sims.farr@gmail.com"
                          536873332]
+                        [700 :edit/seen-by 1406 536879928]
                         [700 :edit/time 1611726756039 536873348]
                         [701 :block/children 719 536873477]
                         [701 :block/children 720 536873484]
@@ -12576,11 +12608,11 @@
                         [847 :create/time 1611753108033 536874426]
                         [847
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536877353]
+                         "mainmoniker@gmail.com"
+                         536879971]
                         [847 :edit/seen-by 60 536878534]
                         [847 :edit/seen-by 1732 536879778]
-                        [847 :edit/time 1611773455218 536877353]
+                        [847 :edit/time 1611843162743 536879971]
                         [847
                          :entity/attrs
                          #{[{:source [:block/uid "86GGMpHF5"],
@@ -13194,7 +13226,7 @@
                         [879 :block/children 885 536874592]
                         [879 :block/children 1065 536875822]
                         [879 :block/children 1126 536876257]
-                        [879 :block/open true 536874584]
+                        [879 :block/open false 536879996]
                         [879 :block/order 5 536879474]
                         [879 :block/page 213 536874590]
                         [879 :block/parents 213 536874590]
@@ -13419,6 +13451,8 @@
                         [896 :edit/seen-by 60 536875087]
                         [896 :edit/seen-by 197 536875767]
                         [896 :edit/seen-by 235 536875761]
+                        [896 :edit/seen-by 276 536879833]
+                        [896 :edit/seen-by 1406 536879856]
                         [896 :edit/time 1611757922984 536874709]
                         [898 :block/children 951 536874788]
                         [898 :block/open false 536876101]
@@ -13514,6 +13548,8 @@
                          "robertson.professor@gmail.com"
                          536874827]
                         [901 :edit/seen-by 60 536875205]
+                        [901 :edit/seen-by 276 536879833]
+                        [901 :edit/seen-by 1406 536879856]
                         [901 :edit/time 1611758361091 536874827]
                         [902 :block/open false 536876101]
                         [902 :block/order 4 536877573]
@@ -14113,6 +14149,7 @@
                          536874780]
                         [950 :edit/seen-by 197 536876454]
                         [950 :edit/seen-by 895 536876096]
+                        [950 :edit/seen-by 1406 536879925]
                         [950 :edit/time 1611758194284 536874782]
                         [951 :block/open false 536876101]
                         [951 :block/order 0 536874788]
@@ -14189,6 +14226,8 @@
                          "toner.brandon@gmail.com"
                          536875748]
                         [954 :edit/seen-by 60 536875747]
+                        [954 :edit/seen-by 276 536879833]
+                        [954 :edit/seen-by 1406 536879856]
                         [954 :edit/time 1611761596085 536875748]
                         [955
                          :block/string
@@ -15308,6 +15347,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536875475]
+                        [1019 :edit/seen-by 1406 536879975]
                         [1019 :edit/time 1611760212966 536875480]
                         [1023 :attrs/lookup 79 536877877]
                         [1023 :attrs/lookup 180 536877877]
@@ -15552,10 +15592,11 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536875591]
+                        [1033 :edit/seen-by 276 536879814]
                         [1033 :edit/seen-by 895 536876097]
                         [1033 :edit/time 1611761027572 536875597]
                         [1034 :block/open true 536875595]
-                        [1034 :block/order 0 536875599]
+                        [1034 :block/order 0 536879817]
                         [1034 :block/page 213 536875596]
                         [1034 :block/parents 213 536875596]
                         [1034 :block/parents 525 536875596]
@@ -15575,16 +15616,19 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536875595]
+                        [1034 :edit/seen-by 276 536879814]
                         [1034 :edit/seen-by 895 536876097]
                         [1034 :edit/time 1611761287870 536875617]
                         [1034
                          :ent/emojis
                          [{:emoji {:native "👍"},
                            :users [{:create/time 1611779197466,
-                                    :create/email "mattbrockwell@gmail.com"}]}]
-                         536877827]
+                                    :create/email "mattbrockwell@gmail.com"}
+                                   {:create/time 1611839073161,
+                                    :create/email "leekeifon@gmail.com"}]}]
+                         536879921]
                         [1035 :block/open true 536875608]
-                        [1035 :block/order 1 536875608]
+                        [1035 :block/order 1 536879817]
                         [1035 :block/page 213 536875609]
                         [1035 :block/parents 213 536875609]
                         [1035 :block/parents 525 536875609]
@@ -17294,6 +17338,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876370]
+                        [1137 :edit/seen-by 1406 536879925]
                         [1137 :edit/time 1611769251935 536876377]
                         [1138 :block/open true 536876374]
                         [1138 :block/order 0 536876379]
@@ -17317,6 +17362,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876374]
+                        [1138 :edit/seen-by 1406 536879925]
                         [1138 :edit/time 1611769276369 536876392]
                         [1140 :block/children 1147 536876501]
                         [1140 :block/children 1149 536876521]
@@ -17343,6 +17389,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876439]
+                        [1140 :edit/seen-by 235 536880072]
                         [1140 :edit/time 1611770296077 536876623]
                         [1141 :block/open true 536876447]
                         [1141 :block/order 0 536876511]
@@ -17551,6 +17598,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876521]
+                        [1149 :edit/seen-by 235 536880072]
                         [1149 :edit/time 1611769976406 536876523]
                         [1150 :block/open true 536876529]
                         [1150 :block/order 0 536876529]
@@ -17715,10 +17763,10 @@
                          536876611]
                         [1157 :edit/time 1611770246883 536876611]
                         [1157 :node/title "convergence" 536876611]
-                        [1158 :attrs/lookup 79 536876695]
                         [1158 :attrs/lookup 1158 536876695]
                         [1158 :attrs/lookup 1172 536876695]
                         [1158 :attrs/lookup 1173 536876695]
+                        [1158 :attrs/lookup 1788 536880004]
                         [1158 :block/children 1172 536876691]
                         [1158 :block/open true 536876616]
                         [1158 :block/order 3 536876620]
@@ -17752,10 +17800,10 @@
                          #{[{:source [:block/uid "J9cpUWOOH"],
                              :value [:block/uid "J9cpUWOOH"]}
                             {:source [:block/uid "aXV0wNId5"],
-                             :value [:block/uid "503BjZUJn"]}
+                             :value [:block/uid "zLYI6zAGT"]}
                             {:source [:block/uid "aXV0wNId5"],
                              :value [:block/uid "fopdz6Eqe"]}]}
-                         536876695]
+                         536880004]
                         [1159 :attrs/lookup 123 536876674]
                         [1159 :attrs/lookup 1159 536876674]
                         [1159 :attrs/lookup 1163 536876674]
@@ -17985,12 +18033,12 @@
                         [1172 :block/parents 1140 536876690]
                         [1172 :block/parents 1149 536876690]
                         [1172 :block/parents 1158 536876692]
-                        [1172 :block/refs 79 536876694]
                         [1172 :block/refs 1173 536876694]
+                        [1172 :block/refs 1788 536880003]
                         [1172
                          :block/string
-                         "Related:: [[Start from abundance.]]"
-                         536876693]
+                         "Related:: [[Start from abundance]]"
+                         536880002]
                         [1172 :block/uid "aXV0wNId5" 536876689]
                         [1172
                          :create/email
@@ -17999,9 +18047,9 @@
                         [1172 :create/time 1611770459302 536876689]
                         [1172
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536876689]
-                        [1172 :edit/time 1611770472325 536876693]
+                         "mainmoniker@gmail.com"
+                         536880002]
+                        [1172 :edit/time 1611844042806 536880002]
                         [1173 :attrs/lookup 123 536876841]
                         [1173 :attrs/lookup 1173 536876841]
                         [1173 :attrs/lookup 1185 536876841]
@@ -18016,9 +18064,10 @@
                         [1173 :create/time 1611770472328 536876694]
                         [1173
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536876694]
-                        [1173 :edit/time 1611770472342 536876694]
+                         "mainmoniker@gmail.com"
+                         536880002]
+                        [1173 :edit/seen-by 235 536880062]
+                        [1173 :edit/time 1611844042805 536880002]
                         [1173
                          :entity/attrs
                          #{[{:source [:block/uid "fopdz6Eqe"],
@@ -18030,8 +18079,8 @@
                          536876841]
                         [1173
                          :node/title
-                         "Start from abundance."
-                         536876694]
+                         "Start from abundance"
+                         536880002]
                         [1174 :block/children 1175 536876703]
                         [1174 :block/children 1178 536876712]
                         [1174 :block/open false 536876885]
@@ -18043,8 +18092,8 @@
                         [1174 :block/refs 1173 536876875]
                         [1174
                          :block/string
-                         "`#how-should-I-tag-this` (resolved) [[Start from abundance.]]"
-                         536876874]
+                         "`#how-should-I-tag-this` (resolved) [[Start from abundance]]"
+                         536880002]
                         [1174 :block/uid "JspVT1Pvm" 536876697]
                         [1174
                          :create/email
@@ -18053,9 +18102,9 @@
                         [1174 :create/time 1611770477743 536876697]
                         [1174
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536876697]
-                        [1174 :edit/time 1611771050805 536876874]
+                         "mainmoniker@gmail.com"
+                         536880002]
+                        [1174 :edit/time 1611844042806 536880002]
                         [1175 :block/open true 536876699]
                         [1175 :block/order 0 536876703]
                         [1175 :block/page 213 536876868]
@@ -18252,6 +18301,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876763]
+                        [1185 :edit/seen-by 235 536880062]
                         [1185 :edit/time 1611770756857 536876763]
                         [1185
                          :entity/attrs
@@ -18930,6 +18980,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536876858]
+                        [1216 :edit/seen-by 235 536880062]
                         [1216 :edit/time 1611770994173 536876863]
                         [1218 :attrs/lookup 79 536876954]
                         [1218 :attrs/lookup 1218 536876954]
@@ -19304,7 +19355,7 @@
                         [1244 :edit/seen-by 1732 536879782]
                         [1244 :edit/time 1611771808704 536877099]
                         [1245 :block/open true 536877103]
-                        [1245 :block/order 0 536877118]
+                        [1245 :block/order 1 536879963]
                         [1245 :block/page 847 536877105]
                         [1245 :block/parents 847 536877105]
                         [1245 :block/parents 848 536877105]
@@ -19329,7 +19380,8 @@
                          536877103]
                         [1245 :edit/time 1611771906256 536877110]
                         [1246 :block/children 1245 536877118]
-                        [1246 :block/open true 536877440]
+                        [1246 :block/children 1785 536879951]
+                        [1246 :block/open false 536879976]
                         [1246 :block/order 0 536877112]
                         [1246 :block/page 847 536877114]
                         [1246 :block/parents 847 536877114]
@@ -19390,7 +19442,7 @@
                         [1248 :edit/time 1611771946580 536877129]
                         [1248 :node/title "datalog" 536877129]
                         [1249 :block/children 1250 536877147]
-                        [1249 :block/open false 536877173]
+                        [1249 :block/open true 536879979]
                         [1249 :block/order 1 536877139]
                         [1249 :block/page 4 536877138]
                         [1249 :block/parents 4 536877138]
@@ -19664,6 +19716,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536877325]
+                        [1264 :edit/seen-by 235 536880072]
                         [1264 :edit/time 1611773437489 536877343]
                         [1265 :block/open true 536877331]
                         [1265 :block/order 0 536877331]
@@ -19703,11 +19756,11 @@
                         [1267 :block/refs 847 536877353]
                         [1267 :block/refs 1147 536877383]
                         [1267 :block/refs 1268 536877349]
-                        [1267 :block/refs 1269 536877353]
+                        [1267 :block/refs 1786 536880074]
                         [1267
                          :block/string
-                         "[[@[[Charles Farr]]]], [[@[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? ((Oc08EGo3H))"
-                         536877382]
+                         "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? ((Oc08EGo3H))"
+                         536880073]
                         [1267 :block/uid "PPgzs8K8g" 536877341]
                         [1267
                          :create/email
@@ -19716,9 +19769,10 @@
                         [1267 :create/time 1611773437478 536877341]
                         [1267
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536877341]
-                        [1267 :edit/time 1611773499262 536877382]
+                         "mainmoniker@gmail.com"
+                         536880073]
+                        [1267 :edit/seen-by 235 536880072]
+                        [1267 :edit/time 1611844419529 536880073]
                         [1268 :block/refs 179 536877349]
                         [1268 :block/uid "ZZgX60u08" 536877349]
                         [1268
@@ -20068,6 +20122,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536877595]
+                        [1292 :edit/seen-by 1406 536879927]
                         [1292 :edit/time 1611774058890 536877603]
                         [1293
                          :block/string
@@ -20615,6 +20670,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536877830]
+                        [1326 :edit/seen-by 276 536879834]
                         [1326 :edit/time 1611779235889 536877837]
                         [1327 :block/open true 536877834]
                         [1327 :block/order 0 536877839]
@@ -20639,6 +20695,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536877834]
+                        [1327 :edit/seen-by 276 536879835]
                         [1327 :edit/time 1611779258175 536877846]
                         [1332 :block/open true 536877857]
                         [1332 :block/order 0 536877999]
@@ -20900,6 +20957,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536877978]
+                        [1352 :edit/seen-by 1406 536879926]
                         [1352 :edit/time 1611779593355 536878005]
                         [1354 :block/open true 536878018]
                         [1354 :block/order 2 536878018]
@@ -20927,8 +20985,10 @@
                          :ent/emojis
                          [{:emoji {:native "💯"},
                            :users [{:create/time 1611779818296,
-                                    :create/email "toner.brandon@gmail.com"}]}]
-                         536878032]
+                                    :create/email "toner.brandon@gmail.com"}
+                                   {:create/time 1611842717394,
+                                    :create/email "leekeifon@gmail.com"}]}]
+                         536879937]
                         [1358 :block/uid "zql88eBgf" 536878065]
                         [1359 :block/open true 536878079]
                         [1359 :block/order 0 536878081]
@@ -20996,6 +21056,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878097]
+                        [1361 :edit/seen-by 235 536879985]
                         [1361 :edit/time 1611787549507 536878097]
                         [1362 :block/open true 536878099]
                         [1362 :block/order 0 536878101]
@@ -21027,11 +21088,11 @@
                         [1364 :block/parents 536 536878112]
                         [1364 :block/parents 1361 536878112]
                         [1364 :block/refs 847 536878126]
-                        [1364 :block/refs 1269 536878126]
+                        [1364 :block/refs 1786 536879991]
                         [1364
                          :block/string
-                         "PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[@[[Matthew Vogel]]]]"
-                         536878125]
+                         "PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[~[[Matthew Vogel]]]]"
+                         536879990]
                         [1364 :block/uid "QG1Hku3PY" 536878111]
                         [1364
                          :create/email
@@ -21040,9 +21101,16 @@
                         [1364 :create/time 1611787619845 536878111]
                         [1364
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536878111]
-                        [1364 :edit/time 1611787663739 536878125]
+                         "mainmoniker@gmail.com"
+                         536879990]
+                        [1364 :edit/seen-by 235 536879985]
+                        [1364 :edit/time 1611843741498 536879990]
+                        [1364
+                         :ent/emojis
+                         [{:emoji {:native "👌"},
+                           :users [{:create/time 1611843736677,
+                                    :create/email "mainmoniker@gmail.com"}]}]
+                         536879989]
                         [1366 :block/uid "ZX_X9Jj1c" 536878136]
                         [1367 :block/children 1368 536878146]
                         [1367 :block/children 1370 536878170]
@@ -21625,6 +21693,8 @@
                         [1405 :block/children 1665 536879348]
                         [1405 :block/children 1667 536879354]
                         [1405 :block/children 1703 536879538]
+                        [1405 :block/children 1790 536880009]
+                        [1405 :block/children 1801 536880093]
                         [1405 :block/open true 536879393]
                         [1405 :block/uid "01-28-2021" 536878380]
                         [1405
@@ -21637,6 +21707,8 @@
                          "enekouru@gmail.com"
                          536879758]
                         [1405 :edit/seen-by 60 536879343]
+                        [1405 :edit/seen-by 235 536880006]
+                        [1405 :edit/seen-by 276 536879818]
                         [1405 :edit/seen-by 1406 536879755]
                         [1405 :edit/time 1611819140758 536879758]
                         [1405 :log/id 1611819140754 536879758]
@@ -21657,6 +21729,11 @@
                          :user/photo-url
                          "https://lh5.googleusercontent.com/-DHsCndFM8xQ/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOmoU1ZDxKGJnUcxPPXP14j6iHEfA/photo.jpg"
                          536878384]
+                        [1406
+                         :user/settings
+                         {:namespace-options [:none :partial :full],
+                          :right-sidebar-pinned {}}
+                         536880159]
                         [1406
                          :user/uid
                          "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
@@ -21913,6 +21990,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878490]
+                        [1426 :edit/seen-by 235 536879969]
                         [1426 :edit/time 1611801154552 536878496]
                         [1427 :block/open true 536878494]
                         [1427 :block/order 0 536878498]
@@ -21922,11 +22000,11 @@
                         [1427 :block/parents 536 536878495]
                         [1427 :block/parents 1426 536878499]
                         [1427 :block/refs 847 536878501]
-                        [1427 :block/refs 1269 536878501]
+                        [1427 :block/refs 1786 536879971]
                         [1427
                          :block/string
-                         "[[@[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. "
-                         536878553]
+                         "[[~[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. "
+                         536879970]
                         [1427 :block/uid "5EH-iH3I0" 536878494]
                         [1427
                          :create/email
@@ -21935,9 +22013,16 @@
                         [1427 :create/time 1611801154547 536878494]
                         [1427
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536878494]
-                        [1427 :edit/time 1611802346432 536878553]
+                         "mainmoniker@gmail.com"
+                         536879970]
+                        [1427 :edit/seen-by 235 536879969]
+                        [1427 :edit/time 1611843162739 536879970]
+                        [1427
+                         :ent/emojis
+                         [{:emoji {:native "👍"},
+                           :users [{:create/time 1611843169634,
+                                    :create/email "mainmoniker@gmail.com"}]}]
+                         536879972]
                         [1428 :block/uid "NrWs9bnmr" 536878504]
                         [1428
                          :user/display-name
@@ -22019,6 +22104,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878523]
+                        [1433 :edit/seen-by 235 536879983]
                         [1433 :edit/seen-by 1732 536879780]
                         [1433 :edit/time 1611802114263 536878525]
                         [1434 :block/children 1435 536878542]
@@ -22038,6 +22124,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878535]
+                        [1434 :edit/seen-by 235 536879983]
                         [1434 :edit/seen-by 1732 536879780]
                         [1434 :edit/time 1611802270801 536878541]
                         [1435 :block/open true 536878538]
@@ -22062,6 +22149,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536878538]
+                        [1435 :edit/seen-by 235 536879983]
                         [1435 :edit/seen-by 1732 536879780]
                         [1435 :edit/time 1611802276562 536878547]
                         [1436 :block/uid "EMBh2kOoB" 536878555]
@@ -22944,12 +23032,12 @@
                         [1490 :block/parents 525 536878837]
                         [1490 :block/parents 534 536878837]
                         [1490 :block/parents 1483 536878837]
-                        [1490 :block/refs 643 536878811]
                         [1490 :block/refs 1173 536878855]
+                        [1490 :block/refs 1789 536880005]
                         [1490
                          :block/string
-                         "#[[Fleeting Notes]][[Start from abundance.]]"
-                         536878854]
+                         "#[[Fleeting Notes]][[Start from abundance]]"
+                         536880002]
                         [1490 :block/uid "mIZ6a3pPq" 536878804]
                         [1490
                          :create/email
@@ -22958,9 +23046,9 @@
                         [1490 :create/time 1604943574874 536878804]
                         [1490
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536878804]
-                        [1490 :edit/time 1611803414325 536878854]
+                         "mainmoniker@gmail.com"
+                         536880002]
+                        [1490 :edit/time 1611844042806 536880002]
                         [1491 :block/children 1492 536878804]
                         [1491 :block/open false 536878804]
                         [1491 :block/order 4 536878804]
@@ -23552,8 +23640,8 @@
                         [1514 :block/refs 1177 536878834]
                         [1514
                          :block/string
-                         "[[Start from abundance.]] — [[David Perell]]"
-                         536878854]
+                         "[[Start from abundance]] — [[David Perell]]"
+                         536880002]
                         [1514 :block/uid "MAm2pCk_4" 536878804]
                         [1514
                          :create/email
@@ -23562,9 +23650,9 @@
                         [1514 :create/time 1605141079274 536878804]
                         [1514
                          :edit/email
-                         "toner.brandon@gmail.com"
-                         536878804]
-                        [1514 :edit/time 1611803414325 536878854]
+                         "mainmoniker@gmail.com"
+                         536880002]
+                        [1514 :edit/time 1611844042806 536880002]
                         [1515 :block/open false 536878804]
                         [1515 :block/order 0 536878804]
                         [1515 :block/page 213 536878853]
@@ -25733,7 +25821,7 @@
                         [1664 :block/refs 239 536879344]
                         [1664 :block/uid "ItXoi5qz8" 536879344]
                         [1665 :block/open false 536879614]
-                        [1665 :block/order 5 536879711]
+                        [1665 :block/order 2 536879929]
                         [1665 :block/page 1405 536879349]
                         [1665 :block/parents 1405 536879349]
                         [1665 :block/string "---" 536879356]
@@ -25755,12 +25843,12 @@
                         [1667 :block/children 1681 536879393]
                         [1667 :block/children 1682 536879393]
                         [1667 :block/children 1728 536879727]
-                        [1667 :block/open true 536879757]
-                        [1667 :block/order 6 536879711]
+                        [1667 :block/open true 536880075]
+                        [1667 :block/order 3 536879929]
                         [1667 :block/page 1405 536879355]
                         [1667 :block/parents 1405 536879355]
-                        [1667 :block/refs 103 536879402]
                         [1667 :block/refs 385 536879402]
+                        [1667 :block/refs 1696 536879936]
                         [1667
                          :block/string
                          "#[[My Daily Notes]] [[Brandon Toner]] {{word-count}}"
@@ -25775,6 +25863,9 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879354]
+                        [1667 :edit/seen-by 60 536880542]
+                        [1667 :edit/seen-by 235 536880006]
+                        [1667 :edit/seen-by 276 536879818]
                         [1667 :edit/seen-by 1406 536879759]
                         [1667 :edit/time 1611805761869 536879354]
                         [1668 :block/open false 536879616]
@@ -25819,6 +25910,7 @@
                         [1674 :block/uid "LE-SgxL0o" 536879392]
                         [1675 :block/children 1683 536879413]
                         [1675 :block/children 1721 536879688]
+                        [1675 :block/children 1743 536879823]
                         [1675 :block/open true 536879393]
                         [1675 :block/order 0 536879393]
                         [1675 :block/page 1405 536879403]
@@ -25839,11 +25931,14 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879393]
+                        [1675 :edit/seen-by 60 536880542]
+                        [1675 :edit/seen-by 235 536880025]
+                        [1675 :edit/seen-by 276 536879818]
                         [1675 :edit/time 1611806053883 536879409]
                         [1676 :block/children 1677 536879393]
                         [1676 :block/children 1678 536879393]
                         [1676 :block/open false 536879624]
-                        [1676 :block/order 2 536879733]
+                        [1676 :block/order 2 536880009]
                         [1676 :block/page 1405 536879404]
                         [1676 :block/parents 1405 536879404]
                         [1676 :block/parents 1667 536879404]
@@ -25911,7 +26006,7 @@
                          536879393]
                         [1678 :edit/time 1611807994171 536879548]
                         [1679 :block/open true 536879393]
-                        [1679 :block/order 3 536879733]
+                        [1679 :block/order 3 536880009]
                         [1679 :block/page 1405 536879405]
                         [1679 :block/parents 1405 536879405]
                         [1679 :block/parents 1667 536879405]
@@ -25933,7 +26028,7 @@
                          536879393]
                         [1679 :edit/time 1611805934981 536879393]
                         [1680 :block/open true 536879393]
-                        [1680 :block/order 4 536879733]
+                        [1680 :block/order 4 536880009]
                         [1680 :block/page 1405 536879406]
                         [1680 :block/parents 1405 536879406]
                         [1680 :block/parents 1667 536879406]
@@ -25954,17 +26049,14 @@
                          "toner.brandon@gmail.com"
                          536879393]
                         [1680 :edit/time 1611805934981 536879393]
+                        [1681 :block/children 1810 536880229]
                         [1681 :block/open true 536879393]
-                        [1681 :block/order 5 536879733]
+                        [1681 :block/order 5 536880009]
                         [1681 :block/page 1405 536879407]
                         [1681 :block/parents 1405 536879407]
                         [1681 :block/parents 1667 536879407]
-                        [1681 :block/refs 87 536879396]
-                        [1681 :block/refs 91 536879396]
-                        [1681
-                         :block/string
-                         "#Comments #not_populated"
-                         536879393]
+                        [1681 :block/refs 1798 536880077]
+                        [1681 :block/string "#Comments" 536880225]
                         [1681 :block/uid "XX7Up0_kK" 536879393]
                         [1681
                          :create/email
@@ -25975,9 +26067,10 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879393]
-                        [1681 :edit/time 1611805934981 536879393]
+                        [1681 :edit/seen-by 1406 536880599]
+                        [1681 :edit/time 1611845382691 536880225]
                         [1682 :block/open true 536879393]
-                        [1682 :block/order 6 536879733]
+                        [1682 :block/order 6 536880229]
                         [1682 :block/page 1405 536879408]
                         [1682 :block/parents 1405 536879408]
                         [1682 :block/parents 1667 536879408]
@@ -25997,6 +26090,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879393]
+                        [1682 :edit/seen-by 1406 536880090]
                         [1682 :edit/time 1611805934981 536879393]
                         [1683 :attrs/lookup 1683 536879445]
                         [1683 :attrs/lookup 1684 536879445]
@@ -26301,7 +26395,7 @@
                         [1702 :edit/time 1611806980880 536879534]
                         [1703 :block/children 1725 536879711]
                         [1703 :block/open true 536879711]
-                        [1703 :block/order 4 536879544]
+                        [1703 :block/order 1 536879929]
                         [1703 :block/page 1405 536879539]
                         [1703 :block/parents 1405 536879539]
                         [1703 :block/refs 1303 536879541]
@@ -26319,6 +26413,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879538]
+                        [1703 :edit/seen-by 1406 536879973]
                         [1703 :edit/time 1611807865039 536879540]
                         [1704 :block/open true 536879542]
                         [1704 :block/order 0 536879544]
@@ -26587,6 +26682,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879688]
+                        [1721 :edit/seen-by 276 536879818]
                         [1721 :edit/time 1611808746460 536879690]
                         [1722 :block/children 1724 536879704]
                         [1722 :block/open true 536879692]
@@ -26611,6 +26707,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879692]
+                        [1722 :edit/seen-by 276 536879818]
                         [1722 :edit/time 1611808768510 536879700]
                         [1723 :block/uid "hxCI4XmG1" 536879701]
                         [1724 :block/open true 536879702]
@@ -26635,6 +26732,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879702]
+                        [1724 :edit/seen-by 276 536879818]
                         [1724 :edit/time 1611808783754 536879708]
                         [1725 :block/open true 536879709]
                         [1725 :block/order 0 536879711]
@@ -26657,6 +26755,7 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879709]
+                        [1725 :edit/seen-by 1406 536879973]
                         [1725 :edit/time 1611808880069 536879720]
                         [1726
                          :block/string
@@ -26696,6 +26795,8 @@
                          :edit/email
                          "toner.brandon@gmail.com"
                          536879727]
+                        [1728 :edit/seen-by 235 536880006]
+                        [1728 :edit/seen-by 276 536879850]
                         [1728 :edit/seen-by 1406 536879759]
                         [1728 :edit/time 1611809337203 536879731]
                         [1729 :block/open true 536879729]
@@ -26762,6 +26863,7 @@
                          :edit/email
                          "wadedominic93@gmail.com"
                          536879765]
+                        [1734 :edit/seen-by 235 536879981]
                         [1734 :edit/time 1611823631668 536879765]
                         [1734 :node/title "Wade Dominic" 536879765]
                         [1735 :block/open true 536879766]
@@ -26782,6 +26884,7 @@
                          :edit/email
                          "wadedominic93@gmail.com"
                          536879766]
+                        [1735 :edit/seen-by 235 536879981]
                         [1735 :edit/time 1611823814241 536879800]
                         [1740 :block/open true 536879808]
                         [1740 :block/order 1 536879808]
@@ -26810,4 +26913,1483 @@
                         [1741
                          :user/uid
                          "YxntsTk8F0WAVH6WmOQ1UTB2i8i1"
-                         536879812]]}
+                         536879812]
+                        [1743 :block/children 1744 536879829]
+                        [1743 :block/open true 536879819]
+                        [1743 :block/order 2 536879823]
+                        [1743 :block/page 1405 536879820]
+                        [1743 :block/parents 1405 536879820]
+                        [1743 :block/parents 1667 536879820]
+                        [1743 :block/parents 1675 536879820]
+                        [1743 :block/refs 1033 536879826]
+                        [1743 :block/string "((TDu-L6HLm))" 536879825]
+                        [1743 :block/uid "mWtOFDWvA" 536879819]
+                        [1743
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879819]
+                        [1743 :create/time 1611838595787 536879819]
+                        [1743
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879819]
+                        [1743 :edit/seen-by 60 536880542]
+                        [1743 :edit/time 1611838604526 536879825]
+                        [1744 :block/open true 536879827]
+                        [1744 :block/order 0 536879829]
+                        [1744 :block/page 1405 536879828]
+                        [1744 :block/parents 1405 536879828]
+                        [1744 :block/parents 1667 536879828]
+                        [1744 :block/parents 1675 536879828]
+                        [1744 :block/parents 1743 536879830]
+                        [1744 :block/refs 65 536879844]
+                        [1744 :block/refs 1745 536879855]
+                        [1744 :block/refs 1746 536879855]
+                        [1744
+                         :block/string
+                         "My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]"
+                         536880440]
+                        [1744 :block/uid "bIl7_WLyg" 536879827]
+                        [1744
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879827]
+                        [1744 :create/time 1611838604671 536879827]
+                        [1744
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879827]
+                        [1744 :edit/time 1611846497279 536880440]
+                        [1745 :block/uid "UMSQ8W_ES" 536879855]
+                        [1745
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879855]
+                        [1745 :create/time 1611838918005 536879855]
+                        [1745
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879855]
+                        [1745 :edit/time 1611838918022 536879855]
+                        [1745 :node/title "~" 536879855]
+                        [1746 :attrs/lookup 1746 536879920]
+                        [1746 :attrs/lookup 1748 536879920]
+                        [1746 :attrs/lookup 1749 536879920]
+                        [1746 :attrs/lookup 1750 536879920]
+                        [1746 :attrs/lookup 1752 536879920]
+                        [1746 :attrs/lookup 1753 536879920]
+                        [1746 :attrs/lookup 1754 536879920]
+                        [1746 :attrs/lookup 1755 536879920]
+                        [1746 :attrs/lookup 1756 536879920]
+                        [1746 :attrs/lookup 1757 536879920]
+                        [1746 :attrs/lookup 1758 536879920]
+                        [1746 :attrs/lookup 1759 536879920]
+                        [1746 :attrs/lookup 1763 536879920]
+                        [1746 :attrs/lookup 1766 536879920]
+                        [1746 :attrs/lookup 1767 536879920]
+                        [1746 :attrs/lookup 1769 536879920]
+                        [1746 :attrs/lookup 1771 536879920]
+                        [1746 :attrs/lookup 1772 536879920]
+                        [1746 :attrs/lookup 1774 536879920]
+                        [1746 :attrs/lookup 1775 536879920]
+                        [1746 :attrs/lookup 1776 536879920]
+                        [1746 :block/children 1748 536879859]
+                        [1746 :block/children 1749 536879859]
+                        [1746 :block/children 1753 536879859]
+                        [1746 :block/children 1755 536879859]
+                        [1746 :block/children 1756 536879859]
+                        [1746 :block/children 1757 536879859]
+                        [1746 :block/open true 536879859]
+                        [1746 :block/uid "9Yhcuft5y" 536879855]
+                        [1746
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879855]
+                        [1746 :create/time 1611838918005 536879855]
+                        [1746
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879855]
+                        [1746 :edit/time 1611839073401 536879923]
+                        [1746
+                         :entity/attrs
+                         #{[{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "RL4-kaAiu"],
+                             :value [:block/uid "8KTFlFncv"]}
+                            {:source [:block/uid "IHWUyPAwx"],
+                             :value [:block/uid "IHWUyPAwx"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "JcHCF7f4n"],
+                             :value [:block/uid "qt8h13HR4"]}
+                            {:source [:block/uid "z3rJPNa7Z"],
+                             :value [:block/uid "z3rJPNa7Z"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "9b1RhL3-k"],
+                             :value [:block/uid "qDFyRAZj_"]}
+                            {:source [:block/uid "9b1RhL3-k"],
+                             :value " [[Eastern Time]] ([[UTC]] -5:00)"}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "JcHCF7f4n"],
+                             :value [:block/uid "qt8h13HR4"]}
+                            {:source [:block/uid "veqAWcV5X"],
+                             :value [:block/uid "veqAWcV5X"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "r3NX76BoA"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "t2ILK9m5I"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "CwfOE8eI-"],
+                             :value [:block/uid "Sr7LOCJBW"]}
+                            {:source [:block/uid "rNOvKc9tJ"],
+                             :value [:block/uid "rNOvKc9tJ"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "r3NX76BoA"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "8PB1G0cih"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "r3NX76BoA"]}
+                            {:source [:block/uid "n1Rv0VndI"],
+                             :value [:block/uid "YW03akQEN"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "CwfOE8eI-"],
+                             :value [:block/uid "Sr7LOCJBW"]}
+                            {:source [:block/uid "mOXFnMahF"],
+                             :value [:block/uid "mOXFnMahF"]}]
+                           [{:source [:block/uid "9Yhcuft5y"],
+                             :value [:block/uid "9Yhcuft5y"]}
+                            {:source [:block/uid "aLQqh3FzN"],
+                             :value [:block/uid "wYHcLaxCC"]}
+                            {:source [:block/uid "aLQqh3FzN"],
+                             :value " [@kylestratis](https://twitter.com/kylestratis)"}]}
+                         536879920]
+                        [1746 :node/title "Kyle Stratis" 536879855]
+                        [1748 :block/children 1752 536879859]
+                        [1748 :block/open true 536879859]
+                        [1748 :block/order 5 536879890]
+                        [1748 :block/page 1746 536879878]
+                        [1748 :block/parents 1746 536879878]
+                        [1748 :block/refs 1769 536879871]
+                        [1748 :block/string "Queries::" 536879859]
+                        [1748 :block/uid "RL4-kaAiu" 536879859]
+                        [1748
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1748 :create/time 1611838965173 536879859]
+                        [1748
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1748 :edit/time 1611838965173 536879859]
+                        [1749 :block/children 1771 536879890]
+                        [1749 :block/children 1772 536879897]
+                        [1749 :block/open true 536879859]
+                        [1749 :block/order 1 536879859]
+                        [1749 :block/page 1746 536879874]
+                        [1749 :block/parents 1746 536879874]
+                        [1749 :block/refs 1759 536879862]
+                        [1749 :block/string "Website::" 536879888]
+                        [1749 :block/uid "CwfOE8eI-" 536879859]
+                        [1749
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1749 :create/time 1611838965172 536879859]
+                        [1749
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1749 :edit/time 1611838989148 536879888]
+                        [1750 :block/open true 536879859]
+                        [1750 :block/order 1 536879859]
+                        [1750 :block/page 1746 536879877]
+                        [1750 :block/parents 1746 536879877]
+                        [1750 :block/parents 1757 536879877]
+                        [1750
+                         :block/string
+                         "Send me a DM on Twitter (also great)"
+                         536879859]
+                        [1750 :block/uid "z3rJPNa7Z" 536879859]
+                        [1750
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1750 :create/time 1611838965172 536879859]
+                        [1750
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1750 :edit/time 1611838965172 536879859]
+                        [1752 :block/open true 536879859]
+                        [1752 :block/order 0 536879859]
+                        [1752 :block/page 1746 536879878]
+                        [1752 :block/parents 1746 536879878]
+                        [1752 :block/parents 1748 536879878]
+                        [1752 :block/refs 1746 536879923]
+                        [1752 :block/refs 1770 536879873]
+                        [1752 :block/refs 1777 536879923]
+                        [1752
+                         :block/string
+                         "{{[[query]]: {and: [[@[[Kyle Stratis]]]]}}}"
+                         536879922]
+                        [1752 :block/uid "IHWUyPAwx" 536879859]
+                        [1752
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1752 :create/time 1611838965173 536879859]
+                        [1752
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1752 :edit/time 1611839073380 536879922]
+                        [1753 :block/open true 536879859]
+                        [1753 :block/order 0 536879859]
+                        [1753 :block/page 1746 536879879]
+                        [1753 :block/parents 1746 536879879]
+                        [1753 :block/refs 1758 536879860]
+                        [1753
+                         :block/string
+                         "Twitter:: [@kylestratis](https://twitter.com/kylestratis)"
+                         536879882]
+                        [1753 :block/uid "aLQqh3FzN" 536879859]
+                        [1753
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1753 :create/time 1611838965173 536879859]
+                        [1753
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1753 :edit/time 1611838979998 536879882]
+                        [1754 :block/open true 536879859]
+                        [1754 :block/order 0 536879859]
+                        [1754 :block/page 1746 536879877]
+                        [1754 :block/parents 1746 536879877]
+                        [1754 :block/parents 1757 536879877]
+                        [1754
+                         :block/string
+                         "Send me a DM on Roam Slack (preferred)"
+                         536879859]
+                        [1754 :block/uid "veqAWcV5X" 536879859]
+                        [1754
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1754 :create/time 1611838965172 536879859]
+                        [1754
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1754 :edit/time 1611838965172 536879859]
+                        [1755 :block/open true 536879859]
+                        [1755 :block/order 3 536879890]
+                        [1755 :block/page 1746 536879876]
+                        [1755 :block/parents 1746 536879876]
+                        [1755 :block/refs 1765 536879866]
+                        [1755 :block/refs 1766 536879866]
+                        [1755 :block/refs 1773 536879906]
+                        [1755
+                         :block/string
+                         "Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)"
+                         536879905]
+                        [1755 :block/uid "9b1RhL3-k" 536879859]
+                        [1755
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1755 :create/time 1611838965172 536879859]
+                        [1755
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1755 :edit/time 1611839026047 536879905]
+                        [1756 :block/open true 536879859]
+                        [1756 :block/order 2 536879890]
+                        [1756 :block/page 1746 536879875]
+                        [1756 :block/parents 1746 536879875]
+                        [1756 :block/refs 1763 536879864]
+                        [1756 :block/refs 1774 536879909]
+                        [1756 :block/refs 1775 536879912]
+                        [1756 :block/refs 1776 536879915]
+                        [1756
+                         :block/string
+                         "Location:: [[Boston]], [[Massachusetts]] [[USA]]"
+                         536879914]
+                        [1756 :block/uid "n1Rv0VndI" 536879859]
+                        [1756
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1756 :create/time 1611838965172 536879859]
+                        [1756
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1756 :edit/time 1611839040171 536879914]
+                        [1757 :block/children 1750 536879859]
+                        [1757 :block/children 1754 536879859]
+                        [1757 :block/open true 536879917]
+                        [1757 :block/order 4 536879890]
+                        [1757 :block/page 1746 536879877]
+                        [1757 :block/parents 1746 536879877]
+                        [1757 :block/refs 1767 536879868]
+                        [1757
+                         :block/string
+                         "How to contact me:: "
+                         536879859]
+                        [1757 :block/uid "JcHCF7f4n" 536879859]
+                        [1757
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1757 :create/time 1611838965172 536879859]
+                        [1757
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879859]
+                        [1757 :edit/time 1611838965172 536879859]
+                        [1758 :block/uid "wYHcLaxCC" 536879860]
+                        [1758
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879860]
+                        [1758 :create/time 1611838965195 536879860]
+                        [1758
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879860]
+                        [1758 :edit/time 1611838965195 536879860]
+                        [1758 :node/title "Twitter" 536879860]
+                        [1759 :block/uid "Sr7LOCJBW" 536879862]
+                        [1759
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879862]
+                        [1759 :create/time 1611838965202 536879862]
+                        [1759
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879862]
+                        [1759 :edit/time 1611838965202 536879862]
+                        [1759 :node/title "Website" 536879862]
+                        [1763 :block/uid "r3NX76BoA" 536879864]
+                        [1763
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879864]
+                        [1763 :create/time 1611838965209 536879864]
+                        [1763
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879864]
+                        [1763 :edit/time 1611838965210 536879864]
+                        [1763 :node/title "Location" 536879864]
+                        [1765 :block/uid "YdyE_hdCL" 536879866]
+                        [1765
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879866]
+                        [1765 :create/time 1611838965221 536879866]
+                        [1765
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879866]
+                        [1765 :edit/time 1611838965222 536879866]
+                        [1765 :node/title "UTC" 536879866]
+                        [1766 :block/uid "qDFyRAZj_" 536879866]
+                        [1766
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879866]
+                        [1766 :create/time 1611838965221 536879866]
+                        [1766
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879866]
+                        [1766 :edit/time 1611838965222 536879866]
+                        [1766 :node/title "Time Zone" 536879866]
+                        [1767 :block/uid "qt8h13HR4" 536879868]
+                        [1767
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879868]
+                        [1767 :create/time 1611838965232 536879868]
+                        [1767
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879868]
+                        [1767 :edit/time 1611838965232 536879868]
+                        [1767
+                         :node/title
+                         "How to contact me"
+                         536879868]
+                        [1769 :block/uid "8KTFlFncv" 536879871]
+                        [1769
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879871]
+                        [1769 :create/time 1611838965259 536879871]
+                        [1769
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879871]
+                        [1769 :edit/time 1611838965259 536879871]
+                        [1769 :node/title "Queries" 536879871]
+                        [1770 :block/uid "QZHYlp_9P" 536879873]
+                        [1770
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879873]
+                        [1770 :create/time 1611838965272 536879873]
+                        [1770
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879873]
+                        [1770 :edit/time 1611838965274 536879873]
+                        [1770 :node/title "query" 536879873]
+                        [1771 :block/open true 536879886]
+                        [1771 :block/order 0 536879890]
+                        [1771 :block/page 1746 536879887]
+                        [1771 :block/parents 1746 536879887]
+                        [1771 :block/parents 1749 536879892]
+                        [1771
+                         :block/string
+                         "[Blog](https://kylestratis.com)"
+                         536879896]
+                        [1771 :block/uid "mOXFnMahF" 536879886]
+                        [1771
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879886]
+                        [1771 :create/time 1611838989141 536879886]
+                        [1771
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879886]
+                        [1771 :edit/time 1611839004057 536879896]
+                        [1772 :block/open true 536879897]
+                        [1772 :block/order 1 536879897]
+                        [1772 :block/page 1746 536879899]
+                        [1772 :block/parents 1746 536879899]
+                        [1772 :block/parents 1749 536879899]
+                        [1772 :block/refs 65 536879904]
+                        [1772
+                         :block/string
+                         "[RoamLab](https://roamlab.org) #RoamLab"
+                         536879903]
+                        [1772 :block/uid "rNOvKc9tJ" 536879897]
+                        [1772
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879897]
+                        [1772 :create/time 1611839004084 536879897]
+                        [1772
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879897]
+                        [1772 :edit/time 1611839015845 536879903]
+                        [1773 :block/uid "uSXSDzGQ6" 536879906]
+                        [1773
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879906]
+                        [1773 :create/time 1611839026050 536879906]
+                        [1773
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879906]
+                        [1773 :edit/time 1611839026053 536879906]
+                        [1773 :node/title "Eastern Time" 536879906]
+                        [1774 :block/uid "t2ILK9m5I" 536879909]
+                        [1774
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879909]
+                        [1774 :create/time 1611839031180 536879909]
+                        [1774
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879909]
+                        [1774 :edit/time 1611839031182 536879909]
+                        [1774 :node/title "Boston" 536879909]
+                        [1775 :block/uid "YW03akQEN" 536879912]
+                        [1775
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879912]
+                        [1775 :create/time 1611839036684 536879912]
+                        [1775
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879912]
+                        [1775 :edit/time 1611839036685 536879912]
+                        [1775 :node/title "Massachusetts" 536879912]
+                        [1776 :block/uid "8PB1G0cih" 536879915]
+                        [1776
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879915]
+                        [1776 :create/time 1611839040173 536879915]
+                        [1776
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879915]
+                        [1776 :edit/time 1611839040175 536879915]
+                        [1776 :node/title "USA" 536879915]
+                        [1777 :block/refs 1746 536879923]
+                        [1777 :block/uid "SjUaWaXBS" 536879923]
+                        [1777
+                         :create/email
+                         "kyle.stratis@gmail.com"
+                         536879923]
+                        [1777 :create/time 1611839073381 536879923]
+                        [1777
+                         :edit/email
+                         "kyle.stratis@gmail.com"
+                         536879923]
+                        [1777 :edit/time 1611839073401 536879923]
+                        [1777
+                         :node/title
+                         "@[[Kyle Stratis]]"
+                         536879923]
+                        [1784 :block/uid "9jBh7kqRV" 536879949]
+                        [1784
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536879949]
+                        [1784 :create/time 1611843052379 536879949]
+                        [1784
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536879949]
+                        [1784 :edit/time 1611843052380 536879949]
+                        [1784 :node/title "@" 536879949]
+                        [1785 :block/open true 536879951]
+                        [1785 :block/order 0 536879963]
+                        [1785 :block/page 847 536879952]
+                        [1785 :block/parents 847 536879952]
+                        [1785 :block/parents 848 536879952]
+                        [1785 :block/parents 872 536879952]
+                        [1785 :block/parents 1246 536879952]
+                        [1785 :block/refs 847 536879958]
+                        [1785 :block/refs 1269 536879958]
+                        [1785 :block/refs 1770 536879954]
+                        [1785 :block/refs 1784 536879962]
+                        [1785
+                         :block/string
+                         "{{[[query]]: {and: {or: {and: [[@]] [[Matthew Vogel]]} [[@[[Matthew Vogel]]]]} {not: [[query]]}} }}"
+                         536879968]
+                        [1785 :block/uid "u2VvbzF0k" 536879951]
+                        [1785
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536879951]
+                        [1785 :create/time 1611843054424 536879951]
+                        [1785
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536879951]
+                        [1785 :edit/time 1611843143270 536879968]
+                        [1786 :block/refs 847 536879971]
+                        [1786 :block/uid "DrdJFJEls" 536879971]
+                        [1786
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536879971]
+                        [1786 :create/time 1611843162741 536879971]
+                        [1786
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536879971]
+                        [1786 :edit/time 1611843162743 536879971]
+                        [1786
+                         :node/title
+                         "~[[Matthew Vogel]]"
+                         536879971]
+                        [1787 :block/uid "w5WfjzLiB" 536879997]
+                        [1787
+                         :window/filters
+                         {:includes (), :removes ()}
+                         536879998]
+                        [1787
+                         :window/id
+                         "rTvmoxu9FGSWal8SbCZiywCL2Nm1-body-outline-01-28-2021"
+                         536879997]
+                        [1788 :block/uid "zLYI6zAGT" 536880003]
+                        [1788
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880003]
+                        [1788 :create/time 1611844042811 536880003]
+                        [1788
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880003]
+                        [1788 :edit/time 1611844042813 536880003]
+                        [1788 :node/title "Related" 536880003]
+                        [1789 :block/uid "OE8CCpfnQ" 536880005]
+                        [1789
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880005]
+                        [1789 :create/time 1611844042830 536880005]
+                        [1789
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880005]
+                        [1789 :edit/time 1611844042831 536880005]
+                        [1789 :node/title "Fleeting Notes" 536880005]
+                        [1790 :block/children 1791 536880019]
+                        [1790 :block/children 1793 536880028]
+                        [1790 :block/open true 536880577]
+                        [1790 :block/order 4 536880009]
+                        [1790 :block/page 1405 536880008]
+                        [1790 :block/parents 1405 536880008]
+                        [1790 :block/refs 847 536880015]
+                        [1790 :block/refs 1696 536880013]
+                        [1790
+                         :block/string
+                         "#[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}"
+                         536880016]
+                        [1790 :block/uid "SnEF0_w45" 536880007]
+                        [1790
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880007]
+                        [1790 :create/time 1611844114996 536880007]
+                        [1790
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880007]
+                        [1790 :edit/seen-by 60 536880086]
+                        [1790 :edit/seen-by 1406 536880605]
+                        [1790 :edit/time 1611844138532 536880016]
+                        [1791 :block/open true 536880017]
+                        [1791 :block/order 0 536880019]
+                        [1791 :block/page 1405 536880018]
+                        [1791 :block/parents 1405 536880018]
+                        [1791 :block/parents 1790 536880020]
+                        [1791 :block/refs 87 536880031]
+                        [1791 :block/refs 1792 536880027]
+                        [1791
+                         :block/string
+                         "#Scratchpad #not_populated"
+                         536880030]
+                        [1791 :block/uid "81nfnV6oH" 536880017]
+                        [1791
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880017]
+                        [1791 :create/time 1611844138622 536880017]
+                        [1791
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880017]
+                        [1791 :edit/time 1611844180680 536880030]
+                        [1792 :block/uid "wwX3aVlkf" 536880027]
+                        [1792
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880027]
+                        [1792 :create/time 1611844175827 536880027]
+                        [1792
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880027]
+                        [1792 :edit/time 1611844175843 536880027]
+                        [1792 :node/title "Scratchpad" 536880027]
+                        [1793 :block/children 1796 536880039]
+                        [1793 :block/children 1833 536880534]
+                        [1793 :block/open true 536880028]
+                        [1793 :block/order 1 536880028]
+                        [1793 :block/page 1405 536880029]
+                        [1793 :block/parents 1405 536880029]
+                        [1793 :block/parents 1790 536880029]
+                        [1793 :block/refs 1795 536880035]
+                        [1793 :block/string "#Chat" 536880034]
+                        [1793 :block/uid "Y3DGQY_SS" 536880028]
+                        [1793
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880028]
+                        [1793 :create/time 1611844178339 536880028]
+                        [1793
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880028]
+                        [1793 :edit/seen-by 60 536880086]
+                        [1793 :edit/seen-by 1406 536880605]
+                        [1793 :edit/time 1611844187583 536880034]
+                        [1795 :block/uid "Q2fSEKaJf" 536880035]
+                        [1795
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880035]
+                        [1795 :create/time 1611844187584 536880035]
+                        [1795
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880035]
+                        [1795 :edit/time 1611844187585 536880035]
+                        [1795 :node/title "Chat" 536880035]
+                        [1796 :block/children 1797 536880045]
+                        [1796 :block/open true 536880037]
+                        [1796 :block/order 0 536880039]
+                        [1796 :block/page 1405 536880038]
+                        [1796 :block/parents 1405 536880038]
+                        [1796 :block/parents 1790 536880038]
+                        [1796 :block/parents 1793 536880040]
+                        [1796 :block/refs 1267 536880042]
+                        [1796 :block/string "((PPgzs8K8g))" 536880041]
+                        [1796 :block/uid "RZRTbCbKX" 536880037]
+                        [1796
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880037]
+                        [1796 :create/time 1611844274706 536880037]
+                        [1796
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880037]
+                        [1796 :edit/seen-by 60 536880086]
+                        [1796 :edit/seen-by 1406 536880609]
+                        [1796 :edit/time 1611844284487 536880041]
+                        [1797 :block/open true 536880043]
+                        [1797 :block/order 0 536880045]
+                        [1797 :block/page 1405 536880044]
+                        [1797 :block/parents 1405 536880044]
+                        [1797 :block/parents 1790 536880044]
+                        [1797 :block/parents 1793 536880044]
+                        [1797 :block/parents 1796 536880046]
+                        [1797 :block/refs 70 536880050]
+                        [1797 :block/refs 1171 536880069]
+                        [1797 :block/refs 1789 536880053]
+                        [1797
+                         :block/string
+                         "Seems like it's missing a step where [[literature notes]] inform/strengthen [[Fleeting Notes]] or would that happen at the [[creative projects]] phase?"
+                         536880070]
+                        [1797 :block/uid "exrelwEn9" 536880043]
+                        [1797
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880043]
+                        [1797 :create/time 1611844284494 536880043]
+                        [1797
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880043]
+                        [1797 :edit/seen-by 60 536880086]
+                        [1797 :edit/seen-by 1406 536880612]
+                        [1797 :edit/time 1611844409587 536880070]
+                        [1798 :block/uid "AsfHzW0Sw" 536880077]
+                        [1798
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880077]
+                        [1798 :create/time 1611844606655 536880077]
+                        [1798
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880077]
+                        [1798 :edit/time 1611844606657 536880077]
+                        [1798 :node/title "Comments" 536880077]
+                        [1801 :block/children 1803 536880100]
+                        [1801 :block/children 1811 536880233]
+                        [1801 :block/open true 536880091]
+                        [1801 :block/order 4 536880093]
+                        [1801 :block/page 1405 536880092]
+                        [1801 :block/parents 1405 536880092]
+                        [1801 :block/refs 1696 536880096]
+                        [1801 :block/refs 1802 536880096]
+                        [1801
+                         :block/string
+                         "#[[My Daily Notes]] [[leekeifon]] {{word-count}}"
+                         536880102]
+                        [1801 :block/uid "TJG-en7SV" 536880091]
+                        [1801
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880091]
+                        [1801 :create/time 1611844729120 536880091]
+                        [1801
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880091]
+                        [1801 :edit/seen-by 276 536880443]
+                        [1801 :edit/time 1611844763655 536880102]
+                        [1802 :block/uid "fEc2JsNwS" 536880096]
+                        [1802
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880096]
+                        [1802 :create/time 1611844744920 536880096]
+                        [1802
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880540]
+                        [1802 :edit/time 1611846959114 536880540]
+                        [1802 :node/title "leekeifon" 536880096]
+                        [1803 :block/children 1804 536880107]
+                        [1803 :block/children 1806 536880153]
+                        [1803 :block/open true 536880098]
+                        [1803 :block/order 1 536880249]
+                        [1803 :block/page 1405 536880099]
+                        [1803 :block/parents 1405 536880099]
+                        [1803 :block/parents 1801 536880101]
+                        [1803 :block/refs 1795 536880104]
+                        [1803 :block/string "#[[Chat]]" 536880103]
+                        [1803 :block/uid "tVOvED9yd" 536880098]
+                        [1803
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880098]
+                        [1803 :create/time 1611844757133 536880098]
+                        [1803
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880098]
+                        [1803 :edit/time 1611844838726 536880103]
+                        [1804 :block/children 1805 536880123]
+                        [1804 :block/open true 536880105]
+                        [1804 :block/order 0 536880107]
+                        [1804 :block/page 1405 536880106]
+                        [1804 :block/parents 1405 536880106]
+                        [1804 :block/parents 1801 536880106]
+                        [1804 :block/parents 1803 536880108]
+                        [1804 :block/refs 385 536880110]
+                        [1804 :block/refs 1023 536880110]
+                        [1804
+                         :block/string
+                         "[[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
+                         536880120]
+                        [1804 :block/uid "E_YZvcQea" 536880105]
+                        [1804
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880105]
+                        [1804 :create/time 1611844838864 536880105]
+                        [1804
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880105]
+                        [1804 :edit/time 1611844887209 536880120]
+                        [1805 :block/open true 536880121]
+                        [1805 :block/order 0 536880123]
+                        [1805 :block/page 1405 536880122]
+                        [1805 :block/parents 1405 536880122]
+                        [1805 :block/parents 1801 536880122]
+                        [1805 :block/parents 1803 536880122]
+                        [1805 :block/parents 1804 536880124]
+                        [1805
+                         :block/string
+                         "For example, I may want to add a tag like `#experiment` for the sake of easy query."
+                         536880152]
+                        [1805 :block/uid "7E89EpNYZ" 536880121]
+                        [1805
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880121]
+                        [1805 :create/time 1611844889301 536880121]
+                        [1805
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880121]
+                        [1805 :edit/time 1611845010583 536880152]
+                        [1806 :block/children 1809 536880217]
+                        [1806 :block/open true 536880150]
+                        [1806 :block/order 1 536880150]
+                        [1806 :block/page 1405 536880151]
+                        [1806 :block/parents 1405 536880151]
+                        [1806 :block/parents 1801 536880151]
+                        [1806 :block/parents 1803 536880151]
+                        [1806 :block/refs 847 536880156]
+                        [1806 :block/refs 1129 536880167]
+                        [1806 :block/refs 1269 536880156]
+                        [1806
+                         :block/string
+                         "[[@[[Matthew Vogel]]]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ..."
+                         536880184]
+                        [1806 :block/uid "qYaQWKeH2" 536880150]
+                        [1806
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880150]
+                        [1806 :create/time 1611844999268 536880150]
+                        [1806
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880150]
+                        [1806 :edit/time 1611845169100 536880184]
+                        [1809 :block/children 1836 536880625]
+                        [1809 :block/open true 536880217]
+                        [1809 :block/order 0 536880217]
+                        [1809 :block/page 1405 536880218]
+                        [1809 :block/parents 1405 536880218]
+                        [1809 :block/parents 1801 536880218]
+                        [1809 :block/parents 1803 536880218]
+                        [1809 :block/parents 1806 536880218]
+                        [1809
+                         :block/string
+                         "One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves(i.e. Antar, an Android app) and outside world."
+                         536880217]
+                        [1809 :block/uid "-vJfNui_K" 536880217]
+                        [1809
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880217]
+                        [1809 :create/time 1611845308635 536880217]
+                        [1809
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880217]
+                        [1809 :edit/time 1611845308635 536880217]
+                        [1810 :block/children 1812 536880237]
+                        [1810 :block/open true 536880227]
+                        [1810 :block/order 0 536880229]
+                        [1810 :block/page 1405 536880228]
+                        [1810 :block/parents 1405 536880228]
+                        [1810 :block/parents 1667 536880228]
+                        [1810 :block/parents 1681 536880230]
+                        [1810 :block/refs 1804 536880232]
+                        [1810 :block/string "((E_YZvcQea))" 536880231]
+                        [1810 :block/uid "j3rNNN7Vy" 536880227]
+                        [1810
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880227]
+                        [1810 :create/time 1611845383141 536880227]
+                        [1810
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880227]
+                        [1810 :edit/seen-by 1406 536880599]
+                        [1810 :edit/time 1611845387168 536880231]
+                        [1811 :block/children 1814 536880249]
+                        [1811 :block/children 1825 536880425]
+                        [1811 :block/open true 536880233]
+                        [1811 :block/order 0 536880233]
+                        [1811 :block/page 1405 536880234]
+                        [1811 :block/parents 1405 536880234]
+                        [1811 :block/parents 1801 536880234]
+                        [1811 :block/refs 1792 536880246]
+                        [1811
+                         :block/string
+                         "#[[Scratchpad]]"
+                         536880245]
+                        [1811 :block/uid "qKgKotIG7" 536880233]
+                        [1811
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880233]
+                        [1811 :create/time 1611845635073 536880233]
+                        [1811
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880233]
+                        [1811 :edit/seen-by 276 536880443]
+                        [1811 :edit/time 1611845646334 536880245]
+                        [1812 :block/children 1813 536880243]
+                        [1812 :block/open true 536880235]
+                        [1812 :block/order 0 536880237]
+                        [1812 :block/page 1405 536880236]
+                        [1812 :block/parents 1405 536880236]
+                        [1812 :block/parents 1667 536880236]
+                        [1812 :block/parents 1681 536880236]
+                        [1812 :block/parents 1810 536880238]
+                        [1812 :block/string "Absolutely! " 536880242]
+                        [1812 :block/uid "7CZo0WpDv" 536880235]
+                        [1812
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880235]
+                        [1812 :create/time 1611845638781 536880235]
+                        [1812
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880235]
+                        [1812 :edit/seen-by 1406 536880598]
+                        [1812 :edit/time 1611845645755 536880242]
+                        [1813 :block/children 1817 536880267]
+                        [1813 :block/open true 536880240]
+                        [1813 :block/order 0 536880243]
+                        [1813 :block/page 1405 536880241]
+                        [1813 :block/parents 1405 536880241]
+                        [1813 :block/parents 1667 536880241]
+                        [1813 :block/parents 1681 536880241]
+                        [1813 :block/parents 1810 536880241]
+                        [1813 :block/parents 1812 536880244]
+                        [1813 :block/refs 1815 536880253]
+                        [1813 :block/refs 1816 536880264]
+                        [1813
+                         :block/string
+                         "My suggestion would be #Experiments & to make a note that you made that addition under the #[[Change Log]]"
+                         536880263]
+                        [1813 :block/uid "vdaHJebvR" 536880240]
+                        [1813
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880240]
+                        [1813 :create/time 1611845645745 536880240]
+                        [1813
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880240]
+                        [1813 :edit/seen-by 1406 536880601]
+                        [1813 :edit/time 1611845684599 536880263]
+                        [1814 :block/children 1818 536880305]
+                        [1814 :block/children 1820 536880359]
+                        [1814 :block/children 1821 536880382]
+                        [1814 :block/open true 536880247]
+                        [1814 :block/order 0 536880249]
+                        [1814 :block/page 1405 536880248]
+                        [1814 :block/parents 1405 536880248]
+                        [1814 :block/parents 1801 536880248]
+                        [1814 :block/parents 1811 536880250]
+                        [1814 :block/refs 1744 536880292]
+                        [1814
+                         :block/string
+                         "The concept “space” is hard to define in the context of Roam collaboration, as mentioned [here](((bIl7_WLyg))). But, the **correct public Roam collaboration space** should..."
+                         536880392]
+                        [1814 :block/uid "kFPq1Gc9U" 536880247]
+                        [1814
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880247]
+                        [1814 :create/time 1611845646597 536880247]
+                        [1814
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880247]
+                        [1814 :edit/seen-by 276 536880443]
+                        [1814 :edit/time 1611846235024 536880392]
+                        [1815 :block/uid "6zNhf5E9z" 536880253]
+                        [1815
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880253]
+                        [1815 :create/time 1611845658505 536880253]
+                        [1815
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880253]
+                        [1815 :edit/time 1611845658507 536880253]
+                        [1815 :node/title "Experiments" 536880253]
+                        [1816 :block/uid "rt5fqv4tC" 536880264]
+                        [1816
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880264]
+                        [1816 :create/time 1611845684600 536880264]
+                        [1816
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880264]
+                        [1816 :edit/time 1611845684601 536880264]
+                        [1816 :node/title "Change Log" 536880264]
+                        [1817 :block/open true 536880265]
+                        [1817 :block/order 0 536880267]
+                        [1817 :block/page 1405 536880266]
+                        [1817 :block/parents 1405 536880266]
+                        [1817 :block/parents 1667 536880266]
+                        [1817 :block/parents 1681 536880266]
+                        [1817 :block/parents 1810 536880266]
+                        [1817 :block/parents 1812 536880266]
+                        [1817 :block/parents 1813 536880268]
+                        [1817
+                         :block/string
+                         ".... That being said... there are a TON of tags and pages missing right now, so we should hold off until things restore appropriately. \n\nI may have to upload the backup."
+                         536880283]
+                        [1817 :block/uid "wkVCC0WN7" 536880265]
+                        [1817
+                         :create/email
+                         "toner.brandon@gmail.com"
+                         536880265]
+                        [1817 :create/time 1611845684905 536880265]
+                        [1817
+                         :edit/email
+                         "toner.brandon@gmail.com"
+                         536880265]
+                        [1817 :edit/seen-by 1406 536880604]
+                        [1817 :edit/time 1611845727674 536880283]
+                        [1818 :block/children 1819 536880330]
+                        [1818 :block/open true 536880303]
+                        [1818 :block/order 0 536880305]
+                        [1818 :block/page 1405 536880304]
+                        [1818 :block/parents 1405 536880304]
+                        [1818 :block/parents 1801 536880304]
+                        [1818 :block/parents 1811 536880304]
+                        [1818 :block/parents 1814 536880306]
+                        [1818
+                         :block/string
+                         "enable custom css setting, which maybe supported natively by Roam in the future. Currently, it’s just possible to use web-browser plugin."
+                         536880373]
+                        [1818 :block/uid "FehE8jv6_" 536880303]
+                        [1818
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880303]
+                        [1818 :create/time 1611845823137 536880303]
+                        [1818
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880303]
+                        [1818 :edit/seen-by 276 536880444]
+                        [1818 :edit/time 1611846135350 536880373]
+                        [1819 :block/open true 536880328]
+                        [1819 :block/order 0 536880330]
+                        [1819 :block/page 1405 536880329]
+                        [1819 :block/parents 1405 536880329]
+                        [1819 :block/parents 1801 536880329]
+                        [1819 :block/parents 1811 536880329]
+                        [1819 :block/parents 1814 536880329]
+                        [1819 :block/parents 1818 536880331]
+                        [1819
+                         :block/string
+                         "The reason why this is important is that visual representation help lowering one’s processing work load on messy information input."
+                         536880356]
+                        [1819 :block/uid "Md-c4A3sn" 536880328]
+                        [1819
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880328]
+                        [1819 :create/time 1611845922458 536880328]
+                        [1819
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880328]
+                        [1819 :edit/seen-by 276 536880449]
+                        [1819 :edit/time 1611846050318 536880356]
+                        [1820 :block/open true 536880357]
+                        [1820 :block/order 1 536880357]
+                        [1820 :block/page 1405 536880358]
+                        [1820 :block/parents 1405 536880358]
+                        [1820 :block/parents 1801 536880358]
+                        [1820 :block/parents 1811 536880358]
+                        [1820 :block/parents 1814 536880358]
+                        [1820
+                         :block/string
+                         "enable custom auto-completion list."
+                         536880381]
+                        [1820 :block/uid "D_9IPyHxl" 536880357]
+                        [1820
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880357]
+                        [1820 :create/time 1611846051787 536880357]
+                        [1820
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880357]
+                        [1820 :edit/seen-by 276 536880450]
+                        [1820 :edit/time 1611846158221 536880381]
+                        [1821 :block/children 1822 536880395]
+                        [1821 :block/open true 536880382]
+                        [1821 :block/order 2 536880382]
+                        [1821 :block/page 1405 536880383]
+                        [1821 :block/parents 1405 536880383]
+                        [1821 :block/parents 1801 536880383]
+                        [1821 :block/parents 1811 536880383]
+                        [1821 :block/parents 1814 536880383]
+                        [1821
+                         :block/string
+                         "distinguish private feed and public feed."
+                         536880388]
+                        [1821 :block/uid "b3vGIdGMp" 536880382]
+                        [1821
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880382]
+                        [1821 :create/time 1611846171233 536880382]
+                        [1821
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880382]
+                        [1821 :edit/seen-by 276 536880452]
+                        [1821 :edit/time 1611846201221 536880388]
+                        [1822 :block/open true 536880393]
+                        [1822 :block/order 0 536880395]
+                        [1822 :block/page 1405 536880394]
+                        [1822 :block/parents 1405 536880394]
+                        [1822 :block/parents 1801 536880394]
+                        [1822 :block/parents 1811 536880394]
+                        [1822 :block/parents 1814 536880394]
+                        [1822 :block/parents 1821 536880396]
+                        [1822
+                         :block/string
+                         "Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public."
+                         536880411]
+                        [1822 :block/uid "2Qo1F38lA" 536880393]
+                        [1822
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880393]
+                        [1822 :create/time 1611846265524 536880393]
+                        [1822
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880393]
+                        [1822 :edit/seen-by 276 536880454]
+                        [1822 :edit/time 1611846426178 536880411]
+                        [1823 :block/children 1824 536880448]
+                        [1823 :block/children 1828 536880472]
+                        [1823 :block/open true 536880412]
+                        [1823 :block/order 0 536880429]
+                        [1823 :block/page 1405 536880413]
+                        [1823 :block/parents 1405 536880413]
+                        [1823 :block/parents 1801 536880413]
+                        [1823 :block/parents 1811 536880413]
+                        [1823 :block/parents 1825 536880430]
+                        [1823
+                         :block/string
+                         "Roam {X} protocol"
+                         536880453]
+                        [1823 :block/uid "Mfh93O_VB" 536880412]
+                        [1823
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880412]
+                        [1823 :create/time 1611846438091 536880412]
+                        [1823
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880412]
+                        [1823 :edit/time 1611846526974 536880453]
+                        [1824 :block/open true 536880423]
+                        [1824 :block/order 0 536880471]
+                        [1824 :block/page 1405 536880424]
+                        [1824 :block/parents 1405 536880424]
+                        [1824 :block/parents 1801 536880424]
+                        [1824 :block/parents 1811 536880424]
+                        [1824 :block/parents 1823 536880451]
+                        [1824 :block/parents 1825 536880434]
+                        [1824
+                         :block/string
+                         "**For example**, Roam publish protocol, Roam communicate protocol"
+                         536880478]
+                        [1824 :block/uid "v3KFe2aMy" 536880423]
+                        [1824
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880423]
+                        [1824 :create/time 1611846460539 536880423]
+                        [1824
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880423]
+                        [1824 :edit/time 1611846626645 536880478]
+                        [1825 :block/children 1823 536880429]
+                        [1825 :block/children 1831 536880513]
+                        [1825 :block/open true 536880425]
+                        [1825 :block/order 1 536880425]
+                        [1825 :block/page 1405 536880426]
+                        [1825 :block/parents 1405 536880426]
+                        [1825 :block/parents 1801 536880426]
+                        [1825 :block/parents 1811 536880426]
+                        [1825
+                         :block/string
+                         "Some **concept** on Roam collaboration comes up these days..."
+                         536880442]
+                        [1825 :block/uid "kjfEVVLRS" 536880425]
+                        [1825
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880425]
+                        [1825 :create/time 1611846469994 536880425]
+                        [1825
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880425]
+                        [1825 :edit/time 1611846500353 536880442]
+                        [1828 :block/open true 536880472]
+                        [1828 :block/order 1 536880472]
+                        [1828 :block/page 1405 536880473]
+                        [1828 :block/parents 1405 536880473]
+                        [1828 :block/parents 1801 536880473]
+                        [1828 :block/parents 1811 536880473]
+                        [1828 :block/parents 1823 536880473]
+                        [1828 :block/parents 1825 536880473]
+                        [1828
+                         :block/string
+                         "**Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal "
+                         536880501]
+                        [1828 :block/uid "Yd6yaPQEO" 536880472]
+                        [1828
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880472]
+                        [1828 :create/time 1611846610436 536880472]
+                        [1828
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880472]
+                        [1828 :edit/time 1611846780365 536880501]
+                        [1831 :block/children 1832 536880519]
+                        [1831 :block/children 1835 536880557]
+                        [1831 :block/open true 536880511]
+                        [1831 :block/order 1 536880596]
+                        [1831 :block/page 1405 536880512]
+                        [1831 :block/parents 1405 536880512]
+                        [1831 :block/parents 1801 536880512]
+                        [1831 :block/parents 1811 536880512]
+                        [1831 :block/parents 1825 536880512]
+                        [1831
+                         :block/string
+                         "Roam reputation system"
+                         536880518]
+                        [1831 :block/uid "AClEvNz7Q" 536880511]
+                        [1831
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880511]
+                        [1831 :create/time 1611846806534 536880511]
+                        [1831
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880511]
+                        [1831 :edit/time 1611846812447 536880518]
+                        [1832 :block/open true 536880516]
+                        [1832 :block/order 0 536880519]
+                        [1832 :block/page 1405 536880517]
+                        [1832 :block/parents 1405 536880517]
+                        [1832 :block/parents 1801 536880517]
+                        [1832 :block/parents 1811 536880517]
+                        [1832 :block/parents 1825 536880517]
+                        [1832 :block/parents 1831 536880520]
+                        [1832
+                         :block/string
+                         "This is the actual measurable reward for those members who’re producing knowledge and controlling their output complexity so that other people could find and understand his/her contents easily."
+                         536880556]
+                        [1832 :block/uid "Kt_avdOLC" 536880516]
+                        [1832
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880516]
+                        [1832 :create/time 1611846812437 536880516]
+                        [1832
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880516]
+                        [1832 :edit/time 1611846994937 536880556]
+                        [1833 :block/open true 536880532]
+                        [1833 :block/order 1 536880532]
+                        [1833 :block/page 1405 536880533]
+                        [1833 :block/parents 1405 536880533]
+                        [1833 :block/parents 1790 536880533]
+                        [1833 :block/parents 1793 536880533]
+                        [1833 :block/refs 1802 536880540]
+                        [1833 :block/refs 1809 536880550]
+                        [1833 :block/refs 1834 536880540]
+                        [1833
+                         :block/string
+                         "[[@[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?"
+                         536880573]
+                        [1833 :block/uid "XEO7RXlX2" 536880532]
+                        [1833
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880532]
+                        [1833 :create/time 1611846949463 536880532]
+                        [1833
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880532]
+                        [1833 :edit/seen-by 1406 536880615]
+                        [1833 :edit/time 1611847036610 536880573]
+                        [1834 :block/refs 1802 536880540]
+                        [1834 :block/uid "dzkw8LiTg" 536880540]
+                        [1834
+                         :create/email
+                         "mainmoniker@gmail.com"
+                         536880540]
+                        [1834 :create/time 1611846959113 536880540]
+                        [1834
+                         :edit/email
+                         "mainmoniker@gmail.com"
+                         536880540]
+                        [1834 :edit/time 1611846959114 536880540]
+                        [1834 :node/title "@[[leekeifon]]" 536880540]
+                        [1835 :block/open true 536880557]
+                        [1835 :block/order 1 536880557]
+                        [1835 :block/page 1405 536880559]
+                        [1835 :block/parents 1405 536880559]
+                        [1835 :block/parents 1801 536880559]
+                        [1835 :block/parents 1811 536880559]
+                        [1835 :block/parents 1825 536880559]
+                        [1835 :block/parents 1831 536880559]
+                        [1835
+                         :block/string
+                         "Soft rewards are better than restriction(?maybe) on encouraging Roamans to control the complexity of their contents when publishing."
+                         536880597]
+                        [1835 :block/uid "TDUNtcFgl" 536880557]
+                        [1835
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880557]
+                        [1835 :create/time 1611846999158 536880557]
+                        [1835
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880557]
+                        [1835 :edit/time 1611847280039 536880597]
+                        [1836 :block/children 1837 536880646]
+                        [1836 :block/open true 536880616]
+                        [1836 :block/order 0 536880625]
+                        [1836 :block/page 1405 536880617]
+                        [1836 :block/parents 1405 536880617]
+                        [1836 :block/parents 1801 536880617]
+                        [1836 :block/parents 1803 536880617]
+                        [1836 :block/parents 1806 536880617]
+                        [1836 :block/parents 1809 536880627]
+                        [1836
+                         :block/string
+                         "**reason** why I wanna combine inner selves chat and outside world chat as one single model is that, ..."
+                         536880643]
+                        [1836 :block/uid "yFC7BCyMf" 536880616]
+                        [1836
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880616]
+                        [1836 :create/time 1611847550633 536880616]
+                        [1836
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880616]
+                        [1836 :edit/time 1611847656765 536880643]
+                        [1837 :block/open true 536880644]
+                        [1837 :block/order 0 536880646]
+                        [1837 :block/page 1405 536880645]
+                        [1837 :block/parents 1405 536880645]
+                        [1837 :block/parents 1801 536880645]
+                        [1837 :block/parents 1803 536880645]
+                        [1837 :block/parents 1806 536880645]
+                        [1837 :block/parents 1809 536880645]
+                        [1837 :block/parents 1836 536880647]
+                        [1837
+                         :block/string
+                         "it’s achievable, as we could think of ‘I’ in different time as different person, then, the question change into async communication"
+                         536880671]
+                        [1837 :block/uid "8CmI0i640" 536880644]
+                        [1837
+                         :create/email
+                         "leekeifon@gmail.com"
+                         536880644]
+                        [1837 :create/time 1611847656822 536880644]
+                        [1837
+                         :edit/email
+                         "leekeifon@gmail.com"
+                         536880644]
+                        [1837 :edit/time 1611847744341 536880671]]}

@@ -34,7 +34,7 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [[Projects/Establish automated graph backups]]
-        - `#how-should-I-tag-this` (resolved) [[Start from abundance.]]
+        - `#how-should-I-tag-this` (resolved) [[Start from abundance]]
             - This is [[David Perell]]'s articulation of this idea... 
             - If it were MY idea, It would be an [evergreen note]([[evergreen notes]]).
                 - `#[[Open Questions]]` How should I represent the ideas of others? (resolved)
@@ -104,11 +104,11 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
                 - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
-                    - Related:: [[Start from abundance.]]
+                    - Related:: [[Start from abundance]]
                 - #[[Next Steps]] 
                     - {{[[TODO]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  #Chat
-                    - [[@[[Charles Farr]]]], [[@[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
+                    - [[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
         - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
         - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
             - Block reference the FN into your Comments module, then nest comments underneath.
@@ -123,7 +123,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - IssueType:: #[[enhancement request]]
                 - #Chat [[Chinarut]] invite ya to tag enhancement requests #support and make a few of them todos!
             - #[[Fleeting Notes]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
-            - #[[Fleeting Notes]][[Start from abundance.]]
+            - #[[Fleeting Notes]][[Start from abundance]]
             - #[[Fleeting Notes]] `#not-populated` tags can be used to filter out empty attributes #conventions
                 - This reduces the amount of noise on a page and improves the [[signal-to-noise ratio]]
             - #[[Fleeting Notes]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]]).
@@ -147,7 +147,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "#[[Fleeting Notes]] [[memory]] is very [[context]]-dependant."
             - #[[Fleeting Notes]] [[memory]] is very [[context]]-dependant.
             - #[[Fleeting Notes]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]
-                - [[Start from abundance.]] — [[David Perell]]
+                - [[Start from abundance]] — [[David Perell]]
         - My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten
             - [[consume]] & [[engage]]: (read, watch, listen, converse, reflect)
             - As content resonates with me, I save them as [[reference notes]] (capturing [[context]] — [[bibliographical notes]], [[highlights]], and [[quotes]]) #capture
@@ -206,9 +206,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
         - "[[~]][[Brandon Toner]] Why do you want to use hiccup? use `---`"
             - `---` is WAY better. Using that now.
-            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[@[[Matthew Vogel]]]]
+            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[~[[Matthew Vogel]]]]
         - "URL:: (Is currently set as private but a public backup could be nice)"
-            - [[@[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. 
+            - [[~[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. 
         - "#[[Fleeting Notes]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references."
             - Fascinating to see this idea documented in [[[[Roam Book Club]] II]] — I forgot I thought of it over there first.
         - "My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten"

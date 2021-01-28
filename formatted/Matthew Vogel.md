@@ -8,6 +8,7 @@
     - **[Interests](<Interests.md>):**[cooking](<cooking.md>) [architecture](<architecture.md>) [design](<design.md>) [metacognition](<metacognition.md>) comedic [improvisation](<improvisation.md>) 
     - **[Queries](<Queries.md>):**
         - [notifications](<notifications.md>)
+            - {{[query](<query.md>): {and: {or: {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)} [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]} {not: [query](<query.md>)}} }}
             - {{[query](<query.md>): {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>) {not: [query](<query.md>)}}}}
         - Misc useful [datalog](<datalog.md>) [queries](<queries.md>)
             - {{[embed](<embed.md>): ((((6zu7U0y7r))))}}
@@ -25,7 +26,12 @@
 
 - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)"
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
+- {{[query](<query.md>): {and: {or: {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)}
+
 - {{[query](<query.md>): {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)

@@ -8,6 +8,7 @@
     - Interests::[[cooking]] [[architecture]] [[design]] [[metacognition]] comedic [[improvisation]] 
     - Queries::
         - [[notifications]]
+            - {{[[query]]: {and: {or: {and: [[@]] [[Matthew Vogel]]} [[@[[Matthew Vogel]]]]} {not: [[query]]}} }}
             - {{[[query]]: {and: [[@]] [[Matthew Vogel]] {not: [[query]]}}}}
         - Misc useful #datalog #queries
             - {{[[embed]]: ((((6zu7U0y7r))))}}

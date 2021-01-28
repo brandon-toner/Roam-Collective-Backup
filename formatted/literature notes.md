@@ -18,6 +18,8 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [ ] Add some [literature notes](<literature notes.md>)
 
+- Seems like it's missing a step where [literature notes](<literature notes.md>)
+
 ## [LN](<LN.md>)
 - [literature notes](<literature notes.md>)
 

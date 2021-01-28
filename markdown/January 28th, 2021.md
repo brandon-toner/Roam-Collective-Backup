@@ -12,6 +12,8 @@
         - #[[Roam Enhancement Requests]]
             - Addition of OR operators to the page and reference [[filtering]].
                 - Currently, it is limited to AND and NOT.
+        - ""And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]""
+            - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
     - #Resources
         - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
     - #Administration #not_populated
@@ -23,5 +25,39 @@
                 - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
     - #[[The Zettelkasten]] #not_populated
     - #Promptstorming #not_populated
-    - #Comments #not_populated
+    - #Comments
+        - "[[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
+            - Absolutely! 
+                - My suggestion would be #Experiments & to make a note that you made that addition under the #[[Change Log]]
+                    - .... That being said... there are a TON of tags and pages missing right now, so we should hold off until things restore appropriately. 
+
+I may have to upload the backup.
     - #Feedback  #not_populated
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad #not_populated
+    - #Chat
+        - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
+            - Seems like it's missing a step where [[literature notes]] inform/strengthen [[Fleeting Notes]] or would that happen at the [[creative projects]] phase?
+        - [[@[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+    - #[[Scratchpad]]
+        - The concept “space” is hard to define in the context of Roam collaboration, as mentioned [here](((bIl7_WLyg))). But, the **correct public Roam collaboration space** should...
+            - enable custom css setting, which maybe supported natively by Roam in the future. Currently, it’s just possible to use web-browser plugin.
+                - The reason why this is important is that visual representation help lowering one’s processing work load on messy information input.
+            - enable custom auto-completion list.
+            - distinguish private feed and public feed.
+                - Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public.
+        - Some **concept** on Roam collaboration comes up these days...
+            - Roam {X} protocol
+                - **For example**, Roam publish protocol, Roam communicate protocol
+                - **Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal 
+            - Roam reputation system
+                - This is the actual measurable reward for those members who’re producing knowledge and controlling their output complexity so that other people could find and understand his/her contents easily.
+                - Soft rewards are better than restriction(?maybe) on encouraging Roamans to control the complexity of their contents when publishing.
+    - #[[Chat]]
+        - [[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?
+            - For example, I may want to add a tag like `#experiment` for the sake of easy query.
+        - [[@[[Matthew Vogel]]]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ...
+            - One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves(i.e. Antar, an Android app) and outside world.
+                - **reason** why I wanna combine inner selves chat and outside world chat as one single model is that, ...
+                    - it’s achievable, as we could think of ‘I’ in different time as different person, then, the question change into async 

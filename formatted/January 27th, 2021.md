@@ -34,7 +34,7 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
-        - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [Start from abundance.](<Start from abundance..md>)
+        - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [Start from abundance](<Start from abundance.md>)
             - This is [David Perell](<David Perell.md>)'s articulation of this idea... 
             - If it were MY idea, It would be an [evergreen note]([evergreen notes](<evergreen notes.md>)).
                 - `#[Open Questions](<Open Questions.md>)` How should I represent the ideas of others? (resolved)
@@ -104,11 +104,11 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
                 - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
-                    - **[Related](<Related.md>):** [Start from abundance.](<Start from abundance..md>)
+                    - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
                 - #[Next Steps](<Next Steps.md>) 
                     - [ ] Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  [Chat](<Chat.md>)
-                    - [@[[Charles Farr](<@[[Charles Farr.md>)]], [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
+                    - [@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
         - #[Fleeting Notes](<Fleeting Notes.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
             - Block reference the FN into your Comments module, then nest comments underneath.
@@ -123,7 +123,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - **[IssueType](<IssueType.md>):** #[enhancement request](<enhancement request.md>)
                 - [Chat](<Chat.md>) [Chinarut](<Chinarut.md>) invite ya to tag enhancement requests [support](<support.md>) and make a few of them todos!
             - #[Fleeting Notes](<Fleeting Notes.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).[*](((3oGNZLyip)))
-            - #[Fleeting Notes](<Fleeting Notes.md>)[Start from abundance.](<Start from abundance..md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>)[Start from abundance](<Start from abundance.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) `[not-populated](<not-populated.md>)` tags can be used to filter out empty attributes [conventions](<conventions.md>)
                 - This reduces the amount of noise on a page and improves the [signal-to-noise ratio](<signal-to-noise ratio.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>)).
@@ -147,7 +147,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant."
             - #[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant.
             - #[Fleeting Notes](<Fleeting Notes.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
-                - [Start from abundance.](<Start from abundance..md>) — [David Perell](<David Perell.md>)
+                - [Start from abundance](<Start from abundance.md>) — [David Perell](<David Perell.md>)
         - My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)
             - [consume](<consume.md>) & [engage](<engage.md>): (read, watch, listen, converse, reflect)
             - As content resonates with me, I save them as [reference notes](<reference notes.md>) (capturing [context](<context.md>) — [bibliographical notes](<bibliographical notes.md>), [highlights](<highlights.md>), and [quotes](<quotes.md>)) [capture](<capture.md>)
@@ -206,9 +206,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
         - "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`"
             - `---` is WAY better. Using that now.
-            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+            - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
         - **["URL](<"URL.md>):** (Is currently set as private but a public backup could be nice)"
-            - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] Public would be better for sure — easy to do? Private is certainly fine for now. 
+            - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Public would be better for sure — easy to do? Private is certainly fine for now. 
         - "#[Fleeting Notes](<Fleeting Notes.md>) [inline code-blocks](<inline code-blocks.md>) can be used to "deactivate" a tag, preventing it from appearing in queries or references."
             - Fascinating to see this idea documented in [[[Roam Book Club](<[[Roam Book Club.md>) II]] — I forgot I thought of it over there first.
         - "My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)"
@@ -287,6 +287,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
 
 - **[Date Completed](<Date Completed.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 
-## [Start from abundance.](<Start from abundance..md>)
+## [Start from abundance](<Start from abundance.md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 

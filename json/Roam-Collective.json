@@ -3553,14 +3553,14 @@
                 ],
                 "create-email": "toner.brandon@gmail.com",
                 "create-time": 1611770477743,
-                "edit-email": "toner.brandon@gmail.com",
-                "edit-time": 1611771050805,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611844042806,
                 "refs": [
                   {
                     "uid": "fopdz6Eqe"
                   }
                 ],
-                "string": "`#how-should-I-tag-this` (resolved) [[Start from abundance.]]",
+                "string": "`#how-should-I-tag-this` (resolved) [[Start from abundance]]",
                 "uid": "JspVT1Pvm"
               },
               {
@@ -4916,25 +4916,25 @@
                           {
                             ":block/refs": [
                               {
-                                ":block/uid": "503BjZUJn"
+                                ":block/uid": "fopdz6Eqe"
                               },
                               {
-                                ":block/uid": "fopdz6Eqe"
+                                ":block/uid": "zLYI6zAGT"
                               }
                             ],
                             "create-email": "toner.brandon@gmail.com",
                             "create-time": 1611770459302,
-                            "edit-email": "toner.brandon@gmail.com",
-                            "edit-time": 1611770472325,
+                            "edit-email": "mainmoniker@gmail.com",
+                            "edit-time": 1611844042806,
                             "refs": [
                               {
-                                "uid": "503BjZUJn"
+                                "uid": "fopdz6Eqe"
                               },
                               {
-                                "uid": "fopdz6Eqe"
+                                "uid": "zLYI6zAGT"
                               }
                             ],
-                            "string": "Related:: [[Start from abundance.]]",
+                            "string": "Related:: [[Start from abundance]]",
                             "uid": "aXV0wNId5"
                           }
                         ],
@@ -5019,13 +5019,13 @@
                                 ":block/uid": "ZZgX60u08"
                               },
                               {
-                                ":block/uid": "bPlebnHVk"
+                                ":block/uid": "DrdJFJEls"
                               }
                             ],
                             "create-email": "toner.brandon@gmail.com",
                             "create-time": 1611773437478,
-                            "edit-email": "toner.brandon@gmail.com",
-                            "edit-time": 1611773499262,
+                            "edit-email": "mainmoniker@gmail.com",
+                            "edit-time": 1611844419529,
                             "refs": [
                               {
                                 "uid": "SUWj-tpl5"
@@ -5040,10 +5040,10 @@
                                 "uid": "ZZgX60u08"
                               },
                               {
-                                "uid": "bPlebnHVk"
+                                "uid": "DrdJFJEls"
                               }
                             ],
-                            "string": "[[@[[Charles Farr]]]], [[@[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? ((Oc08EGo3H))",
+                            "string": "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? ((Oc08EGo3H))",
                             "uid": "PPgzs8K8g"
                           }
                         ],
@@ -5528,25 +5528,25 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "fdTOSMhgC"
+                        ":block/uid": "fopdz6Eqe"
                       },
                       {
-                        ":block/uid": "fopdz6Eqe"
+                        ":block/uid": "OE8CCpfnQ"
                       }
                     ],
                     "create-email": "toner.brandon@gmail.com",
                     "create-time": 1604943574874,
-                    "edit-email": "toner.brandon@gmail.com",
-                    "edit-time": 1611803414325,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611844042806,
                     "refs": [
                       {
-                        "uid": "fdTOSMhgC"
+                        "uid": "fopdz6Eqe"
                       },
                       {
-                        "uid": "fopdz6Eqe"
+                        "uid": "OE8CCpfnQ"
                       }
                     ],
-                    "string": "#[[Fleeting Notes]][[Start from abundance.]]",
+                    "string": "#[[Fleeting Notes]][[Start from abundance]]",
                     "uid": "mIZ6a3pPq"
                   },
                   {
@@ -6177,8 +6177,8 @@
                         ],
                         "create-email": "toner.brandon@gmail.com",
                         "create-time": 1605141079274,
-                        "edit-email": "toner.brandon@gmail.com",
-                        "edit-time": 1611803414325,
+                        "edit-email": "mainmoniker@gmail.com",
+                        "edit-time": 1611844042806,
                         "refs": [
                           {
                             "uid": "fopdz6Eqe"
@@ -6187,7 +6187,7 @@
                             "uid": "3toHtnjhR"
                           }
                         ],
-                        "string": "[[Start from abundance.]] \u2014 [[David Perell]]",
+                        "string": "[[Start from abundance]] \u2014 [[David Perell]]",
                         "uid": "MAm2pCk_4"
                       }
                     ],
@@ -7308,6 +7308,10 @@
                           {
                             "email": "mattbrockwell@gmail.com",
                             "time": 1611779197466
+                          },
+                          {
+                            "email": "leekeifon@gmail.com",
+                            "time": 1611839073161
                           }
                         ]
                       }
@@ -7357,22 +7361,35 @@
                         ":block/uid": "86GGMpHF5"
                       },
                       {
-                        ":block/uid": "bPlebnHVk"
+                        ":block/uid": "DrdJFJEls"
                       }
                     ],
                     "create-email": "toner.brandon@gmail.com",
                     "create-time": 1611787619845,
-                    "edit-email": "toner.brandon@gmail.com",
-                    "edit-time": 1611787663739,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611843741498,
+                    "emojis": [
+                      {
+                        "emoji": {
+                          "native": "\ud83d\udc4c"
+                        },
+                        "users": [
+                          {
+                            "email": "mainmoniker@gmail.com",
+                            "time": 1611843736677
+                          }
+                        ]
+                      }
+                    ],
                     "refs": [
                       {
                         "uid": "86GGMpHF5"
                       },
                       {
-                        "uid": "bPlebnHVk"
+                        "uid": "DrdJFJEls"
                       }
                     ],
-                    "string": "PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[@[[Matthew Vogel]]]]",
+                    "string": "PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[~[[Matthew Vogel]]]]",
                     "uid": "QG1Hku3PY"
                   }
                 ],
@@ -7401,22 +7418,35 @@
                         ":block/uid": "86GGMpHF5"
                       },
                       {
-                        ":block/uid": "bPlebnHVk"
+                        ":block/uid": "DrdJFJEls"
                       }
                     ],
                     "create-email": "toner.brandon@gmail.com",
                     "create-time": 1611801154547,
-                    "edit-email": "toner.brandon@gmail.com",
-                    "edit-time": 1611802346432,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611843162739,
+                    "emojis": [
+                      {
+                        "emoji": {
+                          "native": "\ud83d\udc4d"
+                        },
+                        "users": [
+                          {
+                            "email": "mainmoniker@gmail.com",
+                            "time": 1611843169634
+                          }
+                        ]
+                      }
+                    ],
                     "refs": [
                       {
                         "uid": "86GGMpHF5"
                       },
                       {
-                        "uid": "bPlebnHVk"
+                        "uid": "DrdJFJEls"
                       }
                     ],
-                    "string": "[[@[[Matthew Vogel]]]] Public would be better for sure \u2014 easy to do? Private is certainly fine for now. ",
+                    "string": "[[~[[Matthew Vogel]]]] Public would be better for sure \u2014 easy to do? Private is certainly fine for now. ",
                     "uid": "5EH-iH3I0"
                   }
                 ],
@@ -8595,6 +8625,10 @@
                           {
                             "email": "toner.brandon@gmail.com",
                             "time": 1611779818296
+                          },
+                          {
+                            "email": "leekeifon@gmail.com",
+                            "time": 1611842717394
                           }
                         ]
                       }
@@ -10382,6 +10416,42 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "86GGMpHF5"
+                      },
+                      {
+                        ":block/uid": "bPlebnHVk"
+                      },
+                      {
+                        ":block/uid": "QZHYlp_9P"
+                      },
+                      {
+                        ":block/uid": "9jBh7kqRV"
+                      }
+                    ],
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611843054424,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611843143270,
+                    "refs": [
+                      {
+                        "uid": "86GGMpHF5"
+                      },
+                      {
+                        "uid": "bPlebnHVk"
+                      },
+                      {
+                        "uid": "QZHYlp_9P"
+                      },
+                      {
+                        "uid": "9jBh7kqRV"
+                      }
+                    ],
+                    "string": "{{[[query]]: {and: {or: {and: [[@]] [[Matthew Vogel]]} [[@[[Matthew Vogel]]]]} {not: [[query]]}} }}",
+                    "uid": "u2VvbzF0k"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "YMMdr5Yd5"
                       },
                       {
@@ -10583,8 +10653,8 @@
     ],
     "create-email": "mainmoniker@gmail.com",
     "create-time": 1611753108033,
-    "edit-email": "toner.brandon@gmail.com",
-    "edit-time": 1611773455218,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611843162743,
     "title": "Matthew Vogel",
     "uid": "86GGMpHF5"
   },
@@ -11343,9 +11413,9 @@
     ],
     "create-email": "toner.brandon@gmail.com",
     "create-time": 1611770472328,
-    "edit-email": "toner.brandon@gmail.com",
-    "edit-time": 1611770472342,
-    "title": "Start from abundance.",
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611844042805,
+    "title": "Start from abundance",
     "uid": "fopdz6Eqe"
   },
   {
@@ -11723,10 +11793,10 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "FeaahL6fx"
+            ":block/uid": "aDlFFSRPv"
           },
           {
-            ":block/uid": "aDlFFSRPv"
+            ":block/uid": "Pti1cH_0g"
           }
         ],
         "children": [
@@ -11888,6 +11958,56 @@
                 ],
                 "string": "#[[Roam Enhancement Requests]]",
                 "uid": "6EllF3XqM"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "TDu-L6HLm"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "iRZmMHMPZ"
+                      },
+                      {
+                        ":block/uid": "UMSQ8W_ES"
+                      },
+                      {
+                        ":block/uid": "9Yhcuft5y"
+                      }
+                    ],
+                    "create-email": "kyle.stratis@gmail.com",
+                    "create-time": 1611838604671,
+                    "edit-email": "kyle.stratis@gmail.com",
+                    "edit-time": 1611846497279,
+                    "refs": [
+                      {
+                        "uid": "iRZmMHMPZ"
+                      },
+                      {
+                        "uid": "UMSQ8W_ES"
+                      },
+                      {
+                        "uid": "9Yhcuft5y"
+                      }
+                    ],
+                    "string": "My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]",
+                    "uid": "bIl7_WLyg"
+                  }
+                ],
+                "create-email": "kyle.stratis@gmail.com",
+                "create-time": 1611838595787,
+                "edit-email": "kyle.stratis@gmail.com",
+                "edit-time": 1611838604526,
+                "refs": [
+                  {
+                    "uid": "TDu-L6HLm"
+                  }
+                ],
+                "string": "((TDu-L6HLm))",
+                "uid": "mWtOFDWvA"
               }
             ],
             "create-email": "toner.brandon@gmail.com",
@@ -12183,25 +12303,85 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "bjQLhCc-Z"
-              },
+                ":block/uid": "AsfHzW0Sw"
+              }
+            ],
+            "children": [
               {
-                ":block/uid": "UA1Pmj2tB"
+                ":block/refs": [
+                  {
+                    ":block/uid": "E_YZvcQea"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "6zNhf5E9z"
+                          },
+                          {
+                            ":block/uid": "rt5fqv4tC"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "create-email": "toner.brandon@gmail.com",
+                            "create-time": 1611845684905,
+                            "edit-email": "toner.brandon@gmail.com",
+                            "edit-time": 1611845727674,
+                            "string": ".... That being said... there are a TON of tags and pages missing right now, so we should hold off until things restore appropriately. \n\nI may have to upload the backup.",
+                            "uid": "wkVCC0WN7"
+                          }
+                        ],
+                        "create-email": "toner.brandon@gmail.com",
+                        "create-time": 1611845645745,
+                        "edit-email": "toner.brandon@gmail.com",
+                        "edit-time": 1611845684599,
+                        "refs": [
+                          {
+                            "uid": "6zNhf5E9z"
+                          },
+                          {
+                            "uid": "rt5fqv4tC"
+                          }
+                        ],
+                        "string": "My suggestion would be #Experiments & to make a note that you made that addition under the #[[Change Log]]",
+                        "uid": "vdaHJebvR"
+                      }
+                    ],
+                    "create-email": "toner.brandon@gmail.com",
+                    "create-time": 1611845638781,
+                    "edit-email": "toner.brandon@gmail.com",
+                    "edit-time": 1611845645755,
+                    "string": "Absolutely! ",
+                    "uid": "7CZo0WpDv"
+                  }
+                ],
+                "create-email": "toner.brandon@gmail.com",
+                "create-time": 1611845383141,
+                "edit-email": "toner.brandon@gmail.com",
+                "edit-time": 1611845387168,
+                "refs": [
+                  {
+                    "uid": "E_YZvcQea"
+                  }
+                ],
+                "string": "((E_YZvcQea))",
+                "uid": "j3rNNN7Vy"
               }
             ],
             "create-email": "toner.brandon@gmail.com",
             "create-time": 1611805934981,
             "edit-email": "toner.brandon@gmail.com",
-            "edit-time": 1611805934981,
+            "edit-time": 1611845382691,
             "refs": [
               {
-                "uid": "bjQLhCc-Z"
-              },
-              {
-                "uid": "UA1Pmj2tB"
+                "uid": "AsfHzW0Sw"
               }
             ],
-            "string": "#Comments #not_populated",
+            "string": "#Comments",
             "uid": "XX7Up0_kK"
           },
           {
@@ -12235,14 +12415,450 @@
         "edit-time": 1611805761869,
         "refs": [
           {
-            "uid": "FeaahL6fx"
+            "uid": "aDlFFSRPv"
           },
           {
-            "uid": "aDlFFSRPv"
+            "uid": "Pti1cH_0g"
           }
         ],
         "string": "#[[My Daily Notes]] [[Brandon Toner]] {{word-count}}",
         "uid": "fFUKiJ2Qj"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "86GGMpHF5"
+          },
+          {
+            ":block/uid": "Pti1cH_0g"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "wwX3aVlkf"
+              }
+            ],
+            "create-email": "mainmoniker@gmail.com",
+            "create-time": 1611844138622,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611844180680,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "wwX3aVlkf"
+              }
+            ],
+            "string": "#Scratchpad #not_populated",
+            "uid": "81nfnV6oH"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Q2fSEKaJf"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PPgzs8K8g"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9iCx4i5l8"
+                      },
+                      {
+                        ":block/uid": "DrUF0rCUt"
+                      },
+                      {
+                        ":block/uid": "OE8CCpfnQ"
+                      }
+                    ],
+                    "create-email": "mainmoniker@gmail.com",
+                    "create-time": 1611844284494,
+                    "edit-email": "mainmoniker@gmail.com",
+                    "edit-time": 1611844409587,
+                    "refs": [
+                      {
+                        "uid": "9iCx4i5l8"
+                      },
+                      {
+                        "uid": "DrUF0rCUt"
+                      },
+                      {
+                        "uid": "OE8CCpfnQ"
+                      }
+                    ],
+                    "string": "Seems like it's missing a step where [[literature notes]] inform/strengthen [[Fleeting Notes]] or would that happen at the [[creative projects]] phase?",
+                    "uid": "exrelwEn9"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611844274706,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611844284487,
+                "refs": [
+                  {
+                    "uid": "PPgzs8K8g"
+                  }
+                ],
+                "string": "((PPgzs8K8g))",
+                "uid": "RZRTbCbKX"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "fEc2JsNwS"
+                  },
+                  {
+                    ":block/uid": "-vJfNui_K"
+                  },
+                  {
+                    ":block/uid": "dzkw8LiTg"
+                  }
+                ],
+                "create-email": "mainmoniker@gmail.com",
+                "create-time": 1611846949463,
+                "edit-email": "mainmoniker@gmail.com",
+                "edit-time": 1611847036610,
+                "refs": [
+                  {
+                    "uid": "fEc2JsNwS"
+                  },
+                  {
+                    "uid": "-vJfNui_K"
+                  },
+                  {
+                    "uid": "dzkw8LiTg"
+                  }
+                ],
+                "string": "[[@[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?",
+                "uid": "XEO7RXlX2"
+              }
+            ],
+            "create-email": "mainmoniker@gmail.com",
+            "create-time": 1611844178339,
+            "edit-email": "mainmoniker@gmail.com",
+            "edit-time": 1611844187583,
+            "refs": [
+              {
+                "uid": "Q2fSEKaJf"
+              }
+            ],
+            "string": "#Chat",
+            "uid": "Y3DGQY_SS"
+          }
+        ],
+        "create-email": "mainmoniker@gmail.com",
+        "create-time": 1611844114996,
+        "edit-email": "mainmoniker@gmail.com",
+        "edit-time": 1611844138532,
+        "refs": [
+          {
+            "uid": "86GGMpHF5"
+          },
+          {
+            "uid": "Pti1cH_0g"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}",
+        "uid": "SnEF0_w45"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Pti1cH_0g"
+          },
+          {
+            ":block/uid": "fEc2JsNwS"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wwX3aVlkf"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bIl7_WLyg"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611845922458,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611846050318,
+                        "string": "The reason why this is important is that visual representation help lowering one\u2019s processing work load on messy information input.",
+                        "uid": "Md-c4A3sn"
+                      }
+                    ],
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611845823137,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611846135350,
+                    "string": "enable custom css setting, which maybe supported natively by Roam in the future. Currently, it\u2019s just possible to use web-browser plugin.",
+                    "uid": "FehE8jv6_"
+                  },
+                  {
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611846051787,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611846158221,
+                    "string": "enable custom auto-completion list.",
+                    "uid": "D_9IPyHxl"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611846265524,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611846426178,
+                        "string": "Though there\u2019s no \u2018private\u2019 in Roam database, but the idea of \u2018private\u2019 is just hiding the complexity from the public.",
+                        "uid": "2Qo1F38lA"
+                      }
+                    ],
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611846171233,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611846201221,
+                    "string": "distinguish private feed and public feed.",
+                    "uid": "b3vGIdGMp"
+                  }
+                ],
+                "create-email": "leekeifon@gmail.com",
+                "create-time": 1611845646597,
+                "edit-email": "leekeifon@gmail.com",
+                "edit-time": 1611846235024,
+                "refs": [
+                  {
+                    "uid": "bIl7_WLyg"
+                  }
+                ],
+                "string": "The concept \u201cspace\u201d is hard to define in the context of Roam collaboration, as mentioned [here](((bIl7_WLyg))). But, the **correct public Roam collaboration space** should...",
+                "uid": "kFPq1Gc9U"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611846460539,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611846626645,
+                        "string": "**For example**, Roam publish protocol, Roam communicate protocol",
+                        "uid": "v3KFe2aMy"
+                      },
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611846610436,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611846780365,
+                        "string": "**Explanation**: From the computer network\u2019s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal ",
+                        "uid": "Yd6yaPQEO"
+                      }
+                    ],
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611846438091,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611846526974,
+                    "string": "Roam {X} protocol",
+                    "uid": "Mfh93O_VB"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611846812437,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611846994937,
+                        "string": "This is the actual measurable reward for those members who\u2019re producing knowledge and controlling their output complexity so that other people could find and understand his/her contents easily.",
+                        "uid": "Kt_avdOLC"
+                      },
+                      {
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611846999158,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611847280039,
+                        "string": "Soft rewards are better than restriction(?maybe) on encouraging Roamans to control the complexity of their contents when publishing.",
+                        "uid": "TDUNtcFgl"
+                      }
+                    ],
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611846806534,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611846812447,
+                    "string": "Roam reputation system",
+                    "uid": "AClEvNz7Q"
+                  }
+                ],
+                "create-email": "leekeifon@gmail.com",
+                "create-time": 1611846469994,
+                "edit-email": "leekeifon@gmail.com",
+                "edit-time": 1611846500353,
+                "string": "Some **concept** on Roam collaboration comes up these days...",
+                "uid": "kjfEVVLRS"
+              }
+            ],
+            "create-email": "leekeifon@gmail.com",
+            "create-time": 1611845635073,
+            "edit-email": "leekeifon@gmail.com",
+            "edit-time": 1611845646334,
+            "refs": [
+              {
+                "uid": "wwX3aVlkf"
+              }
+            ],
+            "string": "#[[Scratchpad]]",
+            "uid": "qKgKotIG7"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Q2fSEKaJf"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  },
+                  {
+                    ":block/uid": "npph1Oq_X"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611844889301,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611845010583,
+                    "string": "For example, I may want to add a tag like `#experiment` for the sake of easy query.",
+                    "uid": "7E89EpNYZ"
+                  }
+                ],
+                "create-email": "leekeifon@gmail.com",
+                "create-time": 1611844838864,
+                "edit-email": "leekeifon@gmail.com",
+                "edit-time": 1611844887209,
+                "refs": [
+                  {
+                    "uid": "aDlFFSRPv"
+                  },
+                  {
+                    "uid": "npph1Oq_X"
+                  }
+                ],
+                "string": "[[@[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?",
+                "uid": "E_YZvcQea"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "86GGMpHF5"
+                  },
+                  {
+                    ":block/uid": "jMzfRp8cF"
+                  },
+                  {
+                    ":block/uid": "bPlebnHVk"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "leekeifon@gmail.com",
+                            "create-time": 1611847656822,
+                            "edit-email": "leekeifon@gmail.com",
+                            "edit-time": 1611847744341,
+                            "string": "it\u2019s achievable, as we could think of \u2018I\u2019 in different time as different person, then, the question change into async communication",
+                            "uid": "8CmI0i640"
+                          }
+                        ],
+                        "create-email": "leekeifon@gmail.com",
+                        "create-time": 1611847550633,
+                        "edit-email": "leekeifon@gmail.com",
+                        "edit-time": 1611847656765,
+                        "string": "**reason** why I wanna combine inner selves chat and outside world chat as one single model is that, ...",
+                        "uid": "yFC7BCyMf"
+                      }
+                    ],
+                    "create-email": "leekeifon@gmail.com",
+                    "create-time": 1611845308635,
+                    "edit-email": "leekeifon@gmail.com",
+                    "edit-time": 1611845308635,
+                    "string": "One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves(i.e. Antar, an Android app) and outside world.",
+                    "uid": "-vJfNui_K"
+                  }
+                ],
+                "create-email": "leekeifon@gmail.com",
+                "create-time": 1611844999268,
+                "edit-email": "leekeifon@gmail.com",
+                "edit-time": 1611845169100,
+                "refs": [
+                  {
+                    "uid": "86GGMpHF5"
+                  },
+                  {
+                    "uid": "jMzfRp8cF"
+                  },
+                  {
+                    "uid": "bPlebnHVk"
+                  }
+                ],
+                "string": "[[@[[Matthew Vogel]]]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ...",
+                "uid": "qYaQWKeH2"
+              }
+            ],
+            "create-email": "leekeifon@gmail.com",
+            "create-time": 1611844757133,
+            "edit-email": "leekeifon@gmail.com",
+            "edit-time": 1611844838726,
+            "refs": [
+              {
+                "uid": "Q2fSEKaJf"
+              }
+            ],
+            "string": "#[[Chat]]",
+            "uid": "tVOvED9yd"
+          }
+        ],
+        "create-email": "leekeifon@gmail.com",
+        "create-time": 1611844729120,
+        "edit-email": "leekeifon@gmail.com",
+        "edit-time": 1611844763655,
+        "refs": [
+          {
+            "uid": "Pti1cH_0g"
+          },
+          {
+            "uid": "fEc2JsNwS"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[leekeifon]] {{word-count}}",
+        "uid": "TJG-en7SV"
       }
     ],
     "create-email": "enekouru@gmail.com",
@@ -13065,5 +13681,461 @@
     "edit-time": 1611823631668,
     "title": "Wade Dominic",
     "uid": "nI1cMZ0dt"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838918005,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838918022,
+    "title": "~",
+    "uid": "UMSQ8W_ES"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "wYHcLaxCC"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965173,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611838979998,
+        "refs": [
+          {
+            "uid": "wYHcLaxCC"
+          }
+        ],
+        "string": "Twitter:: [@kylestratis](https://twitter.com/kylestratis)",
+        "uid": "aLQqh3FzN"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Sr7LOCJBW"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "kyle.stratis@gmail.com",
+            "create-time": 1611838989141,
+            "edit-email": "kyle.stratis@gmail.com",
+            "edit-time": 1611839004057,
+            "string": "[Blog](https://kylestratis.com)",
+            "uid": "mOXFnMahF"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "iRZmMHMPZ"
+              }
+            ],
+            "create-email": "kyle.stratis@gmail.com",
+            "create-time": 1611839004084,
+            "edit-email": "kyle.stratis@gmail.com",
+            "edit-time": 1611839015845,
+            "refs": [
+              {
+                "uid": "iRZmMHMPZ"
+              }
+            ],
+            "string": "[RoamLab](https://roamlab.org) #RoamLab",
+            "uid": "rNOvKc9tJ"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965172,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611838989148,
+        "refs": [
+          {
+            "uid": "Sr7LOCJBW"
+          }
+        ],
+        "string": "Website::",
+        "uid": "CwfOE8eI-"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "r3NX76BoA"
+          },
+          {
+            ":block/uid": "t2ILK9m5I"
+          },
+          {
+            ":block/uid": "YW03akQEN"
+          },
+          {
+            ":block/uid": "8PB1G0cih"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965172,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611839040171,
+        "refs": [
+          {
+            "uid": "r3NX76BoA"
+          },
+          {
+            "uid": "t2ILK9m5I"
+          },
+          {
+            "uid": "YW03akQEN"
+          },
+          {
+            "uid": "8PB1G0cih"
+          }
+        ],
+        "string": "Location:: [[Boston]], [[Massachusetts]] [[USA]]",
+        "uid": "n1Rv0VndI"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YdyE_hdCL"
+          },
+          {
+            ":block/uid": "qDFyRAZj_"
+          },
+          {
+            ":block/uid": "uSXSDzGQ6"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965172,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611839026047,
+        "refs": [
+          {
+            "uid": "YdyE_hdCL"
+          },
+          {
+            "uid": "qDFyRAZj_"
+          },
+          {
+            "uid": "uSXSDzGQ6"
+          }
+        ],
+        "string": "Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)",
+        "uid": "9b1RhL3-k"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "qt8h13HR4"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "kyle.stratis@gmail.com",
+            "create-time": 1611838965172,
+            "edit-email": "kyle.stratis@gmail.com",
+            "edit-time": 1611838965172,
+            "string": "Send me a DM on Roam Slack (preferred)",
+            "uid": "veqAWcV5X"
+          },
+          {
+            "create-email": "kyle.stratis@gmail.com",
+            "create-time": 1611838965172,
+            "edit-email": "kyle.stratis@gmail.com",
+            "edit-time": 1611838965172,
+            "string": "Send me a DM on Twitter (also great)",
+            "uid": "z3rJPNa7Z"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965172,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611838965172,
+        "refs": [
+          {
+            "uid": "qt8h13HR4"
+          }
+        ],
+        "string": "How to contact me:: ",
+        "uid": "JcHCF7f4n"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "8KTFlFncv"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "9Yhcuft5y"
+              },
+              {
+                ":block/uid": "QZHYlp_9P"
+              },
+              {
+                ":block/uid": "SjUaWaXBS"
+              }
+            ],
+            "create-email": "kyle.stratis@gmail.com",
+            "create-time": 1611838965173,
+            "edit-email": "kyle.stratis@gmail.com",
+            "edit-time": 1611839073380,
+            "refs": [
+              {
+                "uid": "9Yhcuft5y"
+              },
+              {
+                "uid": "QZHYlp_9P"
+              },
+              {
+                "uid": "SjUaWaXBS"
+              }
+            ],
+            "string": "{{[[query]]: {and: [[@[[Kyle Stratis]]]]}}}",
+            "uid": "IHWUyPAwx"
+          }
+        ],
+        "create-email": "kyle.stratis@gmail.com",
+        "create-time": 1611838965173,
+        "edit-email": "kyle.stratis@gmail.com",
+        "edit-time": 1611838965173,
+        "refs": [
+          {
+            "uid": "8KTFlFncv"
+          }
+        ],
+        "string": "Queries::",
+        "uid": "RL4-kaAiu"
+      }
+    ],
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838918005,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839073401,
+    "title": "Kyle Stratis",
+    "uid": "9Yhcuft5y"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965195,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965195,
+    "title": "Twitter",
+    "uid": "wYHcLaxCC"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965202,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965202,
+    "title": "Website",
+    "uid": "Sr7LOCJBW"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965209,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965210,
+    "title": "Location",
+    "uid": "r3NX76BoA"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965221,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965222,
+    "title": "UTC",
+    "uid": "YdyE_hdCL"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965221,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965222,
+    "title": "Time Zone",
+    "uid": "qDFyRAZj_"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965232,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965232,
+    "title": "How to contact me",
+    "uid": "qt8h13HR4"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965259,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965259,
+    "title": "Queries",
+    "uid": "8KTFlFncv"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611838965272,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611838965274,
+    "title": "query",
+    "uid": "QZHYlp_9P"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611839026050,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839026053,
+    "title": "Eastern Time",
+    "uid": "uSXSDzGQ6"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611839031180,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839031182,
+    "title": "Boston",
+    "uid": "t2ILK9m5I"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611839036684,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839036685,
+    "title": "Massachusetts",
+    "uid": "YW03akQEN"
+  },
+  {
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611839040173,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839040175,
+    "title": "USA",
+    "uid": "8PB1G0cih"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "9Yhcuft5y"
+      }
+    ],
+    "create-email": "kyle.stratis@gmail.com",
+    "create-time": 1611839073381,
+    "edit-email": "kyle.stratis@gmail.com",
+    "edit-time": 1611839073401,
+    "refs": [
+      {
+        "uid": "9Yhcuft5y"
+      }
+    ],
+    "title": "@[[Kyle Stratis]]",
+    "uid": "SjUaWaXBS"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611843052379,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611843052380,
+    "title": "@",
+    "uid": "9jBh7kqRV"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "86GGMpHF5"
+      }
+    ],
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611843162741,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611843162743,
+    "refs": [
+      {
+        "uid": "86GGMpHF5"
+      }
+    ],
+    "title": "~[[Matthew Vogel]]",
+    "uid": "DrdJFJEls"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611844042811,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611844042813,
+    "title": "Related",
+    "uid": "zLYI6zAGT"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611844042830,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611844042831,
+    "title": "Fleeting Notes",
+    "uid": "OE8CCpfnQ"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611844175827,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611844175843,
+    "title": "Scratchpad",
+    "uid": "wwX3aVlkf"
+  },
+  {
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611844187584,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611844187585,
+    "title": "Chat",
+    "uid": "Q2fSEKaJf"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611844606655,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611844606657,
+    "title": "Comments",
+    "uid": "AsfHzW0Sw"
+  },
+  {
+    "create-email": "leekeifon@gmail.com",
+    "create-time": 1611844744920,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611846959114,
+    "title": "leekeifon",
+    "uid": "fEc2JsNwS"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611845658505,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611845658507,
+    "title": "Experiments",
+    "uid": "6zNhf5E9z"
+  },
+  {
+    "create-email": "toner.brandon@gmail.com",
+    "create-time": 1611845684600,
+    "edit-email": "toner.brandon@gmail.com",
+    "edit-time": 1611845684601,
+    "title": "Change Log",
+    "uid": "rt5fqv4tC"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "fEc2JsNwS"
+      }
+    ],
+    "create-email": "mainmoniker@gmail.com",
+    "create-time": 1611846959113,
+    "edit-email": "mainmoniker@gmail.com",
+    "edit-time": 1611846959114,
+    "refs": [
+      {
+        "uid": "fEc2JsNwS"
+      }
+    ],
+    "title": "@[[leekeifon]]",
+    "uid": "dzkw8LiTg"
   }
 ]

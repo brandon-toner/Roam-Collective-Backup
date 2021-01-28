@@ -1,0 +1,11 @@
+- Twitter:: [@kylestratis](https://twitter.com/kylestratis)
+- Website::
+    - [Blog](https://kylestratis.com)
+    - [RoamLab](https://roamlab.org) #RoamLab
+- Location:: [[Boston]], [[Massachusetts]] [[USA]]
+- Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
+- How to contact me:: 
+    - Send me a DM on Roam Slack (preferred)
+    - Send me a DM on Twitter (also great)
+- Queries::
+    - {{[[query]]: {and: [[@[[Kyle Stratis]]]]}}}
