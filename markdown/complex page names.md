@@ -1,0 +1,4 @@
+- Tags:: #Glossary
+- Page name with a nested page 
+    - Example:: `[[@[[Brandon Toner]]]]`
+        - `[[Brandon Toner]]` is **contained within** the full page name.

@@ -1,0 +1,2 @@
+- Tags:: #Abbreviations
+- "Daily Notes Page"

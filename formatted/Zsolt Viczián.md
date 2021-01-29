@@ -6,3 +6,8 @@
     - **[How to contact me](<How to contact me.md>):**
         - DM me on twitter
         - Contact me: info@zsolt.blog
+
+# Backlinks
+## [Directory](<Directory.md>)
+- [Zsolt Viczián](<Zsolt Viczián.md>)
+

@@ -1,5 +1,11 @@
 - About me::
-    - Twitter:: 
+    - Twitter:: [@leekeifon1](https://twitter.com/leekeifon1)
+    - Website:: Not yet
+    - Location:: [[Foshan]], [[Guangdong]], [[China]]
+    - Work:: naive [[software engineer]]
+    - How to contact me:: Twitter/Roam Slack
+    - Interests:: Math/Logic/Design/Program
     - Queries::
         - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
         - {{[[query]]: {and: [[@[[leekeifon]]]]}}}
+        - {{[[query]]: {and: [[Chat]] [[leekeifon]]}}}

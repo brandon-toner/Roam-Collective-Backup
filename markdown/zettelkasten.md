@@ -1,0 +1,10 @@
+- Overview::
+    - Components::
+        - [[reference notes]]
+            - The resource pages — where [[bibliographic information]], [[highlights]] and [[literature notes]] are located
+        - [[fleeting notes]]
+            - Assertions 
+        - [[literature notes]]
+        - [[evergreen notes]]
+        - zettel questions = [[open questions]] in this graph it seems
+        - [[context questions]]

@@ -1,0 +1,4 @@
+- Instructions::
+    - Timestamp your activity as you visit or make changes in the graph.
+        - Example:: 
+            - {{embed: ((aXbOspJJ4))}}

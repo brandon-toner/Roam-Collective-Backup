@@ -1,14 +1,28 @@
-- 
+- {{embed: ((b9pQnEURN))}}
 - #[[The Main Feed]]
-    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in ((2SJQzjk6-))
+    - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in "#[[The Zettelkasten]]"
+- ---
+- #[[Daily Writing Prompts]]
+    - "Explore your [vision]([[Vision]]) for [[project management]] in Roam. Describe a workflow that could be implemented in this graph. Include how [[handoffs]] could be facilitated between different team members. [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
+        - **Existing structure:**
+            - Projects naming convention `[[Projects/Project name]]`.
+                - Example:: [[Projects/Establish automated graph backups]]
+            - [Template](((d4tbH1tCA))) for structuring consistent [[metadata]].
+    - "How should we handle graph instability?"
+    - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
 - #[[The Main Feed]]
     - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]"
     - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
-    - What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
-    - "Did someone save [this](((S9QXQ3f7M))) into [[Roam-Collective]] intentionally?"
-- #[[Quick Capture]] 
-    - #Replication https://twitter.com/paulnovosad/status/1354803866710142979?s=09
-        - Did someone save [this](((S9QXQ3f7M))) into [[Roam-Collective]] intentionally?
+    - ((i66SL3BAl))
+- #[[Daily Log Book]] [*]([[Change Log]])
+    - 
+    - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]
+        - WE BACK.
+    - 11:10 -- Added experimental persona CSS examples for [[leekeifon]] 
+        - {{[[embed]]: ((((EZzT3MAmv))))}}
+    -  20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #Conversations
+    - 22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress.
+        - **Resolved after 30min**
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} 
     - #[[Scratchpad]] 
@@ -65,7 +79,7 @@
                 - What if [[communities]] like [[Ship 30 for 30]] had a [[collaborative graph]] community? 
             - Similar to [[Clubhouse]], it would be cool if there were external notifications for "Brandon is currently writing in [[Roam-Collective]]. #Vision #Ideas #Extensions
                 - #[[Open Questions]] How do I tag development ideas? 
-            - ((ODwYwd-L7))
+            - "Goals:: ((See block references for additional ideas.))"
                 - To [[empower]] Roam communities with the [[conventions]] and [[processes]] necessary to transcend [[meta]] discussion about the [[organization]] and [[structure]] of content — allowing them to focus on the [[content]] itself.
                     - [[The structure and the content.]]
             - [[project management]] #Processes [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) [*]([[projects]])
@@ -99,14 +113,13 @@
                                     - Click the number to see the references — hover to dismiss.
                                     - This would be great in either a list or a grid.
                         - 
-        - #Ideas [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Administration #not_populated
         - #[[Change Log]] #not_populated
         - #[[Next Steps]] 
             - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[TODO]]}} Add some [[literature notes]]
-                - **Suggestion:** ((88h-N8xL9))
+                - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
     - #Resources
         - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
     - #Resources
@@ -116,11 +129,13 @@
             - URL:: https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten
+            - #[[Context Questions]] what are the [[literature notes]] of [[questions]]? 
         - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
             - Ok... maybe not "__better__" but different and complimentary!
             - Related:: 
-                - ((vjEhAmFP9))
+                - "#[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. "
                 - Learning through observation and participation. Active learning.
+        - #Ideas [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Promptstorming 
         - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
             - #[[Questions]] Why are [[handoffs]] in Roam challenging? 
@@ -140,7 +155,7 @@ I may have to upload the backup.
                     - As indicated [here](((dhqC2IN0s))) in the template
                 - Both could ALSO contribute to [[creative projects]]. Any notes within the [[zettelkasten]] can be used to support ideas within a creative project. (OPTIONAL)
         - #[[Graph Mentorship]]
-            - [[@[[Mark Robertson]]]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.
+            - [[~[[Mark Robertson]]]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.
             - [[@[[Kyle Stratis]]]] I moved your comment into your [[DNP Section]], FYI
             - [[~[[Akiff Premjee]]]], when copying the daily prompts be aware creating a [[reference of a reference]]. You'll see it by the double orange bars. 
 
@@ -160,12 +175,11 @@ Resolve by "[[replace as text]]"
                 - It's where people can go to learn about you, your interests, and your collections.
                 - The linked references to your page are the place they can filter and browse all of your work in the DNP over time.
         - "Oh interesting our CSS looks different for block references. I wonder if css is person specific? But I also didn't change anything in roam/css"
-            - ohhhhh, you might have to turn on the CSS! 
-            - Is everyone but me on [[Vanilla Roam]]?? [[@[[Akiff Premjee]]]]
+            - "22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} 
     - #Scratchpad #not_populated
     - #Chat
-        - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? ((Oc08EGo3H))"
+        - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
             - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
         - [[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
             - [[~[[leekeifon]]]] Sounds like you're talking about [Personas](((-vJfNui_K))), have you taken a look at Persona styled tags to label those inner voices? [Antar](((bO-o1wmpp))) looks to be doing something similar
@@ -223,9 +237,23 @@ Resolve by "[[replace as text]]"
         - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~[[Brandon Toner]]]]"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} 
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - "With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
             - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]
+    - #Comments
+        - "However, I will say that now it seems like there will be multiple "Akiff" pages for me to follow. Akiff Comments, Akiff Bookmarks, Akiff Saved, Akiff Mentions - could be all added into just the [[Akiff Premjee]] page which seems like an interesting idea. Kind of like a personal home page with everything that I need to act on. "
+            - I could create/demonstrate some "[[dashboard]]" options if we desire? [[@[[Akiff Premjee]]]]  See image below ⬇️
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F6yPBh4Ec9B.png?alt=media&token=6f533374-f12f-4726-a953-40dba41cb78f)
+        - "[[^[[Brandon Toner]]]] this also brings up an interesting use case of __following__ a thread or a comment. I wasn't involved in the original comment but would like to be included in follow-ups or just follow peripherally. If there was something like an "AP Follow" tag that would be cool. I'm not fully involved in the conversation maybe or maybe I am but these are threads or thoughts I'd want to follow as they more fully are developed in the graph (wherever they may develop). This is not really a hand-off but more of a "more hands on or more eyeballs on" haha"
+            - The UI/UX for such things will get complicated quickly. So having a variety of global navigation blocks or similar might be useful here [[@[[Brandon Toner]]]]. You could also see an example, though not really for this exactly, here [➡️](((lRBaD3yYL)))
+        - "[[~[[Mark Robertson]]]] I moved your comment on Beau's block to a nested position to promote better readability, FYI."
+            - Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [[@[[Brandon Toner]]]]
+        - "That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [[~[[Mark Robertson]]]]"
+            - I would have to say that all I would say at this moment is to allow ourselves to find the path, document the justifications/reasons for sticking with and convention and allowing others to see the justification. Though I believe you are already doing this. So let's just do it. [[@[[Brandon Toner]]]]
+    - #Questions
+        - What are everybody's workflow with responding to comments/attention in this graph. I made a quick little loom showing one way. Curious. [[@[[Brandon Toner]]]]
+            - https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4
+            - Separately, but related. How can we `@everyone` if we have the gall to do so? [[@[[Brandon Toner]]]]
 - #[[My Daily Notes]] [[Akiff Premjee]] {{word-count}}
     - #Scratchpad 
         - So weird, I can't create a new line at the first bullet level on the daily note page but I can nest bullets and create sub bullets 
@@ -245,7 +273,7 @@ Resolve by "[[replace as text]]"
             - This is a great convention and interesting way to follow things I'm interested in. Queries for my name + bookmarks should be able to get me there. 
     - #Comments
         - "I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]"
-            - [[@[[Mark Robertson]]]] I'm interested to this and would like to follow. 
+            - [[~[[Mark Robertson]]]] I'm interested to this and would like to follow. 
             - [[^[[Brandon Toner]]]] this also brings up an interesting use case of __following__ a thread or a comment. I wasn't involved in the original comment but would like to be included in follow-ups or just follow peripherally. If there was something like an "AP Follow" tag that would be cool. I'm not fully involved in the conversation maybe or maybe I am but these are threads or thoughts I'd want to follow as they more fully are developed in the graph (wherever they may develop). This is not really a hand-off but more of a "more hands on or more eyeballs on" haha
         - [[~[[Brandon Toner]]]] your Bookmarks convention got me thinking about multiple pages per person that they would have to follow and creating a kind of home base on your own personal page
             - "On Bookmarks convention:"
@@ -260,3 +288,67 @@ Resolve by "[[replace as text]]""
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHlSMw9n-nl.png?alt=media&token=1b335c52-b492-4d22-957a-da55adbf1b57)
         - "A cool approach to this is to filter YOUR PAGE [[linked references]] by Bookmarks, or any other of the [[DNP Modules]] #Tips"
             - Yeah but only issue with filters is that you'd have to continuously keep doing it to look through all the DNP modules. Whereas a query could persist and act as a personal dashboard of sorts and hidden under a toggle as needed
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - #Bookmarks
+        - "[[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?"
+            - Fascinated by the idea of Personas!
+    - #[[Scratchpad]] #not_populated
+        - Connected briefly with [[Brandon Toner]] & [[Akiff Premjee]] today on Clubhouse, discussed...
+            - Orienting output in the graph around [[sprints]]
+                - See: "Group #Sprints as a [convention]([[Conventions]])"
+                - I see the purpose of a sprint being orienting the group around a focus for a snapshot in time.
+                    - The amount of thought emerging here is incredibly valuable, but it hard to accomplish tactical goals (such as building a [[graph seed]] for project management) without concerted effort
+                    - The sprint could have a series of associated tasks and members can pick them up appropriate
+            - Building an [[Urbit]] community for Roam Collective, with the potential to build an integration...
+                - Urbit would allow for a persistent chat, with additional writing features
+                - The nature of the Urbit platform could allow for some really interesting novel integrations...
+                    - Writing the entirety of the day's chat (in urbit) into the Graph
+                    - Displaying and linking to block references from the Urbit chat
+                - The above are just two we discussed today, but there's a whole universe of integrations that could be built
+            - Focusing our first sprint around the current [[Roam Games]] question: Project Management with Handoffs
+                - Regardless if we submit anything, orienting the group around brainstorming on this question could be invaluable...
+        - Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions
+            - Types of functions
+                - Community functions can be useful to ensure correct usage of conventions and to distribute information
+                - Personal functions are great for testing out functions and for niche use cases
+            - Proposed convention
+                - Personal SmartBlocks / Templates
+                    - <FirstName+LastInitial> + <Function Name> + <Experimental (optional)>
+                        - `CharlesF + Custom Query (Experimental)`
+                - Community SmartBlock
+                    - <rc+Function Abbreviation> — <Function Name> + <Experimental (optional)> + <(RC)>
+                        - `rcDNP — My Daily Notes (RC)`
+            - Benefits
+                - Easily distinguish between personal and community SmartBlocks / templates
+                - Easily trigger the function in question...
+                    - Searching by your name (e.g., `jjCharlesF`) easily pulls up a list of your functions
+                    - Searching by "rc" pulls up a list of community functions, and you can easily specify using the abbreviations
+                    - Note: These formats are helpful because you can't use spaces while searching using the `jj` trigger...
+        - [[Projects/Submit Grant Application to [[Urbit]] for RC]]
+            - Current Draft
+                - Title
+                    - Expand Community Space for Mulitplayer Roam Research
+                - Brief
+                    - Roam Collective is experimenting with how to build effective multiplayer graphs in Roam Research to enable vibrant knowledge communities
+                - Details
+                    - **Note:** Make sure people know what you’re building, why you’re qualified, and where the money’s going
+                    - ...
+            - I invited [[Brandon Toner]] to be a member of the proposal. If anyone else is interested in being added, feel free to Slack me your email...
+    - #Questions
+        - #Q Where should output live within the graph?
+            - Output defined as a polished (or semi-polish product)
+            - My thinking is that while work on a project can be done within the daily notes, there is a bigger role for pages
+            - Is there are best approach to take here, or should it be handled on a case-by-case basis?
+    - #Administration #not_populated
+        - #[[Change Log]] #not_populated
+        - #[[Next Steps]] #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Promptstorming #not_populated
+    - #Comments #not_populated
+    - #Feedback  #not_populated
+    - #Chat
+        - [[@[[Kyle Stratis]]]] related to your comment [here](((bIl7_WLyg))), [[Brandon Toner]] and I were discussing the possibility of setting up an urbit environment for Roam Collective → see "Building an [[Urbit]] community for Roam Collective, with the potential to build an integration..."
+            - I tweeted about [[Urbit]] & Roam the other day and they invited us to apply for a grant for hosting — plan is to hopefully get that done this week.
+            - I know that you're familiar with Urbit, so would love to get your thoughts here!
+        - Hey [[@[[leekeifon]]]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [[roam/css]] — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
+        - [[@[[Brandon Toner]]]] what do you think about: "Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions"

@@ -1,0 +1,11 @@
+- Tags:: #Projects #backup #[[Roam-Collective]]
+    - Date Created:: [[January 27th, 2021]]
+    - People:: 
+        - [[Eneko Uruñuela]]
+        - [[Matthew Vogel]]
+    - Areas:: [[Areas/Roam Collective]]
+    - Project Status:: [[Status/Completed]]
+    - Date Completed:: [[January 27th, 2021]]
+    - Notes::
+        - See discussion on [[Slack]]
+    - URL:: (Is currently set as private but a public backup could be nice)
