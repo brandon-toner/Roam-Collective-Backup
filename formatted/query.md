@@ -2,11 +2,18 @@
 - Verb and noun [Tensions](<Tensions.md>)
 
 # Backlinks
+## [@[Brandon Toner](<Brandon Toner.md>)](<@[Brandon Toner](<Brandon Toner.md>).md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]
+
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - [query](<query.md>)
 
 ## [Brandon Toner](<Brandon Toner.md>)
 - {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
 ## [Charles Farr](<Charles Farr.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>):

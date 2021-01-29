@@ -4,7 +4,6 @@
     - [Beyond the Basics](<Beyond the Basics.md>)
     - [Becoming an Editor](<Becoming an Editor.md>)
 - **If you are just visiting:**
-    - Learn more about the project [here]([About [[Roam-Collective](<About [[Roam-Collective.md>)]]).
     - Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>) to comment, ask questions, offer feedback, or just chat about the project.
     - If you are interested in contributing to the initiative, request edit access by messaging [Brandon Toner](<Brandon Toner.md>) on Slack or Twitter with the email you use for Roam.
 

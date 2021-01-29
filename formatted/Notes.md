@@ -1,5 +1,13 @@
 
 # Backlinks
+## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Notes](<Notes.md>):**
+
+## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Notes](<Notes.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - "Projects I'm involved with" `{{[query](<query.md>): {and: [Status/Active](<Status/Active.md>) [Your Name](<Your Name.md>)}}}`
                 - **[Notes](<Notes.md>):**
@@ -9,6 +17,10 @@
     - **[Notes](<Notes.md>):**
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
+- **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
+    - **[Notes](<Notes.md>):**
+
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
     - **[Notes](<Notes.md>):**
 

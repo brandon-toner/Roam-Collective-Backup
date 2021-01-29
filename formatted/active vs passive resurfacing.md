@@ -14,6 +14,8 @@
 
 - [active vs passive resurfacing](<active vs passive resurfacing.md>)
 
+- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>))
+
 ## [passive](<passive.md>)
 - **[Related](<Related.md>):** [active vs passive resurfacing](<active vs passive resurfacing.md>)
 

@@ -1,4 +1,10 @@
 - Tags:: #Conventions
-- When added as a module to the top section.
-    - Numbered list
-    - 
+- Related:: [[notifications]]
+- **Tag Usage:**
+    - When added as a module to the **top section**, this tag serves as a place to solicit comment from all of the graph members. 
+        - It should be a numbered list 
+        - To reply, reference the block into your "Comments" section, nesting your reply beneath.
+            - Example::
+                - "11:43 — Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes "
+- How to Chat?
+    - Tag 

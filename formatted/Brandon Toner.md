@@ -8,7 +8,7 @@
         - Send me a DM on Twitter (also great)
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
     - **[Queries](<Queries.md>):**
-        - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]]}}}
+        - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
     - **[SmartBlocks](<SmartBlocks.md>):**
         - .DNP Template BT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
             - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
@@ -33,10 +33,18 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
 
 - 14:00-19:06 — [Brandon Toner](<Brandon Toner.md>)
@@ -71,8 +79,6 @@
 - "I've landed on " [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
-
 - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)`
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
@@ -133,14 +139,22 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - [Brandon Toner](<Brandon Toner.md>)
+
+## [Start from abundance](<Start from abundance.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - If you are interested in contributing to the initiative, request edit access by messaging [Brandon Toner](<Brandon Toner.md>)

@@ -1,6 +1,6 @@
+- They can noisy-up the graph and make it harder to separate [signal](<signal.md>) from noise.
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 - Attributes or tags that are intended to have content, but don't have any content populated. 
-- They can noisy-up the graph and make it harder to separate [signal](<signal.md>) from noise.
 
 # Backlinks
 ## [Frequently Asked Questions](<Frequently Asked Questions.md>)

@@ -12,3 +12,7 @@
 
 - Less of an [assertion]([assertions](<assertions.md>))
 
+- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>).
+
+- You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>).
+

@@ -25,8 +25,6 @@
 
 - **[Related](<Related.md>):** {{[embed](<embed.md>):
 
-- **[Related](<Related.md>):** {{[embed](<embed.md>):
-
 - {{[embed](<embed.md>):
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
@@ -56,8 +54,5 @@
 - {{[embed](<embed.md>):
 
 ## [Roles](<Roles.md>)
-- {{[embed](<embed.md>):
-
-## [The Main Feed](<The Main Feed.md>)
 - {{[embed](<embed.md>):
 

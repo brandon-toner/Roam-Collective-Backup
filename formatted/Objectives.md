@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)
-- Shared graphs allow you to LEARN from the way others structure their thoughts
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
     - **[Objectives](<Objectives.md>):**
 

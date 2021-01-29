@@ -9,3 +9,7 @@
 - **[People](<People.md>):** [Everyone](<Everyone.md>)
         - **[Project Lead](<Project Lead.md>):**
 
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
+- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+        - **[Project Lead](<Project Lead.md>):**
+

@@ -1,9 +1,15 @@
 
 # Backlinks
+## [Andy Matuschak](<Andy Matuschak.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Areas/Roam Collective](<Areas/Roam Collective.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Bookmarks](<Bookmarks.md>)
+- **[Tags](<Tags.md>):**
+
+## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Tags](<Tags.md>):**
 
 ## [DNP](<DNP.md>)
@@ -19,11 +25,13 @@
 ## [EN](<EN.md>)
 - **[Tags](<Tags.md>):**
 
+## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Tags](<Tags.md>):**
+
 ## [FN](<FN.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
-- 
 - **[Tags](<Tags.md>):**
 
 ## [Frameworks](<Frameworks.md>)
@@ -36,6 +44,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+- **[Tags](<Tags.md>):**
+
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Queries](<Queries.md>)
@@ -81,6 +92,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [empty attributes](<empty attributes.md>)
+- They can noisy-up the graph and make it harder to separate [signal](<signal.md>) from noise.
 - **[Tags](<Tags.md>):**
 
 ## [filtering](<filtering.md>)

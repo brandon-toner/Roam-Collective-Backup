@@ -5,6 +5,7 @@
     - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
     - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Open Questions]])[*]([[Roam Games]])"
 - #[[The Main Feed]]
+    - 11:43 — Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes 
 - #[[Daily Log Book]]
     - 11:19 — Glitchy CSS/data loss again. #[[Bug Reports]]
         - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
@@ -31,12 +32,15 @@ Thoughts? - [[Brandon Toner]]
                 - Related:: [[DNP Section]]
         - Just remembered a [[Roam Book Club]] convention that I liked — [the central chat.](((ZlhKC6b2i))) 
             - So I added a Chat tag to the top section.
-    - #Administration #not_populated
-        - #[[Change Log]]
-            - Changed naming of the universal DNP template.
-                - ".rcDNP Template (rc) #42SmartBlock #roam/templates"
-            - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
-        - #[[Next Steps]] #not_populated
+        - Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)
+            - [[Create speculative outlines while you write]]
+            - [[Evergreen notes should be concept-oriented]]
+            - 
+    - #[[Change Log]]
+        - Changed naming of the universal DNP template.
+            - ".rcDNP Template (rc) #42SmartBlock #roam/templates"
+        - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
+    - #[[Next Steps]] #not_populated
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten
             - Agreement Rating:: {{[[slider]]}}
@@ -66,26 +70,51 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
                     - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
         - "[[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph"
             - Fire away! [[@[[Matthew Vogel]]]] 🚀, just document in the Change Log within your section (added one for you)
-        - "Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [[@[[Brandon Toner]]]]"
-            - 
+        - "Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [[^[[Brandon Toner]]]]"
+            - Yea, I think we'll go with nesting as standard convention for now. My strategy for navigating is to Shift-click to open the reference in the side bar, giving me easier access to the [[breadcrumbs]]. [[~[[Mark Robertson]]]] 
+                - Definitely open to re-evaluating this over time. 
+        - "I would have to say that all I would say at this moment is to allow ourselves to find the path, document the justifications/reasons for sticking with and convention and allowing others to see the justification. Though I believe you are already doing this. So let's just do it. [[^[[Brandon Toner]]]]"
+            - Yup, I plan to continue to leave lots of documentation/justification, thinking out loud.
+            - Loving your commentary of the conventions, this type of dialogue is the path forward. 
+        - "Separately, but related. How can we `@everyone` if we have the gall to do so? [[~[[Brandon Toner]]]]"
+            - Thought a bit about this [here](((iUKkXeJbA)))
+                - Barrier to this approach is [notification management](((Ae1spW6Uo)))
+            - Better solution I think is [top-section Chat](((ZlhKC6b2i))). [[~[[Mark Robertson]]]]
+        - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
+            - Related:: [[Start from abundance]]
     - #Feedback  #not_populated
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
         - The UI design [example](((lRBaD3yYL))) from [[Mark Robertson]] really show us the limitless possibility that what [[Roam]] UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [[Roam]].
         - Maybe we could [[model]] our [[Roam]] [[collaboration]] system with game design mindset, like a RPG game?
             - **Global public feed** that’s official way that help showing new comer what’s current trend(daily/weekly/monthly) in community.
-                - It’s kind of like an official newsletter.
+                - It can be [[model]]ed as official newsletter.
+                - It can be [[model]]ed as real time notification to Roamans.
                 - maybe it becomes a work for a recommendation system, I don’t know if it’s good or not.
             - **Roaman media feed** that’s hold by an individual/a group of Roaman.
-                - It’s the free choice for a Roaman to subscribe this feed.
-            - Private communication
-            - Official event
+                - It’s the free choice for a Roaman decide whether or not subscribing this feed, and the content on the feed is determined by the Roaman/group of Roaman.
+            - **Private communication**, should be easy to create and easy to delete.
+                - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [[Roam]] team. For us, in order to create such a space, we may insert some encoded content into [[Roam]] block which is hard to become a auto-complete candidates and then decoded it via the chatting plugin.
+            - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
         - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `#publish` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]"
             - Related:: {{[[embed]]: ((((kFPq1Gc9U))))}}
+        - One reward for Roaman with high reputation in "Roam reputation system" may be the permission to create new page? If we view [[Roam]] page as a kind of resource.
+        - Maybe, we could view page as [[truth]], in one [[Roam]] database, one [[Roam]] community, where these [[truth]] are built on axioms and logical inference, and [[communication]] mechanism is a basic foundation to support the emergence of logical inferences.
+        - [Viewing page as truth](((H6M1XTGet))) is a concrete [[goals]] to make our [[communication]] [[converge]].
+        - Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg))).
     - #[[Chat]]
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]
+        - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[@[[Brandon Toner]]]]
+        - Also [this one](((j50xmn4aN))).  cc [[@[[Brandon Toner]]]]
+        - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [[@[[Brandon Toner]]]]
+        - Is [this idea](((UDqsAeKJg))) already in your feature list? [[@[[Matthew Vogel]]]]
+        - "I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+
+Thoughts? - [[Brandon Toner]]"
+            - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]].
+                - **Effec**t: By breaking them into smaller distinctions, we may get a more clear sense on how you define these terms.
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated
@@ -94,3 +123,9 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
     - #[[[[Feedback]]: [[Suggestions]]]]
         - [[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Comments
+        - "Definitely open to re-evaluating this over time. "
+            - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[@[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. 
+            - 

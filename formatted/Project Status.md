@@ -14,3 +14,7 @@
 - **[Areas](<Areas.md>):** #[not_populated](<not_populated.md>) [Housekeeping](<Housekeeping.md>)
     - **[Project Status](<Project Status.md>):**
 
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
+- **[Areas](<Areas.md>):** [Areas/Roam Collective](<Areas/Roam Collective.md>) 
+    - **[Project Status](<Project Status.md>):**
+

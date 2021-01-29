@@ -1,6 +1,6 @@
 - About me::
-    - Twitter:: [@syncretizm](http://twitter.com/syncretizm)
     - Time Zone::  [[UTC]] +8:00
+    - Twitter:: [@syncretizm](http://twitter.com/syncretizm)
     - Work:: [[doctor]]
     - How to contact me::
         - Send me a DM on Twitter or Roam Slack.

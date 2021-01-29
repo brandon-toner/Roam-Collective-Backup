@@ -40,7 +40,7 @@
     - **[Twitter](<Twitter.md>):**
 
 ## [Winston Teng](<Winston Teng.md>)
-- **[About me](<About me.md>):**
+- **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00
     - **[Twitter](<Twitter.md>):**
 
 ## [Zsolt Viczián](<Zsolt Viczián.md>)

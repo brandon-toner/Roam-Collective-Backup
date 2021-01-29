@@ -1,11 +1,8 @@
-- 
-- 
 - {{embed: ((b9pQnEURN))}}
 - #[The Main Feed](<The Main Feed.md>)
     - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
 - ---
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
-    - 
     - "Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
@@ -250,13 +247,13 @@ Resolve by "[replace as text](<replace as text.md>)"
         - "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] this also brings up an interesting use case of __following__ a thread or a comment. I wasn't involved in the original comment but would like to be included in follow-ups or just follow peripherally. If there was something like an "AP Follow" tag that would be cool. I'm not fully involved in the conversation maybe or maybe I am but these are threads or thoughts I'd want to follow as they more fully are developed in the graph (wherever they may develop). This is not really a hand-off but more of a "more hands on or more eyeballs on" haha"
             - The UI/UX for such things will get complicated quickly. So having a variety of global navigation blocks or similar might be useful here [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. You could also see an example, though not really for this exactly, here [➡️](((lRBaD3yYL)))
         - "[~[[Mark Robertson](<~[[Mark Robertson.md>)]] I moved your comment on Beau's block to a nested position to promote better readability, FYI."
-            - Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+            - Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - "That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [~[[Mark Robertson](<~[[Mark Robertson.md>)]]"
-            - I would have to say that all I would say at this moment is to allow ourselves to find the path, document the justifications/reasons for sticking with and convention and allowing others to see the justification. Though I believe you are already doing this. So let's just do it. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+            - I would have to say that all I would say at this moment is to allow ourselves to find the path, document the justifications/reasons for sticking with and convention and allowing others to see the justification. Though I believe you are already doing this. So let's just do it. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
     - [Questions](<Questions.md>)
-        - What are everybody's workflow with responding to comments/attention in this graph. I made a quick little loom showing one way. Curious. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - What are everybody's workflow with responding to comments/attention in this graph. I made a quick little loom showing one way. Curious. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4
-            - Separately, but related. How can we `@everyone` if we have the gall to do so? [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+            - Separately, but related. How can we `@everyone` if we have the gall to do so? [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
 - #[My Daily Notes](<My Daily Notes.md>) [Akiff Premjee](<Akiff Premjee.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) 
         - So weird, I can't create a new line at the first bullet level on the daily note page but I can nest bullets and create sub bullets 
@@ -355,3 +352,8 @@ Resolve by "[replace as text](<replace as text.md>)""
             - I know that you're familiar with Urbit, so would love to get your thoughts here!
         - Hey [~[[leekeifon](<~[[leekeifon.md>)]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [roam/css](<roam/css.md>) — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)"
+
+# Backlinks
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
+- **[Date Created](<Date Created.md>):** [January 28th, 2021](<January 28th, 2021.md>)
+

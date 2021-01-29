@@ -12,6 +12,13 @@
     - Anything beneath the block containing `[42SmartBlock](<42SmartBlock.md>)` becomes part of the template expansion (or "workflow")
 - What is the role of the [not_populated](<not_populated.md>) tag? 
     - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)"
+- How do I mention someone to get their attention? 
+    - Tag them using the @ symbol. 
+        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)"
+        - Note the syntax is `[@[[Their Name](<@[[Their Name.md>)]]`
+- How do I mark a notification as read?
+    - "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+    - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)"
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)

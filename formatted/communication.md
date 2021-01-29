@@ -27,5 +27,9 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
 
+- Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>) database, one [Roam](<Roam.md>) community, where these [truth](<truth.md>) are built on axioms and logical inference, and [communication](<communication.md>)
+
+- [Viewing page as truth](((H6M1XTGet))) is a concrete [goals](<goals.md>) to make our [communication](<communication.md>)
+
 - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
 

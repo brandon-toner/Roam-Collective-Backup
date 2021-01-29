@@ -1,9 +1,9 @@
 - Using the other [DNP Modules](<DNP Modules.md>)
     - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
-        - **[Example](<Example.md>):** 
+        - **[Example](<Example.md>):** ((last update: Jan 28, 2021 — see recent DNPs for up-to-date examples))
             - {{[embed](<embed.md>): ((p3I4ov6M5))}}
             - 
-- Build a personal [DNP](<DNP.md>) Template
+- Build a personal [DNP](<DNP.md>) Template ((Place personal SmartBlocks on your page))
     - **[Example](<Example.md>):** 
         - {{[embed](<embed.md>): ((VyS8OjXZx))}}
 - Using the [Chat](<Chat.md>) features

@@ -23,7 +23,7 @@
 
 # Backlinks
 ## [Quick Start Guide](<Quick Start Guide.md>)
-2. Add yourself to the [Directory](<Directory.md>)
+1. Add yourself to the [Directory](<Directory.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Directory](<Directory.md>)

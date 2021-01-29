@@ -1,6 +1,4 @@
-- 
 - Tags:: #Glossary #zettelkasten
-- [[reference notes]]
 - Related::
     - [[reference notes]]
     - [[literature notes]]

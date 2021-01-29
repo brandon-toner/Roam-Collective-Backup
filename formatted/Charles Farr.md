@@ -3,6 +3,7 @@
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Questions](<Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Open Questions
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Open Questions](<Open Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
 - Follow Ups
     - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
 
@@ -61,4 +62,9 @@
 - [Charles Farr](<Charles Farr.md>):
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
+- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+
+- **[Project Lead](<Project Lead.md>):** [Charles Farr](<Charles Farr.md>)
 

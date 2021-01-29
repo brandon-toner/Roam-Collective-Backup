@@ -1,11 +1,11 @@
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>), [Becoming an Editor](<Becoming an Editor.md>)
 - ^^Jump in! The more content the better.^^ 
 - **[Activities](<Activities.md>):** 
+    1. Add yourself to the [Directory](<Directory.md>)
     1. Build your bio page 
         - **[Example](<Example.md>):**
             - [Brandon Toner](<Brandon Toner.md>)
             - [Mark Robertson](<Mark Robertson.md>)
-    2. Add yourself to the [Directory](<Directory.md>)
     3. Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
     4. Review the [conventions]([Conventions](<Conventions.md>))
     5. Build your DNP Section using the universal [template](((qONZuXh3Y))). 

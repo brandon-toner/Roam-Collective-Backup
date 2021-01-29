@@ -4,8 +4,6 @@
 - I started using [Roam](<Roam.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- Very interested in the shared space between [Roam](<Roam.md>)
-
 - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>)
 
 - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
@@ -49,6 +47,16 @@
 - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>) UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [Roam](<Roam.md>).
 
 - Maybe we could [model](<model.md>) our [Roam](<Roam.md>)
+
+- Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [Roam](<Roam.md>)
+
+- Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [Roam](<Roam.md>) team. For us, in order to create such a space, we may insert some encoded content into [Roam](<Roam.md>)
+
+- One reward for Roaman with high reputation in "Roam reputation system" may be the permission to create new page? If we view [Roam](<Roam.md>)
+
+- Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>)
+
+- Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>) database, one [Roam](<Roam.md>)
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - I also started using [Roam](<Roam.md>)

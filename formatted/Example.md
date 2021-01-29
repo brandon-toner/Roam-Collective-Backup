@@ -4,7 +4,7 @@
 - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
         - **[Example](<Example.md>):**
 
-- Build a personal [DNP](<DNP.md>) Template
+- Build a personal [DNP](<DNP.md>) Template ((Place personal SmartBlocks on your page))
     - **[Example](<Example.md>):**
 
 ## [DNP Section](<DNP Section.md>)
@@ -53,6 +53,10 @@
         - **[Example](<Example.md>):**
 
 8. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
+
+## [chat](<chat.md>)
+- To reply, reference the block into your "Comments" section, nesting your reply beneath.
+            - **[Example](<Example.md>):**
 
 ## [complex page names](<complex page names.md>)
 - Page name with a nested page 

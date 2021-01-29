@@ -1,10 +1,10 @@
 - **[Tags](<Tags.md>):** [Conventions](<Conventions.md>)
 - Description of the [DNP Modules](<DNP Modules.md>)
-    - #[Scratchpad](<Scratchpad.md>)
-        - Scratch-paper for a place to write your fleeting thoughts.
     - #[Change Log](<Change Log.md>)
         1. A place to log changes to the structure and conventions in the graph 
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
+    - #[Scratchpad](<Scratchpad.md>)
+        - Scratch-paper for a place to write your fleeting thoughts.
     - #[Next Steps](<Next Steps.md>)
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - [Promptstorming](<Promptstorming.md>)
@@ -19,7 +19,6 @@
         - More formal ideas go here.
     - [Chat](<Chat.md>)
         - A place to launch chats (calls for input/comment) into the database
-    - 
     - [Comments](<Comments.md>)
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - [Questions](<Questions.md>)

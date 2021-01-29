@@ -1,0 +1,2 @@
+- "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
