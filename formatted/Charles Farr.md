@@ -3,7 +3,6 @@
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Questions](<Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Open Questions
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Open Questions](<Open Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
-- [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
 - Follow Ups
     - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
 
@@ -53,4 +52,11 @@
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+-  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>)
+
+- " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>)
+
+- [Charles Farr](<Charles Farr.md>):
 

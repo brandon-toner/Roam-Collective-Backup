@@ -14,6 +14,8 @@
 - #[Help Wanted](<Help Wanted.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
+- #[Help Wanted](<Help Wanted.md>)
+
 - [ ] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>)
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)

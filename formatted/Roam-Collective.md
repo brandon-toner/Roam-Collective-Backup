@@ -22,6 +22,15 @@
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - How to import highlights and take [literature notes](<literature notes.md>) in [Roam-Collective](<Roam-Collective.md>)?
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Purpose and vision of [Roam-Collective](<Roam-Collective.md>)
+
+- The potential of [Urbit](<Urbit.md>) as a companion to [Roam-Collective](<Roam-Collective.md>)
+
+- What would be the role of [live](<live.md>) [Roam-Collective](<Roam-Collective.md>)
+
+- Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>).
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
 

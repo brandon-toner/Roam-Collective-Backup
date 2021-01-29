@@ -1,8 +1,7 @@
 - [Announcements](<Announcements.md>) **READ THIS**
     - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
-    - 
-    - [Mark Robertson](<Mark Robertson.md>) On working together, rather than "shouting as you run by"
-        - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+    - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+    - Shared graphs allow you to LEARN from the way others structure their thoughts
     - **[Objectives](<Objectives.md>):** 
         - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - Create a hub for the [Roam Games](<Roam Games.md>)
@@ -17,7 +16,6 @@
         - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
         - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
         - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
-    - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
 - #[Daily Log Book](<Daily Log Book.md>)

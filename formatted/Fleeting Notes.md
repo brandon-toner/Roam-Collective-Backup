@@ -1,4 +1,6 @@
+- 
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
+- [reference notes](<reference notes.md>)
 - **[Related](<Related.md>):**
     - [reference notes](<reference notes.md>)
     - [literature notes](<literature notes.md>)
@@ -114,6 +116,13 @@
 - **[Example](<Example.md>):** "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+- **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 

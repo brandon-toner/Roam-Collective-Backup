@@ -25,3 +25,6 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>))
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>)
+

@@ -76,9 +76,6 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - This example is QUITE developed. You could simply nest your ideas underneath the `#[My Daily Notes](<My Daily Notes.md>)`
 
-## [Processes](<Processes.md>)
-- To comment on blocks, copy the block reference of the block you want to comment on, paste it into your [Daily Notes section]([My Daily Notes](<My Daily Notes.md>))
-
 ## [roam/css](<roam/css.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

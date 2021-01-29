@@ -17,6 +17,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
+- 
 - **[Tags](<Tags.md>):**
 
 ## [LN](<LN.md>)
@@ -37,7 +38,13 @@
 ## [Start from abundance](<Start from abundance.md>)
 - **[Tags](<Tags.md>):**
 
+## [The structure and the content.](<The structure and the content..md>)
+- **[Tags](<Tags.md>):**
+
 ## [atomic thinking](<atomic thinking.md>)
+- **[Tags](<Tags.md>):**
+
+## [bi-directional links](<bi-directional links.md>)
 - **[Tags](<Tags.md>):**
 
 ## [block references](<block references.md>)
@@ -53,7 +60,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [empty attributes](<empty attributes.md>)
-- They can noisy-up the graph and make it harder to separate [signal](<signal.md>) from noise.
 - **[Tags](<Tags.md>):**
 
 ## [filtering](<filtering.md>)
@@ -63,6 +69,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [indentation](<indentation.md>)
+- **[Tags](<Tags.md>):**
+
+## [linked references](<linked references.md>)
 - **[Tags](<Tags.md>):**
 
 ## [page references](<page references.md>)

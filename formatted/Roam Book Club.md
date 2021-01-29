@@ -9,3 +9,6 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - My time at the moment is completely slammed with #[Roam Book Club](<Roam Book Club.md>)
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Future synchronous writing sessions like in [Roam Book Club](<Roam Book Club.md>)
+

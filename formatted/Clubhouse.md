@@ -18,6 +18,12 @@
 - And what I wanted to say at the [Clubhouse](<Clubhouse.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
+-  20:19 — Brief [Clubhouse](<Clubhouse.md>)
+
+- " 20:19 — Brief [Clubhouse](<Clubhouse.md>)
+
+- Similar to [Clubhouse](<Clubhouse.md>),
+
 - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>)
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)

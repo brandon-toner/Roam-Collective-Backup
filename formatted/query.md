@@ -47,16 +47,6 @@
 
 - {{[query](<query.md>):
 
-## [Processes](<Processes.md>)
--  {{[query](<query.md>):
-
-## [Projects](<Projects.md>)
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [Projects](<Projects.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)]
-
-- {{[query](<query.md>):
-
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>), [query](<query.md>)
 

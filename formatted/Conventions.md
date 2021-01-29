@@ -12,6 +12,9 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Change in [convention]([Conventions](<Conventions.md>))
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Group [Sprints](<Sprints.md>) as a [convention]([Conventions](<Conventions.md>))
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 4. Review the [conventions]([Conventions](<Conventions.md>))
 

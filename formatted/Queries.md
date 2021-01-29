@@ -27,13 +27,6 @@
 - **[Interests](<Interests.md>):**[cooking](<cooking.md>) [architecture](<architecture.md>) [design](<design.md>) [metacognition](<metacognition.md>) comedic [improvisation](<improvisation.md>) 
     - **[Queries](<Queries.md>):**
 
-## [Processes](<Processes.md>)
-- {{embed: ((2_7tPownb))}}
-- **[Queries](<Queries.md>):**
-
-## [Projects](<Projects.md>)
-- **[Queries](<Queries.md>):**
-
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>),
 

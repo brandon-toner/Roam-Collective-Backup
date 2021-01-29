@@ -1,3 +1,7 @@
+- 
+- 
+- 
+- 
 - #Announcements
     - Change in [convention]([[Conventions]])! [[Chat]]
         - From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]]) — **note that the CSS box should wrap the name**
@@ -5,12 +9,18 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
     - {{[[embed]]: ((XS29OCnVF))}}
 - {{embed: ((b9pQnEURN))}}
+- It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
+- 
+- Related:: [[@]]
+- 
+- Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
 - ---
 - #[[The Main Feed]]
     - {{[[embed]]: ((JfnNhLc4U))}}
 - ---
 - #[[Daily Writing Prompts]]
     - "Explore your vision for the future of collaboration in Roam."
+    - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
     - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #Scratchpad
@@ -252,7 +262,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - #[[Daily Log Book]]
+    - 
     - 11:49 - Discussion about chat conventions 
+    - Related:: {{[[embed]]: ((JfnNhLc4U))}}
     - 11:54 - [[Matthew Vogel]] and [[Eneko Uruñuela]] are looking into [[backup]] solutions #[[Projects/Establish automated graph backups]]
     - 12:30 - EDN, JSON, and Markdown [[backup]] is up and running with ownership being transferred to [[Brandon Toner]] #[[Projects/Establish automated graph backups]]
     - 14:13 - Did some work on the [[zettelkasten]] workflow. I quite like it.

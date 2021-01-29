@@ -7,6 +7,9 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - "Explore your [vision]([Vision](<Vision.md>))
 
+- Group [Sprints](<Sprints.md>) as a [convention]([Conventions](<Conventions.md>))
+                    - **[Vision](<Vision.md>):**
+
 ## [Prompts](<Prompts.md>)
 - Explore your [vision]([Vision](<Vision.md>))
 

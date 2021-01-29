@@ -1,5 +1,6 @@
 - **[Members](<Members.md>):**
     - [Akiff Premjee](<Akiff Premjee.md>)
+    - [Alysson M. Costa](<Alysson M. Costa.md>)
     - [Andy Henson](<Andy Henson.md>)
     - [Deepu Asok](<Deepu Asok.md>)
     - [Eneko Uruñuela](<Eneko Uruñuela.md>)
@@ -21,7 +22,7 @@
 
 # Backlinks
 ## [Quick Start Guide](<Quick Start Guide.md>)
-1. Add yourself to the [Directory](<Directory.md>)
+2. Add yourself to the [Directory](<Directory.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Directory](<Directory.md>)

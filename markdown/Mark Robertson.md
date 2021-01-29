@@ -21,8 +21,10 @@
         - [Roam Research in Education with Mark Robertson](https://youtu.be/bSbuOPgHL3E)
         - [Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
     - Interests::
+        - This
         - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
     - Queries::
+        - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
         - {{[[query]]: {and: [[@]] [[Mark Robertson]] {not: [[Brandon Toner]]}}}}
     - SmartBlocks::
         - Mark DNT #42SmartBlock
@@ -31,3 +33,4 @@
                 - #Questions ((about the graph, or directed towards someone)) #not_populated
                 - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
                 - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+        - I'll leave some breadcrumbs on the conventions page as well.

@@ -1,9 +1,14 @@
 
 # Backlinks
+## [Alysson M. Costa](<Alysson M. Costa.md>)
+- I started using [Roam](<Roam.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- Very interested in the shared space between [Roam](<Roam.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>)
 
 - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
@@ -23,6 +28,10 @@
 - With this huge surge of interest in solving the problems that us [Roam](<Roam.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
+- **[Vision](<Vision.md>):** Ability to reference the [Urbit](<Urbit.md>) [chat](<chat.md>) in [Roam](<Roam.md>),
+
+- [Robert Haisfield](<Robert Haisfield.md>) on [structure](<structure.md>) in [Roam](<Roam.md>)
+
 - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
 
 - "With this huge surge of interest in solving the problems that us [Roam](<Roam.md>)

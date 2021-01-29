@@ -1,6 +1,9 @@
 - **[Related](<Related.md>):** [Open Questions](<Open Questions.md>), [Activities](<Activities.md>)
 - **[Style Guide](<Style Guide.md>):**
     - Topic, with nested prompts related to that topic. 
+- **[Inbox](<Inbox.md>):**
+    - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
+    - How should we handle graph instability?
 - [Community Projects & Artifacts](<Community Projects & Artifacts.md>) (Working together to build stuff)
     - What types of products or outcomes could collaborative communities work towards? How might this look?
     - How can collaborative Roam communities work towards generating a unified product or outcome? ((To generate an artifact. E.g. A book club generating *something* from the collaborative experience))
@@ -8,6 +11,7 @@
     - How should we divide the prize money if we happen to win something?
     - Explore your vision for the future of collaboration in Roam.
 - [[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]][*]([[[project management](<[[project management.md>) in Roam]])
+    - What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])
     - Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])
     - Elaborate on the vision of team-based project management in Roam. 
     - What challenges or barriers come up when building systems for collaborative project management in Roam?
@@ -27,8 +31,8 @@
     - [Plural]([plural](<plural.md>)) vs [singular]([singular](<singular.md>)) page titles — What are the [Pros & Cons](<Pros & Cons.md>) of each?
     - [Lowercase]([lowercase](<lowercase.md>)) vs [Uppercase]([uppercase](<uppercase.md>)) page titles — What are the [Pros & Cons](<Pros & Cons.md>) of each?
     - How might conventions vary graph-to-graph? 
-        - What about graphs open to the public for editing?
         - How might conventions vary based on the *size* of the graph membership?
+        - What about graphs open to the public for editing?
         - How might conventions change if a graph had a large number of **newer users**?
         - How might conventions change if a graph had a large number of **more advanced users**?
 - [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
@@ -42,8 +46,6 @@
 - [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
     - What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?
         - **[Related](<Related.md>):** "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
-- **[Inbox](<Inbox.md>):**
-    - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
 
 # Backlinks
 ## [Activities](<Activities.md>)

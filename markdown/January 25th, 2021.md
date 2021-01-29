@@ -1,8 +1,7 @@
 - #Announcements **READ THIS**
     - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
-    - 
-    - [[Mark Robertson]] On working together, rather than "shouting as you run by"
-        - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
+    - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
+    - Shared graphs allow you to LEARN from the way others structure their thoughts
     - Objectives:: 
         - Create a [[Roam Collaboration Guide]]
         - Create a hub for the [[Roam Games]]
@@ -17,7 +16,6 @@
         - Check the #[[Change Log]] linked references for a running list of the changes over time.
         - Check the #Announcements linked references for a running list of important memos
         - Explore the block references on the [[Prompts]] page to see community responses to various prompts
-    - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
 - #[[Daily Writing Prompts]]  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
 - #[[Daily Log Book]]

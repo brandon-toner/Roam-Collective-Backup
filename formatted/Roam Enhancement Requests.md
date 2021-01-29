@@ -10,6 +10,8 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
+- I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+
 ## [Prompts](<Prompts.md>)
 - What could Roam do to improve the multiplayer experience?[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
 

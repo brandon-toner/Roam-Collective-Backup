@@ -25,6 +25,8 @@
 
 - **[Related](<Related.md>):** {{[embed](<embed.md>):
 
+- **[Related](<Related.md>):** {{[embed](<embed.md>):
+
 - {{[embed](<embed.md>):
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
@@ -40,9 +42,9 @@
 ## [My Daily Notes](<My Daily Notes.md>)
 - {{[embed](<embed.md>):
 
-## [Projects](<Projects.md>)
+## [Roles](<Roles.md>)
 - {{[embed](<embed.md>):
 
-## [Roles](<Roles.md>)
+## [The Main Feed](<The Main Feed.md>)
 - {{[embed](<embed.md>):
 

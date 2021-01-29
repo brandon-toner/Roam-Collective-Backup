@@ -48,10 +48,6 @@
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
     - **[Example](<Example.md>):**
 
-## [Processes](<Processes.md>)
-- To comment on blocks, copy the block reference of the block you want to comment on, paste it into your [Daily Notes section]([My Daily Notes](<My Daily Notes.md>)), and nest your comments underneath the [Comments](<Comments.md>) tag.
-            - **[Example](<Example.md>):**
-
 ## [Quick Start Guide](<Quick Start Guide.md>)
 1. Build your bio page 
         - **[Example](<Example.md>):**

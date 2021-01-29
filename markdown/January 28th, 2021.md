@@ -1,21 +1,28 @@
+- 
+- 
 - {{embed: ((b9pQnEURN))}}
 - #[[The Main Feed]]
     - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in "#[[The Zettelkasten]]"
 - ---
-- #[[The Main Feed]]
-    - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]"
 - #[[Daily Writing Prompts]]
+    - 
     - "Explore your [vision]([[Vision]]) for [[project management]] in Roam. Describe a workflow that could be implemented in this graph. Include how [[handoffs]] could be facilitated between different team members. [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[[Projects/Project name]]`.
                 - Example:: [[Projects/Establish automated graph backups]]
             - [Template](((d4tbH1tCA))) for structuring consistent [[metadata]].
+    - "How should we handle graph instability?"
+    - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
+- #[[The Main Feed]]
+    - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]"
+    - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
 - #[[Daily Log Book]] [*]([[Change Log]])
     - 
     - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]
         - WE BACK.
     - 11:10 -- Added experimental persona CSS examples for [[leekeifon]] 
         - {{[[embed]]: ((((EZzT3MAmv))))}}
+    -  20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #Conversations
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
@@ -29,6 +36,47 @@
                 - Currently, it is limited to AND and NOT.
         - #Resources
             - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
+        - #[[Help Wanted]]
+            - Mine the Slack channel for great ideas and port them into the graph for greater consideration and preservation.
+        - #Tips
+            - You can [[emoji react]] to any block by right clocking the bullet.
+        - I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. 
+        - I just want [[one-way links]] so that I can do stuff like this without junking up the [[linked references]]: #[[Roam Enhancement Requests]]
+            - Image::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtR_b1B1DKj.png?alt=media&token=7596d4f8-1683-41a8-94d3-fe24d5c79542)
+        - " 20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #Conversations"
+            - [[Akiff Premjee]]:
+                - Notifications
+                - Purpose and vision of [[Roam-Collective]]
+                - [[Roam Medical]]
+            - [[Charles Farr]]:
+                - The potential of [[Urbit]] as a companion to [[Roam-Collective]]
+                - Group #Sprints as a [convention]([[Conventions]])
+                    - Vision:: Ability to reference the [[Urbit]] [[chat]] in [[Roam]], and Roam blocks in the Urbit chat.
+                - Future synchronous writing sessions like in [[Roam Book Club]]
+                    - Live call to discuss active [[projects]], launch or work on [[sprints]], and to collectively reflect on prompts related to those projects or sprints.
+                        - Related:: "#[[Fleeting Notes]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
+        - Free Thoughts::
+            - What would be the role of [[live]] [[Roam-Collective]] sessions?
+            - What could we collectively work towards?
+            - Could a single Roam graph support sub-communities?
+            - When should one graph become two?
+            - How do you navigate the problem of "missed content"?
+            - How important is a graph moderator? Editor? 
+            - How could prompts be organized to leverage the connections between questions?
+                - Ref with alias 
+                - Shared tags
+            - What incentivizes participation within a shared graph? #incentives
+                - Common goal
+                - Recognition
+                - Engagement on ideas
+                - Participation in meaningful work
+                - Friendship
+            - Similar to [[Clubhouse]], it would be cool if there were external notifications for "Brandon is currently writing in [[Roam-Collective]]. #Vision #Ideas #Extensions
+                - #[[Open Questions]] How do I tag development ideas? 
+            - "Goals:: ((See block references for additional ideas.))"
+                - To [[empower]] Roam communities with the [[conventions]] and [[processes]] necessary to transcend [[meta]] discussion about the [[organization]] and [[structure]] of content — allowing them to focus on the [[content]] itself.
+                    - [[The structure and the content.]]
     - #Administration #not_populated
         - #[[Change Log]] #not_populated
         - #[[Next Steps]] 
@@ -36,10 +84,23 @@
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[TODO]]}} Add some [[literature notes]]
                 - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
-    - #[[The Zettelkasten]] #not_populated
     - #Resources
         - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])
-    - #Promptstorming #not_populated
+    - #Resources
+        - [[Kahlil Corazo]] on "when should you use professional [[project management]]? 
+            - URL:: https://twitter.com/roamfu/status/1354768412442906626?s=21
+        - [[Robert Haisfield]] on [[structure]] in [[Roam]] #conventions
+            - URL:: https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
+            - Ok... maybe not "__better__" but different and complimentary!
+            - Related:: 
+                - "#[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. "
+                - Learning through observation and participation. Active learning.
+    - #Promptstorming 
+        - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
+            - #[[Questions]] Why are [[handoffs]] in Roam challenging? 
+                - They seem kinda straight-forward... but I guess I haven't formalized anything.
     - #Comments 
         - "[[~[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
             - Absolutely! 
@@ -52,6 +113,9 @@ I may have to upload the backup.
                 - Both could contribute to the development of [[evergreen notes]], being listed under `References` on the [[EN]] note page. (OPTIONAL)
                     - As indicated [here](((dhqC2IN0s))) in the template
                 - Both could ALSO contribute to [[creative projects]]. Any notes within the [[zettelkasten]] can be used to support ideas within a creative project. (OPTIONAL)
+        - #[[Graph Training]]
+            - [[@[[Mark Robertson]]]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.
+            - [[@[[Kyle Stratis]]]] I moved your comment into your [[DNP Section]], FYI
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
     - #Scratchpad #not_populated
     - #Chat
@@ -88,16 +152,15 @@ I may have to upload the backup.
                     - we could model **‘I’ in different time as different person**, then, the question is then transformed into **async communication with outside world**.
                     - also, take the Android app, Antar, as an example, it mainly focus on **commutation between different modes of ones own**, e.g. angry me, calm me, etc.
                     - this model maybe [[Related]] to [[spaced repetition]].
-- #[[Quick Capture]]
-    - #Replication https://twitter.com/paulnovosad/status/1354803866710142979?s=09
-
-
 - #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
     - #Comments
         - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~]][[Brandon Toner]]"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
+- #[[Quick Capture]]
+    - #Replication https://twitter.com/paulnovosad/status/1354803866710142979?s=09
+
+
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not_populated
         - "With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
             - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]
-        - 

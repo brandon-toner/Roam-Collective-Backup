@@ -1,3 +1,7 @@
+- 
+- 
+- 
+- 
 - [Announcements](<Announcements.md>)
     - Change in [convention]([Conventions](<Conventions.md>))! [Chat](<Chat.md>)
         - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>)) — **note that the CSS box should wrap the name**
@@ -5,12 +9,18 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
     - {{[embed](<embed.md>): ((XS29OCnVF))}}
 - {{embed: ((b9pQnEURN))}}
+- It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+- 
+- **[Related](<Related.md>):** [@](<@.md>)
+- 
+- Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
 - ---
 - #[The Main Feed](<The Main Feed.md>)
     - {{[embed](<embed.md>): ((JfnNhLc4U))}}
 - ---
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
     - "Explore your vision for the future of collaboration in Roam."
+    - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
     - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
@@ -252,7 +262,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - #[Daily Log Book](<Daily Log Book.md>)
+    - 
     - 11:49 - Discussion about chat conventions 
+    - **[Related](<Related.md>):** {{[embed](<embed.md>): ((JfnNhLc4U))}}
     - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - 12:30 - EDN, JSON, and Markdown [backup](<backup.md>) is up and running with ownership being transferred to [Brandon Toner](<Brandon Toner.md>) #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - 14:13 - Did some work on the [zettelkasten](<zettelkasten.md>) workflow. I quite like it.

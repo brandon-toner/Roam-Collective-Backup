@@ -19,9 +19,6 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Next Steps](<Next Steps.md>)
 
-## [Processes](<Processes.md>)
--  {{[query](<query.md>): {and: [Next Steps](<Next Steps.md>)
-
 ## [roam/css](<roam/css.md>)
 - [ ] #[Next Steps](<Next Steps.md>)
 

@@ -29,7 +29,7 @@
     - **[Time Zone](<Time Zone.md>):**
 
 ## [Winston Teng](<Winston Teng.md>)
-- **[About me](<About me.md>):**
+- **[Twitter](<Twitter.md>):** [@syncretizm](http://twitter.com/syncretizm)
     - **[Time Zone](<Time Zone.md>):**
 
 ## [Zsolt Viczián](<Zsolt Viczián.md>)

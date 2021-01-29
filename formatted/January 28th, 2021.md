@@ -1,21 +1,28 @@
+- 
+- 
 - {{embed: ((b9pQnEURN))}}
 - #[The Main Feed](<The Main Feed.md>)
     - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
 - ---
-- #[The Main Feed](<The Main Feed.md>)
-    - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)"
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+    - 
     - "Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
                 - **[Example](<Example.md>):** [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
             - [Template](((d4tbH1tCA))) for structuring consistent [metadata](<metadata.md>).
+    - "How should we handle graph instability?"
+    - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
+- #[The Main Feed](<The Main Feed.md>)
+    - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)"
+    - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
 - #[Daily Log Book](<Daily Log Book.md>) [*]([Change Log](<Change Log.md>))
     - 
     - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)
         - WE BACK.
     - 11:10 -- Added experimental persona CSS examples for [leekeifon](<leekeifon.md>) 
         - {{[embed](<embed.md>): ((((EZzT3MAmv))))}}
+    -  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. [Conversations](<Conversations.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -29,6 +36,47 @@
                 - Currently, it is limited to AND and NOT.
         - [Resources](<Resources.md>)
             - This [twitter thread]([Tweet Threads](<Tweet Threads.md>)) from [Kahlil Corazo](<Kahlil Corazo.md>): https://twitter.com/roamfu/status/1354414908327170050?s=21 #[project management](<project management.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])
+        - #[Help Wanted](<Help Wanted.md>)
+            - Mine the Slack channel for great ideas and port them into the graph for greater consideration and preservation.
+        - [Tips](<Tips.md>)
+            - You can [emoji react](<emoji react.md>) to any block by right clocking the bullet.
+        - I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. 
+        - I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+            - **[Image](<Image.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtR_b1B1DKj.png?alt=media&token=7596d4f8-1683-41a8-94d3-fe24d5c79542)
+        - " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. [Conversations](<Conversations.md>)"
+            - [Akiff Premjee](<Akiff Premjee.md>):
+                - Notifications
+                - Purpose and vision of [Roam-Collective](<Roam-Collective.md>)
+                - [Roam Medical](<Roam Medical.md>)
+            - [Charles Farr](<Charles Farr.md>):
+                - The potential of [Urbit](<Urbit.md>) as a companion to [Roam-Collective](<Roam-Collective.md>)
+                - Group [Sprints](<Sprints.md>) as a [convention]([Conventions](<Conventions.md>))
+                    - **[Vision](<Vision.md>):** Ability to reference the [Urbit](<Urbit.md>) [chat](<chat.md>) in [Roam](<Roam.md>), and Roam blocks in the Urbit chat.
+                - Future synchronous writing sessions like in [Roam Book Club](<Roam Book Club.md>)
+                    - Live call to discuss active [projects](<projects.md>), launch or work on [sprints](<sprints.md>), and to collectively reflect on prompts related to those projects or sprints.
+                        - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>)."
+        - **[Free Thoughts](<Free Thoughts.md>):**
+            - What would be the role of [live](<live.md>) [Roam-Collective](<Roam-Collective.md>) sessions?
+            - What could we collectively work towards?
+            - Could a single Roam graph support sub-communities?
+            - When should one graph become two?
+            - How do you navigate the problem of "missed content"?
+            - How important is a graph moderator? Editor? 
+            - How could prompts be organized to leverage the connections between questions?
+                - Ref with alias 
+                - Shared tags
+            - What incentivizes participation within a shared graph? [incentives](<incentives.md>)
+                - Common goal
+                - Recognition
+                - Engagement on ideas
+                - Participation in meaningful work
+                - Friendship
+            - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>). [Vision](<Vision.md>) [Ideas](<Ideas.md>) [Extensions](<Extensions.md>)
+                - #[Open Questions](<Open Questions.md>) How do I tag development ideas? 
+            - **["Goals](<"Goals.md>):** ((See block references for additional ideas.))"
+                - To [empower](<empower.md>) Roam communities with the [conventions](<conventions.md>) and [processes](<processes.md>) necessary to transcend [meta](<meta.md>) discussion about the [organization](<organization.md>) and [structure](<structure.md>) of content — allowing them to focus on the [content](<content.md>) itself.
+                    - [The structure and the content.](<The structure and the content..md>)
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
         - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
         - #[Next Steps](<Next Steps.md>) 
@@ -36,10 +84,23 @@
                 - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
                 - [ ] Add some [literature notes](<literature notes.md>)
                 - **Suggestion:** "[Joel Chan](<Joel Chan.md>)'s work on [knowledge synthesis](<knowledge synthesis.md>) [synthesis](<synthesis.md>)"
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Resources](<Resources.md>)
         - This [twitter thread]([Tweet Threads](<Tweet Threads.md>)) from [Kahlil Corazo](<Kahlil Corazo.md>): https://twitter.com/roamfu/status/1354414908327170050?s=21 #[project management](<project management.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - [Resources](<Resources.md>)
+        - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? 
+            - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1354768412442906626?s=21
+        - [Robert Haisfield](<Robert Haisfield.md>) on [structure](<structure.md>) in [Roam](<Roam.md>) [conventions](<conventions.md>)
+            - **[URL](<URL.md>):** https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s
+            - Ok... maybe not "__better__" but different and complimentary!
+            - **[Related](<Related.md>):** 
+                - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
+                - Learning through observation and participation. Active learning.
+    - [Promptstorming](<Promptstorming.md>) 
+        - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
+            - #[Questions](<Questions.md>) Why are [handoffs](<handoffs.md>) in Roam challenging? 
+                - They seem kinda straight-forward... but I guess I haven't formalized anything.
     - [Comments](<Comments.md>) 
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Is it valid to add tags to for ones usage(public oriented)?"
             - Absolutely! 
@@ -52,6 +113,9 @@ I may have to upload the backup.
                 - Both could contribute to the development of [evergreen notes](<evergreen notes.md>), being listed under `References` on the [EN](<EN.md>) note page. (OPTIONAL)
                     - As indicated [here](((dhqC2IN0s))) in the template
                 - Both could ALSO contribute to [creative projects](<creative projects.md>). Any notes within the [zettelkasten](<zettelkasten.md>) can be used to support ideas within a creative project. (OPTIONAL)
+        - #[Graph Training](<Graph Training.md>)
+            - [@[[Mark Robertson](<@[[Mark Robertson.md>)]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.
+            - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] I moved your comment into your [DNP Section](<DNP Section.md>), FYI
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
     - [Chat](<Chat.md>)
@@ -88,16 +152,15 @@ I may have to upload the backup.
                     - we could model **‘I’ in different time as different person**, then, the question is then transformed into **async communication with outside world**.
                     - also, take the Android app, Antar, as an example, it mainly focus on **commutation between different modes of ones own**, e.g. angry me, calm me, etc.
                     - this model maybe [Related](<Related.md>) to [spaced repetition](<spaced repetition.md>).
-- #[Quick Capture](<Quick Capture.md>)
-    - [Replication](<Replication.md>) https://twitter.com/paulnovosad/status/1354803866710142979?s=09
-
-
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>) {{word-count}}
     - [Comments](<Comments.md>)
         - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [RoamLab](<RoamLab.md>). It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [~](<~.md>)[Kyle Stratis](<Kyle Stratis.md>)
+- #[Quick Capture](<Quick Capture.md>)
+    - [Replication](<Replication.md>) https://twitter.com/paulnovosad/status/1354803866710142979?s=09
+
+
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not_populated](<not_populated.md>)
         - "With this huge surge of interest in solving the problems that us [Roam](<Roam.md>) users  are facing, I was having a chat with [Bill Petro](<Bill Petro.md>) on [Slack](<Slack.md>) and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
             - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [@[[Beau Hann](<@[[Beau Hann.md>)]]
-        - 

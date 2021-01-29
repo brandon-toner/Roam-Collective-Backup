@@ -17,3 +17,10 @@
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)[Akiff Premjee](<Akiff Premjee.md>)
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+-  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>),
+
+- " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>),
+
+- [Akiff Premjee](<Akiff Premjee.md>):
+

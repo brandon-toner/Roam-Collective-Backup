@@ -1,7 +1,0 @@
-- Queries::
-    - All Projects
-        - {{[[embed]]: ((6zu7U0y7r))}}
-    - Active Projects
-        - {{[[query]]: {and: [[Projects]] [[Status/Active]] {not: [[query]]]}}}}
-    - Completed Projects
-        - {{[[query]]: {and: [[Projects]] [[Status/Completed]]}}}

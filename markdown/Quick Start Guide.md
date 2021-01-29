@@ -1,11 +1,11 @@
 - Related:: [[Welcome 😃]], [[Beyond the Basics]], [[Becoming an Editor]]
 - ^^Jump in! The more content the better.^^ 
 - Activities:: 
-    1. Add yourself to the [[Directory]]
     1. Build your bio page 
         - Example::
             - [[Brandon Toner]]
             - [[Mark Robertson]]
+    2. Add yourself to the [[Directory]]
     3. Join the `#Roam-Collective` channel on [[Roam Slack]]
     4. Review the [conventions]([[Conventions]])
     5. Build your DNP Section using the universal [template](((qONZuXh3Y))). 

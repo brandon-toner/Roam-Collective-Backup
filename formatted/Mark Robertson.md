@@ -21,8 +21,10 @@
         - [Roam Research in Education with Mark Robertson](https://youtu.be/bSbuOPgHL3E)
         - [Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
     - **[Interests](<Interests.md>):**
+        - This
         - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
     - **[Queries](<Queries.md>):**
+        - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
         - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}}}}
     - **[SmartBlocks](<SmartBlocks.md>):**
         - Mark DNT [42SmartBlock](<42SmartBlock.md>)
@@ -31,14 +33,13 @@
                 - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
                 - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
                 - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+        - I'll leave some breadcrumbs on the conventions page as well.
 
 # Backlinks
 ## [Directory](<Directory.md>)
 - [Mark Robertson](<Mark Robertson.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
-- [Mark Robertson](<Mark Robertson.md>)
-
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
