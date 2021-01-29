@@ -1,8 +1,11 @@
+- 
+- 
 - {{embed: ((b9pQnEURN))}}
 - #[[The Main Feed]]
     - Did quite a bit in my section towards the end of the day on [[January 27th, 2021]] — particularly in "#[[The Zettelkasten]]"
 - ---
 - #[[Daily Writing Prompts]]
+    - 
     - "Explore your [vision]([[Vision]]) for [[project management]] in Roam. Describe a workflow that could be implemented in this graph. Include how [[handoffs]] could be facilitated between different team members. [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[[Projects/Project name]]`.
@@ -350,5 +353,5 @@ Resolve by "[[replace as text]]""
         - [[@[[Kyle Stratis]]]] related to your comment [here](((bIl7_WLyg))), [[Brandon Toner]] and I were discussing the possibility of setting up an urbit environment for Roam Collective → see "Building an [[Urbit]] community for Roam Collective, with the potential to build an integration..."
             - I tweeted about [[Urbit]] & Roam the other day and they invited us to apply for a grant for hosting — plan is to hopefully get that done this week.
             - I know that you're familiar with Urbit, so would love to get your thoughts here!
-        - Hey [[@[[leekeifon]]]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [[roam/css]] — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
+        - Hey [[~[[leekeifon]]]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [[roam/css]] — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
         - [[@[[Brandon Toner]]]] what do you think about: "Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions"

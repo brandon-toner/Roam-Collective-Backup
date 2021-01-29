@@ -4687,7 +4687,7 @@ a {
 1. Added [roam/css](<../roam/css.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- Hey [@[[leekeifon](<../@[[leekeifon.md>)]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [roam/css](<../roam/css.md>)
+- Hey [~[[leekeifon](<../~[[leekeifon.md>)]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [roam/css](<../roam/css.md>)
 
 ## [Observations](<Observations.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)

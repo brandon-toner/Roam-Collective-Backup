@@ -8,4 +8,3 @@
     - Queries::
         - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
         - {{[[query]]: {and: [[@[[leekeifon]]]]}}}
-        - {{[[query]]: {and: [[Chat]] [[leekeifon]]}}}

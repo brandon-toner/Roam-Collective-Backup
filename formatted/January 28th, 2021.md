@@ -1,8 +1,11 @@
+- 
+- 
 - {{embed: ((b9pQnEURN))}}
 - #[The Main Feed](<The Main Feed.md>)
     - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
 - ---
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+    - 
     - "Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
@@ -350,5 +353,5 @@ Resolve by "[replace as text](<replace as text.md>)""
         - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] related to your comment [here](((bIl7_WLyg))), [Brandon Toner](<Brandon Toner.md>) and I were discussing the possibility of setting up an urbit environment for Roam Collective → see "Building an [Urbit](<Urbit.md>) community for Roam Collective, with the potential to build an integration..."
             - I tweeted about [Urbit](<Urbit.md>) & Roam the other day and they invited us to apply for a grant for hosting — plan is to hopefully get that done this week.
             - I know that you're familiar with Urbit, so would love to get your thoughts here!
-        - Hey [@[[leekeifon](<@[[leekeifon.md>)]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [roam/css](<roam/css.md>) — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
+        - Hey [~[[leekeifon](<~[[leekeifon.md>)]] 👋🏼! Nice to meet you via the graph. I saw your note [here](((FehE8jv6_))) and wanted to point you to [roam/css](<roam/css.md>) — I wasn't sure if you were aware, but you can set roam's css easily from the graph itself
         - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)"

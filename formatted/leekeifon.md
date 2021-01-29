@@ -8,16 +8,19 @@
     - **[Queries](<Queries.md>):**
         - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
         - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
-        - {{[query](<query.md>): {and: [Chat](<Chat.md>) [leekeifon](<leekeifon.md>)}}}
 
 # Backlinks
+## [Directory](<Directory.md>)
+- [leekeifon](<leekeifon.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - 11:10 -- Added experimental persona CSS examples for [leekeifon](<leekeifon.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
+
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}
-
-- {{[query](<query.md>): {and: [Chat](<Chat.md>) [leekeifon](<leekeifon.md>)}
 

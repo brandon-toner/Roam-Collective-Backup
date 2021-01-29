@@ -1,12 +1,10 @@
 - [Announcements](<Announcements.md>) **READ THIS**
-    - 
-    - [Mark Robertson](<Mark Robertson.md>) On working together, rather than "shouting as you run by"
     - **The graph is periodically unstable — if things look odd, there might be sync stuff going on**
     - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
+    - Shared graphs allow you to LEARN from the way others structure their thoughts
     - **[Objectives](<Objectives.md>):** 
         - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - Create a hub for the [Roam Games](<Roam Games.md>)
-    - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
     - **[Tips](<Tips.md>):** 
         - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
         - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.

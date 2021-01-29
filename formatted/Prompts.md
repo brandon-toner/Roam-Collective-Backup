@@ -32,8 +32,8 @@
     - [Plural]([plural](<plural.md>)) vs [singular]([singular](<singular.md>)) page titles — What are the [Pros & Cons](<Pros & Cons.md>) of each?
     - [Lowercase]([lowercase](<lowercase.md>)) vs [Uppercase]([uppercase](<uppercase.md>)) page titles — What are the [Pros & Cons](<Pros & Cons.md>) of each?
     - How might conventions vary graph-to-graph? 
-        - What about graphs open to the public for editing?
         - How might conventions vary based on the *size* of the graph membership?
+        - What about graphs open to the public for editing?
         - How might conventions change if a graph had a large number of **newer users**?
         - How might conventions change if a graph had a large number of **more advanced users**?
 - [About [[Roam-Collective](<About [[Roam-Collective.md>)]]

@@ -29,7 +29,7 @@
     - **[Work](<Work.md>):**
 
 ## [Winston Teng](<Winston Teng.md>)
-- **[Twitter](<Twitter.md>):** [@syncretizm](http://twitter.com/syncretizm)
+- **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00
     - **[Work](<Work.md>):**
 
 ## [leekeifon](<leekeifon.md>)

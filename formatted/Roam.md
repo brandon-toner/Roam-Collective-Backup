@@ -4,6 +4,8 @@
 - I started using [Roam](<Roam.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- Very interested in the shared space between [Roam](<Roam.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>)
 
 - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)

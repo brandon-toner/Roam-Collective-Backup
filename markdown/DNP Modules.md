@@ -1,10 +1,10 @@
 - Tags:: #Conventions
 - Description of the [[DNP Modules]]
+    - #[[Scratchpad]]
+        - Scratch-paper for a place to write your fleeting thoughts.
     - #[[Change Log]]
         1. A place to log changes to the structure and conventions in the graph 
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
-    - #[[Scratchpad]]
-        - Scratch-paper for a place to write your fleeting thoughts.
     - #[[Next Steps]]
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - #Promptstorming
@@ -19,6 +19,7 @@
         - More formal ideas go here.
     - #Chat
         - A place to launch chats (calls for input/comment) into the database
+    - 
     - #Comments
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - #Questions

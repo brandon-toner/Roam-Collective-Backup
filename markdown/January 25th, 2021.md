@@ -1,12 +1,10 @@
 - #Announcements **READ THIS**
-    - 
-    - [[Mark Robertson]] On working together, rather than "shouting as you run by"
     - **The graph is periodically unstable — if things look odd, there might be sync stuff going on**
     - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
+    - Shared graphs allow you to LEARN from the way others structure their thoughts
     - Objectives:: 
         - Create a [[Roam Collaboration Guide]]
         - Create a hub for the [[Roam Games]]
-    - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
     - Tips:: 
         - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
         - Check out the #[[Help Wanted]] page references for opportunities to contribute.

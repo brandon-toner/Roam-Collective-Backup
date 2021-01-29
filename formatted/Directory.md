@@ -16,13 +16,14 @@
     - [Wiel Zouantcha](<Wiel Zouantcha.md>)
     - [Winston Teng](<Winston Teng.md>)
     - [Zsolt Viczián](<Zsolt Viczián.md>)
+    - [leekeifon](<leekeifon.md>)
 - **[Queries](<Queries.md>):**
     - :q [:find ?members
  :where [?b :user/display-name ?members]]
 
 # Backlinks
 ## [Quick Start Guide](<Quick Start Guide.md>)
-1. Add yourself to the [Directory](<Directory.md>)
+2. Add yourself to the [Directory](<Directory.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Directory](<Directory.md>)

@@ -4,5 +4,6 @@
     - [[Beyond the Basics]]
     - [[Becoming an Editor]]
 - **If you are just visiting:**
+    - Learn more about the project [here]([[About [[Roam-Collective]]]]).
     - Join the `#Roam-Collective` channel on [[Roam Slack]] to comment, ask questions, offer feedback, or just chat about the project.
     - If you are interested in contributing to the initiative, request edit access by messaging [[Brandon Toner]] on Slack or Twitter with the email you use for Roam.

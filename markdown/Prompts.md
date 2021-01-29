@@ -32,8 +32,8 @@
     - [Plural]([[plural]]) vs [singular]([[singular]]) page titles — What are the [[Pros & Cons]] of each?
     - [Lowercase]([[lowercase]]) vs [Uppercase]([[uppercase]]) page titles — What are the [[Pros & Cons]] of each?
     - How might conventions vary graph-to-graph? 
-        - What about graphs open to the public for editing?
         - How might conventions vary based on the *size* of the graph membership?
+        - What about graphs open to the public for editing?
         - How might conventions change if a graph had a large number of **newer users**?
         - How might conventions change if a graph had a large number of **more advanced users**?
 - [[About [[Roam-Collective]]]]

@@ -3,6 +3,5 @@
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[Questions]] [[Q]] {not: {or: }}  }}}
     - Open Questions
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[Open Questions]] [[Q]] {not: {or: }}  }}}
-- [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
 - Follow Ups
     - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}

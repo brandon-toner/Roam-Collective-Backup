@@ -23,6 +23,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
+- 
 - **[Tags](<Tags.md>):**
 
 ## [Frameworks](<Frameworks.md>)
@@ -74,7 +75,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [empty attributes](<empty attributes.md>)
-- They can noisy-up the graph and make it harder to separate [signal](<signal.md>) from noise.
 - **[Tags](<Tags.md>):**
 
 ## [filtering](<filtering.md>)

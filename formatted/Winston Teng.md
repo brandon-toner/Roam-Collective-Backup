@@ -1,6 +1,6 @@
 - **[About me](<About me.md>):**
-    - **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00
     - **[Twitter](<Twitter.md>):** [@syncretizm](http://twitter.com/syncretizm)
+    - **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00
     - **[Work](<Work.md>):** [doctor](<doctor.md>)
     - **[How to contact me](<How to contact me.md>):**
         - Send me a DM on Twitter or Roam Slack.
