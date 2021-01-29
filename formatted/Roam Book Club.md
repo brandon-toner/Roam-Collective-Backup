@@ -14,3 +14,6 @@
 
 - A group of Roamans(e.g. Roaman in [Roam Book Club](<Roam Book Club.md>))
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- Just remembered a [Roam Book Club](<Roam Book Club.md>)
+

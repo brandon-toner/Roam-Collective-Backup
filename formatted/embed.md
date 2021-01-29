@@ -44,6 +44,11 @@
 
 - {{[embed](<embed.md>):
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- {{[embed](<embed.md>):
+
+- **[Related](<Related.md>):** {{[embed](<embed.md>):
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[embed](<embed.md>):
 

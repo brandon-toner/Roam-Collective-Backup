@@ -56,6 +56,9 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)
 

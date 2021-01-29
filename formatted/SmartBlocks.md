@@ -1,6 +1,10 @@
 - 
 
 # Backlinks
+## [Brandon Toner](<Brandon Toner.md>)
+- {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]]}}}
+    - **[SmartBlocks](<SmartBlocks.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
     - **[SmartBlocks](<SmartBlocks.md>):**
@@ -16,7 +20,10 @@
 
 - Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
-- [@[[Brandon Toner](<@[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
+
+## [January 29th, 2021](<January 29th, 2021.md>)
+- "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}}}}

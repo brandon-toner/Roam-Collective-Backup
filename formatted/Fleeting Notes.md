@@ -128,6 +128,13 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+1. I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[Fleeting Notes](<Fleeting Notes.md>)
 

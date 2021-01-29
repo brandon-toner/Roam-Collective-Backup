@@ -8,6 +8,11 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - While #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. (i.e. tag them + `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]
+
+- #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]
+
 ## [roam/css](<roam/css.md>)
 #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]
 

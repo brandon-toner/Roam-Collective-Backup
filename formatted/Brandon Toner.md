@@ -9,6 +9,17 @@
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
     - **[Queries](<Queries.md>):**
         - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]]}}}
+    - **[SmartBlocks](<SmartBlocks.md>):**
+        - .DNP Template BT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
+            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+                - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+                - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
+                    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+                    - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
+                - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+                - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+                - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+        - Mentions BT
 
 # Backlinks
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
@@ -18,6 +29,9 @@
 - **[Administrator](<Administrator.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Editor](<Editor.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [Brandon Toner](<Brandon Toner.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
@@ -113,7 +127,11 @@
 - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] related to your comment [here](((bIl7_WLyg))), [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
@@ -132,6 +150,11 @@
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - I can elaborate more on this. - [Brandon Toner](<Brandon Toner.md>)
+
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [complex page names](<complex page names.md>)
 - `[Brandon Toner](<Brandon Toner.md>)`

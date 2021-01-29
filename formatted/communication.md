@@ -25,5 +25,7 @@
 - **tags and block-ref-id serve as id** for [communication](<communication.md>) entity, in other words, each block in database is a [communication](<communication.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
+
 - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
 

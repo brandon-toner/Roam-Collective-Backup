@@ -8,6 +8,7 @@
     - **[Queries](<Queries.md>):**
         - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
         - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
+        - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}}}
 
 # Backlinks
 ## [Directory](<Directory.md>)
@@ -23,4 +24,6 @@
 
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}
+
+- {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}
 

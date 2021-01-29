@@ -56,6 +56,9 @@
 ## [The structure and the content.](<The structure and the content..md>)
 - **[Tags](<Tags.md>):**
 
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):**
+
 ## [atomic thinking](<atomic thinking.md>)
 - **[Tags](<Tags.md>):**
 
@@ -63,6 +66,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [block references](<block references.md>)
+- **[Tags](<Tags.md>):**
+
+## [chat](<chat.md>)
 - **[Tags](<Tags.md>):**
 
 ## [collaborative graph](<collaborative graph.md>)
@@ -92,6 +98,10 @@
 ## [page references](<page references.md>)
 - **[Tags](<Tags.md>):**
 
+## [passive](<passive.md>)
+- **[Related](<Related.md>):** [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):**
+
 ## [personal page](<personal page.md>)
 - **[Tags](<Tags.md>):**
 
@@ -100,5 +110,8 @@
 
 ## [roam/css](<roam/css.md>)
 - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
+- **[Tags](<Tags.md>):**
+
+## [sorting](<sorting.md>)
 - **[Tags](<Tags.md>):**
 

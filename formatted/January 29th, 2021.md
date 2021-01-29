@@ -6,6 +6,12 @@
     - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))"
 - #[The Main Feed](<The Main Feed.md>)
 - #[Daily Log Book](<Daily Log Book.md>)
+    - 11:19 — Glitchy CSS/data loss again. #[Bug Reports](<Bug Reports.md>)
+        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+- [Chat](<Chat.md>) ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
+    1. I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
+
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
@@ -15,13 +21,81 @@
                     - **[Related](<Related.md>):** "I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)"
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - [Filtering]([filtering](<filtering.md>)) in [block references](<block references.md>)
+        - #[Open Questions](<Open Questions.md>)
+            - How could users "**suggest edits**" to a page?
+                - E.g. Add references to an evergreen note.
+                - **[Ideas](<Ideas.md>):**
+                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. (i.e. tag them + `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`)
+                    - Another option is to give all users permission to edit/add to all pages.
+            - What should the [top section](((skozg-bg0))) be called officially? 
+                - **[Related](<Related.md>):** [DNP Section](<DNP Section.md>)
+        - Just remembered a [Roam Book Club](<Roam Book Club.md>) convention that I liked — [the central chat.](((ZlhKC6b2i))) 
+            - So I added a Chat tag to the top section.
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
-        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+        - #[Change Log](<Change Log.md>)
+            - Changed naming of the universal DNP template.
+                - ".rcDNP Template (rc) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
+            - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
         - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
+            - **[Agreement Rating](<Agreement Rating.md>):** {{[slider](<slider.md>)}}
+                - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
+
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
+            - I'm not sure I agree with this, but I sort of do. 
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+    - [Comments](<Comments.md>)
+        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)""
+            - Yup, really like this idea. cc: [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: [Conventions](<Conventions.md>)
+                    - Easy to trigger.
+                    - Unique (no conflict with another user (i.e. 2 "BT's" in the graph))
+                    - Doesn't get confused with the global smartblock ("Community functions" [*](((DcXN7XPbc)))).
+                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ (i.e. BT)... but I think it's fine.
+                        - Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.
+I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorting.md>).
+                            - {{[embed](<embed.md>): ((pNHeT0VNp))}}
+        - "The UI/UX for such things will get complicated quickly. So having a variety of global navigation blocks or similar might be useful here [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. You could also see an example, though not really for this exactly, here [➡️](((lRBaD3yYL)))"
+            - Yea, agreed. As far as "following" goes, I'd like to keep it simple for now, and encourage others to envision how this might look logistically. 
+            - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [passive](<passive.md>) or "[just-in-time](<just-in-time.md>)" [resurfacing](<resurfacing.md>) 
+        - [how-should-I-tag-this](<how-should-I-tag-this.md>) [Tensions](<Tensions.md>)
+            - [active vs passive resurfacing](<active vs passive resurfacing.md>)
+                - Is this an [evergreen note]([evergreen notes](<evergreen notes.md>))? Maybe. It's more a chapter title.
+                    - Less of an [assertion]([assertions](<assertions.md>)), but it is a concept that I refer to periodically. 
+                    - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
+        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph"
+            - Fire away! [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] 🚀, just document in the Change Log within your section (added one for you)
+        - "Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [@[[Brandon Toner](<@[[Brandon Toner.md>)]]"
+            - 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>) UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [Roam](<Roam.md>).
+        - Maybe we could [model](<model.md>) our [Roam](<Roam.md>) [collaboration](<collaboration.md>) system with game design mindset, like a RPG game?
+            - **Global public feed** that’s official way that help showing new comer what’s current trend(daily/weekly/monthly) in community.
+                - It’s kind of like an official newsletter.
+                - maybe it becomes a work for a recommendation system, I don’t know if it’s good or not.
+            - **Roaman media feed** that’s hold by an individual/a group of Roaman.
+                - It’s the free choice for a Roaman to subscribe this feed.
+            - Private communication
+            - Official event
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `[publish](<publish.md>)` tag or some more meta-data.
+        - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
+            - **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [@[[Charles Farr](<@[[Charles Farr.md>)]]"
+            - **[Related](<Related.md>):** {{[embed](<embed.md>): ((((kFPq1Gc9U))))}}
     - #[Chat](<Chat.md>)
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [@[[Charles Farr](<@[[Charles Farr.md>)]]
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
+    - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
+    - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
+
+# Backlinks
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+

@@ -3,9 +3,6 @@
 ## [@](<@.md>)
 - **[Related](<Related.md>):**
 
-## [@[Brandon Toner](<Brandon Toner.md>)](<@[Brandon Toner](<Brandon Toner.md>).md>)
-- **[Related](<Related.md>):**
-
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):**
@@ -27,9 +24,6 @@
 - **[Related](<Related.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- 
-- **[Related](<Related.md>):**
-
 - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
                 - **[Related](<Related.md>):**
 
@@ -51,6 +45,15 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
                     - **[Related](<Related.md>):**
+
+- What should the [top section](((skozg-bg0))) be called officially? 
+                - **[Related](<Related.md>):**
+
+- **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
+            - **[Related](<Related.md>):**
+
+- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [@[[Charles Farr](<@[[Charles Farr.md>)]]"
+            - **[Related](<Related.md>):**
 
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
@@ -87,12 +90,22 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>)
     - **[Related](<Related.md>):**
 
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
 ## [block references](<block references.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) 
 - **[Related](<Related.md>):**
 
+## [just-in-time](<just-in-time.md>)
+- **[Related](<Related.md>):**
+
 ## [one-way links](<one-way links.md>)
 - TagsLL [Glossary](<Glossary.md>)
+- **[Related](<Related.md>):**
+
+## [passive](<passive.md>)
 - **[Related](<Related.md>):**
 
 ## [project management](<project management.md>)

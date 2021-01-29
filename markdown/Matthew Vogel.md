@@ -13,7 +13,7 @@
         - Misc useful #datalog #queries
             - {{[[embed]]: ((((6zu7U0y7r))))}}
         - My Notes
-            - {{[[query]]: {and: [[My Daily Notes]] [[Matthew Vogel]]}}}
+            - {{[[query]]: {and:[[Matthew Vogel]] [[My Daily Notes]] {not:{or: [[@]] [[~]] }}}}}
         - People near me!
             - {{[[query]]: {and: [[Location]] {or: [[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]] }}}}
     - SmartBlocks::#not_populated

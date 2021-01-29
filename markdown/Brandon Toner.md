@@ -9,3 +9,14 @@
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
     - Queries::
         - {{[[query]]: {and: [[@[[Brandon Toner]]]]}}}
+    - SmartBlocks::
+        - .DNP Template BT #42SmartBlock #roam/templates 
+            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+                - #[[Scratchpad]] #not_populated
+                - #Administration #not_populated
+                    - #[[Change Log]] #not_populated
+                    - #[[Next Steps]] #not_populated
+                - #Promptstorming #not_populated
+                - #Comments #not_populated
+                - #Feedback  #not_populated
+        - Mentions BT

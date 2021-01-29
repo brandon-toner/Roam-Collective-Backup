@@ -44,6 +44,12 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)?
 
+- The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>)
+
+- The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>) UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [Roam](<Roam.md>).
+
+- Maybe we could [model](<model.md>) our [Roam](<Roam.md>)
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - I also started using [Roam](<Roam.md>)
 

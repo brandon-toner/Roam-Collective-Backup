@@ -16,3 +16,7 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>)
     - **[Notes](<Notes.md>):**
 
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Related](<Related.md>):** [resurfacing](<resurfacing.md>)
+    - **[Notes](<Notes.md>):**
+

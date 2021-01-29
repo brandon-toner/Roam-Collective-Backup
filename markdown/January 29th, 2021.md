@@ -6,6 +6,12 @@
     - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Open Questions]])[*]([[Roam Games]])"
 - #[[The Main Feed]]
 - #[[Daily Log Book]]
+    - 11:19 — Glitchy CSS/data loss again. #[[Bug Reports]]
+        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+- #Chat ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
+    1. I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+
+Thoughts? - [[Brandon Toner]]
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]]
@@ -15,13 +21,76 @@
                     - Related:: "I just want [[one-way links]] so that I can do stuff like this without junking up the [[linked references]]: #[[Roam Enhancement Requests]]"
         - #[[Roam Enhancement Requests]]
             - [Filtering]([[filtering]]) in [[block references]]
+        - #[[Open Questions]]
+            - How could users "**suggest edits**" to a page?
+                - E.g. Add references to an evergreen note.
+                - Ideas::
+                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. (i.e. tag them + `[[[[Feedback]]: [[Suggestions]]]]`)
+                    - Another option is to give all users permission to edit/add to all pages.
+            - What should the [top section](((skozg-bg0))) be called officially? 
+                - Related:: [[DNP Section]]
+        - Just remembered a [[Roam Book Club]] convention that I liked — [the central chat.](((ZlhKC6b2i))) 
+            - So I added a Chat tag to the top section.
     - #Administration #not_populated
-        - #[[Change Log]] #not_populated
+        - #[[Change Log]]
+            - Changed naming of the universal DNP template.
+                - ".rcDNP Template (rc) #42SmartBlock #roam/templates"
+            - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
         - #[[Next Steps]] #not_populated
-    - #[[The Zettelkasten]] #not_populated
+    - #[[The Zettelkasten]]
+        - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten
+            - Agreement Rating:: {{[[slider]]}}
+                - "I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+
+Thoughts? - [[Brandon Toner]]"
+            - I'm not sure I agree with this, but I sort of do. 
     - #Promptstorming #not_populated
-    - #Comments #not_populated
+    - #Comments
+        - "[[~[[Brandon Toner]]]] what do you think about: "Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions""
+            - Yup, really like this idea. cc: [[@[[Charles Farr]]]]
+                - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: #Conventions
+                    - Easy to trigger.
+                    - Unique (no conflict with another user (i.e. 2 "BT's" in the graph))
+                    - Doesn't get confused with the global smartblock ("Community functions" [*](((DcXN7XPbc)))).
+                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ (i.e. BT)... but I think it's fine.
+                        - Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.
+I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
+                            - {{[[embed]]: ((pNHeT0VNp))}}
+        - "The UI/UX for such things will get complicated quickly. So having a variety of global navigation blocks or similar might be useful here [[~[[Brandon Toner]]]]. You could also see an example, though not really for this exactly, here [➡️](((lRBaD3yYL)))"
+            - Yea, agreed. As far as "following" goes, I'd like to keep it simple for now, and encourage others to envision how this might look logistically. 
+            - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [[passive]] or "[[just-in-time]]" [[resurfacing]] 
+        - #how-should-I-tag-this #Tensions
+            - [[active vs passive resurfacing]]
+                - Is this an [evergreen note]([[evergreen notes]])? Maybe. It's more a chapter title.
+                    - Less of an [assertion]([[assertions]]), but it is a concept that I refer to periodically. 
+                    - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
+        - "[[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph"
+            - Fire away! [[@[[Matthew Vogel]]]] 🚀, just document in the Change Log within your section (added one for you)
+        - "Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [[@[[Brandon Toner]]]]"
+            - 
     - #Feedback  #not_populated
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+    - #[[Scratchpad]]
+        - The UI design [example](((lRBaD3yYL))) from [[Mark Robertson]] really show us the limitless possibility that what [[Roam]] UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [[Roam]].
+        - Maybe we could [[model]] our [[Roam]] [[collaboration]] system with game design mindset, like a RPG game?
+            - **Global public feed** that’s official way that help showing new comer what’s current trend(daily/weekly/monthly) in community.
+                - It’s kind of like an official newsletter.
+                - maybe it becomes a work for a recommendation system, I don’t know if it’s good or not.
+            - **Roaman media feed** that’s hold by an individual/a group of Roaman.
+                - It’s the free choice for a Roaman to subscribe this feed.
+            - Private communication
+            - Official event
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `#publish` tag or some more meta-data.
+        - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
+            - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]"
+            - Related:: {{[[embed]]: ((((kFPq1Gc9U))))}}
     - #[[Chat]]
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #[[Change Log]] #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #[[[[Feedback]]: [[Suggestions]]]]
+        - [[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`

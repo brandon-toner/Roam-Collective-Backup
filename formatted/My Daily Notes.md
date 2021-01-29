@@ -16,6 +16,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Akiff Premjee](<Akiff Premjee.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Brandon Toner](<Brandon Toner.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>)
 
@@ -72,11 +75,13 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- {{[query](<query.md>): {and: [My Daily Notes](<My Daily Notes.md>)
+- {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [My Daily Notes](<My Daily Notes.md>)
 
 ## [My Daily Notes](<My Daily Notes.md>)
 - Using the `#[My Daily Notes](<My Daily Notes.md>)`

@@ -13,7 +13,7 @@
         - Misc useful [datalog](<datalog.md>) [queries](<queries.md>)
             - {{[embed](<embed.md>): ((((6zu7U0y7r))))}}
         - My Notes
-            - {{[query](<query.md>): {and: [My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)}}}
+            - {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [My Daily Notes](<My Daily Notes.md>) {not:{or: [@](<@.md>) [~](<~.md>) }}}}}
         - People near me!
             - {{[query](<query.md>): {and: [Location](<Location.md>) {or: [Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>) }}}}
     - **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
@@ -38,12 +38,15 @@
 
 - A Roaman (e.g. [Matthew Vogel](<Matthew Vogel.md>))
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>): {and: {or: {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)}
 
 - {{[query](<query.md>): {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
-- {{[query](<query.md>): {and: [My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)}
+- {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - [Matthew Vogel](<Matthew Vogel.md>)

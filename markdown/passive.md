@@ -1,0 +1,2 @@
+- Related:: [[active vs passive resurfacing]]
+- Tags:: #Concepts

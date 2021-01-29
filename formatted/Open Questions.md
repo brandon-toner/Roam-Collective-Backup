@@ -55,6 +55,10 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))
 
+- #[Open Questions](<Open Questions.md>)
+
+- #[Open Questions](<Open Questions.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[Open Questions](<Open Questions.md>)
 

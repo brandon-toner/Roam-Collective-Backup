@@ -1,6 +1,9 @@
 - **[Instructions](<Instructions.md>):** Use this tag to log changes you make to the graph. See the references for examples.
 
 # Backlinks
+## [Brandon Toner](<Brandon Toner.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [DNP Modules](<DNP Modules.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -31,6 +34,8 @@
 - #[Change Log](<Change Log.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
 - #[Change Log](<Change Log.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)

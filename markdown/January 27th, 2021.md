@@ -4,10 +4,9 @@
 - 
 - {{embed: ((b9pQnEURN))}}
 - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
-- 
-- Related:: [[@]]
-- 
 - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
+- 
+- 
 - #Announcements
     - Change in [convention]([[Conventions]])! [[Chat]]
         - From `[[@]][[Brandon Toner]]` to `[[@[[Brandon Toner]]]]` ([[complex page names]]) — **note that the CSS box should wrap the name**

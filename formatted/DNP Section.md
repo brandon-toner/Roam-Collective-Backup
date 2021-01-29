@@ -19,6 +19,9 @@
 
 - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] I moved your comment into your [DNP Section](<DNP Section.md>),
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- **[Related](<Related.md>):** [DNP Section](<DNP Section.md>)
+
 ## [roam/css](<roam/css.md>)
 - ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)` tag within your [DNP Section](<DNP Section.md>)
 

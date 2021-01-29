@@ -12,3 +12,7 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
