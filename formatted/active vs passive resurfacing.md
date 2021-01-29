@@ -14,6 +14,10 @@
 
 - [active vs passive resurfacing](<active vs passive resurfacing.md>)
 
+- Yup, I agree. I think the drilling down could be conducted on the [active vs passive resurfacing](<active vs passive resurfacing.md>)
+
+- I would consider [active vs passive resurfacing](<active vs passive resurfacing.md>)
+
 - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>))
 
 ## [passive](<passive.md>)

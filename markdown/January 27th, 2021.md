@@ -178,7 +178,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - Ability to host multiple conversations, multiple groups, etc in the same space.
                 - Filtering content to hone the experience and focus.
     - #Bookmarks
-        - [[Mark Robertson]] On working together, rather than "shouting as you run by"
     - Notifications Inbox
     - #Comments 
         - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"

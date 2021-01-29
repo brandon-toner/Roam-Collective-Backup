@@ -7,7 +7,19 @@
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Created by](<Created by.md>):**
 

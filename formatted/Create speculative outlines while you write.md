@@ -15,3 +15,5 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 
+- [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
+

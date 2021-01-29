@@ -1810,6 +1810,58 @@ span.rm-page-ref[data-tag="Questions"]:before {
     content: '❓'
 }```
             - #Reply-from [[Your Name]]
+                - ```css
+span.rm-page-ref[data-tag="Reply-from"] {
+	background-image: linear-gradient(to right, #CD4CE3AD,#CD4CE3AD);
+	background-size: 100%;
+    color: rgb(255,255,255);
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+ span.rm-page-ref[data-tag="Reply-from"] + span[data-link-title] {
+     background: #e4ffe3 !important;
+     color: #F3F7F2 !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Reply-from"]:after, span.rm-page-ref[data-tag="Question"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Reply-from"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: #CD4CE3AD;
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="Reply-from"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: #CD4CE3AD;
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+
+```
             - `#Comments
                 - ```css
 span.rm-page-ref[data-tag="Comments"] {
@@ -1827,7 +1879,37 @@ span.rm-page-ref[data-tag="Comments"]:before {
     content: '💬'
 }```
             - `#Announcements
+                - ```css
+span.rm-page-ref[data-tag="Announcements"] {
+    background: #F44336;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Announcements"]:before {
+    content: '📢'
+}```
             - `#[[Change Log]]
+                - ```css
+span.rm-page-ref[data-tag="Change Log"] {
+    background: #4CAF50;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢'
+}```
             - `#Promptstorming
                 - ```css
 span.rm-page-ref[data-tag="Promptstorming"] {
@@ -1877,6 +1959,21 @@ span.rm-page-ref[data-tag="Dice Roll"]:before {
     content: '🎲'
 }```
             - `#[[Scratchpad]]
+                - ```css
+span.rm-page-ref[data-tag="Scratchpad"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Scratchpad"]:before {
+    content: '✏️'
+}```
             - `#[[Bookmarks]]
                 - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {

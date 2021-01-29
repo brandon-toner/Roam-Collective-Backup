@@ -1,7 +1,10 @@
 - #Announcements **READ THIS**
     - 
-    - [[Mark Robertson]] On working together, rather than "shouting as you run by"
-    - **The graph is periodically unstable — if things look odd, there might be sync stuff going on**
+    - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
+        - Missing/misplaced blocks
+        - Missing CSS
+        - Announcements section looks weird
+        - Unable to add blocks in some places
     - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
     - Objectives:: 
         - Create a [[Roam Collaboration Guide]]
@@ -11,9 +14,10 @@
         - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
         - Check out the #[[Help Wanted]] page references for opportunities to contribute.
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[Fleeting Notes]] linked references for some [[atomic ideas]].
             - Reference them under a #Comments block within your [[DNP Section]] to add some commentary.
-        - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
     - **Catching up on the action**
         - Check the #[[Change Log]] linked references for a running list of the changes over time.
         - Check the #Announcements linked references for a running list of important memos

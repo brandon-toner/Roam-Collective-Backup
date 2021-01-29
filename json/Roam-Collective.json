@@ -66,37 +66,65 @@
         },
         "children": [
           {
-            ":block/refs": [
-              {
-                ":block/uid": "BBIIALUSA"
-              }
-            ],
             ":create/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
             ":edit/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
-            "create-time": 1611788804350,
-            "edit-time": 1611788858797,
-            "refs": [
+            "children": [
               {
-                "uid": "BBIIALUSA"
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611950923489,
+                "edit-time": 1611950979729,
+                "string": "Missing/misplaced blocks",
+                "uid": "EvLryL5Xi"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611950948121,
+                "edit-time": 1611950951381,
+                "string": "Missing CSS",
+                "uid": "yxBsQ3tns"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611950951374,
+                "edit-time": 1611950963450,
+                "string": "Announcements section looks weird",
+                "uid": "aChHMmrlb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611950931624,
+                "edit-time": 1611950941115,
+                "string": "Unable to add blocks in some places",
+                "uid": "tRnkwQdJo"
               }
             ],
-            "string": "[[Mark Robertson]] On working together, rather than \"shouting as you run by\"",
-            "uid": "oIKY3iKgt"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            ":edit/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
             "create-time": 1611886022336,
-            "edit-time": 1611886044207,
-            "string": "**The graph is periodically unstable \u2014 if things look odd, there might be sync stuff going on**",
+            "edit-time": 1611950970216,
+            "string": "**The graph is periodically unstable \u2014 if things look odd, there might be sync stuff going on:** ",
             "uid": "gDBHGaR15"
           },
           {
@@ -289,6 +317,28 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "aDlFFSRPv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611723486554,
+                "edit-time": 1611723586114,
+                "refs": [
+                  {
+                    "uid": "aDlFFSRPv"
+                  }
+                ],
+                "string": "Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.",
+                "uid": "UtXQE0_9A"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "OE8CCpfnQ"
                   },
                   {
@@ -347,7 +397,7 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "aDlFFSRPv"
+                    ":block/uid": "rTvBzGtyV"
                   }
                 ],
                 ":create/user": {
@@ -356,15 +406,15 @@
                 ":edit/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
-                "create-time": 1611723486554,
-                "edit-time": 1611723586114,
+                "create-time": 1611952321178,
+                "edit-time": 1611952382771,
                 "refs": [
                   {
-                    "uid": "aDlFFSRPv"
+                    "uid": "rTvBzGtyV"
                   }
                 ],
-                "string": "Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.",
-                "uid": "UtXQE0_9A"
+                "string": "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.",
+                "uid": "U5eQUX7_3"
               }
             ],
             "create-time": 1611723500078,
@@ -8909,42 +8959,6 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "w7BupGa2Y"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                        },
-                        "create-time": 1605033723469,
-                        "edit-time": 1611598443162,
-                        "string": "```css\nspan.rm-page-ref[data-tag=\"Questions\"] {\n    background: #9E9E9E;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Questions\"]:before {\n    content: '\u2753'\n}```",
-                        "uid": "lY2mdyOoR"
-                      }
-                    ],
-                    "create-time": 1605033723469,
-                    "edit-time": 1611598443162,
-                    "refs": [
-                      {
-                        "uid": "w7BupGa2Y"
-                      }
-                    ],
-                    "string": "`#Questions",
-                    "uid": "ZBeSUSbRU"
-                  },
-                  {
-                    ":block/refs": [
-                      {
                         ":block/uid": "tT7jCUH0N"
                       }
                     ],
@@ -8981,6 +8995,42 @@
                   {
                     ":block/refs": [
                       {
+                        ":block/uid": "w7BupGa2Y"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1605033723469,
+                        "edit-time": 1611598443162,
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Questions\"] {\n    background: #9E9E9E;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Questions\"]:before {\n    content: '\u2753'\n}```",
+                        "uid": "lY2mdyOoR"
+                      }
+                    ],
+                    "create-time": 1605033723469,
+                    "edit-time": 1611598443162,
+                    "refs": [
+                      {
+                        "uid": "w7BupGa2Y"
+                      }
+                    ],
+                    "string": "`#Questions",
+                    "uid": "ZBeSUSbRU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
                         ":block/uid": "6dB1iDSCp"
                       },
                       {
@@ -8993,8 +9043,22 @@
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1606077193168,
-                    "edit-time": 1611598443163,
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611948994168,
+                        "edit-time": 1611948994168,
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Reply-from\"] {\n\tbackground-image: linear-gradient(to right, #CD4CE3AD,#CD4CE3AD);\n\tbackground-size: 100%;\n    color: rgb(255,255,255);\n    padding: 3px 2px 3px 5px;\n    font-size: 13px;\n    font-weight: 500;\n    line-height: 1em;\n    border-radius: 3px 0 0 3px;\n    position:relative;\n}\n\n span.rm-page-ref[data-tag=\"Reply-from\"] + span[data-link-title] {\n     background: #e4ffe3 !important;\n     color: #F3F7F2 !important;\n     padding: 3px 5px 3px 15px;\n     font-size: 13px;\n     line-height: 1em;\n     font-weight: 400;\n     border-radius: 0 3px 3px 0;\n     margin-left: -5px;\n}\n\n\nspan.rm-page-ref[data-tag=\"Reply-from\"]:after, span.rm-page-ref[data-tag=\"Question\"]:before {\n    left: 100%;\n    top: 50%;\n    border: solid transparent;\n    content: \" \";\n    height: 0;\n    width: 0;\n    position: absolute;\n    pointer-events: none;\n}\n\nspan.rm-page-ref[data-tag=\"Reply-from\"]:after {\n    border-color: rgba(255,255,255,0);\n    border-left-color: #CD4CE3AD;\n    border-width: 11px;\n    margin-top: -11px;\n}\n\nspan.rm-page-ref[data-tag=\"Reply-from\"]:before {\n    border-color: rgba(255,255,255,0);\n    border-left-color: #CD4CE3AD;\n    border-width: 11px;\n    margin-top: -11px;\n}\n\n\n```",
+                        "uid": "hJKA0YHmN"
+                      }
+                    ],
+                    "create-time": 1611948994168,
+                    "edit-time": 1611948994168,
                     "refs": [
                       {
                         "uid": "6dB1iDSCp"
@@ -9004,7 +9068,7 @@
                       }
                     ],
                     "string": "#Reply-from [[Your Name]]",
-                    "uid": "RtPU92EGr"
+                    "uid": "t20PVZRl1"
                   },
                   {
                     ":block/refs": [
@@ -9054,15 +9118,29 @@
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1606022868196,
-                    "edit-time": 1611598443162,
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1606271830947,
+                        "edit-time": 1611948697688,
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Announcements\"] {\n    background: #F44336;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Announcements\"]:before {\n    content: '\ud83d\udce2'\n}```",
+                        "uid": "pQfG5OVHW"
+                      }
+                    ],
+                    "create-time": 1606271830947,
+                    "edit-time": 1611948697688,
                     "refs": [
                       {
                         "uid": "H7NGD4VcI"
                       }
                     ],
                     "string": "`#Announcements",
-                    "uid": "l32NTaelB"
+                    "uid": "1i9_BtL2t"
                   },
                   {
                     ":block/refs": [
@@ -9076,15 +9154,29 @@
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1606022745287,
-                    "edit-time": 1611598443162,
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1606271830947,
+                        "edit-time": 1611948719752,
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Change Log\"] {\n    background: #4CAF50;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Change Log\"]:before {\n    content: '\ud83d\udce2'\n}```",
+                        "uid": "UqrtjWxzP"
+                      }
+                    ],
+                    "create-time": 1606271830947,
+                    "edit-time": 1611948719752,
                     "refs": [
                       {
                         "uid": "Bb30fEKLj"
                       }
                     ],
                     "string": "`#[[Change Log]]",
-                    "uid": "WaI49QTE9"
+                    "uid": "VJMPfcxfA"
                   },
                   {
                     ":block/refs": [
@@ -9206,15 +9298,29 @@
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1606272472038,
-                    "edit-time": 1611598443163,
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611948981043,
+                        "edit-time": 1611948981043,
+                        "string": "```css\nspan.rm-page-ref[data-tag=\"Scratchpad\"] {\n    background: #607D8B;\n    color: #fff;\n    padding: 2px 5px 2px 5px;\n    font-size: 13px;\n    line-height: 1em;\n    font-weight: 500;\n    border-radius: 5px 5px 5px 5px;\n    position:relative;\n}\n\nspan.rm-page-ref[data-tag=\"Scratchpad\"]:before {\n    content: '\u270f\ufe0f'\n}```",
+                        "uid": "mDrI0PNFu"
+                      }
+                    ],
+                    "create-time": 1611948981043,
+                    "edit-time": 1611948981043,
                     "refs": [
                       {
                         "uid": "wwX3aVlkf"
                       }
                     ],
                     "string": "`#[[Scratchpad]]",
-                    "uid": "Zg80vUwGm"
+                    "uid": "rl03Klpmp"
                   },
                   {
                     ":block/refs": [
@@ -12487,6 +12593,20 @@
     ":create/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611951186122,
+        "edit-time": 1611951186122,
+        "string": "",
+        "uid": "VJZWNXbHY"
+      }
+    ],
     "create-time": 1611598443467,
     "edit-time": 1611598443468,
     "title": "Evergreen Notes",
@@ -15271,6 +15391,36 @@
     "uid": "szHx2vWs8"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "TxsV9GIET"
+          },
+          {
+            ":block/uid": "MNtr_MEx8"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611946948690,
+        "edit-time": 1611946955179,
+        "refs": [
+          {
+            "uid": "TxsV9GIET"
+          },
+          {
+            "uid": "MNtr_MEx8"
+          }
+        ],
+        "string": "Tags:: #Conventions",
+        "uid": "zt0vxDlkO"
+      }
+    ],
     "create-time": 1611845658505,
     "edit-time": 1611845658507,
     "title": "Experiments",
@@ -23816,6 +23966,34 @@
       {
         ":block/refs": [
           {
+            ":block/uid": "zLYI6zAGT"
+          },
+          {
+            ":block/uid": "i5L7Z8P19"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611952560119,
+        "edit-time": 1611952572534,
+        "refs": [
+          {
+            "uid": "zLYI6zAGT"
+          },
+          {
+            "uid": "i5L7Z8P19"
+          }
+        ],
+        "string": "Related:: [[The Zettelkasten]]",
+        "uid": "MVvsb8ZNm"
+      },
+      {
+        ":block/refs": [
+          {
             ":block/uid": "i6kch4wlB"
           }
         ],
@@ -24025,6 +24203,294 @@
             ],
             "string": "Components::",
             "uid": "nC41e26Yu"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OE8CCpfnQ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952418407,
+                    "edit-time": 1611952424257,
+                    "refs": [
+                      {
+                        "uid": "OE8CCpfnQ"
+                      }
+                    ],
+                    "string": "#[[Fleeting Notes]]",
+                    "uid": "TCPnXOoIT"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uf_NBEVEc"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952424251,
+                    "edit-time": 1611952428934,
+                    "refs": [
+                      {
+                        "uid": "uf_NBEVEc"
+                      }
+                    ],
+                    "string": "#[[Literature Notes]]",
+                    "uid": "gfpX6wUhF"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "puYWab8Fa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952428926,
+                    "edit-time": 1611952432403,
+                    "refs": [
+                      {
+                        "uid": "puYWab8Fa"
+                      }
+                    ],
+                    "string": "#[[Evergreen Notes]]",
+                    "uid": "XIcZ1vYk4"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "qwpuHwnGi"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952432396,
+                    "edit-time": 1611952439140,
+                    "refs": [
+                      {
+                        "uid": "qwpuHwnGi"
+                      }
+                    ],
+                    "string": "#[[Reference Notes]]",
+                    "uid": "ptyauAUM1"
+                  }
+                ],
+                "create-time": 1611952484935,
+                "edit-time": 1611952486928,
+                "string": "Notes:",
+                "uid": "FOSRRny_d"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "nc8GLDL7E"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952439133,
+                    "edit-time": 1611952454157,
+                    "refs": [
+                      {
+                        "uid": "nc8GLDL7E"
+                      }
+                    ],
+                    "string": "#[[Open Questions]]",
+                    "uid": "FRmncuE-p"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FG-VA-qnj"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952457847,
+                    "edit-time": 1611952465829,
+                    "refs": [
+                      {
+                        "uid": "FG-VA-qnj"
+                      }
+                    ],
+                    "string": "#[[Context Questions]]",
+                    "uid": "TWZVVgzzU"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "VJyG_kN9x"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952454151,
+                    "edit-time": 1611952457856,
+                    "refs": [
+                      {
+                        "uid": "VJyG_kN9x"
+                      }
+                    ],
+                    "string": "#[[Zettel Questions]]",
+                    "uid": "P4u_X6qBU"
+                  }
+                ],
+                "create-time": 1611952491566,
+                "edit-time": 1611952496059,
+                "string": "Questions:",
+                "uid": "SsZ5QXUCL"
+              }
+            ],
+            "create-time": 1611952404348,
+            "edit-time": 1611952417175,
+            "string": "**Official Conventions:**",
+            "uid": "dPMrD-WlS"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "UA1Pmj2tB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "6zNhf5E9z"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611952535003,
+                "edit-time": 1611952536524,
+                "refs": [
+                  {
+                    "uid": "6zNhf5E9z"
+                  }
+                ],
+                "string": "The question-related conventions are more [experimental]([[Experiments]])",
+                "uid": "UqovpNF6-"
+              }
+            ],
+            "create-time": 1611952472652,
+            "edit-time": 1611952479119,
+            "refs": [
+              {
+                "uid": "UA1Pmj2tB"
+              }
+            ],
+            "string": "Comments::",
+            "uid": "Poulwh_Yr"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "R6GwNfuun"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611952579966,
+                "edit-time": 1611952622718,
+                "refs": [
+                  {
+                    "uid": "aDlFFSRPv"
+                  }
+                ],
+                "string": "View the linked references filtered by [my name]([[Brandon Toner]]) get a sense of the conventions in action.",
+                "uid": "cweSlAGue"
+              }
+            ],
+            "create-time": 1611952550724,
+            "edit-time": 1611952579977,
+            "refs": [
+              {
+                "uid": "R6GwNfuun"
+              }
+            ],
+            "string": "Tips::",
+            "uid": "Rl4hs5aue"
           }
         ],
         "create-time": 1611802441032,
@@ -34997,30 +35463,6 @@
             ":edit/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "BBIIALUSA"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                },
-                ":edit/user": {
-                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                },
-                "create-time": 1611788804350,
-                "edit-time": 1611788858797,
-                "refs": [
-                  {
-                    "uid": "BBIIALUSA"
-                  }
-                ],
-                "string": "[[Mark Robertson]] On working together, rather than \"shouting as you run by\"",
-                "uid": "oIKY3iKgt"
-              }
-            ],
             "create-time": 1611788553696,
             "edit-time": 1611788560390,
             "refs": [
@@ -55926,10 +56368,10 @@
   },
   {
     ":create/user": {
-      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+      ":user/uid": "z0GYtzsTAdY59JpWICUPi5b1fRs2"
     },
     ":edit/user": {
-      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+      ":user/uid": "z0GYtzsTAdY59JpWICUPi5b1fRs2"
     },
     "children": [
       {
@@ -56108,6 +56550,156 @@
             ],
             "string": "11:43 \u2014 Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes ",
             "uid": "QfwhfFVNm"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "_ala-JkX-"
+              },
+              {
+                ":block/uid": "XM_W5hGRf"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ir3nPs-SW"
+                  },
+                  {
+                    ":block/uid": "WcKOd06rp"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611946420521,
+                "edit-time": 1611946606662,
+                "refs": [
+                  {
+                    "uid": "Ir3nPs-SW"
+                  },
+                  {
+                    "uid": "WcKOd06rp"
+                  }
+                ],
+                "string": "{{[[embed]]: ((WcKOd06rp))}}",
+                "uid": "aq1R6A9xF"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "hmdXYNWAW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611947890411,
+                    "edit-time": 1611947890411,
+                    "string": "",
+                    "uid": "LY5BMW57v"
+                  }
+                ],
+                "create-time": 1611947830279,
+                "edit-time": 1611947889928,
+                "refs": [
+                  {
+                    "uid": "hmdXYNWAW"
+                  }
+                ],
+                "string": "This passage also demonstrates the use of the [[Roam42]] shortcuts for copying block references and \"copy as alias\"",
+                "uid": "D8a4YfIXO"
+              }
+            ],
+            "create-time": 1611946606651,
+            "edit-time": 1611947468835,
+            "refs": [
+              {
+                "uid": "_ala-JkX-"
+              },
+              {
+                "uid": "XM_W5hGRf"
+              }
+            ],
+            "string": "Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [[DNP Modules]] as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([[Beyond the Basics]])",
+            "uid": "EfHFbOA3A"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "LIN9EviIA"
+              },
+              {
+                ":block/uid": "hvbTRtlUF"
+              },
+              {
+                ":block/uid": "JUvpVJe0-"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611952047422,
+            "edit-time": 1611952093881,
+            "refs": [
+              {
+                "uid": "LIN9EviIA"
+              },
+              {
+                "uid": "hvbTRtlUF"
+              },
+              {
+                "uid": "JUvpVJe0-"
+              }
+            ],
+            "string": "[[Kahlil Corazo]] is putting out some great tweet threads related to the [[Roam Games]]. Check [this](((JUvpVJe0-))) out.",
+            "uid": "n31iuf7FX"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "U5eQUX7_3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611952632474,
+            "edit-time": 1611952639455,
+            "refs": [
+              {
+                "uid": "U5eQUX7_3"
+              }
+            ],
+            "string": "((U5eQUX7_3))",
+            "uid": "Pc2ysj46Q"
           }
         ],
         "create-time": 1611888786668,
@@ -56119,6 +56711,98 @@
         ],
         "string": "#[[The Main Feed]]",
         "uid": "mhe0I3ino"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Q2fSEKaJf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "aDlFFSRPv"
+              },
+              {
+                ":block/uid": "wcMRwTpkY"
+              },
+              {
+                ":block/uid": "BMn019NSe"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611953196946,
+            "edit-time": 1611953197565,
+            "refs": [
+              {
+                "uid": "aDlFFSRPv"
+              },
+              {
+                "uid": "wcMRwTpkY"
+              },
+              {
+                "uid": "BMn019NSe"
+              }
+            ],
+            "string": "I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that ((wcMRwTpkY)) \n\nThoughts? - [[Brandon Toner]]",
+            "uid": "1VDXuyJlt"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "SUWj-tpl5"
+              },
+              {
+                ":block/uid": "ZZgX60u08"
+              },
+              {
+                ":block/uid": "0PZ_hR4QF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611953198886,
+            "edit-time": 1611953223512,
+            "refs": [
+              {
+                "uid": "SUWj-tpl5"
+              },
+              {
+                "uid": "ZZgX60u08"
+              },
+              {
+                "uid": "0PZ_hR4QF"
+              }
+            ],
+            "string": "[[@[[Charles Farr]]]] \u2014 Interested in your thoughts on Kahlil's latest stuff. ((0PZ_hR4QF))",
+            "uid": "pt1JUmqUC"
+          }
+        ],
+        "create-time": 1611932742948,
+        "edit-time": 1611933505397,
+        "refs": [
+          {
+            "uid": "Q2fSEKaJf"
+          }
+        ],
+        "string": "#Chat ((I added a Chat to the main section. To reply, reference the block into your \"Comments\" section, nesting your reply beneath. ))",
+        "uid": "ZlhKC6b2i"
       },
       {
         ":block/refs": [
@@ -56178,6 +56862,28 @@
             ],
             "string": "11:19 \u2014\u00a0Glitchy CSS/data loss again. #[[Bug Reports]]",
             "uid": "zjVVNuv6I"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "xj_qSP1j7"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611949325733,
+            "edit-time": 1611949325733,
+            "refs": [
+              {
+                "uid": "xj_qSP1j7"
+              }
+            ],
+            "string": "((xj_qSP1j7))",
+            "uid": "W2Gtwu_zb"
           }
         ],
         "create-time": 1611888786668,
@@ -56189,64 +56895,6 @@
         ],
         "string": "#[[Daily Log Book]]",
         "uid": "-X0O7F83q"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "Q2fSEKaJf"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-        },
-        ":edit/user": {
-          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-        },
-        "children": [
-          {
-            ":block/refs": [
-              {
-                ":block/uid": "aDlFFSRPv"
-              },
-              {
-                ":block/uid": "wcMRwTpkY"
-              },
-              {
-                ":block/uid": "BMn019NSe"
-              }
-            ],
-            ":create/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            ":edit/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            "create-time": 1611933182664,
-            "edit-time": 1611933199786,
-            "refs": [
-              {
-                "uid": "aDlFFSRPv"
-              },
-              {
-                "uid": "wcMRwTpkY"
-              },
-              {
-                "uid": "BMn019NSe"
-              }
-            ],
-            "string": "I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that ((wcMRwTpkY)) \n\nThoughts? - [[Brandon Toner]]",
-            "uid": "159yVI4AL"
-          }
-        ],
-        "create-time": 1611932742948,
-        "edit-time": 1611933505397,
-        "refs": [
-          {
-            "uid": "Q2fSEKaJf"
-          }
-        ],
-        "string": "#Chat ((I added a Chat to the main section. To reply, reference the block into your \"Comments\" section, nesting your reply beneath. ))",
-        "uid": "ZlhKC6b2i"
       },
       {
         ":create/user": {
@@ -56279,7 +56927,7 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "O6NKTa69_"
+                ":block/uid": "wwX3aVlkf"
               }
             ],
             ":create/user": {
@@ -56289,6 +56937,1270 @@
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "U5eQUX7_3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6MWd53iDm"
+                      },
+                      {
+                        ":block/uid": "HT2t6d_nO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "OE8CCpfnQ"
+                          },
+                          {
+                            ":block/uid": "rTvBzGtyV"
+                          },
+                          {
+                            ":block/uid": "lGA5fCRND"
+                          },
+                          {
+                            ":block/uid": "HT2t6d_nO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zLYI6zAGT"
+                              },
+                              {
+                                ":block/uid": "HfQYQiDKX"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1611952890206,
+                            "edit-time": 1611952913607,
+                            "refs": [
+                              {
+                                "uid": "zLYI6zAGT"
+                              },
+                              {
+                                "uid": "HfQYQiDKX"
+                              }
+                            ],
+                            "string": "Related:: ((HfQYQiDKX))",
+                            "uid": "Mv7kSDpgR"
+                          }
+                        ],
+                        "create-time": 1611952836135,
+                        "edit-time": 1611952883183,
+                        "refs": [
+                          {
+                            "uid": "OE8CCpfnQ"
+                          },
+                          {
+                            "uid": "rTvBzGtyV"
+                          },
+                          {
+                            "uid": "lGA5fCRND"
+                          },
+                          {
+                            "uid": "HT2t6d_nO"
+                          }
+                        ],
+                        "string": "#[[Fleeting Notes]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].",
+                        "uid": "hZlJpN7Ig"
+                      }
+                    ],
+                    "create-time": 1611952809921,
+                    "edit-time": 1611952832326,
+                    "refs": [
+                      {
+                        "uid": "6MWd53iDm"
+                      },
+                      {
+                        "uid": "HT2t6d_nO"
+                      }
+                    ],
+                    "string": "Here, I\u2019m introducing the idea that the [[collaborative zettelkasten]] is the key to carrying mature ideas forward through time.\n\nThis addresses the problem of \u201cmissing things\u201d. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [[resurfacing]] methods.",
+                    "uid": "Z8gjpHV7B"
+                  }
+                ],
+                "create-time": 1611952802487,
+                "edit-time": 1611952809932,
+                "refs": [
+                  {
+                    "uid": "U5eQUX7_3"
+                  }
+                ],
+                "string": "((U5eQUX7_3))",
+                "uid": "G85vwp3dS"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "nc8GLDL7E"
+                  },
+                  {
+                    ":block/uid": "HeZLErAE8"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "0x08w0lSE"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611952952523,
+                    "edit-time": 1611953010918,
+                    "refs": [
+                      {
+                        "uid": "0x08w0lSE"
+                      }
+                    ],
+                    "string": "Maturity = page creation with page template similar to that of [[evergreen notes]].",
+                    "uid": "4H3lmzVX-"
+                  }
+                ],
+                "create-time": 1611952944510,
+                "edit-time": 1611953008847,
+                "refs": [
+                  {
+                    "uid": "nc8GLDL7E"
+                  },
+                  {
+                    "uid": "HeZLErAE8"
+                  }
+                ],
+                "string": "#[[Open Questions]] When does a question mature into a [zettel question]([[zettel questions]]).",
+                "uid": "zX_T7YG34"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "HEaru_-6b"
+                  },
+                  {
+                    ":block/uid": "hvbTRtlUF"
+                  },
+                  {
+                    ":block/uid": "Bt0A2e_sB"
+                  },
+                  {
+                    ":block/uid": "VpkbVnYeC"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Y04H9ccUw"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "sOFO_CQh4"
+                          },
+                          {
+                            ":block/uid": "Q1pbc-SCT"
+                          },
+                          {
+                            ":block/uid": "eIfs3ozbT"
+                          },
+                          {
+                            ":block/uid": "7y86LvOF6"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611951975000,
+                        "edit-time": 1611952037450,
+                        "refs": [
+                          {
+                            "uid": "sOFO_CQh4"
+                          },
+                          {
+                            "uid": "Q1pbc-SCT"
+                          },
+                          {
+                            "uid": "eIfs3ozbT"
+                          },
+                          {
+                            "uid": "7y86LvOF6"
+                          }
+                        ],
+                        "string": "{{[[TODO]]}} Create literature notes based on this thread. #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]",
+                        "uid": "CSNScVulJ"
+                      }
+                    ],
+                    "create-time": 1611951898102,
+                    "edit-time": 1611951909035,
+                    "refs": [
+                      {
+                        "uid": "Y04H9ccUw"
+                      }
+                    ],
+                    "string": "URL:: https://twitter.com/roamfu/status/1355186036884664323?s=21 ",
+                    "uid": "84Fl81Hb_"
+                  }
+                ],
+                "create-time": 1611951876055,
+                "edit-time": 1611951972097,
+                "refs": [
+                  {
+                    "uid": "HEaru_-6b"
+                  },
+                  {
+                    "uid": "hvbTRtlUF"
+                  },
+                  {
+                    "uid": "Bt0A2e_sB"
+                  },
+                  {
+                    "uid": "VpkbVnYeC"
+                  }
+                ],
+                "string": "[[Kahlil Corazo]] on \"Roam vs other [[project management]] software\" #[[Tweet Threads]] #Resources",
+                "uid": "0PZ_hR4QF"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZFyIOvSbA"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UjoBtIto5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611939595911,
+                    "edit-time": 1611945359268,
+                    "refs": [
+                      {
+                        "uid": "UjoBtIto5"
+                      }
+                    ],
+                    "string": "[[Create speculative outlines while you write]]",
+                    "uid": "PgZiAabHS"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RzL3vnfd2"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611945615889,
+                    "edit-time": 1611945674752,
+                    "refs": [
+                      {
+                        "uid": "RzL3vnfd2"
+                      }
+                    ],
+                    "string": "[[Evergreen notes should be concept-oriented]]",
+                    "uid": "_QH6Rn-om"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bL-CXEVoh"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611945988173,
+                    "edit-time": 1611945991914,
+                    "refs": [
+                      {
+                        "uid": "bL-CXEVoh"
+                      }
+                    ],
+                    "string": "[[Evergreen note titles are like APIs]]",
+                    "uid": "w4wW7J6Uj"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "JR9ZR5V0R"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611947013637,
+                    "edit-time": 1611947018885,
+                    "refs": [
+                      {
+                        "uid": "JR9ZR5V0R"
+                      }
+                    ],
+                    "string": "[[Prefer note titles with complete phrases to sharpen claims]]",
+                    "uid": "yCtn2tuLL"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YHmvhLnzl"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611947521176,
+                    "edit-time": 1611947525727,
+                    "refs": [
+                      {
+                        "uid": "YHmvhLnzl"
+                      }
+                    ],
+                    "string": "[[Evergreen notes should be atomic]]",
+                    "uid": "UVAjNNjEa"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "uf_NBEVEc"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "UjoBtIto5"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "REleEE4tl"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "zLYI6zAGT"
+                                  },
+                                  {
+                                    ":block/uid": "fopdz6Eqe"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611945569842,
+                                "edit-time": 1611945578087,
+                                "refs": [
+                                  {
+                                    "uid": "zLYI6zAGT"
+                                  },
+                                  {
+                                    "uid": "fopdz6Eqe"
+                                  }
+                                ],
+                                "string": "Related:: [[Start from abundance]]",
+                                "uid": "OGxMFnu6f"
+                              }
+                            ],
+                            "create-time": 1611945568344,
+                            "edit-time": 1611945568344,
+                            "refs": [
+                              {
+                                "uid": "REleEE4tl"
+                              }
+                            ],
+                            "string": "((REleEE4tl))",
+                            "uid": "gHRnhy1Li"
+                          }
+                        ],
+                        "create-time": 1611948384691,
+                        "edit-time": 1611948389131,
+                        "refs": [
+                          {
+                            "uid": "UjoBtIto5"
+                          }
+                        ],
+                        "string": "[[Create speculative outlines while you write]]",
+                        "uid": "a-ALghGjA"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RzL3vnfd2"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "KerVFj6Q9"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "cRcatz0HO"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611945784677,
+                                "edit-time": 1611945802646,
+                                "refs": [
+                                  {
+                                    "uid": "cRcatz0HO"
+                                  }
+                                ],
+                                "string": "In Roam, both can be accomplished by tagging with [[attributes]]",
+                                "uid": "K4lcUYoZX"
+                              }
+                            ],
+                            "create-time": 1611945787883,
+                            "edit-time": 1611945787883,
+                            "refs": [
+                              {
+                                "uid": "KerVFj6Q9"
+                              }
+                            ],
+                            "string": "((KerVFj6Q9))",
+                            "uid": "zO2cQMt8g"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "9r0a4tGiM"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "OE8CCpfnQ"
+                                  },
+                                  {
+                                    ":block/uid": "rTvBzGtyV"
+                                  },
+                                  {
+                                    ":block/uid": "5Cd2Ms07a"
+                                  },
+                                  {
+                                    ":block/uid": "UnAu7U9j1"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611945889105,
+                                "edit-time": 1611945946153,
+                                "refs": [
+                                  {
+                                    "uid": "OE8CCpfnQ"
+                                  },
+                                  {
+                                    "uid": "rTvBzGtyV"
+                                  },
+                                  {
+                                    "uid": "5Cd2Ms07a"
+                                  },
+                                  {
+                                    "uid": "UnAu7U9j1"
+                                  }
+                                ],
+                                "string": "#[[Fleeting Notes]]  A [[zettelkasten]] empowers a conversation between [[atomic ideas]]. By facilitating proximity and a means of flagging [[tensions]].",
+                                "uid": "hzyqCpxqP"
+                              }
+                            ],
+                            "create-time": 1611945887687,
+                            "edit-time": 1611945888176,
+                            "refs": [
+                              {
+                                "uid": "9r0a4tGiM"
+                              }
+                            ],
+                            "string": "\"Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously?\u00a0[Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)\" [*](((9r0a4tGiM)))",
+                            "uid": "SsvXhg5GF"
+                          }
+                        ],
+                        "create-time": 1611947246789,
+                        "edit-time": 1611947250185,
+                        "refs": [
+                          {
+                            "uid": "RzL3vnfd2"
+                          }
+                        ],
+                        "string": "[[Evergreen notes should be concept-oriented]]",
+                        "uid": "1pJ2eDKUE"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "bL-CXEVoh"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "8dRQkHgwp"
+                              },
+                              {
+                                ":block/uid": "w2AwpCjU6"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "TxsV9GIET"
+                                  },
+                                  {
+                                    ":block/uid": "0x08w0lSE"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611946085218,
+                                "edit-time": 1611946128526,
+                                "refs": [
+                                  {
+                                    "uid": "TxsV9GIET"
+                                  },
+                                  {
+                                    "uid": "0x08w0lSE"
+                                  }
+                                ],
+                                "string": "This is an important point, and should be a central convention for page naming of [[evergreen notes]] #Conventions",
+                                "uid": "j1D5F-5_q"
+                              }
+                            ],
+                            "create-time": 1611945946728,
+                            "edit-time": 1611946139251,
+                            "refs": [
+                              {
+                                "uid": "8dRQkHgwp"
+                              },
+                              {
+                                "uid": "w2AwpCjU6"
+                              }
+                            ],
+                            "string": "\"When\u00a0[Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)\u00a0are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle\" [*](((w2AwpCjU6))) #Bookmarks",
+                            "uid": "dEV6EpCkp"
+                          }
+                        ],
+                        "create-time": 1611947265230,
+                        "edit-time": 1611947267877,
+                        "refs": [
+                          {
+                            "uid": "bL-CXEVoh"
+                          }
+                        ],
+                        "string": "[[Evergreen note titles are like APIs]]",
+                        "uid": "OrA_RBBfI"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "JR9ZR5V0R"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Hn26UYdKn"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1611947198700,
+                            "edit-time": 1611947198700,
+                            "refs": [
+                              {
+                                "uid": "Hn26UYdKn"
+                              }
+                            ],
+                            "string": "((Hn26UYdKn))",
+                            "uid": "gfb9CUTMA"
+                          }
+                        ],
+                        "create-time": 1611947270258,
+                        "edit-time": 1611947285240,
+                        "refs": [
+                          {
+                            "uid": "JR9ZR5V0R"
+                          }
+                        ],
+                        "string": "[[Prefer note titles with complete phrases to sharpen claims]]",
+                        "uid": "KGmUBqCiQ"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YHmvhLnzl"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zh28MQdYK"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "OE8CCpfnQ"
+                                  },
+                                  {
+                                    ":block/uid": "5Cd2Ms07a"
+                                  },
+                                  {
+                                    ":block/uid": "_3GBB_ekD"
+                                  },
+                                  {
+                                    ":block/uid": "nA2kM5IhV"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611947631085,
+                                "edit-time": 1611947671153,
+                                "refs": [
+                                  {
+                                    "uid": "OE8CCpfnQ"
+                                  },
+                                  {
+                                    "uid": "5Cd2Ms07a"
+                                  },
+                                  {
+                                    "uid": "_3GBB_ekD"
+                                  },
+                                  {
+                                    "uid": "nA2kM5IhV"
+                                  }
+                                ],
+                                "string": "#[[Fleeting Notes]] [Atomic ideas]([[atomic ideas]]) are easier to connect than complex [[narratives]]. #articles",
+                                "uid": "sPCNkOGof"
+                              }
+                            ],
+                            "create-time": 1611947622431,
+                            "edit-time": 1611947622431,
+                            "refs": [
+                              {
+                                "uid": "zh28MQdYK"
+                              }
+                            ],
+                            "string": "((zh28MQdYK))",
+                            "uid": "Et4NHjPgm"
+                          }
+                        ],
+                        "create-time": 1611947624022,
+                        "edit-time": 1611947627694,
+                        "refs": [
+                          {
+                            "uid": "YHmvhLnzl"
+                          }
+                        ],
+                        "string": "[[Evergreen notes should be atomic]]",
+                        "uid": "uxky88AGe"
+                      }
+                    ],
+                    "create-time": 1611945674738,
+                    "edit-time": 1611947225150,
+                    "refs": [
+                      {
+                        "uid": "uf_NBEVEc"
+                      }
+                    ],
+                    "string": "#[[Literature Notes]]",
+                    "uid": "jUGnd7MWf"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "i5L7Z8P19"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "OE8CCpfnQ"
+                          },
+                          {
+                            ":block/uid": "0x08w0lSE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "6MWd53iDm"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611946205964,
+                                "edit-time": 1611946267017,
+                                "refs": [
+                                  {
+                                    "uid": "6MWd53iDm"
+                                  }
+                                ],
+                                "string": "In addition, in a [[collaborative zettelkasten]] there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.",
+                                "uid": "WUMExGBCO"
+                              }
+                            ],
+                            "create-time": 1611946177879,
+                            "edit-time": 1611946205630,
+                            "string": "As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. ",
+                            "uid": "YwOAC4-yt"
+                          }
+                        ],
+                        "create-time": 1611946160754,
+                        "edit-time": 1611946176863,
+                        "refs": [
+                          {
+                            "uid": "OE8CCpfnQ"
+                          },
+                          {
+                            "uid": "0x08w0lSE"
+                          }
+                        ],
+                        "string": "#[[Fleeting Notes]] personal authorship of [[evergreen notes]] is overrated.",
+                        "uid": "iYF8wqepv"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "OE8CCpfnQ"
+                          },
+                          {
+                            ":block/uid": "0x08w0lSE"
+                          },
+                          {
+                            ":block/uid": "9iCx4i5l8"
+                          },
+                          {
+                            ":block/uid": "6MWd53iDm"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611947314463,
+                        "edit-time": 1611947383732,
+                        "refs": [
+                          {
+                            "uid": "OE8CCpfnQ"
+                          },
+                          {
+                            "uid": "0x08w0lSE"
+                          },
+                          {
+                            "uid": "9iCx4i5l8"
+                          },
+                          {
+                            "uid": "6MWd53iDm"
+                          }
+                        ],
+                        "string": "#[[Fleeting Notes]] In a [[collaborative zettelkasten]] you could actually take [[literature notes]] on [[evergreen notes]] written my others.",
+                        "uid": "riXrJ-jcv"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "nc8GLDL7E"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0x08w0lSE"
+                              },
+                              {
+                                ":block/uid": "_3GBB_ekD"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "ZFyIOvSbA"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611946310632,
+                                "edit-time": 1611946346032,
+                                "refs": [
+                                  {
+                                    "uid": "ZFyIOvSbA"
+                                  }
+                                ],
+                                "string": "I consider this as I add some of [[Andy Matuschak]]'s notes to the EN library in the graph. I consider these ENs rather than articles. ",
+                                "uid": "3tzaXNwO-"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "jtjpZin1U"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611946351556,
+                                "edit-time": 1611946402771,
+                                "refs": [
+                                  {
+                                    "uid": "jtjpZin1U"
+                                  }
+                                ],
+                                "string": "My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.",
+                                "uid": "dqa4ljUjV"
+                              }
+                            ],
+                            "create-time": 1611946282570,
+                            "edit-time": 1611946310638,
+                            "refs": [
+                              {
+                                "uid": "0x08w0lSE"
+                              },
+                              {
+                                "uid": "_3GBB_ekD"
+                              }
+                            ],
+                            "string": "What is the dividing line between an [evergreen note]([[evergreen notes]]) and an [article]([[articles]])?",
+                            "uid": "uCSLqdl5e"
+                          }
+                        ],
+                        "create-time": 1611946279386,
+                        "edit-time": 1611946282577,
+                        "refs": [
+                          {
+                            "uid": "nc8GLDL7E"
+                          }
+                        ],
+                        "string": "#[[Open Questions]]",
+                        "uid": "s8_-n2WJI"
+                      }
+                    ],
+                    "create-time": 1611946128517,
+                    "edit-time": 1611946160761,
+                    "refs": [
+                      {
+                        "uid": "i5L7Z8P19"
+                      }
+                    ],
+                    "string": "#[[The Zettelkasten]]",
+                    "uid": "MOR5uDSxp"
+                  }
+                ],
+                "create-time": 1611939535392,
+                "edit-time": 1611939555065,
+                "refs": [
+                  {
+                    "uid": "ZFyIOvSbA"
+                  }
+                ],
+                "string": "Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)",
+                "uid": "WcKOd06rp"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "7wGHSzqLY"
+                  },
+                  {
+                    ":block/uid": "BOcz1TIiJ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1611951292310,
+                            "edit-time": 1611951334103,
+                            "string": "ENs NOT written by members of the graph",
+                            "uid": "BramovKNC"
+                          }
+                        ],
+                        "create-time": 1611951250488,
+                        "edit-time": 1611951292322,
+                        "string": "ENs written by members of the graph ((i.e. exclude external authors like Andy M))",
+                        "uid": "dYIpKh0sF"
+                      }
+                    ],
+                    "create-time": 1611951233469,
+                    "edit-time": 1611951310402,
+                    "string": "I would love to be able to have complex queries for:",
+                    "uid": "qELJLLwKm"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UA1Pmj2tB"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "dYIpKh0sF"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "NIi49JSqi"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "nc8GLDL7E"
+                                  },
+                                  {
+                                    ":block/uid": "NIi49JSqi"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611951395565,
+                                "edit-time": 1611951413362,
+                                "refs": [
+                                  {
+                                    "uid": "nc8GLDL7E"
+                                  },
+                                  {
+                                    "uid": "NIi49JSqi"
+                                  }
+                                ],
+                                "string": "#[[Open Questions]] How could [[second-degree connections]] be facilitated?",
+                                "uid": "NrYC_c1Aq"
+                              }
+                            ],
+                            "create-time": 1611951350346,
+                            "edit-time": 1611951394421,
+                            "refs": [
+                              {
+                                "uid": "NIi49JSqi"
+                              }
+                            ],
+                            "string": "This would require [[second-degree connections]]. I.e. `#People` who are also `#Members`",
+                            "uid": "NRbm0CpAR"
+                          }
+                        ],
+                        "create-time": 1611951341973,
+                        "edit-time": 1611951349435,
+                        "refs": [
+                          {
+                            "uid": "dYIpKh0sF"
+                          }
+                        ],
+                        "string": "\"members of the graph\" [*](((dYIpKh0sF)))",
+                        "uid": "BavYJPNEM"
+                      }
+                    ],
+                    "create-time": 1611951334500,
+                    "edit-time": 1611951341980,
+                    "refs": [
+                      {
+                        "uid": "UA1Pmj2tB"
+                      }
+                    ],
+                    "string": "#Comments",
+                    "uid": "kmE_fB4OE"
+                  }
+                ],
+                "create-time": 1611951226019,
+                "edit-time": 1611951311735,
+                "refs": [
+                  {
+                    "uid": "7wGHSzqLY"
+                  },
+                  {
+                    "uid": "BOcz1TIiJ"
+                  }
+                ],
+                "string": "#[[Wish List]] #Ideas",
+                "uid": "9onvbUk6V"
+              },
               {
                 ":block/refs": [
                   {
@@ -56622,93 +58534,13 @@
                 ],
                 "string": "Just remembered a [[Roam Book Club]] convention that I liked \u2014\u00a0[the central chat.](((ZlhKC6b2i))) ",
                 "uid": "j_XrHE_sw"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "ZFyIOvSbA"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                },
-                ":edit/user": {
-                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                },
-                "children": [
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "UjoBtIto5"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "create-time": 1611939595911,
-                    "edit-time": 1611945359268,
-                    "refs": [
-                      {
-                        "uid": "UjoBtIto5"
-                      }
-                    ],
-                    "string": "[[Create speculative outlines while you write]]",
-                    "uid": "PgZiAabHS"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "RzL3vnfd2"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "create-time": 1611945615889,
-                    "edit-time": 1611945674752,
-                    "refs": [
-                      {
-                        "uid": "RzL3vnfd2"
-                      }
-                    ],
-                    "string": "[[Evergreen notes should be concept-oriented]]",
-                    "uid": "_QH6Rn-om"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "create-time": 1611945674738,
-                    "edit-time": 1611945674738,
-                    "string": "",
-                    "uid": "jUGnd7MWf"
-                  }
-                ],
-                "create-time": 1611939535392,
-                "edit-time": 1611939555065,
-                "refs": [
-                  {
-                    "uid": "ZFyIOvSbA"
-                  }
-                ],
-                "string": "Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)",
-                "uid": "WcKOd06rp"
               }
             ],
             "create-time": 1611888793653,
             "edit-time": 1611888898847,
             "refs": [
               {
-                "uid": "O6NKTa69_"
+                "uid": "wwX3aVlkf"
               }
             ],
             "string": "#[[Scratchpad]]",
@@ -56784,6 +58616,18 @@
                 ],
                 "string": "Added a Chat tag to the top section\" [*](((MfcRZPEXD)))",
                 "uid": "CX_BWD9mP"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611949001279,
+                "edit-time": 1611949025841,
+                "string": "15:36 \u2014 Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)",
+                "uid": "xj_qSP1j7"
               }
             ],
             "create-time": 1611888793653,
@@ -56800,9 +58644,6 @@
             ":block/refs": [
               {
                 ":block/uid": "7XwjQwOZt"
-              },
-              {
-                ":block/uid": "bjQLhCc-Z"
               }
             ],
             ":create/user": {
@@ -56811,17 +58652,44 @@
             ":edit/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "sOFO_CQh4"
+                  },
+                  {
+                    ":block/uid": "JQId74nTN"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611954091768,
+                "edit-time": 1611954109139,
+                "refs": [
+                  {
+                    "uid": "sOFO_CQh4"
+                  },
+                  {
+                    "uid": "JQId74nTN"
+                  }
+                ],
+                "string": "{{[[TODO]]}} Add the [[choice]] template convention. ",
+                "uid": "h4qDkzBRI"
+              }
+            ],
             "create-time": 1611888793653,
-            "edit-time": 1611888793653,
+            "edit-time": 1611954091157,
             "refs": [
               {
                 "uid": "7XwjQwOZt"
-              },
-              {
-                "uid": "bjQLhCc-Z"
               }
             ],
-            "string": "#[[Next Steps]] #not_populated",
+            "string": "#[[Next Steps]] ",
             "uid": "lmqa_ZJVp"
           },
           {
@@ -56886,7 +58754,7 @@
                       {
                         ":block/refs": [
                           {
-                            ":block/uid": "159yVI4AL"
+                            ":block/uid": "1VDXuyJlt"
                           }
                         ],
                         ":create/user": {
@@ -56899,10 +58767,10 @@
                         "edit-time": 1611933449979,
                         "refs": [
                           {
-                            "uid": "159yVI4AL"
+                            "uid": "1VDXuyJlt"
                           }
                         ],
-                        "string": "((159yVI4AL))",
+                        "string": "((1VDXuyJlt))",
                         "uid": "A2_vH2HzP"
                       }
                     ],
@@ -56958,6 +58826,52 @@
                 ],
                 "string": "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten",
                 "uid": "wcMRwTpkY"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "OE8CCpfnQ"
+                  },
+                  {
+                    ":block/uid": "rTvBzGtyV"
+                  },
+                  {
+                    ":block/uid": "6MWd53iDm"
+                  },
+                  {
+                    ":block/uid": "bTJPC2ldU"
+                  },
+                  {
+                    ":block/uid": "ySlZQMrmT"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611946807714,
+                "edit-time": 1611946881888,
+                "refs": [
+                  {
+                    "uid": "OE8CCpfnQ"
+                  },
+                  {
+                    "uid": "rTvBzGtyV"
+                  },
+                  {
+                    "uid": "6MWd53iDm"
+                  },
+                  {
+                    "uid": "bTJPC2ldU"
+                  },
+                  {
+                    "uid": "ySlZQMrmT"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] [collaborative zettelkastens]([[collaborative zettelkasten]]) reach [[critical mass]] faster than [personal zettelkastens]([[personal zettelkasten]]) #zettelkasten",
+                "uid": "1GurDcsxg"
               }
             ],
             "create-time": 1611933047718,
@@ -57668,7 +59582,77 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "REleEE4tl"
+                    ":block/uid": "H0r4ht151"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611948355646,
+                    "edit-time": 1611948475907,
+                    "string": "My current conceptualization is to return to the level beneath the comments tag with each reply \u2014 like in this message.",
+                    "uid": "sXb47lR7b"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611948479434,
+                    "edit-time": 1611948521248,
+                    "string": "It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.",
+                    "uid": "9p-z04HFG"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "H0r4ht151"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611948530099,
+                    "edit-time": 1611948547543,
+                    "refs": [
+                      {
+                        "uid": "H0r4ht151"
+                      }
+                    ],
+                    "string": "I agree with \"Again, organic development is probably best here, and remain flexible. \" [*](((H0r4ht151)))",
+                    "uid": "eO22Ht1PK"
+                  }
+                ],
+                "create-time": 1611948431130,
+                "edit-time": 1611948431130,
+                "refs": [
+                  {
+                    "uid": "H0r4ht151"
+                  }
+                ],
+                "string": "((H0r4ht151))",
+                "uid": "0X-dQ34Ct"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "J9y7V_stl"
                   }
                 ],
                 ":create/user": {
@@ -57681,10 +59665,13 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "zLYI6zAGT"
+                        ":block/uid": "4YV1dG4Lw"
                       },
                       {
-                        ":block/uid": "fopdz6Eqe"
+                        ":block/uid": "ecu2XC6Nv"
+                      },
+                      {
+                        ":block/uid": "BMn019NSe"
                       }
                     ],
                     ":create/user": {
@@ -57693,29 +59680,462 @@
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1611945569842,
-                    "edit-time": 1611945578087,
+                    "create-time": 1611949084601,
+                    "edit-time": 1611949304537,
                     "refs": [
                       {
-                        "uid": "zLYI6zAGT"
+                        "uid": "4YV1dG4Lw"
                       },
                       {
-                        "uid": "fopdz6Eqe"
+                        "uid": "ecu2XC6Nv"
+                      },
+                      {
+                        "uid": "BMn019NSe"
                       }
                     ],
-                    "string": "Related:: [[Start from abundance]]",
-                    "uid": "OGxMFnu6f"
+                    "string": "Yup, I agree. I think the drilling down could be conducted on the [[active vs passive resurfacing]] page itself. With more elaboration, and reference to some specific claims. [[@[[leekeifon]]]]",
+                    "uid": "TCZZKUI0W"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rs3AjD3RB"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "YHvPsePay"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611949164877,
+                        "edit-time": 1611949229445,
+                        "refs": [
+                          {
+                            "uid": "YHvPsePay"
+                          }
+                        ],
+                        "string": "((YHvPsePay))",
+                        "uid": "M8ostRHDB"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "BMn019NSe"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611949232688,
+                        "edit-time": 1611949276980,
+                        "refs": [
+                          {
+                            "uid": "BMn019NSe"
+                          }
+                        ],
+                        "string": "I would consider [[active vs passive resurfacing]] related to \"nouns and noun-phrases\"... an anchor page for more related notes to reference to.",
+                        "uid": "w27zrWt0w"
+                      }
+                    ],
+                    "create-time": 1611949139670,
+                    "edit-time": 1611949164885,
+                    "refs": [
+                      {
+                        "uid": "rs3AjD3RB"
+                      }
+                    ],
+                    "string": "Drawing some justification from this part of [[Andy's Notes]]:",
+                    "uid": "Rr4Y59Aoy"
                   }
                 ],
-                "create-time": 1611945568344,
-                "edit-time": 1611945568344,
+                "create-time": 1611949095559,
+                "edit-time": 1611949095559,
                 "refs": [
                   {
-                    "uid": "REleEE4tl"
+                    "uid": "J9y7V_stl"
                   }
                 ],
-                "string": "((REleEE4tl))",
-                "uid": "gHRnhy1Li"
+                "string": "((J9y7V_stl))",
+                "uid": "f50lcjj0o"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "4YV1dG4Lw"
+                  },
+                  {
+                    ":block/uid": "ecu2XC6Nv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "tUO6dpcGk"
+                      },
+                      {
+                        ":block/uid": "cnygMuVlk"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611953391587,
+                    "edit-time": 1611953417817,
+                    "refs": [
+                      {
+                        "uid": "tUO6dpcGk"
+                      },
+                      {
+                        "uid": "cnygMuVlk"
+                      }
+                    ],
+                    "string": "How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]].",
+                    "uid": "Gs_TGzCOx"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "duMnbyLlt"
+                      },
+                      {
+                        ":block/uid": "yuqfEynX8"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611953417810,
+                    "edit-time": 1611953487088,
+                    "refs": [
+                      {
+                        "uid": "duMnbyLlt"
+                      },
+                      {
+                        "uid": "yuqfEynX8"
+                      }
+                    ],
+                    "string": "What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?",
+                    "uid": "Jg0hwOkb3"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "rTvBzGtyV"
+                      },
+                      {
+                        ":block/uid": "PR7kFqSpB"
+                      },
+                      {
+                        ":block/uid": "4YV1dG4Lw"
+                      },
+                      {
+                        ":block/uid": "ecu2XC6Nv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "j50xmn4aN"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611953526247,
+                        "edit-time": 1611953562436,
+                        "refs": [
+                          {
+                            "uid": "j50xmn4aN"
+                          }
+                        ],
+                        "string": "Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.",
+                        "uid": "gr9VlS90S"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611953562662,
+                        "edit-time": 1611953570885,
+                        "string": "Happy to support if you have questions about how.",
+                        "uid": "J-kUs39sI"
+                      }
+                    ],
+                    "create-time": 1611953487079,
+                    "edit-time": 1611953526255,
+                    "refs": [
+                      {
+                        "uid": "rTvBzGtyV"
+                      },
+                      {
+                        "uid": "PR7kFqSpB"
+                      },
+                      {
+                        "uid": "4YV1dG4Lw"
+                      },
+                      {
+                        "uid": "ecu2XC6Nv"
+                      }
+                    ],
+                    "string": "Would love to see you mature some of these ideas as [[fleeting notes]]. I bet they would blend well within the [[zettelkasten]]. [[@[[leekeifon]]]]",
+                    "uid": "EVjEx3jX_"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "30RCLac39"
+                      },
+                      {
+                        ":block/uid": "AClEvNz7Q"
+                      },
+                      {
+                        ":block/uid": "idA0cqbAH"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611953570877,
+                    "edit-time": 1611953657235,
+                    "refs": [
+                      {
+                        "uid": "30RCLac39"
+                      },
+                      {
+                        "uid": "AClEvNz7Q"
+                      },
+                      {
+                        "uid": "idA0cqbAH"
+                      }
+                    ],
+                    "string": "How might a [[reputation system]][*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [[Roles]], but I'm not sure the best approaches yet. ",
+                    "uid": "v0gL-ZfYy"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "H6M1XTGet"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611953658790,
+                    "edit-time": 1611953704676,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "H6M1XTGet"
+                      }
+                    ],
+                    "string": "Interested to hear more about logic and [[truth]]-seeking. [*](((H6M1XTGet)))",
+                    "uid": "OAN7uvYZi"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4YV1dG4Lw"
+                      },
+                      {
+                        ":block/uid": "ecu2XC6Nv"
+                      },
+                      {
+                        ":block/uid": "iMm8lcvmd"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0x08w0lSE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611953733706,
+                        "edit-time": 1611953753460,
+                        "refs": [
+                          {
+                            "uid": "0x08w0lSE"
+                          }
+                        ],
+                        "string": "I think this may relate to the formation of [[evergreen notes]]. Yes?",
+                        "uid": "2bwa9bs2-"
+                      }
+                    ],
+                    "create-time": 1611953711083,
+                    "edit-time": 1611953731636,
+                    "refs": [
+                      {
+                        "uid": "4YV1dG4Lw"
+                      },
+                      {
+                        "uid": "ecu2XC6Nv"
+                      },
+                      {
+                        "uid": "iMm8lcvmd"
+                      }
+                    ],
+                    "string": "Could you elaborate on [this](((iMm8lcvmd)))? [[@[[leekeifon]]]]",
+                    "uid": "4x3FzcW7d"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "syMWHZ-zM"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "UDqsAeKJg"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611953798639,
+                        "edit-time": 1611953820053,
+                        "refs": [
+                          {
+                            "uid": "UDqsAeKJg"
+                          }
+                        ],
+                        "string": "[This](((UDqsAeKJg))) chat plugin idea is cool too! ",
+                        "uid": "aVPrupNmV"
+                      }
+                    ],
+                    "create-time": 1611953753452,
+                    "edit-time": 1611953798647,
+                    "refs": [
+                      {
+                        "uid": "syMWHZ-zM"
+                      }
+                    ],
+                    "string": "((syMWHZ-zM))",
+                    "uid": "Z7Gvov9Q3"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sKeeeTcAd"
+                      },
+                      {
+                        ":block/uid": "7wGHSzqLY"
+                      },
+                      {
+                        ":block/uid": "HT2t6d_nO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611953883348,
+                    "edit-time": 1611953943129,
+                    "refs": [
+                      {
+                        "uid": "sKeeeTcAd"
+                      },
+                      {
+                        "uid": "7wGHSzqLY"
+                      },
+                      {
+                        "uid": "HT2t6d_nO"
+                      }
+                    ],
+                    "string": "In general, I think the #Ideas and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. ",
+                    "uid": "iH1EpRxW1"
+                  }
+                ],
+                "create-time": 1611953324347,
+                "edit-time": 1611953388610,
+                "refs": [
+                  {
+                    "uid": "4YV1dG4Lw"
+                  },
+                  {
+                    "uid": "ecu2XC6Nv"
+                  }
+                ],
+                "string": "[[@[[leekeifon]]]] You're playing with some fascinating ideas! Love it. ",
+                "uid": "YFLwCoFXr"
               }
             ],
             "create-time": 1611888793653,
@@ -58474,7 +60894,7 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "159yVI4AL"
+                    ":block/uid": "1VDXuyJlt"
                   }
                 ],
                 ":create/user": {
@@ -58525,10 +60945,10 @@
                 "edit-time": 1611938049881,
                 "refs": [
                   {
-                    "uid": "159yVI4AL"
+                    "uid": "1VDXuyJlt"
                   }
                 ],
-                "string": "((159yVI4AL))",
+                "string": "((1VDXuyJlt))",
                 "uid": "kXIb5R7ye"
               }
             ],
@@ -58847,29 +61267,29 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "aDlFFSRPv"
+                        ":block/uid": "zql88eBgf"
                       },
                       {
-                        ":block/uid": "npph1Oq_X"
+                        ":block/uid": "aDlFFSRPv"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "L9lTLVXI2hTw8UdWkWX948d926H2"
                     },
                     ":edit/user": {
-                      ":user/uid": "L9lTLVXI2hTw8UdWkWX948d926H2"
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "create-time": 1611943413541,
-                    "edit-time": 1611943487118,
+                    "edit-time": 1611948527819,
                     "refs": [
                       {
-                        "uid": "aDlFFSRPv"
+                        "uid": "zql88eBgf"
                       },
                       {
-                        "uid": "npph1Oq_X"
+                        "uid": "aDlFFSRPv"
                       }
                     ],
-                    "string": "Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[@[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. ",
+                    "string": "Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[~[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. ",
                     "uid": "H0r4ht151"
                   },
                   {
@@ -58919,10 +61339,74 @@
         ],
         "string": "#[[My Daily Notes]] [[Mark Robertson]] {{word-count}}",
         "uid": "n2nSQ8-UD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Pti1cH_0g"
+          },
+          {
+            ":block/uid": "9-KoebPIs"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+        },
+        ":edit/user": {
+          ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "EfHFbOA3A"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+            },
+            ":edit/user": {
+              ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+            },
+            "create-time": 1611947700860,
+            "edit-time": 1611947704546,
+            "refs": [
+              {
+                "uid": "EfHFbOA3A"
+              }
+            ],
+            "string": "((EfHFbOA3A))",
+            "uid": "vxuC84TVn"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+            },
+            ":edit/user": {
+              ":user/uid": "tzysN5tyA6THWHsx9yOPE8C9W9v2"
+            },
+            "create-time": 1611947704538,
+            "edit-time": 1611947704538,
+            "string": "",
+            "uid": "cym6vH2s0"
+          }
+        ],
+        "create-time": 1611947638333,
+        "edit-time": 1611947693019,
+        "refs": [
+          {
+            "uid": "Pti1cH_0g"
+          },
+          {
+            "uid": "9-KoebPIs"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}",
+        "uid": "3vFiaNhwF"
       }
     ],
-    "create-time": 1611939071450,
-    "edit-time": 1611939071450,
+    "create-time": 1611952065729,
+    "edit-time": 1611952065730,
     "title": "January 29th, 2021",
     "uid": "01-29-2021"
   },
@@ -61339,6 +63823,70 @@
     ":edit/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "6zNhf5E9z"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611946898089,
+        "edit-time": 1611946902873,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "6zNhf5E9z"
+          }
+        ],
+        "string": "Tags:: #Experiments",
+        "uid": "psPjqFIfA"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PR7kFqSpB"
+          },
+          {
+            ":block/uid": "0x08w0lSE"
+          },
+          {
+            ":block/uid": "Eai_rd2VW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611946904835,
+        "edit-time": 1611946940070,
+        "refs": [
+          {
+            "uid": "PR7kFqSpB"
+          },
+          {
+            "uid": "0x08w0lSE"
+          },
+          {
+            "uid": "Eai_rd2VW"
+          }
+        ],
+        "string": "Idea: Ability to add a [[slider]] to a note to rate the degree of agreement with the assertion. Great for [[fleeting notes]] or [[evergreen notes]]",
+        "uid": "VKBgr2zf1"
+      }
+    ],
     "create-time": 1611933335122,
     "edit-time": 1611933427584,
     "title": "Agreement Rating",
@@ -61804,7 +64352,7 @@
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
             "create-time": 1611945684559,
-            "edit-time": 1611945684559,
+            "edit-time": 1611950789210,
             "refs": [
               {
                 "uid": "bjQLhCc-Z"
@@ -61813,7 +64361,7 @@
                 "uid": "BegIC9Bzs"
               }
             ],
-            "string": "References:: #not_populated ((Supporting fleeting notes or literature notes would go here))",
+            "string": "References:: #not_populated ((Supporting notes (FN, LN, EN, or other) would go here))",
             "uid": "YNF0-ivv1"
           },
           {
@@ -61871,18 +64419,6 @@
             ],
             "string": "Notes:: #not_populated",
             "uid": "zycPzC9-C"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            ":edit/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            "create-time": 1611945743243,
-            "edit-time": 1611945743243,
-            "string": "",
-            "uid": "oT1QB3EjL"
           }
         ],
         "create-time": 1611945683158,
@@ -61897,11 +64433,1211 @@
         ],
         "string": "Tags:: #[[Evergreen Notes]]",
         "uid": "ZqdQtmiyg"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611945834676,
+        "edit-time": 1611945835380,
+        "string": "It\u2019s best to factor\u00a0[Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)\u00a0by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)).",
+        "uid": "KerVFj6Q9"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you\u2019ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast:\u00a0[Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)).",
+        "uid": "imi2Ydjmh"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "When you read another book which discusses the same concept, you\u2019ll write a new note on that book. With this approach, there\u2019s no accumulation (contra\u00a0[Knowledge work should accrete](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT)). Your new thoughts on the concept don\u2019t combine with the old ones to form a stronger whole: you just have a scattered set of notes on the concept, perhaps referring to it by different names, each embedded in some larger document.",
+        "uid": "7w81HGd1D"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "It\u2019s not just about accumulation. There\u2019s also no pressure to synthesize your new ideas on the concept with your prior thoughts about it. Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously?\u00a0[Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)",
+        "uid": "9r0a4tGiM"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "If we read two books about exactly the same topic, we might easily link our notes about those two together. But novel connections tend to appear where they\u2019re not quite so expected. When arranging notes by concept, you may make surprising links between ideas that came up in very different books. You might never have noticed that those books were related before\u2014and indeed, they might not have been, except for this one point.",
+        "uid": "jb1DgZz5Q"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "Organizing by concept makes note-taking a little harder, but in a useful way: when writing new notes, we have to find where they fit into the whole. So we explore some part of our prior web of notes, which may lead us somewhere unexpected.",
+        "uid": "wz9O3FbsO"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611945837271,
+        "string": "Over time, we accumulate notes which we can combine in increasingly complex ways ([Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)) to produce novel insights ([Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)).",
+        "uid": "2xb1cZ3dA"
       }
     ],
     "create-time": 1611945674754,
     "edit-time": 1611945674755,
     "title": "Evergreen notes should be concept-oriented",
     "uid": "RzL3vnfd2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "m9eyCN_a5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611945806993,
+        "edit-time": 1611945811225,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "m9eyCN_a5"
+          }
+        ],
+        "string": "Tags:: #Glossary",
+        "uid": "U5omdXgVK"
+      }
+    ],
+    "create-time": 1611945802650,
+    "edit-time": 1611945802667,
+    "title": "attributes",
+    "uid": "cRcatz0HO"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "puYWab8Fa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "khGCfP8qM"
+              },
+              {
+                ":block/uid": "01-29-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611954575976,
+            "refs": [
+              {
+                "uid": "khGCfP8qM"
+              },
+              {
+                "uid": "01-29-2021"
+              }
+            ],
+            "string": "Date Created:: [[January 29th, 2021]]",
+            "uid": "Ur2--Ese1"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "aDlFFSRPv"
+              },
+              {
+                ":block/uid": "bgxDzMRG8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611946001633,
+            "refs": [
+              {
+                "uid": "aDlFFSRPv"
+              },
+              {
+                "uid": "bgxDzMRG8"
+              }
+            ],
+            "string": "Created by:: [[Brandon Toner]]",
+            "uid": "rbWQebgJ0"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ZFyIOvSbA"
+              },
+              {
+                ":block/uid": "rUKtZGHJW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611954589666,
+            "refs": [
+              {
+                "uid": "ZFyIOvSbA"
+              },
+              {
+                "uid": "rUKtZGHJW"
+              }
+            ],
+            "string": "Author:: [[Andy Matuschak]]",
+            "uid": "0jraEpSZY"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Y04H9ccUw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611946028090,
+            "refs": [
+              {
+                "uid": "Y04H9ccUw"
+              }
+            ],
+            "string": "URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)",
+            "uid": "xPxQHpOtd"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "BegIC9Bzs"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611954603712,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "BegIC9Bzs"
+              }
+            ],
+            "string": "References:: #not_populated ((Supporting fleeting notes or literature notes would go here))",
+            "uid": "dJ-1vBCBw"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "jOdC0B1za"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611946001633,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "jOdC0B1za"
+              }
+            ],
+            "string": "Related:: #not_populated ((Not a reference, but a related idea, block or page))",
+            "uid": "xeP-tnqKj"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "HPSSk6k0E"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611946001625,
+            "edit-time": 1611954616728,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "HPSSk6k0E"
+              }
+            ],
+            "string": "Notes:: #not_populated",
+            "uid": "qK7vwKHGB"
+          }
+        ],
+        "create-time": 1611946001625,
+        "edit-time": 1611954542266,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "puYWab8Fa"
+          }
+        ],
+        "string": "Tags:: #[[Evergreen Notes]]",
+        "uid": "q7mOKCU2T"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611946050875,
+        "string": "When\u00a0[Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)\u00a0are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle (see\u00a0[Concept handles, after Alexander](https://notes.andymatuschak.org/z5vA4vw86DKNq22xt6pRWhumeRmSzwV6hxRHE)). In fact, this property itself functions as a kind of litmus: as you develops ideas in notes over time and improve the \u201cAPIs,\u201d you\u2019ll be able to write individual notes which abstract over increasingly large subtrees (e.g.\u00a0[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/z6oXuXLZ7Wq1eBqskyfph2wz9gjohQUKSBFzx),\u00a0[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)).",
+        "uid": "w2AwpCjU6"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611946050875,
+        "string": "Some effective note \u201cAPI design\u201d techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp)).",
+        "uid": "SUr0_R1re"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611946050875,
+        "string": "Related:\u00a0[Grounded claims, after Qian et al](https://notes.andymatuschak.org/z8D1DJ4663xTUx2P3ztA8hM5FsmtbYmgRfPnC)",
+        "uid": "hkXvDkVeg"
+      }
+    ],
+    "create-time": 1611945991919,
+    "edit-time": 1611945991920,
+    "title": "Evergreen note titles are like APIs",
+    "uid": "bL-CXEVoh"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946001628,
+    "edit-time": 1611946001633,
+    "title": "    - Created by",
+    "uid": "bgxDzMRG8"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946001630,
+    "edit-time": 1611946001633,
+    "title": "    - Related",
+    "uid": "jOdC0B1za"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946310639,
+    "edit-time": 1611946310641,
+    "title": "articles",
+    "uid": "_3GBB_ekD"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946835022,
+    "edit-time": 1611946835037,
+    "title": "critical mass",
+    "uid": "bTJPC2ldU"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946871452,
+    "edit-time": 1611946871453,
+    "title": "personal zettelkasten",
+    "uid": "ySlZQMrmT"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "aP_uzqYDs"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946946481,
+    "edit-time": 1611946946483,
+    "refs": [
+      {
+        "uid": "aP_uzqYDs"
+      }
+    ],
+    "title": "[[interval]]:4.9",
+    "uid": "SPPw2Avn2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946946481,
+    "edit-time": 1611946946483,
+    "title": "interval",
+    "uid": "aP_uzqYDs"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "yjhjuFooy"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946946481,
+    "edit-time": 1611946946483,
+    "refs": [
+      {
+        "uid": "yjhjuFooy"
+      }
+    ],
+    "title": "[[factor]]:2.50",
+    "uid": "DFMYepLIc"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946946481,
+    "edit-time": 1611946946483,
+    "title": "factor",
+    "uid": "yjhjuFooy"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611946946481,
+    "edit-time": 1611946946483,
+    "title": "February 3rd, 2021",
+    "uid": "02-03-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "puYWab8Fa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "khGCfP8qM"
+              },
+              {
+                ":block/uid": "01-29-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611954575976,
+            "refs": [
+              {
+                "uid": "khGCfP8qM"
+              },
+              {
+                "uid": "01-29-2021"
+              }
+            ],
+            "string": "Date Created:: [[January 29th, 2021]]",
+            "uid": "5av9DHj4m"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "aDlFFSRPv"
+              },
+              {
+                ":block/uid": "bgxDzMRG8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611947044195,
+            "refs": [
+              {
+                "uid": "aDlFFSRPv"
+              },
+              {
+                "uid": "bgxDzMRG8"
+              }
+            ],
+            "string": "Created by:: [[Brandon Toner]]",
+            "uid": "qFMqIeXnn"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ZFyIOvSbA"
+              },
+              {
+                ":block/uid": "rUKtZGHJW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611954589666,
+            "refs": [
+              {
+                "uid": "ZFyIOvSbA"
+              },
+              {
+                "uid": "rUKtZGHJW"
+              }
+            ],
+            "string": "Author:: [[Andy Matuschak]]",
+            "uid": "TKCj1Ixeo"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Y04H9ccUw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611947064980,
+            "refs": [
+              {
+                "uid": "Y04H9ccUw"
+              }
+            ],
+            "string": "URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)",
+            "uid": "g_2DNXwbx"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "BegIC9Bzs"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611954603712,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "BegIC9Bzs"
+              }
+            ],
+            "string": "References:: #not_populated ((Supporting fleeting notes or literature notes would go here))",
+            "uid": "Yf3-1DLAE"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "zLYI6zAGT"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bL-CXEVoh"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611947161686,
+                "edit-time": 1611947166932,
+                "refs": [
+                  {
+                    "uid": "bL-CXEVoh"
+                  }
+                ],
+                "string": "[[Evergreen note titles are like APIs]]",
+                "uid": "ePGwM3uJi"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "YoAYXGbx5"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611947115499,
+                "edit-time": 1611947125940,
+                "refs": [
+                  {
+                    "uid": "YoAYXGbx5"
+                  }
+                ],
+                "string": "((YoAYXGbx5))",
+                "uid": "Sax2fd0EG"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "wcMRwTpkY"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611947125934,
+                "edit-time": 1611947143665,
+                "refs": [
+                  {
+                    "uid": "wcMRwTpkY"
+                  }
+                ],
+                "string": "((wcMRwTpkY))",
+                "uid": "cFnEWCMgT"
+              }
+            ],
+            "create-time": 1611947044175,
+            "edit-time": 1611947114450,
+            "refs": [
+              {
+                "uid": "zLYI6zAGT"
+              }
+            ],
+            "string": "Related::  ((Not a reference, but a related idea, block or page))",
+            "uid": "UEeCx0V9T"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "HPSSk6k0E"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947044175,
+            "edit-time": 1611954616728,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "HPSSk6k0E"
+              }
+            ],
+            "string": "Notes:: #not_populated",
+            "uid": "w1QtD9FKJ"
+          }
+        ],
+        "create-time": 1611947044175,
+        "edit-time": 1611954542266,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "puYWab8Fa"
+          }
+        ],
+        "string": "Tags:: #[[Evergreen Notes]]",
+        "uid": "G9iFd2B-n"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947100867,
+        "string": "When writing\u00a0[Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C), I\u2019ve found that using complete phrases as note titles helps maintain concept-orientation ([Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). For example:\u00a0[Educational objectives often subvert themselves](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J),\u00a0[Evergreen notes permit smooth incremental progress in writing (\u201cincremental writing\u201d)](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97).",
+        "uid": "-9v32MX42"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947100867,
+        "string": "These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body. If I write a note but struggle to summarize it in a sharp title, that\u2019s often a sign that my thinking is muddy or that this note is about several topics (contra\u00a0[Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)). In both cases, the solution is to break the ideas down and write about the bits I understand best first.",
+        "uid": "IAhxKA8vz"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947100867,
+        "string": "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes.",
+        "uid": "Hn26UYdKn"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "edit-time": 1611947100867,
+            "string": "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples:\u00a0[Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS),\u00a0[Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH),\u00a0[Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)",
+            "uid": "YHvPsePay"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "edit-time": 1611947100867,
+            "string": "Outline notes (see\u00a0[Create speculative outlines while you write](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)) like\u00a0[\u00a7Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)",
+            "uid": "2wfTfQx70"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "edit-time": 1611947100867,
+            "string": "For more, see\u00a0[Taxonomy of note types](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)",
+            "uid": "37WouEThq"
+          }
+        ],
+        "edit-time": 1611947100867,
+        "string": "A few common exceptions to this policy:",
+        "uid": "HuYfatW7v"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947100867,
+        "string": "I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it\u2019s written. When a note suggests a strong title with a clear claim, that\u2019s a good sign that it\u2019s starting to make sense. Related:\u00a0[Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)",
+        "uid": "A5bmI-AIt"
+      }
+    ],
+    "create-time": 1611947018887,
+    "edit-time": 1611947018888,
+    "title": "Prefer note titles with complete phrases to sharpen claims",
+    "uid": "JR9ZR5V0R"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "puYWab8Fa"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "khGCfP8qM"
+              },
+              {
+                ":block/uid": "01-29-2021"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611954575976,
+            "refs": [
+              {
+                "uid": "khGCfP8qM"
+              },
+              {
+                "uid": "01-29-2021"
+              }
+            ],
+            "string": "Date Created:: [[January 29th, 2021]]",
+            "uid": "PDGduFn5w"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "aDlFFSRPv"
+              },
+              {
+                ":block/uid": "bgxDzMRG8"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611947534638,
+            "refs": [
+              {
+                "uid": "aDlFFSRPv"
+              },
+              {
+                "uid": "bgxDzMRG8"
+              }
+            ],
+            "string": "Created by:: [[Brandon Toner]]",
+            "uid": "35Mqw2yH2"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ZFyIOvSbA"
+              },
+              {
+                ":block/uid": "rUKtZGHJW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611954589666,
+            "refs": [
+              {
+                "uid": "ZFyIOvSbA"
+              },
+              {
+                "uid": "rUKtZGHJW"
+              }
+            ],
+            "string": "Author:: [[Andy Matuschak]]",
+            "uid": "5DNimdlzB"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Y04H9ccUw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611947545052,
+            "refs": [
+              {
+                "uid": "Y04H9ccUw"
+              }
+            ],
+            "string": "URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW&stackedNotes=z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)",
+            "uid": "kxz8IVe3Q"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "BegIC9Bzs"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611954603712,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "BegIC9Bzs"
+              }
+            ],
+            "string": "References:: #not_populated ((Supporting fleeting notes or literature notes would go here))",
+            "uid": "PQl2j20rG"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "jOdC0B1za"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611947534638,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "jOdC0B1za"
+              }
+            ],
+            "string": "Related:: #not_populated ((Not a reference, but a related idea, block or page))",
+            "uid": "AmPM64naC"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "HPSSk6k0E"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611947534633,
+            "edit-time": 1611954616728,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "HPSSk6k0E"
+              }
+            ],
+            "string": "Notes:: #not_populated",
+            "uid": "1MADhVR2u"
+          }
+        ],
+        "create-time": 1611947534633,
+        "edit-time": 1611954542266,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "puYWab8Fa"
+          }
+        ],
+        "string": "Tags:: #[[Evergreen Notes]]",
+        "uid": "D7vOh5r4i"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947574509,
+        "string": "It\u2019s best to create notes which are only about one thing\u2014but which, as much as possible, capture the entirety of that thing.",
+        "uid": "8e5omtgOg"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947574509,
+        "string": "This way, it\u2019s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you\u2019ll also fragment your link network, which may make it harder to see certain connections.\u00a0[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)",
+        "uid": "zh28MQdYK"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947574509,
+        "string": "There\u2019s no clear litmus test or correct answer here\u2014just a bunch of tradeoffs.",
+        "uid": "FzhQyItFF"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "edit-time": 1611947574509,
+        "string": "The notion is quite similar to the software engineering principle of\u00a0__separation of concerns,__\u00a0which suggests that modules should only be \u201cabout\u201d one thing, so that they\u2019re more easily reusable. But likewise, if you fragment modules too much, you\u2019ll have a cohesion problem. In this way,\u00a0[Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C).",
+        "uid": "P1CaaQZty"
+      }
+    ],
+    "create-time": 1611947525730,
+    "edit-time": 1611947525731,
+    "title": "Evergreen notes should be atomic",
+    "uid": "YHmvhLnzl"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611947654858,
+    "edit-time": 1611947654875,
+    "title": "narratives",
+    "uid": "nA2kM5IhV"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611949159146,
+    "edit-time": 1611949159147,
+    "title": "Andy's Notes",
+    "uid": "rs3AjD3RB"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611951233378,
+    "edit-time": 1611951233395,
+    "title": "Wish List",
+    "uid": "BOcz1TIiJ"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611951365680,
+    "edit-time": 1611951365700,
+    "title": "second-degree connections",
+    "uid": "NIi49JSqi"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611953609729,
+    "edit-time": 1611953609744,
+    "title": "reputation system",
+    "uid": "idA0cqbAH"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611954100765,
+    "edit-time": 1611954100782,
+    "title": "choice",
+    "uid": "JQId74nTN"
   }
 ]

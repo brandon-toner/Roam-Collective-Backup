@@ -3,3 +3,12 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- Here, I’m introducing the idea that the [collaborative zettelkasten](<collaborative zettelkasten.md>)
+
+- In addition, in a [collaborative zettelkasten](<collaborative zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) In a [collaborative zettelkasten](<collaborative zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [collaborative zettelkastens]([collaborative zettelkasten](<collaborative zettelkasten.md>))
+

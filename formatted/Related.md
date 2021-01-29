@@ -26,8 +26,16 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
     - **[Related](<Related.md>):**
 
-## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting notes (FN, LN, EN, or other) would go here))
     - **[Related](<Related.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
@@ -54,14 +62,17 @@
 - this model maybe [Related](<Related.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+                    - **[Related](<Related.md>):**
+
+- "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
+                        - **[Related](<Related.md>):**
+
 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
                     - **[Related](<Related.md>):**
 
 - What should the [top section](((skozg-bg0))) be called officially? 
                 - **[Related](<Related.md>):**
-
-- "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-            - **[Related](<Related.md>):**
 
 - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):**
@@ -72,6 +83,10 @@
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
+
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Date Created](<Date Created.md>):** [January 26th, 2021](<January 26th, 2021.md>)
@@ -138,5 +153,8 @@
 - **[Related](<Related.md>):**
 
 ## [roam/templates](<roam/templates.md>)
+- **[Related](<Related.md>):**
+
+## [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
 

@@ -6,16 +6,75 @@
     - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Open Questions]])[*]([[Roam Games]])"
 - #[[The Main Feed]]
     - 11:43 — Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes 
-- #[[Daily Log Book]]
-    - 11:19 — Glitchy CSS/data loss again. #[[Bug Reports]]
-        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+    - Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [[DNP Modules]] as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([[Beyond the Basics]])
+        - {{[[embed]]: ((WcKOd06rp))}}
+        - This passage also demonstrates the use of the [[Roam42]] shortcuts for copying block references and "copy as alias"
+            - 
+    - [[Kahlil Corazo]] is putting out some great tweet threads related to the [[Roam Games]]. Check [this](((JUvpVJe0-))) out.
+    - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
 - #Chat ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
 Thoughts? - [[Brandon Toner]]
+    2. [[@[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources"
+- #[[Daily Log Book]]
+    - 11:19 — Glitchy CSS/data loss again. #[[Bug Reports]]
+        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+    - "15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)"
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]]
+        - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
+            - Here, I’m introducing the idea that the [[collaborative zettelkasten]] is the key to carrying mature ideas forward through time.
+
+This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [[resurfacing]] methods.
+                - #[[Fleeting Notes]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].
+                    - Related:: "How do you navigate the problem of "missed content"?"
+        - #[[Open Questions]] When does a question mature into a [zettel question]([[zettel questions]]).
+            - Maturity = page creation with page template similar to that of [[evergreen notes]].
+        - [[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources
+            - URL:: https://twitter.com/roamfu/status/1355186036884664323?s=21 
+                - {{[[TODO]]}} Create literature notes based on this thread. #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
+        - Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)
+            - [[Create speculative outlines while you write]]
+            - [[Evergreen notes should be concept-oriented]]
+            - [[Evergreen note titles are like APIs]]
+            - [[Prefer note titles with complete phrases to sharpen claims]]
+            - [[Evergreen notes should be atomic]]
+            - #[[Literature Notes]]
+                - [[Create speculative outlines while you write]]
+                    - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
+                        - Related:: [[Start from abundance]]
+                - [[Evergreen notes should be concept-oriented]]
+                    - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
+                        - In Roam, both can be accomplished by tagging with [[attributes]]
+                    - "Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously? [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)" [*](((9r0a4tGiM)))
+                        - #[[Fleeting Notes]]  A [[zettelkasten]] empowers a conversation between [[atomic ideas]]. By facilitating proximity and a means of flagging [[tensions]].
+                - [[Evergreen note titles are like APIs]]
+                    - "When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle" [*](((w2AwpCjU6))) #Bookmarks
+                        - This is an important point, and should be a central convention for page naming of [[evergreen notes]] #Conventions
+                - [[Prefer note titles with complete phrases to sharpen claims]]
+                    - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."
+                - [[Evergreen notes should be atomic]]
+                    - "This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)"
+                        - #[[Fleeting Notes]] [Atomic ideas]([[atomic ideas]]) are easier to connect than complex [[narratives]]. #articles
+            - #[[The Zettelkasten]]
+                - #[[Fleeting Notes]] personal authorship of [[evergreen notes]] is overrated.
+                    - As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. 
+                        - In addition, in a [[collaborative zettelkasten]] there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.
+                - #[[Fleeting Notes]] In a [[collaborative zettelkasten]] you could actually take [[literature notes]] on [[evergreen notes]] written my others.
+                - #[[Open Questions]]
+                    - What is the dividing line between an [evergreen note]([[evergreen notes]]) and an [article]([[articles]])?
+                        - I consider this as I add some of [[Andy Matuschak]]'s notes to the EN library in the graph. I consider these ENs rather than articles. 
+                        - My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
+        - #[[Wish List]] #Ideas
+            - I would love to be able to have complex queries for:
+                - ENs written by members of the graph ((i.e. exclude external authors like Andy M))
+                    - ENs NOT written by members of the graph
+            - #Comments
+                - "members of the graph" [*](((dYIpKh0sF)))
+                    - This would require [[second-degree connections]]. I.e. `#People` who are also `#Members`
+                        - #[[Open Questions]] How could [[second-degree connections]] be facilitated?
         - #Problems
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
                 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([[false-positive]] for user-responses.)
@@ -32,15 +91,13 @@ Thoughts? - [[Brandon Toner]]
                 - Related:: [[DNP Section]]
         - Just remembered a [[Roam Book Club]] convention that I liked — [the central chat.](((ZlhKC6b2i))) 
             - So I added a Chat tag to the top section.
-        - Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)
-            - [[Create speculative outlines while you write]]
-            - [[Evergreen notes should be concept-oriented]]
-            - 
     - #[[Change Log]]
         - Changed naming of the universal DNP template.
             - ".rcDNP Template (rc) #42SmartBlock #roam/templates"
         - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
-    - #[[Next Steps]] #not_populated
+        - 15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)
+    - #[[Next Steps]] 
+        - {{[[TODO]]}} Add the [[choice]] template convention. 
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten
             - Agreement Rating:: {{[[slider]]}}
@@ -48,6 +105,7 @@ Thoughts? - [[Brandon Toner]]
 
 Thoughts? - [[Brandon Toner]]"
             - I'm not sure I agree with this, but I sort of do. 
+        - #[[Fleeting Notes]] [collaborative zettelkastens]([[collaborative zettelkasten]]) reach [[critical mass]] faster than [personal zettelkastens]([[personal zettelkasten]]) #zettelkasten
     - #Promptstorming #not_populated
     - #Comments
         - "[[~[[Brandon Toner]]]] what do you think about: "Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions""
@@ -80,8 +138,28 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
             - Thought a bit about this [here](((iUKkXeJbA)))
                 - Barrier to this approach is [notification management](((Ae1spW6Uo)))
             - Better solution I think is [top-section Chat](((ZlhKC6b2i))). [[~[[Mark Robertson]]]]
-        - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-            - Related:: [[Start from abundance]]
+        - "Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[~[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. "
+            - My current conceptualization is to return to the level beneath the comments tag with each reply — like in this message.
+            - It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.
+            - I agree with "Again, organic development is probably best here, and remain flexible. " [*](((H0r4ht151)))
+        - "You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]]."
+            - Yup, I agree. I think the drilling down could be conducted on the [[active vs passive resurfacing]] page itself. With more elaboration, and reference to some specific claims. [[@[[leekeifon]]]]
+            - Drawing some justification from this part of [[Andy's Notes]]:
+                - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
+                - I would consider [[active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
+        - [[@[[leekeifon]]]] You're playing with some fascinating ideas! Love it. 
+            - How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]].
+            - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?
+            - Would love to see you mature some of these ideas as [[fleeting notes]]. I bet they would blend well within the [[zettelkasten]]. [[@[[leekeifon]]]]
+                - Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.
+                - Happy to support if you have questions about how.
+            - How might a [[reputation system]][*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [[Roles]], but I'm not sure the best approaches yet. 
+            - Interested to hear more about logic and [[truth]]-seeking. [*](((H6M1XTGet)))
+            - Could you elaborate on [this](((iMm8lcvmd)))? [[@[[leekeifon]]]]
+                - I think this may relate to the formation of [[evergreen notes]]. Yes?
+            - "Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg)))."
+                - [This](((UDqsAeKJg))) chat plugin idea is cool too! 
+            - In general, I think the #Ideas and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. 
     - #Feedback  #not_populated
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
@@ -127,5 +205,8 @@ Thoughts? - [[Brandon Toner]]"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Comments
         - "Definitely open to re-evaluating this over time. "
-            - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[@[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. 
+            - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[~[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. 
             - 
+- #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
+    - "Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [[DNP Modules]] as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([[Beyond the Basics]])"
+    - 

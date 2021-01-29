@@ -39,6 +39,12 @@
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -144,6 +150,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
 
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -175,4 +184,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [graph editors](<graph editors.md>)
 - Message [Brandon Toner](<Brandon Toner.md>)
+
+## [zettelkasten](<zettelkasten.md>)
+- View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>))
 

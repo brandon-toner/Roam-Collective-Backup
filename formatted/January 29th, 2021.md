@@ -6,16 +6,75 @@
     - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))"
 - #[The Main Feed](<The Main Feed.md>)
     - 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>). - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) [Processes](<Processes.md>) 
-- #[Daily Log Book](<Daily Log Book.md>)
-    - 11:19 — Glitchy CSS/data loss again. #[Bug Reports](<Bug Reports.md>)
-        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+    - Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>) as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([Beyond the Basics](<Beyond the Basics.md>))
+        - {{[embed](<embed.md>): ((WcKOd06rp))}}
+        - This passage also demonstrates the use of the [Roam42](<Roam42.md>) shortcuts for copying block references and "copy as alias"
+            - 
+    - [Kahlil Corazo](<Kahlil Corazo.md>) is putting out some great tweet threads related to the [Roam Games](<Roam Games.md>). Check [this](((JUvpVJe0-))) out.
+    - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
 - [Chat](<Chat.md>) ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)
+    2. [@[[Charles Farr](<@[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)"
+- #[Daily Log Book](<Daily Log Book.md>)
+    - 11:19 — Glitchy CSS/data loss again. #[Bug Reports](<Bug Reports.md>)
+        - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
+    - "15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
+        - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
+            - Here, I’m introducing the idea that the [collaborative zettelkasten](<collaborative zettelkasten.md>) is the key to carrying mature ideas forward through time.
+
+This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [resurfacing](<resurfacing.md>) methods.
+                - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+                    - **[Related](<Related.md>):** "How do you navigate the problem of "missed content"?"
+        - #[Open Questions](<Open Questions.md>) When does a question mature into a [zettel question]([zettel questions](<zettel questions.md>)).
+            - Maturity = page creation with page template similar to that of [evergreen notes](<evergreen notes.md>).
+        - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
+            - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1355186036884664323?s=21 
+                - [ ] Create literature notes based on this thread. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
+        - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
+            - [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
+            - [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+            - [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+            - [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+            - [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+            - #[Literature Notes](<Literature Notes.md>)
+                - [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
+                    - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
+                        - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
+                - [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+                    - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
+                        - In Roam, both can be accomplished by tagging with [attributes](<attributes.md>)
+                    - "Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously? [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)" [*](((9r0a4tGiM)))
+                        - #[Fleeting Notes](<Fleeting Notes.md>)  A [zettelkasten](<zettelkasten.md>) empowers a conversation between [atomic ideas](<atomic ideas.md>). By facilitating proximity and a means of flagging [tensions](<tensions.md>).
+                - [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+                    - "When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle" [*](((w2AwpCjU6))) [Bookmarks](<Bookmarks.md>)
+                        - This is an important point, and should be a central convention for page naming of [evergreen notes](<evergreen notes.md>) [Conventions](<Conventions.md>)
+                - [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+                    - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."
+                - [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+                    - "This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)"
+                        - #[Fleeting Notes](<Fleeting Notes.md>) [Atomic ideas]([atomic ideas](<atomic ideas.md>)) are easier to connect than complex [narratives](<narratives.md>). [articles](<articles.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>)
+                - #[Fleeting Notes](<Fleeting Notes.md>) personal authorship of [evergreen notes](<evergreen notes.md>) is overrated.
+                    - As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. 
+                        - In addition, in a [collaborative zettelkasten](<collaborative zettelkasten.md>) there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.
+                - #[Fleeting Notes](<Fleeting Notes.md>) In a [collaborative zettelkasten](<collaborative zettelkasten.md>) you could actually take [literature notes](<literature notes.md>) on [evergreen notes](<evergreen notes.md>) written my others.
+                - #[Open Questions](<Open Questions.md>)
+                    - What is the dividing line between an [evergreen note]([evergreen notes](<evergreen notes.md>)) and an [article]([articles](<articles.md>))?
+                        - I consider this as I add some of [Andy Matuschak](<Andy Matuschak.md>)'s notes to the EN library in the graph. I consider these ENs rather than articles. 
+                        - My justification is that Andy's notes are [atomic](<atomic.md>). If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
+        - #[Wish List](<Wish List.md>) [Ideas](<Ideas.md>)
+            - I would love to be able to have complex queries for:
+                - ENs written by members of the graph ((i.e. exclude external authors like Andy M))
+                    - ENs NOT written by members of the graph
+            - [Comments](<Comments.md>)
+                - "members of the graph" [*](((dYIpKh0sF)))
+                    - This would require [second-degree connections](<second-degree connections.md>). I.e. `[People](<People.md>)` who are also `[Members](<Members.md>)`
+                        - #[Open Questions](<Open Questions.md>) How could [second-degree connections](<second-degree connections.md>) be facilitated?
         - [Problems](<Problems.md>)
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
                 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
@@ -32,15 +91,13 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                 - **[Related](<Related.md>):** [DNP Section](<DNP Section.md>)
         - Just remembered a [Roam Book Club](<Roam Book Club.md>) convention that I liked — [the central chat.](((ZlhKC6b2i))) 
             - So I added a Chat tag to the top section.
-        - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
-            - [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
-            - [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
-            - 
     - #[Change Log](<Change Log.md>)
         - Changed naming of the universal DNP template.
             - ".rcDNP Template (rc) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
         - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
-    - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
+        - 15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)
+    - #[Next Steps](<Next Steps.md>) 
+        - [ ] Add the [choice](<choice.md>) template convention. 
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
             - **[Agreement Rating](<Agreement Rating.md>):** {{[slider](<slider.md>)}}
@@ -48,6 +105,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - I'm not sure I agree with this, but I sort of do. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative zettelkastens]([collaborative zettelkasten](<collaborative zettelkasten.md>)) reach [critical mass](<critical mass.md>) faster than [personal zettelkastens]([personal zettelkasten](<personal zettelkasten.md>)) [zettelkasten](<zettelkasten.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - [Comments](<Comments.md>)
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)""
@@ -80,8 +138,28 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - Thought a bit about this [here](((iUKkXeJbA)))
                 - Barrier to this approach is [notification management](((Ae1spW6Uo)))
             - Better solution I think is [top-section Chat](((ZlhKC6b2i))). [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
-        - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-            - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
+        - "Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. Again, organic development is probably best here, and remain flexible. "
+            - My current conceptualization is to return to the level beneath the comments tag with each reply — like in this message.
+            - It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.
+            - I agree with "Again, organic development is probably best here, and remain flexible. " [*](((H0r4ht151)))
+        - "You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>)."
+            - Yup, I agree. I think the drilling down could be conducted on the [active vs passive resurfacing](<active vs passive resurfacing.md>) page itself. With more elaboration, and reference to some specific claims. [@[[leekeifon](<@[[leekeifon.md>)]]
+            - Drawing some justification from this part of [Andy's Notes](<Andy's Notes.md>):
+                - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
+                - I would consider [active vs passive resurfacing](<active vs passive resurfacing.md>) related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
+        - [@[[leekeifon](<@[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. 
+            - How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>).
+            - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
+            - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>). [@[[leekeifon](<@[[leekeifon.md>)]]
+                - Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.
+                - Happy to support if you have questions about how.
+            - How might a [reputation system](<reputation system.md>)[*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [Roles](<Roles.md>), but I'm not sure the best approaches yet. 
+            - Interested to hear more about logic and [truth](<truth.md>)-seeking. [*](((H6M1XTGet)))
+            - Could you elaborate on [this](((iMm8lcvmd)))? [@[[leekeifon](<@[[leekeifon.md>)]]
+                - I think this may relate to the formation of [evergreen notes](<evergreen notes.md>). Yes?
+            - "Good css is not enough, good application is a better way to embed the [conventions](<conventions.md>) that we suggested, take this idea as an [example](((UDqsAeKJg)))."
+                - [This](((UDqsAeKJg))) chat plugin idea is cool too! 
+            - In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
@@ -127,14 +205,26 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Comments](<Comments.md>)
         - "Definitely open to re-evaluating this over time. "
-            - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]. Again, organic development is probably best here, and remain flexible. 
+            - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. Again, organic development is probably best here, and remain flexible. 
             - 
+- #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
+    - "Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>) as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([Beyond the Basics](<Beyond the Basics.md>))"
+    - 
 
 # Backlinks
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
 
+## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
 
 ## [active vs passive resurfacing](<active vs passive resurfacing.md>)

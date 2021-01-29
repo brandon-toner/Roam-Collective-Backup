@@ -64,5 +64,9 @@
 - "A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>) by Bookmarks, or any other of the [DNP Modules](<DNP Modules.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
+
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
+
+- "Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
 

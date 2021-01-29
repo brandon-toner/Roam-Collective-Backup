@@ -5,3 +5,6 @@
 
 - These are core concept summaries. They are **the author's ideas** phrased **in my own words**. They should be [concise](<concise.md>) and [atomic](<atomic.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- My justification is that Andy's notes are [atomic](<atomic.md>).
+

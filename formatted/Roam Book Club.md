@@ -17,3 +17,5 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Just remembered a [Roam Book Club](<Roam Book Club.md>)
 
+- What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
+

@@ -59,6 +59,12 @@
 
 - #[Open Questions](<Open Questions.md>)
 
+- #[Open Questions](<Open Questions.md>)
+
+- #[Open Questions](<Open Questions.md>)
+
+- #[Open Questions](<Open Questions.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[Open Questions](<Open Questions.md>)
 
@@ -78,4 +84,7 @@
 
 ## [roam/css](<roam/css.md>)
 - `#[Open Questions](<Open Questions.md>)
+
+## [zettelkasten](<zettelkasten.md>)
+- #[Open Questions](<Open Questions.md>)
 

@@ -1,3 +1,4 @@
+- Related:: [[The Zettelkasten]]
 - Overview::
     - Components::
         - [[reference notes]]
@@ -8,3 +9,17 @@
         - [[evergreen notes]]
         - zettel questions = [[open questions]] in this graph it seems
         - [[context questions]]
+    - **Official Conventions:**
+        - Notes:
+            - #[[Fleeting Notes]]
+            - #[[Literature Notes]]
+            - #[[Evergreen Notes]]
+            - #[[Reference Notes]]
+        - Questions:
+            - #[[Open Questions]]
+            - #[[Context Questions]]
+            - #[[Zettel Questions]]
+    - Comments::
+        - The question-related conventions are more [experimental]([[Experiments]])
+    - Tips::
+        - View the linked references filtered by [my name]([[Brandon Toner]]) get a sense of the conventions in action.

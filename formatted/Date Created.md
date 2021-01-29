@@ -4,7 +4,19 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):**
 

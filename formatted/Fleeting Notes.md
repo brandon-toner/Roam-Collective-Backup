@@ -131,10 +131,28 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [zettelkasten](<zettelkasten.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 

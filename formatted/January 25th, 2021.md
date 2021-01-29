@@ -1,7 +1,10 @@
 - [Announcements](<Announcements.md>) **READ THIS**
     - 
-    - [Mark Robertson](<Mark Robertson.md>) On working together, rather than "shouting as you run by"
-    - **The graph is periodically unstable — if things look odd, there might be sync stuff going on**
+    - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
+        - Missing/misplaced blocks
+        - Missing CSS
+        - Announcements section looks weird
+        - Unable to add blocks in some places
     - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
     - **[Objectives](<Objectives.md>):** 
         - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
@@ -11,9 +14,10 @@
         - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
         - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[Fleeting Notes](<Fleeting Notes.md>) linked references for some [atomic ideas](<atomic ideas.md>).
             - Reference them under a [Comments](<Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
-        - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
     - **Catching up on the action**
         - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
         - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
