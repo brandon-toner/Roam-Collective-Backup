@@ -1,2 +1,0 @@
-- Tags:: #Abbreviations
-- [[evergreen notes]]

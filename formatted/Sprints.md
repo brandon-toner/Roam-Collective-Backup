@@ -1,0 +1,2 @@
+- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
+- Team collaboration sprints. Aligned efforts to complete objectives.

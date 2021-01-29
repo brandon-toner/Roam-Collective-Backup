@@ -1,1 +1,0 @@
-- Scrap-paper, a place to write down your ideas.

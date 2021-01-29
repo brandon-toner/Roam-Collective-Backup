@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>)."
+- Potential of using [SmartBlocks](<SmartBlocks.md>) to curate a [newsfeed](<newsfeed.md>) at the top of the page each day... random blocks, etc.
         - **[Free Thoughts](<Free Thoughts.md>):**
 

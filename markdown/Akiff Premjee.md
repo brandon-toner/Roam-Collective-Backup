@@ -1,8 +1,0 @@
-- .DNP Template AP #42SmartBlock
-    - #[[My Daily Notes]] [[Akiff Premjee]] {{word-count}}
-        - #Scratchpad
-        - #[[Writing & Reflection]] #not_populated
-        - #[[The Zettelkasten]] #not_populated
-        - #Promptstorming #not_populated
-        - #Comments #not_populated
-        - #Feedback  #not_populated

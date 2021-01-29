@@ -1,6 +1,0 @@
-- Tags:: #[[Evergreen Notes]]
-    - Date Created:: [[January 27th, 2021]]
-    - Author:: [[David Perell]]
-    - References:: #not-populated
-    - Related:: #not-populated
-    - Notes:: #not-populated

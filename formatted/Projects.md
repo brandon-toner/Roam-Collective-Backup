@@ -1,9 +1,7 @@
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
-- To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>)). 
-- **[Projects](<Projects.md>):**
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Live call to discuss active [projects](<projects.md>),
 
-## [Roam-Collective](<Roam-Collective.md>)
-- [Projects](<Projects.md>)
+- [project management](<project management.md>) [Processes](<Processes.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) [*]([projects](<projects.md>))
 

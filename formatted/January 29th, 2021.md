@@ -1,0 +1,24 @@
+- {{embed: ((b9pQnEURN))}}
+- ---
+- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+    - "How should we handle graph instability?"
+    - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
+    - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))"
+- #[The Main Feed](<The Main Feed.md>)
+- #[Daily Log Book](<Daily Log Book.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - [Problems](<Problems.md>)
+            - When referencing a prompt into the DNP, it adds a reference to the prompt.
+                - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
+                    - **[Related](<Related.md>):** "I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)"
+        - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+            - [Filtering]([filtering](<filtering.md>)) in [block references](<block references.md>)
+    - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
+        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+        - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)

@@ -1,3 +1,0 @@
-- Ok, here's a breakdown of the types of questions:
-    - Open Questions:: More big picture, related to the domain we're trying to navigate
-    - Context Questions:: Similar to open questions, but unable to stand-alone. Often placed in context as a response to something. More auto-socratic is utilization.

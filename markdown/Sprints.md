@@ -1,0 +1,2 @@
+- Tags:: #Glossary
+- Team collaboration sprints. Aligned efforts to complete objectives.

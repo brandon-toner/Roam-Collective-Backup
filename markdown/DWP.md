@@ -1,1 +1,0 @@
-- #Abbreviations — short for [[Daily Writing Prompts]]

@@ -1,0 +1,24 @@
+- {{embed: ((b9pQnEURN))}}
+- ---
+- #[[Daily Writing Prompts]]
+    - "How should we handle graph instability?"
+    - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
+    - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Open Questions]])[*]([[Roam Games]])"
+- #[[The Main Feed]]
+- #[[Daily Log Book]]
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #[[Scratchpad]]
+        - #Problems
+            - When referencing a prompt into the DNP, it adds a reference to the prompt.
+                - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([[false-positive]] for user-responses.)
+                    - Related:: "I just want [[one-way links]] so that I can do stuff like this without junking up the [[linked references]]: #[[Roam Enhancement Requests]]"
+        - #[[Roam Enhancement Requests]]
+            - [Filtering]([[filtering]]) in [[block references]]
+    - #Administration #not_populated
+        - #[[Change Log]] #not_populated
+        - #[[Next Steps]] #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Promptstorming #not_populated
+    - #Comments #not_populated
+    - #Feedback  #not_populated

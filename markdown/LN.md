@@ -1,2 +1,0 @@
-- Tags:: #Abbreviations
-- [[literature notes]]
