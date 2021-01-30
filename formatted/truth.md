@@ -11,7 +11,7 @@
 
 - Interested to hear more about logic and [truth](<truth.md>)-
 
-- #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>).
+- "#[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>).
 
 - #[Fleeting Notes](<Fleeting Notes.md>) objective [truth](<truth.md>)
 
@@ -20,6 +20,8 @@
 - Maybe, we could view page as [truth](<truth.md>),
 
 - Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>) database, one [Roam](<Roam.md>) community, where these [truth](<truth.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>).
 
 - One of my basic assumption is that, treat page as [truth](<truth.md>),
 

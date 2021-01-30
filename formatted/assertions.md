@@ -18,6 +18,8 @@
 
 - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>).
 
+- agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>).
+
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - "Less of an [assertion]([assertions](<assertions.md>))
 

@@ -47,6 +47,9 @@
 - [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
     - What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?
         - **[Related](<Related.md>):** "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
+- Graph Experience & [Feedback](<Feedback.md>)
+    - Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]]).
+    - Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])
 
 # Backlinks
 ## [Activities](<Activities.md>)
@@ -58,6 +61,9 @@
 5. "Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>)
 
 1. From the [Prompts](<Prompts.md>)
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- __Interested in writing about something else?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))
 
 ## [Promptstorming](<Promptstorming.md>)
 - See [Prompts](<Prompts.md>)

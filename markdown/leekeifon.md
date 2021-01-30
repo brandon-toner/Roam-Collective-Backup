@@ -8,4 +8,5 @@
 - Queries::
     - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
     - {{[[query]]: {and: [[@[[leekeifon]]]]}}}
+    - {{[[query]]: {and: [[cc:[[leekeifon]]]]}}}
     - {{[[query]]: {and: [[Scratchpad]] [[leekeifon]]}}}

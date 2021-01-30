@@ -20,3 +20,5 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
 
+- This allows an [editor](<editor.md>) to [Start from abundance](<Start from abundance.md>).
+

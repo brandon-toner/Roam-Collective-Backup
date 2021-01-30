@@ -18,6 +18,7 @@
     - [Wiel Zouantcha](<Wiel Zouantcha.md>)
     - [Winston Teng](<Winston Teng.md>)
     - [Zsolt Viczián](<Zsolt Viczián.md>)
+    - [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[Queries](<Queries.md>):**
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

@@ -18,6 +18,7 @@
     - [[Wiel Zouantcha]]
     - [[Winston Teng]]
     - [[Zsolt Viczián]]
+    - [[Siva Arunagiri]]
 - Queries::
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

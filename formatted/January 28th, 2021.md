@@ -196,7 +196,7 @@ Resolve by "[replace as text](<replace as text.md>)"
             - distinguish private feed and public feed.
                 - Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public.
         - Some **concept** on Roam collaboration comes up these days...
-            - Roam {X} protocol
+            - #[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol
                 - **For example**, Roam publish protocol, Roam communicate protocol
                 - **Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal 
             - Roam reputation system

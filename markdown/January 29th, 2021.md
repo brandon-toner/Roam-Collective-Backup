@@ -16,6 +16,7 @@
     - [[Kahlil Corazo]] is putting out some great tweet threads related to the [[Roam Games]]. Check [this](((JUvpVJe0-))) out.
     - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
     - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [[fleeting notes]] can be used to build an [[argument]] or [[claim]]. [[cc:[[leekeifon]]]], [[cc:[[Charles Farr]]]], [[cc:[[Mark Robertson]]]]
+    - "[[Stian Håklev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
 - #Chat ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([[active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
@@ -76,7 +77,7 @@ Thoughts? - [[Brandon Toner]]
                     - "This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)"
                         - #[[Fleeting Notes]] [Atomic ideas]([[atomic ideas]]) are easier to connect than complex [[narratives]]. #articles
             - #[[The Zettelkasten]]
-                - #[[Fleeting Notes]] personal authorship of [[evergreen notes]] is overrated.
+                - #[[Fleeting Notes]] personal [[authorship]] of [[evergreen notes]] is [[over-rated]]. #Bookmarks #Seedlings
                     - As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. 
                         - In addition, in a [[collaborative zettelkasten]] there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.
                 - #[[Fleeting Notes]] In a [[collaborative zettelkasten]] you could actually take [[literature notes]] on [[evergreen notes]] written my others.
@@ -86,7 +87,18 @@ Thoughts? - [[Brandon Toner]]
                         - My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
                 - #[[Fleeting Notes]] many interpretations of [[zettelkasten]] are too strict and rigid. 
                     - [[Andy's Notes]] serve as a great example of a system that has clear standards and conventions, but will consciously [colour outside the lines]([[It is ok to colour outside of the lines.]]) when it [makes sense](((HuYfatW7v))).
+                - #[[Fleeting Notes]] [[block references]] are a way to [[crowd-source]] contributions within a [[collaborative graph]]. #zettelkasten #Bookmarks #Seedlings
+                    - This allows groups of people to organize and work together to collectively create a unified product. 
+                    - #[[Fleeting Notes]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [[collaborative graph]]. #zettelkasten
+                        - This allows an [[editor]] to [[Start from abundance]]. 
+                        - Process:: #creativity #collaboration #[[creative projects]]
+                            1. Set [creative project]([[creative projects]]).
+                            2. Establish [[outline]].
+                            3. Encourage group members to [block reference]([[block referencing]]) aspects of the outline with their ideas.
+                            4. The [[project lead]] or graph [[editor]] reviews the contributions in the [[block references]] and uses them to develop their ideas and build out the full bodied [creative project]([[creative projects]])
     - #[[Scratchpad]]
+        - [[Stian Håklev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.
+            - Inter-graph transfer & sync is now possible.
         - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
             - Here, I’m introducing the idea that the [[collaborative zettelkasten]] is the key to carrying mature ideas forward through time.
 
@@ -175,7 +187,9 @@ I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)
 
 If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([[Roam Enhancement Requests]])
-        - "23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock" [[cc[[Charles Farr]]]] [[cc[[Matt Brockwell]]]] [[cc[[Beau Hann]]]]
+        - "23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock" [[cc:[[Charles Farr]]]] [[cc:[[Matt Brockwell]]]] [[cc:[[Beau Hann]]]]
+        - Check out [these thoughts](((bFs8wmzoq))) 
+            - [[cc:[[Charles Farr]]]], [[cc:[[Matt Brockwell]]]], [[cc:[[Joel Chan]]]]
     - #Comments
         - "[[~[[Brandon Toner]]]] what do you think about: "Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions""
             - Yup, really like this idea. cc: [[@[[Charles Farr]]]]
@@ -216,7 +230,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
             - Drawing some justification from this part of [[Andy's Notes]]:
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
                 - I would consider [[active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
-        - [[@[[leekeifon]]]] You're playing with some fascinating ideas! Love it. 
+        - [[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. 
             - How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]].
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?
             - Would love to see you mature some of these ideas as [[fleeting notes]]. I bet they would blend well within the [[zettelkasten]]. [[~[[leekeifon]]]]
@@ -224,7 +238,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
                 - Happy to support if you have questions about how.
             - How might a [[reputation system]][*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [[Roles]], but I'm not sure the best approaches yet. 
             - Interested to hear more about logic and [[truth]]-seeking. [*](((H6M1XTGet)))
-            - Could you elaborate on [this](((iMm8lcvmd)))? [[@[[leekeifon]]]]
+            - Could you elaborate on [this](((iMm8lcvmd)))? [[~[[leekeifon]]]]
                 - I think this may relate to the formation of [[evergreen notes]]. Yes?
             - "Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg)))."
                 - [This](((UDqsAeKJg))) chat plugin idea is cool too! 
@@ -240,7 +254,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
                 - {{[[TODO]]}} [[January 29th, 2021]] #Test
                 - {{[[TODO]]}} [[January 28th, 2021]] #Test
                 - #Waiting #Test
-        - "So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [[Roam-Collective]]. "
+        - "So, in fact, I wanna level up the concept "#[[Fleeting Notes]] Roam {X} protocol" to be a page in [[Roam-Collective]]. "
             - [[@[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]
                 - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
                     - Another option is using the [[choice algorithm]]
@@ -252,7 +266,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
             - The [[fleeting notes]] convention is a great way to promote ideas in a time-protected way, without levelling them up to page status.
                 - My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])
                 - Example::
-                    - #[[Fleeting Notes]] treat page as [[truth]]. - [[leekeifon]][*](((67MsLIbX6)))
+                    - "#[[Fleeting Notes]] treat page as [[truth]]. - [[leekeifon]][*](((67MsLIbX6)))"
                         - This, actually feels like it could be an [evergreen note]([[evergreen notes]]). Especially since it is an idea that you frequently reference.
                     - #[[Fleeting Notes]] objective [[truth]] is a high [[standard]].
                     - #[[Fleeting Notes]] perceived [[truth]] is dependant on [[axiomatic presuppositions]]. 
@@ -260,6 +274,12 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
                         - Felt truth = "small "t" truth"
                         - Objective truth = "capital "t" truth"
                     - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([[evergreen notes]]) based on [[felt [[truth]]]].[*](((ZZWmGCw0B))) [[cc:[[leekeifon]]]] [*]([[Bookmarks]])[*]([[page naming]])[*]([[zettelkasten]])
+        - "From a pure visual(css)’s perspective, is it a good idea to add another tag like `#.Fleeting Notes`, so that I could hide the the word content `Fleeting Notes`?  [[~[[Brandon Toner]]]]"
+            - I'm not sure I understand yet — could you elaborate? [[@[[leekeifon]]]]
+        - #[[Graph Mentorship]]
+            - "#[[Fleeting Notes]] public vs private "
+                - While making a [fleeting note]([[fleeting notes]]), it try to make sure that the note is self-sufficient in communicating its meaning. 
+                - In this example I might elaborate the note content a bit to make the idea more clear — and may nest some supportive information underneath. [[@[[leekeifon]]]]
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
         - The UI design [example](((lRBaD3yYL))) from [[Mark Robertson]] really show us the limitless possibility that what [[Roam]] UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [[Roam]].
@@ -282,7 +302,13 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
         - [Viewing page as truth](((H6M1XTGet))) is a concrete [[goals]] to make our [[communication]] [[converge]].
             - Example:: I think the following chat reveals the short process how I [[converge]] the [[communication]]. I set adding page as my goal and I tend to discuss the meaning, reason and benefit of it.
                 - {{[[embed]]: (((9O_gyfTu7)))}}
+        - #[[Fleeting Notes]] public vs private 
         - Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg))).
+        - #[[Fleeting Notes]] treat page as [[truth]]. - [[leekeifon]][*](((67MsLIbX6)))
+        - So, the idea [here](((Fvi-lhrAe))) is similar to using `#Fleeting Notes` in [[Roam-Collective]], and I will take this conventions.
+    - #[[Help Wanted]]
+        - Getting lost when replying to different messages. Don’t know where to go back...
+        - Have the friction on not knowing how to backup the information in chat.
     - #[[Chat]]
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]
         - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[@[[Brandon Toner]]]]
@@ -294,14 +320,14 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
 Thoughts? - [[Brandon Toner]]"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]].
                 - **Effec**t: By breaking them into smaller distinctions, we may get a more clear sense on how you define these terms.
-        - reply to "[[@[[leekeifon]]]] You're playing with some fascinating ideas! Love it. "
+        - reply to "[[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. "
             - "How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]]."
                 - These two concepts should have almost the same meaning. Maybe the key point should be another concept that I mentioned when I talk about global public feed, that’s **Roam publish protocol**.
                     - The Roam publish protocol is good, for the following reasons...
                         - it can automate the **in time update property** of a feed through query mechanism, without needing Roamans jumping back and forth to publish their ideas.
                         - It introduce the idea **protocol**, which is itself a mature and basic concept in the computer network communication. We could dig out more ideas on [[communication]] through this ‘window’.
                 - Another small difference is that they use different words, sounds weird... But the key word here is **public**. I wanna highlight the idea of public and private as mentioned [here](((j50xmn4aN))).
-                - So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [[Roam-Collective]]. 
+                - So, in fact, I wanna level up the concept "#[[Fleeting Notes]] Roam {X} protocol" to be a page in [[Roam-Collective]]. 
                     - But as I mentioned [here](((67MsLIbX6))), page as a resource in database, they should be voted before really adding them into the database. So, I would like to discuss more with the whole community, before we deprecate this idea or level it up or just let it sitting there till it’s mature to become a page or being replaced with better language.
                     - maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?
             - "What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?"
@@ -321,7 +347,24 @@ Thoughts? - [[Brandon Toner]]"
                     - Of course, this metric may be too dull, we may need more roads to help Roamans to get their reputation. 
                         - Example:: Seems that reputation system in stackoverflow works well for a long time. They ask by paying reputation and answer to get reputation.
                 - And this is [one main reason](((67MsLIbX6))) why I restrict myself adding new pages.
-            - 
+        - From a pure visual(css)’s perspective, is it a good idea to add another tag like `#.Fleeting Notes`, so that I could hide the the word content `Fleeting Notes`?  [[~[[Brandon Toner]]]]
+        - I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[@[[Brandon Toner]]]]
+            - [[felt [[truth]]]] is hypothesis.
+                - agree with current setting: "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten"
+            - [[felt [[truth]]]] can be created by community members freely.
+            - [[felt [[truth]]]] will not be deleted, but it could be deprecated.
+            - [[objective [[truth]]]] may not be truth in real world.
+            - [[objective [[truth]]]] is a result from [[axiomatic presuppositions]] and logical infernce.
+            - [[axiomatic presuppositions]] is itself [[objective [[truth]]]] within that database.
+            - [[axiomatic presuppositions]] can be achieved by consensus of the community.
+                - Example:: We (may) all agree that logical inference is the methodology on achieving [[objective [[truth]]]], so we set it as [[axiomatic presuppositions]].
+                - Example:: conclusions based on [[Experiments]] result can be candidates for us to achieve consensus.
+        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[Fleeting Notes]] Roam {X} protocol" when communicating concept. [[@[[Brandon Toner]]]]
+            - attributes and tendency
+            - parts and whole
+            - similarity and difference
+            - cause and effect
+            - significance and implications
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated

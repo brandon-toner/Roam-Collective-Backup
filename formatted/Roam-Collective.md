@@ -32,9 +32,16 @@
 - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>).
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+- "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
 
-- So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+- So, the idea [here](((Fvi-lhrAe))) is similar to using `[Fleeting](<Fleeting.md>) Notes` in [Roam-Collective](<Roam-Collective.md>),
+
+- So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "Describe your experience in [Roam-Collective](<Roam-Collective.md>)
+
+- "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
@@ -43,6 +50,10 @@
 - What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)?
 
 - What is the best way to help someone get comfortable in [Roam-Collective](<Roam-Collective.md>)?
+
+- Describe your experience in [Roam-Collective](<Roam-Collective.md>)
+
+- Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!

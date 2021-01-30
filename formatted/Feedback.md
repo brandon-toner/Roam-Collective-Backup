@@ -14,6 +14,9 @@
 
 - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)`
 
+## [Prompts](<Prompts.md>)
+- Graph Experience & [Feedback](<Feedback.md>)
+
 ## [Requests for Feedback](<Requests for Feedback.md>)
 - **[Related](<Related.md>):** [Feedback](<Feedback.md>)
 

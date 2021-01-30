@@ -161,6 +161,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
 

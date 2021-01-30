@@ -47,3 +47,6 @@
 - [[Roam Collaboration Guide]]
     - What sections should be included in a [[Roam Collaboration Guide]]? What might chapters would need to be included? What questions should the guide answer?
         - Related:: "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
+- Graph Experience & [[Feedback]]
+    - Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]]).
+    - Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])

@@ -60,6 +60,12 @@
 - Of course, this metric may be too dull, we may need more roads to help Roamans to get their reputation. 
                         - **[Example](<Example.md>):**
 
+- [axiomatic presuppositions](<axiomatic presuppositions.md>) can be achieved by consensus of the community.
+                - **[Example](<Example.md>):**
+
+- **[Example](<Example.md>):** We (may) all agree that logical inference is the methodology on achieving [objective [[truth](<objective [[truth.md>)]], so we set it as [axiomatic presuppositions](<axiomatic presuppositions.md>).
+                - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
     - **[Example](<Example.md>):**

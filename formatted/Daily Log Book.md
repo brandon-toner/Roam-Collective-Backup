@@ -21,6 +21,9 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[Daily Log Book](<Daily Log Book.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[Daily Log Book](<Daily Log Book.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 6. Use the [Daily Log Book](<Daily Log Book.md>)
 

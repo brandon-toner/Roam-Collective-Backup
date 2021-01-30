@@ -36,6 +36,10 @@
 - **[Work](<Work.md>):** [retired](<retired.md>)
     - **[How to contact me](<How to contact me.md>):**
 
+## [Siva Arunagiri](<Siva Arunagiri.md>)
+- **[Work](<Work.md>):** [Educator](<Educator.md>)
+    - **[How to contact me](<How to contact me.md>):**
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Work](<Work.md>):** [doctor](<doctor.md>)
     - **[How to contact me](<How to contact me.md>):**

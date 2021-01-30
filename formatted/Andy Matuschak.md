@@ -32,6 +32,8 @@
 
 - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
 
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
+
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

@@ -13123,6 +13123,70 @@
     ":edit/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "TxsV9GIET"
+          },
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "m9eyCN_a5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611978778416,
+        "edit-time": 1611978797833,
+        "refs": [
+          {
+            "uid": "TxsV9GIET"
+          },
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "m9eyCN_a5"
+          }
+        ],
+        "string": "Tags:: #Glossary #Conventions ",
+        "uid": "j3xE7g5Ex"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "PR7kFqSpB"
+          },
+          {
+            ":block/uid": "0x08w0lSE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611978797947,
+        "edit-time": 1611978840460,
+        "refs": [
+          {
+            "uid": "PR7kFqSpB"
+          },
+          {
+            "uid": "0x08w0lSE"
+          }
+        ],
+        "string": "Seedlings may be used to designate a [fleeting note]([[fleeting notes]]) that has near-term potential to develop into an [evergreen note]([[evergreen notes]]).",
+        "uid": "o2aZIL3oU"
+      }
+    ],
     "create-time": 1611598443481,
     "edit-time": 1611598443482,
     "title": "Seedlings",
@@ -14446,6 +14510,86 @@
         ],
         "string": "[[Roam Collaboration Guide]]",
         "uid": "v7NQ443jo"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ohDe4FbVt"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "3Fq_iOnCZ"
+              },
+              {
+                ":block/uid": "3hJFCGatm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979447062,
+            "edit-time": 1611979521338,
+            "refs": [
+              {
+                "uid": "3Fq_iOnCZ"
+              },
+              {
+                "uid": "3hJFCGatm"
+              }
+            ],
+            "string": "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]]).",
+            "uid": "-kX_Ja2rC"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "jEHXPObVF"
+              },
+              {
+                ":block/uid": "3hJFCGatm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979530087,
+            "edit-time": 1611979558279,
+            "refs": [
+              {
+                "uid": "jEHXPObVF"
+              },
+              {
+                "uid": "3hJFCGatm"
+              }
+            ],
+            "string": "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])",
+            "uid": "FabE91NCA"
+          }
+        ],
+        "create-time": 1611979434078,
+        "edit-time": 1611979447067,
+        "refs": [
+          {
+            "uid": "ohDe4FbVt"
+          }
+        ],
+        "string": "Graph Experience & [[Feedback]]",
+        "uid": "GMYi0Vs5Z"
       }
     ],
     "create-time": 1611598443590,
@@ -21833,18 +21977,51 @@
                 ":edit/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "DPcy_X6MJ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611979646890,
+                    "edit-time": 1611979650639,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "DPcy_X6MJ"
+                      }
+                    ],
+                    "string": "{{[[embed]]: ((DPcy_X6MJ))}}",
+                    "uid": "xHB8yHfP5"
+                  }
+                ],
                 "create-time": 1611632748189,
-                "edit-time": 1611774021621,
+                "edit-time": 1611981076437,
                 "refs": [
                   {
                     "uid": "OS9zn-KfR"
                   }
                 ],
-                "string": "#[[Daily Writing Prompts]]",
+                "string": "#[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))",
                 "uid": "-R0GuNusd"
               },
               {
                 ":block/refs": [
+                  {
+                    ":block/uid": "bjQLhCc-Z"
+                  },
                   {
                     ":block/uid": "tUO6dpcGk"
                   }
@@ -21855,18 +22032,52 @@
                 ":edit/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
-                "create-time": 1611888760460,
-                "edit-time": 1611888763504,
+                "create-time": 1611980869595,
+                "edit-time": 1611980999334,
                 "refs": [
+                  {
+                    "uid": "bjQLhCc-Z"
+                  },
                   {
                     "uid": "tUO6dpcGk"
                   }
                 ],
-                "string": "#[[The Main Feed]]",
-                "uid": "8aZQqP4hA"
+                "string": "#[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated ",
+                "uid": "4AP1XuqeU"
               },
               {
                 ":block/refs": [
+                  {
+                    ":block/uid": "bjQLhCc-Z"
+                  },
+                  {
+                    ":block/uid": "Q2fSEKaJf"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611980869595,
+                "edit-time": 1611980980543,
+                "refs": [
+                  {
+                    "uid": "bjQLhCc-Z"
+                  },
+                  {
+                    "uid": "Q2fSEKaJf"
+                  }
+                ],
+                "string": "#Chat ((A place to propose objects of discussion)) #not_populated",
+                "uid": "JkbGN7Zq4"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bjQLhCc-Z"
+                  },
                   {
                     ":block/uid": "tskrkcDXk"
                   }
@@ -21877,15 +22088,46 @@
                 ":edit/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
-                "create-time": 1611632748189,
-                "edit-time": 1611632748209,
+                "create-time": 1611980869595,
+                "edit-time": 1611980956576,
                 "refs": [
+                  {
+                    "uid": "bjQLhCc-Z"
+                  },
                   {
                     "uid": "tskrkcDXk"
                   }
                 ],
-                "string": "#[[Daily Log Book]]",
-                "uid": "FfX4dYnq8"
+                "string": "#[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) #not_populated",
+                "uid": "kOALisXEx"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bjQLhCc-Z"
+                  },
+                  {
+                    ":block/uid": "iF_j5T0jr"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611980871141,
+                "edit-time": 1611980931537,
+                "refs": [
+                  {
+                    "uid": "bjQLhCc-Z"
+                  },
+                  {
+                    "uid": "iF_j5T0jr"
+                  }
+                ],
+                "string": "#GTD ((Run the \"Daily Review\" smartblock)) #not_populated ",
+                "uid": "jQRZyDidG"
               },
               {
                 ":create/user": {
@@ -22676,7 +22918,7 @@
                           ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                         },
                         "create-time": 1611957592931,
-                        "edit-time": 1611957592931,
+                        "edit-time": 1611981341944,
                         "refs": [
                           {
                             "uid": "Ir3nPs-SW"
@@ -27707,6 +27949,28 @@
             ],
             "string": "[[Zsolt Viczi\u00e1n]]",
             "uid": "YgXohO9z_"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "dCeFy9i0A"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611979790068,
+            "edit-time": 1611979874308,
+            "refs": [
+              {
+                "uid": "dCeFy9i0A"
+              }
+            ],
+            "string": "[[Siva Arunagiri]]",
+            "uid": "furruMJni"
           }
         ],
         "create-time": 1611600748357,
@@ -30597,6 +30861,82 @@
     ":edit/user": {
       ":user/uid": "L9lTLVXI2hTw8UdWkWX948d926H2"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "TxsV9GIET"
+          },
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "_ala-JkX-"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611981360256,
+        "edit-time": 1611981369643,
+        "refs": [
+          {
+            "uid": "TxsV9GIET"
+          },
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "_ala-JkX-"
+          }
+        ],
+        "string": "Tags:: #[[DNP Modules]] #Conventions",
+        "uid": "72wAZiXfW"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611981376200,
+        "edit-time": 1611981399074,
+        "string": "A place to nest tasks, projects, etc. A hub for productivity.",
+        "uid": "bTv7Ovy2K"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "hUyrZQscO"
+          },
+          {
+            ":block/uid": "9GM2BvciG"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611981403018,
+        "edit-time": 1611981468785,
+        "refs": [
+          {
+            "uid": "hUyrZQscO"
+          },
+          {
+            "uid": "9GM2BvciG"
+          }
+        ],
+        "string": "When used in the [[Top Section of the DNP]], it is the home of the [Daily Review](((hUyrZQscO)))",
+        "uid": "p919J9Y0g"
+      }
+    ],
     "create-time": 1611620276112,
     "edit-time": 1611620276125,
     "title": "GTD",
@@ -44352,11 +44692,16 @@
                 },
                 "children": [
                   {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "OE8CCpfnQ"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                     },
                     ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                     },
                     "children": [
                       {
@@ -44385,8 +44730,13 @@
                       }
                     ],
                     "create-time": 1611846438091,
-                    "edit-time": 1611849714949,
-                    "string": "Roam {X} protocol",
+                    "edit-time": 1611978826470,
+                    "refs": [
+                      {
+                        "uid": "OE8CCpfnQ"
+                      }
+                    ],
+                    "string": "#[[Fleeting Notes]] Roam {X} protocol",
                     "uid": "Mfh93O_VB"
                   },
                   {
@@ -52354,7 +52704,7 @@
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     "create-time": 1611687509907,
-    "edit-time": 1611687509908,
+    "edit-time": 1611979330096,
     "title": "Joel Chan",
     "uid": "1oWT6q3NU"
   },
@@ -52440,7 +52790,7 @@
       }
     ],
     "create-time": 1611688760575,
-    "edit-time": 1611977368239,
+    "edit-time": 1611979247246,
     "title": "Beau Hann",
     "uid": "i3U8tJ-Ue"
   },
@@ -56717,7 +57067,7 @@
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     "create-time": 1611779275759,
-    "edit-time": 1611977336495,
+    "edit-time": 1611979243479,
     "title": "Matt Brockwell",
     "uid": "9-KoebPIs"
   },
@@ -58503,6 +58853,40 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "QZHYlp_9P"
+              },
+              {
+                ":block/uid": "4YV1dG4Lw"
+              },
+              {
+                ":block/uid": "QGpZcXuz4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            ":edit/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            "create-time": 1611977730062,
+            "edit-time": 1611977745512,
+            "refs": [
+              {
+                "uid": "QZHYlp_9P"
+              },
+              {
+                "uid": "4YV1dG4Lw"
+              },
+              {
+                "uid": "QGpZcXuz4"
+              }
+            ],
+            "string": "{{[[query]]: {and: [[cc:[[leekeifon]]]]}}}",
+            "uid": "YFVQmvseR"
+          },
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "wwX3aVlkf"
               },
               {
@@ -59057,6 +59441,28 @@
             ],
             "string": "Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [[fleeting notes]] can be used to build an [[argument]] or [[claim]]. [[cc:[[leekeifon]]]], [[cc:[[Charles Farr]]]], [[cc:[[Mark Robertson]]]]",
             "uid": "bnQ9wWNM3"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "SRtgeHvWX"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611978339912,
+            "edit-time": 1611978343281,
+            "refs": [
+              {
+                "uid": "SRtgeHvWX"
+              }
+            ],
+            "string": "((SRtgeHvWX))",
+            "uid": "6LD4IBE28"
           }
         ],
         "create-time": 1611888786668,
@@ -60528,7 +60934,19 @@
                             ":block/uid": "OE8CCpfnQ"
                           },
                           {
+                            ":block/uid": "qZf1BmqGg"
+                          },
+                          {
                             ":block/uid": "0x08w0lSE"
+                          },
+                          {
+                            ":block/uid": "8dRQkHgwp"
+                          },
+                          {
+                            ":block/uid": "KEkWzjqUn"
+                          },
+                          {
+                            ":block/uid": "AWZTF4aB5"
                           }
                         ],
                         ":create/user": {
@@ -60576,16 +60994,28 @@
                           }
                         ],
                         "create-time": 1611946160754,
-                        "edit-time": 1611946176863,
+                        "edit-time": 1611978754338,
                         "refs": [
                           {
                             "uid": "OE8CCpfnQ"
                           },
                           {
+                            "uid": "qZf1BmqGg"
+                          },
+                          {
                             "uid": "0x08w0lSE"
+                          },
+                          {
+                            "uid": "8dRQkHgwp"
+                          },
+                          {
+                            "uid": "KEkWzjqUn"
+                          },
+                          {
+                            "uid": "AWZTF4aB5"
                           }
                         ],
-                        "string": "#[[Fleeting Notes]] personal authorship of [[evergreen notes]] is overrated.",
+                        "string": "#[[Fleeting Notes]] personal [[authorship]] of [[evergreen notes]] is [[over-rated]]. #Bookmarks #Seedlings",
                         "uid": "iYF8wqepv"
                       },
                       {
@@ -60789,6 +61219,308 @@
                         ],
                         "string": "#[[Fleeting Notes]] many interpretations of [[zettelkasten]] are too strict and rigid. ",
                         "uid": "qKmKC9Qaw"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "OE8CCpfnQ"
+                          },
+                          {
+                            ":block/uid": "qZf1BmqGg"
+                          },
+                          {
+                            ":block/uid": "rTvBzGtyV"
+                          },
+                          {
+                            ":block/uid": "NCfC0Yq0s"
+                          },
+                          {
+                            ":block/uid": "VmPA54-A_"
+                          },
+                          {
+                            ":block/uid": "8dRQkHgwp"
+                          },
+                          {
+                            ":block/uid": "Fr_UF14gh"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1611979084340,
+                            "edit-time": 1611979120165,
+                            "string": "This allows groups of people to organize and work together to collectively create a unified product. ",
+                            "uid": "U5eGWPq5s"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "OE8CCpfnQ"
+                              },
+                              {
+                                ":block/uid": "rTvBzGtyV"
+                              },
+                              {
+                                ":block/uid": "NCfC0Yq0s"
+                              },
+                              {
+                                ":block/uid": "VmPA54-A_"
+                              },
+                              {
+                                ":block/uid": "5rwrhwcHl"
+                              },
+                              {
+                                ":block/uid": "vtBSoOQIy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "fopdz6Eqe"
+                                  },
+                                  {
+                                    ":block/uid": "vBaPnS5EM"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1611978644418,
+                                "edit-time": 1611978682188,
+                                "refs": [
+                                  {
+                                    "uid": "fopdz6Eqe"
+                                  },
+                                  {
+                                    "uid": "vBaPnS5EM"
+                                  }
+                                ],
+                                "string": "This allows an [[editor]] to [[Start from abundance]]. ",
+                                "uid": "mKFLYStX2"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "DrUF0rCUt"
+                                  },
+                                  {
+                                    ":block/uid": "9bPPTkcww"
+                                  },
+                                  {
+                                    ":block/uid": "5HLaR9f_g"
+                                  },
+                                  {
+                                    ":block/uid": "6LgCIXH-1"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "DrUF0rCUt"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "create-time": 1611978686673,
+                                    "edit-time": 1611978884307,
+                                    "refs": [
+                                      {
+                                        "uid": "DrUF0rCUt"
+                                      }
+                                    ],
+                                    "string": "Set [creative project]([[creative projects]]).",
+                                    "uid": "5BeDAeQ4J"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "BKjskPD2s"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "create-time": 1611978884281,
+                                    "edit-time": 1611978893205,
+                                    "refs": [
+                                      {
+                                        "uid": "BKjskPD2s"
+                                      }
+                                    ],
+                                    "string": "Establish [[outline]].",
+                                    "uid": "nix1I3Zbu"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "Nx2PVbRU3"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "create-time": 1611978893194,
+                                    "edit-time": 1611978938559,
+                                    "refs": [
+                                      {
+                                        "uid": "Nx2PVbRU3"
+                                      }
+                                    ],
+                                    "string": "Encourage group members to [block reference]([[block referencing]]) aspects of the outline with their ideas.",
+                                    "uid": "Kx_-uRWls"
+                                  },
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "NCfC0Yq0s"
+                                      },
+                                      {
+                                        ":block/uid": "DrUF0rCUt"
+                                      },
+                                      {
+                                        ":block/uid": "vBaPnS5EM"
+                                      },
+                                      {
+                                        ":block/uid": "tyqp6U4rB"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "create-time": 1611978938545,
+                                    "edit-time": 1611979013935,
+                                    "refs": [
+                                      {
+                                        "uid": "NCfC0Yq0s"
+                                      },
+                                      {
+                                        "uid": "DrUF0rCUt"
+                                      },
+                                      {
+                                        "uid": "vBaPnS5EM"
+                                      },
+                                      {
+                                        "uid": "tyqp6U4rB"
+                                      }
+                                    ],
+                                    "string": "The [[project lead]] or graph [[editor]] reviews the contributions in the [[block references]] and uses them to develop their ideas and build out the full bodied [creative project]([[creative projects]])",
+                                    "uid": "an8qMN9sz"
+                                  }
+                                ],
+                                "create-time": 1611978682574,
+                                "edit-time": 1611979031445,
+                                "refs": [
+                                  {
+                                    "uid": "DrUF0rCUt"
+                                  },
+                                  {
+                                    "uid": "9bPPTkcww"
+                                  },
+                                  {
+                                    "uid": "5HLaR9f_g"
+                                  },
+                                  {
+                                    "uid": "6LgCIXH-1"
+                                  }
+                                ],
+                                "string": "Process:: #creativity #collaboration #[[creative projects]]",
+                                "uid": "kZ5ylpjEY"
+                              }
+                            ],
+                            "create-time": 1611978589310,
+                            "edit-time": 1611978644160,
+                            "refs": [
+                              {
+                                "uid": "OE8CCpfnQ"
+                              },
+                              {
+                                "uid": "rTvBzGtyV"
+                              },
+                              {
+                                "uid": "NCfC0Yq0s"
+                              },
+                              {
+                                "uid": "VmPA54-A_"
+                              },
+                              {
+                                "uid": "5rwrhwcHl"
+                              },
+                              {
+                                "uid": "vtBSoOQIy"
+                              }
+                            ],
+                            "string": "#[[Fleeting Notes]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [[collaborative graph]]. #zettelkasten",
+                            "uid": "y3yTozHwn"
+                          }
+                        ],
+                        "create-time": 1611978531764,
+                        "edit-time": 1611978760522,
+                        "refs": [
+                          {
+                            "uid": "OE8CCpfnQ"
+                          },
+                          {
+                            "uid": "qZf1BmqGg"
+                          },
+                          {
+                            "uid": "rTvBzGtyV"
+                          },
+                          {
+                            "uid": "NCfC0Yq0s"
+                          },
+                          {
+                            "uid": "VmPA54-A_"
+                          },
+                          {
+                            "uid": "8dRQkHgwp"
+                          },
+                          {
+                            "uid": "Fr_UF14gh"
+                          }
+                        ],
+                        "string": "#[[Fleeting Notes]] [[block references]] are a way to [[crowd-source]] contributions within a [[collaborative graph]]. #zettelkasten #Bookmarks #Seedlings",
+                        "uid": "bFs8wmzoq"
                       }
                     ],
                     "create-time": 1611946128517,
@@ -60836,6 +61568,48 @@
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
             "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "ft-EcjEEH"
+                  },
+                  {
+                    ":block/uid": "NcdqMKkPj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611978349970,
+                    "edit-time": 1611978367819,
+                    "string": "Inter-graph transfer & sync is now possible.",
+                    "uid": "HrM81YMhE"
+                  }
+                ],
+                "create-time": 1611978263878,
+                "edit-time": 1611978314424,
+                "refs": [
+                  {
+                    "uid": "ft-EcjEEH"
+                  },
+                  {
+                    "uid": "NcdqMKkPj"
+                  }
+                ],
+                "string": "[[Stian H\u00e5klev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.",
+                "uid": "SRtgeHvWX"
+              },
               {
                 ":block/refs": [
                   {
@@ -62892,16 +63666,16 @@
                     ":block/uid": "9-KoebPIs"
                   },
                   {
-                    ":block/uid": "1MAvXuckH"
+                    ":block/uid": "ngfpU7mAk"
                   },
                   {
                     ":block/uid": "FK9HWK7iZ"
                   },
                   {
-                    ":block/uid": "RxmF9M53-"
+                    ":block/uid": "1oEn_AHZA"
                   },
                   {
-                    ":block/uid": "HsijzvdzP"
+                    ":block/uid": "m5HpRUV28"
                   }
                 ],
                 ":create/user": {
@@ -62911,7 +63685,7 @@
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
                 "create-time": 1611977309100,
-                "edit-time": 1611977368239,
+                "edit-time": 1611979247242,
                 "refs": [
                   {
                     "uid": "SUWj-tpl5"
@@ -62923,20 +63697,96 @@
                     "uid": "9-KoebPIs"
                   },
                   {
-                    "uid": "1MAvXuckH"
+                    "uid": "ngfpU7mAk"
                   },
                   {
                     "uid": "FK9HWK7iZ"
                   },
                   {
-                    "uid": "RxmF9M53-"
+                    "uid": "1oEn_AHZA"
                   },
                   {
-                    "uid": "HsijzvdzP"
+                    "uid": "m5HpRUV28"
                   }
                 ],
-                "string": "((FK9HWK7iZ)) [[cc[[Charles Farr]]]] [[cc[[Matt Brockwell]]]] [[cc[[Beau Hann]]]]",
+                "string": "((FK9HWK7iZ)) [[cc:[[Charles Farr]]]] [[cc:[[Matt Brockwell]]]] [[cc:[[Beau Hann]]]]",
                 "uid": "3OPKub0Ze"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "bFs8wmzoq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "SUWj-tpl5"
+                      },
+                      {
+                        ":block/uid": "1oWT6q3NU"
+                      },
+                      {
+                        ":block/uid": "9-KoebPIs"
+                      },
+                      {
+                        ":block/uid": "ngfpU7mAk"
+                      },
+                      {
+                        ":block/uid": "1oEn_AHZA"
+                      },
+                      {
+                        ":block/uid": "Qa-UGiTuo"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611979166088,
+                    "edit-time": 1611979330089,
+                    "refs": [
+                      {
+                        "uid": "SUWj-tpl5"
+                      },
+                      {
+                        "uid": "1oWT6q3NU"
+                      },
+                      {
+                        "uid": "9-KoebPIs"
+                      },
+                      {
+                        "uid": "ngfpU7mAk"
+                      },
+                      {
+                        "uid": "1oEn_AHZA"
+                      },
+                      {
+                        "uid": "Qa-UGiTuo"
+                      }
+                    ],
+                    "string": "[[cc:[[Charles Farr]]]], [[cc:[[Matt Brockwell]]]], [[cc:[[Joel Chan]]]]",
+                    "uid": "Z2xJeV6jE"
+                  }
+                ],
+                "create-time": 1611979139950,
+                "edit-time": 1611979165983,
+                "refs": [
+                  {
+                    "uid": "bFs8wmzoq"
+                  }
+                ],
+                "string": "Check out [these thoughts](((bFs8wmzoq))) ",
+                "uid": "XYqw5Sfh0"
               }
             ],
             "create-time": 1611958777008,
@@ -63818,14 +64668,14 @@
                     ":block/uid": "4YV1dG4Lw"
                   },
                   {
-                    ":block/uid": "ecu2XC6Nv"
+                    ":block/uid": "ABV2OzfXT"
                   }
                 ],
                 ":create/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
                 ":edit/user": {
-                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                 },
                 "children": [
                   {
@@ -64028,7 +64878,7 @@
                         ":block/uid": "4YV1dG4Lw"
                       },
                       {
-                        ":block/uid": "ecu2XC6Nv"
+                        ":block/uid": "ABV2OzfXT"
                       },
                       {
                         ":block/uid": "iMm8lcvmd"
@@ -64038,7 +64888,7 @@
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                     },
                     "children": [
                       {
@@ -64065,19 +64915,19 @@
                       }
                     ],
                     "create-time": 1611953711083,
-                    "edit-time": 1611953731636,
+                    "edit-time": 1611983631920,
                     "refs": [
                       {
                         "uid": "4YV1dG4Lw"
                       },
                       {
-                        "uid": "ecu2XC6Nv"
+                        "uid": "ABV2OzfXT"
                       },
                       {
                         "uid": "iMm8lcvmd"
                       }
                     ],
-                    "string": "Could you elaborate on [this](((iMm8lcvmd)))? [[@[[leekeifon]]]]",
+                    "string": "Could you elaborate on [this](((iMm8lcvmd)))? [[~[[leekeifon]]]]",
                     "uid": "4x3FzcW7d"
                   },
                   {
@@ -64162,16 +65012,16 @@
                   }
                 ],
                 "create-time": 1611953324347,
-                "edit-time": 1611953388610,
+                "edit-time": 1611983637291,
                 "refs": [
                   {
                     "uid": "4YV1dG4Lw"
                   },
                   {
-                    "uid": "ecu2XC6Nv"
+                    "uid": "ABV2OzfXT"
                   }
                 ],
-                "string": "[[@[[leekeifon]]]] You're playing with some fascinating ideas! Love it. ",
+                "string": "[[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. ",
                 "uid": "YFLwCoFXr"
               },
               {
@@ -64741,23 +65591,14 @@
                           {
                             ":block/refs": [
                               {
-                                ":block/uid": "OE8CCpfnQ"
-                              },
-                              {
-                                ":block/uid": "ketrD46VP"
-                              },
-                              {
-                                ":block/uid": "4YV1dG4Lw"
-                              },
-                              {
-                                ":block/uid": "67MsLIbX6"
+                                ":block/uid": "ZZWmGCw0B"
                               }
                             ],
                             ":create/user": {
-                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                             },
                             ":edit/user": {
-                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                             },
                             "children": [
                               {
@@ -64783,24 +65624,15 @@
                                 "uid": "uIs_AaXhw"
                               }
                             ],
-                            "create-time": 1611975521698,
-                            "edit-time": 1611976758088,
+                            "create-time": 1611978714023,
+                            "edit-time": 1611978752289,
                             "refs": [
                               {
-                                "uid": "OE8CCpfnQ"
-                              },
-                              {
-                                "uid": "ketrD46VP"
-                              },
-                              {
-                                "uid": "4YV1dG4Lw"
-                              },
-                              {
-                                "uid": "67MsLIbX6"
+                                "uid": "ZZWmGCw0B"
                               }
                             ],
-                            "string": "#[[Fleeting Notes]] treat page as [[truth]]. - [[leekeifon]][*](((67MsLIbX6)))",
-                            "uid": "ZZWmGCw0B"
+                            "string": "((ZZWmGCw0B))",
+                            "uid": "JJDIc6a1X"
                           },
                           {
                             ":block/refs": [
@@ -65065,6 +65897,156 @@
                 ],
                 "string": "\"for a block that\u2019s not yet been level-up to a page\" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]",
                 "uid": "PdawSmakm"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "LKFDKdVqQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4YV1dG4Lw"
+                      },
+                      {
+                        ":block/uid": "ecu2XC6Nv"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611980487706,
+                    "edit-time": 1611980594628,
+                    "refs": [
+                      {
+                        "uid": "4YV1dG4Lw"
+                      },
+                      {
+                        "uid": "ecu2XC6Nv"
+                      }
+                    ],
+                    "string": "I'm not sure I understand yet \u2014 could you elaborate? [[@[[leekeifon]]]]",
+                    "uid": "PBCiIr3mD"
+                  }
+                ],
+                "create-time": 1611980541478,
+                "edit-time": 1611980541478,
+                "refs": [
+                  {
+                    "uid": "LKFDKdVqQ"
+                  }
+                ],
+                "string": "((LKFDKdVqQ))",
+                "uid": "aKXHodfUM"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "AOA9-Fj_h"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "tGqs5HXns"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "PR7kFqSpB"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611980605664,
+                        "edit-time": 1611980670716,
+                        "refs": [
+                          {
+                            "uid": "PR7kFqSpB"
+                          }
+                        ],
+                        "string": "While making a [fleeting note]([[fleeting notes]]), it try to make sure that the note is self-sufficient in communicating its meaning. ",
+                        "uid": "lPe07ASe-"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "4YV1dG4Lw"
+                          },
+                          {
+                            ":block/uid": "ecu2XC6Nv"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1611980672823,
+                        "edit-time": 1611980709989,
+                        "refs": [
+                          {
+                            "uid": "4YV1dG4Lw"
+                          },
+                          {
+                            "uid": "ecu2XC6Nv"
+                          }
+                        ],
+                        "string": "In this example I might elaborate the note content a bit to make the idea more clear \u2014 and may nest some supportive information underneath. [[@[[leekeifon]]]]",
+                        "uid": "v03GHT9K3"
+                      }
+                    ],
+                    "create-time": 1611980622704,
+                    "edit-time": 1611980622704,
+                    "refs": [
+                      {
+                        "uid": "tGqs5HXns"
+                      }
+                    ],
+                    "string": "((tGqs5HXns))",
+                    "uid": "m0GOA0u7i"
+                  }
+                ],
+                "create-time": 1611980594620,
+                "edit-time": 1611980605471,
+                "refs": [
+                  {
+                    "uid": "AOA9-Fj_h"
+                  }
+                ],
+                "string": "#[[Graph Mentorship]]",
+                "uid": "AjblzHEuw"
               }
             ],
             "create-time": 1611888793653,
@@ -65615,6 +66597,28 @@
               {
                 ":block/refs": [
                   {
+                    ":block/uid": "OE8CCpfnQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1611978124975,
+                "edit-time": 1611978170326,
+                "refs": [
+                  {
+                    "uid": "OE8CCpfnQ"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] public vs private ",
+                "uid": "tGqs5HXns"
+              },
+              {
+                ":block/refs": [
+                  {
                     ":block/uid": "lGA5fCRND"
                   },
                   {
@@ -65639,6 +66643,74 @@
                 ],
                 "string": "Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg))).",
                 "uid": "syMWHZ-zM"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "OE8CCpfnQ"
+                  },
+                  {
+                    ":block/uid": "ketrD46VP"
+                  },
+                  {
+                    ":block/uid": "4YV1dG4Lw"
+                  },
+                  {
+                    ":block/uid": "67MsLIbX6"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611975521698,
+                "edit-time": 1611976758088,
+                "refs": [
+                  {
+                    "uid": "OE8CCpfnQ"
+                  },
+                  {
+                    "uid": "ketrD46VP"
+                  },
+                  {
+                    "uid": "4YV1dG4Lw"
+                  },
+                  {
+                    "uid": "67MsLIbX6"
+                  }
+                ],
+                "string": "#[[Fleeting Notes]] treat page as [[truth]]. - [[leekeifon]][*](((67MsLIbX6)))",
+                "uid": "ZZWmGCw0B"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "3hJFCGatm"
+                  },
+                  {
+                    ":block/uid": "Fvi-lhrAe"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1611978851669,
+                "edit-time": 1611978937149,
+                "refs": [
+                  {
+                    "uid": "3hJFCGatm"
+                  },
+                  {
+                    "uid": "Fvi-lhrAe"
+                  }
+                ],
+                "string": "So, the idea [here](((Fvi-lhrAe))) is similar to using `#Fleeting Notes` in [[Roam-Collective]], and I will take this conventions.",
+                "uid": "RxIDhI323"
               }
             ],
             "create-time": 1611932302639,
@@ -65650,6 +66722,54 @@
             ],
             "string": "#[[Scratchpad]]",
             "uid": "NnNCjyTa-"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "7y86LvOF6"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            ":edit/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1611983582732,
+                "edit-time": 1611983582732,
+                "string": "Getting lost when replying to different messages. Don\u2019t know where to go back...",
+                "uid": "xWL23Wbc6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1611983501856,
+                "edit-time": 1611983593346,
+                "string": "Have the friction on not knowing how to backup the information in chat.",
+                "uid": "B6oWIcGt_"
+              }
+            ],
+            "create-time": 1611983498535,
+            "edit-time": 1611983501875,
+            "refs": [
+              {
+                "uid": "7y86LvOF6"
+              }
+            ],
+            "string": "#[[Help Wanted]]",
+            "uid": "yLPkvTcoL"
           },
           {
             ":block/refs": [
@@ -66454,18 +67574,6 @@
                     ],
                     "string": "((v0gL-ZfYy))",
                     "uid": "0Mq6m6rik"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
-                    },
-                    "create-time": 1611975370366,
-                    "edit-time": 1611975370366,
-                    "string": "",
-                    "uid": "LKFDKdVqQ"
                   }
                 ],
                 "create-time": 1611971236089,
@@ -66477,6 +67585,486 @@
                 ],
                 "string": "reply to ((YFLwCoFXr))",
                 "uid": "P187l3hTR"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "zql88eBgf"
+                  },
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611975370366,
+                "edit-time": 1611981297335,
+                "refs": [
+                  {
+                    "uid": "zql88eBgf"
+                  },
+                  {
+                    "uid": "aDlFFSRPv"
+                  }
+                ],
+                "string": "From a pure visual(css)\u2019s perspective, is it a good idea to add another tag like `#.Fleeting Notes`, so that I could hide the the word content `Fleeting Notes`?  [[~[[Brandon Toner]]]]",
+                "uid": "LKFDKdVqQ"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  },
+                  {
+                    ":block/uid": "npph1Oq_X"
+                  },
+                  {
+                    ":block/uid": "ketrD46VP"
+                  },
+                  {
+                    ":block/uid": "eeyj5pDY7"
+                  },
+                  {
+                    ":block/uid": "Hg5D0vNl0"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "eeyj5pDY7"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "wcMRwTpkY"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        "create-time": 1611979346615,
+                        "edit-time": 1611979375378,
+                        "refs": [
+                          {
+                            "uid": "wcMRwTpkY"
+                          }
+                        ],
+                        "string": "agree with current setting: ((wcMRwTpkY))",
+                        "uid": "2Xeh8mIPN"
+                      }
+                    ],
+                    "create-time": 1611979317095,
+                    "edit-time": 1611979338820,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "eeyj5pDY7"
+                      }
+                    ],
+                    "string": "[[felt [[truth]]]] is hypothesis.",
+                    "uid": "psnO-dhs-"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "eeyj5pDY7"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611979135702,
+                    "edit-time": 1611983154349,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "eeyj5pDY7"
+                      }
+                    ],
+                    "string": "[[felt [[truth]]]] can be created by community members freely.",
+                    "uid": "1o2oqIUWK"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "eeyj5pDY7"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983154334,
+                    "edit-time": 1611983168564,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "eeyj5pDY7"
+                      }
+                    ],
+                    "string": "[[felt [[truth]]]] will not be deleted, but it could be deprecated.",
+                    "uid": "zc8jNER_R"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611979388285,
+                    "edit-time": 1611983184687,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    "string": "[[objective [[truth]]]] may not be truth in real world.",
+                    "uid": "tP_8vnPzI"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "s5g_J2TZJ"
+                      },
+                      {
+                        ":block/uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983184671,
+                    "edit-time": 1611983214043,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "s5g_J2TZJ"
+                      },
+                      {
+                        "uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    "string": "[[objective [[truth]]]] is a result from [[axiomatic presuppositions]] and logical infernce.",
+                    "uid": "5UyPKPKRh"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ketrD46VP"
+                      },
+                      {
+                        ":block/uid": "s5g_J2TZJ"
+                      },
+                      {
+                        ":block/uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983214028,
+                    "edit-time": 1611983240212,
+                    "refs": [
+                      {
+                        "uid": "ketrD46VP"
+                      },
+                      {
+                        "uid": "s5g_J2TZJ"
+                      },
+                      {
+                        "uid": "Hg5D0vNl0"
+                      }
+                    ],
+                    "string": "[[axiomatic presuppositions]] is itself [[objective [[truth]]]] within that database.",
+                    "uid": "pEz2w0Y5u"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "s5g_J2TZJ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "7UXcQzzs9"
+                          },
+                          {
+                            ":block/uid": "ketrD46VP"
+                          },
+                          {
+                            ":block/uid": "s5g_J2TZJ"
+                          },
+                          {
+                            ":block/uid": "Hg5D0vNl0"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        "create-time": 1611983251464,
+                        "edit-time": 1611983363343,
+                        "refs": [
+                          {
+                            "uid": "7UXcQzzs9"
+                          },
+                          {
+                            "uid": "ketrD46VP"
+                          },
+                          {
+                            "uid": "s5g_J2TZJ"
+                          },
+                          {
+                            "uid": "Hg5D0vNl0"
+                          }
+                        ],
+                        "string": "Example:: We (may) all agree that logical inference is the methodology on achieving [[objective [[truth]]]], so we set it as [[axiomatic presuppositions]].",
+                        "uid": "qc0Y_ynzj"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "6zNhf5E9z"
+                          },
+                          {
+                            ":block/uid": "7UXcQzzs9"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                        },
+                        "create-time": 1611983363334,
+                        "edit-time": 1611983428697,
+                        "refs": [
+                          {
+                            "uid": "6zNhf5E9z"
+                          },
+                          {
+                            "uid": "7UXcQzzs9"
+                          }
+                        ],
+                        "string": "Example:: conclusions based on [[Experiments]] result can be candidates for us to achieve consensus.",
+                        "uid": "tP6k7kVNp"
+                      }
+                    ],
+                    "create-time": 1611983240186,
+                    "edit-time": 1611983273140,
+                    "refs": [
+                      {
+                        "uid": "s5g_J2TZJ"
+                      }
+                    ],
+                    "string": "[[axiomatic presuppositions]] can be achieved by consensus of the community.",
+                    "uid": "YeAiE05uw"
+                  }
+                ],
+                "create-time": 1611979062830,
+                "edit-time": 1611983465071,
+                "refs": [
+                  {
+                    "uid": "aDlFFSRPv"
+                  },
+                  {
+                    "uid": "npph1Oq_X"
+                  },
+                  {
+                    "uid": "ketrD46VP"
+                  },
+                  {
+                    "uid": "eeyj5pDY7"
+                  },
+                  {
+                    "uid": "Hg5D0vNl0"
+                  }
+                ],
+                "string": "I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[@[[Brandon Toner]]]]",
+                "uid": "WZwcS0-uH"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  },
+                  {
+                    ":block/uid": "ZFyIOvSbA"
+                  },
+                  {
+                    ":block/uid": "npph1Oq_X"
+                  },
+                  {
+                    ":block/uid": "Mfh93O_VB"
+                  },
+                  {
+                    ":block/uid": "3F1bAiJBO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983799355,
+                    "edit-time": 1611983926467,
+                    "string": "attributes and tendency",
+                    "uid": "cNBgRtmwv"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983926450,
+                    "edit-time": 1611983935992,
+                    "string": "parts and whole",
+                    "uid": "apw-Yn7KJ"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983936249,
+                    "edit-time": 1611983958400,
+                    "string": "similarity and difference",
+                    "uid": "Z1mWfZjk5"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983958388,
+                    "edit-time": 1611983997900,
+                    "string": "cause and effect",
+                    "uid": "1O6H2q4jC"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                    },
+                    "create-time": 1611983997891,
+                    "edit-time": 1611984306050,
+                    "string": "significance and implications",
+                    "uid": "sr3GdXLIA"
+                  }
+                ],
+                "create-time": 1611983692515,
+                "edit-time": 1611984349481,
+                "refs": [
+                  {
+                    "uid": "aDlFFSRPv"
+                  },
+                  {
+                    "uid": "ZFyIOvSbA"
+                  },
+                  {
+                    "uid": "npph1Oq_X"
+                  },
+                  {
+                    "uid": "Mfh93O_VB"
+                  },
+                  {
+                    "uid": "3F1bAiJBO"
+                  }
+                ],
+                "string": "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]\u2019s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a ((Mfh93O_VB)) when communicating concept. [[@[[Brandon Toner]]]]",
+                "uid": "dlHi_aDut"
               }
             ],
             "create-time": 1611916856446,
@@ -69462,6 +71050,622 @@
     ":edit/user": {
       ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "b9pQnEURN"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979345048,
+        "edit-time": 1611979348744,
+        "refs": [
+          {
+            "uid": "b9pQnEURN"
+          }
+        ],
+        "string": "{{embed: ((b9pQnEURN))}}",
+        "uid": "FRFW0hQu_"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979348739,
+        "edit-time": 1611979348908,
+        "string": "---",
+        "uid": "KHrD0elcd"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Ir3nPs-SW"
+          },
+          {
+            ":block/uid": "q9QxBxCGg"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611980817829,
+        "edit-time": 1611980824210,
+        "refs": [
+          {
+            "uid": "Ir3nPs-SW"
+          },
+          {
+            "uid": "q9QxBxCGg"
+          }
+        ],
+        "string": "{{[[embed]]: ((q9QxBxCGg))}}",
+        "uid": "qS8T0cP0J"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "OS9zn-KfR"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "-kX_Ja2rC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979566306,
+            "edit-time": 1611979566306,
+            "refs": [
+              {
+                "uid": "-kX_Ja2rC"
+              }
+            ],
+            "string": "((-kX_Ja2rC))",
+            "uid": "nue0pUbwT"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "FabE91NCA"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979569274,
+            "edit-time": 1611979569274,
+            "refs": [
+              {
+                "uid": "FabE91NCA"
+              }
+            ],
+            "string": "((FabE91NCA))",
+            "uid": "0InzrpnXK"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979693591,
+            "edit-time": 1611979693591,
+            "string": "",
+            "uid": "XTCixGBFK"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "7CWEj1_kU"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979575144,
+            "edit-time": 1611979688001,
+            "refs": [
+              {
+                "uid": "7CWEj1_kU"
+              }
+            ],
+            "string": "__Interested in writing about something else?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))",
+            "uid": "DPcy_X6MJ"
+          }
+        ],
+        "create-time": 1611979348901,
+        "edit-time": 1611981101484,
+        "refs": [
+          {
+            "uid": "OS9zn-KfR"
+          }
+        ],
+        "string": "#[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))",
+        "uid": "wmSurgrL8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "tUO6dpcGk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979349052,
+        "edit-time": 1611981113945,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "tUO6dpcGk"
+          }
+        ],
+        "string": "#[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated ",
+        "uid": "KJYgxWiN6"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "Q2fSEKaJf"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979352027,
+        "edit-time": 1611981122358,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "Q2fSEKaJf"
+          }
+        ],
+        "string": "#Chat ((A place to propose objects of discussion)) #not_populated",
+        "uid": "N-IJVJqPr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "tskrkcDXk"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979349216,
+        "edit-time": 1611981130382,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "tskrkcDXk"
+          }
+        ],
+        "string": "#[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) #not_populated",
+        "uid": "VZw7bSBf2"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "iF_j5T0jr"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "-gwpe1nXu"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "9ZdW5S8U6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1611979921824,
+                    "edit-time": 1611981157212,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "9ZdW5S8U6"
+                      }
+                    ],
+                    "string": "**Page:** `[[January 25th, 2021]]`\n{{[[embed]]: ((9ZdW5S8U6))}}",
+                    "uid": "-ytS5WItM"
+                  }
+                ],
+                "create-time": 1611979921385,
+                "edit-time": 1611979921837,
+                "string": "**Scheduled for Today:**",
+                "uid": "HeycJ_U2X"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611979922292,
+                "edit-time": 1611979922633,
+                "string": "{{Overdue:42SmartBlock:TODO Overdue (10, with header) (RC)}}",
+                "uid": "8KFqm4liM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611979922624,
+                "edit-time": 1611979922816,
+                "string": "{{Flagged:42SmartBlock:Flagged (RC)}}",
+                "uid": "B0pz_SGDp"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611979922804,
+                "edit-time": 1611979923011,
+                "string": "{{Waiting:42SmartBlock:Waiting (RC)}}",
+                "uid": "euCyD5fn3"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611979923002,
+                "edit-time": 1611979923261,
+                "string": "{{TODO This Week:42SmartBlock:TODO This Week (RC)}}",
+                "uid": "TFUNTdYso"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611979924153,
+                "edit-time": 1611979924349,
+                "string": "{{TODO This Month:42SmartBlock:TODO This Month (RC)}}",
+                "uid": "jV76fKEtR"
+              }
+            ],
+            "create-time": 1611979911202,
+            "edit-time": 1611979921391,
+            "refs": [
+              {
+                "uid": "-gwpe1nXu"
+              }
+            ],
+            "string": "Daily Review::",
+            "uid": "FqHDM28-K"
+          }
+        ],
+        "create-time": 1611979908126,
+        "edit-time": 1611981136521,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "iF_j5T0jr"
+          }
+        ],
+        "string": "#GTD ((Run the \"Daily Review\" smartblock)) #not_populated ",
+        "uid": "ryVxRdlVs"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1611979349364,
+        "edit-time": 1611979349545,
+        "string": "---",
+        "uid": "m2yVxWH5C"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Pti1cH_0g"
+          },
+          {
+            ":block/uid": "aDlFFSRPv"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wwX3aVlkf"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "wwX3aVlkf"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[Scratchpad]] #not_populated",
+            "uid": "qeX5MsBGz"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "iF_j5T0jr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "iF_j5T0jr"
+              }
+            ],
+            "string": "#GTD #not_populated",
+            "uid": "fuO2uNpEN"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Bb30fEKLj"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "Bb30fEKLj"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[Change Log]] #not_populated",
+            "uid": "s1hKT9B-x"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "YaMqIAJh8"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "YaMqIAJh8"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Promptstorming #not_populated",
+            "uid": "YPnV8SCIK"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "UA1Pmj2tB"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "UA1Pmj2tB"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Comments #not_populated",
+            "uid": "K5mdndxVj"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ohDe4FbVt"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611979392832,
+            "edit-time": 1611979392832,
+            "refs": [
+              {
+                "uid": "ohDe4FbVt"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Feedback  #not_populated",
+            "uid": "8IMNOUyPP"
+          }
+        ],
+        "create-time": 1611979382714,
+        "edit-time": 1611979382714,
+        "refs": [
+          {
+            "uid": "Pti1cH_0g"
+          },
+          {
+            "uid": "aDlFFSRPv"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Brandon Toner]] {{word-count}}",
+        "uid": "E4PuNi76H"
+      }
+    ],
     "create-time": 1611937114154,
     "edit-time": 1611937114156,
     "title": "January 30th, 2021",
@@ -73401,28 +75605,6 @@
     ":edit/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
-    "create-time": 1611976542245,
-    "edit-time": 1611976542263,
-    "refs": [
-      {
-        "uid": "SUWj-tpl5"
-      }
-    ],
-    "title": "cc[[Charles Farr]]",
-    "uid": "1MAvXuckH"
-  },
-  {
-    ":block/refs": [
-      {
-        ":block/uid": "SUWj-tpl5"
-      }
-    ],
-    ":create/user": {
-      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-    },
-    ":edit/user": {
-      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-    },
     "create-time": 1611976561952,
     "edit-time": 1611976561971,
     "refs": [
@@ -73456,6 +75638,114 @@
     "uid": "igxw_h54G"
   },
   {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978284109,
+    "edit-time": 1611978293825,
+    "title": "Stian H\u00e5klev",
+    "uid": "ft-EcjEEH"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978302865,
+    "edit-time": 1611978302866,
+    "title": "Roam Inter",
+    "uid": "NcdqMKkPj"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978572094,
+    "edit-time": 1611978572095,
+    "title": "crowd-source",
+    "uid": "Fr_UF14gh"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978658787,
+    "edit-time": 1611978658787,
+    "title": "editor",
+    "uid": "vBaPnS5EM"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978728941,
+    "edit-time": 1611978728942,
+    "title": "over-rated",
+    "uid": "KEkWzjqUn"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978734505,
+    "edit-time": 1611978734506,
+    "title": "authorship",
+    "uid": "AWZTF4aB5"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978893219,
+    "edit-time": 1611978893220,
+    "title": "outline",
+    "uid": "BKjskPD2s"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611978960009,
+    "edit-time": 1611978960009,
+    "title": "project lead",
+    "uid": "tyqp6U4rB"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611979021147,
+    "edit-time": 1611979021147,
+    "title": "creativity",
+    "uid": "6LgCIXH-1"
+  },
+  {
     ":block/refs": [
       {
         ":block/uid": "9-KoebPIs"
@@ -73467,15 +75757,15 @@
     ":edit/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
-    "create-time": 1611977336478,
-    "edit-time": 1611977336495,
+    "create-time": 1611979243478,
+    "edit-time": 1611979243479,
     "refs": [
       {
         "uid": "9-KoebPIs"
       }
     ],
-    "title": "cc[[Matt Brockwell]]",
-    "uid": "RxmF9M53-"
+    "title": "cc:[[Matt Brockwell]]",
+    "uid": "1oEn_AHZA"
   },
   {
     ":block/refs": [
@@ -73489,14 +75779,334 @@
     ":edit/user": {
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
-    "create-time": 1611977342647,
-    "edit-time": 1611977368239,
+    "create-time": 1611979247244,
+    "edit-time": 1611979247246,
     "refs": [
       {
         "uid": "i3U8tJ-Ue"
       }
     ],
-    "title": "cc[[Beau Hann]]",
-    "uid": "HsijzvdzP"
+    "title": "cc:[[Beau Hann]]",
+    "uid": "m5HpRUV28"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "1oWT6q3NU"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611979330093,
+    "edit-time": 1611979330096,
+    "refs": [
+      {
+        "uid": "1oWT6q3NU"
+      }
+    ],
+    "title": "cc:[[Joel Chan]]",
+    "uid": "Qa-UGiTuo"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    ":edit/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "qXJedx24I"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+        },
+        ":edit/user": {
+          ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wYHcLaxCC"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611979898673,
+            "edit-time": 1611980009666,
+            "refs": [
+              {
+                "uid": "wYHcLaxCC"
+              }
+            ],
+            "string": "Twitter:: [@Eklavia_](https://twitter.com/Eklavia_) ",
+            "uid": "Iksx0TCAv"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "r3NX76BoA"
+              },
+              {
+                ":block/uid": "rmKsFdc8y"
+              },
+              {
+                ":block/uid": "QELsFcMW3"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611979902648,
+            "edit-time": 1611980022880,
+            "refs": [
+              {
+                "uid": "r3NX76BoA"
+              },
+              {
+                "uid": "rmKsFdc8y"
+              },
+              {
+                "uid": "QELsFcMW3"
+              }
+            ],
+            "string": "Location:: [[Sankarankovil]], [[India]]",
+            "uid": "7Tp9SIEUw"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "qDFyRAZj_"
+              },
+              {
+                ":block/uid": "YdyE_hdCL"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611979909358,
+            "edit-time": 1611980035566,
+            "refs": [
+              {
+                "uid": "qDFyRAZj_"
+              },
+              {
+                "uid": "YdyE_hdCL"
+              }
+            ],
+            "string": "Time Zone:: ([[UTC]] + 5:30)",
+            "uid": "rbJrNhxdJ"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "BSFdJyUlk"
+              },
+              {
+                ":block/uid": "Jy-IXAvfQ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611979914437,
+            "edit-time": 1611980041519,
+            "refs": [
+              {
+                "uid": "BSFdJyUlk"
+              },
+              {
+                "uid": "Jy-IXAvfQ"
+              }
+            ],
+            "string": "Work:: [[Educator]]",
+            "uid": "t0RHdsgwQ"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "qt8h13HR4"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+                },
+                ":edit/user": {
+                  ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+                },
+                "create-time": 1611980045338,
+                "edit-time": 1611980051765,
+                "string": "DM on Twitter.",
+                "uid": "ZyRINkVUO"
+              }
+            ],
+            "create-time": 1611979920352,
+            "edit-time": 1611980045234,
+            "refs": [
+              {
+                "uid": "qt8h13HR4"
+              }
+            ],
+            "string": "How to contact me:: ",
+            "uid": "tEHK07yeR"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "gcXMRxrQ3"
+              },
+              {
+                ":block/uid": "jNlU4RULI"
+              },
+              {
+                ":block/uid": "IvrdtTLbw"
+              },
+              {
+                ":block/uid": "nR22jDKhs"
+              },
+              {
+                ":block/uid": "IaNm80d2l"
+              },
+              {
+                ":block/uid": "gc31LYPuY"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            ":edit/user": {
+              ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+            },
+            "create-time": 1611980060679,
+            "edit-time": 1611980114928,
+            "refs": [
+              {
+                "uid": "gcXMRxrQ3"
+              },
+              {
+                "uid": "jNlU4RULI"
+              },
+              {
+                "uid": "IvrdtTLbw"
+              },
+              {
+                "uid": "nR22jDKhs"
+              },
+              {
+                "uid": "IaNm80d2l"
+              },
+              {
+                "uid": "gc31LYPuY"
+              }
+            ],
+            "string": "Interests:: [[tools for thought]] [[systems thinking]] [[New teaching methods]] [[tech in education]] [[PKM]]",
+            "uid": "oY7sv0avV"
+          }
+        ],
+        "create-time": 1611979892059,
+        "edit-time": 1611979898679,
+        "refs": [
+          {
+            "uid": "qXJedx24I"
+          }
+        ],
+        "string": "About me::",
+        "uid": "A8L1JzTr7"
+      }
+    ],
+    "create-time": 1611979874317,
+    "edit-time": 1611979874318,
+    "title": "Siva Arunagiri",
+    "uid": "dCeFy9i0A"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    ":edit/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    "create-time": 1611980017398,
+    "edit-time": 1611980017400,
+    "title": "Sankarankovil",
+    "uid": "QELsFcMW3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    ":edit/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    "create-time": 1611980041522,
+    "edit-time": 1611980041523,
+    "title": "Educator",
+    "uid": "Jy-IXAvfQ"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    ":edit/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    "create-time": 1611980091542,
+    "edit-time": 1611980091543,
+    "title": "New teaching methods",
+    "uid": "IaNm80d2l"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    ":edit/user": {
+      ":user/uid": "ii9i9NOtKUU6rJ9bC5KayMz7nyP2"
+    },
+    "create-time": 1611980100215,
+    "edit-time": 1611980100217,
+    "title": "tech in education",
+    "uid": "gc31LYPuY"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1611981434449,
+    "edit-time": 1611981434450,
+    "title": "Top Section of the DNP",
+    "uid": "9GM2BvciG"
   }
 ]

@@ -126,6 +126,8 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 1. I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -143,33 +145,51 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)

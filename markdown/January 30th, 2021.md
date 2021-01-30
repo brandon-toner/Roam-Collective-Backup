@@ -1,0 +1,29 @@
+- {{embed: ((b9pQnEURN))}}
+- ---
+- {{[[embed]]: ((q9QxBxCGg))}}
+- #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+    - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
+    - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
+    - 
+    - __Interested in writing about something else?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
+- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+- #Chat ((A place to propose objects of discussion)) #not_populated
+- #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+- #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - Daily Review::
+        - **Scheduled for Today:**
+            - **Page:** `[[January 25th, 2021]]`
+{{[[embed]]: ((9ZdW5S8U6))}}
+        - {{Overdue:42SmartBlock:TODO Overdue (10, with header) (RC)}}
+        - {{Flagged:42SmartBlock:Flagged (RC)}}
+        - {{Waiting:42SmartBlock:Waiting (RC)}}
+        - {{TODO This Week:42SmartBlock:TODO This Week (RC)}}
+        - {{TODO This Month:42SmartBlock:TODO This Month (RC)}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #[[Scratchpad]] #not_populated
+    - #GTD #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #Comments #not_populated
+    - #Feedback  #not_populated

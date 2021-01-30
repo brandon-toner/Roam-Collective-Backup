@@ -81,6 +81,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

@@ -8,7 +8,7 @@
 - **[Queries](<Queries.md>):**
 
 ## [Directory](<Directory.md>)
-- [Zsolt Viczián](<Zsolt Viczián.md>)
+- [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[Queries](<Queries.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)

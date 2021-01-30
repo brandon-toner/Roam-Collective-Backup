@@ -30,3 +30,8 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph](<collaborative graph.md>).
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph](<collaborative graph.md>).
+
