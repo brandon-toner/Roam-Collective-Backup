@@ -1,15 +1,17 @@
-- [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
-    - ~~The site isn't up yet.~~ Goal is to have it up [January 26th, 2021](<January 26th, 2021.md>)
-    - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
-- **[Twitter](<Twitter.md>):** [@kylestratis](https://twitter.com/kylestratis)
-- **[Website](<Website.md>):**
-    - [Blog](https://kylestratis.com)
-    - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
-- **[Location](<Location.md>):** [Boston](<Boston.md>), [Massachusetts](<Massachusetts.md>) [USA](<USA.md>)
-- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
-- **[How to contact me](<How to contact me.md>):** 
-    - Send me a DM on Roam Slack (preferred)
-    - Send me a DM on Twitter (also great)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
+            - ~~The site isn't up yet.~~ Goal is to have it up [January 26th, 2021](<January 26th, 2021.md>)
+            - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
+        - **[Twitter](<Twitter.md>):** [@kylestratis](https://twitter.com/kylestratis)
+        - **[Website](<Website.md>):**
+            - [Blog](https://kylestratis.com)
+            - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
+        - **[Location](<Location.md>):** [Boston](<Boston.md>), [Massachusetts](<Massachusetts.md>) [USA](<USA.md>)
+        - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
+        - **[How to contact me](<How to contact me.md>):** 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
 - **[Queries](<Queries.md>):**
     - {{[query](<query.md>): {and: [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]]}}}
 

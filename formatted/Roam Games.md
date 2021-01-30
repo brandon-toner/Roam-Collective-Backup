@@ -6,6 +6,9 @@
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - To provide a hub for community collaboration surrounding the [Roam Games](<Roam Games.md>)
 
+## [Announcements](<Announcements.md>)
+- Create a hub for the [Roam Games](<Roam Games.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Create a hub for the [Roam Games](<Roam Games.md>)
 
@@ -24,6 +27,9 @@
 - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))
 
 - [Kahlil Corazo](<Kahlil Corazo.md>) is putting out some great tweet threads related to the [Roam Games](<Roam Games.md>).
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Discuss the [Roam Games](<Roam Games.md>)
 
 ## [Prompts](<Prompts.md>)
 - [Roam Games](<Roam Games.md>)

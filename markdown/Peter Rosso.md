@@ -1,12 +1,13 @@
-- About me::
-    - Twitter:: [@rossopeter_](https://twitter.com/rossopeter_)
-    - Website:: [rosso.io](https://rosso.io)
-    - Location:: [[Bristol]], [[UK]]
-    - Time Zone:: [[GMT]] ([[UTC]] 0:00)
-    - How to contact me:: 
-        - Send me a DM on Roam Slack (Sorting this out)
-        - Send me a DM on Twitter (preferred)
-        - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - Queries::
-        - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}}}
-    - SmartBlocks::
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@rossopeter_](https://twitter.com/rossopeter_)
+        - Website:: [rosso.io](https://rosso.io)
+        - Location:: [[Bristol]], [[UK]]
+        - Time Zone:: [[GMT]] ([[UTC]] 0:00)
+        - How to contact me:: 
+            - Send me a DM on Roam Slack (Sorting this out)
+            - Send me a DM on Twitter (preferred)
+            - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
+        - Queries::
+            - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}}}
+        - SmartBlocks::

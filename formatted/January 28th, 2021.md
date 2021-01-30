@@ -313,11 +313,11 @@ Resolve by "[replace as text](<replace as text.md>)""
                 - Personal functions are great for testing out functions and for niche use cases
             - Proposed convention
                 - Personal SmartBlocks / Templates
-                    - <FirstName+LastInitial> + <Function Name> + <Experimental (optional)>
-                        - `CharlesF + Custom Query (Experimental)`
+                    - <FirstInitial+LastName> + <Function Name> + <Experimental (optional)>
+                        - `CFarr + Custom Query (Experimental)`
                 - Community SmartBlock
-                    - <rc+Function Abbreviation> — <Function Name> + <Experimental (optional)> + <(RC)>
-                        - `rcDNP — My Daily Notes (RC)`
+                    - <.rc+Index+Function Abbreviation> — <Function Name> + <Experimental (optional)> + <(RC)>
+                        - `.rc1DNP — My Daily Notes`
             - Benefits
                 - Easily distinguish between personal and community SmartBlocks / templates
                 - Easily trigger the function in question...

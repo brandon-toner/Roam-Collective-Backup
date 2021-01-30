@@ -40,6 +40,9 @@
 ## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>)
 
+## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
+- Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[Reference Notes](<Reference Notes.md>)
 

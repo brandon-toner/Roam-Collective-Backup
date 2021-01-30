@@ -1,6 +1,6 @@
 - Tags:: #[[Evergreen Notes]] #[[Andy's Notes]] #[[Reference Notes]]
     - Date Created:: [[January 29th, 2021]]
-    - Created by:: [[Brandon Toner]]
+    - Created By:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)
     - References:: #not_populated ((Supporting notes (FN, LN, EN, or other) would go here))

@@ -21,6 +21,11 @@
 
 - [Filtering]([filtering](<filtering.md>)) in [block references](<block references.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "You can [filter](<filter.md>) the references on a [block reference]([block references](<block references.md>))
+
+- You can [filter](<filter.md>) the references on a [block reference]([block references](<block references.md>))
+
 ## [Roam Fundamentals](<Roam Fundamentals.md>)
 - 5. [Block References]([block references](<block references.md>))
 

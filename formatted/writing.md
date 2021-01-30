@@ -8,3 +8,8 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) A community centered around [screenshot essays](<screenshot essays.md>) and a daily [writing](<writing.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [writing](<writing.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) It is easier to tolerate vague [writing](<writing.md>)
+

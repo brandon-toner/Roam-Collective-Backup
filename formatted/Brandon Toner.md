@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [People](<People.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
         - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
@@ -11,7 +11,7 @@
 - **[Queries](<Queries.md>):**
     - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
-    - .DNP Template (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
+    - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
         - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
             - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
@@ -20,10 +20,10 @@
             - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
             - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - Mentions (BT)
-    - Andy's Notes (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+    - BToner — Andy's Notes [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
             - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
-            - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+            - **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
             - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
             - URL: [not_populated](<not_populated.md>)
             - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
@@ -32,35 +32,38 @@
 
 # Backlinks
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Administration](<Administration.md>)
 - **[Administrator](<Administrator.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Editor](<Editor.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [Announcements](<Announcements.md>)
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
@@ -168,7 +171,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
@@ -180,13 +183,13 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Start from abundance](<Start from abundance.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - If you are interested in contributing to the initiative, request edit access by messaging [Brandon Toner](<Brandon Toner.md>)
@@ -198,7 +201,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - I can elaborate more on this. - [Brandon Toner](<Brandon Toner.md>)
 
 ## [active vs passive resurfacing](<active vs passive resurfacing.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 

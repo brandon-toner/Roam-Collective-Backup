@@ -142,7 +142,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
                 - Done. "20:21 — Added #Annotations for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) #zettelkasten"
     - #[[Change Log]]
         - Changed naming of the universal DNP template.
-            - ".rcDNP Template (rc) #42SmartBlock #roam/templates"
+            - ".rc1DNP — Daily Notes Template #42SmartBlock #roam/templates"
         - Added a Chat tag to the top section" [*](((MfcRZPEXD)))
         - 15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)
         - 17:54 — Added some Productivity [[SmartBlocks]].
@@ -295,7 +295,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
         - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `#publish` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
-            - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]"
+            - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Related:: {{[[embed]]: ((((kFPq1Gc9U))))}}
         - One reward for Roaman with high reputation in "Roam reputation system" may be the permission to create new page? If we view [[Roam]] page as a kind of resource.
         - Maybe, we could view page as [[truth]], in one [[Roam]] database, one [[Roam]] community, where these [[truth]] are built on axioms and logical inference, and [[communication]] mechanism is a basic foundation to support the emergence of logical inferences.
@@ -310,7 +310,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
         - Getting lost when replying to different messages. Don’t know where to go back...
         - Have the friction on not knowing how to backup the information in chat.
     - #[[Chat]]
-        - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[@[[Charles Farr]]]]
+        - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]
         - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[@[[Brandon Toner]]]]
         - Also [this one](((j50xmn4aN))).  cc [[^[[Brandon Toner]]]]
         - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [[^[[Brandon Toner]]]]

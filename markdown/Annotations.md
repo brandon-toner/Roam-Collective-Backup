@@ -1,2 +1,2 @@
-- Tags:: #Glossary #zettelkasten #Conventions
+- Tags:: #zettelkasten #Conventions #Collections
 - {{[[DONE]]}} Add to [[roam/css]]

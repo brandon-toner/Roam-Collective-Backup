@@ -10,3 +10,5 @@
 
 - But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)?
 
+- #[Open Questions](<Open Questions.md>) How firm should we hold [structure](<structure.md>)?
+

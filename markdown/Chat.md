@@ -1,4 +1,4 @@
-- Tags:: #Conventions
+- Tags:: #Collections #[[DNP Section]] #Conventions
 - Related:: [[notifications]]
 - **Tag Usage:**
     - When added as a module to the **top section**, this tag serves as a place to solicit comment from all of the graph members. 

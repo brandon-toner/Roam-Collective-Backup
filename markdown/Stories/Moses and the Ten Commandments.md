@@ -1,0 +1,6 @@
+- Tags: #Stories #rules #order #conventions #structure #emergence #[[Reference Notes]] #Christianity #mythology
+    - Image::
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
+    - Related::
+        - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]] (as an example of emergent structure in the episode)
+            - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions [*]([[Roam Collaboration Guide]])"

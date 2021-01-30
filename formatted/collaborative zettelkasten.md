@@ -18,3 +18,6 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Writing [fleeting notes](<fleeting notes.md>) & the [collaborative zettelkasten](<collaborative zettelkasten.md>).
+

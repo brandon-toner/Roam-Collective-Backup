@@ -1,12 +1,13 @@
-- About me::
-    - Twitter:: [@reddy2go](https://twitter.com/reddy2go)
-    - Website:: [reddy2go.com](https://reddy2go.com)
-    - Newsletter:: [Playtime!](https://playtime.reddy2go.com)
-    - Location:: [[Bombay]], [[India]]
-    - Time Zone:: ([[UTC]] +5:30)
-    - Work:: [[retired]]
-    - How to contact me:: 
-        - Send me a DM on Twitter (preferred)
-        - Tag me in something here ([under development]([[Chat]]))
-    - I started using [[Roam]] in [[July 2020]] but still agnostic due to 80% of my workflow being mobile
-    - Interests:: [[hiking]], [[tools for thought]], [[learning]], [[interdisciplinary thinking]], [[systems thinking]], [[conversation]] [[philosophy]], [[rucking]]
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@reddy2go](https://twitter.com/reddy2go)
+        - Website:: [reddy2go.com](https://reddy2go.com)
+        - Newsletter:: [Playtime!](https://playtime.reddy2go.com)
+        - Location:: [[Bombay]], [[India]]
+        - Time Zone:: ([[UTC]] +5:30)
+        - Work:: [[retired]]
+        - How to contact me:: 
+            - Send me a DM on Twitter (preferred)
+            - Tag me in something here ([under development]([[Chat]]))
+        - I started using [[Roam]] in [[July 2020]] but still agnostic due to 80% of my workflow being mobile
+        - Interests:: [[hiking]], [[tools for thought]], [[learning]], [[interdisciplinary thinking]], [[systems thinking]], [[conversation]] [[philosophy]], [[rucking]]

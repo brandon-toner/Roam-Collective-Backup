@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
     - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))

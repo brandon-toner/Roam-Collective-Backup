@@ -73,3 +73,6 @@
 
 - "**Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- The [DNP Modules](<DNP Modules.md>)
+

@@ -37,3 +37,6 @@
 
 - It introduce the idea **protocol**, which is itself a mature and basic concept in the computer network communication. We could dig out more ideas on [communication](<communication.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
+

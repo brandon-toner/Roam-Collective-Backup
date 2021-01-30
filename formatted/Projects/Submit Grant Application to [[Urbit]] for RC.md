@@ -2,7 +2,7 @@
     - **[Date Created](<../Date Created.md>):** [January 28th, 2021](<../January 28th, 2021.md>) 
     - **[Related](<../Related.md>):** #[not_populated](<../not_populated.md>)
     - **[People](<../People.md>):** ((People involved with the project))
-        - **[Created by](<../Created by.md>):** [Charles Farr](<../Charles Farr.md>)
+        - **[Created By](<../Created By.md>):** [Charles Farr](<../Charles Farr.md>)
         - **[Project Lead](<../Project Lead.md>):** [Charles Farr](<../Charles Farr.md>)
         - **[Contributors](<../Contributors.md>):**
             - [Brandon Toner](<../Brandon Toner.md>)
@@ -12,4 +12,8 @@
     - **[Reminders](<../Reminders.md>):** #[not_populated](<../not_populated.md>) 
     - **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
     - **[Notes](<../Notes.md>):** #[not_populated](<../not_populated.md>)
-    - **[Tasks](<../Tasks.md>):** [not_populated](<../not_populated.md>)
+    - **[Tasks](<../Tasks.md>):** 
+        - [ ] Outline detailed grant proposal
+        - [ ] Submit grant proposal
+        - [ ] Determine the level of technical ability required to build a bridge between Urbit and Roam
+            - [ ] Recruit interested parties to join effort!

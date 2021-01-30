@@ -1,13 +1,19 @@
-- {{embed: ((b9pQnEURN))}}
+- {{[[embed]]: ((FRFW0hQu_))}}
 - ---
-- {{[[embed]]: ((q9QxBxCGg))}}
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
     - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
     - __Interested in writing about something else?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - My morning podcast listening felt VERY relevant to this project, so I imported my [[Readwise]] highlights via [[JSON]]. #Serendipity
+        - "[[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]"
+            - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions [*]([[Roam Collaboration Guide]])"
+            - "#[[Literature Notes]] We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations."
+    - "You can [[filter]] the references on a [block reference]([[block references]]) by focusing on the block!! #Tips"
+    - Hi all 👋🏼— today I "Updated all of the current SmartBlock names..." to align with the new "SmartBlock & Roam Template Conventions"
+        - Apologies if the new names confuse anyone! In the long-term, should make it more manageable
 - #Chat ((A place to propose objects of discussion)) #not_populated
-- #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+- #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) 
 - #GTD ((Run the "Daily Review" smartblock))  
     - Daily Review::
         - **Scheduled for Today:**
@@ -21,46 +27,141 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
+        - [[[[Roam Collaborative Meetup]] No. 1]] #Meetings #Agenda
+            - Overview & Welcome
+            - Gathering feedback and user experience
+            - Review of core conventions 
+                - #Q Which ones should we highlight specifically?
+                    - Notification & Collaboration
+                    - The [[DNP Section]]
+                    - The [[DNP Modules]]
+                        - Like [[Lego]]
+            - Review of purpose, vision, goals & projects
+            - Discuss the [[Roam Games]]
+            - Writing [[fleeting notes]] & the [[collaborative zettelkasten]].
+        - #Discoveries
+            - You can [[filter]] the references on a [block reference]([[block references]]) by focusing on the block!! #Tips
         - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
             - #Annotations
                 - #[[Literature Notes]] We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations.
                     - "they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior." [*](((4tOaJgC_b)))
                     - "All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate." [*](((4tOaJgC_b)))
-                - #[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions
+                - #[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions [*]([[Roam Collaboration Guide]])
                     - "you go before the judiciary, you sort out the dispute. That becomes a precedent now. That's part of the body of laws. **The body of laws is what you act out.** That's why it's a body. Well, that's what Moses does. So he's sitting there making judgments very, very finely tuned. Discreet moral judgments." [*](((ugYN_NZgf)))
-                    - "So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [[Moses]] and it's a [[myth]]. It's a [[meta story]]. It's **It's a story about how rules come to be.**" [*](((ugYN_NZgf)))
-                    - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions"
+                    - "So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [[Moses]] and it's a [[myth]]. It's a [[meta story]]. It's **It's a story about how rules come to be.**" [*](((ugYN_NZgf))) [*]([[Stories/Moses and the Ten Commandments]])
+                    - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions [*]([[Roam Collaboration Guide]])"
                         - But once they emerge, they become distributed — they transmute into other related forms. They become shared rules for social engagement and order. 
+                            - Once a model or framework of reality and understanding is articulated, it 
                         - What determines when [[structure]] should be crystallized into [[law]] or [[conventions]]?
                             - "Crystallized" is intended to be [[held lightly]] here. 
-                                - But degree of crystallization is another interesting question. How firm should we hold [[structure]]?
-                                - 
-    - #GTD #not_populated
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #Comments #not_populated
+                                - But degree of crystallization is another interesting question. How firm should we hold [[structure]]? [*](((h4WlwD7N4))) #[[Context Questions]] 
+                                    - #[[Open Questions]] How firm should we hold [[structure]]? #conventions
+                                        - I believe we have a good balance going here. Lots of emergent conventions, with emphasis placed only on a core few. #Bookmarks
+        - Testing [[David Vargas]] query
+            - Test 1 
+                - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?t :node/title "People"]]
+            - Test 2 People
+                - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
+            - Test 3 "Pages "created by" a "member""
+                - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Created By"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
+        - #[[Bug Reports]]
+            - Can't seem to [[emoji react]] to blocks...
+    - #GTD 
+        - {{[[TODO]]}} Refine a system of [[convergence]] for [[open questions]]. #[[Week-04: 01-25-2021]]
+            - Goal: Have related questions converge into fewer central questions. 
+                - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
+        - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
+            - Section for [[collections]] under "Tag Styling #Status/Enabled #Highlights #tags"
+    - #[[Change Log]] 
+        - Added some CSS Tags
+        - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.
+    - #Promptstorming 
+        - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
+            - Excellent experience so far (but I'm familiar with the specs and style guides)
+            - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
+                - #[[Fleeting Notes]] [[writing]] for other people helps to facilitate [[clarity]], and therefore enhanced [[understanding]].
+                    - #[[Fleeting Notes]] A [[collaborative graph]] facilitates shared [[understanding]] through its requirements for explicit explanation and enhanced [[clarity]].
+                    - #[[Fleeting Notes]] It is easier to tolerate vague [[writing]] within a [[private graph]].
+                    - #[[Fleeting Notes]] Writing [[fleeting notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
+        - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
+            - Improved [[onboarding]] documentation — it's decent now, but it could be better now that things have evolved a bit.
+            - Some live events to drive some interest and activity.
+            - A shared project to collaboratively work towards.
+            - More emphasis and training on the collective zettelkasten systems.
+        - 
+    - #Comments 
+        - #Observations
+            - Love this `#minimal` [[CSS]] styling for queries. I needed this! Thanks, [[cc:[[Charles Farr]]]]
+                - Example:: 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJxkwl1BFtq.png?alt=media&token=066360e2-aae4-4dd4-afe6-86f75754e58a)
+        - #[[Graph Mentorship]]
+            - [[FYI]] Adding a day or week tag to created TODOs will help to resurface them in the GTD [[Daily Review]] [SmartBlock](((hUyrZQscO))) #Tips
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F5_Zv_9-I_p.png?alt=media&token=3984dc3d-79de-4cc8-ae27-dfc47c59b16b)
+        - #Replies
+            - "Where is the money going?"
+                - I can act as custodian for the grant funds if we are approved — I have a company that it could go through if that's a good route. 
+            - 
     - #Feedback  #not_populated
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]]
+        - [[Projects/Submit Grant Application to [[Urbit]] for RC]]
+            - Questions to answer in detailed grant proposal
+                - What are we building?
+                    - Description of Roam Collective
+                        - Structure
+                        - Goals
+                        - Approach
+                    - Role of Urbit
+                        - Dedicated community environment
+                        - Improved asynchronous and synchronous communitication
+                        - Extensible platform to enable Roam integration
+                    - Feature Roadmap
+                        - Dedicated community space with persistent communication (versus free slack)
+                        - Integration with Roam
+                            - Export of chat to Roam (for archival purposes)
+                            - Sharing of block references within Urbit space
+                            - Searching for block reference within Urbit space
+                            - Publishing content from Roam directly to Urbit space
+                            - Connection of Urbit ID with Roam account
+                - Why are we qualified?
+                    - Diverse backgrounds (technical and non-technical)
+                    - Extensive experience using Roam across various contexts
+                    - Support from broader Roam community
+                    - Technical expertise
+                        - #Q Does [[Roam-Collective]] have the technical expertise to build a Roam / Urbit integration?
+                - Where is the money going?
+                    - #Q How does the grant provide funding to recipients? Does it provide cash, credit, sponsorships, etc?
+            - Questions...
+                - What features are possible with the new Read/Write API from Roam?
+                - What technical ability is required to build on top of Urbit?
     - #GTD
-        - {{[[TODO]]}} Update all of the SmartBlocks in the graph to match new conventions
-            - {{[[TODO]]}} Document conventions
+        - {{[[TODO]]}} Update all of the SmartBlocks in the graph to match new conventions #[[Week-04: 01-25-2021]]
+            - {{[[TODO]]}} Document conventions for creating SmartBlocks & Templates
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #Comments
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
-        1. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]"
+        2. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]"
             - Agree [[@[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?
                 - Some ideas
                     - Mathematical proofs
                     - Logic
                     - Rhetorical arguments
                     - Debate
-        2. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
+        3. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
             - Sounds good [[@[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
-    - #Chat #not-populated
+        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]"
+            - Ahhhh [[@[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
+                - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
+    - #Chat
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #Feedback  #not_populated
+    - #[[Change Log]]
+        - Added "SmartBlock & Roam Template Conventions"
+            - Updated all of the current SmartBlock names...
+        - Changed the CSS for Headings "Headings"
+            - Sets all headings equal to `14px` font size
 - Import
     - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
         - From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json

@@ -1,4 +1,4 @@
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>)
 - **[Description](<Description.md>):** ((See block references for additional ideas.))
     - This is an experiment in collaboration in Roam. A space to explore conventions and processes within shared graphs. A community space for exploration and innovation.

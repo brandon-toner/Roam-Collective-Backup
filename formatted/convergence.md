@@ -7,3 +7,6 @@
 
 - [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any [fleeting notes](<fleeting notes.md>) to promote effective [convergence](<convergence.md>).
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- [ ] Refine a system of [convergence](<convergence.md>)
+

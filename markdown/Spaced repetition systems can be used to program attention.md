@@ -1,6 +1,6 @@
 - Tags:: #[[Evergreen Notes]] #[[Reference Notes]] #[[Andy's Notes]] #[[spaced repetition]]
     - Date Created:: [[January 29th, 2021]]
-    - Created by:: [[Brandon Toner]]
+    - Created By:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))

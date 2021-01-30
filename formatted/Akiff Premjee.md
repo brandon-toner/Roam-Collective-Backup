@@ -1,4 +1,5 @@
-- .DNP Template AP [42SmartBlock](<42SmartBlock.md>) 
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- APremjee — DNP Template [42SmartBlock](<42SmartBlock.md>) 
     - #[My Daily Notes](<My Daily Notes.md>) [Akiff Premjee](<Akiff Premjee.md>) {{word-count}}
         - [Scratchpad](<Scratchpad.md>)
         - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)

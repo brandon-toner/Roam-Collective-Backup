@@ -10,7 +10,7 @@
 - **[Related](<Related.md>):**
 
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
+- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):**
 
 ## [Activities](<Activities.md>)
@@ -24,6 +24,7 @@
             - **[Related](<Related.md>):**
 
 ## [Comments](<Comments.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - **[Related](<Related.md>):**
 
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
@@ -85,7 +86,7 @@
 - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):**
 
-- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [@[[Charles Farr](<@[[Charles Farr.md>)]]"
+- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - **[Related](<Related.md>):**
 
 ## [Literature Notes](<Literature Notes.md>)
@@ -105,6 +106,7 @@
     - **[Related](<Related.md>):**
 
 ## [Prompts](<Prompts.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**
 
 - What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?
@@ -139,6 +141,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>)
     - **[Related](<Related.md>):**
 
+## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
+    - **[Related](<Related.md>):**
+
 ## [active vs passive resurfacing](<active vs passive resurfacing.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
     - **[Related](<Related.md>):**
@@ -148,7 +154,10 @@
 - **[Related](<Related.md>):**
 
 ## [chat](<chat.md>)
-- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) [Conventions](<Conventions.md>)
+- **[Related](<Related.md>):**
+
+## [collections](<collections.md>)
 - **[Related](<Related.md>):**
 
 ## [just-in-time](<just-in-time.md>)

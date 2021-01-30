@@ -1,21 +1,23 @@
-- About me::
-    - Twitter:: [@eurunuela](https://twitter.com/eurunuela)
-    - Website:: [eurunuela.github.io](https://eurunuela.github.io)
-    - Location:: [[Donostia - San Sebastián]], [[Basque Country]] [[Spain]]
-    - Time Zone:: [[Central European Time]] ([[UTC]] +1:00)
-    - Work:: [[PhD student]]
-    - How to contact me:: 
-        - Send me a DM on Roam Slack (preferred)
-        - Send me a DM on Twitter (also good)
-        - Tag me in something here ([under development]([[Chat]]))
-    - I am in the third year of my Ph.D. developing algorithms that blindly estimate [[neuronal activity]] directly from [[functional MRI]] data.
-    - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
-    - Interests:: [[hiking]], [[photography]], [[rock music]], [[tools for thought]], [[learning]], [[machine learning]], [[programming]], [[algorithms]], [[guitar]], ...
-    - Queries::
-        - {{[[query]]: {and: [[@]] [[Eneko Uruñuela]]}}}
-    - SmartBlocks::
-        - Notifications BT #42SmartBlock
-            - <%BLOCKMENTIONS:20,Eneko Uruñuela,@%>
-            - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
-        - Number of Notifications #42SmartBlock
-            - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@eurunuela](https://twitter.com/eurunuela)
+        - Website:: [eurunuela.github.io](https://eurunuela.github.io)
+        - Location:: [[Donostia - San Sebastián]], [[Basque Country]] [[Spain]]
+        - Time Zone:: [[Central European Time]] ([[UTC]] +1:00)
+        - Work:: [[PhD student]]
+        - How to contact me:: 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also good)
+            - Tag me in something here ([under development]([[Chat]]))
+        - I am in the third year of my Ph.D. developing algorithms that blindly estimate [[neuronal activity]] directly from [[functional MRI]] data.
+        - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
+        - Interests:: [[hiking]], [[photography]], [[rock music]], [[tools for thought]], [[learning]], [[machine learning]], [[programming]], [[algorithms]], [[guitar]], ...
+        - Queries::
+            - {{[[query]]: {and: [[@]] [[Eneko Uruñuela]]}}}
+        - SmartBlocks::
+            - EUruñuela — Notifications BT #42SmartBlock
+                - <%BLOCKMENTIONS:20,Eneko Uruñuela,@%>
+                - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
+            - EUruñuela — Number of Notifications #42SmartBlock
+                - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
+- 

@@ -11,6 +11,9 @@
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>)
 
+## [Announcements](<Announcements.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>))
 

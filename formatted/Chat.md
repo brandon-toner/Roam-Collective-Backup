@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) [Conventions](<Conventions.md>)
 - **[Related](<Related.md>):** [notifications](<notifications.md>)
 - **Tag Usage:**
     - When added as a module to the **top section**, this tag serves as a place to solicit comment from all of the graph members. 

@@ -1,2 +1,2 @@
-- Tags:: #Conventions
+- Tags:: #Conventions #Collections
 - {{[[TODO]]}} Add to [[roam/css]]

@@ -6,6 +6,9 @@
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
 # Backlinks
+## [Announcements](<Announcements.md>)
+- Check out the #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -190,6 +193,17 @@
 - agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)

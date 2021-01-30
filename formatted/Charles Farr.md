@@ -66,7 +66,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
-- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+- **[Created By](<Created By.md>):** [Charles Farr](<Charles Farr.md>)
 
 - **[Project Lead](<Project Lead.md>):** [Charles Farr](<Charles Farr.md>)
 

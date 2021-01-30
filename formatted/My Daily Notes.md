@@ -1,3 +1,4 @@
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - Using the `#[My Daily Notes](<My Daily Notes.md>)` tag [Processes](<Processes.md>)
     - When writing on the daily page, type `#[My Daily Notes](<My Daily Notes.md>)` followed by your page. 
     - Nest all of your notes under that block.

@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
-    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [David Perell](<David Perell.md>)
     - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):** [not_populated](<not_populated.md>)

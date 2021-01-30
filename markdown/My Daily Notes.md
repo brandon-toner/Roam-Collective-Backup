@@ -1,3 +1,4 @@
+- Tags:: #Collections #[[DNP Section]]
 - Using the `#[[My Daily Notes]]` tag #Processes
     - When writing on the daily page, type `#[[My Daily Notes]]` followed by your page. 
     - Nest all of your notes under that block.

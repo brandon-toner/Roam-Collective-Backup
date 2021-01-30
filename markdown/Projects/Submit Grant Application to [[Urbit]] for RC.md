@@ -2,7 +2,7 @@
     - Date Created:: [[January 28th, 2021]] 
     - Related:: #[[not_populated]]
     - People:: ((People involved with the project))
-        - Created by:: [[Charles Farr]]
+        - Created By:: [[Charles Farr]]
         - Project Lead:: [[Charles Farr]]
         - Contributors::
             - [[Brandon Toner]]
@@ -12,4 +12,8 @@
     - Reminders:: #[[not_populated]] 
     - Date Completed:: #[[Status/Not Completed]]
     - Notes:: #[[not_populated]]
-    - Tasks:: #not_populated
+    - Tasks:: 
+        - {{[[TODO]]}} Outline detailed grant proposal
+        - {{[[TODO]]}} Submit grant proposal
+        - {{[[TODO]]}} Determine the level of technical ability required to build a bridge between Urbit and Roam
+            - {{[[TODO]]}} Recruit interested parties to join effort!

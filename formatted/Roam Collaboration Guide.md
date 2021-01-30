@@ -7,6 +7,9 @@
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
+## [Announcements](<Announcements.md>)
+- Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
@@ -30,6 +33,13 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
+
+- #[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
+
+- "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
+
 ## [Prompts](<Prompts.md>)
 - [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
@@ -37,4 +47,7 @@
 
 ## [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 - > "To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+
+## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
+- "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
 

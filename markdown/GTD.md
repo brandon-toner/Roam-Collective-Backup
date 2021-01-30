@@ -1,3 +1,3 @@
-- Tags:: #[[DNP Modules]] #Conventions
+- Tags:: #[[DNP Modules]] #Conventions, #Collections
 - A place to nest tasks, projects, etc. A hub for productivity.
 - When used in the [[Top Section of the DNP]], it is the home of the [Daily Review](((hUyrZQscO)))

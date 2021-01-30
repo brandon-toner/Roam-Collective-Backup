@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
     - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)
     - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))

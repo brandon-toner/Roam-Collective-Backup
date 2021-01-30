@@ -1,13 +1,19 @@
-- {{embed: ((b9pQnEURN))}}
+- {{[embed](<embed.md>): ((FRFW0hQu_))}}
 - ---
-- {{[embed](<embed.md>): ((q9QxBxCGg))}}
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
     - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
     - __Interested in writing about something else?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))! ((Don't forget to nest your responses under the Promptstorming tag))
-- #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+- #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - My morning podcast listening felt VERY relevant to this project, so I imported my [Readwise](<Readwise.md>) highlights via [JSON](<JSON.md>). [Serendipity](<Serendipity.md>)
+        - "[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)"
+            - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))"
+            - "#[Literature Notes](<Literature Notes.md>) We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations."
+    - "You can [filter](<filter.md>) the references on a [block reference]([block references](<block references.md>)) by focusing on the block!! [Tips](<Tips.md>)"
+    - Hi all 👋🏼— today I "Updated all of the current SmartBlock names..." to align with the new "SmartBlock & Roam Template Conventions"
+        - Apologies if the new names confuse anyone! In the long-term, should make it more manageable
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-- #[Daily Log Book](<Daily Log Book.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
+- #[Daily Log Book](<Daily Log Book.md>) ((A place to log milestone activities or sign-in to the graph)) 
 - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock))  
     - **[Daily Review](<Daily Review.md>):**
         - **Scheduled for Today:**
@@ -21,51 +27,149 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) 
+        - [[[Roam Collaborative Meetup](<[[Roam Collaborative Meetup.md>) No. 1]] [Meetings](<Meetings.md>) [Agenda](<Agenda.md>)
+            - Overview & Welcome
+            - Gathering feedback and user experience
+            - Review of core conventions 
+                - [Q](<Q.md>) Which ones should we highlight specifically?
+                    - Notification & Collaboration
+                    - The [DNP Section](<DNP Section.md>)
+                    - The [DNP Modules](<DNP Modules.md>)
+                        - Like [Lego](<Lego.md>)
+            - Review of purpose, vision, goals & projects
+            - Discuss the [Roam Games](<Roam Games.md>)
+            - Writing [fleeting notes](<fleeting notes.md>) & the [collaborative zettelkasten](<collaborative zettelkasten.md>).
+        - [Discoveries](<Discoveries.md>)
+            - You can [filter](<filter.md>) the references on a [block reference]([block references](<block references.md>)) by focusing on the block!! [Tips](<Tips.md>)
         - [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
             - [Annotations](<Annotations.md>)
                 - #[Literature Notes](<Literature Notes.md>) We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations.
                     - "they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior." [*](((4tOaJgC_b)))
                     - "All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate." [*](((4tOaJgC_b)))
-                - #[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>)
+                - #[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
                     - "you go before the judiciary, you sort out the dispute. That becomes a precedent now. That's part of the body of laws. **The body of laws is what you act out.** That's why it's a body. Well, that's what Moses does. So he's sitting there making judgments very, very finely tuned. Discreet moral judgments." [*](((ugYN_NZgf)))
-                    - "So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [Moses](<Moses.md>) and it's a [myth](<myth.md>). It's a [meta story](<meta story.md>). It's **It's a story about how rules come to be.**" [*](((ugYN_NZgf)))
-                    - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>)"
+                    - "So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [Moses](<Moses.md>) and it's a [myth](<myth.md>). It's a [meta story](<meta story.md>). It's **It's a story about how rules come to be.**" [*](((ugYN_NZgf))) [*]([Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>))
+                    - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))"
                         - But once they emerge, they become distributed — they transmute into other related forms. They become shared rules for social engagement and order. 
+                            - Once a model or framework of reality and understanding is articulated, it 
                         - What determines when [structure](<structure.md>) should be crystallized into [law](<law.md>) or [conventions](<conventions.md>)?
                             - "Crystallized" is intended to be [held lightly](<held lightly.md>) here. 
-                                - But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)?
-                                - 
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+                                - But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)? [*](((h4WlwD7N4))) #[Context Questions](<Context Questions.md>) 
+                                    - #[Open Questions](<Open Questions.md>) How firm should we hold [structure](<structure.md>)? [conventions](<conventions.md>)
+                                        - I believe we have a good balance going here. Lots of emergent conventions, with emphasis placed only on a core few. [Bookmarks](<Bookmarks.md>)
+        - Testing [David Vargas](<David Vargas.md>) query
+            - Test 1 
+                - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?t :node/title "People"]]
+            - Test 2 People
+                - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
+            - Test 3 "Pages "created by" a "member""
+                - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Created By"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
+        - #[Bug Reports](<Bug Reports.md>)
+            - Can't seem to [emoji react](<emoji react.md>) to blocks...
+    - [GTD](<GTD.md>) 
+        - [ ] Refine a system of [convergence](<convergence.md>) for [open questions](<open questions.md>). #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
+            - Goal: Have related questions converge into fewer central questions. 
+                - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)"
+        - [ ] Reorganize the [roam/css](<roam/css.md>) page #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
+            - Section for [collections](<collections.md>) under "Tag Styling [Status](<Status.md>)/Enabled [Highlights](<Highlights.md>) [tags](<tags.md>)"
+    - #[Change Log](<Change Log.md>) 
+        - Added some CSS Tags
+        - Added `[People](<People.md>)` and `[Members](<Members.md>)` tags to all people listed in the [Directory](<Directory.md>) for the purpose of building queries.
+    - [Promptstorming](<Promptstorming.md>) 
+        - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
+            - Excellent experience so far (but I'm familiar with the specs and style guides)
+            - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
+                - #[Fleeting Notes](<Fleeting Notes.md>) [writing](<writing.md>) for other people helps to facilitate [clarity](<clarity.md>), and therefore enhanced [understanding](<understanding.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) facilitates shared [understanding](<understanding.md>) through its requirements for explicit explanation and enhanced [clarity](<clarity.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) It is easier to tolerate vague [writing](<writing.md>) within a [private graph](<private graph.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>). [zettelkasten](<zettelkasten.md>) [Tips](<Tips.md>)
+        - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
+            - Improved [onboarding](<onboarding.md>) documentation — it's decent now, but it could be better now that things have evolved a bit.
+            - Some live events to drive some interest and activity.
+            - A shared project to collaboratively work towards.
+            - More emphasis and training on the collective zettelkasten systems.
+        - 
+    - [Comments](<Comments.md>) 
+        - [Observations](<Observations.md>)
+            - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+                - **[Example](<Example.md>):** 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJxkwl1BFtq.png?alt=media&token=066360e2-aae4-4dd4-afe6-86f75754e58a)
+        - #[Graph Mentorship](<Graph Mentorship.md>)
+            - [FYI](<FYI.md>) Adding a day or week tag to created TODOs will help to resurface them in the GTD [Daily Review](<Daily Review.md>) [SmartBlock](((hUyrZQscO))) [Tips](<Tips.md>)
+                - **[Image](<Image.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F5_Zv_9-I_p.png?alt=media&token=3984dc3d-79de-4cc8-ae27-dfc47c59b16b)
+        - [Replies](<Replies.md>)
+            - "Where is the money going?"
+                - I can act as custodian for the grant funds if we are approved — I have a company that it could go through if that's a good route. 
+            - 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>)
+        - [Projects/Submit Grant Application to [[Urbit](<Projects/Submit Grant Application to [[Urbit.md>) for RC]]
+            - Questions to answer in detailed grant proposal
+                - What are we building?
+                    - Description of Roam Collective
+                        - Structure
+                        - Goals
+                        - Approach
+                    - Role of Urbit
+                        - Dedicated community environment
+                        - Improved asynchronous and synchronous communitication
+                        - Extensible platform to enable Roam integration
+                    - Feature Roadmap
+                        - Dedicated community space with persistent communication (versus free slack)
+                        - Integration with Roam
+                            - Export of chat to Roam (for archival purposes)
+                            - Sharing of block references within Urbit space
+                            - Searching for block reference within Urbit space
+                            - Publishing content from Roam directly to Urbit space
+                            - Connection of Urbit ID with Roam account
+                - Why are we qualified?
+                    - Diverse backgrounds (technical and non-technical)
+                    - Extensive experience using Roam across various contexts
+                    - Support from broader Roam community
+                    - Technical expertise
+                        - [Q](<Q.md>) Does [Roam-Collective](<Roam-Collective.md>) have the technical expertise to build a Roam / Urbit integration?
+                - Where is the money going?
+                    - [Q](<Q.md>) How does the grant provide funding to recipients? Does it provide cash, credit, sponsorships, etc?
+            - Questions...
+                - What features are possible with the new Read/Write API from Roam?
+                - What technical ability is required to build on top of Urbit?
     - [GTD](<GTD.md>)
-        - [ ] Update all of the SmartBlocks in the graph to match new conventions
-            - [ ] Document conventions
+        - [ ] Update all of the SmartBlocks in the graph to match new conventions #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
+            - [ ] Document conventions for creating SmartBlocks & Templates
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - [Comments](<Comments.md>)
         1. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
-        1. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+        2. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - Agree [@[[Brandon Toner](<@[[Brandon Toner.md>)]] — any thoughts on areas of thought we should research to help build out this stucture?
                 - Some ideas
                     - Mathematical proofs
                     - Logic
                     - Rhetorical arguments
                     - Debate
-        2. "Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+        3. "Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - Sounds good [@[[Brandon Toner](<@[[Brandon Toner.md>)]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
-    - [Chat](<Chat.md>) [not-populated](<not-populated.md>)
+        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - Ahhhh [@[[leekeifon](<@[[leekeifon.md>)]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
+                - [Feature Request](<Feature Request.md>): Individualized CSS and view options within multi-player graphs
+    - [Chat](<Chat.md>)
         1. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>)
+        - Added "SmartBlock & Roam Template Conventions"
+            - Updated all of the current SmartBlock names...
+        - Changed the CSS for Headings "Headings"
+            - Sets all headings equal to `14px` font size
 - Import
     - [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
         - From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json
 
 # Backlinks
+## [Announcements](<Announcements.md>)
+- [Announcements](<Announcements.md>) **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 30th, 2021](<January 30th, 2021.md>)
 

@@ -1,3 +1,4 @@
+- Tags:: #Collections
 - Related:: [[Open Questions]], #Activities
 - Style Guide::
     - Topic, with nested prompts related to that topic. 

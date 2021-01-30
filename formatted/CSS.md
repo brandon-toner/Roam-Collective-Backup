@@ -7,6 +7,9 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) custom [CSS](<CSS.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>)
+
 ## [Prompts](<Prompts.md>)
 - How could [CSS](<CSS.md>)
 

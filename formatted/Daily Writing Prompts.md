@@ -1,3 +1,4 @@
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - **[Instructions](<Instructions.md>):**
     - Copy the block reference of the prompt into your DNP section, nested under `#[Promptstorming](<Promptstorming.md>)`
     - Nest your writing underneath the prompt reference.

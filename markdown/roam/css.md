@@ -1,13 +1,18 @@
 - #Announcements
     - ## Please document any changes to the CSS under a `#[[Change Log]]` tag within your [[DNP Section]]
 - Related:: [[roam/js]]
-- add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
-- Tags:: #[[roam/css]]
-- Tip: Filter by #Status/Enabled
-- Roam Full Site Themes #Status/Disabled
-    - Main CSS (modified [[Leyendecker]])
-        - Core
-            - ```ruby
+- Table of Contents::
+    - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
+        - [Collections Tags](((JNVnlLDxv))) 
+    - [Block Reference Styling](((xcLgPdvs0)))
+    - 
+- Contents::
+    - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
+    - Tips:: Filter by #Status/Enabled in roam/css to view active code. ((This is reliant on updating the tags as things are switched on/off; so may be unreliable))
+    - Roam Full Site Themes #Status/Disabled
+        - Main CSS (modified [[Leyendecker]])
+            - Core
+                - ```ruby
 *h1  {
   	font-size: 2.5em;
 }
@@ -233,8 +238,8 @@ span.rm-page-ref {
 .center-proj {
     text-align: center;
 }```
-        - Pomodoro 
-            - ```css
+            - Pomodoro 
+                - ```css
 .rm-pomodoro {
     background: #fff !important;
     color: #ff4747 !important;
@@ -258,9 +263,9 @@ span.rm-page-ref {
 .rm-pomodoro::first-letter {
   margin-right: 8px;
 }```
-    - [[Neo Theme]] by [[Jordan Moore]]
-        - Code
-            - ```javascript
+        - [[Neo Theme]] by [[Jordan Moore]]
+            - Code
+                - ```javascript
 /*
     Designed to work best with the Operator Mono font
 */
@@ -773,198 +778,15 @@ span.bp3-icon-small.bp3-icon-star {
 .center-proj {
     text-align: center;
 }```
-- Styling Elements
-    1. Tag Styling #Status/Enabled #Highlights #tags
-        1. Personas #Experiments
-            - Examples
-                - #P:Self Your inner self talk
-                - #P:Loving Love thyself
-                - #P:Critic One's inner critical voice
-            - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: #DFDDD5;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Loving"]{
-  background: #e2d0cb;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color: red;
-}
-
-[data-tag="P:Critic"]{
-  background: #C4CBB7;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #DFDDD5;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #e2d0cb;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #C4CBB7;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
-        2. [Personas](https://www.rodrigofranco.com/roam-personas-css.html)
-            - Examples
-                - #[[P:Self]] Inner Self Talk
-                - #[[P:Loving]] Love thyself
-                - #[[P:Critic]] Hard on yourself
-            - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: #DFDDD5;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:black;
-}
-
-[data-tag="P:Loving"]{
-  background: #e2d0cb;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color:red;
-}
-
-[data-tag="P:Critic"]{
-  background: #C4CBB7;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color: brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #DFDDD5;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #e2d0cb;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #C4CBB7;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
-        3. [[Comments]] & [[Change Log]]
-            - [[November 17th, 2020]] BIG Update to [[roam/css]] #Conventions
-                - grouped into categories
-                - Added "`Areas Tags`"
-                - Added tags for commonly used "`Processing Tags` "
-                - adjusted padding and size for more inline, natural fit.
-                - Improved tag appearance consistency, to move closer towards clear and scalable conventions.
-                - Added emojis — adjusted convention to plain background with emoji in the front. (More scalable, clear — less colour memorization)
-                - Images
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FuqiCLzIuBt.png?alt=media&token=de22fdf7-742c-4286-b87b-e567081a631e)
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2F3U0JxswX-m.png?alt=media&token=131cd749-6929-42d9-8e61-f4ace58a3e12)
-                - {{[[TODO]]}} #[[Next Steps]] #roam/css
-                    - {{[[TODO]]}} Fill in "`GTD Tags`"
-                        - Next Action
-                        - Weekly Review
-                        - Monthly Review
-                        - Vision
-                        - Context Tags `#Context/Hugh` #[[Week 47: 11-16-2020]] #[[November 2020]] 
-                    - {{[[TODO]]}} Add more "`Areas Tags`"
-                    - {{[[TODO]]}} Fill in "`Data-type Tags`" from ((-PegwHpya))
-                    - {{[[TODO]]}} Clean up "`Highlight Tags`"
-                    - {{[[TODO]]}} Clean up the rest (status, flags, misc.)
-        4. `GTD Tags`
-            - `GTD Tags`
-                - `#INBOX
+    - Styling Elements
+        1. Tag Styling #Status/Enabled #Highlights #tags
+            1. `GTD Tags`
+                - `GTD Tags`
+                    - `#INBOX
 #Inbox
 #Projects
 #Goals
+#[[Follow Up]]
 #Mindsweep
 #Waiting
 #[[Waiting-[[resolved]]]]
@@ -974,7 +796,7 @@ span.bp3-icon-small.bp3-icon-star {
 #[[Weekly Preview]]
 #[[Next Steps]]
 #GTD
-                    - ```css
+                        - ```css
 :root {
   --background:#607D8B;
   --color:#FFFFFF;
@@ -1061,6 +883,21 @@ span.rm-page-ref[data-tag="Goals"] {
 
 span.rm-page-ref[data-tag="Goals"]:before {
     content: '🎯'
+}
+
+span.rm-page-ref[data-tag="Follow Up"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Follow Up"]:before {
+    content: '📌'
 }
 
 span.rm-page-ref[data-tag="Mindsweep"] {
@@ -1182,9 +1019,9 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-        5. `Zettelkasten Tags`
-            - `#[[Reference Notes]]
-                - ```css
+            2. `Zettelkasten Tags`
+                - `#[[Reference Notes]]
+                    - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
 	background-image: linear-gradient(90deg, #BEDFF8, #BEDFF8, #BEDFF8);
 	background-size: 100%;
@@ -1196,8 +1033,8 @@ span.rm-page-ref[data-tag="Reference Notes"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            - `#[[Seedlings]]
-                - ```css
+                - `#[[Seedlings]]
+                    - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
     color: #FFFFFF !important;
     padding: 2px 5px 2px 5px;
@@ -1217,8 +1054,8 @@ background: linear-gradient(to right, #A6DA69, #A6DA69); /* W3C, IE 10+/ Edge, F
 
 
 ```
-            - `#Annotations
-                - ```css
+                - `#Annotations
+                    - ```css
 span.rm-page-ref[data-tag="Annotations"] {
     background: #795548AF;
     color: #fff;
@@ -1229,8 +1066,8 @@ span.rm-page-ref[data-tag="Annotations"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            - `#[[Fleeting Notes]]
-                - ```css
+                - `#[[Fleeting Notes]]
+                    - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
     color: #1A1718 !important;
     padding: 2px 5px 2px 5px;
@@ -1250,8 +1087,8 @@ background: linear-gradient(to right, #FFEFBA, #FFEFBA); /* W3C, IE 10+/ Edge, F
 
 
 ```
-            - `#[[Literature Notes]] [[Test]]
-                - ```css
+                - `#[[Literature Notes]] [[Test]]
+                    - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {
 	background-image: linear-gradient(90deg, #3A98E3, #3A98E3, #3A98E3);
 	background-size: 100%;
@@ -1267,8 +1104,8 @@ span.rm-page-ref[data-tag="Literature Notes"] {
 
 
 ```
-            - `#[[Evergreen Notes]] [[Test]]
-                - ```css
+                - `#[[Evergreen Notes]] [[Test]]
+                    - ```css
 span.rm-page-ref[data-tag="Evergreen Notes"] {
 	background-image: linear-gradient(90deg, #507B58, #507B58, #507B58);
 	background-size: 100%;
@@ -1321,8 +1158,8 @@ span.rm-page-ref[data-tag="Permanent Notes"]:before {
 
 
 ```
-            - `#[[Zettel Questions]]
-                ```css
+                - `#[[Zettel Questions]]
+                    ```css
 span.rm-page-ref[data-tag="Zettel Questions"] {
     color: #FFFFFF !important;
     padding: 2px 5px 2px 5px;
@@ -1342,8 +1179,8 @@ background: linear-gradient(to right, #BC6DCA, #BC6DCA); /* W3C, IE 10+/ Edge, F
 
 
 ```
-            - `#[[Branching Notes]] [[Test]]
-                - ```css
+                - `#[[Branching Notes]] [[Test]]
+                    - ```css
 span.rm-page-ref[data-tag="Branching Notes"] {
 background: #B79891;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #94716B, #94716B);  /* Chrome 10-25, Safari 5.1-6 */
@@ -1375,8 +1212,8 @@ background: linear-gradient(to right, #94716B, #94716B); /* W3C, IE 10+/ Edge, F
 
 
 ```
-            - `#[[Intermediary Notes]]
-                - ```css
+                - `#[[Intermediary Notes]]
+                    - ```css
 span.rm-page-ref[data-tag="Intermediary Notes"] {
 	color: #1A1718 !important;
     padding: 2px 5px 2px 5px;
@@ -1393,8 +1230,8 @@ background: linear-gradient(to right, #607D8B68, #607D8B68); /* W3C, IE 10+/ Edg
 }
 
 ```
-            - `#[[Project Ideas]]
-                - ```css
+                - `#[[Project Ideas]]
+                    - ```css
 span.rm-page-ref[data-tag="Project Ideas"] {
 	color: #1A1718 !important;
     padding: 2px 5px 2px 5px;
@@ -1411,11 +1248,11 @@ background: linear-gradient(to right, #FF572268, #FF572268); /* W3C, IE 10+/ Edg
 }
 
 ```
-        6. `Areas Tags`
-            - `#[[Administration]]
-        7. `Data-type Tags`
-            - `#Articles
-                - ```css
+            3. `Areas Tags`
+                - `#[[Administration]]
+            4. `Data-type Tags`
+                - `#Articles
+                    - ```css
 span.rm-page-ref[data-tag="Articles"] {
     background: #9E9E9E;
     color: #fff;
@@ -1430,8 +1267,8 @@ span.rm-page-ref[data-tag="Articles"] {
 span.rm-page-ref[data-tag="Articles"]:before {
     content: '📰'
 }```
-            - `#Books
-                - ```css
+                - `#Books
+                    - ```css
 span.rm-page-ref[data-tag="Books"] {
     background: #9E9E9E;
     color: #fff;
@@ -1446,8 +1283,8 @@ span.rm-page-ref[data-tag="Books"] {
 span.rm-page-ref[data-tag="Books"]:before {
     content: '📚'
 }```
-            - `#Tweets
-                - ```css
+                - `#Tweets
+                    - ```css
 span.rm-page-ref[data-tag="Tweets"] {
     background: #9E9E9E;
     color: #fff;
@@ -1462,8 +1299,8 @@ span.rm-page-ref[data-tag="Tweets"] {
 span.rm-page-ref[data-tag="Tweets"]:before {
     content: '🐦'
 }```
-            - `#[[Conversations and Meetings]]
-                - ```css
+                - `#[[Conversations and Meetings]]
+                    - ```css
 span.rm-page-ref[data-tag="Conversations and Meetings"] {
     background: #607D8B;
     color: #fff;
@@ -1478,8 +1315,8 @@ span.rm-page-ref[data-tag="Conversations and Meetings"] {
 span.rm-page-ref[data-tag="Conversations and Meetings"]:before {
     content: '💬'
 }```
-            - `#Podcasts
-                - ```css
+                - `#Podcasts
+                    - ```css
 span.rm-page-ref[data-tag="Podcasts"] {
     background: #9E9E9E;
     color: #fff;
@@ -1494,8 +1331,8 @@ span.rm-page-ref[data-tag="Podcasts"] {
 span.rm-page-ref[data-tag="Podcasts"]:before {
     content: '🎙'
 }```
-            - `#Meetings
-                - ```css
+                - `#Meetings
+                    - ```css
 span.rm-page-ref[data-tag="Meetings"] {
     background: #9E9E9E;
     color: #fff;
@@ -1510,8 +1347,8 @@ span.rm-page-ref[data-tag="Meetings"] {
 span.rm-page-ref[data-tag="Meetings"]:before {
     content: '👥'
 }```
-            - `#Conversations
-                - ```css
+                - `#Conversations
+                    - ```css
 span.rm-page-ref[data-tag="Conversations"] {
     background: #9E9E9E;
     color: #fff;
@@ -1526,8 +1363,24 @@ span.rm-page-ref[data-tag="Conversations"] {
 span.rm-page-ref[data-tag="Conversations"]:before {
     content: '🗣'
 }```
-            - `#Lectures
-                - ```css
+                - `#Discoveries
+                    - ```css
+span.rm-page-ref[data-tag="Discoveries"] {
+    background: #03A9F4;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Discoveries"]:before {
+    content: '🎈'
+}```
+                - `#Lectures
+                    - ```css
 span.rm-page-ref[data-tag="Lectures"] {
     background: #9E9E9E;
     color: #fff;
@@ -1542,8 +1395,8 @@ span.rm-page-ref[data-tag="Lectures"] {
 span.rm-page-ref[data-tag="Lectures"]:before {
     content: '🏫'
 }```
-            - `#[[Learning Objectives]]
-                - ```css
+                - `#[[Learning Objectives]]
+                    - ```css
 span.rm-page-ref[data-tag="Learning Objectives"] {
     background: #9E9E9E;
     color: #fff;
@@ -1558,8 +1411,8 @@ span.rm-page-ref[data-tag="Learning Objectives"] {
 span.rm-page-ref[data-tag="Learning Objectives"]:before {
     content: '🎓'
 }```
-            - `#Recommendations
-                - ```css
+                - `#Recommendations
+                    - ```css
 span.rm-page-ref[data-tag="Recommendations"] {
     background: #9E9E9E;
     color: #fff;
@@ -1574,8 +1427,8 @@ span.rm-page-ref[data-tag="Recommendations"] {
 span.rm-page-ref[data-tag="Recommendations"]:before {
     content: '📍'
 }```
-            - `#Ideas
-                - ```css
+                - `#Ideas
+                    - ```css
 span.rm-page-ref[data-tag="Ideas"] {
     background: #9E9E9E;
     color: #fff;
@@ -1590,8 +1443,8 @@ span.rm-page-ref[data-tag="Ideas"] {
 span.rm-page-ref[data-tag="Ideas"]:before {
     content: '💡'
 }```
-            - `#Jokes
-                - ```css
+                - `#Jokes
+                    - ```css
 span.rm-page-ref[data-tag="Jokes"] {
     background: #9E9E9E;
     color: #fff;
@@ -1606,8 +1459,24 @@ span.rm-page-ref[data-tag="Jokes"] {
 span.rm-page-ref[data-tag="Jokes"]:before {
     content: '🤣'
 }```
-            - `#[[Goal Ideas]]
-                - ```css
+                - `#Frameworks
+                    - ```css
+span.rm-page-ref[data-tag="Frameworks"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Frameworks"]:before {
+    content: '⚙️'
+}```
+                - `#[[Goal Ideas]]
+                    - ```css
 span.rm-page-ref[data-tag="Goal Ideas"] {
     background: #9E9E9E;
     color: #fff;
@@ -1622,8 +1491,24 @@ span.rm-page-ref[data-tag="Goal Ideas"] {
 span.rm-page-ref[data-tag="Goal Ideas"]:before {
     content: '🎯'
 }```
-            - `#[[Prompt Ideas]]
-                - ```css
+                - `#[[Graph Mentorship]]
+                    - ```css
+span.rm-page-ref[data-tag="Graph Mentorship"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Graph Mentorship"]:before {
+    content: '🤝'
+}```
+                - `#[[Prompt Ideas]]
+                    - ```css
 span.rm-page-ref[data-tag="Prompt Ideas"] {
     background: #9E9E9E;
     color: #fff;
@@ -1638,8 +1523,8 @@ span.rm-page-ref[data-tag="Prompt Ideas"] {
 span.rm-page-ref[data-tag="Prompt Ideas"]:before {
     content: '💭'
 }```
-            - `#Quotes
-                - ```css
+                - `#Quotes
+                    - ```css
 span.rm-page-ref[data-tag="Quotes"] {
     background: #9E9E9E;
     color: #fff;
@@ -1654,8 +1539,8 @@ span.rm-page-ref[data-tag="Quotes"] {
 span.rm-page-ref[data-tag="Quotes"]:before {
     content: '💬'
 }```
-            - `#Prompts
-                - ```css
+                - `#Prompts
+                    - ```css
 span.rm-page-ref[data-tag="Prompts"] {
     background: #9E9E9E;
     color: #fff;
@@ -1670,8 +1555,24 @@ span.rm-page-ref[data-tag="Prompts"] {
 span.rm-page-ref[data-tag="Prompts"]:before {
     content: '💭'
 }```
-            - `#Opportunities
-                - ```css
+                - `#Observations
+                    - ```css
+span.rm-page-ref[data-tag="Observations"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Observations"]:before {
+    content: '👀'
+}```
+                - `#Opportunities
+                    - ```css
 span.rm-page-ref[data-tag="Opportunities"] {
     background: #9E9E9E;
     color: #fff;
@@ -1686,8 +1587,8 @@ span.rm-page-ref[data-tag="Opportunities"] {
 span.rm-page-ref[data-tag="Opportunities"]:before {
     content: '🚀'
 }```
-            - `#Examples
-                - ```css
+                - `#Examples
+                    - ```css
 span.rm-page-ref[data-tag="Examples"] {
     background: #9E9E9E;
     color: #fff;
@@ -1702,8 +1603,8 @@ span.rm-page-ref[data-tag="Examples"] {
 span.rm-page-ref[data-tag="Examples"]:before {
     content: '🏷'
 }```
-            - `#Transcript
-                - ```css
+                - `#Transcript
+                    - ```css
 span.rm-page-ref[data-tag="Transcript"] {
     background: #9E9E9E;
     color: #fff;
@@ -1718,8 +1619,8 @@ span.rm-page-ref[data-tag="Transcript"] {
 span.rm-page-ref[data-tag="Transcript"]:before {
     content: '📜'
 }```
-            - `#missing-list
-                - ```css
+                - `#missing-list
+                    - ```css
 span.rm-page-ref[data-tag="missing-list"] {
     background: #9E9E9E;
     color: #fff;
@@ -1734,8 +1635,8 @@ span.rm-page-ref[data-tag="missing-list"] {
 span.rm-page-ref[data-tag="missing-list"]:before {
     content: '🔍'
 }```
-            - `#Conventions
-                - ```css
+                - `#Conventions
+                    - ```css
 span.rm-page-ref[data-tag="Conventions"] {
     background: #9E9E9E;
     color: #fff;
@@ -1750,8 +1651,8 @@ span.rm-page-ref[data-tag="Conventions"] {
 span.rm-page-ref[data-tag="Conventions"]:before {
     content: '⚙️'
 }```
-            - `#Processes
-                - ```css
+                - `#Processes
+                    - ```css
 span.rm-page-ref[data-tag="Processes"] {
     background: #9E9E9E;
     color: #fff;
@@ -1766,8 +1667,8 @@ span.rm-page-ref[data-tag="Processes"] {
 span.rm-page-ref[data-tag="Processes"]:before {
     content: '⚙️'
 }```
-            - `#Resources
-                - ```css
+                - `#Resources
+                    - ```css
 span.rm-page-ref[data-tag="Resources"] {
     background: #9E9E9E;
     color: #fff;
@@ -1782,8 +1683,8 @@ span.rm-page-ref[data-tag="Resources"] {
 span.rm-page-ref[data-tag="Resources"]:before {
     content: '🗃'
 }```
-            - `#Stories
-                - ```css
+                - `#Stories
+                    - ```css
 span.rm-page-ref[data-tag="Stories"] {
     background: #9E9E9E;
     color: #fff;
@@ -1798,8 +1699,24 @@ span.rm-page-ref[data-tag="Stories"] {
 span.rm-page-ref[data-tag="Stories"]:before {
     content: '🎭'
 }```
-            - `#Predictions
-                - ```css
+                - `#Sprints
+                    - ```css
+span.rm-page-ref[data-tag="Sprints"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Sprints"]:before {
+    content: '🏃‍♂️'
+}```
+                - `#Predictions
+                    - ```css
 span.rm-page-ref[data-tag="Predictions"] {
     background: #9E9E9E;
     color: #fff;
@@ -1814,8 +1731,24 @@ span.rm-page-ref[data-tag="Predictions"] {
 span.rm-page-ref[data-tag="Predictions"]:before {
     content: '🔮'
 }```
-            - `#Idioms
-                - ```css
+                - `#Replies
+                    - ```css
+span.rm-page-ref[data-tag="Replies"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Replies"]:before {
+    content: '💬'
+}```
+                - `#Idioms
+                    - ```css
 span.rm-page-ref[data-tag="Idioms"] {
     background: #9E9E9E;
     color: #fff;
@@ -1830,8 +1763,8 @@ span.rm-page-ref[data-tag="Idioms"] {
 span.rm-page-ref[data-tag="Idioms"]:before {
     content: '🗣'
 }```
-            - `#Timestamps
-                - ```css
+                - `#Timestamps
+                    - ```css
 span.rm-page-ref[data-tag="Timestamps"] {
     background: #9E9E9E;
     color: #fff;
@@ -1842,8 +1775,8 @@ span.rm-page-ref[data-tag="Timestamps"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            - `#Tips
-                - ```css
+                - `#Tips
+                    - ```css
 span.rm-page-ref[data-tag="Tips"] {
     background: #9E9E9E;
     color: #fff;
@@ -1858,8 +1791,8 @@ span.rm-page-ref[data-tag="Tips"] {
 span.rm-page-ref[data-tag="Tips"]:before {
     content: '☝️'
 }```
-            - `#Tensions
-                - ```css
+                - `#Tensions
+                    - ```css
 span.rm-page-ref[data-tag="Tensions"] {
     background: #9E9E9E;
     color: #fff;
@@ -1874,8 +1807,24 @@ span.rm-page-ref[data-tag="Tensions"] {
 span.rm-page-ref[data-tag="Tensions"]:before {
     content: '⛓'
 }```
-            - `#[[Open Questions]]
-                - ```css
+                - `#Templates
+                    - ```css
+span.rm-page-ref[data-tag="Templates"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Templates"]:before {
+    content: '📄'
+}```
+                - `#[[Open Questions]]
+                    - ```css
 span.rm-page-ref[data-tag="Open Questions"] {
     background: #607D8B;
     color: #fff;
@@ -1890,8 +1839,8 @@ span.rm-page-ref[data-tag="Open Questions"] {
 span.rm-page-ref[data-tag="Open Questions"]:before {
     content: '❓'
 }```
-            - `#[[Context Questions]]
-                - ```css
+                - `#[[Context Questions]]
+                    - ```css
 span.rm-page-ref[data-tag="Context Questions"] {
     background: #607D8B;
     color: #fff;
@@ -1906,8 +1855,24 @@ span.rm-page-ref[data-tag="Context Questions"] {
 span.rm-page-ref[data-tag="Context Questions"]:before {
     content: '❓'
 }```
-            - `#Shownotes
-                - ```css
+                - `#Q
+                    - ```css
+span.rm-page-ref[data-tag="Q"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Q"]:before {
+    content: '❓'
+}```
+                - `#Shownotes
+                    - ```css
 span.rm-page-ref[data-tag="Shownotes"] {
     background: #9E9E9E;
     color: #fff;
@@ -1918,8 +1883,8 @@ span.rm-page-ref[data-tag="Shownotes"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            - `#[[Weather Report]]
-                - ```css
+                - `#[[Weather Report]]
+                    - ```css
 span.rm-page-ref[data-tag="Weather Report"] {
     background: #9E9E9E;
     color: #fff;
@@ -1934,9 +1899,9 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-        8. `Collaboration Tags`
-            - `#[[Tips & Tricks]]
-                - ```css
+            5. `Collaboration Tags`
+                - `#[[Tips & Tricks]]
+                    - ```css
 span.rm-page-ref[data-tag="Tips & Tricks"] {
     background: #4CAF50;
     color: #fff;
@@ -1951,8 +1916,8 @@ span.rm-page-ref[data-tag="Tips & Tricks"] {
 span.rm-page-ref[data-tag="Tips & Tricks"]:before {
     content: '🔑'
 }```
-            - `#Questions
-                - ```css
+                - `#Questions
+                    - ```css
 span.rm-page-ref[data-tag="Questions"] {
     background: #9E9E9E;
     color: #fff;
@@ -1967,8 +1932,8 @@ span.rm-page-ref[data-tag="Questions"] {
 span.rm-page-ref[data-tag="Questions"]:before {
     content: '❓'
 }```
-            - #Reply-from [[Your Name]]
-                - ```css
+                - #Reply-from [[Your Name]]
+                    - ```css
 span.rm-page-ref[data-tag="Reply-from"] {
 	background-image: linear-gradient(to right, #CD4CE3AD,#CD4CE3AD);
 	background-size: 100%;
@@ -2020,8 +1985,8 @@ span.rm-page-ref[data-tag="Reply-from"]:before {
 
 
 ```
-            - `#Comments
-                - ```css
+                - `#Comments
+                    - ```css
 span.rm-page-ref[data-tag="Comments"] {
     background: #9C27B0;
     color: #fff;
@@ -2036,8 +2001,8 @@ span.rm-page-ref[data-tag="Comments"] {
 span.rm-page-ref[data-tag="Comments"]:before {
     content: '💬'
 }```
-            - `#Announcements
-                - ```css
+                - `#Announcements
+                    - ```css
 span.rm-page-ref[data-tag="Announcements"] {
     background: #F44336;
     color: #fff;
@@ -2052,8 +2017,8 @@ span.rm-page-ref[data-tag="Announcements"] {
 span.rm-page-ref[data-tag="Announcements"]:before {
     content: '📢'
 }```
-            - `#[[Change Log]]
-                - ```css
+                - `#[[Change Log]]
+                    - ```css
 span.rm-page-ref[data-tag="Change Log"] {
     background: #4CAF50;
     color: #fff;
@@ -2068,8 +2033,8 @@ span.rm-page-ref[data-tag="Change Log"] {
 span.rm-page-ref[data-tag="Change Log"]:before {
     content: '📢'
 }```
-            - `#Promptstorming
-                - ```css
+                - `#Promptstorming
+                    - ```css
 span.rm-page-ref[data-tag="Promptstorming"] {
     background: #98160C;
     color: #fff;
@@ -2084,8 +2049,8 @@ span.rm-page-ref[data-tag="Promptstorming"] {
 span.rm-page-ref[data-tag="Promptstorming"]:before {
     content: '🌪️'
 }```
-            - `#[[Help Wanted]]
-                - ```css
+                - `#[[Help Wanted]]
+                    - ```css
 span.rm-page-ref[data-tag="Help Wanted"] {
     background: #9C27B0;
     color: #fff;
@@ -2100,8 +2065,8 @@ span.rm-page-ref[data-tag="Help Wanted"] {
 span.rm-page-ref[data-tag="Help Wanted"]:before {
     content: '😃'
 }```
-            - `#[[Dice Roll]]
-                - ```css
+                - `#[[Dice Roll]]
+                    - ```css
 span.rm-page-ref[data-tag="Dice Roll"] {
     background: #009688;
     color: #fff;
@@ -2116,8 +2081,8 @@ span.rm-page-ref[data-tag="Dice Roll"] {
 span.rm-page-ref[data-tag="Dice Roll"]:before {
     content: '🎲'
 }```
-            - `#[[Scratchpad]]
-                - ```css
+                - `#[[Scratchpad]]
+                    - ```css
 span.rm-page-ref[data-tag="Scratchpad"] {
     background: #607D8B;
     color: #fff;
@@ -2132,8 +2097,8 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 span.rm-page-ref[data-tag="Scratchpad"]:before {
     content: '✏️'
 }```
-            - `#[[Bookmarks]]
-                - ```css
+                - `#[[Bookmarks]]
+                    - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {
     background: #2196F3;
     color: #fff;
@@ -2148,8 +2113,8 @@ span.rm-page-ref[data-tag="Bookmarks"] {
 span.rm-page-ref[data-tag="Bookmarks"]:before {
     content: '💾'
 }```
-            - `#[[The Main Feed]]
-                - ```css
+                - `#[[The Main Feed]]
+                    - ```css
 span.rm-page-ref[data-tag="The Main Feed"] {
     background: #607D8B;
     color: #fff;
@@ -2164,8 +2129,8 @@ span.rm-page-ref[data-tag="The Main Feed"] {
 span.rm-page-ref[data-tag="The Main Feed"]:before {
     content: '⭐️'
 }```
-            - `#[[Daily Log Book]]
-                - ```css
+                - `#[[Daily Log Book]]
+                    - ```css
 span.rm-page-ref[data-tag="Daily Log Book"] {
     background: #FF9800;
     color: #fff;
@@ -2180,8 +2145,24 @@ span.rm-page-ref[data-tag="Daily Log Book"] {
 span.rm-page-ref[data-tag="Daily Log Book"]:before {
     content: '✍🏼'
 }```
-            - #[[My Daily Notes]] [[Your Name]]
-                - ```css
+                - `#[[Daily Writing Prompts]]
+                    - ```css
+span.rm-page-ref[data-tag="Daily Writing Prompts"] {
+    background: #4CAF50;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Daily Writing Prompts"]:before {
+    content: '✍🏼'
+}```
+                - #[[My Daily Notes]] [[Your Name]]
+                    - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
 	background-image: linear-gradient(to right, #607D8B,#607D8B);
 	background-size: 100%;
@@ -2229,9 +2210,9 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-width: 11px;
     margin-top: -11px;
 }```
-            - #[[Posted by]] [[Your Name]]
-            - `#[[Chat]]
-                - ```css
+                - #[[Posted by]] [[Your Name]]
+                - `#[[Chat]]
+                    - ```css
 span.rm-page-ref[data-tag="Chat"] {
     background: #2196F3;
     color: #fff;
@@ -2246,8 +2227,8 @@ span.rm-page-ref[data-tag="Chat"] {
 span.rm-page-ref[data-tag="Chat"]:before {
     content: '📢'
 }```
-            - `#Chat [[Your Name]] #@ [[Beau Haan 📌]]`
-                - ```ruby
+                - `#Chat [[Your Name]] #@ [[Beau Haan 📌]]`
+                    - ```ruby
 span.rm-page-ref[data-tag="Chat"] {
 	background-image: linear-gradient(to right, #4c8dc9,#4c8dc9);
     color: #fff;
@@ -2299,8 +2280,8 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            - #Reply
-                - ```css
+                - #Reply
+                    - ```css
 span.rm-page-ref[data-tag="Reply"] {
 	background: #CD4CE3AD;
     color: #fff;
@@ -2350,9 +2331,9 @@ span.rm-page-ref[data-tag="Reply"]:before {
 }
 */
 ```
-            - #Question [[Their Name]]
-            - #Help [[Your Name]]
-                - ```css
+                - #Question [[Their Name]]
+                - #Help [[Your Name]]
+                    - ```css
 span.rm-page-ref[data-tag="Help"] {
 	background-image: linear-gradient(to right, #FF9800,#FF9800);
 	background-size: 100%;
@@ -2404,8 +2385,8 @@ span.rm-page-ref[data-tag="Help"]:before {
 
 
 ```
-            - #@ [[Their Name]]
-                - ```css
+                - #@ [[Their Name]]
+                    - ```css
 span.rm-page-ref[data-tag="@"] {
 	background-image: linear-gradient(to right, #4c8dc9,#4c8dc9);
 	background-size: 100%;
@@ -2457,9 +2438,9 @@ span.rm-page-ref[data-tag="@"]:before {
 
 
 ```
-            - #Poll
-                - ```css
-span.rm-page-ref[data-tag="Poll"] {
+                - #Polls
+                    - ```css
+span.rm-page-ref[data-tag="Polls"] {
     color: white !important;
     padding: 3px 5px 3px 5px;
 	font-size: 13px;
@@ -2479,8 +2460,8 @@ background: linear-gradient(to right, #5856d6, #5856d6); /* W3C, IE 10+/ Edge, F
 
 
 ```
-            - #Video
-                - ```css
+                - #Video
+                    - ```css
 span.rm-page-ref[data-tag="Video"] {
 	background-image: linear-gradient(to right, #0D71EB,#0D71EB);
 	background-size: 100%;
@@ -2533,24 +2514,8 @@ span.rm-page-ref[data-tag="Video"]:before {
 
 
 ```
-            - `#[[Daily Writing Prompts]]
-                - ```css
-span.rm-page-ref[data-tag="Daily Writing Prompts"] {
-    background: #4CAF50;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Writing Prompts"]:before {
-    content: '✍🏼'
-}```
-            - `Alerts, and "Seen"`
-                - ```css
+                - `Alerts, and "Seen"`
+                    - ```css
 span[data-link-title^="@"] {
         border: 2px solid #a76800 !important;
         padding: 3px 6px 3px 7px;
@@ -2598,12 +2563,12 @@ span[data-link-title^="cc:"]:before {
     color: #000746 !important;
     content: "📨"
 }```
-        9. `Feedback Tags` 
-            - #Feedback 
+            6. `Feedback Tags` 
+                - #Feedback 
 #[[[[Feedback]]: What's working]]
 #[[[[Feedback]]: What could be better]]
 #[[[[Feedback]]: [[Suggestions]]]]
-                - ```css
+                    - ```css
 :root {
   --color:#FFFFFF;
   --padding:2px 5px 2px 5px;
@@ -2667,8 +2632,8 @@ span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"] {
 span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"]:before {
     content: '📣💬'
 }```
-            - `#[[[[Bug Reports]]-[[resolved]]]]
-                - ```css
+                - `#[[Bug Reports-[[resolved]]]]
+                    - ```css
 span.rm-page-ref[data-tag="Bug Reports"] {
     background: #009688;
     color: #fff;
@@ -2684,8 +2649,8 @@ span.rm-page-ref[data-tag="Bug Reports"]:before {
     content: '🐛 '
 }
 ```
-            - `#[[Roam Enhancement Requests]]
-                - ```css
+                - `#[[Roam Enhancement Requests]]
+                    - ```css
 span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
     background: #009688;
     color: #fff;
@@ -2700,9 +2665,9 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-        10. `Processing Tags` 
-            - `#SRS
-                - ```css
+            7. `Processing Tags` 
+                - `#SRS
+                    - ```css
 span.rm-page-ref[data-tag="SRS"] {
     background: #009688;
     color: #fff;
@@ -2717,8 +2682,8 @@ span.rm-page-ref[data-tag="SRS"] {
 span.rm-page-ref[data-tag="SRS"]:before {
     content: '🔁'
 }```
-            - `#[[grab-attachment]]
-                - ```css
+                - `#[[grab-attachment]]
+                    - ```css
 span.rm-page-ref[data-tag="grab-attachment"] {
     background: #009688;
     color: #fff;
@@ -2733,8 +2698,8 @@ span.rm-page-ref[data-tag="grab-attachment"] {
 span.rm-page-ref[data-tag="grab-attachment"]:before {
     content: '📎'
 }```
-            - `#[[connect-to]]
-                - ```css
+                - `#[[connect-to]]
+                    - ```css
 span.rm-page-ref[data-tag="connect-to"] {
     background: #009688;
     color: #fff;
@@ -2749,8 +2714,8 @@ span.rm-page-ref[data-tag="connect-to"] {
 span.rm-page-ref[data-tag="connect-to"]:before {
     content: '🔗'
 }```
-            - `#[[find-connections]]
-                - ```css
+                - `#[[find-connections]]
+                    - ```css
 span.rm-page-ref[data-tag="find-connections"] {
     background: #009688;
     color: #fff;
@@ -2765,8 +2730,8 @@ span.rm-page-ref[data-tag="find-connections"] {
 span.rm-page-ref[data-tag="find-connections"]:before {
     content: '👀'
 }```
-            - `#find-reference
-                - ```css
+                - `#find-reference
+                    - ```css
 span.rm-page-ref[data-tag="find-reference"] {
     background: #009688;
     color: #fff;
@@ -2781,8 +2746,8 @@ span.rm-page-ref[data-tag="find-reference"] {
 span.rm-page-ref[data-tag="find-reference"]:before {
     content: '🔍'
 }```
-            - `#[[how-should-I-tag-this]]
-                - ```css
+                - `#[[how-should-I-tag-this]]
+                    - ```css
 span.rm-page-ref[data-tag="how-should-I-tag-this"] {
     background: #009688;
     color: #fff;
@@ -2797,9 +2762,9 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-        11. `Highlight Tags`
-            - #Highlights
-                - ```css
+            8. `Highlight Tags`
+                - #Highlights
+                    - ```css
 span.rm-page-ref[data-tag="Highlights"] {
     background: #FFC107;
     color: #fff;
@@ -2814,8 +2779,8 @@ span.rm-page-ref[data-tag="Highlights"] {
 span.rm-page-ref[data-tag="Highlights"]:before {
     content: ''
 }```
-            - `#[[My Wins]]
-                - ```css
+                - `#[[My Wins]]
+                    - ```css
 span.rm-page-ref[data-tag="My Wins"] {
     background: #4CAF50;
     color: #fff;
@@ -2830,8 +2795,8 @@ span.rm-page-ref[data-tag="My Wins"] {
 span.rm-page-ref[data-tag="My Wins"]:before {
     content: '🏆'
 }```
-            - #[[Key Concepts]]
-                - ```css
+                - #[[Key Concepts]]
+                    - ```css
 span.rm-page-ref[data-tag="Key Concepts"] {
     background: #4CAF50;
     color: #fff;
@@ -2846,9 +2811,9 @@ span.rm-page-ref[data-tag="Key Concepts"] {
 span.rm-page-ref[data-tag="Key Concepts"]:before {
     content: '🗝'
 }```
-            - [[The BAGEL Method]]
-                - #[[Big Idea]]
-                    - ```css
+                - [[The BAGEL Method]]
+                    - #[[Big Idea]]
+                        - ```css
 span.rm-page-ref[data-tag="Big Idea"] {
     background: #9E9E9E;
     color: #fff;
@@ -2863,8 +2828,8 @@ span.rm-page-ref[data-tag="Big Idea"] {
 span.rm-page-ref[data-tag="Big Idea"]:before {
     content: '🔵'
 }```
-                - #[[Antagonism]]
-                    - ```css
+                    - #[[Antagonism]]
+                        - ```css
 span.rm-page-ref[data-tag="Antagonism"] {
     background: #9E9E9E;
     color: #fff;
@@ -2879,8 +2844,8 @@ span.rm-page-ref[data-tag="Antagonism"] {
 span.rm-page-ref[data-tag="Antagonism"]:before {
     content: '🔴'
 }```
-                - #[[General Noteworthy]]
-                    - ```css
+                    - #[[General Noteworthy]]
+                        - ```css
 span.rm-page-ref[data-tag="General Noteworthy"] {
     background: #9E9E9E;
     color: #fff;
@@ -2895,8 +2860,8 @@ span.rm-page-ref[data-tag="General Noteworthy"] {
 span.rm-page-ref[data-tag="General Noteworthy"]:before {
     content: '🟡'
 }```
-                - #[[External Reference]]
-                    - ```css
+                    - #[[External Reference]]
+                        - ```css
 span.rm-page-ref[data-tag="External Reference"] {
     background: #9E9E9E;
     color: #fff;
@@ -2911,8 +2876,8 @@ span.rm-page-ref[data-tag="External Reference"] {
 span.rm-page-ref[data-tag="External Reference"]:before {
     content: '🟠'
 }```
-                - #[[List of Ideas]]
-                    - ```css
+                    - #[[List of Ideas]]
+                        - ```css
 span.rm-page-ref[data-tag="List of Ideas"] {
     background: #9E9E9E;
     color: #fff;
@@ -2927,8 +2892,8 @@ span.rm-page-ref[data-tag="List of Ideas"] {
 span.rm-page-ref[data-tag="List of Ideas"]:before {
     content: '🟢'
 }```
-            - `#[[Random Review]]
-                - ```css
+                - `#[[Random Review]]
+                    - ```css
 span.rm-page-ref[data-tag="Random Review"] {
     background: #9E9E9E;
     color: #fff;
@@ -2943,9 +2908,9 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-        12. `Daily Tags`
-            - `#[[Writing & Reflection]]
-                - ```css
+            9. `Daily Tags`
+                - `#[[Writing & Reflection]]
+                    - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
     background: #607D8B;
     color: #fff;
@@ -2960,8 +2925,8 @@ span.rm-page-ref[data-tag="Writing & Reflection"] {
 span.rm-page-ref[data-tag="Writing & Reflection"]:before {
     content: '💬'
 }```
-            - `#[[Today I Learned]]
-                - ```css
+                - `#[[Today I Learned]]
+                    - ```css
 span.rm-page-ref[data-tag="Today I Learned"] {
     background: #9C27B0;
     color: #fff;
@@ -2976,8 +2941,8 @@ span.rm-page-ref[data-tag="Today I Learned"] {
 span.rm-page-ref[data-tag="Today I Learned"]:before {
     content: '⚡️'
 }```
-            - `#[[Morning Journal]]
-                - ```css
+                - `#[[Morning Journal]]
+                    - ```css
 span.rm-page-ref[data-tag="Morning Journal"] {
     background: #9E9E9E;
     color: #fff;
@@ -2992,8 +2957,8 @@ span.rm-page-ref[data-tag="Morning Journal"] {
 span.rm-page-ref[data-tag="Morning Journal"]:before {
     content: '🌞'
 }```
-            - `#[[Evening Journal]]
-                - ```css
+                - `#[[Evening Journal]]
+                    - ```css
 span.rm-page-ref[data-tag="Evening Journal"] {
     background: #9E9E9E;
     color: #fff;
@@ -3008,8 +2973,8 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-        13. `#Quote (inline block ref)
-            - ```css
+            10. `#Quote (inline block ref)
+                - ```css
 span.rm-page-ref[data-tag="Quote"] {
     background: #607D8B !important;
     color: rgb(255,255,255) !important;
@@ -3025,9 +2990,9 @@ span.rm-page-ref[data-tag="Quote"]:before {
     content: '✦'
 }
 ```
-        14. `#[[Actions Taken]]
-        15. `#[[Action Items]]
-            - ```css
+            11. `#[[Actions Taken]]
+            12. `#[[Action Items]]
+                - ```css
 span.rm-page-ref[data-tag="Action Items"] {
     background: #9E9E9E;
     color: #fff;
@@ -3042,9 +3007,9 @@ span.rm-page-ref[data-tag="Action Items"] {
 span.rm-page-ref[data-tag="Action Items"]:before {
     content: '🚩'
 }```
-        16. `#[[Focus Mode]]
-        17. `#[[The Zettelkasten]]
-            - ```css
+            13. `#[[Focus Mode]]
+            14. `#[[The Zettelkasten]]
+                - ```css
 span.rm-page-ref[data-tag="The Zettelkasten"] {
     background: #607D8B;
     color: #fff;
@@ -3059,8 +3024,8 @@ span.rm-page-ref[data-tag="The Zettelkasten"] {
 span.rm-page-ref[data-tag="The Zettelkasten"]:before {
     content: '⚡'
 }```
-        18. `#[[Focus Mode (plus)]]
-            - ```css
+            15. `#[[Focus Mode (plus)]]
+                - ```css
 span.rm-page-ref[data-tag="Focus Mode (plus)"] {
     background: #607D8B;
     color: #fff;
@@ -3075,8 +3040,8 @@ span.rm-page-ref[data-tag="Focus Mode (plus)"] {
 span.rm-page-ref[data-tag="Focus Mode (plus)"]:before {
     content: '🎯'
 }```
-        19. `#[[Housekeeping]]
-            - ```css
+            16. `#[[Housekeeping]]
+                - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
     background: #9E9E9E;
     color: #fff;
@@ -3091,8 +3056,8 @@ span.rm-page-ref[data-tag="Housekeeping"] {
 span.rm-page-ref[data-tag="Housekeeping"]:before {
     content: '🧹'
 }```
-        20. `#[[Quick Capture]]
-            - ```css
+            17. `#[[Quick Capture]]
+                - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
     background: #9E9E9E;
     color: #fff;
@@ -3107,8 +3072,8 @@ span.rm-page-ref[data-tag="Quick Capture"] {
 span.rm-page-ref[data-tag="Quick Capture"]:before {
     content: '📱'
 }```
-        21. `#Flag
-            - ```css
+            18. `#Flag
+                - ```css
 span.rm-page-ref[data-tag="Flag"] {
     background: #9E9E9E;
     color: #fff;
@@ -3123,8 +3088,8 @@ span.rm-page-ref[data-tag="Flag"] {
 span.rm-page-ref[data-tag="Flag"]:before {
     content: '🚩'
 }```
-        22. `#Problems
-            - ```css
+            19. `#Problems
+                - ```css
 span.rm-page-ref[data-tag="Problems"] {
     background: #C52D22;
     color: #fff;
@@ -3135,8 +3100,8 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        23. `#Resolved
-            - ```css
+            20. `#Resolved
+                - ```css
 span.rm-page-ref[data-tag="Resolved"] {
     color: #1ea20d;
     padding: 2px 5px 2px 5px;
@@ -3146,8 +3111,8 @@ span.rm-page-ref[data-tag="Resolved"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        24. `#Happenings
-            - ```css
+            21. `#Happenings
+                - ```css
 span.rm-page-ref[data-tag="Happenings"] {
     background: #0DCAAC;
     color: #fff;
@@ -3158,8 +3123,8 @@ span.rm-page-ref[data-tag="Happenings"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        25. `#Disabled
-            - ```css
+            22. `#Disabled
+                - ```css
 span.rm-page-ref[data-tag="Disabled"] {
     background: #B82419;
     color: #fff;
@@ -3170,8 +3135,8 @@ span.rm-page-ref[data-tag="Disabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        26. `#Important
-            - ```css
+            23. `#Important
+                - ```css
 span.rm-page-ref[data-tag="Important"] {
     background: #0BE100;
     color: #fff;
@@ -3182,8 +3147,8 @@ span.rm-page-ref[data-tag="Important"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        27. `#Urgent
-            - ```css
+            24. `#Urgent
+                - ```css
 span.rm-page-ref[data-tag="Urgent"] {
     background: #D90000;
     color: #fff;
@@ -3194,8 +3159,8 @@ span.rm-page-ref[data-tag="Urgent"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        28. `Status/ tags`
-            - ```css
+            25. `Status/ tags`
+                - ```css
 span.rm-page-ref[data-tag="Status/Sent"] {
     background: #03A9F4;
     color: #fff;
@@ -3329,8 +3294,8 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        29. `Alert/ tags`
-            - ```css
+            26. `Alert/ tags`
+                - ```css
 span.rm-page-ref[data-tag="Alert/Not Populated"] {
     color: #6F6F6F;
     padding: 2px 5px 2px 5px;
@@ -3340,8 +3305,8 @@ span.rm-page-ref[data-tag="Alert/Not Populated"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        30. `Flag/ tags`
-            - ```css
+            27. `Flag/ tags`
+                - ```css
 span.rm-page-ref[data-tag="Flag/Favourite"] {
     color: #FF3C7E;
     padding: 2px 5px 2px 5px;
@@ -3421,8 +3386,8 @@ span.rm-page-ref[data-tag="Flag/Needs-Review"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        31. `SCC/ tags`
-            - ```css
+            28. `SCC/ tags`
+                - ```css
 span.rm-page-ref[data-tag="SCC/No Contact Yet"] {
     background: #C7291D;
     color: #fff;
@@ -3458,9 +3423,171 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     font-weight: 500;
   	border-radius: 5px 5px 5px 5px;
 }```
-        32. **Archive**
-            - `Evergreen tags` (#Legacy)
+            29. Personas #Experiments
+                - Examples
+                    - #P:Self Your inner self talk
+                    - #P:Loving Love thyself
+                    - #P:Critic One's inner critical voice
                 - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: #DFDDD5;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:brown;
+}
+
+[data-tag="P:Loving"]{
+  background: #e2d0cb;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color: red;
+}
+
+[data-tag="P:Critic"]{
+  background: #C4CBB7;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #DFDDD5;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #e2d0cb;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #C4CBB7;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+            30. [Personas](https://www.rodrigofranco.com/roam-personas-css.html)
+                - Examples
+                    - #[[P:Self]] Inner Self Talk
+                    - #[[P:Loving]] Love thyself
+                    - #[[P:Critic]] Hard on yourself
+                - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: #DFDDD5;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:black;
+}
+
+[data-tag="P:Loving"]{
+  background: #e2d0cb;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color:red;
+}
+
+[data-tag="P:Critic"]{
+  background: #C4CBB7;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color: brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #DFDDD5;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #e2d0cb;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #C4CBB7;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+            31. **Archive**
+                - `Evergreen tags` (#Legacy)
+                    - ```css
 span.rm-page-ref[data-tag="Groves"] {
     background: #009678;
     color: #fff;
@@ -3479,7 +3606,7 @@ span.rm-page-ref[data-tag="Evergreens"] {
   	border-radius: 5px 5px 5px 5px;
 }
 ```
-            - ```html
+                - ```html
 /* Custom data tags */
 
 span.rm-page-ref[data-tag="highlight"] {
@@ -4074,9 +4201,9 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     line-height: 2em;
     font-weight: 500;
 }```
-    2. Functional CSS
-        - Headings & font #Status/Enabled
-            - ```css
+        2. Functional CSS
+            - Headings & font #Status/Enabled
+                - ```css
 *h1  {
   	font-size: 2.5em;
 }
@@ -4101,20 +4228,20 @@ h6 {
 a {
     color: #2179F3;
 }```
-        - Fix sidebar editing height issue #Status/Enabled
-            - ```css
+            - Fix sidebar editing height issue #Status/Enabled
+                - ```css
 /* When editing page title in sidebar this prevents it from having weird height issues */
 #right-sidebar .rm-title-textarea {
     width: 95%;
 }```
-        - Link Symbol #Status/Enabled
-            - ```css
+            - Link Symbol #Status/Enabled
+                - ```css
 .rm-alias-external:before {
     content: '🔗'
 }```
-            - 
-        - Nested Links #Status/Enabled
-            - ```css
+                - 
+            - Nested Links #Status/Enabled
+                - ```css
 :root {
   /*  --custom-background-color: lightsteelblue; */
     --custom-background-color-hover: lightsteelblue;
@@ -4224,20 +4351,20 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
     padding-bottom: 7px;
 }
 ```
-        - Block Reference styling #Status/Enabled
-            - ```css
+            - Block Reference styling #Status/Enabled
+                - ```css
 .rm-block-ref > span:before {
   content: '| ';
   font-weight: 700;
   color: #FF9800
 }```
-        - Heading Styling
-            - ```c++
+            - Heading Styling
+                - ```c++
 .rm-ref-page-view-title {
  	font-weight: 600;
 	font-size: 1.5em;
  }```
-            - ```clojure
+                - ```clojure
 .rm-level1 {
     padding-top: 10px
 }
@@ -4271,8 +4398,8 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
 }
 
 /* the location tag is necessary for the above lines to distinguish from external links */```
-        - Buttons & Word Count #Status/Enabled
-            - ```css
+            - Buttons & Word Count #Status/Enabled
+                - ```css
 /* Buttons in Block Text */
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]),
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):focus,
@@ -4305,9 +4432,83 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
 }```
-    3. Other Styling #frills
-        - Left side-bar #Status/Enabled
-            - ```ruby
+        3. Core User Interface (e.g., Headings)
+            - Headings
+                - Preview
+                    - # Heading 1
+                        - ## Heading 2
+                            - ### Heading 3
+                - Settings
+                    - ```css
+:root {
+  --fnt-page-title: 		/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
+  --fnt-h1:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
+  --fnt-h2:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
+  --fnt-h3:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
+  --fnt-size-page-title: 	22px;
+  --fnt-size-h1:       		14px;
+  --fnt-size-h2:       		14px;
+  --fnt-size-h3:       		14px;
+  --fnt-style-h1:			normal;
+  --fnt-style-h2:			normal;
+  --fnt-style-h3:			normal;
+  --fnt-weight-h1:			500;
+  --fnt-weight-h2:			500;
+  --fnt-weight-h3:			500;
+}```
+                - Headings
+                    - ```css
+h1.level2,
+.rm-level2, 
+.rm-heading-level-2 > .rm-block__self .rm-block__input {
+  color: var(--fg-h2);
+}
+
+.rm-level1, 
+.rm-heading-level-1 > .rm-block__self .rm-block__input {
+  color: var(--fg-h1);
+}
+
+.rm-level3, 
+.rm-heading-level-3 > .rm-block__self .rm-block__input {
+  color: var(--fg-h3);
+}
+
+.roam-body .roam-app h1,
+.rm-level1, 
+.rm-heading-level-1 > .rm-block__self .rm-block__input {
+  font-family: var(--fnt-h1);
+  font-size: var(--fnt-size-h1);
+  font-weight: var(--fnt-weight-h1);
+  font-style: var(--fnt-style-h1);
+}
+
+h1.level2,
+.rm-level2, 
+.rm-heading-level-2 > .rm-block__self .rm-block__input {
+  font-family: var(--fnt-h2)!important;
+  font-size: var(--fnt-size-h2);
+  font-weight: var(--fnt-weight-h2);
+  font-style: var(--fnt-style-h2);
+}
+
+.rm-level3, 
+.rm-heading-level-3 > .rm-block__self .rm-block__input {
+  font-family: var(--fnt-h3);
+  font-size: var(--fnt-size-h3);
+  font-weight: var(--fnt-weight-h3);
+  font-style: var(--fnt-style-h3);
+}
+
+.roam-body .roam-app h1,
+.roam-body .roam-app .roam-main .roam-article .rm-title-display {
+  font-family: var(--fnt-page-title)!important;
+  font-size: var(--fnt-size-page-title);
+  color: var(--fg-h1);
+}```
+        4. Other Styling #frills
+            - Left side-bar #Status/Enabled
+                - ```ruby
 /* Left Sidebar reformatting */
 
 .roam-body .roam-app .roam-sidebar-container {
@@ -4325,8 +4526,8 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
     color: black;
     opacity: 100%;
 }```
-        - Alias Styling
-            - ```clojure
+            - Alias Styling
+                - ```clojure
 .rm-alias.rm-alias-page {
   	color: #0884ff ;
   	font-weight: 600;
@@ -4345,8 +4546,8 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
-        - Link Formatting (naked)
-            - ```clojure
+            - Link Formatting (naked)
+                - ```clojure
 /* link formatting: */
 
 a {
@@ -4360,8 +4561,8 @@ a:hover {
   	font-weight: 400;
   	text-decoration: none;
 }```
-        - Reference Page in sidebar
-            - ```clojure
+            - Reference Page in sidebar
+                - ```clojure
 .rm-ref-page-view-title span {
   	color: #000000;
   	font-weight: 600;
@@ -4372,13 +4573,13 @@ a:hover {
   	color: rgb(17,153,55);
   	text-decoration: none !important; 	
 }```
-        - Round Check-Boxes
-            - ```php
+            - Round Check-Boxes
+                - ```php
 .checkmark {
   border-radius: 50% !important;
 }```
-        - Query Display Options
-            - ```css
+            - Query Display Options
+                - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
 before the beginning of your query (in the same block):
 
@@ -4426,10 +4627,10 @@ display:none!important; /* hide page reference (title) */
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }```
-- Feature Expansions
-    - Split Screen
-    - Split Tags
-        - ```javascript
+    - Feature Expansions
+        - Split Screen
+        - Split Tags
+            - ```javascript
 /* Split Screen CSS for Roam                 */
 /* "Assembled" and tweaked by @DavidCrandall */
 /* https://davidcrandallwrites.com           */
@@ -4828,8 +5029,8 @@ a {
     border-color: black;
     border-style: solid;
 }*/```
-    - Make Wide
-        - ```javascript
+        - Make Wide
+            - ```javascript
 .roam-center div:first-child {
             padding-right: calc((100% - 900px) / 2) !important;
         }
@@ -4847,22 +5048,23 @@ a {
             }
         }
 ```
-    - Fix for orange blocks
-        - ```css
+        - Fix for orange blocks
+            - ```css
 #find-or-create-input {
    outline: none!important;
 }```
-    - Width of sidebar
-        - ```css
+        - Width of sidebar
+            - ```css
 /*This does a decent job of expanding one pane or the other depending on how much space each needs. It'll give you a little more room.*/
 .roam-center {
     flex-basis: auto !important;
     resize: horizontal !important;
     overflow: auto !important;
 }```
-- Inbox::
-    - {{[[TODO]]}} Add #Suggestions to [[roam/css]]
-    - {{[[TODO]]}} Add #Experiments to [[roam/css]]
-- Comments::
-    - "Left side-bar #Status/Enabled"
-        - Maintained as default black for easy differentiation between your personal graph [[November 22nd, 2020]]
+    - User Interface Elements
+    - Inbox::
+        - {{[[TODO]]}} Add #Suggestions to [[roam/css]]
+        - {{[[TODO]]}} Add #Experiments to [[roam/css]]
+    - Comments::
+        - "Left side-bar #Status/Enabled"
+            - Maintained as default black for easy differentiation between your personal graph [[November 22nd, 2020]]

@@ -1,8 +1,9 @@
-- About me::
-    - Twitter:: [@zsviczian](https://twitter.com/zsviczian)
-    - Website:: [zsolt.blog](https://www.zsolt.blog)
-    - Location:: [[Hungary]]
-    - Time Zone:: [[CET]] (GMT+1)
-    - How to contact me::
-        - DM me on twitter
-        - Contact me: info@zsolt.blog
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@zsviczian](https://twitter.com/zsviczian)
+        - Website:: [zsolt.blog](https://www.zsolt.blog)
+        - Location:: [[Hungary]]
+        - Time Zone:: [[CET]] (GMT+1)
+        - How to contact me::
+            - DM me on twitter
+            - Contact me: info@zsolt.blog

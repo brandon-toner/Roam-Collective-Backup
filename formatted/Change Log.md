@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Announcements](<Announcements.md>)
+- Check the #[Change Log](<Change Log.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -42,13 +45,13 @@
 
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Change Log](<Change Log.md>)
 
 ## [roam/css](<roam/css.md>)
 - ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)`
-
-3. [Comments](<Comments.md>) & [Change Log](<Change Log.md>)
 
 - `#[Change Log](<Change Log.md>)
 

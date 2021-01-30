@@ -70,7 +70,7 @@
         - How to import highlights and take [literature notes](<literature notes.md>) in [Roam-Collective](<Roam-Collective.md>)?
             - [x] Build "resource" template... for articles/books/twitter threads etc. 
                 - Based on [Readwise](<Readwise.md>) template.
-                - "Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
+                - ".rc3REF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
         - How to use Roam for school and learning?
             - Spaced repetition
     - #[Help Wanted](<Help Wanted.md>)
@@ -268,7 +268,7 @@
             - One tricky approach I've used myself is to create a block like...
                 - **Key Questions**
                     - <Insert Question Here>
-                - Then in the ".rcDNP Template (rc) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates" smartblock, add an `{{embed: ((yO46x9t2h))}}`
+                - Then in the ".rc1DNP — Daily Notes Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates" smartblock, add an `{{embed: ((yO46x9t2h))}}`
                 - So long as you don't touch the top level bullet, you can move blocks in and out of it
                 - Relies on people block referencing the block in question though, because you don't want them to write inside of the block necessarily...
                     - **this is a downfall**

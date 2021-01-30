@@ -1,3 +1,4 @@
+- Tags:: #Collections #[[DNP Section]]
 - Instructions::
     - Timestamp your activity as you visit or make changes in the graph.
         - Example:: 

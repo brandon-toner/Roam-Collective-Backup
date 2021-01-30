@@ -1,2 +1,2 @@
-- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>) [Conventions](<Conventions.md>)
+- **[Tags](<Tags.md>):** [zettelkasten](<zettelkasten.md>) [Conventions](<Conventions.md>) [Collections](<Collections.md>)
 - [x] Add to [roam/css](<roam/css.md>)

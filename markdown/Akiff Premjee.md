@@ -1,4 +1,5 @@
-- .DNP Template AP #42SmartBlock 
+- Tags:: #People #Members
+- APremjee — DNP Template #42SmartBlock 
     - #[[My Daily Notes]] [[Akiff Premjee]] {{word-count}}
         - #Scratchpad
         - #Promptstorming #not_populated

@@ -1,14 +1,16 @@
-- [RoamLab](https://roamlab.org) #RoamLab
-    - ~~The site isn't up yet.~~ Goal is to have it up [[January 26th, 2021]]
-    - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
-- Twitter:: [@kylestratis](https://twitter.com/kylestratis)
-- Website::
-    - [Blog](https://kylestratis.com)
-    - [RoamLab](https://roamlab.org) #RoamLab
-- Location:: [[Boston]], [[Massachusetts]] [[USA]]
-- Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
-- How to contact me:: 
-    - Send me a DM on Roam Slack (preferred)
-    - Send me a DM on Twitter (also great)
+- Tags:: #People #Members
+    - About me::
+        - [RoamLab](https://roamlab.org) #RoamLab
+            - ~~The site isn't up yet.~~ Goal is to have it up [[January 26th, 2021]]
+            - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
+        - Twitter:: [@kylestratis](https://twitter.com/kylestratis)
+        - Website::
+            - [Blog](https://kylestratis.com)
+            - [RoamLab](https://roamlab.org) #RoamLab
+        - Location:: [[Boston]], [[Massachusetts]] [[USA]]
+        - Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
+        - How to contact me:: 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
 - Queries::
     - {{[[query]]: {and: [[@[[Kyle Stratis]]]]}}}

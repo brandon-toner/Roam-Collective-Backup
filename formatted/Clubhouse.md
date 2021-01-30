@@ -23,11 +23,11 @@
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[Twitter](<Twitter.md>):** [@laj2100](https://twitter.com/laj2100)
-    - **[Clubhouse](<Clubhouse.md>):**
+        - **[Clubhouse](<Clubhouse.md>):**
 
 ## [Michael Shulman](<Michael Shulman.md>)
 - **[Twitter](<Twitter.md>):** [@ymshulman](https://twitter.com/ymshulman)
-    - **[Clubhouse](<Clubhouse.md>):**
+        - **[Clubhouse](<Clubhouse.md>):**
 
 ## [Prompts](<Prompts.md>)
 - How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>)

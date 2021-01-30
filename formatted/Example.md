@@ -66,6 +66,10 @@
 - **[Example](<Example.md>):** We (may) all agree that logical inference is the methodology on achieving [objective [[truth](<objective [[truth.md>)]], so we set it as [axiomatic presuppositions](<axiomatic presuppositions.md>).
                 - **[Example](<Example.md>):**
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+                - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
     - **[Example](<Example.md>):**
