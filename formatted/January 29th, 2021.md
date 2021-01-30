@@ -255,7 +255,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
                 - [ ] [January 28th, 2021](<January 28th, 2021.md>) [Test](<Test.md>)
                 - [Waiting](<Waiting.md>) [Test](<Test.md>)
         - "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>). "
-            - [@[[leekeifon](<@[[leekeifon.md>)]] [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
+            - [~[[leekeifon](<~[[leekeifon.md>)]] [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
                 - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
                     - Another option is using the [choice algorithm](<choice algorithm.md>)
         - "Yeah, they’re pretty good [resurfacing](<resurfacing.md>) mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private."

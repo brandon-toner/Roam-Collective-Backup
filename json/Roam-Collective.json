@@ -65367,7 +65367,7 @@
                         ":block/uid": "4YV1dG4Lw"
                       },
                       {
-                        ":block/uid": "ecu2XC6Nv"
+                        ":block/uid": "ABV2OzfXT"
                       },
                       {
                         ":block/uid": "Xg2Nu61kO"
@@ -65377,7 +65377,7 @@
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
                     },
                     "children": [
                       {
@@ -65428,19 +65428,19 @@
                       }
                     ],
                     "create-time": 1611972681248,
-                    "edit-time": 1611972912252,
+                    "edit-time": 1612002677560,
                     "refs": [
                       {
                         "uid": "4YV1dG4Lw"
                       },
                       {
-                        "uid": "ecu2XC6Nv"
+                        "uid": "ABV2OzfXT"
                       },
                       {
                         "uid": "Xg2Nu61kO"
                       }
                     ],
-                    "string": "[[@[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]",
+                    "string": "[[~[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]",
                     "uid": "qtfwGY0QP"
                   }
                 ],

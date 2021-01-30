@@ -255,7 +255,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].
                 - {{[[TODO]]}} [[January 28th, 2021]] #Test
                 - #Waiting #Test
         - "So, in fact, I wanna level up the concept "#[[Fleeting Notes]] Roam {X} protocol" to be a page in [[Roam-Collective]]. "
-            - [[@[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]
+            - [[~[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]
                 - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
                     - Another option is using the [[choice algorithm]]
         - "Yeah, they’re pretty good [[resurfacing]] mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private."
