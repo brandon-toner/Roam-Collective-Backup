@@ -1,12 +1,13 @@
-- **[About me](<About me.md>):**
-    - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
-    - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
-    - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
-    - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
-    - **[How to contact me](<How to contact me.md>):** 
-        - Send me a DM on Roam Slack (preferred)
-        - Send me a DM on Twitter (also great)
-        - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
+- **[Tags](<Tags.md>):** [People](<People.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
+        - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
+        - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
+        - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
+        - **[How to contact me](<How to contact me.md>):** 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
+            - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
 - **[Queries](<Queries.md>):**
     - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**

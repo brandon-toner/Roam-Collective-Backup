@@ -6,7 +6,7 @@
 
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[About me](<About me.md>):**
-    - **[Twitter](<Twitter.md>):**
+        - **[Twitter](<Twitter.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[About me](<About me.md>):**

@@ -1,4 +1,3 @@
-- **[Instructions](<Instructions.md>):** Use this tag to log changes you make to the graph. See the references for examples.
 
 # Backlinks
 ## [Brandon Toner](<Brandon Toner.md>)
@@ -44,7 +43,7 @@
 ## [roam/css](<roam/css.md>)
 - ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)`
 
-1. [Comments](<Comments.md>) & [Change Log](<Change Log.md>)
+3. [Comments](<Comments.md>) & [Change Log](<Change Log.md>)
 
 - `#[Change Log](<Change Log.md>)
 

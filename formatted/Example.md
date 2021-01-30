@@ -44,6 +44,22 @@
 - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
                 - **[Example](<Example.md>):**
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
+            - **[Example](<Example.md>):**
+
+- My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))
+                - **[Example](<Example.md>):**
+
+- [Viewing page as truth](((H6M1XTGet))) is a concrete [goals](<goals.md>) to make our [communication](<communication.md>) [converge](<converge.md>).
+            - **[Example](<Example.md>):**
+
+- web articles/twitter thread sharing, rather than a book, which has shorter feedback loop.
+                        - **[Example](<Example.md>):**
+
+- Of course, this metric may be too dull, we may need more roads to help Roamans to get their reputation. 
+                        - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
     - **[Example](<Example.md>):**

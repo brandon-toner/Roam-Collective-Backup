@@ -5,10 +5,10 @@
     - **[Work](<Work.md>):** naive [software engineer](<software engineer.md>)
     - **[How to contact me](<How to contact me.md>):** Twitter/Roam Slack
     - **[Interests](<Interests.md>):** Math/Logic/Design/Program
-    - **[Queries](<Queries.md>):**
-        - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
-        - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
-        - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}}}
+- **[Queries](<Queries.md>):**
+    - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
+    - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
+    - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}}}
 
 # Backlinks
 ## [Directory](<Directory.md>)
@@ -20,6 +20,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
+
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [leekeifon](<leekeifon.md>)

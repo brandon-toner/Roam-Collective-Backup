@@ -16,8 +16,13 @@
 - **[Tags](<Tags.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
+- **[Tags](<Tags.md>):**
+
 - Andy's Notes (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **[Tags](<Tags.md>):**
+
+## [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
+- **[Tags](<Tags.md>):**
 
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Tags](<Tags.md>):**
@@ -117,6 +122,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [chat](<chat.md>)
+- **[Tags](<Tags.md>):**
+
+## [choice algorithm](<choice algorithm.md>)
 - **[Tags](<Tags.md>):**
 
 ## [collaborative graph](<collaborative graph.md>)

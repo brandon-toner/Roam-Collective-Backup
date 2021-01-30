@@ -1,86 +1,5 @@
 - [Announcements](<../Announcements.md>)
     - ## Please document any changes to the CSS under a `#[Change Log](<../Change Log.md>)` tag within your [DNP Section](<../DNP Section.md>)
-- [Personas](https://www.rodrigofranco.com/roam-personas-css.html)
-    - Examples
-        - #[P:Self](<../P:Self.md>) Inner Self Talk
-        - #[P:Loving](<../P:Loving.md>) Love thyself
-        - #[P:Critic](<../P:Critic.md>) Hard on yourself
-    - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: [DFDDD5](<../DFDDD5.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:black;
-}
-
-[data-tag="P:Loving"]{
-  background: [e2d0cb](<../e2d0cb.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color:red;
-}
-
-[data-tag="P:Critic"]{
-  background: [C4CBB7](<../C4CBB7.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color: brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [DFDDD5](<../DFDDD5.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [e2d0cb](<../e2d0cb.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [C4CBB7](<../C4CBB7.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
 - **[Related](<../Related.md>):** [roam/js](<../roam/js.md>)
 - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
 - **[Tags](<../Tags.md>):** #[roam/css](<../roam/css.md>)
@@ -856,7 +775,169 @@ span.bp3-icon-small.bp3-icon-star {
 }```
 - Styling Elements
     1. Tag Styling [Status](<../Status.md>)/Enabled [Highlights](<../Highlights.md>) [tags](<../tags.md>)
-        1. [Comments](<../Comments.md>) & [Change Log](<../Change Log.md>)
+        1. Personas [Experiments](<../Experiments.md>)
+            - Examples
+                - [P](<../P.md>):Self Your inner self talk
+                - [P](<../P.md>):Loving Love thyself
+                - [P](<../P.md>):Critic One's inner critical voice
+            - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: [DFDDD5](<../DFDDD5.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:brown;
+}
+
+[data-tag="P:Loving"]{
+  background: [e2d0cb](<../e2d0cb.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color: red;
+}
+
+[data-tag="P:Critic"]{
+  background: [C4CBB7](<../C4CBB7.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [DFDDD5](<../DFDDD5.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [e2d0cb](<../e2d0cb.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [C4CBB7](<../C4CBB7.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+        2. [Personas](https://www.rodrigofranco.com/roam-personas-css.html)
+            - Examples
+                - #[P:Self](<../P:Self.md>) Inner Self Talk
+                - #[P:Loving](<../P:Loving.md>) Love thyself
+                - #[P:Critic](<../P:Critic.md>) Hard on yourself
+            - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: [DFDDD5](<../DFDDD5.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:black;
+}
+
+[data-tag="P:Loving"]{
+  background: [e2d0cb](<../e2d0cb.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color:red;
+}
+
+[data-tag="P:Critic"]{
+  background: [C4CBB7](<../C4CBB7.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color: brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [DFDDD5](<../DFDDD5.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [e2d0cb](<../e2d0cb.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [C4CBB7](<../C4CBB7.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+        3. [Comments](<../Comments.md>) & [Change Log](<../Change Log.md>)
             - [November 17th, 2020](<../November 17th, 2020.md>) BIG Update to [roam/css](<../roam/css.md>) [Conventions](<../Conventions.md>)
                 - grouped into categories
                 - Added "`Areas Tags`"
@@ -878,7 +959,7 @@ span.bp3-icon-small.bp3-icon-star {
                     - [ ] Fill in "`Data-type Tags`" from ((-PegwHpya))
                     - [ ] Clean up "`Highlight Tags`"
                     - [ ] Clean up the rest (status, flags, misc.)
-        2. `GTD Tags`
+        4. `GTD Tags`
             - `GTD Tags`
                 - `[INBOX](<../INBOX.md>)
 [Inbox](<../Inbox.md>)
@@ -1101,7 +1182,7 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-        3. `Zettelkasten Tags`
+        5. `Zettelkasten Tags`
             - `#[Reference Notes](<../Reference Notes.md>)
                 - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
@@ -1330,9 +1411,9 @@ background: linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<
 }
 
 ```
-        4. `Areas Tags`
+        6. `Areas Tags`
             - `#[Administration](<../Administration.md>)
-        5. `Data-type Tags`
+        7. `Data-type Tags`
             - `[Articles](<../Articles.md>)
                 - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -1589,6 +1670,22 @@ span.rm-page-ref[data-tag="Prompts"] {
 span.rm-page-ref[data-tag="Prompts"]:before {
     content: '💭'
 }```
+            - `[Opportunities](<../Opportunities.md>)
+                - ```css
+span.rm-page-ref[data-tag="Opportunities"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Opportunities"]:before {
+    content: '🚀'
+}```
             - `[Examples](<../Examples.md>)
                 - ```css
 span.rm-page-ref[data-tag="Examples"] {
@@ -1837,7 +1934,7 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-        6. `Collaboration Tags`
+        8. `Collaboration Tags`
             - `#[Tips & Tricks](<../Tips & Tricks.md>)
                 - ```css
 span.rm-page-ref[data-tag="Tips & Tricks"] {
@@ -2475,11 +2572,11 @@ span[data-link-title^="~"] {
 
 span[data-link-title^="~"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "👀seen"
+    content: "✅read"
 }
 
 span[data-link-title^="^"] {
-        border: 2px solid [2196F3](<../2196F3.md>) !important;
+        border: 2px solid [4CAF50](<../4CAF50.md>) !important;
         padding: 3px 6px 3px 7px;
         margin-right: 1px;
     line-height: 2em;
@@ -2488,8 +2585,20 @@ span[data-link-title^="^"] {
 span[data-link-title^="^"]:before {
     color: [000746](<../000746.md>) !important;
     content: "💾saved"
+}
+
+span[data-link-title^="cc"] {
+        border: 2px solid [2196F3](<../2196F3.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="cc:"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "📨"
 }```
-        7. `Feedback Tags` 
+        9. `Feedback Tags` 
             - [Feedback](<../Feedback.md>) 
 #[[[Feedback](<../[[Feedback.md>): What's working]]
 #[[[Feedback](<../[[Feedback.md>): What could be better]]
@@ -2591,7 +2700,7 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-        8. `Processing Tags` 
+        10. `Processing Tags` 
             - `[SRS](<../SRS.md>)
                 - ```css
 span.rm-page-ref[data-tag="SRS"] {
@@ -2688,7 +2797,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-        9. `Highlight Tags`
+        11. `Highlight Tags`
             - [Highlights](<../Highlights.md>)
                 - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -2834,7 +2943,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-        10. `Daily Tags`
+        12. `Daily Tags`
             - `#[Writing & Reflection](<../Writing & Reflection.md>)
                 - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -2899,7 +3008,7 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-        11. `[Quote](<../Quote.md>) (inline block ref)
+        13. `[Quote](<../Quote.md>) (inline block ref)
             - ```css
 span.rm-page-ref[data-tag="Quote"] {
     background: [607D8B](<../607D8B.md>) !important;
@@ -2916,8 +3025,8 @@ span.rm-page-ref[data-tag="Quote"]:before {
     content: '✦'
 }
 ```
-        12. `#[Actions Taken](<../Actions Taken.md>)
-        13. `#[Action Items](<../Action Items.md>)
+        14. `#[Actions Taken](<../Actions Taken.md>)
+        15. `#[Action Items](<../Action Items.md>)
             - ```css
 span.rm-page-ref[data-tag="Action Items"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -2933,8 +3042,8 @@ span.rm-page-ref[data-tag="Action Items"] {
 span.rm-page-ref[data-tag="Action Items"]:before {
     content: '🚩'
 }```
-        14. `#[Focus Mode](<../Focus Mode.md>)
-        15. `#[The Zettelkasten](<../The Zettelkasten.md>)
+        16. `#[Focus Mode](<../Focus Mode.md>)
+        17. `#[The Zettelkasten](<../The Zettelkasten.md>)
             - ```css
 span.rm-page-ref[data-tag="The Zettelkasten"] {
     background: [607D8B](<../607D8B.md>);
@@ -2950,7 +3059,7 @@ span.rm-page-ref[data-tag="The Zettelkasten"] {
 span.rm-page-ref[data-tag="The Zettelkasten"]:before {
     content: '⚡'
 }```
-        16. `#[Focus Mode (plus)](<../Focus Mode (plus).md>)
+        18. `#[Focus Mode (plus)](<../Focus Mode (plus).md>)
             - ```css
 span.rm-page-ref[data-tag="Focus Mode (plus)"] {
     background: [607D8B](<../607D8B.md>);
@@ -2966,7 +3075,7 @@ span.rm-page-ref[data-tag="Focus Mode (plus)"] {
 span.rm-page-ref[data-tag="Focus Mode (plus)"]:before {
     content: '🎯'
 }```
-        17. `#[Housekeeping](<../Housekeeping.md>)
+        19. `#[Housekeeping](<../Housekeeping.md>)
             - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -2982,7 +3091,7 @@ span.rm-page-ref[data-tag="Housekeeping"] {
 span.rm-page-ref[data-tag="Housekeeping"]:before {
     content: '🧹'
 }```
-        18. `#[Quick Capture](<../Quick Capture.md>)
+        20. `#[Quick Capture](<../Quick Capture.md>)
             - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -2998,7 +3107,7 @@ span.rm-page-ref[data-tag="Quick Capture"] {
 span.rm-page-ref[data-tag="Quick Capture"]:before {
     content: '📱'
 }```
-        19. `[Flag](<../Flag.md>)
+        21. `[Flag](<../Flag.md>)
             - ```css
 span.rm-page-ref[data-tag="Flag"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -3014,7 +3123,7 @@ span.rm-page-ref[data-tag="Flag"] {
 span.rm-page-ref[data-tag="Flag"]:before {
     content: '🚩'
 }```
-        20. `[Problems](<../Problems.md>)
+        22. `[Problems](<../Problems.md>)
             - ```css
 span.rm-page-ref[data-tag="Problems"] {
     background: [C52D22](<../C52D22.md>);
@@ -3026,7 +3135,7 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        21. `[Resolved](<../Resolved.md>)
+        23. `[Resolved](<../Resolved.md>)
             - ```css
 span.rm-page-ref[data-tag="Resolved"] {
     color: [1ea20d](<../1ea20d.md>);
@@ -3037,7 +3146,7 @@ span.rm-page-ref[data-tag="Resolved"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        22. `[Happenings](<../Happenings.md>)
+        24. `[Happenings](<../Happenings.md>)
             - ```css
 span.rm-page-ref[data-tag="Happenings"] {
     background: [0DCAAC](<../0DCAAC.md>);
@@ -3049,7 +3158,7 @@ span.rm-page-ref[data-tag="Happenings"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        23. `[Disabled](<../Disabled.md>)
+        25. `[Disabled](<../Disabled.md>)
             - ```css
 span.rm-page-ref[data-tag="Disabled"] {
     background: [B82419](<../B82419.md>);
@@ -3061,7 +3170,7 @@ span.rm-page-ref[data-tag="Disabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        24. `[Important](<../Important.md>)
+        26. `[Important](<../Important.md>)
             - ```css
 span.rm-page-ref[data-tag="Important"] {
     background: [0BE100](<../0BE100.md>);
@@ -3073,7 +3182,7 @@ span.rm-page-ref[data-tag="Important"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        25. `[Urgent](<../Urgent.md>)
+        27. `[Urgent](<../Urgent.md>)
             - ```css
 span.rm-page-ref[data-tag="Urgent"] {
     background: [D90000](<../D90000.md>);
@@ -3085,7 +3194,7 @@ span.rm-page-ref[data-tag="Urgent"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        26. `Status/ tags`
+        28. `Status/ tags`
             - ```css
 span.rm-page-ref[data-tag="Status/Sent"] {
     background: [03A9F4](<../03A9F4.md>);
@@ -3220,7 +3329,7 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        27. `Alert/ tags`
+        29. `Alert/ tags`
             - ```css
 span.rm-page-ref[data-tag="Alert/Not Populated"] {
     color: [6F6F6F](<../6F6F6F.md>);
@@ -3231,7 +3340,7 @@ span.rm-page-ref[data-tag="Alert/Not Populated"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        28. `Flag/ tags`
+        30. `Flag/ tags`
             - ```css
 span.rm-page-ref[data-tag="Flag/Favourite"] {
     color: [FF3C7E](<../FF3C7E.md>);
@@ -3312,7 +3421,7 @@ span.rm-page-ref[data-tag="Flag/Needs-Review"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-        29. `SCC/ tags`
+        31. `SCC/ tags`
             - ```css
 span.rm-page-ref[data-tag="SCC/No Contact Yet"] {
     background: [C7291D](<../C7291D.md>);
@@ -3349,7 +3458,7 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     font-weight: 500;
   	border-radius: 5px 5px 5px 5px;
 }```
-        30. **Archive**
+        32. **Archive**
             - `Evergreen tags` ([Legacy](<../Legacy.md>))
                 - ```css
 span.rm-page-ref[data-tag="Groves"] {
@@ -4751,87 +4860,6 @@ a {
     resize: horizontal !important;
     overflow: auto !important;
 }```
-    - Personas [Experiments](<../Experiments.md>)
-        - Examples
-            - [P](<../P.md>):Self Your inner self talk
-            - [P](<../P.md>):Loving Love thyself
-            - [P](<../P.md>):Critic One's inner critical voice
-        - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: [DFDDD5](<../DFDDD5.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Loving"]{
-  background: [e2d0cb](<../e2d0cb.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color: red;
-}
-
-[data-tag="P:Critic"]{
-  background: [C4CBB7](<../C4CBB7.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [DFDDD5](<../DFDDD5.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [e2d0cb](<../e2d0cb.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [C4CBB7](<../C4CBB7.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
 - **[Inbox](<../Inbox.md>):**
     - [ ] Add [Suggestions](<../Suggestions.md>) to [roam/css](<../roam/css.md>)
     - [ ] Add [Experiments](<../Experiments.md>) to [roam/css](<../roam/css.md>)
@@ -4842,6 +4870,9 @@ a {
 # Backlinks
 ## [Annotations](<Annotations.md>)
 - [x] Add to [roam/css](<../roam/css.md>)
+
+## [CSS](<CSS.md>)
+- **[Redirect](<../Redirect.md>):** [roam/css](<../roam/css.md>)
 
 ## [Follow Up](<Follow Up.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)

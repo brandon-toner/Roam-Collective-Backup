@@ -70,11 +70,11 @@
 - this model maybe [Related](<Related.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
-                    - **[Related](<Related.md>):**
-
 - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
                         - **[Related](<Related.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+                    - **[Related](<Related.md>):**
 
 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
                     - **[Related](<Related.md>):**
@@ -165,7 +165,7 @@
 - **[Related](<Related.md>):**
 
 ## [roam/css](<roam/css.md>)
-}```
+- ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)` tag within your [DNP Section](<DNP Section.md>)
 - **[Related](<Related.md>):**
 
 ## [roam/templates](<roam/templates.md>)

@@ -8,3 +8,5 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - My justification is that Andy's notes are [atomic](<atomic.md>).
 
+- #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) are best shared as page links. Each convention is an [atomic](<atomic.md>)
+

@@ -6,7 +6,7 @@
 
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
-    - **[Location](<Location.md>):**
+        - **[Location](<Location.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Website](<Website.md>):** [eurunuela.github.io](https://eurunuela.github.io)

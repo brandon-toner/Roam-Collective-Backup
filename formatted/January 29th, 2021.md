@@ -1,5 +1,8 @@
 - {{embed: ((b9pQnEURN))}}
 - ---
+- [Announcements](<Announcements.md>)
+    - Note the new "cc" convention & updated collaboration documentation.
+        - "21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))"
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
@@ -12,6 +15,7 @@
             - 
     - [Kahlil Corazo](<Kahlil Corazo.md>) is putting out some great tweet threads related to the [Roam Games](<Roam Games.md>). Check [this](((JUvpVJe0-))) out.
     - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
+    - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [fleeting notes](<fleeting notes.md>) can be used to build an [argument](<argument.md>) or [claim](<claim.md>). [cc:[[leekeifon](<cc:[[leekeifon.md>)]], [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]], [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]]
 - [Chat](<Chat.md>) ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
@@ -23,21 +27,8 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
     - "15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
-    - #[Scratchpad](<Scratchpad.md>)
-        - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
-            - Here, I’m introducing the idea that the [collaborative zettelkasten](<collaborative zettelkasten.md>) is the key to carrying mature ideas forward through time.
-
-This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [resurfacing](<resurfacing.md>) methods.
-                - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
-                    - **[Related](<Related.md>):** "How do you navigate the problem of "missed content"?"
-        - #[Open Questions](<Open Questions.md>) When does a question mature into a [zettel question]([zettel questions](<zettel questions.md>)).
-            - Maturity = page creation with page template similar to that of [evergreen notes](<evergreen notes.md>).
-        - #[Open Questions](<Open Questions.md>)
-            - Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>)), to [steel-man](<steel-man.md>) the [argument](<argument.md>) or [claim](<claim.md>)? [Bookmarks](<Bookmarks.md>)
-        - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
-            - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1355186036884664323?s=21 
-                - [ ] Create literature notes based on this thread. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
-        - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/) [Bookmarks](<Bookmarks.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
             - **[Index](<Index.md>):**
                 - [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
                 - [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
@@ -95,6 +86,20 @@ This addresses the problem of “missing things”. If ideas are documented in z
                         - My justification is that Andy's notes are [atomic](<atomic.md>). If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
                 - #[Fleeting Notes](<Fleeting Notes.md>) many interpretations of [zettelkasten](<zettelkasten.md>) are too strict and rigid. 
                     - [Andy's Notes](<Andy's Notes.md>) serve as a great example of a system that has clear standards and conventions, but will consciously [colour outside the lines]([It is ok to colour outside of the lines.](<It is ok to colour outside of the lines..md>)) when it [makes sense](((HuYfatW7v))).
+    - #[Scratchpad](<Scratchpad.md>)
+        - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
+            - Here, I’m introducing the idea that the [collaborative zettelkasten](<collaborative zettelkasten.md>) is the key to carrying mature ideas forward through time.
+
+This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [resurfacing](<resurfacing.md>) methods.
+                - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+                    - **[Related](<Related.md>):** "How do you navigate the problem of "missed content"?"
+        - #[Open Questions](<Open Questions.md>) When does a question mature into a [zettel question]([zettel questions](<zettel questions.md>)).
+            - Maturity = page creation with page template similar to that of [evergreen notes](<evergreen notes.md>).
+        - #[Open Questions](<Open Questions.md>)
+            - Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>)), to [steel-man](<steel-man.md>) the [argument](<argument.md>) or [claim](<claim.md>)? [Bookmarks](<Bookmarks.md>)
+        - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
+            - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1355186036884664323?s=21 
+                - [ ] Create literature notes based on this thread. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
         - #[Wish List](<Wish List.md>) [Ideas](<Ideas.md>)
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph ((i.e. exclude external authors like Andy M))
@@ -122,6 +127,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - [Here](((V25q7bipU))) I'm wrestling with [Highlights](<Highlights.md>) vs #[Literature Notes](<Literature Notes.md>)... [Tensions](<Tensions.md>)
             - What I'm feeling is likely the thing [Sonke Ahrens](<Sonke Ahrens.md>) created [fleeting notes](<fleeting notes.md>) for...
             - What I could do though, is create a class called [Annotations](<Annotations.md>)
+                - Done. "20:21 — Added [Annotations](<Annotations.md>) for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) [zettelkasten](<zettelkasten.md>)"
     - #[Change Log](<Change Log.md>)
         - Changed naming of the universal DNP template.
             - ".rcDNP Template (rc) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
@@ -137,8 +143,10 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - 20:21 — Added [Annotations](<Annotations.md>) for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) [zettelkasten](<zettelkasten.md>)
         - 20:54 — Added a passive notification [convention]([Conventions](<Conventions.md>)) `[cc:[[Their Name](<cc:[[Their Name.md>)]]` [collaboration](<collaboration.md>)
         - 21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))
+            - Added the "cc" convention.
+        - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock
     - [GTD](<GTD.md>)
-        - [ ] Add the [choice](<choice.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+        - [ ] Add the [choice algorithm](<choice algorithm.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
             - **[Agreement Rating](<Agreement Rating.md>):** {{[slider](<slider.md>)}}
@@ -151,7 +159,15 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
 
         - [Opportunities](<Opportunities.md>) [Ship 30 for 30](<Ship 30 for 30.md>) as a [collaborative zettelkasten](<collaborative zettelkasten.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) A [screenshot essay]([screenshot essays](<screenshot essays.md>)) is essentially an [evergreen note]([evergreen notes](<evergreen notes.md>)).
+                - Well, they can be — some of them are more like [listicles](<listicles.md>). 
+            - #[Fleeting Notes](<Fleeting Notes.md>) A community centered around [screenshot essays](<screenshot essays.md>) and a daily [writing](<writing.md>) habit, nested within the [Roam](<Roam.md>) community is optimally positioned to create a [collaborative zettelkasten](<collaborative zettelkasten.md>).
             - [cc:[[Ramses Oudt](<cc:[[Ramses Oudt.md>)]]
+        - #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
+            - **[Example](<Example.md>):** [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
+            - This would apply for [policies](<policies.md>) or [procedures](<procedures.md>) within a workplace as well. [Bookmarks](<Bookmarks.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) are best shared as page links. Each convention is an [atomic](<atomic.md>) unit. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) can be an effective tool to use in the pursuit of shared [truth](<truth.md>)
     - [Chat](<Chat.md>)
         - [@[[Charles Farr](<@[[Charles Farr.md>)]] Check [this](((3u0iEUdbd))) out.
 
@@ -159,6 +175,7 @@ I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)
 
 If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
+        - "23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock" [cc[[Charles Farr](<cc[[Charles Farr.md>)]] [cc[[Matt Brockwell](<cc[[Matt Brockwell.md>)]] [cc[[Beau Hann](<cc[[Beau Hann.md>)]]
     - [Comments](<Comments.md>)
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)""
             - Yup, really like this idea. cc: [@[[Charles Farr](<@[[Charles Farr.md>)]]
@@ -195,14 +212,14 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.
             - I agree with "Again, organic development is probably best here, and remain flexible. " [*](((H0r4ht151)))
         - "You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>)."
-            - Yup, I agree. I think the drilling down could be conducted on the [active vs passive resurfacing](<active vs passive resurfacing.md>) page itself. With more elaboration, and reference to some specific claims. [@[[leekeifon](<@[[leekeifon.md>)]]
+            - Yup, I agree. I think the drilling down could be conducted on the [active vs passive resurfacing](<active vs passive resurfacing.md>) page itself. With more elaboration, and reference to some specific claims. [~[[leekeifon](<~[[leekeifon.md>)]]
             - Drawing some justification from this part of [Andy's Notes](<Andy's Notes.md>):
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
                 - I would consider [active vs passive resurfacing](<active vs passive resurfacing.md>) related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
         - [@[[leekeifon](<@[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. 
             - How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>).
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
-            - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>). [@[[leekeifon](<@[[leekeifon.md>)]]
+            - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>). [~[[leekeifon](<~[[leekeifon.md>)]]
                 - Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.
                 - Happy to support if you have questions about how.
             - How might a [reputation system](<reputation system.md>)[*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [Roles](<Roles.md>), but I'm not sure the best approaches yet. 
@@ -223,6 +240,26 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
                 - [ ] [January 29th, 2021](<January 29th, 2021.md>) [Test](<Test.md>)
                 - [ ] [January 28th, 2021](<January 28th, 2021.md>) [Test](<Test.md>)
                 - [Waiting](<Waiting.md>) [Test](<Test.md>)
+        - "So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>). "
+            - [@[[leekeifon](<@[[leekeifon.md>)]] [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
+                - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
+                    - Another option is using the [choice algorithm](<choice algorithm.md>)
+        - "Yeah, they’re pretty good [resurfacing](<resurfacing.md>) mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private."
+            - Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>) or [maturity](<maturity.md>) is less important. 
+                - They can always be qualified or contended with. 
+                - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are in public, even disagreement with them can prompt new ideas. 
+        - "for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]]
+            - The [fleeting notes](<fleeting notes.md>) convention is a great way to promote ideas in a time-protected way, without levelling them up to page status.
+                - My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))
+                - **[Example](<Example.md>):**
+                    - #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[*](((67MsLIbX6)))
+                        - This, actually feels like it could be an [evergreen note]([evergreen notes](<evergreen notes.md>)). Especially since it is an idea that you frequently reference.
+                    - #[Fleeting Notes](<Fleeting Notes.md>) objective [truth](<truth.md>) is a high [standard](<standard.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) perceived [truth](<truth.md>) is dependant on [axiomatic presuppositions](<axiomatic presuppositions.md>). 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) [felt [[truth](<felt [[truth.md>)]] and [objective [[truth](<objective [[truth.md>)]] are different things. 
+                        - Felt truth = "small "t" truth"
+                        - Objective truth = "capital "t" truth"
+                    - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>)) based on [felt [[truth](<felt [[truth.md>)]].[*](((ZZWmGCw0B))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]] [*]([Bookmarks](<Bookmarks.md>))[*]([page naming](<page naming.md>))[*]([zettelkasten](<zettelkasten.md>))
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
         - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>) UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [Roam](<Roam.md>).
@@ -243,18 +280,48 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
         - One reward for Roaman with high reputation in "Roam reputation system" may be the permission to create new page? If we view [Roam](<Roam.md>) page as a kind of resource.
         - Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>) database, one [Roam](<Roam.md>) community, where these [truth](<truth.md>) are built on axioms and logical inference, and [communication](<communication.md>) mechanism is a basic foundation to support the emergence of logical inferences.
         - [Viewing page as truth](((H6M1XTGet))) is a concrete [goals](<goals.md>) to make our [communication](<communication.md>) [converge](<converge.md>).
+            - **[Example](<Example.md>):** I think the following chat reveals the short process how I [converge](<converge.md>) the [communication](<communication.md>). I set adding page as my goal and I tend to discuss the meaning, reason and benefit of it.
+                - {{[embed](<embed.md>): (((9O_gyfTu7)))}}
         - Good css is not enough, good application is a better way to embed the [conventions](<conventions.md>) that we suggested, take this idea as an [example](((UDqsAeKJg))).
     - #[Chat](<Chat.md>)
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [@[[Charles Farr](<@[[Charles Farr.md>)]]
         - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
-        - Also [this one](((j50xmn4aN))).  cc [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
-        - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - Also [this one](((j50xmn4aN))).  cc [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
+        - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - Is [this idea](((UDqsAeKJg))) already in your feature list? [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
         - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>).
                 - **Effec**t: By breaking them into smaller distinctions, we may get a more clear sense on how you define these terms.
+        - reply to "[@[[leekeifon](<@[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. "
+            - "How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>)."
+                - These two concepts should have almost the same meaning. Maybe the key point should be another concept that I mentioned when I talk about global public feed, that’s **Roam publish protocol**.
+                    - The Roam publish protocol is good, for the following reasons...
+                        - it can automate the **in time update property** of a feed through query mechanism, without needing Roamans jumping back and forth to publish their ideas.
+                        - It introduce the idea **protocol**, which is itself a mature and basic concept in the computer network communication. We could dig out more ideas on [communication](<communication.md>) through this ‘window’.
+                - Another small difference is that they use different words, sounds weird... But the key word here is **public**. I wanna highlight the idea of public and private as mentioned [here](((j50xmn4aN))).
+                - So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>). 
+                    - But as I mentioned [here](((67MsLIbX6))), page as a resource in database, they should be voted before really adding them into the database. So, I would like to discuss more with the whole community, before we deprecate this idea or level it up or just let it sitting there till it’s mature to become a page or being replaced with better language.
+                    - maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?
+            - "What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?"
+                - Both synchronous and async one is good. For now, I’m kind of lacking visions on how online events can be within [Roam](<Roam.md>). Some ideas maybe worth digging into.
+                    - Emotion/story sharing event? maybe.
+                    - web articles/twitter thread sharing, rather than a book, which has shorter feedback loop.
+                        - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
+                - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[Ideas](<Ideas.md>)
+            - "In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. "
+                - Yeah, they’re pretty good [resurfacing](<resurfacing.md>) mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private.
+            - OK well, about the idea public vs private, I just come up with another idea, which is used in my own database, that’s adding a tag like `#.concept` for a block that’s not yet been level-up to a page, but it could help the Roaman to get a better search for their own words in auto-completion list. A rather balancing way to control the complexity of a database.
+            - "How might a [reputation system](<reputation system.md>)[*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [Roles](<Roles.md>), but I'm not sure the best approaches yet. "
+                - [Roles](<Roles.md>) is important, but you know, when the community grows up, the new comer won’t be able to get their ‘specific’ role.
+                    - But maybe, they can create their own role by creating new personal feed or new events.
+                - Broadly speaking, the [reputation system](<reputation system.md>) would have some property like economic system, and maybe Mridula would have some brilliant thoughts on it, I guess.
+                - One of my basic assumption is that, treat page as [truth](<truth.md>), and if the community’s goal is to seeking more [truth](<truth.md>), then those contributing more [truth](<truth.md>), should get more reputation. And logical chain along side the prove would gain reputation again. In other words, the more basic arguments and concept, the more importance and reputation it will gain.
+                    - Of course, this metric may be too dull, we may need more roads to help Roamans to get their reputation. 
+                        - **[Example](<Example.md>):** Seems that reputation system in stackoverflow works well for a long time. They ask by paying reputation and answer to get reputation.
+                - And this is [one main reason](((67MsLIbX6))) why I restrict myself adding new pages.
+            - 
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)

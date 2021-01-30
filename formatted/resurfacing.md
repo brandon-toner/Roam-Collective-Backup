@@ -12,6 +12,12 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 - In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
 
+- "Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
+
+- "In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
+
+- Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
+
 ## [active vs passive resurfacing](<active vs passive resurfacing.md>)
 - **[Related](<Related.md>):** [resurfacing](<resurfacing.md>)
 

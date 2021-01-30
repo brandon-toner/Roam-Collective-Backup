@@ -40,5 +40,5 @@
 
 ## [leekeifon](<leekeifon.md>)
 - **[Interests](<Interests.md>):** Math/Logic/Design/Program
-    - **[Queries](<Queries.md>):**
+- **[Queries](<Queries.md>):**
 

@@ -64,15 +64,17 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
-- "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
-
-- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
-
 - Is this a [zettelkasten](<zettelkasten.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)  A [zettelkasten](<zettelkasten.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) many interpretations of [zettelkasten](<zettelkasten.md>)
 
+- "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
+
+- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
+
 - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>).
+
+- Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>)) based on [felt [[truth](<felt [[truth.md>)]].[*](((ZZWmGCw0B))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]] [*]([Bookmarks](<Bookmarks.md>))[*]([page naming](<page naming.md>))[*]([zettelkasten](<zettelkasten.md>))
 

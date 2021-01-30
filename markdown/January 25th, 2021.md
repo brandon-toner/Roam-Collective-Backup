@@ -18,6 +18,8 @@
         - Check out the #[[Fleeting Notes]] linked references for some [[atomic ideas]].
             - Reference them under a #Comments block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
     - **Catching up on the action**
         - Check the #[[Change Log]] linked references for a running list of the changes over time.
         - Check the #Announcements linked references for a running list of important memos

@@ -31,5 +31,9 @@
 
 - [Viewing page as truth](((H6M1XTGet))) is a concrete [goals](<goals.md>) to make our [communication](<communication.md>)
 
+- **[Example](<Example.md>):** I think the following chat reveals the short process how I [converge](<converge.md>) the [communication](<communication.md>).
+
 - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>)
+
+- It introduce the idea **protocol**, which is itself a mature and basic concept in the computer network communication. We could dig out more ideas on [communication](<communication.md>)
 

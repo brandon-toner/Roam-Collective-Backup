@@ -18,6 +18,8 @@
         - Check out the #[Fleeting Notes](<Fleeting Notes.md>) linked references for some [atomic ideas](<atomic ideas.md>).
             - Reference them under a [Comments](<Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
     - **Catching up on the action**
         - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
         - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos

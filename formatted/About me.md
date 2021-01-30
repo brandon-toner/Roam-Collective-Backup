@@ -4,7 +4,8 @@
 - **[About me](<About me.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
-- **[About me](<About me.md>):**
+- **[Tags](<Tags.md>):** [People](<People.md>)
+    - **[About me](<About me.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[About me](<About me.md>):**

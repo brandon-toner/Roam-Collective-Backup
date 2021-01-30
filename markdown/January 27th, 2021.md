@@ -280,7 +280,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
             - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
             - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start
-- #[[My Daily Notes]] [[Beau Haan 📌]] {{word-count}}
+- #[[My Daily Notes]] [[Beau Hann]] {{word-count}}
     - Hey everyone! 👋🏼
         - With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring.
         - As an idea towards solving this problem, I really think if there was a push into figuring this out for #[[Roam Games]] would be very much possible.

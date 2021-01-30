@@ -8,6 +8,9 @@
 
 - {{[embed](<embed.md>):
 
+## [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
+- {{[embed](<embed.md>):
+
 ## [DNP Modules](<DNP Modules.md>)
 - {{[embed](<embed.md>):
 
@@ -54,6 +57,8 @@
 - {{[embed](<embed.md>):
 
 - **[Related](<Related.md>):** {{[embed](<embed.md>):
+
+- {{[embed](<embed.md>):
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[embed](<embed.md>):

@@ -31,6 +31,11 @@
 
 - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>).
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- "So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+
+- So, in fact, I wanna level up the concept "Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
 

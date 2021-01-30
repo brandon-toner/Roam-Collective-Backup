@@ -5,7 +5,7 @@
     - Work:: naive [[software engineer]]
     - How to contact me:: Twitter/Roam Slack
     - Interests:: Math/Logic/Design/Program
-    - Queries::
-        - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
-        - {{[[query]]: {and: [[@[[leekeifon]]]]}}}
-        - {{[[query]]: {and: [[Scratchpad]] [[leekeifon]]}}}
+- Queries::
+    - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
+    - {{[[query]]: {and: [[@[[leekeifon]]]]}}}
+    - {{[[query]]: {and: [[Scratchpad]] [[leekeifon]]}}}

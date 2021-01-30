@@ -3,11 +3,11 @@
     - [reference notes](<reference notes.md>)
     - [literature notes](<literature notes.md>)
     - [evergreen notes](<evergreen notes.md>)
-- For the collection of reference notes, visit: #[Fleeting Notes](<Fleeting Notes.md>)
+- For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
 # Backlinks
 ## [Fleeting Notes](<Fleeting Notes.md>)
-- For the collection of reference notes, visit: #[Fleeting Notes](<Fleeting Notes.md>)
+- For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out the #[Fleeting Notes](<Fleeting Notes.md>)
@@ -144,6 +144,26 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
