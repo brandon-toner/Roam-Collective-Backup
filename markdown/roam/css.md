@@ -1057,7 +1057,7 @@ background: linear-gradient(to right, #A6DA69, #A6DA69); /* W3C, IE 10+/ Edge, F
                 - `#Annotations
                     - ```css
 span.rm-page-ref[data-tag="Annotations"] {
-    background: #795548AF;
+    background: #795548E2;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -4432,7 +4432,7 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
 }```
-        3. Core User Interface (e.g., Headings)
+        3. Core User Interface ([[e.g.]], Headings)
             - Headings
                 - Preview
                     - # Heading 1

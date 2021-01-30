@@ -20,6 +20,9 @@
 
 - "I decided to consider [this idea]([active vs passive resurfacing](<active vs passive resurfacing.md>))
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>) could be facilitated by [active or passive resurfacing]([active vs passive resurfacing](<active vs passive resurfacing.md>))
+
 ## [passive](<passive.md>)
 - **[Related](<Related.md>):** [active vs passive resurfacing](<active vs passive resurfacing.md>)
 

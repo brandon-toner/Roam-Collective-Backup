@@ -10,6 +10,3 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>)
 
-## [Prompts](<Prompts.md>)
-- How could [CSS](<CSS.md>)
-

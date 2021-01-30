@@ -12,21 +12,95 @@
     - "You can [[filter]] the references on a [block reference]([[block references]]) by focusing on the block!! #Tips"
     - Hi all 👋🏼— today I "Updated all of the current SmartBlock names..." to align with the new "SmartBlock & Roam Template Conventions"
         - Apologies if the new names confuse anyone! In the long-term, should make it more manageable
+    - Proposed [process](((X8fzypdUg))) for conducting conversation that develops the zettelkasten through time
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) 
-- #GTD ((Run the "Daily Review" smartblock))  
-    - Daily Review::
-        - **Scheduled for Today:**
-            - **Page:** `[[January 25th, 2021]]`
+- #GTD ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
+- Daily Review::
+    - **Scheduled for Today:**
+        - **Page:** [[January 25th, 2021]]
 {{[[embed]]: ((9ZdW5S8U6))}}
-        - {{Overdue:42SmartBlock:TODO Overdue (10, with header) (RC)}}
-        - {{Flagged:42SmartBlock:Flagged (RC)}}
-        - {{Waiting:42SmartBlock:Waiting (RC)}}
-        - {{TODO This Week:42SmartBlock:TODO This Week (RC)}}
-        - {{TODO This Month:42SmartBlock:TODO This Month (RC)}}
+    - **This Week:** `#[[Week-04: 01-25-2021]]`
+        **Results:** 4 **Max:** 25
+        **Page:** [[January 28th, 2021]]
+{{[[embed]]: ((p7hG2meyF))}}
+        **Page:** [[January 30th, 2021]]
+{{[[embed]]: ((Nxmtoyo2O))}}
+        **Page:** [[January 30th, 2021]]
+{{[[embed]]: ((r1E6gBj56))}}
+        **Page:** [[January 30th, 2021]]
+{{[[embed]]: ((R2NWXEQ7L))}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
+        - [These](((CCODMMO6j))) were captured using [[Memex]]. They have a [[customizable]] [[copy-paster]] that is excellent for getting information into [[Roam]] format.
+            - #Q How could the [[Memex]] [[copy-paster]] be optimized for taking [[annotations]]? #note-taking
+                - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
+        - #Annotations of [[How to write good prompts]]
+            - How to write good prompts: using spaced repetition to create understanding
+                - URL:: https://andymatuschak.org/prompts/
+                - As a child, I had a goofy recurring daydream: maybe if I type just the right sequence of keys, the computer would beep a few times in sly recognition, then a hidden world would suddenly unlock before my eyes. I’d find myself with new powers which I could use to transcend my humdrum life. 
+                - This guide assumes basic familiarity with spaced repetition systems. For an introduction, see Michael Nielsen, Augmenting Long-term Memory (2018), which is also the source of the phrase “makes memory a choice.” 
+                - At their best, these systems feel like magic.This guide assumes basic familiarity with spaced repetition systems. For an introduction, see Michael Nielsen, Augmenting Long-term Memory (2018), which is also the source of the phrase “makes memory a choice.” Memory ceases to be a haphazard phenomenon, something you hope happens: spaced repetition systems make memory a choice. Used well, they can accelerate learning, facilitate creative work, and more. 
+                - Spaced repetition systems work only as well as the prompts you give them. 
+                    - #[[Literature Notes]]
+                - This guide aims to help you create understanding in the context of an informational resource like an article or talk. By that I mean writing prompts not only to durably internalize the overt knowledge presented by the author, but also to produce and reinforce understandings of your own, understandings which you can carry into your life and creative work. 
+                - The central role of retrieval practice 
+                    - #h2
+                - The most common mechanism of change for spaced repetition learning tasks is called retrieval practice. 
+                    - [[retrieval practice]]
+                - See e.g. Karpicke and Blunt, Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping (2011); and Blunt and Karpicke, Learning With Retrieval-Based Concept Mapping (2014). 
+                    - #Resources #Studies
+                - The learning produced by retrieval is called the “testing effect” because it occurs when you explicitly test yourself, reaching within to recall some knowledge from the tangle of your mind. Such tests look like typical school exams, but in some sense they’re the opposite: retrieval practice is about testing your knowledge to produce learning, rather than to assess learning. 
+                    - [[retrieval practice]]
+                - For more background on the mnemonic medium, see Matuschak and Nielsen, How can we develop transformative tools for thought? (2019). 
+                    - #Resources [[mnemonic medium]]
+                - These embedded prompts are part of an ongoing research project. The first experiment in the mnemonic medium was Quantum Country, a primer on quantum computation. Quantum Country is concrete and technical: definitions, notation, laws. By contrast, this guide mostly presents heuristics, mental models, and advice. 
+                    - [[Quantum Country]] #[[Further Reading]]
+                - Properties of effective retrieval practice prompts 
+                    - #h3
+                - Writing good prompts feels surprisingly similar to translating written text. When translating prose into another language, you’re asking: which words, when read, would light a similar set of bulbs in readers’ minds? 
+                    - #[[Literature Notes]] Writing prompts is similar to writing [[literature notes]], which is similar to translating text between languages
+                - Retrieval practice prompts should be focused. A question or answer involving too much detail will dull your concentration and stimulate incomplete retrievals, leaving some bulbs unlit. Unfocused questions also make it harder to check whether you remembered all parts of the answer and to note places where you differed. It’s usually best to focus on one detail at a time. 
+                - Retrieval practice prompts should be precise about what they’re asking for. Vague questions will elicit vague answers, which won’t reliably light the bulbs you’re targeting. 
+                - Retrieval practice prompts should produce consistent answers 
+                - Retrieval practice prompts should be tractable. 
+                - Retrieval practice prompts should be effortful 
+                - So we must learn two skills to write effective retrieval practice prompts: how to characterize exactly what knowledge we’ll reinforce, and how to ask questions which reinforce that knowledge. 
+                - How to make and store chicken stock: factual and procedural knowledge 
+                    - #h2
+                - Simple facts
+                    - We could write a prompt which simply asks: “What do you need to make chicken stock?” But this isn’t precise enough: should we recall the quantities or just the names of the ingredients? How much chicken stock are we making? This isn’t focused enough: because it’s asking for so many details simultaneously, it’s unlikely to sharply activate all the memories you want to reinforce. And because it’s asking for so much, it’s liable to lead to inconsistency and intractability: each time you answer, you’ll remember some details and forget others. The inconsistent activations will tend to erode your memory. 
+                - Writing a simple factual prompt like that naturally tickles a neighbor you might consider adding: the explanation prompt. I write prompts like this when a detail seems likely to be challenging or when the explanation itself is interesting. 
+                    - #Example
+                - Q. Why do we use bones to make chicken stock?
+                    - A. They’re full of gelatin, which produces a rich texture. 
+                - Q. What type of chicken parts are used in stock?
+                    - A. Bones. 
+                - Q. How do bones produce a chicken stock’s rich texture?
+                    - A. They’re full of gelatin. 
+                - Lists
+                - Back to the ingredients list. Chicken stock obviously involves chicken and water: that follows from the definition of stock (which we’ll handle later). But then there are all the aromatic flavorings, which are more variable and depend somewhat on application. Understanding the ingredients in terms of functional grouping will help us internalize the structure of the recipe: 
+                - Most spaced repetition software a has special function which can rapidly generate sets of fill-in-the-blank prompts like this. In the software interfaces, these prompts are often called “cloze deletions.” In each review session, the software will only ask you to fill in one blank. This behavior is important because without it, one variant would “give away” the answer to another. 
+                    - [[cloze deletions]]
+                - Cues and elaborative encoding
+                - If you find yourself struggling with these prompts, it can be helpful to add a cue, 
+                - But make sure the cue doesn’t render the prompt trivial: it’s important that that you exert some effort to retrieve the answer from memory. 
+                - This prompt doesn’t require you to retrieve any knowledge about chicken stock: there’s only one vegetable which rhymes with “parrots.” You could answer this without having ever read the recipe. By contrast, the previous prompt’s cue—“herb”—leaves your memory with work to do. There are many herbs, and you’ll still need to remember which one the recipe specified.
+                - That said, “rhymes with parrots” may be a useful mnemonic device to add to the answer, offering an association to help you in the future 
+                - Prompts are cheaper than you probably imagine. An easy prompt will consume 10–30 seconds across the entire first year of practice, and much less in each subsequent year. Until you’ve internalized that observation, try to adopt this rule of thumb: write more prompts than feels natural. 
+                    - #[[Annotations]] Write more [[prompts]] than feels natural.
+                - Now, prompts are cheap, but they’re not free. Besides their time cost, they have an emotional cost: no one wants to spend time reviewing a bunch of boring material they already know. 
+                - Procedural knowledge
+                - Now that we’ve got prompts for the ingredients, let’s look at the steps of the recipe. This is procedural knowledge—knowledge needed to perform specific tasks, more knowing how than knowing what. 
+                    - [[procedural knowledge]]
+                - I’ll now introduce some useful [lenses]([[Lenses]]) for understanding concepts. You won’t necessarily need to use every lens for each concept you encounter. Think of them as a toolkit for identifying elements which seem most important to you. #[[Key Concepts]]
+                    - [[attributes and tendencies]]: What makes stock, stock? What’s always, sometimes, and never true of stock? 
+                    - [[similarities and differences]]: Knowing what stock is requires knowing what relates and distinguishes it from other adjacent concepts. 
+                    - [[parts and wholes]]: What are some examples of stocks? Are there important “sub-concepts” of stocks? Is “stock” a part of some broader category? Visualize a Venn diagram, even if the edges are fuzzy. 
+                    - [[causes and effects]]: What does stock do? What causes it to do that? What doesn’t it do? When is it used? 
+                    - [[significance and implications]]: Why does stock matter? What does it suggest? Make the concept personally meaningful. 
+                - Salience prompts and the Baader-Meinhof phenomenon 
         - [[[[Roam Collaborative Meetup]] No. 1]] #Meetings #Agenda
             - Overview & Welcome
             - Gathering feedback and user experience
@@ -62,10 +136,30 @@
                 - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?t :node/title "People"]]
             - Test 2 People
                 - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
-            - Test 3 "Pages "created by" a "member""
-                - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Created By"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
+            - Test 3 "Pages "Author"ed by a "Members""
+                - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
         - #[[Bug Reports]]
             - Can't seem to [[emoji react]] to blocks...
+        - Reflections on [[datalog]] queries #Bookmarks
+            - Possible to generate a report of "pages authored by graph members"
+                - Example::
+                    - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
+                - This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.
+                    - Check it out [[cc:[[Matthew Vogel]]]]
+                - Use Cases::
+                    - Report of evergreen notes authored by graph members. (excluding externally authored notes, [[e.g.]] [[Andy Matuschak]])
+                    - This type of query can likely be used for many other similar cases. 
+                    - It would also be useful for gathering various **counts**.
+                        - No. of ENs written by group members, (by week? Month?)
+                - Based on the complexity of writing these queries, a [[datalog query builder]] would certainly be useful! #[[Development Requests]]
+                - #Ideas #Q Could this type of thing be used to define and build [[hierarchies]]? 
+                    - [[i.e.]] levels of [[abstractions]] that could help to group pages together based on common [[properties]] for various purposes:
+                        - Building queries using sets of data
+                            - Example::
+                                - [Filter]([[filter]]) linked references to include all names of members (a big [[OR]] [[query]])
+                    - While [[plaintext]] [[datalog]] queries are cool, it would be more functional if the native [[query]] engine and the page and reference [[filtering]] allowed for similar operations. 
+                        - Currently the page and reference [[filtering]] is limited to [[AND]] and [[NOT]] [[operators]].
+                            - [[OR]] [[operators]] are badly needed in this feature. #[[Roam Enhancement Requests]]
     - #GTD 
         - {{[[TODO]]}} Refine a system of [[convergence]] for [[open questions]]. #[[Week-04: 01-25-2021]]
             - Goal: Have related questions converge into fewer central questions. 
@@ -75,6 +169,7 @@
     - #[[Change Log]] 
         - Added some CSS Tags
         - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.
+        - Added the [convention]([[Conventions]]) of placing a horizontal line between each [[DNP Section]] to improve [[readability]].
     - #Promptstorming 
         - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
             - Excellent experience so far (but I'm familiar with the specs and style guides)
@@ -89,6 +184,10 @@
             - A shared project to collaboratively work towards.
             - More emphasis and training on the collective zettelkasten systems.
         - 
+    - #[[The Zettelkasten]]
+        - #[[Fleeting Notes]] It is helpful to import [[verbatim]] passages from [[resources]] so that they can be directly referenced as [[context snippets]] within the [[zettelkasten]] or within [[conversation]].
+            - Tools:: [[Memex]] [[copy-paster]]
+            - #[[Fleeting Notes]] the benefits of having access to [[verbatim]] passages offers an argument for being able to easily import [[full-text]] into [[Roam]].
     - #Comments 
         - #Observations
             - Love this `#minimal` [[CSS]] styling for queries. I needed this! Thanks, [[cc:[[Charles Farr]]]]
@@ -101,8 +200,38 @@
         - #Replies
             - "Where is the money going?"
                 - I can act as custodian for the grant funds if we are approved — I have a company that it could go through if that's a good route. 
-            - 
+            - "Agree [[~[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?"
+                - I feel like loose applications of principles [[rhetoric]], [[logic]] and [[debate]] would serve our purposes well! 
+                    - For logic, I'm envisioning building a library of [[logical fallacies]], that could be referenced as appropriate. 
+                    - Importing principles of rhetoric would also be cool!
+                        - There are some great resources online on the [[Purdue University]] [[Purdue Online Writing Lab]] website. #Resources #writing
+                            - https://twitter.com/brandontoner/status/1335996934742560768?s=21 #[[Tweet Threads]]
+                            - {{[[TODO]]}} Import sections of the [[Purdue Online Writing Lab]] on [[rhetoric]], the [[Toulmin Argument]], and [[logic]] into the graph as [[evergreen notes]]. ((With external authorship documented (verbatim import))) #[[Help Wanted]] #[[January 2021]]
+            - "Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[~[[Brandon Toner]]]]"
+                - I don't know much about [[RPG]] [[game design]], but I'd be interested to hear about it. Talked to [[Robert Haisfield]] a ways back about [[Roguelike games]], related? [[cc:[[leekeifon]]]]
+            - "I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[^[[Brandon Toner]]]]"
+                - Love this exploration. 
+                - There is a lot of information here worth crystallizing.
+                - Some thoughts inspired by this:
+                    - #[[Fleeting Notes]] Directing conversation about ideas in the form of [[zettelkasten]] is the most efficient way for [[ideas]] and [[trails of thought]] to persist through time.
+                        - #Conventions [[conversation]] should be conducted in the form of [[zettelkasten]] notes whenever possible to facilitate the  development of ideas through time.
+                    - How I see this flowing: #Processes [*]([[fleeting notes]]) [*]([[evergreen notes]])
+                        1. Users document ideas as [[fleeting notes]] (low filter for creation)
+                            - Approach: Phrase your idea as a claim, that could be supported, challenged, or elaborated on. Accuracy doesn't matter too much here.
+                        2.  Users **continue the conversation** of these notes by [referencing]([[block referencing]]) them in discussion, and formulating new [[fleeting notes]] in response to them.
+                            - This may be an opportunity to use principles of [[logic]] and [[rhetoric]], but these conventions would be [[optional]].
+                        3. Repeat [[ad infinitum]] until ideas have been exhausted and writing becomes less [[fruitful]]. 
+                        4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[active vs passive resurfacing]]).
+                        5. As ideas become heavily referenced, or feel "[[evergreen]]" in nature — a page should be created and an [evergreen note]([[evergreen notes]]) formed.
+                            - Related:: [[The stages of [[maturation]] of [[zettelkasten]] notes]] #Seedlings
+                        6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([[What indicates that a seedling has fully matured into an evergreen note?]]) — a `#Seedlings` tag should be assigned.
+            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[Fleeting Notes]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]"
+                - Wow this is excellent! Love these. Will definitely [look further into this]([[Bookmarks]]). #prompts #Resources
+                    - URL:: https://andymatuschak.org/prompts/
+                        - {{[[TODO]]}} Turn [[How to write good prompts]] into a full evergreen note. #Seedlings #[[Help Wanted]]
+                            - {{[[TODO]]}} Create a smartblock for the [[Daily Review]] that pulls TODO + Help Wanted. [[January 30th, 2021]] 
     - #Feedback  #not_populated
+- ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
     - #[[Scratchpad]]
         - [[Projects/Submit Grant Application to [[Urbit]] for RC]]
@@ -143,14 +272,14 @@
     - #Comments
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
         2. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]"
-            - Agree [[@[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?
+            - Agree [[~[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?
                 - Some ideas
                     - Mathematical proofs
                     - Logic
                     - Rhetorical arguments
                     - Debate
         3. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
-            - Sounds good [[@[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
+            - Sounds good [[~[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
         4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Ahhhh [[@[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
@@ -162,6 +291,10 @@
             - Updated all of the current SmartBlock names...
         - Changed the CSS for Headings "Headings"
             - Sets all headings equal to `14px` font size
+- ---
 - Import
     - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
         - From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json
+- Import
+    - [[2nd-Degree Filter]]
+        - From: 2nd-Degree Filter.json

@@ -114,11 +114,11 @@ This addresses the problem of “missing things”. If ideas are documented in z
                 - {{[[TODO]]}} Create literature notes based on this thread. #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
         - #[[Wish List]] #Ideas
             - I would love to be able to have complex queries for:
-                - ENs written by members of the graph ((i.e. exclude external authors like Andy M))
+                - ENs written by members of the graph (([[i.e.]] exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
             - #Comments
                 - "members of the graph" [*](((dYIpKh0sF)))
-                    - This would require [[second-degree connections]]. I.e. `#People` who are also `#Members`
+                    - This would require [[second-degree connections]]. [[i.e.]] `#People` who are also `#Members`
                         - #[[Open Questions]] How could [[second-degree connections]] be facilitated?
         - #Problems
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
@@ -128,9 +128,9 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - [Filtering]([[filtering]]) in [[block references]]
         - #[[Open Questions]]
             - How could users "**suggest edits**" to a page?
-                - E.g. Add references to an evergreen note.
+                - [[e.g.]] Add references to an evergreen note.
                 - Ideas::
-                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. (i.e. tag them + `[[[[Feedback]]: [[Suggestions]]]]`)
+                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. ([[i.e.]] tag them + `[[[[Feedback]]: [[Suggestions]]]]`)
                     - Another option is to give all users permission to edit/add to all pages.
             - What should the [top section](((skozg-bg0))) be called officially? 
                 - Related:: [[DNP Section]]
@@ -195,9 +195,9 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - Yup, really like this idea. cc: [[~[[Charles Farr]]]]
                 - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: #Conventions
                     - Easy to trigger.
-                    - Unique (no conflict with another user (i.e. 2 "BT's" in the graph))
+                    - Unique (no conflict with another user ([[i.e.]] 2 "BT's" in the graph))
                     - Doesn't get confused with the global smartblock ("Community functions" [*](((DcXN7XPbc)))).
-                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ (i.e. BT)... but I think it's fine.
+                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ ([[i.e.]] BT)... but I think it's fine.
                         - Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.
 I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__In common ones__)
                             - {{[[embed]]: ((pNHeT0VNp))}}
@@ -248,12 +248,6 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - Append `#[[Flagged]]` to appear in the Flagged report.
             - Update the [week & month variables](((bFUOGEPXz))) weekly and monthly.
             - Test Tasks
-                - {{[[TODO]]}} #Flagged #Test
-                - {{[[TODO]]}} #[[Week-04: 01-25-2021]] #Test
-                - {{[[TODO]]}} #[[January 2021]] #Test
-                - {{[[TODO]]}} [[January 29th, 2021]] #Test
-                - {{[[TODO]]}} [[January 28th, 2021]] #Test
-                - #Waiting #Test
         - "So, in fact, I wanna level up the concept "#[[Fleeting Notes]] Roam {X} protocol" to be a page in [[Roam-Collective]]. "
             - [[~[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]
                 - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
@@ -293,7 +287,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - **Private communication**, should be easy to create and easy to delete.
                 - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [[Roam]] team. For us, in order to create such a space, we may insert some encoded content into [[Roam]] block which is hard to become a auto-complete candidates and then decoded it via the chatting plugin.
             - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
-        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `#publish` tag or some more meta-data.
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [[i.e.]] with a `#publish` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Related:: {{[[embed]]: ((((kFPq1Gc9U))))}}
@@ -311,7 +305,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
         - Have the friction on not knowing how to backup the information in chat.
     - #[[Chat]]
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]
-        - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[@[[Brandon Toner]]]]
+        - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[~[[Brandon Toner]]]]
         - Also [this one](((j50xmn4aN))).  cc [[^[[Brandon Toner]]]]
         - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [[^[[Brandon Toner]]]]
         - Is [this idea](((UDqsAeKJg))) already in your feature list? [[@[[Matthew Vogel]]]]
@@ -348,18 +342,18 @@ Thoughts? - [[Brandon Toner]]"
                         - Example:: Seems that reputation system in stackoverflow works well for a long time. They ask by paying reputation and answer to get reputation.
                 - And this is [one main reason](((67MsLIbX6))) why I restrict myself adding new pages.
         - From a pure visual(css)’s perspective, is it a good idea to add another tag like `#.Fleeting Notes`, so that I could hide the the word content `Fleeting Notes`?  [[~[[Brandon Toner]]]]
-        - I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[@[[Brandon Toner]]]]
+        - I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[^[[Brandon Toner]]]]
             - [[felt [[truth]]]] is hypothesis.
                 - agree with current setting: "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten"
             - [[felt [[truth]]]] can be created by community members freely.
             - [[felt [[truth]]]] will not be deleted, but it could be deprecated.
             - [[objective [[truth]]]] may not be truth in real world.
-            - [[objective [[truth]]]] is a result from [[axiomatic presuppositions]] and logical infernce.
+            - [[objective [[truth]]]] is a result from [[axiomatic presuppositions]] and logical inference.
             - [[axiomatic presuppositions]] is itself [[objective [[truth]]]] within that database.
             - [[axiomatic presuppositions]] can be achieved by consensus of the community.
                 - Example:: We (may) all agree that logical inference is the methodology on achieving [[objective [[truth]]]], so we set it as [[axiomatic presuppositions]].
                 - Example:: conclusions based on [[Experiments]] result can be candidates for us to achieve consensus.
-        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[Fleeting Notes]] Roam {X} protocol" when communicating concept. [[@[[Brandon Toner]]]]
+        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[Fleeting Notes]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]
             - attributes and tendency
             - parts and whole
             - similarity and difference

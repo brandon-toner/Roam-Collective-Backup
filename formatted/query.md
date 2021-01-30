@@ -44,6 +44,13 @@
 
 - "Projects I'm involved with" `{{[query](<query.md>):
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- This is really cool because the [query](<query.md>)
+
+- [Filter]([filter](<filter.md>)) linked references to include all names of members (a big [OR](<OR.md>) [query](<query.md>))
+
+- While [plaintext](<plaintext.md>) [datalog](<datalog.md>) queries are cool, it would be more functional if the native [query](<query.md>)
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - {{[query](<query.md>):
 

@@ -18,9 +18,6 @@
 ## [Andy Matuschak](<Andy Matuschak.md>)
 - **[Tags](<Tags.md>):**
 
-## [Annotations](<Annotations.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Announcements](<Announcements.md>)
 - **[Tags](<Tags.md>):**
 
@@ -28,9 +25,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [Bookmarks](<Bookmarks.md>)
-- **[Tags](<Tags.md>):**
-
-## [Books](<Books.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
@@ -80,6 +74,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Deepu Asok](<Deepu Asok.md>)
+- **[Tags](<Tags.md>):**
+
+## [Development Requests](<Development Requests.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Dice Roll](<Dice Roll.md>)
@@ -139,7 +136,7 @@
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):**
 
-## [Ideas](<Ideas.md>)
+## [How to write good prompts](<How to write good prompts.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Idioms](<Idioms.md>)
@@ -235,9 +232,6 @@
 ## [Prompt Ideas](<Prompt Ideas.md>)
 - **[Tags](<Tags.md>):**
 
-## [Prompts](<Prompts.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Promptstorming](<Promptstorming.md>)
 - **[Tags](<Tags.md>):**
 
@@ -266,6 +260,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Replies](<Replies.md>)
+- **[Tags](<Tags.md>):**
+
+## [Resources](<Resources.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Roam Enhancement Requests](<Roam Enhancement Requests.md>)
@@ -310,7 +307,7 @@
 ## [Transcript](<Transcript.md>)
 - **[Tags](<Tags.md>):**
 
-## [Tweets](<Tweets.md>)
+## [Tweet Threads](<Tweet Threads.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Tyler Wince](<Tyler Wince.md>)
@@ -323,6 +320,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Weekly Preview](<Weekly Preview.md>)
+- **[Tags](<Tags.md>):**
+
+## [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Wiel Zouantcha](<Wiel Zouantcha.md>)
@@ -381,6 +381,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [graph editors](<graph editors.md>)
+- **[Tags](<Tags.md>):**
+
+## [i.e.](<i.e..md>)
 - **[Tags](<Tags.md>):**
 
 ## [indentation](<indentation.md>)

@@ -30,10 +30,3 @@
 
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
 
-## [Prompts](<Prompts.md>)
-- What are the steps of [project management](<project management.md>)
-
-- What problem do you think the Roam team is experiencing with [project management](<project management.md>)
-
-- Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>)
-

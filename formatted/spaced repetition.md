@@ -3,6 +3,9 @@
     - [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>) ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
+## [How to write good prompts](<How to write good prompts.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) [spaced repetition](<spaced repetition.md>)
 

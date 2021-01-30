@@ -1057,7 +1057,7 @@ background: linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6D
                 - `[Annotations](<../Annotations.md>)
                     - ```css
 span.rm-page-ref[data-tag="Annotations"] {
-    background: [795548AF](<../795548AF.md>);
+    background: [795548E2](<../795548E2.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -4432,7 +4432,7 @@ background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, whit
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
 }```
-        3. Core User Interface (e.g., Headings)
+        3. Core User Interface ([e.g.](<../e.g..md>), Headings)
             - Headings
                 - Preview
                     - # Heading 1
@@ -5073,9 +5073,6 @@ a {
 ## [Agenda](<Agenda.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
-## [Annotations](<Annotations.md>)
-- [x] Add to [roam/css](<../roam/css.md>)
-
 ## [CSS](<CSS.md>)
 - **[Redirect](<../Redirect.md>):** [roam/css](<../roam/css.md>)
 
@@ -5089,7 +5086,7 @@ a {
 
 11. [ ] Improve [roam/css](<../roam/css.md>)
 
-- e.g. "[ ] Improve [roam/css](<../roam/css.md>)
+- [e.g.](<../e.g..md>) "[ ] Improve [roam/css](<../roam/css.md>)
 
 1. Added [roam/css](<../roam/css.md>)
 

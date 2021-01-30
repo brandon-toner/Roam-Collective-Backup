@@ -37,7 +37,7 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
-- A Roaman (e.g. [Matthew Vogel](<Matthew Vogel.md>))
+- A Roaman ([e.g.](<e.g..md>) [Matthew Vogel](<Matthew Vogel.md>))
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)

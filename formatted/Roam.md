@@ -31,7 +31,7 @@
 
 - A thread in [Roam](<Roam.md>)
 
-- An event(i.e. activity) in [Roam](<Roam.md>)
+- An event([i.e.](<i.e..md>) activity) in [Roam](<Roam.md>)
 
 - A global public feed in [Roam](<Roam.md>)
 
@@ -64,6 +64,11 @@
 
 - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>),
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - I also started using [Roam](<Roam.md>)
 
@@ -74,9 +79,6 @@
 
 ## [Michael Shulman](<Michael Shulman.md>)
 - I started using [Roam](<Roam.md>)
-
-## [Prompts](<Prompts.md>)
-- What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)?
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - I started using [Roam](<Roam.md>)

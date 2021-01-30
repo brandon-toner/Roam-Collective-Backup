@@ -114,11 +114,11 @@ This addresses the problem of “missing things”. If ideas are documented in z
                 - [ ] Create literature notes based on this thread. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
         - #[Wish List](<Wish List.md>) [Ideas](<Ideas.md>)
             - I would love to be able to have complex queries for:
-                - ENs written by members of the graph ((i.e. exclude external authors like Andy M))
+                - ENs written by members of the graph (([i.e.](<i.e..md>) exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
             - [Comments](<Comments.md>)
                 - "members of the graph" [*](((dYIpKh0sF)))
-                    - This would require [second-degree connections](<second-degree connections.md>). I.e. `[People](<People.md>)` who are also `[Members](<Members.md>)`
+                    - This would require [second-degree connections](<second-degree connections.md>). [i.e.](<i.e..md>) `[People](<People.md>)` who are also `[Members](<Members.md>)`
                         - #[Open Questions](<Open Questions.md>) How could [second-degree connections](<second-degree connections.md>) be facilitated?
         - [Problems](<Problems.md>)
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
@@ -128,9 +128,9 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - [Filtering]([filtering](<filtering.md>)) in [block references](<block references.md>)
         - #[Open Questions](<Open Questions.md>)
             - How could users "**suggest edits**" to a page?
-                - E.g. Add references to an evergreen note.
+                - [e.g.](<e.g..md>) Add references to an evergreen note.
                 - **[Ideas](<Ideas.md>):**
-                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. (i.e. tag them + `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`)
+                    - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. ([i.e.](<i.e..md>) tag them + `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`)
                     - Another option is to give all users permission to edit/add to all pages.
             - What should the [top section](((skozg-bg0))) be called officially? 
                 - **[Related](<Related.md>):** [DNP Section](<DNP Section.md>)
@@ -195,9 +195,9 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: [Conventions](<Conventions.md>)
                     - Easy to trigger.
-                    - Unique (no conflict with another user (i.e. 2 "BT's" in the graph))
+                    - Unique (no conflict with another user ([i.e.](<i.e..md>) 2 "BT's" in the graph))
                     - Doesn't get confused with the global smartblock ("Community functions" [*](((DcXN7XPbc)))).
-                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ (i.e. BT)... but I think it's fine.
+                        - I like the (CR) convention here. __Though that kinda feels like a name initial__ ([i.e.](<i.e..md>) BT)... but I think it's fine.
                         - Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.
 I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorting.md>). (__In common ones__)
                             - {{[embed](<embed.md>): ((pNHeT0VNp))}}
@@ -248,12 +248,6 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - Append `#[Flagged](<Flagged.md>)` to appear in the Flagged report.
             - Update the [week & month variables](((bFUOGEPXz))) weekly and monthly.
             - Test Tasks
-                - [ ] [Flagged](<Flagged.md>) [Test](<Test.md>)
-                - [ ] #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>) [Test](<Test.md>)
-                - [ ] #[January 2021](<January 2021.md>) [Test](<Test.md>)
-                - [ ] [January 29th, 2021](<January 29th, 2021.md>) [Test](<Test.md>)
-                - [ ] [January 28th, 2021](<January 28th, 2021.md>) [Test](<Test.md>)
-                - [Waiting](<Waiting.md>) [Test](<Test.md>)
         - "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>). "
             - [~[[leekeifon](<~[[leekeifon.md>)]] [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
                 - "maybe the verb `level up`, can be served as a trigger asking Roamans to vote for the decision?"
@@ -293,7 +287,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - **Private communication**, should be easy to create and easy to delete.
                 - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [Roam](<Roam.md>) team. For us, in order to create such a space, we may insert some encoded content into [Roam](<Roam.md>) block which is hard to become a auto-complete candidates and then decoded it via the chatting plugin.
             - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
-        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), i.e. with a `[publish](<publish.md>)` tag or some more meta-data.
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [i.e.](<i.e..md>) with a `[publish](<publish.md>)` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - **[Related](<Related.md>):** {{[embed](<embed.md>): ((((kFPq1Gc9U))))}}
@@ -311,7 +305,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
         - Have the friction on not knowing how to backup the information in chat.
     - #[Chat](<Chat.md>)
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]
-        - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - Also [this one](((j50xmn4aN))).  cc [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - Is [this idea](((UDqsAeKJg))) already in your feature list? [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
@@ -348,18 +342,18 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
                         - **[Example](<Example.md>):** Seems that reputation system in stackoverflow works well for a long time. They ask by paying reputation and answer to get reputation.
                 - And this is [one main reason](((67MsLIbX6))) why I restrict myself adding new pages.
         - From a pure visual(css)’s perspective, is it a good idea to add another tag like `#.Fleeting Notes`, so that I could hide the the word content `Fleeting Notes`?  [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
-        - I may tend reframe the definition of [felt [[truth](<felt [[truth.md>)]] and [objective [[truth](<objective [[truth.md>)]] in my own way by talking about properties they will preserve. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - I may tend reframe the definition of [felt [[truth](<felt [[truth.md>)]] and [objective [[truth](<objective [[truth.md>)]] in my own way by talking about properties they will preserve. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
             - [felt [[truth](<felt [[truth.md>)]] is hypothesis.
                 - agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)"
             - [felt [[truth](<felt [[truth.md>)]] can be created by community members freely.
             - [felt [[truth](<felt [[truth.md>)]] will not be deleted, but it could be deprecated.
             - [objective [[truth](<objective [[truth.md>)]] may not be truth in real world.
-            - [objective [[truth](<objective [[truth.md>)]] is a result from [axiomatic presuppositions](<axiomatic presuppositions.md>) and logical infernce.
+            - [objective [[truth](<objective [[truth.md>)]] is a result from [axiomatic presuppositions](<axiomatic presuppositions.md>) and logical inference.
             - [axiomatic presuppositions](<axiomatic presuppositions.md>) is itself [objective [[truth](<objective [[truth.md>)]] within that database.
             - [axiomatic presuppositions](<axiomatic presuppositions.md>) can be achieved by consensus of the community.
                 - **[Example](<Example.md>):** We (may) all agree that logical inference is the methodology on achieving [objective [[truth](<objective [[truth.md>)]], so we set it as [axiomatic presuppositions](<axiomatic presuppositions.md>).
                 - **[Example](<Example.md>):** conclusions based on [Experiments](<Experiments.md>) result can be candidates for us to achieve consensus.
-        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s **How to make good prompts**, which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
             - attributes and tendency
             - parts and whole
             - similarity and difference
@@ -398,9 +392,6 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [January 29th, 2021](<January 29th, 2021.md>)
-- [ ] [January 29th, 2021](<January 29th, 2021.md>)
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)

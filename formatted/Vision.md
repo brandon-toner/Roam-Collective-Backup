@@ -12,6 +12,3 @@
 
 - "Explore your [vision]([Vision](<Vision.md>))
 
-## [Prompts](<Prompts.md>)
-- Explore your [vision]([Vision](<Vision.md>))
-

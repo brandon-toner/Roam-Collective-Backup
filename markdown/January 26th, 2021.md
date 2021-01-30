@@ -20,7 +20,7 @@
             - Interestingly enough, he posted his [[table of contents]] for the project which is quite in line with [today's writing prompt](((kLMNagtp9))).
                 - I'm not sure by looking at it whether Kahlil intends to write it for the __individual__ or the __team__. But either way his work should help to inform some options and best practices for [[[[project management]] in Roam]].
         - #Tips
-            - If while writing in a section like the Scratchpad, and the content feels relevant to another section, you can use that section tag within context to make sure what you're writing is captured in that linked reference section. — i.e. if you ended up addressing a prompt in your Scratchpad, you could tag on a Promptstorming tag to ensure that it was captured there as well.
+            - If while writing in a section like the Scratchpad, and the content feels relevant to another section, you can use that section tag within context to make sure what you're writing is captured in that linked reference section. — [[i.e.]] if you ended up addressing a prompt in your Scratchpad, you could tag on a Promptstorming tag to ensure that it was captured there as well.
             - Be cautious of referencing a reference; the "[[double reference]]".
                 - Most risky in the Daily Writing Prompt, you want to make sure that you are referencing the block where you WANT your commentary to be placed.
                 - Rather than referencing the block that is SHOWCASING the [[DWP]]... reference the prompt itself. 
@@ -46,8 +46,8 @@
                     - Plus, the [editors]([[graph editors]]) can always sprinkle some tags and block references in there to foster some connections. 
                         - #[[Fleeting Notes]] [[Start writing, and worry about optimizing structure later.]]
                     - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
-        - #Questions If I [[filter]]-out some page links from a page (e.g. hiding "not-populated"), does that filter it out for everyone or just me?
-        - #[[Open Questions]] How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
+        - #Questions If I [[filter]]-out some page links from a page ([[e.g.]] hiding "not-populated"), does that filter it out for everyone or just me?
+        - #[[Open Questions]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
             - My goal would be to put blocks that I want input or commentary on in a commonly reviewed place (like Announcements) so that it increases the probability of being seen. 
             - Maybe another tag that gets pinned to the top? The `#Mainstage` or "requests for input" maybe? 
             - Using `#Highlights` is a possibility! 
@@ -94,7 +94,7 @@
             - Using SmartBlocks & templates to facilitate structure and effortlessly drive conventions
     - #Chat
         - Thoughts on this? [[~]][[Charles Farr]]
-            - "#[[Open Questions]] How do I "elevate" content to the main stage for more visibility? (e.g. I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+            - "#[[Open Questions]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
     - #Comments
         - In [these](((PmZ_NjkFA))) [[fleeting notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
@@ -206,7 +206,7 @@
                         - X
                         - Y
                         - Z
-        - #Q Is there a way to standardize the color format to indicate specific types of tags (e.g., meta vs personal vs administrative etc...)?
+        - #Q Is there a way to standardize the color format to indicate specific types of tags ([[e.g.]], meta vs personal vs administrative etc...)?
     - #[[Open Questions]] ((about collaboration and beyond))
         - #Q What types of [[communication]] does a collective framework need to be able to handle?
             - "synchronous versus asynchronous"
@@ -224,12 +224,12 @@
         - #Q [[spaced repetition]] can be invaluable to an individual — are there similar use cases for communities?
             - To be clear, [[spaced repetition]] is very valuable to members in a community, and a community can encourage its members to implement spaced repetition. But is there a way in which space repetition can be used at the community level to drive towards an objective?
         - #Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))
-            - #Q How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?
+            - #Q How does a community's nature ([[e.g.]], social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives ([[e.g.]], maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?
         - #Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))
             - What is the core set of primitives that can be combined into any higher-order knowledge represenation?
             - #Comment This question is really more of a #[[Follow Up]], as I have a feeling this is a question as old as time and many smarter than I have pondered the question...
         - #Q Roam makes the knowledge graph infinitely more accessible, putting what was previously stored in your brain or disparate notes into a unified location — however, a Roam graph can still be incredibly difficult to navigate. Are there specific "views" or UIs that can help the uninitiated explore a graph / understand a concept? [*](((J3RHoNJDa)))
-            - Gets at the point [[David Bieber]] raised during "[[Clubhouse]] "Working with Roam"", i.e., it is "Difficult to share his raw Roam Graph"
+            - Gets at the point [[David Bieber]] raised during "[[Clubhouse]] "Working with Roam"", [[i.e.]], it is "Difficult to share his raw Roam Graph"
             - #Q Are there design principles associated with display of knowledge that we could leverage to build effective artifacts? [*](((nXHqG3MVb)))
         - #Q Does added transparency around ideas and their foundations and development strengthen a community? [*](((E7WnIh2V1)))
             - Does it improve the quality of the knowledge representation?
@@ -247,7 +247,7 @@
         - "I've landed on " [[Brandon Toner]]
             - Developing the question a bit more...
                 - "#Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))"
-                    - "#Q How does a community's nature (e.g., social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives (e.g., maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?"
+                    - "#Q How does a community's nature ([[e.g.]], social, professional, interest-based, for-profit, non-profit, research-focused, operations-focused) and their objectives ([[e.g.]], maintain standards, combat disinformation, generate innovation) impact the structure of the knowledge graph best suited to support said community?"
     - #[[Change Log]]
         - Added a second tag for questions — `#Q`
             - Goal is to use the `#Q` tag at the **block level**, which will enable graph users to query individual questions
@@ -272,7 +272,7 @@
                 - So long as you don't touch the top level bullet, you can move blocks in and out of it
                 - Relies on people block referencing the block in question though, because you don't want them to write inside of the block necessarily...
                     - **this is a downfall**
-            - Another approach could be to use a tag e.g., `#DailyMessage`, and a <%BLOCKMENTIONS:1,`DailyMessage`%>
+            - Another approach could be to use a tag [[e.g.]], `#DailyMessage`, and a <%BLOCKMENTIONS:1,`DailyMessage`%>
                 - This would require you to manually change the block associated with the daily message, as ideally you would only want one block associated with the tag at a given time
         - "Added a [Resources Template](((gix1P4auD))) cc: [[~]][[Charles Farr]]"
             - Looks good! Similar to how you have the `For descriptions of the other "DNP Modules", visit this page → [[DNP Modules]]`, could be worthwhile to include a  list of additional characteristics users can input...

@@ -81,3 +81,14 @@
 
 - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>)) based on [felt [[truth](<felt [[truth.md>)]].[*](((ZZWmGCw0B))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]] [*]([Bookmarks](<Bookmarks.md>))[*]([page naming](<page naming.md>))[*]([zettelkasten](<zettelkasten.md>))
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>)
+
+- [Conventions](<Conventions.md>) [conversation](<conversation.md>) should be conducted in the form of [zettelkasten](<zettelkasten.md>)
+
+4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>)
+
+- **[Related](<Related.md>):** [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
+

@@ -21,9 +21,6 @@
 
 9. How can a [Welcome 😃](<Welcome 😃.md>)
 
-## [Prompts](<Prompts.md>)
-- How could the [Welcome 😃](<Welcome 😃.md>)
-
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>),
 

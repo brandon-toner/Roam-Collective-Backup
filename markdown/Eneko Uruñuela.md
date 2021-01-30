@@ -15,7 +15,7 @@
         - Queries::
             - {{[[query]]: {and: [[@]] [[Eneko Uruñuela]]}}}
         - SmartBlocks::
-            - EUruñuela — Notifications BT #42SmartBlock
+            - EUruñuela — Notifications #42SmartBlock
                 - <%BLOCKMENTIONS:20,Eneko Uruñuela,@%>
                 - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
             - EUruñuela — Number of Notifications #42SmartBlock

@@ -40,11 +40,6 @@
 
 - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))
 
-## [Prompts](<Prompts.md>)
-- [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
-
-- What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)?
-
 ## [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 - > "To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 

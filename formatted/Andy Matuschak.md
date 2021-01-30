@@ -20,6 +20,9 @@
 ## [Evergreen notes should be concept-oriented](<Evergreen notes should be concept-oriented.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
+## [How to write good prompts](<How to write good prompts.md>)
+- **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Andy Matuschak](<Andy Matuschak.md>)'
 
@@ -33,6 +36,11 @@
 - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
 
 - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Report of evergreen notes authored by graph members. (excluding externally authored notes, [e.g.](<e.g..md>) [Andy Matuschak](<Andy Matuschak.md>))
+
+- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)

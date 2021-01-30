@@ -204,27 +204,27 @@ Resolve by "[replace as text](<replace as text.md>)"
                 - Soft rewards are better than restriction(?maybe) on encouraging Roamans to control the complexity of their contents when publishing.
         - {{[embed](<embed.md>): ((yFC7BCyMf))}}
         - {{[embed](<embed.md>): ((XT6pRAbyX))}}
-        - One handy starting point to build up [communication](<communication.md>) [model](<model.md>) in [Roam](<Roam.md>) is to adapt features from different apps(e.g. slack, twitter, whatsapp, telegram). #[Experiments](<Experiments.md>)
+        - One handy starting point to build up [communication](<communication.md>) [model](<model.md>) in [Roam](<Roam.md>) is to adapt features from different apps([e.g.](<e.g..md>) slack, twitter, whatsapp, telegram). #[Experiments](<Experiments.md>)
         - But [communication](<communication.md>) [model](<model.md>) is not the whole point, it just serves as a component for better [collaboration](<collaboration.md>).
-        - Using the [model](<model.md>) of distributed system(i.e. each entity should have the ability to store, compute, communicate), beside [communication](<communication.md>), we should also think of the [computation](<computation.md>) process. Logic inference is the important part.
+        - Using the [model](<model.md>) of distributed system([i.e.](<i.e..md>) each entity should have the ability to store, compute, communicate), beside [communication](<communication.md>), we should also think of the [computation](<computation.md>) process. Logic inference is the important part.
     - #[Chat](<Chat.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Is it valid to add tags to for ones usage(public oriented)?
             - For example, I may want to add a tag like `[experiment](<experiment.md>)` for the sake of easy query.
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] So interested in your [chat plugin](((jMzfRp8cF))) mentioned yesterday. Can I join the discussion or even the implementation? Some ideas below ...
-            - One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves(i.e. Antar, an Android app) and outside world.
+            - One of my biggest wish to the chat plugin is to be able to model the communication process with both inner-selves([i.e.](<i.e..md>) Antar, an Android app) and outside world.
                 - **reason** why I wanna combine inner selves chat and outside world chat as one single model is that, ...
                     - we could model **‘I’ in different time as different person**, then, the question is then transformed into **async communication with outside world**.
-                    - also, take the Android app, Antar, as an example, it mainly focus on **commutation between different modes of ones own**, e.g. angry me, calm me, etc.
+                    - also, take the Android app, Antar, as an example, it mainly focus on **commutation between different modes of ones own**, [e.g.](<e.g..md>) angry me, calm me, etc.
                     - this model maybe [Related](<Related.md>) to [spaced repetition](<spaced repetition.md>).
             - According to the [example](((yOi9SxfEw))), practically, it means that we could [model](<model.md>) the [communication](<communication.md>) **entity, as tags or block-ref-id** and the whole [communication](<communication.md>) process as **publish-subscribe model**. More explanation below. cc: [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
                 - **Property** of a [communication](<communication.md>) entity is **reachability**, in other words, anything in [Roam](<Roam.md>) database that’s reachable, is a valid [communication](<communication.md>) entity.
                 - semantics on [communication](<communication.md>) entity
-                    - A Roaman (e.g. [Matthew Vogel](<Matthew Vogel.md>))
-                    - A group of Roamans(e.g. Roaman in [Roam Book Club](<Roam Book Club.md>))
+                    - A Roaman ([e.g.](<e.g..md>) [Matthew Vogel](<Matthew Vogel.md>))
+                    - A group of Roamans([e.g.](<e.g..md>) Roaman in [Roam Book Club](<Roam Book Club.md>))
                     - A thread in [Roam](<Roam.md>) (more explanation below)
-                        - the concept, **thread**, you could think of it as **a NPC in game**, it told you the information that has already been set up in the past (i.e. sentences leaved by others)
+                        - the concept, **thread**, you could think of it as **a NPC in game**, it told you the information that has already been set up in the past ([i.e.](<i.e..md>) sentences leaved by others)
                             - In the extreme case(maybe someday), you may not even know who’s talking in the thread.
-                    - An event(i.e. activity) in [Roam](<Roam.md>)
+                    - An event([i.e.](<i.e..md>) activity) in [Roam](<Roam.md>)
                     - A global public feed in [Roam](<Roam.md>)
                 - **tags and block-ref-id serve as id** for [communication](<communication.md>) entity, in other words, each block in database is a [communication](<communication.md>) entity.
             - Maybe one important property of inner self chat is that, we tend to achieve **consensus** across different selves, otherwise we will get mad with our own. While communication with outside world doesn’t always require this property to be hold. reply [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] on [this](((XEO7RXlX2))). #[.concept/difference](<.concept/difference.md>)
@@ -321,7 +321,7 @@ Resolve by "[replace as text](<replace as text.md>)""
             - Benefits
                 - Easily distinguish between personal and community SmartBlocks / templates
                 - Easily trigger the function in question...
-                    - Searching by your name (e.g., `jjCharlesF`) easily pulls up a list of your functions
+                    - Searching by your name ([e.g.](<e.g..md>), `jjCharlesF`) easily pulls up a list of your functions
                     - Searching by "rc" pulls up a list of community functions, and you can easily specify using the abbreviations
                     - Note: These formats are helpful because you can't use spaces while searching using the `jj` trigger...
         - [Projects/Submit Grant Application to [[Urbit](<Projects/Submit Grant Application to [[Urbit.md>) for RC]]
@@ -354,8 +354,8 @@ Resolve by "[replace as text](<replace as text.md>)""
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)"
 
 # Backlinks
-## [January 29th, 2021](<January 29th, 2021.md>)
-- [ ] [January 28th, 2021](<January 28th, 2021.md>)
+## [January 30th, 2021](<January 30th, 2021.md>)
+**Page:** [January 28th, 2021](<January 28th, 2021.md>)
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Created](<Date Created.md>):** [January 28th, 2021](<January 28th, 2021.md>)

@@ -22,6 +22,9 @@
 
 - [Conventions](<Conventions.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Added the [convention]([Conventions](<Conventions.md>))
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 4. Review the [conventions]([Conventions](<Conventions.md>))
 

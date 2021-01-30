@@ -21,10 +21,10 @@
                 - #[Open Questions](<Open Questions.md>) How could we preserve the chat integrity as the blocks they reference change?
         - #[Open Questions](<Open Questions.md>)
             - How could we build a convention for "waiting for reply"? 
-                - i.e. you tag someone in a chat and it is still unread.
+                - [i.e.](<i.e..md>) you tag someone in a chat and it is still unread.
                 - May need a From:Brandon type page to include in a query
-                    - e.g. `[From[[Brandon Toner](<From[[Brandon Toner.md>)]]` AND `[@](<@.md>)` 
-                        - Don't love it yet, but it might be on the right track. Feels like a lot of work? Maybe not though. I'd rather the "from" information be implied by it's place in the graph... i.e. nested under your DNP section under Comments might work. 
+                    - [e.g.](<e.g..md>) `[From[[Brandon Toner](<From[[Brandon Toner.md>)]]` AND `[@](<@.md>)` 
+                        - Don't love it yet, but it might be on the right track. Feels like a lot of work? Maybe not though. I'd rather the "from" information be implied by it's place in the graph... [i.e.](<i.e..md>) nested under your DNP section under Comments might work. 
             - How do we improve [Chat](<Chat.md>) conventions so that we avoid the "[shouting as you run by](((R9BCN_mmu)))" feeling? 
         - I'd like to come up with some topic tags...
             - Collaboration

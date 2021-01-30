@@ -15,7 +15,7 @@
         - **[Queries](<Queries.md>):**
             - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
         - **[SmartBlocks](<SmartBlocks.md>):**
-            - EUruñuela — Notifications BT [42SmartBlock](<42SmartBlock.md>)
+            - EUruñuela — Notifications [42SmartBlock](<42SmartBlock.md>)
                 - <%BLOCKMENTIONS:20,Eneko Uruñuela,@%>
                 - **Results:** <%BLOCKMENTIONS:-1,Eneko Uruñuela,@%>, **Max:** 20
             - EUruñuela — Number of Notifications [42SmartBlock](<42SmartBlock.md>)

@@ -73,16 +73,14 @@
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[Open Questions](<Open Questions.md>)
 
-## [Prompts](<Prompts.md>)
-- **[Related](<Related.md>):** [Open Questions](<Open Questions.md>),
-
-- What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))
-
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Open Questions](<Open Questions.md>)
 
 ## [The Main Feed](<The Main Feed.md>)
 - "#[Open Questions](<Open Questions.md>)
+
+## [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
+- **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Open Questions](<Open Questions.md>)
 
 ## [replace with text](<replace with text.md>)
 - "#[Open Questions](<Open Questions.md>)

@@ -24,6 +24,10 @@
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**
 
+## [How to write good prompts](<How to write good prompts.md>)
+- **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
+    - **[URL](<URL.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? #[Tweet Threads](<Tweet Threads.md>)
             - **[URL](<URL.md>):**
@@ -34,6 +38,13 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
             - **[URL](<URL.md>):**
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- How to write good prompts: using spaced repetition to create understanding
+                - **[URL](<URL.md>):**
+
+- Wow this is excellent! Love these. Will definitely [look further into this]([Bookmarks](<Bookmarks.md>)). [prompts](<prompts.md>) [Resources](<Resources.md>)
+                    - **[URL](<URL.md>):**
 
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - **[Full Title](<Full Title.md>):** Maps of Meaning 08: Neuropsychology of Symbolic Representation

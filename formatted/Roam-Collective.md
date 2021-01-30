@@ -55,15 +55,6 @@
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
 
-## [Prompts](<Prompts.md>)
-- What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)?
-
-- What is the best way to help someone get comfortable in [Roam-Collective](<Roam-Collective.md>)?
-
-- Describe your experience in [Roam-Collective](<Roam-Collective.md>)
-
-- Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>)
-
 ## [Welcome 😃](<Welcome 😃.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 

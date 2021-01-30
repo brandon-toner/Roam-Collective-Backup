@@ -72,7 +72,7 @@
             11. [ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
             12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
-            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 30th, 2021](<January 30th, 2021.md>) 
+            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 31st, 2021](<January 31st, 2021.md>) 
             14. [x] Establish a "[Daily Writing Prompts](<Daily Writing Prompts.md>)" workflow. [Processes](<Processes.md>)
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. [x] Consolidate and streamline some of the Getting Started, Start Here, etc stuff.
@@ -127,7 +127,7 @@
         5. What is the best method of notifications?
         6. What is type of information is [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]?
         7. How could I flag things as request for comment/feedback?
-            - e.g. "[ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)"
+            - [e.g.](<e.g..md>) "[ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)"
         8. What is the distinction between conventions and processes?
         9. How can a [Welcome 😃](<Welcome 😃.md>) page be designed to quickly orient the new member to the community conventions and processes?
         10. [page naming](<page naming.md>) — singular or plural?
@@ -273,7 +273,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This would work. In my personal graph is use block level tags to identify resources and then aggregate them in a central location...
                 - For instance `[Ref](<Ref.md>), [Book](<Book.md>), [Article](<Article.md>)` which would be captured in a query within `[Resources](<Resources.md>)`
                     - An example would be `[Book](<Book.md>) How To Take Smart Notes`
-                - A big question is just when to make something a page versus a block? Page architecture depends on preferences for namespaces versus using nested page references — e.g., `Book/How To Take Smart Notes` vs. `How To Take Smart Notes [Book]`
+                - A big question is just when to make something a page versus a block? Page architecture depends on preferences for namespaces versus using nested page references — [e.g.](<e.g..md>), `Book/How To Take Smart Notes` vs. `How To Take Smart Notes [Book]`
 - #[My Daily Notes](<My Daily Notes.md>) [Wiel Zouantcha](<Wiel Zouantcha.md>) {{word-count}}
     - How to get the most value out of CH conversations
         - Take it seriously, almost like a committee meeting
@@ -292,7 +292,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
         - Created my own page and reading through the documentation to figure out how commenting and feedback works
         - This is actually my first multiplayer graph because I wasn't a part of the book club and so this is all very exciting
         - I __loved__ the onboarding and thought it was a great way to get started and get everything set up
-        - Original thoughts are that I like that there is enough structure but also enough flexibility to create your own structure (i.e. specific [DNP Modules](<DNP Modules.md>) but you can customize your DNP Template to your liking)
+        - Original thoughts are that I like that there is enough structure but also enough flexibility to create your own structure ([i.e.](<i.e..md>) specific [DNP Modules](<DNP Modules.md>) but you can customize your DNP Template to your liking)
         - The one thing that will be important to master is [conventions](<conventions.md>) because I use Roam in a specific way in my personal graph but there needs to be more structure and order in this kind of space so that there isn't a ton of noise
 
 # Backlinks
@@ -306,5 +306,5 @@ Community suggests via block-level tagging, then graph editors compile them cent
 - Check out [January 25th, 2021](<January 25th, 2021.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- **Page:** `[January 25th, 2021](<January 25th, 2021.md>)`
+- **Page:** [January 25th, 2021](<January 25th, 2021.md>)
 

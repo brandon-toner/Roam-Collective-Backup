@@ -31,8 +31,3 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Discuss the [Roam Games](<Roam Games.md>)
 
-## [Prompts](<Prompts.md>)
-- [Roam Games](<Roam Games.md>)
-
-- What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))
-

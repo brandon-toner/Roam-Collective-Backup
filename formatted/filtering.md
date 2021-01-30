@@ -10,3 +10,8 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [Filtering]([filtering](<filtering.md>))
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- While [plaintext](<plaintext.md>) [datalog](<datalog.md>) queries are cool, it would be more functional if the native [query](<query.md>) engine and the page and reference [filtering](<filtering.md>)
+
+- Currently the page and reference [filtering](<filtering.md>)
+

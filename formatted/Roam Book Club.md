@@ -12,7 +12,7 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Future synchronous writing sessions like in [Roam Book Club](<Roam Book Club.md>)
 
-- A group of Roamans(e.g. Roaman in [Roam Book Club](<Roam Book Club.md>))
+- A group of Roamans([e.g.](<e.g..md>) Roaman in [Roam Book Club](<Roam Book Club.md>))
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Just remembered a [Roam Book Club](<Roam Book Club.md>)

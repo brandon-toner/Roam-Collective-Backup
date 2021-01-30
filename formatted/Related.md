@@ -89,6 +89,10 @@
 - **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - **[Related](<Related.md>):**
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+5. As ideas become heavily referenced, or feel "[evergreen](<evergreen.md>)" in nature — a page should be created and an [evergreen note]([evergreen notes](<evergreen notes.md>)) formed.
+                            - **[Related](<Related.md>):**
+
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
@@ -104,13 +108,6 @@
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Created](<Date Created.md>):** [January 28th, 2021](<January 28th, 2021.md>) 
     - **[Related](<Related.md>):**
-
-## [Prompts](<Prompts.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>)
-- **[Related](<Related.md>):**
-
-- What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?
-        - **[Related](<Related.md>):**
 
 ## [Queries](<Queries.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
@@ -158,6 +155,13 @@
 - **[Related](<Related.md>):**
 
 ## [collections](<collections.md>)
+- **[Related](<Related.md>):**
+
+## [e.g.](<e.g..md>)
+- **[Related](<Related.md>):**
+
+## [i.e.](<i.e..md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Conventions](<Conventions.md>)
 - **[Related](<Related.md>):**
 
 ## [just-in-time](<just-in-time.md>)

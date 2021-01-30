@@ -13,7 +13,7 @@
 
 13. {{[TODO](<TODO.md>)}
 
-- e.g. "{{[TODO](<TODO.md>)}
+- [e.g.](<e.g..md>) "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -29,17 +29,13 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 ## [January 30th, 2021](<January 30th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

@@ -67,6 +67,12 @@
                 - **[Example](<Example.md>):**
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
+- Possible to generate a report of "pages authored by graph members"
+                - **[Example](<Example.md>):**
+
+- Building queries using sets of data
+                            - **[Example](<Example.md>):**
+
 - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
                 - **[Example](<Example.md>):**
 

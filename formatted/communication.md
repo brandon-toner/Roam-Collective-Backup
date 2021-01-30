@@ -8,7 +8,7 @@
 
 - But [communication](<communication.md>)
 
-- Using the [model](<model.md>) of distributed system(i.e. each entity should have the ability to store, compute, communicate), beside [communication](<communication.md>),
+- Using the [model](<model.md>) of distributed system([i.e.](<i.e..md>) each entity should have the ability to store, compute, communicate), beside [communication](<communication.md>),
 
 - According to the [example](((yOi9SxfEw))), practically, it means that we could [model](<model.md>) the [communication](<communication.md>)
 

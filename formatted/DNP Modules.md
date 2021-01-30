@@ -47,7 +47,7 @@
 
 1. "Using the other [DNP Modules](<DNP Modules.md>)"
 
-- Original thoughts are that I like that there is enough structure but also enough flexibility to create your own structure (i.e. specific [DNP Modules](<DNP Modules.md>)
+- Original thoughts are that I like that there is enough structure but also enough flexibility to create your own structure ([i.e.](<i.e..md>) specific [DNP Modules](<DNP Modules.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - You can filter any of the main [DNP Modules](<DNP Modules.md>)

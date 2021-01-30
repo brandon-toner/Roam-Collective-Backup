@@ -29,6 +29,3 @@
 - **[Twitter](<Twitter.md>):** [@ymshulman](https://twitter.com/ymshulman)
         - **[Clubhouse](<Clubhouse.md>):**
 
-## [Prompts](<Prompts.md>)
-- How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>)
-
