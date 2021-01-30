@@ -14,7 +14,7 @@
 
 - #[Posted by](<Posted by.md>) [Your Name](<Your Name.md>)
 
-- [Chat](<Chat.md>) [Your Name](<Your Name.md>)
+- `[Chat](<Chat.md>) [Your Name](<Your Name.md>)
 
 - [Help](<Help.md>) [Your Name](<Your Name.md>)
 

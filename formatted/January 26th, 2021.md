@@ -81,9 +81,9 @@
     - [Promptstorming](<Promptstorming.md>)
         - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
             - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.
-                - #[Next Steps](<Next Steps.md>)
-                    - [ ] Add [Date Planner](<Date Planner.md>) framework from personal graph
-                    - [ ] Add project template
+                - [GTD](<GTD.md>)
+                    - [x] Add [Date Planner](<Date Planner.md>) framework from personal graph
+                    - [x] Add project template
         - "What sections should be included in a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)? What might chapters would need to be included? What questions should the guide answer?"
             - The importance of shared conventions
             - The double-edged sword of conventions (there is a balance)

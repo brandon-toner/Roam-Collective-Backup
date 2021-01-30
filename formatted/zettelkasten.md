@@ -30,7 +30,7 @@
 
 3. [ ] Add a guide to using the [zettelkasten](<zettelkasten.md>)
 
-12. [ ] Clarify the [zettelkasten](<zettelkasten.md>)
+12. [x] Clarify the [zettelkasten](<zettelkasten.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Beau Hann](<Beau Hann.md>) on [zettelkasten](<zettelkasten.md>)
@@ -68,7 +68,11 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
 
+- Is this a [zettelkasten](<zettelkasten.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>)  A [zettelkasten](<zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) many interpretations of [zettelkasten](<zettelkasten.md>)
 
 - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>).
 

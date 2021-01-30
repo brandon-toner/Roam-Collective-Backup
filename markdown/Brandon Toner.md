@@ -7,16 +7,24 @@
         - Send me a DM on Roam Slack (preferred)
         - Send me a DM on Twitter (also great)
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - Queries::
-        - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}}
-    - SmartBlocks::
-        - .DNP Template BT #42SmartBlock #roam/templates 
-            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
-                - #[[Scratchpad]] #not_populated
-                - #Administration #not_populated
-                    - #[[Change Log]] #not_populated
-                    - #[[Next Steps]] #not_populated
-                - #Promptstorming #not_populated
-                - #Comments #not_populated
-                - #Feedback  #not_populated
-        - Mentions BT
+- Queries::
+    - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}}
+- SmartBlocks::
+    - .DNP Template (BT) #42SmartBlock #roam/templates 
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+            - #[[Scratchpad]] #not_populated
+            - #GTD #not_populated
+            - #[[Change Log]] #not_populated
+            - #Promptstorming #not_populated
+            - #Comments #not_populated
+            - #Feedback  #not_populated
+    - Mentions (BT)
+    - Andy's Notes (BT) #42SmartBlock #roam/templates
+        - Tags:: #[[Evergreen Notes]] #[[Reference Notes]] #[[Andy's Notes]]
+            - Date Created:: {{Today:42SmartBlock:.Today}}
+            - Created by:: [[Brandon Toner]]
+            - Author:: [[Andy Matuschak]]
+            - URL: #not_populated
+            - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+            - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+            - Notes:: #not_populated

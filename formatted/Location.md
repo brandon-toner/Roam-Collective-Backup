@@ -37,6 +37,10 @@
 - **[LinkedIn](<LinkedIn.md>):** https://linkedin.com/in/ymshulman
     - **[Location](<Location.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[Website](<Website.md>):** [rosso.io](https://rosso.io)
+    - **[Location](<Location.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Newsletter](<Newsletter.md>):** [Playtime!](https://playtime.reddy2go.com)
     - **[Location](<Location.md>):**

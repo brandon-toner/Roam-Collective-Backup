@@ -14,7 +14,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>)
 
-- [ ] Complete the [GitHub](<../GitHub.md>) transfer #[Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>)
+- [x] Complete the [GitHub](<../GitHub.md>) transfer #[Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>)
 
 - 11:54 - [Matthew Vogel](<../Matthew Vogel.md>) and [Eneko Uruñuela](<../Eneko Uruñuela.md>) are looking into [backup](<../backup.md>) solutions #[Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>)
 

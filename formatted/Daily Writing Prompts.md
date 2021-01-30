@@ -31,9 +31,11 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
 
+- 19:44 — Made the CSS for #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 7. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>)
 
 ## [roam/css](<roam/css.md>)
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+- `#[Daily Writing Prompts](<Daily Writing Prompts.md>)
 

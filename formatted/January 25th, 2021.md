@@ -52,7 +52,7 @@
                         - #[Context Questions](<Context Questions.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [Welcome 😃](<Welcome 😃.md>) and the "**Getting Started:**" sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
-        - #[Next Steps](<Next Steps.md>) 
+        - [GTD](<GTD.md>)
             1. [x] Add process for suggestions [*](((7PyTNYa6C)))
                 - Use this tag `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]` [Processes](<Processes.md>)
             1. [x] Add description of `[not-populated](<not-populated.md>)` to the [Conventions](<Conventions.md>)
@@ -67,17 +67,17 @@
             10. [x] Add description of how to use `[Feedback](<Feedback.md>)` [Processes](<Processes.md>)
                 - See the [Feedback](<Feedback.md>) page
                 - Nest feedback beneath a `[Feedback](<Feedback.md>)` tag in your [DNP Section](<DNP Section.md>).
-            11. [ ] Improve CSS styling (make it more consistent and easy on the eyes)
+            11. [ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
-            12. [ ] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
-            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge
+            12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
+            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 30th, 2021](<January 30th, 2021.md>) 
             14. [x] Establish a "[Daily Writing Prompts](<Daily Writing Prompts.md>)" workflow. [Processes](<Processes.md>)
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. [x] Consolidate and streamline some of the Getting Started, Start Here, etc stuff.
-            16. [ ] Reflect on a [Resources](<Resources.md>) collection.
-            17. [ ] Add some project-management and task-based SmartBlocks
+            16. [x] Reflect on a [Resources](<Resources.md>) collection.
+            17. [x] Add some project-management and task-based SmartBlocks
     - [Scratchpad](<Scratchpad.md>)
-        - "Description of the [DNP Modules](<DNP Modules.md>)"
+        - "Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
         - Thoughts about [Roam Collective]([About [[Roam-Collective](<About [[Roam-Collective.md>)]])
             - **["Mission](<"Mission.md>):** ((See block references for additional ideas.))"
                 - "To define an approach for effective collaboration in Roam."
@@ -125,7 +125,7 @@
         5. What is the best method of notifications?
         6. What is type of information is [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]?
         7. How could I flag things as request for comment/feedback?
-            - e.g. "[ ] Improve CSS styling (make it more consistent and easy on the eyes)"
+            - e.g. "[ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)"
         8. What is the distinction between conventions and processes?
         9. How can a [Welcome 😃](<Welcome 😃.md>) page be designed to quickly orient the new member to the community conventions and processes?
         10. [page naming](<page naming.md>) — singular or plural?
@@ -283,7 +283,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - Just created my bio page at this point. Still reading through the extensive documentation 🤣
 - #[My Daily Notes](<My Daily Notes.md>)[Akiff Premjee](<Akiff Premjee.md>) {{word-count}}
     - [Administration](<Administration.md>)
-        - #[Next Steps](<Next Steps.md>)
+        - [GTD](<GTD.md>)
             - [ ] Update my personal page with a bio 
     - [Scratchpad](<Scratchpad.md>)
         - The role of the moderator becomes very key in these settings but once everyone agrees upon [conventions](<conventions.md>) and more importantly adopts them, I think that will sort itself out

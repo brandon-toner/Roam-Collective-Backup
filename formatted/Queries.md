@@ -5,10 +5,10 @@
 # Backlinks
 ## [Brandon Toner](<Brandon Toner.md>)
 - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - **[Queries](<Queries.md>):**
+- **[Queries](<Queries.md>):**
 
 ## [Directory](<Directory.md>)
-- [leekeifon](<leekeifon.md>)
+- [Zsolt Viczián](<Zsolt Viczián.md>)
 - **[Queries](<Queries.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
@@ -25,6 +25,10 @@
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - **[Interests](<Interests.md>):**[cooking](<cooking.md>) [architecture](<architecture.md>) [design](<design.md>) [metacognition](<metacognition.md>) comedic [improvisation](<improvisation.md>) 
+    - **[Queries](<Queries.md>):**
+
+## [Peter Rosso](<Peter Rosso.md>)
+- Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
     - **[Queries](<Queries.md>):**
 
 ## [Queries](<Queries.md>)

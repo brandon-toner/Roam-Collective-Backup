@@ -17,6 +17,11 @@
 
 - See: "Group [Sprints](<Sprints.md>) as a [convention]([Conventions](<Conventions.md>))
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- 20:54 — Added a passive notification [convention]([Conventions](<Conventions.md>))
+
+- [Conventions](<Conventions.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 4. Review the [conventions]([Conventions](<Conventions.md>))
 

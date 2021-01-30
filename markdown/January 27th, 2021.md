@@ -60,14 +60,14 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
         - #[[Next Steps]]
-            - {{[[TODO]]}} Set up reminder to backup graph daily.
+            - {{[[DONE]]}} Set up reminder to backup graph daily.
                 - SmartBlocks?
-            - {{[[TODO]]}} Implement a more broad task&project centric tag that would encompass `Next Steps`.
+            - {{[[DONE]]}} Implement a more broad task&project centric tag that would encompass `Next Steps`.
                 - Similar to #GTD in my personal graph.
                     - Images:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
-            - {{[[TODO]]}} Complete the [[GitHub]] transfer #[[Projects/Establish automated graph backups]]
+            - {{[[DONE]]}} Complete the [[GitHub]] transfer #[[Projects/Establish automated graph backups]]
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. 
         - #[[Fleeting Notes]] [[block references]] and tags are key to compiling group discussion on a given idea
@@ -110,7 +110,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
                     - Related:: [[Start from abundance]]
                 - #[[Next Steps]] 
-                    - {{[[TODO]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
+                    - {{[[DONE]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  #Chat
                     - [[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
         - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten

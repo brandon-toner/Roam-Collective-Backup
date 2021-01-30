@@ -52,7 +52,7 @@
                         - #[[Context Questions]] How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [[Welcome 😃]] and the "**Getting Started:**" sections 
             13. Added [[Roam Collaboration Guide]]
-        - #[[Next Steps]] 
+        - #GTD
             1. {{[[DONE]]}} Add process for suggestions [*](((7PyTNYa6C)))
                 - Use this tag `[[[[Feedback]]: [[Suggestions]]]]` #Processes
             1. {{[[DONE]]}} Add description of `#not-populated` to the #Conventions
@@ -67,17 +67,17 @@
             10. {{[[DONE]]}} Add description of how to use `#Feedback` #Processes
                 - See the [[Feedback]] page
                 - Nest feedback beneath a `#Feedback` tag in your [[DNP Section]].
-            11. {{[[TODO]]}} Improve CSS styling (make it more consistent and easy on the eyes)
+            11. {{[[TODO]]}} Improve [[roam/css]] styling (make it more consistent and easy on the eyes)
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
-            12. {{[[TODO]]}} Clarify the [[zettelkasten]] conventions for [[Roam-Collective]]
-            13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge
+            12. {{[[DONE]]}} Clarify the [[zettelkasten]] conventions for [[Roam-Collective]]
+            13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[January 30th, 2021]] 
             14. {{[[DONE]]}} Establish a "[[Daily Writing Prompts]]" workflow. #Processes
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. {{[[DONE]]}} Consolidate and streamline some of the Getting Started, Start Here, etc stuff.
-            16. {{[[TODO]]}} Reflect on a #Resources collection.
-            17. {{[[TODO]]}} Add some project-management and task-based SmartBlocks
+            16. {{[[DONE]]}} Reflect on a #Resources collection.
+            17. {{[[DONE]]}} Add some project-management and task-based SmartBlocks
     - #Scratchpad
-        - "Description of the [[DNP Modules]]"
+        - "Description of the [[DNP Modules]] ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
         - Thoughts about [Roam Collective]([[About [[Roam-Collective]]]])
             - "Mission:: ((See block references for additional ideas.))"
                 - "To define an approach for effective collaboration in Roam."
@@ -125,7 +125,7 @@
         5. What is the best method of notifications?
         6. What is type of information is [[[[Clubhouse]] conversation: Jan 25 2021]]?
         7. How could I flag things as request for comment/feedback?
-            - e.g. "{{[[TODO]]}} Improve CSS styling (make it more consistent and easy on the eyes)"
+            - e.g. "{{[[TODO]]}} Improve [[roam/css]] styling (make it more consistent and easy on the eyes)"
         8. What is the distinction between conventions and processes?
         9. How can a [[Welcome 😃]] page be designed to quickly orient the new member to the community conventions and processes?
         10. [[page naming]] — singular or plural?
@@ -283,7 +283,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - Just created my bio page at this point. Still reading through the extensive documentation 🤣
 - #[[My Daily Notes]][[Akiff Premjee]] {{word-count}}
     - #Administration
-        - #[[Next Steps]]
+        - #GTD
             - {{[[TODO]]}} Update my personal page with a bio 
     - #Scratchpad
         - The role of the moderator becomes very key in these settings but once everyone agrees upon [[conventions]] and more importantly adopts them, I think that will sort itself out

@@ -879,7 +879,9 @@ span.bp3-icon-small.bp3-icon-star {
                     - [ ] Clean up "`Highlight Tags`"
                     - [ ] Clean up the rest (status, flags, misc.)
         2. `GTD Tags`
-            - [INBOX](<../INBOX.md>)
+            - `GTD Tags`
+                - `[INBOX](<../INBOX.md>)
+[Inbox](<../Inbox.md>)
 [Projects](<../Projects.md>)
 [Goals](<../Goals.md>)
 [Mindsweep](<../Mindsweep.md>)
@@ -887,9 +889,11 @@ span.bp3-icon-small.bp3-icon-star {
 #[Waiting-[[resolved](<../Waiting-[[resolved.md>)]]
 [Tracking](<../Tracking.md>)
 #[Daily Big 3](<../Daily Big 3.md>)
+#[Plan My Day](<../Plan My Day.md>)
 #[Weekly Preview](<../Weekly Preview.md>)
 #[Next Steps](<../Next Steps.md>)
-                - ```css
+[GTD](<../GTD.md>)
+                    - ```css
 :root {
   --background:[607D8B](<../607D8B.md>);
   --color:[FFFFFF](<../FFFFFF.md>);
@@ -901,6 +905,21 @@ span.bp3-icon-small.bp3-icon-star {
   --position:relative;
   
   
+}
+
+span.rm-page-ref[data-tag="GTD"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="GTD"]:before {
+    content: '✅'
 }
 
 span.rm-page-ref[data-tag="INBOX"] {
@@ -915,6 +934,21 @@ span.rm-page-ref[data-tag="INBOX"] {
 }
 
 span.rm-page-ref[data-tag="INBOX"]:before {
+    content: '📥'
+}
+
+span.rm-page-ref[data-tag="Inbox"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Inbox"]:before {
     content: '📥'
 }
 
@@ -1023,6 +1057,21 @@ span.rm-page-ref[data-tag="Daily Big 3"]:before {
     content: '🚩'
 }
 
+span.rm-page-ref[data-tag="Plan My Day"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Plan My Day"]:before {
+    content: '🎯'
+}
+
 span.rm-page-ref[data-tag="Weekly Preview"] {
     background: var(--background);
     color: var(--color);
@@ -1087,6 +1136,18 @@ background: linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6D
 
 
 ```
+            - `[Annotations](<../Annotations.md>)
+                - ```css
+span.rm-page-ref[data-tag="Annotations"] {
+    background: [795548AF](<../795548AF.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
             - `#[Fleeting Notes](<../Fleeting Notes.md>)
                 - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
@@ -2072,8 +2133,24 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
     margin-top: -11px;
 }```
             - #[Posted by](<../Posted by.md>) [Your Name](<../Your Name.md>)
-            - [Chat](<../Chat.md>) [Your Name](<../Your Name.md>) #@ [Beau Haan 📌](<../Beau Haan 📌.md>)
+            - `#[Chat](<../Chat.md>)
                 - ```css
+span.rm-page-ref[data-tag="Chat"] {
+    background: [2196F3](<../2196F3.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Chat"]:before {
+    content: '📢'
+}```
+            - `[Chat](<../Chat.md>) [Your Name](<../Your Name.md>) #@ [Beau Haan 📌](<../Beau Haan 📌.md>)`
+                - ```ruby
 span.rm-page-ref[data-tag="Chat"] {
 	background-image: linear-gradient(to right, [4c8dc9](<../4c8dc9.md>),[4c8dc9](<../4c8dc9.md>));
     color: [fff](<../fff.md>);
@@ -2359,29 +2436,22 @@ span.rm-page-ref[data-tag="Video"]:before {
 
 
 ```
-            - #[Daily Writing Prompts](<../Daily Writing Prompts.md>)
+            - `#[Daily Writing Prompts](<../Daily Writing Prompts.md>)
                 - ```css
 span.rm-page-ref[data-tag="Daily Writing Prompts"] {
-    color: black !important;
-    padding: 3px 5px 3px 5px;
-	font-size: 13px;
+    background: [4CAF50](<../4CAF50.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
     line-height: 1em;
+    font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: [76f264](<../76f264.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [76f264](<../76f264.md>), [76f264](<../76f264.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [76f264](<../76f264.md>), [76f264](<../76f264.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
 }
 
-
-
-
-
-
-
-```
+span.rm-page-ref[data-tag="Daily Writing Prompts"]:before {
+    content: '✍🏼'
+}```
             - `Alerts, and "Seen"`
                 - ```css
 span[data-link-title^="@"] {
@@ -4770,6 +4840,9 @@ a {
         - Maintained as default black for easy differentiation between your personal graph [November 22nd, 2020](<../November 22nd, 2020.md>)
 
 # Backlinks
+## [Annotations](<Annotations.md>)
+- [x] Add to [roam/css](<../roam/css.md>)
+
 ## [Follow Up](<Follow Up.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
@@ -4780,6 +4853,10 @@ a {
 7. Added [roam/css](<../roam/css.md>)
 
 5. [x] Add [Processes](<../Processes.md>) to [roam/css](<../roam/css.md>)
+
+11. [ ] Improve [roam/css](<../roam/css.md>)
+
+- e.g. "[ ] Improve [roam/css](<../roam/css.md>)
 
 1. Added [roam/css](<../roam/css.md>)
 

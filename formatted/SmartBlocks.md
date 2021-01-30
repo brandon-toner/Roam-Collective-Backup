@@ -3,7 +3,7 @@
 # Backlinks
 ## [Brandon Toner](<Brandon Toner.md>)
 - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
-    - **[SmartBlocks](<SmartBlocks.md>):**
+- **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
@@ -23,6 +23,10 @@
 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- 17:54 — Added some Productivity [SmartBlocks](<SmartBlocks.md>).
+
+- 18:18 — Added the "Daily Review" [SmartBlock]([SmartBlocks](<SmartBlocks.md>))
+
 - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)
@@ -32,4 +36,8 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>): {and: [Location](<Location.md>) {or: [Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>) }}}}
     - **[SmartBlocks](<SmartBlocks.md>):**#
+
+## [Peter Rosso](<Peter Rosso.md>)
+- {{[query](<query.md>): {and: [@[[Peter Rosso](<@[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
+    - **[SmartBlocks](<SmartBlocks.md>):**
 

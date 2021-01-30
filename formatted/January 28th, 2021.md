@@ -115,8 +115,8 @@
                         - 
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
         - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-        - #[Next Steps](<Next Steps.md>) 
-            - [ ] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>)
+        - [GTD](<GTD.md>)
+            - [ ] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>) #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
                 - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
                 - [ ] Add some [literature notes](<literature notes.md>)
                 - **Suggestion:** "[Joel Chan](<Joel Chan.md>)'s work on [knowledge synthesis](<knowledge synthesis.md>) [synthesis](<synthesis.md>)"
@@ -152,7 +152,7 @@ I may have to upload the backup.
         - "Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>) or would that happen at the [creative projects](<creative projects.md>) phase?"
             - I'll draw something out on this to further clarify, but in this expression [fleeting notes](<fleeting notes.md>) are NOT based on the literature, and [literature notes](<literature notes.md>) are based on some source material. [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Conventions](<Conventions.md>) #[Follow Up](<Follow Up.md>) [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
                 - Both could contribute to the development of [evergreen notes](<evergreen notes.md>), being listed under `References` on the [EN](<EN.md>) note page. (OPTIONAL)
-                    - As indicated [here](((dhqC2IN0s))) in the template
+                    - **[As indicated [here](References](<As indicated [here](References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))) in the template
                 - Both could ALSO contribute to [creative projects](<creative projects.md>). Any notes within the [zettelkasten](<zettelkasten.md>) can be used to support ideas within a creative project. (OPTIONAL)
         - #[Graph Mentorship](<Graph Mentorship.md>)
             - [~[[Mark Robertson](<~[[Mark Robertson.md>)]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.
@@ -354,6 +354,9 @@ Resolve by "[replace as text](<replace as text.md>)""
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)"
 
 # Backlinks
+## [January 29th, 2021](<January 29th, 2021.md>)
+- [ ] [January 28th, 2021](<January 28th, 2021.md>)
+
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Created](<Date Created.md>):** [January 28th, 2021](<January 28th, 2021.md>)
 

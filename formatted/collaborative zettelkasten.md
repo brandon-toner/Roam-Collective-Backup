@@ -12,3 +12,5 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative zettelkastens]([collaborative zettelkasten](<collaborative zettelkasten.md>))
 
+- [Opportunities](<Opportunities.md>) [Ship 30 for 30](<Ship 30 for 30.md>) as a [collaborative zettelkasten](<collaborative zettelkasten.md>)
+

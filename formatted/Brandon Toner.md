@@ -7,19 +7,27 @@
         - Send me a DM on Roam Slack (preferred)
         - Send me a DM on Twitter (also great)
         - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - **[Queries](<Queries.md>):**
-        - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
-    - **[SmartBlocks](<SmartBlocks.md>):**
-        - .DNP Template BT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
-                - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-                - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
-                    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-                    - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
-                - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-                - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
-                - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-        - Mentions BT
+- **[Queries](<Queries.md>):**
+    - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
+- **[SmartBlocks](<SmartBlocks.md>):**
+    - .DNP Template (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+            - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+            - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+            - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+            - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+            - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - Mentions (BT)
+    - Andy's Notes (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+        - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
+            - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
+            - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+            - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+            - URL: [not_populated](<not_populated.md>)
+            - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+            - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
 
 # Backlinks
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
@@ -33,6 +41,8 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -40,6 +50,9 @@
 - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
@@ -161,6 +174,12 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - [Brandon Toner](<Brandon Toner.md>)
+
+## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Start from abundance](<Start from abundance.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)

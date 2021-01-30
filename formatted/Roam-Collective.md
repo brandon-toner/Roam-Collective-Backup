@@ -15,7 +15,7 @@
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 
-12. [ ] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
+12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
 
 1. "What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)?
 

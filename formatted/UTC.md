@@ -12,6 +12,9 @@
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>)
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[Time Zone](<Time Zone.md>):** [GMT](<GMT.md>) ([UTC](<UTC.md>)
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>)
 

@@ -12,6 +12,10 @@
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**
 
+## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
 ## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**

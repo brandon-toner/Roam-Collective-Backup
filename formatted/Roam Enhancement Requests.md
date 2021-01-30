@@ -19,6 +19,8 @@
 
 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
+If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
+
 ## [Prompts](<Prompts.md>)
 - What could Roam do to improve the multiplayer experience?[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
 

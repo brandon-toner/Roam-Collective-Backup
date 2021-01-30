@@ -6,11 +6,18 @@
 ## [Andy Matuschak](<Andy Matuschak.md>)
 - **[Tags](<Tags.md>):**
 
+## [Annotations](<Annotations.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Areas/Roam Collective](<Areas/Roam Collective.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Bookmarks](<Bookmarks.md>)
 - **[Tags](<Tags.md>):**
+
+## [Brandon Toner](<Brandon Toner.md>)
+- Andy's Notes (BT) [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+        - **[Tags](<Tags.md>):**
 
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Tags](<Tags.md>):**
@@ -28,7 +35,13 @@
 ## [EN](<EN.md>)
 - **[Tags](<Tags.md>):**
 
+## [Evergreen Notes](<Evergreen Notes.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Evergreen notes should be atomic](<Evergreen notes should be atomic.md>)
@@ -71,6 +84,12 @@
 - **[Tags](<Tags.md>):**
 
 ## [Reference Notes](<Reference Notes.md>)
+- **[Tags](<Tags.md>):**
+
+## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):**
+
+## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Sprints](<Sprints.md>)
@@ -122,6 +141,9 @@
 ## [indentation](<indentation.md>)
 - **[Tags](<Tags.md>):**
 
+## [inklings](<inklings.md>)
+- **[Tags](<Tags.md>):**
+
 ## [linked references](<linked references.md>)
 - **[Tags](<Tags.md>):**
 
@@ -143,5 +165,11 @@
 - **[Tags](<Tags.md>):**
 
 ## [sorting](<sorting.md>)
+- **[Tags](<Tags.md>):**
+
+## [spaced everything](<spaced everything.md>)
+- **[Tags](<Tags.md>):**
+
+## [spaced repetition](<spaced repetition.md>)
 - **[Tags](<Tags.md>):**
 

@@ -11,29 +11,9 @@
 
 11. {{[TODO](<TODO.md>)}
 
-12. {{[TODO](<TODO.md>)}
-
 13. {{[TODO](<TODO.md>)}
 
-16. {{[TODO](<TODO.md>)}
-
-17. {{[TODO](<TODO.md>)}
-
 - e.g. "{{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-## [January 26th, 2021](<January 26th, 2021.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-## [January 27th, 2021](<January 27th, 2021.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -45,6 +25,16 @@
 - {{[TODO](<TODO.md>)}
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

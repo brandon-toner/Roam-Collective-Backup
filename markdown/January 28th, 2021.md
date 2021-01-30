@@ -115,8 +115,8 @@
                         - 
     - #Administration #not_populated
         - #[[Change Log]] #not_populated
-        - #[[Next Steps]] 
-            - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]]
+        - #GTD
+            - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]] #[[Week-04: 01-25-2021]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[TODO]]}} Add some [[literature notes]]
                 - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
@@ -152,7 +152,7 @@ I may have to upload the backup.
         - "Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?"
             - I'll draw something out on this to further clarify, but in this expression [[fleeting notes]] are NOT based on the literature, and [[literature notes]] are based on some source material. #zettelkasten #Processes #Conventions #[[Follow Up]] [[^[[Brandon Toner]]]]
                 - Both could contribute to the development of [[evergreen notes]], being listed under `References` on the [[EN]] note page. (OPTIONAL)
-                    - As indicated [here](((dhqC2IN0s))) in the template
+                    - As indicated [here](References:: #not_populated ((Supporting fleeting notes or literature notes would go here))) in the template
                 - Both could ALSO contribute to [[creative projects]]. Any notes within the [[zettelkasten]] can be used to support ideas within a creative project. (OPTIONAL)
         - #[[Graph Mentorship]]
             - [[~[[Mark Robertson]]]] I moved your comment on Beau's block to a nested position to promote better readability, FYI.

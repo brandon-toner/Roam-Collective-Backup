@@ -1,10 +1,18 @@
 
 # Backlinks
+## [Brandon Toner](<Brandon Toner.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+            - **[Author](<Author.md>):**
+
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
 ## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
@@ -17,6 +25,14 @@
     - **[Author](<Author.md>):**
 
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

@@ -60,14 +60,14 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
         - #[Next Steps](<Next Steps.md>)
-            - [ ] Set up reminder to backup graph daily.
+            - [x] Set up reminder to backup graph daily.
                 - SmartBlocks?
-            - [ ] Implement a more broad task&project centric tag that would encompass `Next Steps`.
+            - [x] Implement a more broad task&project centric tag that would encompass `Next Steps`.
                 - Similar to [GTD](<GTD.md>) in my personal graph.
                     - Images:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
-            - [ ] Complete the [GitHub](<GitHub.md>) transfer #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+            - [x] Complete the [GitHub](<GitHub.md>) transfer #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>)) power. 
         - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) and tags are key to compiling group discussion on a given idea
@@ -110,7 +110,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
                     - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
                 - #[Next Steps](<Next Steps.md>) 
-                    - [ ] Clarify this zettelkasten workflow further... with images and a longer write-up.
+                    - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  [Chat](<Chat.md>)
                     - [@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
         - #[Fleeting Notes](<Fleeting Notes.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)

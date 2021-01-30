@@ -28,6 +28,10 @@
 - **[Twitter](<Twitter.md>):** [@todayIwasbetter](https://twitter.com/todayIwasbetter)
     - **[Website](<Website.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[Twitter](<Twitter.md>):** [@rossopeter_](https://twitter.com/rossopeter_)
+    - **[Website](<Website.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Twitter](<Twitter.md>):** [@reddy2go](https://twitter.com/reddy2go)
     - **[Website](<Website.md>):**

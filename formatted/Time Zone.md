@@ -24,6 +24,10 @@
 - Pre-Covid: [Silver Spring](<Silver Spring.md>) / [Baltimore](<Baltimore.md>) [Maryland](<Maryland.md>)
     - **[Time Zone](<Time Zone.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[Location](<Location.md>):** [Bristol](<Bristol.md>), [UK](<UK.md>)
+    - **[Time Zone](<Time Zone.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Location](<Location.md>):** [Bombay](<Bombay.md>), [India](<India.md>)
     - **[Time Zone](<Time Zone.md>):**

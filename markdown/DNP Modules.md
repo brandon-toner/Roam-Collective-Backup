@@ -1,11 +1,11 @@
 - Tags:: #Conventions
-- Description of the [[DNP Modules]]
+- Description of the [[DNP Modules]] ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))
     - #[[Change Log]]
         1. A place to log changes to the structure and conventions in the graph 
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
     - #[[Scratchpad]]
         - Scratch-paper for a place to write your fleeting thoughts.
-    - #[[Next Steps]]
+    - #GTD
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - #Promptstorming
         - A place to respond to prompts.

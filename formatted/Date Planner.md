@@ -31,7 +31,7 @@
 
 # Backlinks
 ## [January 26th, 2021](<January 26th, 2021.md>)
-- [ ] Add [Date Planner](<Date Planner.md>)
+- [x] Add [Date Planner](<Date Planner.md>)
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - [Date Planner](<Date Planner.md>)

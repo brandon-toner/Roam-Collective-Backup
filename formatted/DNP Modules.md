@@ -1,11 +1,11 @@
 - **[Tags](<Tags.md>):** [Conventions](<Conventions.md>)
-- Description of the [DNP Modules](<DNP Modules.md>)
+- Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))
     - #[Change Log](<Change Log.md>)
         1. A place to log changes to the structure and conventions in the graph 
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
     - #[Scratchpad](<Scratchpad.md>)
         - Scratch-paper for a place to write your fleeting thoughts.
-    - #[Next Steps](<Next Steps.md>)
+    - [GTD](<GTD.md>)
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - [Promptstorming](<Promptstorming.md>)
         - A place to respond to prompts.
@@ -40,7 +40,7 @@
 - Description of the [DNP Modules](<DNP Modules.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
-- "Description of the [DNP Modules](<DNP Modules.md>)"
+- "Description of the [DNP Modules](<DNP Modules.md>)
 
 1. "Using the other [DNP Modules](<DNP Modules.md>)"
 
@@ -64,9 +64,9 @@
 - "A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>) by Bookmarks, or any other of the [DNP Modules](<DNP Modules.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
+- **Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
 
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
-- "Exploring the idea of evergreen notes a bit deeper today. This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
+- "**Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>)
 

@@ -21,6 +21,9 @@
 ## [Michael Shulman](<Michael Shulman.md>)
 - **[About me](<About me.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[About me](<About me.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[About me](<About me.md>):**
 

@@ -1,10 +1,18 @@
 
 # Backlinks
+## [Brandon Toner](<Brandon Toner.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+            - **[Notes](<Notes.md>):**
+
 ## [Create speculative outlines while you write](<Create speculative outlines while you write.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Notes](<Notes.md>):**
 
 ## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Notes](<Notes.md>):**
+
+## [Evergreen note-writing helps insight accumulate](<Evergreen note-writing helps insight accumulate.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Notes](<Notes.md>):**
 
@@ -34,6 +42,14 @@
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
+    - **[Notes](<Notes.md>):**
+
+## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Notes](<Notes.md>):**
+
+## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Notes](<Notes.md>):**
 
 ## [Start from abundance](<Start from abundance.md>)
