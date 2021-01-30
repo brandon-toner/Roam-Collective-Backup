@@ -117,7 +117,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
             - Block reference the FN into your Comments module, then nest comments underneath.
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
-                    - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[@[[Charles Farr]]]]
+                    - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]
         - #Conventions relevant [[tags]] should be appended to any [[fleeting notes]] to promote effective [[convergence]]. #zettelkasten
         - #Ideas A [[Roam highlighter]] extension might be a good way to bring [[highlights]] from articles into the graph #zettelkasten #resources #[[reference notes]]
         - #[[Fleeting Notes]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]

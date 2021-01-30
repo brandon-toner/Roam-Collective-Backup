@@ -35,6 +35,10 @@
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
             - **[URL](<URL.md>):**
 
+## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
+- **[Full Title](<Full Title.md>):** Maps of Meaning 08: Neuropsychology of Symbolic Representation
+    - **[URL](<URL.md>):**
+
 ## [Prefer note titles with complete phrases to sharpen claims](<Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**

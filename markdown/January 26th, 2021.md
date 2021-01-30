@@ -262,7 +262,6 @@
                 - `#page-focus` — focuses on pages
         - Added a `#[[Follow Up]]` tag to identify areas that I would like to return to...
             - See query aggregating these follow ups here
-            - [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #Chat
         - "Thoughts on this? [[~]][[Charles Farr]]"
             - 

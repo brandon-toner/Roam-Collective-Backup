@@ -4,12 +4,11 @@
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
     - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
-    - 
     - __Interested in writing about something else?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-- #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- #GTD ((Run the "Daily Review" smartblock))  
     - Daily Review::
         - **Scheduled for Today:**
             - **Page:** `[[January 25th, 2021]]`
@@ -21,9 +20,47 @@
         - {{TODO This Month:42SmartBlock:TODO This Month (RC)}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]] 
+        - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
+            - #Annotations
+                - #[[Literature Notes]] We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations.
+                    - "they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior." [*](((4tOaJgC_b)))
+                    - "All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate." [*](((4tOaJgC_b)))
+                - #[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions
+                    - "you go before the judiciary, you sort out the dispute. That becomes a precedent now. That's part of the body of laws. **The body of laws is what you act out.** That's why it's a body. Well, that's what Moses does. So he's sitting there making judgments very, very finely tuned. Discreet moral judgments." [*](((ugYN_NZgf)))
+                    - "So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [[Moses]] and it's a [[myth]]. It's a [[meta story]]. It's **It's a story about how rules come to be.**" [*](((ugYN_NZgf)))
+                    - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions"
+                        - But once they emerge, they become distributed — they transmute into other related forms. They become shared rules for social engagement and order. 
+                        - What determines when [[structure]] should be crystallized into [[law]] or [[conventions]]?
+                            - "Crystallized" is intended to be [[held lightly]] here. 
+                                - But degree of crystallization is another interesting question. How firm should we hold [[structure]]?
+                                - 
     - #GTD #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #Comments #not_populated
     - #Feedback  #not_populated
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - #[[Scratchpad]] #not_populated
+    - #GTD
+        - {{[[TODO]]}} Update all of the SmartBlocks in the graph to match new conventions
+            - {{[[TODO]]}} Document conventions
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #Comments
+        1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
+        1. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]"
+            - Agree [[@[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?
+                - Some ideas
+                    - Mathematical proofs
+                    - Logic
+                    - Rhetorical arguments
+                    - Debate
+        2. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
+            - Sounds good [[@[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
+    - #Chat #not-populated
+        1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
+    - #Feedback  #not_populated
+- Import
+    - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
+        - From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json

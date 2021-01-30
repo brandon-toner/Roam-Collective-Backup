@@ -192,14 +192,14 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]], [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]], [cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]
     - [Comments](<Comments.md>)
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)""
-            - Yup, really like this idea. cc: [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: [Conventions](<Conventions.md>)
                     - Easy to trigger.
                     - Unique (no conflict with another user (i.e. 2 "BT's" in the graph))
                     - Doesn't get confused with the global smartblock ("Community functions" [*](((DcXN7XPbc)))).
                         - I like the (CR) convention here. __Though that kinda feels like a name initial__ (i.e. BT)... but I think it's fine.
                         - Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.
-I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorting.md>).
+I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorting.md>). (__In common ones__)
                             - {{[embed](<embed.md>): ((pNHeT0VNp))}}
         - "The UI/UX for such things will get complicated quickly. So having a variety of global navigation blocks or similar might be useful here [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. You could also see an example, though not really for this exactly, here [➡️](((lRBaD3yYL)))"
             - Yea, agreed. As far as "following" goes, I'd like to keep it simple for now, and encourage others to envision how this might look logistically. 

@@ -5969,7 +5969,7 @@
       ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
     },
     ":edit/user": {
-      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
     },
     "children": [
       {
@@ -6107,34 +6107,6 @@
         "uid": "SIxVFIRAB"
       },
       {
-        ":block/refs": [
-          {
-            ":block/uid": "zql88eBgf"
-          },
-          {
-            ":block/uid": "aDlFFSRPv"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-        },
-        ":edit/user": {
-          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-        },
-        "create-time": 1611728038977,
-        "edit-time": 1611806920072,
-        "refs": [
-          {
-            "uid": "zql88eBgf"
-          },
-          {
-            "uid": "aDlFFSRPv"
-          }
-        ],
-        "string": "[[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... ",
-        "uid": "Sgpjs5ch8"
-      },
-      {
         ":create/user": {
           ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
         },
@@ -6190,7 +6162,7 @@
       }
     ],
     "create-time": 1611597052298,
-    "edit-time": 1611976561971,
+    "edit-time": 1612019665608,
     "title": "Charles Farr",
     "uid": "SUWj-tpl5"
   },
@@ -21067,34 +21039,6 @@
                     "edit-time": 1611728038987,
                     "string": "See query aggregating these follow ups here",
                     "uid": "_EW_UcVKQ"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "zql88eBgf"
-                      },
-                      {
-                        ":block/uid": "aDlFFSRPv"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "create-time": 1611728038977,
-                    "edit-time": 1611806920072,
-                    "refs": [
-                      {
-                        "uid": "zql88eBgf"
-                      },
-                      {
-                        "uid": "aDlFFSRPv"
-                      }
-                    ],
-                    "string": "[[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... ",
-                    "uid": "Sgpjs5ch8"
                   }
                 ],
                 "create-time": 1611727988578,
@@ -35779,26 +35723,26 @@
                                 ":block/uid": "SUWj-tpl5"
                               },
                               {
-                                ":block/uid": "ZZgX60u08"
+                                ":block/uid": "xWnZq8kHz"
                               }
                             ],
                             ":create/user": {
                               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
                             ":edit/user": {
-                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
                             },
                             "create-time": 1611777080182,
-                            "edit-time": 1611777113051,
+                            "edit-time": 1612019665604,
                             "refs": [
                               {
                                 "uid": "SUWj-tpl5"
                               },
                               {
-                                "uid": "ZZgX60u08"
+                                "uid": "xWnZq8kHz"
                               }
                             ],
-                            "string": "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[@[[Charles Farr]]]]",
+                            "string": "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]",
                             "uid": "HFviLQ2PR"
                           }
                         ],
@@ -63867,14 +63811,14 @@
                         ":block/uid": "SUWj-tpl5"
                       },
                       {
-                        ":block/uid": "ZZgX60u08"
+                        ":block/uid": "xWnZq8kHz"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
                     },
                     "children": [
                       {
@@ -63985,7 +63929,7 @@
                                   }
                                 ],
                                 "create-time": 1611931627858,
-                                "edit-time": 1611931770883,
+                                "edit-time": 1612019759846,
                                 "refs": [
                                   {
                                     "uid": "pNHeT0VNp"
@@ -63994,7 +63938,7 @@
                                     "uid": "pb9L_ftp_"
                                   }
                                 ],
-                                "string": "Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.\nI'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]].",
+                                "string": "Love [this](((pNHeT0VNp))) convention... I'm gonna adopt.\nI'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__In common ones__)",
                                 "uid": "9ZbD7MUEf"
                               }
                             ],
@@ -64021,16 +63965,16 @@
                       }
                     ],
                     "create-time": 1611931330609,
-                    "edit-time": 1611931973179,
+                    "edit-time": 1612019753654,
                     "refs": [
                       {
                         "uid": "SUWj-tpl5"
                       },
                       {
-                        "uid": "ZZgX60u08"
+                        "uid": "xWnZq8kHz"
                       }
                     ],
-                    "string": "Yup, really like this idea. cc: [[@[[Charles Farr]]]]",
+                    "string": "Yup, really like this idea. cc: [[~[[Charles Farr]]]]",
                     "uid": "of5qZjrR1"
                   }
                 ],
@@ -71084,7 +71028,7 @@
       ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
     },
     ":edit/user": {
-      ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     "children": [
       {
@@ -71207,18 +71151,6 @@
             "uid": "0InzrpnXK"
           },
           {
-            ":create/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            ":edit/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-            },
-            "create-time": 1611979693591,
-            "edit-time": 1611979693591,
-            "string": "",
-            "uid": "XTCixGBFK"
-          },
-          {
             ":block/refs": [
               {
                 ":block/uid": "7CWEj1_kU"
@@ -71337,9 +71269,6 @@
       },
       {
         ":block/refs": [
-          {
-            ":block/uid": "bjQLhCc-Z"
-          },
           {
             ":block/uid": "iF_j5T0jr"
           }
@@ -71479,16 +71408,13 @@
           }
         ],
         "create-time": 1611979908126,
-        "edit-time": 1611981136521,
+        "edit-time": 1612019775160,
         "refs": [
-          {
-            "uid": "bjQLhCc-Z"
-          },
           {
             "uid": "iF_j5T0jr"
           }
         ],
-        "string": "#GTD ((Run the \"Daily Review\" smartblock)) #not_populated ",
+        "string": "#GTD ((Run the \"Daily Review\" smartblock))  ",
         "uid": "ryVxRdlVs"
       },
       {
@@ -71523,9 +71449,6 @@
             ":block/refs": [
               {
                 ":block/uid": "wwX3aVlkf"
-              },
-              {
-                ":block/uid": "bjQLhCc-Z"
               }
             ],
             ":create/user": {
@@ -71534,17 +71457,390 @@
             ":edit/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "dj_GTsTHg"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5Kmoi9j3_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uf_NBEVEc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4tOaJgC_b"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612019816775,
+                            "edit-time": 1612019872200,
+                            "refs": [
+                              {
+                                "uid": "4tOaJgC_b"
+                              }
+                            ],
+                            "string": "\"they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior.\" [*](((4tOaJgC_b)))",
+                            "uid": "iSFzZ0NiL"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4tOaJgC_b"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612019939738,
+                            "edit-time": 1612020056219,
+                            "refs": [
+                              {
+                                "uid": "4tOaJgC_b"
+                              }
+                            ],
+                            "string": "\"All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate.\" [*](((4tOaJgC_b)))",
+                            "uid": "Dm076y9RE"
+                          }
+                        ],
+                        "create-time": 1612019872979,
+                        "edit-time": 1612020084571,
+                        "refs": [
+                          {
+                            "uid": "uf_NBEVEc"
+                          }
+                        ],
+                        "string": "#[[Literature Notes]] We act out more complexity than we can articulate. Our complexity exceeds our cognitive representations.",
+                        "uid": "KzKgQCI6y"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uf_NBEVEc"
+                          },
+                          {
+                            ":block/uid": "lGA5fCRND"
+                          },
+                          {
+                            ":block/uid": "rbXcbJKvY"
+                          },
+                          {
+                            ":block/uid": "M_r-smUlA"
+                          },
+                          {
+                            ":block/uid": "4LkM2-6Fd"
+                          },
+                          {
+                            ":block/uid": "v4TZCe8I3"
+                          },
+                          {
+                            ":block/uid": "hvgj-UHDz"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ugYN_NZgf"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612020087334,
+                            "edit-time": 1612020240476,
+                            "refs": [
+                              {
+                                "uid": "ugYN_NZgf"
+                              }
+                            ],
+                            "string": "\"you go before the judiciary, you sort out the dispute. That becomes a precedent now. That's part of the body of laws. **The body of laws is what you act out.** That's why it's a body. Well, that's what Moses does. So he's sitting there making judgments very, very finely tuned. Discreet moral judgments.\" [*](((ugYN_NZgf)))",
+                            "uid": "GGS9UbJGG"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "ugYN_NZgf"
+                              },
+                              {
+                                ":block/uid": "4WC5BEFfn"
+                              },
+                              {
+                                ":block/uid": "uheOD1N24"
+                              },
+                              {
+                                ":block/uid": "CL_6c9QHg"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612020122865,
+                            "edit-time": 1612020401659,
+                            "refs": [
+                              {
+                                "uid": "ugYN_NZgf"
+                              },
+                              {
+                                "uid": "4WC5BEFfn"
+                              },
+                              {
+                                "uid": "uheOD1N24"
+                              },
+                              {
+                                "uid": "CL_6c9QHg"
+                              }
+                            ],
+                            "string": "\"So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? __Well, he spent his 10,000 hours investigating the structure of morality in a practical way__, and it goes, bang. This is what we've been doing. These are the rules. ^^It's not like there's no rules to begin with and those are imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out what the pattern of what they are is reflect that back to them.^^ Well, that's that's the story of [[Moses]] and it's a [[myth]]. It's a [[meta story]]. It's **It's a story about how rules come to be.**\" [*](((ugYN_NZgf)))",
+                            "uid": "Ho7rmiz8q"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0VQAdS0F_"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1612020629813,
+                                "edit-time": 1612020667694,
+                                "string": "But once they emerge, they become distributed \u2014 they transmute into other related forms. They become shared rules for social engagement and order. ",
+                                "uid": "4a9vRpAIs"
+                              },
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "lGA5fCRND"
+                                  },
+                                  {
+                                    ":block/uid": "xnCmlsb1M"
+                                  },
+                                  {
+                                    ":block/uid": "BLHntCJKx"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "ifCFcjoEm"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "FG-VA-qnj"
+                                          },
+                                          {
+                                            ":block/uid": "xnCmlsb1M"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                        },
+                                        "create-time": 1612020741335,
+                                        "edit-time": 1612020779246,
+                                        "refs": [
+                                          {
+                                            "uid": "FG-VA-qnj"
+                                          },
+                                          {
+                                            "uid": "xnCmlsb1M"
+                                          }
+                                        ],
+                                        "string": "But degree of crystallization is another interesting question. How firm should we hold [[structure]]? #[[Context Questions]]",
+                                        "uid": "rJtvGbafE"
+                                      }
+                                    ],
+                                    "create-time": 1612020717338,
+                                    "edit-time": 1612020738074,
+                                    "refs": [
+                                      {
+                                        "uid": "ifCFcjoEm"
+                                      }
+                                    ],
+                                    "string": "\"Crystallized\" is intended to be [[held lightly]] here. ",
+                                    "uid": "PfRoLWjJk"
+                                  },
+                                  {
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "create-time": 1612020779238,
+                                    "edit-time": 1612020779238,
+                                    "string": "",
+                                    "uid": "RVioSzj8r"
+                                  }
+                                ],
+                                "create-time": 1612020671980,
+                                "edit-time": 1612020716967,
+                                "refs": [
+                                  {
+                                    "uid": "lGA5fCRND"
+                                  },
+                                  {
+                                    "uid": "xnCmlsb1M"
+                                  },
+                                  {
+                                    "uid": "BLHntCJKx"
+                                  }
+                                ],
+                                "string": "What determines when [[structure]] should be crystallized into [[law]] or [[conventions]]?",
+                                "uid": "PEzpG-v_D"
+                              }
+                            ],
+                            "create-time": 1612020579843,
+                            "edit-time": 1612020629820,
+                            "refs": [
+                              {
+                                "uid": "0VQAdS0F_"
+                              }
+                            ],
+                            "string": "((0VQAdS0F_))",
+                            "uid": "w9eHCoGGN"
+                          }
+                        ],
+                        "create-time": 1612020408616,
+                        "edit-time": 1612020569644,
+                        "refs": [
+                          {
+                            "uid": "uf_NBEVEc"
+                          },
+                          {
+                            "uid": "lGA5fCRND"
+                          },
+                          {
+                            "uid": "rbXcbJKvY"
+                          },
+                          {
+                            "uid": "M_r-smUlA"
+                          },
+                          {
+                            "uid": "4LkM2-6Fd"
+                          },
+                          {
+                            "uid": "v4TZCe8I3"
+                          },
+                          {
+                            "uid": "hvgj-UHDz"
+                          }
+                        ],
+                        "string": "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions",
+                        "uid": "0VQAdS0F_"
+                      }
+                    ],
+                    "create-time": 1612019803979,
+                    "edit-time": 1612019811906,
+                    "refs": [
+                      {
+                        "uid": "5Kmoi9j3_"
+                      }
+                    ],
+                    "string": "#Annotations",
+                    "uid": "8libFoOGR"
+                  }
+                ],
+                "create-time": 1612019788855,
+                "edit-time": 1612019803985,
+                "refs": [
+                  {
+                    "uid": "dj_GTsTHg"
+                  }
+                ],
+                "string": "[[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]",
+                "uid": "kKz26gESF"
+              }
+            ],
             "create-time": 1611979392832,
-            "edit-time": 1611979392832,
+            "edit-time": 1612019788301,
             "refs": [
               {
                 "uid": "wwX3aVlkf"
-              },
-              {
-                "uid": "bjQLhCc-Z"
               }
             ],
-            "string": "#[[Scratchpad]] #not_populated",
+            "string": "#[[Scratchpad]] ",
             "uid": "qeX5MsBGz"
           },
           {
@@ -71700,10 +71996,538 @@
         ],
         "string": "#[[My Daily Notes]] [[Brandon Toner]] {{word-count}}",
         "uid": "E4PuNi76H"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "SUWj-tpl5"
+          },
+          {
+            ":block/uid": "Pti1cH_0g"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+        },
+        ":edit/user": {
+          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wwX3aVlkf"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "create-time": 1612019395216,
+            "edit-time": 1612019395469,
+            "refs": [
+              {
+                "uid": "wwX3aVlkf"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[Scratchpad]] #not_populated",
+            "uid": "wQLiF7ApK"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "iF_j5T0jr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "sOFO_CQh4"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                ":edit/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sOFO_CQh4"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    "create-time": 1612019875435,
+                    "edit-time": 1612019881343,
+                    "refs": [
+                      {
+                        "uid": "sOFO_CQh4"
+                      }
+                    ],
+                    "string": "{{[[TODO]]}} Document conventions",
+                    "uid": "kZcACcnBJ"
+                  }
+                ],
+                "create-time": 1612019766876,
+                "edit-time": 1612019875445,
+                "refs": [
+                  {
+                    "uid": "sOFO_CQh4"
+                  }
+                ],
+                "string": "{{[[TODO]]}} Update all of the SmartBlocks in the graph to match new conventions",
+                "uid": "R2NWXEQ7L"
+              }
+            ],
+            "create-time": 1612019395465,
+            "edit-time": 1612019765591,
+            "refs": [
+              {
+                "uid": "iF_j5T0jr"
+              }
+            ],
+            "string": "#GTD",
+            "uid": "YYU9yFjR4"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Bb30fEKLj"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "create-time": 1612019395626,
+            "edit-time": 1612019395806,
+            "refs": [
+              {
+                "uid": "Bb30fEKLj"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[Change Log]] #not_populated",
+            "uid": "EfdmSwdms"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "YaMqIAJh8"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "create-time": 1612019396644,
+            "edit-time": 1612019396825,
+            "refs": [
+              {
+                "uid": "YaMqIAJh8"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Promptstorming #not_populated",
+            "uid": "fwOYQzhil"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "UA1Pmj2tB"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "zql88eBgf"
+                  },
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611728038977,
+                "edit-time": 1611806920072,
+                "refs": [
+                  {
+                    "uid": "zql88eBgf"
+                  },
+                  {
+                    "uid": "aDlFFSRPv"
+                  }
+                ],
+                "string": "[[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... ",
+                "uid": "Sgpjs5ch8"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "HFviLQ2PR"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                ":edit/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "aDlFFSRPv"
+                      },
+                      {
+                        ":block/uid": "npph1Oq_X"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            "create-time": 1612019628323,
+                            "edit-time": 1612019633823,
+                            "string": "Mathematical proofs",
+                            "uid": "b_lvUGFwi"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            "create-time": 1612019633810,
+                            "edit-time": 1612019635576,
+                            "string": "Logic",
+                            "uid": "JkhuApj7d"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            "create-time": 1612019635563,
+                            "edit-time": 1612019644002,
+                            "string": "Rhetorical arguments",
+                            "uid": "IyQ1_ksOs"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            "create-time": 1612019644133,
+                            "edit-time": 1612019647403,
+                            "string": "Debate",
+                            "uid": "BQXQswzCV"
+                          }
+                        ],
+                        "create-time": 1612019620464,
+                        "edit-time": 1612019628334,
+                        "string": "Some ideas",
+                        "uid": "01uUCNPL5"
+                      }
+                    ],
+                    "create-time": 1612019567880,
+                    "edit-time": 1612019620471,
+                    "refs": [
+                      {
+                        "uid": "aDlFFSRPv"
+                      },
+                      {
+                        "uid": "npph1Oq_X"
+                      }
+                    ],
+                    "string": "Agree [[@[[Brandon Toner]]]] \u2014 any thoughts on areas of thought we should research to help build out this stucture?",
+                    "uid": "Zd1WM6qqC"
+                  }
+                ],
+                "create-time": 1612019563252,
+                "edit-time": 1612019565822,
+                "refs": [
+                  {
+                    "uid": "HFviLQ2PR"
+                  }
+                ],
+                "string": "((HFviLQ2PR))",
+                "uid": "nzFPjsi0q"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "of5qZjrR1"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                ":edit/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "aDlFFSRPv"
+                      },
+                      {
+                        ":block/uid": "npph1Oq_X"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    "create-time": 1612019682809,
+                    "edit-time": 1612019719923,
+                    "refs": [
+                      {
+                        "uid": "aDlFFSRPv"
+                      },
+                      {
+                        "uid": "npph1Oq_X"
+                      }
+                    ],
+                    "string": "Sounds good [[@[[Brandon Toner]]]] \u2014 going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.",
+                    "uid": "_jBRRldG3"
+                  }
+                ],
+                "create-time": 1612019649050,
+                "edit-time": 1612019682365,
+                "refs": [
+                  {
+                    "uid": "of5qZjrR1"
+                  }
+                ],
+                "string": "((of5qZjrR1))",
+                "uid": "OdUPtmijA"
+              }
+            ],
+            "create-time": 1612019397624,
+            "edit-time": 1612019561708,
+            "refs": [
+              {
+                "uid": "UA1Pmj2tB"
+              }
+            ],
+            "string": "#Comments",
+            "uid": "-eAM81YGP"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Q2fSEKaJf"
+              },
+              {
+                ":block/uid": "6if6rGU7E"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "zql88eBgf"
+                  },
+                  {
+                    ":block/uid": "aDlFFSRPv"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1611728038977,
+                "edit-time": 1611806920072,
+                "refs": [
+                  {
+                    "uid": "zql88eBgf"
+                  },
+                  {
+                    "uid": "aDlFFSRPv"
+                  }
+                ],
+                "string": "[[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... ",
+                "uid": "Sgpjs5ch8"
+              }
+            ],
+            "create-time": 1612019758140,
+            "edit-time": 1612019941600,
+            "refs": [
+              {
+                "uid": "Q2fSEKaJf"
+              },
+              {
+                "uid": "6if6rGU7E"
+              }
+            ],
+            "string": "#Chat #not-populated",
+            "uid": "zkQxhfwBl"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ohDe4FbVt"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            "create-time": 1612019398616,
+            "edit-time": 1612019398822,
+            "refs": [
+              {
+                "uid": "ohDe4FbVt"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Feedback  #not_populated",
+            "uid": "S07ARthKZ"
+          }
+        ],
+        "create-time": 1612019385342,
+        "edit-time": 1612019408248,
+        "refs": [
+          {
+            "uid": "SUWj-tpl5"
+          },
+          {
+            "uid": "Pti1cH_0g"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Charles Farr]] {{word-count}}",
+        "uid": "CGjtq9u2J"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "dj_GTsTHg"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "edit-time": 1612019262699,
+                "string": "From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json",
+                "uid": "DInF2Z5y_"
+              }
+            ],
+            "edit-time": 1612019270949,
+            "refs": [
+              {
+                "uid": "dj_GTsTHg"
+              }
+            ],
+            "string": "[[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]",
+            "uid": "Pu0AImRQU"
+          }
+        ],
+        "edit-time": 1612019262699,
+        "string": "Import",
+        "uid": "7CGI_q1hv"
       }
     ],
     "create-time": 1611937114154,
-    "edit-time": 1611937114156,
+    "edit-time": 1612019262699,
     "title": "January 30th, 2021",
     "uid": "01-30-2021"
   },
@@ -76156,5 +76980,546 @@
     "edit-time": 1611998976540,
     "title": "Mridula",
     "uid": "ESu8KWh54"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "MNtr_MEx8"
+          },
+          {
+            ":block/uid": "qwpuHwnGi"
+          },
+          {
+            ":block/uid": "HEaru_-6b"
+          },
+          {
+            ":block/uid": "uheOD1N24"
+          },
+          {
+            ":block/uid": "CL_6c9QHg"
+          },
+          {
+            ":block/uid": "VNV9fM2F2"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "1195Lpmyi"
+              },
+              {
+                ":block/uid": "_gk276EiI"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612019279157,
+            "edit-time": 1612019297259,
+            "refs": [
+              {
+                "uid": "1195Lpmyi"
+              },
+              {
+                "uid": "_gk276EiI"
+              }
+            ],
+            "string": "Author(s):: [[The Jordan B. Peterson Podcast]]",
+            "uid": "pcgnY4Pln"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Ev8-U4w6h"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612019279157,
+            "edit-time": 1612019308097,
+            "refs": [
+              {
+                "uid": "Ev8-U4w6h"
+              }
+            ],
+            "string": "Full Title:: Maps of Meaning 08: Neuropsychology of Symbolic Representation",
+            "uid": "Bs4RwadA6"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Y04H9ccUw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1611839738730,
+            "edit-time": 1612019262650,
+            "refs": [
+              {
+                "uid": "Y04H9ccUw"
+              }
+            ],
+            "string": "URL:: https://www.airr.io/episode/5f5e42a6fe900b31bb4ed546",
+            "uid": "0TQPTXxVv"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "uf_NBEVEc"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612019279157,
+            "edit-time": 1612019279157,
+            "refs": [
+              {
+                "uid": "uf_NBEVEc"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "Literature Notes:: #not_populated",
+            "uid": "nUPrAU3mu"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "vFIQmVR1b"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "01-30-2021"
+                  },
+                  {
+                    ":block/uid": "yR-OIJOpX"
+                  },
+                  {
+                    ":block/uid": "HmXUGkPhO"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612017338344,
+                        "edit-time": 1612019262650,
+                        "string": "**Note**: We are far more complex than we understand. We act out what we cannot articulate.",
+                        "uid": "8GyKbuH1m"
+                      }
+                    ],
+                    "create-time": 1612017338343,
+                    "edit-time": 1612019262650,
+                    "string": "Speaker 0: they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior. Okay, so we'll go back to a chimpanzee troupe. All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate. Why can't that reveal itself? It does all the time. You have, ah, revelation. Ha, ([Time\u00a00:53:16](https://www.airr.io/quote/601569d5030ce3303c173e15))",
+                    "uid": "4tOaJgC_b"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uf_NBEVEc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612017338345,
+                        "edit-time": 1612019262650,
+                        "refs": [
+                          {
+                            "uid": "uf_NBEVEc"
+                          }
+                        ],
+                        "string": "**Note**: The story of Moses and the emergence of rules. #[[Literature Notes]]",
+                        "uid": "Fpd5ZFtjr"
+                      }
+                    ],
+                    "create-time": 1612017338344,
+                    "edit-time": 1612020099827,
+                    "string": "Speaker 0: you go before the judiciary, you sort out the dispute. That becomes a precedent now. That's part of the body of laws. The body of laws is what you act out. That's why it's a body. Well, that's what Moses does. So he's sitting there making judgments very, very finely tuned. Discreet moral judgments. You know how difficult that is when two people have a dispute to try to figure out how to mediate. Between that, you don't know who's lying, who's telling the truth. You don't know exactly what an acceptable solution would be like. It's really ridiculously hard work. So he walks through this entire process of continual judicial intermediation. Then he goes up the mountain. And what does he get? Tablet of Rules? Well, why? Well, he spent his 10,000 hours investigating the structure of morality in a practical way, and it goes, bang. This is what we've been doing. These are the rules. It's not like there's no rules to begin with. And those air imposed because that wouldn't work. It doesn't work that way. You have to take how people are extract out. What? The pattern of what they are is reflect that back to them. Well, that's that's the story of Moses and it za myth. It's a meta story. It's **It's a story about how rules come to be.** We act a certain way. We have certain kinds of expectations. We have certain kinds of disputes out of that, a pattern, a pattern way of being emerges. Then we map the pattern way of being. We say, Well, look, here's the rules. There's 10 of them or however many you want to extract, right? I mean, it's it's a moving target in some sense. Don't kill other people. That's a bad idea. Don't steal what other people have. Honor your parents, etcetera, etcetera. I mean these air. You could come up with a different basic set of rules, but there'd be some overlap. Those aren't bad to begin with course. There were far more rules than that, but those were the central ones. And so then he might say, Hey, if you took all ([Time\u00a00:57:30](https://www.airr.io/quote/60156b5e030ce34c06173e4e))",
+                    "uid": "ugYN_NZgf"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "uf_NBEVEc"
+                          },
+                          {
+                            ":block/uid": "puYWab8Fa"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612017338345,
+                        "edit-time": 1612019262650,
+                        "refs": [
+                          {
+                            "uid": "uf_NBEVEc"
+                          },
+                          {
+                            "uid": "puYWab8Fa"
+                          }
+                        ],
+                        "string": "**Note**: Do what you say you will do. Actions speak louder than words. The importance of integrity and parenting. Consistency. #[[Literature Notes]] #[[Evergreen Notes]]",
+                        "uid": "k92a8JpH4"
+                      }
+                    ],
+                    "create-time": 1612017338345,
+                    "edit-time": 1612019262650,
+                    "string": "Speaker 0: And so it's this consistent pattern of abstraction of ethical guidelines. So okay, so well, and so that maps onto well, there's a There's a micro. There's a micro level that you instruct people at and that then there's, um, or abstract level that you instruct them out. And then there's a more abstract level. Well, maybe at that point, you can't exactly directly instruct them. Remember, in the Pinocchio story, Gepetto sits pinoke or the cricket Jiminy sits Pinocchio down and tries to lecture to him about what the highest level of moral virtue is. He sounds like a complete fraud. He sounds like a propaganda artist. He's a soapbox preacher, and Pinocchio doesn't understand him at all. Why it has to be acted out now. Maybe as a parent, you could be a model for emulation, which is so you're a model for imitation. What you say matters, but it doesn't say as much matter as much as what you do. Maybe it would if what you said and what you did with the same. That's the ideal situation. That's what you want to do. If your apparent. If you say one thing and act differently, your kids will torture you to death and their right to do it, too, because you're confused and confusing them makes them anxious and aggressive, and they will go after you. Consistency, consistency, consistency. And if you can't provide it, you'll drive them crazy. So you wanna bring your words and your actions into alignment, right? And that's part of the development of wisdom. So okay, ([Time\u00a00:59:45](https://www.airr.io/quote/60156be8030ce32eed173e55))",
+                    "uid": "VimqXT2eO"
+                  }
+                ],
+                "create-time": 1612017338342,
+                "edit-time": 1612019262650,
+                "heading": 3,
+                "refs": [
+                  {
+                    "uid": "01-30-2021"
+                  },
+                  {
+                    "uid": "yR-OIJOpX"
+                  },
+                  {
+                    "uid": "HmXUGkPhO"
+                  }
+                ],
+                "string": "Highlights added [[January 30th, 2021]] at 10:35 AM #[[RW Highlights]]; [[]]",
+                "uid": "_hsFlw0XJ"
+              }
+            ],
+            "create-time": 1612019279157,
+            "edit-time": 1612019279157,
+            "refs": [
+              {
+                "uid": "vFIQmVR1b"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "Highlights:: #not_populated",
+            "uid": "QnVP-mDnT"
+          }
+        ],
+        "create-time": 1612019276340,
+        "edit-time": 1612020229820,
+        "refs": [
+          {
+            "uid": "MNtr_MEx8"
+          },
+          {
+            "uid": "qwpuHwnGi"
+          },
+          {
+            "uid": "HEaru_-6b"
+          },
+          {
+            "uid": "uheOD1N24"
+          },
+          {
+            "uid": "CL_6c9QHg"
+          },
+          {
+            "uid": "VNV9fM2F2"
+          }
+        ],
+        "string": "Tags:: #Resources #[[Reference Notes]] ((add type of resource... Articles, Books, Videos etc.)) #story #myth #[[meta story]]",
+        "uid": "ykP9hGUr2"
+      }
+    ],
+    "create-time": 1612019262641,
+    "edit-time": 1612019270949,
+    "title": "Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation",
+    "uid": "dj_GTsTHg"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612019262631,
+    "edit-time": 1612019262650,
+    "title": "not-populated",
+    "uid": "6if6rGU7E"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612019262629,
+    "edit-time": 1612019262650,
+    "title": "The Jordan B. Peterson Podcast",
+    "uid": "_gk276EiI"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612019262634,
+    "edit-time": 1612019262650,
+    "title": "RW Highlights",
+    "uid": "yR-OIJOpX"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612019262634,
+    "edit-time": 1612019262650,
+    "title": "",
+    "uid": "HmXUGkPhO"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "SUWj-tpl5"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+    },
+    ":edit/user": {
+      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+    },
+    "create-time": 1612019665606,
+    "edit-time": 1612019665608,
+    "refs": [
+      {
+        "uid": "SUWj-tpl5"
+      }
+    ],
+    "title": "~[[Charles Farr]]",
+    "uid": "xWnZq8kHz"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020187222,
+    "edit-time": 1612020187223,
+    "title": "Moses",
+    "uid": "4WC5BEFfn"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020195113,
+    "edit-time": 1612020195114,
+    "title": "myth",
+    "uid": "uheOD1N24"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020202127,
+    "edit-time": 1612020202129,
+    "title": "meta story",
+    "uid": "CL_6c9QHg"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020216789,
+    "edit-time": 1612020216789,
+    "title": "story",
+    "uid": "VNV9fM2F2"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020461598,
+    "edit-time": 1612020461615,
+    "title": "rules",
+    "uid": "rbXcbJKvY"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020526834,
+    "edit-time": 1612020526835,
+    "title": "pattern-recognition",
+    "uid": "M_r-smUlA"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020538004,
+    "edit-time": 1612020538020,
+    "title": "insights",
+    "uid": "4LkM2-6Fd"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020556063,
+    "edit-time": 1612020556064,
+    "title": "emergent",
+    "uid": "v4TZCe8I3"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020569669,
+    "edit-time": 1612020569670,
+    "title": "experience",
+    "uid": "hvgj-UHDz"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020713217,
+    "edit-time": 1612020713218,
+    "title": "law",
+    "uid": "BLHntCJKx"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612020736872,
+    "edit-time": 1612020736873,
+    "title": "held lightly",
+    "uid": "ifCFcjoEm"
   }
 ]

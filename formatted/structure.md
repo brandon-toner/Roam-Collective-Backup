@@ -5,3 +5,8 @@
 
 - [Robert Haisfield](<Robert Haisfield.md>) on [structure](<structure.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- What determines when [structure](<structure.md>)
+
+- But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)?
+
