@@ -13,3 +13,5 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) It is easier to tolerate vague [writing](<writing.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) [knowledge graphs](<knowledge graphs.md>) should be populated [opportunistically](<opportunistically.md>) to optimize for [flow state](<flow state.md>) [writing](<writing.md>).
+

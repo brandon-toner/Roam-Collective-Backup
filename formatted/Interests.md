@@ -20,6 +20,10 @@
 - Other tools I'd have a hard time living without, or that there aren't good substitutes for: [DEVONthink](<DEVONthink.md>) [Amazing Marvin](<Amazing Marvin.md>) [Liquid Text](<Liquid Text.md>)
         - **[Interests](<Interests.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
+        - **[Interests](<Interests.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - I started using [Roam](<Roam.md>) in [July 2020](<July 2020.md>) but still agnostic due to 80% of my workflow being mobile
         - **[Interests](<Interests.md>):**

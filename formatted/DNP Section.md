@@ -15,7 +15,7 @@
 ## [Comments](<Comments.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
-## [Daily Log Book](<Daily Log Book.md>)
+## [Daily Log](<Daily Log.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Daily Writing Prompts](<Daily Writing Prompts.md>)

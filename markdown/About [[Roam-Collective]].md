@@ -1,4 +1,4 @@
-- Created By:: [[Brandon Toner]] on [[January 25th, 2021]] during [[[[Clubhouse]] conversation: Jan 25 2021]]
+- Created by:: [[Brandon Toner]] on [[January 25th, 2021]] during [[[[Clubhouse]] conversation: Jan 25 2021]]
 - Related:: [[Welcome 😃]]
 - Description:: ((See block references for additional ideas.))
     - This is an experiment in collaboration in Roam. A space to explore conventions and processes within shared graphs. A community space for exploration and innovation.

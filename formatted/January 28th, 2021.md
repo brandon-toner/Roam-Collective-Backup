@@ -14,7 +14,7 @@
     - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)"
     - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
     - ((i66SL3BAl))
-- #[Daily Log Book](<Daily Log Book.md>) [*]([Change Log](<Change Log.md>))
+- #[Daily Log](<Daily Log.md>) [*]([Change Log](<Change Log.md>))
     - 
     - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)
         - WE BACK.
@@ -116,9 +116,9 @@
     - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
         - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
         - [GTD](<GTD.md>)
-            - [ ] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>) #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
+            - [x] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>) #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
                 - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
-                - [ ] Add some [literature notes](<literature notes.md>)
+                - [x] Add some [literature notes](<literature notes.md>)
                 - **Suggestion:** "[Joel Chan](<Joel Chan.md>)'s work on [knowledge synthesis](<knowledge synthesis.md>) [synthesis](<synthesis.md>)"
     - [Resources](<Resources.md>)
         - This [twitter thread]([Tweet Threads](<Tweet Threads.md>)) from [Kahlil Corazo](<Kahlil Corazo.md>): https://twitter.com/roamfu/status/1354414908327170050?s=21 #[project management](<project management.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])

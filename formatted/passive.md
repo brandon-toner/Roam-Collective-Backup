@@ -1,4 +1,4 @@
-- **[Related](<Related.md>):** [active vs passive resurfacing](<active vs passive resurfacing.md>)
+- **[Related](<Related.md>):** [[[E:](<[[E:.md>) active vs passive resurfacing]]
 - **[Tags](<Tags.md>):** [Concepts](<Concepts.md>)
 
 # Backlinks

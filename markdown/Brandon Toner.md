@@ -9,7 +9,10 @@
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
 - Queries::
-    - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}}
+    - **Unread Notifications:**
+        - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
+    - **CC'd Mentions:**
+        - {{[[query]]: {and: [[cc:[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
@@ -25,9 +28,14 @@
     - BToner — Andy's Notes #42SmartBlock #roam/templates
         - Tags:: #[[Evergreen Notes]] #[[Reference Notes]] #[[Andy's Notes]]
             - Date Created:: {{Today:42SmartBlock:.Today}}
-            - Created By:: [[Brandon Toner]]
+            - Created by:: [[Brandon Toner]]
             - Author:: [[Andy Matuschak]]
             - URL: #not_populated
             - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
             - Related:: #not_populated ((Not a reference, but a related idea, block or page))
             - Notes:: #not_populated
+    - BToner — My TODOs #42SmartBlock
+        - **Ways you can help:**
+            - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
+            - **Page:** <%PAGE%>
+{{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}

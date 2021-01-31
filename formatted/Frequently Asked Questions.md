@@ -11,7 +11,7 @@
     - Check out [these]([Templates](<Templates.md>)) as examples.
     - Anything beneath the block containing `[42SmartBlock](<42SmartBlock.md>)` becomes part of the template expansion (or "workflow")
 - What is the role of the [not_populated](<not_populated.md>) tag? 
-    - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)"
+    - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)"
 - How do I mention someone to get their attention? 
     - Tag them using the @ symbol. 
         - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)"

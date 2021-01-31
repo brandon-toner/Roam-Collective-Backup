@@ -18,6 +18,10 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 - Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
 
-## [active vs passive resurfacing](<active vs passive resurfacing.md>)
-- **[Related](<Related.md>):** [resurfacing](<resurfacing.md>)
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
+
+- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
+
+- According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
 

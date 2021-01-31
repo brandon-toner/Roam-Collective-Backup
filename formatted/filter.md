@@ -10,3 +10,6 @@
 
 - [Filter]([filter](<filter.md>))
 
+## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+- Your aim becomes a [filter](<filter.md>)
+

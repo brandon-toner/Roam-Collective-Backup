@@ -1,0 +1,13 @@
+- Tags:: #[[Evergreen Notes]] #values, #purpose, #direction, #focus
+    - Date Created:: [[January 30th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Brandon Toner]]
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+        - [[Jordan Peterson]] — recurring theme in his body of works.
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Notes:: 
+        - Our [[value structures]] determine our aims.
+        - Your aim becomes a [[filter]] on through which you see the world.
+            - Elements of experience become either tools, barriers, or irrelevant in relation to your aim.
+        - A clear aim helps to focus the direction of development. 
+        - Shared [[values]] and [[objectives]] help to facilitate [[alignment]] amongst a community of people. Allowing them to effectively [collaborate]([[collaboration]]).

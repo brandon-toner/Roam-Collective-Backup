@@ -38,3 +38,6 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+"#[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>).
+

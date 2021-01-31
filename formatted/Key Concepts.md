@@ -1,5 +1,3 @@
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) 
-- This tag can be used to tag main ideas or "Key Concepts" from [resources](<resources.md>).
 
 # Backlinks
 ## [January 30th, 2021](<January 30th, 2021.md>)

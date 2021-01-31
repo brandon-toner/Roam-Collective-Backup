@@ -37,6 +37,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 7. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>)
 

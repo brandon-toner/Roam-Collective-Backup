@@ -44,6 +44,10 @@
     - 
     - Waiting
     - Waiting-[[resolved]]
+- CTRL+SHIFT+C HASH (bug reports)
+    - 
+    - Bug Reports
+    - Bug Reports-[[resolved]]
 - CTRL+SHIFT+C HASH (project status)
     - 
     - Status/Active

@@ -1,2 +1,0 @@
-- Tags:: #Collections 
-- This tag can be used to tag main ideas or "Key Concepts" from [[resources]].

@@ -6,7 +6,7 @@
         - Using these other tags is not necessary, but helps to better compile information for filtering and querying. 
     - #Tips
         - Use the [default template](((qONZuXh3Y))) or build your own to make populating your DNP section easier. 
-        - Use `#not-populated` in your template to avoid creating [[empty attributes]]
+        - Use `#not-populated` in your template to avoid creating [[empty references]]
     - Example::
         - This example is QUITE developed. You could simply nest your ideas underneath the `#[[My Daily Notes]]` header — without organization under other tags. 
 

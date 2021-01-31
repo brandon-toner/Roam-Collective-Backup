@@ -12,7 +12,13 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Annotations](<Annotations.md>) of [How to write good prompts](<How to write good prompts.md>)
 
+- "[Annotations](<Annotations.md>) of [How to write good prompts](<How to write good prompts.md>)
+
 - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>),
 
-- [ ] Turn [How to write good prompts](<How to write good prompts.md>)
+- [ ] Create literature notes from [How to write good prompts](<How to write good prompts.md>).
+
+- "We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>)
+
+- We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>)
 

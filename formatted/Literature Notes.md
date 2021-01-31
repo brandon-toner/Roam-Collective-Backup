@@ -30,8 +30,6 @@
 - **[URL](<URL.md>):** https://www.airr.io/episode/5f5e42a6fe900b31bb4ed546
     - **[Literature Notes](<Literature Notes.md>):**
 
-- **Note**: Do what you say you will do. Actions speak louder than words. The importance of integrity and parenting. Consistency. #[Literature Notes](<Literature Notes.md>)
-
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - "#[Literature Notes](<Literature Notes.md>)
 

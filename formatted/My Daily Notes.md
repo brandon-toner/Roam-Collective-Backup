@@ -6,7 +6,7 @@
         - Using these other tags is not necessary, but helps to better compile information for filtering and querying. 
     - [Tips](<Tips.md>)
         - Use the [default template](((qONZuXh3Y))) or build your own to make populating your DNP section easier. 
-        - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
+        - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**
         - This example is QUITE developed. You could simply nest your ideas underneath the `#[My Daily Notes](<My Daily Notes.md>)` header — without organization under other tags. 
 
@@ -85,6 +85,15 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)

@@ -1,7 +1,7 @@
 - {{embed: ((b9pQnEURN))}}
 - #[[Daily Writing Prompts]] 
     - "What sections should be included in a [[Roam Collaboration Guide]]? What might chapters would need to be included? What questions should the guide answer?"
-- #[[Daily Log Book]]
+- #[[Daily Log]]
     - 10:00 — 11:00 played around a bit. [[Brandon Toner]]
         -  {{[[embed]]: ((mbcPwYoAX))}}
     - Made a few minor additions as I worked through open questions. [[Charles Farr]]

@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
-    - **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [David Perell](<David Perell.md>)
     - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):** [not_populated](<not_populated.md>)
@@ -21,4 +21,10 @@
 - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
 
 - This allows an [editor](<editor.md>) to [Start from abundance](<Start from abundance.md>).
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- First, [Start from abundance](<Start from abundance.md>).
+
+## [[E:](<[E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>)](<[E:](<E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>).md>)
+- [Start from abundance](<Start from abundance.md>)
 

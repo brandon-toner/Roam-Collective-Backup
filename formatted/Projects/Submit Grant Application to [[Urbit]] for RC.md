@@ -2,7 +2,7 @@
     - **[Date Created](<../Date Created.md>):** [January 28th, 2021](<../January 28th, 2021.md>) 
     - **[Related](<../Related.md>):** #[not_populated](<../not_populated.md>)
     - **[People](<../People.md>):** ((People involved with the project))
-        - **[Created By](<../Created By.md>):** [Charles Farr](<../Charles Farr.md>)
+        - **[Created by](<../Created by.md>):** [Charles Farr](<../Charles Farr.md>)
         - **[Project Lead](<../Project Lead.md>):** [Charles Farr](<../Charles Farr.md>)
         - **[Contributors](<../Contributors.md>):**
             - [Brandon Toner](<../Brandon Toner.md>)

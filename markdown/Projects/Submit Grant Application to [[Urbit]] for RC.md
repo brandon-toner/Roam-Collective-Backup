@@ -2,7 +2,7 @@
     - Date Created:: [[January 28th, 2021]] 
     - Related:: #[[not_populated]]
     - People:: ((People involved with the project))
-        - Created By:: [[Charles Farr]]
+        - Created by:: [[Charles Farr]]
         - Project Lead:: [[Charles Farr]]
         - Contributors::
             - [[Brandon Toner]]

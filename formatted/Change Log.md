@@ -25,7 +25,7 @@
 - #[Change Log](<Change Log.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- #[Daily Log Book](<Daily Log Book.md>) [*]([Change Log](<Change Log.md>))
+- #[Daily Log](<Daily Log.md>) [*]([Change Log](<Change Log.md>))
 
 - #[Change Log](<Change Log.md>)
 
@@ -45,6 +45,9 @@
 
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)

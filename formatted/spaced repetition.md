@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**
-    - [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>) ([Andy's Notes](<Andy's Notes.md>))
+    - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]] ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
 ## [How to write good prompts](<How to write good prompts.md>)
@@ -23,10 +23,10 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>)
 
-## [Spaced repetition may be a helpful tool to incrementally develop inklings](<Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
 
-## [Spaced repetition systems can be used to program attention](<Spaced repetition systems can be used to program attention.md>)
+## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
 
 ## [spaced everything](<spaced everything.md>)

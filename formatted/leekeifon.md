@@ -10,6 +10,7 @@
     - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
     - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
     - {{[query](<query.md>): {and: [cc:[[leekeifon](<cc:[[leekeifon.md>)]]}}}
+    - {{[query](<query.md>): {and: [^[[leekeifon](<^[[leekeifon.md>)]]}}}
     - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}}}
 
 # Backlinks
@@ -27,6 +28,11 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "Seems that alias don’t work well with query?" [*](((WUv5rMu8g))) [leekeifon](<leekeifon.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}

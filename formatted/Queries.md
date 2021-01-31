@@ -28,7 +28,7 @@
         - **[Queries](<Queries.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
+- Climbing, Chess, Photography, ML, Board games, Reading
         - **[Queries](<Queries.md>):**
 
 ## [Queries](<Queries.md>)

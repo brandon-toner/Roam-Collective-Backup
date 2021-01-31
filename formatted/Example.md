@@ -11,7 +11,7 @@
 - DNP Templates are found [here]([Templates](<Templates.md>))
 - **[Example](<Example.md>):**
 
-## [Daily Log Book](<Daily Log Book.md>)
+## [Daily Log](<Daily Log.md>)
 - Timestamp your activity as you visit or make changes in the graph.
         - **[Example](<Example.md>):**
 
@@ -67,6 +67,8 @@
                 - **[Example](<Example.md>):**
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
+- [Example](<Example.md>)
+
 - Possible to generate a report of "pages authored by graph members"
                 - **[Example](<Example.md>):**
 
@@ -76,8 +78,14 @@
 - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
                 - **[Example](<Example.md>):**
 
+- When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>) of the idea.
+                - **[Example](<Example.md>):**
+
+- **[Example](<Example.md>):** Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s.
+                - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
-- Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty attributes](<empty attributes.md>)
+- Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**
 
 ## [Quick Start Guide](<Quick Start Guide.md>)

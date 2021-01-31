@@ -15,6 +15,10 @@
 
 - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
+
 ## [Charles Farr](<Charles Farr.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>):
 
@@ -51,6 +55,8 @@
 
 - While [plaintext](<plaintext.md>) [datalog](<datalog.md>) queries are cool, it would be more functional if the native [query](<query.md>)
 
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - {{[query](<query.md>):
 
@@ -86,6 +92,8 @@
 - {{[query](<query.md>):
 
 ## [leekeifon](<leekeifon.md>)
+- {{[query](<query.md>):
+
 - {{[query](<query.md>):
 
 - {{[query](<query.md>):

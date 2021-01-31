@@ -19,3 +19,6 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) [inline code-blocks](<inline code-blocks.md>)
 
+## [empty references](<empty references.md>)
+- Use [inline code-blocks](<inline code-blocks.md>)
+

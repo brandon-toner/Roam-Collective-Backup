@@ -3,3 +3,8 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>) or [maturity](<maturity.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- "When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>)
+
+- When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>)
+

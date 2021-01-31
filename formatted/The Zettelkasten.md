@@ -33,6 +33,11 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
 ## [roam/css](<roam/css.md>)
 14. `#[The Zettelkasten](<The Zettelkasten.md>)
 

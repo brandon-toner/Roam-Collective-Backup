@@ -14,7 +14,10 @@
 1. From the [Prompts](<Prompts.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- __Interested in writing about something else?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))
+- __Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- "__Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))
 
 ## [Promptstorming](<Promptstorming.md>)
 - See [Prompts](<Prompts.md>)

@@ -1,1 +1,10 @@
 - Tags:: #Collections #[[DNP Section]]
+- **Ways you can help:**
+    - Jump right in & write your thoughts in the graph. Have fun, play around! 🤸‍♀️
+    - Document your ideas in [[zettelkasten]] format as they arise. ((Fleeting notes are a great way to formulate your ideas! Don't worry about them being "right" or "good enough" — others can add their perspective in response to your notes by referencing them. The collective zettelkasten is an ongoing conversation.))
+    - Suggest some [[resources]] to the group (articles, videos, tweets, books, academic papers, etc) ((Nest them under a "Resources" module within your DNP Section))
+    - Take some [[annotations]] on a shared resource. Import highlights onto a [[reference notes]] page & formulate some [[literature notes]] — the goal here is to digest the resource and integrate it into the [[collaborative zettelkasten]].
+    - Comment on some of the existing notes in the [[zettelkasten]] by referencing them into your DNP Section (I suggest either referencing them in context, or within the Comments module) ((To find notes to comment on, check the linked references of Fleeting Notes, Literature Notes, and Evergreen Notes))
+    - Tell us about you experience using the [[feedback]] tags 😃 ((Nest your thoughts and ideas underneath the feedback tags within your DNP Section))
+- Tips::
+    - Try filtering the references on this page by TODO.

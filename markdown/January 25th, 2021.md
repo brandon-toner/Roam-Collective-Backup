@@ -26,7 +26,7 @@
         - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - #[[Daily Writing Prompts]]  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
-- #[[Daily Log Book]]
+- #[[Daily Log]]
     - 14:00 — [[[[Clubhouse]] conversation: Jan 25 2021]]
     - 14:00-19:06 — [[Brandon Toner]] Established the graph with the goal of reaching a stable baseline for others to join in.
     - 22:17 — Set goal of creating a [[Roam Collaboration Guide]]
@@ -105,7 +105,7 @@
             1. "Review the [conventions]([[Conventions]])"
             1. "[[Brandon Toner]]"
             3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
-            4. "Use the [[Daily Log Book]] to sign-in"
+            4. "Use the [[Daily Log]] to sign-in"
             5. "Answer the [[Daily Writing Prompts]] or something from the [[Prompts]] library."
                 - Nest your prompt-replies underneath the #Promptstorming tag.
                     - Example::

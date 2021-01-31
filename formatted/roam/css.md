@@ -5,7 +5,7 @@
     - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
         - [Collections Tags](((JNVnlLDxv))) 
     - [Block Reference Styling](((xcLgPdvs0)))
-    - 
+    - [Nested Links](((y9rumn-yn)))
 - **[Contents](<../Contents.md>):**
     - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
     - **[Tips](<../Tips.md>):** Filter by [Status](<../Status.md>)/Enabled in roam/css to view active code. ((This is reliant on updating the tags as things are switched on/off; so may be unreliable))
@@ -262,521 +262,6 @@ span.rm-page-ref {
 
 .rm-pomodoro::first-letter {
   margin-right: 8px;
-}```
-        - [Neo Theme](<../Neo Theme.md>) by [Jordan Moore](<../Jordan Moore.md>)
-            - Code
-                - ```javascript
-/*
-    Designed to work best with the Operator Mono font
-*/
-
-
-
-body {
-    -webkit-font-smoothing: antialiased;
-    font-family: "Operator Mono", Menlo, Monaco, 'Courier New', monospace;
-}
-
-::selection {
-    background: rgba(0, 184, 37, .26)
-}
-
-body, .roam-topbar {
-    background: [000](<../000.md>);
-}
-
-/* BODY COLOR */
-
-.rm-pages-title-text,
-.roam-body .roam-app h1,
-.roam-body .roam-app,
-.rm-reference-container > div > div > strong,
-.bp3-menu .rm-search-title {
-    color: [00B825](<../00B825.md>);
-}
-
-.rm-reference-main strong,
-.rm-reference-container > div > div > strong {
-    color: [00B825](<../00B825.md>) !important;
-}
-
-/* FONTS */
-
-body, .level2, .level3, .level4, .level5, .level6, div, textarea, .roam-log-page.roam-log-preview h1.level2 {
-   font-family: "Operator Mono", Menlo, Monaco, 'Courier New', monospace;
-}
-.level2, .level3, .level4, .level5, .level6 {
-    font-weight: 500;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: 500;
-}
-.roam-body .roam-app h1 textarea {
-    font-weight: 500;
-}
-
-
-.roam-body .roam-app h1 {
-    font-size: 28px;
-}
-
-b,
-strong {
-    font-weight: 600;
-}
-
-div {
-    font-size: 14px;
-}
-
-div,
-textarea {
-    font-weight: 400;
-}
-
-.roam-body .roam-app h1, .roam-body .roam-app h2, .roam-body .roam-app h3, .roam-body .roam-app h4, .roam-body .roam-app h5, .roam-body .roam-app h6 {
-    color: [D5FBD8](<../D5FBD8.md>);
-    text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-}
-
-
-/* LINKS AND TAGS */
-
-.rm-page-ref-brackets {
-    color: [D5FBD8](<../D5FBD8.md>);
-    opacity: 0.4;
-    text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-}
-
-.rm-page-ref-link-color {
-    font-weight: 500;
-}
-.rm-page-ref-link-color, a, a:hover, .rm-page-ref {
-    color: [D5FBD8](<../D5FBD8.md>);
-    text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-}
-a:hover {
-    text-decoration-color: [D5FBD8](<../D5FBD8.md>);
-    text-underline-position: under;
-}
-
-.rm-page-ref {
-    font-style: italic;
-}
-
-.rm-block-ref {
-    font-size: 1em;
-    color: [8db995](<../8db995.md>);
-    font-style: italic;
-    border-color: rgba(141, 156, 176, .2);
-    transition: border-color 0.26s ease;
-}
-.rm-block-ref:hover {
-    background: none;
-    cursor: pointer;
-    border-color: rgba(141, 176, 152, .5);
-}
-
-.rm-page-ref-tag {
-    background: [53D16F](<../53D16F.md>);
-    box-shadow: 0 0 6px [53D16F](<../53D16F.md>);
-    padding: 3px;
-    color: [000](<../000.md>);
-    font-weight: 500;
-    display: inline-block;
-    padding: 0 3px;
-    border-radius: 2px;
-}
-
-.rm-page-ref-tag:hover {
-    text-decoration: none;
-    color: [53D16F](<../53D16F.md>);
-    background: none;
-    box-shadow: inset 0 0 0 1px [53D16F](<../53D16F.md>);
-}
-
-
-/* BULLET */
-.controls .simple-bullet-outer .simple-bullet-inner {
-    background-color: [53D16F](<../53D16F.md>);
-}
-
-/* HIGHLIGHTED BLOCK SELECT */
-.block-highlight-blue {
-    background-color: [000](<../000.md>);
-}
-
-/* BLOCK BORDER */
-
-
-.roam-block-container {
-    border-radius: 0;
-}
-.block-border-left {
-    border-left: 1px dotted rgba(213, 251, 216, .26);
-}
-
-
-/* SIDEBAR */
-
-.roam-body .roam-app .roam-sidebar-container {
-    background-color: [000](<../000.md>);
-    border-right: 1px rgba(255, 255, 255, .06) solid;
-}
-
-.starred-pages-wrapper > div:first-of-type {
-    background-color: rgba(255, 255, 255, .06) !important;
-}
-
-
-.starred-pages a div:before {
-    content: '• ';
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
-    color: [D5FBD8](<../D5FBD8.md>);
-    text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-    /* opacity: 0.4;*/
-    letter-spacing: -0.002em;
-    font-weight: 400;
-    transition: all 0.16s ease;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages a .page {
-    text-shadow: none;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages a:hover .page {
-   text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-}
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
-    background: none;
-    opacity: 1;
-}
-.starred-pages-wrapper .flex-h-box span {
-    color: [D5FBD8](<../D5FBD8.md>);
-    font-weight: 500;
-    font-size: 13px;
-    letter-spacing: 0.02em;
-    /* opacity: 0.4; */
-}
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button .icon {
-    display: none;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button {
-    font-weight: 600;
-    font-size: 13px;
-    color: [D5FBD8](<../D5FBD8.md>);
-    opacity: 0.4;
-    transition: all 0.16s ease;
-    padding: 8px 27px;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button div {
-    font-size: 13px;
-    font-weight: 600;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
-    background: none;
-    color: white;
-    opacity: 1;
-}
-.roam-sidebar-container .rm-db-title-container .rm-db-title {
-    font-size: 14px;
-}
-
-.roam-sidebar-content .top-row {
-    margin-bottom: 1.6em;
-}
-
-
-/* RIGHT SIDEBAR */
-
-
-[right-sidebar](<../right-sidebar.md>) > div {
-    background-color: [000](<../000.md>);
-    border-left: 1px rgba(255, 255, 255, .06) solid;
-}
-
-
-
-/* REFERENCE BOXES*/
-
-.rm-reference-item {
-    margin-top: 8px;
-    border-radius: 6px;
-    border: 1px solid rgba(255, 255, 255, .06);
-    margin-right: 8px;
-    flex: 1 1 100%;
-    word-break: break-word;
-    background-color: [000](<../000.md>);
-    padding: 8px;
-}
-
-.block-highlight-yellow {
-    background: [003700](<../003700.md>);
-}
-
-.roam-bullet-closed {
-    background-color: [00840D](<../00840D.md>);
-}
-
-/* DAILY LOG */
-
-.roam-log-page, .roam-log-container .roam-log-preview, .roam-log-container .roam-log-page {
-    border-color: rgba(255, 255, 255, .06);
-}
-
-/* SEARCH AND TOOLTIPS */
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {
-    background: [000](<../000.md>);
-}
-
-.bp3-input {
-    box-shadow: 0 0 0 0 rgba(19, 124, 189, 0), 0 0 0 0 rgba(19, 124, 189, 0), inset 0 0 0 1px rgb(255 255 255 / 15%), inset 0 0px 0px rgb(255 255 255 / 20%)
-}
-.bp3-input:focus,
-.bp3-input.bp3-active {
-    box-shadow: 0 0 0 1px [53D16F](<../53D16F.md>), 0 0 0 3px rgba(19, 124, 189, 0.3), inset 0 1px 0px rgba(16, 22, 26, 0.2);
-}
-
-.bp3-popover .bp3-popover-content, .bp3-menu, .bp3-elevation-3 {
-    background: [000408](<../000408.md>) !important;
-}
-
-.rm-find-or-create-wrapper .rm-menu-item {
-    background: [000408](<../000408.md>) !important;
-}
-.rm-find-or-create-wrapper .rm-menu-item:hover, .bp3-elevation-3 .dont-unfocus-block:hover {
-    background: [000](<../000.md>) !important;
-    color: white !important;
-}
-
-.bp3-menu .rm-search-title:hover {
-    color: [D5FBD8](<../D5FBD8.md>) !important;
-    text-shadow: 0 0 4px [D5FBD8](<../D5FBD8.md>);
-}
-
-/* SEARCH */
-
-.bp3-input {
-    background-color: [000](<../000.md>);
-}
-
-.bp3-input:focus {
-    box-shadow: 0 0 0 2px [00B825](<../00B825.md>);
-    color: [D5FBD8](<../D5FBD8.md>);
-}
-
-*[style*="background-color: rgb(213, 218, 223)"] {
-    background-color: rgba(0, 22, 43, 1) !important;
-}
-
-/* MORE MENU */
-
-.bp3-popover .bp3-popover-arrow-fill {
-    fill: [000408](<../000408.md>);
-}
-.bp3-menu {
-    color: white;
-}
-
-/* ALL PAGES TABLE */
-
-.rm-pages-title-text strong {
-    font-weight: 600;
-}
-.rm-all-pages .table .rm-pages-row.rm-pages-row-header {
-    background: [000](<../000.md>);
-    border-radius: 0;
-}
-.rm-all-pages .table .rm-pages-row .rm-pages-col {
-    align-self: center;
-}
-.bp3-text-small span {
-    font-size: 14px;
-}
-.rm-all-pages .table .rm-pages-row.rm-pages-row-header .rm-pages-title-col span,
-.rm-all-pages .table .rm-pages-row.rm-pages-row-header .rm-pages-col span {
-    font-size: 12px;
-    font-weight: 500;
-}
-.rm-clickable-pill,
-.rm-clickable-pill.level1-pill {
-    background-color: [53D16F](<../53D16F.md>);
-    opacity: 1;
-    color: [00162B](<../00162B.md>);
-}
-.rm-pages-title-text {
-    color: [D5FBD8](<../D5FBD8.md>);
-}
-.checkmark {
-    background: [fff](<../fff.md>);
-}
-.check-container input:checked ~ .checkmark {
-    background: [53D16F](<../53D16F.md>);
-}
-.check-container input:checked ~ .checkmark:after {
-    border-color: [fff](<../fff.md>);
-}
-.rm-all-pages .table .rm-pages-row {
-    border-color: rgba(255,255,255,0.16);
-}
-.rm-all-pages .table .rm-pages-row .rm-pages-title-col {
-    color: [53D16F](<../53D16F.md>)
-}
-
-.rm-level2 {
-    font-size: 1.5em;
-}
-.rm-level3 {
-    color: [939aae](<../939aae.md>);
-    font-weight: 400;
-    font-size: 1.3em;
-}
-
-
-/* USER MENU */
-
-
-.roam-body .roam-app .roam-sidebar-container .rm-graph-dropdown {
-    box-shadow: none;
-}
-.bp3-menu-item:hover, .roam-body .roam-app .roam-sidebar-container .rm-graph-dropdown .setting, .roam-body .roam-app .roam-sidebar-container .rm-graph-dropdown .setting:hover {
-    background: [00162B](<../00162B.md>);
-}
-.roam-sidebar-container .rm-db-title-container .rm-db-title, .roam-body .roam-app .roam-sidebar-container .rm-graph-dropdown a {
-    color: white;
-}
-
-
-/* END */
-
-
-
-.rm-query {
-    border: 0.5px solid [e4e9ec](<../e4e9ec.md>);
-    border-radius: 5px;
-}
-
-.title-children-text {
-    font-size: 14px;
-}
-
-.rm-query .rm-query-title {
-    background-color: [f7f8f8](<../f7f8f8.md>);
-    padding: 0.8em;
-    color: [d1dbe2](<../d1dbe2.md>);
-    font-size: 80%;
-}
-
-
-.rm-reference-main.rm-query-content {
-    padding: 0.8em;
-}
-
-.rm-reference-main .rm-reference-item .rm-block-text {
-    font-size: 90%;
-}
-
-.roam-log-page.roam-log-preview h1.level2 + div {
-    font-size: 13px;
-    position: relative;
-    top: 4px;
-}
-
-.rm-reference-main .rm-reference-item .controls {
-    margin-left: -1em;
-}
-
-.rm-ref-page-view {
-    padding: 0.4em 0.2em;
-}
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
-    padding: 4px 6px;
-}
-
-
-div.roam-sidebar-container.noselect > div > div {
-    font-size: 14px;
-    letter-spacing: 0.03em;
-}
-.bp3-icon-caret-down::before {
-    content: "⌄";
-    position: relative;
-    top: -4px;
-    opacity: 0.6;
-}
-
-[block-input](<../block-input.md>) {
-    background: white;
-}
-
-.roam-body [block-input](<../block-input.md>) > span > div {
-    padding: 6px 24px;
-    background: white;
-}
-
-span.bp3-icon-small.bp3-icon-star {
-    display: none;
-    visibility: hidden;
-}
-
-.kanban-board {
-    background-color: [fff](<../fff.md>);
-}
-.kanban-card {
-    background-color: white;
-    margin: 8px;
-    box-shadow: 0px 1px 2px [9EB3C0](<../9EB3C0.md>);
-    padding: 10px;
-    border-radius: 2px;
-    line-height: 1.3em;
-}
-.kanban-title {
-    text-align: center;
-    font-weight: bold;
-    padding-top: 6px;
-}
-.kanban-column {
-    background-color: [E4EDF2](<../E4EDF2.md>);
-    margin: 0px 4px 0px 4px;
-    padding: 4px;
-    min-width: 200px;
-    border-radius: 3px;
-}
-
-
-
-
-.intercom-app,
-.intercom-launcher-frame,
-[intercom-container](<../intercom-container.md>) {
-    display: none;
-}
-
-
-
-
-
-[buffer](<../buffer.md>).tall {
-    height: calc(100vh - 50px);
-}
-.check-container {
-    padding-right: 4px;
-}
-.content span.rm-page-ref {
-    padding: 4px 1px 1px;
-    /* required for fixing azo */
-}
-.center-proj {
-    text-align: center;
 }```
     - Styling Elements
         1. Tag Styling [Status](<../Status.md>)/Enabled [Highlights](<../Highlights.md>) [tags](<../tags.md>)
@@ -1248,6 +733,21 @@ background: linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<
 }
 
 ```
+                - [Evergreen](<../Evergreen.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Evergreen"]:before {
+    content: '🌲 '
+}
+
+span.rm-page-ref[data-tag="Evergreen"]:after {
+    content: ':'
+}
+
+span.rm-page-ref[data-tag="Evergreen"] {
+ color: var(--note-tag-color) !important;
+ padding: 1px 1px !important;
+ font-weight: 700 !important;
+}```
             3. `Areas Tags`
                 - `#[Administration](<../Administration.md>)
             4. `Data-type Tags`
@@ -1282,6 +782,22 @@ span.rm-page-ref[data-tag="Books"] {
 
 span.rm-page-ref[data-tag="Books"]:before {
     content: '📚'
+}```
+                - `[Experiments](<../Experiments.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Experiments"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Experiments"]:before {
+    content: '🧪'
 }```
                 - `[Tweets](<../Tweets.md>)
                     - ```css
@@ -1554,6 +1070,38 @@ span.rm-page-ref[data-tag="Prompts"] {
 
 span.rm-page-ref[data-tag="Prompts"]:before {
     content: '💭'
+}```
+                - `[People](<../People.md>)
+                    - ```css
+span.rm-page-ref[data-tag="People"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="People"]:before {
+    content: '😃'
+}```
+                - `[Members](<../Members.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Members"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Members"]:before {
+    content: '🔑'
 }```
                 - `[Observations](<../Observations.md>)
                     - ```css
@@ -2129,9 +1677,9 @@ span.rm-page-ref[data-tag="The Main Feed"] {
 span.rm-page-ref[data-tag="The Main Feed"]:before {
     content: '⭐️'
 }```
-                - `#[Daily Log Book](<../Daily Log Book.md>)
+                - `#[Daily Log](<../Daily Log.md>)
                     - ```css
-span.rm-page-ref[data-tag="Daily Log Book"] {
+span.rm-page-ref[data-tag="Daily Log"] {
     background: [FF9800](<../FF9800.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
@@ -2142,8 +1690,8 @@ span.rm-page-ref[data-tag="Daily Log Book"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Daily Log Book"]:before {
-    content: '✍🏼'
+span.rm-page-ref[data-tag="Daily Log"]:before {
+    content: '📆'
 }```
                 - `#[Daily Writing Prompts](<../Daily Writing Prompts.md>)
                     - ```css
@@ -4240,117 +3788,71 @@ a {
     content: '🔗'
 }```
                 - 
-            - Nested Links [Status](<../Status.md>)/Enabled
-                - ```css
+            - Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
+                - Example
+                    - [[[E:](<../[[E:.md>) active vs passive resurfacing]]
+                - Code
+                    - V3
+                        - ```css
 :root {
-  /*  --custom-background-color: lightsteelblue; */
-    --custom-background-color-hover: lightsteelblue;
-    }
-
-.rm-page-ref-link-color{
-   color:[0885ff](<../0885ff.md>);
-    background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-    line-height: 24px;
-    padding-bottom: 1px;
+  --fg-reference-underline: [136BA2](<../136BA2.md>);
+  --fg-reference-underline-hover: [136BA2](<../136BA2.md>);
 }
 
-.rm-page-ref-link-color:hover{
-   color:rgb(17,153,55);
-    background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
+/*Reference Links*/
+.rm-page-ref--link{
+    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;
+    /*background-position: 0 100%*/;
+  	/*border-bottom: var(--fg-reference-underline) 1px;*/
+    padding-bottom: 0px;
+  	/*line-height: 24px;*/
+}
+.rm-page-ref--link:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
     text-decoration: none;
-    line-height: 24px;
-    padding-bottom: 2px;
+    padding-bottom: 0px;
+    /*line-height: 24px;*/
 }
 
-.rm-page-ref-link-color .rm-page-ref-link-color {
-color: [0885ff](<../0885ff.md>) !important;
-  background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 28px;
-    padding-bottom: 4px;
+.rm-page-ref--link .rm-page-ref--link {
+  	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    line-height: 28px;
+}
+.rm-page-ref--link .rm-page-ref--link:hover {
+  	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    /*line-height: 28px;*/
 }
 
-.rm-page-ref-link-color .rm-page-ref-link-color:hover {
-color: rgb(11,82,31) !important;
-  background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 28px;
-    padding-bottom: 5px;
-}
-
-
-.rm-page-ref-link-color .rm-page-ref-link-color .rm-page-ref-link-color {
-color: [0885ff](<../0885ff.md>) !important;
-background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 32px;
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
+	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
     padding-bottom: 6px;
+    /*line-height: 32px;*/
+}
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
+	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 6px;
+    /*line-height: 32px;*/
 }
 
-
-.rm-page-ref-link-color .rm-page-ref-link-color .rm-page-ref-link-color:hover {
-color: rgb(0,0,0) !important;
-background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 32px;
-    padding-bottom: 7px;
+/*Namespaces*/
+.rm-page-ref--namespace{
+    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 0px;
 }
-
-/* Namespace Formatting */
-
-.rm-page-ref-namespace-color{
-   color:[0885ff](<../0885ff.md>);
-    background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-    line-height: 24px;
-    padding-bottom: 1px;
-}
-
-.rm-page-ref-namespace-color:hover{
-   color:rgb(17,153,55);
-    background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
+.rm-page-ref--namespace:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
     text-decoration: none;
-    line-height: 24px;
-    padding-bottom: 2px;
-}
-
-.rm-page-ref-namespace-color .rm-page-ref-namespace-color {
-color: [0885ff](<../0885ff.md>) !important;
-  background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 28px;
-    padding-bottom: 4px;
-}
-
-.rm-page-ref-namespace-color .rm-page-ref-namespace-color:hover {
-color: black !important;
-  background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 28px;
-    padding-bottom: 5px;
-}
-
-
-.rm-page-ref-namespace-color .rm-page-ref-namespace-color .rm-page-ref-namespace-color {
-color: [0885ff](<../0885ff.md>) !important;
-background: linear-gradient(0deg, var(--custom-background-color) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 32px;
-    padding-bottom: 6px;
-}
-
-
-.rm-page-ref-namespace-color .rm-page-ref-namespace-color .rm-page-ref-namespace-color:hover {
-color: rgb(0,0,0) !important;
-background: linear-gradient(0deg, var(--custom-background-color-hover) 2px, white 1px, transparent 1px);
-    background-position: 0 100%;
-   line-height: 32px;
-    padding-bottom: 7px;
-}
-```
+    padding-bottom: 0px;
+}```
             - Block Reference styling [Status](<../Status.md>)/Enabled
                 - ```css
 .rm-block-ref > span:before {
@@ -5064,10 +4566,7 @@ a {
     - User Interface Elements
     - **[Inbox](<../Inbox.md>):**
         - [ ] Add [Suggestions](<../Suggestions.md>) to [roam/css](<../roam/css.md>)
-        - [ ] Add [Experiments](<../Experiments.md>) to [roam/css](<../roam/css.md>)
     - **[Comments](<../Comments.md>):**
-        - "Left side-bar [Status](<../Status.md>)/Enabled"
-            - Maintained as default black for easy differentiation between your personal graph [November 22nd, 2020](<../November 22nd, 2020.md>)
 
 # Backlinks
 ## [Agenda](<Agenda.md>)
@@ -5075,6 +4574,9 @@ a {
 
 ## [CSS](<CSS.md>)
 - **[Redirect](<../Redirect.md>):** [roam/css](<../roam/css.md>)
+
+## [Experiments](<Experiments.md>)
+- [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [Frameworks](<Frameworks.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
@@ -5096,8 +4598,14 @@ a {
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [ ] Reorganize the [roam/css](<../roam/css.md>)
 
+- [minimal](<../minimal.md>) {{[query](<../query.md>): {and: [Evergreen](<../Evergreen.md>) {not: {or: [E:](<../E:.md>) [roam/css](<../roam/css.md>)}
+
+## [Members](<Members.md>)
+- [ ] Add to [roam/css](<../roam/css.md>)
+
+## [People](<People.md>)
+- [ ] Add to [roam/css](<../roam/css.md>)
+
 ## [roam/css](<roam/css.md>)
 - [ ] Add [Suggestions](<../Suggestions.md>) to [roam/css](<../roam/css.md>)
-
-- [ ] Add [Experiments](<../Experiments.md>) to [roam/css](<../roam/css.md>)
 

@@ -3,7 +3,7 @@
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
     - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
-    - __Interested in writing about something else?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
+    - __Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - My morning podcast listening felt VERY relevant to this project, so I imported my [[Readwise]] highlights via [[JSON]]. #Serendipity
         - "[[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]"
@@ -13,13 +13,12 @@
     - Hi all 👋🏼— today I "Updated all of the current SmartBlock names..." to align with the new "SmartBlock & Roam Template Conventions"
         - Apologies if the new names confuse anyone! In the long-term, should make it more manageable
     - Proposed [process](((X8fzypdUg))) for conducting conversation that develops the zettelkasten through time
+    - #[[Bug Reports]] — Some [aliases not appearing in queries](((WUv5rMu8g))) or linked references. No current hypothesis. [[^[[leekeifon]]]]
+    - #[[Bug Reports]] — Difficulty clearing some unread block references
 - #Chat ((A place to propose objects of discussion)) #not_populated
-- #[[Daily Log Book]] ((A place to log milestone activities or sign-in to the graph)) 
+- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) 
 - #GTD ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
 - Daily Review::
-    - **Scheduled for Today:**
-        - **Page:** [[January 25th, 2021]]
-{{[[embed]]: ((9ZdW5S8U6))}}
     - **This Week:** `#[[Week-04: 01-25-2021]]`
         **Results:** 4 **Max:** 25
         **Page:** [[January 28th, 2021]]
@@ -31,12 +30,22 @@
         **Page:** [[January 30th, 2021]]
 {{[[embed]]: ((R2NWXEQ7L))}}
 - ---
+- #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
+    - #[[Scratchpad]] #not_populated
+    - #GTD #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Comments #not_populated
+    - #Feedback  #not_populated
+- ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
+        - [[[[E:]] Evergreen notes should be densely linked]]
         - [These](((CCODMMO6j))) were captured using [[Memex]]. They have a [[customizable]] [[copy-paster]] that is excellent for getting information into [[Roam]] format.
             - #Q How could the [[Memex]] [[copy-paster]] be optimized for taking [[annotations]]? #note-taking
                 - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
-        - #Annotations of [[How to write good prompts]]
+        - #Annotations of [[How to write good prompts]] [*]([[cc:[[leekeifon]]]])
             - How to write good prompts: using spaced repetition to create understanding
                 - URL:: https://andymatuschak.org/prompts/
                 - As a child, I had a goofy recurring daydream: maybe if I type just the right sequence of keys, the computer would beep a few times in sly recognition, then a hidden world would suddenly unlock before my eyes. I’d find myself with new powers which I could use to transcend my humdrum life. 
@@ -101,6 +110,60 @@
                     - [[causes and effects]]: What does stock do? What causes it to do that? What doesn’t it do? When is it used? 
                     - [[significance and implications]]: Why does stock matter? What does it suggest? Make the concept personally meaningful. 
                 - Salience prompts and the Baader-Meinhof phenomenon 
+        - #Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])
+            - Toulmin Argument // Purdue Writing Lab
+                - URL:: https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html
+                - Toulmin Argument 
+                - What is the Toulmin Method? 
+                - Developed by philosopher Stephen E. Toulmin, the Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grounds, warrant, qualifier, rebuttal, and backing. In Toulmin’s method, every argument begins with three fundamental parts: the claim, the grounds, and the warrant. 
+                - A claim is the assertion that authors would like to prove to their audience. It is, in other words, the main argument. 
+                - The grounds of an argument are the evidence and facts that help support the claim. 
+                - Finally, the warrant, which is either implied or stated explicitly, is the assumption that links the grounds to the claim. 
+                - The other three elements—backing, qualifier, and rebuttal—are not fundamental to a Toulmin argument, but may be added as necessary. Using these elements wisely can help writers construct full, nuanced arguments. 
+                - Backing refers to any additional support of the warrant. In many cases, the warrant is implied, and therefore the backing provides support for the warrant by giving a specific example that justifies the warrant. 
+                - The qualifier shows that a claim may not be true in all circumstances. Words like “presumably,” “some,” and “many” help your audience understand that you know there are instances where your claim may not be correct. 
+                - The rebuttal is an acknowledgement of another valid view of the situation. 
+                - Including a qualifier or a rebuttal in an argument helps build your ethos, or credibility. When you acknowledge that your view isn’t always true or when you provide multiple views of a situation, you build an image of a careful, unbiased thinker, rather than of someone blindly pushing for a single interpretation of the situation. 
+                - Note that, in addition to Stephen Toulmin’s Uses of Argument, students and instructors may find it useful to consult the article “Using Toulmin’s Model of Argumentation” by Joan Karbach for more information. 
+        - #Annotations of [[rhetoric]] on [[Purdue Online Writing Lab]] [*]([[cc:[[Charles Farr]]]]) [*]([[cc:[[leekeifon]]]])
+            - [Classical Argument]([[classical argument]]) // Purdue Writing Lab
+                - URL:: https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/classical_argument.html
+                - In ancient Greece and Rome, rhetoric was most often considered to be the art of persuasion and was primarily described as a spoken skill. 
+                - Aristotle provides a crucial point of reference for ancient and modern scholars alike. Over 2000 years ago, Aristotle literally wrote the book on rhetoric. His text Rhētorikḗ(On Rhetoric) explores the techniques and purposes of persuasion in ancient Greece, laying the foundation for the study and implementation of rhetoric in future generations. 
+                - Below, you will find a brief guide to some of the most fundamental concepts in classical rhetoric, most of which originate in On Rhetoric. 
+                - The Rhetorical Appeals 
+                - To understand how argument works in On Rhetoric, you must first understand the major appeals associated with rhetoric. Aristotle identifies four major rhetorical appeals: ethos (credibility), logos (logic), pathos (emotion), and Kairos(time). 
+                    - [[Aristotle]] #rhetoric
+                - Ethos – an appeal to credibility. This is the way a speaker (or writer) presents herself to the audience. You can build credibility by citing professional sources, using content-specific language, and by showing evidence of your ethical, knowledgeable background. 
+                    - [[ethos]] = appeal to [[credibility]].
+                - Logos – an appeal to logic. This is the way a speaker appeals to the audience through practicality and hard evidence. You can develop logos by presenting data and statistics, and by crafting a clear claim with a logically-sequenced argument. 
+                    - [[logos]] = appeal to [[logic]].
+                - Pathos – an appeal to emotion. This is the way a speaker appeals to the audience through emotion, pity, or passions. The idea is usually to evoke and strengthen feelings already present within the audience. This can be achieved through story-telling, vivid imagery, and an impassioned voice. 
+                    - [[pathos]] = appeal to [[emotion]].
+                - Kairos – an appeal made through the adept use of time. This is the way a speaker appeals to the audience through notions of time. It is also considered to be the appropriate or opportune time for a speaker to insert herself into a conversation or discourse, using the three appeals listed above. A Kairotic appeal can be made through calls to immediate action, presenting an opportunity as temporary, and by describing a specific moment as propitious or ideal. 
+                    - [[kairos]] = appeal to adept use of [[time]].
+                - An easy way to conceptualize the rhetorical appeals is through advertisements, particularly infomercials or commercials. We are constantly being exposed to the types of rhetoric above, whether it be while watching television or movies, browsing the internet, or watching videos on YouTube. 
+                - Imagine a commercial for a new car. The commercial opens with images of a family driving a brand-new car through rugged, forested terrain, over large rocks, past waterfalls, and finally to a serene camping spot near a tranquil lake surrounded by giant redwood trees. The scene cuts to shots of the interior of the car, showing off its technological capacities and its impressive spaciousness. A voiceover announces that not only has this car won numerous awards over its competitors but that it is also priced considerably lower than comparable models, while getting better gas mileage. “But don’t wait,” the voiceover says excitedly, “current lessees pay 0% APR financing for 12 months.” 
+                - Imagine a commercial for a new car. The commercial opens with images of a family driving a brand-new car through rugged, forested terrain, over large rocks, past waterfalls, and finally to a serene camping spot near a tranquil lake surrounded by giant redwood trees. The scene cuts to shots of the interior of the car, showing off its technological capacities and its impressive spaciousness. A voiceover announces that not only has this car won numerous awards over its competitors but that it is also priced considerably lower than comparable models, while getting better gas mileage. “But don’t wait,” the voiceover says excitedly, “current lessees pay 0% APR financing for 12 months.”
+                - In just a few moments, this commercial has shown masterful use of all four appeals. The commercial utilizes pathos by appealing to our romantic notions of family, escape, and the great outdoors. The commercial develops ethos by listing its awards, and it appeals to our logical tendencies by pointing out we will save money immediately because the car is priced lower than its competitors, as well as in the long run because of its higher MPG rate. Finally, the commercial provides an opportune and propitious moment for its targeted audience to purchase a car immediately. 
+                    - [[Example]] of [[rhetoric]] put to use in [[advertising]]. #marketing #Examples
+                - Components and Structure 
+                - The classical argument is made up of five components, which are most commonly composed in the following order: 
+                - Exordium – The introduction, opening, or hook. 
+                - Narratio – The context or background of the topic. 
+                - Proposito and Partitio – The claim/stance and the argument. 
+                - Confirmatio and/or Refutatio – positive proofs and negative proofs of support. 
+                - Peroratio – The conclusion and call to action. 
+                - In your exordium, you have an opportunity to gain the interest of your reader, but you also have the responsibility of situating the argument and setting the tone of your writing. 
+                - This is also a good opportunity to consider who your intended audience is and to address their concerns within the context of the argument. 
+                - For example, if you were writing an argument on the importance of technology in the English classroom and your intended audience was the board of a local high school, you might consider the following:
+                - New learning possibilities for students (General Audience Concerns)
+                - The necessity of modern technology in finding new, up-to-date information (Hook/Kairos)
+                - Detailed narrative of how technology in one school vastly improved student literacy (Hook/Pathos) 
+                - Statistics showing a link between exposure to technology and rising trends in literacy (Hook/Logos)
+                - Quotes from education and technology professors expressing an urgency for technology in English classrooms (Hook/Ethos) 
+                    - #Examples #rhetoric #exordium #introduction #hook
+                - Of course, you probably should not include all of these types of appeals in the opening section of your argument—if you do, you may end up with a boring, overlong introduction that doesn’t function well as a hook. Instead, consider using some of these points as evidence later on. Ask yourself: What will be most important to my audience? What information will most likely result in the action I want to bring about? Think about which appeal will work best to gain the attention of your intended audience and start there. 
         - [[[[Roam Collaborative Meetup]] No. 1]] #Meetings #Agenda
             - Overview & Welcome
             - Gathering feedback and user experience
@@ -170,6 +233,11 @@
         - Added some CSS Tags
         - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.
         - Added the [convention]([[Conventions]]) of placing a horizontal line between each [[DNP Section]] to improve [[readability]].
+    - #[[Daily Log]]
+        - Played around with some [[annotations]]
+            - "#Annotations of [[rhetoric]] on [[Purdue Online Writing Lab]] [*]([[cc:[[Charles Farr]]]]) [*]([[cc:[[leekeifon]]]])"
+            - "#Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])"
+            - "#Annotations of [[How to write good prompts]] [*]([[cc:[[leekeifon]]]])"
     - #Promptstorming 
         - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
             - Excellent experience so far (but I'm familiar with the specs and style guides)
@@ -188,6 +256,8 @@
         - #[[Fleeting Notes]] It is helpful to import [[verbatim]] passages from [[resources]] so that they can be directly referenced as [[context snippets]] within the [[zettelkasten]] or within [[conversation]].
             - Tools:: [[Memex]] [[copy-paster]]
             - #[[Fleeting Notes]] the benefits of having access to [[verbatim]] passages offers an argument for being able to easily import [[full-text]] into [[Roam]].
+        - #[[Fleeting Notes]] Asterisk [[aliases]] can be used to [[hide]] content from blocks — improving [[readability]]. #Tips
+        - #[[Fleeting Notes]] [[copy-paster]]-like templating tools are helpful for standardizing [[conventions]]. This also applies to [[Roam templates]] and [[SmartBlocks]]. #standardization
     - #Comments 
         - #Observations
             - Love this `#minimal` [[CSS]] styling for queries. I needed this! Thanks, [[cc:[[Charles Farr]]]]
@@ -206,7 +276,9 @@
                     - Importing principles of rhetoric would also be cool!
                         - There are some great resources online on the [[Purdue University]] [[Purdue Online Writing Lab]] website. #Resources #writing
                             - https://twitter.com/brandontoner/status/1335996934742560768?s=21 #[[Tweet Threads]]
-                            - {{[[TODO]]}} Import sections of the [[Purdue Online Writing Lab]] on [[rhetoric]], the [[Toulmin Argument]], and [[logic]] into the graph as [[evergreen notes]]. ((With external authorship documented (verbatim import))) #[[Help Wanted]] #[[January 2021]]
+                            - {{[[TODO]]}} Import sections of the [[Purdue Online Writing Lab]] on [[rhetoric]], the [[Toulmin Argument]], and [[logic]] into the graph as [[evergreen notes]]. ((With external authorship documented (verbatim import)) #[[Help Wanted]] #[[January 2021]]
+                                - "#Annotations of [[rhetoric]] on [[Purdue Online Writing Lab]] [*]([[cc:[[Charles Farr]]]]) [*]([[cc:[[leekeifon]]]])"
+                                - "#Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])"
             - "Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[~[[Brandon Toner]]]]"
                 - I don't know much about [[RPG]] [[game design]], but I'd be interested to hear about it. Talked to [[Robert Haisfield]] a ways back about [[Roguelike games]], related? [[cc:[[leekeifon]]]]
             - "I may tend reframe the definition of [[felt [[truth]]]] and [[objective [[truth]]]] in my own way by talking about properties they will preserve. [[^[[Brandon Toner]]]]"
@@ -221,16 +293,57 @@
                         2.  Users **continue the conversation** of these notes by [referencing]([[block referencing]]) them in discussion, and formulating new [[fleeting notes]] in response to them.
                             - This may be an opportunity to use principles of [[logic]] and [[rhetoric]], but these conventions would be [[optional]].
                         3. Repeat [[ad infinitum]] until ideas have been exhausted and writing becomes less [[fruitful]]. 
-                        4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[active vs passive resurfacing]]).
+                        4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[[[E:]] active vs passive resurfacing]]).
                         5. As ideas become heavily referenced, or feel "[[evergreen]]" in nature — a page should be created and an [evergreen note]([[evergreen notes]]) formed.
                             - Related:: [[The stages of [[maturation]] of [[zettelkasten]] notes]] #Seedlings
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([[What indicates that a seedling has fully matured into an evergreen note?]]) — a `#Seedlings` tag should be assigned.
             - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[Fleeting Notes]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]"
                 - Wow this is excellent! Love these. Will definitely [look further into this]([[Bookmarks]]). #prompts #Resources
                     - URL:: https://andymatuschak.org/prompts/
-                        - {{[[TODO]]}} Turn [[How to write good prompts]] into a full evergreen note. #Seedlings #[[Help Wanted]]
-                            - {{[[TODO]]}} Create a smartblock for the [[Daily Review]] that pulls TODO + Help Wanted. [[January 30th, 2021]] 
-    - #Feedback  #not_populated
+                        - {{[[TODO]]}} Create literature notes from [[How to write good prompts]]. #[[Help Wanted]]
+                            - {{[[DONE]]}} Create a smartblock for the [[Daily Review]] that pulls TODO + Help Wanted. [[January 30th, 2021]] 
+            - "Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks."
+                - Yup, this is definitely in my conceptual [[roadmap]]. I see it as [[[[E:]] cycles of [[divergence]] and [[convergence]]]].
+                    - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
+                    - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
+                    - First, [[Start from abundance]].
+                - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #Ideas #onboarding #[[Quick Start Guide]]
+                - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #Ideas #collaboration
+            - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
+                - hahaha, precisely what I'm currently doing. [[@[[Peter Rosso]]]]
+            - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
+                - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([[opportunistically]]) populating these as I interact with the graph.
+                    - #[[Fleeting Notes]] [[[[E:]] [[knowledge graphs]] should be populated [[opportunistically]] to optimize for [[flow state]] [[writing]].]]
+            - "According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts."
+                - YES! I was about to develop a Smartblock actually that would generate a RANDOMBLOCKMENTION of `#Seedlings`. 
+                    - Created [here](((tE6jhytOC)))
+            - "Seems that alias don’t work well with query?" [*](((WUv5rMu8g))) [[leekeifon]]
+                - [Test]([[~[[leekeifon]]]])
+                - [*]([[~[[leekeifon]]]])
+                - These tests worked: They appeared in your [cc query](((YFVQmvseR))) [[~[[leekeifon]]]]
+            - "We should definitely start up an event, sharing our ideas on [[How to write good prompts]] by reading about [[Andy Matuschak]]’s origin one! [[^[[Brandon Toner]]]]"
+                - What's the origin one? Is that a different article?
+                - I've never really gotten into spaced repetition, but it's feeling like a [[next logical step]] for me for sure! What kind of event do you have in mind?
+            - "When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [[maturity]] of the idea."
+                - "When referencing a [fleeting note]([[fleeting notes]]), we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the [relationship]([[relationships]]) between [[blocks]] which would benefit us in the future." [*](((DnN9U_S8t)))
+                    - Yup, I have a vision for this once we have mapped out some good terms applying [[rhetoric]], [[debate]], and [[logic]] as referenced [here](((29MTnT-MQ)))
+                        - {{[[TODO]]}} Extract [[literature notes]] and [[key concepts]] from those sources, distilling into some suggested tags for use in [this](((qVwDe2H31))) manner.
+                - "One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the maturity of the idea." [*](((DnN9U_S8t)))
+                    - Could you elaborate on this? — I'm intrigued.  [[~[[leekeifon]]]]
+            - #[[Graph Mentorship]]
+                - Some small adjustments:
+                    - "According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts."
+                        - Changed from Seedlings to seedlings here. 
+                            - [This would be a concept page as opposed to a collections page](((qC3qprnIn)))
+                    - "Example:: Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s."
+                        - Nested this block beneath the above one, as it is an example to that block's contents.
+            - "Sets all headings equal to `14px` font size"
+                - This looks so nice [[cc:[[Charles Farr]]]]
+        - #Tips
+            - `meta-j s` Roam42 shortcut while selecting a passage of text to copy as quote + alias has got to be one of my favourite [[block referencing]] [techniques]([[Techniques]]).
+                - Here's a [GIF]([[GIFs]])
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fmi5GFmBjwZ.gif?alt=media&token=ea71f8bf-0b4f-4339-856c-81a9ad2b8ff0)
+                    - #[[Fleeting Notes]] [[GIFs]] are an [[efficient]] and [[effective]] way to communicate a process or workflow. #teaching #documentation #Techniques #[[Quick Start Guide]] #onboarding #training
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
     - #[[Scratchpad]]
@@ -265,10 +378,8 @@
                 - What features are possible with the new Read/Write API from Roam?
                 - What technical ability is required to build on top of Urbit?
     - #GTD
-        - {{[[TODO]]}} Update all of the SmartBlocks in the graph to match new conventions #[[Week-04: 01-25-2021]]
-            - {{[[TODO]]}} Document conventions for creating SmartBlocks & Templates
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
+        - {{[[DONE]]}} Update all of the SmartBlocks in the graph to match new conventions #[[Week-04: 01-25-2021]]
+            - {{[[DONE]]}} Document conventions for creating SmartBlocks & Templates
     - #Comments
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
         2. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]"
@@ -280,9 +391,43 @@
                     - Debate
         3. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
             - Sounds good [[~[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
-        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of **‘private’ and ‘public’** when doing [[collaboration]]. [[~[[Charles Farr]]]]"
-            - Ahhhh [[@[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
+        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[Fleeting Notes]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
+            - Ahhhh [[~[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
+        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[@[[Brandon Toner]]]] [[@[[leekeifon]]]]
+            - Brandon and I were discussing structures for Evergreen note pages earlier...
+                - I would propose there is a way to simple and implicitly distinguish between an Evergreen that is ready to be a page and one that isn't
+                    - For the most part, I think this has to do with the level of development of the necessary support and context
+                    - A novel idea, combining across various pieces of literature and fleeting notes is an evergreen thought
+                        - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
+                - So, the approach I use is as follows
+                    - As I read (and generally move through life) I collect [[literature notes]] and [[fleeting notes]]
+                        - At some point, an [[evergreen]] thought will precipitate out of these
+                    - I will then define this evergreen thought quite simply in Roam at the block level
+                        - #Evergreen Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others
+                        - I may add a block reference (or two) below it, but this is no where near fully developed
+                    - Once I am ready to develop it sooner, I will create an identical `[[E:]]` page for the Evergreen
+                        - [[[[E:]] Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others]]
+                    - Then I will physically move the [Evergreen block](((Zcd1kPIXX))) into the Evergreen page, detail out the note, and add references and other supporting elements
+                        - Note: I will add a block reference to the `[[E:]]` page and then use the "Replace With > Original > Bring Nested Children" — doing so ensure that I can easily see where I originally created the note (the earliest daily note page)
+                    - How this implicitly determines the maturity of a now it it is easy to query for Evergreens that are now nested within an E page
+                        - #minimal {{[[query]]: {and: [[Evergreen]] {not: {or: [[E:]] [[roam/css]]}} }}}
+                    - A bit convoluted, but it accomplishes a few things...
+                        - Gives me the ability to search for an Evergreen using both `[[]]` and `(())` searches
+                        - Implicitly defines maturity
+                        - When building an outline, I always use Evergreen block references — I can easily pull in the context by using the "Apply Children" function
+                - I should probably just post a loom narrating this approach — maybe tomorrow...
+                - As an example I converted this Evergreen from Andy Matuschak into the format outlined above
+                    - "#Evergreen Prefer note titles with complete phrases to sharpen claims"
+                        - "When writing [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C), I’ve found that using complete phrases as note titles helps maintain concept-orientation ([Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). For example: [Educational objectives often subvert themselves](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J), [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97)."
+                        - "These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body. If I write a note but struggle to summarize it in a sharp title, that’s often a sign that my thinking is muddy or that this note is about several topics (contra [Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)). In both cases, the solution is to break the ideas down and write about the bits I understand best first."
+                        - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."
+                        - "A few common exceptions to this policy:"
+                            - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
+                            - "Outline notes (see [Create speculative outlines while you write](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)) like [§Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)"
+                            - "For more, see [Taxonomy of note types](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)"
+                        - "I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense. Related: [Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)"
+                - 
     - #Chat
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #Feedback  #not_populated
@@ -292,9 +437,48 @@
         - Changed the CSS for Headings "Headings"
             - Sets all headings equal to `14px` font size
 - ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Promptstorming
+        - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
+            Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks.
+            Eventually, Embedded videos accompanying the written documentation and showing examples could be useful. Obviously, you can start producing material like that only once editors find that conventions and rules have converged to a reasonable standard. This would obviously be to avoid constant updates. 
+            "A shared project to collaboratively work towards." I like the idea of roamathlones. I am slowly approaching the end of my degree and I find that short sprints motivated by deadlines can promote good quality work.
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+        - The welcome page is simple and well structured.
+        - The quick start guide is well structured and very dense thus I might have to go through it a second time. 
+            - [[~[[Brandon Toner]]]] An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings (e.g. I am not sure if I should have tagged Brandon in this comment, or if I should avoid using capitals or full name+surname when mentioning him, but not wanting to tag him.)
+        - [[~[[Brandon Toner]]]] Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure.
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+    - ---
+- ---
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+    - #[[Scratchpad]]
+        - According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts.
+        - "#Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])" [[^[[leekeifon]]]]
+    - #[[Chat]]
+        - Would like to add a detail on [this step](((wL9FWsYpE))) of the the [new process](((X8fzypdUg))). [[~[[Brandon Toner]]]]
+            - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [[maturity]] of the idea.
+                - Example:: Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s.
+                - Example:: 
+Just think of that we have a plugin ((maybe I will write it out in the near future)), and when we press some key, it will automatically retrieve all the reference blocks and link them in a graph view ((technically a pop up iframe)), which is a substructure of the block within the database. 
+
+**AND**, if we have a set of properties assigned to them when doing references between blocks, then we can label the link automatically when generating the graph.
+
+Then, We could also filter out certain properties to lower the complexity of the substructure. It should help us human do a better logical inference, but not machines.
+reply to [this](((R8sUuPhbz))).
+        - We should definitely start up an event, sharing our ideas on [[How to write good prompts]] by reading about [[Andy Matuschak]]’s origin one! [[^[[Brandon Toner]]]]
+        - Seems that alias don’t work well with query? I find that your mentioning [here](((YLeWbqa5w))) I can’t query out, you could check out my personal page to confirm this. [[~[[Brandon Toner]]]] #[[Help Wanted]]
+            - Yeah, these one works, but I still can’t find this [one](((YLeWbqa5w)))... A little bit tricky.
+- ---
 - Import
     - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
         - From: Maps of Meaning 08: Neuropsychology of Symbolic Representation.json
 - Import
     - [[2nd-Degree Filter]]
         - From: 2nd-Degree Filter.json
+- Import
+    - [[2nd-Degree Page Titles]]
+        - From: 2nd-Degree Page Titles.json

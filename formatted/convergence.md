@@ -10,3 +10,5 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [ ] Refine a system of [convergence](<convergence.md>)
 
+- Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [[[E:](<[[E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>)]
+

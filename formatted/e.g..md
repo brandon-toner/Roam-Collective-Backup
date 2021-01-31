@@ -1,9 +1,6 @@
 - **[Related](<Related.md>):** [i.e.](<i.e..md>)
 
 # Backlinks
-## [Evergreen note titles are like APIs](<Evergreen note titles are like APIs.md>)
-- When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle (see [Concept handles, after Alexander](https://notes.andymatuschak.org/z5vA4vw86DKNq22xt6pRWhumeRmSzwV6hxRHE)). In fact, this property itself functions as a kind of litmus: as you develops ideas in notes over time and improve the “APIs,” you’ll be able to write individual notes which abstract over increasingly large subtrees ([e.g.](<e.g..md>)
-
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [e.g.](<e.g..md>)
 
@@ -50,6 +47,9 @@
 
 ## [The Main Feed](<The Main Feed.md>)
 - "#[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>)
+
+## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
+- When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle (see [Concept handles, after Alexander](https://notes.andymatuschak.org/z5vA4vw86DKNq22xt6pRWhumeRmSzwV6hxRHE)). In fact, this property itself functions as a kind of litmus: as you develops ideas in notes over time and improve the “APIs,” you’ll be able to write individual notes which abstract over increasingly large subtrees ([e.g.](<e.g..md>)
 
 ## [i.e.](<i.e..md>)
 - **[Related](<Related.md>):** [e.g.](<e.g..md>)

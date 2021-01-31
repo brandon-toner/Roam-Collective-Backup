@@ -14,7 +14,7 @@
     - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]"
     - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
     - ((i66SL3BAl))
-- #[[Daily Log Book]] [*]([[Change Log]])
+- #[[Daily Log]] [*]([[Change Log]])
     - 
     - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [[Brandon Toner]]
         - WE BACK.
@@ -116,9 +116,9 @@
     - #Administration #not_populated
         - #[[Change Log]] #not_populated
         - #GTD
-            - {{[[TODO]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]] #[[Week-04: 01-25-2021]]
+            - {{[[DONE]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]] #[[Week-04: 01-25-2021]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
-                - {{[[TODO]]}} Add some [[literature notes]]
+                - {{[[DONE]]}} Add some [[literature notes]]
                 - **Suggestion:** "[[Joel Chan]]'s work on [[knowledge synthesis]] #synthesis"
     - #Resources
         - This [twitter thread]([[Tweet Threads]]) from [[Kahlil Corazo]]: https://twitter.com/roamfu/status/1354414908327170050?s=21 #[[project management]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])

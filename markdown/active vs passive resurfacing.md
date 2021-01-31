@@ -1,7 +1,0 @@
-- Tags:: #[[Evergreen Notes]]
-    - Date Created:: [[January 29th, 2021]]
-    - Created By:: [[Brandon Toner]]
-    - Author:: [[Brandon Toner]]
-    - References:: #not_populated ((Supporting fleeting notes or literature notes would go here))
-    - Related:: [[resurfacing]]
-    - Notes:: #not_populated

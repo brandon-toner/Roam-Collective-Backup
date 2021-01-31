@@ -123,9 +123,12 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Fleeting Notes](<Fleeting Notes.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. "Why use [inline code-blocks](<inline code-blocks.md>) to disable tags?" #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Fleeting Notes from [[[Roam Book Club](<[[Roam Book Club.md>) II]] imported (in same format and on the same theme!)
             - #[Fleeting Notes](<Fleeting Notes.md>) custom [CSS](<CSS.md>) is a helpful tool for encouraging user alignment with important [conventions](<conventions.md>)
-            - #[Fleeting Notes](<Fleeting Notes.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[enhancement request](<enhancement request.md>) [Highlight](<Highlight.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) [Highlight](<Highlight.md>)
                 - **[IssueType](<IssueType.md>):** #[enhancement request](<enhancement request.md>)
-                - [Chat](<Chat.md>) [Chinarut](<Chinarut.md>) invite ya to tag enhancement requests [support](<support.md>) and make a few of them todos!
+                - [Chat](<Chat.md>) [Chinarut](<Chinarut.md>) invite ya to tag enhancement requests [support](<support.md>) and make a few of them todos! [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
+                    - [Q](<Q.md>) What is a good convention for this? To take enhancement requests and make TODOs to create Roam GitHub tickets.
+                        - Maybe: reference the block containing the request and add a [Status/Submitted](<Status/Submitted.md>) tag once submitted. [Processes](<Processes.md>)
+                            - [Q](<Q.md>) How do I flag half-build processes for future elaboration and completion? — Maybe use `[Seedlings](<Seedlings.md>)`? Or another similar convention...
             - #[Fleeting Notes](<Fleeting Notes.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).[*](((3oGNZLyip)))
             - #[Fleeting Notes](<Fleeting Notes.md>)[Start from abundance](<Start from abundance.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) `[not-populated](<not-populated.md>)` tags can be used to filter out empty attributes [conventions](<conventions.md>)
@@ -250,7 +253,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) 
         - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-- #[Daily Log Book](<Daily Log Book.md>)
+- #[Daily Log](<Daily Log.md>)
     - 11:49 - Discussion about chat conventions 
     - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - 12:30 - EDN, JSON, and Markdown [backup](<backup.md>) is up and running with ownership being transferred to [Brandon Toner](<Brandon Toner.md>) #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
@@ -292,6 +295,11 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
 # Backlinks
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- **Page:** [January 27th, 2021](<January 27th, 2021.md>)
+
+- **Page:** [January 27th, 2021](<January 27th, 2021.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)

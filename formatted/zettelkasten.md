@@ -28,6 +28,11 @@
 ## [Announcements](<Announcements.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
+## [Help Wanted](<Help Wanted.md>)
+- Document your ideas in [zettelkasten](<zettelkasten.md>)
+
+- Comment on some of the existing notes in the [zettelkasten](<zettelkasten.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 

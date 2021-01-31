@@ -10,3 +10,5 @@
 
 - **[Tools](<Tools.md>):** [Memex](<Memex.md>) [copy-paster](<copy-paster.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>) [copy-paster](<copy-paster.md>)-
+

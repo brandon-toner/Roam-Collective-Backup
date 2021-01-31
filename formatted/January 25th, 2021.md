@@ -26,7 +26,7 @@
         - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
-- #[Daily Log Book](<Daily Log Book.md>)
+- #[Daily Log](<Daily Log.md>)
     - 14:00 — [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
     - 14:00-19:06 — [Brandon Toner](<Brandon Toner.md>) Established the graph with the goal of reaching a stable baseline for others to join in.
     - 22:17 — Set goal of creating a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
@@ -105,7 +105,7 @@
             1. "Review the [conventions]([Conventions](<Conventions.md>))"
             1. "[Brandon Toner](<Brandon Toner.md>)"
             3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
-            4. "Use the [Daily Log Book](<Daily Log Book.md>) to sign-in"
+            4. "Use the [Daily Log](<Daily Log.md>) to sign-in"
             5. "Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>) library."
                 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**
@@ -297,7 +297,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
 
 # Backlinks
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
-- **[Created By](<Created By.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>)
 
 ## [Announcements](<Announcements.md>)
 - Check out [January 25th, 2021](<January 25th, 2021.md>)
@@ -305,6 +305,6 @@ Community suggests via block-level tagging, then graph editors compile them cent
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out [January 25th, 2021](<January 25th, 2021.md>)
 
-## [January 30th, 2021](<January 30th, 2021.md>)
+## [January 31st, 2021](<January 31st, 2021.md>)
 - **Page:** [January 25th, 2021](<January 25th, 2021.md>)
 

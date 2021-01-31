@@ -123,9 +123,12 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Fleeting Notes]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]
         - Fleeting Notes from [[[[Roam Book Club]] II]] imported (in same format and on the same theme!)
             - #[[Fleeting Notes]] custom [[CSS]] is a helpful tool for encouraging user alignment with important [[conventions]]
-            - #[[Fleeting Notes]][[hidden tags]] would be hugely beneficial to the [[UX]] in a shared Roam database. #Suggestions #[[enhancement request]] #Highlight
+            - #[[Fleeting Notes]][[hidden tags]] would be hugely beneficial to the [[UX]] in a shared Roam database. #Suggestions #[[Roam Enhancement Requests]] #Highlight
                 - IssueType:: #[[enhancement request]]
-                - #Chat [[Chinarut]] invite ya to tag enhancement requests #support and make a few of them todos!
+                - #Chat [[Chinarut]] invite ya to tag enhancement requests #support and make a few of them todos! [[^[[Brandon Toner]]]]
+                    - #Q What is a good convention for this? To take enhancement requests and make TODOs to create Roam GitHub tickets.
+                        - Maybe: reference the block containing the request and add a [[Status/Submitted]] tag once submitted. #Processes
+                            - #Q How do I flag half-build processes for future elaboration and completion? — Maybe use `#Seedlings`? Or another similar convention...
             - #[[Fleeting Notes]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
             - #[[Fleeting Notes]][[Start from abundance]]
             - #[[Fleeting Notes]] `#not-populated` tags can be used to filter out empty attributes #conventions
@@ -250,7 +253,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - #[[Open Questions]] ((about collaboration and beyond)) 
         - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
-- #[[Daily Log Book]]
+- #[[Daily Log]]
     - 11:49 - Discussion about chat conventions 
     - 11:54 - [[Matthew Vogel]] and [[Eneko Uruñuela]] are looking into [[backup]] solutions #[[Projects/Establish automated graph backups]]
     - 12:30 - EDN, JSON, and Markdown [[backup]] is up and running with ownership being transferred to [[Brandon Toner]] #[[Projects/Establish automated graph backups]]
