@@ -28,7 +28,7 @@
         - **[Queries](<Queries.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- Climbing, Chess, Photography, ML, Board games, Reading
+- [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - **[Queries](<Queries.md>):**
 
 ## [Queries](<Queries.md>)

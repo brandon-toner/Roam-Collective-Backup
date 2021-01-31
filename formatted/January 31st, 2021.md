@@ -51,6 +51,35 @@
     - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)
+            - **Definition**: (Logical) structure that could be contained within a single block ((one way to understand this is, using one sentence to conclude what you wanna express)).
+            - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
+            - **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)".
+            - **[Example](<Example.md>):** Try to think of the following situation, saying that I want to **distinguish two concepts by introducing their difference**. 
+""#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)"
+                - [Related](<Related.md>) to [view concepts with different lenses](((MawQmWVvk)))
+                - [Related](<Related.md>) to [substructure graph generation](((WC25L-wqT)))
+            - **Origin**: This is a concept I come up when I try to generalize the AXYZ [model](<model.md>) ((A do X under Y condition and observe Z)) purposed by [Joel Chan](<Joel Chan.md>), based on my own understanding.
+        - #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
+            - **[Example](<Example.md>):** {{[embed](<embed.md>): ((zFyFH7Z_m))}}
+        - "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)
+        - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
+    - #[Chat](<Chat.md>)
+        - Some concepts stay in mind for a long time and would like to discuss with you guys.
+        - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)

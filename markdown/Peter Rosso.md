@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (also good, but checked less frequently)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
         - Interests::
-            - Climbing, Chess, Photography, ML, Board games, Reading
+            - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - Queries::
             - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}}}
         - SmartBlocks::

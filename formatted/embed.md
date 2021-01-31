@@ -85,6 +85,8 @@
 
 {{[embed](<embed.md>):
 
+- **[Example](<Example.md>):** {{[embed](<embed.md>):
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[embed](<embed.md>):
 

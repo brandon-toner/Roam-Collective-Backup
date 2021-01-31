@@ -394,7 +394,7 @@
         4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[Fleeting Notes]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Ahhhh [[~[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
-        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[@[[Brandon Toner]]]] [[@[[leekeifon]]]]
+        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[@[[Brandon Toner]]]] [[^[[leekeifon]]]]
             - Brandon and I were discussing structures for Evergreen note pages earlier...
                 - I would propose there is a way to simple and implicitly distinguish between an Evergreen that is ready to be a page and one that isn't
                     - For the most part, I think this has to do with the level of development of the necessary support and context
@@ -458,6 +458,11 @@
     - #[[Scratchpad]]
         - According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts.
         - "#Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])" [[^[[leekeifon]]]]
+    - #[[Comments]]
+        - [This method](((5NLcwZHoo))) thoroughly discuss how to make a smooth yet reliable way to develop deep thoughts across time and I will no doubt adapting this into my own database!  #[[procedural knowledge]] [*]([[cc:[[Brandon Toner]]]])[*]([[cc:[[Charles Farr]]]])
+            - This method agree with most of my previous thoughts, eg. [view page as resource](((3SbDzgrZF))), [treat page as truth](((ZZWmGCw0B))), as it builds up a intermediate state that help us slow down the speed on creating too much page, which is actually increasing the complexity of our database.
+            - Also, the user experience for block auto-completion with a `#Evergreen` tag at the front is almost the same as page auto-completion.
+            - In other words, I vote for this procedure. (But I don’t know how to add an emoji to it in iPad...)
     - #[[Chat]]
         - Would like to add a detail on [this step](((wL9FWsYpE))) of the the [new process](((X8fzypdUg))). [[~[[Brandon Toner]]]]
             - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [[maturity]] of the idea.

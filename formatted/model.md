@@ -18,3 +18,24 @@
 
 - It can be [model](<model.md>)e
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)
+
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
+
+""#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+
+""#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
+
+- **Origin**: This is a concept I come up when I try to generalize the AXYZ [model](<model.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+
+- "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
+
+- Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
+
+- Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+

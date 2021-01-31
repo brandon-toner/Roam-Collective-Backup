@@ -11,3 +11,6 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - **Suggestion:** "[Joel Chan](<Joel Chan.md>)'
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- **Origin**: This is a concept I come up when I try to generalize the AXYZ [model](<model.md>) ((A do X under Y condition and observe Z)) purposed by [Joel Chan](<Joel Chan.md>),
+

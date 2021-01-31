@@ -84,6 +84,16 @@
 - **[Example](<Example.md>):** Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s.
                 - **[Example](<Example.md>):**
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
+            - **[Example](<Example.md>):**
+
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)".
+            - **[Example](<Example.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
+            - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**

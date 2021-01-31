@@ -50,6 +50,8 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Change Log](<Change Log.md>)
 
