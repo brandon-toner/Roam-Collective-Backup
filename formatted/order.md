@@ -10,3 +10,6 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>) to [noise](<noise.md>) by promoting [clarity](<clarity.md>) and [order](<order.md>).
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- On [order](<order.md>)
+

@@ -13,3 +13,6 @@
 ## [E/optional, but beneficial](<E/optional, but beneficial.md>)
 - This type of convention is important, because the optionality reduces the [E/barrier to entry](<../E/barrier to entry.md>) for new users and empowers a [E/low floor, high ceiling](<../E/low floor, high ceiling.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- [E/low floor, high ceiling](<../E/low floor, high ceiling.md>)
+

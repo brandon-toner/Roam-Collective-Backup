@@ -8,6 +8,7 @@
 - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
     - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
     - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
+    - Some explorations of zettelkasten conventions as it relates to evergreen notes: [here](((IRSOUC-2O))). Feat: [Charles](((sBu3zOPiV)))
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
     - "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) 
@@ -50,6 +51,82 @@
                 - #[Fleeting Notes](<Fleeting Notes.md>) the blank [DNP](<DNP.md>) and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
                     - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants.
                         - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+        - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
+            - Is there a way to reorder sibling blocks by various parameters:
+                - Date created
+                - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
+        - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [Bookmarks](<Bookmarks.md>)
+            - **[Related](<Related.md>):**
+                - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+                - Charle's detailed thoughts [here](((sBu3zOPiV)))
+            - **[Objectives](<Objectives.md>):**
+                - Have [pages](<pages.md>) for commonly referenced ideas.
+                - Clear authorship.
+                - [E/low floor, high ceiling](<E/low floor, high ceiling.md>) workflow
+                - Ease of [onboarding](<onboarding.md>).
+                - Clear [disambiguation](<disambiguation.md>)
+                - Minimize [cognitive burden](<cognitive burden.md>) associated with too many tags [*](((Ur95KwfFX)))
+                - Clearly detect level of [maturity](<maturity.md>).
+                - Easy to find, reference, and filter.
+                - Allow for ease in generating [output](<output.md>).
+            - **[Thoughts](<Thoughts.md>):**
+                - On [authorship](<authorship.md>):[*](((IWQC9aRN8)))
+                    - A common occurrence may be that the TITLE of an evergreen note may be verbatim from another writer, but the elaborations or thoughts on that idea may be your own.
+                        - [Q](<Q.md>) How do you differentiate title authorship from body authorship?
+                            - For the purposes of avoiding [plagarism](<plagarism.md>) and generating accurate [references](<references.md>).
+                - On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
+                    - #[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>) matters as much as the content of the notes themselves.
+                    - This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
+                    - [Q](<Q.md>) How can the order of notes within the zettelkasten be represented in this emerging system?
+                        - The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>) may be of use here.
+                    - [Q](<Q.md>) How do you integrate ideas from various authors within a [zettelkasten](<zettelkasten.md>)? In respect to note order.
+                - On note [maturity](<maturity.md>):
+                    - In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>), an attribute could be created that helps to filter notes by the method of arrival at the idea. 
+                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                    - [Q](<Q.md>) How does the [seedlings](<seedlings.md>) concept fit in here?
+                        - Maybe the current expression of "[Evergreen](<Evergreen.md>) Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
+                            - Replace tree with seedling emoji, same effect.
+                        - Maybe all fleeting notes are seedlings?
+                        - [Q](<Q.md>) Whats the difference between a seedling and a fleeting note?
+                - On epistemology:
+                    - "In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>), an attribute could be created that helps to filter notes by the method of arrival at the idea. "
+                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
+                    - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+                    - I see more detail as [E/optional, but beneficial](<E/optional, but beneficial.md>)
+            - **[Questions](<Questions.md>):**
+                - [Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
+                - [Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?
+                - [Q](<Q.md>) How can systems be streamlined such that it is clear, and easy to adopt for [new users](<new users.md>) or [graph members](<graph members.md>)?
+                - [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+                    - **[Related](<Related.md>):** 
+                        - "[Q](<Q.md>) How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"
+                        - "#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>)."
+                        - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
+                        - "My preference is to limit it to a parent-level tag and then a block level tag"
+                - [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+            - **[Process](<Process.md>):**
+                - Document ideas freely as [fleeting notes](<fleeting notes.md>)
+                - [literature notes](<literature notes.md>) or [verbatim notes](<verbatim notes.md>) are representations of the author's ideas.
+                    - OK to be verbatim — these should be quick & easy! 
+                        - #[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
+                    - **[References](<References.md>):**
+                        - https://twitter.com/syncretizm/status/1355812313505230852?s=21
+                - As ideas begin to feel [evergreen](<evergreen.md>), a page should be created.
+                    - The body of a fleeting note could be made into a page.
+                - The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page.
+                    - Populate date created, created by and author right away.
+                        - If author is unknown, use the [Unknown](<Unknown.md>) tag.
+                            - [Q](<Q.md>) is there advantage to this vs leaving as `[not_populated](<not_populated.md>)`?
+        - Notes from [[[Roam Book Club](<[[Roam Book Club.md>) III]]
+            - [[[RBC](<[[RBC.md>) Live Session 1: (Jan 31)]]
+                - Questions underneath the books
+                - Organize graphs around questions
+                    - [Q](<Q.md>) What happens if we organize our zettelkastens around questions.
+                - Traditional: Centered around knowledge. What is known. Assertions.
+                - Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
+    - **[Decisions](<Decisions.md>):**
         - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
             - **[Options](<Options.md>):** 
                 - A - `[E:](<E:.md>)`
@@ -82,10 +159,15 @@
             - **[[Ideas](<Ideas.md>) It might be helpful to include a `Factors](<[Ideas](<Ideas.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
                 - **[Rationale](<Rationale.md>):** Often the pros of one are the cons to another. There are repeated parts.
             - #[Fleeting Notes](<Fleeting Notes.md>) [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
-        - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
-            - Is there a way to reorder sibling blocks by various parameters:
-                - Date created
-                - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
+        - [ ] [Choice](<Choice.md>): Whether to include the [Evergreen](<Evergreen.md>) tag as an element of the evergreen note process ((((e-lL4buZ1))))
+            - **[Options](<Options.md>):** 
+                - A — Include `[Evergreen](<Evergreen.md>)` tag as part of process
+                - B — Do not include `[Evergreen](<Evergreen.md>)` tag as part of process
+            - **[Status](<Status.md>):** Not yet included in conventions
+            - **[References](<References.md>):**
+                - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
+            - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
+            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
@@ -132,6 +214,7 @@
         - [Q](<Q.md>) What is the role of the Q questions tag?
             - Inline questions, even less threshold than [open questions](<open questions.md>). [Conventions](<Conventions.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? 
             - e.g. alias to external site vs to page or block reference
@@ -144,7 +227,7 @@
                 - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
     - [Bookmarks](<Bookmarks.md>)
         - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
-        - 
+        - "Brandon and I were discussing structures for Evergreen note pages earlier..." #[evergreen notes](<evergreen notes.md>) [Conventions](<Conventions.md>)
     - [Comments](<Comments.md>) 
         1. #[Graph Mentorship](<Graph Mentorship.md>)
             - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) to apply to fleeting notes. 
@@ -194,7 +277,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Some reasons for hesitation:
                     - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [disambiguation](<disambiguation.md>).
                         - Especially Evergreen vs Evergreen Notes
-        7. 
+        7. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [graph seed](<graph seed.md>)s"
+            - Excellent. This is on my mind as well. 
     - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Make [namespaces](<namespaces.md>) a query-able element 
             - **[Related](<Related.md>):** "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -269,13 +353,56 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [graph seed](<graph seed.md>)s
+            - In reality, there are a lot of different use cases that require slightly different structures — offering only one version means that we will be missing out on supporting a large number of different communities and graphs
+        - [[[How To](<[[How To.md>) Implement a Zettelkasten]]
+            - What is a Zettelkasten
+                - Background
+                - Overview
+            - Key Components
+                - Fleeting Notes
+                - Literature Notes
+                - Permanent Notes
+            - Methods for Implementation in Roam
+                - Example 1
+                    - Best for... building up a personal understanding
+                - Example 2
+                    - Best for... working towards output (academic or otherwise)
+                - Example 3
+                    - Best for... community knowledge building
+            - Secondary Features
+                - Levels of maturity...
+                - Collections...
+                - Speculative outlines...
+            - Zettelkasten Flavors
+                - Mythology 1
+                - Mythology 2
+                - Mythology 3
+                    - Electrons
+                    - Atoms
+                    - Molecules
+                    - Compounds
+            - Selecting the right approach
+                - __this would be a quiz people could work through with recommendations on seeds to use__
+        - [How To](<How To.md>) Support Project Management
+            - 
+            - Key Components
+                - Tasks
+                - Projects
+                - Dates
+                - Contributors
+            - Steps
+                - Creating Tasks
+                - Tracking Tasks
+                - Delegating Tasks
+                - 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - [Comments](<Comments.md>)
         - "Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))"
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I like the AOT but disagree with the choice!
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
                 - See my [comments yesterday](((dg-k5f3s6))) for some more thoughts on Evergreen notes
         - "[Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]]"
@@ -302,6 +429,9 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - See CSS here: "In Block Reference"
             - Example: "[Evergreen](<Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
+    - [GTD](<GTD.md>)
+        - [ ] Catalog the various structures for Zettelkasten
+            - [ ] Catalog a set of mythologies that can be used
 - ---
 
 # Backlinks

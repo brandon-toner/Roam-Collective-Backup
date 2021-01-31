@@ -24,7 +24,6 @@
         - Interests::
             - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
         - Queries::
-            - {{[[query]]: {and: [[@]] [[Mark Robertson]] {not: [[Brandon Toner]]}}}}
         - SmartBlocks::
             - MRobertson — DNT #42SmartBlock
                 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}

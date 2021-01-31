@@ -8,3 +8,7 @@
 - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
     - **[Objectives](<Objectives.md>):**
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Charle's detailed thoughts [here](((sBu3zOPiV)))
+            - **[Objectives](<Objectives.md>):**
+

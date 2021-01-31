@@ -25,6 +25,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Added the [convention]([Conventions](<Conventions.md>))
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 4. Review the [conventions]([Conventions](<Conventions.md>))
 

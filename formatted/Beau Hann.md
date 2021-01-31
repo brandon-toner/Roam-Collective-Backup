@@ -9,3 +9,6 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Beau Hann](<Beau Hann.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
+

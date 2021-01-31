@@ -14,6 +14,8 @@
 - **[Related](<../Related.md>):** [E/optional, but beneficial](<../E/optional, but beneficial.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- I see more detail as [E/optional, but beneficial](<../E/optional, but beneficial.md>)
+
 - **[I saw this and love the idea! I've used `Rationale](<../I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [E/optional, but beneficial](<../E/optional, but beneficial.md>)
 
 - **["I saw this and love the idea! I've used `Rationale](<../"I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [E/optional, but beneficial](<../E/optional, but beneficial.md>)

@@ -249,9 +249,6 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-## [Mark Robertson](<Mark Robertson.md>)
-- {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}
-
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
 

@@ -40,7 +40,7 @@
 - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)
-- {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}}}}
+- **[Queries](<Queries.md>):**
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)

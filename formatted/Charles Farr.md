@@ -66,6 +66,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)

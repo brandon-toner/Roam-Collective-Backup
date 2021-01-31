@@ -14,3 +14,6 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Fleeting Notes](<../Fleeting Notes.md>) [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+

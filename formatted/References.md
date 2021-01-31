@@ -84,6 +84,13 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
+                    - **[References](<References.md>):**
+
+- **[Status](<Status.md>):** Not yet included in conventions
+            - **[References](<References.md>):**
+
 ## [Start from abundance](<Start from abundance.md>)
 - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**

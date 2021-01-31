@@ -24,7 +24,6 @@
         - **[Interests](<Interests.md>):**
             - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
         - **[Queries](<Queries.md>):**
-            - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}}}}
         - **[SmartBlocks](<SmartBlocks.md>):**
             - MRobertson — DNT [42SmartBlock](<42SmartBlock.md>)
                 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
@@ -61,8 +60,6 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)
-- {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)
-
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)

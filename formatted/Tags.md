@@ -76,6 +76,9 @@
 ## [Daily Writing Prompts](<Daily Writing Prompts.md>)
 - **[Tags](<Tags.md>):**
 
+## [Decisions](<Decisions.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Deepu Asok](<Deepu Asok.md>)
 - **[Tags](<Tags.md>):**
 
@@ -296,6 +299,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Quick Capture](<Quick Capture.md>)
+- **[Tags](<Tags.md>):**
+
+## [RBC](<RBC.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Random Review](<Random Review.md>)

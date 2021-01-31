@@ -1,0 +1,10 @@
+- **[Books](<Books.md>):**
+    - [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)
+    - [Books/The Culture Code](<Books/The Culture Code.md>)
+- **[Live Sessions](<Live Sessions.md>):**
+    - [[[RBC](<[[RBC.md>) Live Session 1: (Jan 31)]]
+    - [[[RBC](<[[RBC.md>) Live Session 2: (Feb 7)]]
+    - [[[RBC](<[[RBC.md>) Live Session 3: (Feb 14)]]
+    - [[[RBC](<[[RBC.md>) Live Session 4: (Feb 21)]]
+    - [[[RBC](<[[RBC.md>) Live Session 5: (Feb 28)]]
+    - [[[RBC](<[[RBC.md>) Live Session 6: (Feb Mar 7)]]

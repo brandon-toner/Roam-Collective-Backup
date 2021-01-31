@@ -1,3 +1,7 @@
+- **Iterations:**
+    - [[[Roam Book Club](<[[Roam Book Club.md>) I]]
+    - [[[Roam Book Club](<[[Roam Book Club.md>) II]]
+    - [[[Roam Book Club](<[[Roam Book Club.md>) III]]
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -20,4 +24,7 @@
 - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
 
 - "What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
+
+## [RBC](<RBC.md>)
+- **[Redirect](<Redirect.md>):** [Roam Book Club](<Roam Book Club.md>)
 

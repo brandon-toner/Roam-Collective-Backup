@@ -9,5 +9,9 @@
 - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- Clearly detect level of [maturity](<maturity.md>).
+
+- On note [maturity](<maturity.md>):
+
 - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>)
 

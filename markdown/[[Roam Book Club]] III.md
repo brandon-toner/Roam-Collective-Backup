@@ -1,0 +1,10 @@
+- Books::
+    - [[Books/How to Take Smart Notes]]
+    - [[Books/The Culture Code]]
+- Live Sessions::
+    - [[[[RBC]] Live Session 1: (Jan 31)]]
+    - [[[[RBC]] Live Session 2: (Feb 7)]]
+    - [[[[RBC]] Live Session 3: (Feb 14)]]
+    - [[[[RBC]] Live Session 4: (Feb 21)]]
+    - [[[[RBC]] Live Session 5: (Feb 28)]]
+    - [[[[RBC]] Live Session 6: (Feb Mar 7)]]

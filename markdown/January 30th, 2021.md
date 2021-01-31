@@ -386,9 +386,9 @@
         4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[Fleeting Notes]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Ahhhh [[~[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
-        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[@[[Brandon Toner]]]] [[^[[leekeifon]]]]
+        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[^[[Brandon Toner]]]] [[^[[leekeifon]]]]
             - Brandon and I were discussing structures for Evergreen note pages earlier...
-                - I would propose there is a way to simple and implicitly distinguish between an Evergreen that is ready to be a page and one that isn't
+                - I would propose there is a way to simply and implicitly distinguish between an Evergreen that is ready to be a page and one that isn't
                     - For the most part, I think this has to do with the level of development of the necessary support and context
                     - A novel idea, combining across various pieces of literature and fleeting notes is an evergreen thought
                         - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out

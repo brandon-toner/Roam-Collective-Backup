@@ -99,3 +99,24 @@
 
 - As we evaluate what the correct approach for the [zettelkasten](<zettelkasten.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
+
+- This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
+
+- [Q](<Q.md>) How do you integrate ideas from various authors within a [zettelkasten](<zettelkasten.md>)?
+
+- In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>),
+
+- "In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>),
+
+- [Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?
+
+- [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+
+- [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+
+- Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
+

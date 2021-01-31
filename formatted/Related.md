@@ -164,6 +164,12 @@
                             - **[Related](<Related.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [Bookmarks](<Bookmarks.md>)
+            - **[Related](<Related.md>):**
+
+- [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+                    - **[Related](<Related.md>):**
+
 - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):**
 

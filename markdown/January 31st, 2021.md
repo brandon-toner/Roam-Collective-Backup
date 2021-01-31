@@ -8,6 +8,7 @@
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
     - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
+    - Some explorations of zettelkasten conventions as it relates to evergreen notes: [here](((IRSOUC-2O))). Feat: [Charles](((sBu3zOPiV)))
 - #Chat ((A place to propose objects of discussion)) 
     - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) 
@@ -50,6 +51,82 @@
                 - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
                     - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants.
                         - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+        - #[[Development Requests]] #[[Help Wanted]]
+            - Is there a way to reorder sibling blocks by various parameters:
+                - Date created
+                - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
+        - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten #Bookmarks
+            - Related::
+                - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                - Charle's detailed thoughts [here](((sBu3zOPiV)))
+            - Objectives::
+                - Have [[pages]] for commonly referenced ideas.
+                - Clear authorship.
+                - [[E/low floor, high ceiling]] workflow
+                - Ease of [[onboarding]].
+                - Clear [[disambiguation]]
+                - Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))
+                - Clearly detect level of [[maturity]].
+                - Easy to find, reference, and filter.
+                - Allow for ease in generating [[output]].
+            - Thoughts::
+                - On [[authorship]]:[*](((IWQC9aRN8)))
+                    - A common occurrence may be that the TITLE of an evergreen note may be verbatim from another writer, but the elaborations or thoughts on that idea may be your own.
+                        - #Q How do you differentiate title authorship from body authorship?
+                            - For the purposes of avoiding [[plagarism]] and generating accurate [[references]].
+                - On [[order]] of notes within the [[zettelkasten]]:
+                    - #[[Fleeting Notes]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves.
+                    - This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]].
+                    - #Q How can the order of notes within the zettelkasten be represented in this emerging system?
+                        - The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here.
+                    - #Q How do you integrate ideas from various authors within a [[zettelkasten]]? In respect to note order.
+                - On note [[maturity]]:
+                    - In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. 
+                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                    - #Q How does the [[seedlings]] concept fit in here?
+                        - Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
+                            - Replace tree with seedling emoji, same effect.
+                        - Maybe all fleeting notes are seedlings?
+                        - #Q Whats the difference between a seedling and a fleeting note?
+                - On epistemology:
+                    - "In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. "
+                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
+                    - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[E/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - I see more detail as [[E/optional, but beneficial]]
+            - Questions::
+                - #Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?
+                - #Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?
+                - #Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?
+                - #Q How can [[questions]] be integrated in to [[zettelkasten]]?
+                    - Related:: 
+                        - "#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"
+                        - "#[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."
+                        - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
+                        - "My preference is to limit it to a parent-level tag and then a block level tag"
+                - #Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?
+            - Process::
+                - Document ideas freely as [[fleeting notes]]
+                - [[literature notes]] or [[verbatim notes]] are representations of the author's ideas.
+                    - OK to be verbatim — these should be quick & easy! 
+                        - #[[Fleeting Notes]] The need for originality adds [[cognitive burden]].
+                    - References::
+                        - https://twitter.com/syncretizm/status/1355812313505230852?s=21
+                - As ideas begin to feel [[evergreen]], a page should be created.
+                    - The body of a fleeting note could be made into a page.
+                - The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page.
+                    - Populate date created, created by and author right away.
+                        - If author is unknown, use the [[Unknown]] tag.
+                            - #Q is there advantage to this vs leaving as `#not_populated`?
+        - Notes from [[[[Roam Book Club]] III]]
+            - [[[[RBC]] Live Session 1: (Jan 31)]]
+                - Questions underneath the books
+                - Organize graphs around questions
+                    - #Q What happens if we organize our zettelkastens around questions.
+                - Traditional: Centered around knowledge. What is known. Assertions.
+                - Questions as a first-class citizen of the [[zettelkasten]].
+    - Decisions::
         - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
             - Options:: 
                 - A - `[[E:]]`
@@ -82,10 +159,15 @@
             - #Ideas It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
                 - Rationale:: Often the pros of one are the cons to another. There are repeated parts.
             - #[[Fleeting Notes]] [[E/Use the native convention as much as possible.]]
-        - #[[Development Requests]] #[[Help Wanted]]
-            - Is there a way to reorder sibling blocks by various parameters:
-                - Date created
-                - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
+        - {{[[TODO]]}} [[Choice]]: Whether to include the #Evergreen tag as an element of the evergreen note process ((((e-lL4buZ1))))
+            - Options:: 
+                - A — Include `#Evergreen` tag as part of process
+                - B — Do not include `#Evergreen` tag as part of process
+            - Status:: Not yet included in conventions
+            - References::
+                - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
+            - Decision:: #not_populated
+            - Notes:: #not_populated
     - #GTD #not_populated
     - #[[Change Log]] 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
@@ -132,6 +214,7 @@
         - #Q What is the role of the Q questions tag?
             - Inline questions, even less threshold than [[open questions]]. #Conventions
         - #[[Fleeting Notes]] [[E/Make evergreen notes as you write.]]
+        - #[[Fleeting Notes]] clear [[conventions]] for [[collaboration]] are a [[pre-requisite]] for effective [[project management]].
     - #Questions
         - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
             - e.g. alias to external site vs to page or block reference
@@ -144,7 +227,7 @@
                 - Similar convention for within [[About [[Roam-Collective]]]]
     - #Bookmarks
         - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
-        - 
+        - "Brandon and I were discussing structures for Evergreen note pages earlier..." #[[evergreen notes]] #Conventions
     - #Comments 
         1. #[[Graph Mentorship]]
             - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[E/Evergreen note titles are like APIs]] to apply to fleeting notes. 
@@ -194,7 +277,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Some reasons for hesitation:
                     - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]].
                         - Especially Evergreen vs Evergreen Notes
-        7. 
+        7. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s"
+            - Excellent. This is on my mind as well. 
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
             - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -269,13 +353,56 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s
+            - In reality, there are a lot of different use cases that require slightly different structures — offering only one version means that we will be missing out on supporting a large number of different communities and graphs
+        - [[[[How To]] Implement a Zettelkasten]]
+            - What is a Zettelkasten
+                - Background
+                - Overview
+            - Key Components
+                - Fleeting Notes
+                - Literature Notes
+                - Permanent Notes
+            - Methods for Implementation in Roam
+                - Example 1
+                    - Best for... building up a personal understanding
+                - Example 2
+                    - Best for... working towards output (academic or otherwise)
+                - Example 3
+                    - Best for... community knowledge building
+            - Secondary Features
+                - Levels of maturity...
+                - Collections...
+                - Speculative outlines...
+            - Zettelkasten Flavors
+                - Mythology 1
+                - Mythology 2
+                - Mythology 3
+                    - Electrons
+                    - Atoms
+                    - Molecules
+                    - Compounds
+            - Selecting the right approach
+                - __this would be a quiz people could work through with recommendations on seeds to use__
+        - [[How To]] Support Project Management
+            - 
+            - Key Components
+                - Tasks
+                - Projects
+                - Dates
+                - Contributors
+            - Steps
+                - Creating Tasks
+                - Tracking Tasks
+                - Delegating Tasks
+                - 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Comments
         - "Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))"
-            - [[@[[Brandon Toner]]]] I like the AOT but disagree with the choice!
+            - [[^[[Brandon Toner]]]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
                 - See my [comments yesterday](((dg-k5f3s6))) for some more thoughts on Evergreen notes
         - "#Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]"
@@ -302,4 +429,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - See CSS here: "In Block Reference"
             - Example: "#Evergreen Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
+    - #GTD
+        - {{[[TODO]]}} Catalog the various structures for Zettelkasten
+            - {{[[TODO]]}} Catalog a set of mythologies that can be used
 - ---

@@ -11,3 +11,7 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Questions](<Questions.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- I see more detail as [E/optional, but beneficial](<E/optional, but beneficial.md>)
+            - **[Questions](<Questions.md>):**
+
