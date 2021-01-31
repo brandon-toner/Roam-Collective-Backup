@@ -41,7 +41,7 @@
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-7. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>)
+8. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Daily Writing Prompts](<Daily Writing Prompts.md>)

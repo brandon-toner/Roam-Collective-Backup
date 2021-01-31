@@ -139,6 +139,9 @@
 ## [LN](<LN.md>)
 - **[Tags](<Tags.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Learning Objectives](<Learning Objectives.md>)
 - **[Tags](<Tags.md>):**
 

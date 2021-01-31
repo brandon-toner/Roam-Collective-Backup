@@ -16,6 +16,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**

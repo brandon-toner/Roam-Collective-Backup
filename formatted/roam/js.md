@@ -65,6 +65,12 @@ if (!existing) {
 ## [January 25th, 2021](<January 25th, 2021.md>)
 8. Added [roam/js](<../roam/js.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- I think every person needs to activate the [roam/js](<../roam/js.md>)
+
+## [Quick Start Guide](<Quick Start Guide.md>)
+11. Turn on [Roam42](<../Roam42.md>) in [roam/js](<../roam/js.md>)
+
 ## [roam/css](<roam/css.md>)
 - **[Related](<../Related.md>):** [roam/js](<../roam/js.md>)
 

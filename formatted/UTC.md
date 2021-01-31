@@ -9,6 +9,9 @@
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>)
 

@@ -8,6 +8,10 @@
 - **[Time Zone](<Time Zone.md>):** [Central European Time](<Central European Time.md>) ([UTC](<UTC.md>) +1:00)
         - **[Work](<Work.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
+        - **[Work](<Work.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - Born & raised in Seattle so I still rep the west coast, best coast
         - **[Work](<Work.md>):**

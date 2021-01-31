@@ -23,7 +23,7 @@
 - See [Prompts](<Prompts.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-7. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>)
+8. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Prompts](<Prompts.md>)

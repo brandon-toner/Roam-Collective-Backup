@@ -100,6 +100,11 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [Larissa de Lima](<Larissa de Lima.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

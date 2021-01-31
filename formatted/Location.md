@@ -16,6 +16,10 @@
 - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
         - **[Location](<Location.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Clubhouse](<Clubhouse.md>):** @LaBrisa
+        - **[Location](<Location.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[LinkedIn](<LinkedIn.md>):** [linkedin.com/in/lindseyajohnston](https://www.linkedin.com/in/lindseyajohnston/)
         - **[Location](<Location.md>):**

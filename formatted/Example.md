@@ -85,6 +85,9 @@
                 - **[Example](<Example.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
+                - **[Example](<Example.md>):**
+
 - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
             - **[Example](<Example.md>):**
 
@@ -99,10 +102,10 @@
     - **[Example](<Example.md>):**
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-1. Build your bio page 
+2. Build your bio page 
         - **[Example](<Example.md>):**
 
-8. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
+9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
 
 ## [chat](<chat.md>)
 - To reply, reference the block into your "Comments" section, nesting your reply beneath.
@@ -111,4 +114,8 @@
 ## [complex page names](<complex page names.md>)
 - Page name with a nested page 
     - **[Example](<Example.md>):**
+
+## [roam/css](<roam/css.md>)
+- Notifications & Mentions:
+                    - **[Example](<Example.md>):**
 

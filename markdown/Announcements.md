@@ -23,4 +23,5 @@
         - **Catching up on the action**
             - Check the #[[Change Log]] linked references for a running list of the changes over time.
             - Check the #Announcements linked references for a running list of important memos
+            - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
             - Explore the block references on the [[Prompts]] page to see community responses to various prompts

@@ -21,6 +21,10 @@
 
 - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>)
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Twitter](<Twitter.md>):** [@larissacql](https://twitter.com/larissacql)
+        - **[Clubhouse](<Clubhouse.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[Twitter](<Twitter.md>):** [@laj2100](https://twitter.com/laj2100)
         - **[Clubhouse](<Clubhouse.md>):**

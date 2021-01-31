@@ -31,7 +31,7 @@
 - #[Daily Log](<Daily Log.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-6. Use the [Daily Log](<Daily Log.md>)
+7. Use the [Daily Log](<Daily Log.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Daily Log](<Daily Log.md>)

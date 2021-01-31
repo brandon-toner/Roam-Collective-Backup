@@ -4,6 +4,10 @@
 - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
         - **[Interests](<Interests.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[How to contact me](<How to contact me.md>):** Roam Slack (preferred), Twitter (check less frequently)
+        - **[Interests](<Interests.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - BA in Apparel Merchandising, Design & Textiles
         - **[Interests](<Interests.md>):**

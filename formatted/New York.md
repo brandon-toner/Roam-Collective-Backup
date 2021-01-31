@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Location](<Location.md>):** [Brooklyn](<Brooklyn.md>), [New York](<New York.md>),
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[Location](<Location.md>):** [Manhattan](<Manhattan.md>), [New York City](<New York City.md>), [New York](<New York.md>),
 

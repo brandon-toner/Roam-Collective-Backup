@@ -35,6 +35,10 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - For [SmartBlocks](<SmartBlocks.md>)
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- {{[query](<query.md>): {and: [@](<@.md>) [Larissa de Lima](<Larissa de Lima.md>)}}}
+- **[SmartBlocks](<SmartBlocks.md>):**
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>) {not: [Brandon Toner](<Brandon Toner.md>)}}}}
         - **[SmartBlocks](<SmartBlocks.md>):**

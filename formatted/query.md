@@ -60,6 +60,9 @@
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - {{[query](<query.md>):
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- {{[query](<query.md>):
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>):
 

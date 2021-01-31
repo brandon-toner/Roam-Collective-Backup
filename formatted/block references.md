@@ -26,6 +26,9 @@
 
 - You can [filter](<filter.md>) the references on a [block reference]([block references](<block references.md>))
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- I haven't fully [grokked]([grok](<grok.md>)) the idea yet — but I think I definitely use a combination of [references]([block references](<block references.md>))
+
 ## [Roam Fundamentals](<Roam Fundamentals.md>)
 - 5. [Block References]([block references](<block references.md>))
 

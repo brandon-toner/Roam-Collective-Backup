@@ -12,6 +12,10 @@
 - **[Location](<Location.md>):** [Boston](<Boston.md>), [Massachusetts](<Massachusetts.md>) [USA](<USA.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[Location](<Location.md>):** [Brooklyn](<Brooklyn.md>), [New York](<New York.md>), [USA](<USA.md>) - moving to [Boston](<Boston.md>) in the summer
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Location](<Location.md>):** [Madison, WI](<Madison, WI.md>), [Wisconsin](<Wisconsin.md>) [United States](<United States.md>)
     - **[Time Zone](<Time Zone.md>):**

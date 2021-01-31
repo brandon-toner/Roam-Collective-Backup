@@ -16,6 +16,10 @@
 - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
         - **[Twitter](<Twitter.md>):**
 
+## [Larissa de Lima](<Larissa de Lima.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**

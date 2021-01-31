@@ -20,6 +20,7 @@
     - [Winston Teng](<Winston Teng.md>)
     - [Zsolt Viczián](<Zsolt Viczián.md>)
     - [Siva Arunagiri](<Siva Arunagiri.md>)
+    - [Larissa de Lima](<Larissa de Lima.md>)
 - **[Queries](<Queries.md>):**
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

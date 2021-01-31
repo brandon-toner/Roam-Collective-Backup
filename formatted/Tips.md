@@ -14,7 +14,7 @@
     - **[Tips](<Tips.md>):**
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-8. Explore the [Tips](<Tips.md>)
+9. Explore the [Tips](<Tips.md>)
 
 ## [roam/css](<roam/css.md>)
 - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS

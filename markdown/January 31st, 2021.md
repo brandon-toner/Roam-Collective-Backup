@@ -44,11 +44,73 @@
 "#[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. " 
             - **Page:** [[January 27th, 2021]]
 "#[[Fleeting Notes]] The writing context affects the style and structure of expression." 
+        - #Observations
+            - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
+                - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
+                    - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants.
+                        - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
     - #GTD #not_populated
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] 
+        1. Updated the [global variables](((bFUOGEPXz))) for the week/month
     - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Comments #not_populated
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
+            - Related:: 
+                - [[What indicates that a seedling has fully matured into an evergreen note?]]
+                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+        - #Q What is a good page title or tag to collect ideas around note maturation?
+        - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[@[[Charles Farr]]]]
+            - There is too much overlap right now.
+            - Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?
+            - Thoughts:
+                - Need something parallel to fleeting, literature, evergreen.
+                    - fleeting: 
+                        - fully formed questions, designed to be able elicit reflection or discussion. It should be context independent and fully formed.
+                        - Suggestion:: `#[[Open Questions]]`
+                    - literature:
+                        - maybe these could be questions that help to map the outline of a resource — mapping the questions the author is seeking to answer with their writing.
+                        - Outline Questions sorta.
+                        - Suggestion:: `#[[Context Questions]]` → Don't __love__ this name yet
+                    - evergreen
+                        - important questions
+                        - Well formed and context independent.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([[[[E:]] Have a clear aim]]) or purpose.
+                        - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
+                        - They should be elevated to [[page status]], and should be frequently referenced in related discussions.
+                            - #[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
+                                - #[[Fleeting Notes]] Not ALL evergreen notes and zettel questions should be on the [[mental fingertips]] of group members — just the ones that are related to central to active pursuits.
+                                    - Strategies:
+                                        - List on project pages
+                                        - Maintain familiarity through the use of [[spaced repetition]]
+                                        - Elevate select notes to the tag page as a featured selection or partial index. #Bookmarks
+                        - Suggestion:: `#[[Zettel Questions]]`
+    - #Comments 
+        1. #[[Graph Mentorship]]
+            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[[E:]] Evergreen note titles are like APIs]] to apply to fleeting notes. 
+The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
+                - Example:: 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
+                    - Note that each FN conveys a complete idea. 
+        2. #Replies
+            - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
+                - I solve this appearance issue by using [[aliases]]. Does this help? [[@[[leekeifon]]]]
+                - The reason I'm hesitant to change the css related to [[fleeting notes]] is that the tag is a helpful [visual cue]([[visual cues]]) to trigger the the presence of a zettelkasten idea in various contexts.
+            - "Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]"
+                - I haven't fully [grokked]([[grok]]) the idea yet — but I think I definitely use a combination of [references]([[block references]]) and [embeds]([[block embeds]]) when making references. 
+                    - Factors I use to choose:
+                        - Do I want to also display children blocks?
+                        - Do I want easy access to editing the content from the reference destination?
+            - "#[[Fleeting Notes]] Learning [[collaboration]] requires a separate clear shared [[goals]], so the process of learning to collaborate can serve as the meta-goal"
+                - Excellent documentation on this!! 
+                    - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [[resurfacing]].
+                        - Id suggest:
+                            - collaboration
+                            - goals
+                - Related:: [[[[E:]] Have a clear aim]]
+            - "Are smartblocks working?  Wasn't able to action it for my daily page"
+                - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About [[Roam-Collective]]]]. Thanks! 
+        3. "Turn off brackets to streamline the look of page looks a bit"
+            - {{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]]
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
@@ -68,8 +130,8 @@
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
     - #[[Chat]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
-        - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[@[[Brandon Toner]]]]
-        - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[@[[Brandon Toner]]]]
+        - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]
+        - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[^[[Brandon Toner]]]]
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]] #not_populated
@@ -79,4 +141,31 @@
     - #[[The Zettelkasten]] #not_populated
     - #Comments #not_populated
     - #Feedback  #not_populated
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - #[[Fleeting Notes]] Learning [[collaboration]] requires a separate clear shared [[goals]], so the process of learning to collaborate can serve as the meta-goal
+            - Epistemic basis:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
+            - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
+            - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
+            - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
+        - #[[Fleeting Notes]] Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
+            - Epistemic basis:  intuition that needs to be stress-tested
+            - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
+            - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
+            - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
+                - Epistemic basis:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+        - Are smartblocks working?  Wasn't able to action it for my daily page
+        - The "About Roam Collective" page feels hidden - I know it's in the sidebar, but I think it would be quite helpful to have it in the recommended path in the steps to getting started
+            - I was struck that the help provided a lot of instructions but I had to go looking for what the mission and goals of the Roam Collective were.  
+            - In my initial exploration, I stumbled upon the Projects page because I asked myself if there was one.  I would imagine Projects - defining them as a community and deciding which ones to join as an individual - are a foundational step towards building effective collaboration 
+        - Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?
+        - WOW - so cool: when a reference appeared to the block I wrote above, a message also appeared noting there was an unread reference 
+            - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
+    - #Comments
+        - 
+        - 
 - ---

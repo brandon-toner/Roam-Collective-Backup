@@ -4,6 +4,7 @@
 - **[Table of Contents](<../Table of Contents.md>):**
     - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
         - [Collections Tags](((JNVnlLDxv))) 
+        - [Notifications & Mentions](((01X6uO5N8)))
     - [Block Reference Styling](((xcLgPdvs0)))
     - [Nested Links](((y9rumn-yn)))
 - **[Contents](<../Contents.md>):**
@@ -2062,7 +2063,12 @@ span.rm-page-ref[data-tag="Video"]:before {
 
 
 ```
-                - `Alerts, and "Seen"`
+                - Notifications & Mentions:
+                    - **[Example](<../Example.md>):**
+                        - [@[[Their Name](<../@[[Their Name.md>)]]
+                        - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
+                        - [~[[Your Name](<../~[[Your Name.md>)]]
+                        - [^[[Your Name](<../^[[Your Name.md>)]]
                     - ```css
 span[data-link-title^="@"] {
         border: 2px solid [a76800](<../a76800.md>) !important;
@@ -2073,7 +2079,7 @@ span[data-link-title^="@"] {
 
 span[data-link-title^="@"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "🚨unread"
+    content: "🚨unread "
 }
 
 span[data-link-title^="~"] {
@@ -2085,7 +2091,7 @@ span[data-link-title^="~"] {
 
 span[data-link-title^="~"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "✅read"
+    content: "✅read "
 }
 
 span[data-link-title^="^"] {
@@ -2097,10 +2103,10 @@ span[data-link-title^="^"] {
 
 span[data-link-title^="^"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "💾saved"
+    content: "💾saved "
 }
 
-span[data-link-title^="cc"] {
+span[data-link-title^="cc:"] {
         border: 2px solid [2196F3](<../2196F3.md>) !important;
         padding: 3px 6px 3px 7px;
         margin-right: 1px;
@@ -2109,7 +2115,7 @@ span[data-link-title^="cc"] {
 
 span[data-link-title^="cc:"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "📨"
+    content: "📨 "
 }```
             6. `Feedback Tags` 
                 - [Feedback](<../Feedback.md>) 

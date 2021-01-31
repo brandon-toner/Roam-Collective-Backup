@@ -25,3 +25,6 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 - According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [resurfacing](<resurfacing.md>).
+

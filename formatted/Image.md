@@ -14,6 +14,13 @@ Resolve by "[replace as text](<replace as text.md>)"
 - [FYI](<FYI.md>) Adding a day or week tag to created TODOs will help to resurface them in the GTD [Daily Review](<Daily Review.md>) [SmartBlock](((hUyrZQscO))) [Tips](<Tips.md>)
                 - **[Image](<Image.md>):**
 
+## [Quick Start Guide](<Quick Start Guide.md>)
+11. Turn on [Roam42](<Roam42.md>) in [roam/js](<roam/js.md>) to get access to SmartBlocks and other extension features.
+        - **[Image](<Image.md>):**
+
+12. Turn off brackets to streamline the look of page looks a bit
+        - **[Image](<Image.md>):**
+
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>) [Christianity](<Christianity.md>) [mythology](<mythology.md>)
     - **[Image](<Image.md>):**

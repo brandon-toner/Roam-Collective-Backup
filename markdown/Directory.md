@@ -20,6 +20,7 @@
     - [[Winston Teng]]
     - [[Zsolt Viczián]]
     - [[Siva Arunagiri]]
+    - [[Larissa de Lima]]
 - Queries::
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

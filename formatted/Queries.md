@@ -8,7 +8,7 @@
 - **[Queries](<Queries.md>):**
 
 ## [Directory](<Directory.md>)
-- [Siva Arunagiri](<Siva Arunagiri.md>)
+- [Larissa de Lima](<Larissa de Lima.md>)
 - **[Queries](<Queries.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
@@ -17,6 +17,10 @@
 
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - Send me a DM on Twitter (also great)
+- **[Queries](<Queries.md>):**
+
+## [Larissa de Lima](<Larissa de Lima.md>)
+- Started using Roam in Oct 2020.  Very interested in creating a public garden focused on tools/visualizations for understanding the financial system
 - **[Queries](<Queries.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)

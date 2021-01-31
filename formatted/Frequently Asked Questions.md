@@ -25,7 +25,7 @@
 10. Added [Frequently Asked Questions](<Frequently Asked Questions.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-9. Check out the [Frequently Asked Questions](<Frequently Asked Questions.md>)
+10. Check out the [Frequently Asked Questions](<Frequently Asked Questions.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Frequently Asked Questions](<Frequently Asked Questions.md>)

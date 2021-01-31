@@ -74,6 +74,12 @@
                             - **[Related](<Related.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
+            - **[Related](<Related.md>):**
+
+- goals
+                - **[Related](<Related.md>):**
+
 - [Related](<Related.md>)
 
 - [Related](<Related.md>)
