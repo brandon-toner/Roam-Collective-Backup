@@ -1,5 +1,8 @@
 
 # Backlinks
+## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+- ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [tags](<tags.md>) may be added inline at the end of the note or nested underneath to aid in [connection](<connection.md>) and [resurfacing](<resurfacing.md>).
 

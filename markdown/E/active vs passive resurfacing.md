@@ -1,0 +1,16 @@
+- Tags:: #[[Evergreen Notes]]
+    - Date Created:: [[January 29th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Brandon Toner]]
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Notes:: #not_populated
+- Examples of active resurfacing:
+    - Reminders
+    - Placing in the inbox of scheduled reviews
+    - Tagging someone in it
+- Examples of passive resurfacing:
+    - Stumbling upon it
+- Passive resurfacing is best when [notes are densely linked]([[E/Evergreen notes should be densely linked]]).
+- 
+- [[E/active vs passive resurfacing]]

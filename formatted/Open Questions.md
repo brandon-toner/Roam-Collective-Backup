@@ -41,8 +41,6 @@
 
 - #[Open Questions](<Open Questions.md>)
 
-- #[Open Questions](<Open Questions.md>)
-
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Universal tag [conventions](<conventions.md>) from [Robert Haisfield](<Robert Haisfield.md>): `[Ideas](<Ideas.md>), [Plan](<Plan.md>), and #[Open Questions](<Open Questions.md>)`
 
@@ -65,15 +63,13 @@
 
 - #[Open Questions](<Open Questions.md>)
 
-- #[Open Questions](<Open Questions.md>)
-
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- #[Open Questions](<Open Questions.md>)
-
 - #[Open Questions](<Open Questions.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - **[Suggestion](<Suggestion.md>):** `#[Open Questions](<Open Questions.md>)`
+
+- #[Open Questions](<Open Questions.md>)
 
 - #[Open Questions](<Open Questions.md>)
 

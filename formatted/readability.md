@@ -5,3 +5,6 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Asterisk [aliases](<aliases.md>) can be used to [hide](<hide.md>) content from blocks — improving [readability](<readability.md>).
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Not in alignment with native namespacing convention... can't be hidden/collapsed ([readability](<readability.md>))
+

@@ -260,7 +260,6 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[[The Zettelkasten]]
         - "#[[Fleeting Notes]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
             - #[[Fleeting Notes]] Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
-    - #Promptstorming #not_populated
     - #Comments
         - "How important is it to stick to vanilla Roam?"
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.

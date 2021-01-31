@@ -1,0 +1,7 @@
+- Tags:: #[[Evergreen Notes]]
+    - Date Created:: [[January 31st, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Unknown]]
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Notes:: #not_populated

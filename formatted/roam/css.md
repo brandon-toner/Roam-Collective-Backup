@@ -735,7 +735,8 @@ background: linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<
 
 ```
                 - [Evergreen](<../Evergreen.md>)
-                    - ```css
+                    - Tag
+                        - ```css
 span.rm-page-ref[data-tag="Evergreen"]:before {
     content: '🌲 '
 }
@@ -748,6 +749,19 @@ span.rm-page-ref[data-tag="Evergreen"] {
  color: var(--note-tag-color) !important;
  padding: 1px 1px !important;
  font-weight: 700 !important;
+}```
+                    - In Block Reference
+                        - Example: "[Evergreen](<../Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
+                        - ```css
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
+  /*display: none;*/
+  font-size: .1px;
+  line-height: 1.5em;
+}
+
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]:before{
+  font-size: 12px;
+  margin-right: -5px;
 }```
             3. `Areas Tags`
                 - `#[Administration](<../Administration.md>)
@@ -3796,7 +3810,7 @@ a {
                 - 
             - Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
                 - Example
-                    - [[[E:](<../[[E:.md>) active vs passive resurfacing]]
+                    - [E/active vs passive resurfacing](<../E/active vs passive resurfacing.md>)
                 - Code
                     - V3
                         - ```css
@@ -3848,7 +3862,7 @@ a {
 }
 
 /*Namespaces*/
-.rm-page-ref--namespace{
+/*.rm-page-ref--namespace{
     background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
     /*background-position: 0 100%;*/
     padding-bottom: 0px;
@@ -4605,6 +4619,11 @@ a {
 - [ ] Reorganize the [roam/css](<../roam/css.md>)
 
 - [minimal](<../minimal.md>) {{[query](<../query.md>): {and: [Evergreen](<../Evergreen.md>) {not: {or: [E:](<../E:.md>) [roam/css](<../roam/css.md>)}
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+
+- [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
 ## [Members](<Members.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)

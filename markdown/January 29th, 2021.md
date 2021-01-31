@@ -18,7 +18,7 @@
     - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [[fleeting notes]] can be used to build an [[argument]] or [[claim]]. [[cc:[[leekeifon]]]], [[cc:[[Charles Farr]]]], [[cc:[[Mark Robertson]]]]
     - "[[Stian Håklev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
 - #Chat ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
-    1. I decided to consider [this idea]([[[[E:]] active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+    1. I decided to consider [this idea]([[E/active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
 Thoughts? - [[Brandon Toner]]
     2. [[@[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources"
@@ -31,49 +31,49 @@ Thoughts? - [[Brandon Toner]]
     - #Bookmarks
         - Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)
             - Index::
-                - [[[[E:]] Create speculative outlines while you write]]
-                - [[[[E:]] Evergreen notes should be concept-oriented]]
-                - [[[[E:]] Evergreen note titles are like APIs]]
-                - [[[[E:]] Prefer note titles with complete phrases to sharpen claims]]
-                - [[[[E:]] Evergreen notes should be atomic]]
-                - [[[[E:]] Evergreen note-writing helps insight accumulate]]
-                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
-                - [[[[E:]] Spaced repetition systems can be used to program attention]]
+                - [[E/Create speculative outlines while you write]]
+                - [[E/Evergreen notes should be concept-oriented]]
+                - [[E/Evergreen note titles are like APIs]]
+                - [[E/Prefer note titles with complete phrases to sharpen claims]]
+                - [[E/Evergreen notes should be atomic]]
+                - [[E/Evergreen note-writing helps insight accumulate]]
+                - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[E/Spaced repetition systems can be used to program attention]]
             - #Highlights #Annotations
-                - [[[[E:]] Prefer note titles with complete phrases to sharpen claims]]
+                - [[E/Prefer note titles with complete phrases to sharpen claims]]
                     - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."
-                - [[[[E:]] Spaced repetition systems can be used to program attention]]
+                - [[E/Spaced repetition systems can be used to program attention]]
                     - "the efficacy of a [Spaced repetition memory system](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC) comes from its power to __program your attention__ ([Programmable attention](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)). Think: “{cron} for your mind.”" [*](((ftWEArd7X))) #cron #attention 
                     - "But the core __concept__—automatically arranging and presenting tasks according to some expanding schedule—can be instantiated in many interfaces and domains. I call this notion [Spaced everything](https://notes.andymatuschak.org/z59aJSjgqr4B1k1ofoE7ZBF2dv8MeJ1Drf4TQ)." #[[spaced everything]]
                         - {{[[embed]]: ((CqFG6U8J4))}}
-                - [[[[E:]] Evergreen note-writing helps insight accumulate]]
+                - [[E/Evergreen note-writing helps insight accumulate]]
                     - "We should do our serious thinking in the form of [Evergreen notes]([[evergreen notes]]) so that the thinking accumulates." [*](((J8wx4unAe))) 
                     - "And if you can’t write even one atomic note on the idea you have, [Spaced repetition may be a helpful tool to incrementally develop inklings](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)." #[[spaced repetition]]
-                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
                     - "I’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I don’t have anything useful to say about the notion yet—it just seems awfully interesting." #inklings
                     - "I can capture the notion in [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz), but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([Inboxes only work if you trust how they’re drained](https://notes.andymatuschak.org/z5tiFxnNKMZCnc8G9R1N51L5hknyRGmyCQx18))."
                         - Is this a [[zettelkasten]]
                     - "Once I’ve done that, I can mark the prompt as “fruitful,” meaning it’ll come up again relatively soon, or “unfruitful,” in which case the system will increase its interval substantially."
                         - Interesting labeling of [[spaced repetition]] tags.
             - #[[Literature Notes]]
-                - [[[[E:]] Spaced repetition systems can be used to program attention]]
+                - [[E/Spaced repetition systems can be used to program attention]]
                     - "Manually making decisions about which cards to review would be far too taxing on a per-card basis. The transaction cost is too high. When that work is mostly outsourced, you can make a coarser decision—to devote your attention to SRS practice for 10 minutes—and then let your attention be directed by the machine within that block." [*](((50JLdu-lw)))
                         - [Automation]([[automation]]) helps to lower the [[attention]] [[transaction cost]] of operating [[systems]].
-                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
                     - {{[[embed]]: ((2x4gDdZBw))}}
                         - [[Andy Matuschak]]'s system of [[spaced repetition]] #Routines #Processes
-                - [[[[E:]] Create speculative outlines while you write]]
+                - [[E/Create speculative outlines while you write]]
                     - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
                         - Related:: [[Start from abundance]]
-                - [[[[E:]] Evergreen notes should be concept-oriented]]
+                - [[E/Evergreen notes should be concept-oriented]]
                     - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
                         - In Roam, both can be accomplished by tagging with [[attributes]]
                     - "Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously? [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)" [*](((9r0a4tGiM)))
                         - #[[Fleeting Notes]]  A [[zettelkasten]] empowers a conversation between [[atomic ideas]]. By facilitating proximity and a means of flagging [[tensions]].
-                - [[[[E:]] Evergreen note titles are like APIs]]
+                - [[E/Evergreen note titles are like APIs]]
                     - "When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle" [*](((w2AwpCjU6))) #Bookmarks
                         - This is an important point, and should be a central convention for page naming of [[evergreen notes]] #Conventions
-                - [[[[E:]] Evergreen notes should be atomic]]
+                - [[E/Evergreen notes should be atomic]]
                     - "This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)"
                         - #[[Fleeting Notes]] [Atomic ideas]([[atomic ideas]]) are easier to connect than complex [[narratives]]. #articles
             - #[[The Zettelkasten]]
@@ -162,13 +162,13 @@ This addresses the problem of “missing things”. If ideas are documented in z
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten
             - Agreement Rating:: {{[[slider]]}}
-                - "I decided to consider [this idea]([[[[E:]] active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+                - "I decided to consider [this idea]([[E/active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
 Thoughts? - [[Brandon Toner]]"
             - I'm not sure I agree with this, but I sort of do. 
         - #[[Fleeting Notes]] [collaborative zettelkastens]([[collaborative zettelkasten]]) reach [[critical mass]] faster than [personal zettelkastens]([[personal zettelkasten]]) #zettelkasten
         - #[[Fleeting Notes]] when an [evergreen note]([[evergreen notes]]) is first created, a [[spaced repetition]] action could be set-up to facilitate the future-maturation of the note. 
-            - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+            - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
 
         - #Opportunities [[Ship 30 for 30]] as a [[collaborative zettelkasten]]
             - #[[Fleeting Notes]] A [screenshot essay]([[screenshot essays]]) is essentially an [evergreen note]([[evergreen notes]]).
@@ -205,7 +205,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - Yea, agreed. As far as "following" goes, I'd like to keep it simple for now, and encourage others to envision how this might look logistically. 
             - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [[passive]] or "[[just-in-time]]" [[resurfacing]] 
         - #how-should-I-tag-this #Tensions
-            - [[[[E:]] active vs passive resurfacing]]
+            - [[E/active vs passive resurfacing]]
                 - Is this an [evergreen note]([[evergreen notes]])? Maybe. It's more a chapter title.
                     - Less of an [assertion]([[assertions]]), but it is a concept that I refer to periodically. 
                     - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
@@ -226,10 +226,10 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.
             - I agree with "Again, organic development is probably best here, and remain flexible. " [*](((H0r4ht151)))
         - "You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]]."
-            - Yup, I agree. I think the drilling down could be conducted on the [[[[E:]] active vs passive resurfacing]] page itself. With more elaboration, and reference to some specific claims. [[~[[leekeifon]]]]
+            - Yup, I agree. I think the drilling down could be conducted on the [[E/active vs passive resurfacing]] page itself. With more elaboration, and reference to some specific claims. [[~[[leekeifon]]]]
             - Drawing some justification from this part of [[Andy's Notes]]:
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
-                - I would consider [[[[E:]] active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
+                - I would consider [[E/active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
         - [[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. 
             - How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]].
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?
@@ -309,7 +309,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
         - Also [this one](((j50xmn4aN))).  cc [[^[[Brandon Toner]]]]
         - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [[^[[Brandon Toner]]]]
         - Is [this idea](((UDqsAeKJg))) already in your feature list? [[@[[Matthew Vogel]]]]
-        - "I decided to consider [this idea]([[[[E:]] active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
+        - "I decided to consider [this idea]([[E/active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
 Thoughts? - [[Brandon Toner]]"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]].
@@ -360,15 +360,10 @@ Thoughts? - [[Brandon Toner]]"
             - cause and effect
             - significance and implications
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #[[Change Log]] #not_populated
-    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #[[[[Feedback]]: [[Suggestions]]]]
         - [[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Comments
         - "Definitely open to re-evaluating this over time. "
             - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[~[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. 

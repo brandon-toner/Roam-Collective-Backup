@@ -1,1 +1,5 @@
-- Tags:: #Collections #[[DNP Section]]
+- Tags:: #Collections #[[DNP Section]] #[[DNP Modules]]
+- This is a module that can be used to nest randomization commands. A bit of a serendipity center. 
+- This is certainly an optional convention. 
+    - Related:: [[E/optional, but beneficial]]
+- I use this convention as a way to organize my DNP Section a little further. It gives me something to nest under and collapse. Later, I can the results of my randomization work over time by exploring the linked reference on this page, filtering by my name.

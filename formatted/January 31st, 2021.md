@@ -5,9 +5,18 @@
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "What is your favourite convention within [Roam-Collective](<Roam-Collective.md>)?"
     - "__Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))! ((Don't forget to nest your responses under the Promptstorming tag))"
-- #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
-- [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-- #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
+- #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
+    - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
+- [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
+    - "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
+- #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) 
+    - Welcoming [Larissa de Lima](<Larissa de Lima.md>) to the graph! Lots of great ideas already 😃
+- #[Bug Reports](<Bug Reports.md>)
+    - "Roam wasn't built in a day" error message when adjusting [User Settings](<User Settings.md>)
+        - **[Image](<Image.md>):**
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FQ3ppIvHxx0.png?alt=media&token=43324633-38a4-41d7-914b-17b4bd149fb6)
+    - The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>) do not collapse.
 - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock))  
     - **[Daily Review](<Daily Review.md>):**
         - **Scheduled for Today:**
@@ -36,30 +45,66 @@
             - For [SmartBlocks](<SmartBlocks.md>) that **do not contain any commands**, launch using the native Roam template engine for faster performance `;;`
             - Use `CTRL+Hover` to preview a page or a block reference using [Roam42](<Roam42.md>) [Live Preview](<Live Preview.md>)
                 - This is helpful when using something like the [random fleeting notes](((9j2PVNMXj))) SmartBlock to be able to quickly view for who authored the note (it'll show in the [breadcrumbs](<breadcrumbs.md>)).
-        - #[Writing & Reflection](<Writing & Reflection.md>)
-            - __Reminder: Please delete any block references where you did not add any annotations to prevent "empty references"__
-            - **Page:** [January 29th, 2021](<January 29th, 2021.md>)
-"#[Fleeting Notes](<Fleeting Notes.md>) A [screenshot essay]([screenshot essays](<screenshot essays.md>)) is essentially an [evergreen note]([evergreen notes](<evergreen notes.md>))." 
-            - **Page:** [January 27th, 2021](<January 27th, 2021.md>)
-"#[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). " 
-            - **Page:** [January 27th, 2021](<January 27th, 2021.md>)
-"#[Fleeting Notes](<Fleeting Notes.md>) The writing context affects the style and structure of expression." 
         - [Observations](<Observations.md>)
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
                 - #[Fleeting Notes](<Fleeting Notes.md>) the blank [DNP](<DNP.md>) and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
                     - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants.
                         - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+        - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
+            - **[Options](<Options.md>):** 
+                - A - `[E:](<E:.md>)`
+                    - **[Pros](<Pros.md>):** 
+                        - Able to be included as a query element.
+                            - "[Q](<Q.md>) Is this important?"
+                    - **[Cons](<Cons.md>):** 
+                        - Not in alignment with native namespacing convention... can't be hidden/collapsed ([readability](<readability.md>))
+                - B - `E/`
+                    - **[Pros](<Pros.md>):**
+                        - Native convention — "Alignment with native [namespacing](<namespacing.md>) conventions"
+                            - I reallllllly like that it turns green 🌲
+                    - **[Cons](<Cons.md>):**
+                        - Not able — "Ability to be included as a query element"
+                            - [Q](<Q.md>) Is this important?
+                        - "The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>) do not collapse."
+                            - This leads to inconsistent visual presentation... 
+                                - **[#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)
+            - **[Status](<Status.md>):** `[E:](<E:.md>)` (at the time of creation)
+                - ^^Updated to E/^^
+            - **[Decision](<Decision.md>):** "B - `E/`"
+            - **[Factors](<Factors.md>):**
+                - Ability to be included as a query element
+                - Alignment with native [namespacing](<namespacing.md>) conventions
+                    - Allows the name to be visually streamlined [readability](<readability.md>)
+            - **[Notes](<Notes.md>):**
+                - Benefits of including a namespace:
+                    - Easy recall via the [auto-populate](<auto-populate.md>) menu. 
+                        - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
+            - **[[Ideas](<Ideas.md>) It might be helpful to include a `Factors](<[Ideas](<Ideas.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
+                - **[Rationale](<Rationale.md>):** Often the pros of one are the cons to another. There are repeated parts.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
+        - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
+            - Is there a way to reorder sibling blocks by various parameters:
+                - Date created
+                - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
+        2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
+        3. Added namespace of `E/` in front of Evergreen notes [*](((u8etVKAtE)))
+        4. Added a [random evergreen note](((Qyxu5azax))) smartblock
+            - Contacted [Roamhacker](<Roamhacker.md>) to see if the block reference generated could be omitted, leaving only the page. [Waiting](<Waiting.md>) #[Development Requests](<Development Requests.md>)
+                - Here's my workflow in the meantime.
+                    - **[GIF](<GIF.md>):**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[Dice Roll](<Dice Roll.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):** 
                 - [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
-                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
         - [Q](<Q.md>) What is a good page title or tag to collect ideas around note maturation?
-        - [Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [@[[Charles Farr](<@[[Charles Farr.md>)]]
+        - [Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - There is too much overlap right now.
             - Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?
             - Thoughts:
@@ -74,7 +119,7 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([[[E:](<[[E:.md>) Have a clear aim]]) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([E/Have a clear aim](<E/Have a clear aim.md>)) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [page status](<page status.md>), and should be frequently referenced in related discussions.
                             - #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>).
@@ -84,9 +129,25 @@
                                         - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)
                                         - Elevate select notes to the tag page as a featured selection or partial index. [Bookmarks](<Bookmarks.md>)
                         - **[Suggestion](<Suggestion.md>):** `#[Zettel Questions](<Zettel Questions.md>)`
+        - [Q](<Q.md>) What is the role of the Q questions tag?
+            - Inline questions, even less threshold than [open questions](<open questions.md>). [Conventions](<Conventions.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+    - [Questions](<Questions.md>)
+        - [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? 
+            - e.g. alias to external site vs to page or block reference
+        - [Q](<Q.md>) Since BLOCKMENTIONS doesn't have the capability to randomly generate results, what is the best way to create [randomization](<randomization.md>) systems?
+            -  
+    - [Chat](<Chat.md>)
+        - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
+            - Interested in your thoughts on the use of the Choice Algorithm
+            - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
+                - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
+    - [Bookmarks](<Bookmarks.md>)
+        - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
+        - 
     - [Comments](<Comments.md>) 
         1. #[Graph Mentorship](<Graph Mentorship.md>)
-            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[E:](<[[E:.md>) Evergreen note titles are like APIs]] to apply to fleeting notes. 
+            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - **[Example](<Example.md>):** 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -100,17 +161,43 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Factors I use to choose:
                         - Do I want to also display children blocks?
                         - Do I want easy access to editing the content from the reference destination?
-            - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires a separate clear shared [goals](<goals.md>), so the process of learning to collaborate can serve as the meta-goal"
+            - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal"
                 - Excellent documentation on this!! 
                     - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [resurfacing](<resurfacing.md>).
                         - Id suggest:
                             - collaboration
                             - goals
-                - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Have a clear aim]]
-            - "Are smartblocks working?  Wasn't able to action it for my daily page"
+                - **[Related](<Related.md>):** [E/Have a clear aim](<E/Have a clear aim.md>)
+            - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About [[Roam-Collective](<About [[Roam-Collective.md>)]]. Thanks! 
+            - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
+                - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
+                - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
+            - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                - **[I saw this and love the idea! I've used `Rationale](<I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [E/optional, but beneficial](<E/optional, but beneficial.md>) step. 
+            - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
+                - I'd place this within a Daily Log module instead. 
+                - Change Log is best for changes to the graph and its conventions
+                - Perfect! [*](((JZ5RfJLcK)))
+                - "Better to place it under one's daily notes or within the daily log up above?  "
+                    - Within your [DNP Section](<DNP Section.md>) is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [sleep on it](<sleep on it.md>).
         3. "Turn off brackets to streamline the look of page looks a bit"
             - [ ] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+        4. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
+            - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [questions](<questions.md>) throughout the graph.
+        5. "Allows for seamless inline referencing of Evergreen notes"
+            - What determines whether you'd reference the page or the block?
+            - My gut seems to lean towards referencing the page inline...
+                - I generally prefer the [linked references](<linked references.md>) and [filtering](<filtering.md>) associated with [pages](<pages.md>) over [blocks](<blocks.md>).
+        6. "Added CSS to eliminate the `[Evergreen](<Evergreen.md>)` from block references, leaving only the icon"
+            - This does look nice! 
+                - Some reasons for hesitation:
+                    - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [disambiguation](<disambiguation.md>).
+                        - Especially Evergreen vs Evergreen Notes
+        7. 
+    - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+        - Make [namespaces](<namespaces.md>) a query-able element 
+            - **[Related](<Related.md>):** "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
@@ -144,33 +231,104 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
-        - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires a separate clear shared [goals](<goals.md>), so the process of learning to collaborate can serve as the meta-goal
-            - Epistemic basis:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
-            - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
-            - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
-            - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
-        - #[Fleeting Notes](<Fleeting Notes.md>) Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
-            - Epistemic basis:  intuition that needs to be stress-tested
-            - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
-            - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
-            - #[Fleeting Notes](<Fleeting Notes.md>) Effective teaming requires clear norms and expectations
-                - Epistemic basis:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
+        - #[[[project management](<[[project management.md>) in Roam]] #[[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]
+            - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal
+                - Epistemic status:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
+                - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
+                - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
+                - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
+            - #[Fleeting Notes](<Fleeting Notes.md>) Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
+                - Epistemic status:  intuition that needs to be stress-tested
+                - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
+                - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
+                - #[Fleeting Notes](<Fleeting Notes.md>) Effective teaming requires clear norms and expectations
+                    - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
-        - Are smartblocks working?  Wasn't able to action it for my daily page
+        - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
         - The "About Roam Collective" page feels hidden - I know it's in the sidebar, but I think it would be quite helpful to have it in the recommended path in the steps to getting started
             - I was struck that the help provided a lot of instructions but I had to go looking for what the mission and goals of the Roam Collective were.  
             - In my initial exploration, I stumbled upon the Projects page because I asked myself if there was one.  I would imagine Projects - defining them as a community and deciding which ones to join as an individual - are a foundational step towards building effective collaboration 
         - Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?
         - WOW - so cool: when a reference appeared to the block I wrote above, a message also appeared noting there was an unread reference 
             - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
+                - Seems like all my unread references are showing up, regardless if its a thread I was reading.  Will see how this looks next time I log in
+        - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
     - [Comments](<Comments.md>)
-        - 
-        - 
+        - [Replies](<Replies.md>)
+            - "Excellent documentation on this!! "
+                - Added the recommended tags!!
+            - **["I saw this and love the idea! I've used `Rationale](<"I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [E/optional, but beneficial](<E/optional, but beneficial.md>) step. "
+                - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
+            - "I'd place this within a Daily Log module instead. "
+                - Better to place it under one's daily notes or within the daily log up above?  
+                    - Was looking for a polite way to "log off" :) not sure there is a convention for that 
+                    - For the specific goal of knowing who is "online" and to facilitate in-roam conversations (such as the one we are having), it could suffice to have a tag to signal that (e.g., "live now" or some other convention).  Then it doesn't have to be up top on the daily note 
+    - #[Daily Log](<Daily Log.md>)
+        - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - [Comments](<Comments.md>)
+        - "Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))"
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I like the AOT but disagree with the choice!
+                - My stance remains that there are a ton of benefits to having an identifier in the actual page title
+                - See my [comments yesterday](((dg-k5f3s6))) for some more thoughts on Evergreen notes
+        - "[Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - My preference is to limit it to a parent-level tag and then a block level tag
+                - This would look like
+                    - `[Questions](<Questions.md>)`
+                        - `[Q](<Q.md>)` Why is it important to limit the number of tags used in a graph?
+                - Benefits
+                    - Limits the cognitive burden associated with tagging correctly
+                    - Easily extensible
+                        - Add an additional tag to add queryable context
+                            - [Questions](<Questions.md>)
+                                - [Conventions](<Conventions.md>)
+                                    - [Q](<Q.md>) Why is it important to limit the number of tags used in a graph?
+                                - [zettelkasten](<zettelkasten.md>)
+                                    - [Q](<Q.md>) How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)
+                - Downsides
+                    - Context is implicit, not explicit
+            - #[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags
+                - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
+                    - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
+    - #[Change Log](<Change Log.md>)
+        - Added CSS to eliminate the `[Evergreen](<Evergreen.md>)` from block references, leaving only the icon
+            - See CSS here: "In Block Reference"
+            - Example: "[Evergreen](<Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
+            - Allows for seamless inline referencing of Evergreen notes
 - ---
 
 # Backlinks
+## [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/barrier to entry](<E/barrier to entry.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [E/optional, but beneficial](<E/optional, but beneficial.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 31st, 2021](<January 31st, 2021.md>)
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- [January 31st, 2021](<January 31st, 2021.md>)
 

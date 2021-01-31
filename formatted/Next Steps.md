@@ -9,9 +9,6 @@
 
 - #[Next Steps](<Next Steps.md>)
 
-## [January 28th, 2021](<January 28th, 2021.md>)
-- #[Next Steps](<Next Steps.md>)
-
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>)
 

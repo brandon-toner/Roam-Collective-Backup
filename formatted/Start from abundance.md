@@ -8,6 +8,9 @@
     - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
 
 # Backlinks
+## [E/cycles of divergence and convergence](<E/cycles of divergence and convergence.md>)
+- [Start from abundance](<Start from abundance.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [Start from abundance](<Start from abundance.md>)
 
@@ -24,7 +27,4 @@
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - First, [Start from abundance](<Start from abundance.md>).
-
-## [[E:](<[E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>)](<[E:](<E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>).md>)
-- [Start from abundance](<Start from abundance.md>)
 

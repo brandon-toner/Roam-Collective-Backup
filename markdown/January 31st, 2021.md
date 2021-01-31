@@ -5,9 +5,18 @@
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "What is your favourite convention within [[Roam-Collective]]?"
     - "__Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))"
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
-- #Chat ((A place to propose objects of discussion)) #not_populated
-- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
+    - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
+- #Chat ((A place to propose objects of discussion)) 
+    - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
+- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) 
+    - Welcoming [[Larissa de Lima]] to the graph! Lots of great ideas already 😃
+- #[[Bug Reports]]
+    - "Roam wasn't built in a day" error message when adjusting [[User Settings]]
+        - Image::
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FQ3ppIvHxx0.png?alt=media&token=43324633-38a4-41d7-914b-17b4bd149fb6)
+    - The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse.
 - #GTD ((Run the "Daily Review" smartblock))  
     - Daily Review::
         - **Scheduled for Today:**
@@ -36,30 +45,66 @@
             - For [[SmartBlocks]] that **do not contain any commands**, launch using the native Roam template engine for faster performance `;;`
             - Use `CTRL+Hover` to preview a page or a block reference using [[Roam42]] [[Live Preview]]
                 - This is helpful when using something like the [random fleeting notes](((9j2PVNMXj))) SmartBlock to be able to quickly view for who authored the note (it'll show in the [[breadcrumbs]]).
-        - #[[Writing & Reflection]]
-            - __Reminder: Please delete any block references where you did not add any annotations to prevent "empty references"__
-            - **Page:** [[January 29th, 2021]]
-"#[[Fleeting Notes]] A [screenshot essay]([[screenshot essays]]) is essentially an [evergreen note]([[evergreen notes]])." 
-            - **Page:** [[January 27th, 2021]]
-"#[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. " 
-            - **Page:** [[January 27th, 2021]]
-"#[[Fleeting Notes]] The writing context affects the style and structure of expression." 
         - #Observations
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
                 - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
                     - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants.
                         - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+        - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
+            - Options:: 
+                - A - `[[E:]]`
+                    - Pros:: 
+                        - Able to be included as a query element.
+                            - "#Q Is this important?"
+                    - Cons:: 
+                        - Not in alignment with native namespacing convention... can't be hidden/collapsed ([[readability]])
+                - B - `E/`
+                    - Pros::
+                        - Native convention — "Alignment with native [[namespacing]] conventions"
+                            - I reallllllly like that it turns green 🌲
+                    - Cons::
+                        - Not able — "Ability to be included as a query element"
+                            - #Q Is this important?
+                        - "The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse."
+                            - This leads to inconsistent visual presentation... 
+                                - #[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
+            - Status:: `[[E:]]` (at the time of creation)
+                - ^^Updated to E/^^
+            - Decision:: "B - `E/`"
+            - Factors::
+                - Ability to be included as a query element
+                - Alignment with native [[namespacing]] conventions
+                    - Allows the name to be visually streamlined #readability
+            - Notes::
+                - Benefits of including a namespace:
+                    - Easy recall via the [[auto-populate]] menu. 
+                        - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
+            - #Ideas It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
+                - Rationale:: Often the pros of one are the cons to another. There are repeated parts.
+            - #[[Fleeting Notes]] [[E/Use the native convention as much as possible.]]
+        - #[[Development Requests]] #[[Help Wanted]]
+            - Is there a way to reorder sibling blocks by various parameters:
+                - Date created
+                - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
     - #GTD #not_populated
     - #[[Change Log]] 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
+        2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
+        3. Added namespace of `E/` in front of Evergreen notes [*](((u8etVKAtE)))
+        4. Added a [random evergreen note](((Qyxu5azax))) smartblock
+            - Contacted [[Roamhacker]] to see if the block reference generated could be omitted, leaving only the page. #Waiting #[[Development Requests]]
+                - Here's my workflow in the meantime.
+                    - GIF::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
     - #Promptstorming #not_populated
+    - #[[Dice Roll]] #not_populated
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
             - Related:: 
                 - [[What indicates that a seedling has fully matured into an evergreen note?]]
-                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
         - #Q What is a good page title or tag to collect ideas around note maturation?
-        - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[@[[Charles Farr]]]]
+        - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]
             - There is too much overlap right now.
             - Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?
             - Thoughts:
@@ -74,7 +119,7 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([[[[E:]] Have a clear aim]]) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([[E/Have a clear aim]]) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [[page status]], and should be frequently referenced in related discussions.
                             - #[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
@@ -84,9 +129,25 @@
                                         - Maintain familiarity through the use of [[spaced repetition]]
                                         - Elevate select notes to the tag page as a featured selection or partial index. #Bookmarks
                         - Suggestion:: `#[[Zettel Questions]]`
+        - #Q What is the role of the Q questions tag?
+            - Inline questions, even less threshold than [[open questions]]. #Conventions
+        - #[[Fleeting Notes]] [[E/Make evergreen notes as you write.]]
+    - #Questions
+        - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
+            - e.g. alias to external site vs to page or block reference
+        - #Q Since BLOCKMENTIONS doesn't have the capability to randomly generate results, what is the best way to create [[randomization]] systems?
+            -  
+    - #Chat
+        - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
+            - Interested in your thoughts on the use of the Choice Algorithm
+            - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
+                - Similar convention for within [[About [[Roam-Collective]]]]
+    - #Bookmarks
+        - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
+        - 
     - #Comments 
         1. #[[Graph Mentorship]]
-            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[[E:]] Evergreen note titles are like APIs]] to apply to fleeting notes. 
+            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[E/Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - Example:: 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -100,17 +161,43 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Factors I use to choose:
                         - Do I want to also display children blocks?
                         - Do I want easy access to editing the content from the reference destination?
-            - "#[[Fleeting Notes]] Learning [[collaboration]] requires a separate clear shared [[goals]], so the process of learning to collaborate can serve as the meta-goal"
+            - "#[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal"
                 - Excellent documentation on this!! 
                     - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [[resurfacing]].
                         - Id suggest:
                             - collaboration
                             - goals
-                - Related:: [[[[E:]] Have a clear aim]]
-            - "Are smartblocks working?  Wasn't able to action it for my daily page"
+                - Related:: [[E/Have a clear aim]]
+            - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About [[Roam-Collective]]]]. Thanks! 
+            - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
+                - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
+                - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
+            - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[E/optional, but beneficial]] step. 
+            - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
+                - I'd place this within a Daily Log module instead. 
+                - Change Log is best for changes to the graph and its conventions
+                - Perfect! [*](((JZ5RfJLcK)))
+                - "Better to place it under one's daily notes or within the daily log up above?  "
+                    - Within your [[DNP Section]] is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [[sleep on it]].
         3. "Turn off brackets to streamline the look of page looks a bit"
             - {{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]]
+        4. "#[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags" #Bookmarks
+            - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [[questions]] throughout the graph.
+        5. "Allows for seamless inline referencing of Evergreen notes"
+            - What determines whether you'd reference the page or the block?
+            - My gut seems to lean towards referencing the page inline...
+                - I generally prefer the [[linked references]] and [[filtering]] associated with [[pages]] over [[blocks]].
+        6. "Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon"
+            - This does look nice! 
+                - Some reasons for hesitation:
+                    - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]].
+                        - Especially Evergreen vs Evergreen Notes
+        7. 
+    - #[[Roam Enhancement Requests]]
+        - Make [[namespaces]] a query-able element 
+            - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
@@ -144,28 +231,75 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
-        - #[[Fleeting Notes]] Learning [[collaboration]] requires a separate clear shared [[goals]], so the process of learning to collaborate can serve as the meta-goal
-            - Epistemic basis:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
-            - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
-            - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
-            - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
-        - #[[Fleeting Notes]] Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
-            - Epistemic basis:  intuition that needs to be stress-tested
-            - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
-            - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
-            - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
-                - Epistemic basis:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
+        - #[[[[project management]] in Roam]] #[[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]
+            - #[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal
+                - Epistemic status:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
+                - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
+                - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
+                - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
+            - #[[Fleeting Notes]] Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
+                - Epistemic status:  intuition that needs to be stress-tested
+                - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
+                - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
+                - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
+                    - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
-        - Are smartblocks working?  Wasn't able to action it for my daily page
+        - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
         - The "About Roam Collective" page feels hidden - I know it's in the sidebar, but I think it would be quite helpful to have it in the recommended path in the steps to getting started
             - I was struck that the help provided a lot of instructions but I had to go looking for what the mission and goals of the Roam Collective were.  
             - In my initial exploration, I stumbled upon the Projects page because I asked myself if there was one.  I would imagine Projects - defining them as a community and deciding which ones to join as an individual - are a foundational step towards building effective collaboration 
         - Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?
         - WOW - so cool: when a reference appeared to the block I wrote above, a message also appeared noting there was an unread reference 
             - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
+                - Seems like all my unread references are showing up, regardless if its a thread I was reading.  Will see how this looks next time I log in
+        - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
     - #Comments
-        - 
-        - 
+        - #Replies
+            - "Excellent documentation on this!! "
+                - Added the recommended tags!!
+            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[E/optional, but beneficial]] step. "
+                - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
+            - "I'd place this within a Daily Log module instead. "
+                - Better to place it under one's daily notes or within the daily log up above?  
+                    - Was looking for a polite way to "log off" :) not sure there is a convention for that 
+                    - For the specific goal of knowing who is "online" and to facilitate in-roam conversations (such as the one we are having), it could suffice to have a tag to signal that (e.g., "live now" or some other convention).  Then it doesn't have to be up top on the daily note 
+    - #[[Daily Log]]
+        - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Comments
+        - "Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))"
+            - [[@[[Brandon Toner]]]] I like the AOT but disagree with the choice!
+                - My stance remains that there are a ton of benefits to having an identifier in the actual page title
+                - See my [comments yesterday](((dg-k5f3s6))) for some more thoughts on Evergreen notes
+        - "#Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]"
+            - My preference is to limit it to a parent-level tag and then a block level tag
+                - This would look like
+                    - `#Questions`
+                        - `#Q` Why is it important to limit the number of tags used in a graph?
+                - Benefits
+                    - Limits the cognitive burden associated with tagging correctly
+                    - Easily extensible
+                        - Add an additional tag to add queryable context
+                            - #Questions
+                                - #Conventions
+                                    - #Q Why is it important to limit the number of tags used in a graph?
+                                - #zettelkasten
+                                    - #Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)
+                - Downsides
+                    - Context is implicit, not explicit
+            - #[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags
+                - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
+                    - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
+    - #[[Change Log]]
+        - Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon
+            - See CSS here: "In Block Reference"
+            - Example: "#Evergreen Prefer note titles with complete phrases to sharpen claims"
+            - Allows for seamless inline referencing of Evergreen notes
 - ---

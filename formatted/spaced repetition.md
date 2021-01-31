@@ -1,8 +1,14 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**
-    - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]] ([Andy's Notes](<Andy's Notes.md>))
+    - [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>) ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
+## [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+
+## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)
 
@@ -25,12 +31,6 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)
-
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
-
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
 
 ## [spaced everything](<spaced everything.md>)
 - **[Related](<Related.md>):** #[spaced repetition](<spaced repetition.md>)

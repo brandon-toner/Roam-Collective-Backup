@@ -252,7 +252,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                     - Need to do some further investigation into all the ideas brought but by [David Bieber](<David Bieber.md>) [here](((1NzXjSWfB)))
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) 
         - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - #[Daily Log](<Daily Log.md>)
     - 11:49 - Discussion about chat conventions 
     - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
@@ -268,7 +267,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
-    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
         - And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
@@ -295,11 +293,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
 # Backlinks
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>)
-
-## [January 31st, 2021](<January 31st, 2021.md>)
-- **Page:** [January 27th, 2021](<January 27th, 2021.md>)
-
-- **Page:** [January 27th, 2021](<January 27th, 2021.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)

@@ -14,6 +14,10 @@ Resolve by "[replace as text](<replace as text.md>)"
 - [FYI](<FYI.md>) Adding a day or week tag to created TODOs will help to resurface them in the GTD [Daily Review](<Daily Review.md>) [SmartBlock](((hUyrZQscO))) [Tips](<Tips.md>)
                 - **[Image](<Image.md>):**
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- "Roam wasn't built in a day" error message when adjusting [User Settings](<User Settings.md>)
+        - **[Image](<Image.md>):**
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 11. Turn on [Roam42](<Roam42.md>) in [roam/js](<roam/js.md>) to get access to SmartBlocks and other extension features.
         - **[Image](<Image.md>):**

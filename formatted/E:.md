@@ -7,3 +7,8 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Evergreen](<Evergreen.md>) {not: {or: [E:](<E:.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- A - `[E:](<E:.md>)`
+
+- **[Status](<Status.md>):** `[E:](<E:.md>)`
+

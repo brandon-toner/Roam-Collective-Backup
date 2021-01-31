@@ -113,8 +113,7 @@
                                     - Click the number to see the references — hover to dismiss.
                                     - This would be great in either a list or a grid.
                         - 
-    - #Administration #not_populated
-        - #[[Change Log]] #not_populated
+    - #Administration 
         - #GTD
             - {{[[DONE]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]] #[[Week-04: 01-25-2021]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
@@ -177,7 +176,6 @@ Resolve by "[[replace as text]]"
         - "Oh interesting our CSS looks different for block references. I wonder if css is person specific? But I also didn't change anything in roam/css"
             - "22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} 
-    - #Scratchpad #not_populated
     - #Chat
         - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
             - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
@@ -292,7 +290,7 @@ Resolve by "[[replace as text]]""
     - #Bookmarks
         - "[[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?"
             - Fascinated by the idea of Personas!
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]] 
         - Connected briefly with [[Brandon Toner]] & [[Akiff Premjee]] today on Clubhouse, discussed...
             - Orienting output in the graph around [[sprints]]
                 - See: "Group #Sprints as a [convention]([[Conventions]])"
@@ -339,13 +337,6 @@ Resolve by "[[replace as text]]""
             - Output defined as a polished (or semi-polish product)
             - My thinking is that while work on a project can be done within the daily notes, there is a bigger role for pages
             - Is there are best approach to take here, or should it be handled on a case-by-case basis?
-    - #Administration #not_populated
-        - #[[Change Log]] #not_populated
-        - #[[Next Steps]] #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Promptstorming #not_populated
-    - #Comments #not_populated
-    - #Feedback  #not_populated
     - #Chat
         - [[@[[Kyle Stratis]]]] related to your comment [here](((bIl7_WLyg))), [[Brandon Toner]] and I were discussing the possibility of setting up an urbit environment for Roam Collective → see "Building an [[Urbit]] community for Roam Collective, with the potential to build an integration..."
             - I tweeted about [[Urbit]] & Roam the other day and they invited us to apply for a grant for hosting — plan is to hopefully get that done this week.

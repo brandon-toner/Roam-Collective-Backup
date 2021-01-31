@@ -52,6 +52,8 @@
 
 - [Q](<Q.md>) Does [Roam-Collective](<Roam-Collective.md>)
 
+- As we evaluate what the correct approach for the [zettelkasten](<zettelkasten.md>) in [Roam-Collective](<Roam-Collective.md>)
+
 - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

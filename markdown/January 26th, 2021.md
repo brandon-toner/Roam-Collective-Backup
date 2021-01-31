@@ -77,7 +77,6 @@
         - Extracting highlights, and literature notes from any of the `#Resources`. Using the [Resources Template](((gix1P4auD)))
         - Sharing your [[feedback]]! 
         - Reflecting on any of the Prompts — check out the [[Daily Writing Prompts]], and follow your nose to whatever catches your inspiration.
-    - #[[The Zettelkasten]] #not_populated
     - #Promptstorming
         - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
             - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.
@@ -116,7 +115,6 @@
                         - I like this term. It's nice. 
             - "potential [[artifacts]] for Roam Games"
                 - Great 
-    - #Feedback  #not_populated
 - #[[My Daily Notes]][[Eneko Uruñuela]] {{word-count}}
     - Still reading the docs. I hope I get to play around and be helpful.
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}

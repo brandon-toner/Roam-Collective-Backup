@@ -9,6 +9,12 @@
 ## [Announcements](<Announcements.md>)
 - Check out the #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -132,7 +138,7 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-1. I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+1. I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -152,7 +158,7 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+- "I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -190,7 +196,7 @@
 
 - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>)
 
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+- "I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -228,11 +234,11 @@
 4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-"#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
-"#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
-"#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -251,6 +257,8 @@
 - "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
+
+4. "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -276,8 +284,7 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Fleeting Notes](<Fleeting Notes.md>)

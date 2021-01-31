@@ -30,6 +30,8 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
+- #[Daily Log](<Daily Log.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 7. Use the [Daily Log](<Daily Log.md>)
 

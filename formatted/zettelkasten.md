@@ -97,3 +97,5 @@
 
 - **[Related](<Related.md>):** [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
 
+- As we evaluate what the correct approach for the [zettelkasten](<zettelkasten.md>)
+

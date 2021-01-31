@@ -1,3 +1,3 @@
 - Tags:: #Glossary #Techniques #Concepts
 - References::
-    - [[[[E:]] Spaced repetition systems can be used to program attention]] ([[Andy's Notes]])
+    - [[E/Spaced repetition systems can be used to program attention]] ([[Andy's Notes]])

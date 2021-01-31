@@ -77,7 +77,6 @@
         - Extracting highlights, and literature notes from any of the `[Resources](<Resources.md>)`. Using the [Resources Template](((gix1P4auD)))
         - Sharing your [feedback](<feedback.md>)! 
         - Reflecting on any of the Prompts — check out the [Daily Writing Prompts](<Daily Writing Prompts.md>), and follow your nose to whatever catches your inspiration.
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>)
         - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
             - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.
@@ -116,7 +115,6 @@
                         - I like this term. It's nice. 
             - "potential [artifacts](<artifacts.md>) for Roam Games"
                 - Great 
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - #[My Daily Notes](<My Daily Notes.md>)[Eneko Uruñuela](<Eneko Uruñuela.md>) {{word-count}}
     - Still reading the docs. I hope I get to play around and be helpful.
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}

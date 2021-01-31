@@ -1,0 +1,11 @@
+- Tags:: #[[Evergreen Notes]] #Seedlings #[[inspired action]] #[[knowledge graphs]], #writing, #[[flow state]]
+    - Date Created:: [[January 30th, 2021]] 
+    - Created by:: [[Brandon Toner]]
+    - Author::  [[Brandon Toner]]
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Notes:: 
+        - Within a knowledge graph, there are a lot of paths that could be taken to populate content and "fill out" the graph. To keep it fun and engaging, and to optimize [[productivity]], populate the graph [[opportunistically]]. Take the path you are most [[inspired]] to take.
+        - The exception to this is the population of essential structure and time-sensitive projects. Prioritize what needs to be done first, and apply this principle within those constraints. 
+        - Clear targets, [[objectives]], direction, and [[goals]] help to keep the direction of graph development in alignment with the community [[purpose]].
+            - Related:: [[E/Have a clear aim]]

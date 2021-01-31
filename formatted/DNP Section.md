@@ -50,6 +50,9 @@
 
 - Added the [convention]([Conventions](<Conventions.md>)) of placing a horizontal line between each [DNP Section](<DNP Section.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Within your [DNP Section](<DNP Section.md>)
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 

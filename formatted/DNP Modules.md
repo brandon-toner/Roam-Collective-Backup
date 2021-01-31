@@ -39,6 +39,9 @@
 ## [DNP Modules](<DNP Modules.md>)
 - Description of the [DNP Modules](<DNP Modules.md>)
 
+## [Dice Roll](<Dice Roll.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) #[DNP Modules](<DNP Modules.md>)
+
 ## [GTD](<GTD.md>)
 - **[Tags](<Tags.md>):** #[DNP Modules](<DNP Modules.md>)
 

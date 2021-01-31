@@ -15,7 +15,6 @@
     - Proposed [process](((X8fzypdUg))) for conducting conversation that develops the zettelkasten through time
     - #[Bug Reports](<Bug Reports.md>) — Some [aliases not appearing in queries](((WUv5rMu8g))) or linked references. No current hypothesis. [^[[leekeifon](<^[[leekeifon.md>)]]
     - #[Bug Reports](<Bug Reports.md>) — Difficulty clearing some unread block references
-- [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) 
 - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
 - **[Daily Review](<Daily Review.md>):**
@@ -31,17 +30,10 @@
 {{[embed](<embed.md>): ((R2NWXEQ7L))}}
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>) {{word-count}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) 
-        - [[[E:](<[[E:.md>) Evergreen notes should be densely linked]]
+        - [E/Evergreen notes should be densely linked](<E/Evergreen notes should be densely linked.md>)
         - [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>) format.
             - [Q](<Q.md>) How could the [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) be optimized for taking [annotations](<annotations.md>)? [note-taking](<note-taking.md>)
                 - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
@@ -293,7 +285,7 @@
                         2.  Users **continue the conversation** of these notes by [referencing]([block referencing](<block referencing.md>)) them in discussion, and formulating new [fleeting notes](<fleeting notes.md>) in response to them.
                             - This may be an opportunity to use principles of [logic](<logic.md>) and [rhetoric](<rhetoric.md>), but these conventions would be [optional](<optional.md>).
                         3. Repeat [ad infinitum](<ad infinitum.md>) until ideas have been exhausted and writing becomes less [fruitful](<fruitful.md>). 
-                        4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>) could be facilitated by [active or passive resurfacing]([[[E:](<[[E:.md>) active vs passive resurfacing]]).
+                        4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>) could be facilitated by [active or passive resurfacing]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)).
                         5. As ideas become heavily referenced, or feel "[evergreen](<evergreen.md>)" in nature — a page should be created and an [evergreen note]([evergreen notes](<evergreen notes.md>)) formed.
                             - **[Related](<Related.md>):** [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>) notes]] [Seedlings](<Seedlings.md>)
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)) — a `[Seedlings](<Seedlings.md>)` tag should be assigned.
@@ -303,7 +295,7 @@
                         - [ ] Create literature notes from [How to write good prompts](<How to write good prompts.md>). #[Help Wanted](<Help Wanted.md>)
                             - [x] Create a smartblock for the [Daily Review](<Daily Review.md>) that pulls TODO + Help Wanted. [January 30th, 2021](<January 30th, 2021.md>) 
             - "Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks."
-                - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [[[E:](<[[E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>)]].
+                - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [E/cycles of divergence and convergence](<E/cycles of divergence and convergence.md>).
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
                     - First, [Start from abundance](<Start from abundance.md>).
@@ -313,7 +305,7 @@
                 - hahaha, precisely what I'm currently doing. [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([opportunistically](<opportunistically.md>)) populating these as I interact with the graph.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) [knowledge graphs](<knowledge graphs.md>) should be populated [opportunistically](<opportunistically.md>) to optimize for [flow state](<flow state.md>) [writing](<writing.md>).]]
+                    - #[Fleeting Notes](<Fleeting Notes.md>) [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
             - "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>) via prompts."
                 - YES! I was about to develop a Smartblock actually that would generate a RANDOMBLOCKMENTION of `[Seedlings](<Seedlings.md>)`. 
                     - Created [here](((tE6jhytOC)))
@@ -427,10 +419,12 @@
                             - "Outline notes (see [Create speculative outlines while you write](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)) like [§Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)"
                             - "For more, see [Taxonomy of note types](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)"
                         - "I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense. Related: [Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)"
-                - 
+                - [January 31st, 2021](<January 31st, 2021.md>)
+                    - Following up here — this approach works for me because I am trying to leverage my notes for output.
+                        - I want to be able to easily pull up the content of a note in-line to tie into something I am writing
+                    - As we evaluate what the correct approach for the [zettelkasten](<zettelkasten.md>) in [Roam-Collective](<Roam-Collective.md>) is, it will be critical to settle on our goals
     - [Chat](<Chat.md>)
         1. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>)
         - Added "SmartBlock & Roam Template Conventions"
             - Updated all of the current SmartBlock names...
@@ -438,9 +432,6 @@
             - Sets all headings equal to `14px` font size
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>)
         - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
             Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks.
@@ -492,6 +483,18 @@ reply to [this](((R8sUuPhbz))).
 ## [Announcements](<Announcements.md>)
 - [Announcements](<Announcements.md>) **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>))
 
+## [E/Evergreen notes should be densely linked](<E/Evergreen notes should be densely linked.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
+## [E/Have a clear aim](<E/Have a clear aim.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
+## [E/cycles of divergence and convergence](<E/cycles of divergence and convergence.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
+## [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 **Page:** [January 30th, 2021](<January 30th, 2021.md>)
 
@@ -510,16 +513,4 @@ reply to [this](((R8sUuPhbz))).
 
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - ### Highlights added [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) [knowledge graphs](<knowledge graphs.md>) should be populated [opportunistically](<opportunistically.md>) to optimize for [flow state](<flow state.md>) [writing](<writing.md>).](<[E:](<E:.md>) [knowledge graphs](<knowledge graphs.md>) should be populated [opportunistically](<opportunistically.md>) to optimize for [flow state](<flow state.md>) [writing](<writing.md>)..md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>)](<[E:](<E:.md>) cycles of [divergence](<divergence.md>) and [convergence](<convergence.md>).md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
 

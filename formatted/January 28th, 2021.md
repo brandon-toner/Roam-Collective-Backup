@@ -113,8 +113,7 @@
                                     - Click the number to see the references — hover to dismiss.
                                     - This would be great in either a list or a grid.
                         - 
-    - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
-        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Administration](<Administration.md>) 
         - [GTD](<GTD.md>)
             - [x] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>) #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
                 - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
@@ -177,7 +176,6 @@ Resolve by "[replace as text](<replace as text.md>)"
         - "Oh interesting our CSS looks different for block references. I wonder if css is person specific? But I also didn't change anything in roam/css"
             - "22:11 — #[Bug Reports](<Bug Reports.md>) more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} 
-    - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
     - [Chat](<Chat.md>)
         - "[@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)""
             - Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>) or would that happen at the [creative projects](<creative projects.md>) phase?
@@ -292,7 +290,7 @@ Resolve by "[replace as text](<replace as text.md>)""
     - [Bookmarks](<Bookmarks.md>)
         - "[~[[leekeifon](<~[[leekeifon.md>)]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?"
             - Fascinated by the idea of Personas!
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
         - Connected briefly with [Brandon Toner](<Brandon Toner.md>) & [Akiff Premjee](<Akiff Premjee.md>) today on Clubhouse, discussed...
             - Orienting output in the graph around [sprints](<sprints.md>)
                 - See: "Group [Sprints](<Sprints.md>) as a [convention]([Conventions](<Conventions.md>))"
@@ -339,13 +337,6 @@ Resolve by "[replace as text](<replace as text.md>)""
             - Output defined as a polished (or semi-polish product)
             - My thinking is that while work on a project can be done within the daily notes, there is a bigger role for pages
             - Is there are best approach to take here, or should it be handled on a case-by-case basis?
-    - [Administration](<Administration.md>) [not_populated](<not_populated.md>)
-        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-        - #[Next Steps](<Next Steps.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Chat](<Chat.md>)
         - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] related to your comment [here](((bIl7_WLyg))), [Brandon Toner](<Brandon Toner.md>) and I were discussing the possibility of setting up an urbit environment for Roam Collective → see "Building an [Urbit](<Urbit.md>) community for Roam Collective, with the potential to build an integration..."
             - I tweeted about [Urbit](<Urbit.md>) & Roam the other day and they invited us to apply for a grant for hosting — plan is to hopefully get that done this week.

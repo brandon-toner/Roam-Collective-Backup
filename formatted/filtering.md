@@ -15,3 +15,6 @@
 
 - Currently the page and reference [filtering](<filtering.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- I generally prefer the [linked references](<linked references.md>) and [filtering](<filtering.md>)
+
