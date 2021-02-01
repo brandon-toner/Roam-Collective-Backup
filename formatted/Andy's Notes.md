@@ -28,7 +28,7 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
 
 ## [Evergreen Notes](<Evergreen Notes.md>)
-- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
+- **[Related](<Related.md>):** [Evergreen Notes](<Evergreen Notes.md>)
 - **[Andy's Notes](<Andy's Notes.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)

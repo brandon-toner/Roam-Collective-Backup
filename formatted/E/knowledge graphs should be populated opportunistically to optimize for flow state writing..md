@@ -4,7 +4,7 @@
     - **[Author](<../Author.md>):**  [Brandon Toner](<../Brandon Toner.md>)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** 
+    - **[Contents](<../Contents.md>):** 
         - Within a knowledge graph, there are a lot of paths that could be taken to populate content and "fill out" the graph. To keep it fun and engaging, and to optimize [productivity](<../productivity.md>), populate the graph [opportunistically](<../opportunistically.md>). Take the path you are most [inspired](<../inspired.md>) to take.
         - The exception to this is the population of essential structure and time-sensitive projects. Prioritize what needs to be done first, and apply this principle within those constraints. 
         - Clear targets, [objectives](<../objectives.md>), direction, and [goals](<../goals.md>) help to keep the direction of graph development in alignment with the community [purpose](<../purpose.md>).

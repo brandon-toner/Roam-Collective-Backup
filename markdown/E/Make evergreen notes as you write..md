@@ -4,7 +4,7 @@
     - Author:: [[Brandon Toner]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: 
+    - Contents::
         - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([[E/Evergreen notes persist across time]]) due to their enhanced [[resurfacing]] power.
         - If an idea feels *almost* durable, it should be documented as a [fleeting note]([[fleeting notes]]), as these are (should) be periodically reviewed for formation of new [[evergreen notes]].
         - Related:: [[E/Documenting ideas in zettelkasten format promotes referencing in related contexts]]

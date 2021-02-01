@@ -6,7 +6,7 @@
     - **[Related](<../Related.md>):**  ((Not a reference, but a related idea, block or page))
         - [E/Evergreen note titles are like APIs](<../E/Evergreen note titles are like APIs.md>)
         - [E/Evergreen note-writing helps insight accumulate](<../E/Evergreen note-writing helps insight accumulate.md>)
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>) 
 
 # Backlinks
 ## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)

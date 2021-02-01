@@ -5,9 +5,9 @@
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):**  ((Not a reference, but a related idea, block or page))
         - [E/"Hacked" solutions are likely to break over time.](<../E/"Hacked" solutions are likely to break over time..md>)
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
-- #[Fleeting Notes](<../Fleeting Notes.md>) Use features as the are intended to be used.
-    - **[Rationale](<../Rationale.md>):** As the product develops, it is likely that enhancements will be in relation to established conventions.
+    - **[Contents](<../Contents.md>):**
+        - #[Fleeting Notes](<../Fleeting Notes.md>) Use features as the are intended to be used.
+            - **[Rationale](<../Rationale.md>):** As the product develops, it is likely that enhancements will be in relation to established conventions.
 
 # Backlinks
 ## [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)

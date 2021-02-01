@@ -9,6 +9,9 @@
 ## [DWP](<DWP.md>)
 - [Abbreviations](<Abbreviations.md>) — short for [Daily Writing Prompts](<Daily Writing Prompts.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>)
 

@@ -1,0 +1,15 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
+    - Choose what ever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
+    - Suggestion::
+        - Reflection on any of the [[How To]] pages [[Charles Farr]] has developed.
+            - Add the page title to your scratchpad, and brainstorm~
+                - Extend the outlines
+                - Reference an aspect of the outline and brainstorm the components of that section
+                - Whatever feels right.
+- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+- #Chat ((A place to propose objects of discussion)) #not_populated
+- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+- #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- ---

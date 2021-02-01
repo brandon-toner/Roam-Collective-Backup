@@ -1,0 +1,10 @@
+- #Evergreen Evergreen Note example 1 ((this line would match the title))
+    - In the immediate space below the [[E/Evergreen note titles are like APIs]] title, you provide the context — easily accessible if needed
+    - Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[[E:]]` header tag
+- ---
+- Date Created:: [[January 31st, 2021]]
+- Created by:: #not_populated
+- Author:: #not_populated
+- References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+- Related:: #not_populated ((Not a reference, but a related idea, block or page))
+- Contents:: #not_populated

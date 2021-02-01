@@ -4,7 +4,7 @@
     - Author:: [[Brandon Toner]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: #not_populated
+    - Contents:: #not_populated
 - When designing conventions within a shared Roam graph, some conventions are essential while others are "optional, but beneficial"
 - This type of convention is important, because the optionality reduces the [[E/barrier to entry]] for new users and empowers a [[E/low floor, high ceiling]] approach.
 - Choosing not to use these sorts of conventions will not result in any meaningful disorder. Though as more users adopt and use them, it results in more [[fruitful]] [[linked references]].

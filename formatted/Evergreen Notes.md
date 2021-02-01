@@ -1,5 +1,9 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
+- **[Related](<Related.md>):** [Evergreen Notes](<Evergreen Notes.md>)
 - **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
+- **[Conventions](<Conventions.md>):**
+    - **["#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<"#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)"
+    - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))"
 
 # Backlinks
 ## [Brandon Toner](<Brandon Toner.md>)
@@ -64,6 +68,9 @@
 
 ## [E/optional, but beneficial](<E/optional, but beneficial.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
+## [Evergreen Notes](<Evergreen Notes.md>)
+- **[Related](<Related.md>):** [Evergreen Notes](<Evergreen Notes.md>)
 
 ## [Start from abundance](<Start from abundance.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)

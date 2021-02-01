@@ -1,0 +1,10 @@
+- [Evergreen](<Evergreen.md>) Evergreen Note example 1 ((this line would match the title))
+    - In the immediate space below the [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) title, you provide the context — easily accessible if needed
+    - Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)` header tag
+- ---
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+- **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)

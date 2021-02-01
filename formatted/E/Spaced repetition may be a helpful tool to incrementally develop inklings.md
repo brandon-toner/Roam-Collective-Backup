@@ -5,7 +5,7 @@
     - URL: [link](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>)
 - I’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I don’t have anything useful to say about the notion yet—it just seems awfully interesting.
 - What action should I take now? How can I arrange to develop that inkling over time? I could create a “to-do” or block out time to think about this question, but that’s often not what’s called for. Instead, often what I need is marination: let’s come back in a few days, see what bubbles up.
 - I can capture the notion in [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz), but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([Inboxes only work if you trust how they’re drained](https://notes.andymatuschak.org/z5tiFxnNKMZCnc8G9R1N51L5hknyRGmyCQx18)).

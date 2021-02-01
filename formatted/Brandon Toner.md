@@ -33,7 +33,7 @@
             - URL: [not_populated](<not_populated.md>)
             - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
             - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
+            - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - BToner — My TODOs [42SmartBlock](<42SmartBlock.md>)
         - **Ways you can help:**
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
@@ -248,6 +248,8 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)

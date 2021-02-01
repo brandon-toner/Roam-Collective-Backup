@@ -4,7 +4,7 @@
     - Author:: [[Andy Matuschak]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: #not_populated
+    - Contents:: #not_populated
 - If we push ourselves to add lots of links between our notes, that makes us think expansively about what other concepts might be related to what we’re thinking about. It creates pressure to think carefully about how ideas relate to each other (see [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs) and [Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). It’ll also help you internalize the ideas more deeply through [Elaborative encoding](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB).
 - Finding the right links requires reading old notes, so it’s also an organic mechanism for intermittently reviewing the notes we’ve written ([Evergreen note maintenance approximates spaced repetition](https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7)). This may lead to surprising discoveries ([Notes should surprise you](https://notes.andymatuschak.org/z4KZ9973AoHhvM9Pj5Qrds48JXNbMEwVJmVRw)).
 - And by recording the connections, we document how we came to our conclusions, which may be useful to us (or our colleagues) later. As much as is possible, we should [Prefer fine-grained associations](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB). By contrast, [Tags are an ineffective association structure](https://notes.andymatuschak.org/z3MzhvmesiD2htMaEFQJif7gJgyaHAQvKH49Z).

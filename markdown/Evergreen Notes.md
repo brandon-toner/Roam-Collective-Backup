@@ -1,2 +1,6 @@
 - Tags:: #Glossary
+- Related:: [[Evergreen Notes]]
 - Andy's Notes:: https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
+- Conventions::
+    - "#[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions"
+    - "Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])"

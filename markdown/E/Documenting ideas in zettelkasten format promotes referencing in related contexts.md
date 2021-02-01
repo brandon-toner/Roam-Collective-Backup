@@ -6,4 +6,4 @@
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[E/Evergreen note titles are like APIs]]
         - [[E/Evergreen note-writing helps insight accumulate]]
-    - Notes:: #not_populated
+    - Contents:: #not_populated 

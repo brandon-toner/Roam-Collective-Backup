@@ -8,6 +8,6 @@
     - Related:: ((Not a reference, but a related idea, block or page))
         - [[Start from abundance]]
             - the purpose of the [[divergence]] phase is to generate [[abundance]].
-    - Notes::
+    - Contents::
         - A process of expansion and contraction.
         - Gathering data, then distilling.

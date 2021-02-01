@@ -4,6 +4,6 @@
 
 # Backlinks
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
+- Making it so that you have to first visit the page before clicking through to a subpage.
     - **[Decisions](<Decisions.md>):**
 

@@ -5,7 +5,7 @@
     - URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW&stackedNotes=z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)
     - References:: #not_populated ((Supporting fleeting notes or literature notes would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: #not_populated
+    - Contents:: #not_populated
 - It’s best to create notes which are only about one thing—but which, as much as possible, capture the entirety of that thing.
 - This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)
 - There’s no clear litmus test or correct answer here—just a bunch of tradeoffs.

@@ -10,6 +10,9 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - **[Example](<Example.md>):** conclusions based on [Experiments](<Experiments.md>)
 
+## [January 31st, 2021](<January 31st, 2021.md>)
+- So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
+
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Experiments](<Experiments.md>)
 

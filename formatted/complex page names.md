@@ -10,5 +10,7 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>)
 
+- Be mindful of click points when clicking a [complex page]([complex page names](<complex page names.md>))
+
 - "The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>)
 

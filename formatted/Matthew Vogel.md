@@ -13,6 +13,21 @@
                 - {{[query](<query.md>): {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>) {not: [query](<query.md>)}}}}
             - Misc useful [datalog](<datalog.md>) [queries](<queries.md>)
                 - {{[embed](<embed.md>): ((((6zu7U0y7r))))}}
+                - "Possible to generate a report of "pages authored by graph members""
+                    - ```javascript
+:q [:find ?n 
+    :where 
+    	[?note :node/title ?n]
+		[?bb :block/page ?note] 
+		[?bb :block/refs ?p]
+		[?bb :block/refs ?c]
+		[?c :node/title "Author"]
+		[?b :block/page ?p]
+		[?b :block/refs ?t]
+		[?b :block/refs ?tag]
+		[?t :node/title "Members"]
+		[?tag :node/title "Tags"]]
+```
             - My Notes
                 - {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [My Daily Notes](<My Daily Notes.md>) {not:{or: [@](<@.md>) [~](<~.md>) }}}}}
             - People near me!
@@ -40,6 +55,9 @@
 - A Roaman ([e.g.](<e.g..md>) [Matthew Vogel](<Matthew Vogel.md>))
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [Matthew Vogel](<Matthew Vogel.md>)

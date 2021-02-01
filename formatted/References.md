@@ -95,6 +95,10 @@
 - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
 
+## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+- **[References](<References.md>):**
+
 ## [spaced repetition](<spaced repetition.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**

@@ -5,7 +5,7 @@
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
         - [[Jordan Peterson]] — recurring theme in his body of works.
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: 
+    - Contents:: 
         - Our [[value structures]] determine our aims.
         - Your aim becomes a [[filter]] on through which you see the world.
             - Elements of experience become either tools, barriers, or irrelevant in relation to your aim.

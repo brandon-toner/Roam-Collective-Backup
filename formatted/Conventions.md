@@ -4,6 +4,12 @@
 ## [Conventions](<Conventions.md>)
 - Discussion ABOUT conventions. Use this when discussion conventions. Use `[Conventions](<Conventions.md>)`
 
+## [Evergreen Notes](<Evergreen Notes.md>)
+- **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
+- **[Conventions](<Conventions.md>):**
+
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 5. Added [Conventions](<Conventions.md>)
 
@@ -27,6 +33,10 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
+
+- Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>))
+
+- "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>))
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
 4. Review the [conventions]([Conventions](<Conventions.md>))

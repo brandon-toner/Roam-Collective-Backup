@@ -21,7 +21,7 @@
     1. I decided to consider [this idea]([[E/active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
 Thoughts? - [[Brandon Toner]]
-    2. [[@[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources"
+    2. [[^[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources"
 - #[[Daily Log]]
     - 11:19 — Glitchy CSS/data loss again. #[[Bug Reports]]
         - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
@@ -181,7 +181,7 @@ Thoughts? - [[Brandon Toner]]"
         - #[[Fleeting Notes]] [[conventions]] are best shared as page links. Each convention is an [[atomic]] unit. 
         - #[[Fleeting Notes]] A [[collaborative zettelkasten]] can be an effective tool to use in the pursuit of shared [[truth]]
     - #Chat
-        - [[@[[Charles Farr]]]] Check [this](((3u0iEUdbd))) out.
+        - [[~[[Charles Farr]]]] Check [this](((3u0iEUdbd))) out.
 
 I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)

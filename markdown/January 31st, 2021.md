@@ -46,6 +46,8 @@
             - For [[SmartBlocks]] that **do not contain any commands**, launch using the native Roam template engine for faster performance `;;`
             - Use `CTRL+Hover` to preview a page or a block reference using [[Roam42]] [[Live Preview]]
                 - This is helpful when using something like the [random fleeting notes](((9j2PVNMXj))) SmartBlock to be able to quickly view for who authored the note (it'll show in the [[breadcrumbs]]).
+            - Be mindful of click points when clicking a [complex page]([[complex page names]]) link. To visit the page, click on a part that DOES NOT have a subpage. 
+                - Active [CSS for nested pages](((y9rumn-yn))) helps to determine what part of the page is selected.
         - #Observations
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
                 - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
@@ -55,7 +57,7 @@
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
                 - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
-        - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten #Bookmarks
+        - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])
             - Related::
                 - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
@@ -106,7 +108,7 @@
                         - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
                         - "My preference is to limit it to a parent-level tag and then a block level tag"
                 - #Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?
-            - Process::
+            - Process:: [*]([[Processes]])
                 - Document ideas freely as [[fleeting notes]]
                 - [[literature notes]] or [[verbatim notes]] are representations of the author's ideas.
                     - OK to be verbatim — these should be quick & easy! 
@@ -119,23 +121,57 @@
                     - Populate date created, created by and author right away.
                         - If author is unknown, use the [[Unknown]] tag.
                             - #Q is there advantage to this vs leaving as `#not_populated`?
+        - Thoughts on [[questions]] [conventions]([[Conventions]]) #zettelkasten [*]([[Bookmarks]])
+            - Related::
+                - Lots nested here: [How should we disambiguate between the various types of question tags?](((l2vvUxzlS)))
+                - "Questions as a first-class citizen of the [[zettelkasten]]."
+                - "#Q What happens if we organize our zettelkastens around questions."
+                - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
+                - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
+                - "#Q What is the role of the Q questions tag?"
+            - Objectives::
+                - Simple
+                - Effective
+                - Clear
+                - Able to handle simple, "off the cuff" questions, and anchoring research questions.
+            - Thoughts::
+                - Love [Charle's]([[Charles Farr]]) ideas here: "My preference is to limit it to a parent-level tag and then a block level tag" and [here](((IX96gb5b6)))
+                    - Questions as one of the [[DNP Modules]] and a [[collections]] tag.
+                    - `#Q` at the block level to flag individual questions.
+                    - As a question [matures]([[maturation]]), it should be transformed into a page. There should be a [Questions template](((HBqwZEBCv))) with `Tags:: #Questions` included. 
+                    - A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [[important questions]] or [[zettel questions]].
+            - Process::
+                - "`#Q` at the block level to flag individual questions."
+                - "As a question [matures]([[maturation]]), it should be transformed into a page. There should be a [Questions template](((HBqwZEBCv))) with `Tags:: #Questions` included. "
+                - "A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [[important questions]] or [[zettel questions]]."
         - Notes from [[[[Roam Book Club]] III]]
             - [[[[RBC]] Live Session 1: (Jan 31)]]
-                - Questions underneath the books
-                - Organize graphs around questions
-                    - #Q What happens if we organize our zettelkastens around questions.
-                - Traditional: Centered around knowledge. What is known. Assertions.
-                - Questions as a first-class citizen of the [[zettelkasten]].
+                - #[[Books/The Culture Code]]
+                    - Questions underneath the books
+                    - Organize graphs around questions
+                        - #Q What happens if we organize our zettelkastens around questions.
+                    - Traditional: Centered around knowledge. What is known. Assertions.
+                    - Questions as a first-class citizen of the [[zettelkasten]].
+                    - #Observations
+                        - Conventions I like: 
+                            - "log line" convention
+                            - `Conversation` as a DNP Module as opposed to Chat + Comments.
+                                - Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?
+        - #[[Development Requests]] 
+            - #Q Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?
+                - Making it so that you have to first visit the page before clicking through to a subpage.
     - Decisions::
         - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
             - Options:: 
-                - A - `[[E:]]`
+                - Option A - `[[E:]]`
+                    - Example::
+                        - [[[[E:]] Evergreen Note example 1]]
                     - Pros:: 
                         - Able to be included as a query element.
                             - "#Q Is this important?"
                     - Cons:: 
                         - Not in alignment with native namespacing convention... can't be hidden/collapsed ([[readability]])
-                - B - `E/`
+                - Option B - `E/`
                     - Pros::
                         - Native convention — "Alignment with native [[namespacing]] conventions"
                             - I reallllllly like that it turns green 🌲
@@ -145,9 +181,9 @@
                         - "The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse."
                             - This leads to inconsistent visual presentation... 
                                 - #[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
-            - Status:: `[[E:]]` (at the time of creation)
-                - ^^Updated to E/^^
-            - Decision:: "B - `E/`"
+            - Status:: ^^Updated to E/^^ 
+                - `[[E:]]` (at the time of creation)
+            - Decision:: "Option B - `E/`"
             - Factors::
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
@@ -178,6 +214,12 @@
                 - Here's my workflow in the meantime.
                     - GIF::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
+        5. Changed `Notes::` to `Contents::` in the [evergreen notes template](((DhNyAu1Td)))
+        6. Added a [questions template](((HBqwZEBCv))) & proposed process for managing questions
+            - "Thoughts on [[questions]] [conventions]([[Conventions]]) #zettelkasten [*]([[Bookmarks]])"
+        7. Added ["in tension with"](((Lc_lSNDeP))) template.
+            - "#Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)"
+        8. Deleted a bunch of empty references from the DNP Sections based on the not_populated tag (from the past week)
     - #Promptstorming #not_populated
     - #[[Dice Roll]] #not_populated
     - #[[The Zettelkasten]] 
@@ -216,10 +258,11 @@
         - #[[Fleeting Notes]] [[E/Make evergreen notes as you write.]]
         - #[[Fleeting Notes]] clear [[conventions]] for [[collaboration]] are a [[pre-requisite]] for effective [[project management]].
     - #Questions
+        - #Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)
         - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
             - e.g. alias to external site vs to page or block reference
         - #Q Since BLOCKMENTIONS doesn't have the capability to randomly generate results, what is the best way to create [[randomization]] systems?
-            -  
+        - #Q How could we keep track of updates to ensure that documentation scattered around the graph stays [[up-to-date]]? [*]([[Processes]])
     - #Chat
         - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
             - Interested in your thoughts on the use of the Choice Algorithm
@@ -237,7 +280,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Note that each FN conveys a complete idea. 
         2. #Replies
             - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
-                - I solve this appearance issue by using [[aliases]]. Does this help? [[@[[leekeifon]]]]
+                - I solve this appearance issue by using [[aliases]]. Does this help? [[~[[leekeifon]]]]
                 - The reason I'm hesitant to change the css related to [[fleeting notes]] is that the tag is a helpful [visual cue]([[visual cues]]) to trigger the the presence of a zettelkasten idea in various contexts.
             - "Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]"
                 - I haven't fully [grokked]([[grok]]) the idea yet — but I think I definitely use a combination of [references]([[block references]]) and [embeds]([[block embeds]]) when making references. 
@@ -279,6 +322,15 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                         - Especially Evergreen vs Evergreen Notes
         7. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s"
             - Excellent. This is on my mind as well. 
+            - "[[[[How To]] Seed Your Graph]]"
+        8. "[[~[[Brandon Toner]]]] I actually proposed this to Matt haha"
+            - HA! I had a feeling. Excellent. Will do tomorrow likely. 
+                - {{[[TODO]]}} Change convention from Comments to Conversation (in alignment with [[[[Roam Book Club]] III]]) [[February 1st, 2021]] [[Brandon Toner]]
+        9. "Yup " — "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
+            - You are THE MAN! [[~[[Matthew Vogel]]]]
+        10. "[[~[[Brandon Toner]]]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[[datalog]]!"
+            - All the credit goes to [[Dharam]] and [[David Vargas]]! 
+            - But yes, cool as hell. Lots of potential with datalog. 
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
             - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -299,10 +351,19 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Example:: {{[[embed]]: ((zFyFH7Z_m))}}
         - "#[[Fleeting Notes]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[Fleeting Notes]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
+        - #[[Fleeting Notes]] composable [[visual cues]]
+        - #[[Fleeting Notes]] visual feedback as rewards
     - #[[Chat]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[^[[Brandon Toner]]]]
+        - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [[aliases]] serve the job to hide these messy situation. Or in other words, our [[visual cues]] are not able to mix/compose together within a block. [[@[[Brandon Toner]]]]
+            - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[[Experiments]]
+                - Example:: When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [[aliases]].
+            - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]"
+        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[Fleeting Notes]] visual feedback as rewards". [[@[[Brandon Toner]]]]
+            - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [[patterns]] we tend to use in block ((AXYZ model from Joel Chan is one example)).
+            - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]".
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]] #not_populated
@@ -385,8 +446,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Compounds
             - Selecting the right approach
                 - __this would be a quiz people could work through with recommendations on seeds to use__
-        - [[How To]] Support Project Management
-            - 
+        - [[[[How To]] Implement Project Management]]
             - Key Components
                 - Tasks
                 - Projects
@@ -396,7 +456,11 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Creating Tasks
                 - Tracking Tasks
                 - Delegating Tasks
-                - 
+                - Prioritizing Tasks
+                - Providing Status Updates
+            - Conventions
+        - [[[[How To]] Seed Your Graph]]
+            - Copy over the conventions, FAQs, and CSS relevant to your graph!
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
@@ -424,12 +488,63 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - #[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
+        - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]]."
+            - [[@[[Brandon Toner]]]] makes complete sense — I think we can consolidate it down to be a bit more manageable
+                - If I were to build an updated format, this is what it might look like...
+                    - [[[[E:]] Evergreen Note example 1]]
+        - "Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?"
+            - [[~[[Brandon Toner]]]] I actually proposed this to Matt haha
+                - But yeah I agree — any type of communication, either with reference to a block or not would easily be captured by the `#Converation` block...
+        - "[[~[[Charles Farr]]]] Check [this](((3u0iEUdbd))) out.
+
+I'm thinking we could adjust the buttons more specifically for out needs.
+- TODO (this sprint)
+
+If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([[Roam Enhancement Requests]])"
+            - [[@[[Brandon Toner]]]] I like this SmartBlock a lot
+                - Question that immediately jumps to mind is...
+                    - #Q What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?
+                        - In my head, the central repository could be a set of "dashboards" that help to track both live and completed tasks...
+                            - In this way, it's very similar to some of the more established project management tools (e.g., Asana, Trello)
+                            - The big difference is being able to tie work in Roam directly to the task and the project...
     - #[[Change Log]]
         - Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon
             - See CSS here: "In Block Reference"
             - Example: "#Evergreen Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
     - #GTD
-        - {{[[TODO]]}} Catalog the various structures for Zettelkasten
+        - {{[[TODO]]}} Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
             - {{[[TODO]]}} Catalog a set of mythologies that can be used
+    - #Chat
+        - Hey [[@[[Larissa de Lima]]]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
+            - Would love to connect sometime to hear about your work at OW Forum!
+- ---
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Comments
+        - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? " [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
+            - Yup 
+                - Preview
+                    - https://roamresearch.com/
+                    - [Roam Research Website link](https://roamresearch.com/)
+                    - [Internal page alias]([[testing]])
+                    - [Internal block alias](((0WDHO73kP)))
+                    - [[testing]] #testing
+                - "```css
+
+a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+    text-decoration: none!important;
+    border-bottom: 1px dashed;
+    color: #4CAF50;;
+}
+a[href^='http']{
+  color: #4CAF50;
+  text-decoration: none!important;
+  border-bottom: 1px solid;
+}```"
+                - [*Takes bow* ](((QGuX4-a7B)))
+        - [[~[[Brandon Toner]]]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[[datalog]]!
 - ---

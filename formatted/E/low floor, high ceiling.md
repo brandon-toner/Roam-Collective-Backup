@@ -4,7 +4,7 @@
     - **[Author](<../Author.md>):** [Unknown](<../Unknown.md>), but frequently cited by the [Roam Team](<../Roam Team.md>)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>)
 - In product development, low floor = low [E/barrier to entry](<../E/barrier to entry.md>), high ceiling = able to meet the needs of [power users](<../power users.md>).
 - **[Example](<../Example.md>):**
     - [Excel](<../Excel.md>)

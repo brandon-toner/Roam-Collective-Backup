@@ -21,7 +21,7 @@
     1. I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)
-    2. [@[[Charles Farr](<@[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)"
+    2. [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)"
 - #[Daily Log](<Daily Log.md>)
     - 11:19 — Glitchy CSS/data loss again. #[Bug Reports](<Bug Reports.md>)
         - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
@@ -181,7 +181,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
         - #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) are best shared as page links. Each convention is an [atomic](<atomic.md>) unit. 
         - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) can be an effective tool to use in the pursuit of shared [truth](<truth.md>)
     - [Chat](<Chat.md>)
-        - [@[[Charles Farr](<@[[Charles Farr.md>)]] Check [this](((3u0iEUdbd))) out.
+        - [~[[Charles Farr](<~[[Charles Farr.md>)]] Check [this](((3u0iEUdbd))) out.
 
 I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)

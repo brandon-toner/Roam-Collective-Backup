@@ -4,7 +4,7 @@
     - **[Author](<../Author.md>):** [Brandon Toner](<../Brandon Toner.md>)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>)
 - Examples of active resurfacing:
     - Reminders
     - Placing in the inbox of scheduled reviews

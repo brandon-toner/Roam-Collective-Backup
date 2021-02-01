@@ -4,7 +4,7 @@
     - **[Author](<../Author.md>):** [Unknown](<../Unknown.md>)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>)
 
 # Backlinks
 ## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)

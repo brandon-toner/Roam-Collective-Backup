@@ -118,5 +118,11 @@
 
 - [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
 
+- "Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
+
+- "[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+
+- "[Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+
 - Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
 

@@ -1482,7 +1482,7 @@ span.rm-page-ref[data-tag="Tips & Tricks"]:before {
                 - `#Questions
                     - ```css
 span.rm-page-ref[data-tag="Questions"] {
-    background: #9E9E9E;
+    background: #607D8B;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3770,156 +3770,12 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     font-weight: 500;
 }```
         2. Functional CSS
-            - Headings & font #Status/Enabled
-                - ```css
-*h1  {
-  	font-size: 2.5em;
-}
-
-#roam-right-sidebar-content h1.rm-title-display {
-  	font-size: 1.8em
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato", sans-serif;
-    font-size: 3em;
-}
-
-.rm-page-ref-link-color {
-    color: #2179F3;
-    font-weight: 400;
-}
-a {
-    color: #2179F3;
-}```
             - Fix sidebar editing height issue #Status/Enabled
                 - ```css
 /* When editing page title in sidebar this prevents it from having weird height issues */
 #right-sidebar .rm-title-textarea {
     width: 95%;
 }```
-            - Link Symbol #Status/Enabled
-                - ```css
-.rm-alias-external:before {
-    content: '🔗'
-}```
-                - 
-            - Page Reference Underlines & Nested Links #Status/Enabled
-                - Example
-                    - [[E/active vs passive resurfacing]]
-                - Code
-                    - V3
-                        - ```css
-:root {
-  --fg-reference-underline: #136BA2;
-  --fg-reference-underline-hover: #136BA2;
-}
-
-/*Reference Links*/
-.rm-page-ref--link{
-    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;
-    /*background-position: 0 100%*/;
-  	/*border-bottom: var(--fg-reference-underline) 1px;*/
-    padding-bottom: 0px;
-  	/*line-height: 24px;*/
-}
-.rm-page-ref--link:hover{
-    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    text-decoration: none;
-    padding-bottom: 0px;
-    /*line-height: 24px;*/
-}
-
-.rm-page-ref--link .rm-page-ref--link {
-  	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 3px;
-    line-height: 28px;
-}
-.rm-page-ref--link .rm-page-ref--link:hover {
-  	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 3px;
-    /*line-height: 28px;*/
-}
-
-.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
-	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 6px;
-    /*line-height: 32px;*/
-}
-.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
-	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 6px;
-    /*line-height: 32px;*/
-}
-
-/*Namespaces*/
-/*.rm-page-ref--namespace{
-    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 0px;
-}
-.rm-page-ref--namespace:hover{
-    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    text-decoration: none;
-    padding-bottom: 0px;
-}```
-            - Block Reference styling #Status/Enabled
-                - ```css
-.rm-block-ref > span:before {
-  content: '| ';
-  font-weight: 700;
-  color: #FF9800
-}```
-            - Heading Styling
-                - ```c++
-.rm-ref-page-view-title {
- 	font-weight: 600;
-	font-size: 1.5em;
- }```
-                - ```clojure
-.rm-level1 {
-    padding-top: 10px
-}
-
-.rm-level2 {
-    font-size: 1.5em;
-  	font-weight: 600;
-    padding-top: 8px
-}
-.rm-level3 {
-    color: #000000;
-    font-weight: 600;
-    font-size: 1.3em;
-    padding-top: 8px
-}
-.rm-page-ref {
-    color: #0885ff;
-}
-.rm-page-ref-link-color {
-    color: #0885ff;
-    font-weight: 600;
-}
-.rm-ref-page-view-title {
- 	font-weight: 600;
- }
-
-#right-sidebar h1.level2 a {
-    color: #000000 !important;  
-  	font-weight: 400;
-    text-decoration: none;
-}
-
-/* the location tag is necessary for the above lines to distinguish from external links */```
             - Buttons & Word Count #Status/Enabled
                 - ```css
 /* Buttons in Block Text */
@@ -3953,6 +3809,24 @@ a {
 /*  line-height: 12px;*/
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
+}```
+            - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing))
+                - ```ruby
+
+.roam-block-container  div.roam-block-container {
+box-shadow: -2px 0px #BFCCD6);
+transition: box-shadow 1s;
+}
+
+.roam-block-container div.roam-block-container:hover {
+box-shadow: -2px 0px #FF877E;
+transition:  box-shadow 0.5s;
+}
+
+.roam-block-container:focus-within > .rm-block-main > div:nth-child(1) 
+.rm-bullet .rm-bullet__inner  
+{
+background-color: #FF877E;
 }```
         3. Core User Interface ([[e.g.]], Headings)
             - Headings
@@ -4028,7 +3902,80 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-        4. Other Styling #frills
+        4. Other Styling
+            - Heading Styling
+                - ```c++
+.rm-ref-page-view-title {
+ 	font-weight: 600;
+	font-size: 1.5em;
+ }```
+                - ```clojure
+.rm-level1 {
+    padding-top: 10px
+}
+
+.rm-level2 {
+    font-size: 1.5em;
+  	font-weight: 600;
+    padding-top: 8px
+}
+.rm-level3 {
+    color: #000000;
+    font-weight: 600;
+    font-size: 1.3em;
+    padding-top: 8px
+}
+.rm-page-ref {
+    color: #0885ff;
+}
+.rm-page-ref-link-color {
+    color: #0885ff;
+    font-weight: 600;
+}
+.rm-ref-page-view-title {
+ 	font-weight: 600;
+ }
+
+#right-sidebar h1.level2 a {
+    color: #000000 !important;  
+  	font-weight: 400;
+    text-decoration: none;
+}
+
+/* the location tag is necessary for the above lines to distinguish from external links */```
+            - Headings & font #Status/Enabled
+                - ```css
+*h1  {
+  	font-size: 2.5em;
+}
+
+#roam-right-sidebar-content h1.rm-title-display {
+  	font-size: 1.8em
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato", sans-serif;
+    font-size: 3em;
+}
+
+.rm-page-ref-link-color {
+    color: #2179F3;
+    font-weight: 400;
+}
+a {
+    color: #2179F3;
+}```
+            - Block Reference styling #Status/Enabled
+                - ```css
+.rm-block-ref > span:before {
+  content: '| ';
+  font-weight: 700;
+  color: #FF9800
+}```
             - Left side-bar #Status/Enabled
                 - ```ruby
 /* Left Sidebar reformatting */
@@ -4148,6 +4095,90 @@ display:none!important; /* hide page reference (title) */
 [data-tag="page-focus"] + .rm-query .rm-caret,
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
+}```
+            - Link Symbol #Status/Enabled
+                - ```css
+.rm-alias-external:before {
+    content: '🔗'
+}```
+                - 
+            - Page Reference Underlines & Nested Links #Status/Enabled
+                - Example
+                    - [[E/active vs passive resurfacing]]
+                - Code
+                    - V3
+                        - ```css
+:root {
+  --fg-reference-underline: #136BA2;
+  --fg-reference-underline-hover: #136BA2;
+}
+
+/*Reference Links*/
+.rm-page-ref--link{
+    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;
+    /*background-position: 0 100%*/;
+  	/*border-bottom: var(--fg-reference-underline) 1px;*/
+    padding-bottom: 0px;
+  	/*line-height: 24px;*/
+}
+.rm-page-ref--link:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    text-decoration: none;
+    padding-bottom: 0px;
+    /*line-height: 24px;*/
+}
+
+.rm-page-ref--link .rm-page-ref--link {
+  	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    line-height: 28px;
+}
+.rm-page-ref--link .rm-page-ref--link:hover {
+  	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    /*line-height: 28px;*/
+}
+
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
+	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 6px;
+    /*line-height: 32px;*/
+}
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
+	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 6px;
+    /*line-height: 32px;*/
+}
+
+/*Namespaces*/
+/*.rm-page-ref--namespace{
+    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 0px;
+}
+.rm-page-ref--namespace:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    text-decoration: none;
+    padding-bottom: 0px;
+}```
+            - External Links #Status/Enabled
+                - ```css
+
+a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+    text-decoration: none!important;
+    border-bottom: 1px dashed;
+    color: #4CAF50;;
+}
+a[href^='http']{
+  color: #4CAF50;
+  text-decoration: none!important;
+  border-bottom: 1px solid;
 }```
     - Feature Expansions
         - Split Screen

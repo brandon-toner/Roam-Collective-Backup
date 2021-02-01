@@ -5,6 +5,6 @@
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[E/"Hacked" solutions are likely to break over time.]]
-    - Notes:: #not_populated
-- #[[Fleeting Notes]] Use features as the are intended to be used.
-    - Rationale:: As the product develops, it is likely that enhancements will be in relation to established conventions.
+    - Contents::
+        - #[[Fleeting Notes]] Use features as the are intended to be used.
+            - Rationale:: As the product develops, it is likely that enhancements will be in relation to established conventions.

@@ -12,3 +12,6 @@
 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - **[Objectives](<Objectives.md>):**
 
+- "[Q](<Q.md>) What is the role of the Q questions tag?"
+            - **[Objectives](<Objectives.md>):**
+

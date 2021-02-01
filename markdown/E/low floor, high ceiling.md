@@ -4,7 +4,7 @@
     - Author:: [[Unknown]], but frequently cited by the [[Roam Team]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Notes:: #not_populated
+    - Contents:: #not_populated
 - In product development, low floor = low [[E/barrier to entry]], high ceiling = able to meet the needs of [[power users]].
 - Example::
     - [[Excel]]

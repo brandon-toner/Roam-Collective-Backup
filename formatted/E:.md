@@ -8,7 +8,10 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Evergreen](<Evergreen.md>) {not: {or: [E:](<E:.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- A - `[E:](<E:.md>)`
+- Option A - `[E:](<E:.md>)`
 
-- **[Status](<Status.md>):** `[E:](<E:.md>)`
+- `[E:](<E:.md>)`
+
+## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)`
 

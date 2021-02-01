@@ -26,7 +26,7 @@
 
 - "What are the steps of [project management](<project management.md>)
 
-2. [@[[Charles Farr](<@[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
+2. [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
 
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
 

@@ -8,7 +8,7 @@
     - **[Related](<../Related.md>):** ((Not a reference, but a related idea, block or page))
         - [Start from abundance](<../Start from abundance.md>)
             - the purpose of the [divergence](<../divergence.md>) phase is to generate [abundance](<../abundance.md>).
-    - **[Notes](<../Notes.md>):**
+    - **[Contents](<../Contents.md>):**
         - A process of expansion and contraction.
         - Gathering data, then distilling.
 

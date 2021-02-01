@@ -1,3 +1,4 @@
+- In [tension]([Tensions](<Tensions.md>)) with [Processes](<Processes.md>)
 
 # Backlinks
 ## [January 29th, 2021](<January 29th, 2021.md>)
@@ -6,6 +7,9 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+            - **[Process](<Process.md>):**
+
+- A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [important questions](<important questions.md>) or [zettel questions](<zettel questions.md>).
             - **[Process](<Process.md>):**
 
 ## [The Main Feed](<The Main Feed.md>)

@@ -89,6 +89,9 @@
                 - **[Example](<Example.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- Option A - `[E:](<E:.md>)`
+                    - **[Example](<Example.md>):**
+
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - **[Example](<Example.md>):**
 
@@ -100,6 +103,9 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 
 - #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
             - **[Example](<Example.md>):**
+
+- So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
+                - **[Example](<Example.md>):**
 
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)

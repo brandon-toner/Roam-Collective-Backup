@@ -29,6 +29,8 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
+If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
+
 ## [roam/css](<roam/css.md>)
 - `#[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 

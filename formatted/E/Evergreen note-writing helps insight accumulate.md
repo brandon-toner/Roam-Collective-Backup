@@ -5,7 +5,7 @@
     - **[URL](<../URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** [not_populated](<../not_populated.md>)
+    - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>)
 - Much of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it’s simply an accidental property in many cases. We should do our serious thinking in the form of [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) so that the thinking accumulates.
 - [Leaps of insight emerge from prior thought](https://notes.andymatuschak.org/zSn7SX7yMtnh1ZCQEG44TJoxrH7Udpm9oeEm). So where does that thought happen? It could happen in your head, or in a series of fleeting sketches in the pages of your notebook, but [Knowledge work should accrete](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT), and those mechanisms are awfully lossy.
 - Consider some hypothetical leap of insight you’d like to be able to make. To make that leap, you’ll typically need to evolve many independent, partially-formed ideas simultaneously, until they suddenly converge in a flash of inspiration. If you need to iterate on more than a few pieces at once, you may struggle to keep them all in your head.

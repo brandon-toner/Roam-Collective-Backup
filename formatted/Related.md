@@ -117,6 +117,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [Evergreen Notes](<Evergreen Notes.md>)
+- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
+- **[Related](<Related.md>):**
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
@@ -164,11 +168,14 @@
                             - **[Related](<Related.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [Bookmarks](<Bookmarks.md>)
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
             - **[Related](<Related.md>):**
 
 - [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
                     - **[Related](<Related.md>):**
+
+- Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+            - **[Related](<Related.md>):**
 
 - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):**
@@ -178,6 +185,10 @@
 
 - Make [namespaces](<namespaces.md>) a query-able element 
             - **[Related](<Related.md>):**
+
+- [Related](<Related.md>)
+
+- [Related](<Related.md>)
 
 - [Related](<Related.md>)
 
@@ -227,6 +238,10 @@
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+- **[Related](<Related.md>):**
 
 ## [block references](<block references.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) 

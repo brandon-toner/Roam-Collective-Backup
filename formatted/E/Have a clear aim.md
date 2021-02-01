@@ -5,7 +5,7 @@
     - **[References](<../References.md>):** [not_populated](<../not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
         - [Jordan Peterson](<../Jordan Peterson.md>) — recurring theme in his body of works.
     - **[Related](<../Related.md>):** [not_populated](<../not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Notes](<../Notes.md>):** 
+    - **[Contents](<../Contents.md>):** 
         - Our [value structures](<../value structures.md>) determine our aims.
         - Your aim becomes a [filter](<../filter.md>) on through which you see the world.
             - Elements of experience become either tools, barriers, or irrelevant in relation to your aim.

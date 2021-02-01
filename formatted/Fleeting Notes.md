@@ -15,6 +15,9 @@
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [Evergreen Notes](<Evergreen Notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -282,9 +285,19 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 

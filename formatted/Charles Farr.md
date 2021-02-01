@@ -14,6 +14,9 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
 
@@ -67,6 +70,8 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
+
+- Love [Charle's]([Charles Farr](<Charles Farr.md>))
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 

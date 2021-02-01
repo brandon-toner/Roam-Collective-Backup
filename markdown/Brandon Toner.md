@@ -33,7 +33,7 @@
             - URL: #not_populated
             - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
             - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-            - Notes:: #not_populated
+            - Contents:: #not_populated
     - BToner — My TODOs #42SmartBlock
         - **Ways you can help:**
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
