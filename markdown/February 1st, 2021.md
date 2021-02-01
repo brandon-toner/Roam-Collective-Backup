@@ -9,7 +9,8 @@
                 - Extend the outlines
                 - Reference an aspect of the outline and brainstorm the components of that section
                 - Whatever feels right.
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - {{[[embed]]: ((LFSTdlWF1))}}
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
 - #GTD ((Run the "Daily Review" smartblock))
@@ -59,12 +60,12 @@
                     - Ah! Yes. Gotcha now. Great idea and great explanation. 100% want that.
                         - {{[[TODO]]}} Develop evergreen notes on the purpose and potential of a (collaborative) [[zettelkasten]]. #[[February 2021]] #[[Help Wanted]]
                             - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. #Projects #Ideas
-                                - [[@[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
+                                - [[~[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - Related:: "Process:: #creativity #collaboration #[[creative projects]]"
         - "#Q What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?"
             - Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.
                 - #Projects #Ideas Build a productivity [[dashboard]].
-        - Some thoughts on [[[[E:]] Evergreen Note example 1]] [[@[[Charles Farr]]]] #zettelkasten
+        - Some thoughts on [[[[E:]] Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten
             - Attributes could be improved for [[querying]] by nesting them beneath a `Tags::` block. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpnHw9Gjief.png?alt=media&token=2f636fa5-6549-44a7-b581-de4e3e119ebd)
             - The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes.
@@ -73,8 +74,14 @@
                 - And can find all evergreen notes using `#[[Evergreen Notes]]` plus `Tags::` 
                     - Or even just `#[[Evergreen Notes]]` alone because as a collection tag it is only used for that purpose.
                 - **Benefits I can see that I do like:**
-                    - Filter a page by `[[E:]]` to see all [[evergreen notes]] on a page.
-                    - 
+                    - Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page.
+                        - ^^This actually sounds quite powerful^^
+                        - I built [[[[E:]] Evergreen Note example 3]] to illustrate this iteration.
+                - Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[[[E:]] Evergreen Note example 3]]. 
+                    - Related:: 
+                        - [[[[E:]] Evergreen Note example 1]]
+                        - [[E/Evergreen Note example 2]]
+                        - "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
@@ -94,4 +101,62 @@
                 "Interesting. Talk a  bit more about that... not sure I quite understand the idea yet."
                     - When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.
     - #Feedback  #not_populated
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation
+        - "[[~[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ..."
+            - [[@[[Brandon Toner]]]] I think you hit it on the head with the `#Projects` + `#Ideas`
+                - In this sense, the project is just an idea — perhaps once you get started, you change `#Ideas` to `#[[In Flight]]` or some such.
+                    - So, `#Ideas` is essentially a "state" that something can be in, and it can apply to a variety of different elements
+                        - For instance, a `#Conventions` + `#Ideas` is essentially just a proposed convention or maybe even just an inkling...
+                - An important component of the compound tagging approach is build some sort of aggregation page that allows users to rapidly review what exists in various stages
+                    - In theory could use the `[[Projects]]` page to do this, adding queries for the various levels of maturity (see next block)
+            - Circling back to [[@[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph
+                - For instance: `#Ideas` → `#InProgress` → `#Completed`
+                    - Or: `#Fleeting` → `#Permanent`
+                    - Or: `#Seedling` → `#Budding` → `#Evergreen`
+                - If we use the [[zettelkasten]] as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [[collections]] to stitch together notes.
+                    - Perhaps the [[[[How To]] Onboard with Roam Collective]] could be just that...
+                        - It would stitch together various notes in such a way that it would be an easily digestible repository of knowledge for new-comers...
+                    - This gets to a bigger question related to the [[How To]] pages...
+                        - #Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?
+                            - The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)
+        - Re: "The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)"
+            - I'm realizing that [[@[[Brandon Toner]]]] you've probably already thought of this — is there a convention you've built for the purpose?
+        - "Some thoughts on [[[[E:]] Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten"
+            - [[@[[Brandon Toner]]]]
+                - "The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes."
+                    - Yep, this makes sense — I came back to this point actually when thinking about it [yesterday](((VpmyBCAWV)))
+                        - I was thinking that we could include multiple approaches in the [[[[How To]] Implement a Zettelkasten]], even if we only use one approach to capture knowledge in our graph here...
+                - "Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page."
+                    - This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[[Evergreen Notes]]` tag within linked references
+                    - The other benefit is being able to query based on the combination of `[[E:]]` and some topic of interest — for instance `[[resurfacing]]`
+                        - #min-con {{[[query]]: {and: [[E:]] [[resurfacing]]}}}
+                        - I changed the title for [[[[E:]] Make evergreen notes as you write.]] to illustrate above...
+                    - However, this same [query](((NrGcnTXDx))) can be accomplished using `[[Evergreen Notes]]`, so perhaps a bit duplicative...
+                        - #min-con {{[[query]]: {and: [[Evergreen Notes]] [[resurfacing]]}}}
+                - "Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[[[E:]] Evergreen Note example 3]]. "
+                    - This seems like a good happy medium!
+        - Hi [[@[[Peter Rosso]]]], welcome to the RC!
+            - Thinking a bit about your question here: "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
+                - I agree with what [[cc:[[Brandon Toner]]]] brought up [here](((qWfyYQ5ra))) — there are a lot of different approaches
+                    - I think that generally there are some standard best practices (such as how to nest metadata and maybe even how to create a namespace), but the final structure is likely dependent on the goals for the [[zettelkasten]]...
+                    - The final structure will depend on:
+                        - Single-player versus multiplayer
+                        - Output-oriented versus memorialization-driven
+                        - Level of detail required
+                        - Relation to other note types (literature, fleeting, permanent, seedlings, buddings, evergreens, etc, etc, etc)
+                - What I would love to do with the [[[[How To]] Implement a Zettelkasten]] is to detail out
+                    - Best practices to...
+                        - Increase discoverability & searchability
+                        - Boost [[sensemaking]] (individually or within a group)
+                        - Decrease energy to contribute to a zettelkasten
+                    - Structures to support various objectives
+                        - Output-focused (for academic research, publishing, etc.)
+                        - Learning (in classrooms, courses, etc.)
+                        - Self-reflection (in tandem with journaling or some such)
+                    - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---

@@ -9,6 +9,6 @@
     - **[Contents](<../Contents.md>):** [not_populated](<../not_populated.md>) 
 
 # Backlinks
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+## [[E:](<../[E:.md>) Make evergreen notes as you write.](<[E:](<../E:.md>) Make evergreen notes as you write..md>)
 - **[Related](<../Related.md>):** [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<../E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 

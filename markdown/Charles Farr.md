@@ -1,7 +1,14 @@
-- Personal Questions
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@CharlesSimsFarr](https://twitter.com/CharlesSimsFarr)
+        - Website:: [Foundation.al — personal blog](https://thefoundation.al)
+        - Location:: Chicago, IL
+        - Time Zone:: Central Time (GMT –6:00)
+- :hiccup [:hr]
+- Personal Queries
     - Questions
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Questions]] [[Q]] {not: {or: }}  }}}
-    - Open Questions
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Open Questions]] [[Q]] {not: {or: }}  }}}
-- Follow Ups
-    - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Q]] {not: {or: }}  }}}
+    - Follow Ups
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
+    - Todos
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: }}  }}}

@@ -18,9 +18,6 @@
 ## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - [E/Evergreen note-writing helps insight accumulate](<../E/Evergreen note-writing helps insight accumulate.md>)
 
-## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
-- [E/Evergreen note-writing helps insight accumulate](<../E/Evergreen note-writing helps insight accumulate.md>)
-
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [E/Evergreen note-writing helps insight accumulate](<../E/Evergreen note-writing helps insight accumulate.md>)
 

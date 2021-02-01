@@ -5,8 +5,10 @@
     - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
         - [Collections Tags](((JNVnlLDxv))) 
         - [Notifications & Mentions](((01X6uO5N8)))
-    - [Block Reference Styling](((xcLgPdvs0)))
-    - [Nested Links](((y9rumn-yn)))
+    - Other Styling
+        - [External Links](((r3wJzzQJP)))
+        - [Block Reference Styling](((xcLgPdvs0)))
+        - [Nested Links](((y9rumn-yn)))
 - **[Contents](<../Contents.md>):**
     - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
     - **[Tips](<../Tips.md>):** Filter by [Status](<../Status.md>)/Enabled in roam/css to view active code. ((This is reliant on updating the tags as things are switched on/off; so may be unreliable))
@@ -3980,10 +3982,10 @@ h1.level2,
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: [D48715](<../D48715.md>);;
+    color: [2196F3](<../2196F3.md>);;
 }
 a[href^='http']{
-  color: [D48715](<../D48715.md>);
+  color: [2196F3](<../2196F3.md>);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```

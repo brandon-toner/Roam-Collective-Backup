@@ -2,6 +2,7 @@
     - In the immediate space below the [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) title, you provide the context — easily accessible if needed
     - Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)` header tag
 - ---
+- **[Tags](<Tags.md>):** [Experiments](<Experiments.md>) [Examples](<Examples.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)

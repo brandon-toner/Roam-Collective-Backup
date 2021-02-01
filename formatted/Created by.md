@@ -28,6 +28,10 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Created by](<Created by.md>):**
@@ -50,10 +54,6 @@
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
 - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-    - **[Created by](<Created by.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
 ## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -109,6 +109,10 @@
 - **[Created by](<Created by.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-- **[Created by](<Created by.md>):**
+    - **[Created by](<Created by.md>):**
 

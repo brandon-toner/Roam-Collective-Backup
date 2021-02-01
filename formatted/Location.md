@@ -8,6 +8,10 @@
 - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - **[Location](<Location.md>):**
 
+## [Charles Farr](<Charles Farr.md>)
+- **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
+        - **[Location](<Location.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Website](<Website.md>):** [eurunuela.github.io](https://eurunuela.github.io)
         - **[Location](<Location.md>):**

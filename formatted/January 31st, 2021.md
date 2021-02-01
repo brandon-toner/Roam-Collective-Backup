@@ -62,7 +62,7 @@
                 - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
         - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
             - **[Related](<Related.md>):**
-                - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+                - "[ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - **[Objectives](<Objectives.md>):**
                 - Have [pages](<pages.md>) for commonly referenced ideas.
@@ -169,7 +169,7 @@
                 2. Check the history on Change Log
                 3. Check the history on The Main Feed
     - **[Decisions](<Decisions.md>):**
-        - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
+        - [ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
             - **[Options](<Options.md>):** 
                 - Option A - `[E:](<E:.md>)`
                     - **[Example](<Example.md>):**
@@ -177,6 +177,7 @@
                     - **[Pros](<Pros.md>):** 
                         - Able to be included as a query element.
                             - "[Q](<Q.md>) Is this important?"
+                            - "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page."
                     - **[Cons](<Cons.md>):** 
                         - Not in alignment with native namespacing convention... can't be hidden/collapsed ([readability](<readability.md>))
                 - Option B - `E/`
@@ -191,11 +192,15 @@
                                 - **[#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)
             - **[Status](<Status.md>):** ^^Updated to E/^^ 
                 - `[E:](<E:.md>)` (at the time of creation)
-            - **[Decision](<Decision.md>):** "Option B - `E/`"
+            - **[Decision](<Decision.md>):** "Option B - `E/`" (tentative, re-opened)
             - **[Factors](<Factors.md>):**
                 - Ability to be included as a query element
                 - Alignment with native [namespacing](<namespacing.md>) conventions
                     - Allows the name to be visually streamlined [readability](<readability.md>)
+            - **[Conversation](<Conversation.md>):**
+                - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
+                    - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen Note example 3]]
+                    - 
             - **[Notes](<Notes.md>):**
                 - Benefits of including a namespace:
                     - Easy recall via the [auto-populate](<auto-populate.md>) menu. 
@@ -276,7 +281,7 @@
                         - **[Suggestion](<Suggestion.md>):** `#[Zettel Questions](<Zettel Questions.md>)`
         - [Q](<Q.md>) What is the role of the Q questions tag?
             - Inline questions, even less threshold than [open questions](<open questions.md>). [Conventions](<Conventions.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) Make evergreen notes as you write.]]
         - #[Fleeting Notes](<Fleeting Notes.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
         - #[Fleeting Notes](<Fleeting Notes.md>) the [astrolabe icon](<astrolabe icon.md>) is an excellent place to hide [instructions](<instructions.md>).
     - [Questions](<Questions.md>)
@@ -357,7 +362,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Make [namespaces](<namespaces.md>) a query-able element 
-            - **[Related](<Related.md>):** "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+            - **[Related](<Related.md>):** "[ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
@@ -571,10 +576,10 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: [D48715](<D48715.md>);;
+    color: [2196F3](<2196F3.md>);;
 }
 a[href^='http']{
-  color: [D48715](<D48715.md>);
+  color: [2196F3](<2196F3.md>);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```"
@@ -587,9 +592,6 @@ a[href^='http']{
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
 ## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
@@ -615,6 +617,6 @@ a[href^='http']{
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
-## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 

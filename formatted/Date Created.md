@@ -16,6 +16,10 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) [Experiments](<Experiments.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
     - **[Date Created](<Date Created.md>):**
@@ -38,10 +42,6 @@
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) [values](<values.md>), [purpose](<purpose.md>), [direction](<direction.md>), [focus](<focus.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -101,10 +101,14 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- ---
+- **[Tags](<Tags.md>):** [Experiments](<Experiments.md>) [Examples](<Examples.md>)
 - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
-- ---
-- **[Date Created](<Date Created.md>):**
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) [Experiments](<Experiments.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
 

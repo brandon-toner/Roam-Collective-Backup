@@ -45,6 +45,9 @@
 ## [Bug Reports-[resolved](<resolved.md>)](<Bug Reports-[resolved](<resolved.md>).md>)
 - **[Tags](<Tags.md>):**
 
+## [Charles Farr](<Charles Farr.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Conversations](<Conversations.md>)
 - **[Tags](<Tags.md>):**
 
@@ -97,6 +100,9 @@
 ## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - **[Tags](<Tags.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Tags](<Tags.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Tags](<Tags.md>):**
 
@@ -113,9 +119,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Tags](<Tags.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):**
 
 ## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -380,6 +383,16 @@
 - **[Tags](<Tags.md>):**
 
 ## [Zsolt Viczián](<Zsolt Viczián.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- ---
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): What could be better](<[Feedback](<Feedback.md>): What could be better.md>)

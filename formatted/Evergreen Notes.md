@@ -18,6 +18,9 @@
 ## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
@@ -34,9 +37,6 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
 ## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -79,6 +79,18 @@
 - And can find all evergreen notes using `#[Evergreen Notes](<Evergreen Notes.md>)`
 
 - Or even just `#[Evergreen Notes](<Evergreen Notes.md>)`
+
+- This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[Evergreen Notes](<Evergreen Notes.md>)`
+
+- However, this same [query](((NrGcnTXDx))) can be accomplished using `[Evergreen Notes](<Evergreen Notes.md>)`
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>)
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Evergreen Notes](<Evergreen Notes.md>)

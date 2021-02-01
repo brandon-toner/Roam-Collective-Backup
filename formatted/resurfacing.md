@@ -1,7 +1,11 @@
 
 # Backlinks
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
-- ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
+## [February 1st, 2021](<February 1st, 2021.md>)
+- The other benefit is being able to query based on the combination of `[E:](<E:.md>)` and some topic of interest — for instance `[resurfacing](<resurfacing.md>)`
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [E:](<E:.md>) [resurfacing](<resurfacing.md>)}
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)}
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [tags](<tags.md>) may be added inline at the end of the note or nested underneath to aid in [connection](<connection.md>) and [resurfacing](<resurfacing.md>).
@@ -30,4 +34,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [resurfacing](<resurfacing.md>).
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
 

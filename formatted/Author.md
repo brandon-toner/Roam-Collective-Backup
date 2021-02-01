@@ -16,6 +16,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -37,10 +41,6 @@
     - **[Author](<Author.md>):**
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
@@ -93,6 +93,10 @@
 - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
-- **[Author](<Author.md>):**
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
 

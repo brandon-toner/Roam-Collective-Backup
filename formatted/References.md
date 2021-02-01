@@ -16,6 +16,10 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[URL](<URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C)
     - **[References](<References.md>):**
@@ -37,10 +41,6 @@
     - **[References](<References.md>):**
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[References](<References.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
@@ -101,7 +101,11 @@
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
-- **[References](<References.md>):**
+    - **[References](<References.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[References](<References.md>):**
 
 ## [spaced repetition](<spaced repetition.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)

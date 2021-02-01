@@ -73,6 +73,9 @@
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -89,11 +92,6 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-
-- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
@@ -271,6 +269,14 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Woah](<Woah.md>)
 - [Brandon Toner](<Brandon Toner.md>)
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - I can elaborate more on this. - [Brandon Toner](<Brandon Toner.md>)

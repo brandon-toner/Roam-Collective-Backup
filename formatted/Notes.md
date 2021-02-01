@@ -5,7 +5,7 @@
                 - **[Notes](<Notes.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- Allows the name to be visually streamlined [readability](<readability.md>)
+- 
             - **[Notes](<Notes.md>):**
 
 - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)

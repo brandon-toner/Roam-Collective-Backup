@@ -8,6 +8,10 @@
 - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
         - **[Website](<Website.md>):**
 
+## [Charles Farr](<Charles Farr.md>)
+- **[Twitter](<Twitter.md>):** [@CharlesSimsFarr](https://twitter.com/CharlesSimsFarr)
+        - **[Website](<Website.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Twitter](<Twitter.md>):** [@eurunuela](https://twitter.com/eurunuela)
         - **[Website](<Website.md>):**

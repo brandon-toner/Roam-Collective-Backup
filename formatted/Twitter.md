@@ -8,6 +8,10 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [Charles Farr](<Charles Farr.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**

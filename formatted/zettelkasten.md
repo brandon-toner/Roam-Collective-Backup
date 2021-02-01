@@ -31,6 +31,12 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>).
 
+- Circling back to [@[[Peter Rosso](<@[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
+
+- If we use the [zettelkasten](<zettelkasten.md>)
+
+- I think that generally there are some standard best practices (such as how to nest metadata and maybe even how to create a namespace), but the final structure is likely dependent on the goals for the [zettelkasten](<zettelkasten.md>).
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 

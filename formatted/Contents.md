@@ -16,6 +16,10 @@
 - [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
     - **[Contents](<Contents.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
@@ -37,10 +41,6 @@
     - **[Contents](<Contents.md>):**
 
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
-- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Contents](<Contents.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
@@ -93,8 +93,12 @@
 - **[Contents](<Contents.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
-- [[[E:](<[[E:.md>) Evergreen Note example 3]]
-- **[Contents](<Contents.md>):**
+- [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
 
 ## [roam/css](<roam/css.md>)
 - [Nested Links](((y9rumn-yn)))

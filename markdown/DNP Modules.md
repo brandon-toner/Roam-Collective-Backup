@@ -11,14 +11,9 @@
         - A place to respond to prompts.
     - #[[Bookmarks]]
         - {{[[embed]]: ((XS29OCnVF))}}
-    - #[[Open Questions]]
-        - A place to collect open questions related to the domain being explored.
-            - It may help to tag the domain the open questions are related to - this will assist with filtering and queries.
     - #[[The Zettelkasten]]
         - A place to input content into a zettelkasten.
         - More formal ideas go here.
-    - #Chat
-        - A place to launch chats (calls for input/comment) into the database
     - #Conversation
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - #Questions
@@ -28,3 +23,9 @@
         - A place to offer feedback on the graph experience overall.
         - Can be sub-nested for more specific sorting. Or simply nested under `#Feedback` main
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fjoel-covid19%2FwaFt0kiwU4.png?alt=media&token=fe7b2bc4-0f39-45cd-909a-97b067dfc952)
+- Depreciated Modules
+    - #Chat
+        - A place to launch chats (calls for input/comment) into the database
+    - #[[Open Questions]]
+        - A place to collect open questions related to the domain being explored.
+            - It may help to tag the domain the open questions are related to - this will assist with filtering and queries.

@@ -1,10 +1,17 @@
-- Personal Questions
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [@CharlesSimsFarr](https://twitter.com/CharlesSimsFarr)
+        - **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
+        - **[Location](<Location.md>):** Chicago, IL
+        - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
+- :hiccup [:hr]
+- Personal Queries
     - Questions
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Questions](<Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
-    - Open Questions
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Open Questions](<Open Questions.md>) [Q](<Q.md>) {not: {or: }}  }}}
-- Follow Ups
-    - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
+        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Q](<Q.md>) {not: {or: }}  }}}
+    - Follow Ups
+        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
+    - Todos
+        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: }}  }}}
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
@@ -18,6 +25,8 @@
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
 - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)

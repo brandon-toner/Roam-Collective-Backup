@@ -4,6 +4,10 @@
 - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Charles Farr](<Charles Farr.md>)
+- **[Location](<Location.md>):** Chicago, IL
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Location](<Location.md>):** [Donostia - San Sebastián](<Donostia - San Sebastián.md>), [Basque Country](<Basque Country.md>) [Spain](<Spain.md>)
         - **[Time Zone](<Time Zone.md>):**

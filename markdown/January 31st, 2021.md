@@ -62,7 +62,7 @@
                 - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
         - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])
             - Related::
-                - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                - "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - Objectives::
                 - Have [[pages]] for commonly referenced ideas.
@@ -169,7 +169,7 @@
                 2. Check the history on Change Log
                 3. Check the history on The Main Feed
     - Decisions::
-        - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
+        - {{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
             - Options:: 
                 - Option A - `[[E:]]`
                     - Example::
@@ -177,6 +177,7 @@
                     - Pros:: 
                         - Able to be included as a query element.
                             - "#Q Is this important?"
+                            - "Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page."
                     - Cons:: 
                         - Not in alignment with native namespacing convention... can't be hidden/collapsed ([[readability]])
                 - Option B - `E/`
@@ -191,11 +192,15 @@
                                 - #[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
             - Status:: ^^Updated to E/^^ 
                 - `[[E:]]` (at the time of creation)
-            - Decision:: "Option B - `E/`"
+            - Decision:: "Option B - `E/`" (tentative, re-opened)
             - Factors::
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
                     - Allows the name to be visually streamlined #readability
+            - Conversation::
+                - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
+                    - Related:: [[[[E:]] Evergreen Note example 3]]
+                    - 
             - Notes::
                 - Benefits of including a namespace:
                     - Easy recall via the [[auto-populate]] menu. 
@@ -276,7 +281,7 @@
                         - Suggestion:: `#[[Zettel Questions]]`
         - #Q What is the role of the Q questions tag?
             - Inline questions, even less threshold than [[open questions]]. #Conventions
-        - #[[Fleeting Notes]] [[E/Make evergreen notes as you write.]]
+        - #[[Fleeting Notes]] [[[[E:]] Make evergreen notes as you write.]]
         - #[[Fleeting Notes]] clear [[conventions]] for [[collaboration]] are a [[pre-requisite]] for effective [[project management]].
         - #[[Fleeting Notes]] the [[astrolabe icon]] is an excellent place to hide [[instructions]].
     - #Questions
@@ -357,7 +362,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
-            - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+            - Related:: "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
@@ -571,10 +576,10 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: #D48715;;
+    color: #2196F3;;
 }
 a[href^='http']{
-  color: #D48715;
+  color: #2196F3;
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```"

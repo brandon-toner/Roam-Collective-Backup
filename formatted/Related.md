@@ -39,6 +39,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
 ## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
     - **[Related](<Related.md>):**
@@ -62,13 +66,6 @@
 ## [E/Have a clear aim](<E/Have a clear aim.md>)
 - [Jordan Peterson](<Jordan Peterson.md>) — recurring theme in his body of works.
     - **[Related](<Related.md>):**
-
-## [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
-        - **[Related](<Related.md>):**
 
 ## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
@@ -122,8 +119,11 @@
 - **[Related](<Related.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- [@[[Charles Farr](<@[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
+- [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**
+
+- Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [[[E:](<[[E:.md>) Evergreen Note example 3]]. 
+                    - **[Related](<Related.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
@@ -180,6 +180,9 @@
 
 - Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
             - **[Related](<Related.md>):**
+
+- [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
+                    - **[Related](<Related.md>):**
 
 - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):**
@@ -245,7 +248,14 @@
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-- **[Related](<Related.md>):**
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
+        - **[Related](<Related.md>):**
 
 ## [block references](<block references.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) 
