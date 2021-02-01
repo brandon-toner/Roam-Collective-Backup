@@ -303,7 +303,7 @@
                 - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #Ideas #onboarding #[[Quick Start Guide]]
                 - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #Ideas #collaboration
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
-                - hahaha, precisely what I'm currently doing. [[@[[Peter Rosso]]]]
+                - hahaha, precisely what I'm currently doing. [[~[[Peter Rosso]]]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([[opportunistically]]) populating these as I interact with the graph.
                     - #[[Fleeting Notes]] [[E/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]

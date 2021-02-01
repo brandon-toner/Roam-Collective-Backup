@@ -335,7 +335,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - "Better to place it under one's daily notes or within the daily log up above?  "
                     - Within your [DNP Section](<DNP Section.md>) is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [sleep on it](<sleep on it.md>).
         4. "Turn off brackets to streamline the look of page looks a bit"
-            - [ ] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+            - [x] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
         5. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [questions](<questions.md>) throughout the graph.
         6. "Allows for seamless inline referencing of Evergreen notes"

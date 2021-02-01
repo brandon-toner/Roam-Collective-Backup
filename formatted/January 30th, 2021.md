@@ -303,7 +303,7 @@
                 - "Embedded [videos](<videos.md>) accompanying the written [documentation](<documentation.md>) and showing [examples](<examples.md>) could be useful" [*](((nwqDQY2hP))) [Ideas](<Ideas.md>) [onboarding](<onboarding.md>) #[Quick Start Guide](<Quick Start Guide.md>)
                 - "I like the idea of [Roam-a-thons](<Roam-a-thons.md>)." [*](((xFRHf05lH))) [Ideas](<Ideas.md>) [collaboration](<collaboration.md>)
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
-                - hahaha, precisely what I'm currently doing. [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+                - hahaha, precisely what I'm currently doing. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([opportunistically](<opportunistically.md>)) populating these as I interact with the graph.
                     - #[Fleeting Notes](<Fleeting Notes.md>) [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)

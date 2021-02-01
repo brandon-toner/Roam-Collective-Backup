@@ -31,7 +31,9 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>).
 
-- Circling back to [@[[Peter Rosso](<@[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
+- "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
+
+- Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
 
 - If we use the [zettelkasten](<zettelkasten.md>)
 

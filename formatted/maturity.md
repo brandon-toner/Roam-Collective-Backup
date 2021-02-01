@@ -1,7 +1,9 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- Circling back to [@[[Peter Rosso](<@[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
+- "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
+
+- Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>) or [maturity](<maturity.md>)

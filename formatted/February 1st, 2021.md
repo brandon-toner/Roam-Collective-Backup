@@ -43,7 +43,14 @@
 {{[embed](<embed.md>): ((29MTnT-MQ))}}
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [Observations](<Observations.md>)
+            - Having more fun writing in [Roam-Collective](<Roam-Collective.md>) than my my own graph lately 😂
+                - Seeing some of the ideas and conventions surfaced here spilling into my personal systems.
+                    - Taking literature notes for some lectures last night was an ABSOLUTE PLEASURE!
+                - It's been particularly interesting to me the level of [flow state](<flow state.md>) writing I've been able to tap into writing in here. 
+                    - I think it has to do with the constant potential for interaction and commentary, paired with seeing the contributions of others. 
+                        - There always seems to be something to write, comment on, or build. Definitely a [fly wheel](<fly wheel.md>) effect at play.
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
@@ -82,24 +89,51 @@
                         - [[[E:](<[[E:.md>) Evergreen Note example 1]]
                         - [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
                         - "[ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how"
+            - Yea, I have the same feelings about it....
+                - I think no-brackets works best with the nested pages CSS and cuts a lot of noise, but that might not be universal user preference.
+                    - I'd opt to keep it a user preference, and see if it becomes annoying to those new to the graph. - Thanks for finding that!
+                        - What are your thoughts? [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
+                            - Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'"
+                                - Agreed [*](((Sh32I3JAi))) 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
-        - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
-            - "Selecting the right approach"
-                - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
-            - Should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
-`[How to](<How to.md>)` would be considered a prefix-
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]]"#[Context Questions](<Context Questions.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
+            - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
+            - Or `[everyone](<everyone.md>)`  Could have a query under the announcement banner?
+        - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
+            - "Selecting the right approach"
+                - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
         - "On the other, building [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) that help others to implement a similar system."
             - Can  [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?
                 "Interesting. Talk a  bit more about that... not sure I quite understand the idea yet."
                     - When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.
+        - "Hi [~[[Peter Rosso](<~[[Peter Rosso.md>)]], welcome to the RC!"
+            - Thanks [@[[Charles Farr](<@[[Charles Farr.md>)]] loving how  conversations are continuously iterated and resurfaced in the setup we have for conversations.
+            - Regarding "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
+                 I was wondering if we should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
+`[How to](<How to.md>)` would be considered a prefix-
+                My graph is currently responding properly, thus I might not be able to upload an example, but I am currently using the `[main[[-suffix](<main[[-suffix.md>)]]` in my Zettelkasten. I am using the same system that Beau Hann showed in a video on Robert Haisfield's youtube channel.  
+                    What I realised is that I often have reference stuff in academic papers, thus some permanent notes have use the suffix as a link to the bibliographical page I have on my graph. 
+        - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph"
+            - [@[[Charles Farr](<@[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  
+            - If we were concerned to see how fleeting conversation ended up becoming a permanent note there are different considerations to to make:
+                - Fleeting notes should be fleeting, thus we should not be concerned with them.
+                - If we were still concerned with them, should these notes be promoted at least to literature notes?
+                - Is this going to promote a good process or information hoarding?
+            - "Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
+            - One thing I definitely I agree is that we need clear systems which would incentivize clear and unburdened thinking.  According to the book "the motivation myth" systems are the true way forward.
+        - "https://twitter.com/brandontoner/status/1353493176296894464?s=21"
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FdlGzsQA9E5.png?alt=media&token=1f34e98d-e688-4e4c-8ad7-f6609bfc2547)
+                - I like to think that the first phase is the Zettlekasten phase, while the second phase is the output phase.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
@@ -113,7 +147,7 @@
                         - For instance, a `[Conventions](<Conventions.md>)` + `[Ideas](<Ideas.md>)` is essentially just a proposed convention or maybe even just an inkling...
                 - An important component of the compound tagging approach is build some sort of aggregation page that allows users to rapidly review what exists in various stages
                     - In theory could use the `[Projects](<Projects.md>)` page to do this, adding queries for the various levels of maturity (see next block)
-            - Circling back to [@[[Peter Rosso](<@[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph
+            - Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph
                 - For instance: `[Ideas](<Ideas.md>)` → `[InProgress](<InProgress.md>)` → `[Completed](<Completed.md>)`
                     - Or: `[Fleeting](<Fleeting.md>)` → `[Permanent](<Permanent.md>)`
                     - Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`
@@ -139,7 +173,7 @@
                         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)}}}
                 - "Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [[[E:](<[[E:.md>) Evergreen Note example 3]]. "
                     - This seems like a good happy medium!
-        - Hi [@[[Peter Rosso](<@[[Peter Rosso.md>)]], welcome to the RC!
+        - Hi [~[[Peter Rosso](<~[[Peter Rosso.md>)]], welcome to the RC!
             - Thinking a bit about your question here: "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
                 - I agree with what [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] brought up [here](((qWfyYQ5ra))) — there are a lot of different approaches
                     - I think that generally there are some standard best practices (such as how to nest metadata and maybe even how to create a namespace), but the final structure is likely dependent on the goals for the [zettelkasten](<zettelkasten.md>)...
@@ -158,6 +192,42 @@
                         - Learning (in classrooms, courses, etc.)
                         - Self-reflection (in tandem with journaling or some such)
                     - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - ignore me
+            - What I'm hearing about the internal / external communication chat idea
+        - Possible workflow for internal (personal) chat app
+            - [P](<P.md>):Self "What I'm hearing about the internal / external communication chat idea"
+            - [P](<P.md>):Critic Internal chat doesn't go anywhere, what's the point
+            - [P](<P.md>):Loving Getting in touch with the different parts of you and weighing those options is an important part of making the best decision you can with the information you have
+            - [P](<P.md>):Critic more internal
+            - [P](<P.md>):Loving more internal
+            - [P](<P.md>):Self Conclusion
+                - {{PUBLISH CONCLUSION TO EXTERNAL WORLD}}
+        - I'm starting to understand that Roam has the capacity for multiple types of Communication
+            - Internal Chat
+                - Most useful in a multiplayer graph. Meant to ping other users within the graph about blocks created in the graph. This would only be visible when you have the graph open.
+                - **Logic**
+                    - Run query
+                        - if no results no badge
+                        - if results
+                            - set badge to number
+            - Persona Chat
+                - Most useful when dealing with different points of view and different aspects of yourself
+            - External Notification Hooks
+                - Hooks
+        - USER SETTINGS [datalog](<datalog.md>) [query](<query.md>)
+            - 
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
+            - {{[embed](<embed.md>): ((((u8k4sDzcA))))}}
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [Quick Start Guide](<Quick Start Guide.md>) as a suggestion is the most democratic solution.
+    - #[Change Log](<Change Log.md>)
+        - [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
+        - [Added the RoamJS Query builder](((OIrYB9b3N)))
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 

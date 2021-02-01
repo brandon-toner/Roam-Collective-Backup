@@ -3989,6 +3989,11 @@ a[href^='http']{
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
+            - Page Reference Brackets [Status](<../Status.md>)/Enabled
+                - ```ruby
+.rm-page-ref__brackets{
+  display:none;
+}```
         4. Other Styling
             - Heading Styling
                 - ```c++

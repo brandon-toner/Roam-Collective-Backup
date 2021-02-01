@@ -59,7 +59,21 @@ if (!existing) {
   extension.type = "text/javascript";
   document.getElementsByTagName("head")[0].appendChild(extension);
 }```
-- 
+- RoamJS Query Builder
+    - {{[roam/js](<../roam/js.md>)}}
+        - ```javascript
+
+var existing = document.getElementById("query-builder");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/query-builder.js";
+  extension.id = "query-builder";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}
+```
+    - Activate by typing `{{query builder}}` and hitting enter at the end of the line
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -76,6 +90,8 @@ if (!existing) {
 
 ## [roam/js](<roam/js.md>)
 - {{{[roam/js](<../roam/js.md>)}
+
+- {{[roam/js](<../roam/js.md>)}
 
 - {{[roam/js](<../roam/js.md>)}
 

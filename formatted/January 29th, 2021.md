@@ -210,7 +210,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
                     - Less of an [assertion]([assertions](<assertions.md>)), but it is a concept that I refer to periodically. 
                     - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph"
-            - Fire away! [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] 🚀, just document in the Change Log within your section (added one for you)
+            - Fire away! [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] 🚀, just document in the Change Log within your section (added one for you)
         - "Ok. Will this be the standard convention to NOT include inline references, but instead comment as a child to the reference?? One of the big reasons I ask is that it would then be required to open the context breadcrumbs to actually see the message that is being brought to your attention. Honestly not that big of a deal frankly. Just an observation [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
             - Yea, I think we'll go with nesting as standard convention for now. My strategy for navigating is to Shift-click to open the reference in the side bar, giving me easier access to the [breadcrumbs](<breadcrumbs.md>). [~[[Mark Robertson](<~[[Mark Robertson.md>)]] 
                 - Definitely open to re-evaluating this over time. 

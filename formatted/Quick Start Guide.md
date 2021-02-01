@@ -25,6 +25,11 @@
 - **[Next](<Next.md>):** [Beyond the Basics](<Beyond the Basics.md>)
 
 # Backlinks
+## [February 1st, 2021](<February 1st, 2021.md>)
+- Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'
+
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
