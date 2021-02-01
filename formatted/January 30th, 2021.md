@@ -197,6 +197,7 @@
             - Can't seem to [emoji react](<emoji react.md>) to blocks...
         - Reflections on [datalog](<datalog.md>) queries [Bookmarks](<Bookmarks.md>)
             - Possible to generate a report of "pages authored by graph members"
+                - 
                 - **[Example](<Example.md>):**
                     - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
                 - **[This is really cool because the [query](<query.md>) finds the combination of `Tags](<This is really cool because the [query](<query.md>) finds the combination of `Tags.md>):**` and `[Members](<Members.md>)` within a single block, creating an [array](<array.md>) of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.
@@ -250,7 +251,7 @@
             - #[Fleeting Notes](<Fleeting Notes.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
         - #[Fleeting Notes](<Fleeting Notes.md>) Asterisk [aliases](<aliases.md>) can be used to [hide](<hide.md>) content from blocks — improving [readability](<readability.md>). [Tips](<Tips.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>). [standardization](<standardization.md>)
-    - [Comments](<Comments.md>) 
+    - [Conversation](<Conversation.md>) 
         - [Observations](<Observations.md>)
             - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
                 - **[Example](<Example.md>):** 
@@ -372,7 +373,7 @@
     - [GTD](<GTD.md>)
         - [x] Update all of the SmartBlocks in the graph to match new conventions #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
             - [x] Document conventions for creating SmartBlocks & Templates
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         1. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
         2. "Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - Agree [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — any thoughts on areas of thought we should research to help build out this stucture?
@@ -423,7 +424,7 @@
                     - Following up here — this approach works for me because I am trying to leverage my notes for output.
                         - I want to be able to easily pull up the content of a note in-line to tie into something I am writing
                     - As we evaluate what the correct approach for the [zettelkasten](<zettelkasten.md>) in [Roam-Collective](<Roam-Collective.md>) is, it will be critical to settle on our goals
-    - [Chat](<Chat.md>)
+    - #[Conversation](<Conversation.md>)
         1. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #[Change Log](<Change Log.md>)
         - Added "SmartBlock & Roam Template Conventions"
@@ -449,12 +450,12 @@
     - #[Scratchpad](<Scratchpad.md>)
         - According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>) via prompts.
         - "[Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) [*]([^[[leekeifon](<^[[leekeifon.md>)]]) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])" [^[[leekeifon](<^[[leekeifon.md>)]]
-    - #[Comments](<Comments.md>)
+    - #[Conversation](<Conversation.md>)
         - [This method](((5NLcwZHoo))) thoroughly discuss how to make a smooth yet reliable way to develop deep thoughts across time and I will no doubt adapting this into my own database!  #[procedural knowledge](<procedural knowledge.md>) [*]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])[*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])
             - This method agree with most of my previous thoughts, eg. [view page as resource](((3SbDzgrZF))), [treat page as truth](((ZZWmGCw0B))), as it builds up a intermediate state that help us slow down the speed on creating too much page, which is actually increasing the complexity of our database.
             - Also, the user experience for block auto-completion with a `[Evergreen](<Evergreen.md>)` tag at the front is almost the same as page auto-completion.
             - In other words, I vote for this procedure. (But I don’t know how to add an emoji to it in iPad...)
-    - #[Chat](<Chat.md>)
+    - #[Conversation](<Conversation.md>)
         - Would like to add a detail on [this step](((wL9FWsYpE))) of the the [new process](((X8fzypdUg))). [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>) of the idea.
                 - **[Example](<Example.md>):** Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s.

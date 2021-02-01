@@ -20,7 +20,7 @@
             - Default = `[[]]`
             - HASH adds `#[[]]` to the text
             - RAW renders the text `as-listed`
-- **[Comments](<../../Comments.md>):**
+- **[Conversation](<../../Conversation.md>):**
     - Universal Keystroke
         - Multiple cycles under the same keystroke works!
             - IF there is a `BLANK`, it will stop IF there are multiple cycles under that keystroke

@@ -17,6 +17,9 @@
 ## [DNP Modules](<DNP Modules.md>)
 - {{[embed](<embed.md>):
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- {{[embed](<embed.md>):
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 -  {{[embed](<embed.md>):
 
@@ -75,6 +78,10 @@
 {{[embed](<embed.md>):
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- {{[embed](<embed.md>):
+
+- {{[embed](<embed.md>):
+
 {{[embed](<embed.md>):
 
 - {{[embed](<embed.md>):

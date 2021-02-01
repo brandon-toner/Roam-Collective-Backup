@@ -263,13 +263,15 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 - "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
-4. "#[Fleeting Notes](<Fleeting Notes.md>)
+5. "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 

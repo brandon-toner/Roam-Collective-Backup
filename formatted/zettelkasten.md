@@ -19,7 +19,7 @@
             - #[Open Questions](<Open Questions.md>)
             - #[Context Questions](<Context Questions.md>)
             - #[Zettel Questions](<Zettel Questions.md>)
-    - **[Comments](<Comments.md>):**
+    - **[Conversation](<Conversation.md>):**
         - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
     - **[Tips](<Tips.md>):**
         - View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>)) get a sense of the conventions in action.

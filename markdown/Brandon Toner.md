@@ -21,7 +21,7 @@
             - #[[Change Log]] #not_populated
             - #Promptstorming #not_populated
             - #[[The Zettelkasten]] #not_populated
-            - #Comments #not_populated
+            - #Conversation #not_populated
             - #Feedback  #not_populated
         - ---
     - Mentions (BT)

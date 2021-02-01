@@ -645,7 +645,7 @@ span.rm-page-ref[data-tag="Permanent Notes"]:before {
 
 ```
                 - `#[[Zettel Questions]]
-                    ```css
+                    ```clojure
 span.rm-page-ref[data-tag="Zettel Questions"] {
     color: #FFFFFF !important;
     padding: 2px 5px 2px 5px;
@@ -1386,24 +1386,8 @@ span.rm-page-ref[data-tag="Templates"] {
 span.rm-page-ref[data-tag="Templates"]:before {
     content: '📄'
 }```
-                - `#[[Open Questions]]
-                    - ```css
-span.rm-page-ref[data-tag="Open Questions"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Open Questions"]:before {
-    content: '❓'
-}```
                 - `#[[Context Questions]]
-                    - ```css
+                    - ```clojure
 span.rm-page-ref[data-tag="Context Questions"] {
     background: #607D8B;
     color: #fff;
@@ -1416,6 +1400,22 @@ span.rm-page-ref[data-tag="Context Questions"] {
 }
 
 span.rm-page-ref[data-tag="Context Questions"]:before {
+    content: '❓'
+}```
+                - `#[[Open Questions]]
+                    - ```clojure
+span.rm-page-ref[data-tag="Open Questions"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Open Questions"]:before {
     content: '❓'
 }```
                 - `#Q
@@ -1548,9 +1548,9 @@ span.rm-page-ref[data-tag="Reply-from"]:before {
 
 
 ```
-                - `#Comments
+                - `#Conversation
                     - ```css
-span.rm-page-ref[data-tag="Comments"] {
+span.rm-page-ref[data-tag="Conversation"] {
     background: #9C27B0;
     color: #fff;
     padding: 2px 5px 2px 5px;
@@ -1561,7 +1561,7 @@ span.rm-page-ref[data-tag="Comments"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Comments"]:before {
+span.rm-page-ref[data-tag="Conversation"]:before {
     content: '💬'
 }```
                 - `#Announcements
@@ -4173,10 +4173,10 @@ display:none!important; /* hide page reference (title) */
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: #4CAF50;;
+    color: #D48715;;
 }
 a[href^='http']{
-  color: #4CAF50;
+  color: #D48715;
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
@@ -4617,4 +4617,3 @@ a {
     - User Interface Elements
     - Inbox::
         - {{[[TODO]]}} Add #Suggestions to [[roam/css]]
-    - Comments::

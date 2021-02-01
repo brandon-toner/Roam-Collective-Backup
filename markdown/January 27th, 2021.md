@@ -182,7 +182,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Filtering content to hone the experience and focus.
     - #Bookmarks
     - Notifications Inbox
-    - #Comments 
+    - #Conversation 
         - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
             - Yup, this is a great idea! 
             - I added the [[roam/js/tag-cycle]] page such that "CTRL+SHIFT+C HASH" removes the not-populated tag as well -- another option.
@@ -236,7 +236,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
     - #Questions ((about the graph, or directed towards someone)) 
         - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
-    - #Comments
+    - #Conversation
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
             - whoops will do in the future!
         - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" #Ideas
@@ -276,7 +276,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[[Feedback]]` and what is a `[[Question]]`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [[~]] [[Brandon Toner]]
 - #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
     - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
-    - #Comments
+    - #Conversation
         - partially in response to: "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
             - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
             - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence

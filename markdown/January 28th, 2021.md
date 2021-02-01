@@ -141,7 +141,7 @@
                 - They seem kinda straight-forward... but I guess I haven't formalized anything.
         - "Explore your [vision]([[Vision]]) for [[project management]] in Roam. Describe a workflow that could be implemented in this graph. Include how [[handoffs]] could be facilitated between different team members. [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
             - {{[[embed]]: ((zHKXY1TsY))}}
-    - #Comments 
+    - #Conversation 
         - "[[~[[Brandon Toner]]]] Is it valid to add tags to for ones usage(public oriented)?"
             - Absolutely! 
                 - My suggestion would be #Experiments & to make a note that you made that addition under the #[[Change Log]]
@@ -176,7 +176,7 @@ Resolve by "[[replace as text]]"
         - "Oh interesting our CSS looks different for block references. I wonder if css is person specific? But I also didn't change anything in roam/css"
             - "22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} 
-    - #Chat
+    - #[[Conversation]]
         - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
             - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
         - [[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
@@ -231,14 +231,14 @@ Resolve by "[[replace as text]]"
         - Add [[model]] tag ((for the sake of tracing typical pattern used in database))
         - Add [[computation]] page ((for the sake of discussing Roam collaboration))
 - #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
-    - #Comments
+    - #Conversation
         - "And what I wanted to say at the [[Clubhouse]] meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [[Roam]] due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [[~[[Brandon Toner]]]]"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [[RoamLab]]. It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [[~]][[Kyle Stratis]]
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - "With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
             - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]
-    - #Comments
+    - #Conversation
         - "However, I will say that now it seems like there will be multiple "Akiff" pages for me to follow. Akiff Comments, Akiff Bookmarks, Akiff Saved, Akiff Mentions - could be all added into just the [[Akiff Premjee]] page which seems like an interesting idea. Kind of like a personal home page with everything that I need to act on. "
             - I could create/demonstrate some "[[dashboard]]" options if we desire? [[@[[Akiff Premjee]]]]  See image below ⬇️
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F6yPBh4Ec9B.png?alt=media&token=6f533374-f12f-4726-a953-40dba41cb78f)
@@ -269,7 +269,7 @@ Resolve by "[[replace as text]]"
     - #Bookmarks
         - "I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]"
             - This is a great convention and interesting way to follow things I'm interested in. Queries for my name + bookmarks should be able to get me there. 
-    - #Comments
+    - #Conversation
         - "I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [[@[[Beau Hann]]]]"
             - [[~[[Mark Robertson]]]] I'm interested to this and would like to follow. 
             - [[^[[Brandon Toner]]]] this also brings up an interesting use case of __following__ a thread or a comment. I wasn't involved in the original comment but would like to be included in follow-ups or just follow peripherally. If there was something like an "AP Follow" tag that would be cool. I'm not fully involved in the conversation maybe or maybe I am but these are threads or thoughts I'd want to follow as they more fully are developed in the graph (wherever they may develop). This is not really a hand-off but more of a "more hands on or more eyeballs on" haha

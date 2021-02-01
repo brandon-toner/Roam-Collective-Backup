@@ -73,7 +73,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Example](<Example.md>)
 
-- Possible to generate a report of "pages authored by graph members"
+- 
                 - **[Example](<Example.md>):**
 
 - Building queries using sets of data

@@ -4,6 +4,6 @@
 
 # Backlinks
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- Making it so that you have to first visit the page before clicking through to a subpage.
+3. Check the history on The Main Feed
     - **[Decisions](<Decisions.md>):**
 

@@ -1,7 +1,9 @@
 - {{embed: ((FRFW0hQu_))}}
 - ---
-- [Announcements](<Announcements.md>)
+- [Announcements](<Announcements.md>) (**Temporary Message**)
     - **DO NOT UPDATE YOUR ROAM** (latest update is causing instability for some users)
+    - {{[embed](<embed.md>): ((LndnjT55D))}}
+    - {{[embed](<embed.md>): ((vjbkNQ8uM))}}
 - #[Daily Writing Prompts](<Daily Writing Prompts.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "What is your favourite convention within [Roam-Collective](<Roam-Collective.md>)?"
     - "__Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))! ((Don't forget to nest your responses under the Promptstorming tag))"
@@ -11,6 +13,7 @@
     - Some explorations of zettelkasten conventions as it relates to evergreen notes: [here](((IRSOUC-2O))). Feat: [Charles](((sBu3zOPiV)))
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
     - "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
+    - "What is this thing officially called? → (())"
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) 
     - Welcoming [Larissa de Lima](<Larissa de Lima.md>) to the graph! Lots of great ideas already 😃
 - #[Bug Reports](<Bug Reports.md>)
@@ -160,6 +163,11 @@
         - #[Development Requests](<Development Requests.md>) 
             - [Q](<Q.md>) Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?
                 - Making it so that you have to first visit the page before clicking through to a subpage.
+        - [Tips](<Tips.md>)
+            - Routine for [getting caught up](<getting caught up.md>) ((Whether it be for the day or after not being in the graph for a few days)) [*]([Routines](<Routines.md>)) [*]([Processes](<Processes.md>))
+                1. Check the history on Announcements
+                2. Check the history on Change Log
+                3. Check the history on The Main Feed
     - **[Decisions](<Decisions.md>):**
         - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
             - **[Options](<Options.md>):** 
@@ -220,6 +228,18 @@
         7. Added ["in tension with"](((Lc_lSNDeP))) template.
             - "[Q](<Q.md>) How can we flag and process threats to [disambiguation](<disambiguation.md>)? ([i.e.](<i.e..md>) overlap or duplication of pages or conventions.)"
         8. Deleted a bunch of empty references from the DNP Sections based on the not_populated tag (from the past week)
+        9. Making the shift from several questions formats to a simplified setup. [Conventions](<Conventions.md>)
+            - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>)) and [Collections]([collections](<collections.md>)) tag
+            - [Q](<Q.md>) = block level tag. 
+                - This one should be used at the block level to flag a block as a question. 
+            - **[Notes](<Notes.md>):**
+                - The following tags are now retired, with deactivated CSS:
+                    - Open Questions
+                    - Context Questions
+                    - Zettel Questions 
+        10. Making the shift from "Comments" to "Conversation" in the DNP Modules. 
+            - `Chat` should be reserved for the top-section for now.
+            - "`Conversation` as a DNP Module as opposed to Chat + Comments."
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[Dice Roll](<Dice Roll.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
@@ -257,28 +277,29 @@
             - Inline questions, even less threshold than [open questions](<open questions.md>). [Conventions](<Conventions.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [E/Make evergreen notes as you write.](<E/Make evergreen notes as you write..md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) the [astrolabe icon](<astrolabe icon.md>) is an excellent place to hide [instructions](<instructions.md>).
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) How can we flag and process threats to [disambiguation](<disambiguation.md>)? ([i.e.](<i.e..md>) overlap or duplication of pages or conventions.)
         - [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? 
             - e.g. alias to external site vs to page or block reference
         - [Q](<Q.md>) Since BLOCKMENTIONS doesn't have the capability to randomly generate results, what is the best way to create [randomization](<randomization.md>) systems?
         - [Q](<Q.md>) How could we keep track of updates to ensure that documentation scattered around the graph stays [up-to-date](<up-to-date.md>)? [*]([Processes](<Processes.md>))
-    - [Chat](<Chat.md>)
-        - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
-            - Interested in your thoughts on the use of the Choice Algorithm
-            - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
-                - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
     - [Bookmarks](<Bookmarks.md>)
         - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
         - "Brandon and I were discussing structures for Evergreen note pages earlier..." #[evergreen notes](<evergreen notes.md>) [Conventions](<Conventions.md>)
-    - [Comments](<Comments.md>) 
-        1. #[Graph Mentorship](<Graph Mentorship.md>)
+    - [Conversation](<Conversation.md>) 
+        1. #[Chat](<Chat.md>)
+            - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
+                - Interested in your thoughts on the use of the Choice Algorithm
+                - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
+                    - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
+        2. #[Graph Mentorship](<Graph Mentorship.md>)
             - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - **[Example](<Example.md>):** 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
                     - Note that each FN conveys a complete idea. 
-        2. [Replies](<Replies.md>)
+        3. [Replies](<Replies.md>)
             - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
                 - I solve this appearance issue by using [aliases](<aliases.md>). Does this help? [~[[leekeifon](<~[[leekeifon.md>)]]
                 - The reason I'm hesitant to change the css related to [fleeting notes](<fleeting notes.md>) is that the tag is a helpful [visual cue]([visual cues](<visual cues.md>)) to trigger the the presence of a zettelkasten idea in various contexts.
@@ -307,30 +328,32 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Perfect! [*](((JZ5RfJLcK)))
                 - "Better to place it under one's daily notes or within the daily log up above?  "
                     - Within your [DNP Section](<DNP Section.md>) is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [sleep on it](<sleep on it.md>).
-        3. "Turn off brackets to streamline the look of page looks a bit"
+        4. "Turn off brackets to streamline the look of page looks a bit"
             - [ ] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
-        4. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
+        5. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [questions](<questions.md>) throughout the graph.
-        5. "Allows for seamless inline referencing of Evergreen notes"
+        6. "Allows for seamless inline referencing of Evergreen notes"
             - What determines whether you'd reference the page or the block?
             - My gut seems to lean towards referencing the page inline...
                 - I generally prefer the [linked references](<linked references.md>) and [filtering](<filtering.md>) associated with [pages](<pages.md>) over [blocks](<blocks.md>).
-        6. "Added CSS to eliminate the `[Evergreen](<Evergreen.md>)` from block references, leaving only the icon"
+        7. "Added CSS to eliminate the `[Evergreen](<Evergreen.md>)` from block references, leaving only the icon"
             - This does look nice! 
                 - Some reasons for hesitation:
                     - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [disambiguation](<disambiguation.md>).
                         - Especially Evergreen vs Evergreen Notes
-        7. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [graph seed](<graph seed.md>)s"
+        8. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [graph seed](<graph seed.md>)s"
             - Excellent. This is on my mind as well. 
             - "[[[How To](<[[How To.md>) Seed Your Graph]]"
-        8. "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I actually proposed this to Matt haha"
+        9. "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I actually proposed this to Matt haha"
             - HA! I had a feeling. Excellent. Will do tomorrow likely. 
                 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
-        9. "Yup " — "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
+        10. "Yup " — "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
             - You are THE MAN! [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
-        10. "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!"
+        11. "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!"
             - All the credit goes to [Dharam](<Dharam.md>) and [David Vargas](<David Vargas.md>)! 
             - But yes, cool as hell. Lots of potential with datalog. 
+        12. "The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+            - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Make [namespaces](<namespaces.md>) a query-able element 
             - **[Related](<Related.md>):** "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -353,7 +376,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
         - #[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards
-    - #[Chat](<Chat.md>)
+        - [convention on fleeting note content](((cCkvQbhSA))) [^[[leekeifon](<^[[leekeifon.md>)]]
+    - #[Conversation](<Conversation.md>)
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
@@ -364,6 +388,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards". [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [patterns](<patterns.md>) we tend to use in block ((AXYZ model from Joel Chan is one example)).
             - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)".
+    - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]
+        - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
@@ -371,7 +397,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
@@ -400,7 +426,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
                 - Seems like all my unread references are showing up, regardless if its a thread I was reading.  Will see how this looks next time I log in
         - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - [Replies](<Replies.md>)
             - "Excellent documentation on this!! "
                 - Added the recommended tags!!
@@ -464,7 +490,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))"
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
@@ -524,7 +550,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? " [*](((3ak7VaCMQ))) [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - Yup 
                 - Preview
@@ -538,10 +564,10 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: [4CAF50](<4CAF50.md>);;
+    color: [D48715](<D48715.md>);;
 }
 a[href^='http']{
-  color: [4CAF50](<4CAF50.md>);
+  color: [D48715](<D48715.md>);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```"

@@ -94,7 +94,7 @@
     - #Chat
         - Thoughts on this? [[~]][[Charles Farr]]
             - "#[[Open Questions]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
-    - #Comments
+    - #Conversation
         - In [these](((PmZ_NjkFA))) [[fleeting notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
         - "Contributors:: #[[Help Wanted]]"
@@ -241,7 +241,7 @@
                         - Most problems are solved deductively, but there are benefits to presenting a solution inductively
                 - #[[Follow Up]] on the [[The Pyramid Principle]]
         - #Q How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
-    - #Comments
+    - #Conversation
         - "I've landed on " [[Brandon Toner]]
             - Developing the question a bit more...
                 - "#Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))"

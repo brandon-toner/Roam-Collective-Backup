@@ -21,7 +21,7 @@
             - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
             - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-            - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
             - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
         - ---
     - Mentions (BT)
@@ -137,6 +137,9 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))

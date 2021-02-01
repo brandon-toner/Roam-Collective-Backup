@@ -19,7 +19,7 @@
         - More formal ideas go here.
     - #Chat
         - A place to launch chats (calls for input/comment) into the database
-    - #Comments
+    - #Conversation
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - #Questions
         - A place to document questions. 

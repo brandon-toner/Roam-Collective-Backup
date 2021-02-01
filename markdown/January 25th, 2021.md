@@ -16,7 +16,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[Fleeting Notes]] linked references for some [[atomic ideas]].
-            - Reference them under a #Comments block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -89,7 +89,7 @@
                 - It is easy to tell what is going on. 
                 - It is easy to contribute.
                 - It is accessible to "intermediate users" 
-            - Comments::
+            - Conversation::
                 - "Seeding graphs"
                     - How can we effectively "seed" graphs with baseline information?
                         - Depending on features used, JSON or markdown exports should work relatively well for this.
@@ -178,7 +178,7 @@
         4. "How to tag ideas related to graph conventions and processes?"
             - Under `[[[[Feedback]]: [[Suggestions]]]]`?
         5. "How important is it to stick to vanilla Roam?"
-    - #Comments
+    - #Conversation
         1. "[[~]][[Brandon Toner]] any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below)" — fixed
         1. "[[~]] [[Brandon Toner]] how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([[Templates]])
             - Feel free to add some! You could make a `#Templates` section in your DNP section, and create some [[SmartBlocks]] there #Processes #templates
@@ -260,7 +260,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[[The Zettelkasten]]
         - "#[[Fleeting Notes]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
             - #[[Fleeting Notes]] Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
-    - #Comments
+    - #Conversation
         - "How important is it to stick to vanilla Roam?"
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.
             - However, any extension represents a tradeoff in user-friendliness. Worthwhile to considering adding documentation to support onboarding. 

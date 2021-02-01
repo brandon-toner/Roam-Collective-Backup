@@ -3,7 +3,7 @@
     - #[My Daily Notes](<My Daily Notes.md>) [Akiff Premjee](<Akiff Premjee.md>) {{word-count}}
         - [Scratchpad](<Scratchpad.md>)
         - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-        - [Comments](<Comments.md>) [not_populated](<not_populated.md>)
+        - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - ---
 
 # Backlinks

@@ -116,7 +116,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([i.e.](<i.e..md>) exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
-            - [Comments](<Comments.md>)
+            - [Conversation](<Conversation.md>)
                 - "members of the graph" [*](((dYIpKh0sF)))
                     - This would require [second-degree connections](<second-degree connections.md>). [i.e.](<i.e..md>) `[People](<People.md>)` who are also `[Members](<Members.md>)`
                         - #[Open Questions](<Open Questions.md>) How could [second-degree connections](<second-degree connections.md>) be facilitated?
@@ -190,7 +190,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - "23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock" [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]] [cc:[[Beau Hann](<cc:[[Beau Hann.md>)]]
         - Check out [these thoughts](((bFs8wmzoq))) 
             - [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]], [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]], [cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>) in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones [Conventions](<Conventions.md>)""
             - Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: [Conventions](<Conventions.md>)
@@ -303,7 +303,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
     - #[Help Wanted](<Help Wanted.md>)
         - Getting lost when replying to different messages. Don’t know where to go back...
         - Have the friction on not knowing how to backup the information in chat.
-    - #[Chat](<Chat.md>)
+    - #[Conversation](<Conversation.md>)
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]
         - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - Also [this one](((j50xmn4aN))).  cc [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
@@ -364,7 +364,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "Definitely open to re-evaluating this over time. "
             - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]. Again, organic development is probably best here, and remain flexible. 
             - 

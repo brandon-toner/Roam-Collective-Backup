@@ -7,12 +7,9 @@
 ## [Announcements](<Announcements.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
-- Reference them under a [Comments](<Comments.md>) block within your [DNP Section](<DNP Section.md>)
+- Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>)
 
 ## [Bug Reports](<Bug Reports.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
-
-## [Comments](<Comments.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Daily Log](<Daily Log.md>)
@@ -28,7 +25,7 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
-- Reference them under a [Comments](<Comments.md>) block within your [DNP Section](<DNP Section.md>)
+- Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>)
 
 - 23:16 — Noticed some [CSS](<CSS.md>) changes (looks good!) Might be helpful to log those changes using the `#[Change Log](<Change Log.md>)`, nested under your [DNP Section](<DNP Section.md>)
 
@@ -93,6 +90,9 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [chat](<chat.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
+
+## [conversation](<conversation.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [roam/css](<roam/css.md>)

@@ -94,7 +94,7 @@
     - [Chat](<Chat.md>)
         - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
             - "#[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>) perhaps. I consider making a page link a step in [zettelkasten](<zettelkasten.md>) maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [evergreen notes](<evergreen notes.md>) template to it to complete the metamorphosis.
         - **["Contributors](<"Contributors.md>):** #[Help Wanted](<Help Wanted.md>)"
@@ -241,7 +241,7 @@
                         - Most problems are solved deductively, but there are benefits to presenting a solution inductively
                 - #[Follow Up](<Follow Up.md>) on the [The Pyramid Principle](<The Pyramid Principle.md>)
         - [Q](<Q.md>) How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "I've landed on " [Brandon Toner](<Brandon Toner.md>)
             - Developing the question a bit more...
                 - "[Q](<Q.md>) A [zettelkasten](<zettelkasten.md>) / [slipbox](<slipbox.md>) is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))"

@@ -19,7 +19,7 @@
         - More formal ideas go here.
     - [Chat](<Chat.md>)
         - A place to launch chats (calls for input/comment) into the database
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - [Questions](<Questions.md>)
         - A place to document questions. 
@@ -86,4 +86,6 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Questions as one of the [DNP Modules](<DNP Modules.md>)
+
+- [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>))
 

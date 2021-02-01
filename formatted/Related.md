@@ -23,10 +23,6 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
             - **[Related](<Related.md>):**
 
-## [Comments](<Comments.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
-- **[Related](<Related.md>):**
-
 ## [Dice Roll](<Dice Roll.md>)
 - This is certainly an optional convention. 
     - **[Related](<Related.md>):**
@@ -252,6 +248,10 @@
 - **[Related](<Related.md>):**
 
 ## [collections](<collections.md>)
+- **[Related](<Related.md>):**
+
+## [conversation](<conversation.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - **[Related](<Related.md>):**
 
 ## [e.g.](<e.g..md>)

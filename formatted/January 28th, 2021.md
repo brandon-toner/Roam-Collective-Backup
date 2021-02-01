@@ -141,7 +141,7 @@
                 - They seem kinda straight-forward... but I guess I haven't formalized anything.
         - "Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
             - {{[embed](<embed.md>): ((zHKXY1TsY))}}
-    - [Comments](<Comments.md>) 
+    - [Conversation](<Conversation.md>) 
         - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Is it valid to add tags to for ones usage(public oriented)?"
             - Absolutely! 
                 - My suggestion would be [Experiments](<Experiments.md>) & to make a note that you made that addition under the #[Change Log](<Change Log.md>)
@@ -176,7 +176,7 @@ Resolve by "[replace as text](<replace as text.md>)"
         - "Oh interesting our CSS looks different for block references. I wonder if css is person specific? But I also didn't change anything in roam/css"
             - "22:11 — #[Bug Reports](<Bug Reports.md>) more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} 
-    - [Chat](<Chat.md>)
+    - #[Conversation](<Conversation.md>)
         - "[@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)""
             - Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>) or would that happen at the [creative projects](<creative projects.md>) phase?
         - [~[[leekeifon](<~[[leekeifon.md>)]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
@@ -231,14 +231,14 @@ Resolve by "[replace as text](<replace as text.md>)"
         - Add [model](<model.md>) tag ((for the sake of tracing typical pattern used in database))
         - Add [computation](<computation.md>) page ((for the sake of discussing Roam collaboration))
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>) {{word-count}}
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
             - My experience with multiplayer graphs and this specific weakness made me acutely aware of the need for non-Roam communication spaces. Chat and forum tools are a must for another layer or form of communication, and are integral to [RoamLab](<RoamLab.md>). It would be nice if we could put everything in Roam somehow, but it feels like fitting a square peg into a round hole. [~](<~.md>)[Kyle Stratis](<Kyle Stratis.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - "With this huge surge of interest in solving the problems that us [Roam](<Roam.md>) users  are facing, I was having a chat with [Bill Petro](<Bill Petro.md>) on [Slack](<Slack.md>) and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring." 
             - I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [@[[Beau Hann](<@[[Beau Hann.md>)]]
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "However, I will say that now it seems like there will be multiple "Akiff" pages for me to follow. Akiff Comments, Akiff Bookmarks, Akiff Saved, Akiff Mentions - could be all added into just the [Akiff Premjee](<Akiff Premjee.md>) page which seems like an interesting idea. Kind of like a personal home page with everything that I need to act on. "
             - I could create/demonstrate some "[dashboard](<dashboard.md>)" options if we desire? [@[[Akiff Premjee](<@[[Akiff Premjee.md>)]]  See image below ⬇️
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F6yPBh4Ec9B.png?alt=media&token=6f533374-f12f-4726-a953-40dba41cb78f)
@@ -269,7 +269,7 @@ Resolve by "[replace as text](<replace as text.md>)"
     - [Bookmarks](<Bookmarks.md>)
         - "I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [@[[Beau Hann](<@[[Beau Hann.md>)]]"
             - This is a great convention and interesting way to follow things I'm interested in. Queries for my name + bookmarks should be able to get me there. 
-    - [Comments](<Comments.md>)
+    - [Conversation](<Conversation.md>)
         - "I have some big ideas in regards to this, I would like to share them but need to finalize a couple things. Stand by. Will let everybody know when I am at liberty to speak. [@[[Beau Hann](<@[[Beau Hann.md>)]]"
             - [~[[Mark Robertson](<~[[Mark Robertson.md>)]] I'm interested to this and would like to follow. 
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] this also brings up an interesting use case of __following__ a thread or a comment. I wasn't involved in the original comment but would like to be included in follow-ups or just follow peripherally. If there was something like an "AP Follow" tag that would be cool. I'm not fully involved in the conversation maybe or maybe I am but these are threads or thoughts I'd want to follow as they more fully are developed in the graph (wherever they may develop). This is not really a hand-off but more of a "more hands on or more eyeballs on" haha

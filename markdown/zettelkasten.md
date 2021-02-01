@@ -19,7 +19,7 @@
             - #[[Open Questions]]
             - #[[Context Questions]]
             - #[[Zettel Questions]]
-    - Comments::
+    - Conversation::
         - The question-related conventions are more [experimental]([[Experiments]])
     - Tips::
         - View the linked references filtered by [my name]([[Brandon Toner]]) get a sense of the conventions in action.

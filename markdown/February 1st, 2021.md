@@ -1,5 +1,6 @@
 - {{embed: ((FRFW0hQu_))}}
 - ---
+- {{[[embed]]: ((YoxM3sMoZ))}}
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
     - Choose what ever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - Suggestion::
@@ -12,4 +13,12 @@
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
 - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+    - #[[Scratchpad]] #not_populated
+    - #GTD #not_populated
+    - #[[Change Log]] #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+    - #Feedback  #not_populated
 - ---
