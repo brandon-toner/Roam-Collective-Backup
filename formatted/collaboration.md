@@ -26,5 +26,7 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
 
+- "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
 

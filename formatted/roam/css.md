@@ -3902,6 +3902,91 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
+            - Block Reference styling [Status](<../Status.md>)/Enabled
+                - ```css
+.rm-block-ref > span:before {
+  content: '| ';
+  font-weight: 700;
+  color: [FF9800](<../FF9800.md>)
+}```
+            - Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
+                - Example
+                    - [E/active vs passive resurfacing](<../E/active vs passive resurfacing.md>)
+                - Code
+                    - V3
+                        - ```css
+:root {
+  --fg-reference-underline: [136BA2](<../136BA2.md>);
+  --fg-reference-underline-hover: [136BA2](<../136BA2.md>);
+}
+
+/*Reference Links*/
+.rm-page-ref--link{
+    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;
+    /*background-position: 0 100%*/;
+  	/*border-bottom: var(--fg-reference-underline) 1px;*/
+    padding-bottom: 0px;
+  	/*line-height: 24px;*/
+}
+.rm-page-ref--link:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    text-decoration: none;
+    padding-bottom: 0px;
+    /*line-height: 24px;*/
+}
+
+.rm-page-ref--link .rm-page-ref--link {
+  	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    line-height: 28px;
+}
+.rm-page-ref--link .rm-page-ref--link:hover {
+  	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 3px;
+    /*line-height: 28px;*/
+}
+
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
+	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 6px;
+    /*line-height: 32px;*/
+}
+.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
+	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 6px;
+    /*line-height: 32px;*/
+}
+
+/*Namespaces*/
+/*.rm-page-ref--namespace{
+    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    padding-bottom: 0px;
+}
+.rm-page-ref--namespace:hover{
+    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
+    /*background-position: 0 100%;*/
+    text-decoration: none;
+    padding-bottom: 0px;
+}```
+            - External Links [Status](<../Status.md>)/Enabled
+                - ```css
+
+a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+    text-decoration: none!important;
+    border-bottom: 1px dashed;
+    color: [D48715](<../D48715.md>);;
+}
+a[href^='http']{
+  color: [D48715](<../D48715.md>);
+  text-decoration: none!important;
+  border-bottom: 1px solid;
+}```
         4. Other Styling
             - Heading Styling
                 - ```c++
@@ -3968,13 +4053,6 @@ h6 {
 }
 a {
     color: [2179F3](<../2179F3.md>);
-}```
-            - Block Reference styling [Status](<../Status.md>)/Enabled
-                - ```css
-.rm-block-ref > span:before {
-  content: '| ';
-  font-weight: 700;
-  color: [FF9800](<../FF9800.md>)
 }```
             - Left side-bar [Status](<../Status.md>)/Enabled
                 - ```ruby
@@ -4102,84 +4180,6 @@ display:none!important; /* hide page reference (title) */
     content: '🔗'
 }```
                 - 
-            - Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
-                - Example
-                    - [E/active vs passive resurfacing](<../E/active vs passive resurfacing.md>)
-                - Code
-                    - V3
-                        - ```css
-:root {
-  --fg-reference-underline: [136BA2](<../136BA2.md>);
-  --fg-reference-underline-hover: [136BA2](<../136BA2.md>);
-}
-
-/*Reference Links*/
-.rm-page-ref--link{
-    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;
-    /*background-position: 0 100%*/;
-  	/*border-bottom: var(--fg-reference-underline) 1px;*/
-    padding-bottom: 0px;
-  	/*line-height: 24px;*/
-}
-.rm-page-ref--link:hover{
-    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    text-decoration: none;
-    padding-bottom: 0px;
-    /*line-height: 24px;*/
-}
-
-.rm-page-ref--link .rm-page-ref--link {
-  	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 3px;
-    line-height: 28px;
-}
-.rm-page-ref--link .rm-page-ref--link:hover {
-  	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 3px;
-    /*line-height: 28px;*/
-}
-
-.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
-	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 6px;
-    /*line-height: 32px;*/
-}
-.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
-	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 6px;
-    /*line-height: 32px;*/
-}
-
-/*Namespaces*/
-/*.rm-page-ref--namespace{
-    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    padding-bottom: 0px;
-}
-.rm-page-ref--namespace:hover{
-    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
-    /*background-position: 0 100%;*/
-    text-decoration: none;
-    padding-bottom: 0px;
-}```
-            - External Links [Status](<../Status.md>)/Enabled
-                - ```css
-
-a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
-    text-decoration: none!important;
-    border-bottom: 1px dashed;
-    color: [D48715](<../D48715.md>);;
-}
-a[href^='http']{
-  color: [D48715](<../D48715.md>);
-  text-decoration: none!important;
-  border-bottom: 1px solid;
-}```
     - Feature Expansions
         - Split Screen
         - Split Tags

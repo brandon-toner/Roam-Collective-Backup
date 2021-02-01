@@ -12,7 +12,31 @@
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-- #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- #GTD ((Run the "Daily Review" smartblock))
+    - Daily Review::
+        - **Scheduled for Today:**
+            - **Page:** [[January 31st, 2021]]
+{{[[embed]]: ((l8aQmrssa))}}
+        - **Overdue TODOs:**  
+            - {{[[embed]]: ((9ZdW5S8U6))}}
+        - **This Week:** `#[[Week-05: 02-01-2021]]`
+            **Results:** 3 **Max:** 25
+            **Page:** [[January 29th, 2021]]
+{{[[embed]]: ((h4qDkzBRI))}}
+            **Page:** [[January 29th, 2021]]
+{{[[embed]]: ((CSNScVulJ))}}
+            **Page:** [[January 31st, 2021]]
+{{[[embed]]: ((UTsXd_3pp))}}
+        - {{TODO This Month:42SmartBlock:.rc3TODO — TODO This Month}}
+    - **Ways you can help:**
+        - __Check out the linked references on the Help Wanted tag for more other ways you can contribute.__ Thanks for being here 😄
+        - **Results:** 3 **Max:** 20
+        - **Page:** [[January 29th, 2021]]
+{{[[embed]]: ((CSNScVulJ))}}
+        - **Page:** [[January 30th, 2021]]
+{{[[embed]]: ((6WHeIizl5))}}
+        - **Page:** [[January 30th, 2021]]
+{{[[embed]]: ((29MTnT-MQ))}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] #not_populated

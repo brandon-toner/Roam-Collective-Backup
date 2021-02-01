@@ -1569,14 +1569,14 @@
                         ":block/uid": "sOFO_CQh4"
                       },
                       {
-                        ":block/uid": "01-31-2021"
+                        ":block/uid": "02-01-2021"
                       }
                     ],
                     ":edit/user": {
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "create-time": 1611610058255,
-                    "edit-time": 1612032565424,
+                    "edit-time": 1612152480377,
                     "refs": [
                       {
                         "uid": "LIN9EviIA"
@@ -1585,10 +1585,10 @@
                         "uid": "sOFO_CQh4"
                       },
                       {
-                        "uid": "01-31-2021"
+                        "uid": "02-01-2021"
                       }
                     ],
-                    "string": "{{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[January 31st, 2021]] ",
+                    "string": "{{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[February 1st, 2021]] ",
                     "uid": "9ZdW5S8U6"
                   },
                   {
@@ -13303,6 +13303,172 @@
                     "edit-time": 1612027186949,
                     "string": "Headings",
                     "uid": "nL58k_bhI"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1bbITl5EY"
+                      }
+                    ],
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "PoWJaGiEF0cj98CrUlg6QDf11oH3"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "PoWJaGiEF0cj98CrUlg6QDf11oH3"
+                        },
+                        "create-time": 1611885458023,
+                        "edit-time": 1611885516476,
+                        "string": "```css\n.rm-block-ref > span:before {\n  content: '| ';\n  font-weight: 700;\n  color: #FF9800\n}```",
+                        "uid": "YNCI8glGA"
+                      }
+                    ],
+                    "create-time": 1605146056761,
+                    "edit-time": 1611598443165,
+                    "refs": [
+                      {
+                        "uid": "1bbITl5EY"
+                      }
+                    ],
+                    "string": "Block Reference styling #Status/Enabled",
+                    "uid": "xcLgPdvs0"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1bbITl5EY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "BMn019NSe"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612064709842,
+                            "edit-time": 1612111505244,
+                            "refs": [
+                              {
+                                "uid": "BMn019NSe"
+                              }
+                            ],
+                            "string": "[[E/active vs passive resurfacing]]",
+                            "uid": "lLBKsOw2I"
+                          }
+                        ],
+                        "create-time": 1612064707655,
+                        "edit-time": 1612064709865,
+                        "string": "Example",
+                        "uid": "8qw7gXcx-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                            },
+                            "children": [
+                              {
+                                ":create/user": {
+                                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "create-time": 1612072320594,
+                                "edit-time": 1612111620745,
+                                "string": "```css\n:root {\n  --fg-reference-underline: #136BA2;\n  --fg-reference-underline-hover: #136BA2;\n}\n\n/*Reference Links*/\n.rm-page-ref--link{\n    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;\n    /*background-position: 0 100%*/;\n  \t/*border-bottom: var(--fg-reference-underline) 1px;*/\n    padding-bottom: 0px;\n  \t/*line-height: 24px;*/\n}\n.rm-page-ref--link:hover{\n    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    text-decoration: none;\n    padding-bottom: 0px;\n    /*line-height: 24px;*/\n}\n\n.rm-page-ref--link .rm-page-ref--link {\n  \t/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 3px;\n    line-height: 28px;\n}\n.rm-page-ref--link .rm-page-ref--link:hover {\n  \tbackground: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 3px;\n    /*line-height: 28px;*/\n}\n\n.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {\n\t/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 6px;\n    /*line-height: 32px;*/\n}\n.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {\n\tbackground: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 6px;\n    /*line-height: 32px;*/\n}\n\n/*Namespaces*/\n/*.rm-page-ref--namespace{\n    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 0px;\n}\n.rm-page-ref--namespace:hover{\n    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    text-decoration: none;\n    padding-bottom: 0px;\n}```",
+                                "uid": "UHg6-iYtM"
+                              }
+                            ],
+                            "create-time": 1612064666202,
+                            "edit-time": 1612072356827,
+                            "string": "V3",
+                            "uid": "cdFKI10Db"
+                          }
+                        ],
+                        "create-time": 1612064940900,
+                        "edit-time": 1612064942804,
+                        "string": "Code",
+                        "uid": "yee8YSe9M"
+                      }
+                    ],
+                    "create-time": 1592346209849,
+                    "edit-time": 1612064963491,
+                    "refs": [
+                      {
+                        "uid": "1bbITl5EY"
+                      }
+                    ],
+                    "string": "Page Reference Underlines & Nested Links #Status/Enabled",
+                    "uid": "y9rumn-yn"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "1bbITl5EY"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612138751794,
+                        "edit-time": 1612143279828,
+                        "string": "```css\n\na[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {\n    text-decoration: none!important;\n    border-bottom: 1px dashed;\n    color: #D48715;;\n}\na[href^='http']{\n  color: #D48715;\n  text-decoration: none!important;\n  border-bottom: 1px solid;\n}```",
+                        "uid": "J_LXHtz-C"
+                      }
+                    ],
+                    "create-time": 1612138739381,
+                    "edit-time": 1612139305187,
+                    "refs": [
+                      {
+                        "uid": "1bbITl5EY"
+                      }
+                    ],
+                    "string": "External Links #Status/Enabled",
+                    "uid": "r3wJzzQJP"
                   }
                 ],
                 "create-time": 1612027170288,
@@ -13390,36 +13556,6 @@
                     ],
                     "string": "Headings & font #Status/Enabled",
                     "uid": "OmgC9_fqU"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "1bbITl5EY"
-                      }
-                    ],
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "PoWJaGiEF0cj98CrUlg6QDf11oH3"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "PoWJaGiEF0cj98CrUlg6QDf11oH3"
-                        },
-                        "create-time": 1611885458023,
-                        "edit-time": 1611885516476,
-                        "string": "```css\n.rm-block-ref > span:before {\n  content: '| ';\n  font-weight: 700;\n  color: #FF9800\n}```",
-                        "uid": "YNCI8glGA"
-                      }
-                    ],
-                    "create-time": 1605146056761,
-                    "edit-time": 1611598443165,
-                    "refs": [
-                      {
-                        "uid": "1bbITl5EY"
-                      }
-                    ],
-                    "string": "Block Reference styling #Status/Enabled",
-                    "uid": "xcLgPdvs0"
                   },
                   {
                     ":block/refs": [
@@ -13610,142 +13746,6 @@
                     ],
                     "string": "Link Symbol #Status/Enabled",
                     "uid": "uSH4g7v-T"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "1bbITl5EY"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                        },
-                        "children": [
-                          {
-                            ":block/refs": [
-                              {
-                                ":block/uid": "BMn019NSe"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                            },
-                            "create-time": 1612064709842,
-                            "edit-time": 1612111505244,
-                            "refs": [
-                              {
-                                "uid": "BMn019NSe"
-                              }
-                            ],
-                            "string": "[[E/active vs passive resurfacing]]",
-                            "uid": "lLBKsOw2I"
-                          }
-                        ],
-                        "create-time": 1612064707655,
-                        "edit-time": 1612064709865,
-                        "string": "Example",
-                        "uid": "8qw7gXcx-"
-                      },
-                      {
-                        ":create/user": {
-                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                        },
-                        "children": [
-                          {
-                            ":create/user": {
-                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                            },
-                            "children": [
-                              {
-                                ":create/user": {
-                                  ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
-                                },
-                                ":edit/user": {
-                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                                },
-                                "create-time": 1612072320594,
-                                "edit-time": 1612111620745,
-                                "string": "```css\n:root {\n  --fg-reference-underline: #136BA2;\n  --fg-reference-underline-hover: #136BA2;\n}\n\n/*Reference Links*/\n.rm-page-ref--link{\n    /*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px)*/;\n    /*background-position: 0 100%*/;\n  \t/*border-bottom: var(--fg-reference-underline) 1px;*/\n    padding-bottom: 0px;\n  \t/*line-height: 24px;*/\n}\n.rm-page-ref--link:hover{\n    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    text-decoration: none;\n    padding-bottom: 0px;\n    /*line-height: 24px;*/\n}\n\n.rm-page-ref--link .rm-page-ref--link {\n  \t/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 3px;\n    line-height: 28px;\n}\n.rm-page-ref--link .rm-page-ref--link:hover {\n  \tbackground: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 3px;\n    /*line-height: 28px;*/\n}\n\n.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {\n\t/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 6px;\n    /*line-height: 32px;*/\n}\n.rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {\n\tbackground: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 6px;\n    /*line-height: 32px;*/\n}\n\n/*Namespaces*/\n/*.rm-page-ref--namespace{\n    background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    padding-bottom: 0px;\n}\n.rm-page-ref--namespace:hover{\n    background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);\n    /*background-position: 0 100%;*/\n    text-decoration: none;\n    padding-bottom: 0px;\n}```",
-                                "uid": "UHg6-iYtM"
-                              }
-                            ],
-                            "create-time": 1612064666202,
-                            "edit-time": 1612072356827,
-                            "string": "V3",
-                            "uid": "cdFKI10Db"
-                          }
-                        ],
-                        "create-time": 1612064940900,
-                        "edit-time": 1612064942804,
-                        "string": "Code",
-                        "uid": "yee8YSe9M"
-                      }
-                    ],
-                    "create-time": 1592346209849,
-                    "edit-time": 1612064963491,
-                    "refs": [
-                      {
-                        "uid": "1bbITl5EY"
-                      }
-                    ],
-                    "string": "Page Reference Underlines & Nested Links #Status/Enabled",
-                    "uid": "y9rumn-yn"
-                  },
-                  {
-                    ":block/refs": [
-                      {
-                        ":block/uid": "1bbITl5EY"
-                      }
-                    ],
-                    ":create/user": {
-                      ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                    },
-                    "children": [
-                      {
-                        ":create/user": {
-                          ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-                        },
-                        "create-time": 1612138751794,
-                        "edit-time": 1612143279828,
-                        "string": "```css\n\na[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {\n    text-decoration: none!important;\n    border-bottom: 1px dashed;\n    color: #D48715;;\n}\na[href^='http']{\n  color: #D48715;\n  text-decoration: none!important;\n  border-bottom: 1px solid;\n}```",
-                        "uid": "J_LXHtz-C"
-                      }
-                    ],
-                    "create-time": 1612138739381,
-                    "edit-time": 1612139305187,
-                    "refs": [
-                      {
-                        "uid": "1bbITl5EY"
-                      }
-                    ],
-                    "string": "External Links #Status/Enabled",
-                    "uid": "r3wJzzQJP"
                   }
                 ],
                 "create-time": 1606027103540,
@@ -17653,28 +17653,6 @@
         ],
         "string": "#[[Bug Reports]]",
         "uid": "J0_eYuJZz"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "vXVfH42lB"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-        },
-        ":edit/user": {
-          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
-        },
-        "create-time": 1612068597402,
-        "edit-time": 1612068640227,
-        "refs": [
-          {
-            "uid": "vXVfH42lB"
-          }
-        ],
-        "string": "#Waiting",
-        "uid": "M27sbT4Vs"
       },
       {
         ":block/refs": [
@@ -69601,7 +69579,7 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "sOFO_CQh4"
+                    ":block/uid": "_XNKOBVAV"
                   },
                   {
                     ":block/uid": "eIfs3ozbT"
@@ -69617,10 +69595,10 @@
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
                 "create-time": 1611954091768,
-                "edit-time": 1611973177722,
+                "edit-time": 1612152572095,
                 "refs": [
                   {
-                    "uid": "sOFO_CQh4"
+                    "uid": "_XNKOBVAV"
                   },
                   {
                     "uid": "eIfs3ozbT"
@@ -69629,7 +69607,7 @@
                     "uid": "JQId74nTN"
                   }
                 ],
-                "string": "{{[[TODO]]}} Add the [[choice algorithm]] template convention. #[[Week-05: 02-01-2021]]",
+                "string": "{{[[DONE]]}} Add the [[choice algorithm]] template convention. #[[Week-05: 02-01-2021]]",
                 "uid": "h4qDkzBRI"
               }
             ],
@@ -98697,7 +98675,10 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "vXVfH42lB"
+                        ":block/uid": "0dqg2fVd8"
+                      },
+                      {
+                        ":block/uid": "l3i3jf6ae"
                       },
                       {
                         ":block/uid": "HyttnrjQh"
@@ -98713,6 +98694,34 @@
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "o4W_Whj1N"
+                          },
+                          {
+                            ":block/uid": "DIUL7_jkM"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612152525597,
+                        "edit-time": 1612152549444,
+                        "refs": [
+                          {
+                            "uid": "o4W_Whj1N"
+                          },
+                          {
+                            "uid": "DIUL7_jkM"
+                          }
+                        ],
+                        "string": "Response:: Can't be omitted. But can be hidden in an [[astrolabe icon]].",
+                        "uid": "-x44x0VlN"
+                      },
                       {
                         ":create/user": {
                           ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
@@ -98765,10 +98774,13 @@
                       }
                     ],
                     "create-time": 1612113284184,
-                    "edit-time": 1612114568091,
+                    "edit-time": 1612152524081,
                     "refs": [
                       {
-                        "uid": "vXVfH42lB"
+                        "uid": "0dqg2fVd8"
+                      },
+                      {
+                        "uid": "l3i3jf6ae"
                       },
                       {
                         "uid": "HyttnrjQh"
@@ -98777,7 +98789,7 @@
                         "uid": "5o4xOMgPb"
                       }
                     ],
-                    "string": "Contacted [[Roamhacker]] to see if the block reference generated could be omitted, leaving only the page. #Waiting #[[Development Requests]]",
+                    "string": "Contacted [[Roamhacker]] to see if the block reference generated could be omitted, leaving only the page. #[[Waiting-[[resolved]]]] #[[Development Requests]]",
                     "uid": "BqPvGVZCc"
                   }
                 ],
@@ -99076,13 +99088,13 @@
                   }
                 ],
                 "create-time": 1612145204247,
-                "edit-time": 1612145285895,
+                "edit-time": 1612151842650,
                 "refs": [
                   {
                     "uid": "TxsV9GIET"
                   }
                 ],
-                "string": "Making the shift from several questions formats to a simplified setup. #Conventions",
+                "string": "Making the shift from several questions formats to a **simplified** setup. #Conventions",
                 "uid": "LndnjT55D"
               },
               {
@@ -99129,8 +99141,8 @@
                   }
                 ],
                 "create-time": 1612146160469,
-                "edit-time": 1612146189000,
-                "string": "Making the shift from \"Comments\" to \"Conversation\" in the DNP Modules. ",
+                "edit-time": 1612151831475,
+                "string": "Making the shift from **\"Comments\"** to **\"Conversation\"** in the DNP Modules. ",
                 "uid": "vjbkNQ8uM"
               }
             ],
@@ -101105,6 +101117,12 @@
                         ":block/uid": "eIfs3ozbT"
                       },
                       {
+                        ":block/uid": "86GGMpHF5"
+                      },
+                      {
+                        ":block/uid": "bPlebnHVk"
+                      },
+                      {
                         ":block/uid": "ngfpU7mAk"
                       }
                     ],
@@ -101115,7 +101133,7 @@
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "create-time": 1612106383960,
-                    "edit-time": 1612106479374,
+                    "edit-time": 1612152611090,
                     "refs": [
                       {
                         "uid": "SUWj-tpl5"
@@ -101130,10 +101148,16 @@
                         "uid": "eIfs3ozbT"
                       },
                       {
+                        "uid": "86GGMpHF5"
+                      },
+                      {
+                        "uid": "bPlebnHVk"
+                      },
+                      {
                         "uid": "ngfpU7mAk"
                       }
                     ],
-                    "string": "{{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]]",
+                    "string": "{{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]] [[@[[Matthew Vogel]]]]",
                     "uid": "UTsXd_3pp"
                   }
                 ],
@@ -102252,6 +102276,124 @@
                 ],
                 "string": "[convention on fleeting note content](((cCkvQbhSA))) [[^[[leekeifon]]]]",
                 "uid": "ts8drILcq"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "4YV1dG4Lw"
+                  },
+                  {
+                    ":block/uid": "esVJGziyv"
+                  },
+                  {
+                    ":block/uid": "3KAgvr9gw"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1612155758810,
+                "edit-time": 1612155782414,
+                "refs": [
+                  {
+                    "uid": "4YV1dG4Lw"
+                  },
+                  {
+                    "uid": "esVJGziyv"
+                  },
+                  {
+                    "uid": "3KAgvr9gw"
+                  }
+                ],
+                "string": "((3KAgvr9gw)) [[^[[leekeifon]]]]",
+                "uid": "XYMbTHhJl"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "BAtoKQJWQ"
+                  },
+                  {
+                    ":block/uid": "AiViaN4j-"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1612155776606,
+                "edit-time": 1612155912688,
+                "refs": [
+                  {
+                    "uid": "BAtoKQJWQ"
+                  },
+                  {
+                    "uid": "AiViaN4j-"
+                  }
+                ],
+                "string": "#[[P:Self]] It\u2019s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).",
+                "uid": "r-8bWRRVc"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "4YV1dG4Lw"
+                  },
+                  {
+                    ":block/uid": "esVJGziyv"
+                  },
+                  {
+                    ":block/uid": "fNxBzN83f"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1612155886859,
+                "edit-time": 1612156071546,
+                "refs": [
+                  {
+                    "uid": "4YV1dG4Lw"
+                  },
+                  {
+                    "uid": "esVJGziyv"
+                  },
+                  {
+                    "uid": "fNxBzN83f"
+                  }
+                ],
+                "string": "((fNxBzN83f)) [[^[[leekeifon]]]]",
+                "uid": "pNho9lNaC"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "lis-ySVVb"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1612156071535,
+                "edit-time": 1612156411201,
+                "refs": [
+                  {
+                    "uid": "lis-ySVVb"
+                  }
+                ],
+                "string": "#[[Q]] What could be the common base of a digital environment of loosely connected people expectation?",
+                "uid": "bOdWjyxWz"
               }
             ],
             "create-time": 1612088968118,
@@ -102669,6 +102811,58 @@
             ],
             "string": "#[[[[Feedback]]: [[Suggestions]]]]",
             "uid": "k0Z35-NNO"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "HEaru_-6b"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            ":edit/user": {
+              ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "-vmOh9JNA"
+                  },
+                  {
+                    ":block/uid": "PHA4b1MZj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                ":edit/user": {
+                  ":user/uid": "hwJf6L1IbkNl2pNit9ZKmwssUpm1"
+                },
+                "create-time": 1612156956126,
+                "edit-time": 1612157062159,
+                "refs": [
+                  {
+                    "uid": "-vmOh9JNA"
+                  },
+                  {
+                    "uid": "PHA4b1MZj"
+                  }
+                ],
+                "string": "__Magic Ink(Bret Victors)__ mentioned [here](((PHA4b1MZj))) by [[Larissa de Lima]]",
+                "uid": "QM2kg2yOm"
+              }
+            ],
+            "create-time": 1612156931252,
+            "edit-time": 1612156955970,
+            "refs": [
+              {
+                "uid": "HEaru_-6b"
+              }
+            ],
+            "string": "#[[Resources]]",
+            "uid": "sfepLqx1Z"
           }
         ],
         "create-time": 1612088935339,
@@ -113299,9 +113493,6 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "bjQLhCc-Z"
-          },
-          {
             ":block/uid": "iF_j5T0jr"
           }
         ],
@@ -113311,17 +113502,410 @@
         ":edit/user": {
           ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
         },
-        "create-time": 1612139998151,
-        "edit-time": 1612139998151,
-        "refs": [
+        "children": [
           {
-            "uid": "bjQLhCc-Z"
+            ":block/refs": [
+              {
+                ":block/uid": "-gwpe1nXu"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "01-31-2021"
+                      },
+                      {
+                        ":block/uid": "l8aQmrssa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152405221,
+                    "edit-time": 1612152405614,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "01-31-2021"
+                      },
+                      {
+                        "uid": "l8aQmrssa"
+                      }
+                    ],
+                    "string": "**Page:** [[January 31st, 2021]]\n{{[[embed]]: ((l8aQmrssa))}}",
+                    "uid": "iwOrIBDo-"
+                  }
+                ],
+                "create-time": 1612152403202,
+                "edit-time": 1612152403574,
+                "string": "**Scheduled for Today:**",
+                "uid": "bw7XJ4QrU"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "9ZdW5S8U6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152476666,
+                    "edit-time": 1612152477057,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "9ZdW5S8U6"
+                      }
+                    ],
+                    "string": "{{[[embed]]: ((9ZdW5S8U6))}}",
+                    "uid": "M3qXtEYfP"
+                  }
+                ],
+                "create-time": 1612152405606,
+                "edit-time": 1612152476684,
+                "string": "**Overdue TODOs:**  ",
+                "uid": "56Ab_1LZn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152566459,
+                    "edit-time": 1612152567221,
+                    "string": "**Results:** 3 **Max:** 25",
+                    "uid": "kmDodylqk"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "01-29-2021"
+                      },
+                      {
+                        ":block/uid": "h4qDkzBRI"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152567215,
+                    "edit-time": 1612152567608,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "01-29-2021"
+                      },
+                      {
+                        "uid": "h4qDkzBRI"
+                      }
+                    ],
+                    "string": "**Page:** [[January 29th, 2021]]\n{{[[embed]]: ((h4qDkzBRI))}}",
+                    "uid": "SC-80YH6Y"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "01-29-2021"
+                      },
+                      {
+                        ":block/uid": "CSNScVulJ"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152567599,
+                    "edit-time": 1612152568092,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "01-29-2021"
+                      },
+                      {
+                        "uid": "CSNScVulJ"
+                      }
+                    ],
+                    "string": "**Page:** [[January 29th, 2021]]\n{{[[embed]]: ((CSNScVulJ))}}",
+                    "uid": "KDcZViURF"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "01-31-2021"
+                      },
+                      {
+                        ":block/uid": "UTsXd_3pp"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612152568084,
+                    "edit-time": 1612152568684,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "01-31-2021"
+                      },
+                      {
+                        "uid": "UTsXd_3pp"
+                      }
+                    ],
+                    "string": "**Page:** [[January 31st, 2021]]\n{{[[embed]]: ((UTsXd_3pp))}}",
+                    "uid": "30JeR8YOc"
+                  }
+                ],
+                "create-time": 1612152406351,
+                "edit-time": 1612152566477,
+                "string": "**This Week:** `#[[Week-05: 02-01-2021]]`",
+                "uid": "kaGlBYMxw"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152407458,
+                "edit-time": 1612152407662,
+                "string": "{{TODO This Month:42SmartBlock:.rc3TODO \u2014 TODO This Month}}",
+                "uid": "6nrMXWIhH"
+              }
+            ],
+            "create-time": 1612152395211,
+            "edit-time": 1612152403209,
+            "refs": [
+              {
+                "uid": "-gwpe1nXu"
+              }
+            ],
+            "string": "Daily Review::",
+            "uid": "G8Ec7Kbmr"
           },
+          {
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152407966,
+                "edit-time": 1612152408317,
+                "string": "__Check out the linked references on the Help Wanted tag for more other ways you can contribute.__ Thanks for being here \ud83d\ude04",
+                "uid": "JXdOeiN7W"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152408323,
+                "edit-time": 1612152408550,
+                "string": "**Results:** 3 **Max:** 20",
+                "uid": "-OnyoGb6G"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ir3nPs-SW"
+                  },
+                  {
+                    ":block/uid": "01-29-2021"
+                  },
+                  {
+                    ":block/uid": "CSNScVulJ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152408543,
+                "edit-time": 1612152408754,
+                "refs": [
+                  {
+                    "uid": "Ir3nPs-SW"
+                  },
+                  {
+                    "uid": "01-29-2021"
+                  },
+                  {
+                    "uid": "CSNScVulJ"
+                  }
+                ],
+                "string": "**Page:** [[January 29th, 2021]]\n{{[[embed]]: ((CSNScVulJ))}}",
+                "uid": "aog6_Q_aa"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ir3nPs-SW"
+                  },
+                  {
+                    ":block/uid": "01-30-2021"
+                  },
+                  {
+                    ":block/uid": "6WHeIizl5"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152408741,
+                "edit-time": 1612152409032,
+                "refs": [
+                  {
+                    "uid": "Ir3nPs-SW"
+                  },
+                  {
+                    "uid": "01-30-2021"
+                  },
+                  {
+                    "uid": "6WHeIizl5"
+                  }
+                ],
+                "string": "**Page:** [[January 30th, 2021]]\n{{[[embed]]: ((6WHeIizl5))}}",
+                "uid": "AOk7ycyEb"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ir3nPs-SW"
+                  },
+                  {
+                    ":block/uid": "01-30-2021"
+                  },
+                  {
+                    ":block/uid": "29MTnT-MQ"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "create-time": 1612152409024,
+                "edit-time": 1612152409493,
+                "refs": [
+                  {
+                    "uid": "Ir3nPs-SW"
+                  },
+                  {
+                    "uid": "01-30-2021"
+                  },
+                  {
+                    "uid": "29MTnT-MQ"
+                  }
+                ],
+                "string": "**Page:** [[January 30th, 2021]]\n{{[[embed]]: ((29MTnT-MQ))}}",
+                "uid": "tA9XnSDoF"
+              }
+            ],
+            "create-time": 1612152407642,
+            "edit-time": 1612152407972,
+            "string": "**Ways you can help:**",
+            "uid": "lwNVJbO1n"
+          }
+        ],
+        "create-time": 1612139998151,
+        "edit-time": 1612152395220,
+        "refs": [
           {
             "uid": "iF_j5T0jr"
           }
         ],
-        "string": "#GTD ((Run the \"Daily Review\" smartblock)) #not_populated ",
+        "string": "#GTD ((Run the \"Daily Review\" smartblock))",
         "uid": "1V1YcPlg6"
       },
       {
@@ -114659,5 +115243,17 @@
     "edit-time": 1612148993814,
     "title": "instructions",
     "uid": "nvsWbPwIh"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612152531530,
+    "edit-time": 1612152531547,
+    "title": "Response",
+    "uid": "DIUL7_jkM"
   }
 ]

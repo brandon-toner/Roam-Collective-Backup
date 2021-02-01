@@ -158,7 +158,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - Added the "cc" convention.
         - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock
     - #GTD
-        - {{[[TODO]]}} Add the [[choice algorithm]] template convention. #[[Week-05: 02-01-2021]]
+        - {{[[DONE]]}} Add the [[choice algorithm]] template convention. #[[Week-05: 02-01-2021]]
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten
             - Agreement Rating:: {{[[slider]]}}

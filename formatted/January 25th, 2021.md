@@ -72,7 +72,7 @@
             11. [ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
             12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
-            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 31st, 2021](<January 31st, 2021.md>) 
+            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>) 
             14. [x] Establish a "[Daily Writing Prompts](<Daily Writing Prompts.md>)" workflow. [Processes](<Processes.md>)
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. [x] Consolidate and streamline some of the Getting Started, Start Here, etc stuff.

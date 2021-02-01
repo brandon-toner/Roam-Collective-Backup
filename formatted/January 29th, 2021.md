@@ -158,7 +158,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - Added the "cc" convention.
         - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock
     - [GTD](<GTD.md>)
-        - [ ] Add the [choice algorithm](<choice algorithm.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+        - [x] Add the [choice algorithm](<choice algorithm.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
             - **[Agreement Rating](<Agreement Rating.md>):** {{[slider](<slider.md>)}}
@@ -399,4 +399,11 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+**Page:** [January 29th, 2021](<January 29th, 2021.md>)
+
+**Page:** [January 29th, 2021](<January 29th, 2021.md>)
+
+- **Page:** [January 29th, 2021](<January 29th, 2021.md>)
 

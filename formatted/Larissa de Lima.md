@@ -27,6 +27,8 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Welcoming [Larissa de Lima](<Larissa de Lima.md>)
 
+- __Magic Ink(Bret Victors)__ mentioned [here](((PHA4b1MZj))) by [Larissa de Lima](<Larissa de Lima.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [Larissa de Lima](<Larissa de Lima.md>)

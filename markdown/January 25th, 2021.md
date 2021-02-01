@@ -72,7 +72,7 @@
             11. {{[[TODO]]}} Improve [[roam/css]] styling (make it more consistent and easy on the eyes)
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
             12. {{[[DONE]]}} Clarify the [[zettelkasten]] conventions for [[Roam-Collective]]
-            13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[January 31st, 2021]] 
+            13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[February 1st, 2021]] 
             14. {{[[DONE]]}} Establish a "[[Daily Writing Prompts]]" workflow. #Processes
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. {{[[DONE]]}} Consolidate and streamline some of the Getting Started, Start Here, etc stuff.

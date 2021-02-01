@@ -53,6 +53,9 @@
 
 - {{[DONE](<DONE.md>)}
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- {{[DONE](<DONE.md>)}
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - {{[DONE](<DONE.md>)}
 

@@ -218,7 +218,8 @@
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
         3. Added namespace of `E/` in front of Evergreen notes [*](((u8etVKAtE)))
         4. Added a [random evergreen note](((Qyxu5azax))) smartblock
-            - Contacted [[Roamhacker]] to see if the block reference generated could be omitted, leaving only the page. #Waiting #[[Development Requests]]
+            - Contacted [[Roamhacker]] to see if the block reference generated could be omitted, leaving only the page. #[[Waiting-[[resolved]]]] #[[Development Requests]]
+                - Response:: Can't be omitted. But can be hidden in an [[astrolabe icon]].
                 - Here's my workflow in the meantime.
                     - GIF::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
@@ -228,7 +229,7 @@
         7. Added ["in tension with"](((Lc_lSNDeP))) template.
             - "#Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)"
         8. Deleted a bunch of empty references from the DNP Sections based on the not_populated tag (from the past week)
-        9. Making the shift from several questions formats to a simplified setup. #Conventions
+        9. Making the shift from several questions formats to a **simplified** setup. #Conventions
             - #Questions = [DNP Module Tag]([[DNP Modules]]) and [Collections]([[collections]]) tag
             - #Q = block level tag. 
                 - This one should be used at the block level to flag a block as a question. 
@@ -237,7 +238,7 @@
                     - Open Questions
                     - Context Questions
                     - Zettel Questions 
-        10. Making the shift from "Comments" to "Conversation" in the DNP Modules. 
+        10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
             - `Chat` should be reserved for the top-section for now.
             - "`Conversation` as a DNP Module as opposed to Chat + Comments."
     - #Promptstorming #not_populated
@@ -329,7 +330,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - "Better to place it under one's daily notes or within the daily log up above?  "
                     - Within your [[DNP Section]] is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [[sleep on it]].
         4. "Turn off brackets to streamline the look of page looks a bit"
-            - {{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]]
+            - {{[[TODO]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]] [[@[[Matthew Vogel]]]]
         5. "#[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags" #Bookmarks
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [[questions]] throughout the graph.
         6. "Allows for seamless inline referencing of Evergreen notes"
@@ -377,6 +378,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #[[Fleeting Notes]] composable [[visual cues]]
         - #[[Fleeting Notes]] visual feedback as rewards
         - [convention on fleeting note content](((cCkvQbhSA))) [[^[[leekeifon]]]]
+        - "#[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal" [[^[[leekeifon]]]]
+        - #[[P:Self]] It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
+        - "#[[Fleeting Notes]] Effective teaming requires clear norms and expectations" [[^[[leekeifon]]]]
+        - #[[Q]] What could be the common base of a digital environment of loosely connected people expectation?
     - #[[Conversation]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]
@@ -390,6 +395,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]".
     - #[[[[Feedback]]: [[Suggestions]]]]
         - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [[~[[Brandon Toner]]]]
+    - #[[Resources]]
+        - __Magic Ink(Bret Victors)__ mentioned [here](((PHA4b1MZj))) by [[Larissa de Lima]]
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]] #not_populated

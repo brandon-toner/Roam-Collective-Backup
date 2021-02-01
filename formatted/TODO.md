@@ -37,8 +37,6 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 

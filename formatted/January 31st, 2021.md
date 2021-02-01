@@ -218,7 +218,8 @@
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
         3. Added namespace of `E/` in front of Evergreen notes [*](((u8etVKAtE)))
         4. Added a [random evergreen note](((Qyxu5azax))) smartblock
-            - Contacted [Roamhacker](<Roamhacker.md>) to see if the block reference generated could be omitted, leaving only the page. [Waiting](<Waiting.md>) #[Development Requests](<Development Requests.md>)
+            - Contacted [Roamhacker](<Roamhacker.md>) to see if the block reference generated could be omitted, leaving only the page. #[Waiting-[[resolved](<Waiting-[[resolved.md>)]] #[Development Requests](<Development Requests.md>)
+                - **[Response](<Response.md>):** Can't be omitted. But can be hidden in an [astrolabe icon](<astrolabe icon.md>).
                 - Here's my workflow in the meantime.
                     - **[GIF](<GIF.md>):**
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
@@ -228,7 +229,7 @@
         7. Added ["in tension with"](((Lc_lSNDeP))) template.
             - "[Q](<Q.md>) How can we flag and process threats to [disambiguation](<disambiguation.md>)? ([i.e.](<i.e..md>) overlap or duplication of pages or conventions.)"
         8. Deleted a bunch of empty references from the DNP Sections based on the not_populated tag (from the past week)
-        9. Making the shift from several questions formats to a simplified setup. [Conventions](<Conventions.md>)
+        9. Making the shift from several questions formats to a **simplified** setup. [Conventions](<Conventions.md>)
             - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>)) and [Collections]([collections](<collections.md>)) tag
             - [Q](<Q.md>) = block level tag. 
                 - This one should be used at the block level to flag a block as a question. 
@@ -237,7 +238,7 @@
                     - Open Questions
                     - Context Questions
                     - Zettel Questions 
-        10. Making the shift from "Comments" to "Conversation" in the DNP Modules. 
+        10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
             - `Chat` should be reserved for the top-section for now.
             - "`Conversation` as a DNP Module as opposed to Chat + Comments."
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
@@ -329,7 +330,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - "Better to place it under one's daily notes or within the daily log up above?  "
                     - Within your [DNP Section](<DNP Section.md>) is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [sleep on it](<sleep on it.md>).
         4. "Turn off brackets to streamline the look of page looks a bit"
-            - [ ] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+            - [ ] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
         5. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [questions](<questions.md>) throughout the graph.
         6. "Allows for seamless inline referencing of Evergreen notes"
@@ -377,6 +378,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards
         - [convention on fleeting note content](((cCkvQbhSA))) [^[[leekeifon](<^[[leekeifon.md>)]]
+        - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal" [^[[leekeifon](<^[[leekeifon.md>)]]
+        - #[P:Self](<P:Self.md>) It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
+        - "#[Fleeting Notes](<Fleeting Notes.md>) Effective teaming requires clear norms and expectations" [^[[leekeifon](<^[[leekeifon.md>)]]
+        - #[Q](<Q.md>) What could be the common base of a digital environment of loosely connected people expectation?
     - #[Conversation](<Conversation.md>)
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
@@ -390,6 +395,8 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)".
     - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]
         - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
+    - #[Resources](<Resources.md>)
+        - __Magic Ink(Bret Victors)__ mentioned [here](((PHA4b1MZj))) by [Larissa de Lima](<Larissa de Lima.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
@@ -597,8 +604,10 @@ a[href^='http']{
 ## [E/optional, but beneficial](<E/optional, but beneficial.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
-## [January 25th, 2021](<January 25th, 2021.md>)
-13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [January 31st, 2021](<January 31st, 2021.md>)
+## [February 1st, 2021](<February 1st, 2021.md>)
+- **Page:** [January 31st, 2021](<January 31st, 2021.md>)
+
+**Page:** [January 31st, 2021](<January 31st, 2021.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [January 31st, 2021](<January 31st, 2021.md>)
