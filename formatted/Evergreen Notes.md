@@ -48,6 +48,9 @@
 ## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
@@ -72,8 +75,10 @@
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - **[Related](<Related.md>):** [Evergreen Notes](<Evergreen Notes.md>)
 
-## [Start from abundance](<Start from abundance.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+## [February 1st, 2021](<February 1st, 2021.md>)
+- And can find all evergreen notes using `#[Evergreen Notes](<Evergreen Notes.md>)`
+
+- Or even just `#[Evergreen Notes](<Evergreen Notes.md>)`
 
 ## [roam/css](<roam/css.md>)
 - `#[Evergreen Notes](<Evergreen Notes.md>)

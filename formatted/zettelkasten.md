@@ -28,6 +28,9 @@
 ## [Announcements](<Announcements.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>).
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 

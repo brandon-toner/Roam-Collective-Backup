@@ -6,7 +6,7 @@
         - https://twitter.com/brandontoner/status/1353493176296894464?s=21
         - https://twitter.com/brandontoner/status/1337444731928907777?s=21
     - Related:: ((Not a reference, but a related idea, block or page))
-        - [[Start from abundance]]
+        - [[E/Start from abundance]]
             - the purpose of the [[divergence]] phase is to generate [[abundance]].
     - Contents::
         - A process of expansion and contraction.

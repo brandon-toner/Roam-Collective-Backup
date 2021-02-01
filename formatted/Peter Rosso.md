@@ -18,6 +18,9 @@
 ## [Directory](<Directory.md>)
 - [Peter Rosso](<Peter Rosso.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 

@@ -6,7 +6,7 @@
         - https://twitter.com/brandontoner/status/1353493176296894464?s=21
         - https://twitter.com/brandontoner/status/1337444731928907777?s=21
     - **[Related](<../Related.md>):** ((Not a reference, but a related idea, block or page))
-        - [Start from abundance](<../Start from abundance.md>)
+        - [E/Start from abundance](<../E/Start from abundance.md>)
             - the purpose of the [divergence](<../divergence.md>) phase is to generate [abundance](<../abundance.md>).
     - **[Contents](<../Contents.md>):**
         - A process of expansion and contraction.

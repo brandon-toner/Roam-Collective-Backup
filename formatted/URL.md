@@ -28,6 +28,10 @@
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Author](<Author.md>):** [David Perell](<David Perell.md>)
+    - **[URL](<URL.md>):**
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
     - **[URL](<URL.md>):**
@@ -62,9 +66,5 @@
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - See discussion on [Slack](<Slack.md>)
-    - **[URL](<URL.md>):**
-
-## [Start from abundance](<Start from abundance.md>)
-- **[Author](<Author.md>):** [David Perell](<David Perell.md>)
     - **[URL](<URL.md>):**
 

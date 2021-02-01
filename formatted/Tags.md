@@ -127,6 +127,9 @@
 ## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Tags](<Tags.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Tags](<Tags.md>):**
 
@@ -329,9 +332,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [Sprints](<Sprints.md>)
-- **[Tags](<Tags.md>):**
-
-## [Start from abundance](<Start from abundance.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Stories](<Stories.md>)

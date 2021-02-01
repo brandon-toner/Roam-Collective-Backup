@@ -56,6 +56,10 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>)
+    - **[Contents](<Contents.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)
     - **[Contents](<Contents.md>):**
@@ -84,12 +88,12 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[Related](<Related.md>):** [not_populated](<not_populated.md>)
-    - **[Contents](<Contents.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+- [[[E:](<[[E:.md>) Evergreen Note example 3]]
+- **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- [[[E:](<[[E:.md>) Evergreen Note example 3]]
 - **[Contents](<Contents.md>):**
 
 ## [roam/css](<roam/css.md>)

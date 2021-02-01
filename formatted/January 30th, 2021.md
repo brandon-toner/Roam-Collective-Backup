@@ -299,7 +299,7 @@
                 - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [E/cycles of divergence and convergence](<E/cycles of divergence and convergence.md>).
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
-                    - First, [Start from abundance](<Start from abundance.md>).
+                    - First, [E/Start from abundance](<E/Start from abundance.md>).
                 - "Embedded [videos](<videos.md>) accompanying the written [documentation](<documentation.md>) and showing [examples](<examples.md>) could be useful" [*](((nwqDQY2hP))) [Ideas](<Ideas.md>) [onboarding](<onboarding.md>) #[Quick Start Guide](<Quick Start Guide.md>)
                 - "I like the idea of [Roam-a-thons](<Roam-a-thons.md>)." [*](((xFRHf05lH))) [Ideas](<Ideas.md>) [collaboration](<collaboration.md>)
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))

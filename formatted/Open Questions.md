@@ -75,12 +75,6 @@
 
 - #[Open Questions](<Open Questions.md>)
 
-## [Larissa de Lima](<Larissa de Lima.md>)
-- #[Open Questions](<Open Questions.md>)
-
-## [Mark Robertson](<Mark Robertson.md>)
-- #[Open Questions](<Open Questions.md>)
-
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Open Questions](<Open Questions.md>)
 

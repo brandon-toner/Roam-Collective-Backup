@@ -64,7 +64,7 @@ Thoughts? - [[Brandon Toner]]
                         - [[Andy Matuschak]]'s system of [[spaced repetition]] #Routines #Processes
                 - [[E/Create speculative outlines while you write]]
                     - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-                        - Related:: [[Start from abundance]]
+                        - Related:: [[E/Start from abundance]]
                 - [[E/Evergreen notes should be concept-oriented]]
                     - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
                         - In Roam, both can be accomplished by tagging with [[attributes]]
@@ -90,7 +90,7 @@ Thoughts? - [[Brandon Toner]]
                 - #[[Fleeting Notes]] [[block references]] are a way to [[crowd-source]] contributions within a [[collaborative graph]]. #zettelkasten #Bookmarks #Seedlings
                     - This allows groups of people to organize and work together to collectively create a unified product. 
                     - #[[Fleeting Notes]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [[collaborative graph]]. #zettelkasten
-                        - This allows an [[editor]] to [[Start from abundance]]. 
+                        - This allows an [[editor]] to [[E/Start from abundance]]. 
                         - Process:: #creativity #collaboration #[[creative projects]]
                             1. Set [creative project]([[creative projects]]).
                             2. Establish [[outline]].

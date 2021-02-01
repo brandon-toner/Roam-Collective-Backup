@@ -64,7 +64,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                         - [Andy Matuschak](<Andy Matuschak.md>)'s system of [spaced repetition](<spaced repetition.md>) [Routines](<Routines.md>) [Processes](<Processes.md>)
                 - [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
                     - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-                        - **[Related](<Related.md>):** [Start from abundance](<Start from abundance.md>)
+                        - **[Related](<Related.md>):** [E/Start from abundance](<E/Start from abundance.md>)
                 - [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
                     - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
                         - In Roam, both can be accomplished by tagging with [attributes](<attributes.md>)
@@ -90,7 +90,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                 - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph](<collaborative graph.md>). [zettelkasten](<zettelkasten.md>) [Bookmarks](<Bookmarks.md>) [Seedlings](<Seedlings.md>)
                     - This allows groups of people to organize and work together to collectively create a unified product. 
                     - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph](<collaborative graph.md>). [zettelkasten](<zettelkasten.md>)
-                        - This allows an [editor](<editor.md>) to [Start from abundance](<Start from abundance.md>). 
+                        - This allows an [editor](<editor.md>) to [E/Start from abundance](<E/Start from abundance.md>). 
                         - **[Process](<Process.md>):** [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)
                             1. Set [creative project]([creative projects](<creative projects.md>)).
                             2. Establish [outline](<outline.md>).

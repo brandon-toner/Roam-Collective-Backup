@@ -82,6 +82,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>)
+    - **[Related](<Related.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
@@ -116,6 +120,10 @@
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 - **[Related](<Related.md>):**
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [@[[Charles Farr](<@[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
+                                    - **[Related](<Related.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
@@ -227,15 +235,15 @@
 ## [Roam-Collective](<Roam-Collective.md>)
 - **[Related](<Related.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>)
-    - **[Related](<Related.md>):**
-
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<Related.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+- **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
 - **[Related](<Related.md>):**
 

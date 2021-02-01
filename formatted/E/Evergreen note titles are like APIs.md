@@ -28,3 +28,6 @@
 ## [[E:](<../[E:.md>) Evergreen Note example 1](<[E:](<../E:.md>) Evergreen Note example 1.md>)
 - In the immediate space below the [E/Evergreen note titles are like APIs](<../E/Evergreen note titles are like APIs.md>)
 
+## [[E:](<../[E:.md>) Evergreen Note example 3](<[E:](<../E:.md>) Evergreen Note example 3.md>)
+- In the immediate space below the [E/Evergreen note titles are like APIs](<../E/Evergreen note titles are like APIs.md>)
+

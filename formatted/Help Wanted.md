@@ -13,6 +13,9 @@
 ## [Announcements](<Announcements.md>)
 - Check out the #[Help Wanted](<Help Wanted.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out the #[Help Wanted](<Help Wanted.md>)
 

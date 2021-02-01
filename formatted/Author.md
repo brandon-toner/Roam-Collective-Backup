@@ -56,6 +56,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -84,11 +88,11 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
 - **[Author](<Author.md>):**
 

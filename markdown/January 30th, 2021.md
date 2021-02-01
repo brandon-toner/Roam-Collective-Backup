@@ -299,7 +299,7 @@
                 - Yup, this is definitely in my conceptual [[roadmap]]. I see it as [[E/cycles of divergence and convergence]].
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
-                    - First, [[Start from abundance]].
+                    - First, [[E/Start from abundance]].
                 - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #Ideas #onboarding #[[Quick Start Guide]]
                 - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #Ideas #collaboration
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))

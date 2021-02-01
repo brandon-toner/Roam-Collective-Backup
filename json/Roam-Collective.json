@@ -26155,10 +26155,7 @@
                       {
                         ":block/refs": [
                           {
-                            ":block/uid": "nc8GLDL7E"
-                          },
-                          {
-                            ":block/uid": "bjQLhCc-Z"
+                            ":block/uid": "mURorBxO6"
                           }
                         ],
                         ":create/user": {
@@ -26167,18 +26164,15 @@
                         ":edit/user": {
                           ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                         },
-                        "create-time": 1611604472488,
-                        "edit-time": 1611758032869,
+                        "create-time": 1612188869868,
+                        "edit-time": 1612188874217,
                         "refs": [
                           {
-                            "uid": "nc8GLDL7E"
-                          },
-                          {
-                            "uid": "bjQLhCc-Z"
+                            "uid": "mURorBxO6"
                           }
                         ],
-                        "string": "#[[Open Questions]] ((about collaboration and beyond)) #not_populated",
-                        "uid": "jALxwry4o"
+                        "string": "#Conversation",
+                        "uid": "nzAJUSv8v"
                       },
                       {
                         ":block/refs": [
@@ -35631,30 +35625,30 @@
                           {
                             ":block/refs": [
                               {
-                                ":block/uid": "nc8GLDL7E"
+                                ":block/uid": "bjQLhCc-Z"
                               },
                               {
-                                ":block/uid": "bjQLhCc-Z"
+                                ":block/uid": "mURorBxO6"
                               }
                             ],
                             ":create/user": {
-                              ":user/uid": "L9lTLVXI2hTw8UdWkWX948d926H2"
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
                             ":edit/user": {
-                              ":user/uid": "L9lTLVXI2hTw8UdWkWX948d926H2"
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
-                            "create-time": 1611758685141,
-                            "edit-time": 1611758685141,
+                            "create-time": 1612188979433,
+                            "edit-time": 1612188979433,
                             "refs": [
                               {
-                                "uid": "nc8GLDL7E"
+                                "uid": "bjQLhCc-Z"
                               },
                               {
-                                "uid": "bjQLhCc-Z"
+                                "uid": "mURorBxO6"
                               }
                             ],
-                            "string": "#[[Open Questions]] ((about collaboration and beyond)) #not_populated",
-                            "uid": "lPs1Gx7FS"
+                            "string": "#Conversation ((For nesting interactions with other members of the graph)) #not_populated",
+                            "uid": "o9gx8DkxV"
                           },
                           {
                             ":block/refs": [
@@ -39245,7 +39239,7 @@
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
                 ":edit/user": {
-                  ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
                 "children": [
                   {
@@ -39344,13 +39338,13 @@
                   }
                 ],
                 "create-time": 1611770477743,
-                "edit-time": 1611844042806,
+                "edit-time": 1612192833975,
                 "refs": [
                   {
                     "uid": "fopdz6Eqe"
                   }
                 ],
-                "string": "`#how-should-I-tag-this` (resolved) [[Start from abundance]]",
+                "string": "`#how-should-I-tag-this` (resolved) [[E/Start from abundance]]",
                 "uid": "JspVT1Pvm"
               },
               {
@@ -40966,10 +40960,10 @@
                               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
                             ":edit/user": {
-                              ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
                             "create-time": 1611770459302,
-                            "edit-time": 1611844042806,
+                            "edit-time": 1612192833975,
                             "refs": [
                               {
                                 "uid": "zLYI6zAGT"
@@ -40978,7 +40972,7 @@
                                 "uid": "fopdz6Eqe"
                               }
                             ],
-                            "string": "Related:: [[Start from abundance]]",
+                            "string": "Related:: [[E/Start from abundance]]",
                             "uid": "aXV0wNId5"
                           }
                         ],
@@ -41724,10 +41718,10 @@
                       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     ":edit/user": {
-                      ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "create-time": 1604943574874,
-                    "edit-time": 1611844042806,
+                    "edit-time": 1612192833975,
                     "refs": [
                       {
                         "uid": "OE8CCpfnQ"
@@ -41736,7 +41730,7 @@
                         "uid": "fopdz6Eqe"
                       }
                     ],
-                    "string": "#[[Fleeting Notes]][[Start from abundance]]",
+                    "string": "#[[Fleeting Notes]][[E/Start from abundance]]",
                     "uid": "mIZ6a3pPq"
                   },
                   {
@@ -42463,10 +42457,10 @@
                           ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                         },
                         ":edit/user": {
-                          ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                         },
                         "create-time": 1605141079274,
-                        "edit-time": 1611844042806,
+                        "edit-time": 1612192833975,
                         "refs": [
                           {
                             "uid": "fopdz6Eqe"
@@ -42475,7 +42469,7 @@
                             "uid": "3toHtnjhR"
                           }
                         ],
-                        "string": "[[Start from abundance]] \u2014 [[David Perell]]",
+                        "string": "[[E/Start from abundance]] \u2014 [[David Perell]]",
                         "uid": "MAm2pCk_4"
                       }
                     ],
@@ -62856,7 +62850,7 @@
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     ":edit/user": {
-      ":user/uid": "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     "children": [
       {
@@ -63087,8 +63081,8 @@
       }
     ],
     "create-time": 1611770472328,
-    "edit-time": 1611844042805,
-    "title": "Start from abundance",
+    "edit-time": 1612192833975,
+    "title": "E/Start from abundance",
     "uid": "fopdz6Eqe"
   },
   {
@@ -67128,7 +67122,7 @@
                                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                                 },
                                 "create-time": 1611945569842,
-                                "edit-time": 1611945578087,
+                                "edit-time": 1612192833975,
                                 "refs": [
                                   {
                                     "uid": "zLYI6zAGT"
@@ -67137,7 +67131,7 @@
                                     "uid": "fopdz6Eqe"
                                   }
                                 ],
-                                "string": "Related:: [[Start from abundance]]",
+                                "string": "Related:: [[E/Start from abundance]]",
                                 "uid": "OGxMFnu6f"
                               }
                             ],
@@ -67869,7 +67863,7 @@
                                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                                 },
                                 "create-time": 1611978644418,
-                                "edit-time": 1611978682188,
+                                "edit-time": 1612192833975,
                                 "refs": [
                                   {
                                     "uid": "fopdz6Eqe"
@@ -67878,7 +67872,7 @@
                                     "uid": "vBaPnS5EM"
                                   }
                                 ],
-                                "string": "This allows an [[editor]] to [[Start from abundance]]. ",
+                                "string": "This allows an [[editor]] to [[E/Start from abundance]]. ",
                                 "uid": "mKFLYStX2"
                               },
                               {
@@ -84203,13 +84197,13 @@
                               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                             },
                             "create-time": 1612057172452,
-                            "edit-time": 1612057177480,
+                            "edit-time": 1612192833975,
                             "refs": [
                               {
                                 "uid": "fopdz6Eqe"
                               }
                             ],
-                            "string": "First, [[Start from abundance]].",
+                            "string": "First, [[E/Start from abundance]].",
                             "uid": "60ue-X57F"
                           }
                         ],
@@ -105209,17 +105203,17 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "aDlFFSRPv"
+                        ":block/uid": "zql88eBgf"
                       },
                       {
-                        ":block/uid": "npph1Oq_X"
+                        ":block/uid": "aDlFFSRPv"
                       }
                     ],
                     ":create/user": {
                       ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
                     },
                     ":edit/user": {
-                      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     "children": [
                       {
@@ -105300,16 +105294,16 @@
                       }
                     ],
                     "create-time": 1612133502274,
-                    "edit-time": 1612133518869,
+                    "edit-time": 1612192160034,
                     "refs": [
                       {
-                        "uid": "aDlFFSRPv"
+                        "uid": "zql88eBgf"
                       },
                       {
-                        "uid": "npph1Oq_X"
+                        "uid": "aDlFFSRPv"
                       }
                     ],
-                    "string": "[[@[[Brandon Toner]]]] I like this SmartBlock a lot",
+                    "string": "[[~[[Brandon Toner]]]] I like this SmartBlock a lot",
                     "uid": "XhXEs3BX4"
                   }
                 ],
@@ -108023,13 +108017,13 @@
                   }
                 ],
                 "create-time": 1612055863137,
-                "edit-time": 1612055867495,
+                "edit-time": 1612192833975,
                 "refs": [
                   {
                     "uid": "fopdz6Eqe"
                   }
                 ],
-                "string": "[[Start from abundance]]",
+                "string": "[[E/Start from abundance]]",
                 "uid": "aw_mecfz2"
               }
             ],
@@ -109761,10 +109755,10 @@
       ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     ":edit/user": {
-      ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
     },
     "create-time": 1612064220504,
-    "edit-time": 1612131391747,
+    "edit-time": 1612193296052,
     "title": "E:",
     "uid": "QOeZX630X"
   },
@@ -110381,30 +110375,30 @@
                   {
                     ":block/refs": [
                       {
-                        ":block/uid": "nc8GLDL7E"
+                        ":block/uid": "bjQLhCc-Z"
                       },
                       {
-                        ":block/uid": "bjQLhCc-Z"
+                        ":block/uid": "mURorBxO6"
                       }
                     ],
                     ":create/user": {
-                      ":user/uid": "dDnUS5Q3z3a70kRmZWt0vMkqg8b2"
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
                     ":edit/user": {
-                      ":user/uid": "dDnUS5Q3z3a70kRmZWt0vMkqg8b2"
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                     },
-                    "create-time": 1612104214310,
-                    "edit-time": 1612104214310,
+                    "create-time": 1612188928681,
+                    "edit-time": 1612188962036,
                     "refs": [
                       {
-                        "uid": "nc8GLDL7E"
+                        "uid": "bjQLhCc-Z"
                       },
                       {
-                        "uid": "bjQLhCc-Z"
+                        "uid": "mURorBxO6"
                       }
                     ],
-                    "string": "#[[Open Questions]] ((about collaboration and beyond)) #not_populated",
-                    "uid": "HyDcyCRvs"
+                    "string": "#Conversation ((For nesting interactions with other members of the graph)) #not_populated",
+                    "uid": "S4K1Oo4aM"
                   },
                   {
                     ":block/refs": [
@@ -113176,6 +113170,36 @@
     ":edit/user": {
       ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ioIvM0dtN"
+          },
+          {
+            ":block/uid": "PvbVmt70a"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612188720820,
+        "edit-time": 1612188767163,
+        "refs": [
+          {
+            "uid": "ioIvM0dtN"
+          },
+          {
+            "uid": "PvbVmt70a"
+          }
+        ],
+        "string": "Part of [[[[How To]] Seed Your Graph]]",
+        "uid": "MkLZwV1li"
+      }
+    ],
     "create-time": 1612123357855,
     "edit-time": 1612123357856,
     "refs": [
@@ -113279,16 +113303,16 @@
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
             ":edit/user": {
-              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
             },
             "create-time": 1612140014074,
-            "edit-time": 1612140063613,
+            "edit-time": 1612189137715,
             "refs": [
               {
                 "uid": "7CWEj1_kU"
               }
             ],
-            "string": "Choose what ever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))",
+            "string": "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))",
             "uid": "VCR7iS86I"
           },
           {
@@ -113311,6 +113335,9 @@
                   },
                   {
                     ":block/uid": "ioIvM0dtN"
+                  },
+                  {
+                    ":block/uid": "PvbVmt70a"
                   }
                 ],
                 ":create/user": {
@@ -113372,16 +113399,19 @@
                   }
                 ],
                 "create-time": 1612140182537,
-                "edit-time": 1612140207576,
+                "edit-time": 1612188825333,
                 "refs": [
                   {
                     "uid": "SUWj-tpl5"
                   },
                   {
                     "uid": "ioIvM0dtN"
+                  },
+                  {
+                    "uid": "PvbVmt70a"
                   }
                 ],
-                "string": "Reflection on any of the [[How To]] pages [[Charles Farr]] has developed.",
+                "string": "Reflection on any of the [[How To]] pages [[Charles Farr]] has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[[How To]] Seed Your Graph]])",
                 "uid": "ZOe5zU_op"
               }
             ],
@@ -113741,9 +113771,57 @@
                 ":edit/user": {
                   ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
                 },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612191670201,
+                    "edit-time": 1612191670825,
+                    "string": "**Results:** 1 **Max:** 25",
+                    "uid": "v4H0UlX90"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Ir3nPs-SW"
+                      },
+                      {
+                        ":block/uid": "02-01-2021"
+                      },
+                      {
+                        ":block/uid": "J15XEXJ4p"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612191670816,
+                    "edit-time": 1612191671220,
+                    "refs": [
+                      {
+                        "uid": "Ir3nPs-SW"
+                      },
+                      {
+                        "uid": "02-01-2021"
+                      },
+                      {
+                        "uid": "J15XEXJ4p"
+                      }
+                    ],
+                    "string": "**Page:** [[February 1st, 2021]]\n{{[[embed]]: ((J15XEXJ4p))}}",
+                    "uid": "yGbMgFe5Y"
+                  }
+                ],
                 "create-time": 1612152407458,
-                "edit-time": 1612152407662,
-                "string": "{{TODO This Month:42SmartBlock:.rc3TODO \u2014 TODO This Month}}",
+                "edit-time": 1612191670232,
+                "string": "**This Month:** `#[[February 2021]]`",
                 "uid": "6nrMXWIhH"
               }
             ],
@@ -114051,9 +114129,6 @@
           {
             ":block/refs": [
               {
-                ":block/uid": "bjQLhCc-Z"
-              },
-              {
                 ":block/uid": "mURorBxO6"
               }
             ],
@@ -114063,17 +114138,640 @@
             ":edit/user": {
               ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
             },
-            "create-time": 1612146328152,
-            "edit-time": 1612146474829,
-            "refs": [
+            "children": [
               {
-                "uid": "bjQLhCc-Z"
+                ":block/refs": [
+                  {
+                    ":block/uid": "tYGOXlaRq"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612189030799,
+                        "edit-time": 1612189104229,
+                        "string": "This likely stems from users trying to adapt an analog system into a graph database software. With technology, different workflows are possible, so there is a lot of experimentation ongoing. ",
+                        "uid": "NHdgOmiGx"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "3hJFCGatm"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612189153273,
+                            "edit-time": 1612189183465,
+                            "refs": [
+                              {
+                                "uid": "3hJFCGatm"
+                              }
+                            ],
+                            "string": "On one hand, implementing a system internally for use within the [RC]([[Roam-Collective]])",
+                            "uid": "x-YJRarSN"
+                          },
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "zcnIQ5glS"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612189184004,
+                            "edit-time": 1612189216210,
+                            "refs": [
+                              {
+                                "uid": "zcnIQ5glS"
+                              }
+                            ],
+                            "string": "On the other, building [guidance documents]([[[[How To]] Implement a Zettelkasten]]) that help others to implement a similar system.",
+                            "uid": "dP_KxSTGV"
+                          }
+                        ],
+                        "create-time": 1612189105784,
+                        "edit-time": 1612189152702,
+                        "string": "This is an exciting area of development and exploration  -- and an area I am keen to explore through this graph experience.",
+                        "uid": "ZlqYsIXMH"
+                      }
+                    ],
+                    "create-time": 1612188851614,
+                    "edit-time": 1612189030806,
+                    "string": "There is definitely some variance on the structure of zettelkastens.",
+                    "uid": "qWfyYQ5ra"
+                  }
+                ],
+                "create-time": 1612189003986,
+                "edit-time": 1612189003986,
+                "refs": [
+                  {
+                    "uid": "tYGOXlaRq"
+                  }
+                ],
+                "string": "((tYGOXlaRq))",
+                "uid": "duSij_Voa"
               },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "sua7tHjE3"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "U_-hyBVQE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "children": [
+                              {
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "sOFO_CQh4"
+                                  },
+                                  {
+                                    ":block/uid": "rTvBzGtyV"
+                                  },
+                                  {
+                                    ":block/uid": "xeQcIlELa"
+                                  },
+                                  {
+                                    ":block/uid": "7y86LvOF6"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                },
+                                "children": [
+                                  {
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "WPtmfRTtA"
+                                      },
+                                      {
+                                        ":block/uid": "7wGHSzqLY"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                    },
+                                    "children": [
+                                      {
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "SUWj-tpl5"
+                                          },
+                                          {
+                                            ":block/uid": "ZZgX60u08"
+                                          },
+                                          {
+                                            ":block/uid": "IX96gb5b6"
+                                          },
+                                          {
+                                            ":block/uid": "yBEHWbudk"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                        },
+                                        "children": [
+                                          {
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "zLYI6zAGT"
+                                              },
+                                              {
+                                                ":block/uid": "kZ5ylpjEY"
+                                              }
+                                            ],
+                                            ":create/user": {
+                                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                                            },
+                                            "create-time": 1612191562108,
+                                            "edit-time": 1612191620360,
+                                            "refs": [
+                                              {
+                                                "uid": "zLYI6zAGT"
+                                              },
+                                              {
+                                                "uid": "kZ5ylpjEY"
+                                              }
+                                            ],
+                                            "string": "Related:: ((kZ5ylpjEY))",
+                                            "uid": "ja3RS6vis"
+                                          }
+                                        ],
+                                        "create-time": 1612191097520,
+                                        "edit-time": 1612191562126,
+                                        "refs": [
+                                          {
+                                            "uid": "SUWj-tpl5"
+                                          },
+                                          {
+                                            "uid": "ZZgX60u08"
+                                          },
+                                          {
+                                            "uid": "IX96gb5b6"
+                                          },
+                                          {
+                                            "uid": "yBEHWbudk"
+                                          }
+                                        ],
+                                        "string": "[[@[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...",
+                                        "uid": "mmJyac4Bv"
+                                      }
+                                    ],
+                                    "create-time": 1612191031353,
+                                    "edit-time": 1612191091594,
+                                    "refs": [
+                                      {
+                                        "uid": "WPtmfRTtA"
+                                      },
+                                      {
+                                        "uid": "7wGHSzqLY"
+                                      }
+                                    ],
+                                    "string": "Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. #Projects #Ideas",
+                                    "uid": "yBEHWbudk"
+                                  }
+                                ],
+                                "create-time": 1612190960492,
+                                "edit-time": 1612191018278,
+                                "refs": [
+                                  {
+                                    "uid": "sOFO_CQh4"
+                                  },
+                                  {
+                                    "uid": "rTvBzGtyV"
+                                  },
+                                  {
+                                    "uid": "xeQcIlELa"
+                                  },
+                                  {
+                                    "uid": "7y86LvOF6"
+                                  }
+                                ],
+                                "string": "{{[[TODO]]}} Develop evergreen notes on the purpose and potential of a (collaborative) [[zettelkasten]]. #[[February 2021]] #[[Help Wanted]]",
+                                "uid": "J15XEXJ4p"
+                              }
+                            ],
+                            "create-time": 1612190931205,
+                            "edit-time": 1612190959763,
+                            "string": "Ah! Yes. Gotcha now. Great idea and great explanation. 100% want that.",
+                            "uid": "zbXr0Qp8J"
+                          }
+                        ],
+                        "create-time": 1612190929015,
+                        "edit-time": 1612190929015,
+                        "refs": [
+                          {
+                            "uid": "U_-hyBVQE"
+                          }
+                        ],
+                        "string": "((U_-hyBVQE))",
+                        "uid": "yJElRSQz2"
+                      }
+                    ],
+                    "create-time": 1612189590767,
+                    "edit-time": 1612189646019,
+                    "string": "Interesting. Talk a  bit more about that... not sure I quite understand the idea yet.",
+                    "uid": "WMA92gvbd"
+                  }
+                ],
+                "create-time": 1612189588806,
+                "edit-time": 1612189588806,
+                "refs": [
+                  {
+                    "uid": "sua7tHjE3"
+                  }
+                ],
+                "string": "((sua7tHjE3))",
+                "uid": "X4k37uvoz"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "SquMFIWKj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WPtmfRTtA"
+                          },
+                          {
+                            ":block/uid": "7wGHSzqLY"
+                          },
+                          {
+                            ":block/uid": "y6M0yfEuq"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612192094529,
+                        "edit-time": 1612192129387,
+                        "refs": [
+                          {
+                            "uid": "WPtmfRTtA"
+                          },
+                          {
+                            "uid": "7wGHSzqLY"
+                          },
+                          {
+                            "uid": "y6M0yfEuq"
+                          }
+                        ],
+                        "string": "#Projects #Ideas Build a productivity [[dashboard]].",
+                        "uid": "c5keozczI"
+                      }
+                    ],
+                    "create-time": 1612191789419,
+                    "edit-time": 1612192094541,
+                    "string": "Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.",
+                    "uid": "F3XKItVNJ"
+                  }
+                ],
+                "create-time": 1612191786598,
+                "edit-time": 1612191786598,
+                "refs": [
+                  {
+                    "uid": "SquMFIWKj"
+                  }
+                ],
+                "string": "((SquMFIWKj))",
+                "uid": "Ijl6Ok-d4"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "SUWj-tpl5"
+                  },
+                  {
+                    ":block/uid": "rTvBzGtyV"
+                  },
+                  {
+                    ":block/uid": "ZZgX60u08"
+                  },
+                  {
+                    ":block/uid": "QOeZX630X"
+                  },
+                  {
+                    ":block/uid": "X_8vkrEun"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                ":edit/user": {
+                  ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dYKbi5eWx"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612192397205,
+                        "edit-time": 1612192403069,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpnHw9Gjief.png?alt=media&token=2f636fa5-6549-44a7-b581-de4e3e119ebd)",
+                        "uid": "-mCDHx-4N"
+                      }
+                    ],
+                    "create-time": 1612192219703,
+                    "edit-time": 1612192397050,
+                    "refs": [
+                      {
+                        "uid": "dYKbi5eWx"
+                      }
+                    ],
+                    "string": "Attributes could be improved for [[querying]] by nesting them beneath a `Tags::` block. ",
+                    "uid": "_lrWcrI9x"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zRmgBy3JB"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "create-time": 1612192407404,
+                    "edit-time": 1612192627158,
+                    "refs": [
+                      {
+                        "uid": "zRmgBy3JB"
+                      }
+                    ],
+                    "string": "The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes.",
+                    "uid": "AHqAHeK_b"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "QOeZX630X"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "vfcqxjrG_"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "create-time": 1612192745882,
+                        "edit-time": 1612192745882,
+                        "refs": [
+                          {
+                            "uid": "vfcqxjrG_"
+                          }
+                        ],
+                        "string": "Reason is that still use [[auto-populate]] to find evergreen notes using the E/ convention. ",
+                        "uid": "EU6Yt7Ndv"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612192796216,
+                            "edit-time": 1612192925646,
+                            "string": "Or even just `#[[Evergreen Notes]]` alone because as a collection tag it is only used for that purpose.",
+                            "uid": "bCFAPqyYG"
+                          }
+                        ],
+                        "create-time": 1612192668441,
+                        "edit-time": 1612192777181,
+                        "string": "And can find all evergreen notes using `#[[Evergreen Notes]]` plus `Tags::` ",
+                        "uid": "OwXmGf1X-"
+                      },
+                      {
+                        ":create/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                        },
+                        "children": [
+                          {
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0x08w0lSE"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612192940410,
+                            "edit-time": 1612192982949,
+                            "refs": [
+                              {
+                                "uid": "0x08w0lSE"
+                              }
+                            ],
+                            "string": "Filter a page by `[[E:]]` to see all [[evergreen notes]] on a page.",
+                            "uid": "u-m0vWcAz"
+                          },
+                          {
+                            ":create/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+                            },
+                            "create-time": 1612192983190,
+                            "edit-time": 1612192983190,
+                            "string": "",
+                            "uid": "WnMYcFcDk"
+                          }
+                        ],
+                        "create-time": 1612192926183,
+                        "edit-time": 1612192960343,
+                        "string": "**Benefits I can see that I do like:**",
+                        "uid": "Yzjv1rYLD"
+                      }
+                    ],
+                    "create-time": 1612192627147,
+                    "edit-time": 1612192668131,
+                    "refs": [
+                      {
+                        "uid": "QOeZX630X"
+                      }
+                    ],
+                    "string": "I still can't quite grok the value of the [[E:]] in the title. ",
+                    "uid": "oX2K7Yrax"
+                  }
+                ],
+                "create-time": 1612192122242,
+                "edit-time": 1612192624809,
+                "refs": [
+                  {
+                    "uid": "SUWj-tpl5"
+                  },
+                  {
+                    "uid": "rTvBzGtyV"
+                  },
+                  {
+                    "uid": "ZZgX60u08"
+                  },
+                  {
+                    "uid": "QOeZX630X"
+                  },
+                  {
+                    "uid": "X_8vkrEun"
+                  }
+                ],
+                "string": "Some thoughts on [[[[E:]] Evergreen Note example 1]] [[@[[Charles Farr]]]] #zettelkasten",
+                "uid": "6eY3e3c4z"
+              }
+            ],
+            "create-time": 1612146328152,
+            "edit-time": 1612188850855,
+            "refs": [
               {
                 "uid": "mURorBxO6"
               }
             ],
-            "string": "#Conversation #not_populated",
+            "string": "#Conversation ",
             "uid": "ZnTWFrpfE"
           },
           {
@@ -114129,6 +114827,392 @@
         "edit-time": 1612146328152,
         "string": "---",
         "uid": "xwRZqi9Mr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Pti1cH_0g"
+          },
+          {
+            ":block/uid": "3kEiSIass"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+        },
+        ":edit/user": {
+          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wwX3aVlkf"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "ZOe5zU_op"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                },
+                ":edit/user": {
+                  ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "HR4zvndLV"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    "children": [
+                      {
+                        ":create/user": {
+                          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                        },
+                        "create-time": 1612188287287,
+                        "edit-time": 1612189474742,
+                        "string": "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?",
+                        "uid": "tYGOXlaRq"
+                      }
+                    ],
+                    "create-time": 1612188292947,
+                    "edit-time": 1612188292947,
+                    "refs": [
+                      {
+                        "uid": "HR4zvndLV"
+                      }
+                    ],
+                    "string": "((HR4zvndLV))",
+                    "uid": "RWpd4j2-_"
+                  },
+                  {
+                    ":create/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    "create-time": 1612189505868,
+                    "edit-time": 1612189897178,
+                    "string": "Should we have conventions on how we use nested squared brackets? `[[[[prefix-]][[main]][[-suffix]]]]` \n`[[How to]]` would be considered a prefix-",
+                    "uid": "hyHbDr2y7"
+                  }
+                ],
+                "create-time": 1612189160280,
+                "edit-time": 1612189160280,
+                "refs": [
+                  {
+                    "uid": "ZOe5zU_op"
+                  }
+                ],
+                "string": "((ZOe5zU_op))",
+                "uid": "nocUjfkWJ"
+              }
+            ],
+            "create-time": 1612188158984,
+            "edit-time": 1612188287316,
+            "refs": [
+              {
+                "uid": "wwX3aVlkf"
+              }
+            ],
+            "string": "#[[Scratchpad]]",
+            "uid": "DvToaLSWu"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bjQLhCc-Z"
+              },
+              {
+                ":block/uid": "iF_j5T0jr"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "create-time": 1612188158984,
+            "edit-time": 1612188158984,
+            "refs": [
+              {
+                "uid": "bjQLhCc-Z"
+              },
+              {
+                "uid": "iF_j5T0jr"
+              }
+            ],
+            "string": "#GTD #not_populated",
+            "uid": "Ex6hUe-mI"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Bb30fEKLj"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "create-time": 1612188158984,
+            "edit-time": 1612188158984,
+            "refs": [
+              {
+                "uid": "Bb30fEKLj"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[Change Log]] #not_populated",
+            "uid": "pVuTg_xk5"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "YaMqIAJh8"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "create-time": 1612188158984,
+            "edit-time": 1612188158984,
+            "refs": [
+              {
+                "uid": "YaMqIAJh8"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Promptstorming #not_populated",
+            "uid": "1xlw521PK"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "i5L7Z8P19"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "create-time": 1612188158984,
+            "edit-time": 1612188158984,
+            "refs": [
+              {
+                "uid": "i5L7Z8P19"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#[[The Zettelkasten]] #not_populated",
+            "uid": "mEwlwq2b5"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "mURorBxO6"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "dP_KxSTGV"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                },
+                ":edit/user": {
+                  ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "zcnIQ5glS"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                    },
+                    "children": [
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WMA92gvbd"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                        },
+                        "children": [
+                          {
+                            ":create/user": {
+                              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+                            },
+                            "create-time": 1612189701796,
+                            "edit-time": 1612189985562,
+                            "string": "When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.",
+                            "uid": "U_-hyBVQE"
+                          }
+                        ],
+                        "create-time": 1612189699618,
+                        "edit-time": 1612189699618,
+                        "refs": [
+                          {
+                            "uid": "WMA92gvbd"
+                          }
+                        ],
+                        "string": "((WMA92gvbd))",
+                        "uid": "PG0ymyOTY"
+                      }
+                    ],
+                    "create-time": 1612189332163,
+                    "edit-time": 1612189395244,
+                    "refs": [
+                      {
+                        "uid": "zcnIQ5glS"
+                      }
+                    ],
+                    "string": "Can  [guidance documents]([[[[How To]] Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?",
+                    "uid": "sua7tHjE3"
+                  }
+                ],
+                "create-time": 1612189329841,
+                "edit-time": 1612189329841,
+                "refs": [
+                  {
+                    "uid": "dP_KxSTGV"
+                  }
+                ],
+                "string": "((dP_KxSTGV))",
+                "uid": "4inYVfuXY"
+              }
+            ],
+            "create-time": 1612188158984,
+            "edit-time": 1612189454943,
+            "refs": [
+              {
+                "uid": "mURorBxO6"
+              }
+            ],
+            "string": "#Conversation ",
+            "uid": "t-h_oYKMq"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "ohDe4FbVt"
+              },
+              {
+                ":block/uid": "bjQLhCc-Z"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            ":edit/user": {
+              ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+            },
+            "create-time": 1612188158984,
+            "edit-time": 1612188158984,
+            "refs": [
+              {
+                "uid": "ohDe4FbVt"
+              },
+              {
+                "uid": "bjQLhCc-Z"
+              }
+            ],
+            "string": "#Feedback  #not_populated",
+            "uid": "7Cbx9ZDq1"
+          }
+        ],
+        "create-time": 1612188127723,
+        "edit-time": 1612188169115,
+        "refs": [
+          {
+            "uid": "Pti1cH_0g"
+          },
+          {
+            "uid": "3kEiSIass"
+          }
+        ],
+        "string": "#[[My Daily Notes]] [[Peter Rosso]] {{word-count}}",
+        "uid": "cWHshSN-F"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+        },
+        ":edit/user": {
+          ":user/uid": "GteOGHQHeTSQ8t8o04RYu7iRlTa2"
+        },
+        "create-time": 1612188158984,
+        "edit-time": 1612188158984,
+        "string": "---",
+        "uid": "DeAbkHxQL"
       }
     ],
     "create-time": 1612125146733,
@@ -114718,6 +115802,36 @@
     ":edit/user": {
       ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
     },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ioIvM0dtN"
+          },
+          {
+            ":block/uid": "PvbVmt70a"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612188747380,
+        "edit-time": 1612188752799,
+        "refs": [
+          {
+            "uid": "ioIvM0dtN"
+          },
+          {
+            "uid": "PvbVmt70a"
+          }
+        ],
+        "string": "Part of [[[[How To]] Seed Your Graph]]",
+        "uid": "8LYEYLBuK"
+      }
+    ],
     "create-time": 1612128938273,
     "edit-time": 1612128938274,
     "refs": [
@@ -114949,29 +116063,75 @@
         ":block/refs": [
           {
             ":block/uid": "zLYI6zAGT"
-          },
-          {
-            ":block/uid": "bjQLhCc-Z"
           }
         ],
         ":create/user": {
-          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
         },
         ":edit/user": {
-          ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
         },
-        "create-time": 1612131398956,
-        "edit-time": 1612131399144,
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "2BzuLhDIF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "7OcEz5V5OZMBpzWC3Swh4jecQF32"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612131398956,
+            "edit-time": 1612193305520,
+            "refs": [
+              {
+                "uid": "2BzuLhDIF"
+              }
+            ],
+            "string": "[[E/Evergreen Note example 2]] ",
+            "uid": "YB4A-r4rr"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "QOeZX630X"
+              },
+              {
+                ":block/uid": "naYAdwjDg"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612193272032,
+            "edit-time": 1612193296048,
+            "refs": [
+              {
+                "uid": "QOeZX630X"
+              },
+              {
+                "uid": "naYAdwjDg"
+              }
+            ],
+            "string": "[[[[E:]] Evergreen Note example 3]]",
+            "uid": "8rZaTpL1I"
+          }
+        ],
+        "create-time": 1612193269428,
+        "edit-time": 1612193269428,
         "refs": [
           {
             "uid": "zLYI6zAGT"
-          },
-          {
-            "uid": "bjQLhCc-Z"
           }
         ],
-        "string": "Related:: #not_populated ((Not a reference, but a related idea, block or page))",
-        "uid": "YB4A-r4rr"
+        "string": "Related:: ",
+        "uid": "4d4uqcQrr"
       },
       {
         ":block/refs": [
@@ -115255,5 +116415,361 @@
     "edit-time": 1612152531547,
     "title": "Response",
     "uid": "DIUL7_jkM"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "vBbSeP31e"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193326861,
+        "edit-time": 1612193338723,
+        "refs": [
+          {
+            "uid": "vBbSeP31e"
+          }
+        ],
+        "string": "[[E/Evergreen note-writing helps insight accumulate]]",
+        "uid": "iaJl_hrYd"
+      }
+    ],
+    "create-time": 1612192317474,
+    "edit-time": 1612192317475,
+    "title": "E/Evergreen Note example 2",
+    "uid": "2BzuLhDIF"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "create-time": 1612192373153,
+    "edit-time": 1612192373154,
+    "title": "querying",
+    "uid": "dYKbi5eWx"
+  },
+  {
+    ":block/refs": [
+      {
+        ":block/uid": "QOeZX630X"
+      }
+    ],
+    ":create/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    ":edit/user": {
+      ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "oxwjRZ60D"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "bL-CXEVoh"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612193319113,
+            "edit-time": 1612193319113,
+            "refs": [
+              {
+                "uid": "bL-CXEVoh"
+              }
+            ],
+            "string": "In the immediate space below the [[E/Evergreen note titles are like APIs]] title, you provide the context \u2014 easily accessible if needed",
+            "uid": "uddNfS22l"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612193319113,
+            "edit-time": 1612193319113,
+            "string": "Below you could have the meta data unnested \u2014 can easily be tied to an evergreen through use of the `[[E:]]` header tag",
+            "uid": "sNowiT4B0"
+          }
+        ],
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "oxwjRZ60D"
+          }
+        ],
+        "string": "#Evergreen Evergreen Note example 1 ((this line would match the title))",
+        "uid": "Xclk6-qrH"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "string": "---",
+        "uid": "1C401OBEB"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "khGCfP8qM"
+          },
+          {
+            ":block/uid": "01-31-2021"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "khGCfP8qM"
+          },
+          {
+            "uid": "01-31-2021"
+          }
+        ],
+        "string": "Date Created:: [[January 31st, 2021]]",
+        "uid": "EMTi8qh76"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "RZw6vxCTm"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "RZw6vxCTm"
+          }
+        ],
+        "string": "Created by:: #not_populated",
+        "uid": "TEgbPMEIx"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "rUKtZGHJW"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "rUKtZGHJW"
+          }
+        ],
+        "string": "Author:: #not_populated",
+        "uid": "lQDDVzzFu"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "BegIC9Bzs"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "BegIC9Bzs"
+          }
+        ],
+        "string": "References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))",
+        "uid": "V25zLQamn"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "zLYI6zAGT"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "2BzuLhDIF"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612193319113,
+            "edit-time": 1612193319113,
+            "refs": [
+              {
+                "uid": "2BzuLhDIF"
+              }
+            ],
+            "string": "[[E/Evergreen Note example 2]] ",
+            "uid": "CQ-mh3LnV"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "QOeZX630X"
+              },
+              {
+                ":block/uid": "naYAdwjDg"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            ":edit/user": {
+              ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+            },
+            "create-time": 1612193319113,
+            "edit-time": 1612193319113,
+            "refs": [
+              {
+                "uid": "QOeZX630X"
+              },
+              {
+                "uid": "naYAdwjDg"
+              }
+            ],
+            "string": "[[[[E:]] Evergreen Note example 3]]",
+            "uid": "KY38Vi5LN"
+          }
+        ],
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "zLYI6zAGT"
+          }
+        ],
+        "string": "Related:: ",
+        "uid": "o5wP31WWr"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "bjQLhCc-Z"
+          },
+          {
+            ":block/uid": "adxMVsNXD"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        ":edit/user": {
+          ":user/uid": "UPFjMQgXUjXZ0ARHpeGiRppeWGO2"
+        },
+        "create-time": 1612193319113,
+        "edit-time": 1612193319113,
+        "refs": [
+          {
+            "uid": "bjQLhCc-Z"
+          },
+          {
+            "uid": "adxMVsNXD"
+          }
+        ],
+        "string": "Contents:: #not_populated",
+        "uid": "4Idb7LZ4z"
+      }
+    ],
+    "create-time": 1612193296051,
+    "edit-time": 1612193296052,
+    "refs": [
+      {
+        "uid": "QOeZX630X"
+      }
+    ],
+    "title": "[[E:]] Evergreen Note example 3",
+    "uid": "naYAdwjDg"
   }
 ]

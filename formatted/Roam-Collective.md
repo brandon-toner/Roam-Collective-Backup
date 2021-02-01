@@ -15,6 +15,9 @@
 ## [Announcements](<Announcements.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- On one hand, implementing a system internally for use within the [RC]([Roam-Collective](<Roam-Collective.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 

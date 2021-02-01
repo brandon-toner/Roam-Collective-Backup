@@ -6,5 +6,7 @@
 - Created by:: #not_populated
 - Author:: #not_populated
 - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-- Related:: #not_populated ((Not a reference, but a related idea, block or page))
+- Related:: 
+    - [[E/Evergreen Note example 2]] 
+    - [[[[E:]] Evergreen Note example 3]]
 - Contents:: #not_populated

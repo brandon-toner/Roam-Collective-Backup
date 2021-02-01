@@ -68,6 +68,10 @@
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
@@ -100,11 +104,11 @@
 - **[People](<People.md>):** ((People involved with the project))
         - **[Created by](<Created by.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
-    - **[Created by](<Created by.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+- **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 - **[Created by](<Created by.md>):**
 

@@ -56,6 +56,10 @@
 - URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - **[References](<References.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[URL](<URL.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
@@ -91,11 +95,11 @@
 - **[Status](<Status.md>):** Not yet included in conventions
             - **[References](<References.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[URL](<URL.md>):** [not_populated](<not_populated.md>)
-    - **[References](<References.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+- **[References](<References.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
 - **[References](<References.md>):**
 

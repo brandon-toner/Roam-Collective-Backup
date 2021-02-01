@@ -534,7 +534,7 @@ I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)
 
 If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))"
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I like this SmartBlock a lot
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I like this SmartBlock a lot
                 - Question that immediately jumps to mind is...
                     - [Q](<Q.md>) What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?
                         - In my head, the central repository could be a set of "dashboards" that help to track both live and completed tasks...
@@ -613,5 +613,8 @@ a[href^='http']{
 - [January 31st, 2021](<January 31st, 2021.md>)
 
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 

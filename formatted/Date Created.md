@@ -56,6 +56,10 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Rules of Thumb](<Rules of Thumb.md>) [Principles](<Principles.md>)
     - **[Date Created](<Date Created.md>):**
@@ -96,11 +100,11 @@
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [collaboration](<collaboration.md>) [chat](<chat.md>) [communication](<communication.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [Start from abundance](<Start from abundance.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+- ---
+- **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - ---
 - **[Date Created](<Date Created.md>):**
 

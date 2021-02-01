@@ -107,6 +107,9 @@
 ## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [E/Start from abundance](<E/Start from abundance.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -262,9 +265,6 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - [Brandon Toner](<Brandon Toner.md>)
-
-## [Start from abundance](<Start from abundance.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - If you are interested in contributing to the initiative, request edit access by messaging [Brandon Toner](<Brandon Toner.md>)

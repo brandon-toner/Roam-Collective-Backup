@@ -1,0 +1,8 @@
+- Tags:: #[[Evergreen Notes]]
+    - Date Created:: [[January 27th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[David Perell]]
+    - URL:: #not_populated
+    - References:: #not_populated
+    - Related:: #not_populated
+    - Contents:: #not_populated

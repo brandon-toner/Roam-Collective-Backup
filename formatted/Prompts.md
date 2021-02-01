@@ -7,7 +7,7 @@
 - Explore the block references on the [Prompts](<Prompts.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- Choose what ever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
+- Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Explore the block references on the [Prompts](<Prompts.md>)

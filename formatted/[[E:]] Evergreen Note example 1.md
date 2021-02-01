@@ -6,5 +6,7 @@
 - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+- **[Related](<Related.md>):** 
+    - [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>) 
+    - [[[E:](<[[E:.md>) Evergreen Note example 3]]
 - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
