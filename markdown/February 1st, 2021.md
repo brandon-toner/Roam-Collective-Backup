@@ -158,7 +158,7 @@
                 - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[[[E:]] Use the native convention as much as possible.]]).
         - "perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph" [*](((xLHZnRztX)))
             - Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions 
-                - [[~[[Charles Farr]]]], [[@[[Peter Rosso]]]]
+                - [[~[[Charles Farr]]]], [[^[[Peter Rosso]]]]
                 - Image::
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FV0ylj7pFEN.png?alt=media&token=fb9f7607-3a4a-44b6-9d99-98a0c8e45023)
                 - **Projects:**
@@ -197,7 +197,7 @@
             - "#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
                 - Just changed `#[[Context Questions]]` to #Q here. [*](((LndnjT55D)))
                     - HA! This was me, before the switch.
-            - [[@[[Larissa de Lima]]]] seeing lots of great questions, consider prepending some with `#Q` to make sure they are carried forward. 
+            - [[~[[Larissa de Lima]]]] seeing lots of great questions, consider prepending some with `#Q` to make sure they are carried forward. 
                 - Also, feel free to tag more liberally in your writing, that will help with querying/filtering as we start digging through the database soon. I use [this]([[[[E:]] Evergreen notes should be densely linked]]) philosophy even when writing in the DNP.
                     - Big keywords and glossary terms are the main ones to include (as relevant)
         - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"[*](((nECtcrahY))) [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
@@ -447,7 +447,7 @@
                             - Self-reflection (in tandem with journaling or some such)
                         - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
         - On [[prefixes]] and [[suffixes]] with PRosso
-            - [[@[[Peter Rosso]]]] — re: " I was wondering if we should we have conventions on how we use nested squared brackets? `[[[[prefix-]][[main]][[-suffix]]]]` 
+            - [[^[[Peter Rosso]]]] — re: " I was wondering if we should we have conventions on how we use nested squared brackets? `[[[[prefix-]][[main]][[-suffix]]]]` 
 `[[How to]]` would be considered a prefix-"
                 - Categorizing nested brackets as either prefixes or suffixes is a good way for us to formalize and track conventions
                     - In my personal graph, I use mainly prefixes, as it allows for easy filtering during a `[[]]` search
@@ -461,7 +461,7 @@
             - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
             - {{[[TODO]]}} Investigate CSS workaround for namespaces
         - On [[maturity]] and [[maturation]] of [[notes]] with PRosso
-            - [[@[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "
+            - [[^[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "
                 - Generally speaking, I believe that is what Sonke advocates for. However, I find that this can be a high bar. Instead, I work through stages of maturation in my own notes...
                     - [[The stages of [[maturation]] of [[zettelkasten]] notes]]
                         - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
@@ -653,15 +653,17 @@
                     - Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions
             - The muscle to train is practicing shared structure, shared alignment on abstraction levels across concepts
         - HALF BAKED QUESTIONS
-            - What potentially creates friction in individual vs. shared communication
-                - re: goals
-                    - Disagreement on shared goals
-                        - Different assumptions on path towards goal
-                    - Differences in personal goals
-                - re: context
-                    - Asynchronicity
-                        - Different time commitment 
-                    - Prioritization
+            - #Q What are potential sources of [[friction]] in [[collaboration]]?  
+                - e.g., language, tools
+                - #Q What drives [[friction]] in [[shared communication]] (driven by the nature of language)?  
+                    - re: goals
+                        - Disagreement on shared goals
+                            - Different assumptions on path towards goal
+                        - Differences in personal goals
+                    - re: context
+                        - Asynchronicity
+                            - Different time commitment 
+                        - Prioritization
     - #Questions ((about the graph, or directed towards someone))
         - Should there be a page with norms on using the DNP template?
             - I am personally confused as to when to use Questions vs. Conversation

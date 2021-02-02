@@ -6,6 +6,12 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Time for some [CONVERGENCE]([convergence](<convergence.md>))
 
+- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>)
+
+- #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
 

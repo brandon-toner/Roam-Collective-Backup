@@ -27,3 +27,69 @@
     - #Conversation #not_populated
     - #Feedback  #not_populated
 - ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[bnt]])
+    - #[[Scratchpad]] 
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+            - That's why lot of research processes start with taxonomies.
+            - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
+        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+    - #GTD
+        - Answer to [[^[[Peter Rosso]]]]
+            - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
+        - Following [[@[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
+            - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
+            - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
+            - asynchronicity is good, but synchronicity -> standing waves -> increase in product -> successful relationship (which at times are referred as in sync)
+(If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
+        - Add double diamond literature notes from thesis
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation 
+        - "What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`"
+            - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
+    - #Feedback  #not_populated
+    - #Bookmarks
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+        - 
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - 🛠 IN PROGRESS - RETURN LATER
+            - #[[Fleeting Notes]] Performing operations
+                - Epistemic status: intuition
+                - Inspiration:
+                    - Romans to algebraic numbers
+                    - The Glass Bead Game
+                - Zeitgeist: breaking the abstraction
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #GTD
+        - Finish thoughts on number analogy
+        - Catch up on How To series
+        - Go through Questions
+    - #Conversation ((For nesting interactions with other members of the graph)) 
+        - On organizing conversations  
+            - On my mind as I logged in this morning: what did I miss? What were the important conversations about? #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
+                - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
+                    - [[@[[Charles Farr]]]] what you did was so incredibly helpful!  
+                        - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
+                    - [[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
+        - On the process of collaboration
+            - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
+                - This is really striking at something
+                - The challenge is - how does one define acceptance of a term? 
+                    - #[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
+                        - This is analogous to applying heat to molecules to create structure 
+                        - #[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
+                            - It is costly to 
+                                - (re: basis) have a (sufficient) basis of shared context
+                                - (re: process) share mental models asynchronously 
+                                - (re: outcome) align on implications
+                            - #[[Q]] What are the right levels of abstraction for which [[convergence]] should be aspired to? 
+        - On what gives abstraction power
+            - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
+                - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
+    - #Chat
+        - Hey back at you [[@[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+- ---

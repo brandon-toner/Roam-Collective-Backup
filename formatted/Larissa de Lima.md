@@ -10,7 +10,7 @@
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Very interested in creating a public garden focused on tools/visualizations for understanding the financial system
 - **[Queries](<Queries.md>):**
-    - {{[query](<query.md>): {and: [@](<@.md>) [Larissa de Lima](<Larissa de Lima.md>)}}}
+    - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
@@ -30,6 +30,9 @@
 
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Welcoming [Larissa de Lima](<Larissa de Lima.md>)
 
@@ -38,7 +41,5 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [Larissa de Lima](<Larissa de Lima.md>)
-- {{[query](<query.md>): {and: [@](<@.md>) [Larissa de Lima](<Larissa de Lima.md>)}
-
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 

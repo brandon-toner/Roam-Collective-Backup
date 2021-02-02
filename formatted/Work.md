@@ -28,6 +28,10 @@
 - **[Time Zone](<Time Zone.md>):** EST
         - **[Work](<Work.md>):**
 
+## [Peter Rosso](<Peter Rosso.md>)
+- **[Time Zone](<Time Zone.md>):** [GMT](<GMT.md>) ([UTC](<UTC.md>) 0:00)
+        - **[Work](<Work.md>):**
+
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>) +5:30)
         - **[Work](<Work.md>):**

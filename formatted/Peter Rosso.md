@@ -4,6 +4,7 @@
         - **[Website](<Website.md>):** [rosso.io](https://rosso.io)
         - **[Location](<Location.md>):** [Bristol](<Bristol.md>), [UK](<UK.md>)
         - **[Time Zone](<Time Zone.md>):** [GMT](<GMT.md>) ([UTC](<UTC.md>) 0:00)
+        - **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Engineerig](<Engineerig.md>)
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Twitter (preferred, checked daily at 1200GMT and 1700 GMT)
             - Send me a DM on Roam Slack (also good, but checked less frequently)
@@ -19,6 +20,9 @@
 - [Peter Rosso](<Peter Rosso.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)

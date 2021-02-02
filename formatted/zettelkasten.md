@@ -70,6 +70,8 @@
 
 - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
 
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 

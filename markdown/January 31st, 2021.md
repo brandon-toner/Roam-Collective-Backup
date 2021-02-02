@@ -552,7 +552,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - {{[[TODO]]}} Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
             - {{[[TODO]]}} Catalog a set of mythologies that can be used
     - #Chat
-        - Hey [[@[[Larissa de Lima]]]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
+        - Hey [[~[[Larissa de Lima]]]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}

@@ -4,6 +4,7 @@
         - Website:: [rosso.io](https://rosso.io)
         - Location:: [[Bristol]], [[UK]]
         - Time Zone:: [[GMT]] ([[UTC]] 0:00)
+        - Work:: [[PhD student]] [[Engineerig]]
         - How to contact me:: 
             - Send me a DM on Twitter (preferred, checked daily at 1200GMT and 1700 GMT)
             - Send me a DM on Roam Slack (also good, but checked less frequently)

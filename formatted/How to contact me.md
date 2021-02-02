@@ -33,7 +33,7 @@
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- **[Time Zone](<Time Zone.md>):** [GMT](<GMT.md>) ([UTC](<UTC.md>) 0:00)
+- **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Engineerig](<Engineerig.md>)
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)

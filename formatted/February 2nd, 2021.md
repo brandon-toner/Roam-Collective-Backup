@@ -27,3 +27,69 @@
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([bnt](<bnt.md>))
+    - #[Scratchpad](<Scratchpad.md>) 
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+            - That's why lot of research processes start with taxonomies.
+            - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
+        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+    - [GTD](<GTD.md>)
+        - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
+            - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
+        - Following [@[[Brandon Toner](<@[[Brandon Toner.md>)]] ottered 🤣🦦 audio add considerations about
+            - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
+            - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
+            - asynchronicity is good, but synchronicity -> standing waves -> increase in product -> successful relationship (which at times are referred as in sync)
+(If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
+        - Add double diamond literature notes from thesis
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - **["What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<"What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`"
+            - **[I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+        - 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - 🛠 IN PROGRESS - RETURN LATER
+            - #[Fleeting Notes](<Fleeting Notes.md>) Performing operations
+                - Epistemic status: intuition
+                - Inspiration:
+                    - Romans to algebraic numbers
+                    - The Glass Bead Game
+                - Zeitgeist: breaking the abstraction
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [GTD](<GTD.md>)
+        - Finish thoughts on number analogy
+        - Catch up on How To series
+        - Go through Questions
+    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+        - On organizing conversations  
+            - On my mind as I logged in this morning: what did I miss? What were the important conversations about? [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
+                - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
+                    - [@[[Charles Farr](<@[[Charles Farr.md>)]] what you did was so incredibly helpful!  
+                        - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
+                    - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
+        - On the process of collaboration
+            - "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
+                - This is really striking at something
+                - The challenge is - how does one define acceptance of a term? 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
+                        - This is analogous to applying heat to molecules to create structure 
+                        - #[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
+                            - It is costly to 
+                                - (re: basis) have a (sufficient) basis of shared context
+                                - (re: process) share mental models asynchronously 
+                                - (re: outcome) align on implications
+                            - #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>) should be aspired to? 
+        - On what gives abstraction power
+            - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
+                - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
+    - [Chat](<Chat.md>)
+        - Hey back at you [@[[Charles Farr](<@[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
+- ---
