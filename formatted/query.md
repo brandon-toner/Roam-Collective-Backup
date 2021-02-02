@@ -30,6 +30,12 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
+
+- [min-con](<min-con.md>) {{[query](<query.md>):
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>)
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>):
 
@@ -109,6 +115,8 @@
 - {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
 ## [leekeifon](<leekeifon.md>)
+- {{[query](<query.md>):
+
 - {{[query](<query.md>):
 
 - {{[query](<query.md>):

@@ -2,7 +2,7 @@
 - #[The Main Feed](<The Main Feed.md>)
     - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
 - ---
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+- #[Daily Activities](<Daily Activities.md>)
     - "Explore your [vision]([Vision](<Vision.md>)) for [project management](<project management.md>) in Roam. Describe a workflow that could be implemented in this graph. Include how [handoffs](<handoffs.md>) could be facilitated between different team members. [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
         - **Existing structure:**
             - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
@@ -286,7 +286,7 @@ Resolve by "[replace as text](<replace as text.md>)""
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHlSMw9n-nl.png?alt=media&token=1b335c52-b492-4d22-957a-da55adbf1b57)
         - "A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>) by Bookmarks, or any other of the [DNP Modules](<DNP Modules.md>) [Tips](<Tips.md>)"
             - Yeah but only issue with filters is that you'd have to continuously keep doing it to look through all the DNP modules. Whereas a query could persist and act as a personal dashboard of sorts and hidden under a toggle as needed
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Bookmarks](<Bookmarks.md>)
         - "[~[[leekeifon](<~[[leekeifon.md>)]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?"
             - Fascinated by the idea of Personas!

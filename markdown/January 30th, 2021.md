@@ -1,6 +1,6 @@
 - {{[[embed]]: ((FRFW0hQu_))}}
 - ---
-- #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+- #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
     - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
     - __Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
@@ -337,7 +337,7 @@
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fmi5GFmBjwZ.gif?alt=media&token=ea71f8bf-0b4f-4339-856c-81a9ad2b8ff0)
                     - #[[Fleeting Notes]] [[GIFs]] are an [[efficient]] and [[effective]] way to communicate a process or workflow. #teaching #documentation #Techniques #[[Quick Start Guide]] #onboarding #training
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #[[Scratchpad]]
         - [[Projects/Submit Grant Application to [[Urbit]] for RC]]
             - Questions to answer in detailed grant proposal

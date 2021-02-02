@@ -1,1 +1,1 @@
-- #Abbreviations — short for [[Daily Writing Prompts]]
+- #Abbreviations — short for [[Daily Activities]]

@@ -1,6 +1,6 @@
 - {{[embed](<embed.md>): ((FRFW0hQu_))}}
 - ---
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+- #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
     - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
     - __Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))! ((Don't forget to nest your responses under the Promptstorming tag))
@@ -337,7 +337,7 @@
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fmi5GFmBjwZ.gif?alt=media&token=ea71f8bf-0b4f-4339-856c-81a9ad2b8ff0)
                     - #[Fleeting Notes](<Fleeting Notes.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>) [onboarding](<onboarding.md>) [training](<training.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - #[Scratchpad](<Scratchpad.md>)
         - [Projects/Submit Grant Application to [[Urbit](<Projects/Submit Grant Application to [[Urbit.md>) for RC]]
             - Questions to answer in detailed grant proposal

@@ -11,4 +11,6 @@
     - Follow Ups
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
     - Todos
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: }}  }}}
+        - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
+    - Daily Notes
+        - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] }}  }}}

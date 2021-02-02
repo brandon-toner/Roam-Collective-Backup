@@ -9,6 +9,12 @@
 
 - Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[E:](<E:.md>)`
 
+- [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`
+
+- Differentiates the use of `#[Evergreen Notes](<Evergreen Notes.md>)` and `[E:](<E:.md>)`
+
+- On nested `[E:](<E:.md>)`
+
 - "Ability to filter a page by `[E:](<E:.md>)`
 
 - The other benefit is being able to query based on the combination of `[E:](<E:.md>)`

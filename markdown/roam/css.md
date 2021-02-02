@@ -1710,9 +1710,9 @@ span.rm-page-ref[data-tag="Daily Log"] {
 span.rm-page-ref[data-tag="Daily Log"]:before {
     content: '📆'
 }```
-                - `#[[Daily Writing Prompts]]
+                - `#[[Daily Activities]]
                     - ```css
-span.rm-page-ref[data-tag="Daily Writing Prompts"] {
+span.rm-page-ref[data-tag="Daily Activities"] {
     background: #4CAF50;
     color: #fff;
     padding: 2px 5px 2px 5px;
@@ -1723,7 +1723,7 @@ span.rm-page-ref[data-tag="Daily Writing Prompts"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Daily Writing Prompts"]:before {
+span.rm-page-ref[data-tag="Daily Activities"]:before {
     content: '✍🏼'
 }```
                 - #[[My Daily Notes]] [[Your Name]]

@@ -24,7 +24,7 @@
         - Check the #[[Change Log]] linked references for a running list of the changes over time.
         - Check the #Announcements linked references for a running list of important memos
         - Explore the block references on the [[Prompts]] page to see community responses to various prompts
-- #[[Daily Writing Prompts]]  
+- #[[Daily Activities]]  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
 - #[[Daily Log]]
     - 14:00 — [[[[Clubhouse]] conversation: Jan 25 2021]]
@@ -73,7 +73,7 @@
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
             12. {{[[DONE]]}} Clarify the [[zettelkasten]] conventions for [[Roam-Collective]]
             13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[February 1st, 2021]] 
-            14. {{[[DONE]]}} Establish a "[[Daily Writing Prompts]]" workflow. #Processes
+            14. {{[[DONE]]}} Establish a "[[Daily Activities]]" workflow. #Processes
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. {{[[DONE]]}} Consolidate and streamline some of the Getting Started, Start Here, etc stuff.
             16. {{[[DONE]]}} Reflect on a #Resources collection.
@@ -106,7 +106,7 @@
             1. "[[Brandon Toner]]"
             3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
             4. "Use the [[Daily Log]] to sign-in"
-            5. "Answer the [[Daily Writing Prompts]] or something from the [[Prompts]] library."
+            5. "Answer the [[Daily Activities]] or something from the [[Prompts]] library."
                 - Nest your prompt-replies underneath the #Promptstorming tag.
                     - Example::
         - [[Beyond the Basics]]
@@ -219,7 +219,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[[Writing & Reflection]]
         - [[anarchic self-organization]]
             - Doable with the "right" kind of group, so may not be more widely applicable
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
         - Potential Artifacts
             - Literature Reviews (on particular subjects)

@@ -7,6 +7,15 @@
 
 - In most cases I agree, but have decided to go with `#[Project Ideas](<Project Ideas.md>)`
 
+- "Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
+
+- Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
+
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- "#[Project Ideas](<Project Ideas.md>)
+
+- #[Project Ideas](<Project Ideas.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Project Ideas](<Project Ideas.md>)
 

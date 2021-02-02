@@ -22,11 +22,15 @@
 
 - `#[Evergreen Notes](<Evergreen Notes.md>)`
 
+- Differentiates the use of `#[Evergreen Notes](<Evergreen Notes.md>)`
+
 - This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[Evergreen Notes](<Evergreen Notes.md>)`
 
 - However, this same [query](((NrGcnTXDx))) can be accomplished using `[Evergreen Notes](<Evergreen Notes.md>)`
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>)
+
+- When dealing with meta concepts, can be a bit confusing (e.g., `[Evergreen Notes](<Evergreen Notes.md>)`
 
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)

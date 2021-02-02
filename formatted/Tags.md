@@ -63,6 +63,9 @@
 ## [DNP Modules](<DNP Modules.md>)
 - **[Tags](<Tags.md>):**
 
+## [Daily Activities](<Daily Activities.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Daily Big 3](<Daily Big 3.md>)
 - **[Tags](<Tags.md>):**
 
@@ -71,9 +74,6 @@
 
 ## [Daily Notes Page](<Daily Notes Page.md>)
 - **[Aliases](<Aliases.md>):** [DNP](<DNP.md>)
-- **[Tags](<Tags.md>):**
-
-## [Daily Writing Prompts](<Daily Writing Prompts.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Decisions](<Decisions.md>)
@@ -468,6 +468,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [linked references](<linked references.md>)
+- **[Tags](<Tags.md>):**
+
+## [namespaces](<namespaces.md>)
 - **[Tags](<Tags.md>):**
 
 ## [page references](<page references.md>)

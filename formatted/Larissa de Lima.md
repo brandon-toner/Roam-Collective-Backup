@@ -26,6 +26,8 @@
 - [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- Similar [idea](((7UZ275DjI))) from [Larissa de Lima](<Larissa de Lima.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

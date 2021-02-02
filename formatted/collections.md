@@ -7,6 +7,10 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
 
+- On [collections](<collections.md>)
+
+- On [namespaces](<namespaces.md>) for [definitions](<definitions.md>) and [collections](<collections.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - If making a new [collection]([collections](<collections.md>))
 

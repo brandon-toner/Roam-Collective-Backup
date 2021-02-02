@@ -11,7 +11,7 @@
     5. Learn more about the purpose and objectives of Roam Collective [here]([About [[Roam-Collective](<About [[Roam-Collective.md>)]])
     6. Build your DNP Section using the universal [template](((qONZuXh3Y))). 
     7. Use the [Daily Log](<Daily Log.md>) to sign-in
-    8. Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>) library.
+    8. Answer the [Daily Activities](<Daily Activities.md>) or something from the [Prompts](<Prompts.md>) library.
         - {{embed: ((PFuJmmElf))}}
     9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
     10. Check out the [Frequently Asked Questions](<Frequently Asked Questions.md>)

@@ -11,20 +11,23 @@
 - DNP Templates are found [here]([Templates](<Templates.md>))
 - **[Example](<Example.md>):**
 
+## [Daily Activities](<Daily Activities.md>)
+- Nest your writing underneath the prompt reference.
+    - **[Example](<Example.md>):**
+
 ## [Daily Log](<Daily Log.md>)
 - Timestamp your activity as you visit or make changes in the graph.
         - **[Example](<Example.md>):**
 
-## [Daily Writing Prompts](<Daily Writing Prompts.md>)
-- Nest your writing underneath the prompt reference.
-    - **[Example](<Example.md>):**
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- Thoughts on this thread of thoughts? [@[[Charles Farr](<@[[Charles Farr.md>)]]
+- Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
                 - **[Example](<Example.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+                        - **[Example](<Example.md>):**
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.

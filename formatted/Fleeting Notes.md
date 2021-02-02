@@ -17,6 +17,8 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 - `#[Fleeting Notes](<Fleeting Notes.md>)`
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
@@ -30,6 +32,28 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- Concrete [need](((l1bAGu1Op))) for "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)

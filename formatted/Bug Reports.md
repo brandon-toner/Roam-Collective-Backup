@@ -6,6 +6,9 @@
 ## [Bug Reports](<Bug Reports.md>)
 - #[Bug Reports](<Bug Reports.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[Bug Reports](<Bug Reports.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - 22:11 — #[Bug Reports](<Bug Reports.md>)
 

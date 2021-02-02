@@ -15,7 +15,7 @@
         - {{[[query]]: {and: [[cc:[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
             - #[[Scratchpad]] #not_populated
             - #GTD #not_populated
             - #[[Change Log]] #not_populated

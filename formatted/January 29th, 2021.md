@@ -3,7 +3,7 @@
 - [Announcements](<Announcements.md>)
     - Note the new "cc" convention & updated collaboration documentation.
         - "21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))"
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)
+- #[Daily Activities](<Daily Activities.md>)
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
     - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))"
@@ -151,7 +151,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FuFV_JnTxU8.gif?alt=media&token=f86ba615-6ecb-4966-b4a2-402217244c5d)
         - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>) to [GTD](<GTD.md>)
             - More broad & encompassing in language.
-        - 19:44 — Made the CSS for #[Daily Writing Prompts](<Daily Writing Prompts.md>) and [Chat](<Chat.md>) more consistent with the rest of the styling.
+        - 19:44 — Made the CSS for #[Daily Activities](<Daily Activities.md>) and [Chat](<Chat.md>) more consistent with the rest of the styling.
         - 20:21 — Added [Annotations](<Annotations.md>) for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) [zettelkasten](<zettelkasten.md>)
         - 20:54 — Added a passive notification [convention]([Conventions](<Conventions.md>)) `[cc:[[Their Name](<cc:[[Their Name.md>)]]` [collaboration](<collaboration.md>)
         - 21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))

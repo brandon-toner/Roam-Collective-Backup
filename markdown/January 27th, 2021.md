@@ -9,7 +9,7 @@
 - #[[The Main Feed]]
     - {{[[embed]]: ((JfnNhLc4U))}}
 - ---
-- #[[Daily Writing Prompts]]
+- #[[Daily Activities]]
     - "Explore your vision for the future of collaboration in Roam."
     - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
@@ -245,7 +245,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - [[~]][[Brandon Toner]] Why do you want to use hiccup? use `---`
             - ---
     - #Promptstorming
-        - #[[Daily Writing Prompts]]
+        - #[[Daily Activities]]
             - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for
@@ -286,6 +286,4 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - With this huge surge of interest in solving the problems that us [[Roam]] users  are facing, I was having a chat with [[Bill Petro]] on [[Slack]] and the fact that we still don't have a fully functioning place to chat, engage, and archive our ideas is still pretty glaring.
         - As an idea towards solving this problem, I really think if there was a push into figuring this out for #[[Roam Games]] would be very much possible.
             - My time at the moment is completely slammed with #[[Roam Book Club]] 3, so obviously can't focus on this, but I figured I'd stir the pot a'bit~ 
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
-    - 
 - 

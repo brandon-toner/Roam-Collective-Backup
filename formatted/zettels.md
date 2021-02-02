@@ -5,3 +5,5 @@
 
 - Reserving the namespace for true claim-based [zettels](<zettels.md>).
 
+- So maybe [claims](<claims.md>) become [zettels](<zettels.md>).
+

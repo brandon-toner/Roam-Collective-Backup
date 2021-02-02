@@ -3,7 +3,7 @@
 - #Announcements (**Temporary Message**)
     - {{[[embed]]: ((LndnjT55D))}}
     - {{[[embed]]: ((vjbkNQ8uM))}}
-- #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+- #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "What is your favourite convention within [[Roam-Collective]]?"
     - "__Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))"
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
@@ -449,7 +449,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - #[[Daily Log]]
         - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s
             - In reality, there are a lot of different use cases that require slightly different structures — offering only one version means that we will be missing out on supporting a large number of different communities and graphs

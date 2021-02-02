@@ -1,5 +1,14 @@
 
 # Backlinks
+## [February 1st, 2021](<February 1st, 2021.md>)
+- **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+
+- #[Fleeting Notes](<Fleeting Notes.md>) Shared endeavors and [collaboration](<collaboration.md>)
+
+- Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>) Shared endeavors and [collaboration](<collaboration.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
 

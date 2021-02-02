@@ -12,10 +12,10 @@
 ## [Bug Reports](<Bug Reports.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
-## [Daily Log](<Daily Log.md>)
+## [Daily Activities](<Daily Activities.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
-## [Daily Writing Prompts](<Daily Writing Prompts.md>)
+## [Daily Log](<Daily Log.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Dice Roll](<Dice Roll.md>)

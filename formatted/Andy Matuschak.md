@@ -10,6 +10,8 @@
 
 - **["Example](<"Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)"
 
+- A cognitive concept that I learn from [Andy Matuschak](<Andy Matuschak.md>)
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

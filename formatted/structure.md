@@ -3,6 +3,8 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) the [components](<components.md>) and [structure](<structure.md>)
 
+- Ways to provide [structure](<structure.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - To [empower](<empower.md>) Roam communities with the [conventions](<conventions.md>) and [processes](<processes.md>) necessary to transcend [meta](<meta.md>) discussion about the [organization](<organization.md>) and [structure](<structure.md>)
 

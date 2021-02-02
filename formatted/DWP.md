@@ -1,4 +1,4 @@
-- [Abbreviations](<Abbreviations.md>) — short for [Daily Writing Prompts](<Daily Writing Prompts.md>)
+- [Abbreviations](<Abbreviations.md>) — short for [Daily Activities](<Daily Activities.md>)
 
 # Backlinks
 ## [January 26th, 2021](<January 26th, 2021.md>)

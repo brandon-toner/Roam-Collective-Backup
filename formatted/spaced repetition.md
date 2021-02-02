@@ -4,7 +4,11 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
+
 - One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
+
+- [Related](<Related.md>) [spaced repetition](<spaced repetition.md>)
 
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)

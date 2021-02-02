@@ -11,7 +11,9 @@
     - Follow Ups
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
     - Todos
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: }}  }}}
+        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
+    - Daily Notes
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) }}  }}}
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
@@ -21,10 +23,18 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
 - From [Charles Farr](<Charles Farr.md>):
+
+- "#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+- [Charles Farr](<Charles Farr.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
@@ -67,9 +77,6 @@
 - "Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>),
 
 - "Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)"
-
-## [January 27th, 2021](<January 27th, 2021.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 -  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>)

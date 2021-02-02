@@ -1,5 +1,5 @@
 - {{embed: ((b9pQnEURN))}}
-- #[[Daily Writing Prompts]] 
+- #[[Daily Activities]] 
     - "What sections should be included in a [[Roam Collaboration Guide]]? What might chapters would need to be included? What questions should the guide answer?"
 - #[[Daily Log]]
     - 10:00 — 11:00 played around a bit. [[Brandon Toner]]
@@ -76,7 +76,7 @@
     - #[[Help Wanted]]
         - Extracting highlights, and literature notes from any of the `#Resources`. Using the [Resources Template](((gix1P4auD)))
         - Sharing your [[feedback]]! 
-        - Reflecting on any of the Prompts — check out the [[Daily Writing Prompts]], and follow your nose to whatever catches your inspiration.
+        - Reflecting on any of the Prompts — check out the [[Daily Activities]], and follow your nose to whatever catches your inspiration.
     - #Promptstorming
         - "If you were to write a guide about working with a team in Roam, what would you include. Brainstorm on components of the table of contents. What questions would you want to answer? What processes would you want to describe?"
             - I would start with project management for the individual, build a simple system — then apply those principles to the team setting.

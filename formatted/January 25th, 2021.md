@@ -24,7 +24,7 @@
         - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
         - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
         - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
-- #[Daily Writing Prompts](<Daily Writing Prompts.md>)  
+- #[Daily Activities](<Daily Activities.md>)  
     - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
 - #[Daily Log](<Daily Log.md>)
     - 14:00 — [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
@@ -73,7 +73,7 @@
                 - Background colour consistency... Dark grey vs light grey — what's the distinction?
             12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
             13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>) 
-            14. [x] Establish a "[Daily Writing Prompts](<Daily Writing Prompts.md>)" workflow. [Processes](<Processes.md>)
+            14. [x] Establish a "[Daily Activities](<Daily Activities.md>)" workflow. [Processes](<Processes.md>)
                 - Each day, one is added to the top of the page. Selected by anyone if it's not already there.
             15. [x] Consolidate and streamline some of the Getting Started, Start Here, etc stuff.
             16. [x] Reflect on a [Resources](<Resources.md>) collection.
@@ -106,7 +106,7 @@
             1. "[Brandon Toner](<Brandon Toner.md>)"
             3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
             4. "Use the [Daily Log](<Daily Log.md>) to sign-in"
-            5. "Answer the [Daily Writing Prompts](<Daily Writing Prompts.md>) or something from the [Prompts](<Prompts.md>) library."
+            5. "Answer the [Daily Activities](<Daily Activities.md>) or something from the [Prompts](<Prompts.md>) library."
                 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**
         - [Beyond the Basics](<Beyond the Basics.md>)
@@ -219,7 +219,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[Writing & Reflection](<Writing & Reflection.md>)
         - [anarchic self-organization](<anarchic self-organization.md>)
             - Doable with the "right" kind of group, so may not be more widely applicable
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>)
         - Potential Artifacts
             - Literature Reviews (on particular subjects)

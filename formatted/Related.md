@@ -13,9 +13,6 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):**
 
-## [Activities](<Activities.md>)
-- **[Related](<Related.md>):**
-
 ## [Becoming an Editor](<Becoming an Editor.md>)
 - **[Related](<Related.md>):**
 
@@ -41,6 +38,10 @@
 
 - Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [[[E:](<[[E:.md>) Evergreen Note example 3]]. 
                     - **[Related](<Related.md>):**
+
+- [Related](<Related.md>)
+
+- [Related](<Related.md>)
 
 - [Related](<Related.md>)
 
