@@ -8,6 +8,9 @@
 ## [Agenda](<Agenda.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Brandon Toner](<Brandon Toner.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>)
+
 ## [Charles Farr](<Charles Farr.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>)
 
@@ -37,6 +40,9 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [Frameworks](<Frameworks.md>)
@@ -98,5 +104,9 @@
 - {{[TODO](<TODO.md>)}
 
 ## [roam/css](<roam/css.md>)
+- {{[query](<query.md>): {and: [TODO](<TODO.md>)
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 

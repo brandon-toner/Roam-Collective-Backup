@@ -8,6 +8,7 @@
             - Process [here](((5CxAQCSjk)))
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+    - This is to indicate "**1000 upvotes**" from [[cc:[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
 - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
@@ -21,10 +22,38 @@
     - #GTD #not_populated
     - #[[Change Log]] 
         1. Added the [[page-status questions]] conventions and process. #Status/Experimental
+        2. Personally emulated some of the queries used by [[cc:[[Charles Farr]]]]
+            - Inclusion of initials in DNP Section heading to promote effective querying.
+            - Adoption of some [good queries](((jTQwEButc))) to place on my personal page.
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] 
         - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
-    - #Conversation #not_populated
+    - #Conversation 
+        1. "[[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
+            - Ha! Agreed. This is a MUCH better visual experience. Well done, [[@[[Charles Farr]]]]
+        2. On processing growing data in the graph.
+            - "[[@[[Brandon Toner]]]] how are you approaching this: "#Q How do we digest all of the information we're adding to the graph?""
+                - I've been thinking of my [[future self]] through the use of [[tagging]].
+                    - 1) I use [this]([[[[E:]] Evergreen notes should be densely linked]]) idea as much as I can. 
+                    - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
+                        - This helps as a filter on pages as well. 
+                            - Image::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fv76lWL9fSC.png?alt=media&token=648c2190-46e7-4dec-9ad4-a93d12d6e5fd)
+                    - I believe processes here will evolve. 
+                        - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([[resurfacing]]).
+                        - The idea of [[[[E:]] active vs passive resurfacing]] is related here. #Bookmarks
+                            - Within [[passive resurfacing]], there are strategies we can hone to improve the [[probability]] of [[resurfacing]].
+                                - E.g. use of [[zettelkasten]] notes to preserve main ideas.
+                                - The questions I constantly ask myself (somewhat by second nature) is: 
+                                    - "How do I want to come across this again?" 
+                                    - "How important is it that I come across this again?"
+                                    - "Is it time-sensitive?"
+                                - "The questions I constantly ask myself (somewhat by second nature) is: "
+                                    - [[@[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
+                                        - Cons::
+                                            - The linked references for `#Prompts` can serve as a place for people to suggest prompts to be added to the main library... adding more noise may decrease the value of the linked refs there?
+                                                - Could this be combatted by use of a second tag?
+                                                    - Like `#Prompts` + `#Status/Idea` in this [example](((5XvGIEuES)))?
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[bnt]])
@@ -32,14 +61,23 @@
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+        - ((__GiaQWtl)
+        - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #GTD
         - Answer to [[^[[Peter Rosso]]]]
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
         - Following [[@[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
             - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
             - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
-            - asynchronicity is good, but synchronicity -> standing waves -> increase in product -> successful relationship (which at times are referred as in sync)
+            - When Brandon commented made about asynchronous editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are synchronous?!" 
+                - I think that synchronous and aligned activities in a multiplayer zettelkasten can lead to compound effects like standing waves created by signals.
+                - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
+                - When everyone is in sinch, the compound effect of alignment and synchronicity can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
+                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "contrarians". This can lead to confirmation bias, creation of echo chambers and in some extent cults and collectives 😂
+                    - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
+                        - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
+                - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
+                - 
 (If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
         - Add double diamond literature notes from thesis
     - #[[Change Log]] #not_populated
@@ -48,10 +86,12 @@
     - #Conversation 
         - "What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`"
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
+        - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
+            - [[@[[Larissa de Lima]]]] I am so curious now.
     - #Feedback  #not_populated
     - #Bookmarks
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
-        - 
+        - #[[Follow Up]] "#[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]]."
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad 
@@ -71,7 +111,7 @@
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
-                    - [[@[[Charles Farr]]]] what you did was so incredibly helpful!  
+                    - [[~[[Charles Farr]]]] what you did was so incredibly helpful!  
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
@@ -90,6 +130,31 @@
             - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     - #Chat
-        - Hey back at you [[@[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
+        - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+        - "**Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation
+        - On [[conversation]] conventions with LdeLima
+            - [[@[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
+                - It was helpful for me too! Glad to hear it was helpful for others as well...
+        - Simply Replies
+            - [[@[[Larissa de Lima]]]] re: "Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
+                - I'll shoot you a DM on Twitter!
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Bookmarks
+        - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^""
+        - #[[Follow Up]] [[datalog]] "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table."
+    - #[[Change Log]]
+        - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
+            - "External Links #Status/Enabled"
+        - Added color scheme setting
+            - "Colors"
+            - Note: Did not update any existing css code to utilize the `var()` best practice
+                - {{[[TODO]]}} Standardize color scheme
+                    - #Q Can Roam Collective develop a color scheme that better supports our key mission?
+                        - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
+    - ---

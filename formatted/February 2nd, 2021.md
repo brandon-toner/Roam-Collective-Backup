@@ -8,6 +8,7 @@
             - Process [here](((5CxAQCSjk)))
 - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
     - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+    - This is to indicate "**1000 upvotes**" from [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
 - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
@@ -21,10 +22,38 @@
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Added the [page-status questions](<page-status questions.md>) conventions and process. [Status](<Status.md>)/Experimental
+        2. Personally emulated some of the queries used by [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+            - Inclusion of initials in DNP Section heading to promote effective querying.
+            - Adoption of some [good queries](((jTQwEButc))) to place on my personal page.
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? "
+            - Ha! Agreed. This is a MUCH better visual experience. Well done, [@[[Charles Farr](<@[[Charles Farr.md>)]]
+        2. On processing growing data in the graph.
+            - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?""
+                - I've been thinking of my [future self](<future self.md>) through the use of [tagging](<tagging.md>).
+                    - 1) I use [this]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]) idea as much as I can. 
+                    - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
+                        - This helps as a filter on pages as well. 
+                            - **[Image](<Image.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fv76lWL9fSC.png?alt=media&token=648c2190-46e7-4dec-9ad4-a93d12d6e5fd)
+                    - I believe processes here will evolve. 
+                        - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>)).
+                        - The idea of [[[E:](<[[E:.md>) active vs passive resurfacing]] is related here. [Bookmarks](<Bookmarks.md>)
+                            - Within [passive resurfacing](<passive resurfacing.md>), there are strategies we can hone to improve the [probability](<probability.md>) of [resurfacing](<resurfacing.md>).
+                                - E.g. use of [zettelkasten](<zettelkasten.md>) notes to preserve main ideas.
+                                - The questions I constantly ask myself (somewhat by second nature) is: 
+                                    - "How do I want to come across this again?" 
+                                    - "How important is it that I come across this again?"
+                                    - "Is it time-sensitive?"
+                                - "The questions I constantly ask myself (somewhat by second nature) is: "
+                                    - [@[[Charles Farr](<@[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
+                                        - **[Cons](<Cons.md>):**
+                                            - The linked references for `[Prompts](<Prompts.md>)` can serve as a place for people to suggest prompts to be added to the main library... adding more noise may decrease the value of the linked refs there?
+                                                - Could this be combatted by use of a second tag?
+                                                    - Like `[Prompts](<Prompts.md>)` + `[Status](<Status.md>)/Idea` in this [example](((5XvGIEuES)))?
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([bnt](<bnt.md>))
@@ -32,14 +61,23 @@
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+        - ((__GiaQWtl)
+        - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - [GTD](<GTD.md>)
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Following [@[[Brandon Toner](<@[[Brandon Toner.md>)]] ottered 🤣🦦 audio add considerations about
             - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
             - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
-            - asynchronicity is good, but synchronicity -> standing waves -> increase in product -> successful relationship (which at times are referred as in sync)
+            - When Brandon commented made about asynchronous editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are synchronous?!" 
+                - I think that synchronous and aligned activities in a multiplayer zettelkasten can lead to compound effects like standing waves created by signals.
+                - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
+                - When everyone is in sinch, the compound effect of alignment and synchronicity can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
+                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "contrarians". This can lead to confirmation bias, creation of echo chambers and in some extent cults and collectives 😂
+                    - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
+                        - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
+                - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
+                - 
 (If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
         - Add double diamond literature notes from thesis
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
@@ -48,10 +86,12 @@
     - [Conversation](<Conversation.md>) 
         - **["What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<"What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`"
             - **[I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
+        - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
+            - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] I am so curious now.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
-        - 
+        - #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>) Explore [Wikipedia](<Wikipedia.md>)'s [conventions](<conventions.md>) as inspiration for components to emulate for [RC](<RC.md>)."
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) 
@@ -71,7 +111,7 @@
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
-                    - [@[[Charles Farr](<@[[Charles Farr.md>)]] what you did was so incredibly helpful!  
+                    - [~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
@@ -90,6 +130,31 @@
             - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     - [Chat](<Chat.md>)
-        - Hey back at you [@[[Charles Farr](<@[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
+        - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>) 
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+        - "**Activity:** Review, query, filter and browse the many [questions](<questions.md>) captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - On [conversation](<conversation.md>) conventions with LdeLima
+            - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  "
+                - It was helpful for me too! Glad to hear it was helpful for others as well...
+        - Simply Replies
+            - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] re: "Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
+                - I'll shoot you a DM on Twitter!
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - #[Follow Up](<Follow Up.md>) ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^""
+        - **[#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table."
+    - #[Change Log](<Change Log.md>)
+        - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
+            - "External Links [Status](<Status.md>)/Enabled"
+        - Added color scheme setting
+            - "Colors"
+            - Note: Did not update any existing css code to utilize the `var()` best practice
+                - [ ] Standardize color scheme
+                    - [Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?
+                        - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
+    - ---

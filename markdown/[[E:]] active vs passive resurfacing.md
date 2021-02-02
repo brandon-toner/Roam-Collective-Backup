@@ -4,13 +4,11 @@
     - Author:: [[Brandon Toner]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Contents:: #not_populated
-- Examples of active resurfacing:
-    - Reminders
-    - Placing in the inbox of scheduled reviews
-    - Tagging someone in it
-- Examples of passive resurfacing:
-    - Stumbling upon it
-- Passive resurfacing is best when [notes are densely linked]([[[[E:]] Evergreen notes should be densely linked]]).
-- 
-- [[[[E:]] active vs passive resurfacing]]
+    - Contents:: 
+        - Examples of [[active resurfacing]]:
+            - Reminders
+            - Placing in the inbox of scheduled reviews
+            - Tagging someone in it
+        - Examples of [[passive resurfacing]]:
+            - Stumbling upon it
+        - Passive resurfacing is best when [notes are densely linked]([[[[E:]] Evergreen notes should be densely linked]]).

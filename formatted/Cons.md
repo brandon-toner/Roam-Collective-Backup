@@ -7,6 +7,10 @@
 - Simple implicit convention
                     - **[Cons](<Cons.md>):**
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [@[[Charles Farr](<@[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
+                                        - **[Cons](<Cons.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page."
                     - **[Cons](<Cons.md>):**

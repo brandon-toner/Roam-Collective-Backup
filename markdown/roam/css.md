@@ -266,7 +266,797 @@ span.rm-page-ref {
 .rm-pomodoro::first-letter {
   margin-right: 8px;
 }```
-    - Styling Elements
+    - ## Settings
+        - Colors
+            - Color Scheme
+                - > Use names for consistent colors throughout your them
+                - Base
+                    - ```css
+:root {
+  --cl-white:			#ffffff;
+  --cl-gray-50:			#f4f5f5;
+  --cl-gray-100:		#e5e6e6;
+  --cl-gray-200: 		#dcdcdc;
+  --cl-gray-300: 		#bdbdbd;
+  --cl-gray-400: 		#99999d;
+  --cl-gray-500: 		#797a79;
+  --cl-gray-600: 		#646464;
+  --cl-gray-700: 		#454545;
+  --cl-gray-800: 		#272727;
+  --cl-gray-900:		#1a1a1a;
+  --cl-black:			#000000;
+  --cl-green-700: 		#1a8917;
+  --cl-blue-50:			#e8f2ff;
+  --cl-blue-200:		#BFDBFE;
+  --cl-yellow-200:		#FDE68A;
+  --cl-red-500: 		#fe3c30;
+  --cl-orange-500:	 	#fe9500;
+  --cl-yellow-500: 		#fecc00;
+  --cl-green-500: 		#27cd41;
+  --cl-blue-500: 		#007aff;
+  --cl-indigo-500: 		#5756d5;
+  --cl-purple-500: 		#af52de;
+  --cl-pink-500: 		#fe2e55;	
+  --cl-brown-500: 		#a2845e;
+  --cl-beige-200:		#eec170;
+  --cl-beige-500:		#c8963e;
+  --cl-beige-700:		#472515;
+}```
+                - Togetic
+                    - ```css
+:root {
+/*Togetic #176*/
+  --cl-togetic-gray-500:  #737b83;
+  --cl-togetic-gray-300:  #acc5bd;
+  --cl-togetic-gray-100:  #d5eeee;
+  --cl-togetic-red-500:   #bd1808;
+  --cl-togetic-red-300:   #de4139;
+  --cl-togetic-blue-500:  #1062bd;
+  --cl-togetic-blue-300:  #2994e6;
+}```
+                - Wobbufet
+                    - ```css
+:root {
+  /* CSS HEX */
+  --uranian-blue: #a4deffff;
+  --aero: #73bdf6ff;
+  --blue-jeans: #52aceeff;
+  --yale-blue: #20528bff;
+  --gray-web: #838383ff;
+  --davys-grey: #525252ff;
+  --dark-orange: #ff8b00ff;
+  --persimmon: #de5200ff;
+  --rufous: #a41000ff;
+}```
+            - UI
+                - All Pages
+                    - > Modifies the "All Pages" site, found in the left sidebar
+                    - Colors
+                        - ```css
+:root {
+  --fg-all-pages-title:					var(--cl-gray-800);
+  --bg-all-pages-header:				var(--cl-gray-100);
+  --fg-all-pages-header:				var(--cl-gray-800);
+  --fg-all-pages-header-sorted:			var(--cl-gray-900);
+  --bg-all-pages-clickable-pill:		var(--cl-gray-800);
+  --bg-all-pages-search:				var(--cl-white);
+  --fg-all-pages-search:				var(--cl-gray-500);
+  --fg-all-pages-search-placeholder:	var(--cl-gray-500);
+  --fg-all-pages-title-col:				var(--cl-gray-500);
+  --fg-all-pages-row:					var(--cl-gray-500);
+  --br-all-pages-row:					var(--cl-gray-400);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-all-pages-title:					var(--cl-gray-800);
+  --bg-all-pages-header:				var(--cl-gray-100);
+  --fg-all-pages-header:				var(--cl-gray-800);
+  --fg-all-pages-header-sorted:			var(--cl-gray-900);
+  --bg-all-pages-clickable-pill:		var(--cl-gray-800);
+  --bg-all-pages-search:				var(--cl-white);
+  --fg-all-pages-search:				var(--cl-gray-500);
+  --fg-all-pages-search-placeholder:	var(--cl-gray-500);
+  --fg-all-pages-title-col:				var(--cl-gray-500);
+  --fg-all-pages-row:					var(--cl-gray-500);
+  --br-all-pages-row:					var(--cl-gray-400);  
+  } 
+}```
+                - Brackets
+                    - > Modifies the color of the Brackets when linking Pages
+                    - Colors
+                        - ```css
+:root {
+  --fg-brackets: var(--cl-gray-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+    --fg-brackets: var(--cl-gray-500);
+  } 
+}```
+                - Buttons and Icons 
+                    - > Modifies icons in the top- and sidebar as well as buttons in the filter dialog.
+                    - Colors
+                        - ```css
+:root {
+  --fg-buttons:			var(--cl-gray-400);
+  --bg-buttons: 		transparent;
+  --fg-buttons-hover:	var(--cl-gray-500);
+  --bg-buttons-hover:	transparent;
+  --bg-word-count:		var(--cl-gray-100);
+  --fg-word-count:		var(--cl-gray-700);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-buttons:			var(--cl-gray-400);
+  --bg-buttons: 		transparent;
+  --fg-buttons-hover:	var(--cl-gray-500);
+  --bg-buttons-hover:	transparent;
+  --bg-word-count:		var(--cl-gray-700);
+  --fg-word-count:		var(--cl-gray-100);
+  } 
+}```
+                - Caret
+                    - > Modifies the little caret the folds bullets
+                    - Colors
+                        - ```css
+:root {
+  --fg-caret: 	var(--cl-gray-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-caret: 	var(--cl-gray-300);
+  } 
+}```
+                - Help
+                    - > Modifies the help dialog
+                    - Colors
+                        - ```css
+:root {
+  --bg-help:	var(--cl-gray-100);
+  --fg-help:	var(--cl-gray-600);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-help:	var(--cl-gray-800);
+  --fg-help:	var(--cl-gray-400);
+  } 
+}```
+                - Left Sidebar
+                    - > Modifies the left sidebar
+                    - Colors
+                        - ```css
+:root {
+  --bg-left-sidebar:		var(--cl-gray-50);
+  --bg-left-sidebar-hover:	var(--cl-gray-50);
+  --bg-left-sidebar-hr:		var(--cl-gray-500);
+  --fg-left-sidebar:		var(--cl-gray-700);
+  --fg-left-sidebar-hover:	var(--cl-gray-700);
+  --fg-left-dropdown-title:	var(--cl-gray-400);
+  --fg-left-sidebar-icons: 	var(--cl-gray-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-left-sidebar:		var(--cl-gray-800);
+  --bg-left-sidebar-hover:	var(--cl-gray-800);
+  --bg-left-sidebar-hr:		var(--cl-gray-500);
+  --fg-left-sidebar:		var(--cl-gray-100);
+  --fg-left-sidebar-hover:	var(--cl-white);
+  --fg-left-dropdown-title:	var(--cl-gray-400);
+  --fg-left-sidebar-icons: 	var(--cl-gray-400); 
+  } 
+}```
+                - Log
+                    - > Modifies the color of the daily log
+                    - Colors
+                        - ```css
+:root {
+  --fg-log-hr: 	var(--cl-gray-400);
+  --fg-log:		var(--cl-gray-400);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-log-hr: 	var(--cl-gray-600);
+  --fg-log:		var(--cl-gray-600);
+  } 
+}```
+                - Menus
+                    - > Changes the color and fonts of the different menus
+
+**Notice**
+We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades.
+                    - Colors
+                        - ```css
+:root {
+  --bg-menu:		var(--cl-white);
+  --bg-menu-hover:	var(--cl-gray-100);
+  --fg-menu:		var(--cl-gray-500);
+  --fg-menu-hover:	var(--cl-gray-600);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-menu:		var(--cl-gray-800);
+  --bg-menu-hover:	var(--cl-gray-200);
+  --fg-menu:		var(--cl-gray-500);
+  --fg-menu-hover:	var(--cl-gray-500);
+  } 
+}```
+                - Top Bar
+                    - > Modifies colors and fonts of the topbar including the  "Find or Create Page"-Input.
+                    - Colors
+                        - ```css
+:root {
+  --bg-topbar: 				var(--cl-white);
+  --bg-input: 				var(--cl-gray-50);
+  --br-input: 				var(--cl-gray-100);
+  --fg-input: 				var(--cl-gray-800);
+  --fg-input-placeholder: 	var(--cl-gray-400);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-topbar: 				var(--cl-gray-900);
+  --bg-input: 				var(--cl-gray-800);
+  --br-input: 				var(--cl-gray-700);
+  --fg-input: 				var(--cl-gray-100);
+  --fg-input-placeholder: 	var(--cl-gray-400);
+  } 
+}```
+                - In-Line References
+                    - ```css
+:root {
+	--bg-inline-refs: 	var(--cl-gray-50);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+	--bg-inline-refs: 	var(--cl-gray-600);
+  } 
+}```
+            - Content
+                - Body
+                    - ```css
+:root {
+  --primary-color: 		var(--cl-gray-800);
+  --background-color: 	var(--cl-white);
+  --bg-body:			var(--cl-white);
+  --fg-body:			var(--cl-gray-800);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --primary-color: 		var(--cl-blue-500);
+  --background-color: 	var(--cl-gray-900);
+  --bg-body:			var(--cl-gray-900);
+  --fg-body:			var(--cl-gray-50);
+
+  } 
+}```
+                - Breadcrumbs
+                    - > Modifies the breadcrumbs (zoom items) 
+                    - ```css
+:root {
+  --bg-zoom:			transparent;
+  --fg-zoom:			var(--cl-gray-500);
+  --bg-zoom-mask:		var(--cl-white);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-zoom:			transparent;
+  --fg-zoom:			var(--cl-gray-500);
+  --bg-zoom-mask:		var(--cl-gray-50);
+
+  } 
+}```
+                - Bullets and Lines
+                    - > Changes the bullets and lines for blocks
+                    - Preview
+                        - A single bullet
+                            - A line to the left
+                        - A closed bullet
+                            - 
+                    - ```css
+:root {
+  --bg-bullet-inner:	var(--cl-gray-200);
+  --br-bullet-outer:	var(--cl-gray-200);
+  --br-block:			var(--cl-gray-200);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-bullet-inner:	var(--cl-gray-700);
+  --br-bullet-outer:	var(--cl-gray-500);
+  --br-block:			var(--cl-gray-600);
+  } 
+}```
+                - Headings
+                    - > Modifies the Headings Level 1 - 3
+                    - Preview
+                        - Heading 1
+                            - Heading 2
+                                - Heading 3
+                    - ```css
+:root {
+  --fg-h1:				var(--cl-gray-900);
+  --fg-h2:				var(--cl-gray-900);
+  --fg-h3:				var(--cl-gray-900);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-h1:				var(--cl-gray-50);
+  --fg-h2:				var(--cl-gray-50);
+  --fg-h3:				var(--cl-gray-50);
+  } 
+}```
+                - Highlights
+                    - > Modifies the highlights
+                    - Preview
+                        - ^^This text is highlighted^^
+                    - Colors
+                        - ```css
+:root {
+  --bg-highlight:		var(--cl-blue-50);
+  --bg-highlight-blue:	var(--cl-blue-200);
+  --bg-highlight-yellow:var(--cl-blue-200);
+  --bg-highlight-grey:	var(--cl-gray-200);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-highlight:		var(--cl-beige-500);
+  --bg-highlight-blue:	var(--cl-blue-500);
+  --bg-highlight-yellow:var(--cl-blue-500);
+  --bg-highlight-grey:	var(--cl-gray-500);
+  } 
+}```
+                - Page Reference Links
+                    - > Modifies the color of links and references pages
+                    - Preview
+                        - This is [a link](http://link.com), this is a reference to a page [[Test Page]], this is a [[Project/Complete Job Search & Get Hired]] namespace, this is a double underline [[[[R:]] Remote Work (podcasts)]]
+                    - Colors
+                        - ```css
+:root {
+  --fg-link:						var(--cl-green-500);
+  --fg-link-hover:					var(--cl-green-500);
+  --fg-reference:					var(--cl-togetic-blue-500);
+  --fg-reference-hover:				var(--cl-togetic-blue-300);
+  --fg-namespace:					var(--cl-togetic-red-300);
+  --fg-namespace-hover:				var(--cl-togetic-red-500);
+  --fg-reference-underline:			var(--cl-togetic-gray-300);
+  --fg-reference-underline-hover:	var(--cl-togetic-blue-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-link:						var(--cl-togetic-blue-300);
+  --fg-link-hover:					var(--cl-blue-500);
+  --fg-reference:					var(--cl-togetic-red-300);
+  --fg-reference-hover:				var(--cl-togetic-red-500);
+  --fg-namespace:					var(--cl-orange-500);
+  --fg-namespace-hover:				var(--cl-orange-500); 
+  --fg-reference-underline:			var(--cl-gray-300);
+  --fg-reference-underline-hover:	var(--cl-orange-500);
+  } 
+}```
+                - Block References
+                    - > Modifies the background of the reference blocks
+                    - Preview
+                        - ((IeFN6yma5))
+                    - Colors
+                        - ```css
+:root {
+  --bg-reference:				var(--cl-gray-50);
+  --bg-block-ref:				none;
+  --bg-block-ref-hover: 		none;
+  --fg-block-ref-underline:		var(--cl-gray-100);
+  --fg-block-ref-start:			var(--cl-orange-500);
+  --fg-block-ref-end:			var(--cl-indigo-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  --bg-reference:				var(--cl-gray-800);
+  --bg-block-ref:				none;
+  --bg-block-ref-hover: 		none;
+  --fg-block-ref-underline:		var(--cl-gray-100);
+  --fg-block-ref-start:			var(--cl-orange-500);
+  --fg-block-ref-end:			var(--cl-gray-50);
+  }
+}```
+                - Tags
+                    - > Modifies the apperance of tags
+                    - Preview
+                        - #tag1 #tag2
+                    - Colors
+                        - ```css
+:root {
+  --fg-tag:				var(--cl-gray-500);
+  --bg-tag:				none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-tag:				var(--cl-gray-500);
+  --bg-tag:				none;
+  } 
+}```
+            - Special Blocks
+                - Calc
+                    - > Modifies the color of the calculation result
+                    - Preview
+                        - {{[[calc]]: 31 + 11}}
+                    - Colors
+                        - ```css
+:root {
+  --fg-calc:		var(--cl-green-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-calc:		var(--cl-green-500);
+  } 
+}```
+                - Code
+                    - > Modifies the color of Codeblocks and Inline Code
+                    - Preview
+                        - `Inline code` and Codeblocks:
+                            - ```javascript
+const baseValue = prompt('Enter the base of a triangle: ');
+const heightValue = prompt('Enter the height of a triangle: ');
+
+// calculate the area
+const areaValue = (baseValue * heightValue) / 2;
+
+console.log(
+  `The area of the triangle is ${areaValue}`
+);```
+                    - Inline Code
+                        - Colors
+                            - ```css
+:root {
+  --fg-inline-code:			var(--cl-gray-800);
+  --bg-inline-code:			var(--cl-gray-50);
+  --br-inline-code:			var(--cl-gray-50);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-inline-code:			var(--cl-gray-50);
+  --bg-inline-code:			var(--cl-gray-700);
+  --br-inline-code:			var(--cl-gray-700);  
+  } 
+}```
+                    - Code Block
+                        - Colors - Light
+                            - ```css
+:root {
+  --bg-code:						var(--cl-gray-50);
+  --bg-code-filler:					var(--cl-gray-50);
+  --bg-code-gutters:				var(--cl-gray-50);
+  --bg-code-selected:				var(--cl-gray-300);
+  --bg-code-selection:				var(--cl-blue-200);
+  --bg-code-focused:				var(--cl-blue-200);
+  --bg-code-searching:				rgba(255, 255, 0, 0.4);	
+  --bg-code-matchingtag:			rgba(255, 150, 0, 0.3);
+  --bg-code-activeline:				var(--cl-white);
+  --bg-code-fat-cursor:				#7e7;
+  --bg-code-fat-cursor-mark:		rgba(20, 255, 20, 0.5);
+  --bg-code-fat-cursor-animate:		#7e7;
+  --br-code-gutters:				var(--cl-gray-100);
+  --br-code-cursor:					var(--cl-black);
+  --br-code-secondary-cursor:		var(--cl-gray-400);
+  --br-code-ruler:					var(--cl-gray-400);
+  --fg-code-linenumber:				var(--cl-gray-500);
+  --fg-code-guttermarker:			var(--cl-black);
+  --fg-code-guttermarker-subtle: 	var(--cl-gray-500);
+}```
+                        - Colors - Dark
+                            - ```css
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-code:						var(--cl-gray-800);
+  --bg-code-filler:					var(--cl-gray-800);
+  --bg-code-gutters:				var(--cl-gray-800);
+  --bg-code-selected:				var(--cl-gray-300);
+  --bg-code-selection:				var(--cl-blue-200);
+  --bg-code-focused:				var(--cl-blue-200);
+  --bg-code-searching:				rgba(255, 255, 0, 0.4);	
+  --bg-code-matchingtag:			rgba(255, 150, 0, 0.3);
+  --bg-code-activeline:				var(--cl-white);
+  --bg-code-fat-cursor:				#7e7;
+  --bg-code-fat-cursor-mark:		rgba(20, 255, 20, 0.5);
+  --bg-code-fat-cursor-animate:		#7e7;
+  --br-code-gutters:				var(--cl-gray-900);
+  --br-code-cursor:					var(--cl-white);
+  --br-code-secondary-cursor:		var(--cl-gray-600);
+  --br-code-ruler:					var(--cl-gray-600);
+  --fg-code-linenumber:				var(--cl-gray-500);
+  --fg-code-guttermarker:			var(--cl-black);
+  --fg-code-guttermarker-subtle: 	var(--cl-gray-500);
+  } 
+}```
+                    - Syntax Highlighting
+                        - Colors - Light
+                            - ```css
+:root {  
+  --fg-code:					var(--cl-gray-400);
+  --fg-code-header:				var(--cl-blue-500);
+  --fg-code-quote:				var(--cl-green-500);
+  --fg-code-negative:			var(--cl-green-500);
+  --fg-code-positive:			var(--cl-green-500);
+  --fg-code-keyword:			var(--cl-purple-500);
+  --fg-code-atom:				var(--cl-blue-500);
+  --fg-code-number:				var(--cl-green-500);
+  --fg-code-def:				var(--cl-blue-500);
+  --fg-code-variable-2:			var(--cl-indigo-500);
+  --fg-code-variable-3:			var(--cl-green-500);
+  --fg-code-comment:			var(--cl-brown-500);
+  --fg-code-string:				var(--cl-green-500);
+  --fg-code-string-2:			var(--cl-orange-500);
+  --fg-code-meta:				var(--cl-gray-400);
+  --fg-code-qualifier:			var(--cl-gray-400);
+  --fg-code-builtin:			var(--cl-indigo-500);
+  --fg-code-bracket:			var(--cl-gray-500);
+  --fg-code-tag:				var(--cl-green-500);
+  --fg-code-attribute:			var(--cl-blue-500);
+  --fg-code-hr:					var(--cl-gray-600);
+  --fg-code-link:				var(--cl-blue-500);
+  --fg-code-error:				var(--cl-green-500);
+  --fg-code-invalidchar:		var(--cl-green-500);
+  --fg-code-matchingbracket: 	var(--cl-green-500);
+  --fg-code-nonmatchingbracket:	var(--cl-green-500);
+}```
+                        - Colors - Dark
+                            - ```css
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --fg-code:					var(--cl-gray-300);
+  --fg-code-header:				var(--cl-blue-500);
+  --fg-code-quote:				var(--cl-green-500);
+  --fg-code-negative:			var(--cl-green-500);
+  --fg-code-positive:			var(--cl-green-500);
+  --fg-code-keyword:			var(--cl-purple-500);
+  --fg-code-atom:				var(--cl-blue-500);
+  --fg-code-number:				var(--cl-green-500);
+  --fg-code-def:				var(--cl-blue-500);
+  --fg-code-variable-2:			var(--cl-indigo-500);
+  --fg-code-variable-3:			var(--cl-green-500);
+  --fg-code-comment:			var(--cl-brown-500);
+  --fg-code-string:				var(--cl-green-500);
+  --fg-code-string-2:			var(--cl-orange-500);
+  --fg-code-meta:				var(--cl-gray-400);
+  --fg-code-qualifier:			var(--cl-gray-400);
+  --fg-code-builtin:			var(--cl-indigo-500);
+  --fg-code-bracket:			var(--cl-gray-500);
+  --fg-code-tag:				var(--cl-green-500);
+  --fg-code-attribute:			var(--cl-blue-500);
+  --fg-code-hr:					var(--cl-gray-600);
+  --fg-code-link:				var(--cl-blue-500);
+  --fg-code-error:				var(--cl-green-500);
+  --fg-code-invalidchar:		var(--cl-green-500);
+  --fg-code-matchingbracket: 	var(--cl-green-500);
+  --fg-code-nonmatchingbracket:	var(--cl-green-500);  
+  } 
+}```
+                - Diagrams
+                    - > Diagrams can't be modified yet. This is a problem with dark mode settings. 
+                    - Preview
+                        - {{[[diagram]]}}
+                            - A
+                            - B
+                - Embed
+                    - > Changes the background color of embed blocks
+                    - Preview
+                        - Sample Data
+                            - Embed 1
+                                - {{[[embed]]: ((ZuyIjM6mE))}}
+                            - Embed 2
+                                - {{[[embed]]: ((oVEJn3mnp))}}
+                            - Embed 3
+                        - {{[[embed]]: ((CR-dOUiRZ))}}
+                    - Colors
+                        - ```css
+:root {
+  --bg-embed-1: 	var(--cl-gray-50);
+  --bg-embed-2: 	var(--cl-gray-100);
+  --bg-embed-3: 	var(--cl-gray-200);
+  --bg-embed-4: 	var(--cl-gray-300);
+  --bg-embed-5: 	var(--cl-gray-400);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-embed-1: 	var(--cl-gray-800);
+  --bg-embed-2: 	var(--cl-gray-700);
+  --bg-embed-3: 	var(--cl-gray-600);
+  --bg-embed-4: 	var(--cl-gray-500);
+  --bg-embed-5: 	var(--cl-gray-400);  
+  } 
+}```
+                - HR
+                    - > Modifies horizontal lines
+                    - Preview
+                        - ---
+                    - Colors
+                        - ```css
+:root {
+ --br-hr:	var(--cl-gray-300);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --br-hr:	var(--cl-gray-300);
+  } 
+}```
+                - Kanban
+                    - > Modifies Kanban boards
+                    - Preview
+                        - {{[[kanban]]}}
+                            - Ready
+                                - Card 1
+                            - Done
+                                - Card 2
+                    - Colors
+                        - ```css
+:root {
+  --bg-kanban-board: 	var(--cl-gray-50);
+  --br-kanban-board:	var(--cl-white);
+  --bg-kanban-column:	var(--cl-gray-100);
+  --bg-kanban-card:		var(--cl-white);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-kanban-board: 	var(--cl-gray-800);
+  --br-kanban-board:	var(--cl-black);
+  --bg-kanban-column:	var(--cl-gray-900);
+  --bg-kanban-card:		var(--cl-black);  
+  } 
+}```
+                - Mermaid
+                    - > Modifies Mermaid diagrams
+                    - Preview
+                        - {{mermaid}}
+                            - graph TD;
+                                - A-->B;
+                                - A-->D;
+                                - B-->D;
+                                - C-->D;
+                    - Colors
+                        - ```css
+:root {
+  --bg-mermaid: 		var(--cl-white);
+  --bg-mermaid-node: 	var(--cl-gray-300);
+  --fg-mermaid-label: 	var(--cl-gray-800);
+  --br-mermaid-node: 	var(--cl-gray-500);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-mermaid: 		var(--cl-white);
+  --bg-mermaid-node: 	var(--cl-gray-300);
+  --fg-mermaid-label: 	var(--cl-gray-800);
+  --br-mermaid-node: 	var(--cl-gray-500);  
+  } 
+}```
+                - Queries
+                    - > Modifies the appearance of queries
+                    - Preview
+                        - {{[[query]]: {and: [[TODO]] [[December 30th, 2020]]}}}
+                    - Colors
+                        - ```css
+:root {
+  --bg-query-title:		var(--cl-gray-100);
+  --fg-query-title:		var(--cl-gray-600);
+  --br-query:			var(--cl-gray-200);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-query-title:		var(--cl-gray-900);
+  --fg-query-title:		var(--cl-gray-400);
+  --br-query:			var(--cl-gray-700);  
+  } 
+}```
+                - Quote
+                    - > Modifies the design of quotes
+                    - Preview
+                        - > This is a famous quote!
+                    - Color
+                        - ```css
+:root {
+  --bg-quote:			var(--cl-white);
+  --br-quote:			var(--cl-gray-800);
+  --fg-quote:			var(--cl-gray-800);  
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-quote:			var(--cl-gray-900);
+  --br-quote:			var(--cl-gray-500);
+  --fg-quote:			var(--cl-gray-100);    
+  } 
+}```
+                - Tables
+                    - > Modifies tables
+                    - Preview
+                        - {{[[table]]}}
+                            - Column 1
+                                - Column 2
+                            - Row 1
+                                - Row 2
+                    - Colors
+                        - ```css
+:root {
+  --br-table:	var(--cl-gray-300);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --br-table:	var(--cl-gray-600);
+  } 
+}```
+                - Todo
+                    - > Modifies the design of todos
+                    - Preview
+                        - {{[[TODO]]}} This is a todo
+                        - {{[[DONE]]}} This is a finished todo
+                    - Colors
+                        - ```css
+:root {
+  --br-checkbox: var(--cl-gray-300);
+  --bg-checkbox-checked: var(--cl-gray-300);
+  --br-checkmark: var(--cl-white);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --br-checkbox: var(--cl-gray-600);
+  --bg-checkbox-checked: var(--cl-gray-600);
+  --br-checkmark: var(--cl-white);  
+  } 
+}```
+                - Versions
+                    - > Modifies the design of the version block
+                    - Preview
+                        - Version 2
+                    - Colors
+                        - ```css
+:root {
+  --bg-version-bullet: 		var(--cl-gray-400);
+  --fg-version-selected: 	var(--cl-blue-500);
+  --br-version:				var(--cl-gray-300);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+  --bg-version-bullet: 		var(--cl-gray-600);
+  --fg-version-selected: 	var(--cl-blue-500);
+  --br-version:				var(--cl-gray-600);  
+  } 
+}```
+            - Custom
+                - ((6YHNhSFRA))
+                    - ```css
+:root {
+  --note-tag-color:				var(--cl-gray-700);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  	--note-tag-color:			var(--cl-gray-200);
+  }
+}```
+    - ## Styling Elements
         1. Tag Styling #Status/Enabled #Highlights #tags
             1. `GTD Tags`
                 - `GTD Tags`
@@ -3875,7 +4665,7 @@ h1.level2,
 .roam-body .roam-app h1,
 .rm-level1, 
 .rm-heading-level-1 > .rm-block__self .rm-block__input {
-  font-family: var(--fnt-h1);
+/*  font-family: var(--fnt-h1);*/
   font-size: var(--fnt-size-h1);
   font-weight: var(--fnt-weight-h1);
   font-style: var(--fnt-style-h1);
@@ -3884,7 +4674,7 @@ h1.level2,
 h1.level2,
 .rm-level2, 
 .rm-heading-level-2 > .rm-block__self .rm-block__input {
-  font-family: var(--fnt-h2)!important;
+/*  font-family: var(--fnt-h2)!important; */
   font-size: var(--fnt-size-h2);
   font-weight: var(--fnt-weight-h2);
   font-style: var(--fnt-style-h2);
@@ -3892,7 +4682,7 @@ h1.level2,
 
 .rm-level3, 
 .rm-heading-level-3 > .rm-block__self .rm-block__input {
-  font-family: var(--fnt-h3);
+/*  font-family: var(--fnt-h3); */
   font-size: var(--fnt-size-h3);
   font-weight: var(--fnt-weight-h3);
   font-style: var(--fnt-style-h3);
@@ -3900,7 +4690,7 @@ h1.level2,
 
 .roam-body .roam-app h1,
 .roam-body .roam-app .roam-main .roam-article .rm-title-display {
-  font-family: var(--fnt-page-title)!important;
+/*  font-family: var(--fnt-page-title)!important; */
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
@@ -3977,18 +4767,23 @@ h1.level2,
     padding-bottom: 0px;
 }```
             - External Links #Status/Enabled
-                - ```css
-
-a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+                - V2
+                    - ```css
+/*Aliases - internal & external*/
+.rm-alias--external {
+  color: var(--fg-link);
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: #2196F3;;
 }
-a[href^='http']{
-  color: #2196F3;
-  text-decoration: none!important;
-  border-bottom: 1px solid;
-}```
+
+.rm-alias--external:hover {
+	color: var(--fg-link-hover);
+    text-decoration: none!important;
+    border-bottom: 1px dashed;
+}
+
+.rm-alias--external:after {
+  content: ' ↗';```
             - Page Reference Brackets #Status/Enabled
                 - ```ruby
 .rm-page-ref__brackets{

@@ -270,7 +270,7 @@
                     - #[Fleeting Notes](<Fleeting Notes.md>) excessive quality [standards](<standards.md>) can halt or smother [creativity](<creativity.md>).
             - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
                 - #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
-                    - LOVE this. This is getting quite good. [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                    - LOVE this. This is getting quite good. [~[[Charles Farr](<~[[Charles Farr.md>)]]
                         - [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`?
                             - We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)! [Bookmarks](<Bookmarks.md>)
                                 - [YES.](((SGUHeHTkV)))

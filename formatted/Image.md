@@ -4,6 +4,10 @@
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
                 - **[Image](<Image.md>):**
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- This helps as a filter on pages as well. 
+                            - **[Image](<Image.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Universal tag [conventions](<conventions.md>) from [Robert Haisfield](<Robert Haisfield.md>): `[Ideas](<Ideas.md>), [Plan](<Plan.md>), and #[Open Questions](<Open Questions.md>)`
             - **[Image](<Image.md>):**

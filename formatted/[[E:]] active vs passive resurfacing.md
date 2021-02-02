@@ -4,13 +4,11 @@
     - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
-- Examples of active resurfacing:
-    - Reminders
-    - Placing in the inbox of scheduled reviews
-    - Tagging someone in it
-- Examples of passive resurfacing:
-    - Stumbling upon it
-- Passive resurfacing is best when [notes are densely linked]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]).
-- 
-- [[[E:](<[[E:.md>) active vs passive resurfacing]]
+    - **[Contents](<Contents.md>):** 
+        - Examples of [active resurfacing](<active resurfacing.md>):
+            - Reminders
+            - Placing in the inbox of scheduled reviews
+            - Tagging someone in it
+        - Examples of [passive resurfacing](<passive resurfacing.md>):
+            - Stumbling upon it
+        - Passive resurfacing is best when [notes are densely linked]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]).

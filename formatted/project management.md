@@ -6,8 +6,6 @@
 
 - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
 
-- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
-
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>)'s work on [project management](<project management.md>)
 

@@ -270,7 +270,7 @@
                     - #[[Fleeting Notes]] excessive quality [[standards]] can halt or smother [[creativity]].
             - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
                 - #[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])
-                    - LOVE this. This is getting quite good. [[@[[Charles Farr]]]]
+                    - LOVE this. This is getting quite good. [[~[[Charles Farr]]]]
                         - #Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?
                             - We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks
                                 - [YES.](((SGUHeHTkV)))

@@ -7,6 +7,11 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)}
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>))
+
+- Within [passive resurfacing](<passive resurfacing.md>), there are strategies we can hone to improve the [probability](<probability.md>) of [resurfacing](<resurfacing.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [tags](<tags.md>) may be added inline at the end of the note or nested underneath to aid in [connection](<connection.md>) and [resurfacing](<resurfacing.md>).
 

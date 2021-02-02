@@ -3,10 +3,6 @@
 - Noun —
 
 # Backlinks
-## [Brandon Toner](<Brandon Toner.md>)
-- Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-- **[Queries](<Queries.md>):**
-
 ## [Directory](<Directory.md>)
 - [Larissa de Lima](<Larissa de Lima.md>)
 - **[Queries](<Queries.md>):**

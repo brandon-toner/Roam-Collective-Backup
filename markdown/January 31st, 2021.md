@@ -570,6 +570,9 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
                     - [Internal block alias](((0WDHO73kP)))
                     - [[testing]] #testing
                 - "```css
+.rm-alias--external {
+  color: var(--fg-link);
+}
 
 a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;

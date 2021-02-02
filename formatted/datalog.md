@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Follow Up](<Follow Up.md>) [datalog](<datalog.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Reflections on [datalog](<datalog.md>)
 
