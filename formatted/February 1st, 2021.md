@@ -669,7 +669,7 @@
             - I am personally confused as to when to use Questions vs. Conversation
         - Does the conversation need to be segmented by individual?
             - What if the conversation convention was that you added sequentially to a page, instead of 
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+    - [Conversation](<Conversation.md>)  
         - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
             - Could there be two types of fleeting notes? 
                 - One that is meant for the individual to write unimpeded, and to have a body of ideas to build off.  A fleeting note that is identical to what would exist in one's personal graph
@@ -679,16 +679,17 @@
                 - In an individual KM system, it's the step taken to convert fleeting note to permanent note, then categorize and index it within the system.  A bottoms-up approach can work well, as the goal is personal.  
                 - Do we need some more tools for consensus at a higher-level?   
                     - How to we work through shared prioritization, for example, of what questions are worth dedicating time to?
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info))
+        - "As for [conventions]([Conventions](<Conventions.md>)) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE)))."
+            - Love it! Imagine then there's probably a long list of things to log in here :)
+    - [Feedback](<Feedback.md>) 
         - **["Open Questions](<"Open Questions.md>):** More big picture, related to the domain we're trying to navigate"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
                 - Should there be some norm around memorializing key decisions on conventions?
                     - When I look at the change log for Questions, I find the decision but not the explanation
-        - "As for [conventions]([Conventions](<Conventions.md>)) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE)))."
-            - Love it! Imagine then there's probably a long list of things to log in here :)
-        - "Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now."
-            - I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful
-            - Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>) Shared endeavors and [collaboration](<collaboration.md>) require solidity" 
+        - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]] resolved 
+            - "Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now."
+                - I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful
+                - Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>) Shared endeavors and [collaboration](<collaboration.md>) require solidity" 
 - ---
 
 # Backlinks

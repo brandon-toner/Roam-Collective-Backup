@@ -14,11 +14,11 @@
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
-            - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
-            - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-            - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-            - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
-                - 
+            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+            - [GTD](<GTD.md>)
+            - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
+            - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)
+            - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
         - ---
 
 # Backlinks

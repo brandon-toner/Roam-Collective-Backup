@@ -54,7 +54,7 @@
         - 
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+    - #Scratchpad 
         - 🛠 IN PROGRESS - RETURN LATER
             - #[[Fleeting Notes]] Performing operations
                 - Epistemic status: intuition
@@ -91,5 +91,5 @@
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     - #Chat
         - Hey back at you [[@[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---

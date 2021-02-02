@@ -54,7 +54,7 @@
         - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+    - [Scratchpad](<Scratchpad.md>) 
         - 🛠 IN PROGRESS - RETURN LATER
             - #[Fleeting Notes](<Fleeting Notes.md>) Performing operations
                 - Epistemic status: intuition
@@ -91,5 +91,5 @@
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     - [Chat](<Chat.md>)
         - Hey back at you [@[[Charles Farr](<@[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>) 
 - ---
