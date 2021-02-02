@@ -1388,7 +1388,7 @@ span.rm-page-ref[data-tag="Templates"] {
 span.rm-page-ref[data-tag="Templates"]:before {
     content: '📄'
 }```
-                - `#[Context Questions](<../Context Questions.md>)
+                - `#[Q](<../Q.md>)
                     - ```clojure
 span.rm-page-ref[data-tag="Context Questions"] {
     background: [607D8B](<../607D8B.md>);
@@ -4676,6 +4676,9 @@ a {
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [People](<People.md>)
+- [ ] Add to [roam/css](<../roam/css.md>)
+
+## [Thoughts](<Thoughts.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [roam/css](<roam/css.md>)

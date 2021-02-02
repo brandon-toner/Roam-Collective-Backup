@@ -128,7 +128,7 @@
             - URL:: https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten
-            - #[[Context Questions]] what are the [[literature notes]] of [[questions]]? 
+            - #[[Q]] what are the [[literature notes]] of [[questions]]? 
         - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
             - Ok... maybe not "__better__" but different and complimentary!
             - Related:: 

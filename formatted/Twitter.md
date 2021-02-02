@@ -16,6 +16,9 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
         - **[Twitter](<Twitter.md>):**
@@ -55,6 +58,9 @@
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
+
+## [Visakan Veerasamy](<Visakan Veerasamy.md>)
+- **[Twitter](<Twitter.md>):**
 
 ## [Winston Teng](<Winston Teng.md>)
 - **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00

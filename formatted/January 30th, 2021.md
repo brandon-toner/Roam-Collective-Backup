@@ -183,7 +183,7 @@
                             - Once a model or framework of reality and understanding is articulated, it 
                         - What determines when [structure](<structure.md>) should be crystallized into [law](<law.md>) or [conventions](<conventions.md>)?
                             - "Crystallized" is intended to be [held lightly](<held lightly.md>) here. 
-                                - But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)? [*](((h4WlwD7N4))) #[Context Questions](<Context Questions.md>) 
+                                - But degree of crystallization is another interesting question. How firm should we hold [structure](<structure.md>)? [*](((h4WlwD7N4))) #[Q](<Q.md>) 
                                     - #[Open Questions](<Open Questions.md>) How firm should we hold [structure](<structure.md>)? [conventions](<conventions.md>)
                                         - I believe we have a good balance going here. Lots of emergent conventions, with emphasis placed only on a core few. [Bookmarks](<Bookmarks.md>)
         - Testing [David Vargas](<David Vargas.md>) query
@@ -197,7 +197,6 @@
             - Can't seem to [emoji react](<emoji react.md>) to blocks...
         - Reflections on [datalog](<datalog.md>) queries [Bookmarks](<Bookmarks.md>)
             - Possible to generate a report of "pages authored by graph members"
-                - 
                 - **[Example](<Example.md>):**
                     - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
                 - **[This is really cool because the [query](<query.md>) finds the combination of `Tags](<This is really cool because the [query](<query.md>) finds the combination of `Tags.md>):**` and `[Members](<Members.md>)` within a single block, creating an [array](<array.md>) of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.

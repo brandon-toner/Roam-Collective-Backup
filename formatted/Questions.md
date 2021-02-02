@@ -9,6 +9,6 @@
 - #[Questions](<Questions.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- I see more detail as [E/optional, but beneficial](<E/optional, but beneficial.md>)
+- I see more detail as [[[E:](<[[E:.md>) beneficial, but optional]]
             - **[Questions](<Questions.md>):**
 

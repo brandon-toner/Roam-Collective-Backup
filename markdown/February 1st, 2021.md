@@ -10,7 +10,10 @@
                 - Reference an aspect of the outline and brainstorm the components of that section
                 - Whatever feels right.
 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-    - {{[[embed]]: ((LFSTdlWF1))}}
+    - [[Brandon Toner]]
+        - {{[[embed]]: ((LFSTdlWF1))}}
+        - {{[[embed]]: ((lLhwYNuv-))}}
+        - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
 - #GTD ((Run the "Daily Review" smartblock))
@@ -45,15 +48,53 @@
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
         - #Observations
-            - Having more fun writing in [[Roam-Collective]] than my my own graph lately 😂
+            - Having more fun writing in [[Roam-Collective]] than my my own graph lately 😂 
                 - Seeing some of the ideas and conventions surfaced here spilling into my personal systems.
                     - Taking literature notes for some lectures last night was an ABSOLUTE PLEASURE!
                 - It's been particularly interesting to me the level of [[flow state]] writing I've been able to tap into writing in here. 
                     - I think it has to do with the constant potential for interaction and commentary, paired with seeing the contributions of others. 
                         - There always seems to be something to write, comment on, or build. Definitely a [[fly wheel]] effect at play.
+            - Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! 
+                - Nice to see collaboration conventions being put to use with what seems to be some pretty good success. [*]([[[[Feedback]]: What's working]])
+        - #Mindsweep
+            - Zettelkasten system — explanation of terms with a video.
+            - Productivity system
+                - Purpose
+                - Goals
+                - Objectives
+                - Projects
+            - 
+        - #Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]
+            - Thoughts on this thread of thoughts? [[@[[Charles Farr]]]]
+            - Example:: [[[[E:]] alert fatigue]]
+            - I'm inclined to make these concepts [[evergreen notes]], but it feels like it may have the potential to dilute more claim-based [[zettels]].
+                - That being said, [[Andy Matuschak]] will include concept pages as an anchor for other claim-based and more specific ideas.
+                - My natural impulse while writing is to:
+                    1. Map the territory (build concept pages, capture the main ideas)
+                    2. Make claims relating elements of the territory.
+                - Things start to get messy for me when I try to jump to [step 2](((UE3X_D5MP))) before [step 1](((DyRh_6aPE))).
+            - An approach I am experimenting with right now is adding `#Concepts` to these pages in addition to the `#Evergreen Notes` tag.
+                - This would allow for the [[filtering]] IN or OUT of these pages.
+                - Another factors is the `Author::` tag. A [[datalog query]] could pull results **authored** by graph members. (Not to be confused with "created by").
+            - All this to say that my current rationale for inclusion of [[concept pages]] in the category of [[evergreen notes]] is because they have similar utility — referenced within a network of ideas. 
+            - Another consideration I might have would be to populate the body of the page with the **evergreen notes template**, but __leave out the namespace__.
+                - Reserving the namespace for true claim-based [[zettels]].
+                - But I donno... this feels irregular and kinda confusing. I don't like making conventions that require exceptions. 
+            - 
+        - #Thoughts on [[Project Ideas]] — #Conventions [*](((ASXisFxKd)))
+            - The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. 
+                - Would definitely replace `#[[Creative Projects]]`
     - #GTD #not_populated
-    - #[[Change Log]] #not_populated
-    - #[[The Zettelkasten]] #not_populated
+    - #[[Change Log]] 
+        - Drafted a "[[maturity]] progression" for projects, conventions, and 
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] writing in a [[zettelkasten]] is a lot like writing on [[Twitter]].
+            - [[atomic ideas]], brief claims and assertions.
+            - #[[Fleeting Notes]] [[evergreen notes]] are like the [[Twitter threads]] you keep coming back to. The anchoring points to explain an idea or concept. 
+                - Example:: [[Visakan Veerasamy]]'s "talking points" are essentially a collection of [[evergreen notes]].
+                    - In fact, his entire twitter style demonstrates an effective [[zettelkasten]].
+                        - Prolific, interconnected, cumulative — self-propelling.
+        - #[[Project Ideas]] 
     - #Conversation 
         - "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
             - There is definitely some variance on the structure of zettelkastens.
@@ -96,7 +137,60 @@
                         - What are your thoughts? [[~[[Matthew Vogel]]]]
                             - Another option might be to make that a step in the "[[Quick Start Guide]]'"
                                 - Agreed [*](((Sh32I3JAi))) 
-    - #Feedback  #not_populated
+        - "[[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?""
+            - I'm fine with just using simple namespacing for those sorts of collections:
+                - e.g. [[Books/The Culture Code]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
+            - What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`
+                - i.e. here "This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title."[*](((xHjy_KXGZ)))
+                - This method will allow us to access powerful uses of specific [[2nd-degree connections]] to build [[abstractions]] that we can use for querying. 
+                    - This is eventually where [[logic]] will get quite fun. 
+                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[E/Use the native convention as much as possible.]]).
+        - "perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph" [*](((xLHZnRztX)))
+            - Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions 
+                - [[@[[Charles Farr]]]], [[@[[Peter Rosso]]]]
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FV0ylj7pFEN.png?alt=media&token=fb9f7607-3a4a-44b6-9d99-98a0c8e45023)
+                - **Projects:**
+                    - #[[Status/Idea]]
+                    - #[[Status/Active]]
+                    - #[[Status/Completed]]
+                    - #[[Status/On-Hold]]
+                    - #[[Status/Dropped]]
+                    - #[[Status/Someday|Maybe]]
+                - **Conventions:**
+                    - #[[Status/Idea]]
+                    - #Status/Experimental
+                    - #[[Status/Active]]
+                    - #Status/Deactivated
+                - **Ideas:** (Zettelkasten)
+                    - Entry Tier
+                        - `#[[Fleeting Notes]]` - Not related or loosely related to literature (own words)
+                        - `#[[Literature Notes]]` - Main ideas extracted from literature/resources (may be [[verbatim]])
+                    - Maturity Tier
+                        - `#[[Evergreen Notes]]` - Notes that reach a subjective sense of broad applicability and concision. - May be [[verbatim]], includes documented authorship and source links if applicable.
+                            - Includes original zettels
+                            - Atomized ideas of others (maybe a matured literature note)
+                            - Concept notes (summaries of concepts or principles)
+                - Comments::
+                    - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[[evergreen notes]] #zettelkasten [*]([[Bookmarks]])
+                        - I'm tying this to authorship. 
+                        - Supporting evidence, background, elaboration, examples, etc are all encouraged — But not considered part of [[minimum requirements]][*]([[[[E:]] beneficial, but optional]])
+                        - If you disagree with a zettel, reference it and engage in conversation with it. Use principles of [[rhetoric]], and seek truth through iterative reasoning. 
+                            - #[[Fleeting Notes]] the validity of a note within the zettelkasten should be surrogated by the content of its references. 
+                                - Is it being frequently [cited]([[citation]])?
+                                - Is it being challenged? Supported?
+                        - #[[Fleeting Notes]] To seek [truthfulness]([[truth]]) as minimum requirement is to be paralyzed out of the gates. #[[evergreen notes]] #zettelkasten
+                        - #Q How can we objectively categorize the degree of maturity of an evergreen note? 
+                            - #[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. 
+        - #[[Graph Mentorship]]
+            - "#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
+                - Just changed `#[[Context Questions]]` to #Q here. [*](((LndnjT55D)))
+                    - HA! This was me, before the switch.
+        - 
+    - #Feedback  
+        - #[[[[Feedback]]: What's working]]
+            - Loving the "cc" convention as a "soft" notification. Really helps to reduce [[[[E:]] alert fatigue]] as well. 
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]]
@@ -105,7 +199,7 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
-        - [[@[[Brandon Toner]]]]"#[[Context Questions]] How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
+        - [[@[[Brandon Toner]]]]"#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[[everyone]]`  Could have a query under the announcement banner?
         - "Reflection on any of the [[How To]] pages [[Charles Farr]] has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[[How To]] Seed Your Graph]])"
@@ -137,7 +231,45 @@
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad
+        - [[datalog query]] testing
+            - Reference
+                - :q [:find ?Namespace ?Attribute
+ :where [_ ?Attribute]
+[(namespace ?Attribute) ?Namespace]]
+            - Query — Total New Blocks and Word Count
+                - Goal
+                    - Count total blocks created (parents, children, & leaves)
+                    - Look through and count all words
+                    - Ideally group by author as well
+                - Users
+                    - `:q [:find ?name
+:where
+[?p :user/display-name ?name]]`
+                        - :q [:find ?name
+:where
+[?p :user/display-name ?name]]
+                - Query Draft
+                    - ```javascript
+:q [:find ?author ?blocks ?words
+    :where
+   		[?author :create/email "charles.sims.farr@gmail.com"]
+]```
+            - Example Query (from [[cc:[[Matthew Vogel]]]])
+                - ```javascript
+:q [:find ?n 
+    :where 
+    	[?note :node/title ?n]
+		[?bb :block/page ?note] 
+		[?bb :block/refs ?p]
+		[?bb :block/refs ?c]
+		[?c :node/title "Author"]
+		[?b :block/page ?p]
+		[?b :block/refs ?t]
+		[?b :block/refs ?tag]
+		[?t :node/title "Members"]
+		[?tag :node/title "Tags"]]
+```
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - "[[~[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ..."
@@ -192,6 +324,17 @@
                         - Learning (in classrooms, courses, etc.)
                         - Self-reflection (in tandem with journaling or some such)
                     - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
+        - [[@[[Peter Rosso]]]] " I was wondering if we should we have conventions on how we use nested squared brackets? `[[[[prefix-]][[main]][[-suffix]]]]` 
+`[[How to]]` would be considered a prefix-"
+            - Categorizing nested brackets as either prefixes or suffixes is a good way for us to formalize and track conventions
+                - In my personal graph, I use mainly prefixes, as it allows for easy filtering during a `[[]]` search
+                    - I really only use it for my Evergreen notes, which all get a`[[Z:]]` prefix
+                - Other examples I've seen that I like are suffixes in the Wikipedia style — e.g., `[[How to Take Smart Notes ([[Book]])]]`
+                    - A [[Feature Request]] for Roam is to allow for the use of `[[]]` references within namespaces
+                        - I like the namespace functionality to collapse page titles, but don't find it critical and rarely turn it on
+                            - #Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?
+                                - Could you even tie this CSS to an internal flag that turns on namespaces?
+        - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}

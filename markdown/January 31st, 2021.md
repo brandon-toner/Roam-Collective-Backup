@@ -1,7 +1,6 @@
 - {{embed: ((FRFW0hQu_))}}
 - ---
 - #Announcements (**Temporary Message**)
-    - **DO NOT UPDATE YOUR ROAM** (latest update is causing instability for some users)
     - {{[[embed]]: ((LndnjT55D))}}
     - {{[[embed]]: ((vjbkNQ8uM))}}
 - #[[Daily Writing Prompts]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
@@ -99,7 +98,7 @@
                 - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
                     - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[E/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
-                    - I see more detail as [[E/optional, but beneficial]]
+                    - I see more detail as [[[[E:]] beneficial, but optional]]
             - Questions::
                 - #Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?
                 - #Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?
@@ -327,7 +326,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
             - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
-                - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[E/optional, but beneficial]] step. 
+                - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[[E:]] beneficial, but optional]] step. 
             - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
                 - I'd place this within a Daily Log module instead. 
                 - Change Log is best for changes to the graph and its conventions
@@ -442,7 +441,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #Replies
             - "Excellent documentation on this!! "
                 - Added the recommended tags!!
-            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[E/optional, but beneficial]] step. "
+            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[[E:]] beneficial, but optional]] step. "
                 - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
             - "I'd place this within a Daily Log module instead. "
                 - Better to place it under one's daily notes or within the daily log up above?  

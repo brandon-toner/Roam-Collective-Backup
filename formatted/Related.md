@@ -110,10 +110,6 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 - **[Related](<Related.md>):**
@@ -256,6 +252,14 @@
 
 - If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
         - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
 
 ## [block references](<block references.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) 

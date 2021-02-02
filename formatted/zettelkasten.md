@@ -17,7 +17,7 @@
             - #[Reference Notes](<Reference Notes.md>)
         - Questions:
             - #[Open Questions](<Open Questions.md>)
-            - #[Context Questions](<Context Questions.md>)
+            - #[Q](<Q.md>)
             - #[Zettel Questions](<Zettel Questions.md>)
     - **[Conversation](<Conversation.md>):**
         - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
@@ -29,6 +29,10 @@
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>)
+
+- In fact, his entire twitter style demonstrates an effective [zettelkasten](<zettelkasten.md>).
+
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>).
 
 - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)

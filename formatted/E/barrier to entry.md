@@ -10,6 +10,6 @@
 ## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
 - In product development, low floor = low [E/barrier to entry](<../E/barrier to entry.md>),
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
+## [[E:](<../[E:.md>) beneficial, but optional](<[E:](<../E:.md>) beneficial, but optional.md>)
 - This type of convention is important, because the optionality reduces the [E/barrier to entry](<../E/barrier to entry.md>)
 

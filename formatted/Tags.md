@@ -33,6 +33,9 @@
 ## [Bookmarks](<Bookmarks.md>)
 - **[Tags](<Tags.md>):**
 
+## [Books/The Culture Code](<Books/The Culture Code.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Tags](<Tags.md>):**
 
@@ -149,9 +152,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
-- **[Tags](<Tags.md>):**
-
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
 - **[Tags](<Tags.md>):**
 
 ## [EN](<EN.md>)
@@ -349,6 +349,9 @@
 ## [The structure and the content.](<The structure and the content..md>)
 - **[Tags](<Tags.md>):**
 
+## [Thoughts](<Thoughts.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Tips](<Tips.md>)
 - **[Tags](<Tags.md>):**
 
@@ -393,6 +396,12 @@
 - **[Tags](<Tags.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): What could be better](<[Feedback](<Feedback.md>): What could be better.md>)

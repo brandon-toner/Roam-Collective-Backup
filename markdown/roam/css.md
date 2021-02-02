@@ -1388,7 +1388,7 @@ span.rm-page-ref[data-tag="Templates"] {
 span.rm-page-ref[data-tag="Templates"]:before {
     content: '📄'
 }```
-                - `#[[Context Questions]]
+                - `#[[Q]]
                     - ```clojure
 span.rm-page-ref[data-tag="Context Questions"] {
     background: #607D8B;

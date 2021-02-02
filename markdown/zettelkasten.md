@@ -17,7 +17,7 @@
             - #[[Reference Notes]]
         - Questions:
             - #[[Open Questions]]
-            - #[[Context Questions]]
+            - #[[Q]]
             - #[[Zettel Questions]]
     - Conversation::
         - The question-related conventions are more [experimental]([[Experiments]])

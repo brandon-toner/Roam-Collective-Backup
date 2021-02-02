@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 1st, 2021](<February 1st, 2021.md>)
+- If you disagree with a zettel, reference it and engage in conversation with it. Use principles of [rhetoric](<rhetoric.md>),
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>)
 

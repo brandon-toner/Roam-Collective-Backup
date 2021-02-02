@@ -128,7 +128,7 @@
             - **[URL](<URL.md>):** https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)
-            - #[Context Questions](<Context Questions.md>) what are the [literature notes](<literature notes.md>) of [questions](<questions.md>)? 
+            - #[Q](<Q.md>) what are the [literature notes](<literature notes.md>) of [questions](<questions.md>)? 
         - #[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s
             - Ok... maybe not "__better__" but different and complimentary!
             - **[Related](<Related.md>):** 

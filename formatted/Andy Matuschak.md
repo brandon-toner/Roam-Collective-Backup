@@ -32,6 +32,9 @@
 ## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- That being said, [Andy Matuschak](<Andy Matuschak.md>)
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

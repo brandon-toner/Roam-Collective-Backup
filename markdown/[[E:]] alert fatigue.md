@@ -1,0 +1,10 @@
+- Tags:: #[[Evergreen Notes]] #notifications #Concepts
+    - Date Created:: [[February 1st, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: #not_populated
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Contents:: 
+        - Alarm fatigue - Wikipedia
+            - URL:: https://en.wikipedia.org/wiki/Alarm_fatigue
+            - Alarm fatigue or alert fatigue occurs when one is exposed to a large number of frequent alarms (alerts) and consequently becomes desensitized to them. Desensitization can lead to longer response times or missing important alarms. 

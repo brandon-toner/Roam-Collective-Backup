@@ -10,7 +10,10 @@
                 - Reference an aspect of the outline and brainstorm the components of that section
                 - Whatever feels right.
 - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-    - {{[embed](<embed.md>): ((LFSTdlWF1))}}
+    - [Brandon Toner](<Brandon Toner.md>)
+        - {{[embed](<embed.md>): ((LFSTdlWF1))}}
+        - {{[embed](<embed.md>): ((lLhwYNuv-))}}
+        - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
 - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock))
@@ -45,15 +48,53 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Observations](<Observations.md>)
-            - Having more fun writing in [Roam-Collective](<Roam-Collective.md>) than my my own graph lately 😂
+            - Having more fun writing in [Roam-Collective](<Roam-Collective.md>) than my my own graph lately 😂 
                 - Seeing some of the ideas and conventions surfaced here spilling into my personal systems.
                     - Taking literature notes for some lectures last night was an ABSOLUTE PLEASURE!
                 - It's been particularly interesting to me the level of [flow state](<flow state.md>) writing I've been able to tap into writing in here. 
                     - I think it has to do with the constant potential for interaction and commentary, paired with seeing the contributions of others. 
                         - There always seems to be something to write, comment on, or build. Definitely a [fly wheel](<fly wheel.md>) effect at play.
+            - Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! 
+                - Nice to see collaboration conventions being put to use with what seems to be some pretty good success. [*]([[[Feedback](<[[Feedback.md>): What's working]])
+        - [Mindsweep](<Mindsweep.md>)
+            - Zettelkasten system — explanation of terms with a video.
+            - Productivity system
+                - Purpose
+                - Goals
+                - Objectives
+                - Projects
+            - 
+        - [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)
+            - Thoughts on this thread of thoughts? [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - **[Example](<Example.md>):** [[[E:](<[[E:.md>) alert fatigue]]
+            - I'm inclined to make these concepts [evergreen notes](<evergreen notes.md>), but it feels like it may have the potential to dilute more claim-based [zettels](<zettels.md>).
+                - That being said, [Andy Matuschak](<Andy Matuschak.md>) will include concept pages as an anchor for other claim-based and more specific ideas.
+                - My natural impulse while writing is to:
+                    1. Map the territory (build concept pages, capture the main ideas)
+                    2. Make claims relating elements of the territory.
+                - Things start to get messy for me when I try to jump to [step 2](((UE3X_D5MP))) before [step 1](((DyRh_6aPE))).
+            - An approach I am experimenting with right now is adding `[Concepts](<Concepts.md>)` to these pages in addition to the `[Evergreen](<Evergreen.md>) Notes` tag.
+                - This would allow for the [filtering](<filtering.md>) IN or OUT of these pages.
+                - **[Another factors is the `Author](<Another factors is the `Author.md>):**` tag. A [datalog query](<datalog query.md>) could pull results **authored** by graph members. (Not to be confused with "created by").
+            - All this to say that my current rationale for inclusion of [concept pages](<concept pages.md>) in the category of [evergreen notes](<evergreen notes.md>) is because they have similar utility — referenced within a network of ideas. 
+            - Another consideration I might have would be to populate the body of the page with the **evergreen notes template**, but __leave out the namespace__.
+                - Reserving the namespace for true claim-based [zettels](<zettels.md>).
+                - But I donno... this feels irregular and kinda confusing. I don't like making conventions that require exceptions. 
+            - 
+        - [Thoughts](<Thoughts.md>) on [Project Ideas](<Project Ideas.md>) — [Conventions](<Conventions.md>) [*](((ASXisFxKd)))
+            - The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. 
+                - Would definitely replace `#[Creative Projects](<Creative Projects.md>)`
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        - Drafted a "[maturity](<maturity.md>) progression" for projects, conventions, and 
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
+            - [atomic ideas](<atomic ideas.md>), brief claims and assertions.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
+                - **[Example](<Example.md>):** [Visakan Veerasamy](<Visakan Veerasamy.md>)'s "talking points" are essentially a collection of [evergreen notes](<evergreen notes.md>).
+                    - In fact, his entire twitter style demonstrates an effective [zettelkasten](<zettelkasten.md>).
+                        - Prolific, interconnected, cumulative — self-propelling.
+        - #[Project Ideas](<Project Ideas.md>) 
     - [Conversation](<Conversation.md>) 
         - "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
             - There is definitely some variance on the structure of zettelkastens.
@@ -96,7 +137,60 @@
                         - What are your thoughts? [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                             - Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'"
                                 - Agreed [*](((Sh32I3JAi))) 
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?""
+            - I'm fine with just using simple namespacing for those sorts of collections:
+                - e.g. [Books/The Culture Code](<Books/The Culture Code.md>)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
+            - **[What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`
+                - **[i.e. here "This is really cool because the [query](<query.md>) finds the combination of `Tags](<i.e. here "This is really cool because the [query](<query.md>) finds the combination of `Tags.md>):**` and `[Members](<Members.md>)` within a single block, creating an [array](<array.md>) of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title."[*](((xHjy_KXGZ)))
+                - This method will allow us to access powerful uses of specific [2nd-degree connections](<2nd-degree connections.md>) to build [abstractions](<abstractions.md>) that we can use for querying. 
+                    - This is eventually where [logic](<logic.md>) will get quite fun. 
+                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)).
+        - "perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph" [*](((xLHZnRztX)))
+            - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>)) [Conventions](<Conventions.md>) 
+                - [@[[Charles Farr](<@[[Charles Farr.md>)]], [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+                - **[Image](<Image.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FV0ylj7pFEN.png?alt=media&token=fb9f7607-3a4a-44b6-9d99-98a0c8e45023)
+                - **Projects:**
+                    - #[Status/Idea](<Status/Idea.md>)
+                    - #[Status/Active](<Status/Active.md>)
+                    - #[Status/Completed](<Status/Completed.md>)
+                    - #[Status/On-Hold](<Status/On-Hold.md>)
+                    - #[Status/Dropped](<Status/Dropped.md>)
+                    - #[Status/Someday|Maybe](<Status/Someday|Maybe.md>)
+                - **Conventions:**
+                    - #[Status/Idea](<Status/Idea.md>)
+                    - [Status](<Status.md>)/Experimental
+                    - #[Status/Active](<Status/Active.md>)
+                    - [Status](<Status.md>)/Deactivated
+                - **Ideas:** (Zettelkasten)
+                    - Entry Tier
+                        - `#[Fleeting Notes](<Fleeting Notes.md>)` - Not related or loosely related to literature (own words)
+                        - `#[Literature Notes](<Literature Notes.md>)` - Main ideas extracted from literature/resources (may be [verbatim](<verbatim.md>))
+                    - Maturity Tier
+                        - `#[Evergreen Notes](<Evergreen Notes.md>)` - Notes that reach a subjective sense of broad applicability and concision. - May be [verbatim](<verbatim.md>), includes documented authorship and source links if applicable.
+                            - Includes original zettels
+                            - Atomized ideas of others (maybe a matured literature note)
+                            - Concept notes (summaries of concepts or principles)
+                - **[Comments](<Comments.md>):**
+                    - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+                        - I'm tying this to authorship. 
+                        - Supporting evidence, background, elaboration, examples, etc are all encouraged — But not considered part of [minimum requirements](<minimum requirements.md>)[*]([[[E:](<[[E:.md>) beneficial, but optional]])
+                        - If you disagree with a zettel, reference it and engage in conversation with it. Use principles of [rhetoric](<rhetoric.md>), and seek truth through iterative reasoning. 
+                            - #[Fleeting Notes](<Fleeting Notes.md>) the validity of a note within the zettelkasten should be surrogated by the content of its references. 
+                                - Is it being frequently [cited]([citation](<citation.md>))?
+                                - Is it being challenged? Supported?
+                        - #[Fleeting Notes](<Fleeting Notes.md>) To seek [truthfulness]([truth](<truth.md>)) as minimum requirement is to be paralyzed out of the gates. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>)
+                        - [Q](<Q.md>) How can we objectively categorize the degree of maturity of an evergreen note? 
+                            - #[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>). That is simply entry into the tier. 
+        - #[Graph Mentorship](<Graph Mentorship.md>)
+            - "[Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
+                - Just changed `#[Context Questions](<Context Questions.md>)` to [Q](<Q.md>) here. [*](((LndnjT55D)))
+                    - HA! This was me, before the switch.
+        - 
+    - [Feedback](<Feedback.md>)  
+        - #[[[Feedback](<[[Feedback.md>): What's working]]
+            - Loving the "cc" convention as a "soft" notification. Really helps to reduce [[[E:](<[[E:.md>) alert fatigue]] as well. 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
@@ -105,7 +199,7 @@
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]]"#[Context Questions](<Context Questions.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]]"[Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[everyone](<everyone.md>)`  Could have a query under the announcement banner?
         - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
@@ -137,7 +231,45 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>)
+        - [datalog query](<datalog query.md>) testing
+            - Reference
+                - :q [:find ?Namespace ?Attribute
+ :where [_ ?Attribute]
+[(namespace ?Attribute) ?Namespace]]
+            - Query — Total New Blocks and Word Count
+                - Goal
+                    - Count total blocks created (parents, children, & leaves)
+                    - Look through and count all words
+                    - Ideally group by author as well
+                - Users
+                    - `:q [:find ?name
+:where
+[?p :user/display-name ?name]]`
+                        - :q [:find ?name
+:where
+[?p :user/display-name ?name]]
+                - Query Draft
+                    - ```javascript
+:q [:find ?author ?blocks ?words
+    :where
+   		[?author :create/email "charles.sims.farr@gmail.com"]
+]```
+            - Example Query (from [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]])
+                - ```javascript
+:q [:find ?n 
+    :where 
+    	[?note :node/title ?n]
+		[?bb :block/page ?note] 
+		[?bb :block/refs ?p]
+		[?bb :block/refs ?c]
+		[?c :node/title "Author"]
+		[?b :block/page ?p]
+		[?b :block/refs ?t]
+		[?b :block/refs ?tag]
+		[?t :node/title "Members"]
+		[?tag :node/title "Tags"]]
+```
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - "[~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ..."
@@ -192,6 +324,17 @@
                         - Learning (in classrooms, courses, etc.)
                         - Self-reflection (in tandem with journaling or some such)
                     - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
+        - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] " I was wondering if we should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
+`[How to](<How to.md>)` would be considered a prefix-"
+            - Categorizing nested brackets as either prefixes or suffixes is a good way for us to formalize and track conventions
+                - In my personal graph, I use mainly prefixes, as it allows for easy filtering during a `[[]]` search
+                    - I really only use it for my Evergreen notes, which all get a`[Z:](<Z:.md>)` prefix
+                - Other examples I've seen that I like are suffixes in the Wikipedia style — e.g., `[How to Take Smart Notes ([[Book](<How to Take Smart Notes ([[Book.md>))]]`
+                    - A [Feature Request](<Feature Request.md>) for Roam is to allow for the use of `[[]]` references within namespaces
+                        - I like the namespace functionality to collapse page titles, but don't find it critical and rarely turn it on
+                            - [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
+                                - Could you even tie this CSS to an internal flag that turns on namespaces?
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
@@ -245,5 +388,8 @@
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>)
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+- **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
 - **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
 

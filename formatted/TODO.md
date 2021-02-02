@@ -86,6 +86,9 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [Thoughts](<Thoughts.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [roam/css](<roam/css.md>)
 - {{[TODO](<TODO.md>)}
 

@@ -45,13 +45,13 @@
             7. Added [roam/css](<roam/css.md>)
                 - Tag styling (1st draft)
             8. Added [roam/js](<roam/js.md>)
-            9. Added [Context Questions](<Context Questions.md>)
+            9. Added [Q](<Q.md>)
                 - Questions that come up while answering a prompt. They don't stand alone so don't work well as open questions — but they are helpful to tag so that you can review the references on those tags. These are great opportunities for collaborative commentary. ((This feels kinda confusing — happy to elaborate on it if unclear.))
             10. Added [Frequently Asked Questions](<Frequently Asked Questions.md>)
             11. Added #[Everyone](<Everyone.md>) tag
                 - Similar to the @Channel feature in [Slack](<Slack.md>)...
                     - Can use `@[Everyone](<Everyone.md>)` to elevate something to everyone's attention. 
-                        - #[Context Questions](<Context Questions.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
+                        - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [Welcome 😃](<Welcome 😃.md>) and the "**Getting Started:**" sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - [GTD](<GTD.md>)
@@ -174,7 +174,7 @@
             - "To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities."
         3. From the references on `[Open Questions](<Open Questions.md>)`: "What is the best method of notifications?"
             - The `@` and `~` convention from [[[Roam Book Club](<[[Roam Book Club.md>) II]] seemed to work well.
-            - #[Context Questions](<Context Questions.md>) Is this only possible if "only edit your blocks" is disabled?
+            - #[Q](<Q.md>) Is this only possible if "only edit your blocks" is disabled?
         4. "How to tag ideas related to graph conventions and processes?"
             - Under `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`?
         5. "How important is it to stick to vanilla Roam?"

@@ -2,6 +2,9 @@
 - **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>), [evergreen notes](<evergreen notes.md>)
 
 # Backlinks
+## [February 1st, 2021](<February 1st, 2021.md>)
+- `#[Literature Notes](<Literature Notes.md>)`
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[URL](<URL.md>):** https://andymatuschak.org/prompts/
     - **[Literature Notes](<Literature Notes.md>):**

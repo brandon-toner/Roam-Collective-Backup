@@ -13,6 +13,9 @@
 ## [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)
 - Hacked solutions are usually out-of-sync with [native conventions]([E/Use the native convention as much as possible.](<../E/Use the native convention as much as possible..md>))
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([E/Use the native convention as much as possible.](<../E/Use the native convention as much as possible..md>))
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Fleeting Notes](<../Fleeting Notes.md>) [E/Use the native convention as much as possible.](<../E/Use the native convention as much as possible..md>)
 

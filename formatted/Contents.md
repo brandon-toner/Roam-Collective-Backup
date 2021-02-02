@@ -84,10 +84,6 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
-- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Contents](<Contents.md>):**
-
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
 - [[[E:](<[[E:.md>) Evergreen Note example 3]]
 - **[Contents](<Contents.md>):**
@@ -97,6 +93,14 @@
     - **[Contents](<Contents.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 

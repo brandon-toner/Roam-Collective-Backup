@@ -23,6 +23,13 @@
 - In product development, low floor = low [E/barrier to entry](<E/barrier to entry.md>), high ceiling = able to meet the needs of [power users](<power users.md>).
 - **[Example](<Example.md>):**
 
+## [February 1st, 2021](<February 1st, 2021.md>)
+- Thoughts on this thread of thoughts? [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - **[Example](<Example.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
+                - **[Example](<Example.md>):**
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**
@@ -73,7 +80,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Example](<Example.md>)
 
-- 
+- Possible to generate a report of "pages authored by graph members"
                 - **[Example](<Example.md>):**
 
 - Building queries using sets of data

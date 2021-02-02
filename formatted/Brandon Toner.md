@@ -134,12 +134,9 @@
 ## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-
-- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -274,6 +271,14 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)

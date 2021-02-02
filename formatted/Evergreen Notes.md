@@ -69,9 +69,6 @@
 ## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
-
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - **[Related](<Related.md>):** [Evergreen Notes](<Evergreen Notes.md>)
 
@@ -79,6 +76,8 @@
 - And can find all evergreen notes using `#[Evergreen Notes](<Evergreen Notes.md>)`
 
 - Or even just `#[Evergreen Notes](<Evergreen Notes.md>)`
+
+- `#[Evergreen Notes](<Evergreen Notes.md>)`
 
 - This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[Evergreen Notes](<Evergreen Notes.md>)`
 
@@ -90,6 +89,12 @@
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 
 ## [roam/css](<roam/css.md>)

@@ -96,10 +96,6 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [E/optional, but beneficial](<E/optional, but beneficial.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-    - **[Created by](<Created by.md>):**
-
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[People](<People.md>):** ((People involved with the project))
         - **[Created by](<Created by.md>):**
@@ -113,6 +109,14 @@
     - **[Created by](<Created by.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+- **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 

@@ -183,7 +183,7 @@
                             - Once a model or framework of reality and understanding is articulated, it 
                         - What determines when [[structure]] should be crystallized into [[law]] or [[conventions]]?
                             - "Crystallized" is intended to be [[held lightly]] here. 
-                                - But degree of crystallization is another interesting question. How firm should we hold [[structure]]? [*](((h4WlwD7N4))) #[[Context Questions]] 
+                                - But degree of crystallization is another interesting question. How firm should we hold [[structure]]? [*](((h4WlwD7N4))) #[[Q]] 
                                     - #[[Open Questions]] How firm should we hold [[structure]]? #conventions
                                         - I believe we have a good balance going here. Lots of emergent conventions, with emphasis placed only on a core few. #Bookmarks
         - Testing [[David Vargas]] query
@@ -197,7 +197,6 @@
             - Can't seem to [[emoji react]] to blocks...
         - Reflections on [[datalog]] queries #Bookmarks
             - Possible to generate a report of "pages authored by graph members"
-                - 
                 - Example::
                     - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
                 - This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.

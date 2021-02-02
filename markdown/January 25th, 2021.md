@@ -45,13 +45,13 @@
             7. Added [[roam/css]]
                 - Tag styling (1st draft)
             8. Added [[roam/js]]
-            9. Added [[Context Questions]]
+            9. Added [[Q]]
                 - Questions that come up while answering a prompt. They don't stand alone so don't work well as open questions — but they are helpful to tag so that you can review the references on those tags. These are great opportunities for collaborative commentary. ((This feels kinda confusing — happy to elaborate on it if unclear.))
             10. Added [[Frequently Asked Questions]]
             11. Added #[[Everyone]] tag
                 - Similar to the @Channel feature in [[Slack]]...
                     - Can use `@[[Everyone]]` to elevate something to everyone's attention. 
-                        - #[[Context Questions]] How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
+                        - #Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [[Welcome 😃]] and the "**Getting Started:**" sections 
             13. Added [[Roam Collaboration Guide]]
         - #GTD
@@ -174,7 +174,7 @@
             - "To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities."
         3. From the references on `[[Open Questions]]`: "What is the best method of notifications?"
             - The `@` and `~` convention from [[[[Roam Book Club]] II]] seemed to work well.
-            - #[[Context Questions]] Is this only possible if "only edit your blocks" is disabled?
+            - #[[Q]] Is this only possible if "only edit your blocks" is disabled?
         4. "How to tag ideas related to graph conventions and processes?"
             - Under `[[[[Feedback]]: [[Suggestions]]]]`?
         5. "How important is it to stick to vanilla Roam?"
