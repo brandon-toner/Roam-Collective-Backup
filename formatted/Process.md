@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- This allows an [editor](<editor.md>) to [E/Start from abundance](<E/Start from abundance.md>). 
+- This allows an [editor](<editor.md>) to [[[E:](<[[E:.md>) Start from abundance]]. 
                         - **[Process](<Process.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

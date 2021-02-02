@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 - **[Related](<Related.md>):** #[spaced repetition](<spaced repetition.md>)
-- **[Source](<Source.md>):** [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
+- **[Source](<Source.md>):** [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]]
 
 # Backlinks
 ## [January 29th, 2021](<January 29th, 2021.md>)

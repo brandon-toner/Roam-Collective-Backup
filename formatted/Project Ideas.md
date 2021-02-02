@@ -5,6 +5,8 @@
 
 - #[Project Ideas](<Project Ideas.md>)
 
+- In most cases I agree, but have decided to go with `#[Project Ideas](<Project Ideas.md>)`
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Project Ideas](<Project Ideas.md>)
 

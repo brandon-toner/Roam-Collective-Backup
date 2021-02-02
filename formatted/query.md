@@ -7,6 +7,10 @@
 
 - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
+
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - [query](<query.md>)
 
@@ -98,6 +102,11 @@
 
 ## [Winston Teng](<Winston Teng.md>)
 - {{[query](<query.md>):
+
+## [cc:[Brandon Toner](<Brandon Toner.md>)](<cc:[Brandon Toner](<Brandon Toner.md>).md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>):

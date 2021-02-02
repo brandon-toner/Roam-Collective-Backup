@@ -61,12 +61,12 @@
                 - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
         - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])
             - Related::
-                - "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - Objectives::
                 - Have [[pages]] for commonly referenced ideas.
                 - Clear authorship.
-                - [[E/low floor, high ceiling]] workflow
+                - [[[[E:]] low floor, high ceiling]] workflow
                 - Ease of [[onboarding]].
                 - Clear [[disambiguation]]
                 - Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))
@@ -97,7 +97,7 @@
                         - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
                 - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
-                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[E/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
                     - I see more detail as [[[[E:]] beneficial, but optional]]
             - Questions::
                 - #Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?
@@ -168,7 +168,7 @@
                 2. Check the history on Change Log
                 3. Check the history on The Main Feed
     - Decisions::
-        - {{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
+        - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
             - Options:: 
                 - Option A - `[[E:]]`
                     - Example::
@@ -191,7 +191,7 @@
                                 - #[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
             - Status:: ^^Updated to E/^^ 
                 - `[[E:]]` (at the time of creation)
-            - Decision:: "Option B - `E/`" (tentative, re-opened)
+            - Decision:: "Option A - `[[E:]]`", used with [[[[E:]] Evergreen Note example 3]]
             - Factors::
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
@@ -199,14 +199,13 @@
             - Conversation::
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
                     - Related:: [[[[E:]] Evergreen Note example 3]]
-                    - 
             - Notes::
                 - Benefits of including a namespace:
                     - Easy recall via the [[auto-populate]] menu. 
                         - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
             - #Ideas It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
                 - Rationale:: Often the pros of one are the cons to another. There are repeated parts.
-            - #[[Fleeting Notes]] [[E/Use the native convention as much as possible.]]
+            - #[[Fleeting Notes]] [[[[E:]] Use the native convention as much as possible.]]
         - {{[[TODO]]}} [[Choice]]: Whether to include the #Evergreen tag as an element of the evergreen note process ((((e-lL4buZ1))))
             - Options:: 
                 - A — Include `#Evergreen` tag as part of process
@@ -251,7 +250,7 @@
         - #[[Fleeting Notes]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
             - Related:: 
                 - [[What indicates that a seedling has fully matured into an evergreen note?]]
-                - [[E/Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
         - #Q What is a good page title or tag to collect ideas around note maturation?
         - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]
             - There is too much overlap right now.
@@ -268,7 +267,7 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([[E/Have a clear aim]]) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([[[[E:]] Have a clear aim]]) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [[page status]], and should be frequently referenced in related discussions.
                             - #[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
@@ -299,7 +298,7 @@
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
                     - Similar convention for within [[About [[Roam-Collective]]]]
         2. #[[Graph Mentorship]]
-            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[E/Evergreen note titles are like APIs]] to apply to fleeting notes. 
+            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[[E:]] Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - Example:: 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -319,7 +318,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                         - Id suggest:
                             - collaboration
                             - goals
-                - Related:: [[E/Have a clear aim]]
+                - Related:: [[[[E:]] Have a clear aim]]
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About [[Roam-Collective]]]]. Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
@@ -361,7 +360,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
-            - Related:: "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+            - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
@@ -390,11 +389,11 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[^[[Brandon Toner]]]]
-        - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [[aliases]] serve the job to hide these messy situation. Or in other words, our [[visual cues]] are not able to mix/compose together within a block. [[@[[Brandon Toner]]]]
+        - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [[aliases]] serve the job to hide these messy situation. Or in other words, our [[visual cues]] are not able to mix/compose together within a block. [[~[[Brandon Toner]]]]
             - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[[Experiments]]
                 - Example:: When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [[aliases]].
             - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]"
-        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[Fleeting Notes]] visual feedback as rewards". [[@[[Brandon Toner]]]]
+        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[Fleeting Notes]] visual feedback as rewards". [[~[[Brandon Toner]]]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [[patterns]] we tend to use in block ((AXYZ model from Joel Chan is one example)).
             - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]".
     - #[[[[Feedback]]: [[Suggestions]]]]
@@ -526,7 +525,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
         - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]]."
-            - [[@[[Brandon Toner]]]] makes complete sense — I think we can consolidate it down to be a bit more manageable
+            - [[~[[Brandon Toner]]]] makes complete sense — I think we can consolidate it down to be a bit more manageable
                 - If I were to build an updated format, this is what it might look like...
                     - [[[[E:]] Evergreen Note example 1]]
         - "Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?"

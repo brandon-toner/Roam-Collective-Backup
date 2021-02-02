@@ -67,6 +67,9 @@
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
 
+## [RC](<RC.md>)
+- **[Redirect](<Redirect.md>):** [Roam-Collective](<Roam-Collective.md>)
+
 ## [Welcome 😃](<Welcome 😃.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 

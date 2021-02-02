@@ -1,1 +1,2 @@
 - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}
+- {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}}

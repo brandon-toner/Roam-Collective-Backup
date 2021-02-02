@@ -12,17 +12,21 @@
 - **[Queries](<Queries.md>):**
     - {{[query](<query.md>): {and: [@](<@.md>) [Larissa de Lima](<Larissa de Lima.md>)}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
-    - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>)
+    - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
             - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-            - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+            - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
+                - 
         - ---
 
 # Backlinks
 ## [Directory](<Directory.md>)
 - [Larissa de Lima](<Larissa de Lima.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Welcoming [Larissa de Lima](<Larissa de Lima.md>)

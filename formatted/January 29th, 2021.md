@@ -18,7 +18,7 @@
     - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [fleeting notes](<fleeting notes.md>) can be used to build an [argument](<argument.md>) or [claim](<claim.md>). [cc:[[leekeifon](<cc:[[leekeifon.md>)]], [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]], [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]]
     - "[Stian Håklev](<Stian Håklev.md>)'s [Roam Inter](<Roam Inter.md>)[*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
 - [Chat](<Chat.md>) ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
-    1. I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
+    1. I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)
     2. [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)"
@@ -31,49 +31,49 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
             - **[Index](<Index.md>):**
-                - [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
-                - [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
-                - [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
-                - [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
-                - [E/Evergreen notes should be atomic](<E/Evergreen notes should be atomic.md>)
-                - [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
-                - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-                - [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
+                - [[[E:](<[[E:.md>) Create speculative outlines while you write]]
+                - [[[E:](<[[E:.md>) Evergreen notes should be concept-oriented]]
+                - [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
+                - [[[E:](<[[E:.md>) Prefer note titles with complete phrases to sharpen claims]]
+                - [[[E:](<[[E:.md>) Evergreen notes should be atomic]]
+                - [[[E:](<[[E:.md>) Evergreen note-writing helps insight accumulate]]
+                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]]
             - [Highlights](<Highlights.md>) [Annotations](<Annotations.md>)
-                - [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
+                - [[[E:](<[[E:.md>) Prefer note titles with complete phrases to sharpen claims]]
                     - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."
-                - [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
+                - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]]
                     - "the efficacy of a [Spaced repetition memory system](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC) comes from its power to __program your attention__ ([Programmable attention](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)). Think: “{cron} for your mind.”" [*](((ftWEArd7X))) [cron](<cron.md>) [attention](<attention.md>) 
                     - "But the core __concept__—automatically arranging and presenting tasks according to some expanding schedule—can be instantiated in many interfaces and domains. I call this notion [Spaced everything](https://notes.andymatuschak.org/z59aJSjgqr4B1k1ofoE7ZBF2dv8MeJ1Drf4TQ)." #[spaced everything](<spaced everything.md>)
                         - {{[embed](<embed.md>): ((CqFG6U8J4))}}
-                - [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
+                - [[[E:](<[[E:.md>) Evergreen note-writing helps insight accumulate]]
                     - "We should do our serious thinking in the form of [Evergreen notes]([evergreen notes](<evergreen notes.md>)) so that the thinking accumulates." [*](((J8wx4unAe))) 
                     - "And if you can’t write even one atomic note on the idea you have, [Spaced repetition may be a helpful tool to incrementally develop inklings](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)." #[spaced repetition](<spaced repetition.md>)
-                - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
                     - "I’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I don’t have anything useful to say about the notion yet—it just seems awfully interesting." [inklings](<inklings.md>)
                     - "I can capture the notion in [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/z5aJUJcSbxuQxzHr2YvaY4cX5TuvLQT7r27Dz), but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([Inboxes only work if you trust how they’re drained](https://notes.andymatuschak.org/z5tiFxnNKMZCnc8G9R1N51L5hknyRGmyCQx18))."
                         - Is this a [zettelkasten](<zettelkasten.md>)
                     - "Once I’ve done that, I can mark the prompt as “fruitful,” meaning it’ll come up again relatively soon, or “unfruitful,” in which case the system will increase its interval substantially."
                         - Interesting labeling of [spaced repetition](<spaced repetition.md>) tags.
             - #[Literature Notes](<Literature Notes.md>)
-                - [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
+                - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]]
                     - "Manually making decisions about which cards to review would be far too taxing on a per-card basis. The transaction cost is too high. When that work is mostly outsourced, you can make a coarser decision—to devote your attention to SRS practice for 10 minutes—and then let your attention be directed by the machine within that block." [*](((50JLdu-lw)))
                         - [Automation]([automation](<automation.md>)) helps to lower the [attention](<attention.md>) [transaction cost](<transaction cost.md>) of operating [systems](<systems.md>).
-                - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
                     - {{[embed](<embed.md>): ((2x4gDdZBw))}}
                         - [Andy Matuschak](<Andy Matuschak.md>)'s system of [spaced repetition](<spaced repetition.md>) [Routines](<Routines.md>) [Processes](<Processes.md>)
-                - [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
+                - [[[E:](<[[E:.md>) Create speculative outlines while you write]]
                     - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
-                        - **[Related](<Related.md>):** [E/Start from abundance](<E/Start from abundance.md>)
-                - [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
+                        - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Start from abundance]]
+                - [[[E:](<[[E:.md>) Evergreen notes should be concept-oriented]]
                     - "It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC))."
                         - In Roam, both can be accomplished by tagging with [attributes](<attributes.md>)
                     - "Is there tension between them? Is some powerful distillation only visible when all these ideas are considered simultaneously? [Understanding requires effortful engagement](https://notes.andymatuschak.org/zX1WtJ4ouE8sjN1NgWHsGVg8ZnVfp5Kz74Vs)" [*](((9r0a4tGiM)))
                         - #[Fleeting Notes](<Fleeting Notes.md>)  A [zettelkasten](<zettelkasten.md>) empowers a conversation between [atomic ideas](<atomic ideas.md>). By facilitating proximity and a means of flagging [tensions](<tensions.md>).
-                - [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
+                - [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
                     - "When [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle" [*](((w2AwpCjU6))) [Bookmarks](<Bookmarks.md>)
                         - This is an important point, and should be a central convention for page naming of [evergreen notes](<evergreen notes.md>) [Conventions](<Conventions.md>)
-                - [E/Evergreen notes should be atomic](<E/Evergreen notes should be atomic.md>)
+                - [[[E:](<[[E:.md>) Evergreen notes should be atomic]]
                     - "This way, it’s easier to form connections across topics and contexts. If your notes are too broad, you might not notice when you encounter some new idea about one of the notions contained within, and links to that note will be muddied. If your notes are too fragmented, you’ll also fragment your link network, which may make it harder to see certain connections. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)"
                         - #[Fleeting Notes](<Fleeting Notes.md>) [Atomic ideas]([atomic ideas](<atomic ideas.md>)) are easier to connect than complex [narratives](<narratives.md>). [articles](<articles.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -90,7 +90,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                 - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph](<collaborative graph.md>). [zettelkasten](<zettelkasten.md>) [Bookmarks](<Bookmarks.md>) [Seedlings](<Seedlings.md>)
                     - This allows groups of people to organize and work together to collectively create a unified product. 
                     - #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph](<collaborative graph.md>). [zettelkasten](<zettelkasten.md>)
-                        - This allows an [editor](<editor.md>) to [E/Start from abundance](<E/Start from abundance.md>). 
+                        - This allows an [editor](<editor.md>) to [[[E:](<[[E:.md>) Start from abundance]]. 
                         - **[Process](<Process.md>):** [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)
                             1. Set [creative project]([creative projects](<creative projects.md>)).
                             2. Establish [outline](<outline.md>).
@@ -162,13 +162,13 @@ This addresses the problem of “missing things”. If ideas are documented in z
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
             - **[Agreement Rating](<Agreement Rating.md>):** {{[slider](<slider.md>)}}
-                - "I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
+                - "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - I'm not sure I agree with this, but I sort of do. 
         - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative zettelkastens]([collaborative zettelkasten](<collaborative zettelkasten.md>)) reach [critical mass](<critical mass.md>) faster than [personal zettelkastens]([personal zettelkasten](<personal zettelkasten.md>)) [zettelkasten](<zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>) action could be set-up to facilitate the future-maturation of the note. 
-            - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+            - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
 
         - [Opportunities](<Opportunities.md>) [Ship 30 for 30](<Ship 30 for 30.md>) as a [collaborative zettelkasten](<collaborative zettelkasten.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) A [screenshot essay]([screenshot essays](<screenshot essays.md>)) is essentially an [evergreen note]([evergreen notes](<evergreen notes.md>)).
@@ -205,7 +205,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - Yea, agreed. As far as "following" goes, I'd like to keep it simple for now, and encourage others to envision how this might look logistically. 
             - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [passive](<passive.md>) or "[just-in-time](<just-in-time.md>)" [resurfacing](<resurfacing.md>) 
         - [how-should-I-tag-this](<how-should-I-tag-this.md>) [Tensions](<Tensions.md>)
-            - [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)
+            - [[[E:](<[[E:.md>) active vs passive resurfacing]]
                 - Is this an [evergreen note]([evergreen notes](<evergreen notes.md>))? Maybe. It's more a chapter title.
                     - Less of an [assertion]([assertions](<assertions.md>)), but it is a concept that I refer to periodically. 
                     - **I'm going to call it an EN**... because it's UTILITY feels similar/the same. 
@@ -226,10 +226,10 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - It does get hard to re-trace for someone not a part of the original conversation, though. You'd have to go through the block refs. Which mayyyy not be too bad.
             - I agree with "Again, organic development is probably best here, and remain flexible. " [*](((H0r4ht151)))
         - "You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>)."
-            - Yup, I agree. I think the drilling down could be conducted on the [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>) page itself. With more elaboration, and reference to some specific claims. [~[[leekeifon](<~[[leekeifon.md>)]]
+            - Yup, I agree. I think the drilling down could be conducted on the [[[E:](<[[E:.md>) active vs passive resurfacing]] page itself. With more elaboration, and reference to some specific claims. [~[[leekeifon](<~[[leekeifon.md>)]]
             - Drawing some justification from this part of [Andy's Notes](<Andy's Notes.md>):
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
-                - I would consider [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>) related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
+                - I would consider [[[E:](<[[E:.md>) active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
         - [~[[leekeifon](<~[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. 
             - How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>).
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
@@ -309,7 +309,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
         - Also [this one](((j50xmn4aN))).  cc [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - And [this idea](((iMm8lcvmd))) seems to be interesting. cc: [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - Is [this idea](((UDqsAeKJg))) already in your feature list? [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
-        - "I decided to consider [this idea]([E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
+        - "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>).
@@ -373,37 +373,37 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
     - 
 
 # Backlinks
-## [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Evergreen notes should be atomic](<E/Evergreen notes should be atomic.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
-## [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)
-- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 **Page:** [January 29th, 2021](<January 29th, 2021.md>)
 
 **Page:** [January 29th, 2021](<January 29th, 2021.md>)
 
 - **Page:** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+
+## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+- **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
 

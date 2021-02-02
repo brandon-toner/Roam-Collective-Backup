@@ -3,6 +3,13 @@
 - Process: 
 
 # Backlinks
+## [February 1st, 2021](<February 1st, 2021.md>)
+- #[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
+
+- With merely local context, it is hard for me to get what others are trying to achieve and contribute to the conversation. I feel [divergent](<divergent.md>) when finding the entry point to the [conversation](<conversation.md>).
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [conversation](<conversation.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>) or within [conversation](<conversation.md>).
 

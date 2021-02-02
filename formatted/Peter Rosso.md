@@ -27,3 +27,6 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
+## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
+

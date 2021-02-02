@@ -24,6 +24,8 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
+- From [Charles Farr](<Charles Farr.md>):
+
 - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
 - Regarding "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)

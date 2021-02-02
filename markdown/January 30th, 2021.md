@@ -33,7 +33,7 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
     - #[[Scratchpad]] 
-        - [[E/Evergreen notes should be densely linked]]
+        - [[[[E:]] Evergreen notes should be densely linked]]
         - [These](((CCODMMO6j))) were captured using [[Memex]]. They have a [[customizable]] [[copy-paster]] that is excellent for getting information into [[Roam]] format.
             - #Q How could the [[Memex]] [[copy-paster]] be optimized for taking [[annotations]]? #note-taking
                 - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
@@ -285,7 +285,7 @@
                         2.  Users **continue the conversation** of these notes by [referencing]([[block referencing]]) them in discussion, and formulating new [[fleeting notes]] in response to them.
                             - This may be an opportunity to use principles of [[logic]] and [[rhetoric]], but these conventions would be [[optional]].
                         3. Repeat [[ad infinitum]] until ideas have been exhausted and writing becomes less [[fruitful]]. 
-                        4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[E/active vs passive resurfacing]]).
+                        4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[[[E:]] active vs passive resurfacing]]).
                         5. As ideas become heavily referenced, or feel "[[evergreen]]" in nature — a page should be created and an [evergreen note]([[evergreen notes]]) formed.
                             - Related:: [[The stages of [[maturation]] of [[zettelkasten]] notes]] #Seedlings
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([[What indicates that a seedling has fully matured into an evergreen note?]]) — a `#Seedlings` tag should be assigned.
@@ -295,17 +295,17 @@
                         - {{[[TODO]]}} Create literature notes from [[How to write good prompts]]. #[[Help Wanted]]
                             - {{[[DONE]]}} Create a smartblock for the [[Daily Review]] that pulls TODO + Help Wanted. [[January 30th, 2021]] 
             - "Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks."
-                - Yup, this is definitely in my conceptual [[roadmap]]. I see it as [[E/cycles of divergence and convergence]].
+                - Yup, this is definitely in my conceptual [[roadmap]]. I see it as [[[[E:]] cycles of divergence and convergence]].
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
-                    - First, [[E/Start from abundance]].
+                    - First, [[[[E:]] Start from abundance]].
                 - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #Ideas #onboarding #[[Quick Start Guide]]
                 - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #Ideas #collaboration
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
                 - hahaha, precisely what I'm currently doing. [[~[[Peter Rosso]]]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([[opportunistically]]) populating these as I interact with the graph.
-                    - #[[Fleeting Notes]] [[E/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - #[[Fleeting Notes]] [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
             - "According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts."
                 - YES! I was about to develop a Smartblock actually that would generate a RANDOMBLOCKMENTION of `#Seedlings`. 
                     - Created [here](((tE6jhytOC)))

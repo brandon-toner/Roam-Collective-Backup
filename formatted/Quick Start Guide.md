@@ -38,6 +38,9 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>)
 
+## [Learning Center](<Learning Center.md>)
+- [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 

@@ -5,7 +5,7 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - "[Q](<Q.md>) How could [notifications](<notifications.md>)
 
-- [@[[Brandon Toner](<@[[Brandon Toner.md>)]]"[Q](<Q.md>) How could [notifications](<notifications.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"[Q](<Q.md>) How could [notifications](<notifications.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Q](<Q.md>) How could [notifications](<notifications.md>)

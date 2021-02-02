@@ -23,7 +23,7 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 ## [Frameworks](<Frameworks.md>)
 - {{[TODO](<TODO.md>)}
@@ -57,15 +57,9 @@
 - {{[TODO](<TODO.md>)}
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- "{{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- **[Related](<Related.md>):** "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 

@@ -27,86 +27,7 @@
 - This is certainly an optional convention. 
     - **[Related](<Related.md>):**
 
-## [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Evergreen notes should be atomic](<E/Evergreen notes should be atomic.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting notes (FN, LN, EN, or other) would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Evergreen notes should be densely linked](<E/Evergreen notes should be densely linked.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Have a clear aim](<E/Have a clear aim.md>)
-- [Jordan Peterson](<Jordan Peterson.md>) — recurring theme in his body of works.
-    - **[Related](<Related.md>):**
-
-## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/Start from abundance](<E/Start from abundance.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>)
-    - **[Related](<Related.md>):**
-
-## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/active vs passive resurfacing](<E/active vs passive resurfacing.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/barrier to entry](<E/barrier to entry.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-## [E/cycles of divergence and convergence](<E/cycles of divergence and convergence.md>)
-- https://twitter.com/brandontoner/status/1337444731928907777?s=21
-    - **[Related](<Related.md>):**
-
-## [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):**
-
-- Clear targets, [objectives](<objectives.md>), direction, and [goals](<goals.md>) help to keep the direction of graph development in alignment with the community [purpose](<purpose.md>).
-            - **[Related](<Related.md>):**
-
-## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
@@ -120,6 +41,8 @@
 
 - Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [[[E:](<[[E:.md>) Evergreen Note example 3]]. 
                     - **[Related](<Related.md>):**
+
+- [Related](<Related.md>)
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
@@ -197,6 +120,9 @@
 
 - [Related](<Related.md>)
 
+## [Learning Center](<Learning Center.md>)
+- **[Related](<Related.md>):**
+
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
@@ -238,12 +164,48 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<Related.md>):**
 
+## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
 - **[Related](<Related.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting notes (FN, LN, EN, or other) would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+- [Jordan Peterson](<Jordan Peterson.md>) — recurring theme in his body of works.
     - **[Related](<Related.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -253,11 +215,58 @@
 - If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
         - **[Related](<Related.md>):**
 
+## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>)
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
 ## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
 ## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
+- https://twitter.com/brandontoner/status/1337444731928907777?s=21
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+- Clear targets, [objectives](<objectives.md>), direction, and [goals](<goals.md>) help to keep the direction of graph development in alignment with the community [purpose](<purpose.md>).
+            - **[Related](<Related.md>):**
+
+## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 

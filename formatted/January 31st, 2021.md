@@ -61,12 +61,12 @@
                 - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
         - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
             - **[Related](<Related.md>):**
-                - "[ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+                - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - **[Objectives](<Objectives.md>):**
                 - Have [pages](<pages.md>) for commonly referenced ideas.
                 - Clear authorship.
-                - [E/low floor, high ceiling](<E/low floor, high ceiling.md>) workflow
+                - [[[E:](<[[E:.md>) low floor, high ceiling]] workflow
                 - Ease of [onboarding](<onboarding.md>).
                 - Clear [disambiguation](<disambiguation.md>)
                 - Minimize [cognitive burden](<cognitive burden.md>) associated with too many tags [*](((Ur95KwfFX)))
@@ -97,7 +97,7 @@
                         - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
                 - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
-                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [E/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<E/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
                     - I see more detail as [[[E:](<[[E:.md>) beneficial, but optional]]
             - **[Questions](<Questions.md>):**
                 - [Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
@@ -168,7 +168,7 @@
                 2. Check the history on Change Log
                 3. Check the history on The Main Feed
     - **[Decisions](<Decisions.md>):**
-        - [ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
+        - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
             - **[Options](<Options.md>):** 
                 - Option A - `[E:](<E:.md>)`
                     - **[Example](<Example.md>):**
@@ -191,7 +191,7 @@
                                 - **[#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)
             - **[Status](<Status.md>):** ^^Updated to E/^^ 
                 - `[E:](<E:.md>)` (at the time of creation)
-            - **[Decision](<Decision.md>):** "Option B - `E/`" (tentative, re-opened)
+            - **[Decision](<Decision.md>):** "Option A - `[E:](<E:.md>)`", used with [[[E:](<[[E:.md>) Evergreen Note example 3]]
             - **[Factors](<Factors.md>):**
                 - Ability to be included as a query element
                 - Alignment with native [namespacing](<namespacing.md>) conventions
@@ -199,14 +199,13 @@
             - **[Conversation](<Conversation.md>):**
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
                     - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen Note example 3]]
-                    - 
             - **[Notes](<Notes.md>):**
                 - Benefits of including a namespace:
                     - Easy recall via the [auto-populate](<auto-populate.md>) menu. 
                         - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
             - **[[Ideas](<Ideas.md>) It might be helpful to include a `Factors](<[Ideas](<Ideas.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
                 - **[Rationale](<Rationale.md>):** Often the pros of one are the cons to another. There are repeated parts.
-            - #[Fleeting Notes](<Fleeting Notes.md>) [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) Use the native convention as much as possible.]]
         - [ ] [Choice](<Choice.md>): Whether to include the [Evergreen](<Evergreen.md>) tag as an element of the evergreen note process ((((e-lL4buZ1))))
             - **[Options](<Options.md>):** 
                 - A — Include `[Evergreen](<Evergreen.md>)` tag as part of process
@@ -251,7 +250,7 @@
         - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):** 
                 - [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
-                - [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
         - [Q](<Q.md>) What is a good page title or tag to collect ideas around note maturation?
         - [Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - There is too much overlap right now.
@@ -268,7 +267,7 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([E/Have a clear aim](<E/Have a clear aim.md>)) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([[[E:](<[[E:.md>) Have a clear aim]]) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [page status](<page status.md>), and should be frequently referenced in related discussions.
                             - #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>).
@@ -299,7 +298,7 @@
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
                     - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
         2. #[Graph Mentorship](<Graph Mentorship.md>)
-            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>) to apply to fleeting notes. 
+            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[E:](<[[E:.md>) Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - **[Example](<Example.md>):** 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -319,7 +318,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                         - Id suggest:
                             - collaboration
                             - goals
-                - **[Related](<Related.md>):** [E/Have a clear aim](<E/Have a clear aim.md>)
+                - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Have a clear aim]]
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About [[Roam-Collective](<About [[Roam-Collective.md>)]]. Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
@@ -361,7 +360,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Make [namespaces](<namespaces.md>) a query-able element 
-            - **[Related](<Related.md>):** "[ ] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+            - **[Related](<Related.md>):** "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
@@ -390,11 +389,11 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
-        - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [aliases](<aliases.md>) serve the job to hide these messy situation. Or in other words, our [visual cues](<visual cues.md>) are not able to mix/compose together within a block. [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [aliases](<aliases.md>) serve the job to hide these messy situation. Or in other words, our [visual cues](<visual cues.md>) are not able to mix/compose together within a block. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
                 - **[Example](<Example.md>):** When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [aliases](<aliases.md>).
             - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)"
-        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards". [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards". [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [patterns](<patterns.md>) we tend to use in block ((AXYZ model from Joel Chan is one example)).
             - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)".
     - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]
@@ -526,7 +525,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
         - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [disambiguation](<disambiguation.md>)."
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] makes complete sense — I think we can consolidate it down to be a bit more manageable
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] makes complete sense — I think we can consolidate it down to be a bit more manageable
                 - If I were to build an updated format, this is what it might look like...
                     - [[[E:](<[[E:.md>) Evergreen Note example 1]]
         - "Thinking of making the switch... thoughts [~[[Charles Farr](<~[[Charles Farr.md>)]]?"
@@ -587,21 +586,6 @@ a[href^='http']{
 - ---
 
 # Backlinks
-## [E/"Hacked" solutions are likely to break over time.](<E/"Hacked" solutions are likely to break over time..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [E/Documenting ideas in zettelkasten format promotes referencing in related contexts](<E/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [E/Use the native convention as much as possible.](<E/Use the native convention as much as possible..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [E/barrier to entry](<E/barrier to entry.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **Page:** [January 31st, 2021](<January 31st, 2021.md>)
 
@@ -610,12 +594,27 @@ a[href^='http']{
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [January 31st, 2021](<January 31st, 2021.md>)
 
+## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
+## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
 ## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 

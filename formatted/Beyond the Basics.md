@@ -19,6 +19,9 @@
 
 - "**Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>) as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([Beyond the Basics](<Beyond the Basics.md>))
 
+## [Learning Center](<Learning Center.md>)
+- [Beyond the Basics](<Beyond the Basics.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>),
 

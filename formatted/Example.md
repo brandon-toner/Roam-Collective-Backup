@@ -19,10 +19,6 @@
 - Nest your writing underneath the prompt reference.
     - **[Example](<Example.md>):**
 
-## [E/low floor, high ceiling](<E/low floor, high ceiling.md>)
-- In product development, low floor = low [E/barrier to entry](<E/barrier to entry.md>), high ceiling = able to meet the needs of [power users](<power users.md>).
-- **[Example](<Example.md>):**
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [@[[Charles Farr](<@[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**
@@ -123,6 +119,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - **[Example](<Example.md>):**
 
 9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
+
+## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
+- In product development, low floor = low [[[E:](<[[E:.md>) barrier to entry]], high ceiling = able to meet the needs of [power users](<power users.md>).
+- **[Example](<Example.md>):**
 
 ## [chat](<chat.md>)
 - To reply, reference the block into your "Comments" section, nesting your reply beneath.

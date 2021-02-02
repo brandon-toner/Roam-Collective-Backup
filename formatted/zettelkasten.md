@@ -35,6 +35,12 @@
 
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>).
 
+- [zettelkasten](<zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
+
+- [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>)
+
 - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
 
 - Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
@@ -42,6 +48,8 @@
 - If we use the [zettelkasten](<zettelkasten.md>)
 
 - I think that generally there are some standard best practices (such as how to nest metadata and maybe even how to create a namespace), but the final structure is likely dependent on the goals for the [zettelkasten](<zettelkasten.md>).
+
+- [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
 
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)

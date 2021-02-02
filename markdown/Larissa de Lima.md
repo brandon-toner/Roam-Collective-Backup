@@ -12,10 +12,11 @@
 - Queries::
     - {{[[query]]: {and: [[@]] [[Larissa de Lima]]}}}
 - SmartBlocks::
-    - LaBrisa — DNT #42SmartBlock
+    - LaBrisa — DNT #42SmartBlock #roam/templates
         - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
             - #Questions ((about the graph, or directed towards someone)) #not_populated
             - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
-            - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+            - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+                - 
         - ---

@@ -38,7 +38,7 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
-        - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [E/Start from abundance](<E/Start from abundance.md>)
+        - `[how-should-I-tag-this](<how-should-I-tag-this.md>)` (resolved) [[[E:](<[[E:.md>) Start from abundance]]
             - This is [David Perell](<David Perell.md>)'s articulation of this idea... 
             - If it were MY idea, It would be an [evergreen note]([evergreen notes](<evergreen notes.md>)).
                 - `#[Open Questions](<Open Questions.md>)` How should I represent the ideas of others? (resolved)
@@ -108,7 +108,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
                 - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
-                    - **[Related](<Related.md>):** [E/Start from abundance](<E/Start from abundance.md>)
+                    - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Start from abundance]]
                 - #[Next Steps](<Next Steps.md>) 
                     - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  [Chat](<Chat.md>)
@@ -130,7 +130,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                         - Maybe: reference the block containing the request and add a [Status/Submitted](<Status/Submitted.md>) tag once submitted. [Processes](<Processes.md>)
                             - [Q](<Q.md>) How do I flag half-build processes for future elaboration and completion? — Maybe use `[Seedlings](<Seedlings.md>)`? Or another similar convention...
             - #[Fleeting Notes](<Fleeting Notes.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).[*](((3oGNZLyip)))
-            - #[Fleeting Notes](<Fleeting Notes.md>)[E/Start from abundance](<E/Start from abundance.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>)[[[E:](<[[E:.md>) Start from abundance]]
             - #[Fleeting Notes](<Fleeting Notes.md>) `[not-populated](<not-populated.md>)` tags can be used to filter out empty attributes [conventions](<conventions.md>)
                 - This reduces the amount of noise on a page and improves the [signal-to-noise ratio](<signal-to-noise ratio.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>)).
@@ -154,7 +154,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant."
             - #[Fleeting Notes](<Fleeting Notes.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant.
             - #[Fleeting Notes](<Fleeting Notes.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
-                - [E/Start from abundance](<E/Start from abundance.md>) — [David Perell](<David Perell.md>)
+                - [[[E:](<[[E:.md>) Start from abundance]] — [David Perell](<David Perell.md>)
         - My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)
             - [consume](<consume.md>) & [engage](<engage.md>): (read, watch, listen, converse, reflect)
             - As content resonates with me, I save them as [reference notes](<reference notes.md>) (capturing [context](<context.md>) — [bibliographical notes](<bibliographical notes.md>), [highlights](<highlights.md>), and [quotes](<quotes.md>)) [capture](<capture.md>)
@@ -291,9 +291,6 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
 - 
 
 # Backlinks
-## [E/Start from abundance](<E/Start from abundance.md>)
-- **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
-
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>)
 
@@ -301,4 +298,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 
 - **[Date Completed](<Date Completed.md>):** [January 27th, 2021](<January 27th, 2021.md>)
+
+## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
+- **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
 

@@ -5,35 +5,10 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
-## [E/Create speculative outlines while you write](<E/Create speculative outlines while you write.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Evergreen note titles are like APIs](<E/Evergreen note titles are like APIs.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Evergreen note-writing helps insight accumulate](<E/Evergreen note-writing helps insight accumulate.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Evergreen notes should be atomic](<E/Evergreen notes should be atomic.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Evergreen notes should be concept-oriented](<E/Evergreen notes should be concept-oriented.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Evergreen notes should be densely linked](<E/Evergreen notes should be densely linked.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Prefer note titles with complete phrases to sharpen claims](<E/Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Spaced repetition may be a helpful tool to incrementally develop inklings](<E/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
-## [E/Spaced repetition systems can be used to program attention](<E/Spaced repetition systems can be used to program attention.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - That being said, [Andy Matuschak](<Andy Matuschak.md>)
+
+- **["Example](<"Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)"
 
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
@@ -60,4 +35,31 @@
 - "We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 
 - We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
+
+## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

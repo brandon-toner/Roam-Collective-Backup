@@ -6,5 +6,5 @@
     - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
 - When designing conventions within a shared Roam graph, some conventions are essential while others are "optional, but beneficial"
-- This type of convention is important, because the optionality reduces the [E/barrier to entry](<E/barrier to entry.md>) for new users and empowers a [E/low floor, high ceiling](<E/low floor, high ceiling.md>) approach.
+- This type of convention is important, because the optionality reduces the [[[E:](<[[E:.md>) barrier to entry]] for new users and empowers a [[[E:](<[[E:.md>) low floor, high ceiling]] approach.
 - Choosing not to use these sorts of conventions will not result in any meaningful disorder. Though as more users adopt and use them, it results in more [fruitful](<fruitful.md>) [linked references](<linked references.md>).

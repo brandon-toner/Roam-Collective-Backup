@@ -33,3 +33,7 @@ Resolve by "[replace as text](<replace as text.md>)"
 - Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>) [Christianity](<Christianity.md>) [mythology](<mythology.md>)
     - **[Image](<Image.md>):**
 
+## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
+- **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Image](<Image.md>):**
+

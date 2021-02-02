@@ -84,9 +84,12 @@
         - #Thoughts on [[Project Ideas]] — #Conventions [*](((ASXisFxKd)))
             - The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. 
                 - Would definitely replace `#[[Creative Projects]]`
+        - #Tips the [[sidebar]] is important for navigating [[conversations]]
+        - #Tips Using the back and forward browser shortcuts is important for navigating between pages.
     - #GTD #not_populated
     - #[[Change Log]] 
-        - Drafted a "[[maturity]] progression" for projects, conventions, and 
+        - Drafted a "[[maturity]] progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
+        - Changed the name-spacing convention for [[evergreen notes]] "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] writing in a [[zettelkasten]] is a lot like writing on [[Twitter]].
             - [[atomic ideas]], brief claims and assertions.
@@ -94,7 +97,10 @@
                 - Example:: [[Visakan Veerasamy]]'s "talking points" are essentially a collection of [[evergreen notes]].
                     - In fact, his entire twitter style demonstrates an effective [[zettelkasten]].
                         - Prolific, interconnected, cumulative — self-propelling.
-        - #[[Project Ideas]] 
+        - #[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]].
+            - #Q What should the convention be for the use of [[abbreviations]]? #Conventions
+        - #Ideas a #[[Reference Needed]] tag can be helpful for flagging and populating missing references. 
+            - Can be 
     - #Conversation 
         - "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
             - There is definitely some variance on the structure of zettelkastens.
@@ -129,7 +135,7 @@
                     - Related:: 
                         - [[[[E:]] Evergreen Note example 1]]
                         - [[E/Evergreen Note example 2]]
-                        - "{{[[TODO]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                        - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
         - "[[~[[Brandon Toner]]]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how"
             - Yea, I have the same feelings about it....
                 - I think no-brackets works best with the nested pages CSS and cuts a lot of noise, but that might not be universal user preference.
@@ -137,7 +143,7 @@
                         - What are your thoughts? [[~[[Matthew Vogel]]]]
                             - Another option might be to make that a step in the "[[Quick Start Guide]]'"
                                 - Agreed [*](((Sh32I3JAi))) 
-        - "[[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?""
+        - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
             - I'm fine with just using simple namespacing for those sorts of collections:
                 - e.g. [[Books/The Culture Code]]
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
@@ -145,7 +151,7 @@
                 - i.e. here "This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title."[*](((xHjy_KXGZ)))
                 - This method will allow us to access powerful uses of specific [[2nd-degree connections]] to build [[abstractions]] that we can use for querying. 
                     - This is eventually where [[logic]] will get quite fun. 
-                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[E/Use the native convention as much as possible.]]).
+                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[[[E:]] Use the native convention as much as possible.]]).
         - "perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph" [*](((xLHZnRztX)))
             - Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions 
                 - [[@[[Charles Farr]]]], [[@[[Peter Rosso]]]]
@@ -187,7 +193,55 @@
             - "#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
                 - Just changed `#[[Context Questions]]` to #Q here. [*](((LndnjT55D)))
                     - HA! This was me, before the switch.
-        - 
+        - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"[*](((nECtcrahY))) [[@[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
+            - My thoughts are:
+                - 1) We need to clearly separate the INTERNAL how-to's and the EXTERNAL how-to's.
+                    - My thought is that the How To's as they are currently set out should be reserved for EXTERNAL. This should be clear on those pages (or in the page name itself) to avoid any confusion with the internal conventions. 
+                        - This is important because the scope of the externally facing documents is larger than the internal conventions — and contradictions will exist. 
+                        - Clarity = key here.
+                    - INTERNALLY, I think the learning center should stem off of the [[Welcome 😃]] page — though "Welcome" feels off, if it's a place for existing users to go as well... maybe we make a [[Learning Center]] that mirrors some of that structure, or at least serves as a directory for navigating the [[conventions]] in a logical order/sequence. #Bookmarks #[[February 2021]] #[[Week-05: 02-01-2021]]
+        - "[[@[[Brandon Toner]]]] I think you hit it on the head with the `#Projects` + `#Ideas`"
+            - In most cases I agree, but have decided to go with `#[[Project Ideas]]` for this one use-case. [[@[[Charles Farr]]]]
+                - "The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. "
+                - Flagged it as experimental. 
+        - Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[[E:]]`" [[@[[Charles Farr]]]]
+        - "[[~[[Brandon Toner]]]] This idea goes hand in hand with the idea of double diamond in engineering design and product development."
+            - [[[[E:]] double diamond model (design)]] — love it.
+        - "This is [one screenshot](((j0NJb8DOE))) when I’m trying to figure out what’s going on in a conversation."
+            - Oh wow hahahah [[@[[leekeifon]]]]
+            - Definitely need to use some block zooming to get better views on things to make use of screen space.
+                - Related but you're likely already using pretty thoroughly:
+                    - "#Tips the [[sidebar]] is important for navigating [[conversations]]"
+                    - "#Tips Using the back and forward browser shortcuts is important for navigating between pages."
+        - "Example:: Jamming about notes on [[Andy Matuschak]]"
+            - This example is REALLY clean to me: [[cc:[[leekeifon]]]]
+                1. Import Andy's notes as [[evergreen notes]] (with Andy as author).
+                2. Reference those notes in conversation among the group. 
+                3. Then andy's notes **become a part of the conversation.**
+                    - #[[Fleeting Notes]] notes within a zettelkasten become part of a conversation. 
+                        - At their best, the are representations of full arguments.
+                            - Their use allows the conversation to go further, faster. All while leaving a trail.
+        - [[zettelkasten]] variations [*](((ouhexdetE))) #Bookmarks
+            - #[[Fleeting Notes]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
+                - From [[Charles Farr]]:
+                    - "Single-player versus multiplayer"
+                    - "Output-oriented versus memorialization-driven"
+                    - "Level of detail required"
+                    - "Relation to other note types (literature, fleeting, permanent, seedlings, buddings, evergreens, etc, etc, etc)"
+                - In addition:
+                    - Level of [[rigour]] desired.
+                        - Reliance on [[references]] and [[citations]].
+                    - Choice of attributes to offer more [[granularity]] in characteristics:
+                        - reliability
+                        - maturity
+                        - completeness
+                        - connectivity
+                    - "Choice of attributes to offer more [[granularity]] in characteristics:"
+                        - #Q What are the [[characteristics]] [[dimensions]] of an [evergreen note]([[evergreen notes]]) that could be used for [[assessment]] [[scoring]]?
+                            - #Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?
+                                - {{[[TODO]]}} Import information on [[learning objectives]] and discuss with [[cc:[[Mark Robertson]]]] #[[Week-05: 02-01-2021]]
+                    - 
+        - [[@[[Charles Farr]]]] added some thoughts [here](((y6dCKOdEu)))
     - #Feedback  
         - #[[[[Feedback]]: What's working]]
             - Loving the "cc" convention as a "soft" notification. Really helps to reduce [[[[E:]] alert fatigue]] as well. 
@@ -199,7 +253,7 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
-        - [[@[[Brandon Toner]]]]"#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
+        - [[~[[Brandon Toner]]]]"#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[[everyone]]`  Could have a query under the announcement banner?
         - "Reflection on any of the [[How To]] pages [[Charles Farr]] has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[[How To]] Seed Your Graph]])"
@@ -209,7 +263,7 @@
             - Can  [guidance documents]([[[[How To]] Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?
                 "Interesting. Talk a  bit more about that... not sure I quite understand the idea yet."
                     - When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.
-        - "Hi [[~[[Peter Rosso]]]], welcome to the RC!"
+        - Hi [[~[[Peter Rosso]]]], welcome to the RC!
             - Thanks [[@[[Charles Farr]]]] loving how  conversations are continuously iterated and resurfaced in the setup we have for conversations.
             - Regarding "Reflection on any of the [[How To]] pages [[Charles Farr]] has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[[How To]] Seed Your Graph]])"
                  I was wondering if we should we have conventions on how we use nested squared brackets? `[[[[prefix-]][[main]][[-suffix]]]]` 
@@ -225,12 +279,12 @@
             - "Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
             - One thing I definitely I agree is that we need clear systems which would incentivize clear and unburdened thinking.  According to the book "the motivation myth" systems are the true way forward.
         - "https://twitter.com/brandontoner/status/1353493176296894464?s=21"
-            - [[@[[Brandon Toner]]]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
+            - [[~[[Brandon Toner]]]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FdlGzsQA9E5.png?alt=media&token=1f34e98d-e688-4e4c-8ad7-f6609bfc2547)
                 - I like to think that the first phase is the Zettlekasten phase, while the second phase is the output phase.
     - #Feedback  #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
         - [[datalog query]] testing
             - Reference
@@ -335,6 +389,51 @@
                             - #Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?
                                 - Could you even tie this CSS to an internal flag that turns on namespaces?
         - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
+        - [[@[[Peter Rosso]]]] — re: "[[@[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "
+            - Generally speaking, I believe that is what Sonke advocates for. However, I find that this can be a high bar. Instead, I work through stages of maturation in my own notes...
+                - [[The stages of [[maturation]] of [[zettelkasten]] notes]]
+                    - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
+                    - **Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions
+                    - **Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes.
+                    - These three note types are distinct, but trend towards higher level complexity...
+                    - [[maturity]] comes from the state of a given notes
+                        - Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)
+                        - Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely
+                        - Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them
+                            - In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity...
+                                - Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context
+                                - Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references
+                                    - Often through this process, I find that the big idea is refined
+                                - Evergreens — I have the big idea tacked down and all of the context and supporting references
+                                    - Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed
+                    - To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close).
+                        - One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  
+        - [[cc:[[Peter Rosso]]]] I couldn't agree more [here](((nHhKPP6DQ)))!
+        - [[@[[Brandon Toner]]]] — re: "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" + "Thoughts on this thread of thoughts? [[@[[Charles Farr]]]]"
+            - The idea of [[concept pages]] is an interesting one... Perhaps worthwhile for me to quickly map the space as I see it and then think about how they relate...
+                - I see:
+                    - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
+                        - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
+                    - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
+                        - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
+                    - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
+                        - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
+                            - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
+                                - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+                                - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
+                                    - "Often through this process, I find that the big idea is refined"
+                                - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
+                                    - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
+                    - **Definitions** — most closely related to your concept page for [[[[E:]] alert fatigue]]
+                    - **Collections** — a set of evergreens oriented around a higher level concept
+                        - When compared to alter fatigue, it might be "sustaining participation in shared endeavors," which requires mitigating [[[[E:]] alert fatigue]]
+                    - **Outlines** — a ordered set of evergreens to explicit support an argument
+                        - For example, I would envision starting with an outline when writing [[[[Why]] Build A Community Zettelkasten]]
+                - So, the big question for me is do we really need definitions and concept pages like what you have with [[[[E:]] alert fatigue]] right now?
+                    - I don't know! However, in my head, I would likely organize it like this:
+                        - An Evergreen — "E: Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
+                        - A Collection — "C: Information Overload" (or some other higher level concept that alert fatigue rolls up under)
+                    - I think my biggest qualm with a simply titled 
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
@@ -361,15 +460,61 @@
                 - Most useful when dealing with different points of view and different aspects of yourself
             - External Notification Hooks
                 - Hooks
-        - USER SETTINGS #datalog #query
-            - 
+        - CSS Playground
+            - [[Books/The Culture Code]]
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation 
         - [[~[[Brandon Toner]]]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - {{[[embed]]: ((((u8k4sDzcA))))}}
         - [[~[[Brandon Toner]]]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [[Quick Start Guide]] as a suggestion is the most democratic solution.
     - #[[Change Log]]
-        - [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
+        - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
         - [Added the RoamJS Query builder](((OIrYB9b3N)))
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+    - #[[Scratchpad]]
+        - #[[Q]] What’s the best practice for async communication? [[cc:[[Brandon Toner]]]]
+            - #[[Q]] One subproblem is, how new comer join the [[conversation]] smoothly.
+                - Observations::
+                    - We could get context easily within [[Roam]], but these context is almost **local context**.
+                    - With merely local context, it is hard for me to get what others are trying to achieve and contribute to the conversation. I feel [[divergent]] when finding the entry point to the [[conversation]].
+                    - This is [one screenshot](((j0NJb8DOE))) when I’m trying to figure out what’s going on in a conversation.
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FqvyB7oEU2U.png?alt=media&token=70132a84-98ba-4d84-bafd-017590b1ab67)
+                    - Even if when I was doing synchronous communication, [I feel lost too](((xWL23Wbc6))).
+                - claim::
+                    - #[[Fleeting Notes]] [[conversation]] designed for async communication should have clear [[goals]].
+            - [[Related]] [*](((-sjmnGf_D))) [*](((0eWl7ORS7))) [*](((pCqXnE-QK)))
+        - 
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+        - What potentially creates friction in individual vs. shared communication
+            - re: goals
+                - Disagreement on shared goals
+                    - Different assumptions on path towards goal
+                - Differences in personal goals
+            - re: context
+                - Asynchronicity
+                    - Different time commitment 
+                - Prioritization
+        - What needs to be different in knowledge management and creation, if it is collaborative?
+            - 
+        - In addition to writing prompts, Is it helpful to have some common questions?
+        - 
+    - #Questions ((about the graph, or directed towards someone))
+        - Should there be a page with norms on using the DNP template?
+            - I am personally confused as to when to use Questions vs. Conversation
+        - What if the conversation convention was that you added 
+    - #Conversation ((For nesting interactions with other members of the graph)) 
+        - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
+            - Could there be two types of fleeting notes? 
+                - One that is meant for the individual to write unimpeded, and to have a body of ideas to build off.  A fleeting note that is identical to what would exist in one's personal graph
+                - Then, there might be fleeting notes meant to seed collaboration.  It's ready enough to have someone else's eyes on them, but hasn't quite reached the level of being ready 
+                    - Maybe placing such fleeting notes within Conversation DNP (instead of under scratchpad) is enough of a convention
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info))
+        - "Open Questions:: More big picture, related to the domain we're trying to navigate"
+            - [[@[[Brandon Toner]]]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
+                - Should there be some norm around memorializing key decisions on conventions?
+                    - When I look at the change log for Questions, I find the decision but not the explanation
 - ---

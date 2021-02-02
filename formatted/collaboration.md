@@ -1,8 +1,5 @@
 
 # Backlinks
-## [E/Have a clear aim](<E/Have a clear aim.md>)
-- Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>) amongst a community of people. Allowing them to effectively [collaborate]([collaboration](<collaboration.md>))
-
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
 
@@ -29,4 +26,7 @@
 - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
+
+## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+- Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>) amongst a community of people. Allowing them to effectively [collaborate]([collaboration](<collaboration.md>))
 

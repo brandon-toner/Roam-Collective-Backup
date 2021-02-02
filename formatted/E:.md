@@ -7,6 +7,8 @@
 
 - Considering: Adopt `[E:](<E:.md>)`
 
+- Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[E:](<E:.md>)`
+
 - "Ability to filter a page by `[E:](<E:.md>)`
 
 - The other benefit is being able to query based on the combination of `[E:](<E:.md>)`
@@ -28,6 +30,8 @@
 - "Ability to filter a page by `[E:](<E:.md>)`
 
 - `[E:](<E:.md>)`
+
+- **[Decision](<Decision.md>):** "Option A - `[E:](<E:.md>)`
 
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
 - Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)`

@@ -38,7 +38,7 @@
                 - And other interest subjects...
             - The aim is that you could either FILTER IN or FILTER OUT topics to focus you experience with the graph.
         - [[Projects/Establish automated graph backups]]
-        - `#how-should-I-tag-this` (resolved) [[E/Start from abundance]]
+        - `#how-should-I-tag-this` (resolved) [[[[E:]] Start from abundance]]
             - This is [[David Perell]]'s articulation of this idea... 
             - If it were MY idea, It would be an [evergreen note]([[evergreen notes]]).
                 - `#[[Open Questions]]` How should I represent the ideas of others? (resolved)
@@ -108,7 +108,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
                 - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
                 - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
-                    - Related:: [[E/Start from abundance]]
+                    - Related:: [[[[E:]] Start from abundance]]
                 - #[[Next Steps]] 
                     - {{[[DONE]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  #Chat
@@ -130,7 +130,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                         - Maybe: reference the block containing the request and add a [[Status/Submitted]] tag once submitted. #Processes
                             - #Q How do I flag half-build processes for future elaboration and completion? — Maybe use `#Seedlings`? Or another similar convention...
             - #[[Fleeting Notes]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
-            - #[[Fleeting Notes]][[E/Start from abundance]]
+            - #[[Fleeting Notes]][[[[E:]] Start from abundance]]
             - #[[Fleeting Notes]] `#not-populated` tags can be used to filter out empty attributes #conventions
                 - This reduces the amount of noise on a page and improves the [[signal-to-noise ratio]]
             - #[[Fleeting Notes]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]]).
@@ -154,7 +154,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "#[[Fleeting Notes]] [[memory]] is very [[context]]-dependant."
             - #[[Fleeting Notes]] [[memory]] is very [[context]]-dependant.
             - #[[Fleeting Notes]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]
-                - [[E/Start from abundance]] — [[David Perell]]
+                - [[[[E:]] Start from abundance]] — [[David Perell]]
         - My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten
             - [[consume]] & [[engage]]: (read, watch, listen, converse, reflect)
             - As content resonates with me, I save them as [[reference notes]] (capturing [[context]] — [[bibliographical notes]], [[highlights]], and [[quotes]]) #capture
