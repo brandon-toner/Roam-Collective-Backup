@@ -29,6 +29,10 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):**
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [Ideas](<Ideas.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
+            - **[Example](<Example.md>):**
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**

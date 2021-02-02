@@ -30,6 +30,9 @@
         - [December 2021](<December 2021.md>)
 
 # Backlinks
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- Review how the [Date Planner](<Date Planner.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [x] Add [Date Planner](<Date Planner.md>)
 

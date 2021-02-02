@@ -5,6 +5,9 @@
 
 - [^[[Peter Rosso](<../^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<../~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- "[^[[Peter Rosso](<../^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<../~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
+
 ## [[Roam Book Club](<../[Roam Book Club.md>) III](<[Roam Book Club](<../Roam Book Club.md>) III.md>)
 - [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
 

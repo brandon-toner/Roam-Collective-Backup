@@ -1,17 +1,19 @@
 - {{embed: ((FRFW0hQu_))}}
 - ---
-- #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-    - Time for some [CONVERGENCE]([[convergence]]) — **Questions**
-        - **Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. 
-            - Questions that feel important, recurrent, or central or simply resonant should be turned into a [page-status questions]([[page-status questions]])
-            - Conventions [here](((xfdvIW54z)))
-            - Process [here](((5CxAQCSjk)))
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-    - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
-    - This is to indicate "**1000 upvotes**" from [[cc:[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
-- #Chat ((A place to propose objects of discussion)) #not_populated
-- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-- #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- #[[My Daily Notes]] [[Roam-Collective]] [*]([[rc]]) {{word-count}}
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - Time for some [CONVERGENCE]([[convergence]]) — **Questions**
+            - **Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. 
+                - Questions that feel important, recurrent, or central or simply resonant should be turned into a [page-status questions]([[page-status questions]])
+                - Conventions [here](((xfdvIW54z)))
+                - Process [here](((5CxAQCSjk)))
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+        - This is to indicate "**1000 upvotes**" from [[cc:[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
+    - #Chat ((A place to propose objects of discussion)) 
+        - Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]
+    - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
@@ -19,20 +21,51 @@
             1. Document [[fleeting questions]] using `#Q`
             2. Review periodically, collecting ones that [resonate]([[resonance]]) or feel important to the direction of [[research]] and [[development]].
             3. Of the questions collected, promote some to page-status — making them easier to track, and creating a space for elaboration on the page contents.
+        - #Ideas Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
+            - Example::
+                - Thoughts on [[[[E:]] active vs passive resurfacing]]
+                    - "Next Steps::"
+                        - #[[Project Ideas]] develop a guide to thinking about resurfacing in Roam.
+                        - Clarify methods of passive resurfacing
+                        - Review how the [[Date Planner]] drives [[active resurfacing]]
+            - [[~[[Charles Farr]]]] I'm thinking there should be an #I for Ideas (similar to Q for Questions)
+                - This would actually allow us to remove `#Status/Idea` from the [maturity tags for conventions](((Knpb2iKrH))), see [here](((60WxP1deq))) ((could query for I + Conventions))
+            - #I Perhaps a **Comments** attribute could be used to capture commentary on the note itself. [[cc:[[Charles Farr]]]] #Conventions
+        - Considering changing #Promptstorming to #[[Daily Activities]]. To make that a place to nest responses to prompts AND contributions to daily activities.
+            - Cons::
+                - [[disambiguation]] with #[[Daily Log]]
+                    - #Q What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. 
+        - #I Currently, the main DNP modules are at the root level in the MAIN SECTION. It might be best to nest these as done with the user sections. (Better for navigation and querying)
+            - Before:: 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FW_TzLVEdsX.png?alt=media&token=21899b08-5a6f-4de9-befb-1740c47986e0)
+            - After::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHHfw3GVn5m.png?alt=media&token=b5124fd4-046b-40ff-b5ab-c28651a6ac2c)
+        - #I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]
+            - Simple top line, with nested detail below.
+            - A topic-header to promote easy collaboration and browsing.
     - #GTD #not_populated
     - #[[Change Log]] 
         1. Added the [[page-status questions]] conventions and process. #Status/Experimental
         2. Personally emulated some of the queries used by [[cc:[[Charles Farr]]]]
             - Inclusion of initials in DNP Section heading to promote effective querying.
             - Adoption of some [good queries](((jTQwEButc))) to place on my personal page.
+        3. Added "Last Updated" and "Next Steps" as attributes to questions, evergreen notes, and creative projects templates. [*](((yURo5cs1L)))
+            - Rationale:: to assist in note development and maintenance.
+                - #Q For "next steps", how could this be contributed to by multiple users?
+        4. Added #I as a [block-level]([[block-level tags]]) ideas tag. (similar to "Q") #Conventions
+        5. Nested the main DNP Section at the top. [*](((7hC24BFpU)))
     - #Promptstorming #not_populated
+    - #Bookmarks
+        - Keifon on bot rushing to make [[evergreen notes]]
+            - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreen]] [[pages]], in [[collaboration]] context."
     - #[[The Zettelkasten]] 
         - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
     - #Conversation 
-        1. "[[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
-            - Ha! Agreed. This is a MUCH better visual experience. Well done, [[@[[Charles Farr]]]]
+        1. On "1000 upvotes"
+            - "[[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
+                - Ha! Agreed. This is a MUCH better visual experience. Well done, [[~[[Charles Farr]]]]
         2. On processing growing data in the graph.
-            - "[[@[[Brandon Toner]]]] how are you approaching this: "#Q How do we digest all of the information we're adding to the graph?""
+            - "[[^[[Brandon Toner]]]] how are you approaching this: "#Q How do we digest all of the information we're adding to the graph?""
                 - I've been thinking of my [[future self]] through the use of [[tagging]].
                     - 1) I use [this]([[[[E:]] Evergreen notes should be densely linked]]) idea as much as I can. 
                     - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
@@ -49,36 +82,29 @@
                                     - "How important is it that I come across this again?"
                                     - "Is it time-sensitive?"
                                 - "The questions I constantly ask myself (somewhat by second nature) is: "
-                                    - [[@[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
+                                    - [[~[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
                                         - Cons::
                                             - The linked references for `#Prompts` can serve as a place for people to suggest prompts to be added to the main library... adding more noise may decrease the value of the linked refs there?
                                                 - Could this be combatted by use of a second tag?
                                                     - Like `#Prompts` + `#Status/Idea` in this [example](((5XvGIEuES)))?
-    - #Feedback  #not_populated
+        3. Accidentally discovered the meaning of the phrase "[[research]] & [[development]]" (R&D) [here](((wALPyzpN9))) haha.
+            - Used that phrasing then realized: "Hey, that's R&D!" -- sign that "research" and "development" are great broad categories for tagging.
+        4. On prompt-like questions:
+            - "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithm of thought (AoT)]] to build using a template, in  which case I would just nest them under the tag for said AoT"
+                - Love this solution. An AoT tag is the answer here. Great work. [[cc:[[Charles Farr]]]]
+    - #Feedback #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - ((__GiaQWtl)
+        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #GTD
-        - Answer to [[^[[Peter Rosso]]]]
+        - Any fleeting note from conversations?
+        - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
-        - Following [[@[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
-            - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
-            - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
-            - When Brandon commented made about asynchronous editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are synchronous?!" 
-                - I think that synchronous and aligned activities in a multiplayer zettelkasten can lead to compound effects like standing waves created by signals.
-                - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
-                - When everyone is in sinch, the compound effect of alignment and synchronicity can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
-                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "contrarians". This can lead to confirmation bias, creation of echo chambers and in some extent cults and collectives 😂
-                    - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
-                        - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
-                - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
-                - 
-(If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
         - Add double diamond literature notes from thesis
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
@@ -88,10 +114,38 @@
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
         - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
             - [[@[[Larissa de Lima]]]] I am so curious now.
-    - #Feedback  #not_populated
+        - Following [[@[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
+            - The way we digest is individual through exploration, but collective or at least shared through conversation. 
+                - Semantically speaking Conversation seems more open than comments and brings everyone on the same level.
+            - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
+            - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
+            - When Brandon commented made about asynchronous editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are synchronous?!" 
+                - I think that synchronous and aligned activities in a multiplayer zettelkasten can lead to compound effects like standing waves created by signals.
+                - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
+                - When everyone is in sinch, the compound effect of alignment and synchronicity can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
+                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "contrarians". This can lead to confirmation bias, creation of echo chambers and in some extent cults and collectives 😂
+                    - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
+                        - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
+                - The up and down in the waveform below have some parallel with the [[[[E:]] double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnSb_C87Ivt.png?alt=media&token=09463f46-264a-4b4e-87b7-f57b8009a2e7)
+                    - The dots on the bottom of the image also represent the density of air created by the air displacement carrying the sound. 
+                        - If we imagine the molecules being output this new mental model matches the one I mentioned above as we narrow down we are allowed to move faster as we are carrying the momentum of the previous reflection period. This phase is characterized by a high-density output. 
+                        - If we imagine our molecules being ideas, and we imagine to have to travel through the medium... the corner of the diamond are the moments in which we have to slow down because of the resistance we find in the high density of idea we find around ourselves.  When we start finding a narrower direction and purpose we are able to start moving faster and produce more ideas. 
+                    - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
+                - 
+(If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
+            - "[[^[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "" [[^[[Charles Farr]]]] [[cc:[[Brandon Toner]]]] I have just gave this section a couple of passes. 
+I think I need to go through the whole process to make sure I internalise it.
+        - "Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?"
+            - [[~[[Charles Farr]]]] The excess of green shall act as a reminder. I don't see the rush.
+    - #Feedback 
+        - "Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))
+            - "Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp))."
     - #Bookmarks
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
         - #[[Follow Up]] "#[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]]."
+        - #[[Follow Up]] "#[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
+            - "#[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad 
@@ -141,13 +195,56 @@
         - On [[conversation]] conventions with LdeLima
             - [[@[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
+        - On CSS for external links
+            - [[@[[Peter Rosso]]]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
+                - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
+                    - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
+        - On labeling [[prompts]] disguised as [[questions]] with BToner → [[algorithm of thought (AoT)]] creation
+            - [[@[[Brandon Toner]]]] re: "[[~[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?"
+                - As far as tagging questions like these, I've just been adding the `#Q` tag — ultimately for most of the questions I've identified, I would like to return to them
+                - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithm of thought (AoT)]] to build using a template, in  which case I would just nest them under the tag for said AoT
+                    - #42SmartBlock .rc4AoT — Resurfacing for Future Me
+                        - [[[[AoT]] For My Future Self]]
+                            - How do I want to come across this again? (active vs. passive)
+                            - What do I need to do when I return here?
+                            - When do I need to resurface this?
+                                - {{[[TODO]]}}  Add buttons to SmartBlock for various timefames (1 day, 3 days, 7 days, 14 days, 28 days, Someday (3 months))
+        - On Daily Activities and automated population of [[prompts]]
+            - [[@[[Brandon Toner]]]] re: "Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]"
+                - Is daily activities a top-level DNP block or one that could be nested within MDNs (My Daily Notes)?
+                    - If under MDNs, would be great to programmatically inject prompts for  or activities for people to respond to — decreases the burden of needing to check to level
+                    - Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it...
         - Simply Replies
             - [[@[[Larissa de Lima]]]] re: "Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
                 - I'll shoot you a DM on Twitter!
+            - "#I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]"
+                - [[@[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^""
         - #[[Follow Up]] [[datalog]] "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table."
+        - #[[Follow Up]] "[[^[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources""
+    - #Meetings
+        - [[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] 
+            - On zettelkasten
+                - Fleeting
+                - Literature
+                - Permanent
+                - Community notes
+                    - What was the process here?
+                    - What is in it?
+                    - What level of collaboration is required?
+                    - How do you turn a thread of community collaboration into an output that is really a melding of the minds
+            - Memorialization "decreases the search cost"
+            - [[Brandon Toner]] has joined the chat!
+            - How do you control authorship?
+                - See: [[[[E:]] Evergreen notes should be concept-oriented]]
+            - Larissa
+                - Stronger foundations of shared experiences so people can work on that
+            - Brandon
+                - The last week has been very divergent — now lets take a couple of days to be convergent
+            - #[[Community Note]] Community Notes are an Extension of Evergreen Notes
+                - #[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on...
     - #[[Change Log]]
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
             - "External Links #Status/Enabled"
@@ -157,4 +254,8 @@
                 - {{[[TODO]]}} Standardize color scheme
                     - #Q Can Roam Collective develop a color scheme that better supports our key mission?
                         - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
-    - ---
+        - Added SmartBlock to handle resurfacing: "#42SmartBlock .rc4AoT — Resurfacing for Future Me"
+            - Not complete
+            - Idea is this programs some level of spaced repetition for a user
+                - Need to build some sort of aggregation query to find all overdue "resurfaced" blocks...
+- ---

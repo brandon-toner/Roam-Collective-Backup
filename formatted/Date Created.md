@@ -89,7 +89,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)

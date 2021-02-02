@@ -4,5 +4,5 @@
 - Within [passive resurfacing](<passive resurfacing.md>),
 
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- Examples of [passive resurfacing](<passive resurfacing.md>):
+- [passive resurfacing](<passive resurfacing.md>)
 

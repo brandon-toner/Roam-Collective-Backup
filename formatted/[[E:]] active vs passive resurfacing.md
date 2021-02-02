@@ -1,14 +1,24 @@
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)
     - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):** [February 2nd, 2021](<February 2nd, 2021.md>) 
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** 
-        - Examples of [active resurfacing](<active resurfacing.md>):
-            - Reminders
-            - Placing in the inbox of scheduled reviews
-            - Tagging someone in it
-        - Examples of [passive resurfacing](<passive resurfacing.md>):
-            - Stumbling upon it
-        - Passive resurfacing is best when [notes are densely linked]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]).
+        - [active resurfacing](<active resurfacing.md>) is a more [reliable](<reliable.md>) method of resurfacing. It involves the use of time-anchored events resurface blocks.
+            - Methods of active resurfacing:
+                - Reminders
+                - Use of time-based [rituals](<rituals.md>) (scheduled reviews)
+                - Tagging someone in it
+        - [passive resurfacing](<passive resurfacing.md>) relies on [serendipity](<serendipity.md>) or [context](<context.md>) to resurface blocks.
+            - Methods of passive resurfacing:
+                - Ensuring that [notes are densely linked]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]).
+                - Use of flags to sort content by relevance.
+                    - E.g. `[Bookmarks](<Bookmarks.md>)`
+                - Proper use of the [DNP Modules](<DNP Modules.md>).
+                    - Facilitates more effective querying.
+                - Use of context-based [rituals](<rituals.md>).
+    - **[Next Steps](<Next Steps.md>):**
+        - Reorganize content (feels choppy)
+        - Elaborate on the various methods of passive resurfacing

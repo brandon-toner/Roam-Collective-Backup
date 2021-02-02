@@ -90,3 +90,6 @@
 
 - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>))
 
+## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+- Proper use of the [DNP Modules](<DNP Modules.md>).
+

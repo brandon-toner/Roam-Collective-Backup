@@ -2,6 +2,8 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
+
 - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)

@@ -533,7 +533,7 @@
                     - **[Cons](<Cons.md>):**
                         - When dealing with meta concepts, can be a bit confusing (e.g., `[Evergreen Notes](<Evergreen Notes.md>)`)
         - On processing all of the graph
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?"
                 - In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing
                     - I think I need to get better about using either the bookmark or follow up tag...
             - [ ] Create weekly review mechanism to revisit critical ideas

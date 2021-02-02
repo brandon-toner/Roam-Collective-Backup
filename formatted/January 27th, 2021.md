@@ -112,7 +112,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - #[Next Steps](<Next Steps.md>) 
                     - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  [Chat](<Chat.md>)
-                    - [@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
+                    - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
         - #[Fleeting Notes](<Fleeting Notes.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
             - Block reference the FN into your Comments module, then nest comments underneath.

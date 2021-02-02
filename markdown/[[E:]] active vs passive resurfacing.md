@@ -1,14 +1,24 @@
-- Tags:: #[[Evergreen Notes]]
+- Tags:: #[[Evergreen Notes]] #resurfacing
     - Date Created:: [[January 29th, 2021]]
+    - Last Updated:: [[February 2nd, 2021]] 
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
-        - Examples of [[active resurfacing]]:
-            - Reminders
-            - Placing in the inbox of scheduled reviews
-            - Tagging someone in it
-        - Examples of [[passive resurfacing]]:
-            - Stumbling upon it
-        - Passive resurfacing is best when [notes are densely linked]([[[[E:]] Evergreen notes should be densely linked]]).
+        - [[active resurfacing]] is a more [[reliable]] method of resurfacing. It involves the use of time-anchored events resurface blocks.
+            - Methods of active resurfacing:
+                - Reminders
+                - Use of time-based [[rituals]] (scheduled reviews)
+                - Tagging someone in it
+        - [[passive resurfacing]] relies on [[serendipity]] or [[context]] to resurface blocks.
+            - Methods of passive resurfacing:
+                - Ensuring that [notes are densely linked]([[[[E:]] Evergreen notes should be densely linked]]).
+                - Use of flags to sort content by relevance.
+                    - E.g. `#Bookmarks`
+                - Proper use of the [[DNP Modules]].
+                    - Facilitates more effective querying.
+                - Use of context-based [[rituals]].
+    - Next Steps::
+        - Reorganize content (feels choppy)
+        - Elaborate on the various methods of passive resurfacing

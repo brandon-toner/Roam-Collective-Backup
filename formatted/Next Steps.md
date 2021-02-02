@@ -12,6 +12,10 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>)
 
+## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+- Use of context-based [rituals](<rituals.md>).
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [roam/css](<roam/css.md>)
 #[Next Steps](<Next Steps.md>)
 

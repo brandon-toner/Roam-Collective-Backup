@@ -177,7 +177,7 @@ Resolve by "[replace as text](<replace as text.md>)"
             - "22:11 — #[Bug Reports](<Bug Reports.md>) more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} 
     - #[Conversation](<Conversation.md>)
-        - "[@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)""
+        - "[^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)""
             - Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>) or would that happen at the [creative projects](<creative projects.md>) phase?
         - [~[[leekeifon](<~[[leekeifon.md>)]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
             - [~[[leekeifon](<~[[leekeifon.md>)]] Sounds like you're talking about [Personas](((-vJfNui_K))), have you taken a look at Persona styled tags to label those inner voices? [Antar](((bO-o1wmpp))) looks to be doing something similar

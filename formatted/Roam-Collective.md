@@ -20,6 +20,9 @@
 
 - On one hand, implementing a system internally for use within the [RC]([Roam-Collective](<Roam-Collective.md>))
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 
@@ -66,9 +69,6 @@
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
-
-## [RC](<RC.md>)
-- **[Redirect](<Redirect.md>):** [Roam-Collective](<Roam-Collective.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!

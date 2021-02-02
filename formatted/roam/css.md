@@ -1555,6 +1555,35 @@ span.rm-page-ref[data-tag="Evergreen"] {
   font-size: 12px;
   margin-right: -5px;
 }```
+                - #[Community Note](<../Community Note.md>)
+                    - Tag
+                        - ```css
+span.rm-page-ref[data-tag="Community Note"]:before {
+    content: '⛺ '
+}
+
+span.rm-page-ref[data-tag="Community Note"]:after {
+    content: ':'
+}
+
+span.rm-page-ref[data-tag="Community Note"] {
+ color: var(--note-tag-color) !important;
+ padding: 1px 1px !important;
+ font-weight: 700 !important;
+}```
+                    - In Block Reference
+                        - Example: "[Evergreen](<../Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
+                        - ```css
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
+  /*display: none;*/
+  font-size: .1px;
+  line-height: 1.5em;
+}
+
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Note"]:before{
+  font-size: 12px;
+  margin-right: -5px;
+}```
             3. `Areas Tags`
                 - `#[Administration](<../Administration.md>)
             4. `Data-type Tags`
@@ -1750,10 +1779,26 @@ span.rm-page-ref[data-tag="Recommendations"] {
 span.rm-page-ref[data-tag="Recommendations"]:before {
     content: '📍'
 }```
+                - `#[I](<../I.md>)
+                    - ```css
+span.rm-page-ref[data-tag="I"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="I"]:before {
+    content: '💡'
+}```
                 - `[Ideas](<../Ideas.md>)
                     - ```css
 span.rm-page-ref[data-tag="Ideas"] {
-    background: [9E9E9E](<../9E9E9E.md>);
+    background: [607D8B](<../607D8B.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;

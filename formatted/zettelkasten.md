@@ -72,6 +72,8 @@
 
 - E.g. use of [zettelkasten](<zettelkasten.md>)
 
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 
@@ -96,7 +98,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [zettelkasten](<zettelkasten.md>)
 
-- [@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>)
+- [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>)
 
@@ -111,7 +113,7 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Both could ALSO contribute to [creative projects](<creative projects.md>). Any notes within the [zettelkasten](<zettelkasten.md>)
 
-- "[@[[Charles Farr](<@[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>)
+- "[^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))

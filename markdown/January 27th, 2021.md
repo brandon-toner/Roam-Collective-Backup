@@ -112,7 +112,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - #[[Next Steps]] 
                     - {{[[DONE]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  #Chat
-                    - [[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
+                    - [[^[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
         - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
         - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
             - Block reference the FN into your Comments module, then nest comments underneath.

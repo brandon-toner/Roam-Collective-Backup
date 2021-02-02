@@ -56,6 +56,10 @@
 - Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)

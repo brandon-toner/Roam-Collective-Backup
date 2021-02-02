@@ -177,7 +177,7 @@ Resolve by "[[replace as text]]"
             - "22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress."
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} 
     - #[[Conversation]]
-        - "[[@[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
+        - "[[^[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
             - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
         - [[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
             - [[~[[leekeifon]]]] Sounds like you're talking about [Personas](((-vJfNui_K))), have you taken a look at Persona styled tags to label those inner voices? [Antar](((bO-o1wmpp))) looks to be doing something similar
