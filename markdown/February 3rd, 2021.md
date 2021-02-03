@@ -5,7 +5,8 @@
         - 
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
-    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #Chat ((A place to propose objects of discussion))
+        - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
     - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
@@ -20,5 +21,34 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation #not_populated
+    - #Feedback  #not_populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
+    - #[[Scratchpad]] 
+        - "#[[Fleeting Notes]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph."
+        - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
+        - "#GTD"
+        - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
+            - This is a common problem in research groups. We follow the double diamond structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
+        - "Motivation -> Principles -> Process Design -> Implementation -> Output"
+            - PPV?
+        - What is the parallel between the RC and the MIT provisional building mentioned in Deep work? 
+        - ">  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases."
+            - 1 + 1 =3 comment in children of time
+            - problem created by math mentioned in Humble Pi
+        - #[[Follow Up]] "#[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]]."
+        - #[[Follow Up]] "#[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
+            - "#[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
+            - how do I use `#Reply` and `#Reply-from`
+    - #GTD #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation 
+        - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
+            - "> Changes the color and fonts of the different menus
+
+**Notice**
+We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
     - #Feedback  #not_populated
 - ---

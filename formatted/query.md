@@ -133,6 +133,10 @@
 
 - {{[query](<query.md>): {and: [@[[Peter Rosso](<@[[Peter Rosso.md>)]] {not: [query](<query.md>)]
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]
+
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>), [query](<query.md>)
 

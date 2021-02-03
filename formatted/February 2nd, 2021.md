@@ -143,7 +143,7 @@
             - 
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([bnt](<bnt.md>))
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
     - #[Scratchpad](<Scratchpad.md>) 
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
             - That's why lot of research processes start with taxonomies.
@@ -151,7 +151,6 @@
         - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - [GTD](<GTD.md>)
-        - Any fleeting note from conversations?
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Add double diamond literature notes from thesis
@@ -194,9 +193,6 @@ I think I need to go through the whole process to make sure I internalise it.
             - "Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp))."
     - [Bookmarks](<Bookmarks.md>)
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
-        - #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>) Explore [Wikipedia](<Wikipedia.md>)'s [conventions](<conventions.md>) as inspiration for components to emulate for [RC](<RC.md>)."
-        - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
-            - "#[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) 
@@ -454,7 +450,7 @@ I think I need to go through the whole process to make sure I internalise it.
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  "
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
         - On CSS for external links
-            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
+            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
                 - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                     - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
         - On labeling [prompts](<prompts.md>) disguised as [questions](<questions.md>) with BToner → [algorithm of thought (AoT)](<algorithm of thought (AoT).md>) creation
@@ -535,10 +531,25 @@ I think I need to go through the whole process to make sure I internalise it.
         - "going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together."
             - I’m in [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]]
             - Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
+    - #[Scratchpad](<Scratchpad.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+            - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
+            - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+        - #[Ideas](<Ideas.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        - #[Fleeting Notes](<Fleeting Notes.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
+            - **[Related](<Related.md>):** "How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
+        - #[Fleeting Notes](<Fleeting Notes.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
+        - #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
     - #[Bookmarks](<Bookmarks.md>)
+        - {{[embed](<embed.md>): ((LvaOGTqWW))}}
+        - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
         - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
         - "#[Community Note](<Community Note.md>) Community Notes are an Extension of Evergreen Notes"
         - "#[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on..."
+        - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
+        - {{[embed](<embed.md>): ((HmjblrRLi))}}
+    - #[Feedback](<Feedback.md>)
+        - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)

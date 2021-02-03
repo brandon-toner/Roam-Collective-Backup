@@ -12,5 +12,6 @@
         - Interests::
             - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - Queries::
-            - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}}}
+            - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}  }}
+            - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
         - SmartBlocks::

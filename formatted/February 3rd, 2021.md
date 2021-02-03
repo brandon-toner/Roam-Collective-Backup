@@ -5,7 +5,8 @@
         - 
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion))
+        - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
     - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
@@ -20,5 +21,34 @@
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
+    - #[Scratchpad](<Scratchpad.md>) 
+        - "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph."
+        - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
+        - "[GTD](<GTD.md>)"
+        - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
+            - This is a common problem in research groups. We follow the double diamond structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
+        - "Motivation -> Principles -> Process Design -> Implementation -> Output"
+            - PPV?
+        - What is the parallel between the RC and the MIT provisional building mentioned in Deep work? 
+        - ">  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases."
+            - 1 + 1 =3 comment in children of time
+            - problem created by math mentioned in Humble Pi
+        - #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>) Explore [Wikipedia](<Wikipedia.md>)'s [conventions](<conventions.md>) as inspiration for components to emulate for [RC](<RC.md>)."
+        - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
+            - "#[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
+            - how do I use `[Reply](<Reply.md>)` and `[Reply-from](<Reply-from.md>)`
+    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
+            - "> Changes the color and fonts of the different menus
+
+**Notice**
+We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---

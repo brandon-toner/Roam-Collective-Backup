@@ -9,3 +9,8 @@
 
 - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>)
 
+- "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>)
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>)
+

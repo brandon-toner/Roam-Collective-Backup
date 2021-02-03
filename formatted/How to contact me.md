@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>) -5:00)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - **[Work](<Work.md>):** [lecturer](<lecturer.md>) 
         - **[How to contact me](<How to contact me.md>):**

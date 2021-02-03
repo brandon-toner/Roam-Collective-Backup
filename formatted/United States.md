@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Location](<Location.md>):** [Royal Oak](<Royal Oak.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - **[Location](<Location.md>):** [Manhattan](<Manhattan.md>), [New York City](<New York City.md>), [New York](<New York.md>), [United States](<United States.md>)
 

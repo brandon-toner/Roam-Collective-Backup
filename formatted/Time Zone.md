@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Location](<Location.md>):** [Royal Oak](<Royal Oak.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
         - **[Time Zone](<Time Zone.md>):**

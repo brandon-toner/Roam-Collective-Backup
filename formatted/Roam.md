@@ -6,6 +6,9 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - We could get context easily within [Roam](<Roam.md>),
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>)
 

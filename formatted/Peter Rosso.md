@@ -12,7 +12,8 @@
         - **[Interests](<Interests.md>):**
             - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - **[Queries](<Queries.md>):**
-            - {{[query](<query.md>): {and: [@[[Peter Rosso](<@[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
+            - {{[query](<query.md>): {and: [@[[Peter Rosso](<@[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
+            - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 # Backlinks
@@ -23,6 +24,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)

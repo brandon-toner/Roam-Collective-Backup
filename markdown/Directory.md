@@ -1,4 +1,5 @@
 - Members::
+    - [[Adam Bartley]]
     - [[Akiff Premjee]]
     - [[Alysson M. Costa]]
     - [[Andy Henson]]

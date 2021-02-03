@@ -1,0 +1,9 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@bartadamley](https://twitter.com/bartadamley) 
+        - Website:: [bartadamley.com](https://www.bartadamley.com/) 
+        - Location:: [[Royal Oak]], [[Michigan]] [[United States]]
+        - Time Zone:: [[Central Time]] ([[UTC]] -5:00)
+        - How to contact me::
+            - DM on Twitter.
+            - DM on Slack

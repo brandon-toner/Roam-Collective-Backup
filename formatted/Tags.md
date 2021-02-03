@@ -6,6 +6,9 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - **[Tags](<Tags.md>):**
 
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Agenda](<Agenda.md>)
 - **[Tags](<Tags.md>):**
 

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>)
 

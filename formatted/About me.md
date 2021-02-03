@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**

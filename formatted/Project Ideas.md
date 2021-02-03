@@ -20,6 +20,7 @@
 
 - "#[Project Ideas](<Project Ideas.md>)
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)

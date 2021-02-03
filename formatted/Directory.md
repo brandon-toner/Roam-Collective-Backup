@@ -1,4 +1,5 @@
 - **[Members](<Members.md>):**
+    - [Adam Bartley](<Adam Bartley.md>)
     - [Akiff Premjee](<Akiff Premjee.md>)
     - [Alysson M. Costa](<Alysson M. Costa.md>)
     - [Andy Henson](<Andy Henson.md>)

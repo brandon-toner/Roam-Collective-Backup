@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Adam Bartley](<Adam Bartley.md>)
+- **[Twitter](<Twitter.md>):** [@bartadamley](https://twitter.com/bartadamley) 
+        - **[Website](<Website.md>):**
+
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - **[Twitter](<Twitter.md>):** [@alycosta](https://www.twitter.com/alycosta) 
         - **[Website](<Website.md>):**

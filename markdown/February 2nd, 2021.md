@@ -143,7 +143,7 @@
             - 
     - #Feedback #not_populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[bnt]])
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
     - #[[Scratchpad]] 
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
             - That's why lot of research processes start with taxonomies.
@@ -151,7 +151,6 @@
         - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #GTD
-        - Any fleeting note from conversations?
         - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
         - Add double diamond literature notes from thesis
@@ -194,9 +193,6 @@ I think I need to go through the whole process to make sure I internalise it.
             - "Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp))."
     - #Bookmarks
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
-        - #[[Follow Up]] "#[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]]."
-        - #[[Follow Up]] "#[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
-            - "#[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad 
@@ -454,7 +450,7 @@ I think I need to go through the whole process to make sure I internalise it.
             - [[~[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
         - On CSS for external links
-            - [[@[[Peter Rosso]]]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
+            - [[^[[Peter Rosso]]]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
                 - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                     - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
         - On labeling [[prompts]] disguised as [[questions]] with BToner → [[algorithm of thought (AoT)]] creation
@@ -535,10 +531,25 @@ I think I need to go through the whole process to make sure I internalise it.
         - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."
             - I’m in [[@[[Dhrumil Shah]]]]
             - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[cc:[[Brandon Toner]]]]
+    - #[[Scratchpad]]
+        - #[[Fleeting Notes]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
+            - Related:: [[[[E:]] Evergreen note titles are like APIs]]
+            - Related:: "#[[Fleeting Notes]] block-embed [[model]]"
+        - #[[Ideas]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
+        - #[[Fleeting Notes]] Define composable local [[structure]] will enable predictable global [[structure]].
+            - Related:: "How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
+        - #[[Fleeting Notes]] [[procedures]] are of loose couple [[structure]] between each step.
+        - #[[Fleeting Notes]] "#[[Fleeting Notes]] block-level [[model]]" is of tight couple [[structure]].
     - #[[Bookmarks]]
+        - {{[[embed]]: ((LvaOGTqWW))}}
+        - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
         - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
         - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
         - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
+        - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
+        - {{[[embed]]: ((HmjblrRLi))}}
+    - #[[Feedback]]
+        - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[[My Daily Notes]] [[Maggie Delano]] {{word-count}}
     - #[[Scratchpad]] #not_populated

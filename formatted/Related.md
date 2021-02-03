@@ -45,6 +45,16 @@
 
 - [Related](<Related.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+            - **[Related](<Related.md>):**
+
+- **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
+            - **[Related](<Related.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
+            - **[Related](<Related.md>):**
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
