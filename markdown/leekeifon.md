@@ -7,6 +7,7 @@
         - How to contact me:: Twitter/Roam Slack
         - Interests:: Math/Logic/Design/Program
 - Queries::
+    - {{[[query]]: {and: [[Fleeting Notes]] [[leekeifon]]}}}
     - {{[[query]]: {and: [[leekeifon]] [[Bookmarks]]}}}
     - {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
     - {{[[query]]: {and: [[@[[leekeifon]]]]}}}

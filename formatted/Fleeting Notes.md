@@ -407,6 +407,9 @@
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [leekeifon](<leekeifon.md>)
+- {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[Fleeting Notes](<Fleeting Notes.md>)
 

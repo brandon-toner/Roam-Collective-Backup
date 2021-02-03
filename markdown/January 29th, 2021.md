@@ -273,7 +273,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
         - #[[Graph Mentorship]]
             - "#[[Fleeting Notes]] public vs private "
                 - While making a [fleeting note]([[fleeting notes]]), it try to make sure that the note is self-sufficient in communicating its meaning. 
-                - In this example I might elaborate the note content a bit to make the idea more clear — and may nest some supportive information underneath. [[@[[leekeifon]]]]
+                - In this example I might elaborate the note content a bit to make the idea more clear — and may nest some supportive information underneath. [[~[[leekeifon]]]]
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
         - The UI design [example](((lRBaD3yYL))) from [[Mark Robertson]] really show us the limitless possibility that what [[Roam]] UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [[Roam]].
@@ -287,7 +287,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
             - **Private communication**, should be easy to create and easy to delete.
                 - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [[Roam]] team. For us, in order to create such a space, we may insert some encoded content into [[Roam]] block which is hard to become a auto-complete candidates and then decoded it via the chatting plugin.
             - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
-        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [[i.e.]] with a `#publish` tag or some more meta-data.
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [[e.g.]] with a `#publish` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - Related:: "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[Fleeting Notes]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Related:: {{[[embed]]: ((((kFPq1Gc9U))))}}

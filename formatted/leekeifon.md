@@ -7,6 +7,7 @@
         - **[How to contact me](<How to contact me.md>):** Twitter/Roam Slack
         - **[Interests](<Interests.md>):** Math/Logic/Design/Program
 - **[Queries](<Queries.md>):**
+    - {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) [leekeifon](<leekeifon.md>)}}}
     - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>) [Bookmarks](<Bookmarks.md>)}}}
     - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
     - {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
@@ -45,6 +46,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [leekeifon](<leekeifon.md>)
+- {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) [leekeifon](<leekeifon.md>)}
+
 - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>)
 
 - {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}

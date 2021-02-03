@@ -16,6 +16,15 @@
             - The [[[Roam Book Club](<[[Roam Book Club.md>) III]] graph looks AMAZING! [Examples](<Examples.md>)
                 - A great display of [constraints](<constraints.md>) in actions to create a focused experience. Beautiful. [focus](<focus.md>)
                 - **[URL](<URL.md>):** https://roamresearch.com/#/app/RBC3-How-To-Take-Smart-Notes
+        - Would love a refresh on the CSS page. Imagining something like:
+            - Table of Contents or Shortcuts to jump to frequently used parts.
+            - Color directory (setup by [Charles Farr](<Charles Farr.md>))
+            - Tag styling
+            - Bulk of CSS
+                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                    - Is there a standard way to lay it out so that it is more modular and navigable?
+        - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
+            - **[URL](<URL.md>):** https://twitter.com/cortexfutura/status/1357017794802556928?s=21
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
@@ -51,4 +60,312 @@
 **Notice**
 We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Dhrumil Shah](<Dhrumil Shah.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - I did a ton of stuff last evening and I'd like to get some feedback on it, or maybe someone can run with it and do some iterations or something. 
+        - https://roamresearch.com#/app/roamfellow-carbon/page/laT8qL8I8
+        - I'll paste over the stuff here but its kinda tough as my stuff is using a lot of block reffing
+        - ---
+        - __Messy Playground__
+            - [x] tweets from [Conor](<Conor.md>) about the challenge
+                - issues with help component 
+                    - How do I see which version of Roam I am on
+                    - Also seems you can't find the link to help db, or help videos either
+                - 1. Design/UX of a in-app tutorial and onboarding component
+-- could be Figma files, A roam graph with css hackery, whatever
+                - 2. Editorial -- Videos, Examples, Text, Images that should go in there.
+                - To that end, we will be judging not just on the work you put forward - but how the [Intermediate Deliverables](<Intermediate Deliverables.md>) you share along the way inspire others -- how you help to grow the commons, and inspire others in the roamcult faithful.. what others build on your foundation....
+                - So - if you are entering into this challenge - then - along with your submission - we encourage you to cite (via quote tweet, or link out) the people whose work inspired you or you built on.
+
+If you win, everyone you cited, and everyone who cited you, will share in your reward.
+                - I get the idea of being specific so people get a sense of direction, yet participating with other projects we come up with is allowed? -> free play mode. 
+                    - answered by conor: yeah exactly 
+                - What are the most common problems (or questions) that people face when they start using Roam?
+                - ![Image](https://pbs.twimg.com/media/EtMuSIQXcAAreDI?format=jpg&name=large)
+                    - Making it better is the new compressed [[RoamGames](<RoamGames.md>)](https://twitter.com/hashtag/RoamGames?src=hashtag_click) Challenge.
+
+Kinda think you and all the folks you included in your tutorial component should be entered by default
+                - One of the big goals of the games is to get designers jamming the same way the coders are
+                - Roam42 does two things
+
+First 
+@roamhacker
+ curated their favorite videos into a floating component you can access with a keyboard shortcut -- so you don't have to leave Roam to learn how to use Roam.
+                    - i like the idea of having like a fast search of features and xparser compoenents and whatnot. maybe even the roam depot eventually.
+                        - you can expand it to get an iframe of an external roam page which is just like a playground where shit doesnt get saved (or maybe this is in your own roam?) and you can just play around with the thing
+                        - hopefully even use the search path component to then pull it into your current graph
+                        -  curated their favorite videos into a floating component you can access with a keyboard shortcut -- so you don't have to leave Roam to learn how to use Roam. [*](((8Lg8CmObv)))
+                        - toggle to add things to slash command menu menu?
+                        - ^^what if in docs, each feature comes with the slider thing so you can view how diffferent people describe taht same feature or use it in different ways? when you add it your thing to the slider, other people in your graph can see it? so the graph lead explains how to use each feature to the rest of the members?^^ hence its not FULLY playground like i previously predicted
+                            - same thing applies in search? what if when you do collaborative search in a team, people can playground up the thing they're reading and save it as that so the other people in the team see that? nah, just use forked pages
+                            - problems are:
+                                - if this page is in help db for example, then your changes (even added versions) won't actually save to it
+                                - if this is a page in your graph, then like how will roam write to it and update it over time without accessing your graph? ^^@hoshuaang's feed thing would work IF you could add versions from your graph that were only visible in your graph or something. so it's one-way stream where you can read the incoming stuff and you can play around with as a playground but it wont save state. to save your playground, create a version for that block and the versions are only visible in your graph.^^
+                - Second - they built a searchable list of all the commands - with some descriptions about how to use them -- also available via dropdown or keyboard shortcut.
+
+
+                    - this is what the current thing is i think
+                - We're giving 10k to folks who give us suggestions we use to improve our in-app tutorials.
+
+Design, Copy, Examples, Workflows, UX, Curation of great stuff that's in the community already - whatever.
+
+We hope to call out chains of influence - so awards go to all linked ideas.
+            - [x] checking out all public twitter stuff for roam games hastag since yesterday
+                - @zsviczian's stuff - for last challenge
+                - @anirudhbadri stuff - long thread so that's nice. to be honest, not really on the same page with the wizard stuff, but maybe there's a version of this that contributes to what [Feels Right](<Feels Right.md>)
+                    - Idea: Have an 'Onboarding Wizard' that asks users some basic questions, uses the responses to set up plugins and recommend tutorials APPROPRIATELY
+                    - I'll get to how, but first why this approach? 
+We have a[DesignProblem: There are so many awesome tools, plugins and tutorials. We want to avoid overwhelming new users with them
+Also, we don't want to generate content, we want to maximally leverage RoamCult  content
+                    - Each user has their own use case for Roam, and the toolkit that would give them 80% of their use case also varies. For example, a journaler needs advanced date manipulation, a designer NEEDS customisable CSS and fancy themes etc. The onboarding goal is to map users to resources!
+                    - Put differently, the goal of the wizard is to find the minimum feature-set to give EACH user such that they see the magic and are all-set for at least 80% of their use case?
+                    - So what questions do we need to ask?
+1) Familiarity with networked thought tools (using other note taking tools doesnt help much UNLESS they want to use Roam to take notes)
+2) Coding background
+3)What their use case for [@RoamResearch](https://twitter.com/RoamResearch)
+The Wizard would ask relevant follow ups
+                    - Note that Wizard here is an abstraction above the particular implementation. The UI can be a chatbot, a questionnaire or even 'AI' that deduces use case from letting the user play in a sandbox
+                        - seems somewhat related to the [GPT-3](<GPT-3.md>) stuff [Taylor Rogalski](<Taylor Rogalski.md>) talked about before
+                    - So what would it do? Well, initially we'd have some static subsets of users. [https://twitter.com/tracyplaces/status/1356670295168454656?s=19…](https://twitter.com/tracyplaces/status/1356670295168454656?s=19)
+The learnings from the approach here can be distilled into 'feature sets', the plugins that most of the users in the subset NEED, and 'tutorial sets' which the Wizard would serve
+                    - The intention is to divorce content creation AND curation from the onboarding 'process', so that this can remain untouched even during massive overhauls of implementation. Also incentivises the best content makers for each niche to focus on helping their audience
+                    - [@roamhacker](https://twitter.com/roamhacker)'s Help bar is an excellent model to think of how the Wizard can help on an ongoing basis. Imagine just filtering the community content based on what others working on the same use case have reported as useful. 
+
+Also, switching to a different use case is just a Toggle
+                    - And if the new user wants a personal onboarding experience, like so: https://twitter.com/codexeditor/status/1356601657807704065?s=19
+
+The wizard can point them to 'use case' related experts who would offer (paid) half an hour sessions to get the user set up.  We want to build a Knowledge Economy as well, don't we?
+                - [@tracyplaces](https://twitter.com/tracyplaces) - not feeling the use cases part. But hmm, tangential thought --- what if you can like connect your twitter or something to your roam. then people can search for twitter people they like that have roam, and send request to check out there roam? idk, but some shit along the lines of... how tf does team roam actually use roam would be interesting. idk if this can be pulled off in any way thats not like hella annoying for the graph owners tho. OnlyGraphs lol. [Robert Haisfield](<Robert Haisfield.md>) hosts these roam tour videos which are great, i've emulated a lot of my process using Beau Haan and [Joel Chan](<Joel Chan.md>). What if Roam Depot was less like home depot and more like some medieval-aesthetic public market with a lot of color and movement? People could go on there and yell for what they want (like which usecase) and others could comment underneath how to go about it by linking to existing people implementing that.
+                    - > Fundamental question for beginners: Where do you want Roam to take you?
+
+Select from a roadmap of use cases, users, and uber-niche groups who can serve as guides to existing content. 
+
+Conversations then help us develop new onboarding content based on common questions.
+                - [@z9sx7wox](https://twitter.com/z9sx7wox) - there's a ton of focus on onboarding centering around use cases, even in those threads above^. To be honest, I'm not on the same page here, it feels like a cop-out.
+                    - So a simple way of handling this is having us figure out what these use cases are that invite someone to fold in [@RoamResearch](https://twitter.com/RoamResearch)  into their life.
+
+What are they?
+                    - From there you can do a bunch of things 1) a simple button at the top of the screen that is a (?) - a help icon. - that shows up if (someone's graph has) < (# pages ) OR (# blocks) - this shows you it's a "fresh" graph
+                    - this button can be what triggers the onboarding - start it off with a high contrast color in the ecosystem
+                    - the onboarding can be a choose your own adventure type of thing - the adventures you can choose from are use cases that the Roam team (and [[roamcult](<roamcult.md>)](https://twitter.com/hashtag/roamcult?src=hashtag_click)) have identified.
+
+Below are some of these use cases + good tutorials 4 them (I invite you to post links that you've found useful)
+                - [@houshuang](https://twitter.com/houshuang) cross-graph conversation engine and feeds. those are cool. fits with the pattern of not having to leave your roam to learn how to use roam - his change log example in particular.
+                - I totally need to speak to [Robert Haisfield](<Robert Haisfield.md>) soon... conversing with him was one of the best things i did during my fellowship cycle. he totally needs to get paid from these games considering how much he contributes to the commons.
+                - [@houshuang](https://twitter.com/houshuang)  suggested [[[Prior Work](<[[Prior Work.md>): RemNote]].. gonna check it out -- i like the way these tutorials are done actually... maybe useful to do them for the CORE features.
+                    - [Gtoolkit](<Gtoolkit.md>) is somewhat similar to [[[Prior Work](<[[Prior Work.md>): RemNote]] in terms of onboarding 
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FElvEjGDHGx.png?alt=media&token=8a38f1a5-e8ef-45b9-97b0-4f279b2714c5)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FfeCbpwVLnu.png?alt=media&token=46c89680-ffcd-4c05-b673-dfab01f2a14d)
+            - [x] going to search twitter and some personal websites for stuff on onboarding
+                - hackernews - cant see anything good
+                - some designers on twitter who have related stuff
+                    - [x] Obviously [Robert Haisfield](<Robert Haisfield.md>)  lol, probably the go-to person for this
+                        - He gives a very great overview of the actual core problems in onboarding. stuff like continuous onboarding, user goals change as their skills do, how do you help them imagine goals they dont even know yet (this is especially true with roam), etc. These questions would honestly take a couple of months to make progress on. Outside of the scope of this project due to time limits. but i'll point in future research suggestions as this is legit.
+                        - > being aware of the features generally means you’ll be aware of when you should learn it to accomplish a new goal.
+
+Due to principles of Difficulty Matching, we know that if we ask a user to learn something too advanced early in, they will likely get frustrated and give up. This is a common problem with Notion and Roam users: they see people using the applications in advanced ways near the beginning of their experience and they think that they have to implement everything right from the start.
+
+These users would have far better outcomes if they simply operated at or slightly above their skill level to accomplish their current goals, but were aware of what could help them accomplish their future goals so they know what they can learn when those goals arise.
+                            - honestly, this greatly supports the sparkle you see as you go through public roams and unseen features.
+                        - > In order to successfully onboard a horizontal product, we need to increase their skill over time to keep up with their changing goals.
+                        - > progressively reveals information as the user develops so they are always becoming more effective users. Even through behavioral tracking, it can be challenging for the app to recognize exactly what the user wants to learn at any given point. This means that there has to be a solid framework for exploratory search, where the user can find what they are looking for on their own or with the help of other users.
+                        - > People are often going to fail when they attempt to achieve their goals. How do we [Intentionally design for failure states](https://robhaisfield.com/notes/Intentionally-design-for-failure-states) so people try again instead of giving up? How do we increase the likelihood that they are successful when they try again?
+                            - this is when something like the "@anirudhbadri stuff - long thread so that's nice. to be honest, not really on the same page with the wizard stuff, but maybe there's a version of this that contributes to what [Feels Right](<Feels Right.md>)" could be useful to be honest
+                                - > In order to have a successful onboarding experience, you don’t need to learn every feature. [The user should learn enough of the app’s functionality to accomplish a goal](https://robhaisfield.com/notes/The-user-should-learn-enough-of-the-app-s-functionality-to-accomplish-a-goal). However, it’s still helpful to be aware of what features you have available to you so you can recognize the situations where you’ll need to learn it. [Help the user to recognize situations for functionality usage](https://robhaisfield.com/notes/Help-the-user-to-recognize-situations-for-functionality-usage).
+                        - from his public roam https://roamresearch.com#/app/Rob-Haisfield-Thinking-in-Public/page/GPiXkEoEZ
+                            - > - ^^The app can only be so intelligent in recognizing when a user could learn something new.^^
+    - The app can react to certain behavioral signals coming from the user:
+        - user behavior could signal that the user is trying to do something in an inefficient way
+        - user behavior could signal that the user has progressed to a skill level that's necessary to learn a more advanced technique
+    - ^^The app can react to declared preferences and clearly expressed **user goals.**^^
+        - The user could do a search for information. This requires the user to at least have at least a fuzzy idea of what they are looking for.
+        - The user can describe to the app in some way what their goals are. This can come from "Questions during the onboarding".
+                            - > People are able to facilitate continuous onboarding because they are far more dynamic and responsive than a machine, which is necessary given that that there are a plethora of goals that need to be accounted for.
+                                - another case for "@anirudhbadri stuff - long thread so that's nice. to be honest, not really on the same page with the wizard stuff, but maybe there's a version of this that contributes to what [Feels Right](<Feels Right.md>)"
+                            - maybe community created templates are a bigger part of the help component?
+                    - [x] [Azlen Elza](<Azlen Elza.md>)
+                        - video game loading screens
+                        - ((x21mSoDZz))
+                    - [x] [Joel Chan](<Joel Chan.md>)
+                        - > Spot on. This is where 
+@AdamMarblestone
+ and I have the exact same vision: we need to *integrate* into existing infrastructure and practices (including incentive systems).
+
+Currently experimenting with integrations into journal clubs and new student onboarding.
+                            - what if you just like upload a PDF and start taking highlights, like the extension, and see the links+buttons in the highlights that show up
+                                - it's like you're starting to use roam because you want a great pdf experience, and that serves as an entry point into like eventually learning the entire thing
+                    - [x] [Rasmus Andersson](<Rasmus Andersson.md>)
+                        - https://twitter.com/rsms/status/1216433205873541121
+                        - [[[Article](<[[Article.md>): User onboarding lessons from The Legend of Zelda: Breath of the Wild]]
+                            - [>](<>.md>) Digital products are all about getting to the destination. As long as the destination proves valuable, users are more than willing to forgive a terrible journey. But this isn’t so for games, as **games deliver the value through the journey, rather than the destination.** In other words, the best of the endings won’t save a game with a mediocre playing experience.
+                                - true for roam too
+                            - [>](<>.md>) It’s ok to teach users, as long as they don’t notice. The trick is to make the process feel more like a discovery and less like work. As a rule of thumb, you should try to avoid holding the user’s hand, but if you have to hold it, try to hide it from them.
+                            - [>](<>.md>) Alright, we are still stuck in the room so let’s get out of here. Notice how focused the UI is, displaying nothing but a couple of basic controls. There are no interrupting dialogs telling users how to do things, just the minimum amount of information needed to get to the next step.
+                                - ![Image for post](https://miro.medium.com/max/2765/1*5yc6RxUa_okTULEMM55sfQ.png)
+                            - [>](<>.md>) By reducing the number of actions available, players can focus on learning the relevant ones first, allowing them to master those actions before progressing to new ones. After all, it would be nearly impossible for anyone to master all 20 control available in such a short time. This is known as progressive disclosure and it serves a two-fold purpose.
+                                - > One, it increases learnability by minimizing how much information users must keep in working memory. And two, it reduces the number of mistakes made while trying to use unfamiliar controls.
+                                    - **what if during this,  it's emphasized delta-ing features you learn**
+                                - > As we approach the pedestal, a hint message appears, providing help as soon as we can use it, not before. This is better than showing tutorials before users decide to take action, as it avoids unwanted interruptions.
+                                    - **what if the first time you use call a feature form /-command menu, you get the sparkle?**
+                                        - also just show the entire thing connecting /-command to roam depot
+                            - [>](<>.md>) When everything is new and unfamiliar, users feel uncomfortable. It’s a natural response. To help users navigate the unknown, you must help them feel safe. Nintendo knows this, that’s why they have players start the game inside a cave.
+Why a cave? Because it’s a familiar metaphor. Users know what to expect: if we are inside, we must go out. It’s also easy to navigate and has none of the distractions of the infinite outdoors. Moreover, the cave’s boundaries reassure users that enemies won’t sneak up on them. When combined, all these contribute to help players feel safe.
+A way for you to provide a safe place for users is to onboard them with a demo or tutorial document. The trick is to make it feel disposable. This encourages users to experiment. After all, who cares if you break a demo document?
+                                - yeah so make the help thing a playground where you can test stuff around and not mess up the actual graphs. use same principle in the modals that show up (which could just be the help screen actually) when you click sparkle
+                            - [>](<>.md>) When you use demo documents in your onboarding, don’t forget to give users something to do. This will free them from thinking about what to do next, allowing them to focus on completing the task. And if you are up for some extra points, give them something unfinished they can complete.
+                                - maybe the help component has like "[@houshuang](https://twitter.com/houshuang)  suggested [[[Prior Work](<[[Prior Work.md>): RemNote]].. gonna check it out -- i like the way these tutorials are done actually... maybe useful to do them for the CORE features."-type checklists as default playground
+                            - {{[video](<video.md>): https://youtu.be/s8I1rJawfKI}}
+                                - There should be an animation the first time you access Roam Web inspired by this. It would be SO EPIC PLEASE MAKE IT HAPPEN.
+                                    - https://twitter.com/Rainmaker1973/status/1296916865793626114
+                                    - This video at 3 minutes and 20 seconds (link at current time doesn't seem to work when you embed a youtube video) {{[video](<video.md>): https://youtu.be/s8I1rJawfKI?t=202}}
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FjJuo3N0H0J.png?alt=media&token=f833b3e2-9629-4579-93f9-d151454202f2)
+preloaded search so you don't even have to make a search and can get started with moving around?
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2F_lfLX-pa2B.png?alt=media&token=def43270-b541-4a7a-bdc7-c581fe6942f8)
+                                - your graphs and recently updated unseen blocks in graphs? ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2F5XiFFesJJc.png?alt=media&token=68bd8769-f809-488c-a9cf-72d7a2e19d3a)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FwF6M1sUNRe.png?alt=media&token=f4413a55-522c-4c37-be88-19629e5edd09)
+                                - hmmm... what if when you view blocks using x-parser components or something that you've never used before, there's a sparkle next to it (hover over it for it to dissapear like in read notifications), but clicking on it shows you how to download it into your graphs and maybe like some docs/videos. or like any time a block is using xparser component or has features (double brackets included) which you haven't used in any blocks you've created or hovered away the sparkle before, you will see this thing
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FtqVw6luOe7.png?alt=media&token=0f177c66-1a86-4b86-9563-90e69827ff44)
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FMeoUu7ZTcZ.png?alt=media&token=56d2d02f-d4e0-4d01-a4cd-9403b30a3924)
+                                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FJqHsDVPhkz.png?alt=media&token=0fb0e04a-26dc-4326-b6a3-d4d2130ba350) .... core feature rather than xparser
+                                - pick up templates/AoT as you go? ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2Fuy03GOefeh.png?alt=media&token=2f3b5c5e-71b3-4101-a278-899775fc7bf8)
+                                - what if you can equip yourself with themes? or filters? if you equip yourself with filters, you will only see blocks which are using or not using those tags (or their aliases) -- also maybe you can enable unlinked filters to count and maybe enable NLP too. major [Web of Intention](<Web of Intention.md>) vibes. Right now - graph owners can set filters to control what people that come on their graph can access, why not have this same feature for the readers so they only access what they want and hide the rest of the noise?
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2Ff61cyH4s_f.png?alt=media&token=74401244-aa59-460c-865d-50635d6cb7ac)
+        - # ^^Extracted Designs^^
+            - [Design Note](<Design Note.md>) [Indicator on [[Roam](<Indicator on [[Roam.md>) Blocks Using Never-Before-Seen X-Parser Components or Templates]]
+                - #[Content Notes](<Content Notes.md>)
+                    - "`/-menu` and `;;-menu` are user-specific and travel with them between graphs."
+                    - Inspired by [[[Roam](<[[Roam.md>) Web as the Focal Point of [Onboarding](<Onboarding.md>)]], let the user simply browse the web or the graphs they have been added to. As they browse, they'll be able to see the x-parser components and templates people are using. They will be able to click on the block to view its source code, but also click on a sparkle indicator if blocks are using unseen components or templates  to view its documentation in the help component and add it to their own `/-menu` or `;;-menu`.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FDFDEEY9Eji.png?alt=media&token=87ab608a-d15d-4943-80b0-e47d878dcc54)
+                    - Click the sparkle icon to open the help component and jump to the documentation for that component. If it's a non-native component, then the documentation will be sourced from Roam Depot. The same functionality applies for templates.
+                    - The sparkle icon on the left of the block will be shown when:
+                        - You use a feature for the first time in a block.
+                        - You see a block created by another user using a feature you've never used in a created block.
+                        - If there are multiple new features in the block, clicking the sparkle will cycle through the features.
+                        - If you have already clicked on the sparkle icon for a feature before, it will not be shown again for that feature.
+                - #[Forging Notes](<Forging Notes.md>)
+                    - first time you create a block with a new feature, have the sparkle thing on left. on click you can open the help and jump to it 
+                        - "> As we approach the pedestal, a hint message appears, providing help as soon as we can use it, not before. This is better than showing tutorials before users decide to take action, as it avoids unwanted interruptions."
+                    - also have the sparkle each time you see a block using a feature you've never created a block using or have clicked the sparkle for before. this will jump the documentation
+                        - {{[embed](<embed.md>): ((((sLxDQkQoX))))}}
+                    - sparkle also exists when you land on blocks using templates you havent used before
+                        - {{[embed](<embed.md>): ((((GBmhGGYRZ))))}}
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - [[[Article](<[[Article.md>): User onboarding lessons from The Legend of Zelda: Breath of the Wild]]
+            - [Design Note](<Design Note.md>) [[[Roam](<[[Roam.md>) Web as the Focal Point of [Onboarding](<Onboarding.md>)]] **Post-Multiplayer Roam**
+                - #[Content Notes](<Content Notes.md>)
+                    - Once Roam Multiplayer exists, onboarding will be dramatically more enjoyable. ((30QXYkryL)) would essentially be a web that you can browse consisting of all the graphs you have access to. New users can simply browse around public graphs, just like they do in the existing web, and click on an interesting block to see its "code" or [Indicator on [[Roam](<Indicator on [[Roam.md>) Blocks Using Never-Before-Seen X-Parser Components or Templates]] to see its documentation. This would make it obvious to the user how Roam can be used.
+                        - {{[embed](<embed.md>): ((((mXQeq6xBQ))))}}
+                        - Roam Web search relies heavily on a concept I called `Networked Aliases` if you're interested.
+                            - {{embed: ((YnJXOU5_-))}}
+                    - In ((30QXYkryL)), read only graphs are essentially playgrounds where the user can move things around and write stuff as they wish. Of course, none of it will actually be saved. To keep their modifications, the user must fork the read only graph or send the blocks to a graph they can edit.
+                        - {{[embed](<embed.md>): ((((Zid6lqS-_))))}}
+                        - {{[embed](<embed.md>): ((((gtKZjGbmX))))}}
+                    - Tangential Content
+                        - {{[embed](<embed.md>): ((((UwDkm_kBy))))}}
+                - #[Forging Notes](<Forging Notes.md>)
+                    - ((30QXYkryL))
+                        - sparke feature works REALLY well here, and honestly when roam web comes around, onboarding will be dramatiaclly easier
+                        - with roam web, you can treat stuff as a playground without worrying about it saving in readonly, and can click on blocks to see their source code so you can reproduce stuff you see
+                        - {{[embed](<embed.md>): ((((UwDkm_kBy))))}}
+                        - {{[embed](<embed.md>): ((((Zid6lqS-_))))}}
+                        - send block
+                            - ((mDc0GW7RX))
+                        - {{[embed](<embed.md>): ((((mXQeq6xBQ))))}}
+                    - currently you can set a global filter on a graph and thus only see that stuff. but what about when you're browing roam web? jumping between graphs, and their pages, and re-making queries? maybe this can be a small thing.
+                        - "what if you can equip yourself with themes? or filters? if you equip yourself with filters, you will only see blocks which are using or not using those tags (or their aliases) -- also maybe you can enable unlinked filters to count and maybe enable NLP too. major [Web of Intention](<Web of Intention.md>) vibes. Right now - graph owners can set filters to control what people that come on their graph can access, why not have this same feature for the readers so they only access what they want and hide the rest of the noise?
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2Ff61cyH4s_f.png?alt=media&token=74401244-aa59-460c-865d-50635d6cb7ac)"
+                            - ((viM7d-BB-))
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2Fv17ZTGvHIF.png?alt=media&token=8ffa5343-8b6e-48f7-9666-645abb464a93)
+                                - {{[embed](<embed.md>): ((((DPvcUDet0))))}}
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - [[[Article](<[[Article.md>): User onboarding lessons from The Legend of Zelda: Breath of the Wild]]
+            - [Design Note](<Design Note.md>) [[[Roam](<[[Roam.md>) Documentation + Help Component]] **Still have to attach a Figma to the Content Notes**
+                - #[Content Notes](<Content Notes.md>)
+                    - Search bar on top and navigation bar on sides just like currently. This supports shortcuts for now, but could end up supporting native x-parser components and templates as well. Roam Depot documentation for components and templates could also be accessible from here, albeit not emphasized as greatly. Clicking on [Indicator on [[Roam](<Indicator on [[Roam.md>) Blocks Using Never-Before-Seen X-Parser Components or Templates]] would open this and jump to the appropriate documentation. Each x-parser component has a toggle allowing it to be shown or hidden from `/-menu`.
+                    - Each item has a button called `Explore`  which is revealed on hover. Clicking it reveals a wrapped Roam documentation block which can be treated as a playground to try the feature out. [Stian Håklev](<Stian Håklev.md>)'s demonstrates [*](((jXB7xuRDM))) how this block can be pulled from the Roam Help Graph. The challenge is that you would have to be able to add versions from your graph that were saved. The Roam Help Database is only a playground environment so you can't actually write to it. **The ideal scenario seems to be such that you can subscribe to the documentation block for a feature from the Roam Help Database and also create versions for that block only visible from your graph. **The documentation block would include:
+                        - video (or playlist)
+                        - description
+                        - barebones set-up of feature so they can change things around and see what happens without worrying about anything breaking since nothing saves.
+                        - This block can be versioned by anyone in the graph. For example, the admin might choose to version the block and add their own documentation on how to use it for their purposes.
+                - #[Forging Notes](<Forging Notes.md>)
+                    - templates
+                    - roam depot integration
+                    - Searchable thing with sidebar navigation just like currently.
+                    - hmm.. what if each feature has a playlist of videos, some copy as description, and you can like press a button called `try it out` or something to get a playground roam page and a tour type thing on left? actually, i don't like this... will have to think  it through
+                        - "[>](<>.md>) When you use demo documents in your onboarding, don’t forget to give users something to do. This will free them from thinking about what to do next, allowing them to focus on completing the task. And if you are up for some extra points, give them something unfinished they can complete."
+                    - {{[embed](<embed.md>): ((((EnfE-7DGO))))}}
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - [Prior Work](<Prior Work.md>): Roam42 and the recently implemented native help component
+                        - "![Image](https://pbs.twimg.com/media/EtMuSIQXcAAreDI?format=jpg&name=large)"
+                        - "Roam42 does two things
+
+First 
+@roamhacker
+ curated their favorite videos into a floating component you can access with a keyboard shortcut -- so you don't have to leave Roam to learn how to use Roam."
+                        - "Second - they built a searchable list of all the commands - with some descriptions about how to use them -- also available via dropdown or keyboard shortcut.
+
+"
+                    - [Prior Work](<Prior Work.md>): Roam Inter by [Stian Håklev](<Stian Håklev.md>) 
+                        - "[@houshuang](https://twitter.com/houshuang) cross-graph conversation engine and feeds. those are cool. fits with the pattern of not having to leave your roam to learn how to use roam - his change log example in particular."
+                        - https://twitter.com/houshuang/status/1355324543913648130
+                    - [[[Prior Work](<[[Prior Work.md>): RemNote]] 
+                        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FElvEjGDHGx.png?alt=media&token=8a38f1a5-e8ef-45b9-97b0-4f279b2714c5)"
+                        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2FfeCbpwVLnu.png?alt=media&token=46c89680-ffcd-4c05-b673-dfab01f2a14d)"
+                        - 
+                    - [[[Article](<[[Article.md>): User onboarding lessons from The Legend of Zelda: Breath of the Wild]]
+                        - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FDhrumilWandServers%2F_lfLX-pa2B.png?alt=media&token=def43270-b541-4a7a-bdc7-c581fe6942f8)"
+                        - "[>](<>.md>) When everything is new and unfamiliar, users feel uncomfortable. It’s a natural response. To help users navigate the unknown, you must help them feel safe. Nintendo knows this, that’s why they have players start the game inside a cave.
+Why a cave? Because it’s a familiar metaphor. Users know what to expect: if we are inside, we must go out. It’s also easy to navigate and has none of the distractions of the infinite outdoors. Moreover, the cave’s boundaries reassure users that enemies won’t sneak up on them. When combined, all these contribute to help players feel safe.
+A way for you to provide a safe place for users is to onboard them with a demo or tutorial document. The trick is to make it feel disposable. This encourages users to experiment. After all, who cares if you break a demo document?"
+            - [Design Note](<Design Note.md>) [Custom [[Roam](<Custom [[Roam.md>) /-Menu Which Grows with the User's Skill Level]] **Still have to create polished content notes from the rough forging notes so it's more presentable**
+                - #[Content Notes](<Content Notes.md>)
+                - #[Forging Notes](<Forging Notes.md>)
+                    - customizable slash-command menu. so in the beginning its very minimalistic and only has core features and not all the xparser components and formatting stuff? but  a menu item to open help menu any time theres a native feature which is like ready to be in your slash command menu but you haven't used yet.
+                        - "[>](<>.md>) Alright, we are still stuck in the room so let’s get out of here. Notice how focused the UI is, displaying nothing but a couple of basic controls. There are no interrupting dialogs telling users how to do things, just the minimum amount of information needed to get to the next step."
+                        - "[>](<>.md>) By reducing the number of actions available, players can focus on learning the relevant ones first, allowing them to master those actions before progressing to new ones. After all, it would be nearly impossible for anyone to master all 20 control available in such a short time. This is known as progressive disclosure and it serves a two-fold purpose."
+                    - slask command menu kinda is only for beginners it seems, cant think of many expeirenced users who rely on it much. nonetheless, people will have different menus going forward as extensions become a bigger thing
+                    - `/-menu` and `;;-menu` are user-specific and travel with them between graphs.
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - [[[Article](<[[Article.md>): User onboarding lessons from The Legend of Zelda: Breath of the Wild]]
+            - ---
+            - [Design Note](<Design Note.md>) playground environment during loading screen? **Still have to create polished content notes from the rough forging notes so it's more presentable**
+                - #[Content Notes](<Content Notes.md>)
+                - #[Forging Notes](<Forging Notes.md>)
+                    - have it show templates that you can import into your roam?
+                    - have it show tips?
+                    - have it show the copy for a feature from the  [[[Roam](<[[Roam.md>) Documentation + Help Component]] (if you haven't used it yet in a created block --  [Indicator on [[Roam](<Indicator on [[Roam.md>) Blocks Using Never-Before-Seen X-Parser Components or Templates]])? maybe even a scratchpad? if you use scratchpad then have to press a done button to proceed?
+                    - new things from roam depot as bazaar? like use cases posted by people?
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - [Prior Work](<Prior Work.md>): [Azlen Elza](<Azlen Elza.md>) worked on this a couple months back
+            - [Design Note](<Design Note.md>) roam depot as a marketplace where users can yell what use case they want and others can respond how to implement it. how might this be done well?  **Still have to create polished content notes from the rough forging notes so it's more presentable**
+                - #[Content Notes](<Content Notes.md>)
+                - #[Forging Notes](<Forging Notes.md>)
+                    - "[@tracyplaces](https://twitter.com/tracyplaces) - not feeling the use cases part. But hmm, tangential thought --- what if you can like connect your twitter or something to your roam. then people can search for twitter people they like that have roam, and send request to check out there roam? idk, but some shit along the lines of... how tf does team roam actually use roam would be interesting. idk if this can be pulled off in any way thats not like hella annoying for the graph owners tho. OnlyGraphs lol. [Robert Haisfield](<Robert Haisfield.md>) hosts these roam tour videos which are great, i've emulated a lot of my process using Beau Haan and [Joel Chan](<Joel Chan.md>). What if Roam Depot was less like home depot and more like some medieval-aesthetic public market with a lot of color and movement? People could go on there and yell for what they want (like which usecase) and others could comment underneath how to go about it by linking to existing people implementing that."
+                    - "> In order to have a successful onboarding experience, you don’t need to learn every feature. [The user should learn enough of the app’s functionality to accomplish a goal](https://robhaisfield.com/notes/The-user-should-learn-enough-of-the-app-s-functionality-to-accomplish-a-goal). However, it’s still helpful to be aware of what features you have available to you so you can recognize the situations where you’ll need to learn it. [Help the user to recognize situations for functionality usage](https://robhaisfield.com/notes/Help-the-user-to-recognize-situations-for-functionality-usage)."
+                    - NLP used to search the roam bazaar for your use case?
+                        - networked aliases also relevant here
+{{[embed](<embed.md>): ((((YnJXOU5_-))))}}
+                - #[Design Inspirations](<Design Inspirations.md>)
+                    - **[Source](<Source.md>):** [@tracyplaces](https://twitter.com/tracyplaces)
+                        - https://twitter.com/tracyplaces/status/1356791927862157313
+                        - "> Fundamental question for beginners: Where do you want Roam to take you?
+
+Select from a roadmap of use cases, users, and uber-niche groups who can serve as guides to existing content. 
+
+Conversations then help us develop new onboarding content based on common questions."
+        - # Future Research Suggestions
+            - [Robert Haisfield](<Robert Haisfield.md>)'s website https://robhaisfield.com has some GREAT questions on [Onboarding](<Onboarding.md>) and provides an overview of the challenges which make it a tricky problem for Roam. Unfortunately tackling these questions was outside of the scope of this evening as it would take a couple of months to get right. Maybe this servers as inspiration for an ambitious Roaman? Here's a preview of some great quotes on the subject from his website:
+                - "> being aware of the features generally means you’ll be aware of when you should learn it to accomplish a new goal.
+
+Due to principles of Difficulty Matching, we know that if we ask a user to learn something too advanced early in, they will likely get frustrated and give up. This is a common problem with Notion and Roam users: they see people using the applications in advanced ways near the beginning of their experience and they think that they have to implement everything right from the start.
+
+These users would have far better outcomes if they simply operated at or slightly above their skill level to accomplish their current goals, but were aware of what could help them accomplish their future goals so they know what they can learn when those goals arise."
+                - "> In order to successfully onboard a horizontal product, we need to increase their skill over time to keep up with their changing goals."
+                - "> progressively reveals information as the user develops so they are always becoming more effective users. Even through behavioral tracking, it can be challenging for the app to recognize exactly what the user wants to learn at any given point. This means that there has to be a solid framework for exploratory search, where the user can find what they are looking for on their own or with the help of other users."
+                - "> People are often going to fail when they attempt to achieve their goals. How do we [Intentionally design for failure states](https://robhaisfield.com/notes/Intentionally-design-for-failure-states) so people try again instead of giving up? How do we increase the likelihood that they are successful when they try again?"
+                - {{[embed](<embed.md>): ((((BhJWvpiGM))))}}
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---

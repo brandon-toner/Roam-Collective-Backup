@@ -8,6 +8,9 @@
 - A great display of [constraints](<constraints.md>) in actions to create a focused experience. Beautiful. [focus](<focus.md>)
                 - **[URL](<URL.md>):**
 
+- [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
+            - **[URL](<URL.md>):**
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
     - **[URL](<URL.md>):**

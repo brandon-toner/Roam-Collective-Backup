@@ -42,6 +42,8 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [e.g.](<e.g..md>)
 
+- [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [e.g.](<e.g..md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Report of evergreen notes authored by graph members. (excluding externally authored notes, [e.g.](<e.g..md>)
 

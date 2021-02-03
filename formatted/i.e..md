@@ -35,8 +35,6 @@
 
 - I like the (CR) convention here. __Though that kinda feels like a name initial__ ([i.e.](<i.e..md>)
 
-- [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [i.e.](<i.e..md>)
-
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [i.e.](<i.e..md>)
 

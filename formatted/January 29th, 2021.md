@@ -273,7 +273,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
         - #[Graph Mentorship](<Graph Mentorship.md>)
             - "#[Fleeting Notes](<Fleeting Notes.md>) public vs private "
                 - While making a [fleeting note]([fleeting notes](<fleeting notes.md>)), it try to make sure that the note is self-sufficient in communicating its meaning. 
-                - In this example I might elaborate the note content a bit to make the idea more clear — and may nest some supportive information underneath. [@[[leekeifon](<@[[leekeifon.md>)]]
+                - In this example I might elaborate the note content a bit to make the idea more clear — and may nest some supportive information underneath. [~[[leekeifon](<~[[leekeifon.md>)]]
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
         - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>) UI can achieve. In other words, we might set our mind free first before we’re trying to implement the UI system in [Roam](<Roam.md>).
@@ -287,7 +287,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
             - **Private communication**, should be easy to create and easy to delete.
                 - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [Roam](<Roam.md>) team. For us, in order to create such a space, we may insert some encoded content into [Roam](<Roam.md>) block which is hard to become a auto-complete candidates and then decoded it via the chatting plugin.
             - **Official event** maybe included topics that we(the whole community) want to focus on, which may need a good voting mechanism.
-        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [i.e.](<i.e..md>) with a `[publish](<publish.md>)` tag or some more meta-data.
+        - [Global public feed](((_TioVNn4W))) and [Roaman media feed](((FGNR8b-M7))) should obey [Roam publish protocol](((Mfh93O_VB))), [e.g.](<e.g..md>) with a `[publish](<publish.md>)` tag or some more meta-data.
         - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - **[Related](<Related.md>):** {{[embed](<embed.md>): ((((kFPq1Gc9U))))}}
