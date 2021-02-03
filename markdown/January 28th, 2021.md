@@ -24,7 +24,7 @@
     - 22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress.
         - **Resolved after 30min**
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} 
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
         - Universal tag [[conventions]] from [[Robert Haisfield]]: `#Ideas, #Plan, and #[[Open Questions]]`
             - Image::

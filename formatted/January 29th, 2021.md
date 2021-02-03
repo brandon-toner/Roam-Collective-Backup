@@ -27,7 +27,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
         - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
     - "15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - [Bookmarks](<Bookmarks.md>)
         - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
             - **[Index](<Index.md>):**

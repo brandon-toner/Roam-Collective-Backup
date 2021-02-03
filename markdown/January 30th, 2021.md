@@ -31,7 +31,7 @@
 - ---
 - #[[My Daily Notes]] [[Kyle Stratis]] {{word-count}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
         - [[[[E:]] Evergreen notes should be densely linked]]
         - [These](((CCODMMO6j))) were captured using [[Memex]]. They have a [[customizable]] [[copy-paster]] that is excellent for getting information into [[Roam]] format.

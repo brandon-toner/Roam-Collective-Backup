@@ -8,6 +8,9 @@
 - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**
 
+- The up and down in the waveform below have some parallel with the [[[E:](<[[E:.md>) double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
+                    - **[Image](<Image.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Universal tag [conventions](<conventions.md>) from [Robert Haisfield](<Robert Haisfield.md>): `[Ideas](<Ideas.md>), [Plan](<Plan.md>), and #[Open Questions](<Open Questions.md>)`
             - **[Image](<Image.md>):**

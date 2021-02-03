@@ -27,7 +27,7 @@ Thoughts? - [[Brandon Toner]]
         - Plan to take a JSON export of the CSS page next time it appears complete. Then I can patch the graph then next time this happens... [*](((_kGe2f7JH)))
     - "15:36 — Patched a few of the lost CSS blocks (Announcements, Scratchpad, and Change Log)"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #Bookmarks
         - Exploring [[Andy Matuschak]]'s [Notes](https://notes.andymatuschak.org/)
             - Index::

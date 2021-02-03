@@ -12,7 +12,7 @@
 - #[[Daily Activities]]
     - "Explore your vision for the future of collaboration in Roam."
     - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #Scratchpad
         - #Tips
             - Use the #Tensions tag to flag areas of conflict without clear resolution.
@@ -261,7 +261,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Help Wanted]] 
             - Would love some feedback on this.
                 - Tag feedback with `#Feedback` and `#zettelkasten` with block references to the context.
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} #csf
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) 
         - 
     - #Questions ((about the graph, or directed towards someone)) 

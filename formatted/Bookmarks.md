@@ -16,6 +16,13 @@
 
 - #[Bookmarks](<Bookmarks.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
+
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+
+- #[Bookmarks](<Bookmarks.md>)
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>)) based on [felt [[truth](<felt [[truth.md>)]].[*](((ZZWmGCw0B))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]] [*]([Bookmarks](<Bookmarks.md>))
 

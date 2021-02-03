@@ -9,6 +9,7 @@
         - [External Links](((r3wJzzQJP)))
         - [Block Reference Styling](((xcLgPdvs0)))
         - [Nested Links](((y9rumn-yn)))
+    - [Colors](((ClLqIfFSn)))
 - Contents::
     - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
     - Tips:: Filter by #Status/Enabled in roam/css to view active code. ((This is reliant on updating the tags as things are switched on/off; so may be unreliable))
@@ -4776,26 +4777,26 @@ h1.level2,
 .rm-page-ref--link .rm-page-ref--link {
   	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
     /*background-position: 0 100%;*/
-    padding-bottom: 3px;
+    padding-bottom: 2px;
     line-height: 28px;
 }
 .rm-page-ref--link .rm-page-ref--link:hover {
   	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
     /*background-position: 0 100%;*/
-    padding-bottom: 3px;
+    padding-bottom: 2px;
     /*line-height: 28px;*/
 }
 
 .rm-page-ref--link .rm-page-ref--link .rm-page-ref--link {
 	/*background: linear-gradient(0deg, var(--fg-reference-underline) 1px, white 1px, transparent 1px);
     /*background-position: 0 100%;*/
-    padding-bottom: 6px;
+    padding-bottom: 4px;
     /*line-height: 32px;*/
 }
 .rm-page-ref--link .rm-page-ref--link .rm-page-ref--link:hover {
 	background: linear-gradient(0deg, var(--fg-reference-underline-hover) 1px, white 1px, transparent 1px);
     /*background-position: 0 100%;*/
-    padding-bottom: 6px;
+    padding-bottom: 4px;
     /*line-height: 32px;*/
 }
 
@@ -4812,23 +4813,22 @@ h1.level2,
     padding-bottom: 0px;
 }```
             - External Links #Status/Enabled
-                - V2
+                - V1
                     - ```css
-/*Aliases - internal & external*/
 .rm-alias--external {
   color: var(--fg-link);
-    text-decoration: none!important;
-    border-bottom: 1px dashed;
 }
 
-.rm-alias--external:hover {
-	color: var(--fg-link-hover);
+a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
     text-decoration: none!important;
     border-bottom: 1px dashed;
+    color: #2196F3;;
 }
-
-.rm-alias--external:after {
-  content: ' ↗';```
+a[href^='http']{
+  color: #2196F3;
+  text-decoration: none!important;
+  border-bottom: 1px solid;
+}```
             - Page Reference Brackets #Status/Enabled
                 - ```ruby
 .rm-page-ref__brackets{

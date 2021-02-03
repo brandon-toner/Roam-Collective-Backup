@@ -9,18 +9,27 @@
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
 - **Personal Queries:**
-    - **Unread Notifications:**
-        - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
-    - **CC'd Mentions:**
-        - {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
-    - **My Daily Notes:**
-        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [bnt](<bnt.md>) {not: {or: [query](<query.md>) }}  }}}
-    - **Questions:**
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Q](<Q.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
-    - **Follow Ups:**
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
-    - **Todos:**
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
+    - Notifications
+        - **Unread Notifications:**
+            - {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
+        - **CC'd Mentions:**
+            - {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
+    - My Daily Notes
+        - **My Daily Notes:**
+            - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [bnt](<bnt.md>) {not: {or: [query](<query.md>) }}  }}}
+    - Questions & Ideas
+        - **Questions:**
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Q](<Q.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
+        - **Ideas:**
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [I](<I.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
+    - Zettelkasten Notes
+        - **Fleeting Notes:**
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
+    - Productiviy
+        - **Follow Ups:**
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
+        - **Todos:**
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
         - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
@@ -62,6 +71,10 @@
 
 ## [Brandon Toner](<Brandon Toner.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
 

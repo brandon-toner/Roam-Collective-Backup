@@ -30,7 +30,7 @@
 
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
-- **[About me](<About me.md>):**
+    - **[About me](<About me.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)

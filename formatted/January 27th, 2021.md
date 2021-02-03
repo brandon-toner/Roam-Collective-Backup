@@ -12,7 +12,7 @@
 - #[Daily Activities](<Daily Activities.md>)
     - "Explore your vision for the future of collaboration in Roam."
     - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - [Scratchpad](<Scratchpad.md>)
         - [Tips](<Tips.md>)
             - Use the [Tensions](<Tensions.md>) tag to flag areas of conflict without clear resolution.
@@ -261,7 +261,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Help Wanted](<Help Wanted.md>) 
             - Would love some feedback on this.
                 - Tag feedback with `[Feedback](<Feedback.md>)` and `[zettelkasten](<zettelkasten.md>)` with block references to the context.
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) 
         - 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 

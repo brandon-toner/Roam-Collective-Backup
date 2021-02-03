@@ -24,7 +24,7 @@
     - 22:11 — #[Bug Reports](<Bug Reports.md>) more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress.
         - **Resolved after 30min**
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} 
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
         - Universal tag [conventions](<conventions.md>) from [Robert Haisfield](<Robert Haisfield.md>): `[Ideas](<Ideas.md>), [Plan](<Plan.md>), and #[Open Questions](<Open Questions.md>)`
             - **[Image](<Image.md>):**

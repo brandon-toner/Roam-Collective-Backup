@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- When everyone is in sinch, the compound effect of [alignment](<alignment.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>)
 

@@ -33,6 +33,10 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
 
 ## [Charles Farr](<Charles Farr.md>)

@@ -480,7 +480,7 @@
                                         - Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed
                         - To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close).
                             - One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  
-                        - [[^[[Brandon Toner]]]] Also wanted to get you attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy
+                        - [[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy
                             - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
                             - The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity
                                 - In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])
@@ -630,6 +630,8 @@
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Does the conversation need to be segmented by individual?
+            - What if the conversation convention was that you added sequentially to a page, instead of 
         - What needs to be different in knowledge management and creation, if it is collaborative?
         - #[[Fleeting Notes]] Shared endeavors and [[collaboration]] require solidity
             - Epistemic status: strong intuition that I am in process of elaborating, would welcome reactions both for and against
@@ -664,11 +666,7 @@
                         - Asynchronicity
                             - Different time commitment 
                         - Prioritization
-    - #Questions ((about the graph, or directed towards someone))
-        - Should there be a page with norms on using the DNP template?
-            - I am personally confused as to when to use Questions vs. Conversation
-        - Does the conversation need to be segmented by individual?
-            - What if the conversation convention was that you added sequentially to a page, instead of 
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation  
         - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
             - Could there be two types of fleeting notes? 
@@ -682,6 +680,8 @@
         - "As for [conventions]([[Conventions]]) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE)))."
             - Love it! Imagine then there's probably a long list of things to log in here :)
     - #Feedback 
+        - Should there be a page with norms on using the DNP template?
+            - I am personally confused as to when to use Questions vs. Conversation
         - "Open Questions:: More big picture, related to the domain we're trying to navigate"
             - [[~[[Brandon Toner]]]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
                 - Should there be some norm around memorializing key decisions on conventions?

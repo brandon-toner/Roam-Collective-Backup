@@ -31,7 +31,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>) {{word-count}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
         - [[[E:](<[[E:.md>) Evergreen notes should be densely linked]]
         - [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>) format.

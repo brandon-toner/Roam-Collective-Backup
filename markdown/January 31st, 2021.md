@@ -42,7 +42,7 @@
             - **Page:** [[January 30th, 2021]]
 {{[[embed]]: ((29MTnT-MQ))}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
         - #Tips 
             - For [[SmartBlocks]] that **do not contain any commands**, launch using the native Roam template engine for faster performance `;;`

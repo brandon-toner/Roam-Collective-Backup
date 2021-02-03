@@ -12,7 +12,7 @@
     - {{[embed](<embed.md>): ((uXSkzmCUC))}}
     - Add your name to the "contributors" section of the project if you are interested in working on [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]]. {{[embed](<embed.md>): ((IrBm1tWBA))}}
 - 
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
         - 09:52 — Loving [Kahlil Corazo](<Kahlil Corazo.md>)'s idea for his upcoming [rBook](<rBook.md>)! 
             - Such a great demonstration of the type of thing I'd love to see come out of these [Roam Games](<Roam Games.md>).
@@ -117,7 +117,7 @@
                 - Great 
 - #[My Daily Notes](<My Daily Notes.md>)[Eneko Uruñuela](<Eneko Uruñuela.md>) {{word-count}}
     - Still reading the docs. I hope I get to play around and be helpful.
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Riffing while in transit...
             - how do you capture notes from live sessions? How do you document them? How should they be processed?

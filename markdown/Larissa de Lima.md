@@ -8,7 +8,7 @@
         - How to contact me:: Roam Slack (preferred), Twitter (check less frequently)
         - Interests:: [[economics]] [[history]] [[data policy]] [[policy]] [[metacognition]] [[systems thinking]]
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
-        - Started using Roam in Oct 2020.  Very interested in creating a public garden focused on tools/visualizations for understanding the financial system
+        - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
 - Queries::
     - {{[[query]]: {and: [[@[[Larissa de Lima]]]]}}}
 - SmartBlocks::

@@ -42,7 +42,7 @@
             - **Page:** [January 30th, 2021](<January 30th, 2021.md>)
 {{[embed](<embed.md>): ((29MTnT-MQ))}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
         - [Tips](<Tips.md>) 
             - For [SmartBlocks](<SmartBlocks.md>) that **do not contain any commands**, launch using the native Roam template engine for faster performance `;;`

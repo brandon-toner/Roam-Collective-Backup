@@ -45,6 +45,10 @@
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+
+- "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
+
 - [Charles Farr](<Charles Farr.md>),
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

@@ -11,6 +11,12 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) [conversation](<conversation.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
+
+- "#[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
+
+- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
+
 - On [conversation](<conversation.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)

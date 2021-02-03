@@ -54,12 +54,41 @@
                 - #Q For "next steps", how could this be contributed to by multiple users?
         4. Added #I as a [block-level]([[block-level tags]]) ideas tag. (similar to "Q") #Conventions
         5. Nested the main DNP Section at the top. [*](((7hC24BFpU)))
+        6. Reverted CSS for external links to blue for now 
+            - Rationale:: find the green a bit jarring, like the hover line change in V1
+        7. {{[[TODO]]}} [[Choice]]:  "Considering changing #Promptstorming to #[[Daily Activities]]. To make that a place to nest responses to prompts AND contributions to daily activities." ((((e-lL4buZ1))))
+            - Options:: 
+                - A - Leave as `Promptstorming` 
+                    - Pros:: 
+                        - Specific to prompts
+                    - Cons:: 
+                        - Not inclusive to other "activites"
+                - B - Change to `Daily Activities`
+                    - Pros:: 
+                    - 
+                    - Cons:: #not_populated
+                - C - Change to `Activities`
+                    - Pros:: #not_populated
+                    - Cons:: #not_populated
+            - Status:: #not_populated
+            - Decision:: #not_populated
+            - Notes:: #not_populated
     - #Promptstorming #not_populated
     - #Bookmarks
-        - Keifon on bot rushing to make [[evergreen notes]]
+        - Keifon on not rushing to make [[evergreen notes]]
             - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreen]] [[pages]], in [[collaboration]] context."
+        - Peter on the dangers of too much alignment and the importance of [[contrarians]].
+            - "The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[[contrarians]]". This can lead to [[confirmation bias]], creation of echo chambers and in some extent cults and collectives 😂"
+                - #Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?
+                    -  #Q Could an [[AoT]] be developed to help avoid cognitive [biases]([[bias]])
+        - Peter on [[waves]], signal, and synchronous engagement. [*](((e5szI-YDO)))
     - #[[The Zettelkasten]] 
         - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
+        - #[[Fleeting Notes]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph.
+            - While converging ideas around a particular activity, more new ideas are likely to arise. 
+                - #[[Fleeting Notes]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
+                    - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
+                    - #[[Fleeting Notes]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
     - #Conversation 
         1. On "1000 upvotes"
             - "[[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
@@ -92,6 +121,26 @@
         4. On prompt-like questions:
             - "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithm of thought (AoT)]] to build using a template, in  which case I would just nest them under the tag for said AoT"
                 - Love this solution. An AoT tag is the answer here. Great work. [[cc:[[Charles Farr]]]]
+        5. On Roam Games - Dhrumil
+            - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."
+                - Nice! Welcome to the graph [[~[[Dhrumil Shah]]]]!
+                - I know there's a Clubhouse call tonight at 10PM ET where some folks will likely be talking Roam Games.
+                - Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. 
+        6. On external CSS
+            - "I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links"
+                - I find the blue a bit easier on the eyes, and the underline helps to identify as an external link. [[cc:[[Peter Rosso]]]], [[cc:[[Charles Farr]]]]
+                    - Opted for version 1
+                        - PS LOVE the versioning in CSS. 
+        7. Charles on color conventions
+            - "Added color scheme setting"
+                - Love this idea. Yea I think a color strategy would be fun. [[cc:[[Charles Farr]]]]
+        8. #Replies
+            - "[[~[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block"
+                - Agreed. Been doing that a bit, but will do more often.
+            - "Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it..."
+                - This type of [[randomization]] will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [[@[[Charles Farr]]]]
+                - 
+            - 
     - #Feedback #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[bnt]])
@@ -114,20 +163,22 @@
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
         - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
             - [[@[[Larissa de Lima]]]] I am so curious now.
-        - Following [[@[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
+        - Following [[~[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
             - The way we digest is individual through exploration, but collective or at least shared through conversation. 
                 - Semantically speaking Conversation seems more open than comments and brings everyone on the same level.
             - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
             - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
-            - When Brandon commented made about asynchronous editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are synchronous?!" 
-                - I think that synchronous and aligned activities in a multiplayer zettelkasten can lead to compound effects like standing waves created by signals.
-                - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
-                - When everyone is in sinch, the compound effect of alignment and synchronicity can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
-                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "contrarians". This can lead to confirmation bias, creation of echo chambers and in some extent cults and collectives 😂
+            - When Brandon commented made about [[asynchronous]] editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [[synchronous]]?!" 
+                - I think that synchronous and aligned activities in a multiplayer[[ zettelkasten]] can lead to compound effects like [[standing waves]] created by signals.
+                    - GIF::
+                        - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
+                - When everyone is in sinch, the compound effect of [[alignment]] and [[synchronicity]] can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.
+                    - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[[contrarians]]". This can lead to [[confirmation bias]], creation of echo chambers and in some extent cults and collectives 😂
                     - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
                         - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
                 - The up and down in the waveform below have some parallel with the [[[[E:]] double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
-                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnSb_C87Ivt.png?alt=media&token=09463f46-264a-4b4e-87b7-f57b8009a2e7)
+                    - Image::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnSb_C87Ivt.png?alt=media&token=09463f46-264a-4b4e-87b7-f57b8009a2e7)
                     - The dots on the bottom of the image also represent the density of air created by the air displacement carrying the sound. 
                         - If we imagine the molecules being output this new mental model matches the one I mentioned above as we narrow down we are allowed to move faster as we are carrying the momentum of the previous reflection period. This phase is characterized by a high-density output. 
                         - If we imagine our molecules being ideas, and we imagine to have to travel through the medium... the corner of the diamond are the moments in which we have to slow down because of the resistance we find in the high density of idea we find around ourselves.  When we start finding a narrower direction and purpose we are able to start moving faster and produce more ideas. 
@@ -154,13 +205,60 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
                     - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
                 - Arguments:
-                    - Part of what made hindu-arabic numerals so powerful, especially relative to Roman numerals, was how easy it made basic mathematical operations (e.g., addition, multiplication, subtraction).  The history of math is full of examples of   
+                    - Part of what made hindu-arabic numerals so powerful, especially relative to Roman numerals, was how easy it made basic mathematical operations (e.g., addition, multiplication, subtraction).  The history of math is full of examples of symbolic language then leading to conceptual breakthroughs
+                        - Additional examples:  symbolic algebra, double-entry accounting, 
                 - Inspiration:
                     - [This piece](https://numinous.productions/ttft/) by [[Andy Matuschak]] and [[Michael Nielson]] is a manifesto to seed building of "tools of thought".  It's generally worth a read; it invites related yet different conclusions as it asks: How to invent Hindu-Arabic numerals?
                         - While the fleeting note above is related to asking: "How to invent Hindu-Arabic numerals for thought," what the article explores instead is an arguably broader question: How to foster tools that allow productive answers to "How to invent Hindu-Arabic numerals for X" (where X can be any domain of knowledge) 
                         - Their explanation of what makes Hindu-Arabic numerals amazing is good
                             - >  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases.
-                    - So found out it's actually not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
+                    - And it turns out this is not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
+        - 🛠 IN PROGRESS - thinking through questions
+            - Thinking about categorization
+                - Principles -> Process Design -> Implementation -> Output
+            - 
+            - Principles
+                - Collaborative Zettelkasten
+                    - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
+                    - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
+                    - "#Q What are potential sources of [[friction]] in [[collaboration]]?  "
+                    - "#Q What drives [[friction]] in [[shared communication]] (driven by the nature of language)?  "
+                    - "#Q How could [[spaced repetition]] be integrated into a community [[zettelkasten]] system?"
+                    - "#Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?"
+                - Zettelkasten
+                    - "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]"
+                    - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
+                    - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
+                        - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
+            - Process design
+                - "#[[Q]] What could be the common base of a digital environment of loosely connected people expectation?"
+                - "#Q What are the [[characteristics]] [[dimensions]] of an [evergreen note]([[evergreen notes]]) that could be used for [[assessment]] [[scoring]]?"
+                - Communication
+                    - "#[[Q]] What’s the best practice for async communication? [[cc:[[Brandon Toner]]]]"
+                - Shared language
+                    - "#Q How can we objectively categorize the degree of maturity of an evergreen note? "
+                    - "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]"
+                - Convergence
+                    - "#[[Q]] What are the right levels of abstraction for which [[convergence]] should be aspired to? "
+                - Individual absorption
+                    - "#Q How do we digest all of the information we're adding to the graph?"
+                    - "#Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible"
+                    - "#[[Q]] One subproblem is, how new comer join the [[conversation]] smoothly."
+                    - New users
+                        - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
+            - Implementation / Mechanics
+                - "#Q What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. "
+                - "#Q For "next steps", how could this be contributed to by multiple users?"
+                - "#Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?"
+                - Visual presentation
+                    - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
+                    - "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
+                    - "#Q Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?"
+                    - (resolved) "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
+                - Conventions
+                    - "#Q What should the convention be for the use of [[abbreviations]]? #Conventions"
+            - Output / memorialization
+                - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #GTD
         - Finish thoughts on number analogy
@@ -168,7 +266,8 @@ I think I need to go through the whole process to make sure I internalise it.
         - Go through Questions
     - #Conversation
         - On organizing conversations  
-            - On my mind as I logged in this morning: what did I miss? What were the important conversations about? #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
+            - On my mind as I logged in this morning: what did I miss? What were the important conversations about? 
+                - #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
                     - [[~[[Charles Farr]]]] what you did was so incredibly helpful!  
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
@@ -201,9 +300,127 @@ I think I need to go through the whole process to make sure I internalise it.
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad
         - "**Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
-        - #[[Community Note]] Allowing for maturity in evergreen notes enables flexible development
+        - #[[Follow Up]] In progress...
+            - [[[[E:]] Why build maturity into your knowledge management system?]]
+                - #[[Community Note]] Why build maturity into your knowledge management system
+                    - "[[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper."
+                    - So what updates are worthwhile to make?
+                    - ---
+                    - Why is maturity important?
+                        - 
+                    - How do you implement it?
+                    - References::
+                        - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
+                            - "Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly."
+                            - "**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up."
+                        - "Circling back to [[~[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph"
+                        - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
+                        - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
+                        - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                            - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+                                - "get the idea down on "paper""
+                                - "mark it as an "immature" evergreen or some such"
+                                - "then have a process that forces you to return and mature it... "
+                        - "[[The stages of [[maturation]] of [[zettelkasten]] notes]]"
+                            - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
+                            - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
+                            - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
+                            - "These three note types are distinct, but trend towards higher level complexity..."
+                            - "[[maturity]] comes from the state of a given notes"
+                                - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
+                                - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
+                                - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
+                                    - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
+                                        - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+                                        - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
+                                            - "Often through this process, I find that the big idea is refined"
+                                        - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
+                                            - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
+                            - "To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close)."
+                                - "One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  "
+                            - "[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy"
+                                - ""Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context""
+                                - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                                    - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+                                        - "get the idea down on "paper""
+                                        - "mark it as an "immature" evergreen or some such"
+                                        - "then have a process that forces you to return and mature it... "
+                        - "#[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. "
+                        - "Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions "
+                        - "Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])"
+                            - "Related::"
+                                - ""{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) ""
+                                - "Charle's detailed thoughts [here](((sBu3zOPiV)))"
+                            - "Objectives::"
+                                - "Have [[pages]] for commonly referenced ideas."
+                                - "Clear authorship."
+                                - "[[[[E:]] low floor, high ceiling]] workflow"
+                                - "Ease of [[onboarding]]."
+                                - "Clear [[disambiguation]]"
+                                - "Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))"
+                                - "Clearly detect level of [[maturity]]."
+                                - "Easy to find, reference, and filter."
+                                - "Allow for ease in generating [[output]]."
+                            - "Thoughts::"
+                                - "On [[authorship]]:[*](((IWQC9aRN8)))"
+                                    - "A common occurrence may be that the TITLE of an evergreen note may be verbatim from another writer, but the elaborations or thoughts on that idea may be your own."
+                                        - "#Q How do you differentiate title authorship from body authorship?"
+                                            - "For the purposes of avoiding [[plagarism]] and generating accurate [[references]]."
+                                - "On [[order]] of notes within the [[zettelkasten]]:"
+                                    - "#[[Fleeting Notes]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves."
+                                    - "This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]]."
+                                    - "#Q How can the order of notes within the zettelkasten be represented in this emerging system?"
+                                        - "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here."
+                                    - "#Q How do you integrate ideas from various authors within a [[zettelkasten]]? In respect to note order."
+                                - "On note [[maturity]]:"
+                                    - "In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. "
+                                        - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
+                                    - "#Q How does the [[seedlings]] concept fit in here?"
+                                        - "Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_)))."
+                                            - "Replace tree with seedling emoji, same effect."
+                                        - "Maybe all fleeting notes are seedlings?"
+                                        - "#Q Whats the difference between a seedling and a fleeting note?"
+                                - "On epistemology:"
+                                    - ""In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. ""
+                                        - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
+                                - "On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out""
+                                    - "While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. "
+                                    - "Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+                                    - "I see more detail as [[[[E:]] beneficial, but optional]]"
+                            - "Questions::"
+                                - "#Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?"
+                                - "#Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?"
+                                - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
+                                - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
+                                    - "Related:: "
+                                        - ""#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)""
+                                        - ""#[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].""
+                                        - ""Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?""
+                                        - ""My preference is to limit it to a parent-level tag and then a block level tag""
+                                - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
+                            - "Process:: [*]([[Processes]])"
+                                - "Document ideas freely as [[fleeting notes]]"
+                                - "[[literature notes]] or [[verbatim notes]] are representations of the author's ideas."
+                                    - "OK to be verbatim — these should be quick & easy! "
+                                        - "#[[Fleeting Notes]] The need for originality adds [[cognitive burden]]."
+                                    - "References::"
+                                        - "https://twitter.com/syncretizm/status/1355812313505230852?s=21"
+                                - "As ideas begin to feel [[evergreen]], a page should be created."
+                                    - "The body of a fleeting note could be made into a page."
+                                - "The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page."
+                                    - "Populate date created, created by and author right away."
+                                        - "If author is unknown, use the [[Unknown]] tag."
+                                            - "#Q is there advantage to this vs leaving as `#not_populated`?"
+                        - "Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [[certainty]] or [[maturity]] is less important. "
+        - #Evergreen What is is Zettelkasten?
+            - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
+                - #Evergreen A zettelkasten is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+            - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
+                - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
+                    - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
+                    - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - On [[conversation]] conventions with LdeLima
@@ -229,10 +446,10 @@ I think I need to go through the whole process to make sure I internalise it.
                     - If under MDNs, would be great to programmatically inject prompts for  or activities for people to respond to — decreases the burden of needing to check to level
                     - Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it...
         - Simply Replies
-            - [[@[[Larissa de Lima]]]] re: "Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
+            - [[~[[Larissa de Lima]]]] re: "Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
                 - I'll shoot you a DM on Twitter!
             - "#I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]"
-                - [[@[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block
+                - [[~[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^""
@@ -265,7 +482,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Added color scheme setting
             - "Colors"
             - Note: Did not update any existing css code to utilize the `var()` best practice
-                - {{[[TODO]]}} Standardize color scheme
+                - {{[[TODO]]}} Standardize color scheme #[[February 2021]]
                     - #Q Can Roam Collective develop a color scheme that better supports our key mission?
                         - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
         - Added SmartBlock to handle resurfacing: "#42SmartBlock .rc4AoT — Resurfacing for Future Me"
@@ -277,5 +494,22 @@ I think I need to go through the whole process to make sure I internalise it.
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone))
         - going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together.
+            - "Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. "
+                - I'm working in my personal roam so i can ref things in from like the countless roam projects i've done so far. But I'll put it all in my scratchpad once there's a measurable amount.
+                - also, i have an android so can't join clubhouse unfortunately
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+    - #[[Conversation]]
+        - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[cc:[[Larissa de Lima]]]] #[[Experiments]]
+        - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [[@[[Brandon Toner]]]]
+        - Why not set up current [[Roam Games]] a little short term goal for practicing our system towards a 
+        - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."
+            - I’m in [[@[[Dhrumil Shah]]]]
+            - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[cc:[[Brandon Toner]]]]
+    - #[[Bookmarks]]
+        - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
+        - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
+        - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
+- ---

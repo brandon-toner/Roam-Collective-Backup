@@ -9,18 +9,27 @@
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
 - **Personal Queries:**
-    - **Unread Notifications:**
-        - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
-    - **CC'd Mentions:**
-        - {{[[query]]: {and: [[cc:[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
-    - **My Daily Notes:**
-        - #min-con {{[[query]]: {and: [[Brandon Toner]] [[bnt]] {not: {or: [[query]] }}  }}}
-    - **Questions:**
-        - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Q]] [[bnt]] {not: {or: }}  }}}
-    - **Follow Ups:**
-        - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}
-    - **Todos:**
-        - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
+    - Notifications
+        - **Unread Notifications:**
+            - {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
+        - **CC'd Mentions:**
+            - {{[[query]]: {and: [[cc:[[Brandon Toner]]]] {not: [[query]]]}}}} #minimal
+    - My Daily Notes
+        - **My Daily Notes:**
+            - #min-con {{[[query]]: {and: [[Brandon Toner]] [[bnt]] {not: {or: [[query]] }}  }}}
+    - Questions & Ideas
+        - **Questions:**
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Q]] [[bnt]] {not: {or: }}  }}}
+        - **Ideas:**
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[I]] [[bnt]] {not: {or: }}  }}}
+    - Zettelkasten Notes
+        - **Fleeting Notes:**
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Fleeting Notes]] [[bnt]] {not: {or: }}  }}}
+    - Productiviy
+        - **Follow Ups:**
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}
+        - **Todos:**
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])

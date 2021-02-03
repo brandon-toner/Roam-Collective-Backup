@@ -9,6 +9,9 @@
 ## [Announcements](<Announcements.md>)
 - Check out the #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [Brandon Toner](<Brandon Toner.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -56,6 +59,12 @@
 - Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
@@ -67,6 +76,18 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- ""#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)

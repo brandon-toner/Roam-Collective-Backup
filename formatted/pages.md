@@ -6,6 +6,8 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>),
 
+- "Have [pages](<pages.md>)
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Have [pages](<pages.md>)
 

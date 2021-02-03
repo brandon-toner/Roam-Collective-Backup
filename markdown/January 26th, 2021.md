@@ -12,7 +12,7 @@
     - {{[[embed]]: ((uXSkzmCUC))}}
     - Add your name to the "contributors" section of the project if you are interested in working on [[Projects/Publish a [[Roam Collaboration Guide]]]]. {{[[embed]]: ((IrBm1tWBA))}}
 - 
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
         - 09:52 — Loving [[Kahlil Corazo]]'s idea for his upcoming [[rBook]]! 
             - Such a great demonstration of the type of thing I'd love to see come out of these [[Roam Games]].
@@ -117,7 +117,7 @@
                 - Great 
 - #[[My Daily Notes]][[Eneko Uruñuela]] {{word-count}}
     - Still reading the docs. I hope I get to play around and be helpful.
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}}
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Riffing while in transit...
             - how do you capture notes from live sessions? How do you document them? How should they be processed?

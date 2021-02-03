@@ -6,9 +6,17 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Time for some [CONVERGENCE]([convergence](<convergence.md>))
 
+- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) balancing [convergence](<convergence.md>)
+
 - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>)
+
+- "#[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
 
