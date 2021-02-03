@@ -12,6 +12,9 @@
 
 - A cognitive concept that I learn from [Andy Matuschak](<Andy Matuschak.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [This piece](https://numinous.productions/ttft/) by [Andy Matuschak](<Andy Matuschak.md>)
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

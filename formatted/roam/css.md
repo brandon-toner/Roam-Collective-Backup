@@ -1045,7 +1045,7 @@ console.log(
   } 
 }```
             - Custom
-                - ((6YHNhSFRA))
+                - 
                     - ```css
 :root {
   --note-tag-color:				var(--cl-gray-700);
@@ -4973,7 +4973,8 @@ a:hover {
   border-radius: 50% !important;
 }```
             - Query Display Options
-                - ```css
+                - V1
+                    - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
 before the beginning of your query (in the same block):
 
@@ -4991,22 +4992,27 @@ inspired by Matt Goldenberg */
 [data-tag="minimal"] + .rm-query .zoom-mentions-view {
   display:none!important; /* hide page reference (title) and mention context (breadcrumbs) */
 }
+
 [data-tag="min-title"], [data-tag="min-title"] + .rm-query .rm-title-arrow-wrapper {
 display:none!important; /* hide page reference (title) */
 }
+
 [data-tag="min-con"], [data-tag="min-con"] + .rm-query .zoom-mentions-view {
   display:none !important;  /* hide mention context (breadcrumbs) */
 }
+
 [data-tag="min-q"], 
 [data-tag="min-q"] + .rm-query .rm-query-title {
   display:none !important;  /* hide the query string */
 }
+
 [data-tag="min-all"], 
 [data-tag="min-all"] + .rm-query .zoom-mentions-view,
 [data-tag="min-all"] + .rm-query .rm-title-arrow-wrapper,
 [data-tag="min-all"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }
+
 [data-tag="minimal"] + .rm-query .rm-query-title::after,
 [data-tag="min-title"] + .rm-query .rm-query-title::after,
 [data-tag="min-con"] + .rm-query .rm-query-title::after{

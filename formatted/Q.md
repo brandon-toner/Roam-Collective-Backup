@@ -5,7 +5,7 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Q](<Q.md>)
 
 ## [Charles Farr](<Charles Farr.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Q](<Q.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Q](<Q.md>)

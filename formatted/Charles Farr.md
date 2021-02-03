@@ -7,7 +7,7 @@
 - :hiccup [:hr]
 - Personal Queries
     - Questions
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Q](<Q.md>) {not: {or: }}  }}}
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Follow Ups
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
     - Todos
@@ -17,8 +17,6 @@
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
-
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
@@ -43,6 +41,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- "[Charles Farr](<Charles Farr.md>),
+
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 - [Charles Farr](<Charles Farr.md>),

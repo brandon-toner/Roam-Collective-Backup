@@ -33,6 +33,8 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
+- "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
+
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

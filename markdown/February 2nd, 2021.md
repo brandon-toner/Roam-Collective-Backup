@@ -150,18 +150,23 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad 
         - 🛠 IN PROGRESS - RETURN LATER
-            - #[[Fleeting Notes]] Performing operations
-                - Epistemic status: intuition
+            - #[[Fleeting Notes]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
+                - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
+                    - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
+                - Arguments:
+                    - Part of what made hindu-arabic numerals so powerful, especially relative to Roman numerals, was how easy it made basic mathematical operations (e.g., addition, multiplication, subtraction).  The history of math is full of examples of   
                 - Inspiration:
-                    - Romans to algebraic numbers
-                    - The Glass Bead Game
-                - Zeitgeist: breaking the abstraction
+                    - [This piece](https://numinous.productions/ttft/) by [[Andy Matuschak]] and [[Michael Nielson]] is a manifesto to seed building of "tools of thought".  It's generally worth a read; it invites related yet different conclusions as it asks: How to invent Hindu-Arabic numerals?
+                        - While the fleeting note above is related to asking: "How to invent Hindu-Arabic numerals for thought," what the article explores instead is an arguably broader question: How to foster tools that allow productive answers to "How to invent Hindu-Arabic numerals for X" (where X can be any domain of knowledge) 
+                        - Their explanation of what makes Hindu-Arabic numerals amazing is good
+                            - >  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases.
+                    - So found out it's actually not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #GTD
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
-    - #Conversation ((For nesting interactions with other members of the graph)) 
+    - #Conversation
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
@@ -175,7 +180,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - #[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
                         - This is analogous to applying heat to molecules to create structure 
                         - #[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
-                            - It is costly to 
+                            - It is costly to:
                                 - (re: basis) have a (sufficient) basis of shared context
                                 - (re: process) share mental models asynchronously 
                                 - (re: outcome) align on implications
@@ -185,15 +190,24 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     - #Chat
         - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
+    - #Meetings
+        - "[[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] "
+            - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
+                - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
+                    - Easier to jump into the conversation, reducing search costs to enter the conversation
+                    - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
+            - ^^BToner:  Convergence is a lens^^ 
+                - It can coexist with divergence; adapt the lens to the task
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
         - "**Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
+        - #[[Community Note]] Allowing for maturity in evergreen notes enables flexible development
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - On [[conversation]] conventions with LdeLima
-            - [[@[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
+            - [[~[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
         - On CSS for external links
             - [[@[[Peter Rosso]]]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
@@ -259,3 +273,9 @@ I think I need to go through the whole process to make sure I internalise it.
             - Idea is this programs some level of spaced repetition for a user
                 - Need to build some sort of aggregation query to find all overdue "resurfaced" blocks...
 - ---
+- #[[My Daily Notes]] [[Dhrumil Shah]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone))
+        - going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together.
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated

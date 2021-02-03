@@ -7,7 +7,7 @@
 - :hiccup [:hr]
 - Personal Queries
     - Questions
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Q]] {not: {or: }}  }}}
+        - #min-con {{[[query]]: {and: [[csf]] [[Q]] {not: {or: }}  }}}
     - Follow Ups
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
     - Todos
