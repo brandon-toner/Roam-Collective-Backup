@@ -90,11 +90,13 @@
 
 - "[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
 
-- "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
-
 - "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
 
 - "We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)!
+
+- "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
+
+- "If we use the [zettelkasten](<zettelkasten.md>)
 
 - "[The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
 
@@ -115,6 +117,12 @@
 - "[Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
 
 - "[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+
+- Background on the [zettelkasten](<zettelkasten.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) A [zettelkasten](<zettelkasten.md>)
+
+- On [zettelkasten](<zettelkasten.md>)
 
 - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>)
 

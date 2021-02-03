@@ -1,0 +1,24 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@maggied](https://twitter.com/maggied)
+        - Website:: [maggiedelano.com](https://www.maggiedelano.com/)
+        - Location:: [[Philadelphia]], [[Pennsylvania]] [[United States]]
+        - Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
+        - How to contact me::
+            - Send me a DM on Roam Slack (most preferred!)
+            - Send me a DM on Twitter (I don't check as often)
+            - Tag me here
+- Queries (see [*](((jTQwEButc))))
+    - **Unread Notifications:**
+        - {{[[query]]: {and: [[@[[Maggie Delano]]]] {not: [[query]]]}}}} #minimal
+    - **CC'd Mentions**
+        - {{[[query]]: {and: [[cc:[[Maggie Delano]]]] {not: [[query]]]}}}} #minimal
+- MDelano — .DNP Template #42SmartBlock #roam/templates 
+    - #[[My Daily Notes]] [[Maggie Delano]] {{word-count}}
+        - #[[Scratchpad]] #not_populated
+        - #[[Daily Log]] #not_populated
+        - #[[Change Log]] #not_populated
+        - #Promptstorming #not_populated
+        - #[[The Zettelkasten]] #not_populated
+        - #Conversation #not_populated
+        - #Feedback  #not_populated

@@ -2,8 +2,6 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "[Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>),
-
 - [Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>),
 
 ## [January 27th, 2021](<January 27th, 2021.md>)

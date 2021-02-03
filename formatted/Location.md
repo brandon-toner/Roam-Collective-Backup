@@ -28,6 +28,10 @@
 - **[LinkedIn](<LinkedIn.md>):** [linkedin.com/in/lindseyajohnston](https://www.linkedin.com/in/lindseyajohnston/)
         - **[Location](<Location.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Website](<Website.md>):** [maggiedelano.com](https://www.maggiedelano.com/)
+        - **[Location](<Location.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Location](<Location.md>):**
 

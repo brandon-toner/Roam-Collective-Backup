@@ -584,7 +584,7 @@ We can't change the selection background in some menus yet, so make sure, that y
                         - Heading 1
                             - Heading 2
                                 - Heading 3
-                    - ```css
+                    - ```clojure
 :root {
   --fg-h1:				var(--cl-gray-900);
   --fg-h2:				var(--cl-gray-900);

@@ -13,6 +13,11 @@
 
 - [disambiguation](<disambiguation.md>) with #[Daily Log](<Daily Log.md>)
 
+- #[Daily Log](<Daily Log.md>)
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
@@ -38,6 +43,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
+- #[Daily Log](<Daily Log.md>)
+
+## [Maggie Delano](<Maggie Delano.md>)
 - #[Daily Log](<Daily Log.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)

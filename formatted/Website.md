@@ -20,6 +20,10 @@
 - **[Twitter](<Twitter.md>):** [@kylestratis](https://twitter.com/kylestratis)
         - **[Website](<Website.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Twitter](<Twitter.md>):** [@maggied](https://twitter.com/maggied)
+        - **[Website](<Website.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Twitter](<Twitter.md>):** [@marckoenig)_](https://twitter.com/marcKoenig_)
         - **[Website](<Website.md>):**

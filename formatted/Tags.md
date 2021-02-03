@@ -160,6 +160,9 @@
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Tags](<Tags.md>):**
 

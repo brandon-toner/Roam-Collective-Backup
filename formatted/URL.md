@@ -4,6 +4,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>)
 - **[URL](<URL.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- A great display of [constraints](<constraints.md>) in actions to create a focused experience. Beautiful. [focus](<focus.md>)
+                - **[URL](<URL.md>):**
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
     - **[URL](<URL.md>):**

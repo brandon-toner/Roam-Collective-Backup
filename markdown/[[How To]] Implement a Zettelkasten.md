@@ -1,2 +1,2 @@
 - Part of [[[[How To]] Seed Your Graph]]
-- "#Evergreen What is is Zettelkasten?"
+- "#Evergreen What is a Zettelkasten?"

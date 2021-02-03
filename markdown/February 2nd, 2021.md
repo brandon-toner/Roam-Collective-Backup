@@ -215,8 +215,10 @@ I think I need to go through the whole process to make sure I internalise it.
                     - And it turns out this is not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
         - 🛠 IN PROGRESS - thinking through questions
             - Thinking about categorization
-                - Principles -> Process Design -> Implementation -> Output
-            - 
+                - Motivation -> Principles -> Process Design -> Implementation -> Output
+            - Motivation / Foundational
+                - [[Brandon Toner]] at [[Clubhouse]]
+                    - How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
             - Principles
                 - Collaborative Zettelkasten
                     - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
@@ -230,6 +232,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
                     - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
                         - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
+                    - "#Q How can the order of notes within the zettelkasten be represented in this emerging system?"
             - Process design
                 - "#[[Q]] What could be the common base of a digital environment of loosely connected people expectation?"
                 - "#Q What are the [[characteristics]] [[dimensions]] of an [evergreen note]([[evergreen notes]]) that could be used for [[assessment]] [[scoring]]?"
@@ -244,12 +247,14 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "#Q How do we digest all of the information we're adding to the graph?"
                     - "#Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible"
                     - "#[[Q]] One subproblem is, how new comer join the [[conversation]] smoothly."
+                    - "#Q How could we keep track of updates to ensure that documentation scattered around the graph stays [[up-to-date]]? [*]([[Processes]])"
                     - New users
                         - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
             - Implementation / Mechanics
                 - "#Q What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. "
                 - "#Q For "next steps", how could this be contributed to by multiple users?"
-                - "#Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?"
+                - "#Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?""#Q Why is it important to limit the number of tags used in a graph?"
+                - 
                 - Visual presentation
                     - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
                     - "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
@@ -302,126 +307,148 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
         - "**Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
-        - #[[Follow Up]] In progress...
-            - [[[[E:]] Why build maturity into your knowledge management system?]]
-                - #[[Community Note]] Why build maturity into your knowledge management system
-                    - "[[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper."
-                    - So what updates are worthwhile to make?
-                    - ---
-                    - Why is maturity important?
-                        - 
-                    - How do you implement it?
-                    - References::
-                        - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
-                            - "Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly."
-                            - "**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up."
-                        - "Circling back to [[~[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph"
-                        - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
-                        - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
-                        - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-                            - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
-                                - "get the idea down on "paper""
-                                - "mark it as an "immature" evergreen or some such"
-                                - "then have a process that forces you to return and mature it... "
-                        - "[[The stages of [[maturation]] of [[zettelkasten]] notes]]"
-                            - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
-                            - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
-                            - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
-                            - "These three note types are distinct, but trend towards higher level complexity..."
-                            - "[[maturity]] comes from the state of a given notes"
-                                - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
-                                - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
-                                - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
-                                    - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
-                                        - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
-                                        - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
-                                            - "Often through this process, I find that the big idea is refined"
-                                        - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
-                                            - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
-                            - "To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close)."
-                                - "One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  "
-                            - "[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy"
-                                - ""Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context""
-                                - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-                                    - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
-                                        - "get the idea down on "paper""
-                                        - "mark it as an "immature" evergreen or some such"
-                                        - "then have a process that forces you to return and mature it... "
-                        - "#[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. "
-                        - "Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions "
-                        - "Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])"
-                            - "Related::"
-                                - ""{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) ""
-                                - "Charle's detailed thoughts [here](((sBu3zOPiV)))"
-                            - "Objectives::"
-                                - "Have [[pages]] for commonly referenced ideas."
-                                - "Clear authorship."
-                                - "[[[[E:]] low floor, high ceiling]] workflow"
-                                - "Ease of [[onboarding]]."
-                                - "Clear [[disambiguation]]"
-                                - "Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))"
-                                - "Clearly detect level of [[maturity]]."
-                                - "Easy to find, reference, and filter."
-                                - "Allow for ease in generating [[output]]."
-                            - "Thoughts::"
-                                - "On [[authorship]]:[*](((IWQC9aRN8)))"
-                                    - "A common occurrence may be that the TITLE of an evergreen note may be verbatim from another writer, but the elaborations or thoughts on that idea may be your own."
-                                        - "#Q How do you differentiate title authorship from body authorship?"
-                                            - "For the purposes of avoiding [[plagarism]] and generating accurate [[references]]."
-                                - "On [[order]] of notes within the [[zettelkasten]]:"
-                                    - "#[[Fleeting Notes]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves."
-                                    - "This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]]."
-                                    - "#Q How can the order of notes within the zettelkasten be represented in this emerging system?"
-                                        - "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here."
-                                    - "#Q How do you integrate ideas from various authors within a [[zettelkasten]]? In respect to note order."
-                                - "On note [[maturity]]:"
-                                    - "In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. "
-                                        - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
-                                    - "#Q How does the [[seedlings]] concept fit in here?"
-                                        - "Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_)))."
-                                            - "Replace tree with seedling emoji, same effect."
-                                        - "Maybe all fleeting notes are seedlings?"
-                                        - "#Q Whats the difference between a seedling and a fleeting note?"
-                                - "On epistemology:"
-                                    - ""In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. ""
-                                        - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
-                                - "On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out""
-                                    - "While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. "
-                                    - "Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
-                                    - "I see more detail as [[[[E:]] beneficial, but optional]]"
-                            - "Questions::"
-                                - "#Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?"
-                                - "#Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?"
-                                - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
-                                - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
-                                    - "Related:: "
-                                        - ""#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)""
-                                        - ""#[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].""
-                                        - ""Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?""
-                                        - ""My preference is to limit it to a parent-level tag and then a block level tag""
-                                - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
-                            - "Process:: [*]([[Processes]])"
-                                - "Document ideas freely as [[fleeting notes]]"
-                                - "[[literature notes]] or [[verbatim notes]] are representations of the author's ideas."
-                                    - "OK to be verbatim — these should be quick & easy! "
-                                        - "#[[Fleeting Notes]] The need for originality adds [[cognitive burden]]."
-                                    - "References::"
-                                        - "https://twitter.com/syncretizm/status/1355812313505230852?s=21"
-                                - "As ideas begin to feel [[evergreen]], a page should be created."
-                                    - "The body of a fleeting note could be made into a page."
-                                - "The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page."
-                                    - "Populate date created, created by and author right away."
-                                        - "If author is unknown, use the [[Unknown]] tag."
-                                            - "#Q is there advantage to this vs leaving as `#not_populated`?"
-                        - "Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [[certainty]] or [[maturity]] is less important. "
-        - #Evergreen What is is Zettelkasten?
-            - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
-                - #Evergreen A zettelkasten is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
-            - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
-                - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
-                    - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
-                    - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
+        - Trying to tie together the collective's thoughts on [[maturity]]
+            - #[[Follow Up]] In progress...
+                - [[[[E:]] Why build maturity into your knowledge management system?]]
+                    - #Evergreen Why build maturity into your knowledge management system
+                        - Why is maturity important?
+                            - 
+                            - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
+                            - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
+                        - How can you implement it?
+                            - "For instance: `#Ideas` → `#InProgress` → `#Completed`"
+                                - "Or: `#Fleeting` → `#Permanent`"
+                                - "Or: `#Seedling` → `#Budding` → `#Evergreen`"
+                        - References::
+                            - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
+                                - "Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly."
+                                - "**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up."
+                            - "Circling back to [[~[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph"
+                                - "If we use the [[zettelkasten]] as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [[collections]] to stitch together notes."
+                            - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                                - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+                                    - "get the idea down on "paper""
+                                    - "mark it as an "immature" evergreen or some such"
+                                    - "then have a process that forces you to return and mature it... "
+                            - "[[The stages of [[maturation]] of [[zettelkasten]] notes]]"
+                                - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
+                                - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
+                                - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
+                                - "These three note types are distinct, but trend towards higher level complexity..."
+                                - "[[maturity]] comes from the state of a given notes"
+                                    - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
+                                    - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
+                                    - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
+                                        - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
+                                            - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+                                            - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
+                                                - "Often through this process, I find that the big idea is refined"
+                                            - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
+                                                - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
+                                - "To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close)."
+                                    - "One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  "
+                                - "[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy"
+                                    - ""Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context""
+                                    - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                                        - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+                                            - "get the idea down on "paper""
+                                            - "mark it as an "immature" evergreen or some such"
+                                            - "then have a process that forces you to return and mature it... "
+                            - "#[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. "
+                            - "Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions "
+                            - "Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])"
+                                - "Related::"
+                                    - ""{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) ""
+                                    - "Charle's detailed thoughts [here](((sBu3zOPiV)))"
+                                - "Objectives::"
+                                    - "Have [[pages]] for commonly referenced ideas."
+                                    - "Clear authorship."
+                                    - "[[[[E:]] low floor, high ceiling]] workflow"
+                                    - "Ease of [[onboarding]]."
+                                    - "Clear [[disambiguation]]"
+                                    - "Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))"
+                                    - "Clearly detect level of [[maturity]]."
+                                    - "Easy to find, reference, and filter."
+                                    - "Allow for ease in generating [[output]]."
+                                - "Thoughts::"
+                                    - "On [[authorship]]:[*](((IWQC9aRN8)))"
+                                        - "A common occurrence may be that the TITLE of an evergreen note may be verbatim from another writer, but the elaborations or thoughts on that idea may be your own."
+                                            - "#Q How do you differentiate title authorship from body authorship?"
+                                                - "For the purposes of avoiding [[plagarism]] and generating accurate [[references]]."
+                                    - "On [[order]] of notes within the [[zettelkasten]]:"
+                                        - "#[[Fleeting Notes]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves."
+                                        - "This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]]."
+                                        - "#Q How can the order of notes within the zettelkasten be represented in this emerging system?"
+                                            - "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here."
+                                        - "#Q How do you integrate ideas from various authors within a [[zettelkasten]]? In respect to note order."
+                                    - "On note [[maturity]]:"
+                                        - "In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. "
+                                            - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
+                                        - "#Q How does the [[seedlings]] concept fit in here?"
+                                            - "Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_)))."
+                                                - "Replace tree with seedling emoji, same effect."
+                                            - "Maybe all fleeting notes are seedlings?"
+                                            - "#Q Whats the difference between a seedling and a fleeting note?"
+                                    - "On epistemology:"
+                                        - ""In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. ""
+                                            - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
+                                    - "On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out""
+                                        - "While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. "
+                                        - "Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+                                        - "I see more detail as [[[[E:]] beneficial, but optional]]"
+                                - "Questions::"
+                                    - "#Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?"
+                                    - "#Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?"
+                                    - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
+                                    - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
+                                        - "Related:: "
+                                            - ""#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)""
+                                            - ""#[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].""
+                                            - ""Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?""
+                                            - ""My preference is to limit it to a parent-level tag and then a block level tag""
+                                    - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
+                                - "Process:: [*]([[Processes]])"
+                                    - "Document ideas freely as [[fleeting notes]]"
+                                    - "[[literature notes]] or [[verbatim notes]] are representations of the author's ideas."
+                                        - "OK to be verbatim — these should be quick & easy! "
+                                            - "#[[Fleeting Notes]] The need for originality adds [[cognitive burden]]."
+                                        - "References::"
+                                            - "https://twitter.com/syncretizm/status/1355812313505230852?s=21"
+                                    - "As ideas begin to feel [[evergreen]], a page should be created."
+                                        - "The body of a fleeting note could be made into a page."
+                                    - "The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page."
+                                        - "Populate date created, created by and author right away."
+                                            - "If author is unknown, use the [[Unknown]] tag."
+                                                - "#Q is there advantage to this vs leaving as `#not_populated`?"
+                            - "Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [[certainty]] or [[maturity]] is less important. "
+            - [[maturity]] scale for notes
+                - ## Maturity Levels
+                    - Fleeting
+                    - Literature
+                    - Permanent
+                        - Seedling
+                        - Budding
+                        - Evergreen
+                    - Collection
+                    - Outline
+                    - Community
+                - ## Associated Questions
+                    - #Q What differentiates [[fleeting notes]] and [[seedlings]]?
+                    - #Q How does the impact of community participation/review/contribution impact maturity of an idea?
+                    - #Q How do you differentiate a collection and an outline?
+                        - #Q How do collections and outlines support [[convergence]]?
+        - Background on the [[zettelkasten]]
+            - #Evergreen What is a Zettelkasten?
+                - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
+                    - #[[Fleeting Notes]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+                - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
+                    - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
+                        - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
+                        - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
     - #Questions ((about the graph, or directed towards someone)) #not_populated
+        - "#Q What differentiates [[fleeting notes]] and [[seedlings]]?"
+        - "#Q How do you differentiate a collection and an outline?"
+        - "#Q How do collections and outlines support [[convergence]]?"
     - #Conversation
         - On [[conversation]] conventions with LdeLima
             - [[~[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
@@ -457,7 +484,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - #[[Follow Up]] "[[^[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources""
     - #Meetings
         - [[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] 
-            - On zettelkasten
+            - On [[zettelkasten]]
                 - Fleeting
                 - Literature
                 - Permanent
@@ -513,3 +540,12 @@ I think I need to go through the whole process to make sure I internalise it.
         - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
         - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
 - ---
+- #[[My Daily Notes]] [[Maggie Delano]] {{word-count}}
+    - #[[Scratchpad]] #not_populated
+    - #[[Daily Log]]
+        - 23:26 poking around the graph for the first time after learning about the experiment on [[Clubhouse]]
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+    - #Feedback  #not_populated

@@ -1,2 +1,2 @@
 - Part of [[[How To](<[[How To.md>) Seed Your Graph]]
-- "[Evergreen](<Evergreen.md>) What is is Zettelkasten?"
+- "[Evergreen](<Evergreen.md>) What is a Zettelkasten?"

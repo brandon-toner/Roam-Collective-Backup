@@ -31,6 +31,10 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**

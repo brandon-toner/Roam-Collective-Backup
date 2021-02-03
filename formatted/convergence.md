@@ -24,6 +24,10 @@
 
 - #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>)
 
+- [Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
+
+- "[Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
 

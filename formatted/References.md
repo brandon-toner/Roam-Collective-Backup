@@ -9,8 +9,8 @@
     - **[References](<References.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- How do you implement it?
-                    - **[References](<References.md>):**
+- "Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`"
+                        - **[References](<References.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).

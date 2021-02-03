@@ -20,6 +20,10 @@
 - **[Work](<Work.md>):** [data policy](<data policy.md>) research for a think tank; previously strategy consulting for financial institutions.  Enjoy writing speculative fiction on the side
         - **[How to contact me](<How to contact me.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - **[Work](<Work.md>):** [professor](<professor.md>) [productivity coach](<productivity coach.md>) 
         - **[How to contact me](<How to contact me.md>):**

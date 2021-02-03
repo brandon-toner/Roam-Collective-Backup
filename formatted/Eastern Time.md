@@ -6,3 +6,6 @@
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>)
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>)
+

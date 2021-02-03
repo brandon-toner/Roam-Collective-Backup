@@ -1,0 +1,24 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) [*]([rc](<rc.md>)) {{word-count}}
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - 
+        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
+    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [Observations](<Observations.md>)
+            - The [[[Roam Book Club](<[[Roam Book Club.md>) III]] graph looks AMAZING! [Examples](<Examples.md>)
+                - A great display of [constraints](<constraints.md>) in actions to create a focused experience. Beautiful. [focus](<focus.md>)
+                - **[URL](<URL.md>):** https://roamresearch.com/#/app/RBC3-How-To-Take-Smart-Notes
+    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---

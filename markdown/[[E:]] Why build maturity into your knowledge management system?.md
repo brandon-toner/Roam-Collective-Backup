@@ -1,1 +1,1 @@
-- "#[[Community Note]] Why build maturity into your knowledge management system"
+- "#Evergreen Why build maturity into your knowledge management system"

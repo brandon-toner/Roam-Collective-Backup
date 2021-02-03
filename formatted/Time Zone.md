@@ -20,6 +20,10 @@
 - **[Location](<Location.md>):** [Brooklyn](<Brooklyn.md>), [New York](<New York.md>), [USA](<USA.md>) - moving to [Boston](<Boston.md>) in the summer
         - **[Time Zone](<Time Zone.md>):**
 
+## [Maggie Delano](<Maggie Delano.md>)
+- **[Location](<Location.md>):** [Philadelphia](<Philadelphia.md>), [Pennsylvania](<Pennsylvania.md>) [United States](<United States.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[Location](<Location.md>):** [Madison, WI](<Madison, WI.md>), [Wisconsin](<Wisconsin.md>) [United States](<United States.md>)
         - **[Time Zone](<Time Zone.md>):**

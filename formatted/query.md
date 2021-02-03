@@ -101,6 +101,15 @@
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - {{[query](<query.md>):
 
+## [Maggie Delano](<Maggie Delano.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Maggie Delano](<@[[Maggie Delano.md>)]] {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] {not: [query](<query.md>)]
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>):
 
