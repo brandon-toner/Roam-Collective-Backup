@@ -1,16 +1,27 @@
 - {{embed: ((FRFW0hQu_))}}
 - ---
-- #[[My Daily Notes]] [[Roam-Collective]] [*]([[rc]]) {{word-count}}
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) 
     - #Chat ((A place to propose objects of discussion))
-        - "[[Everyone]] Would people want to add birthdays to their profiles?"
-            1. I've added mine - Brandon
+        1. "[[Everyone]] Would people want to add birthdays to their profiles?"
+            1. I've added mine - Brandon (page ref to 2021 to generate the reference)
             2. Added mine - Peter
-        - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
-        - Thoughts on [this](((ROVBmMBrp)))?
+        2. "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+        3. **Brandon:** Thoughts on [this](((ROVBmMBrp)))? 
             - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
+            - **Matt V** I like how we can see everyone's conversations here
+        4. 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks
+            - Like what we are using for CSS? - Brandon
+        5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
+            - Image:: 
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fj0rnFxGw2k.png?alt=media&token=7b9dba9e-f7ff-486f-b59d-8e57df402e66)
+            - **Matt V:** was n idea of [[cc:[[Peter Rosso]]]], detailed [here](((To3tG6XRj)))
+        6. **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
+        7. [[Matthew Vogel]]: I've been asked to give a brief roam tour / overview of some of the workflows and conventions that have been emerging on this and other multiplayer graphs to a group of people mostly only familiar with single player graphs.  
+ What does #Everyone think are the most important workflows/conventions to touch on? 
+            - I'm thinking conventions that are tested and seem to work (even if we are still iterating on them). So far I'm thinking about touching on most of the [[Quick Start Guide]], the `@` chat convention, [[Daily Activities]]/[[Prompts]], and using double parenthesis `(( ))` while writing to search across the graph for adjacent blocks
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
     - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
@@ -46,6 +57,7 @@ Monthly reviews could include a zoom catchup?
         - [[Everyone]] How do we develop a skill to have divergent and convergent conversations. I think lots of interesting conversation with friends just kept on diverging until nobody remembered why we were discussing what and we just moved on. Not all conversations need to go somewhere, but is there a skill?
         - [[@[[leekeifon]]]] What does [reasonable](((5SJKfkOSd))) mean?
         - [[Everyone]] Would people want to add birthdays to their profiles?
+        - 
     - #Feedback  #not_populated
     - #Bookmarks 
         - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
@@ -69,7 +81,7 @@ Monthly reviews could include a zoom catchup?
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
     - #[[Bookmarks]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) 🟠Away
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
         - Are we creating [[MSN Messenger]]? 😂 
             - Image::
@@ -83,18 +95,34 @@ Monthly reviews could include a zoom catchup?
             - #Observations — the block authorship on hover may make names less necessary? 
                 - I would suggest plaintext for names to avoid gathering a bunch of linked refs maybe?
     - #GTD #not_populated
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] 
+        1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
+        2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
+        3. Disabled Intercom
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
-    - #Feedback  #not_populated
+    - #Conversation 
+        - On top-section [[chat]] 
+            - "**Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))"
+                - For each post & reply, label your block with **Your Name:**
+                    - Example:: 
+                        - "**Brandon:** Thoughts on [this](((ROVBmMBrp)))? "
+                - For simple replies, reply in-line
+                - For elaborate replies, block ref the reply into your Conversations block.
+                    - #Q How do we objectively differentiate ["simple"](((0dNc0LCd3))) from ["elaborate"](((OQ9-k8lsZ)))
+    - #Feedback  
+        - #[[[[Feedback]]: What's working]]
+            - Liking the look & functionality of the [drop-down menu statuses](((a5khoiytS)))!
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - {{[[embed]]: ((((rhJbktB9i))))}}
-        - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components
-            - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
+            - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[[[E:]] "Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[[[E:]] Use the native convention as much as possible.]])
+                - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
+        - [[Feature Request]] I would kill for a way to filter out code blocks from search results
         - {{[[embed]]: ((((0nxSPSAyD))))}}
+            - I'm struggling with this on my personal graph as well. There needs to be a stronger connection between root level color options and where those colors are actually used
+                - "🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks"
     - #Questions ((about the graph, or directed towards someone)) 
         - How do you #query? for blocks that contain 2 tags and not for when one is a child of the other
             - i.e. look for this 
@@ -107,7 +135,14 @@ Monthly reviews could include a zoom catchup?
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol 
         - [[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+            - [[@[[Brandon Toner]]]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
+        - [[@[[Peter Rosso]]]] [*](((zM6l437S8))) Yes there is! [Check it out.](((hupwRjd9n))) This should follow each page even if the order is changed. I tried to keep the color subtle so it's not too aggressive [[cc:[[Brandon Toner]]]]
+        - [[@[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
     - #[[Change Log]]
         - [Added CSS](((dQZ2rE2un))) to prevent the right sidebar page title from jumping around when editing the title
-    - ---
+        - [Added left sidebar CSS](((hupwRjd9n))) to highlight important pages [*](((zM6l437S8)))
+        - [Boosted the visibility of the main page multibar to prevent accidental clicks](((qmCSlYDo9)))
+    - #Feedback
+        - I'm loving the energy and iteration on this graph but I am a little concerned about how many features and conventions we want to add before they become more of a hindrance than a help to new graph users.
+            - The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused   
+- ---

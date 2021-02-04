@@ -543,7 +543,7 @@
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [[~[[Charles Farr]]]]" [[~[[Brandon Toner]]]] a little hacky-ness goes a long way!
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - ignore me
             - What I'm hearing about the internal / external communication chat idea

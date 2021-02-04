@@ -555,7 +555,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - Hey [[~[[Larissa de Lima]]]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #[[Open Questions]] ((about collaboration and beyond)) #not_populated

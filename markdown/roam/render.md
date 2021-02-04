@@ -1,9 +1,24 @@
 - ### What is this?
     - Custom Components are blocks created out of clojurescript functions that will update in realtime as you modify the code 
     - It's only a toy right now but has huge potential
-    - First you must enable **Custom Components** in your user settings
+    - For these to run you first must enable **Custom Components** in your user settings
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FH29QielpBU.png?alt=media&token=9990a5e9-6547-46e0-af17-f28d22c8313d)
+    - Imagine graphics and statistics pulling in information from the graph using #datalog and updating via custom components!
 - # Examples
+    - [Demo](https://www.loom.com/share/c937d4c551ad4ebe9db049d174f8b350) and [Hello World](https://www.loom.com/share/4f546ce050d04db993aa63832975e7dc) videos by [[Conor White-Sullivan]]
+    - Hello World Example
+        - {{[[roam/render]]: ((omLfGU8y2))}} 
+            - test block
+```clojure
+
+(defn my-component [_]
+  	[:div {:on-click (fn [e] (js/alert "Hello Mason"))
+     		:style {:background-color "green"
+                   :font-size "40px"
+                   :color "white"}}
+     
+     "Hello Mason"]
+  )```
     - Simple Bar Graph Component
         - {{[[roam/render]]: ((Jhcqnk3e7))}}
             - test block```clojure
@@ -11,7 +26,7 @@
 (defn chart [_]
   [:html 
  [:head 
-  [:style ".chart-body {background-color:transparent !important;}.chart div {\nfont: 10px sans-serif;\nbackground-color: steelblue;\ntext-align: right;\npadding: 3px;\nmargin: 1px;\ncolor: tan;\n}\n.chart div:nth-child(1) {\nwidth: 40px;\n}\n.chart div:nth-child(2) {\nwidth: 80px;\n}\n.chart div:nth-child(3) {\nwidth: 150px;\n}\n.chart div:nth-child(4) {\nwidth: 160px;\n}\n.chart div:nth-child(5) {\nwidth: 230px;\n}\n.chart div:nth-child(6) {\nwidth: 420px;\n}
+  [:style ".chart-body {background-color:transparent !important;}.chart div {\nfont: 10px sans-serif;\nbackground-color: steelblue;\ntext-align: right;\npadding: 3px;\nmargin: 1px;\ncolor: tan;\n}\n.chart div:nth-child(1) {\nwidth: 40px;\n}\n.chart div:nth-child(2) {\nwidth: 80px;\n}\n.chart div:nth-child(3) {\nwidth: 150px;\n}\n.chart div:nth-child(4) {\nwidth: 160px;\n}\n.chart div:nth-child(5) {\nwidth: 230px;\n}\n.chart div:nth-child(6) {\nwidth: 320px;\n}
    "]
   ] 
  [:body {:class "chart-body"}
@@ -21,12 +36,13 @@
    [:div "15"] 
    [:div "16"] 
    [:div "23"] 
-   [:div "42"]
+   [:div "32"]
    ]]
  ]
   )
 ```
-    - Sample [hypothes.is](https://hypothes.is/) card
+    - Complex HTML object using :hiccup syntax 
+        - [hypothes.is](https://hypothes.is/) card
         - {{[[roam/render]]: ((xr-heMOua))}}
             - ```clojure
 

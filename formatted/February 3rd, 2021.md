@@ -38,7 +38,7 @@
             - Color directory (setup by [Charles Farr](<Charles Farr.md>))
             - Tag styling
             - Bulk of CSS
-                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
                     - Is there a standard way to lay it out so that it is more modular and navigable?
             - [Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps.
         - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
@@ -78,6 +78,8 @@
                 - Not that I'm aware, great use of Chat though! This escalated for reconsideration nicely. [~[[Peter Rosso](<~[[Peter Rosso.md>)]] 
             - "[Q](<Q.md>) Should we have a page that collects decisions/latest thinking on best practices for norms, that expands on "where to write"? or perhaps extends the FAQ?"
                 - Absolutely. If you have a vision for how it could look, feel free to build it as you imagine! [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+            - "So many thoughts, so little time. Will return when I can."
+                - No rush! Great to see you check in even as a one-liner haha. [@[[Mark Robertson](<@[[Mark Robertson.md>)]]
         2. Outgoing messages:
             - [@[[Charles Farr](<@[[Charles Farr.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [fleeting notes](<fleeting notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
@@ -136,7 +138,7 @@
                         - I've been treating @ as closer to "response requested" and cc as "you don't really need to respond, but may want to see this".
                             - A bit fuzzy still for me.
         11. On Peter's CSS Bootcamp:
-            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]""
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]""
                 - Heck ya! This is a great place to put that bootcamp to work
         12. On maturity for different notes
             - "Does each note type need multiple level of maturity?"
@@ -153,7 +155,7 @@
         13. On [filtering](<filtering.md>) over querying
             - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
 `{{[query](<query.md>): {or: [ex-B](<ex-B.md>) [ex-C](<ex-C.md>)}}}`"
-                - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+                - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                     - I find it harder to "play" with queries. 
         14. On namespaces
             - "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>) attribute so who knows lol "
@@ -193,7 +195,7 @@
 
 **Notice**
 We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
             - Mostly interested in the answer
         - [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]] really interesting work. Tomorrow I will give it a second read and let you know if something comes to mind.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
@@ -655,7 +657,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - #[Follow Up](<Follow Up.md>) "[x] [Rasmus Andersson](<Rasmus Andersson.md>)"
     - [Conversation](<Conversation.md>)
         - On graph visual organization, layout, and design
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
                 - Completely agree that the graph [Beau Hann](<Beau Hann.md>) pullled together for RBC3 looks incredibly clean — something to emulate.
                 - My belief is that any design revisions essentially fall into two buckets:
                     - 1) Updates to increase internal clarity of purpose

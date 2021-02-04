@@ -4665,6 +4665,26 @@ a[href^='http']{
 [right-sidebar](<../right-sidebar.md>) .rm-title-textarea {
     width: 95%;
 }```
+        13. Left Sidebar - Highlight important pages [Status](<../Status.md>)/Idea
+            - ```css
+
+.starred-pages a[href*="MorTyZR-2"]>.page,
+.starred-pages a[href*="sQPmakIfe"]>.page,
+.starred-pages a[href*="TxsV9GIET"]>.page
+{
+  color: [6398C4](<../6398C4.md>) !important;
+}```
+        14. Show Main Page multibar [Status](<../Status.md>)/Idea
+            - This is to stop people (read: me :P ) from accidentally clicking on the bar
+            - ```css
+
+.rm-level-0>.rm-multibar {
+    opacity: .3;
+  	border-right: 1px dashed [BFCCD6](<../BFCCD6.md>), .2) !important;
+}
+.rm-level-0>.rm-multibar:hover {
+    border-right: 3px solid [5C7080](<../5C7080.md>), .5);
+}```
     - ### Patch Fixes
         - Fix for orange blocks ((Unsure purpose - BT))
             - ```css

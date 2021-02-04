@@ -16,6 +16,9 @@
             - **[Image](<Image.md>):**
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
+5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
+            - **[Image](<Image.md>):**
+
 - Are we creating [MSN Messenger](<MSN Messenger.md>)? 😂 
             - **[Image](<Image.md>):**
 

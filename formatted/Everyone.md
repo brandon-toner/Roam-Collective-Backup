@@ -4,9 +4,9 @@
 - "[Everyone](<Everyone.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
-- "[Everyone](<Everyone.md>)
+1. "[Everyone](<Everyone.md>)
 
-- "[Everyone](<Everyone.md>)
+2. "[Everyone](<Everyone.md>)
 
 - [Everyone](<Everyone.md>)
 

@@ -25,7 +25,7 @@
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - **[Interests](<Interests.md>):**[cooking](<cooking.md>) [architecture](<architecture.md>) [design](<design.md>) [metacognition](<metacognition.md>) comedic [improvisation](<improvisation.md>) 
-        - **[Queries](<Queries.md>):**
+    - **[Queries](<Queries.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
 - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading

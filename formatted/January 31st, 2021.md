@@ -555,7 +555,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - Hey [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) [not_populated](<not_populated.md>)

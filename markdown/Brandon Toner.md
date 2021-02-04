@@ -4,7 +4,7 @@
         - Website:: [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - Location:: [[Cape Breton]], [[Nova Scotia]] [[Canada]]
         - Time Zone:: [[Atlantic Time]] ([[UTC]] -4:00)
-        - Birthday:: September 5th
+        - Birthday:: [[September 5th, 2021]] 
         - How to contact me:: 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
@@ -33,7 +33,7 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
             - #[[Scratchpad]] #not_populated
             - #GTD #not_populated
             - #[[Change Log]] #not_populated
@@ -57,3 +57,5 @@
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
             - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
+    - BToner — ChatName #42SmartBlock #roam/templates
+        - **Brandon:**

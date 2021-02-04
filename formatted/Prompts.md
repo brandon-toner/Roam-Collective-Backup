@@ -12,6 +12,8 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
+- I'm thinking conventions that are tested and seem to work (even if we are still iterating on them). So far I'm thinking about touching on most of the [Quick Start Guide](<Quick Start Guide.md>), the `@` chat convention, [Daily Activities](<Daily Activities.md>)/[Prompts](<Prompts.md>),
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Explore the block references on the [Prompts](<Prompts.md>)
 

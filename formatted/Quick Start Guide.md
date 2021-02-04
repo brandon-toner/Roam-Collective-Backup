@@ -30,6 +30,9 @@
 
 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [Quick Start Guide](<Quick Start Guide.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- I'm thinking conventions that are tested and seem to work (even if we are still iterating on them). So far I'm thinking about touching on most of the [Quick Start Guide](<Quick Start Guide.md>),
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 

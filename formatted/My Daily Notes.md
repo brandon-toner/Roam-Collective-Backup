@@ -171,9 +171,6 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
-## [Matthew Vogel](<Matthew Vogel.md>)
-- {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [My Daily Notes](<My Daily Notes.md>)
-
 ## [My Daily Notes](<My Daily Notes.md>)
 - Using the `#[My Daily Notes](<My Daily Notes.md>)`
 

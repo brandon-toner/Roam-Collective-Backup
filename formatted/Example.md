@@ -33,6 +33,10 @@
 - [Ideas](<Ideas.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- For each post & reply, label your block with **Your Name:**
+                    - **[Example](<Example.md>):**
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**

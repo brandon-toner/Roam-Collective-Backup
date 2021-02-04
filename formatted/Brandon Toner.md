@@ -4,7 +4,7 @@
         - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
         - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
-        - **[Birthday](<Birthday.md>):** September 5th
+        - **[Birthday](<Birthday.md>):** [September 5th, 2021](<September 5th, 2021.md>) 
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
@@ -33,7 +33,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
             - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
             - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
@@ -57,6 +57,8 @@
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
             - **Page:** <%PAGE%>
 {{[embed](<embed.md>): <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
+    - BToner — ChatName [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+        - **Brandon:**
 
 # Backlinks
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)

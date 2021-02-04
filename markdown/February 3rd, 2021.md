@@ -38,7 +38,7 @@
             - Color directory (setup by [[Charles Farr]])
             - Tag styling
             - Bulk of CSS
-                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[@[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
+                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
                     - Is there a standard way to lay it out so that it is more modular and navigable?
             - #Q Is there a standard format for CSS page documentation? I feel like [[Cato Minor]] came up with something at some point perhaps.
         - [[Cortex Futura]] on [[onboarding]] in a public graph based on different use-contexts.
@@ -78,6 +78,8 @@
                 - Not that I'm aware, great use of Chat though! This escalated for reconsideration nicely. [[~[[Peter Rosso]]]] 
             - "#Q Should we have a page that collects decisions/latest thinking on best practices for norms, that expands on "where to write"? or perhaps extends the FAQ?"
                 - Absolutely. If you have a vision for how it could look, feel free to build it as you imagine! [[~[[Larissa de Lima]]]]
+            - "So many thoughts, so little time. Will return when I can."
+                - No rush! Great to see you check in even as a one-liner haha. [[@[[Mark Robertson]]]]
         2. Outgoing messages:
             - [[@[[Charles Farr]]]] [[@[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [[fleeting notes]] vs [[seedlings]] #maturity
@@ -136,7 +138,7 @@
                         - I've been treating @ as closer to "response requested" and cc as "you don't really need to respond, but may want to see this".
                             - A bit fuzzy still for me.
         11. On Peter's CSS Bootcamp:
-            - "[[~[[Brandon Toner]]]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[@[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]""
+            - "[[~[[Brandon Toner]]]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]""
                 - Heck ya! This is a great place to put that bootcamp to work
         12. On maturity for different notes
             - "Does each note type need multiple level of maturity?"
@@ -153,7 +155,7 @@
         13. On [[filtering]] over querying
             - "[[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`"
-                - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [[@[[Matthew Vogel]]]]
+                - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [[~[[Matthew Vogel]]]]
                     - I find it harder to "play" with queries. 
         14. On namespaces
             - "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol "
@@ -193,7 +195,7 @@
 
 **Notice**
 We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
-        - [[~[[Brandon Toner]]]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[@[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
+        - [[~[[Brandon Toner]]]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
             - Mostly interested in the answer
         - [[@[[Dhrumil Shah]]]] really interesting work. Tomorrow I will give it a second read and let you know if something comes to mind.
     - #Feedback  #not_populated
@@ -655,7 +657,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - #[[Follow Up]] "{{[[DONE]]}} [[Rasmus Andersson]]"
     - #Conversation
         - On graph visual organization, layout, and design
-            - [[@[[Brandon Toner]]]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[@[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
+            - [[@[[Brandon Toner]]]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
                 - Completely agree that the graph [[Beau Hann]] pullled together for RBC3 looks incredibly clean — something to emulate.
                 - My belief is that any design revisions essentially fall into two buckets:
                     - 1) Updates to increase internal clarity of purpose

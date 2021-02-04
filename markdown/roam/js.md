@@ -74,3 +74,9 @@ if (!existing) {
 }
 ```
     - Activate by typing `{{query builder}}` and hitting enter at the end of the line
+- Disable Intercom
+    - {{{[[roam/js]]}}}
+        - ```javascript
+try{
+  document.querySelector('.intercom-lightweight-app').remove();
+} catch(e) {};```

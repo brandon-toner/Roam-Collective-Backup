@@ -124,11 +124,7 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>):
 
-- {{[query](<query.md>): {and: {or: {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>)} [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]} {not: [query](<query.md>)}
-
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [@](<@.md>) [Matthew Vogel](<Matthew Vogel.md>) {not: [query](<query.md>)}
+- {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}
 
 - {{[query](<query.md>):
 

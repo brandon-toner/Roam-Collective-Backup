@@ -7,14 +7,13 @@
         - Work:: [[Architect]] [[Designer]]
         - How to contact me:: Either twitter or the [[Roam Slack]] works 
         - Interests::[[cooking]] [[architecture]] [[design]] [[metacognition]] comedic [[improvisation]] 
-        - Queries::
-            - [[notifications]]
-                - {{[[query]]: {and: {or: {and: [[@]] [[Matthew Vogel]]} [[@[[Matthew Vogel]]]]} {not: [[query]]}} }}
-                - {{[[query]]: {and: [[@]] [[Matthew Vogel]] {not: [[query]]}}}}
-            - Misc useful #datalog #queries
-                - {{[[embed]]: ((((6zu7U0y7r))))}}
-                - "Possible to generate a report of "pages authored by graph members""
-                    - ```javascript
+    - Queries::
+        - [[notifications]]
+            - {{[[query]]: {and:[[@[[Matthew Vogel]]]] {or:[[cc:[[Matthew Vogel]]]]} {not:[[query]]}}}}
+        - Misc useful #datalog #queries
+            - {{[[embed]]: ((((6zu7U0y7r))))}}
+            - "Possible to generate a report of "pages authored by graph members""
+                - ```javascript
 :q [:find ?n 
     :where 
     	[?note :node/title ?n]
@@ -28,8 +27,10 @@
 		[?t :node/title "Members"]
 		[?tag :node/title "Tags"]]
 ```
-            - My Notes
-                - {{[[query]]: {and:[[Matthew Vogel]] [[My Daily Notes]] {not:{or: [[@]] [[~]] }}}}}
-            - People near me!
-                - {{[[query]]: {and: [[Location]] {or: [[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]] }}}}
-        - SmartBlocks::#not_populated
+        - My Notes
+            - {{[[query]]: {and:[[Matthew Vogel]] [[mtv]] }}}
+        - People near me!
+            - {{[[query]]: {and: [[Location]] {or: [[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]] }}}}
+    - SmartBlocks::#not_populated
+    - Bookmarks::
+        - [[[[E:]] alert fatigue]]

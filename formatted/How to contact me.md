@@ -9,7 +9,7 @@
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
-- **[Birthday](<Birthday.md>):** September 5th
+- **[Birthday](<Birthday.md>):** [September 5th, 2021](<September 5th, 2021.md>) 
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)

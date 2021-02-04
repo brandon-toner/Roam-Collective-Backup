@@ -74,6 +74,12 @@ if (!existing) {
 }
 ```
     - Activate by typing `{{query builder}}` and hitting enter at the end of the line
+- Disable Intercom
+    - {{{[roam/js](<../roam/js.md>)}}}
+        - ```javascript
+try{
+  document.querySelector('.intercom-lightweight-app').remove();
+} catch(e) {};```
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -94,4 +100,6 @@ if (!existing) {
 - {{[roam/js](<../roam/js.md>)}
 
 - {{[roam/js](<../roam/js.md>)}
+
+- {{{[roam/js](<../roam/js.md>)}
 

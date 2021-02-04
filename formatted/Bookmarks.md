@@ -44,6 +44,10 @@
 
 - "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
+    - **[Bookmarks](<Bookmarks.md>):**
+
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>) [Bookmarks](<Bookmarks.md>)}
 
