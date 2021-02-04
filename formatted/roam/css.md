@@ -4659,6 +4659,12 @@ a[href^='http']{
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
+        12. Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
+            - ```css
+
+[right-sidebar](<../right-sidebar.md>) .rm-title-textarea {
+    width: 95%;
+}```
     - ### Patch Fixes
         - Fix for orange blocks ((Unsure purpose - BT))
             - ```css

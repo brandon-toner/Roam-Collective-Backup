@@ -147,7 +147,7 @@
                         - What are your thoughts? [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                             - Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'"
                                 - Agreed [*](((Sh32I3JAi))) 
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
             - I'm fine with just using simple namespacing for those sorts of collections:
                 - e.g. [Books/The Culture Code](<Books/The Culture Code.md>)
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
@@ -381,7 +381,7 @@
 		[?tag :node/title "Tags"]]
 ```
     - [Bookmarks](<Bookmarks.md>)
-        - #[Follow Up](<Follow Up.md>) "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?""
+        - #[Follow Up](<Follow Up.md>) "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?""
     - [Questions](<Questions.md>)
         - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
             - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>) be integrated into a community [zettelkasten](<zettelkasten.md>) system?
@@ -458,7 +458,7 @@
                                 - [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
                                     - Could you even tie this CSS to an internal flag that turns on namespaces?
         - On [CSS](<CSS.md>) workaround for [Namespaces](<Namespaces.md>) with BToner + MVogel
-            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
             - [ ] Investigate CSS workaround for namespaces
         - On [maturity](<maturity.md>) and [maturation](<maturation.md>) of [notes](<notes.md>) with PRosso
             - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  "

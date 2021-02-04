@@ -5,6 +5,7 @@
         - **[Location](<Location.md>):** [Bristol](<Bristol.md>), [UK](<UK.md>)
         - **[Time Zone](<Time Zone.md>):** [GMT](<GMT.md>) ([UTC](<UTC.md>) 0:00)
         - **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Engineerig](<Engineerig.md>)
+        - **[Birthday](<Birthday.md>):** March 21st, 2021
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Twitter (preferred, checked daily at 1200GMT and 1700 GMT)
             - Send me a DM on Roam Slack (also good, but checked less frequently)

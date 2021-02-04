@@ -112,6 +112,12 @@
 ## [FN](<FN.md>)
 - **[Tags](<Tags.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
+
+## [February 4th, 2021](<February 4th, 2021.md>)
+- I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):**
 
@@ -227,6 +233,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
+- **[Tags](<Tags.md>):**
+
+## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)

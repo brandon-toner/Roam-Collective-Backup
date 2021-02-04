@@ -1,4 +1,4 @@
--  Tags:: #Projects #[[Week-04: 01-25-2021]], #[[Week-05: 02-01-2021]], #[[January 2021]]
+- Tags:: #Projects #[[Week-04: 01-25-2021]], #[[Week-05: 02-01-2021]], #[[January 2021]]
     - Date Created:: [[January 26th, 2021]]
     - Related:: #[[not_populated]]
     - People:: [[Everyone]]

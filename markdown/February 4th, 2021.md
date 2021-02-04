@@ -3,34 +3,53 @@
 - #[[My Daily Notes]] [[Roam-Collective]] [*]([[rc]]) {{word-count}}
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
-    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) 
+    - #Chat ((A place to propose objects of discussion))
+        - "[[Everyone]] Would people want to add birthdays to their profiles?"
+            1. I've added mine - Brandon
+            2. Added mine - Peter
+        - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+        - Thoughts on [this](((ROVBmMBrp)))?
+            - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
     - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
-    - #[[Scratchpad]] #not_populated
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]]) 😴 offline, back at 1700GMT
+    - #[[Scratchpad]] 
         - "Go thought yesterdays Scratchpad before opening any Pandora's Box."
             - PPV keeps a meaningful and directed approach which avoids getting lost in too many tasks https://www.youtube.com/watch?v=b0GrpGA0o2k&ab_channel=AugustBradley
                 - See Book Essentialism
                 - Divengence/Convergence
                     - Exploration/Concretization
-        - '[[@[[@[[Larissa de Lima]]]]'"[[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) "
+        - '`[[@[[@[[Larissa de Lima]]]]`'"[[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) "
             - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
-
-        - 
-    - #GTD #not_populated
+        - Can we map out all of the topics we have discussed over last week in a page and as important notes correction were made things can be ~~struck through~~ or they can converge to a permanent note.
+            - I find conversation difficult to follow at times, how so we bring them to a one page view?
+        - are there #conventions about how to react to people entries? If I just wanted to upvote a message, validate it or show that I read an `[[everyone]]` message we could just react to the block like I am reacting to this message. 
+        - Conventions for Δ?
+    - #GTD 
         - Check out "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
-        - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]]
+    - #Conversation 
+        - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
-        - "Think it could be interesting to explore - what types of questions / template are you envisioning?"
-            - [[^[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of those information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived. What needs to be 
+            - "Think it could be interesting to explore - what types of questions / template are you envisioning?"
+                - [[@[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion, for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of that information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived, or what needs to be dealt with and when. That works well with tasks, but how do we do something similar?
+At the end of a week/month, I feel like fleeting notes should be reorganised in a page forming a conversation which might lead the following week to some permanent notes. [[cc[[Larissa de Lima]]]] [[cc[[Charles Farr]]]] 
+__I love that your comment came from back in time 🤣!!__
+
+Monthly reviews could include a zoom catchup?
+"How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support collaboration in a collaborative graph?"
+        - [[Everyone]] How do we develop a skill to have divergent and convergent conversations. I think lots of interesting conversation with friends just kept on diverging until nobody remembered why we were discussing what and we just moved on. Not all conversations need to go somewhere, but is there a skill?
+        - [[@[[leekeifon]]]] What does [reasonable](((5SJKfkOSd))) mean?
+        - [[Everyone]] Would people want to add birthdays to their profiles?
     - #Feedback  #not_populated
+    - #Bookmarks 
+        - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
+        - #[[Follow Up]] """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
@@ -50,3 +69,45 @@
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
     - #[[Bookmarks]]
 - ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) 🟠Away
+    - #[[Scratchpad]] 
+        - Are we creating [[MSN Messenger]]? 😂 
+            - Image::
+                - ![](https://img.buzzfeed.com/buzzfeed-static/static/2017-09/28/1/asset/buzzfeed-prod-fastlane-01/sub-buzz-2729-1506578050-1.png?crop=259:242;5,0&downsize=600:*&output-format=auto&output-quality=auto)
+                - ![](https://img.buzzfeed.com/buzzfeed-static/static/2017-09/27/20/asset/buzzfeed-prod-fastlane-01/sub-buzz-25360-1506558842-2.png?downsize=600:*&output-format=auto&output-quality=auto)
+        - #I Use the top-section chat as inline chat... Rather than as the block-reference convention.
+            - Convention/norm:
+                - Personal DNP is "Me-only" writing space
+                - Top-section DNP is considered "common-space"
+            - Suggestion: Use numbered lists to make new replies more apparent. 
+            - #Observations — the block authorship on hover may make names less necessary? 
+                - I would suggest plaintext for names to avoid gathering a bunch of linked refs maybe?
+    - #GTD #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+    - #Feedback  #not_populated
+- ---
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - {{[[embed]]: ((((rhJbktB9i))))}}
+        - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components
+            - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
+        - {{[[embed]]: ((((0nxSPSAyD))))}}
+    - #Questions ((about the graph, or directed towards someone)) 
+        - How do you #query? for blocks that contain 2 tags and not for when one is a child of the other
+            - i.e. look for this 
+                - #tag1 #tag2
+            - Not this
+                - #tag1
+                    - #tag2
+    - #Conversation 
+        - [[@[[Brandon Toner]]]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
+            - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol 
+        - [[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
+`{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #[[Change Log]]
+        - [Added CSS](((dQZ2rE2un))) to prevent the right sidebar page title from jumping around when editing the title
+    - ---

@@ -4,6 +4,7 @@
         - Website:: [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - Location:: [[Cape Breton]], [[Nova Scotia]] [[Canada]]
         - Time Zone:: [[Atlantic Time]] ([[UTC]] -4:00)
+        - Birthday:: September 5th
         - How to contact me:: 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)

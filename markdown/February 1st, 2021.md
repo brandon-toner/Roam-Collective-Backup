@@ -147,7 +147,7 @@
                         - What are your thoughts? [[~[[Matthew Vogel]]]]
                             - Another option might be to make that a step in the "[[Quick Start Guide]]'"
                                 - Agreed [*](((Sh32I3JAi))) 
-        - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
+        - [[~[[Brandon Toner]]]] [[~[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
             - I'm fine with just using simple namespacing for those sorts of collections:
                 - e.g. [[Books/The Culture Code]]
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
@@ -381,7 +381,7 @@
 		[?tag :node/title "Tags"]]
 ```
     - #Bookmarks
-        - #[[Follow Up]] "[[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?""
+        - #[[Follow Up]] "[[~[[Brandon Toner]]]] [[~[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?""
     - #Questions
         - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
             - #Q How could [[spaced repetition]] be integrated into a community [[zettelkasten]] system?
@@ -458,7 +458,7 @@
                                 - #Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?
                                     - Could you even tie this CSS to an internal flag that turns on namespaces?
         - On [[CSS]] workaround for [[Namespaces]] with BToner + MVogel
-            - [[~[[Brandon Toner]]]] [[@[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
+            - [[~[[Brandon Toner]]]] [[~[[Matthew Vogel]]]] wanted to get your expertise on → "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
             - {{[[TODO]]}} Investigate CSS workaround for namespaces
         - On [[maturity]] and [[maturation]] of [[notes]] with PRosso
             - [[^[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "

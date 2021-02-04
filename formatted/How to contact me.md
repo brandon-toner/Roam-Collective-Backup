@@ -9,7 +9,7 @@
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
-- **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
+- **[Birthday](<Birthday.md>):** September 5th
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
@@ -41,7 +41,7 @@
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Engineerig](<Engineerig.md>)
+- **[Birthday](<Birthday.md>):** March 21st, 2021
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)

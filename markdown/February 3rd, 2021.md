@@ -75,7 +75,7 @@
             - "[[~[[Brandon Toner]]]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)"
                 - Riiiight, this tactic slipped my mind. Thanks!
             - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
-                - Not that I'm aware, great use of Chat though! This escalated for reconsideration nicely. [[@[[Peter Rosso]]]] 
+                - Not that I'm aware, great use of Chat though! This escalated for reconsideration nicely. [[~[[Peter Rosso]]]] 
             - "#Q Should we have a page that collects decisions/latest thinking on best practices for norms, that expands on "where to write"? or perhaps extends the FAQ?"
                 - Absolutely. If you have a vision for how it could look, feel free to build it as you imagine! [[~[[Larissa de Lima]]]]
         2. Outgoing messages:
@@ -150,6 +150,14 @@
                 - I don't think so! I like that metaphor quite a bit, and it's still in keeping with how others are using it... mostly. 
                 - I'd say it works.
                 - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [[@[[Charles Farr]]]] [[cc:[[Larissa de Lima]]]]
+        13. On [[filtering]] over querying
+            - "[[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
+`{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`"
+                - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [[@[[Matthew Vogel]]]]
+                    - I find it harder to "play" with queries. 
+        14. On namespaces
+            - "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol "
+                - I do the same. 
     - #Feedback
         - #[[[[Feedback]]: What's working]]
             - Love the use of GIFs, Images, sketches, etc!
@@ -727,7 +735,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - "[[~[[Larissa de Lima]]]] [[@[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for..."
                     - I support this!! 
             - Support for Weekly Reviews idea by PRosso
-                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]]"
+                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
                     - Think it could be interesting to explore - what types of questions / template are you envisioning?
         - Reactions to ideas on making things easier for [[new users]]
             - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members." + could also be relevant for this: "Table of Contents or Shortcuts to jump to frequently used parts."

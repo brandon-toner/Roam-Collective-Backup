@@ -4,6 +4,7 @@
         - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - **[Location](<Location.md>):** [Cape Breton](<Cape Breton.md>), [Nova Scotia](<Nova Scotia.md>) [Canada](<Canada.md>)
         - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
+        - **[Birthday](<Birthday.md>):** September 5th
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
@@ -111,6 +112,9 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [February 4th, 2021](<February 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
