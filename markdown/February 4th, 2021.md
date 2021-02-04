@@ -1,0 +1,29 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] [*]([[rc]]) {{word-count}}
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
+    - #[[Scratchpad]] #not_populated
+        - "Go thought yesterdays Scratchpad before opening any Pandora's Box."
+            - PPV keeps a meaningful and directed approach which avoids getting lost in too many tasks https://www.youtube.com/watch?v=b0GrpGA0o2k&ab_channel=AugustBradley
+                - See Book Essentialism
+                - Divengence/Convergence
+                    - Exploration/Concretization
+        - 
+    - #GTD #not_populated
+        - Check out "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
+        - Go thought yesterdays Scratchpad before opening any Pandora's Box.
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]]
+            - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
+    - #Feedback  #not_populated
+- ---

@@ -2,15 +2,32 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) [*]([rc](<rc.md>)) {{word-count}}
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - 
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        - Discussions include:
+            - [CSS & visual organization](((ohA0JBJZ6)))
+            - [Norms](((CaGPiJ2TS)))
+            - Questions
+            - [Shortcuts Bar](((ZH-J4OPDR)))
+            - [Dhrumil's adventures in the future of Roam's features](((ogK77gVv6)))
+        - [Brandon Toner](<Brandon Toner.md>)
+            - WOO There is some PROGRESS in here tonight. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] and [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] you folks are on fire. 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion))
         - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
+        - Been thinking about it and I see no benefit of "Daily Log" up here vs "Main Feed". Thoughts?
+    - #[Bug Reports](<Bug Reports.md>)
+        - Double pressing `return` isn't always unindenting a level for me... (both here and personal graph) Anyone else?
+        - This is scary:
+            - **[Image](<Image.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fsk8-X1ekiB.png?alt=media&token=231d30a9-f65c-4901-9e3b-e8cb2f8d402b)
+            - **[Solution](<Solution.md>):**
+                - Was able to save it with a JSON backup! 
+                    - Imported to personal graph
+                    - Copied in missing pieces.
     - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) 😴 offline, back tomorrow
     - #[Scratchpad](<Scratchpad.md>) 
         - [Observations](<Observations.md>)
             - The [[[Roam Book Club](<[[Roam Book Club.md>) III]] graph looks AMAZING! [Examples](<Examples.md>)
@@ -21,16 +38,125 @@
             - Color directory (setup by [Charles Farr](<Charles Farr.md>))
             - Tag styling
             - Bulk of CSS
-                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
                     - Is there a standard way to lay it out so that it is more modular and navigable?
+            - [Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps.
         - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
             - **[URL](<URL.md>):** https://twitter.com/cortexfutura/status/1357017794802556928?s=21
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. Reorganized and decluttered CSS a bit — I've gone as far as my expertise will allow haha. [*](((xVo60DN5o)))
+        2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
+            - **[Rationale](<Rationale.md>):** "My thinking on why this order"
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - [Dhrumil Shah](<Dhrumil Shah.md>) on some potential Roam features and design. "[Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))"
+        - [Charles Farr](<Charles Farr.md>) on CSS layout and design
+            - "On graph visual organization, layout, and design"
+    - [Questions](<Questions.md>)
+        - [Q](<Q.md>) How can we maintain momentum when users inevitably get busy and need to step away from the graph for a while?
+            - read: me, next few days haha
+            - [I](<I.md>) We could create a collection of "user statuses" as options for users to display on their DNP
+                - Maybe it could even be a dropdown! 
+                    - Or if you're feeling creative you can go off the list to add something unique.
+                - Inspired by [Larissa's status updates](((JnHKrrTPC)))
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [curation](<curation.md>) is an essential activity within a collaborative graph community. 
+            - Building on "#[Fleeting Notes](<Fleeting Notes.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight"
+            - To assemble a puzzle you need to make sure you've gathered the related pieces. [Metaphors](<Metaphors.md>)
+                - 1) Create ideas (pieces) -- divergence / brainstorming
+                - 2) Gather related ideas -- collection / curation
+                - 3) Look for patterns, reorganize, and summarize key themes -- convergence
+                - 4) Use that new formed stability to continue the cycle.
+                    - Build on the ideas, follow the tangents, continue the thread.
+                    - Like adding a new level of scaffolding as you work your way up the side of a building. Building it as you go, and standing on the prior construction.
+    - [Conversation](<Conversation.md>)
+        1. Simple Replies
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)"
+                - Riiiight, this tactic slipped my mind. Thanks!
+            - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
+                - Not that I'm aware, great use of Chat though! This escalated for reconsideration nicely. [@[[Peter Rosso](<@[[Peter Rosso.md>)]] 
+            - "[Q](<Q.md>) Should we have a page that collects decisions/latest thinking on best practices for norms, that expands on "where to write"? or perhaps extends the FAQ?"
+                - Absolutely. If you have a vision for how it could look, feel free to build it as you imagine! [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+        2. Outgoing messages:
+            - [@[[Charles Farr](<@[[Charles Farr.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
+        3. Charles on [fleeting notes](<fleeting notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
+            - "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?"
+                - Seedlings are more "on the path towards" evergreen. 
+                - Fleeting notes are more chaotic, a bit less polished and concise.
+                - The objective difference I would propose would be page-status. [~[[Charles Farr](<~[[Charles Farr.md>)]]
+                    - Fleeting note becomes a seedling when it becomes a page.
+                        - Intermediary step before acquiring the `[E:](<E:.md>)` namespace and `#[Evergreen Notes](<Evergreen Notes.md>)` tag.
+                            - Same template as EN, but with `[Seedlings](<Seedlings.md>)` instead of `#[Evergreen Notes](<Evergreen Notes.md>)`
+        4. #[Follow Up](<Follow Up.md>) "Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  "
+            - Don't quite understand this yet. Circle back.
+        5. Keifon on Roam Games as a short-term goal
+            - "Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+                - Yea, great idea -- though I have limited bandwidth until mid next week...
+                - I'll keep an eye on conversation if you want to keep riffing on it! By in large, I'm playing a long-term game with this project, but love the idea of [sprints](<sprints.md>). Hopefully, I'll be able to carve out some time to keep up with it. But the beauty of the graph is based on the conventions, information should accumulate in a way that transcends time-alignment. 
+        6. Keifon on verbatim notes
+            - "#[Ideas](<Ideas.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]"
+                - Yea, based on the block refs to original source, should usually be able to trace back informally. Not sure how to do that systematically though... besides keeping and eye on block refs?
+        7. Keifon on async communication 
+            - "#[Q](<Q.md>) What’s the best practice for async communication? [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+                - Will need to reflect on this some more, no short-term solution immediately comes to mind... [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        8. Dhrumil on potential Roam features / designs
+            - [Custom [[Roam](<Custom [[Roam.md>) /-Menu Which Grows with the User's Skill Level]] [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]]
+                - Love [this](((g9GWQVxNJ))) idea
+                    - Agree that more advanced users hardly use the slash menu, but I bet they would if it were suited to their growing need (extensions, shortcuts, etc)[*](((WxUPWq2y7)))
+            - Seems like the sparkle would run it's course quite quickly! [*](((PVKEH1V7X)))
+                - Doesn't take long to at least *see* features. But it takes a while to totally grok them.
+            - Lots of great stuff in those notes -- I've bookmarked to return at some point.
+        9. Larissa on a new shortcuts menu
+            - "A proposal, to put something for people to react to:"
+                - Love it! Gonna do this right away. How do I get those dash dividers?? [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+        10. Larissa's Questions:
+            - "Questions I have:  "
+                - All great questions! Every one of these disambiguations are on my mind...
+                    - "They seem minor and I don't want to clutter the tag when there are more meaty questions at higher level of abstraction"
+                        - I think yes. The meatier ones get escalated to page-level. (hasn't happened yet to my knowledge)
+                    - "[Q](<Q.md>) When to use personal DNP vs. Roam Collective one"
+                        - Personal = most
+                        - Send a copy to the top RC one to make it more central. My vision is that the top section serves as a first place to look in the graph for the day. And memorializes highlights over time a bit better. I particularly like The Main Feed.
+                            - Anyone can put stuff here.
+                            - Kinda like [this](((j0l9zU-q-)))
+                                - Feels easy to "get a sense of the day's work" [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]], [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+                    - "[Q](<Q.md>) When to use feedback vs. pose a question"
+                        - Feedback is more for general themes and feelings about what is going well and what could be improved. 
+                            - There is some overlap that needs to be ironed out....
+                            - Examples
+                                - "Love this (X) convention"
+                                - "Suprised how well X is working"
+                                - "Feeling confused about when to X... where to put Y"
+                                - Actual example [here](#[[[Feedback](<[[Feedback.md>): What's working]])
+                            - Maybe Feedback is more reflective in tone? But maybe that should be something named differently. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+                                - Some overlap with how I've been experimenting with Observations.
+                            - Maybe "Reflections" is best?
+                    - "[Q](<Q.md>) When to use 📨 vs. 🚨 ?"
+                        - I've been treating @ as closer to "response requested" and cc as "you don't really need to respond, but may want to see this".
+                            - A bit fuzzy still for me.
+        11. On Peter's CSS Bootcamp:
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]""
+                - Heck ya! This is a great place to put that bootcamp to work
+        12. On maturity for different notes
+            - "Does each note type need multiple level of maturity?"
+                - **[Thoughts](<Thoughts.md>):** [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                    - Fleeting -- nah
+                    - Literature -- also nah
+                        - Unless maybe a group of literature notes matured into a summary of the content... (but that feels more analogous to [creative projects](<creative projects.md>) (loss of atomicity))
+                    - Evergreen -- yes
+                    - Evergreen Q's (whatever they are called) -- yes
+            - "Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?"
+                - I don't think so! I like that metaphor quite a bit, and it's still in keeping with how others are using it... mostly. 
+                - I'd say it works.
+                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [@[[Charles Farr](<@[[Charles Farr.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+    - [Feedback](<Feedback.md>)
+        - #[[[Feedback](<[[Feedback.md>): What's working]]
+            - Love the use of GIFs, Images, sketches, etc!
+                - [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [here](((pA1lK9w6c))) and [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [here](((PSVDrzk2_)))
+            - Love these questions to gather clarity and input, then assembly into [norms](<norms.md>). [here](((mkTuyp16G))) to [here](((CaGPiJ2TS)))
+            - Love these status updates! [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FGoSqscyypY.png?alt=media&token=51810c01-2033-45db-b697-e97263163854)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
     - #[Scratchpad](<Scratchpad.md>) 
@@ -38,7 +164,7 @@
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
         - "[GTD](<GTD.md>)"
         - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
-            - This is a common problem in research groups. We follow the double diamond structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
+            - This is a common problem in research groups. We follow the [double diamond](<double diamond.md>) structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
         - "Motivation -> Principles -> Process Design -> Implementation -> Output"
             - PPV?
         - What is the parallel between the RC and the MIT provisional building mentioned in Deep work? 
@@ -59,6 +185,9 @@
 
 **Notice**
 We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades."
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
+            - Mostly interested in the answer
+        - [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]] really interesting work. Tomorrow I will give it a second read and let you know if something comes to mind.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Dhrumil Shah](<Dhrumil Shah.md>) {{word-count}}
@@ -256,7 +385,7 @@ preloaded search so you don't even have to make a search and can get started wit
                 - #[Content Notes](<Content Notes.md>)
                     - Once Roam Multiplayer exists, onboarding will be dramatically more enjoyable. ((30QXYkryL)) would essentially be a web that you can browse consisting of all the graphs you have access to. New users can simply browse around public graphs, just like they do in the existing web, and click on an interesting block to see its "code" or [Indicator on [[Roam](<Indicator on [[Roam.md>) Blocks Using Never-Before-Seen X-Parser Components or Templates]] to see its documentation. This would make it obvious to the user how Roam can be used.
                         - {{[embed](<embed.md>): ((((mXQeq6xBQ))))}}
-                        - Roam Web search relies heavily on a concept I called `Networked Aliases` if you're interested.
+                        - [Roam Web](<Roam Web.md>) search relies heavily on a concept I called `Networked Aliases` if you're interested.
                             - {{embed: ((YnJXOU5_-))}}
                     - In ((30QXYkryL)), read only graphs are essentially playgrounds where the user can move things around and write stuff as they wish. Of course, none of it will actually be saved. To keep their modifications, the user must fork the read only graph or send the blocks to a graph they can edit.
                         - {{[embed](<embed.md>): ((((Zid6lqS-_))))}}
@@ -368,4 +497,181 @@ These users would have far better outcomes if they simply operated at or slightl
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
+    - [Scratchpad](<Scratchpad.md>)
+        - On [curation](<curation.md>) versus [synthesis](<synthesis.md>)
+            - [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] noted the value of [curation](<curation.md>) as a mechanism for synthesis
+                - https://twitter.com/calhistorian/status/1357033240507256832?s=20
+                - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
+                    - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [@[[Brandon Toner](<@[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for...
+                - #[Fleeting Notes](<Fleeting Notes.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight
+        - Current gaps in onboarding & internal documentation #[Follow Up](<Follow Up.md>)
+            - Philosophy of Roam Collective — mission statement, divergence → convergence → divergence, projects & goals
+            - Convention encyclopedia 
+                - Concise definition of all tags
+                - A taxonomy of notes and maturity
+                - Guide to collaboration within the graph
+        - On Peter Russo's glorious wave & double-diamond analogies'
+            - [Peter Rosso](<Peter Rosso.md>) the analogies [here](((In94jaGXw))) are incredible!
+                - I think that developing a library of [exercises](<exercises.md>) / [activities](<activities.md>), both [synchronous](<synchronous.md>) and [asynchronous](<asynchronous.md>), could be an incredible use case for use internally and to share externally
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Implementing synchronous & asynchronous writing [exercises](<exercises.md>) throughout the [[[E:](<[[E:.md>) cycles of divergence and convergence]] better support the goals of each cycle
+                        - Exercises to support divergent thinking 
+                            - Synchronous
+                                - ...
+                            - Asynchronous
+                                - ...
+                        - Exercises to support convergent thinking
+                            - Synchronous
+                                - ...
+                            - Asynchronous
+                                - ...
+                    - Examples of exercises
+                        - [Weekly or monthly reviews](((27-7K-sVS)))
+        - "[[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]"
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - #[Follow Up](<Follow Up.md>) "When Brandon commented made about [asynchronous](<asynchronous.md>) editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [synchronous](<synchronous.md>)?!" "
+        - #[Follow Up](<Follow Up.md>) "[x] Obviously [Robert Haisfield](<Robert Haisfield.md>)  lol, probably the go-to person for this"
+        - #[Follow Up](<Follow Up.md>) "[x] [Rasmus Andersson](<Rasmus Andersson.md>)"
+    - [Conversation](<Conversation.md>)
+        - On graph visual organization, layout, and design
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
+                - Completely agree that the graph [Beau Hann](<Beau Hann.md>) pullled together for RBC3 looks incredibly clean — something to emulate.
+                - My belief is that any design revisions essentially fall into two buckets:
+                    - 1) Updates to increase internal clarity of purpose
+                    - 2) Packaging to enable easily access by external participants
+                - On "1) Updates to increase internal clarity of purpose", the following tasks seem like good starting places
+                    - Select a color scheme that we want to go with and build in standardized color variables
+                        - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
+                    - Rationalize down the number of tags we have a current (design has been divergent, time to converge a bit)
+                    - Develop a visual language that has implied meaning
+                        - For instance...
+                            - All section-level tags have a background (e.g., "`[Conversation](<Conversation.md>)")
+                            - All block-level tags are bolded and add a `:` at the end (e.g., formatting like "`#[Q](<Q.md>)" like [Evergreen](<Evergreen.md>))
+                            - Aligning color palettes with specific tag groupings (e.g., all DNP modules tags are shades of blue while notes are shades green (spitballing here))
+                    - Create some "dashboard" pages that aggregate specific tags (e.g., a layout that makes it easy to see the latest Questions, or Questions that have been answered, etc.)
+                - On "2) Packaging to enable easily access by external participants"
+                    - This is where we can really lean into a similar approach to the RBC — minimalistic, use of more hierarchical design (e.g,, tables of contents, headers, footers, embeds)
+        - On disentangling note types & note [maturity](<maturity.md>)
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I've been thinking about this all day and I think that we should disentangle note type and maturity status
+                - Below, the lowest level of maturity is any type of note at the block level, then move up from there through levels of maturity after transclusion to a page
+                    - Questions:
+                        - Does each note type need multiple level of maturity?
+                            - If so, should the levels of maturity be the same across note type?
+                        - What is the right scale for maturity?
+                            - Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fs72eIo55jm.png?alt=media&token=b693d9e9-c70b-4a47-9d7c-4cf0c6915bc6)
+        - On graph instability
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)
+        - Simple replies
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] "Love it! Gonna do this right away. How do I get those dash dividers?? [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]" I'm pretty sure you just create pages like below and then favorite them
+                - [––––––––––––––––––––––––––––––](<––––––––––––––––––––––––––––––.md>)
+                - [–––––––––––––––––––––––––––––––](<–––––––––––––––––––––––––––––––.md>)
+                - [––––––––––––––––––––––––––––––––](<––––––––––––––––––––––––––––––––.md>)
+                - [–––––––––––––––––––––––––––––––––](<–––––––––––––––––––––––––––––––––.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} 😴 offline, back tomorrow
+    - [Scratchpad](<Scratchpad.md>) 
+        - ""Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions**" 🛠 Categorizing questions: "
+            - Continued building a directory of questions, as a first step on aggregating and prioritizing (for when we are ready for [convergence](<convergence.md>))
+            - Requests from community: please feel free to contest choices and groupings made!
+        - #[Fleeting Notes](<Fleeting Notes.md>) Scoping is a key step for prioritization and getting things done
+            - Think this is also very tied to GTD philosophy
+            - The proliferation of new content in Roam creates two key challenges
+                - How to prioritize base on what has the greatest need?
+                - How to not let little things fall through the cracks
+            - Scoping and re-scoping need to be thought in conjunction with phasing of convergence and divergence
+            - Related: To assemble a puzzle you need to make sure you've gathered the related pieces. [Metaphors](<Metaphors.md>)
+                - To assemble a puzzle, although not necessary, it helps to know what the picture is [Metaphors](<Metaphors.md>) 
+        - Draft version of [norms](<norms.md>) (for my own personal ease of reference)
+            - "[Q](<Q.md>) When to use personal DNP vs. Roam Collective one"
+                - **Personal** most of the time
+                - **Roam Collective:**  "Send a copy to the top RC one to make it more central. My vision is that the top section serves as a first place to look in the graph for the day. And memorializes highlights over time a bit better. I particularly like The Main Feed."
+                - Examples:
+            - "[Q](<Q.md>) When to use feedback vs. pose a question"
+                - "Feedback is more for general themes and feelings about what is going well and what could be improved. "
+                - Examples: 
+            - "[Q](<Q.md>) When to use 📨 vs. 🚨 ?"
+                - 🚨 Response requested
+                - 📨 FYI
+    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - #[Help Wanted](<Help Wanted.md>) on process of organizing questions
+            - "I think yes. The meatier ones get escalated to page-level. (hasn't happened yet to my knowledge)"
+                - Challenge identified:  having many instances of a tag slows Roam when going navigating by scrolling through linked references
+                    - Does this happen to anyone else?  Any solutions?  
+                    - I have found this to be the case as well with my personal graph - it gets to a point where there are so many instances of a specific tag that I can no longer navigate through the linked references.  However, it's still clearly super useful for have the tag for querying
+                - So this came up because I was going to go through questions to escalate some to page-level.  
+                    - My process was to go through the questions and then organize/indent them, as a way to then decide what should be grouped/escalated, as well as provide a comprehensive view to allow for scoping/convergence (see ""Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions**" 🛠 Categorizing questions: ")
+                        - Anyways, that was the dream. 
+                        - The problem became every time I try going through the Q linked references, it gets so so slow that there is a good 3-4 second delay for every letter I type.  Basically, becomes unworkable
+                            - For the specific challenge, I have now talked myself into a possible solution - I can just break the questions down by querying by day - that will probably make it more manageable. 
+                            - However, the broader question remains
+            - "PPV?"
+                - What is PPV?
+        - On [convergence](<convergence.md>) 
+            - Support for [curation](<curation.md>) idea by CFarr
+                - "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [@[[Brandon Toner](<@[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for..."
+                    - I support this!! 
+            - Support for Weekly Reviews idea by PRosso
+                - "[Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]"
+                    - Think it could be interesting to explore - what types of questions / template are you envisioning?
+        - Reactions to ideas on making things easier for [new users](<new users.md>)
+            - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members." + could also be relevant for this: "Table of Contents or Shortcuts to jump to frequently used parts."
+                - On a related note, should we add in dividers to segment out the left-side bar to likewise call attention to those (similar to how RBC3 has it)
+                    - A proposal, to put something for people to react to:
+                        - Welcome
+                        - About Roam Collective
+                        - -----
+                        - Quick Start Guide
+                        - Conventions
+                        - FAQ
+                        - ----
+                        - Roam Collaboration Guide
+                        - Help Wanted
+                        - Prompts
+                        - Feedback
+                        - ----
+                        - Change Log
+                        - Templates
+                        - Glossary
+                        - Directory
+                    - My thinking on why this order
+                        - First, get your bearings about the big picture
+                        - Next, quick start and reference
+                        - Next, what to do when you're not sure what to do next
+                        - Finally, additional reference you might check occasionally 
+            - Love it! Gonna do this right away. How do I get those dash dividers?? [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+                - My RBC3 graph is not loading at the moment to check what they do, but I have seen in other graphs it being done "brute force" rather than CSS, by having a page titled "-------------" 😂  It works though!
+            - [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]] lots of really interesting stuff - would you love to learn more about what's in the background in your mind, bigger picture motivation, so I can better contextualize in my own mind how to understand
+                - Actually, reading the notes in reverse (starting with design inspiration) helped me a ton in understanding.   
+        - On defining [norms](<norms.md>) and best practices -> with conclusions + draft output
+            - [Q](<Q.md>) Should we have a page that collects decisions/latest thinking on best practices for norms, that expands on "where to write"? or perhaps extends the FAQ?
+                - Absolutely. If you have a vision for how it could look, feel free to build it as you imagine! [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+                    - Awesome! Pulled something together here: "Draft version of [norms](<norms.md>) (for my own personal ease of reference)"
+                - It could include, for example, this norm:
+                    -   "[I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+                - Questions I have:  
+                    - [Q](<Q.md>) When to use personal DNP vs. Roam Collective one
+                        - "Kinda like [this](((j0l9zU-q-)))"
+                            - LOVE IT 🔥🔥🔥
+                    - [Q](<Q.md>) When to use feedback vs. pose a question
+                        - "Maybe "Reflections" is best?"  
+                            - For me, the word "Reflections" doesn't clarify the distinction.  It seems like it's more a matter of norms - it seems like we are using questions to drive discussion about processes within Roam, and using the conversations to hash out the answers to those questions.
+                            - So for something like  ""Suprised how well X is working"", would it be in conversations if something is actively being worked on, and in Feedback if not?
+                    - [Q](<Q.md>) When to use 📨 vs. 🚨 ?
+                        - "A bit fuzzy still for me."
+                            - Seems eminently sensible to me!
+                    - [Q](<Q.md>) Should minor questions of clarifications also be tagged?  
+                        - They seem minor and I don't want to clutter the tag when there are more meaty questions at higher level of abstraction
+        - (low priority) On further exploring building "operationability" among atomic units and building blocks
+            -  "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] I am so curious now."
+                - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
+                    - "#[Fleeting Notes](<Fleeting Notes.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
+            - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
+                - [@[[leekeifon](<@[[leekeifon.md>)]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
+    - [Feedback](<Feedback.md>) 
+        - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---

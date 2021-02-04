@@ -32,6 +32,9 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 - **[Related](<Related.md>):**
 
+## [FAQ](<FAQ.md>)
+- **[Related](<Related.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**
@@ -57,9 +60,6 @@
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
-- **[Related](<Related.md>):**
-
-## [Frequently Asked Questions](<Frequently Asked Questions.md>)
 - **[Related](<Related.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
@@ -132,6 +132,7 @@
 - [Related](<Related.md>)
 
 ## [Learning Center](<Learning Center.md>)
+- [Status](<Status.md>)/Experimental
 - **[Related](<Related.md>):**
 
 ## [Literature Notes](<Literature Notes.md>)

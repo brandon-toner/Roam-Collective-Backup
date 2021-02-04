@@ -18,6 +18,9 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 

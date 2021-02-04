@@ -17,8 +17,8 @@
 9. Explore the [Tips](<Tips.md>)
 
 ## [roam/css](<roam/css.md>)
-- add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
-    - **[Tips](<Tips.md>):**
+- **[Related](<Related.md>):** [roam/js](<roam/js.md>)
+- **[Tips](<Tips.md>):**
 
 ## [zettelkasten](<zettelkasten.md>)
 - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))

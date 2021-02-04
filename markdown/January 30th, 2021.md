@@ -220,7 +220,7 @@
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
         - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
-            - Section for [[collections]] under "Tag Styling #Status/Enabled #Highlights #tags"
+            - Section for [[collections]] under "Tag Styling "
     - #[[Change Log]] 
         - Added some CSS Tags
         - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.
@@ -428,7 +428,7 @@
     - #[[Change Log]]
         - Added "SmartBlock & Roam Template Conventions"
             - Updated all of the current SmartBlock names...
-        - Changed the CSS for Headings "Headings"
+        - Changed the CSS for Headings "Headings #Status/Enabled"
             - Sets all headings equal to `14px` font size
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}

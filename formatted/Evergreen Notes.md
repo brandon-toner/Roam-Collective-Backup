@@ -32,6 +32,11 @@
 
 - When dealing with meta concepts, can be a bit confusing (e.g., `[Evergreen Notes](<Evergreen Notes.md>)`
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Intermediary step before acquiring the `[E:](<E:.md>)` namespace and `#[Evergreen Notes](<Evergreen Notes.md>)`
+
+- Same template as EN, but with `[Seedlings](<Seedlings.md>)` instead of `#[Evergreen Notes](<Evergreen Notes.md>)`
+
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 

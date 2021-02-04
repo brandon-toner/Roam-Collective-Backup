@@ -91,7 +91,7 @@
                     - #[[Fleeting Notes]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
     - #Conversation 
         1. On "1000 upvotes"
-            - "[[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
+            - "[[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
                 - Ha! Agreed. This is a MUCH better visual experience. Well done, [[~[[Charles Farr]]]]
         2. On processing growing data in the graph.
             - "[[^[[Brandon Toner]]]] how are you approaching this: "#Q How do we digest all of the information we're adding to the graph?""
@@ -138,14 +138,13 @@
             - "[[~[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block"
                 - Agreed. Been doing that a bit, but will do more often.
             - "Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it..."
-                - This type of [[randomization]] will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [[@[[Charles Farr]]]]
-                - 
+                - This type of [[randomization]] will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [[^[[Charles Farr]]]]
             - 
     - #Feedback #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
     - #[[Scratchpad]] 
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
         - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
@@ -153,7 +152,7 @@
     - #GTD
         - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
-        - Add double diamond literature notes from thesis
+        - Add [[double diamond]] literature notes from thesis
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
@@ -161,7 +160,7 @@
         - "What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`"
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
         - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
-            - [[@[[Larissa de Lima]]]] I am so curious now.
+            - [[~[[Larissa de Lima]]]] I am so curious now.
         - Following [[~[[Brandon Toner]]]] ottered 🤣🦦 audio add considerations about
             - The way we digest is individual through exploration, but collective or at least shared through conversation. 
                 - Semantically speaking Conversation seems more open than comments and brings everyone on the same level.
@@ -184,7 +183,7 @@
                     - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
                 - 
 (If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
-            - "[[^[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "" [[^[[Charles Farr]]]] [[cc:[[Brandon Toner]]]] I have just gave this section a couple of passes. 
+            - "[[^[[Peter Rosso]]]] — re: "[[~[[Charles Farr]]]] Isn't the idea reinforced in [[Books/How to Take Smart Notes]] that permanent notes should always be completed, but they can be updated?  "" [[^[[Charles Farr]]]] [[~[[Brandon Toner]]]] I have just gave this section a couple of passes. 
 I think I need to go through the whole process to make sure I internalise it.
         - "Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?"
             - [[~[[Charles Farr]]]] The excess of green shall act as a reminder. I don't see the rush.
@@ -192,7 +191,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - "Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))
             - "Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp))."
     - #Bookmarks
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
     - #Scratchpad 
@@ -209,12 +208,11 @@ I think I need to go through the whole process to make sure I internalise it.
                         - Their explanation of what makes Hindu-Arabic numerals amazing is good
                             - >  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases.
                     - And it turns out this is not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
-        - 🛠 IN PROGRESS - thinking through questions
+        - "Time for some [CONVERGENCE]([[convergence]]) — **Questions**" 🛠 Categorizing questions: 
             - Thinking about categorization
                 - Motivation -> Principles -> Process Design -> Implementation -> Output
             - Motivation / Foundational
-                - [[Brandon Toner]] at [[Clubhouse]]
-                    - How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
+                - "#Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
             - Principles
                 - Collaborative Zettelkasten
                     - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
@@ -233,31 +231,40 @@ I think I need to go through the whole process to make sure I internalise it.
                 - "#[[Q]] What could be the common base of a digital environment of loosely connected people expectation?"
                 - "#Q What are the [[characteristics]] [[dimensions]] of an [evergreen note]([[evergreen notes]]) that could be used for [[assessment]] [[scoring]]?"
                 - Communication
-                    - "#[[Q]] What’s the best practice for async communication? [[cc:[[Brandon Toner]]]]"
+                    - "#[[Q]] What’s the best practice for async communication? [[~[[Brandon Toner]]]]"
                 - Shared language
                     - "#Q How can we objectively categorize the degree of maturity of an evergreen note? "
                     - "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]"
                 - Convergence
                     - "#[[Q]] What are the right levels of abstraction for which [[convergence]] should be aspired to? "
+                - Engagement
+                    - #Q How can we maintain momentum when users inevitably get busy and need to step away from the graph for a while?
+                    - New users
+                        - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
                 - Individual absorption
                     - "#Q How do we digest all of the information we're adding to the graph?"
                     - "#Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible"
                     - "#[[Q]] One subproblem is, how new comer join the [[conversation]] smoothly."
                     - "#Q How could we keep track of updates to ensure that documentation scattered around the graph stays [[up-to-date]]? [*]([[Processes]])"
-                    - New users
-                        - "#Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?"
             - Implementation / Mechanics
-                - "#Q What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. "
-                - "#Q For "next steps", how could this be contributed to by multiple users?"
+                - Daily page usage and norms
+                    - "#Q What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. "
+                - Collaborating
+                    - "#Q When to use 📨 vs. 🚨 ?"
+                    - "#Q For "next steps", how could this be contributed to by multiple users?"
                 - "#Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?""#Q Why is it important to limit the number of tags used in a graph?"
                 - 
                 - Visual presentation
+                    - Organizing CSS
+                        - "#Q Is there a standard format for CSS page documentation? I feel like [[Cato Minor]] came up with something at some point perhaps."
                     - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
                     - "#Q Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[[Books/]]` to appear as `B/` using CSS?"
                     - "#Q Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?"
                     - (resolved) "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
-                - Conventions
+                - 
+                - Naming Conventions
                     - "#Q What should the convention be for the use of [[abbreviations]]? #Conventions"
+                    - "#Q Should minor questions of clarifications also be tagged?  "
             - Output / memorialization
                 - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
@@ -272,7 +279,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
                     - [[~[[Charles Farr]]]] what you did was so incredibly helpful!  
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
-                    - [[@[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
+                    - [[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
             - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
                 - This is really striking at something
@@ -298,6 +305,9 @@ I think I need to go through the whole process to make sure I internalise it.
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
             - ^^BToner:  Convergence is a lens^^ 
                 - It can coexist with divergence; adapt the lens to the task
+        - [[[[Clubhouse]] conversation: Feb 02 2021]]
+            - [[Brandon Toner]]
+                - #Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
@@ -308,7 +318,6 @@ I think I need to go through the whole process to make sure I internalise it.
                 - [[[[E:]] Why build maturity into your knowledge management system?]]
                     - #Evergreen Why build maturity into your knowledge management system
                         - Why is maturity important?
-                            - 
                             - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
                             - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
                         - How can you implement it?
@@ -454,7 +463,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                     - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
         - On labeling [[prompts]] disguised as [[questions]] with BToner → [[algorithm of thought (AoT)]] creation
-            - [[@[[Brandon Toner]]]] re: "[[~[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?"
+            - [[^[[Brandon Toner]]]] re: "[[~[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?"
                 - As far as tagging questions like these, I've just been adding the `#Q` tag — ultimately for most of the questions I've identified, I would like to return to them
                 - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithm of thought (AoT)]] to build using a template, in  which case I would just nest them under the tag for said AoT
                     - #42SmartBlock .rc4AoT — Resurfacing for Future Me
@@ -464,7 +473,7 @@ I think I need to go through the whole process to make sure I internalise it.
                             - When do I need to resurface this?
                                 - {{[[TODO]]}}  Add buttons to SmartBlock for various timefames (1 day, 3 days, 7 days, 14 days, 28 days, Someday (3 months))
         - On Daily Activities and automated population of [[prompts]]
-            - [[@[[Brandon Toner]]]] re: "Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]"
+            - [[~[[Brandon Toner]]]] re: "Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]"
                 - Is daily activities a top-level DNP block or one that could be nested within MDNs (My Daily Notes)?
                     - If under MDNs, would be great to programmatically inject prompts for  or activities for people to respond to — decreases the burden of needing to check to level
                     - Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it...
@@ -475,7 +484,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - [[~[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
-        - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^""
+        - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors""
         - #[[Follow Up]] [[datalog]] "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table."
         - #[[Follow Up]] "[[^[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources""
     - #Meetings
@@ -523,18 +532,18 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Conversation]]
         - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[cc:[[Larissa de Lima]]]] #[[Experiments]]
-        - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [[@[[Brandon Toner]]]]
+        - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [[~[[Brandon Toner]]]]
         - Why not set up current [[Roam Games]] a little short term goal for practicing our system towards a 
         - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."
             - I’m in [[@[[Dhrumil Shah]]]]
-            - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[cc:[[Brandon Toner]]]]
+            - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[~[[Brandon Toner]]]]
     - #[[Scratchpad]]
         - #[[Fleeting Notes]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
             - Related:: [[[[E:]] Evergreen note titles are like APIs]]
             - Related:: "#[[Fleeting Notes]] block-embed [[model]]"
-        - #[[Ideas]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
+        - #[[Ideas]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
         - #[[Fleeting Notes]] Define composable local [[structure]] will enable predictable global [[structure]].
-            - Related:: "How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
+            - Related:: "#Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
         - #[[Fleeting Notes]] [[procedures]] are of loose couple [[structure]] between each step.
         - #[[Fleeting Notes]] "#[[Fleeting Notes]] block-level [[model]]" is of tight couple [[structure]].
     - #[[Bookmarks]]

@@ -2,7 +2,7 @@
 - **[Table of Contents](<Table of Contents.md>):**
     - [Welcome 😃](<Welcome 😃.md>)
     - [Quick Start Guide](<Quick Start Guide.md>)
-    - [Frequently Asked Questions](<Frequently Asked Questions.md>)
+    - [FAQ](<FAQ.md>)
     - [Conventions](<Conventions.md>)
     - [Directory](<Directory.md>)
     - [Glossary](<Glossary.md>)
@@ -24,6 +24,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
+## [February 4th, 2021](<February 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

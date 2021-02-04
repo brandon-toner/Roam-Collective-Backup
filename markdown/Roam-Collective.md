@@ -2,7 +2,7 @@
 - Table of Contents::
     - [[Welcome 😃]]
     - [[Quick Start Guide]]
-    - [[Frequently Asked Questions]]
+    - [[FAQ]]
     - [[Conventions]]
     - [[Directory]]
     - [[Glossary]]

@@ -3,7 +3,7 @@
 ## [DNP Section](<DNP Section.md>)
 - DNP Templates are found [here]([Templates](<Templates.md>))
 
-## [Frequently Asked Questions](<Frequently Asked Questions.md>)
+## [FAQ](<FAQ.md>)
 - Check out [these]([Templates](<Templates.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

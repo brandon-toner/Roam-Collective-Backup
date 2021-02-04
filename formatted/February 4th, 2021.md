@@ -1,0 +1,29 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) [*]([rc](<rc.md>)) {{word-count}}
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
+    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
+    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+        - "Go thought yesterdays Scratchpad before opening any Pandora's Box."
+            - PPV keeps a meaningful and directed approach which avoids getting lost in too many tasks https://www.youtube.com/watch?v=b0GrpGA0o2k&ab_channel=AugustBradley
+                - See Book Essentialism
+                - Divengence/Convergence
+                    - Exploration/Concretization
+        - 
+    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+        - Check out "[Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))"
+        - Go thought yesterdays Scratchpad before opening any Pandora's Box.
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+        - [Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+            - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---

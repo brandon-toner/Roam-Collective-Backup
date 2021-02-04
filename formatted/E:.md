@@ -26,6 +26,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "[Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Intermediary step before acquiring the `[E:](<E:.md>)`
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Once I am ready to develop it sooner, I will create an identical `[E:](<E:.md>)`
 

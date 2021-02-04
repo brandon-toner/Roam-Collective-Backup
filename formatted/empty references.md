@@ -7,7 +7,7 @@
     - Use [inline code-blocks](<inline code-blocks.md>) to deactivate a tag when using them for demonstration or while discussing conventions.
 
 # Backlinks
-## [Frequently Asked Questions](<Frequently Asked Questions.md>)
+## [FAQ](<FAQ.md>)
 - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)"
 
 ## [My Daily Notes](<My Daily Notes.md>)

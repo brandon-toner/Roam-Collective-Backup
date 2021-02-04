@@ -14,7 +14,7 @@
     8. Answer the [Daily Activities](<Daily Activities.md>) or something from the [Prompts](<Prompts.md>) library.
         - {{embed: ((PFuJmmElf))}}
     9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
-    10. Check out the [Frequently Asked Questions](<Frequently Asked Questions.md>)
+    10. Check out the [FAQ](<FAQ.md>)
     11. Turn on [Roam42](<Roam42.md>) in [roam/js](<roam/js.md>) to get access to SmartBlocks and other extension features.
         - **[Image](<Image.md>):**
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FC_mXpbJdvu.png?alt=media&token=3eab2cc4-3674-45ff-bc9f-67187b16cd81)

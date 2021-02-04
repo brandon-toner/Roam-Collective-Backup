@@ -1,8 +1,6 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- [Brandon Toner](<Brandon Toner.md>) at [Clubhouse](<Clubhouse.md>)
-
 - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>)
 
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>)

@@ -59,6 +59,3 @@
 ## [replace with text](<replace with text.md>)
 - "#[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>)
 
-## [roam/css](<roam/css.md>)
-3. Core User Interface ([e.g.](<e.g..md>),
-

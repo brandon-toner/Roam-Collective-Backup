@@ -13,9 +13,9 @@
     - {{[[query]]: {and: [[@[[Larissa de Lima]]]]}}}
 - SmartBlocks::
     - LaBrisa — DNT #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} online 👋
             - #Scratchpad #not_populated
-            - #GTD
+            - #GTD #not_populated
             - #Questions #not_populated
             - #Conversation  #not_populated
             - #Feedback #not_populated

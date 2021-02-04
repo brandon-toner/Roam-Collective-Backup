@@ -21,12 +21,9 @@
     - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)"
 
 # Backlinks
-## [January 25th, 2021](<January 25th, 2021.md>)
-10. Added [Frequently Asked Questions](<Frequently Asked Questions.md>)
-
 ## [Quick Start Guide](<Quick Start Guide.md>)
-10. Check out the [Frequently Asked Questions](<Frequently Asked Questions.md>)
+10. Check out the [FAQ](<FAQ.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
-- [Frequently Asked Questions](<Frequently Asked Questions.md>)
+- [FAQ](<FAQ.md>)
 

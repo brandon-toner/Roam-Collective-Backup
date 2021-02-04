@@ -13,9 +13,9 @@
     - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} online 👋
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - [GTD](<GTD.md>)
+            - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
             - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
             - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)
             - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
@@ -36,6 +36,9 @@
 - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
 
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Welcoming [Larissa de Lima](<Larissa de Lima.md>)

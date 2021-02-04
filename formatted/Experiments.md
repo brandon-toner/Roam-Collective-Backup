@@ -5,6 +5,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - One handy starting point to build up [communication](<communication.md>) [model](<model.md>) in [Roam](<Roam.md>) is to adapt features from different apps([e.g.](<e.g..md>) slack, twitter, whatsapp, telegram). #[Experiments](<Experiments.md>)
 

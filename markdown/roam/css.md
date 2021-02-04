@@ -1,272 +1,21 @@
 - #Announcements
     - ## Please document any changes to the CSS under a `#[[Change Log]]` tag within your [[DNP Section]]
 - Related:: [[roam/js]]
-- Table of Contents::
+- Tips:: 
+    - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS #Troubleshooting
+- ### Shortcuts::
+    - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
         - [Collections Tags](((JNVnlLDxv))) 
         - [Notifications & Mentions](((01X6uO5N8)))
-    - Other Styling
-        - [External Links](((r3wJzzQJP)))
-        - [Block Reference Styling](((xcLgPdvs0)))
-        - [Nested Links](((y9rumn-yn)))
-    - [Colors](((ClLqIfFSn)))
+    - [Headings](((nL58k_bhI)))
+    - [Page References](((kJ_piMpzy)))
+    - [Block References](((xcLgPdvs0)))
+    - [External Links](((r3wJzzQJP)))
+    - [Aliases](((MLfGQ-X-L)))
+    - [Nested Links](((y9rumn-yn)))
+    - [Queries](((KOuJf-Smr)))
 - Contents::
-    - add `?disablejs=true&disablecss=true` to the end of your roam graph URL, to load without CSS or JS
-    - Tips:: Filter by #Status/Enabled in roam/css to view active code. ((This is reliant on updating the tags as things are switched on/off; so may be unreliable))
-    - Roam Full Site Themes #Status/Disabled
-        - Main CSS (modified [[Leyendecker]])
-            - Core
-                - ```ruby
-*h1  {
-  	font-size: 2.5em;
-}
-
-#roam-right-sidebar-content h1.rm-title-display {
-  	font-size: 1.8em
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato", sans-serif;
-    font-size: 3em;
-}
-
-.rm-page-ref-namespace-color {
-  color: #2179F3 !important
-}
-
-.rm-query {
-    border: 0.5px solid #e4e9ec;
-    border-radius: 5px;
-    
-}
-
-.rm-query .rm-query-title {
-    background-color: #f7f8f8;
-    padding: 0.8em;
-    color: #d1dbe2;
-    font-size: 80%;
-}
-
-.rm-reference-main.rm-query-content {
-    padding: 0.8em;
-}
-
-.rm-reference-main .rm-reference-item .rm-block-text {
-    font-size: 90%;
-}
-
-.rm-ref-page-view-title span {
-    
-}
-
-.rm-reference-main .rm-reference-item .controls {
-    margin-left: -1em;
-}
-
-.rm-ref-page-view {
-    padding: 0.4em 0.2em;
-}
-
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
-    padding: 6px;
-}
-
-div.flex-v-box.starred-pages-wrapper > div.flex-h-box > span {
-    font-size: 14px !important;
-    opacity: 80%;
-    letter-spacing: 0.04em;
-}
-
-div.roam-sidebar-container.noselect > div > div {
-    font-size: 14px !important;
-    letter-spacing: 0.03em;
-    
-}
-
-#block-input {
-    background: white;
-}
-
-.roam-body #block-input > span > div {
-    padding: 6px 24px;
-    background: white;
-}
-
-span.bp3-icon-small.bp3-icon-star {
-    display: none;
-    visibility: hidden;
-}
-
-.roam-block {
-    max-width: 850px;
-}
-
-#right-sidebar > div {
-    background-color: #f7f8fa;
-    border-left: 1px solid #e9ebef;
-}
-.controls .simple-bullet-outer .simple-bullet-inner {
-    background-color: #e5e9f2;
-}
-.block-border-left {
-    border-left: 1px solid #f3f6f7;
-}
-.kanban-board {
-    background-color: #fff;
-}
-.kanban-card {
-    background-color: white;
-    margin: 8px;
-    box-shadow: 0px 1px 2px #9eb3c0a8;
-    padding: 10px;
-    border-radius: 2px;
-    line-height: 1.3em;
-}
-.kanban-title {
-    text-align: center;
-    font-weight: 600;
-    font-size: 1.1em;
-    opacity: 80%;
-    color: #485f6f;
-    padding-top: 8px;
-    border-bottom: 1px solid #c5d1d8;
-}
-.kanban-column {
-    background-color: #e7eff3;
-    margin: 0px 4px 0px 4px;
-    padding: 4px;
-    min-width: 200px;
-    border-radius: 3px;
-}
-/*
-.rm-block-ref::before {
-    content: '';
-    display: inline-block;
-    width: 2px;
-    border-radius: 40px;
-    height: 12px;
-    background: #ff913c;
-    margin-right: 8px;
-}*/
-
-.rm-block-ref {
-    border-bottom: none;
-    font-size: 1em;
-    color: #515e70;
-}
-
-.rm-block-ref:hover {
-    background: none;
-    cursor: pointer;
-}
-.checkmark {
-    background: #fff;
-}
-.check-container input:checked ~ .checkmark {
-    background: #2179F3;
-}
-.check-container input:checked ~ .checkmark:after {
-    border-color: #fff;
-}
-.rm-reference-item {
-    margin-top: 8px;
-    border-radius: 6px;
-    border: 1px solid #e4e9ee;
-    margin-right: 8px;
-    flex: 1 1 100%;
-    word-break: break-word;
-    background-color: #f7f9fb;
-    padding: 8px;
-}
-
-.rm-level2 {
-    font-size: 1.5em;
-}
-.rm-level3 {
-    color: #939aae;
-    font-weight: 400;
-    font-size: 1.3em;
-}
-.rm-page-ref {
-    color: #4C616A;
-}
-.rm-page-ref-link-color {
-    color: #2179F3;
-    font-weight: 600;
-}
-a {
-    color: #2179F3;
-}
-.intercom-app,
-.intercom-launcher-frame,
-#intercom-container {
-    display: none !important;
-}
-
-/* Left Sidebar reformatting */
-
-.roam-body .roam-app .roam-sidebar-container {
-    background-color: white;
-    border-right: 1px #eee solid;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
-.roam-body .roam-app .roam-sidebar-container > * {
-    opacity: 80%;
-    box-shadow: none;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
-    background: white;
-    color: black;
-    opacity: 100%;
-}
-#buffer.tall {
-    height: calc(100vh - 50px) !important;
-}
-.check-container {
-    padding-right: 4px;
-}
-span.rm-page-ref {
-    border-radius: 2px;
-    padding-left: 1px;
-    padding-right: 1px;
-}
-.content span.rm-page-ref {
-    padding: 4px 1px 1px;
-    /* required for fixing azo */
-}
-.center-proj {
-    text-align: center;
-}```
-            - Pomodoro 
-                - ```css
-.rm-pomodoro {
-    background: #fff !important;
-    color: #ff4747 !important;
-    padding: 4px 14px;
-    line-height: 2em;
-    font-weight: 600;
-    border-radius: 2em;
-    border: 1px solid #ff474770;
-}
-
-.rm-pomodoro {
-    background: #ff6956 !important;
-    color: #fff !important;
-    padding: 4px 14px;
-    line-height: 2em;
-    font-weight: 600;
-    border-radius: 2em;
-    border: 1px solid #ed5845;
-}
-
-.rm-pomodoro::first-letter {
-  margin-right: 8px;
-}```
     - ## Settings
         - Colors
             - Color Scheme
@@ -1057,8 +806,8 @@ console.log(
   	--note-tag-color:			var(--cl-gray-200);
   }
 }```
-    - ## Styling Elements
-        1. Tag Styling #Status/Enabled #Highlights #tags
+    - ## Elements
+        1. Tag Styling 
             1. `GTD Tags`
                 - `GTD Tags`
                     - `#INBOX
@@ -3691,7 +3440,7 @@ span.rm-page-ref[data-tag="Status/Not-Completed, Carried"] {
 }
 
 span.rm-page-ref[data-tag="Status/Enabled"] {
-    background: #B1D7B1;
+    background: #4CAF50;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -4607,15 +4356,8 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     line-height: 2em;
     font-weight: 500;
 }```
-        2. Functional CSS
-            - Fix sidebar editing height issue #Status/Enabled
-                - ```css
-/* When editing page title in sidebar this prevents it from having weird height issues */
-#right-sidebar .rm-title-textarea {
-    width: 95%;
-}```
-            - Buttons & Word Count #Status/Enabled
-                - ```css
+        2. Buttons & Word Count #Status/Enabled
+            - ```css
 /* Buttons in Block Text */
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]),
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):focus,
@@ -4648,8 +4390,8 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
 }```
-            - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing))
-                - ```ruby
+        3. Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) #Status/Enabled
+            - ```css
 
 .roam-block-container  div.roam-block-container {
 box-shadow: -2px 0px #BFCCD6);
@@ -4657,23 +4399,77 @@ transition: box-shadow 1s;
 }
 
 .roam-block-container div.roam-block-container:hover {
-box-shadow: -2px 0px #FF877E;
+box-shadow: -0.5px 0px #666666;
 transition:  box-shadow 0.5s;
 }
 
 .roam-block-container:focus-within > .rm-block-main > div:nth-child(1) 
 .rm-bullet .rm-bullet__inner  
 {
-background-color: #FF877E;
+background-color: #000000;
 }```
-        3. Core User Interface ([[e.g.]], Headings)
-            - Headings
-                - Preview
-                    - # Heading 1
-                        - ## Heading 2
-                            - ### Heading 3
-                - Settings
-                    - ```css
+        4. Query Display Options
+            - V1
+                - ```css
+/* RR change: MINIMIZE QUERIES: add any one of the following tags 
+before the beginning of your query (in the same block):
+
+    #min-title = hides the page reference link / page title
+    #min-con = hides the contextual reference information (breadcrumbs)
+    #minimal = hides both the title and the context
+    #min-q = hides the query string, similar to legacy behavior
+    #min-all = hides everything — title, context, and query string
+	#page-focus = only displays pages
+
+inspired by Matt Goldenberg */
+
+[data-tag="minimal"], 
+[data-tag="minimal"] + .rm-query .rm-title-arrow-wrapper,
+[data-tag="minimal"] + .rm-query .zoom-mentions-view {
+  display:none!important; /* hide page reference (title) and mention context (breadcrumbs) */
+}
+
+[data-tag="min-title"], [data-tag="min-title"] + .rm-query .rm-title-arrow-wrapper {
+display:none!important; /* hide page reference (title) */
+}
+
+[data-tag="min-con"], [data-tag="min-con"] + .rm-query .zoom-mentions-view {
+  display:none !important;  /* hide mention context (breadcrumbs) */
+}
+
+[data-tag="min-q"], 
+[data-tag="min-q"] + .rm-query .rm-query-title {
+  display:none !important;  /* hide the query string */
+}
+
+[data-tag="min-all"], 
+[data-tag="min-all"] + .rm-query .zoom-mentions-view,
+[data-tag="min-all"] + .rm-query .rm-title-arrow-wrapper,
+[data-tag="min-all"] + .rm-query .rm-query-title {
+  display:none !important;  /* hide everything */
+}
+
+[data-tag="minimal"] + .rm-query .rm-query-title::after,
+[data-tag="min-title"] + .rm-query .rm-query-title::after,
+[data-tag="min-con"] + .rm-query .rm-query-title::after{
+  content: " #minimal" /* add a tag to the query string to indicate this query has been minimized */
+}
+
+/* Personal addition */
+[data-tag="page-focus"], 
+[data-tag="page-focus"] + .rm-query .zoom-mentions-view,
+[data-tag="page-focus"] + .rm-query .rm-reference-item,
+[data-tag="page-focus"] + .rm-query .rm-caret,
+[data-tag="page-focus"] + .rm-query .rm-query-title {
+  display:none !important;  /* hide everything */
+}```
+        5. Headings #Status/Enabled
+            - Preview
+                - # Heading 1
+                    - ## Heading 2
+                        - ### Heading 3
+            - Settings
+                - ```css
 :root {
   --fnt-page-title: 		/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-h1:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
@@ -4690,8 +4486,8 @@ background-color: #FF877E;
   --fnt-weight-h2:			500;
   --fnt-weight-h3:			500;
 }```
-                - Headings
-                    - ```css
+            - Headings
+                - ```css
 h1.level2,
 .rm-level2, 
 .rm-heading-level-2 > .rm-block__self .rm-block__input {
@@ -4740,19 +4536,33 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-            - Block Reference styling #Status/Enabled
-                - ```css
+        6. Page References #Status/Enabled
+            - ```css
+.rm-page-ref-link-color {
+    color: #2179F3;
+    font-weight: 400;
+}
+a {
+    color: #2179F3;
+}```
+        7. Page Reference Brackets
+            - ```ruby
+.rm-page-ref__brackets{
+  display:none;
+}```
+        8. Block Reference styling #Status/Enabled
+            - ```css
 .rm-block-ref > span:before {
   content: '| ';
   font-weight: 700;
   color: #FF9800
 }```
-            - Page Reference Underlines & Nested Links #Status/Enabled
-                - Example
-                    - [[[[E:]] active vs passive resurfacing]]
-                - Code
-                    - V3
-                        - ```css
+        9. Page Reference Underlines & Nested Links #Status/Enabled
+            - Example
+                - [[[[E:]] active vs passive resurfacing]]
+            - Code
+                - V3
+                    - ```css
 :root {
   --fg-reference-underline: #136BA2;
   --fg-reference-underline-hover: #136BA2;
@@ -4812,9 +4622,9 @@ h1.level2,
     text-decoration: none;
     padding-bottom: 0px;
 }```
-            - External Links #Status/Enabled
-                - V1
-                    - ```css
+        10. External Links #Status/Enabled
+            - V1
+                - ```css
 .rm-alias--external {
   color: var(--fg-link);
 }
@@ -4829,99 +4639,8 @@ a[href^='http']{
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
-            - Page Reference Brackets #Status/Enabled
-                - ```ruby
-.rm-page-ref__brackets{
-  display:none;
-}```
-        4. Other Styling
-            - Heading Styling
-                - ```c++
-.rm-ref-page-view-title {
- 	font-weight: 600;
-	font-size: 1.5em;
- }```
-                - ```clojure
-.rm-level1 {
-    padding-top: 10px
-}
-
-.rm-level2 {
-    font-size: 1.5em;
-  	font-weight: 600;
-    padding-top: 8px
-}
-.rm-level3 {
-    color: #000000;
-    font-weight: 600;
-    font-size: 1.3em;
-    padding-top: 8px
-}
-.rm-page-ref {
-    color: #0885ff;
-}
-.rm-page-ref-link-color {
-    color: #0885ff;
-    font-weight: 600;
-}
-.rm-ref-page-view-title {
- 	font-weight: 600;
- }
-
-#right-sidebar h1.level2 a {
-    color: #000000 !important;  
-  	font-weight: 400;
-    text-decoration: none;
-}
-
-/* the location tag is necessary for the above lines to distinguish from external links */```
-            - Headings & font #Status/Enabled
-                - ```css
-*h1  {
-  	font-size: 2.5em;
-}
-
-#roam-right-sidebar-content h1.rm-title-display {
-  	font-size: 1.8em
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato", sans-serif;
-    font-size: 3em;
-}
-
-.rm-page-ref-link-color {
-    color: #2179F3;
-    font-weight: 400;
-}
-a {
-    color: #2179F3;
-}```
-            - Left side-bar #Status/Enabled
-                - ```ruby
-/* Left Sidebar reformatting */
-
-.roam-body .roam-app .roam-sidebar-container {
-    background-color: white;
-    border-right: 1px #eee solid;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
-.roam-body .roam-app .roam-sidebar-container > * {
-    opacity: 80%;
-    box-shadow: none;
-}
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
-.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
-    background: white;
-    color: black;
-    opacity: 100%;
-}```
-            - Alias Styling
-                - ```clojure
+        11. Alias Styling 
+            - ```clojure
 .rm-alias.rm-alias-page {
   	color: #0884ff ;
   	font-weight: 600;
@@ -4940,533 +4659,47 @@ a {
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
-            - Link Formatting (naked)
-                - ```clojure
-/* link formatting: */
-
-a {
-    color: rgb(17,153,55);  
-  	font-weight: 400;
- 	text-decoration: none;
-}
-
-a:hover {
-    color: rgb(0,0,0);  
-  	font-weight: 400;
-  	text-decoration: none;
-}```
-            - Reference Page in sidebar
-                - ```clojure
-.rm-ref-page-view-title span {
-  	color: #000000;
-  	font-weight: 600;
-  	text-decoration: none !important; 	
-}
-
-.rm-ref-page-view-title:hover span {
-  	color: rgb(17,153,55);
-  	text-decoration: none !important; 	
-}```
-            - Round Check-Boxes
-                - ```php
-.checkmark {
-  border-radius: 50% !important;
-}```
-            - Query Display Options
-                - V1
-                    - ```css
-/* RR change: MINIMIZE QUERIES: add any one of the following tags 
-before the beginning of your query (in the same block):
-
-    #min-title = hides the page reference link / page title
-    #min-con = hides the contextual reference information (breadcrumbs)
-    #minimal = hides both the title and the context
-    #min-q = hides the query string, similar to legacy behavior
-    #min-all = hides everything — title, context, and query string
-	#page-focus = only displays pages
-
-inspired by Matt Goldenberg */
-
-[data-tag="minimal"], 
-[data-tag="minimal"] + .rm-query .rm-title-arrow-wrapper,
-[data-tag="minimal"] + .rm-query .zoom-mentions-view {
-  display:none!important; /* hide page reference (title) and mention context (breadcrumbs) */
-}
-
-[data-tag="min-title"], [data-tag="min-title"] + .rm-query .rm-title-arrow-wrapper {
-display:none!important; /* hide page reference (title) */
-}
-
-[data-tag="min-con"], [data-tag="min-con"] + .rm-query .zoom-mentions-view {
-  display:none !important;  /* hide mention context (breadcrumbs) */
-}
-
-[data-tag="min-q"], 
-[data-tag="min-q"] + .rm-query .rm-query-title {
-  display:none !important;  /* hide the query string */
-}
-
-[data-tag="min-all"], 
-[data-tag="min-all"] + .rm-query .zoom-mentions-view,
-[data-tag="min-all"] + .rm-query .rm-title-arrow-wrapper,
-[data-tag="min-all"] + .rm-query .rm-query-title {
-  display:none !important;  /* hide everything */
-}
-
-[data-tag="minimal"] + .rm-query .rm-query-title::after,
-[data-tag="min-title"] + .rm-query .rm-query-title::after,
-[data-tag="min-con"] + .rm-query .rm-query-title::after{
-  content: " #minimal" /* add a tag to the query string to indicate this query has been minimized */
-}
-
-/* Personal addition */
-[data-tag="page-focus"], 
-[data-tag="page-focus"] + .rm-query .zoom-mentions-view,
-[data-tag="page-focus"] + .rm-query .rm-reference-item,
-[data-tag="page-focus"] + .rm-query .rm-caret,
-[data-tag="page-focus"] + .rm-query .rm-query-title {
-  display:none !important;  /* hide everything */
-}```
-            - Link Symbol #Status/Enabled
-                - ```css
-.rm-alias-external:before {
-    content: '🔗'
-}```
-                - 
-    - Feature Expansions
-        - Split Screen
-        - Split Tags
-            - ```javascript
-/* Split Screen CSS for Roam                 */
-/* "Assembled" and tweaked by @DavidCrandall */
-/* https://davidcrandallwrites.com           */
-/* https://davidcrandallwrites.com/split-screen-and-rtl-custom-css-scripts-for-roam/ */
-/*                                           */
-/* Added tags by @garybasin                  */
-
-
-/* tags */
-
-.rm-page-ref-tag {
-    font-size: 0.8em;
-    font-weight: bold;  
-    padding: 6px;
-    margin: 4px;
-    border-radius: 5px;
-    border: 1px #bdbdbd dotted;
-}
-
-[data-tag="me"] {
-    /* Styles */
-    color: #000;
-    background-color: #c9e33e;
-}
-
-[data-tag="ps"] {
-    color: white;
-    background-color: #5353ff;
-}
-
-[data-tag="kap"] {
-    color: white;
-    background-color: #ff5f5f;
-}
-
-[data-tag="Sini"] {
-    color: white;
-    background-color: #55993a;
-}
-
-[data-tag="Roam-Highlights"] {
-    color: #b7b7b7;
-    background-color: #ffffb4;
-}
-
-/****************************/
-
-/* change main font */
-
-body,
-html,
-div,
-textarea {
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-}
-
-/* change font for all headings */
-
-h1,
-h1 div,
-h1 textarea,
-.rm-level1 div,
-#right-sidebar .rm-level2, /* page headings in right sidebar */
-.rm-reference-main .rm-level3 , /* page headings in referenced items */
-.rm-level1 textarea,
-.roam-log-preview h1,
-h1.rm-title-display,
-h1.rm-title-display textarea, 
-.level1,
-.level2 {
-  --font-family: "Fira Code", Menlo, monospace;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  font-weight: 500 !important;
-  --letter-spacing: -0.08em;
-}
-
-h2,
-h2 div,
-h2 textarea,
-h3,
-h3 div,
-h3 textarea {
-  --font-family: "Fira Code", Menlo, monospace;
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  color: #333 !important;
-}
-
-/*a {
-    color: #106ba3; 
-}*/
-
-/* less space below page heading */
-
-.roam-body .roam-app .roam-main .roam-article .rm-title-display {
-  margin-bottom: 10px;
-}
-
-
-h1.level2 {
-    font-size: 36px !important;
-}
-
-/* Main block - remove centering */
-
-.roam-center {
-  --align-item: left;
-  flex-basis: 40% !important;
-}
-
-
-
-/* lighter bullets */
-
-#right-sidebar .controls .roam-bullet-closed,
-.controls .roam-bullet-closed {
-  background: none;
-  border: 1px solid silver;
-}
-
-.simple-bullet-inner {
-  opacity: 0.3;
-}
-
-/* lighter vertical guides */
-
-/* Hard to see with the light ones... -Gary
-.block-border-left {
-  border-color: #eee;
-}*/
-
-
-.roam-block-container h1 {
-  font-weight: 300;
-  font-size: 26px;
-  color: black;
-}
-
-.roam-block-container h2 {
-  font-weight: 600;
-  font-size: 18px;
-  color: black;
-}
-
-/* align checkboxes better */
-
-label.check-container {
-  margin-bottom: 11px;
-  margin-right: 3px;
-}
-
-/* align checkboxes in zoomed-in headings */
-
-.rm-level1 label.check-container {
-  margin-bottom: 17px;
-  margin-right: -3px;
-}
-
-/* don't shrink block references */
-
-.rm-block-ref {
-  font-size: 1em;
-  padding: 0;
-  margin: 0;
-  border-bottom: 0.5px solid #91a8d2; /* darker -Gary */
-}
-
-.rm-block-ref label.check-container {
-  margin-bottom: 12px;
-}
-
-/* wider blocks -Gary */
-.rm-block-text {
-    max-width: 700px;
-}
-
-
-/* don't need "SHORTCUTS" heading */
-
-.starred-pages-wrapper .flex-h-box {
-  display: none;
-}
-
-.starred-pages-wrapper > div:first-child {
-  margin: 0 -18px;
-}
-
-/* more subtle logo */
-
-#roam-sidebar-logo img {
-  opacity: 0.4;
-}
-#roam-sidebar-logo span {
-  display: none;
-}
-
-/* fade loading astrolabe */
-
-.loading-astrolabe img {
-  opacity: 0.2;
-}
-
-/* lighter sidebar background */
-
-#right-sidebar {
-  background-color: rgba(216, 225, 232, 0.2) !important; 
-  /* rgba(216, 225, 232, 0.3) */
-  border-left: 1px solid #ddd !important;
-}
-
-/* sidebar sections */
-
-#roam-right-sidebar-content > div {
-  border-bottom: 1px solid #ddd !important;
-  margin: 0 !important;
-  padding: 10px 4px 10px 50px;
-}
-
-/* sidebar section headings */
-
-#roam-right-sidebar-content > div > div:first-child {
-  margin-left: -10px;
-}
-
-/* rule under top section of left sidebar */
-
-.roam-sidebar-content > div:first-child {
-  padding: 4px 16px !important;
-  margin-bottom: 8px;
-  border-bottom: 1px solid rgb(57, 75, 89);
-}
-
-/* rule under topbar */
-
-.roam-topbar {
-  border-bottom: 1px solid #eee;
-}
-
-/* crumbs */
-
-.rm-reference-item
-  > div:first-child
-  > div:first-child
-  div
-  span:not(.bp3-icon-chevron-right),
-.roam-article
-  > div:first-child:not(.roam-log-container)
-  > div:first-child
-  div
-  span:not(.bp3-icon-chevron-right) {
-  font-size: 12px;
-  line-height: 1.3;
-  color: #bbb !important;
-  /* truncate to smaller width, use css for ellipsis */
-  --max-width: 1000px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding: 2px !important;
-}
-
-.rm-reference-item
-  > div:first-child
-  > div:first-child
-  div
-  span:hover:not(.bp3-icon-chevron-right),
-.roam-article
-  > div:first-child:not(.roam-log-container)
-  > div:first-child
-  div
-  span:hover:not(.bp3-icon-chevron-right) {
-  color: black !important;
-}
-
-/* chevrons in crumbs */
-
-.roam-reference-item > div > div:first-child .bp3-icon-chevron-right,
-.roam-article
-  > div
-  > div:first-child:not(.roam-log-container)
-  .bp3-icon-chevron-right {
-  font-size: 1em;
-  margin: 0 3px;
-  color: #ddd !important;
-}
-
-/* no checkboxes in crumbs */
-
-.roam-reference-item
-  > div:first-child:not(.roam-log-container)
-  > div:first-child
-  label.check-container,
-.roam-article
-  > div:first-child:not(.roam-log-container)
-  > div:first-child
-  label.check-container {
-  display: none;
-}
-
-/* link buttons for referenced items */
-
-.rm-reference-main button {
-  border: 1px solid #eee;
-  border-radius: 0.3em;
-  font-size: 0.8em;
-}
-
-.rm-reference-main button:hover {
-  border-color: #ccc;
-}
-
-/* referenced item section headings */
-
-.rm-reference-main {
-  --border-top: 1px solid #ededed;
-}
-
-.flex-h-box {
-    padding-top: 0px !important;
-}
-
-.rm-reference-main .flex-h-box {
-  min-height: 30px;
-}
-
-.rm-reference-main strong {
-  color: #222;
-  font-size: 0.9em;
-  --background-color: rgba(216, 225, 232, 0.3);
-}
-
-/* remove background from referenced items */
-
-.rm-reference-item {
-  padding: 6px 0 0 0;
-  margin: 6px 0 0 0;
-  border-top: 1px solid #eee;
-  background: none;
-}
-
-/* slightly bigger page headings under referenced items */
-.rm-reference-main .rm-level3 {
-  font-size: 1.6em;
-}
-
-/* search */
-
-.rm-find-or-create-wrapper {
-  flex: 0 1 100% !important;
-}
-
-.rm-find-or-create-wrapper .bp3-input {
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* highlights */
-
-.roam-highlight {
-  --background-color: #c2f9fa;
-}
-
-/* links */
-
-a.rm-alias.rm-alias-external {
-    color: #b33ba9 !important;
-}
-
-a {
-    color: #b33ba9;  
-}
-
-.rm-page-ref-link-color {
-    color: #106ba3;
-}
-
-.rm-ref-page-view-title a{
-    color: #106ba3;
-    font-weight: bold;
-}
-
-
-.level2 a{
-    color: #106ba3;
-}
-
-/* tweets -- doesn't work */
-
-.twitter-tweet {
-    font-size: 7px;
-}
-
-/* embeds */
-
-/*.rm-embed-container {
-    border: 1px;
-    border-color: black;
-    border-style: solid;
-}*/```
-        - Make Wide
-            - ```javascript
-.roam-center div:first-child {
-            padding-right: calc((100% - 900px) / 2) !important;
-        }
-        .roam-block-container {
-            max-width: calc(1024px - 80px);
-        }
-        .roam-center .roam-article .rm-block-text {
-            max-width: 580px;
-        }
-        #right-sidebar {
-            #roam-right-sidebar-content {
-                .rm-block-text {
-                    max-width: 680px;
-                }
-            }
-        }
-```
-        - Fix for orange blocks
+    - ### Patch Fixes
+        - Fix for orange blocks ((Unsure purpose - BT))
             - ```css
 #find-or-create-input {
    outline: none!important;
 }```
-        - Width of sidebar
-            - ```css
-/*This does a decent job of expanding one pane or the other depending on how much space each needs. It'll give you a little more room.*/
-.roam-center {
-    flex-basis: auto !important;
-    resize: horizontal !important;
-    overflow: auto !important;
+    - ### Archive
+        - Left side-bar 
+            - ```ruby
+/* Left Sidebar reformatting */
+
+.roam-body .roam-app .roam-sidebar-container {
+    background-color: white;
+    border-right: 1px #eee solid;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
+.roam-body .roam-app .roam-sidebar-container > * {
+    opacity: 80%;
+    box-shadow: none;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+    background: white;
+    color: black;
+    opacity: 100%;
 }```
-    - User Interface Elements
-    - Inbox::
-        - {{[[TODO]]}} Add #Suggestions to [[roam/css]]
+        - Headings & font
+            - ```clojure
+*h1  {
+  	font-size: 2.5em;
+}
+
+#roam-right-sidebar-content h1.rm-title-display {
+  	font-size: 1.8em
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato", sans-serif;
+    font-size: 3em;
+}```

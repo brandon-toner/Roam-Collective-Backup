@@ -100,15 +100,17 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- [Brandon Toner](<Brandon Toner.md>)
-
 - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>)
+
+- [Brandon Toner](<Brandon Toner.md>)
 
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

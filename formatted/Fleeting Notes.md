@@ -100,9 +100,21 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- Building on "#[Fleeting Notes](<Fleeting Notes.md>)
+
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 

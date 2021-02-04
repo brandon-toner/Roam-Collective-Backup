@@ -220,7 +220,7 @@
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)"
         - [ ] Reorganize the [roam/css](<roam/css.md>) page #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
-            - Section for [collections](<collections.md>) under "Tag Styling [Status](<Status.md>)/Enabled [Highlights](<Highlights.md>) [tags](<tags.md>)"
+            - Section for [collections](<collections.md>) under "Tag Styling "
     - #[Change Log](<Change Log.md>) 
         - Added some CSS Tags
         - Added `[People](<People.md>)` and `[Members](<Members.md>)` tags to all people listed in the [Directory](<Directory.md>) for the purpose of building queries.
@@ -428,7 +428,7 @@
     - #[Change Log](<Change Log.md>)
         - Added "SmartBlock & Roam Template Conventions"
             - Updated all of the current SmartBlock names...
-        - Changed the CSS for Headings "Headings"
+        - Changed the CSS for Headings "Headings [Status](<Status.md>)/Enabled"
             - Sets all headings equal to `14px` font size
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}

@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+- Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - **[argument](<argument.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)

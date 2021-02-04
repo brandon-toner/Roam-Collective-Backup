@@ -92,7 +92,7 @@
         - Changed the name-spacing convention for [[evergreen notes]] "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
         - 
     - #Bookmarks
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^"
+        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] writing in a [[zettelkasten]] is a lot like writing on [[Twitter]].
             - [[atomic ideas]], brief claims and assertions.
@@ -520,9 +520,9 @@
                                 - Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?
             - {{[[TODO]]}} Convert definitions of page types into literature / evergreen / internal documentation...
         - On [[internal-facing]] versus [[external-facing]] documentation with BToner + PRosso
-            - Re: [How To pages](((mMz7pLfVD))) [[@[[Brandon Toner]]]] [[cc:[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
+            - Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[cc:[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [[namespaces]] for [[definitions]] and [[collections]] with BToner
-            - [[@[[Brandon Toner]]]] "#Q Does the namespace change? [[~[[Charles Farr]]]]"
+            - [[~[[Brandon Toner]]]] "#Q Does the namespace change? [[~[[Charles Farr]]]]"
                 - I like no namespace for collections personally
                     - In my personal graph I took inspiration from yourself and actually use capitalization to denote collections
                         - [[alert fatigue]] versus [[Alert Fatigue]]
@@ -581,7 +581,7 @@
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
-        - #[[Q]] What’s the best practice for async communication? [[cc:[[Brandon Toner]]]]
+        - #[[Q]] What’s the best practice for async communication? [[~[[Brandon Toner]]]]
             - #[[Q]] One subproblem is, how new comer join the [[conversation]] smoothly.
                 - Observations::
                     - We could get context easily within [[Roam]], but these context is almost **local context**.
@@ -618,7 +618,7 @@
                 - "Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions"
                 - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[[Ideas]]
     - #[[Conversation]]
-        - Jamming on "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" [[@[[Brandon Toner]]]]
+        - Jamming on "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" [[~[[Brandon Toner]]]]
             - argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreen]] [[pages]], in [[collaboration]] context.
                 - One [implication]([[significance and implications]]) of rush, is not enough [[maturity]].
                     - #[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].
@@ -640,7 +640,7 @@
                 - Atomicity as a word applied to Zettels/claims can be misleading because the metaphor suggests a certain flatness across ideas
                 - But these units of ideas exist at very different levels of abstraction.  
                     - There are truly bite-sized claims with narrow scope, and there are also very broad claims that apply to whole bodies of knowledge
-                - ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^
+                - ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors
             - Ways to provide structure
                 - Indentation that helps clarify like-minded concepts 
                     - One of the most powerful features in Roam, part of what separates it from linear text, is indentation.  Indentation is an invitation for rigor in grappling with ideas across levels of abstraction

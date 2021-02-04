@@ -54,6 +54,10 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - Color directory (setup by [Charles Farr](<Charles Farr.md>))
 
+- [Charles Farr](<Charles Farr.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
 

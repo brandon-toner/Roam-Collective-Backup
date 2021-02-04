@@ -4,6 +4,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Completely agree that the graph [Beau Hann](<Beau Hann.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Beau Hann](<Beau Hann.md>)
 

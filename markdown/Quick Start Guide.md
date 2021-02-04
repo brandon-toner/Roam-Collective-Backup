@@ -14,7 +14,7 @@
     8. Answer the [[Daily Activities]] or something from the [[Prompts]] library.
         - {{embed: ((PFuJmmElf))}}
     9. Explore the [[Tips]] and [Examples]([[Example]])
-    10. Check out the [[Frequently Asked Questions]]
+    10. Check out the [[FAQ]]
     11. Turn on [[Roam42]] in [[roam/js]] to get access to SmartBlocks and other extension features.
         - Image::
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FC_mXpbJdvu.png?alt=media&token=3eab2cc4-3674-45ff-bc9f-67187b16cd81)

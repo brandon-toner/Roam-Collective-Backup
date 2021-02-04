@@ -7,6 +7,10 @@
 6. Reverted CSS for external links to blue for now 
             - **[Rationale](<Rationale.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
+            - **[Rationale](<Rationale.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - **[[Ideas](<Ideas.md>) It might be helpful to include a `Factors](<[Ideas](<Ideas.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
                 - **[Rationale](<Rationale.md>):**

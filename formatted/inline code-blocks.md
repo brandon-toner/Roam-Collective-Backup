@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Frequently Asked Questions](<Frequently Asked Questions.md>)
+## [FAQ](<FAQ.md>)
 - Why use [inline code-blocks](<inline code-blocks.md>)
 
 - "Use [inline code-blocks](<inline code-blocks.md>)
