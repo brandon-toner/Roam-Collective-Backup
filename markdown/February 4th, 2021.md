@@ -15,6 +15,9 @@
                 - See Book Essentialism
                 - Divengence/Convergence
                     - Exploration/Concretization
+        - '[[@[[@[[Larissa de Lima]]]]'"[[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) "
+            - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
+
         - 
     - #GTD #not_populated
         - Check out "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
@@ -25,6 +28,8 @@
     - #Conversation #not_populated
         - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]]
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
+        - "Think it could be interesting to explore - what types of questions / template are you envisioning?"
+            - [[^[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of those information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived. What needs to be 
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}

@@ -779,7 +779,7 @@ These users would have far better outcomes if they simply operated at or slightl
                         - They seem minor and I don't want to clutter the tag when there are more meaty questions at higher level of abstraction
         - (low priority) On further exploring building "operationability" among atomic units and building blocks
             -  "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] I am so curious now."
-                - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
+                - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
                     - "#[Fleeting Notes](<Fleeting Notes.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
             - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
                 - [@[[leekeifon](<@[[leekeifon.md>)]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
