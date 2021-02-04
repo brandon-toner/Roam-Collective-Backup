@@ -247,6 +247,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
+- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**

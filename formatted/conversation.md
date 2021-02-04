@@ -19,6 +19,9 @@
 
 - On [conversation](<conversation.md>)
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- ""[Q](<Q.md>) How can a [conversation](<conversation.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>) or within [conversation](<conversation.md>).
 

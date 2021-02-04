@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [[maturity]]
             - #[[Follow Up]] In progress...
                 - [[[[E:]] Why build maturity into your knowledge management system?]]
-                    - #Evergreen Why build maturity into your knowledge management system
+                    - "#Evergreen Why build maturity into your knowledge management system"
                         - Why is maturity important?
                             - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
                             - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"

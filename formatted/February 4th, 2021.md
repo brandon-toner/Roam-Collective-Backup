@@ -27,3 +27,21 @@
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - Our [communication](<communication.md>) mechanism right now, using `@/cc`, is emulating mail system, which is implicitly [asynchronous](<asynchronous.md>).
+        - I personally love mailing, which is a good balance between slow and fast thinking, especially when I’m having question to solve.
+        - in-time chat vs mail-based chat is one typical implementation on [sync vs async](((0eWl7ORS7))) [communication](<communication.md>).
+        - Actually, is [sync vs async](((0eWl7ORS7))) actually a subjective definition?
+        - Our current [communication](<communication.md>) [conventions](<conventions.md>) feels like a mix of in-time chat and mail-based chat.
+        - If I consider face-to-face chatting is truly [synchronous](<synchronous.md>), compared with other [communication](<communication.md>) method, then I could think of some differences as shown below ... 
+            - enables [divergence](<divergence.md>) easily.
+                - Assumption: everyone’s mind is reasonable.
+                - Under [this assumption](((5SJKfkOSd))), in the situation that our communication topic jump from one to another, there must a way to reason about such transformation.
+                    - the input for the transformation is mostly(?) related to states, which can be outside-world state(e.g. touch, voice, etc.) and/or inner-world state(one’s own thinking)
+                    - #[P:Self](<P:Self.md>) normally, when we’re in the context of [communication](<communication.md>), the content of communication itself has high priority in our thought, but when the content isn’t interesting me, its priority decreases and my own thoughts(not much related to current topic, even not related to the whole conversation) floats up and I may suddenly change the topic. And sometimes, other will feels weird.
+                    - #[P:Self](<P:Self.md>) Sometimes, something clicked in my mind, but it’s off context of the whole communication, and I can’t help saying that thoughts out and other will also feel weird.
+                - When we’re talking face-to-face, we share much more states than pure words communication. AND, every shared state is the potential link to another topic, meaning that we have much more broader choices on topics, and therefore, much more possible for a [divergent](<divergent.md>) [communication](<communication.md>).
+                - #[P:Self](<P:Self.md>) Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
+    - #[Bookmarks](<Bookmarks.md>)
+- ---

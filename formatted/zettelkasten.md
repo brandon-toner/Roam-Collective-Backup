@@ -131,6 +131,34 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
 
+- ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
+
+- ""We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)!
+
+- ""Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
+
+- ""If we use the [zettelkasten](<zettelkasten.md>)
+
+- ""[The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
+
+- ""On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
+
+- ""#[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
+
+- ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
+
+- ""[Q](<Q.md>) How do you integrate ideas from various authors within a [zettelkasten](<zettelkasten.md>)?
+
+- ""In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>),
+
+- """In the future, as aspects of [epistemology](<epistemology.md>) are integrated into the [zettelkasten](<zettelkasten.md>),
+
+- ""[Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?
+
+- ""[Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+
+- ""[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 

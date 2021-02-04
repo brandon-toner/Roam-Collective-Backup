@@ -1,5 +1,18 @@
 
 # Backlinks
+## [February 4th, 2021](<February 4th, 2021.md>)
+- Our [communication](<communication.md>)
+
+- in-time chat vs mail-based chat is one typical implementation on [sync vs async](((0eWl7ORS7))) [communication](<communication.md>).
+
+- Our current [communication](<communication.md>)
+
+- If I consider face-to-face chatting is truly [synchronous](<synchronous.md>), compared with other [communication](<communication.md>)
+
+- #[P:Self](<P:Self.md>) normally, when we’re in the context of [communication](<communication.md>),
+
+- When we’re talking face-to-face, we share much more states than pure words communication. AND, every shared state is the potential link to another topic, meaning that we have much more broader choices on topics, and therefore, much more possible for a [divergent](<divergent.md>) [communication](<communication.md>).
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) What types of [communication](<communication.md>)
 

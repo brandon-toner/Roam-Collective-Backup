@@ -17,6 +17,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - ""[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>)
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- """[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>)
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - The [namespaces]([namespaces](<namespaces.md>))
 

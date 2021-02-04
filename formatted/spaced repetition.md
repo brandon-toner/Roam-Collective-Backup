@@ -15,6 +15,9 @@
 
 - "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- ""One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)
 

@@ -20,6 +20,9 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- ""#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
 

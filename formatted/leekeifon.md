@@ -25,6 +25,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - 11:10 -- Added experimental persona CSS examples for [leekeifon](<leekeifon.md>)
 

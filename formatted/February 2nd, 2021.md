@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
             - #[Follow Up](<Follow Up.md>) In progress...
                 - [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
-                    - [Evergreen](<Evergreen.md>) Why build maturity into your knowledge management system
+                    - "[Evergreen](<Evergreen.md>) Why build maturity into your knowledge management system"
                         - Why is maturity important?
                             - "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))"
                             - "We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)! [Bookmarks](<Bookmarks.md>)"

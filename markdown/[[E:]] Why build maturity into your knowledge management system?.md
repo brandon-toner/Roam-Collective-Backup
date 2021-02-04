@@ -1,1 +1,10 @@
-- "#Evergreen Why build maturity into your knowledge management system"
+- Tags:: #[[Evergreen Notes]]
+    - Date Created:: [[February 3rd, 2021]]
+    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Created by:: #not_populated
+    - Author:: #not_populated
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Contents:: #not_populated
+    - Next Steps:: #not_populated ((Plans for future elaboration or development))
+    - "#Evergreen Why build maturity into your knowledge management system"
