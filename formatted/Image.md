@@ -19,6 +19,9 @@
 5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
             - **[Image](<Image.md>):**
 
+10. **Brandon:** Where in the CSS does the query appearance get adjusted? (Not seeing anything references in the change log)
+            - **[Image](<Image.md>):**
+
 - Are we creating [MSN Messenger](<MSN Messenger.md>)? 😂 
             - **[Image](<Image.md>):**
 

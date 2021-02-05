@@ -4665,16 +4665,16 @@ a[href^='http']{
 #right-sidebar .rm-title-textarea {
     width: 95%;
 }```
-        13. Left Sidebar - Highlight important pages #Status/Idea
+        13. Left Sidebar - Highlight important pages #Status/Enabled
             - ```css
 
 .starred-pages a[href*="MorTyZR-2"]>.page,
 .starred-pages a[href*="sQPmakIfe"]>.page,
 .starred-pages a[href*="TxsV9GIET"]>.page
 {
-  color: #6398C4 !important;
+  color: #0A7AD2 !important;
 }```
-        14. Show Main Page multibar #Status/Idea
+        14. Show Main Page multibar #Status/Enabled
             - This is to stop people (read: me :P ) from accidentally clicking on the bar
             - ```css
 

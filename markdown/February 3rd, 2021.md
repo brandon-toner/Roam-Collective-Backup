@@ -737,7 +737,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - "[[~[[Larissa de Lima]]]] [[@[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for..."
                     - I support this!! 
             - Support for Weekly Reviews idea by PRosso
-                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[cc:[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
                     - Think it could be interesting to explore - what types of questions / template are you envisioning?
         - Reactions to ideas on making things easier for [[new users]]
             - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members." + could also be relevant for this: "Table of Contents or Shortcuts to jump to frequently used parts."

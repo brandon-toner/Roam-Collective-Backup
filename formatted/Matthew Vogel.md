@@ -43,7 +43,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
-7. [Matthew Vogel](<Matthew Vogel.md>):
+What does [Everyone](<Everyone.md>) think are the most important workflows/conventions to touch on? [*]([Matthew Vogel](<Matthew Vogel.md>))
 
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)[
 
