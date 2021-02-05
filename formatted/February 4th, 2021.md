@@ -14,6 +14,9 @@
             - **Matt V** I like how we can see everyone's conversations here
             - **Larissa** I like this!
             - **[Charles Farr](<Charles Farr.md>):** 10/10 would chat again
+            - **leekeifon:** Just wanna point out the key feature of this implementation, that’s in-time chatting and of course, I’m not sure if it’s necessary to forward the communication the future or just let it set at that day.
+            - **leekeifon:** But it should be the nice start for synchronous communication, all the contents will be in the air, just like face-to-face talk. You could get your notes down if you want to, but no one is forced to do so.
+            - :And actually, I don’t think
         4. **Matt V:** 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks
             - Like what we are using for CSS? - Brandon
                 - **Matt V**: Yes
@@ -116,6 +119,12 @@ Monthly reviews could include a zoom catchup?
         - "Assumption: everyone’s mind is reasonable."
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.
         - #[I](<I.md>) Technically speaking, I think it’s possible to write a `roam/js` plugin ((not rely on browser setting)) for community members to render their own private style. Am I wrong? [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]] [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        - Play around with datalog
+            - :q [:find ?str
+	:where 
+    	[?e :block/string ?str]
+		[(re-matches #".*Community Note.*" ?str)]	  
+	]
     - #[Conversation](<Conversation.md>)
         - (re:) "Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?" [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
             - Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>)) hand, `[Everyone](<Everyone.md>)` tag can be used by other community memebers.
@@ -256,7 +265,7 @@ Monthly reviews could include a zoom catchup?
             - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol
             - [~[[leekeifon](<~[[leekeifon.md>)]] I agree — love a [good email](((Ay1XRIeu-))) conversation!
                 - I want to set up an urbit community that automatically exports the daily IRC chat to the graph...
-            - [@[[leekeifon](<@[[leekeifon.md>)]] re: the display [here](((BrDNimG4F))), are you referring the the preview on hover?
+            - [~[[leekeifon](<~[[leekeifon.md>)]] re: the display [here](((BrDNimG4F))), are you referring the the preview on hover?
             - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [status](((cLrCgntHm))) looks great!
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)

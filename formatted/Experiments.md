@@ -20,7 +20,7 @@
 - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
 
 ## [leekeifon](<leekeifon.md>)
-- {{[query](<query.md>): {and: [Experiments](<Experiments.md>)
+- [minimal](<minimal.md>)  {{[query](<query.md>): {and: [Experiments](<Experiments.md>)
 
 ## [zettelkasten](<zettelkasten.md>)
 - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))

@@ -441,7 +441,7 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [leekeifon](<leekeifon.md>)
-- {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Fleeting Notes](<Fleeting Notes.md>)

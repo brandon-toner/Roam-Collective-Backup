@@ -151,13 +151,13 @@
 - {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
 ## [leekeifon](<leekeifon.md>)
-- {{[query](<query.md>):
+- [minimal](<minimal.md>) {{[query](<query.md>):
 
 - {{[query](<query.md>):
 
-- {{[query](<query.md>):
+- [minimal](<minimal.md>)  {{[query](<query.md>):
 
-- {{[query](<query.md>):
+- # {{[query](<query.md>):
 
 - {{[query](<query.md>):
 

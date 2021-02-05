@@ -792,7 +792,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - [[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
                     - "#[[Fleeting Notes]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
             - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[cc:[[Larissa de Lima]]]] #[[Experiments]]"
-                - [[@[[leekeifon]]]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
+                - [[~[[leekeifon]]]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
     - #Feedback 
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
