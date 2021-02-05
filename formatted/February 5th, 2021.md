@@ -7,13 +7,23 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - On a broadcasting smartblock. #[Follow Up](<Follow Up.md>)
+            - "What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?"
+    - [Conversation](<Conversation.md>) 
+        1. On [Live Preview](<Live Preview.md>) [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]], [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+            - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
+        2. Simple replies
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
+                - I haven't in a while, but will at the next opportunity. 
+                    - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) improve functionality of drop-down menus.
+            - 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -28,9 +38,19 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - I love [@[[Charles Farr](<@[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
-        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+            - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
+                - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) Preview of specific pages that contains a chosen tag
         - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)){{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
+        - [@[[leekeifon](<@[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---

@@ -7,13 +7,23 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated
     - #GTD #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Bookmarks
+        - On a broadcasting smartblock. #[[Follow Up]]
+            - "What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?"
+    - #Conversation 
+        1. On [[Live Preview]] [[cc:[[Matthew Vogel]]]], [[cc:[[Peter Rosso]]]]
+            - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
+        2. Simple replies
+            - "[[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
+                - I haven't in a while, but will at the next opportunity. 
+                    - #[[Roam Enhancement Requests]] improve functionality of drop-down menus.
+            - 
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -28,9 +38,19 @@
     - #[[The Zettelkasten]] #not_populated
     - #Conversation
         - I love [[@[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[@[[Brandon Toner]]]] [[@[[leekeifon]]]] [[@[[Larissa de Lima]]]]
-        - [[@[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
-        - [[@[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+        - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
+        - [[~[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+            - "[[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
+                - #[[Roam Enhancement Requests]] Preview of specific pages that contains a chosen tag
         - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
+- ---
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation 
+        - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
+        - [[@[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
