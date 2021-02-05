@@ -39,6 +39,8 @@
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
@@ -69,6 +71,9 @@
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [Maggie Delano](<Maggie Delano.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
+## [Peter Rosso](<Peter Rosso.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [leekeifon](<leekeifon.md>)

@@ -16,3 +16,21 @@
     - #Conversation #not_populated
     - #Feedback  #not_populated
 - ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]] 
+        - [[@[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+    - #GTD 
+        - Order old tasks by priority
+        - "Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]"
+        - reply "Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon."
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation
+        - I love [[@[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[@[[Brandon Toner]]]] [[@[[leekeifon]]]] [[@[[Larissa de Lima]]]]
+        - [[@[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
+        - [[@[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+        - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
+    - #Feedback  #not_populated
+    - #Bookmarks #not_populated
+- ---

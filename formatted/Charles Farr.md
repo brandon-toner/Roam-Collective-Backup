@@ -69,7 +69,7 @@
 - **Matt V**: Yes
             - **[Charles Farr](<Charles Farr.md>):**
 
-- **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+- **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
             - **[Charles Farr](<Charles Farr.md>):**
 
 - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...

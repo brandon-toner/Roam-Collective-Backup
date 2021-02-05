@@ -13,6 +13,9 @@
 
 - Also, l love the idea of making it a [synchronous](<synchronous.md>)
 
+## [February 5th, 2021](<February 5th, 2021.md>)
+- reply "Also, l love the idea of making it a [synchronous](<synchronous.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) How do you memorialize [synchronous](<synchronous.md>)
 

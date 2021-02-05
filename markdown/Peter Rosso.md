@@ -13,6 +13,19 @@
         - Interests::
             - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - Queries::
-            - {{[[query]]: {and: [[@[[Peter Rosso]]]] {not: [[query]]]}}  }}
-            - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
+            - CC
+                - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
         - SmartBlocks::
+            - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
+                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+                    - #[[Scratchpad]] #not_populated
+                    - #GTD #not_populated
+                    - #Promptstorming #not_populated
+                    - #[[The Zettelkasten]] #not_populated
+                    - #Conversation #not_populated
+                        - Query:
+                            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+                    - #Feedback  #not_populated
+                    - #Bookmarks #not_populated
+                - ---

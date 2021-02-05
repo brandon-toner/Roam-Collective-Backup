@@ -32,6 +32,8 @@
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
@@ -59,6 +61,9 @@
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [Maggie Delano](<Maggie Delano.md>)
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
+## [Peter Rosso](<Peter Rosso.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [roam/css](<roam/css.md>)

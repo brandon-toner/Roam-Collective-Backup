@@ -16,3 +16,21 @@
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+    - [GTD](<GTD.md>) 
+        - Order old tasks by priority
+        - "Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)"
+        - reply "Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon."
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - I love [@[[Charles Farr](<@[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
+        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
+        - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+- ---

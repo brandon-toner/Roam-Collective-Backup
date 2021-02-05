@@ -13,9 +13,22 @@
         - **[Interests](<Interests.md>):**
             - [Climbing](https://www.rgs.org/geography/online-lectures/project-armenia-climbing-above-the-clouds-peter/), Chess, Photography, ML, Board games, Reading
         - **[Queries](<Queries.md>):**
-            - {{[query](<query.md>): {and: [@[[Peter Rosso](<@[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
-            - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
+            - CC
+                - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
+            - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+                    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+                    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+                    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+                    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+                    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+                        - Query:
+                            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+                    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+                    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+                - ---
 
 # Backlinks
 ## [Directory](<Directory.md>)
@@ -35,10 +48,16 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
+## [February 5th, 2021](<February 5th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [Peter Rosso](<Peter Rosso.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)

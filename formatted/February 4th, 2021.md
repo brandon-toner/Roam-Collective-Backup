@@ -25,7 +25,7 @@
         5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
             - **[Image](<Image.md>):** 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fj0rnFxGw2k.png?alt=media&token=7b9dba9e-f7ff-486f-b59d-8e57df402e66)
-            - **Matt V:** was an idea of [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]], detailed [here](((To3tG6XRj)))
+            - **Matt V:** was an idea of [~[[Peter Rosso](<~[[Peter Rosso.md>)]], detailed [here](((To3tG6XRj)))
             - **Peter:** I thought it would attract attentions of new members. Personally I'd click on the big read button if nobody stopped me. Especially if it says welcome and has a smiley face...
             - **Brandon:** Love it! Moved them around a bit, and adjusted the color a tad — really like it. Definitely more attractive for click-through.
         6. **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
@@ -34,7 +34,7 @@
             - I'm thinking conventions that are tested and seem to work (even if we are still iterating on them). So far I'm thinking about touching on most of the [Quick Start Guide](<Quick Start Guide.md>), the `@` chat convention, [Daily Activities](<Daily Activities.md>)/[Prompts](<Prompts.md>), and using double parenthesis `(( ))` while writing to search across the graph for adjacent blocks
             - **Peter:** I'd have suggested pretty much what you listened.  The difference between `Chat` and `Conversation` is tackled [here](((ROVBmMBrp)))
         8. **Peter:** roamcollective.org is $10 per year 👀 Output channell?
-            - **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+            - **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
             - **[Charles Farr](<Charles Farr.md>):** I think this is a great idea — I've got a $1 I'm willing to chip in lol
         9. **Brandon:** "Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?"
             - **Larissa** I like leekeifon's idea of having some tag that triggers a vote/action, imagine that's a similar motivation to an Everyone tag, but doesn't seem like the `[Everyone](<Everyone.md>)` is the right implementation
@@ -81,7 +81,7 @@ Monthly reviews could include a zoom catchup?
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [*](((To3tG6XRj))) You are a wizard!!  
             - 🙏
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]], is there a way to get a preview of the page when hovering over a connection that does not use a hashtag like when hovering above a connection a link, i.e. can we get a page preview like the one you get on the evergreen notes website? 
-            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] Yes but only if you're running roam42. It's called [Live Preview](<Live Preview.md>) and you'll need to enable it yourself
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Yes but only if you're running roam42. It's called [Live Preview](<Live Preview.md>) and you'll need to enable it yourself
                 - "Use `CTRL+Hover` to preview a page or a block reference using [Roam42](<Roam42.md>) [Live Preview](<Live Preview.md>)"
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWVf4pT2gge.png?alt=media&token=710c85ef-2f1e-4a6f-8346-27cb25740cda)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] The [drop-down menus](((uRYMznUlI))) could be used to indicate the maturity of an `Evergreen Note`... Do they work with links to pages? e.g.
@@ -130,7 +130,7 @@ Monthly reviews could include a zoom catchup?
             - Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>)) hand, `[Everyone](<Everyone.md>)` tag can be used by other community memebers.
             - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
             - One way to think of it, is to consider it as a [Roam collective personal publish protocol](((Mfh93O_VB))), that gives each community member the power to establish their own channel.
-        - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+        - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
         - Lightweight Replies
             - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
             - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [@[[Charles Farr](<@[[Charles Farr.md>)]]
@@ -248,12 +248,12 @@ Monthly reviews could include a zoom catchup?
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - On Weekly Reviews with PRosso
-            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] I like this [idea](((nZArzolvZ))) — [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I like this [idea](((nZArzolvZ))) — [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
                 - Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)
                     - Will #[Follow Up](<Follow Up.md>) here tomorrow and start working on it a bit...
                 - Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon.
         - On Broadcasting to the Graph/Group
-            - Regarding the idea of an [Everyone](((yT8htOsew))) tag, I think there's an important function of [broadcasting](<broadcasting.md>) to the entire community that we need to consider — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [@[[Peter Rosso](<@[[Peter Rosso.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
+            - Regarding the idea of an [Everyone](((yT8htOsew))) tag, I think there's an important function of [broadcasting](<broadcasting.md>) to the entire community that we need to consider — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
                 - What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?
                     - Essentially we would just write a SmartBlock that would surface all blocks with a combination of  `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` + a `DNP: [February 4th, 2021](<February 4th, 2021.md>)` tag
                         - We would need to add some status flags — i.e., `[Settled](<Settled.md>) / [Accepted](<Accepted.md>) / [Rejected](<Rejected.md>)` to signify that the SmartBlock can drop it

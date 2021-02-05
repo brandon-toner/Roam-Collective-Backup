@@ -9,3 +9,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
 
+## [February 5th, 2021](<February 5th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
+
+## [Peter Rosso](<Peter Rosso.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
+
