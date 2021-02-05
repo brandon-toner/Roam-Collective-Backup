@@ -4,7 +4,7 @@
 - #[Follow Up](<Follow Up.md>) [datalog](<datalog.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
-- #[Q](<Q.md>) It should be possible to differentiate [these structure](((eIy6LyXQa))) by [datalog](<datalog.md>)
+- #[Q](<Q.md>) It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [datalog](<datalog.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Reflections on [datalog](<datalog.md>)

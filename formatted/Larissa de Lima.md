@@ -6,6 +6,7 @@
         - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
         - **[Work](<Work.md>):** [data policy](<data policy.md>) research for a think tank; previously strategy consulting for financial institutions.  Enjoy writing speculative fiction on the side
         - **[How to contact me](<How to contact me.md>):** Roam Slack (preferred), Twitter (check less frequently)
+        - **[Birthday](<Birthday.md>):** [April 14th, 2021](<April 14th, 2021.md>)
         - **[Interests](<Interests.md>):** [economics](<economics.md>) [history](<history.md>) [data policy](<data policy.md>) [policy](<policy.md>) [metacognition](<metacognition.md>) [systems thinking](<systems thinking.md>)
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
@@ -13,7 +14,7 @@
     - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} online 👋
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
             - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
@@ -38,6 +39,9 @@
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
+
+## [February 4th, 2021](<February 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

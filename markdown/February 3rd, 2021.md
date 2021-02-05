@@ -81,7 +81,7 @@
             - "So many thoughts, so little time. Will return when I can."
                 - No rush! Great to see you check in even as a one-liner haha. [[@[[Mark Robertson]]]]
         2. Outgoing messages:
-            - [[@[[Charles Farr]]]] [[@[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
+            - [[@[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [[fleeting notes]] vs [[seedlings]] #maturity
             - "#Q What differentiates [[fleeting notes]] and [[seedlings]]?"
                 - Seedlings are more "on the path towards" evergreen. 

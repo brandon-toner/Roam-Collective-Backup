@@ -12,6 +12,7 @@
         3. **Brandon:** Thoughts on [this](((ROVBmMBrp)))? 
             - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
             - **Matt V** I like how we can see everyone's conversations here
+            - **Larissa** I like this!
         4. **Matt V:** 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks
             - Like what we are using for CSS? - Brandon
         5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
@@ -28,6 +29,7 @@
         8. **Peter:** roamcollective.org is $10 per year 👀 Output channell?
             - **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [[@[[Peter Rosso]]]]
         9. **Brandon:** "Doubting the usefulness of the #Everyone tag... thoughts?"
+            - **Larissa** I like leekeifon's idea of having some tag that triggers a vote/action, imagine that's a similar motivation to an Everyone tag, but doesn't seem like the `#Everyone` is the right implementation 
         10. **Brandon:** Where in the CSS does the query appearance get adjusted? (Not seeing anything references in the change log)
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpYoCDth_sJ.png?alt=media&token=0ce5b39b-bd4f-4cbe-bc1a-f706479be55b)
@@ -76,7 +78,7 @@ Monthly reviews could include a zoom catchup?
         - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
         - #[[Follow Up]] """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
-- #[[My Daily Notes]] [[leekeifon]] {{word-count}}
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - #[[Scratchpad]]
         - Our [[communication]] mechanism right now, using `@/cc`, is emulating mail system, which is implicitly [[asynchronous]].
         - I personally love mailing, which is a good balance between slow and fast thinking, especially when I’m having question to solve.
@@ -92,12 +94,24 @@ Monthly reviews could include a zoom catchup?
                     - #[[P:Self]] Sometimes, something clicked in my mind, but it’s off context of the whole communication, and I can’t help saying that thoughts out and other will also feel weird.
                 - When we’re talking face-to-face, we share much more states than pure words communication. AND, every shared state is the potential link to another topic, meaning that we have much more broader choices on topics, and therefore, much more possible for a [[divergent]] [[communication]].
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
-        - #[[Q]] It should be possible to differentiate [these structure](((eIy6LyXQa))) by [[datalog]] query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**?  [[cc:[[Brandon Toner]]]] [[cc:[[Matthew Vogel]]]]
+        - #[[Q]] It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [[datalog]] query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [[patterns]] to be recognized.  [[cc:[[Brandon Toner]]]] [[cc:[[Matthew Vogel]]]]
             - Related:: sibling query feature request mentioned by [[Joel Chan]] and [[Robert Haisfield]] in their chatting video.
-        - 
+            - Related:: The above block is the example of "#[[Fleeting Notes]] block-embed [[model]]"
+        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]".
+    - #[[Conversation]]
+        - (re) "Doubting the usefulness of the #Everyone tag... thoughts?"
+            - Different from announcement, which is controlled in [your]([[Brandon Toner]]) hand, `#Everyone` tag can be used by other community memebers.
+            - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
+            - One way to think of it, is to consider it as a [Roam collective personal publish protocol](((Mfh93O_VB))), that gives each community member the power to establish their own channel.
+    - #[[Help Wanted]]
+        - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
     - #[[Bookmarks]]
         - "Left Sidebar - Highlight important pages #Status/Enabled"
         - {{[[embed]]: ((((BrDNimG4F))))}}
+        - "[[Feature Request]] I would kill for a way to filter out code blocks from search results"
+        - {{[[embed]]: ((YT3Dy690T))}}
+        - {{[[embed]]: ((r1FQAyh6N))}}
+        - {{[[embed]]: ((jbnNi00AV))}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
@@ -181,4 +195,17 @@ Monthly reviews could include a zoom catchup?
     - #Feedback
         - I'm loving the energy and iteration on this graph but I am a little concerned about how many features and conventions we want to add before they become more of a hindrance than a help to new graph users.
             - The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused   
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - #Scratchpad 
+        - Big meeting tomorrow so just stopping by very quickly!
+    - #GTD #not_populated
+    - #Questions #not_populated
+    - #Conversation
+        - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."
+            - Ooh what book?
+        - On new away messages
+            - "[[@[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?"
+                - 😂 love it!
+    - #Feedback #not_populated
 - ---

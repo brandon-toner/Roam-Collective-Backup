@@ -5,7 +5,7 @@
         - **[Interests](<Interests.md>):**
 
 ## [Larissa de Lima](<Larissa de Lima.md>)
-- **[How to contact me](<How to contact me.md>):** Roam Slack (preferred), Twitter (check less frequently)
+- **[Birthday](<Birthday.md>):** [April 14th, 2021](<April 14th, 2021.md>)
         - **[Interests](<Interests.md>):**
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)

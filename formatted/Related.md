@@ -59,7 +59,10 @@
             - **[Related](<Related.md>):**
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
-- #[Q](<Q.md>) It should be possible to differentiate [these structure](((eIy6LyXQa))) by [datalog](<datalog.md>) query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**?  [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
+- #[Q](<Q.md>) It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [datalog](<datalog.md>) query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [patterns](<patterns.md>) to be recognized.  [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
+            - **[Related](<Related.md>):**
+
+- **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>) and [Robert Haisfield](<Robert Haisfield.md>) in their chatting video.
             - **[Related](<Related.md>):**
 
 ## [Fleeting Notes](<Fleeting Notes.md>)

@@ -81,7 +81,7 @@
             - "So many thoughts, so little time. Will return when I can."
                 - No rush! Great to see you check in even as a one-liner haha. [@[[Mark Robertson](<@[[Mark Robertson.md>)]]
         2. Outgoing messages:
-            - [@[[Charles Farr](<@[[Charles Farr.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
+            - [@[[Charles Farr](<@[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [fleeting notes](<fleeting notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
             - "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?"
                 - Seedlings are more "on the path towards" evergreen. 

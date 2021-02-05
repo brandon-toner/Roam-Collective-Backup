@@ -6,6 +6,7 @@
         - Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
         - Work:: [[data policy]] research for a think tank; previously strategy consulting for financial institutions.  Enjoy writing speculative fiction on the side
         - How to contact me:: Roam Slack (preferred), Twitter (check less frequently)
+        - Birthday:: [[April 14th, 2021]]
         - Interests:: [[economics]] [[history]] [[data policy]] [[policy]] [[metacognition]] [[systems thinking]]
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
@@ -13,7 +14,7 @@
     - {{[[query]]: {and: [[@[[Larissa de Lima]]]]}}}
 - SmartBlocks::
     - LaBrisa — DNT #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} online 👋
+        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
             - #Scratchpad #not_populated
             - #GTD #not_populated
             - #Questions #not_populated

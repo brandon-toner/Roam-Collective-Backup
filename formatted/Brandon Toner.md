@@ -117,6 +117,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
+- Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

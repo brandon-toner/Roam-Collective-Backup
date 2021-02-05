@@ -130,6 +130,13 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- **[Related](<Related.md>):** The above block is the example of "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 

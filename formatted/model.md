@@ -5,6 +5,13 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- **[Related](<Related.md>):** The above block is the example of "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+
+- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)"
+
+- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - One handy starting point to build up [communication](<communication.md>) [model](<model.md>)
 
