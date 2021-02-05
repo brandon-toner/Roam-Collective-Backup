@@ -52,6 +52,10 @@
 - **[Work](<Work.md>):** [Educator](<Educator.md>)
         - **[How to contact me](<How to contact me.md>):**
 
+## [Stefan Natter](<Stefan Natter.md>)
+- **[Work](<Work.md>):** [software engineer](<software engineer.md>)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Work](<Work.md>):** [doctor](<doctor.md>)
         - **[How to contact me](<How to contact me.md>):**

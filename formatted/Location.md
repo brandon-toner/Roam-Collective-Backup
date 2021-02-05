@@ -65,6 +65,10 @@
 - **[Twitter](<Twitter.md>):** [@Eklavia_](https://twitter.com/Eklavia_) 
         - **[Location](<Location.md>):**
 
+## [Stefan Natter](<Stefan Natter.md>)
+- **[Website](<Website.md>):** https://natterstefan.me
+        - **[Location](<Location.md>):**
+
 ## [Zsolt Viczián](<Zsolt Viczián.md>)
 - **[Website](<Website.md>):** [zsolt.blog](https://www.zsolt.blog)
         - **[Location](<Location.md>):**

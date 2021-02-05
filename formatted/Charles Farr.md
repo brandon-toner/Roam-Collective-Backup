@@ -14,6 +14,7 @@
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) }}  }}}
+    - [datalog experimentation](<datalog experimentation.md>)
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
@@ -75,6 +76,9 @@
 - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
             - **[Charles Farr](<Charles Farr.md>):**
 
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 5th, 2021](<February 5th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

@@ -33,6 +33,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - I'm thinking conventions that are tested and seem to work (even if we are still iterating on them). So far I'm thinking about touching on most of the [Quick Start Guide](<Quick Start Guide.md>),
 
+## [February 5th, 2021](<February 5th, 2021.md>)
+- Feedback: [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
@@ -49,4 +52,7 @@
 
 ## [Welcome 😃](<Welcome 😃.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
+
+## [datalog experimentation](<datalog experimentation.md>)
+- "Feedback: [Quick Start Guide](<Quick Start Guide.md>)"
 

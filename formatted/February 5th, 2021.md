@@ -27,13 +27,12 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>) 
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
-            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+    - #[Scratchpad](<Scratchpad.md>)  [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) 
         - Order old tasks by priority
         - "Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)"
         - reply "Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon."
+        - 
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
@@ -43,6 +42,8 @@
             - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
                 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) Preview of specific pages that contains a chosen tag
         - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
@@ -54,3 +55,32 @@
         - [@[[leekeifon](<@[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - [Scratchpad](<Scratchpad.md>)
+        - Reviewing onboarding & meta-structure
+            - Feedback: [Quick Start Guide](<Quick Start Guide.md>)
+                - Details should be embedded in the page — easier to read versus multiple links
+                - Add block reference to all of the Roam js that is needed to be activated
+                - Split the sections up a bit more...
+                    - Creating your page & profile
+                    - Understand how to interact with the graph and others
+                    - Start writing
+            - Feedback: [Welcome 😃](<Welcome 😃.md>)
+                - Welcome should provide an answer the "what" and "why" of Roam Collective, provide a few examples of the awesome conversations and content we're building, and then link to the various "how" pages
+                    - How to use basic features
+                    - How to use more complex features
+                    - How to get access
+                    - etc...
+            - Feedback: [right sidebar](<right sidebar.md>)
+                - Strip out all of the pages below FAQ
+                - Create a new page called "The Hub" that indexes all of the critical pages (projects, important tags, etc.)
+            - Feedback: `[Announcements](<Announcements.md>)`
+                - Slim down total announcements — too much detail gets lost
+            - Addition: Onboarding "AoT"
+                - Re: "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more"
+                - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
+        - "[datalog](<datalog.md>) experimentation"
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - ---

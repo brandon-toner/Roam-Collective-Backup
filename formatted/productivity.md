@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Stefan Natter](<Stefan Natter.md>)
+- Many things, including [productivity](<productivity.md>),
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Interests](<Interests.md>):** [learning](<learning.md>), [research](<research.md>), [productivity](<productivity.md>),
 

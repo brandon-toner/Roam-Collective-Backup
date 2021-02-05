@@ -40,6 +40,10 @@
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>) + 5:30)
         - **[Work](<Work.md>):**
 
+## [Stefan Natter](<Stefan Natter.md>)
+- **[Location](<Location.md>):** [Dornbirn](<Dornbirn.md>), [Vorarlberg](<Vorarlberg.md>) [Austria](<Austria.md>)
+        - **[Work](<Work.md>):**
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Twitter](<Twitter.md>):** [@syncretizm](http://twitter.com/syncretizm)
         - **[Work](<Work.md>):**

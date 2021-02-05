@@ -54,6 +54,9 @@
 ## [Quick Start Guide](<Quick Start Guide.md>)
 7. Use the [Daily Log](<Daily Log.md>)
 
+## [Stefan Natter](<Stefan Natter.md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[Daily Log](<Daily Log.md>)
 

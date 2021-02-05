@@ -14,3 +14,4 @@
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes
         - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] }}  }}}
+    - [[datalog experimentation]]

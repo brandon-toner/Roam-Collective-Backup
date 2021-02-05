@@ -142,6 +142,15 @@
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>), [query](<query.md>)
 
+## [Stefan Natter](<Stefan Natter.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Stefan Natter](<@[[Stefan Natter.md>)]] {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Stefan Natter](<cc:[[Stefan Natter.md>)]] {not: [query](<query.md>)]
+
 ## [Winston Teng](<Winston Teng.md>)
 - {{[query](<query.md>):
 

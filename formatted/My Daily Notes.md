@@ -94,6 +94,8 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -192,6 +194,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 - This example is QUITE developed. You could simply nest your ideas underneath the `#[My Daily Notes](<My Daily Notes.md>)`
 
 ## [Peter Rosso](<Peter Rosso.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [Stefan Natter](<Stefan Natter.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [roam/css](<roam/css.md>)

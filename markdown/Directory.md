@@ -16,6 +16,7 @@
     - [[Mridula]]
     - [[Peter Rosso]]
     - [[Reddy2Go]]
+    - [[Stefan Natter]]
     - [[Tyler Wince]]
     - [[Wiel Zouantcha]]
     - [[Winston Teng]]

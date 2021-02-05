@@ -295,6 +295,9 @@
 ## [Sprints](<Sprints.md>)
 - **[Tags](<Tags.md>):**
 
+## [Stefan Natter](<Stefan Natter.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Stories](<Stories.md>)
 - **[Tags](<Tags.md>):**
 

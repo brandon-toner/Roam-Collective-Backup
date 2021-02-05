@@ -27,13 +27,12 @@
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[[Scratchpad]] 
-        - [[@[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
-            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+    - #[[Scratchpad]]  #not_populated
     - #GTD 
         - Order old tasks by priority
         - "Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]"
         - reply "Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon."
+        - 
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation
@@ -43,6 +42,8 @@
             - "[[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
                 - #[[Roam Enhancement Requests]] Preview of specific pages that contains a chosen tag
         - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
+        - [[@[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+            - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
@@ -54,3 +55,32 @@
         - [[@[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #Scratchpad
+        - Reviewing onboarding & meta-structure
+            - Feedback: [[Quick Start Guide]]
+                - Details should be embedded in the page — easier to read versus multiple links
+                - Add block reference to all of the Roam js that is needed to be activated
+                - Split the sections up a bit more...
+                    - Creating your page & profile
+                    - Understand how to interact with the graph and others
+                    - Start writing
+            - Feedback: [[Welcome 😃]]
+                - Welcome should provide an answer the "what" and "why" of Roam Collective, provide a few examples of the awesome conversations and content we're building, and then link to the various "how" pages
+                    - How to use basic features
+                    - How to use more complex features
+                    - How to get access
+                    - etc...
+            - Feedback: [[right sidebar]]
+                - Strip out all of the pages below FAQ
+                - Create a new page called "The Hub" that indexes all of the critical pages (projects, important tags, etc.)
+            - Feedback: `#Announcements`
+                - Slim down total announcements — too much detail gets lost
+            - Addition: Onboarding "AoT"
+                - Re: "[[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more"
+                - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
+        - "[[datalog]] experimentation"
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - ---

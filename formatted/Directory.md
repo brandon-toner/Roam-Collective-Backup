@@ -16,6 +16,7 @@
     - [Mridula](<Mridula.md>)
     - [Peter Rosso](<Peter Rosso.md>)
     - [Reddy2Go](<Reddy2Go.md>)
+    - [Stefan Natter](<Stefan Natter.md>)
     - [Tyler Wince](<Tyler Wince.md>)
     - [Wiel Zouantcha](<Wiel Zouantcha.md>)
     - [Winston Teng](<Winston Teng.md>)
