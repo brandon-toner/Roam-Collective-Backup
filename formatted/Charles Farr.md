@@ -62,6 +62,21 @@
 
 - ""The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- **Larissa** I like this!
+            - **[Charles Farr](<Charles Farr.md>):**
+
+- **Matt V**: Yes
+            - **[Charles Farr](<Charles Farr.md>):**
+
+- **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+            - **[Charles Farr](<Charles Farr.md>):**
+
+- **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
+            - **[Charles Farr](<Charles Farr.md>):**
+
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
 

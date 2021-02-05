@@ -13,12 +13,16 @@
             - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
             - **Matt V** I like how we can see everyone's conversations here
             - **Larissa** I like this!
+            - **[Charles Farr](<Charles Farr.md>):** 10/10 would chat again
         4. **Matt V:** 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks
             - Like what we are using for CSS? - Brandon
+                - **Matt V**: Yes
+            - **[Charles Farr](<Charles Farr.md>):** This makes sense — you can actually still block reference from a version even if it's not selected. I bet all it does is "hide" the other versions in some way.
+                - For CSS shouldn't be too much of a problem though...
         5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
             - **[Image](<Image.md>):** 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fj0rnFxGw2k.png?alt=media&token=7b9dba9e-f7ff-486f-b59d-8e57df402e66)
-            - **Matt V:** was n idea of [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]], detailed [here](((To3tG6XRj)))
+            - **Matt V:** was an idea of [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]], detailed [here](((To3tG6XRj)))
             - **Peter:** I thought it would attract attentions of new members. Personally I'd click on the big read button if nobody stopped me. Especially if it says welcome and has a smiley face...
             - **Brandon:** Love it! Moved them around a bit, and adjusted the color a tad — really like it. Definitely more attractive for click-through.
         6. **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
@@ -28,12 +32,15 @@
             - **Peter:** I'd have suggested pretty much what you listened.  The difference between `Chat` and `Conversation` is tackled [here](((ROVBmMBrp)))
         8. **Peter:** roamcollective.org is $10 per year 👀 Output channell?
             - **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [@[[Peter Rosso](<@[[Peter Rosso.md>)]]
+            - **[Charles Farr](<Charles Farr.md>):** I think this is a great idea — I've got a $1 I'm willing to chip in lol
         9. **Brandon:** "Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?"
-            - **Larissa** I like leekeifon's idea of having some tag that triggers a vote/action, imagine that's a similar motivation to an Everyone tag, but doesn't seem like the `[Everyone](<Everyone.md>)` is the right implementation 
+            - **Larissa** I like leekeifon's idea of having some tag that triggers a vote/action, imagine that's a similar motivation to an Everyone tag, but doesn't seem like the `[Everyone](<Everyone.md>)` is the right implementation
         10. **Brandon:** Where in the CSS does the query appearance get adjusted? (Not seeing anything references in the change log)
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpYoCDth_sJ.png?alt=media&token=0ce5b39b-bd4f-4cbe-bc1a-f706479be55b)
-    - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
+            - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
+            - **[Charles Farr](<Charles Farr.md>):** You're got to add a tag to the same block as a query — `[minimal](<minimal.md>)`, `[min-con](<min-con.md>)`, `[min-title](<min-title.md>)`, etc. (check the css for the IDs in the block tags)
+    -  #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
     - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>)) {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
@@ -66,10 +73,14 @@ __I love that your comment came from back in time 🤣!!__
 Monthly reviews could include a zoom catchup?
 "How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>) be used to support collaboration in a collaborative graph?"
         - [Everyone](<Everyone.md>) How do we develop a skill to have divergent and convergent conversations. I think lots of interesting conversation with friends just kept on diverging until nobody remembered why we were discussing what and we just moved on. Not all conversations need to go somewhere, but is there a skill?
-        - [@[[leekeifon](<@[[leekeifon.md>)]] What does [reasonable](((5SJKfkOSd))) mean?
+        - [~[[leekeifon](<~[[leekeifon.md>)]] What does [reasonable](((5SJKfkOSd))) mean?
         - [Everyone](<Everyone.md>) Would people want to add birthdays to their profiles?
-        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] [*](((To3tG6XRj))) You are a wizard!!  
-        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]], is there a way to get a preview of the page when hovering over a connection that does not use a hashtag like when hovering above a connection a link, i.e. can we get a page preview like the one you get on the evergreen notes website? 
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [*](((To3tG6XRj))) You are a wizard!!  
+            - 🙏
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]], is there a way to get a preview of the page when hovering over a connection that does not use a hashtag like when hovering above a connection a link, i.e. can we get a page preview like the one you get on the evergreen notes website? 
+            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] Yes but only if you're running roam42. It's called [Live Preview](<Live Preview.md>) and you'll need to enable it yourself
+                - "Use `CTRL+Hover` to preview a page or a block reference using [Roam42](<Roam42.md>) [Live Preview](<Live Preview.md>)"
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWVf4pT2gge.png?alt=media&token=710c85ef-2f1e-4a6f-8346-27cb25740cda)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] The [drop-down menus](((uRYMznUlI))) could be used to indicate the maturity of an `Evergreen Note`... Do they work with links to pages? e.g.
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
         - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
@@ -98,11 +109,23 @@ Monthly reviews could include a zoom catchup?
             - **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>) and [Robert Haisfield](<Robert Haisfield.md>) in their chatting video.
             - **[Related](<Related.md>):** The above block is the example of "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
         - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)".
+        - #[Q](<Q.md>) What’s the best way to convey information within a block?
+            - **[Observations](<Observations.md>):** one [tensions](<tensions.md>) is, when the linking intention and the center of block information don’t align.
+            - #[Fleeting Notes](<Fleeting Notes.md>) Those css that are not trying to convey the center of block information, tends to dull our concentration.
+                - **[[ ] Examples](<[ ] Examples.md>):** convey what I think is good and what’s not.
+        - "Assumption: everyone’s mind is reasonable."
+            - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.
+        - #[I](<I.md>) Technically speaking, I think it’s possible to write a `roam/js` plugin ((not rely on browser setting)) for community members to render their own private style. Am I wrong? [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]] [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
     - #[Conversation](<Conversation.md>)
-        - (re) "Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?"
+        - (re:) "Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?" [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
             - Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>)) hand, `[Everyone](<Everyone.md>)` tag can be used by other community memebers.
             - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
             - One way to think of it, is to consider it as a [Roam collective personal publish protocol](((Mfh93O_VB))), that gives each community member the power to establish their own channel.
+        - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+        - Lightweight Replies
+            - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
+            - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - re[*](((o-vu7iZWx))): not sure what urbit is, but what you really mean is that you’re eager to have the ability to sync outside world messy information into personal graph for manipulation. Am I right? [@[[Charles Farr](<@[[Charles Farr.md>)]]
     - #[Help Wanted](<Help Wanted.md>)
         - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
     - #[Bookmarks](<Bookmarks.md>)
@@ -113,7 +136,7 @@ Monthly reviews could include a zoom catchup?
         - {{[embed](<embed.md>): ((r1FQAyh6N))}}
         - {{[embed](<embed.md>): ((jbnNi00AV))}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))  {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - Are we creating [MSN Messenger](<MSN Messenger.md>)? 😂 
             - **[Image](<Image.md>):**
@@ -150,7 +173,7 @@ Monthly reviews could include a zoom catchup?
             - All great! Nice improvements. [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
         3. Different methods of chat
             - "The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused   " [Bookmarks](<Bookmarks.md>) 
-                - Yea, this is a risk. Let's see how it goes the next few days and see if we can come up with clear guidelines for when to use each style of chat... [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] 
+                - Yea, this is a risk. Let's see how it goes the next few days and see if we can come up with clear guidelines for when to use each style of chat... [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] 
                     - I like the top-section one for ease-of-use & ease-of-review — but concerned with confusion as well...
                     - Will keep it on my radar for reassessment.
         4. [dropdown menus](<dropdown menus.md>) to [toggle between tags](((z1opnp-cE))) [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
@@ -164,7 +187,7 @@ Monthly reviews could include a zoom catchup?
         - #[[[Feedback](<[[Feedback.md>): What's working]]
             - Liking the look & functionality of the [drop-down menu statuses](((a5khoiytS)))!
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)[*]([mtv](<mtv.md>)) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)[*]([mtv](<mtv.md>)) {{word-count}} {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - {{[embed](<embed.md>): ((((rhJbktB9i))))}}
             - [@[[Zsolt Viczián](<@[[Zsolt Viczián.md>)]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [roam/render](<roam/render.md>) custom components. [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[[E:](<[[E:.md>) "Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[[E:](<[[E:.md>) Use the native convention as much as possible.]])
@@ -205,7 +228,44 @@ Monthly reviews could include a zoom catchup?
         - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."
             - Ooh what book?
         - On new away messages
-            - "[@[[Charles Farr](<@[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?"
+            - "[~[[Charles Farr](<~[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?"
                 - 😂 love it!
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - [Scratchpad](<Scratchpad.md>)
+        - If you click into the MDN level you can `ctrl c ctrl m` and advance through everyone's notes — good way to read through the graph...
+        - Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - On Weekly Reviews with PRosso
+            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] I like this [idea](((nZArzolvZ))) — [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
+                - Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)
+                    - Will #[Follow Up](<Follow Up.md>) here tomorrow and start working on it a bit...
+                - Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon.
+        - On Broadcasting to the Graph/Group
+            - Regarding the idea of an [Everyone](((yT8htOsew))) tag, I think there's an important function of [broadcasting](<broadcasting.md>) to the entire community that we need to consider — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [@[[Peter Rosso](<@[[Peter Rosso.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
+                - What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?
+                    - Essentially we would just write a SmartBlock that would surface all blocks with a combination of  `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` + a `DNP: [February 4th, 2021](<February 4th, 2021.md>)` tag
+                        - We would need to add some status flags — i.e., `[Settled](<Settled.md>) / [Accepted](<Accepted.md>) / [Rejected](<Rejected.md>)` to signify that the SmartBlock can drop it
+                - Proposed Function (draft)
+                    - `[42SmartBlock](<42SmartBlock.md>)` Community Input
+                        - <%BLOCKMENTIONSDATED:10,Radio,<%DATE:7 days ago%>,<%DATE:in 7 days%>,-Accepted,-Rejected,-Settled%>
+        - On statuses of maturity
+        - Lightweight Replies
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol
+            - [~[[leekeifon](<~[[leekeifon.md>)]] I agree — love a [good email](((Ay1XRIeu-))) conversation!
+                - I want to set up an urbit community that automatically exports the daily IRC chat to the graph...
+            - [@[[leekeifon](<@[[leekeifon.md>)]] re: the display [here](((BrDNimG4F))), are you referring the the preview on hover?
+            - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
+            - [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [status](((cLrCgntHm))) looks great!
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - #[Follow Up](<Follow Up.md>) Re: "How do you [query](<query.md>)? for blocks that contain 2 tags and not for when one is a child of the other"
+            - Tomorrow I'm hoping to continue on with my [datalog](<datalog.md>) tutorial — will ponder...
+    - ---
+
+# Backlinks
+## [February 4th, 2021](<February 4th, 2021.md>)
+- Essentially we would just write a SmartBlock that would surface all blocks with a combination of  `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` + a `DNP: [February 4th, 2021](<February 4th, 2021.md>)`
+

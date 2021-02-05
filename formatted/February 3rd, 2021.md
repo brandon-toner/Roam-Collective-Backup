@@ -81,7 +81,7 @@
             - "So many thoughts, so little time. Will return when I can."
                 - No rush! Great to see you check in even as a one-liner haha. [@[[Mark Robertson](<@[[Mark Robertson.md>)]]
         2. Outgoing messages:
-            - [@[[Charles Farr](<@[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
+            - [~[[Charles Farr](<~[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [fleeting notes](<fleeting notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
             - "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?"
                 - Seedlings are more "on the path towards" evergreen. 
@@ -142,7 +142,7 @@
                 - Heck ya! This is a great place to put that bootcamp to work
         12. On maturity for different notes
             - "Does each note type need multiple level of maturity?"
-                - **[Thoughts](<Thoughts.md>):** [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                - **[Thoughts](<Thoughts.md>):** [^[[Charles Farr](<^[[Charles Farr.md>)]]
                     - Fleeting -- nah
                     - Literature -- also nah
                         - Unless maybe a group of literature notes matured into a summary of the content... (but that feels more analogous to [creative projects](<creative projects.md>) (loss of atomicity))
@@ -151,7 +151,7 @@
             - "Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?"
                 - I don't think so! I like that metaphor quite a bit, and it's still in keeping with how others are using it... mostly. 
                 - I'd say it works.
-                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [@[[Charles Farr](<@[[Charles Farr.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [^[[Charles Farr](<^[[Charles Farr.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
         13. On [filtering](<filtering.md>) over querying
             - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
 `{{[query](<query.md>): {or: [ex-B](<ex-B.md>) [ex-C](<ex-C.md>)}}}`"

@@ -45,6 +45,12 @@
 
 - Let's keep it on the burner, and see how things evolve & chat about it at the next opportunity. #[Follow Up](<Follow Up.md>)
 
+- Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>)
+
+- Will #[Follow Up](<Follow Up.md>)
+
+- #[Follow Up](<Follow Up.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Comment](<Comment.md>) This question is really more of a #[Follow Up](<Follow Up.md>),
 

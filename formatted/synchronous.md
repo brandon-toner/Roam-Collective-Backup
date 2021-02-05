@@ -11,6 +11,8 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - If I consider face-to-face chatting is truly [synchronous](<synchronous.md>),
 
+- Also, l love the idea of making it a [synchronous](<synchronous.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) How do you memorialize [synchronous](<synchronous.md>)
 

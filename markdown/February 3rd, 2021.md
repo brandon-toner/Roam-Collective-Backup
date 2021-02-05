@@ -81,7 +81,7 @@
             - "So many thoughts, so little time. Will return when I can."
                 - No rush! Great to see you check in even as a one-liner haha. [[@[[Mark Robertson]]]]
         2. Outgoing messages:
-            - [[@[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
+            - [[~[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
         3. Charles on [[fleeting notes]] vs [[seedlings]] #maturity
             - "#Q What differentiates [[fleeting notes]] and [[seedlings]]?"
                 - Seedlings are more "on the path towards" evergreen. 
@@ -142,7 +142,7 @@
                 - Heck ya! This is a great place to put that bootcamp to work
         12. On maturity for different notes
             - "Does each note type need multiple level of maturity?"
-                - Thoughts:: [[@[[Charles Farr]]]]
+                - Thoughts:: [[^[[Charles Farr]]]]
                     - Fleeting -- nah
                     - Literature -- also nah
                         - Unless maybe a group of literature notes matured into a summary of the content... (but that feels more analogous to [[creative projects]] (loss of atomicity))
@@ -151,7 +151,7 @@
             - "Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?"
                 - I don't think so! I like that metaphor quite a bit, and it's still in keeping with how others are using it... mostly. 
                 - I'd say it works.
-                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [[@[[Charles Farr]]]] [[cc:[[Larissa de Lima]]]]
+                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [[^[[Charles Farr]]]] [[cc:[[Larissa de Lima]]]]
         13. On [[filtering]] over querying
             - "[[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`"
