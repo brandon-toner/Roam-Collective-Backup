@@ -4,13 +4,13 @@
 - URL: [not_populated](<not_populated.md>)
             - **[References](<References.md>):**
 
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- ---
+- **[References](<References.md>):**
+
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
-
-## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`"
-                        - **[References](<References.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).

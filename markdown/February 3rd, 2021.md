@@ -539,8 +539,7 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Examples of exercises
                         - [Weekly or monthly reviews](((27-7K-sVS)))
         - "[[[[E:]] Why build maturity into your knowledge management system?]]"
-            - #Evergreen Why build maturity into your knowledge management system
-                - 
+            - "Evergreen: Why build maturity into your knowledge management system"
                 - "Why is maturity important?"
                     - ""#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])""
                     - ""We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks""
@@ -577,7 +576,7 @@ These users would have far better outcomes if they simply operated at or slightl
                         - ""To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close).""
                             - ""One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  ""
                         - ""[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy""
-                            - """Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"""
+                            - ""Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context""
                             - ""The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity""
                                 - ""In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])""
                                     - ""get the idea down on "paper"""

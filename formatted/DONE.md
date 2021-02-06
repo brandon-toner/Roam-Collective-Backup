@@ -3,13 +3,13 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - {{[DONE](<DONE.md>)}
 
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- ""{{[DONE](<DONE.md>)}
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "{{[DONE](<DONE.md>)}
 
 - "{{[DONE](<DONE.md>)}
-
-## [February 2nd, 2021](<February 2nd, 2021.md>)
-- ""{{[DONE](<DONE.md>)}
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - {{[DONE](<DONE.md>)}

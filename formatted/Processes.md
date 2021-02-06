@@ -1,12 +1,13 @@
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- **["Process](<"Process.md>):** [*]([Processes](<Processes.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>) 
         - **[Processes](<Processes.md>):**
 
 - "[Q](<Q.md>) How could we keep track of updates to ensure that documentation scattered around the graph stays [up-to-date](<up-to-date.md>)? [*]([Processes](<Processes.md>))
-
-- **["Process](<"Process.md>):** [*]([Processes](<Processes.md>))
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - **[""Process](<""Process.md>):** [*]([Processes](<Processes.md>))

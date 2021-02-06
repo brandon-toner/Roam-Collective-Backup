@@ -3,6 +3,11 @@
     - You can add a bookmark tag to anything written in your DNP Section, but not elsewhere in the graph.
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
+
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+
 ## [DNP Modules](<DNP Modules.md>)
 - #[Bookmarks](<Bookmarks.md>)
 
@@ -17,10 +22,6 @@
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
-
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
-
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

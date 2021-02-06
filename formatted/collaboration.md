@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
 
@@ -15,8 +18,6 @@
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
 
 - "[Q](<Q.md>) What are potential sources of [friction](<friction.md>) in [collaboration](<collaboration.md>)?
-
-- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
 

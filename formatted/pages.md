@@ -1,12 +1,13 @@
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "Have [pages](<pages.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>),
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>),
-
-- "Have [pages](<pages.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""Have [pages](<pages.md>)

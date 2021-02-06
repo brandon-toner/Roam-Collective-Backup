@@ -1,6 +1,6 @@
 
 # Backlinks
-## [February 2nd, 2021](<February 2nd, 2021.md>)
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
 - "Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

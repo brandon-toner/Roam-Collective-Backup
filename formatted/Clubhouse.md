@@ -10,6 +10,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 "How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Today's [Clubhouse](<Clubhouse.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - Using external tools to support the graph ([Clubhouse](<Clubhouse.md>),
 

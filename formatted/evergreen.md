@@ -1,7 +1,7 @@
 - **[Tags](<Tags.md>):** [Conventions](<Conventions.md>) [Status](<Status.md>)/Experimental
 
 # Backlinks
-## [February 2nd, 2021](<February 2nd, 2021.md>)
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
 - "As ideas begin to feel [evergreen](<evergreen.md>),
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

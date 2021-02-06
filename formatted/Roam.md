@@ -9,6 +9,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>),
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>)
 

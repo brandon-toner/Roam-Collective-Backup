@@ -3,6 +3,9 @@
 - Process: 
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
 
@@ -14,8 +17,6 @@
 - "[Q](<Q.md>) How can a [conversation](<conversation.md>)
 
 - "#[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
-
-- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
 
 - On [conversation](<conversation.md>)
 

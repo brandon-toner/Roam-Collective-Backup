@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- ""[x] [Choice](<Choice.md>):
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>):
 
@@ -7,8 +10,6 @@
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 7. [ ] [Choice](<Choice.md>):
-
-- ""[x] [Choice](<Choice.md>):
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - """[x] [Choice](<Choice.md>):

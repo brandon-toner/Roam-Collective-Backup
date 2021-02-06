@@ -3,6 +3,9 @@
     - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]] ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
 
@@ -12,8 +15,6 @@
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "[Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
-
-- "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)

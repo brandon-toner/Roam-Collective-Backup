@@ -1,6 +1,6 @@
 
 # Backlinks
-## [February 2nd, 2021](<February 2nd, 2021.md>)
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
 - "Minimize [cognitive burden](<cognitive burden.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).

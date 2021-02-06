@@ -60,7 +60,7 @@
         - [[~[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #Scratchpad
         - Reviewing onboarding & meta-structure
             - Feedback: [[Quick Start Guide]]

@@ -4,15 +4,15 @@
 ## [Announcements](<Announcements.md>)
 - If making a new [collection]([collections](<collections.md>))
 
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
 
 - On [collections](<collections.md>)
 
 - On [namespaces](<namespaces.md>) for [definitions](<definitions.md>) and [collections](<collections.md>)
-
-## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)

@@ -12,6 +12,19 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
 
+## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- ""#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -72,18 +85,6 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
