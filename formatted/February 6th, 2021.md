@@ -18,4 +18,13 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) 
         - "[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents""
+        - "[datalog experimentation](<datalog experimentation.md>)"
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - #[Conversation](<Conversation.md>)
+        - I upvote this section "[datalog](<datalog.md>) flashcards"! [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [activities](<activities.md>) we could try for [convergence](<convergence.md>). [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+            - **[Solution](<Solution.md>):** One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [datalog](<datalog.md>) and then manually add a slider bar to make a vote on it.
+    - #[Bookmarks](<Bookmarks.md>)
+        - "[datalog experimentation](<datalog experimentation.md>)"
 - ---

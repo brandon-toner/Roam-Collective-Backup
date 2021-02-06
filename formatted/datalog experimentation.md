@@ -175,3 +175,8 @@ return [query, results];```
 ## [Charles Farr](<Charles Farr.md>)
 - [datalog experimentation](<datalog experimentation.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- "[datalog experimentation](<datalog experimentation.md>)"
+
+- "[datalog experimentation](<datalog experimentation.md>)"
+

@@ -14,6 +14,11 @@
 
 - [datalog](<datalog.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- I upvote this section "[datalog](<datalog.md>)
+
+- **[Solution](<Solution.md>):** One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [datalog](<datalog.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Reflections on [datalog](<datalog.md>)
 

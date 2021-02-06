@@ -93,7 +93,7 @@ Monthly reviews could include a zoom catchup?
         - #[Follow Up](<Follow Up.md>) ""[[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]""
         - #[Follow Up](<Follow Up.md>) """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[Scratchpad](<Scratchpad.md>)
         - Our [communication](<communication.md>) mechanism right now, using `@/cc`, is emulating mail system, which is implicitly [asynchronous](<asynchronous.md>).
         - I personally love mailing, which is a good balance between slow and fast thinking, especially when I’m having question to solve.

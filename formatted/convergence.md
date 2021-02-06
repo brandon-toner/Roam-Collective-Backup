@@ -41,6 +41,9 @@
 
 - On [convergence](<convergence.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [activities](<activities.md>) we could try for [convergence](<convergence.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
 

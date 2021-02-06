@@ -18,4 +18,13 @@
     - #Feedback  #not_populated
     - #Bookmarks 
         - "[[@[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
+        - "[[datalog experimentation]]"
+- ---
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - #[[Conversation]]
+        - I upvote this section "[[datalog]] flashcards"! [[cc:[[Charles Farr]]]]
+        - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [[activities]] we could try for [[convergence]]. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]] [[cc:[[Peter Rosso]]]] [[cc:[[Larissa de Lima]]]]
+            - Solution:: One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [[datalog]] and then manually add a slider bar to make a vote on it.
+    - #[[Bookmarks]]
+        - "[[datalog experimentation]]"
 - ---

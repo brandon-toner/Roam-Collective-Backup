@@ -93,7 +93,7 @@ Monthly reviews could include a zoom catchup?
         - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
         - #[[Follow Up]] """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
-- #[[My Daily Notes]] [[leekeifon]] {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[leekeifon]] {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[[Scratchpad]]
         - Our [[communication]] mechanism right now, using `@/cc`, is emulating mail system, which is implicitly [[asynchronous]].
         - I personally love mailing, which is a good balance between slow and fast thinking, especially when I’m having question to solve.

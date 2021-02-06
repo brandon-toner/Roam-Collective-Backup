@@ -57,7 +57,7 @@
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation 
         - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
-        - [[@[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
+        - [[~[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}

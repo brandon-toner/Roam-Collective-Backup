@@ -57,7 +57,7 @@
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
-        - [@[[leekeifon](<@[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
+        - [~[[leekeifon](<~[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
