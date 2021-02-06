@@ -21,6 +21,8 @@
         - "[[datalog experimentation]]"
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - #[[Help Wanted]]
+        - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [[cc:[[Charles Farr]]]] [[cc:[[Brandon Toner]]]]
     - #[[Conversation]]
         - I upvote this section "[[datalog]] flashcards"! [[cc:[[Charles Farr]]]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [[activities]] we could try for [[convergence]]. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]] [[cc:[[Peter Rosso]]]] [[cc:[[Larissa de Lima]]]]
@@ -28,3 +30,7 @@
     - #[[Bookmarks]]
         - "[[datalog experimentation]]"
 - ---
+- #[[My Daily Notes]] [[Reddy2Go]] {{word-count}}
+    - what on earth am I doing here? [[Brandon Toner]] teleported me into this garden over a week ago, yet I only dared to dabble today
+    - in an [[Interintellect]] salon today, [[Matthew Vogel]] drew me back into this collective.
+    - still not sure how to use the daily template, but i'm gonna start dropping thoughts. 

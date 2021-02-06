@@ -40,6 +40,16 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
     - **[Bookmarks](<Bookmarks.md>):**
         - [[[E:](<[[E:.md>) alert fatigue]]
     - Daily Page Note
+        - ;#[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+            - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+            - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+            - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+                - [Prompts](<Prompts.md>)
+            - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+        - ---
 
 # Backlinks
 ## [Directory](<Directory.md>)
@@ -55,6 +65,9 @@ What does [Everyone](<Everyone.md>) think are the most important workflows/conve
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
+
+## [February 6th, 2021](<February 6th, 2021.md>)
+- in an [Interintellect](<Interintellect.md>) salon today, [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'
@@ -80,6 +93,8 @@ What does [Everyone](<Everyone.md>) think are the most important workflows/conve
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>)
+
+- ;#[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - [Matthew Vogel](<Matthew Vogel.md>)

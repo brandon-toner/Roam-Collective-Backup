@@ -186,7 +186,7 @@ Monthly reviews could include a zoom catchup?
                 - Yea, this is a risk. Let's see how it goes the next few days and see if we can come up with clear guidelines for when to use each style of chat... [[~[[Matthew Vogel]]]] 
                     - I like the top-section one for ease-of-use & ease-of-review — but concerned with confusion as well...
                     - Will keep it on my radar for reassessment.
-        4. [[dropdown menus]] to [toggle between tags](((z1opnp-cE))) [[cc:[[Peter Rosso]]]]
+        4. [[dropdown menus]] to [toggle between tags](((z1opnp-cE))) [[~[[Peter Rosso]]]]
             - They are SO CLOSE to working, but they don't "deactivate" when you toggle to a new dropdown option... all options would be "active" all the time. This messes up the linked refs.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzFv0FFB1AR.gif?alt=media&token=60d1a05e-af7b-4714-b7eb-3867e53a6af6)
         5. On [monthly reviews](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]])

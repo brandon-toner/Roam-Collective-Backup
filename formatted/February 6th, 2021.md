@@ -21,6 +21,8 @@
         - "[datalog experimentation](<datalog experimentation.md>)"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+    - #[Help Wanted](<Help Wanted.md>)
+        - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
     - #[Conversation](<Conversation.md>)
         - I upvote this section "[datalog](<datalog.md>) flashcards"! [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [activities](<activities.md>) we could try for [convergence](<convergence.md>). [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
@@ -28,3 +30,7 @@
     - #[Bookmarks](<Bookmarks.md>)
         - "[datalog experimentation](<datalog experimentation.md>)"
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}}
+    - what on earth am I doing here? [Brandon Toner](<Brandon Toner.md>) teleported me into this garden over a week ago, yet I only dared to dabble today
+    - in an [Interintellect](<Interintellect.md>) salon today, [Matthew Vogel](<Matthew Vogel.md>) drew me back into this collective.
+    - still not sure how to use the daily template, but i'm gonna start dropping thoughts. 

@@ -126,6 +126,9 @@
 
 - Chat with [Brandon Toner](<Brandon Toner.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- what on earth am I doing here? [Brandon Toner](<Brandon Toner.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
 

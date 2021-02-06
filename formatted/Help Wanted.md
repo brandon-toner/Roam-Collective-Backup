@@ -22,6 +22,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[Help Wanted](<Help Wanted.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- #[Help Wanted](<Help Wanted.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out the #[Help Wanted](<Help Wanted.md>)
 

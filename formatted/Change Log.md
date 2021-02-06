@@ -80,6 +80,9 @@
 ## [Maggie Delano](<Maggie Delano.md>)
 - #[Change Log](<Change Log.md>)
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Change Log](<Change Log.md>)
 
