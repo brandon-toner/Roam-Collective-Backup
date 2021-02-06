@@ -18,7 +18,7 @@
                 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
                     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
                     - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
                     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)

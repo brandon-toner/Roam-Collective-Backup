@@ -7,7 +7,7 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] #not_populated
     - #GTD #not_populated
     - #Promptstorming #not_populated

@@ -1,12 +1,17 @@
 - Tags:: #People #Members
     - About me::
         - Twitter:: [@todayIwasbetter](https://twitter.com/todayIwasbetter)
-        - Website:: Not yet because I can't stop tweaking it long enough to actually get it up
+        - Website:: [matt.roam.garden](https://matt.roam.garden) 
+__Not nice yet because I can't stop tweaking it long enough to actually get it together__
         - Location:: [[Brooklyn]] [[New York City]] [[United States]]
+            - {{[[embed]]: ((((DAqr_IueJ))))}}
         - Time Zone:: EST [UTC−05:00]
         - Work:: [[Architect]] [[Designer]]
         - How to contact me:: Either twitter or the [[Roam Slack]] works 
         - Interests::[[cooking]] [[architecture]] [[design]] [[metacognition]] comedic [[improvisation]] 
+        - **Things I have helped design or develop:**
+            - [Journey to the Center of Hawkthorne](http://projecthawkthorne.com/)
+            - Spotify's NYC Headquarters
     - Queries::
         - [[notifications]]
             - {{[[query]]: {and:[[@[[Matthew Vogel]]]] {or:[[cc:[[Matthew Vogel]]]]} {not:[[query]]}}}}
@@ -34,3 +39,4 @@
     - SmartBlocks::#not_populated
     - Bookmarks::
         - [[[[E:]] alert fatigue]]
+    - Daily Page Note

@@ -44,7 +44,7 @@
         - **[Location](<Location.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- **[Website](<Website.md>):** Not yet because I can't stop tweaking it long enough to actually get it up
+__Not nice yet because I can't stop tweaking it long enough to actually get it together__
         - **[Location](<Location.md>):**
 
 - {{[query](<query.md>): {and: [Location](<Location.md>)

@@ -33,7 +33,7 @@
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- **[Location](<Location.md>):** [Brooklyn](<Brooklyn.md>) [New York City](<New York City.md>) [United States](<United States.md>)
+- {{[embed](<embed.md>): ((((DAqr_IueJ))))}}
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Michael Shulman](<Michael Shulman.md>)

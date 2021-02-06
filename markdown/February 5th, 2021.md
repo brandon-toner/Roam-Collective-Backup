@@ -52,7 +52,7 @@
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation 

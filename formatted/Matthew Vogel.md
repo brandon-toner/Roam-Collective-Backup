@@ -1,12 +1,17 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@todayIwasbetter](https://twitter.com/todayIwasbetter)
-        - **[Website](<Website.md>):** Not yet because I can't stop tweaking it long enough to actually get it up
+        - **[Website](<Website.md>):** [matt.roam.garden](https://matt.roam.garden) 
+__Not nice yet because I can't stop tweaking it long enough to actually get it together__
         - **[Location](<Location.md>):** [Brooklyn](<Brooklyn.md>) [New York City](<New York City.md>) [United States](<United States.md>)
+            - {{[embed](<embed.md>): ((((DAqr_IueJ))))}}
         - **[Time Zone](<Time Zone.md>):** EST [UTC−05:00]
         - **[Work](<Work.md>):** [Architect](<Architect.md>) [Designer](<Designer.md>)
         - **[How to contact me](<How to contact me.md>):** Either twitter or the [Roam Slack](<Roam Slack.md>) works 
         - **[Interests](<Interests.md>):**[cooking](<cooking.md>) [architecture](<architecture.md>) [design](<design.md>) [metacognition](<metacognition.md>) comedic [improvisation](<improvisation.md>) 
+        - **Things I have helped design or develop:**
+            - [Journey to the Center of Hawkthorne](http://projecthawkthorne.com/)
+            - Spotify's NYC Headquarters
     - **[Queries](<Queries.md>):**
         - [notifications](<notifications.md>)
             - {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}}}}
@@ -34,6 +39,7 @@
     - **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
         - [[[E:](<[[E:.md>) alert fatigue]]
+    - Daily Page Note
 
 # Backlinks
 ## [Directory](<Directory.md>)
