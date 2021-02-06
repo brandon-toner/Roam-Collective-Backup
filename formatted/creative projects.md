@@ -6,6 +6,9 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - Unless maybe a group of literature notes matured into a summary of the content... (but that feels more analogous to [creative projects](<creative projects.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Maybe it's a "[creative project]([creative projects](<creative projects.md>))
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
 

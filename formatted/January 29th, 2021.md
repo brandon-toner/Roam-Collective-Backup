@@ -149,7 +149,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - {{[embed](<embed.md>): ((HjC43lt9e))}}
         - 18:18 — Added the "Daily Review" [SmartBlock]([SmartBlocks](<SmartBlocks.md>))
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FuFV_JnTxU8.gif?alt=media&token=f86ba615-6ecb-4966-b4a2-402217244c5d)
-        - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>) to [GTD](<GTD.md>)
+        - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>) to #[GTD Zone](<GTD Zone.md>)
             - More broad & encompassing in language.
         - 19:44 — Made the CSS for #[Daily Activities](<Daily Activities.md>) and [Chat](<Chat.md>) more consistent with the rest of the styling.
         - 20:21 — Added [Annotations](<Annotations.md>) for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) [zettelkasten](<zettelkasten.md>)
@@ -157,7 +157,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - 21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))
             - Added the "cc" convention.
         - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         - [x] Add the [choice algorithm](<choice algorithm.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)

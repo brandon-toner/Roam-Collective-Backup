@@ -3,9 +3,6 @@
 - Process: 
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
 
@@ -33,4 +30,7 @@
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Interests](<Interests.md>):** [hiking](<hiking.md>), [tools for thought](<tools for thought.md>), [learning](<learning.md>), [interdisciplinary thinking](<interdisciplinary thinking.md>), [systems thinking](<systems thinking.md>), [conversation](<conversation.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "[Q](<Q.md>) How can a [conversation](<conversation.md>)
 

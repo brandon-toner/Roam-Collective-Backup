@@ -10,6 +10,10 @@
 - I would suggest plaintext for names to avoid gathering a bunch of linked refs maybe?
         - **[Thoughts](<Thoughts.md>):**
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- [Q](<Q.md>) How are drafts documented?
+            - **[Thoughts](<Thoughts.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Allow for ease in generating [output](<output.md>).
             - **[Thoughts](<Thoughts.md>):**

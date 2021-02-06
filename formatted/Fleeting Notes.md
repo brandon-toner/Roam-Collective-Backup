@@ -12,19 +12,6 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
 
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
 ## [Evergreen Notes](<Evergreen Notes.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -137,6 +124,11 @@
 - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+## [February 6th, 2021](<February 6th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -434,6 +426,19 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- ""#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)

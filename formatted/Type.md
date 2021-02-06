@@ -1,8 +1,8 @@
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - **[Type](<Type.md>):**
 
-## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - **[Type](<Type.md>):**
 

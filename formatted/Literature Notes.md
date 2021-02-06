@@ -2,9 +2,6 @@
 - **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>), [evergreen notes](<evergreen notes.md>)
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- #[Literature Notes](<Literature Notes.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - `#[Literature Notes](<Literature Notes.md>)`
 
@@ -38,6 +35,9 @@
 
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - "#[Literature Notes](<Literature Notes.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- #[Literature Notes](<Literature Notes.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Literature Notes](<Literature Notes.md>)

@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "On [order](<order.md>)
-
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>)
 
@@ -21,4 +18,7 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - On [order](<order.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "On [order](<order.md>)
 

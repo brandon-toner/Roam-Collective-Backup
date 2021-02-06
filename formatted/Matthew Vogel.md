@@ -42,7 +42,7 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
     - Daily Page Note
         - ;#[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
             - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+            - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
             - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
             - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)

@@ -3,4 +3,4 @@
         - This network of pages serves as a network of inboxes that help to facilitate weekly, monthly, quarterly, and annual reviews. 
             - I can elaborate more on this. - [Brandon Toner](<Brandon Toner.md>)
     - Templates for Projects, Goals.
-    - SmartBlocks for engaging with content within the [GTD](<GTD.md>) or project management system.
+    - SmartBlocks for engaging with content within the [GTD Zone](<GTD Zone.md>) or project management system.

@@ -25,7 +25,7 @@
                     - Imported to personal graph
                     - Copied in missing pieces.
     - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) 😴 offline, back tomorrow
     - #[Scratchpad](<Scratchpad.md>) 
@@ -43,7 +43,7 @@
             - [Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps.
         - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
             - **[URL](<URL.md>):** https://twitter.com/cortexfutura/status/1357017794802556928?s=21
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Reorganized and decluttered CSS a bit — I've gone as far as my expertise will allow haha. [*](((xVo60DN5o)))
         2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
@@ -172,7 +172,7 @@
     - #[Scratchpad](<Scratchpad.md>) 
         - "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph."
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
-        - "[GTD](<GTD.md>)"
+        - "#[GTD Zone](<GTD Zone.md>)"
         - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
             - This is a common problem in research groups. We follow the [double diamond](<double diamond.md>) structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
         - "Motivation -> Principles -> Process Design -> Implementation -> Output"
@@ -185,7 +185,7 @@
         - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
             - "#[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
             - how do I use `[Reply](<Reply.md>)` and `[Reply-from](<Reply-from.md>)`
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
@@ -539,14 +539,14 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Examples of exercises
                         - [Weekly or monthly reviews](((27-7K-sVS)))
         - "[[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]"
-            - "Evergreen: Why build maturity into your knowledge management system"
+            - "[Evergreen](<Evergreen.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
                 - "Why is maturity important?"
                     - ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))""
                     - ""We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)! [Bookmarks](<Bookmarks.md>)""
-                - "How can you implement it?"
+                - "How can you implement maturity?"
                     - ""For instance: `[Ideas](<Ideas.md>)` → `[InProgress](<InProgress.md>)` → `[Completed](<Completed.md>)`""
-                        - ""Or: `[Fleeting](<Fleeting.md>)` → `[Permanent](<Permanent.md>)`""
-                        - ""Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`""
+                        - "Or: `[Fleeting](<Fleeting.md>)` → `[Permanent](<Permanent.md>)`"
+                        - "Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`"
                 - **["References](<"References.md>):**"
                     - ""#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).""
                         - **[""Example](<""Example.md>):** If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.""
@@ -715,7 +715,7 @@ These users would have far better outcomes if they simply operated at or slightl
             - "[Q](<Q.md>) When to use 📨 vs. 🚨 ?"
                 - 🚨 Response requested
                 - 📨 FYI
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - #[Help Wanted](<Help Wanted.md>) on process of organizing questions

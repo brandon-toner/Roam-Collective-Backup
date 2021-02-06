@@ -127,7 +127,7 @@
 ## [Frameworks](<Frameworks.md>)
 - **[Tags](<Tags.md>):**
 
-## [GTD](<GTD.md>)
+## [GTD Zone](<GTD Zone.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Goal Ideas](<Goal Ideas.md>)

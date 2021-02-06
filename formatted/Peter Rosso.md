@@ -20,7 +20,7 @@
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
                 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
                     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-                    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+                    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
                     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
                     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
                     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)

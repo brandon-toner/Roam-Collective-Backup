@@ -24,11 +24,6 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
-
-- "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
@@ -144,6 +139,11 @@
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
 
 - **[Project Lead](<Project Lead.md>):** [Charles Farr](<Charles Farr.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+
+- "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 
 ## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
 - [Charles Farr](<Charles Farr.md>)

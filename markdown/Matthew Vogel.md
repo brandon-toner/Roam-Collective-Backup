@@ -42,7 +42,7 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
     - Daily Page Note
         - ;#[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
             - #[[Scratchpad]] #not_populated
-            - #GTD #not_populated
+            - #[[GTD Zone]] #not_populated
             - #[[Change Log]] #not_populated
             - #Promptstorming #not_populated
             - #[[The Zettelkasten]] #not_populated

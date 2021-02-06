@@ -149,7 +149,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - {{[[embed]]: ((HjC43lt9e))}}
         - 18:18 — Added the "Daily Review" [SmartBlock]([[SmartBlocks]])
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FuFV_JnTxU8.gif?alt=media&token=f86ba615-6ecb-4966-b4a2-402217244c5d)
-        - 19:34 — Changed preferred tasks convention from #[[Next Steps]] to #GTD
+        - 19:34 — Changed preferred tasks convention from #[[Next Steps]] to #[[GTD Zone]]
             - More broad & encompassing in language.
         - 19:44 — Made the CSS for #[[Daily Activities]] and #Chat more consistent with the rest of the styling.
         - 20:21 — Added #Annotations for taking quick notes on literature. ((Not formalized fleeting notes or literature notes)) #zettelkasten
@@ -157,7 +157,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - 21:06 — Updated the [collaboration conventions](((2xE0j46Pl)))
             - Added the "cc" convention.
         - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock
-    - #GTD
+    - #[[GTD Zone]]
         - {{[[DONE]]}} Add the [[choice algorithm]] template convention. #[[Week-05: 02-01-2021]]
     - #[[The Zettelkasten]]
         - #[[Fleeting Notes]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten

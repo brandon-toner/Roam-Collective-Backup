@@ -823,7 +823,7 @@ console.log(
 #[[Plan My Day]]
 #[[Weekly Preview]]
 #[[Next Steps]]
-#GTD
+#[[GTD Zone]]
                         - ```css
 :root {
   --background:#607D8B;
@@ -838,7 +838,7 @@ console.log(
   
 }
 
-span.rm-page-ref[data-tag="GTD"] {
+span.rm-page-ref[data-tag="GTD Zone"] {
     background: var(--background);
     color: var(--color);
     padding: var(--padding);
@@ -849,7 +849,7 @@ span.rm-page-ref[data-tag="GTD"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="GTD"]:before {
+span.rm-page-ref[data-tag="GTD Zone"]:before {
     content: '✅'
 }
 

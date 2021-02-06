@@ -5,11 +5,11 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
@@ -33,7 +33,7 @@
             - All conversations should either be archived,  forgotten or brought to a note level which allows people to get the gist of the conclusion drawn.
         - Can we formalize what we are learning about the collective?
             - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
-    - [GTD](<GTD.md>) 
+    - #[GTD Zone](<GTD Zone.md>) 
         - Order old tasks by priority
         - "Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)"
         - reply "Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon."

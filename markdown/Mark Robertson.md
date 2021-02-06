@@ -11,7 +11,7 @@
         - Roles:
             - Father of two, married
             - Professor
-            - Productivity coach in [[GTD]], [[PKM]], and [[PM]] using [[DEVONthink]], [[Roam Research]], and/or [[Notion.so]]
+            - Productivity coach in [[GTD Zone]], [[PKM]], and [[PM]] using [[DEVONthink]], [[Roam Research]], and/or [[Notion.so]]
             - Country living (mini-ranch owner)
         - I started using [[Roam]] in [[November 2019]]
         - Some of my [[Roam]] related work:

@@ -1,9 +1,6 @@
 - Discussion ABOUT conventions. Use this when discussion conventions. Use `[Conventions](<Conventions.md>)` when listing them.
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
-
 ## [Conventions](<Conventions.md>)
 - Discussion ABOUT conventions. Use this when discussion conventions. Use `[Conventions](<Conventions.md>)`
 
@@ -54,6 +51,9 @@
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Conventions](<Conventions.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
 
 ## [page-status questions](<page-status questions.md>)
 - **[Conventions](<Conventions.md>):**

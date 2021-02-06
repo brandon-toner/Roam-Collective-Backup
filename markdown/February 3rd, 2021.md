@@ -25,7 +25,7 @@
                     - Imported to personal graph
                     - Copied in missing pieces.
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) 😴 offline, back tomorrow
     - #[[Scratchpad]] 
@@ -43,7 +43,7 @@
             - #Q Is there a standard format for CSS page documentation? I feel like [[Cato Minor]] came up with something at some point perhaps.
         - [[Cortex Futura]] on [[onboarding]] in a public graph based on different use-contexts.
             - URL:: https://twitter.com/cortexfutura/status/1357017794802556928?s=21
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Reorganized and decluttered CSS a bit — I've gone as far as my expertise will allow haha. [*](((xVo60DN5o)))
         2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
@@ -172,7 +172,7 @@
     - #[[Scratchpad]] 
         - "#[[Fleeting Notes]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph."
         - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
-        - "#GTD"
+        - "#[[GTD Zone]]"
         - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
             - This is a common problem in research groups. We follow the [[double diamond]] structure in setting up our work, and my thesis is set up to follow the same structure too. The moments of output are dictated by deadlines and the fact that output determines grants.
         - "Motivation -> Principles -> Process Design -> Implementation -> Output"
@@ -185,7 +185,7 @@
         - #[[Follow Up]] "#[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
             - "#[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
             - how do I use `#Reply` and `#Reply-from`
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
@@ -539,14 +539,14 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Examples of exercises
                         - [Weekly or monthly reviews](((27-7K-sVS)))
         - "[[[[E:]] Why build maturity into your knowledge management system?]]"
-            - "Evergreen: Why build maturity into your knowledge management system"
+            - "#Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
                 - "Why is maturity important?"
                     - ""#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])""
                     - ""We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks""
-                - "How can you implement it?"
+                - "How can you implement maturity?"
                     - ""For instance: `#Ideas` → `#InProgress` → `#Completed`""
-                        - ""Or: `#Fleeting` → `#Permanent`""
-                        - ""Or: `#Seedling` → `#Budding` → `#Evergreen`""
+                        - "Or: `#Fleeting` → `#Permanent`"
+                        - "Or: `#Seedling` → `#Budding` → `#Evergreen`"
                 - "References::"
                     - ""#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].""
                         - ""Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.""
@@ -715,7 +715,7 @@ These users would have far better outcomes if they simply operated at or slightl
             - "#Q When to use 📨 vs. 🚨 ?"
                 - 🚨 Response requested
                 - 📨 FYI
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #Questions #not_populated
     - #Conversation 
         - #[[Help Wanted]] on process of organizing questions

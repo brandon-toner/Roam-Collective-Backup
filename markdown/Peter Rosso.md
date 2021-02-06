@@ -20,7 +20,7 @@
             - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
                 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
                     - #[[Scratchpad]] #not_populated
-                    - #GTD #not_populated
+                    - #[[GTD Zone]] #not_populated
                     - #Promptstorming #not_populated
                     - #[[The Zettelkasten]] #not_populated
                     - #Conversation #not_populated

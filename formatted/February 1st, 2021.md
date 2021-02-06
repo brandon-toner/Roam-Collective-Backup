@@ -16,7 +16,7 @@
         - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-- [GTD](<GTD.md>) ((Run the "Daily Review" smartblock))
+- #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))
     - **[Daily Review](<Daily Review.md>):**
         - **Scheduled for Today:**
             - **Page:** [January 31st, 2021](<January 31st, 2021.md>)
@@ -86,7 +86,7 @@
                 - Would definitely replace `#[Creative Projects](<Creative Projects.md>)`
         - [Tips](<Tips.md>) the [sidebar](<sidebar.md>) is important for navigating [conversations](<conversations.md>)
         - [Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages.
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Drafted a "[maturity](<maturity.md>) progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
         - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -304,7 +304,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)

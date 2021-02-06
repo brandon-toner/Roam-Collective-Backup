@@ -2,67 +2,55 @@
     - Goals:: Review, organize, and ultimately curate an overview of insights related to maturity of notes (and the relation to maturity of other artefact types — e.g., projects)
 - ---
 - Precipitation
-    - Evergreen: Why build maturity into your knowledge management system
+    - #Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...
 - ---
-- What is the relationship between complexity and maturity?
-    - Think of complexity and maturity as two axes that combine to describe the type and state of any knowledge artefact.
-        - See: "#Diagram On Maturity & Complexity"
-        - **Maturity** describes the level of refinement of an atomic unit of thought — how developed is the idea?
-        - **Complexity** describes the level of an atomic unit of thought — how complex is the idea?
-    - #Diagram On Maturity & Complexity
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FqVjmqTqLbQ.png?alt=media&token=f1f17615-7868-425e-849f-5da7671d871d)
-- Why is maturity important?
-    - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
-    - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
-    - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-        - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
-- How can you implement it?
-    - "For instance: `#Ideas` → `#InProgress` → `#Completed`"
-        - "Or: `#Fleeting` → `#Permanent`"
-        - "Or: `#Seedling` → `#Budding` → `#Evergreen`"
-- What are the levels of complexity?
-    - Different Scales
-        - Zettelkasten
-            - Fleeting
-            - Literature
-                - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
-            - Permanent
-                - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
-        - Joel Chan's Data Model
-            - Context
-            - Observation
-            - Synthesis
-            - Question
-        - Andy Matuschak's
-            - Literature
-            - Evergreen
-                - __Allows for variety of maturity__
-            - Speculative Outlines
-- What are the levels of maturity?
-    - There are few "accepted" levels of maturity within the knowledge management community.
-    - Often communities adopt a [[mythology]] to describe some elements of maturity. Mythology is fluid and can be designed to fit a users of communities preferences.
-        - #[[Literature Notes]] [Mythologies]([[mythology]]) are used as a [[mnemoic]] device to boost understanding and retention
-- "[[The stages of [[maturation]] of [[zettelkasten]] notes]]"
-    - "These three note types are distinct, but trend towards higher level complexity..."
-    - "[[maturity]] comes from the state of a given notes"
-        - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
-        - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
-        - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
-            - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
-                - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
-                - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
-                    - "Often through this process, I find that the big idea is refined"
-                - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
-                    - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
-    - "To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close)."
-        - "One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  "
-    - "[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy"
-        - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
-        - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-            - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
-                - "get the idea down on "paper""
-                - "mark it as an "immature" evergreen or some such"
-                - "then have a process that forces you to return and mature it... "
+- Summary — {{word-count}}
+    - What is the relationship between complexity and maturity?
+        - Think of complexity and maturity as two axes that combine to describe the type and state of any knowledge artefact.
+            - See: "#Diagram On Maturity & Complexity"
+            - **Maturity** describes the level of refinement of an atomic unit of thought — how developed is the idea?
+            - **Complexity** describes the level of an atomic unit of thought — how complex is the idea?
+        - #Diagram On Maturity & Complexity
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FqVjmqTqLbQ.png?alt=media&token=f1f17615-7868-425e-849f-5da7671d871d)
+    - What are the levels of complexity?
+        - Different Scales
+            - Zettelkasten
+                - Fleeting
+                - Literature
+                    - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
+                - Permanent
+                    - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
+            - Joel Chan's Data Model
+                - Context
+                - Observation
+                - Synthesis
+                - Question
+            - Andy Matuschak's
+                - Literature
+                - Evergreen
+                    - __Allows for variety of maturity__
+                - Speculative Outlines
+    - What are the levels of maturity?
+        - There are few "accepted" models for maturity within the knowledge management community.
+        - Often communities adopt a [[mythology]] to describe some elements of maturity. Mythology is fluid and can be designed to fit a users of communities preferences.
+            - #[[Literature Notes]] [Mythologies]([[mythology]]) are used as a [[mnemoic]] device to boost understanding and retention
+        - A few examples of [[mythology]] related to [[maturity]] include:
+            - **Gardening** — `seedling` → `budding` → `maturity`
+            - **Mining** — `ore` → `iron` → `steel`
+            - **Atomic Units** — `atom` → `molecule` → `compound`
+        - Regardless of the chosen mythology the goal remains to move ideas from `undeveloped` → `developed`
+            - "For instance: `#Ideas` → `#InProgress` → `#Completed`"
+    - Why is maturity important?
+        - Creating levels of maturity lowers the energy required to put an idea on paper, while creating a forcing function to support further development.
+            - "#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])"
+            - "We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks"
+            - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+        - In the traditional zettelkasten pioneered by Nicolas Luhmann and detailed by Sonke Aherns, the process of writing permanent notes was generally condensed into one sitting. Any additional maturity resulted from the addition of connections or was captured in subsequent notes.
+        - ...
+    - How can you implement maturity?
+        - Determine important phases (by artifact type)
+        - Create processes to support development and to mature notes
 - Inception
     - "get the idea down on "paper""
         - "mark it as an "immature" evergreen or some such"
@@ -74,9 +62,30 @@
     - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
         - "Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly."
         - "**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up."
-    - 
+- How does [[Roam-Collective]] implements maturity?
 - ---
 - References::
+    - "[[The stages of [[maturation]] of [[zettelkasten]] notes]]"
+        - "These three note types are distinct, but trend towards higher level complexity..."
+        - "[[maturity]] comes from the state of a given notes"
+            - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
+            - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
+            - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
+                - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
+                    - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+                    - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
+                        - "Often through this process, I find that the big idea is refined"
+                    - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
+                        - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
+        - "To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [[maturation]] process gets me the rest of the way to 100% (or at least close)."
+            - "One big component I hope to layer in is [[spaced repetition]] writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  "
+        - "[[^[[Brandon Toner]]]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy"
+            - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+            - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+                - "In doing so, it can serve as a [[forcing function]] to actually complete high quality permanent notes or zettels[*]([[evergreen notes]])"
+                    - "get the idea down on "paper""
+                    - "mark it as an "immature" evergreen or some such"
+                    - "then have a process that forces you to return and mature it... "
     - "Circling back to [[~[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph"
         - "If we use the [[zettelkasten]] as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [[collections]] to stitch together notes."
     - "#[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. "

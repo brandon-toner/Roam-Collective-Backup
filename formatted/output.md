@@ -1,10 +1,5 @@
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "Allow for ease in generating [output](<output.md>).
-
-- "[Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>) towards [output](<output.md>).
 
@@ -17,4 +12,9 @@
 - Allow for ease in generating [output](<output.md>).
 
 - [Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "Allow for ease in generating [output](<output.md>).
+
+- "[Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
 

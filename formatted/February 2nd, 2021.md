@@ -13,7 +13,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
     - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
@@ -43,7 +43,7 @@
         - [I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - Simple top line, with nested detail below.
             - A topic-header to promote easy collaboration and browsing.
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Added the [page-status questions](<page-status questions.md>) conventions and process. [Status](<Status.md>)/Experimental
         2. Personally emulated some of the queries used by [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
@@ -149,7 +149,7 @@
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
         - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Add [double diamond](<double diamond.md>) literature notes from thesis
@@ -268,7 +268,7 @@ I think I need to go through the whole process to make sure I internalise it.
             - Output / memorialization
                 - "[Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
             - #[Follow Up](<Follow Up.md>) In progress...
                 - [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
-                    - "Evergreen: Why build maturity into your knowledge management system"
+                    - "[Evergreen](<Evergreen.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [maturity](<maturity.md>) scale for notes
                 - ## Maturity Levels
                     - Fleeting

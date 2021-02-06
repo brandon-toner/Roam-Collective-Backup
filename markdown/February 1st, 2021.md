@@ -16,7 +16,7 @@
         - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
 - #Chat ((A place to propose objects of discussion)) #not_populated
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-- #GTD ((Run the "Daily Review" smartblock))
+- #[[GTD Zone]] ((Run the "Daily Review" smartblock))
     - Daily Review::
         - **Scheduled for Today:**
             - **Page:** [[January 31st, 2021]]
@@ -86,7 +86,7 @@
                 - Would definitely replace `#[[Creative Projects]]`
         - #Tips the [[sidebar]] is important for navigating [[conversations]]
         - #Tips Using the back and forward browser shortcuts is important for navigating between pages.
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Drafted a "[[maturity]] progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
         - Changed the name-spacing convention for [[evergreen notes]] "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -304,7 +304,7 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]]
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated

@@ -16,7 +16,7 @@
     - #[Bug Reports](<Bug Reports.md>) — Some [aliases not appearing in queries](((WUv5rMu8g))) or linked references. No current hypothesis. [^[[leekeifon](<^[[leekeifon.md>)]]
     - #[Bug Reports](<Bug Reports.md>) — Difficulty clearing some unread block references
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) 
-- [GTD](<GTD.md>) ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
+- #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
 - **[Daily Review](<Daily Review.md>):**
     - **This Week:** `#[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)`
         **Results:** 4 **Max:** 25
@@ -215,7 +215,7 @@
                     - While [plaintext](<plaintext.md>) [datalog](<datalog.md>) queries are cool, it would be more functional if the native [query](<query.md>) engine and the page and reference [filtering](<filtering.md>) allowed for similar operations. 
                         - Currently the page and reference [filtering](<filtering.md>) is limited to [AND](<AND.md>) and [NOT](<NOT.md>) [operators](<operators.md>).
                             - [OR](<OR.md>) [operators](<operators.md>) are badly needed in this feature. #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
-    - [GTD](<GTD.md>) 
+    - #[GTD Zone](<GTD Zone.md>) 
         - [ ] Refine a system of [convergence](<convergence.md>) for [open questions](<open questions.md>). #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)"
@@ -369,7 +369,7 @@
             - Questions...
                 - What features are possible with the new Read/Write API from Roam?
                 - What technical ability is required to build on top of Urbit?
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         - [x] Update all of the SmartBlocks in the graph to match new conventions #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
             - [x] Document conventions for creating SmartBlocks & Templates
     - [Conversation](<Conversation.md>)

@@ -16,7 +16,7 @@
     - #[[Bug Reports]] — Some [aliases not appearing in queries](((WUv5rMu8g))) or linked references. No current hypothesis. [[^[[leekeifon]]]]
     - #[[Bug Reports]] — Difficulty clearing some unread block references
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) 
-- #GTD ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
+- #[[GTD Zone]] ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
 - Daily Review::
     - **This Week:** `#[[Week-04: 01-25-2021]]`
         **Results:** 4 **Max:** 25
@@ -215,7 +215,7 @@
                     - While [[plaintext]] [[datalog]] queries are cool, it would be more functional if the native [[query]] engine and the page and reference [[filtering]] allowed for similar operations. 
                         - Currently the page and reference [[filtering]] is limited to [[AND]] and [[NOT]] [[operators]].
                             - [[OR]] [[operators]] are badly needed in this feature. #[[Roam Enhancement Requests]]
-    - #GTD 
+    - #[[GTD Zone]] 
         - {{[[TODO]]}} Refine a system of [[convergence]] for [[open questions]]. #[[Week-04: 01-25-2021]]
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
@@ -369,7 +369,7 @@
             - Questions...
                 - What features are possible with the new Read/Write API from Roam?
                 - What technical ability is required to build on top of Urbit?
-    - #GTD
+    - #[[GTD Zone]]
         - {{[[DONE]]}} Update all of the SmartBlocks in the graph to match new conventions #[[Week-04: 01-25-2021]]
             - {{[[DONE]]}} Document conventions for creating SmartBlocks & Templates
     - #Conversation

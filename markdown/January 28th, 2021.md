@@ -114,7 +114,7 @@
                                     - This would be great in either a list or a grid.
                         - 
     - #Administration 
-        - #GTD
+        - #[[GTD Zone]]
             - {{[[DONE]]}} Populate a [reference note]([[reference notes]]) using the [reference notes template](((gix1P4auD))) #[[Help Wanted]] #[[Week-04: 01-25-2021]]
                 - {{[[TODO]]}} Add some highlights using a [[Roam highlighter]]?
                 - {{[[DONE]]}} Add some [[literature notes]]

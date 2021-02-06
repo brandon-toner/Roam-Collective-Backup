@@ -35,7 +35,7 @@
     - BToner — .DNP Template #42SmartBlock #roam/templates 
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
             - #[[Scratchpad]] #not_populated
-            - #GTD #not_populated
+            - #[[GTD Zone]] #not_populated
             - #[[Change Log]] #not_populated
             - #Promptstorming #not_populated
             - #[[The Zettelkasten]] #not_populated

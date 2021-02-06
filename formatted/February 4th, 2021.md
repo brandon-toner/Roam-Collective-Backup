@@ -45,7 +45,7 @@
             - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
             - **[Charles Farr](<Charles Farr.md>):** You're got to add a tag to the same block as a query — `[minimal](<minimal.md>)`, `[min-con](<min-con.md>)`, `[min-title](<min-title.md>)`, etc. (check the css for the IDs in the block tags)
     -  #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>)) {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -60,7 +60,7 @@
             - I find conversation difficult to follow at times, how so we bring them to a one page view?
         - are there [conventions](<conventions.md>) about how to react to people entries? If I just wanted to upvote a message, validate it or show that I read an `[everyone](<everyone.md>)` message we could just react to the block like I am reacting to this message. 
         - Conventions for Δ?
-    - [GTD](<GTD.md>) 
+    - #[GTD Zone](<GTD Zone.md>) 
         - Check out "[Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))"
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
@@ -163,7 +163,7 @@ Monthly reviews could include a zoom catchup?
         - **[Thoughts](<Thoughts.md>):**
             - Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?
         - [Q](<Q.md>) How can I effectively "keep something on my radar for reassessment"? What tag is this?[*](((LGy2SrPD3)))
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
         2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
@@ -232,7 +232,7 @@ Monthly reviews could include a zoom catchup?
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - Big meeting tomorrow so just stopping by very quickly!
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."

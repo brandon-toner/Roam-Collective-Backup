@@ -5,11 +5,11 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
     - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
@@ -33,7 +33,7 @@
             - All conversations should either be archived,  forgotten or brought to a note level which allows people to get the gist of the conclusion drawn.
         - Can we formalize what we are learning about the collective?
             - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
-    - #GTD 
+    - #[[GTD Zone]] 
         - Order old tasks by priority
         - "Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]"
         - reply "Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon."

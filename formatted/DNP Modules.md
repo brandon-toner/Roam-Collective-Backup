@@ -5,7 +5,7 @@
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
     - #[Scratchpad](<Scratchpad.md>)
         - Scratch-paper for a place to write your fleeting thoughts.
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - [Promptstorming](<Promptstorming.md>)
         - A place to respond to prompts.
@@ -46,7 +46,7 @@
 ## [Dice Roll](<Dice Roll.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) #[DNP Modules](<DNP Modules.md>)
 
-## [GTD](<GTD.md>)
+## [GTD Zone](<GTD Zone.md>)
 - **[Tags](<Tags.md>):** #[DNP Modules](<DNP Modules.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

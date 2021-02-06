@@ -13,7 +13,7 @@
     - #Chat ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
@@ -43,7 +43,7 @@
         - #I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]
             - Simple top line, with nested detail below.
             - A topic-header to promote easy collaboration and browsing.
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Added the [[page-status questions]] conventions and process. #Status/Experimental
         2. Personally emulated some of the queries used by [[cc:[[Charles Farr]]]]
@@ -149,7 +149,7 @@
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
         - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
-    - #GTD
+    - #[[GTD Zone]]
         - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
         - Add [[double diamond]] literature notes from thesis
@@ -268,7 +268,7 @@ I think I need to go through the whole process to make sure I internalise it.
             - Output / memorialization
                 - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #GTD
+    - #[[GTD Zone]]
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [[maturity]]
             - #[[Follow Up]] In progress...
                 - [[[[E:]] Why build maturity into your knowledge management system?]]
-                    - "Evergreen: Why build maturity into your knowledge management system"
+                    - "#Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [[maturity]] scale for notes
                 - ## Maturity Levels
                     - Fleeting

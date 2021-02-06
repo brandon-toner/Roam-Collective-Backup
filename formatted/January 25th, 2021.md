@@ -54,7 +54,7 @@
                         - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [Welcome 😃](<Welcome 😃.md>) and the "**Getting Started:**" sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
-        - [GTD](<GTD.md>)
+        - #[GTD Zone](<GTD Zone.md>)
             1. [x] Add process for suggestions [*](((7PyTNYa6C)))
                 - Use this tag `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]` [Processes](<Processes.md>)
             1. [x] Add description of `[not-populated](<not-populated.md>)` to the [Conventions](<Conventions.md>)
@@ -284,7 +284,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - Just created my bio page at this point. Still reading through the extensive documentation 🤣
 - #[My Daily Notes](<My Daily Notes.md>)[Akiff Premjee](<Akiff Premjee.md>) {{word-count}}
     - [Administration](<Administration.md>)
-        - [GTD](<GTD.md>)
+        - #[GTD Zone](<GTD Zone.md>)
             - [ ] Update my personal page with a bio 
     - [Scratchpad](<Scratchpad.md>)
         - The role of the moderator becomes very key in these settings but once everyone agrees upon [conventions](<conventions.md>) and more importantly adopts them, I think that will sort itself out

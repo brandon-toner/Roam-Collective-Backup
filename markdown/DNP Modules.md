@@ -5,7 +5,7 @@
         2. A place to log any edits to the graph external to this block. (Edits to page content etc.)
     - #[[Scratchpad]]
         - Scratch-paper for a place to write your fleeting thoughts.
-    - #GTD
+    - #[[GTD Zone]]
         1. Things that could be done or need to be done next. A running list. A place to add TODOs
     - #Promptstorming
         - A place to respond to prompts.

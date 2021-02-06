@@ -45,7 +45,7 @@
             - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
             - Charles Farr:: You're got to add a tag to the same block as a query — `#minimal`, `#min-con`, `#min-title`, etc. (check the css for the IDs in the block tags)
     -  #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]]) {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
     - #[[Scratchpad]] 
@@ -60,7 +60,7 @@
             - I find conversation difficult to follow at times, how so we bring them to a one page view?
         - are there #conventions about how to react to people entries? If I just wanted to upvote a message, validate it or show that I read an `[[everyone]]` message we could just react to the block like I am reacting to this message. 
         - Conventions for Δ?
-    - #GTD 
+    - #[[GTD Zone]] 
         - Check out "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
     - #[[Change Log]] #not_populated
@@ -163,7 +163,7 @@ Monthly reviews could include a zoom catchup?
         - Thoughts::
             - Doubting the usefulness of the #Everyone tag... thoughts?
         - #Q How can I effectively "keep something on my radar for reassessment"? What tag is this?[*](((LGy2SrPD3)))
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
         2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
@@ -232,7 +232,7 @@ Monthly reviews could include a zoom catchup?
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #Scratchpad 
         - Big meeting tomorrow so just stopping by very quickly!
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #Questions #not_populated
     - #Conversation
         - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."

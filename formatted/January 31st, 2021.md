@@ -20,7 +20,7 @@
         - **[Image](<Image.md>):**
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FQ3ppIvHxx0.png?alt=media&token=43324633-38a4-41d7-914b-17b4bd149fb6)
     - The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>) do not collapse.
-- [GTD](<GTD.md>) ((Run the "Daily Review" smartblock))  
+- #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
     - **[Daily Review](<Daily Review.md>):**
         - **Scheduled for Today:**
             - **Page:** [January 25th, 2021](<January 25th, 2021.md>)
@@ -215,7 +215,7 @@
                 - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
             - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
             - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
@@ -403,7 +403,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
@@ -548,7 +548,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - See CSS here: "In Block Reference"
             - Example: "[Evergreen](<Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
-    - [GTD](<GTD.md>)
+    - #[GTD Zone](<GTD Zone.md>)
         - [ ] Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
             - [ ] Catalog a set of mythologies that can be used
     - [Chat](<Chat.md>)

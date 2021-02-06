@@ -4,9 +4,6 @@
 ## [Announcements](<Announcements.md>)
 - If making a new [collection]([collections](<collections.md>))
 
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
 
@@ -27,4 +24,7 @@
 - Questions as one of the [DNP Modules](<DNP Modules.md>) and a [collections](<collections.md>)
 
 - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>)) and [Collections]([collections](<collections.md>))
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)
 

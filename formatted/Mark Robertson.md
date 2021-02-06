@@ -11,7 +11,7 @@
         - Roles:
             - Father of two, married
             - Professor
-            - Productivity coach in [GTD](<GTD.md>), [PKM](<PKM.md>), and [PM](<PM.md>) using [DEVONthink](<DEVONthink.md>), [Roam Research](<Roam Research.md>), and/or [Notion.so](<Notion.so.md>)
+            - Productivity coach in [GTD Zone](<GTD Zone.md>), [PKM](<PKM.md>), and [PM](<PM.md>) using [DEVONthink](<DEVONthink.md>), [Roam Research](<Roam Research.md>), and/or [Notion.so](<Notion.so.md>)
             - Country living (mini-ranch owner)
         - I started using [Roam](<Roam.md>) in [November 2019](<November 2019.md>)
         - Some of my [Roam](<Roam.md>) related work:

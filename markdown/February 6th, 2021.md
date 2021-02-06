@@ -5,11 +5,11 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
     - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] #not_populated
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation #not_populated
@@ -37,7 +37,11 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
     - #Scratchpad
-        - [[Collection/on maturity of notes]]
+        - Drafting: [[Summary/of maturity of notes]]
+            - "Summary — {{word-count}}"
+        - Meta-discussion on: "Drafting: [[Summary/of maturity of notes]]"
+            - How would we describe this type of note? Is it a collection or a summary or a community note or an evergreen or a...?
+            - 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
@@ -49,4 +53,66 @@
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- **Brandon:**#[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - #[[Scratchpad]] 
+        - On [[proximity]] and [[synthesis]].
+            - Ideas start small and grow. 
+            - Meet your thoughts at the level of [[granularity]] that feels clear to you.
+            - Capture thoughts as they arise.
+            - Over time, gather the similar pieces together. 
+            - Assess the similar pieces for patterns. Document those patterns as they become apparent. 
+            - Convergence on one set of ideas, may lead to divergence on another. 
+            - Having a destination or goal in mind, helps to drive the direction of development. 
+            - Community goals
+            - Active topics.
+            - Write non-linearly. Capture the pieces, figure out the order later. 
+            - [[GTD]]
+                - [Capture]([[capture]]) 
+                - [Clarify]([[clarify]])
+                - [Organize]([[organize]]) 
+                - [Review]([[review]]) 
+                - Execute
+            - Process
+                - Capture ideas, regardless of rigour and maturity, 
+                - Bring similar ideas together.
+                - Build [[speculative outlines]] based on ideas 
+                - Brainstorm and elaborate to fill in the [[speculative outlines]]
+                - Once a base of ideas has been establish, and a clear [narrative]([[narratives]]) emerges — create a draft.
+            - #Questions
+                - #Q How are ideas captured?
+                - #Q How are similar ideas collected, curated, and brought together?
+                - #Q How are [[speculative outlines]] documented?
+                - #Q How are [[speculative outlines]] populated?
+                - #Q How are drafts documented?
+            - Thoughts::
+                - #[[Fleeting Notes]] [[speculative outlines]] create the [[scaffolding]] for future development.  
+                - #[[Fleeting Notes]] [[speculative outlines]] create a shared lens for directed [[brainstorming]]. [*](((eMa8XoHvR)))
+                    - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
+                        - This is [[[[E:]] Start from abundance]] at [[scale]].
+                - "#Q How are [[speculative outlines]] documented?"
+                    - [[speculative outlines]] can be created in several ways:
+                        - First think of the topic. What is it? What type of outline are you creating?
+                        - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
+                    - #Q What are they called? How are they tagged? 
+                - 
+    - #[[GTD Zone]] #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation 
+        - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) #Bookmarks #[[Follow Up]]
+            - Great question. Gonna think on this! [[@[[Charles Farr]]]]
+                - Does it need a tag? — I think so.
+                - What does it uniquely collect?
+                    - Acts of convergence. 
+                    - Summaries
+                    - Curations
+                    - Collections of ideas.
+                - Maybe it's a "[creative project]([[creative projects]])"...
+                    - "Projects/Summarize ideas on note maturity"
+                        - Then We could use that tag to collect related ideas, leading to the eventual synthesis of the evergreen note on the subject. 
+                - Hmmmm.
+                - What is a community note? How is it different from an evergreen note?
+    - #Feedback  #not_populated
 - ---

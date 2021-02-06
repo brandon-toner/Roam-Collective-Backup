@@ -109,6 +109,8 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- **Brandon:**#[My Daily Notes](<My Daily Notes.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

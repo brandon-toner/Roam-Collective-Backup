@@ -4,10 +4,6 @@
 - URL: [not_populated](<not_populated.md>)
             - **[References](<References.md>):**
 
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- ---
-- **[References](<References.md>):**
-
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
@@ -18,6 +14,10 @@
 
 - **[Status](<Status.md>):** Not yet included in conventions
             - **[References](<References.md>):**
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- ---
+- **[References](<References.md>):**
 
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)

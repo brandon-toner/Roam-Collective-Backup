@@ -114,7 +114,7 @@
                                     - This would be great in either a list or a grid.
                         - 
     - [Administration](<Administration.md>) 
-        - [GTD](<GTD.md>)
+        - #[GTD Zone](<GTD Zone.md>)
             - [x] Populate a [reference note]([reference notes](<reference notes.md>)) using the [reference notes template](((gix1P4auD))) #[Help Wanted](<Help Wanted.md>) #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
                 - [ ] Add some highlights using a [Roam highlighter](<Roam highlighter.md>)?
                 - [x] Add some [literature notes](<literature notes.md>)

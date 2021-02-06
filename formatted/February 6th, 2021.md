@@ -5,11 +5,11 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - [GTD](<GTD.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
@@ -37,7 +37,11 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
-        - [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
+        - Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+            - "Summary — {{word-count}}"
+        - Meta-discussion on: "Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)"
+            - How would we describe this type of note? Is it a collection or a summary or a community note or an evergreen or a...?
+            - 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
@@ -49,4 +53,66 @@
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+- ---
+- **Brandon:**#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - On [proximity](<proximity.md>) and [synthesis](<synthesis.md>).
+            - Ideas start small and grow. 
+            - Meet your thoughts at the level of [granularity](<granularity.md>) that feels clear to you.
+            - Capture thoughts as they arise.
+            - Over time, gather the similar pieces together. 
+            - Assess the similar pieces for patterns. Document those patterns as they become apparent. 
+            - Convergence on one set of ideas, may lead to divergence on another. 
+            - Having a destination or goal in mind, helps to drive the direction of development. 
+            - Community goals
+            - Active topics.
+            - Write non-linearly. Capture the pieces, figure out the order later. 
+            - [GTD](<GTD.md>)
+                - [Capture]([capture](<capture.md>)) 
+                - [Clarify]([clarify](<clarify.md>))
+                - [Organize]([organize](<organize.md>)) 
+                - [Review]([review](<review.md>)) 
+                - Execute
+            - Process
+                - Capture ideas, regardless of rigour and maturity, 
+                - Bring similar ideas together.
+                - Build [speculative outlines](<speculative outlines.md>) based on ideas 
+                - Brainstorm and elaborate to fill in the [speculative outlines](<speculative outlines.md>)
+                - Once a base of ideas has been establish, and a clear [narrative]([narratives](<narratives.md>)) emerges — create a draft.
+            - [Questions](<Questions.md>)
+                - [Q](<Q.md>) How are ideas captured?
+                - [Q](<Q.md>) How are similar ideas collected, curated, and brought together?
+                - [Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) documented?
+                - [Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) populated?
+                - [Q](<Q.md>) How are drafts documented?
+            - **[Thoughts](<Thoughts.md>):**
+                - #[Fleeting Notes](<Fleeting Notes.md>) [speculative outlines](<speculative outlines.md>) create the [scaffolding](<scaffolding.md>) for future development.  
+                - #[Fleeting Notes](<Fleeting Notes.md>) [speculative outlines](<speculative outlines.md>) create a shared lens for directed [brainstorming](<brainstorming.md>). [*](((eMa8XoHvR)))
+                    - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
+                        - This is [[[E:](<[[E:.md>) Start from abundance]] at [scale](<scale.md>).
+                - "[Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) documented?"
+                    - [speculative outlines](<speculative outlines.md>) can be created in several ways:
+                        - First think of the topic. What is it? What type of outline are you creating?
+                        - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
+                    - [Q](<Q.md>) What are they called? How are they tagged? 
+                - 
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
+            - Great question. Gonna think on this! [@[[Charles Farr](<@[[Charles Farr.md>)]]
+                - Does it need a tag? — I think so.
+                - What does it uniquely collect?
+                    - Acts of convergence. 
+                    - Summaries
+                    - Curations
+                    - Collections of ideas.
+                - Maybe it's a "[creative project]([creative projects](<creative projects.md>))"...
+                    - "Projects/Summarize ideas on note maturity"
+                        - Then We could use that tag to collect related ideas, leading to the eventual synthesis of the evergreen note on the subject. 
+                - Hmmmm.
+                - What is a community note? How is it different from an evergreen note?
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---

@@ -54,7 +54,7 @@
                         - #Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
             12. Added [[Welcome 😃]] and the "**Getting Started:**" sections 
             13. Added [[Roam Collaboration Guide]]
-        - #GTD
+        - #[[GTD Zone]]
             1. {{[[DONE]]}} Add process for suggestions [*](((7PyTNYa6C)))
                 - Use this tag `[[[[Feedback]]: [[Suggestions]]]]` #Processes
             1. {{[[DONE]]}} Add description of `#not-populated` to the #Conventions
@@ -284,7 +284,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - Just created my bio page at this point. Still reading through the extensive documentation 🤣
 - #[[My Daily Notes]][[Akiff Premjee]] {{word-count}}
     - #Administration
-        - #GTD
+        - #[[GTD Zone]]
             - {{[[TODO]]}} Update my personal page with a bio 
     - #Scratchpad
         - The role of the moderator becomes very key in these settings but once everyone agrees upon [[conventions]] and more importantly adopts them, I think that will sort itself out

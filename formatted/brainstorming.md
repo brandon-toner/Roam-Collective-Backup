@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 6th, 2021](<February 6th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [speculative outlines](<speculative outlines.md>) create a shared lens for directed [brainstorming](<brainstorming.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>)
 

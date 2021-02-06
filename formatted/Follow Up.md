@@ -56,6 +56,9 @@
 
 - Re: "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Comment](<Comment.md>) This question is really more of a #[Follow Up](<Follow Up.md>),
 

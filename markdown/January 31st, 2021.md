@@ -20,7 +20,7 @@
         - Image::
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FQ3ppIvHxx0.png?alt=media&token=43324633-38a4-41d7-914b-17b4bd149fb6)
     - The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse.
-- #GTD ((Run the "Daily Review" smartblock))  
+- #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
     - Daily Review::
         - **Scheduled for Today:**
             - **Page:** [[January 25th, 2021]]
@@ -215,7 +215,7 @@
                 - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
             - Decision:: #not_populated
             - Notes:: #not_populated
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
@@ -403,7 +403,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]] #not_populated
-    - #GTD #not_populated
+    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
@@ -548,7 +548,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - See CSS here: "In Block Reference"
             - Example: "#Evergreen Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
-    - #GTD
+    - #[[GTD Zone]]
         - {{[[TODO]]}} Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
             - {{[[TODO]]}} Catalog a set of mythologies that can be used
     - #Chat

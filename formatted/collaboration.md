@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Collection/on maturity of notes](<Collection/on maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
 
@@ -50,6 +47,9 @@
 - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
 - Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>) amongst a community of people. Allowing them to effectively [collaborate]([collaboration](<collaboration.md>))

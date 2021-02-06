@@ -63,7 +63,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - [x] Set up reminder to backup graph daily.
                 - SmartBlocks?
             - [x] Implement a more broad task&project centric tag that would encompass `Next Steps`.
-                - Similar to [GTD](<GTD.md>) in my personal graph.
+                - Similar to #[GTD Zone](<GTD Zone.md>) in my personal graph.
                     - Images:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FUGV6tk1HoO.png?alt=media&token=8d5a651d-fe34-47c9-9c0b-6dae70eca9ec)
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
