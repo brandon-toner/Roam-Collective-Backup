@@ -22,6 +22,7 @@
                 - **Matt V**: Yes
             - **[Charles Farr](<Charles Farr.md>):** This makes sense — you can actually still block reference from a version even if it's not selected. I bet all it does is "hide" the other versions in some way.
                 - For CSS shouldn't be too much of a problem though...
+                - **Matt V** Yea that's what's going on and part of the issues is that, currently, the hidden options aren't assigned a parent block so can become detached very easily 
         5. **Brandon:** Why the blue text on *some* shortcuts in the sidebar?
             - **[Image](<Image.md>):** 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fj0rnFxGw2k.png?alt=media&token=7b9dba9e-f7ff-486f-b59d-8e57df402e66)

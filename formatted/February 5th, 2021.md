@@ -17,7 +17,7 @@
         - On a broadcasting smartblock. #[Follow Up](<Follow Up.md>)
             - "What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?"
     - [Conversation](<Conversation.md>) 
-        1. On [Live Preview](<Live Preview.md>) [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]], [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+        1. On [Live Preview](<Live Preview.md>) [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]], [~[[Peter Rosso](<~[[Peter Rosso.md>)]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
@@ -27,12 +27,16 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>)  [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>)
+        - Flowchart of information / weekly reviwes
+            - Where should information aim to be stored at the end of each review cycle.
+            - All conversations should either be archived,  forgotten or brought to a note level which allows people to get the gist of the conclusion drawn.
+        - Can we formalize what we are learning about the collective?
+            - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
     - [GTD](<GTD.md>) 
         - Order old tasks by priority
         - "Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)"
         - reply "Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon."
-        - 
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
@@ -44,6 +48,7 @@
         - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
         - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
@@ -55,7 +60,7 @@
         - [@[[leekeifon](<@[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - [Scratchpad](<Scratchpad.md>)
         - Reviewing onboarding & meta-structure
             - Feedback: [Quick Start Guide](<Quick Start Guide.md>)
@@ -80,7 +85,25 @@
                 - Re: "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more"
                 - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
         - "[datalog](<datalog.md>) experimentation"
+        - [datalog](<datalog.md>) flashcards
+            - What attribute do pages have but blocks do not?
+                - `:node/title`
+            - What attribute holds the public viewable block id?
+                - `:block/uid`
+            - What inputs does the `includes?` function take?
+                - [Source](https://clojuredocs.org/clojure.string/includes_q) | [Example](((e2IvT9vBU)))
+                - `(clojure.string/includes? "clojure" "cl")` or `(clojure.string/includes? ?str ?substr)`
+            - Reference of all namespaces and attributes within Roam datalog — [source](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDG6QF7KkRa.png?alt=media&token=30525706-3deb-41d5-abee-5bdba56bbe74)
+        - Chat with [Brandon Toner](<Brandon Toner.md>)
+            - How do we inspire convergence in the Collective?
+                - Activity: Pick a topic and just focus on curating around that topic
+                    - Reflect on the topics and conversations that have taken place
+                - Curation creates proximity, which naturally leads to convergence
+                - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
+                - Collective convergence benefits from synchronous
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents"
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - ---
+- ---

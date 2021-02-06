@@ -1,0 +1,21 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #GTD ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]] #not_populated
+    - #GTD #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not_populated
+    - #Bookmarks 
+        - "[[@[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
+- ---

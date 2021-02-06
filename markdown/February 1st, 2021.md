@@ -520,7 +520,7 @@
                                 - Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?
             - {{[[TODO]]}} Convert definitions of page types into literature / evergreen / internal documentation...
         - On [[internal-facing]] versus [[external-facing]] documentation with BToner + PRosso
-            - Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[cc:[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
+            - Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[^[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [[namespaces]] for [[definitions]] and [[collections]] with BToner
             - [[~[[Brandon Toner]]]] "#Q Does the namespace change? [[~[[Charles Farr]]]]"
                 - I like no namespace for collections personally
@@ -539,7 +539,7 @@
             - {{[[TODO]]}} Create weekly review mechanism to revisit critical ideas
         - Simple replies
             - Makes sense [[~[[Brandon Toner]]]] re `#[[Project Ideas]]` — [[compound tags]] shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
-            - [[cc:[[Peter Rosso]]]] I couldn't agree more [here](((nHhKPP6DQ)))!
+            - [[~[[Peter Rosso]]]] I couldn't agree more [here](((nHhKPP6DQ)))!
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [[~[[Charles Farr]]]]" [[~[[Brandon Toner]]]] a little hacky-ness goes a long way!
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---

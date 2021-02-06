@@ -17,7 +17,7 @@
         - On a broadcasting smartblock. #[[Follow Up]]
             - "What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?"
     - #Conversation 
-        1. On [[Live Preview]] [[cc:[[Matthew Vogel]]]], [[cc:[[Peter Rosso]]]]
+        1. On [[Live Preview]] [[cc:[[Matthew Vogel]]]], [[~[[Peter Rosso]]]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
             - "[[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
@@ -27,12 +27,16 @@
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[[Scratchpad]]  #not_populated
+    - #[[Scratchpad]]
+        - Flowchart of information / weekly reviwes
+            - Where should information aim to be stored at the end of each review cycle.
+            - All conversations should either be archived,  forgotten or brought to a note level which allows people to get the gist of the conclusion drawn.
+        - Can we formalize what we are learning about the collective?
+            - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
     - #GTD 
         - Order old tasks by priority
         - "Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]"
         - reply "Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon."
-        - 
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation
@@ -44,6 +48,7 @@
         - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
         - [[@[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
+        - [[@[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
@@ -55,7 +60,7 @@
         - [[@[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - #Scratchpad
         - Reviewing onboarding & meta-structure
             - Feedback: [[Quick Start Guide]]
@@ -80,7 +85,25 @@
                 - Re: "[[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more"
                 - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
         - "[[datalog]] experimentation"
+        - [[datalog]] flashcards
+            - What attribute do pages have but blocks do not?
+                - `:node/title`
+            - What attribute holds the public viewable block id?
+                - `:block/uid`
+            - What inputs does the `includes?` function take?
+                - [Source](https://clojuredocs.org/clojure.string/includes_q) | [Example](((e2IvT9vBU)))
+                - `(clojure.string/includes? "clojure" "cl")` or `(clojure.string/includes? ?str ?substr)`
+            - Reference of all namespaces and attributes within Roam datalog — [source](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDG6QF7KkRa.png?alt=media&token=30525706-3deb-41d5-abee-5bdba56bbe74)
+        - Chat with [[Brandon Toner]]
+            - How do we inspire convergence in the Collective?
+                - Activity: Pick a topic and just focus on curating around that topic
+                    - Reflect on the topics and conversations that have taken place
+                - Curation creates proximity, which naturally leads to convergence
+                - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
+                - Collective convergence benefits from synchronous
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
+    - #Conversation
+        - [[@[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents"
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
-    - ---
+- ---

@@ -520,7 +520,7 @@
                                 - Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?
             - [ ] Convert definitions of page types into literature / evergreen / internal documentation...
         - On [internal-facing](<internal-facing.md>) versus [external-facing](<external-facing.md>) documentation with BToner + PRosso
-            - Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
+            - Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [namespaces](<namespaces.md>) for [definitions](<definitions.md>) and [collections](<collections.md>) with BToner
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] "[Q](<Q.md>) Does the namespace change? [~[[Charles Farr](<~[[Charles Farr.md>)]]"
                 - I like no namespace for collections personally
@@ -539,7 +539,7 @@
             - [ ] Create weekly review mechanism to revisit critical ideas
         - Simple replies
             - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)` — [compound tags](<compound tags.md>) shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
-            - [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] I couldn't agree more [here](((nHhKPP6DQ)))!
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I couldn't agree more [here](((nHhKPP6DQ)))!
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]]" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a little hacky-ness goes a long way!
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---

@@ -73,6 +73,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 `{{[query](<query.md>):
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- "{{[query](<query.md>):
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - {{[query](<query.md>):
 

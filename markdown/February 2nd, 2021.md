@@ -128,7 +128,7 @@
                 - Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. 
         6. On external CSS
             - "I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links"
-                - I find the blue a bit easier on the eyes, and the underline helps to identify as an external link. [[cc:[[Peter Rosso]]]], [[cc:[[Charles Farr]]]]
+                - I find the blue a bit easier on the eyes, and the underline helps to identify as an external link. [[~[[Peter Rosso]]]], [[cc:[[Charles Farr]]]]
                     - Opted for version 1
                         - PS LOVE the versioning in CSS. 
         7. Charles on color conventions

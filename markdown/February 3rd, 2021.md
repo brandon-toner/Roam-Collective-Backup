@@ -90,7 +90,7 @@
                     - Fleeting note becomes a seedling when it becomes a page.
                         - Intermediary step before acquiring the `[[E:]]` namespace and `#[[Evergreen Notes]]` tag.
                             - Same template as EN, but with `#Seedlings` instead of `#[[Evergreen Notes]]`
-        4. #[[Follow Up]] "Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[cc:[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  "
+        4. #[[Follow Up]] "Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[^[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  "
             - Don't quite understand this yet. Circle back.
         5. Keifon on Roam Games as a short-term goal
             - "Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[~[[Brandon Toner]]]]"

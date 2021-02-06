@@ -90,7 +90,7 @@
                     - Fleeting note becomes a seedling when it becomes a page.
                         - Intermediary step before acquiring the `[E:](<E:.md>)` namespace and `#[Evergreen Notes](<Evergreen Notes.md>)` tag.
                             - Same template as EN, but with `[Seedlings](<Seedlings.md>)` instead of `#[Evergreen Notes](<Evergreen Notes.md>)`
-        4. #[Follow Up](<Follow Up.md>) "Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  "
+        4. #[Follow Up](<Follow Up.md>) "Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  "
             - Don't quite understand this yet. Circle back.
         5. Keifon on Roam Games as a short-term goal
             - "Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
