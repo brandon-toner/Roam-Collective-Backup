@@ -36,6 +36,9 @@
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - Feedback: [Quick Start Guide](<Quick Start Guide.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- [@[[Reddy2Go](<@[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)` `[Quick Start Guide](<Quick Start Guide.md>)`
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
