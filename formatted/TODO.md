@@ -52,6 +52,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [Frameworks](<Frameworks.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -93,6 +96,9 @@
 - {{[TODO](<TODO.md>)}
 
 ## [Members](<Members.md>)
+- {{[TODO](<TODO.md>)}
+
+## [Outlines](<Outlines.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [People](<People.md>)

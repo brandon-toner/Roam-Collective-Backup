@@ -66,6 +66,8 @@
 
 - #[GTD Zone](<GTD Zone.md>)
 
+- #[GTD Zone](<GTD Zone.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
@@ -106,9 +108,6 @@
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - Productivity coach in [GTD Zone](<GTD Zone.md>),
-
-## [Matthew Vogel](<Matthew Vogel.md>)
-- #[GTD Zone](<GTD Zone.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[GTD Zone](<GTD Zone.md>)

@@ -123,6 +123,10 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
+## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+- **[References](<References.md>):**
+
 ## [spaced repetition](<spaced repetition.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**

@@ -3,6 +3,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - When everyone is in sinch, the compound effect of [alignment](<alignment.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- As we all ride the lightning, patterns emerge naturally; we improve the surface-area for [serendipity](<serendipity.md>)  and [alignment](<alignment.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) More [alignment](<alignment.md>)
 

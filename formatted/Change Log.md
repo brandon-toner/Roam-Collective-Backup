@@ -43,6 +43,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check the #[Change Log](<Change Log.md>)
 
@@ -81,9 +84,6 @@
 - #[Change Log](<Change Log.md>)
 
 ## [Maggie Delano](<Maggie Delano.md>)
-- #[Change Log](<Change Log.md>)
-
-## [Matthew Vogel](<Matthew Vogel.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)

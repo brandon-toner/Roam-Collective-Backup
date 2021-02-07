@@ -25,6 +25,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[Help Wanted](<Help Wanted.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- [ ] Review Mat's graph for lessons that can apply to Roam Collective.  #[Help Wanted](<Help Wanted.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out the #[Help Wanted](<Help Wanted.md>)
 

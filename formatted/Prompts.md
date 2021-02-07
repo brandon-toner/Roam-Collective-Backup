@@ -23,6 +23,8 @@
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
+- I like the [[[Roam Book Club](<[[Roam Book Club.md>) III]] approach of putting daily notes on a person's personal page and leaving the daily notes page for group communication, [Prompts](<Prompts.md>),
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Explore the block references on the [Prompts](<Prompts.md>)
 
@@ -35,9 +37,6 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "__Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))
-
-## [Matthew Vogel](<Matthew Vogel.md>)
-- [Prompts](<Prompts.md>)
 
 ## [Promptstorming](<Promptstorming.md>)
 - See [Prompts](<Prompts.md>)

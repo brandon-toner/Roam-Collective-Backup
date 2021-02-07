@@ -167,6 +167,6 @@ let query = `[
 let results = window.roamAlphaAPI.q(query,new Date().setHours(0, 0, 0, 0),rule);
 
 return [query, results];```
-            - {{CLICK TO RUN ADVANCED-QUERY:42SmartBlock:Datomic advanced-query:42RemoveButton=false}}   
+            - {{CLICK TO RUN ADVANCED-QUERY:42SmartBlock:Datomic advanced-query:42RemoveButton=false}}     
                 - :hiccup [:div "Click here to edit block..." [:br][:div {:class "scroller dont-focus-block"}  [:table [:tbody [:tr [:td {:class "head"} "author"][:td {:class "head"} "block"][:td {:class "head"} "page"]][:tr {:class "odd"}[:td {:class "val"}"Charles Farr"][:td {:class "val"}"5"][:td {:class "val"}"5"]]]]]]
                 - :hiccup [:div "Click here to edit block..." [:br][:div {:class "scroller dont-focus-block"}  [:table [:tbody [:tr [:td {:class "head"} "author"][:td {:class "head"} "block"]][:tr {:class "odd"}[:td {:class "val"}"Charles Farr"][:td {:class "val"}"100"]][:tr {:class "even"}[:td {:class "val"}"Brandon Toner"][:td {:class "val"}"10"]][:tr {:class "odd"}[:td {:class "val"}"Peter Rosso"][:td {:class "val"}"40"]][:tr {:class "even"}[:td {:class "val"}"Keifon Lee"][:td {:class "val"}"5"]][:tr {:class "odd"}[:td {:class "val"}"Matt Vogel"][:td {:class "val"}"9"]]]]]]

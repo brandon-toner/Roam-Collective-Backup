@@ -12,7 +12,9 @@
 
 # Backlinks
 ## [February 7th, 2021](<February 7th, 2021.md>)
-- [@[[Brandon Toner](<../@[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>).
+- [~[[Brandon Toner](<../~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>).
+
+- "[~[[Brandon Toner](<../~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>).
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [Projects/Establish automated graph backups](<../Projects/Establish automated graph backups.md>)

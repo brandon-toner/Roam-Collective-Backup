@@ -3,6 +3,11 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- [Q](<Q.md>) How do you confront feelings of [chaos](<chaos.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) Individuals have varying thresholds for tolerance of [chaos](<chaos.md>).
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 2. #[Fleeting Notes](<Fleeting Notes.md>) Strong conventions within a [collaborative graph](<collaborative graph.md>) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
 

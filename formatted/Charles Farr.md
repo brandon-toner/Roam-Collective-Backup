@@ -85,6 +85,8 @@
 
 - "Last night I ([Charles]([Charles Farr](<Charles Farr.md>))
 
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
 

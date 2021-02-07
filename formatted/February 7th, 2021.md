@@ -5,7 +5,8 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
         1. Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
+        1. "~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}} [*]([rtg](<rtg.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
@@ -30,8 +31,12 @@
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🤯 Information overload | 🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
         - Let's try to bring everything together
+            - I have been just catching up with this week material. I am so burned out.
+        - [Questions](<Questions.md>)
+            - How to quantify the value of a block or a note? [*](((Ys9BGmef3)))
+                - [I](<I.md>) can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
@@ -39,19 +44,198 @@
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
         - [~[[Reddy2Go](<~[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)` `[Quick Start Guide](<Quick Start Guide.md>)` and `[Conventions](<Conventions.md>)'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
-        - Tweet referring to Conor 😅 [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+        - Tweet referring to Conor 😅 [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - https://twitter.com/houshuang/status/1358448758082658311?s=20
+        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] People's pressure can be relieved by organising sessions. Debate? Book club? Write a story? Game? [(*)](((am0u4AQuf)))
+
+            - "Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged." -> We should layer conventions so that people both get the endorphin kick of ticking a todo list, but also they understand to what extent their understanding of the "rules"
+            - "Being overwhelmed by the daily notes page was a common sentiment among the group." -> We could  add a free writing section in the collective daily page. No rules to release the tension?
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I did try to review material, but I think today I was truly burned out. [*](((9Q2agVyFC)))
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [*](((KJ2FvCNN3))) Harmful for two reasons. Quantity does not mean quality. And fear to fail and being observed is a limiting factor to the freedom people feel in expressing their mind. What I am trying to say with the second point is that we might preclude yourself from exploring ideas which disagree with the main ideas.
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
+            - "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
+            - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
+        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I think I saw this [*](((k3pgleY8f))) as an interpretation of the [double diamond](<double diamond.md>) The variation was on the first part not being created. ((I shall find the article))
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+        - I love that when I check my messages I can also see that 
     - [Bookmarks](<Bookmarks.md>)
+        - "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - Yesterday I introduced [Multiplayer Roam](<Multiplayer Roam.md>) to a small group of ~10 people who had little to no experience with multiplayer graphs and it was heartening to see how excited it made them and what kinds of questions they had.
+            - Questions included:
+                1. Do I need to be a paying roam user to use a multiplayer graph?
+                    - ie if they are not sold on Roam as a whole for personal use but want to contribute to a graph
+                2. One member expressed a worry that being presented with such a 'blank canvas' would drive them to endlessly tweak the conventions and interface looking for the 'best' system
+                    - I talked about light social pressure on a multiplayer graph; it's similar to not wanting to deface a shared common area for risk of adversely affecting your peers.
+                    - Multiplayer graphs historically have been strong places of democratic process; ideas are presented and discussed before being made (__usually__)
+                    - Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged.
+            - There was a strong sense of being intimidated by multiplayer graphs, even by people with an understanding of Roam. Having small guided tours of the graph helped alleviate those worries. 
+                - This is probably not possible with larger graphs but I could see it working very well with smaller ones
+            - Being overwhelmed by the daily notes page was a common sentiment among the group.
+                - I like the [[[Roam Book Club](<[[Roam Book Club.md>) III]] approach of putting daily notes on a person's personal page and leaving the daily notes page for group communication, [Prompts](<Prompts.md>), etc. 
+                    - This put's everyone's notes in the references instead of directly on the daily notes
+            - I was surprised how unexcited they were about searching across the graph for adjacent blocks using double brackets `(( ))`. My guess is that the true power of this isn't clear until you've experienced the serendipity yourself 
+            - My instinct says we need to foster a strong sense of exploration with new members. Create → Explore → Engage → Create
+                - {{[diagram](<diagram.md>)}}
+                    - Create
+                    - Explore
+                    - Engage
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
+        - ~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~
+            - This could turn the graph into more of a game similar to the Fitbit leaderboard. Could also be harmful pressure "My contribution is so small and not worth it"
+                - It's hard to quantify the value of an idea. A single idea/block could spawn dozens of blocks. Hmm maybe blocks with the most refs...
     - [Conversation](<Conversation.md>) 
         - Works for me! Thanks [@[[Charles Farr](<@[[Charles Farr.md>)]]! [*](((shPwbVEW0)))
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
+        - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I think this is a good impulse, especially since the multiplayer [Roam Games](<Roam Games.md>) is closing soon [*](((gYGadCTR3)))
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [Resources](<Resources.md>) 
+            - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 
+                - He has been running his business in Roam, with his team — as a collaborative graph. 
+                - He published a database explaining these practices. More on that [here](https://twitter.com/matmcgann/status/1358416938129453062?s=21).
+                - Here is the link to that [graph](https://roamresearch.com/#/app/multiplayerknowledgebases/page/tIRpxfXyY). It's impressive.
+                - [ ] Review Mat's graph for lessons that can apply to Roam Collective.  #[Help Wanted](<Help Wanted.md>)
+        - [Q](<Q.md>) How do you confront feelings of [chaos](<chaos.md>) and overwhelm? 
+            - #[Fleeting Notes](<Fleeting Notes.md>) Find the biggest rock you can lift, and carry it. [responsibility](<responsibility.md>)
+                - [Q](<Q.md>) How does this apply to Roam Collective?
+                    - Convergence and finding a sense of order is everyone's collective responsibility.
+                    - If things feel chaotic, find something you can [clarify](<clarify.md>) and bring into [order](<order.md>).
+                    - Ask:
+                        - What feels unclear? — write that down.
+                            - Then reflect on how it could be more clear.
+                                - What decisions need to be made? 
+                                - What material needs to be summarized?
+        - [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[[E:](<[[E:.md>) cycles of divergence and convergence]]) [order](<order.md>) [chaos](<chaos.md>)
+            - **[Thoughts](<Thoughts.md>):**
+                - #[Fleeting Notes](<Fleeting Notes.md>) Freedom of expression is fun.
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Fun drives productivity and engagement.
+                - #[Fleeting Notes](<Fleeting Notes.md>) Individuals have varying thresholds for tolerance of [chaos](<chaos.md>).
+                - It is easier to follow the rules when there are less of them.
+                - If each individual uses their own intuition as guide for navigating balance, then the whole will benefit. 
+                - Global phases of divergence and convergence could be offered, and followed loosely. 
+                - #[Fleeting Notes](<Fleeting Notes.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action.
+                    - Run with [inspired action](<inspired action.md>) as it strikes.
+                    - [non-coercive](<non-coercive.md>) [productivity](<productivity.md>).
+                    - [Q](<Q.md>) What happens when everyone rides the lightning. 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow.
+            - #[Fleeting Notes](<Fleeting Notes.md>) Find order through collective chaos. 
+                - As we all ride the lightning, patterns emerge naturally; we improve the surface-area for [serendipity](<serendipity.md>)  and [alignment](<alignment.md>).
+                - Work independently together, and leverage moments of serendipitous alignment.
+                    - Global [purpose](<purpose.md>), [goals](<goals.md>), and [vision](<vision.md>) narrows the space that we oscillate around. It creates a lens to think and act through.
+                        - Any group action in alignment with the group goals will improve the likelihood of synergy of ideas.
+            - A collective graph as a chaotic [playground](<playground.md>). 
+                - Objective: constrain the chaos through a shared lens.
+                    - Like gas within a space, the chaotic energy should fill the space it is given. 
+                    - [Q](<Q.md>) How is chaos tamed?
+                        - Conventions, norms, objectives, and methods of gaining spatial awareness.
+        - [I](<I.md>) I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles.
+            - Roles & Activities:
+                - Communication and connection
+                - Organization and categorization
+                - System building
+                - Idea generation
+                - Graph appearance and presentation
+            - Personality traits: (using The [Big Five Personality Traits](<Big Five Personality Traits.md>)) [link](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+                - [openness](<openness.md>)
+                    - [intellect](<intellect.md>)
+                    - [openness](<openness.md>)
+                - [conscientiousness](<conscientiousness.md>)
+                    - [industriousness](<industriousness.md>)
+                    - [orderliness](<orderliness.md>)
+                - [extraversion](<extraversion.md>)
+                    - [enthusiasm](<enthusiasm.md>)
+                    - [assertiveness](<assertiveness.md>)
+                - [agreeableness](<agreeableness.md>)
+                    - [compassion](<compassion.md>)
+                    - [politeness](<politeness.md>)
+                - [neuroticism](<neuroticism.md>)
+                    - [withdrawal](<withdrawal.md>)
+                    - [volatility](<volatility.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)).
+        - A speculative outline of some speculative outlines: [Outlines](<Outlines.md>)
+            - The DNP Sections
+            - The DNP Modules
+            - Basic conventions & processes
+                - Lowercase
+                - DNP Sections
+                - Notifications & communication
+            - The team directory
+            - The Notification System
+            - Where to Write
+            - The Community Knowledge Base
+            - Riding the Lightning
+            - Block references as a method of communication
+            - CSS as user reassurance on the use of the correct tag.
+                - A method of passive enforcement of conventions
+            - The importance shared conventions
+            - Why Roam for teamwork?
+            - What can you accomplish as a team in Roam?
+            - Writing together in Roam?
+            - Community Roles
+            - "Seeding" a collaborative graph
+            - The Glossary
+            - Roam fundamentals
+            - Recommended readings and resources
+            - Using SmartBlocks and Templates
+            - Templates as a way to create consistent structure when it matters
+            - The "Not-populated" tag
+            - Word Counts to track updates, identify areas of deep thought, and incentivize user engagement.
+            - Status Indicators to present users' online status
+            - Using queries to manage notifications
+            - Tips & Tricks
+                - Add a unique tag to your DNP Section to assist with queries
+                - Use aliases to improve the readability of text.
+                - Hide references in star aliases.
+            - Maintaining spacial awareness and clarity 
+            - Balancing chaos and order — cycles of divergence and convergence
+            - The role of synchronous communication
+            - The role of a supportive communication channel (Slack)
+            - Helpful SmartBlocks and templates
+            - Structuring your shared knowledge base
+            - 
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on note mythology and categorization
+            - "Thinking on objectives and the relationship to mythology"
+    - [Conversation](<Conversation.md>) 
+        1. Simple Replies
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence."
+                - Agreed. I think objectives and targets help to align individual work with collective goals. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
+            - "Tweet referring to Conor 😅 [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+                - Great thread [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]. 
+                - What were you big takeaways? 
+                    - Seems like Conor/Roam have used systems similar to what we have in place here. 
+                    - I think our notification are better than "the dropzone"
+                    - Interesting to hear that Conor views multiplayer as aberration haha
+        2. On riffing on other people's stuff
+            - "22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?"
+                - Absolutely! Just take a block reference of the part that catches your attention, paste it into your section — and nest all of your thoughts on that idea and beyond [@[[Reddy2Go](<@[[Reddy2Go.md>)]]
+        3. On [GitHub](<GitHub.md>) minute budget
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
+                - Where do I check my minutes usage? Can't seem to find. [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+        4. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))"
+                - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
+                - Yea, I have a feeling this is quite applicable. Gonna think on this. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
+        5. 
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - ---

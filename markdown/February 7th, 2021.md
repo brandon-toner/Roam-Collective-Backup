@@ -5,7 +5,8 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
         1. Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
-    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #Chat ((A place to propose objects of discussion)) 
+        1. "~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Reddy2Go]] {{word-count}} [*]([[rtg]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
@@ -30,8 +31,12 @@
     - #Bookmarks #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🤯 Information overload | 🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]] 
         - Let's try to bring everything together
+            - I have been just catching up with this week material. I am so burned out.
+        - #Questions
+            - How to quantify the value of a block or a note? [*](((Ys9BGmef3)))
+                - #I can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
     - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
@@ -39,19 +44,198 @@
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
         - [[~[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
-        - Tweet referring to Conor 😅 [[@[[Brandon Toner]]]]
+        - Tweet referring to Conor 😅 [[~[[Brandon Toner]]]]
             - https://twitter.com/houshuang/status/1358448758082658311?s=20
+        - [[@[[Matthew Vogel]]]] People's pressure can be relieved by organising sessions. Debate? Book club? Write a story? Game? [(*)](((am0u4AQuf)))
+
+            - "Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged." -> We should layer conventions so that people both get the endorphin kick of ticking a todo list, but also they understand to what extent their understanding of the "rules"
+            - "Being overwhelmed by the daily notes page was a common sentiment among the group." -> We could  add a free writing section in the collective daily page. No rules to release the tension?
+        - [[~[[Matthew Vogel]]]] I did try to review material, but I think today I was truly burned out. [*](((9Q2agVyFC)))
+        - [[~[[Matthew Vogel]]]] [*](((KJ2FvCNN3))) Harmful for two reasons. Quantity does not mean quality. And fear to fail and being observed is a limiting factor to the freedom people feel in expressing their mind. What I am trying to say with the second point is that we might preclude yourself from exploring ideas which disagree with the main ideas.
+        - [[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
+            - "#[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
+        - [[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
+            - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
+            - [[~[[Brandon Toner]]]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
+        - [[@[[Matthew Vogel]]]] I think I saw this [*](((k3pgleY8f))) as an interpretation of the [[double diamond]] The variation was on the first part not being created. ((I shall find the article))
     - #Feedback  #not_populated
+        - I love that when I check my messages I can also see that 
     - #Bookmarks
+        - "#[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Yesterday I introduced [[Multiplayer Roam]] to a small group of ~10 people who had little to no experience with multiplayer graphs and it was heartening to see how excited it made them and what kinds of questions they had.
+            - Questions included:
+                1. Do I need to be a paying roam user to use a multiplayer graph?
+                    - ie if they are not sold on Roam as a whole for personal use but want to contribute to a graph
+                2. One member expressed a worry that being presented with such a 'blank canvas' would drive them to endlessly tweak the conventions and interface looking for the 'best' system
+                    - I talked about light social pressure on a multiplayer graph; it's similar to not wanting to deface a shared common area for risk of adversely affecting your peers.
+                    - Multiplayer graphs historically have been strong places of democratic process; ideas are presented and discussed before being made (__usually__)
+                    - Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged.
+            - There was a strong sense of being intimidated by multiplayer graphs, even by people with an understanding of Roam. Having small guided tours of the graph helped alleviate those worries. 
+                - This is probably not possible with larger graphs but I could see it working very well with smaller ones
+            - Being overwhelmed by the daily notes page was a common sentiment among the group.
+                - I like the [[[[Roam Book Club]] III]] approach of putting daily notes on a person's personal page and leaving the daily notes page for group communication, [[Prompts]], etc. 
+                    - This put's everyone's notes in the references instead of directly on the daily notes
+            - I was surprised how unexcited they were about searching across the graph for adjacent blocks using double brackets `(( ))`. My guess is that the true power of this isn't clear until you've experienced the serendipity yourself 
+            - My instinct says we need to foster a strong sense of exploration with new members. Create → Explore → Engage → Create
+                - {{[[diagram]]}}
+                    - Create
+                    - Explore
+                    - Engage
+    - #Questions ((about the graph, or directed towards someone)) 
+        - ~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~
+            - This could turn the graph into more of a game similar to the Fitbit leaderboard. Could also be harmful pressure "My contribution is so small and not worth it"
+                - It's hard to quantify the value of an idea. A single idea/block could spawn dozens of blocks. Hmm maybe blocks with the most refs...
     - #Conversation 
         - Works for me! Thanks [[@[[Charles Farr]]]]! [*](((shPwbVEW0)))
-        - [[@[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
+        - [[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
+        - [[~[[Peter Rosso]]]] I think this is a good impulse, especially since the multiplayer [[Roam Games]] is closing soon [*](((gYGadCTR3)))
+            - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
+            - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - #[[Scratchpad]] 
+        - #Resources 
+            - Interested in [[Mat McGann]]'s work on collaborative Roaming. 
+                - He has been running his business in Roam, with his team — as a collaborative graph. 
+                - He published a database explaining these practices. More on that [here](https://twitter.com/matmcgann/status/1358416938129453062?s=21).
+                - Here is the link to that [graph](https://roamresearch.com/#/app/multiplayerknowledgebases/page/tIRpxfXyY). It's impressive.
+                - {{[[TODO]]}} Review Mat's graph for lessons that can apply to Roam Collective.  #[[Help Wanted]]
+        - #Q How do you confront feelings of [[chaos]] and overwhelm? 
+            - #[[Fleeting Notes]] Find the biggest rock you can lift, and carry it. #responsibility
+                - #Q How does this apply to Roam Collective?
+                    - Convergence and finding a sense of order is everyone's collective responsibility.
+                    - If things feel chaotic, find something you can [[clarify]] and bring into [[order]].
+                    - Ask:
+                        - What feels unclear? — write that down.
+                            - Then reflect on how it could be more clear.
+                                - What decisions need to be made? 
+                                - What material needs to be summarized?
+        - #Q Should phases of [[divergence]] and [[convergence]] be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[[[E:]] cycles of divergence and convergence]]) #order #chaos
+            - Thoughts::
+                - #[[Fleeting Notes]] Freedom of expression is fun.
+                    - #[[Fleeting Notes]] Fun drives productivity and engagement.
+                - #[[Fleeting Notes]] Individuals have varying thresholds for tolerance of [[chaos]].
+                - It is easier to follow the rules when there are less of them.
+                - If each individual uses their own intuition as guide for navigating balance, then the whole will benefit. 
+                - Global phases of divergence and convergence could be offered, and followed loosely. 
+                - #[[Fleeting Notes]] "[[ride the lightning]]" as a mode of action.
+                    - Run with [[inspired action]] as it strikes.
+                    - [[non-coercive]] [[productivity]].
+                    - #Q What happens when everyone rides the lightning. 
+                    - #[[Fleeting Notes]] Roam was built to empower a "[[ride the lightning]]" workflow.
+            - #[[Fleeting Notes]] Find order through collective chaos. 
+                - As we all ride the lightning, patterns emerge naturally; we improve the surface-area for [[serendipity]]  and [[alignment]].
+                - Work independently together, and leverage moments of serendipitous alignment.
+                    - Global [[purpose]], [[goals]], and [[vision]] narrows the space that we oscillate around. It creates a lens to think and act through.
+                        - Any group action in alignment with the group goals will improve the likelihood of synergy of ideas.
+            - A collective graph as a chaotic [[playground]]. 
+                - Objective: constrain the chaos through a shared lens.
+                    - Like gas within a space, the chaotic energy should fill the space it is given. 
+                    - #Q How is chaos tamed?
+                        - Conventions, norms, objectives, and methods of gaining spatial awareness.
+        - #I I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles.
+            - Roles & Activities:
+                - Communication and connection
+                - Organization and categorization
+                - System building
+                - Idea generation
+                - Graph appearance and presentation
+            - Personality traits: (using The [[Big Five Personality Traits]]) [link](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+                - [[openness]]
+                    - [[intellect]]
+                    - [[openness]]
+                - [[conscientiousness]]
+                    - [[industriousness]]
+                    - [[orderliness]]
+                - [[extraversion]]
+                    - [[enthusiasm]]
+                    - [[assertiveness]]
+                - [[agreeableness]]
+                    - [[compassion]]
+                    - [[politeness]]
+                - [[neuroticism]]
+                    - [[withdrawal]]
+                    - [[volatility]]
+            - #[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]]).
+        - A speculative outline of some speculative outlines: #Outlines
+            - The DNP Sections
+            - The DNP Modules
+            - Basic conventions & processes
+                - Lowercase
+                - DNP Sections
+                - Notifications & communication
+            - The team directory
+            - The Notification System
+            - Where to Write
+            - The Community Knowledge Base
+            - Riding the Lightning
+            - Block references as a method of communication
+            - CSS as user reassurance on the use of the correct tag.
+                - A method of passive enforcement of conventions
+            - The importance shared conventions
+            - Why Roam for teamwork?
+            - What can you accomplish as a team in Roam?
+            - Writing together in Roam?
+            - Community Roles
+            - "Seeding" a collaborative graph
+            - The Glossary
+            - Roam fundamentals
+            - Recommended readings and resources
+            - Using SmartBlocks and Templates
+            - Templates as a way to create consistent structure when it matters
+            - The "Not-populated" tag
+            - Word Counts to track updates, identify areas of deep thought, and incentivize user engagement.
+            - Status Indicators to present users' online status
+            - Using queries to manage notifications
+            - Tips & Tricks
+                - Add a unique tag to your DNP Section to assist with queries
+                - Use aliases to improve the readability of text.
+                - Hide references in star aliases.
+            - Maintaining spacial awareness and clarity 
+            - Balancing chaos and order — cycles of divergence and convergence
+            - The role of synchronous communication
+            - The role of a supportive communication channel (Slack)
+            - Helpful SmartBlocks and templates
+            - Structuring your shared knowledge base
+            - 
+    - #[[GTD Zone]] #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks
+        - [Charles]([[cc:[[Charles Farr]]]]) on note mythology and categorization
+            - "Thinking on objectives and the relationship to mythology"
+    - #Conversation 
+        1. Simple Replies
+            - "[[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence."
+                - Agreed. I think objectives and targets help to align individual work with collective goals. [[~[[Peter Rosso]]]]
+            - "Tweet referring to Conor 😅 [[~[[Brandon Toner]]]]"
+                - Great thread [[cc:[[Peter Rosso]]]]. 
+                - What were you big takeaways? 
+                    - Seems like Conor/Roam have used systems similar to what we have in place here. 
+                    - I think our notification are better than "the dropzone"
+                    - Interesting to hear that Conor views multiplayer as aberration haha
+        2. On riffing on other people's stuff
+            - "22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?"
+                - Absolutely! Just take a block reference of the part that catches your attention, paste it into your section — and nest all of your thoughts on that idea and beyond [[@[[Reddy2Go]]]]
+        3. On [[GitHub]] minute budget
+            - "[[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
+                - Where do I check my minutes usage? Can't seem to find. [[@[[Matthew Vogel]]]]
+        4. [[architects, gardeners, and librarians]]
+            - "[[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))"
+                - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
+                - Yea, I have a feeling this is quite applicable. Gonna think on this. [[~[[Peter Rosso]]]]
+        5. 
+    - #Feedback  #not_populated
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
-    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---

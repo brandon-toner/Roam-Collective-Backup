@@ -31,6 +31,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - **Brandon:**#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
 
@@ -48,7 +51,4 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
-
-## [Matthew Vogel](<Matthew Vogel.md>)
-- ;#[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}} [*]([bnt](<bnt.md>))
 
