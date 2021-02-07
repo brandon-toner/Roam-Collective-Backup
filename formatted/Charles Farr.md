@@ -80,6 +80,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+1. Last night I ([Charles]([Charles Farr](<Charles Farr.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
 

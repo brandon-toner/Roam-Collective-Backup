@@ -10,6 +10,11 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- [Joel Chan](<Joel Chan.md>)
+
+- [Joel's]([Joel Chan](<Joel Chan.md>))
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Joel Chan](<Joel Chan.md>)'
 

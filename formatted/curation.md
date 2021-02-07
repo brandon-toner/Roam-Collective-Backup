@@ -13,3 +13,6 @@
 
 - Support for [curation](<curation.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Rather, I suspect that key objective is synthesizing the learnings from our experiments within the graph and the research we bring in from the outside. In this context, the distinct between `fleeting`, `literature`, & `evergreen` notes becomes blurry. Layering on ideas such as [maturity](<maturity.md>), [curation](<curation.md>),
+

@@ -1,3 +1,13 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+        1. Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
 - #[[My Daily Notes]] [[Reddy2Go]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]]
         - 06:06 conditioning or ‘steeling’ myself against [[pain]] is numbing myself. i’m better off ‘feeling’ the pain, accepting and embracing what it brings instead. after all i’m in a relationship with experience and pain is a type of experience.
@@ -10,3 +20,4 @@
     - #Conversation #not_populated
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
+- ---

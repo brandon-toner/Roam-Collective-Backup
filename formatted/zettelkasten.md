@@ -131,6 +131,13 @@
 
 - ""[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Likewise, Nicolas Luhmann's use of [zettelkasten](<zettelkasten.md>)
+
+- [Q](<Q.md>) What is the objective and organizing principle for out [zettelkasten](<zettelkasten.md>)?
+
+- Additionally, [I don't think that our sole (or even main) goal](((kVRA_E03u))) is to build a [zettelkasten](<zettelkasten.md>)
+
 ## [Help Wanted](<Help Wanted.md>)
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 

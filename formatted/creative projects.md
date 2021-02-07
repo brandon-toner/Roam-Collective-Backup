@@ -7,6 +7,8 @@
 - Unless maybe a group of literature notes matured into a summary of the content... (but that feels more analogous to [creative projects](<creative projects.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
+- Rather, I suspect that key objective is synthesizing the learnings from our experiments within the graph and the research we bring in from the outside. In this context, the distinct between `fleeting`, `literature`, & `evergreen` notes becomes blurry. Layering on ideas such as [maturity](<maturity.md>), [curation](<curation.md>), [collections](<collections.md>), and [creative projects](<creative projects.md>)
+
 - Maybe it's a "[creative project]([creative projects](<creative projects.md>))
 
 ## [January 27th, 2021](<January 27th, 2021.md>)

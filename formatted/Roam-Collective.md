@@ -35,6 +35,13 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+- The questions I keep coming back to regarding our ([Roam-Collective](<Roam-Collective.md>)'
+
+- [Q](<Q.md>) Should [Roam-Collective](<Roam-Collective.md>)
+
+## [February 7th, 2021](<February 7th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 

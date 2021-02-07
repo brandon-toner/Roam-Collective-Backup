@@ -35,15 +35,79 @@
     - in an [Interintellect](<Interintellect.md>) salon today, [Matthew Vogel](<Matthew Vogel.md>) drew me back into this collective.
     - still not sure how to use the daily template, but i'm gonna start dropping thoughts. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
             - "Summary — {{word-count}}"
         - Meta-discussion on: "Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)"
             - How would we describe this type of note? Is it a collection or a summary or a community note or an evergreen or a...?
-            - 
+        - Thinking on objectives and the relationship to mythology
+            - Mythologies are so often chosen based on the type of work we're trying to do
+            - Tending a "mind garden," where the user is "growing" their thoughts inevitably leads to a series of notes related to gardening: `seedlings` →`buddings` → `evergreens`.
+            - Likewise, Nicolas Luhmann's use of [zettelkasten](<zettelkasten.md>) directly translated to his naming of `fleeting` → `literature` → `permanent` notes
+                - `fleeting` notes were __impermanent__ — Luhmann would literally throw them away — and fleeting aptly captures this nature
+                - `literature` notes summarized the academic literature he was reading
+                - `permanent` notes made it into the actual slipbox and became a __permanent__ part of Luhmann's "second brain"
+            - The questions I keep coming back to regarding our ([Roam-Collective](<Roam-Collective.md>)'s) approach to an external and community knowledge repository are:
+                - [Q](<Q.md>) Is the current mythology we're using (`fleeting` → `literature` → `evergreen`) really appropriate for our objectives?
+                - Extending this question further...
+                - [Q](<Q.md>) What is the objective and organizing principle for out [zettelkasten](<zettelkasten.md>)? Are we building a zettelkasten in any traditional sense?
+                - Pondering these two questions...
+                - [Q](<Q.md>) Should [Roam-Collective](<Roam-Collective.md>) define a new classification system for atomic units of knowledge that is better oriented towards our objective?
+            - While this may seem like a distraction from some of our core goals, it seems like such a **fundamental** principle of our experiment here, that I like it is important to get right.
+                - After experimenting now for nearly two weeks, I realize that I don't have a great idea of what types of content would flow into the [categories](((Yv5sA1mwk))) we're defined.
+                - Additionally, [I don't think that our sole (or even main) goal](((kVRA_E03u))) is to build a [zettelkasten](<zettelkasten.md>) on collaboration in Roam.
+                    - A zettelkasten is a database that accrues knowledge over time, along whatever lines of inquiry are the current focus, and is leveraged to generate content.
+                    - Collecting our learnings as we go is critical — there is no doubt about this. However, the need to share these learnings with the outside world necessitates a much greater level of refinement that the zettelkasten gets us to.
+                - Rather, I suspect that key objective is synthesizing the learnings from our experiments within the graph and the research we bring in from the outside. In this context, the distinct between `fleeting`, `literature`, & `evergreen` notes becomes blurry. Layering on ideas such as [maturity](<maturity.md>), [curation](<curation.md>), [collections](<collections.md>), and [creative projects](<creative projects.md>) further muddies the waters.
+            - [Joel Chan](<Joel Chan.md>) has a new paper out that describes a new classification of notes that may be more appropriate.
+                - Thanks to [cc:[[Jason Griffing](<cc:[[Jason Griffing.md>)]] for pointing me towards said paper!
+            - [Joel's]([Joel Chan](<Joel Chan.md>)) paper outlines 4 note types...
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F_atWcPSBge.png?alt=media&token=0ba6beb6-48a1-400d-b5d0-c7b75533b71f) 
+                - The ladder of complexity rises from...
+                    - `context` — passages, highlights, examples from the graph
+                    - to `observations` — summaries of what the context is and what it indicates
+                    - to `synthesis` — atomic ideas drawing on context & observations, ultimately helping to answer research questions
+                    - to `questions` — open research questions (answered or to be answered)
+            - Looking at the pros and cons of adopting a new mythology and structure...
+                - Pros
+                    - Orients our exploration, experimentation, and ultimately synthesis around questions
+                        - Similar the various `[How To](<How To.md>)` summary pages, but extending to include the whys and the whats
+                    - Eliminates preconceived notions of **what** a specific type of note is and should be — allows for greater flexibility for RC to define it's own atomic terms
+                    - Accommodates multiple sub-categories, enabling various scopes and levels of maturity...
+                        - `context` — binary state, context exists or it does not
+                        - `observation` — artifacts themselves are lightweight with binary state (they exist or they do not); no maturity is required
+                        - `synthesis` — allows for the most flexibility...
+                            - Scope
+                                - `notes`
+                                - `collections` / `outlines`
+                                - `memos` / `summaries` / `public outputs`
+                            - Maturity
+                                - `draft` → `in review` → `accepted`
+                                - `seedlings` →`buddings` → `evergreens`
+                                - Each scope could even have its own maturity scale...
+                        - `questions` — can be both areas for exploration, [repositories for research](((kQhvEEYk7))), or artifacts that provide the [corresponding answer](((qtz9PYEVl))).
+                    - Integrates well with processes for [convergence](<convergence.md>)
+                        - For instance:
+                            - Processing `context` to generate `observations` and other higher-level artifacts
+                            - Curating `observations` and `synthesis notes` into `synthesis memos / public outputs`
+                - Cons
+                    - Requires refactoring all of the notes we have already created within the graph,  adding the necessary scope and maturity
+                    - Requires RC members to learn a new approach to note-taking, raising the bar to participation
+                        - Counter-point: It actually clarifies [what a note is](((gqtoTh38s))), thereby lowing the bar...
+                            - I don't know where I land here...
+                    - ...
+            - Ultimately, my preference would be to adopt a new note schema for us to use in this graph — I like the [structure Joel has proposed](((PsBKVvanv))) and believe it would support us as we tackle the tricky challenge of convergence within a community graph. **But what I really want is to hear everyone else's thoughts!**  
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - On tagging curation
+            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
+                - Frankly, I kept getting caught up on how to distinguish between the various pieces of content we're putting into the graph.
+                    - More specifically, I can't quite understand the difference between how everyone defines evergreen notes versus fleeting.
+                    - I keep transferring my personal definition onto the graph here, which does not align with yours (and with a lot of others in the graph)
+                - Ultimately I proposed a new approach to categorizing and structuring our notes (and all other work) — hopefully its at least a helpful thought piece to spur come convergence around how we (RC) take notes here...
+                - p.s. — your question on "What is a community note? How is it different from an evergreen note?" is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
+        - Welcome [@[[Reddy2Go](<@[[Reddy2Go.md>)]]!
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -102,7 +166,7 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
-            - Great question. Gonna think on this! [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - Great question. Gonna think on this! [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - Does it need a tag? — I think so.
                 - What does it uniquely collect?
                     - Acts of convergence. 
