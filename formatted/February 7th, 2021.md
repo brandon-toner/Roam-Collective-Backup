@@ -8,12 +8,17 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}} [*]([rtg](<rtg.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}} [*]([rtg](<rtg.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>)
         - 06:06 conditioning or ‘steeling’ myself against [pain](<pain.md>) is numbing myself. i’m better off ‘feeling’ the pain, accepting and embracing what it brings instead. after all i’m in a relationship with experience and pain is a type of experience.
         - 06:46 today, i'm copy-pasting [Peter Rosso](<Peter Rosso.md>)'s template till i can figure out how to invoke it with a command
         - typing this with a [colemak](<colemak.md>) keyboard is frustrating and excruciatingly slow. on mobile i still use swipe to type, so i'm blisteringly fast, which makes this so much more frustrating
         - also clueless about the rest of the tags below but they are colorful and pretty
+        - [with all due respect](<with all due respect.md>) 'why do people insist on staying their deference right before undercutting it with a mildly disrespectful provocation?' (quote from Blacklist)
+        - thoughts on [movement](<movement.md>)
+            - solo movement = masturbation
+            - partner movement = sex
+        - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
         - "Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology""
         - Eisenhower the past tasks and scratch pad contents
@@ -24,17 +29,21 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🤯 Information overload | 🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+        - Let's try to bring everything together
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - [@[[Reddy2Go](<@[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)` `[Quick Start Guide](<Quick Start Guide.md>)` and `[Conventions](<Conventions.md>)'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
+        - [~[[Reddy2Go](<~[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)` `[Quick Start Guide](<Quick Start Guide.md>)` and `[Conventions](<Conventions.md>)'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
+        - Tweet referring to Conor 😅 [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
+            - https://twitter.com/houshuang/status/1358448758082658311?s=20
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)

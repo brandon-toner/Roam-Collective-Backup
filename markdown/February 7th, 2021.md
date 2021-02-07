@@ -8,12 +8,17 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Reddy2Go]] {{word-count}} [*]([[rtg]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Reddy2Go]] {{word-count}} [*]([[rtg]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]]
         - 06:06 conditioning or ‘steeling’ myself against [[pain]] is numbing myself. i’m better off ‘feeling’ the pain, accepting and embracing what it brings instead. after all i’m in a relationship with experience and pain is a type of experience.
         - 06:46 today, i'm copy-pasting [[Peter Rosso]]'s template till i can figure out how to invoke it with a command
         - typing this with a [[colemak]] keyboard is frustrating and excruciatingly slow. on mobile i still use swipe to type, so i'm blisteringly fast, which makes this so much more frustrating
         - also clueless about the rest of the tags below but they are colorful and pretty
+        - [[with all due respect]] 'why do people insist on staying their deference right before undercutting it with a mildly disrespectful provocation?' (quote from Blacklist)
+        - thoughts on [[movement]]
+            - solo movement = masturbation
+            - partner movement = sex
+        - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
     - #[[GTD Zone]] #not_populated
         - "Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology""
         - Eisenhower the past tasks and scratch pad contents
@@ -24,17 +29,21 @@
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🤯 Information overload | 🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated
+        - Let's try to bring everything together
     - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation #not_populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - [[@[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
+        - [[~[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
+        - Tweet referring to Conor 😅 [[@[[Brandon Toner]]]]
+            - https://twitter.com/houshuang/status/1358448758082658311?s=20
     - #Feedback  #not_populated
-    - #Bookmarks #not_populated
+    - #Bookmarks
+        - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
