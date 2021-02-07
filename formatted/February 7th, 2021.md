@@ -1,0 +1,12 @@
+- #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - 06:06 conditioning or ‘steeling’ myself against [pain](<pain.md>) is numbing myself. i’m better off ‘feeling’ the pain, accepting and embracing what it brings instead. after all i’m in a relationship with experience and pain is a type of experience.
+        - 06:46 today, i'm copy-pasting [Peter Rosso](<Peter Rosso.md>)'s template till i can figure out how to invoke it with a command
+        - typing this with a [colemak](<colemak.md>) keyboard is frustrating and excruciatingly slow. on mobile i still use swipe to type, so i'm blisteringly fast, which makes this so much more frustrating
+        - also clueless about the rest of the tags below but they are colorful and pretty
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
