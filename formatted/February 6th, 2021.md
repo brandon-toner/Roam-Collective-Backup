@@ -17,7 +17,7 @@
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) 
-        - "[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents""
+        - "[~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents""
         - "[datalog experimentation](<datalog experimentation.md>)"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}

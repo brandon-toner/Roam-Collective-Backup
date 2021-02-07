@@ -104,6 +104,6 @@
                 - Collective convergence benefits from synchronous
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
-        - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents"
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents"
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---

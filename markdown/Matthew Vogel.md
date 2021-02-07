@@ -32,6 +32,8 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 		[?t :node/title "Members"]
 		[?tag :node/title "Tags"]]
 ```
+            - {{[[embed]]: ((((5FP90Mw7R))))}}
+            - {{[[embed]]: ((((ocuebxkv-))))}}
         - My Notes
             - {{[[query]]: {and:[[Matthew Vogel]] [[mtv]] }}}
         - People near me!

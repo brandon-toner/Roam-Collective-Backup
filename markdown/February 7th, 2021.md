@@ -24,7 +24,7 @@
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated
     - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
@@ -35,4 +35,14 @@
         - [[@[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
+- ---
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation 
+        - Works for me! Thanks [[@[[Charles Farr]]]]! [*](((shPwbVEW0)))
+        - [[@[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
+            - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---

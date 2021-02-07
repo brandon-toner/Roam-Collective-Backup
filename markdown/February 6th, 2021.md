@@ -17,7 +17,7 @@
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
     - #Feedback  #not_populated
     - #Bookmarks 
-        - "[[@[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
+        - "[[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
         - "[[datalog experimentation]]"
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}

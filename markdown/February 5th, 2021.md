@@ -104,6 +104,6 @@
                 - Collective convergence benefits from synchronous
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
-        - [[@[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents"
+        - [[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents"
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---

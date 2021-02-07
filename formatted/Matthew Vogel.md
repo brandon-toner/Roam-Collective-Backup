@@ -32,6 +32,8 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 		[?t :node/title "Members"]
 		[?tag :node/title "Tags"]]
 ```
+            - {{[embed](<embed.md>): ((((5FP90Mw7R))))}}
+            - {{[embed](<embed.md>): ((((ocuebxkv-))))}}
         - My Notes
             - {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [mtv](<mtv.md>) }}}
         - People near me!
@@ -68,6 +70,9 @@ What does [Everyone](<Everyone.md>) think are the most important workflows/conve
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - in an [Interintellect](<Interintellect.md>) salon today, [Matthew Vogel](<Matthew Vogel.md>)
+
+## [February 7th, 2021](<February 7th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'
