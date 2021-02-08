@@ -45,7 +45,7 @@
             7. Added [roam/css](<roam/css.md>)
                 - Tag styling (1st draft)
             8. Added [roam/js](<roam/js.md>)
-            9. Added [Q](<Q.md>)
+            9. Added #[Q](<Q.md>)
                 - Questions that come up while answering a prompt. They don't stand alone so don't work well as open questions — but they are helpful to tag so that you can review the references on those tags. These are great opportunities for collaborative commentary. ((This feels kinda confusing — happy to elaborate on it if unclear.))
             10. Added [Frequently Asked Questions](<Frequently Asked Questions.md>)
             11. Added #[Everyone](<Everyone.md>) tag

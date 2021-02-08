@@ -1673,6 +1673,22 @@ span.rm-page-ref[data-tag="Prompts"] {
 span.rm-page-ref[data-tag="Prompts"]:before {
     content: '💭'
 }```
+                - `#Outlines
+                    - ```css
+span.rm-page-ref[data-tag="Outlines"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Outlines"]:before {
+    content: '📝'
+}```
                 - `#People
                     - ```css
 span.rm-page-ref[data-tag="People"] {
@@ -4672,7 +4688,20 @@ a[href^='http']{
 .starred-pages a[href*="sQPmakIfe"]>.page,
 .starred-pages a[href*="TxsV9GIET"]>.page
 {
-  color: #0A7AD2 !important;
+  color: #4CAF50 !important;
+}
+
+.starred-pages a[href*="S04orQeHK"]>.page,
+.starred-pages a[href*="vxKXH9a0r"]>.page
+{
+  color: #2196F3 !important;
+}
+
+.starred-pages a[href*="ohDe4FbVt"]>.page,
+.starred-pages a[href*="7CWEj1_kU"]>.page,
+.starred-pages a[href*="7y86LvOF6"]>.page
+{
+  color: #9C27B0 !important;
 }```
         14. Show Main Page multibar #Status/Enabled
             - This is to stop people (read: me :P ) from accidentally clicking on the bar

@@ -8,7 +8,7 @@
         1. **Peter:** "[[Everyone]] Would people want to add birthdays to their profiles?"
             1. I've added mine - Brandon (page ref to 2021 to generate the reference)
             2. Added mine - Peter
-        2. **Peter:** "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+        2. **Peter:** "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
         3. **Brandon:** Thoughts on [this](((ROVBmMBrp)))? 
             - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
             - **Matt V** I like how we can see everyone's conversations here
@@ -67,11 +67,11 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
-        - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
+        - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
             - "Think it could be interesting to explore - what types of questions / template are you envisioning?"
-                - [[@[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion, for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of that information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived, or what needs to be dealt with and when. That works well with tasks, but how do we do something similar?
-At the end of a week/month, I feel like fleeting notes should be reorganised in a page forming a conversation which might lead the following week to some permanent notes. [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] 
+                - [[^[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion, for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of that information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived, or what needs to be dealt with and when. That works well with tasks, but how do we do something similar?
+At the end of a week/month, I feel like fleeting notes should be reorganised in a page forming a conversation which might lead the following week to some permanent notes. [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] 
 __I love that your comment came from back in time 🤣!!__
 
 Monthly reviews could include a zoom catchup?
@@ -87,7 +87,7 @@ Monthly reviews could include a zoom catchup?
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWVf4pT2gge.png?alt=media&token=710c85ef-2f1e-4a6f-8346-27cb25740cda)
         - [[~[[Brandon Toner]]]] The [drop-down menus](((uRYMznUlI))) could be used to indicate the maturity of an `Evergreen Note`... Do they work with links to pages? e.g.
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
-        - [[@[[Brandon Toner]]]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
+        - [[~[[Brandon Toner]]]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
     - #Feedback  #not_populated
     - #Bookmarks 
         - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
@@ -126,6 +126,7 @@ Monthly reviews could include a zoom catchup?
     	[?e :block/string ?str]
 		[(re-matches #".*Community Note.*" ?str)]	  
 	]
+        - #[[Experiments]] discover pattern on indentation.
     - #[[Conversation]]
         - (re:) "Doubting the usefulness of the #Everyone tag... thoughts?" [[cc:[[Brandon Toner]]]]
             - Different from announcement, which is controlled in [your]([[Brandon Toner]]) hand, `#Everyone` tag can be used by other community memebers.
@@ -133,7 +134,7 @@ Monthly reviews could include a zoom catchup?
             - One way to think of it, is to consider it as a [Roam collective personal publish protocol](((Mfh93O_VB))), that gives each community member the power to establish their own channel.
         - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [[~[[Peter Rosso]]]]
         - Lightweight Replies
-            - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [[@[[Larissa de Lima]]]]
+            - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [[~[[Larissa de Lima]]]]
             - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [[@[[Charles Farr]]]]
             - re[*](((o-vu7iZWx))): not sure what urbit is, but what you really mean is that you’re eager to have the ability to sync outside world messy information into personal graph for manipulation. Am I right? [[@[[Charles Farr]]]]
     - #[[Help Wanted]]
@@ -214,13 +215,13 @@ Monthly reviews could include a zoom catchup?
                 - #tag1
                     - #tag2
     - #Conversation 
-        - [[@[[Brandon Toner]]]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
+        - [[~[[Brandon Toner]]]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol 
         - [[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`
             - [[@[[Brandon Toner]]]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
         - [[~[[Peter Rosso]]]] [*](((zM6l437S8))) Yes there is! [Check it out.](((hupwRjd9n))) This should follow each page even if the order is changed. I tried to keep the color subtle so it's not too aggressive [[cc:[[Brandon Toner]]]]
-        - [[@[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
+        - [[~[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
     - #[[Change Log]]
         - [Added CSS](((dQZ2rE2un))) to prevent the right sidebar page title from jumping around when editing the title
         - [Added left sidebar CSS](((hupwRjd9n))) to highlight important pages [*](((zM6l437S8)))
@@ -229,7 +230,7 @@ Monthly reviews could include a zoom catchup?
         - I'm loving the energy and iteration on this graph but I am a little concerned about how many features and conventions we want to add before they become more of a hindrance than a help to new graph users.
             - The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused   
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #Scratchpad 
         - Big meeting tomorrow so just stopping by very quickly!
     - #[[GTD Zone]] #not_populated
@@ -249,12 +250,12 @@ Monthly reviews could include a zoom catchup?
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - On Weekly Reviews with PRosso
-            - [[~[[Peter Rosso]]]] I like this [idea](((nZArzolvZ))) — [[cc:[[Larissa de Lima]]]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
+            - [[~[[Peter Rosso]]]] I like this [idea](((nZArzolvZ))) — [[~[[Larissa de Lima]]]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
                 - Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]
                     - Will #[[Follow Up]] here tomorrow and start working on it a bit...
                 - Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon.
         - On Broadcasting to the Graph/Group
-            - Regarding the idea of an [Everyone](((yT8htOsew))) tag, I think there's an important function of [[broadcasting]] to the entire community that we need to consider — cc: [[@[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Peter Rosso]]]] [[@[[Larissa de Lima]]]]
+            - Regarding the idea of an [Everyone](((yT8htOsew))) tag, I think there's an important function of [[broadcasting]] to the entire community that we need to consider — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Peter Rosso]]]] [[~[[Larissa de Lima]]]]
                 - What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?
                     - Essentially we would just write a SmartBlock that would surface all blocks with a combination of  `#Broadcast / #Radio / #Vote` + a `DNP: [[February 4th, 2021]]` tag
                         - We would need to add some status flags — i.e., `#Settled / #Accepted / #Rejected` to signify that the SmartBlock can drop it
@@ -263,11 +264,11 @@ Monthly reviews could include a zoom catchup?
                         - <%BLOCKMENTIONSDATED:10,Radio,<%DATE:7 days ago%>,<%DATE:in 7 days%>,-Accepted,-Rejected,-Settled%>
         - On statuses of maturity
         - Lightweight Replies
-            - [[@[[Brandon Toner]]]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol
+            - [[~[[Brandon Toner]]]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol
             - [[~[[leekeifon]]]] I agree — love a [good email](((Ay1XRIeu-))) conversation!
                 - I want to set up an urbit community that automatically exports the daily IRC chat to the graph...
             - [[~[[leekeifon]]]] re: the display [here](((BrDNimG4F))), are you referring the the preview on hover?
-            - [[@[[Larissa de Lima]]]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
+            - [[~[[Larissa de Lima]]]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [[cc:[[Brandon Toner]]]] [status](((cLrCgntHm))) looks great!
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks

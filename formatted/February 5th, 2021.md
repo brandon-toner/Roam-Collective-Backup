@@ -40,15 +40,15 @@
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
-        - I love [@[[Charles Farr](<@[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]
+        - I love [@[[Charles Farr](<@[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
             - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
                 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) Preview of specific pages that contains a chosen tag
         - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---

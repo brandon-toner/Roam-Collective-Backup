@@ -628,7 +628,7 @@
                 - Solutions::
                     - As the procedure mentioned [here](((5NLcwZHoo))) previously. We could first tag a concept with a `concept`/`.concept` tag or `evergreen`/`.evergreen` ((roam will hide the tag if we add a dot before it)) tag first, and get the community get familiar with the term first, then level up the block to be a evergreen page::The widespread of the block-level concept needs much more context than pages one.
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Does the conversation need to be segmented by individual?
             - What if the conversation convention was that you added sequentially to a page, instead of 

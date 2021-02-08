@@ -410,7 +410,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - #[[[project management](<[[project management.md>) in Roam]] #[[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]
             - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal

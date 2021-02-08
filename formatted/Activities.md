@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Quick Start Guide](<Quick Start Guide.md>)
-- ^^Jump in! The more content the better.^^ 
+- **Tip:**  ^^Jump in! The best way to learn is through doing. Don't worry — you can't break it.^^ 
 - **[Activities](<Activities.md>):**
 

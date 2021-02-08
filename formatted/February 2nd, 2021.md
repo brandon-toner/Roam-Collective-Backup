@@ -9,7 +9,7 @@
                 - Process [here](((5CxAQCSjk)))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
-        - This is to indicate "**1000 upvotes**" from [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
+        - This is to indicate "**1000 upvotes**" from [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
     - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
@@ -193,8 +193,8 @@ I think I need to go through the whole process to make sure I internalise it.
     - [Bookmarks](<Bookmarks.md>)
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) 
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  
+    [Scratchpad](<Scratchpad.md>) 
         - 🛠 IN PROGRESS - RETURN LATER
             - #[Fleeting Notes](<Fleeting Notes.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
@@ -267,12 +267,12 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "[Q](<Q.md>) Should minor questions of clarifications also be tagged?  "
             - Output / memorialization
                 - "[Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>)
+    [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    #[GTD Zone](<GTD Zone.md>)
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
-    - [Conversation](<Conversation.md>)
+    [Conversation](<Conversation.md>)
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? 
                 - [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
@@ -295,9 +295,9 @@ I think I need to go through the whole process to make sure I internalise it.
         - On what gives abstraction power
             - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
-    - [Chat](<Chat.md>)
+    [Chat](<Chat.md>)
         - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    - [Meetings](<Meetings.md>)
+    [Meetings](<Meetings.md>)
         - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) "
             - "#[Community Note](<Community Note.md>) Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
@@ -308,7 +308,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - [[[Clubhouse](<[[Clubhouse.md>) conversation: Feb 02 2021]]
             - [Brandon Toner](<Brandon Toner.md>)
                 - [Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>) 
+    [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>)
@@ -422,7 +422,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Conversation](<Conversation.md>)
-        - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
+        - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
         - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - Why not set up current [Roam Games](<Roam Games.md>) a little short term goal for practicing our system towards a 
         - "going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together."

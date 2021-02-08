@@ -12,5 +12,7 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))
 
-4. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
+5. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))
 

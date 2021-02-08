@@ -628,7 +628,7 @@
                 - **[Solutions](<Solutions.md>):**
                     - **[As the procedure mentioned [here](((5NLcwZHoo))) previously. We could first tag a concept with a `concept`/`.concept` tag or `evergreen`/`.evergreen` ((roam will hide the tag if we add a dot before it)) tag first, and get the community get familiar with the term first, then level up the block to be a evergreen page](<As the procedure mentioned [here](((5NLcwZHoo))) previously. We could first tag a concept with a `concept`/`.concept` tag or `evergreen`/`.evergreen` ((roam will hide the tag if we add a dot before it)) tag first, and get the community get familiar with the term first, then level up the block to be a evergreen page.md>):**The widespread of the block-level concept needs much more context than pages one.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Does the conversation need to be segmented by individual?
             - What if the conversation convention was that you added sequentially to a page, instead of 

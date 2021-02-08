@@ -101,7 +101,7 @@
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - On tagging curation
-            - [[@[[Brandon Toner]]]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
+            - [[^[[Brandon Toner]]]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
                 - Frankly, I kept getting caught up on how to distinguish between the various pieces of content we're putting into the graph.
                     - More specifically, I can't quite understand the difference between how everyone defines evergreen notes versus fleeting.
                     - I keep transferring my personal definition onto the graph here, which does not align with yours (and with a lot of others in the graph)

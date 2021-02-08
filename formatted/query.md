@@ -113,6 +113,12 @@
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - {{[query](<query.md>):
 
+- {{[query](<query.md>): {and: [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] {not: [query](<query.md>)}
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}
+
 ## [Maggie Delano](<Maggie Delano.md>)
 - {{[query](<query.md>):
 

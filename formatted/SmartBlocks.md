@@ -36,7 +36,7 @@
 - For [SmartBlocks](<SmartBlocks.md>)
 
 ## [Larissa de Lima](<Larissa de Lima.md>)
-- {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}}
+- {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)

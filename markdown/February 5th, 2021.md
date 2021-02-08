@@ -40,15 +40,15 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation
-        - I love [[@[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[@[[Brandon Toner]]]] [[@[[leekeifon]]]] [[@[[Larissa de Lima]]]]
+        - I love [[@[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Larissa de Lima]]]]
         - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [[~[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
             - "[[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
                 - #[[Roam Enhancement Requests]] Preview of specific pages that contains a chosen tag
         - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
-        - [[@[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+        - [[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
-        - [[@[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
+        - [[~[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---

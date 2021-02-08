@@ -1,5 +1,5 @@
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>), [Becoming an Editor](<Becoming an Editor.md>)
-- ^^Jump in! The more content the better.^^ 
+- **Tip:**  ^^Jump in! The best way to learn is through doing. Don't worry — you can't break it.^^ 
 - **[Activities](<Activities.md>):** 
     1. Add yourself to the [Directory](<Directory.md>)
     2. Build your bio page 
@@ -21,7 +21,6 @@
     12. Turn off brackets to streamline the look of page looks a bit
         - **[Image](<Image.md>):**
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FXsnU1mv_dy.png?alt=media&token=63269f48-46bd-4f82-ad37-dfe19277e68d)
-- 
 - **[Next](<Next.md>):** [Beyond the Basics](<Beyond the Basics.md>)
 
 # Backlinks

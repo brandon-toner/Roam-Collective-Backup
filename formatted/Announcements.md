@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - Pinned Announcement
-    - [Announcements](<Announcements.md>) **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>))
+    - [Announcements](<Announcements.md>) **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) with 
         - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
             - Missing/misplaced blocks
             - Missing CSS

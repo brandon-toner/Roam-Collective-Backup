@@ -13,3 +13,6 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [ ] Standardize color scheme #[February 2021](<February 2021.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+2. On a RC Website [Bookmarks](<Bookmarks.md>) #[February 2021](<February 2021.md>)
+

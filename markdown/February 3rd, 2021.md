@@ -514,7 +514,7 @@ These users would have far better outcomes if they simply operated at or slightl
             - [[cc:[[Mark Robertson]]]] noted the value of [[curation]] as a mechanism for synthesis
                 - https://twitter.com/calhistorian/status/1357033240507256832?s=20
                 - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
-                    - [[~[[Larissa de Lima]]]] [[@[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for...
+                    - [[~[[Larissa de Lima]]]] [[^[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for...
                 - #[[Fleeting Notes]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight
         - Current gaps in onboarding & internal documentation #[[Follow Up]]
             - Philosophy of Roam Collective — mission statement, divergence → convergence → divergence, projects & goals
@@ -656,7 +656,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - #[[Follow Up]] "{{[[DONE]]}} [[Rasmus Andersson]]"
     - #Conversation
         - On graph visual organization, layout, and design
-            - [[@[[Brandon Toner]]]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
+            - [[^[[Brandon Toner]]]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
                 - Completely agree that the graph [[Beau Hann]] pullled together for RBC3 looks incredibly clean — something to emulate.
                 - My belief is that any design revisions essentially fall into two buckets:
                     - 1) Updates to increase internal clarity of purpose
@@ -685,13 +685,13 @@ These users would have far better outcomes if they simply operated at or slightl
         - On graph instability
             - [[~[[Brandon Toner]]]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)
         - Simple replies
-            - [[@[[Brandon Toner]]]] "Love it! Gonna do this right away. How do I get those dash dividers?? [[~[[Larissa de Lima]]]]" I'm pretty sure you just create pages like below and then favorite them
+            - [[~[[Brandon Toner]]]] "Love it! Gonna do this right away. How do I get those dash dividers?? [[~[[Larissa de Lima]]]]" I'm pretty sure you just create pages like below and then favorite them
                 - [[––––––––––––––––––––––––––––––]]
                 - [[–––––––––––––––––––––––––––––––]]
                 - [[––––––––––––––––––––––––––––––––]]
                 - [[–––––––––––––––––––––––––––––––––]]
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} 😴 offline, back tomorrow
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 😴 offline, back tomorrow
     - #Scratchpad 
         - ""Time for some [CONVERGENCE]([[convergence]]) — **Questions**" 🛠 Categorizing questions: "
             - Continued building a directory of questions, as a first step on aggregating and prioritizing (for when we are ready for [[convergence]])
@@ -733,10 +733,10 @@ These users would have far better outcomes if they simply operated at or slightl
                 - What is PPV?
         - On [[convergence]] 
             - Support for [[curation]] idea by CFarr
-                - "[[~[[Larissa de Lima]]]] [[@[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for..."
+                - "[[~[[Larissa de Lima]]]] [[^[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for..."
                     - I support this!! 
             - Support for Weekly Reviews idea by PRosso
-                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[cc:[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+                - "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
                     - Think it could be interesting to explore - what types of questions / template are you envisioning?
         - Reactions to ideas on making things easier for [[new users]]
             - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members." + could also be relevant for this: "Table of Contents or Shortcuts to jump to frequently used parts."
@@ -790,7 +790,7 @@ These users would have far better outcomes if they simply operated at or slightl
             -  "[[~[[Larissa de Lima]]]] I am so curious now."
                 - [[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
                     - "#[[Fleeting Notes]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
-            - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[cc:[[Larissa de Lima]]]] #[[Experiments]]"
+            - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[~[[Larissa de Lima]]]] #[[Experiments]]"
                 - [[~[[leekeifon]]]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
     - #Feedback 
         - Vote for the [change of main feed structure](((7hC24BFpU))).

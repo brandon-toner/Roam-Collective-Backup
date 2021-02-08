@@ -59,6 +59,11 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
 
+## [February 7th, 2021](<February 7th, 2021.md>)
+- [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on note mythology and categorization #[Follow Up](<Follow Up.md>)
+
+- [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on [onboarding and meta-structure](((qe0xbFYul))) #[Follow Up](<Follow Up.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Comment](<Comment.md>) This question is really more of a #[Follow Up](<Follow Up.md>),
 

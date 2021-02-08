@@ -3,8 +3,26 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
         1. Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
+            - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - Touches on the point re: what are the objectives?  Is it just to build a guide?  
+                    - The reason I struggle with that is that tools and process for collaboration depend on the desired output.  Do we aim to create a guide that works for all types of collaboration?   
+        2. Some outlines on [structure and process](((W8X67wb_G))) for Roam Collective
+            - Purpose: 
+                - Create some structure that can serve to keep us oriented and aligned.
+                - A step towards building something to publish for the greater community.
+            - Goal: Build out the outline through collective brainstorming (What's missing?)
+            - Next: 
+                - Use that outline to go a level deeper (outline each section).
+                - Create documentation that reflects the content.
+        3. **Goal:** [Refresh the FAQs and Prompts](((FfZu-AqGj)))
+I think the FAQs could be a lot more relevant, and the Prompts more usable (maybe fewer, better ones?)
+            - **Larissa:**  
+                - Re: FAQs:  think we should add in [norms](((CaGPiJ2TS)))
+                    - Personally, also love [this](((2iqWWvBph))) and would suggest adding it as a norm - as it also provides "permission" to suggest and improve wherever an opportunity is observed
+                - Re: Prompts: should we have a process to connect the prompts and the set of [open questions](((rQhJBlEnm)))? and perhaps a process to mark questions as "resolved"?
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. "~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
@@ -63,6 +81,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
+        - ""[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯""
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
@@ -93,11 +112,12 @@
         - Works for me! Thanks [@[[Charles Farr](<@[[Charles Farr.md>)]]! [*](((shPwbVEW0)))
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I think this is a good impulse, especially since the multiplayer [Roam Games](<Roam Games.md>) is closing soon [*](((gYGadCTR3)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
             - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 
@@ -163,53 +183,231 @@
                     - [volatility](<volatility.md>)
             - #[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)).
         - A speculative outline of some speculative outlines: [Outlines](<Outlines.md>)
-            - The DNP Sections
-            - The DNP Modules
-            - Basic conventions & processes
-                - Lowercase
+            - Sections
+                - Miscellaneous
+                    - Systems, Structure, and Content
+                        - Structure = How things are laid out 
+                        - Systems = How you engage within that structure
+                        - Content = The stuff that is created within the stucture through engagement with the systems
+                    - Structure
+                        - DNP Sections
+                        - DNP Modules
+                        - Collections
+                        - Directory
+                        - Glossary
+                        - Pages
+                        - Knowledge Base
+                        - Productivity
+                    - Systems
+                        - Communication
+                            - Notification
+                        - Growing the Knowledge Base
+                            - Interplay between questions and ideas
+                                - Questions drive thought, expression, and research if necessary.
+                                - Documented expression drives further questions. 
+                        - Productivity (Progressive achievement of the group's mission)
+                            - What is the mission? 
+                            - Is there a desired product/output? What is it?
+                            - What does the work look like?
+                            - Defining projects
+                            - Tracking opportunities
+                            - Making speculative outlines
+                - Getting Started in a Collaborative Graph
+                    - The components
+                    - Basic conventions
+                    - Seeding the graph
+                        - With essential structure and systems, to allow the team to jump into the content. (The reason for collaboration)
+                    - Decide how you will communicate
+                    - Where to write
+                - Advice & Tips
+                    - Keep as much communication IN the graph as possible to facilitate the development of your shared knowledge base. 
+                        - Communication conducted in Roam leaves a path that can be followed by others.
+                    - Document questions and ideas
+                    - Have rules, but hold them loosely
+                    - 
+            - Topics
+                - The DNP Sections
+                - The DNP Modules
+                - Basic conventions & processes
+                    - Lowercase
+                    - DNP Sections
+                    - Notifications & communication
+                - The team directory
+                - The Notification System
+                - Where to Write
+                - The Community Knowledge Base
+                - Riding the Lightning
+                - Block references as a method of communication
+                - CSS as user reassurance on the use of the correct tag.
+                    - A method of passive enforcement of conventions
+                - The importance shared conventions
+                - Why Roam for teamwork?
+                - What can you accomplish as a team in Roam?
+                - Writing together in Roam?
+                - Community Roles
+                - "Seeding" a collaborative graph
+                - The Glossary
+                - Roam fundamentals
+                - Recommended readings and resources
+                - Using SmartBlocks and Templates
+                - Templates as a way to create consistent structure when it matters
+                - The "Not-populated" tag
+                - Word Counts to track updates, identify areas of deep thought, and incentivize user engagement.
+                - Status Indicators to present users' online status
+                - Using queries to manage notifications
+                - Tips & Tricks
+                    - Add a unique tag to your DNP Section to assist with queries
+                    - Use aliases to improve the readability of text.
+                    - Hide references in star aliases.
+                - Maintaining spacial awareness and clarity 
+                - Balancing chaos and order — cycles of divergence and convergence
+                - The role of synchronous communication
+                - The role of a supportive communication channel (Slack)
+                - Helpful SmartBlocks and templates
+                - Structuring your shared knowledge base
+            - Brainstorm 2:
+                - Why collaborate in Roam?
+                - How to set it up.
+                - How to momentum.
+                - Achieving goals.
+        - Extractions from [Kahlil Corazo](<Kahlil Corazo.md>)'s work on PM in Roam
+            - Structure:
+                - Domains
+                    - Overall
+                    - Scope
+                    - Schedule
+                    - Cost
+                    - Quality
+                    - Team
+                    - Communications
+                    - Risk
+                    - Procurement
+                    - Stakeholder
+                - Phases
+                    - Define
+                    - Plan
+                    - Act
+                    - Monitor
+            - Content:
+                - Integration
+                    - Create project charter
+                    - Create project management plan
+                    - Get project work done
+                    - Manage project knowledge
+                    - Change control
+                    - Close project or phase
+                - Scope
+                    - Plan scope management
+                    - Collect requirements
+                    - Create WBS
+                    - Define, validate, and monitor scope
+                - Schedule
+                    - Plan schedule management
+                    - Define and sequence activities
+                    - Estimate activity duration
+                    - Develop and monitor schedule 
+                - Cost
+                    - Plan cost management 
+                    - Estimate costs
+                    - Determine budget
+                    - Monitor costs
+                - Quality
+                    - Plan quality management 
+                    - Manage quality
+                    - Monitor quality
+                - Team
+                    - Plan team managementEstimate activity resources
+                    - Recruit, develop, and manage team
+                    - Monitor teamwork
+                - Communications
+                    - Plan communications management
+                    - Execute communications plan
+                    - Monitor communications effectiveness
+                - Risk
+                    - Plan risk management
+                    - Identify risks
+                    - Risk analysis
+                    - Plan risk responses
+                    - Implement risk responses
+                    - Monitor risks
+                - Procurement
+                    - Plan procurement management
+                    - Conduct procurements
+                    - Monitor procurements
+                - Stakeholder
+                    - Plan stakeholder engagement
+                    - Conduct stakeholder engagement
+                    - Monitor stakeholder engagement
+        - Structure, Process, Outcomes
+            - Components:
+                - Structure
+                    - Organizational — people, places, things
+                - Process
+                    - How we do things
+                - Outcomes
+                    - What we accomplish and create
+        - Roam Collective Structure & Process
+            - Structure ((What are the elements?))
+                - The Members
                 - DNP Sections
-                - Notifications & communication
-            - The team directory
-            - The Notification System
-            - Where to Write
-            - The Community Knowledge Base
-            - Riding the Lightning
-            - Block references as a method of communication
-            - CSS as user reassurance on the use of the correct tag.
-                - A method of passive enforcement of conventions
-            - The importance shared conventions
-            - Why Roam for teamwork?
-            - What can you accomplish as a team in Roam?
-            - Writing together in Roam?
-            - Community Roles
-            - "Seeding" a collaborative graph
-            - The Glossary
-            - Roam fundamentals
-            - Recommended readings and resources
-            - Using SmartBlocks and Templates
-            - Templates as a way to create consistent structure when it matters
-            - The "Not-populated" tag
-            - Word Counts to track updates, identify areas of deep thought, and incentivize user engagement.
-            - Status Indicators to present users' online status
-            - Using queries to manage notifications
-            - Tips & Tricks
-                - Add a unique tag to your DNP Section to assist with queries
-                - Use aliases to improve the readability of text.
-                - Hide references in star aliases.
-            - Maintaining spacial awareness and clarity 
-            - Balancing chaos and order — cycles of divergence and convergence
-            - The role of synchronous communication
-            - The role of a supportive communication channel (Slack)
-            - Helpful SmartBlocks and templates
-            - Structuring your shared knowledge base
-            - 
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+                - DNP Modules
+                - **Collections**
+                    - Roam Collective
+                        - Purpose
+                        - Mission
+                        - Vision
+                    - Productivity
+                        - Goals / Objectives
+                        - Projects
+                        - Tasks
+                    - Knowledge Base
+                        - Process Guides
+                        - Resources
+                        - Notes
+                    - Portfolio
+                        - Output artifacts
+                - The Productivity Dashboard
+                - The Knowledge Base
+                - CSS
+                - JS Extensions
+            - Process
+                - Purpose defining
+                - Goal setting
+                - Project management
+                - Knowledge development
+                - Day-to-day activities
+                    - Creating Your DNP Section
+                    - Posting in the Top-Section
+                        - Chat
+                        - The Main Feed
+                    - Logging changes to the graph in the Change Log
+                    - Commenting on blocks created by other members
+                - Publishing
+                - Teamwork
+                    - Communication
+                        - Notifications
+                    - Recruitment
+                    - Onboarding
+                    - User engagement 
+                    - Alignment of user activities 
+                    - Satisfaction of user goals
+                - External Communication
+        - [I](<I.md>) Merge #[Chat](<Chat.md>) and #[The Main Feed](<The Main Feed.md>).
+            - If wanting communication on a post, maybe tag with chat? (Could rename to "Request for Chat" for increased clarity.)
+    - #[GTD Zone](<GTD Zone.md>) 
+        - Goal: Refresh Prompts and FAQs
+            - [ ] Refresh the prompts page #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+                - #[Help Wanted](<Help Wanted.md>) — What prompts would you add? ((Tag suggested prompts with the "Prompts" tag to collect them in linked references))
+            - [ ] Refresh the FAQs #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+                - #[Help Wanted](<Help Wanted.md>) — What are some good FAQs to add? ((Tag suggested FAQs with the "Prompts" tag to collect them in linked references))
+    - #[Change Log](<Change Log.md>) 
+        1. Added some more color to the pages in the shortcuts sidebar — these colors can be later adjusted to match an eventual overall color strategy.
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
-        - [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on note mythology and categorization
+        - [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on note mythology and categorization #[Follow Up](<Follow Up.md>)
             - "Thinking on objectives and the relationship to mythology"
+        - [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) on [onboarding and meta-structure](((qe0xbFYul))) #[Follow Up](<Follow Up.md>)
     - [Conversation](<Conversation.md>) 
         1. Simple Replies
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence."
@@ -220,22 +418,82 @@
                     - Seems like Conor/Roam have used systems similar to what we have in place here. 
                     - I think our notification are better than "the dropzone"
                     - Interesting to hear that Conor views multiplayer as aberration haha
-        2. On riffing on other people's stuff
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol"
+                - hahaha
+            - [On reviews and maintainence](((b5_pXqQgk)))[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]), [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]).
+                - Right now, my thought is to think as if things everything is fleeting — making links to promote eventual resurfacing in the right contexts.
+                - While I love the idea of weekly/monthly reviews — I rarely have the discipline to actually follow through on them. 
+                    - (I just may not be the one to lead it off, though — I def see value in reviews, just don't have the bandwidth for a more disciplined approach quite yet.)
+                - Part of what I like about Roam is the ability to rely on things circulating back at the right time — a reliance on serendipity. 
+                - This requires both some detachment and some faith in the magic junkyard lol.
+                - I did some thinking on overall [structure and process](((W8X67wb_G))), and I think the next step is to start to build that out a bit to formalize it.
+                - Once we get over this hurdle (defining structure and process), then we likely enter the phase of **engaging with** those processes, primarily knowledge development, and productivity (working on projects and outputs).
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))"
+                - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+        2. On a RC Website [Bookmarks](<Bookmarks.md>) #[February 2021](<February 2021.md>)
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
+            - 
+        3. On riffing on other people's stuff
             - "22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?"
                 - Absolutely! Just take a block reference of the part that catches your attention, paste it into your section — and nest all of your thoughts on that idea and beyond [@[[Reddy2Go](<@[[Reddy2Go.md>)]]
-        3. On [GitHub](<GitHub.md>) minute budget
+        4. On [GitHub](<GitHub.md>) minute budget
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
-                - Where do I check my minutes usage? Can't seem to find. [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
-        4. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
+                - Where do I check my minutes usage? Can't seem to find. [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
+                - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**"
+                    - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] 
+                    - Image:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fed2fPTuVS7.png?alt=media&token=e606603a-aca2-45d3-b5e0-08aab80bdabe)
+        5. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))"
                 - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
                 - Yea, I have a feeling this is quite applicable. Gonna think on this. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
-        5. 
+        6. Thoughts on [this](((bUlmW8JmS)))? [*]([Charles Farr](<Charles Farr.md>)) — See [example](((XwG-Noysg)))
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - #[Experiments](<Experiments.md>) Discover pattern on indentation usage
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  {{or:😴 offline, back tomorrow | 🤯 Information overload | 🟠Away | 🟢Online}}
+    - [Scratchpad](<Scratchpad.md>) 
+        - Have been gone for a couple of days (meetings and conference!)
+            - Reflecting on getting up to speed
+                - I started with messages unread/CCed
+                - Next went through main feed
+                    - Oh no - missing for Feb 5th and Feb 6th
+                    - Still need to finish catching up on Feb 6th
+            - Really like Charles' structured feedback on [onboarding](((qe0xbFYul)))
+            - What is the process of project creation going to look like?
+                - Will tag the above as a question if it's still in my mind 
+                - Thought summary of maturity of notes was interesting
+                - How is the community deciding where to spend energy?
+        - On Weekly Review
+            - What became of it?  Is [this](((8_3jbANCb))) the last thread from Feb 4th?
+        - On BToner's [structure and process](((W8X67wb_G)))
+            - Worth thinking through time dimension across different process activities - as that can help think through whether/how diff steps in the process help with convergence vs. divergence 
+                - e.g., when is purpose defined vs. revisited?  what about project creation vs. review?
+        - Reading Mat McGann's [Multiplayer RoamBrain article](https://www.roambrain.com/nine-things-ive-learnt-from-running-my-distributed-startup-in-a-multiplayer-roam/) 
+            - Key points of divergence
+                - Recommends "context first" approach based on building out pages, with daily notes references used to provide overview of output
+                    - > The number one priority for teamwork is whether someone else can utilise your knowledge without having to communicate with you
+            - Written down once - work context has more clarity on what should drive source of truth
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - BToner on architects vs gardeners 
+            - "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))." [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) 
+                - Wonder what informs that hypothesis for you  
+                - My anecdotal evidence points to the opposite, with Roam the dream tool for architects, as it allows creation and co-existence of multiple structures to achieve simultaneously.  
+        - On [output channel](((pjCpYAPW4)))
+            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] would be happy to pitch in! [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
+        - On [Broadcasting](((N6JYOLMZE))) to the Graph/Group
+            - Agree with the need!  Still catching up on what I've missed in the last couple of days, so earmarking this to come back later once I've understood how it's been implemented 
+    - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---

@@ -410,7 +410,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - #Conversation #not_populated
     - #Feedback  #not_populated
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - #[[[[project management]] in Roam]] #[[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]
             - #[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal

@@ -9,7 +9,7 @@
                 - Process [here](((5CxAQCSjk)))
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
-        - This is to indicate "**1000 upvotes**" from [[cc:[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
+        - This is to indicate "**1000 upvotes**" from [[~[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - #Chat ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]
     - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
@@ -193,8 +193,8 @@ I think I need to go through the whole process to make sure I internalise it.
     - #Bookmarks
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}}
-    - #Scratchpad 
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]])  
+    #Scratchpad 
         - 🛠 IN PROGRESS - RETURN LATER
             - #[[Fleeting Notes]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
@@ -267,12 +267,12 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "#Q Should minor questions of clarifications also be tagged?  "
             - Output / memorialization
                 - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #[[GTD Zone]]
+    #Questions ((about the graph, or directed towards someone)) #not_populated
+    #[[GTD Zone]]
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
-    - #Conversation
+    #Conversation
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? 
                 - #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
@@ -295,9 +295,9 @@ I think I need to go through the whole process to make sure I internalise it.
         - On what gives abstraction power
             - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
-    - #Chat
+    #Chat
         - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    - #Meetings
+    #Meetings
         - "[[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] "
             - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
@@ -308,7 +308,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - [[[[Clubhouse]] conversation: Feb 02 2021]]
             - [[Brandon Toner]]
                 - #Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
+    #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
@@ -422,7 +422,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Conversation]]
-        - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[cc:[[Larissa de Lima]]]] #[[Experiments]]
+        - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[~[[Larissa de Lima]]]] #[[Experiments]]
         - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [[~[[Brandon Toner]]]]
         - Why not set up current [[Roam Games]] a little short term goal for practicing our system towards a 
         - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."

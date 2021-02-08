@@ -11,10 +11,13 @@
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
 - **[Queries](<Queries.md>):**
-    - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}}
+    - CCed
+        - {{[query](<query.md>): {and: [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
+    - Unread
+        - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
             - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
@@ -42,6 +45,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
+
+## [February 7th, 2021](<February 7th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

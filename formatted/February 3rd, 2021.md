@@ -514,7 +514,7 @@ These users would have far better outcomes if they simply operated at or slightl
             - [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] noted the value of [curation](<curation.md>) as a mechanism for synthesis
                 - https://twitter.com/calhistorian/status/1357033240507256832?s=20
                 - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
-                    - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [@[[Brandon Toner](<@[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for...
+                    - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [^[[Brandon Toner](<^[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for...
                 - #[Fleeting Notes](<Fleeting Notes.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight
         - Current gaps in onboarding & internal documentation #[Follow Up](<Follow Up.md>)
             - Philosophy of Roam Collective — mission statement, divergence → convergence → divergence, projects & goals
@@ -656,7 +656,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - #[Follow Up](<Follow Up.md>) "[x] [Rasmus Andersson](<Rasmus Andersson.md>)"
     - [Conversation](<Conversation.md>)
         - On graph visual organization, layout, and design
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] re: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
                 - Completely agree that the graph [Beau Hann](<Beau Hann.md>) pullled together for RBC3 looks incredibly clean — something to emulate.
                 - My belief is that any design revisions essentially fall into two buckets:
                     - 1) Updates to increase internal clarity of purpose
@@ -685,13 +685,13 @@ These users would have far better outcomes if they simply operated at or slightl
         - On graph instability
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)
         - Simple replies
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] "Love it! Gonna do this right away. How do I get those dash dividers?? [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]" I'm pretty sure you just create pages like below and then favorite them
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] "Love it! Gonna do this right away. How do I get those dash dividers?? [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]" I'm pretty sure you just create pages like below and then favorite them
                 - [––––––––––––––––––––––––––––––](<––––––––––––––––––––––––––––––.md>)
                 - [–––––––––––––––––––––––––––––––](<–––––––––––––––––––––––––––––––.md>)
                 - [––––––––––––––––––––––––––––––––](<––––––––––––––––––––––––––––––––.md>)
                 - [–––––––––––––––––––––––––––––––––](<–––––––––––––––––––––––––––––––––.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} 😴 offline, back tomorrow
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) 😴 offline, back tomorrow
     - [Scratchpad](<Scratchpad.md>) 
         - ""Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions**" 🛠 Categorizing questions: "
             - Continued building a directory of questions, as a first step on aggregating and prioritizing (for when we are ready for [convergence](<convergence.md>))
@@ -733,10 +733,10 @@ These users would have far better outcomes if they simply operated at or slightl
                 - What is PPV?
         - On [convergence](<convergence.md>) 
             - Support for [curation](<curation.md>) idea by CFarr
-                - "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [@[[Brandon Toner](<@[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for..."
+                - "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [^[[Brandon Toner](<^[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for..."
                     - I support this!! 
             - Support for Weekly Reviews idea by PRosso
-                - "[Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+                - "[Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
                     - Think it could be interesting to explore - what types of questions / template are you envisioning?
         - Reactions to ideas on making things easier for [new users](<new users.md>)
             - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members." + could also be relevant for this: "Table of Contents or Shortcuts to jump to frequently used parts."
@@ -790,7 +790,7 @@ These users would have far better outcomes if they simply operated at or slightl
             -  "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] I am so curious now."
                 - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
                     - "#[Fleeting Notes](<Fleeting Notes.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
-            - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
+            - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
                 - [~[[leekeifon](<~[[leekeifon.md>)]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
     - [Feedback](<Feedback.md>) 
         - Vote for the [change of main feed structure](((7hC24BFpU))).

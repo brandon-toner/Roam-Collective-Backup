@@ -1,6 +1,6 @@
 - Tags:: #Collections #[[DNP Section]]
 - Pinned Announcement
-    - #Announcements **READ THIS** (last updated [[January 30th, 2021]])
+    - #Announcements **READ THIS** (last updated [[January 30th, 2021]]) with 
         - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
             - Missing/misplaced blocks
             - Missing CSS
