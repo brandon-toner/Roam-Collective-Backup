@@ -117,7 +117,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] 
         - #Resources 
             - Interested in [[Mat McGann]]'s work on collaborative Roaming. 
@@ -458,8 +458,17 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
+    - #Conversation
+        - Simple Commentary
+            - I've found that the "collapse all a level X" feature has really lessened the [burden associated with a wall of content on a daily page](((zoEy3NHP4)))
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Bookmarks
+        - "A speculative outline of some speculative outlines: #Outlines"
+        - "Roam Collective Structure & Process"'
+        - "#I I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles."
+        - #[[Follow Up]] "Thinking on objectives and the relationship to mythology"
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Implement a [broadcast mechanism](((N6JYOLMZE))) within the graph
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]])  {{or:😴 offline, back tomorrow | 🤯 Information overload | 🟠Away | 🟢Online}}
     - #Scratchpad 

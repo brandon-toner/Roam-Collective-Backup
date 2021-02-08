@@ -134,6 +134,9 @@
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
 

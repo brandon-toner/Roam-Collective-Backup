@@ -117,7 +117,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
             - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 
@@ -458,8 +458,17 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - Simple Commentary
+            - I've found that the "collapse all a level X" feature has really lessened the [burden associated with a wall of content on a daily page](((zoEy3NHP4)))
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - "A speculative outline of some speculative outlines: [Outlines](<Outlines.md>)"
+        - "Roam Collective Structure & Process"'
+        - "[I](<I.md>) I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles."
+        - #[Follow Up](<Follow Up.md>) "Thinking on objectives and the relationship to mythology"
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Implement a [broadcast mechanism](((N6JYOLMZE))) within the graph
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  {{or:😴 offline, back tomorrow | 🤯 Information overload | 🟠Away | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
