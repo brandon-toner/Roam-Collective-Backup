@@ -3,14 +3,21 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. "For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]] 
+        - #Resources
+            - For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
+            - [[Robert Haisfield]] and [[Dhrumil Shah]] on [[onboarding]] #[[Roam Games]]
+                - [Twitter link](https://twitter.com/roberthaisfield/status/1358801982811590657?s=21)
+                - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
     - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] 
+        - Added [[roam/js/slack]]
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation #not_populated
@@ -28,4 +35,7 @@
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
-    - ---
+    - #Bookmarks
+        - #Tweet on divergent & convergent thinking from Conor + Deepu
+            - https://twitter.com/Conaw/status/1352840390286602241?s=20
+- ---

@@ -106,3 +106,6 @@ try{
 
 - {{{[roam/js](<../roam/js.md>)}
 
+## [roam/js/slack](<roam/js/slack.md>)
+- {{[roam/js](<../roam/js.md>)}
+

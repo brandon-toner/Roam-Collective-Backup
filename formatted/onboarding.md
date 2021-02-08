@@ -5,6 +5,9 @@
 
 - ""Ease of [onboarding](<onboarding.md>).
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Improved [onboarding](<onboarding.md>)
 

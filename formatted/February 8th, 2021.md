@@ -3,14 +3,21 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. "For anyone who uses [spaced repetition](<spaced repetition.md>), there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [Resources](<Resources.md>)
+            - For anyone who uses [spaced repetition](<spaced repetition.md>), there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
+            - [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>) #[Roam Games](<Roam Games.md>)
+                - [Twitter link](https://twitter.com/roberthaisfield/status/1358801982811590657?s=21)
+                - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        - Added [roam/js/slack](<roam/js/slack.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
@@ -28,4 +35,7 @@
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
-    - ---
+    - [Bookmarks](<Bookmarks.md>)
+        - [Tweet](<Tweet.md>) on divergent & convergent thinking from Conor + Deepu
+            - https://twitter.com/Conaw/status/1352840390286602241?s=20
+- ---

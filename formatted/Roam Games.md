@@ -26,6 +26,9 @@
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I think this is a good impulse, especially since the multiplayer [Roam Games](<Roam Games.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>) #[Roam Games](<Roam Games.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Create a hub for the [Roam Games](<Roam Games.md>)
 

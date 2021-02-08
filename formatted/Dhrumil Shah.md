@@ -8,3 +8,6 @@
 
 - #[My Daily Notes](<My Daily Notes.md>) [Dhrumil Shah](<Dhrumil Shah.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>)
+

@@ -19,6 +19,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>),
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- [Robert Haisfield](<Robert Haisfield.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Roam Tour](<Roam Tour.md>) with [Robert Haisfield](<Robert Haisfield.md>)
 
