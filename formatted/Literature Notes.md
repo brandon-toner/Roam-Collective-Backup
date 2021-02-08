@@ -39,6 +39,9 @@
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - #[Literature Notes](<Literature Notes.md>)
 
+## [The Hub](<The Hub.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[Literature Notes](<Literature Notes.md>)
 

@@ -1,0 +1,15 @@
+- Tags:: #Meta
+- ---
+- Questions
+    - #minimal {{[[query]]: {and: [[Q]]  {not: {or: [[query]]}}  }}}
+- Ideas
+- ---
+- Historical DNP
+- ---
+- Notes
+    - Fleeting Notes
+        - #min-con {{[[query]]: {and: [[Fleeting Notes]] {not: {or: [[query]] }}  }}}
+    - Literature Notes
+        - #minimal {{[[query]]: {and: [[Literature Notes]]  {not: {or: [[query]] [[not_populated]] }}  }}}
+    - Evergreen Notes
+        - #page-focus {{[[query]]: {and: [[Evergreen Notes]] {not: {or: [[query]] [[not_populated]] }}  }}}

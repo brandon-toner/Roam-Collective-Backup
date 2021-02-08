@@ -7,7 +7,7 @@
             - 
     - Areas:: #[[not_populated]] #Housekeeping
     - Project Status:: #Status/Active
-    - Due Date:: [[February 8th, 2021]] 
+    - Due Date:: 
     - Reminders:: #not_populated
     - Date Completed:: #[[Status/Not Completed]]
     - Notes:: #[[not_populated]]

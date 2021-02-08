@@ -466,6 +466,9 @@
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
+## [The Hub](<The Hub.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
+
 ## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 

@@ -37,6 +37,9 @@
 
 - Same template as EN, but with `[Seedlings](<Seedlings.md>)` instead of `#[Evergreen Notes](<Evergreen Notes.md>)`
 
+## [The Hub](<The Hub.md>)
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>)
+
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
 

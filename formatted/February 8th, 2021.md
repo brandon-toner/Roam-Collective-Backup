@@ -16,8 +16,16 @@
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
-
-# Backlinks
-## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
-- **[Due Date](<Due Date.md>):** [February 8th, 2021](<February 8th, 2021.md>)
-
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>)
+        - On processing ideas, questions, hypotheses, etc.
+            - Mirroring the need for note maturity is the need to easily identify how ideas, questions, and all other atomic knowledge units are being processed through the graph
+                - Major for each type:
+                    - 1) the final output
+                    - 2) the process
+                    - 3) the stages of development
+            - Processing status and maturity are not analogous, but they are tightly intertwined
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - ---

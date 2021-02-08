@@ -16,3 +16,16 @@
     - #Conversation #not_populated
     - #Feedback  #not_populated
 - ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
+    - #Scratchpad
+        - On processing ideas, questions, hypotheses, etc.
+            - Mirroring the need for note maturity is the need to easily identify how ideas, questions, and all other atomic knowledge units are being processed through the graph
+                - Major for each type:
+                    - 1) the final output
+                    - 2) the process
+                    - 3) the stages of development
+            - Processing status and maturity are not analogous, but they are tightly intertwined
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - ---

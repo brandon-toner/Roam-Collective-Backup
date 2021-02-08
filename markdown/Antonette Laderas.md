@@ -29,5 +29,3 @@
             - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}
         - **Todos:**
             - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[TODO]] {not: {or: [[query]] }}  }}}
-- SmartBlocks::
-    - 

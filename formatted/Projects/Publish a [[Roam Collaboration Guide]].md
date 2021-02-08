@@ -7,7 +7,7 @@
             - 
     - **[Areas](<../Areas.md>):** #[not_populated](<../not_populated.md>) [Housekeeping](<../Housekeeping.md>)
     - **[Project Status](<../Project Status.md>):** [Status](<../Status.md>)/Active
-    - **[Due Date](<../Due Date.md>):** [February 8th, 2021](<../February 8th, 2021.md>) 
+    - **[Due Date](<../Due Date.md>):** 
     - **[Reminders](<../Reminders.md>):** [not_populated](<../not_populated.md>)
     - **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
     - **[Notes](<../Notes.md>):** #[not_populated](<../not_populated.md>)

@@ -304,6 +304,9 @@
 ## [Stories](<Stories.md>)
 - **[Tags](<Tags.md>):**
 
+## [The Hub](<The Hub.md>)
+- **[Tags](<Tags.md>):**
+
 ## [The Main Feed](<The Main Feed.md>)
 - **[Tags](<Tags.md>):**
 
