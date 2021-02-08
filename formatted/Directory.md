@@ -3,6 +3,7 @@
     - [Akiff Premjee](<Akiff Premjee.md>)
     - [Alysson M. Costa](<Alysson M. Costa.md>)
     - [Andy Henson](<Andy Henson.md>)
+    - [Antonette Laderas](<Antonette Laderas.md>)
     - [Deepu Asok](<Deepu Asok.md>)
     - [Eneko Uruñuela](<Eneko Uruñuela.md>)
     - [Kyle Stratis](<Kyle Stratis.md>)

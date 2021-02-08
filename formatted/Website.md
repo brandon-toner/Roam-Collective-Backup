@@ -8,6 +8,10 @@
 - **[Twitter](<Twitter.md>):** [@alycosta](https://www.twitter.com/alycosta) 
         - **[Website](<Website.md>):**
 
+## [Antonette Laderas](<Antonette Laderas.md>)
+- **[Twitter](<Twitter.md>):** [@nettesblog](https://twitter.com/nettesblog)
+        - **[Website](<Website.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
         - **[Website](<Website.md>):**

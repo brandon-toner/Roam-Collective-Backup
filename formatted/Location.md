@@ -8,6 +8,10 @@
 - **[Website](<Website.md>):** https://blogs.unimelb.edu.au/alysson-costa/
         - **[Location](<Location.md>):**
 
+## [Antonette Laderas](<Antonette Laderas.md>)
+- **[Website](<Website.md>):** [Nette's Blog](https://antonetteladeras.substack.com/)
+        - **[Location](<Location.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - **[Location](<Location.md>):**

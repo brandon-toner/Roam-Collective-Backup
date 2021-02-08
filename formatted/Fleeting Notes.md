@@ -9,6 +9,9 @@
 ## [Announcements](<Announcements.md>)
 - Check out the #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [Antonette Laderas](<Antonette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
 

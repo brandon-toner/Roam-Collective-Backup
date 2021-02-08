@@ -14,6 +14,31 @@
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - [query](<query.md>)
 
+## [Antonette Laderas](<Antonette Laderas.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Antonette Laderas](<@[[Antonette Laderas.md>)]] {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Antonette Laderas](<cc:[[Antonette Laderas.md>)]] {not: [query](<query.md>)]
+
+- [min-con](<min-con.md>) {{[query](<query.md>):
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [bnt](<bnt.md>) {not: {or: [query](<query.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - {{[query](<query.md>):
 

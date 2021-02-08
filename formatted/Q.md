@@ -1,6 +1,9 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) [zettelkasten](<zettelkasten.md>)
 
 # Backlinks
+## [Antonette Laderas](<Antonette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Q](<Q.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Q](<Q.md>)
 

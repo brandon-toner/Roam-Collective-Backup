@@ -8,6 +8,10 @@
 - **[Work](<Work.md>):** [lecturer](<lecturer.md>) 
         - **[How to contact me](<How to contact me.md>):**
 
+## [Antonette Laderas](<Antonette Laderas.md>)
+- **[Birthday](<Birthday.md>):** [October 28th, 2021](<October 28th, 2021.md>) 
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Birthday](<Birthday.md>):** [September 5th, 2021](<September 5th, 2021.md>) 
         - **[How to contact me](<How to contact me.md>):**
