@@ -51,14 +51,14 @@
                             - 3) the stages of development within the process
             - While processing status and maturity are not analogous, they are tightly intertwined — general rule of thumb is as processing occurs, maturity increases
                 - Important to note that the process need not be linear, it can be circular as well...
-        - Scratch for now...
+        - Right now Roam Collective is a fantastic forum for divergence...
             - For the past two weeks or so, Roam Collective has been doing some high-quality [divergent](<divergent.md>) thinking — some of the nuggets strewn through earlier daily pages are **__really__** novel.
             - Earlier today I was thinking about what Roam Collective is at the moment and I think [forum](<forum.md>) may be the most appropriate word to describe what we have going on here. The graph is a place for open dialogue, thought, and debate for all to see and interact with.
             - But Roam Collective thus far is much more than a forum could ever be, thanks in large part to Roam's native capabilities, but also the conventions we've developed.
             - As I continue to work in the graph with everyone here, more and more I believe the conventions we're using are nearly a set of strong "primitives" that could enable a forum like experience in any graph.
                 - The communication seems more and more seamless...
                     - Threaded "**conversations**" around specific topics, strung together with block references, aliases, and the `[@](<@.md>)` convention.
-                    - **[Live "**chat**" in the top-level section, either using attributes `](<Live "**chat**" in the top-level section, either using attributes `.md>):**` or simple in-line monikers `**Charles:**`
+                    - **[Live "**chat**" in the top-level section, either using attributes `](<Live "**chat**" in the top-level section, either using attributes `.md>):**` or simple in-line monikers `Charles:`
                     - Distribution of information through "pinned" posts within the **announcements** sections
                 - Communication seems seamless!
             - The outcome is Roam Collective is currently a fantastic place for conversations, thinking, and the divergent conversations that accompany both.
@@ -66,7 +66,6 @@
             - Part of the reason why I believe that [convergence](<convergence.md>) is going to be much harder for us to crack is the variety of end-points. By end-points, I really mean outputs from a preceding phase of divergent thinking.
             - To better illustrate my point, let's look at a few examples of how the point of [convergence](<convergence.md>) differs based on our goals...
                 - ....
-        - 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
@@ -75,6 +74,14 @@
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
         - #[Follow Up](<Follow Up.md>) [Tweet](<Tweet.md>) on [asynchronous](<asynchronous.md>) [communication](<communication.md>) channels (specifically Slack)
             - https://twitter.com/david__booth/status/1345205618458517504?s=20
+    - [Meetings](<Meetings.md>)
+        - Clubhouse Session
+            - New primitive for Roam that is analogous to annotations
+            - AR in Roam — moving Roam into the real world
+            - [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] mentioned 12 Favorite Problems — Richard Feynman via Tiago Forte
+                - #[Follow Up](<Follow Up.md>) on [12 favorite problems](<12 favorite problems.md>)
+                - [Brandon Toner](<Brandon Toner.md>): "Applying that filter affects how you navigate the world"
+        - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Daily Log](<Daily Log.md>)
