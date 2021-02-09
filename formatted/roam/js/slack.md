@@ -11,7 +11,6 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
-- 
 
 # Backlinks
 ## [February 8th, 2021](<February 8th, 2021.md>)

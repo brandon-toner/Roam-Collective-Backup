@@ -113,7 +113,7 @@
 - #[[My Daily Notes]] [[Stefan Natter]] {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Daily Log]]
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-        - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~2+ hours. 
+        - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated

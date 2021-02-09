@@ -49,6 +49,11 @@
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- Part of the reason why I believe that [convergence](<convergence.md>)
+
+- To better illustrate my point, let's look at a few examples of how the point of [convergence](<convergence.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
 

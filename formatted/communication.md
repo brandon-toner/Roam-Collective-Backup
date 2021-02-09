@@ -13,6 +13,9 @@
 
 - When we’re talking face-to-face, we share much more states than pure words communication. AND, every shared state is the potential link to another topic, meaning that we have much more broader choices on topics, and therefore, much more possible for a [divergent](<divergent.md>) [communication](<communication.md>).
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- #[Follow Up](<Follow Up.md>) [Tweet](<Tweet.md>) on [asynchronous](<asynchronous.md>) [communication](<communication.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) What types of [communication](<communication.md>)
 

@@ -193,8 +193,8 @@
                 - :q [:find ?h :where [?p :node/title ?h] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "People"] [?tag :node/title "Tags"]]
             - Test 3 "Pages "Author"ed by a "Members""
                 - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
-        - #[Bug Reports](<Bug Reports.md>)
-            - Can't seem to [emoji react](<emoji react.md>) to blocks...
+        - #[Bug Reports-[[resolved](<Bug Reports-[[resolved.md>)]]
+            - Can't seem to [emoji react](<emoji react.md>) to blocks... #[Bug Reports-[[resolved](<Bug Reports-[[resolved.md>)]]
         - Reflections on [datalog](<datalog.md>) queries [Bookmarks](<Bookmarks.md>)
             - Possible to generate a report of "pages authored by graph members"
                 - **[Example](<Example.md>):**

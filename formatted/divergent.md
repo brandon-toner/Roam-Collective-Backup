@@ -6,6 +6,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - When we’re talking face-to-face, we share much more states than pure words communication. AND, every shared state is the potential link to another topic, meaning that we have much more broader choices on topics, and therefore, much more possible for a [divergent](<divergent.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- For the past two weeks or so, Roam Collective has been doing some high-quality [divergent](<divergent.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) How can a community leverage [serendipity](<serendipity.md>) (and serendipity [generators](<generators.md>)) to seed [divergent](<divergent.md>)
 

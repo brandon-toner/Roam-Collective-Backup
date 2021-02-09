@@ -5,8 +5,26 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
-    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #Chat ((A place to propose objects of discussion)) 
+        1. [emoji reactions]([[emoji react]]) seem no longer [broken](((9hY8K9SvB)))! 
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) 
+        - **Hey all, **
+            - and maybe especially [[@[[Brandon Toner]]]] and [[@[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
+            - ideally a short key-press could be assigned to make it a snap to flick the switch and change the hashtag
+            - NOTE I think one little thing that would be REALLY cool ... would be THIS:
+                - what if the trigger could be just to "hover" your mouse over the link and then press a key, say "s" for "switch", and you'd trigger the cycle?
+            - the Default is, that hovering the mouse and clicking "takes you TO" that link (it "jumps" there as a destination)
+            - how cool would it be if hover + , instead of click, a __keypress__ - could CHANGE the link and take it through a link cycle?
+            - what do you think [[@[[David Vargas]]]]? 
+                - is that (even) theoretically possible?
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+    - ---
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
     - #[[Scratchpad]] 
@@ -27,15 +45,63 @@
     - #Scratchpad
         - On processing ideas, questions, hypotheses, etc.
             - Mirroring the need for note maturity is the need to easily identify how ideas, questions, and all other atomic knowledge units are being processed through the graph
-                - Major for each type:
+                - Key components
                     - 1) the final output
-                    - 2) the process
-                    - 3) the stages of development
-            - Processing status and maturity are not analogous, but they are tightly intertwined
+                        - 2) the process to get to the final output
+                            - 3) the stages of development within the process
+            - While processing status and maturity are not analogous, they are tightly intertwined — general rule of thumb is as processing occurs, maturity increases
+                - Important to note that the process need not be linear, it can be circular as well...
+        - Scratch for now...
+            - For the past two weeks or so, Roam Collective has been doing some high-quality [[divergent]] thinking — some of the nuggets strewn through earlier daily pages are **__really__** novel.
+            - Earlier today I was thinking about what Roam Collective is at the moment and I think [[forum]] may be the most appropriate word to describe what we have going on here. The graph is a place for open dialogue, thought, and debate for all to see and interact with.
+            - But Roam Collective thus far is much more than a forum could ever be, thanks in large part to Roam's native capabilities, but also the conventions we've developed.
+            - As I continue to work in the graph with everyone here, more and more I believe the conventions we're using are nearly a set of strong "primitives" that could enable a forum like experience in any graph.
+                - The communication seems more and more seamless...
+                    - Threaded "**conversations**" around specific topics, strung together with block references, aliases, and the `[[@]]` convention.
+                    - Live "**chat**" in the top-level section, either using attributes `::` or simple in-line monikers `**Charles:**`
+                    - Distribution of information through "pinned" posts within the **announcements** sections
+                - Communication seems seamless!
+            - The outcome is Roam Collective is currently a fantastic place for conversations, thinking, and the divergent conversations that accompany both.
+            - Convergence is another story — a WIP story.
+            - Part of the reason why I believe that [[convergence]] is going to be much harder for us to crack is the variety of end-points. By end-points, I really mean outputs from a preceding phase of divergent thinking.
+            - To better illustrate my point, let's look at a few examples of how the point of [[convergence]] differs based on our goals...
+                - ....
+        - 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #Tweet on divergent & convergent thinking from Conor + Deepu
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
+        - #[[Follow Up]] #Tweet on [[asynchronous]] [[communication]] channels (specifically Slack)
+            - https://twitter.com/david__booth/status/1345205618458517504?s=20
+- ---
+- #[[My Daily Notes]] [[Stefan Natter]] {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Daily Log]]
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+        - Article: Tagging Is Broken by [[Tiago Forte]]
+            - URL:: https://fortelabs.co/blog/tagging-is-broken/
+            - > There is an axiom in the productivity world that goes something like this: “Tags are inherently superior to folders”.
+                - In existing note-taking systems (e.g. [[Evernote]]) the primary goal of tags is to create groups and collection of notes. It's different in [[Roam]], at least for me because tags (aka page references) are not just grouping things, they enhance the entire experience by contributing to the bigger picture. They enhance the graph and add valuable connections to it. This helps me navigate from node to node. To me, they have a different purpose and value in Roam, even though we use the same name for them. It's difficult to explain. :D
+            - > Your brain is great at recognition, pretty terrible at recall. It outperforms the fastest supercomputers on the former, and is outdone by a 1980’s solar calculator on the latter. 
+                - Tiago argues that managing tags is harder than one thinks. Even if you think you have a system that's well prepared and thought-through. Every time you create a note you need to decide where to put it, how to tag it. It requires energy to properly tag information in existing note-taking systems. And refactoring your tagging system becomes a cumbersome task.
+                - This is where I see [[Roam]]'s strength. Because the structure of my notes is bottom-up, it feels more natural to tag notes and build a system from them. Refactorings are not a necessity but can happen from time to time. The system itself remains the same.
+            - > The “limitation” of notes residing “only” in a single location is in fact a strength!
+                - Memory grandmaster strength is the skill to "offload" cognitive tasks onto their environment. One strategy is to imaging a room you are familiar with (e.g. children's room) and associate information with objects (e.g. your teddy bear, or chair, ...) in that room. By doing this it is easier for our brain to recall information because of the association. 
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]] #not_populated
+        - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
+    - #[[GTD Zone]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not_populated
+    - #Bookmarks #not_populated
+        - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---

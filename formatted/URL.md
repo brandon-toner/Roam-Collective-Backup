@@ -11,6 +11,10 @@
 - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
             - **[URL](<URL.md>):**
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- Article: Tagging Is Broken by [Tiago Forte](<Tiago Forte.md>)
+            - **[URL](<URL.md>):**
+
 ## [How to write good prompts](<How to write good prompts.md>)
 - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
     - **[URL](<URL.md>):**

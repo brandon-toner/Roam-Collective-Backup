@@ -11,4 +11,3 @@ if (!existing) {
   document.getElementsByTagName("head")[0].appendChild(extension);
 }
 ```
-- 
