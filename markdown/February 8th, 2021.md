@@ -129,7 +129,7 @@
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[[Scratchpad]] #not_populated
+    - #[[Scratchpad]]
         - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
     - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
@@ -138,6 +138,6 @@
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
     - #Feedback  #not_populated
-    - #Bookmarks #not_populated
+    - #Bookmarks
         - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---

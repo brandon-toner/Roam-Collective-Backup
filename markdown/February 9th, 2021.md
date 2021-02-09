@@ -4,6 +4,8 @@
     - Meetup Wednesday at 20:00GMT
         - To suggest agenda items, tag the block with `#Agenda` — [like this](((qt8oh69sN)))
         - Zoom link to be posted in Slack closer to the time. 
+            - https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
+You will have to wait for me ([[Peter Rosso]]) to let you in.
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
@@ -138,4 +140,19 @@
     - #Conversation
         - "Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):"
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]] #not_populated
+    - #[[GTD Zone]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        - [[@[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
+        - #Agenda I think I have an idea for the #RoamGames. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
+            - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
+            - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.
+    - #Feedback  #not_populated
+    - #Bookmarks #not_populated
 - ---

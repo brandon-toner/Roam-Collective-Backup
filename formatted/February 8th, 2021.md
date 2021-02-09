@@ -129,7 +129,7 @@
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=G_nOXbNetVQ}}
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
@@ -138,7 +138,7 @@
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
         - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---
 
