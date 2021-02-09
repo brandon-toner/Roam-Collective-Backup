@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Similar to the @Channel feature in [Slack](<Slack.md>).
 

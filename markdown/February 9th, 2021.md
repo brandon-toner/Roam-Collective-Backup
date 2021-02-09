@@ -7,11 +7,15 @@
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Brainstorm on one of the following:
+            - How graph onboarding and documentation could be improved to orient new visitors
+            - A set of questions that guide our explorations. Ref: [[12 Favorite Problems]]
+            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About [[Roam-Collective]]]])
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
     - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
+        - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[[Scratchpad]] 
@@ -93,6 +97,19 @@
             - {{[[TODO]]}} Create a draft of our "[[12 Favorite Problems]]" (A small collection of [[zettel questions]]) #Agenda #[[Week-06: 02-08-2021]]
             - {{[[TODO]]}} Review our meta-structure in [[About [[Roam-Collective]]]]  #[[Week-06: 02-08-2021]] #Agenda
             - {{[[TODO]]}} Discuss Slack-to-Roam #Agenda #[[Week-06: 02-08-2021]]
+        - #Q What are the elements of [[Beau Hann]]'s success in coordinating a group of 2500 Roam users through [[Books/How to Take Smart Notes]]?
+            - **Elements:**
+                - Energy & enthusiasm
+                - Clarity in what the group should be doing
+                - Simplicity in approach
+                - Daily videos and activities
+                - Guided writing sessions
+            - Comments::
+                - "Energy & enthusiasm"
+                    - Creates excitement & engagement
+                - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
+                    - #[[Fleeting Notes]] Simplicity and constraints are important to focus a group — especially a large group.
+                    - 
     - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
     - #[[The Zettelkasten]] 

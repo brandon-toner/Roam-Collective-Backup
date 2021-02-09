@@ -7,11 +7,15 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Brainstorm on one of the following:
+            - How graph onboarding and documentation could be improved to orient new visitors
+            - A set of questions that guide our explorations. Ref: [12 Favorite Problems](<12 Favorite Problems.md>)
+            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About [[Roam-Collective](<About [[Roam-Collective.md>)]])
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
+        - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -93,6 +97,19 @@
             - [ ] Create a draft of our "[12 Favorite Problems](<12 Favorite Problems.md>)" (A small collection of [zettel questions](<zettel questions.md>)) [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
             - [ ] Review our meta-structure in [About [[Roam-Collective](<About [[Roam-Collective.md>)]]  #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [Agenda](<Agenda.md>)
             - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+        - [Q](<Q.md>) What are the elements of [Beau Hann](<Beau Hann.md>)'s success in coordinating a group of 2500 Roam users through [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)?
+            - **Elements:**
+                - Energy & enthusiasm
+                - Clarity in what the group should be doing
+                - Simplicity in approach
+                - Daily videos and activities
+                - Guided writing sessions
+            - **[Comments](<Comments.md>):**
+                - "Energy & enthusiasm"
+                    - Creates excitement & engagement
+                - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Simplicity and constraints are important to focus a group — especially a large group.
+                    - 
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
