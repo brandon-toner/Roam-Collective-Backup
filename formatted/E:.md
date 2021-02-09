@@ -29,12 +29,24 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - Intermediary step before acquiring the `[E:](<E:.md>)`
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- Excellent question. I could make the case for either `[E:](<E:.md>)`
+
+- [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)`
+
+- [@[[Brandon Toner](<@[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Namespace: `[E:](<E:.md>)`
+
+- The `[E:](<E:.md>)`
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Once I am ready to develop it sooner, I will create an identical `[E:](<E:.md>)`
 
 - Note: I will add a block reference to the `[E:](<E:.md>)`
 
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Evergreen](<Evergreen.md>) {not: {or: [E:](<E:.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [E:](<E:.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Option A - `[E:](<E:.md>)`

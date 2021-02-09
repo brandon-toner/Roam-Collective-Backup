@@ -26,6 +26,6 @@
 - Depreciated Modules
     - #Chat
         - A place to launch chats (calls for input/comment) into the database
-    - #[[Open Questions]]
+    - #[[Questions]]
         - A place to collect open questions related to the domain being explored.
             - It may help to tag the domain the open questions are related to - this will assist with filtering and queries.

@@ -1,17 +1,23 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[Ideas](<Ideas.md>)
-
-## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[Ideas](<Ideas.md>)
+- Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[Ideas](<Ideas.md>)
+- ""Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).
 
-## [January 29th, 2021](<January 29th, 2021.md>)
-- [e.g.](<e.g..md>) Add references to an evergreen note.
-                - **[Ideas](<Ideas.md>):**
+- """#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>)
 
-- I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[Ideas](<Ideas.md>)
+## [January 30th, 2021](<January 30th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>) is the most efficient way for [ideas](<ideas.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>)
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).
+
+- ""#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>)
 

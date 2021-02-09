@@ -21,7 +21,7 @@
             1. Document [fleeting questions](<fleeting questions.md>) using `[Q](<Q.md>)`
             2. Review periodically, collecting ones that [resonate]([resonance](<resonance.md>)) or feel important to the direction of [research](<research.md>) and [development](<development.md>).
             3. Of the questions collected, promote some to page-status — making them easier to track, and creating a space for elaboration on the page contents.
-        - [Ideas](<Ideas.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
+        - [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
                 - Thoughts on [[[E:](<[[E:.md>) active vs passive resurfacing]]
                     - **["Next Steps](<"Next Steps.md>):**"
@@ -76,7 +76,7 @@
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Keifon on not rushing to make [evergreen notes](<evergreen notes.md>)
-            - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context."
+            - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context."
         - Peter on the dangers of too much alignment and the importance of [contrarians](<contrarians.md>).
             - "The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[contrarians](<contrarians.md>)". This can lead to [confirmation bias](<confirmation bias.md>), creation of echo chambers and in some extent cults and collectives 😂"
                 - [Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
@@ -297,9 +297,9 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     [Chat](<Chat.md>)
         - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    [Meetings](<Meetings.md>)
+    #[Meetings & Discussions](<Meetings & Discussions.md>)
         - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) "
-            - "#[Community Note](<Community Note.md>) Community Notes are an Extension of Evergreen Notes"
+            - "#[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
             - #[Follow Up](<Follow Up.md>) In progress...
                 - [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
-                    - "[Evergreen](<Evergreen.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+                    - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [maturity](<maturity.md>) scale for notes
                 - ## Maturity Levels
                     - Fleeting
@@ -334,7 +334,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - [Q](<Q.md>) How do you differentiate a collection and an outline?
                         - [Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
         - Background on the [zettelkasten](<zettelkasten.md>)
-            - [Evergreen](<Evergreen.md>) What is a Zettelkasten?
+            - [Evergreens](<Evergreens.md>) [Q](<Q.md>) What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
                     - #[Fleeting Notes](<Fleeting Notes.md>) A [zettelkasten](<zettelkasten.md>) is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [Nicolas Luhmann](<Nicolas Luhmann.md>), was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
@@ -378,7 +378,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - #[Follow Up](<Follow Up.md>) ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)""
         - **[#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table."
         - #[Follow Up](<Follow Up.md>) "[^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)""
-    - [Meetings](<Meetings.md>)
+    - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) 
             - On [zettelkasten](<zettelkasten.md>)
                 - Fleeting
@@ -397,7 +397,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[Community Note](<Community Note.md>) Community Notes are an Extension of Evergreen Notes
+            - #[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes
                 - #[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on...
     - #[Change Log](<Change Log.md>)
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -432,7 +432,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
             - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
             - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
-        - #[Ideas](<Ideas.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        - #[I](<I.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         - #[Fleeting Notes](<Fleeting Notes.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
             - **[Related](<Related.md>):** "[Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
         - #[Fleeting Notes](<Fleeting Notes.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
@@ -441,7 +441,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - {{[embed](<embed.md>): ((wfOtQk0aX))}}
         - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
         - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-        - "#[Community Note](<Community Note.md>) Community Notes are an Extension of Evergreen Notes"
+        - "#[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes"
         - "#[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on..."
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
         - {{[embed](<embed.md>): ((HmjblrRLi))}}

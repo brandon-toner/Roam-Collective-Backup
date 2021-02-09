@@ -6,9 +6,6 @@
 ## [DNP Modules](<DNP Modules.md>)
 - #[Bookmarks](<Bookmarks.md>)
 
-## [Evergreen Notes](<Evergreen Notes.md>)
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 
@@ -52,9 +49,12 @@
 
 - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
+## [evergreen notes](<evergreen notes.md>)
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>) [Bookmarks](<Bookmarks.md>)}
 
 ## [roam/css](<roam/css.md>)
-- `#[Bookmarks](<Bookmarks.md>)
+- #[Bookmarks](<Bookmarks.md>)
 

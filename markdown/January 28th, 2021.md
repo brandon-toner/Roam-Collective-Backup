@@ -20,7 +20,7 @@
         - WE BACK.
     - 11:10 -- Added experimental persona CSS examples for [[leekeifon]] 
         - {{[[embed]]: ((((EZzT3MAmv))))}}
-    -  20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #Conversations
+    -  20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #[[Meetings & Discussions]]
     - 22:11 — #[[Bug Reports]] more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress.
         - **Resolved after 30min**
 - ---
@@ -30,7 +30,7 @@
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FEqMGUb7Ry3.png?alt=media&token=2e6b76d5-8230-4007-8157-5f59b42b69b5)
             - Of these, #Plan is new to me. 
-                - #[[Open Questions]] How could [[Robert Haisfield]]'s "Plan" tag be used as a [convention]([[conventions]])? 
+                - #[[Q]] How could [[Robert Haisfield]]'s "Plan" tag be used as a [convention]([[conventions]])? 
         - #[[Roam Enhancement Requests]]
             - Addition of OR operators to the page and reference [[filtering]].
                 - Currently, it is limited to AND and NOT.
@@ -46,7 +46,7 @@
         - I just want [[one-way links]] so that I can do stuff like this without junking up the [[linked references]]: #[[Roam Enhancement Requests]]
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtR_b1B1DKj.png?alt=media&token=7596d4f8-1683-41a8-94d3-fe24d5c79542)
-        - " 20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #Conversations"
+        - " 20:19 — Brief [[Clubhouse]] conversation with [[Akiff Premjee]], [[Charles Farr]] & others. #[[Meetings & Discussions]]"
             - [[Akiff Premjee]]:
                 - Notifications
                 - Purpose and vision of [[Roam-Collective]]
@@ -60,7 +60,7 @@
                         - Related:: "#[[Fleeting Notes]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
                 - Potential of using [[SmartBlocks]] to curate a [[newsfeed]] at the top of the page each day... random blocks, etc.
         - Free Thoughts::
-            - #[[Open Questions]]
+            - #[[Questions]]
                 - What would be the role of [[live]] [[Roam-Collective]] sessions?
                 - What could we collectively work towards?
                 - Could a single Roam graph support sub-communities?
@@ -77,8 +77,8 @@
                     - Participation in meaningful work
                     - Friendship
                 - What if [[communities]] like [[Ship 30 for 30]] had a [[collaborative graph]] community? 
-            - Similar to [[Clubhouse]], it would be cool if there were external notifications for "Brandon is currently writing in [[Roam-Collective]]. #Vision #Ideas #Extensions
-                - #[[Open Questions]] How do I tag development ideas? 
+            - Similar to [[Clubhouse]], it would be cool if there were external notifications for "Brandon is currently writing in [[Roam-Collective]]. #Vision #I #Extensions
+                - #[[Q]] How do I tag development ideas? 
             - "Goals:: ((See block references for additional ideas.))"
                 - To [[empower]] Roam communities with the [[conventions]] and [[processes]] necessary to transcend [[meta]] discussion about the [[organization]] and [[structure]] of content — allowing them to focus on the [[content]] itself.
                     - [[The structure and the content.]]
@@ -134,7 +134,7 @@
             - Related:: 
                 - "#[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. "
                 - Learning through observation and participation. Active learning.
-        - #Ideas [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
+        - #I [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Promptstorming 
         - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
             - #[[Questions]] Why are [[handoffs]] in Roam challenging? 

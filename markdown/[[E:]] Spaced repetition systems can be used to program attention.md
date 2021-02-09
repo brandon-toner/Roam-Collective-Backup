@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]] #[[Reference Notes]] #[[Andy's Notes]] #[[spaced repetition]]
+- Tags:: #[[Evergreens]] #[[Reference Notes]] #[[Andy's Notes]] #[[spaced repetition]]
     - Date Created:: [[January 29th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]

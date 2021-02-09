@@ -64,5 +64,5 @@
 - #[Daily Log](<Daily Log.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Daily Log](<Daily Log.md>)
+- #[Daily Log](<Daily Log.md>)
 

@@ -7,7 +7,7 @@
 - **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Zettel Questions](<Zettel Questions.md>)
+- #[Zettel Questions](<Zettel Questions.md>)
 
 ## [zettelkasten](<zettelkasten.md>)
 - #[Zettel Questions](<Zettel Questions.md>)

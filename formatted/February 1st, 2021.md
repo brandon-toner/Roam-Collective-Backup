@@ -102,7 +102,7 @@
                         - Prolific, interconnected, cumulative — self-propelling.
         - #[Project Ideas](<Project Ideas.md>) Explore [Wikipedia](<Wikipedia.md>)'s [conventions](<conventions.md>) as inspiration for components to emulate for [RC](<RC.md>).
             - [Q](<Q.md>) What should the convention be for the use of [abbreviations](<abbreviations.md>)? [Conventions](<Conventions.md>)
-        - [Ideas](<Ideas.md>) a #[Reference Needed](<Reference Needed.md>) tag can be helpful for flagging and populating missing references. 
+        - [I](<I.md>) a #[Reference Needed](<Reference Needed.md>) tag can be helpful for flagging and populating missing references. 
             - ... but this might be satisfied by not_populated! 
         - #[Fleeting Notes](<Fleeting Notes.md>) [constraints](<constraints.md>) help to facilitate [convergence](<convergence.md>).
     - [Conversation](<Conversation.md>) 
@@ -117,12 +117,12 @@
                 - "When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note."
                     - Ah! Yes. Gotcha now. Great idea and great explanation. 100% want that.
                         - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
-                            - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. [Projects](<Projects.md>) [Ideas](<Ideas.md>)
+                            - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. [Projects](<Projects.md>) [I](<I.md>)
                                 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):** "Process:: [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)"
         - "[Q](<Q.md>) What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?"
             - Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.
-                - [Projects](<Projects.md>) [Ideas](<Ideas.md>) Build a productivity [dashboard](<dashboard.md>).
+                - [Projects](<Projects.md>) [I](<I.md>) Build a productivity [dashboard](<dashboard.md>).
         - Some thoughts on [[[E:](<[[E:.md>) Evergreen Note example 1]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [zettelkasten](<zettelkasten.md>)
             - **[Attributes could be improved for [querying](<querying.md>) by nesting them beneath a `Tags](<Attributes could be improved for [querying](<querying.md>) by nesting them beneath a `Tags.md>):**` block. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpnHw9Gjief.png?alt=media&token=2f636fa5-6549-44a7-b581-de4e3e119ebd)
@@ -289,7 +289,7 @@
                             - Which may make MORE sense for the namespace on claims to be `[C:](<C:.md>)` 
                                 - **[Pros](<Pros.md>):**
                                     - Differentiates the use of `#[Evergreen Notes](<Evergreen Notes.md>)` and `[E:](<E:.md>)`
-                                        - #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [Ideas](<Ideas.md>) [*]([assertions](<assertions.md>))
+                                        - #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
                                 - **[Cons](<Cons.md>):**
                                     - "C" is novel. Z and E are more common in the community...
                                         - So maybe [claims](<claims.md>) become [zettels](<zettels.md>).
@@ -422,7 +422,7 @@
                             - [min-con](<min-con.md>) {{[query](<query.md>): {and: [E:](<E:.md>) [resurfacing](<resurfacing.md>)}}}
                             - I changed the title for [[[E:](<[[E:.md>) Make evergreen notes as you write.]] to illustrate above...
                         - However, this same [query](((NrGcnTXDx))) can be accomplished using `[Evergreen Notes](<Evergreen Notes.md>)`, so perhaps a bit duplicative...
-                            - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)}}}
+                            - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)}}}
                     - "Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [[[E:](<[[E:.md>) Evergreen Note example 3]]. "
                         - This seems like a good happy medium!
         - On [[[How To](<[[How To.md>) Determine Goals for a Graph]] with PRosso + BToner
@@ -513,10 +513,10 @@
                     - So, the big question for me is do we really need definitions and concept pages like what you have with [[[E:](<[[E:.md>) alert fatigue]] right now?
                         - I don't know! However, in my head, I would likely organize it like this:
                             - An Evergreen
-                                - [Evergreen](<Evergreen.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
+                                - [Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
                             - A Collection — "C: Information Overload" (or some other higher level concept that alert fatigue rolls up under)
                         - I think my biggest qualm with a simply titled definition page is it gives you relatively little information right off the bat. It's functionally a fancy [alert fatigue](<alert fatigue.md>) page.
-                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "[Evergreen](<Evergreen.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
+                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "[Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
                                 - Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?
             - [ ] Convert definitions of page types into literature / evergreen / internal documentation...
         - On [internal-facing](<internal-facing.md>) versus [external-facing](<external-facing.md>) documentation with BToner + PRosso
@@ -593,7 +593,7 @@
                     - #[Fleeting Notes](<Fleeting Notes.md>) [conversation](<conversation.md>) designed for async communication should have clear [goals](<goals.md>).
             - [Related](<Related.md>) [*](((-sjmnGf_D))) [*](((0eWl7ORS7))) [*](((pCqXnE-QK)))
         - Concrete [need](((l1bAGu1Op))) for "#[Fleeting Notes](<Fleeting Notes.md>) public vs private ".
-        - #[Evergreen](<Evergreen.md>) chunk size
+        - #[Evergreens](<Evergreens.md>) chunk size
             - A cognitive concept that I learn from [Andy Matuschak](<Andy Matuschak.md>)
             - [Related](<Related.md>) [spaced repetition](<spaced repetition.md>)
     - #[Bookmarks](<Bookmarks.md>)
@@ -611,15 +611,15 @@
         - {{[embed](<embed.md>): ((((CY2GCSwsp))))}}
         - "What needs to be different in knowledge management and creation, if it is collaborative?"
         - "But these units of ideas exist at very different levels of abstraction.  "
-            - [Related](<Related.md>) "#[Evergreen](<Evergreen.md>) chunk size"
+            - [Related](<Related.md>) "#[Evergreens](<Evergreens.md>) chunk size"
         - Ways to provide [structure](<structure.md>)
             - {{[embed](<embed.md>): ((1SxJDY8Ks))}}
                 - "Hierarchies that provide an approximate sense of scope, and a guide for navigation"
                 - "Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions"
-                - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[Ideas](<Ideas.md>)
+                - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[I](<I.md>)
     - #[Conversation](<Conversation.md>)
         - Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
-            - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreen](<Evergreen.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context.
+            - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context.
                 - One [implication]([significance and implications](<significance and implications.md>)) of rush, is not enough [maturity](<maturity.md>).
                     - #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):** If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.
@@ -682,7 +682,7 @@
     - [Feedback](<Feedback.md>) 
         - Should there be a page with norms on using the DNP template?
             - I am personally confused as to when to use Questions vs. Conversation
-        - **["Open Questions](<"Open Questions.md>):** More big picture, related to the domain we're trying to navigate"
+        - **["Questions](<"Questions.md>):** More big picture, related to the domain we're trying to navigate"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
                 - Should there be some norm around memorializing key decisions on conventions?
                     - When I look at the change log for Questions, I find the decision but not the explanation

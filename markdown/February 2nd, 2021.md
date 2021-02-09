@@ -21,7 +21,7 @@
             1. Document [[fleeting questions]] using `#Q`
             2. Review periodically, collecting ones that [resonate]([[resonance]]) or feel important to the direction of [[research]] and [[development]].
             3. Of the questions collected, promote some to page-status — making them easier to track, and creating a space for elaboration on the page contents.
-        - #Ideas Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
+        - #I Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - Example::
                 - Thoughts on [[[[E:]] active vs passive resurfacing]]
                     - "Next Steps::"
@@ -76,7 +76,7 @@
     - #Promptstorming #not_populated
     - #Bookmarks
         - Keifon on not rushing to make [[evergreen notes]]
-            - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreen]] [[pages]], in [[collaboration]] context."
+            - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context."
         - Peter on the dangers of too much alignment and the importance of [[contrarians]].
             - "The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[[contrarians]]". This can lead to [[confirmation bias]], creation of echo chambers and in some extent cults and collectives 😂"
                 - #Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?
@@ -297,9 +297,9 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     #Chat
         - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
-    #Meetings
+    #[[Meetings & Discussions]]
         - "[[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] "
-            - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
+            - "#[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -316,7 +316,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Trying to tie together the collective's thoughts on [[maturity]]
             - #[[Follow Up]] In progress...
                 - [[[[E:]] Why build maturity into your knowledge management system?]]
-                    - "#Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+                    - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [[maturity]] scale for notes
                 - ## Maturity Levels
                     - Fleeting
@@ -334,7 +334,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - #Q How do you differentiate a collection and an outline?
                         - #Q How do collections and outlines support [[convergence]]?
         - Background on the [[zettelkasten]]
-            - #Evergreen What is a Zettelkasten?
+            - #Evergreens #Q What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
                     - #[[Fleeting Notes]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
@@ -378,7 +378,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors""
         - #[[Follow Up]] [[datalog]] "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table."
         - #[[Follow Up]] "[[^[[Charles Farr]]]] — Interested in your thoughts on Kahlil's latest stuff. "[[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources""
-    - #Meetings
+    - #[[Meetings & Discussions]]
         - [[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] 
             - On [[zettelkasten]]
                 - Fleeting
@@ -397,7 +397,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[[Community Note]] Community Notes are an Extension of Evergreen Notes
+            - #[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes
                 - #[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on...
     - #[[Change Log]]
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -432,7 +432,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - #[[Fleeting Notes]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
             - Related:: [[[[E:]] Evergreen note titles are like APIs]]
             - Related:: "#[[Fleeting Notes]] block-embed [[model]]"
-        - #[[Ideas]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
+        - #[[I]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
         - #[[Fleeting Notes]] Define composable local [[structure]] will enable predictable global [[structure]].
             - Related:: "#Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
         - #[[Fleeting Notes]] [[procedures]] are of loose couple [[structure]] between each step.
@@ -441,7 +441,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - {{[[embed]]: ((wfOtQk0aX))}}
         - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
         - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
-        - "#[[Community Note]] Community Notes are an Extension of Evergreen Notes"
+        - "#[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes"
         - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
         - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
         - {{[[embed]]: ((HmjblrRLi))}}

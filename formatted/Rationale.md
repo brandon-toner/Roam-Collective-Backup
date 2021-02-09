@@ -11,8 +11,12 @@
 2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
             - **[Rationale](<Rationale.md>):**
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- **[Decision](<Decision.md>):** Tentative "Q:"
+                        - **[Rationale](<Rationale.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- **[[Ideas](<Ideas.md>) It might be helpful to include a `Factors](<[Ideas](<Ideas.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
+- **[[I](<I.md>) It might be helpful to include a `Factors](<[I](<I.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
                 - **[Rationale](<Rationale.md>):**
 
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)

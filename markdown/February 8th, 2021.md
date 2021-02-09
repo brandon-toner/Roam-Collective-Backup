@@ -13,7 +13,7 @@
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) 
         - **Hey all, **
-            - and maybe especially [[@[[Brandon Toner]]]] and [[@[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
+            - and maybe especially [[~[[Brandon Toner]]]] and [[@[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
             - ideally a short key-press could be assigned to make it a snap to flick the switch and change the hashtag
             - NOTE I think one little thing that would be REALLY cool ... would be THIS:
                 - what if the trigger could be just to "hover" your mouse over the link and then press a key, say "s" for "switch", and you'd trigger the cycle?
@@ -21,12 +21,10 @@
             - how cool would it be if hover + , instead of click, a __keypress__ - could CHANGE the link and take it through a link cycle?
             - what do you think [[@[[David Vargas]]]]? 
                 - is that (even) theoretically possible?
-    - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
-    - ---
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
         - #Resources
             - For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
@@ -38,7 +36,32 @@
         - Added [[roam/js/slack]]
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Conversation 
+        1. [[roam/js/tag-cycle]] for changing notification states.[*]([[Matt Brockwell]])
+            - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
+                - The challenge I've run into is that currently the keyboard shortcut assignment is **global** (applied to ALL users), so with diversity of platform and browser, I've found it difficult to find keystrokes that work for everyone...
+                    - BUT definitely possible if the right keystroke can be identified.
+                - The second challenge is the fact that the keystroke would have to be USER-SPECIFIC as to not adjust the state of multiple notification tags at once... 
+                    - The hover workflow you describe would solve this problem is feasible! 
+            - LOVE the idea of having hover commands for this with the ability to remove/adjust tags without entering the block! This would be excellent for things like not-populated! 
+                - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
+        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([[@[[Charles Farr]]]])
+            - Excellent question. I could make the case for either `[[E:]]` or `[[Q:]]`...
+                - {{[[TODO]]}} [[Choice]]: Should `[[E:]]` or `[[Q:]]` be the namespace for page-status questions? ((((gU4AyicEw))))
+                    - Options:: 
+                        - E:
+                            - Pros::
+                                - Sometimes it feels natural to phrase an evergreen as a question? 
+                            - Cons::
+                                - Kinda want a clean distinction between questions and evergreens.
+                        - Q:
+                            - Pros::
+                                - Clear distinction between evergreen and questions
+                                    - Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
+                                    - Empowers a workflow that encourages tagging them with ease. 
+                    - Decision:: Tentative "Q:"
+                        - Rationale:: "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
+                    - Notes:: #not_populated
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
@@ -66,20 +89,26 @@
             - Part of the reason why I believe that [[convergence]] is going to be much harder for us to crack is the variety of end-points. By end-points, I really mean outputs from a preceding phase of divergent thinking.
             - To better illustrate my point, let's look at a few examples of how the point of [[convergence]] differs based on our goals...
                 - ....
+        - Updated conventions for notes types
+            - [[[[Roam-Collective]] Zettelkasten Conventions]]]]
+            - #[[Fleeting Notes]] Fleeting notes capture nascent ideas with potential to contribute to
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
+    - #Conversation
+        - [[@[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
+            - Candidate for change: [[[[E:]] Why build maturity into your knowledge management system?]]
+                - My original intention for this page was for it to be output focused 
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #Tweet on divergent & convergent thinking from Conor + Deepu
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
         - #[[Follow Up]] #Tweet on [[asynchronous]] [[communication]] channels (specifically Slack)
             - https://twitter.com/david__booth/status/1345205618458517504?s=20
-    - #Meetings
+    - #[[Meetings & Discussions]]
         - Clubhouse Session
             - New primitive for Roam that is analogous to annotations
             - AR in Roam — moving Roam into the real world
             - [[cc:[[Maggie Delano]]]] mentioned 12 Favorite Problems — Richard Feynman via Tiago Forte
-                - #[[Follow Up]] on [[12 favorite problems]]
+                - #[[Follow Up]] on [[12 Favorite Problems]]
                 - [[Brandon Toner]]: "Applying that filter affects how you navigate the world"
         - 
 - ---
@@ -99,7 +128,7 @@
     - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated
         - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
     - #[[GTD Zone]] #not_populated

@@ -15,9 +15,6 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
 
-## [Evergreen Notes](<Evergreen Notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -76,6 +73,10 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
@@ -89,6 +90,8 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
+
+- "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
@@ -157,6 +160,12 @@
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
 - "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [February 8th, 2021](<February 8th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
@@ -475,11 +484,14 @@
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [evergreen notes](<evergreen notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [leekeifon](<leekeifon.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [zettelkasten](<zettelkasten.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)

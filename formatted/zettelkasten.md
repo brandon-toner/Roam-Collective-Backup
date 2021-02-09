@@ -13,10 +13,10 @@
         - Notes:
             - #[Fleeting Notes](<Fleeting Notes.md>)
             - #[Literature Notes](<Literature Notes.md>)
-            - #[Evergreen Notes](<Evergreen Notes.md>)
+            - #[Evergreens](<Evergreens.md>)
             - #[Reference Notes](<Reference Notes.md>)
         - Questions:
-            - #[Open Questions](<Open Questions.md>)
+            - #[Q](<Q.md>)
             - #[Q](<Q.md>)
             - #[Zettel Questions](<Zettel Questions.md>)
     - **[Conversation](<Conversation.md>):**

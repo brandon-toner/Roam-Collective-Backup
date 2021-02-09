@@ -102,7 +102,7 @@
                         - Prolific, interconnected, cumulative — self-propelling.
         - #[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]].
             - #Q What should the convention be for the use of [[abbreviations]]? #Conventions
-        - #Ideas a #[[Reference Needed]] tag can be helpful for flagging and populating missing references. 
+        - #I a #[[Reference Needed]] tag can be helpful for flagging and populating missing references. 
             - ... but this might be satisfied by not_populated! 
         - #[[Fleeting Notes]] [[constraints]] help to facilitate [[convergence]].
     - #Conversation 
@@ -117,12 +117,12 @@
                 - "When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note."
                     - Ah! Yes. Gotcha now. Great idea and great explanation. 100% want that.
                         - {{[[TODO]]}} Develop evergreen notes on the purpose and potential of a (collaborative) [[zettelkasten]]. #[[February 2021]] #[[Help Wanted]]
-                            - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. #Projects #Ideas
+                            - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. #Projects #I
                                 - [[~[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - Related:: "Process:: #creativity #collaboration #[[creative projects]]"
         - "#Q What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?"
             - Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.
-                - #Projects #Ideas Build a productivity [[dashboard]].
+                - #Projects #I Build a productivity [[dashboard]].
         - Some thoughts on [[[[E:]] Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten
             - Attributes could be improved for [[querying]] by nesting them beneath a `Tags::` block. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpnHw9Gjief.png?alt=media&token=2f636fa5-6549-44a7-b581-de4e3e119ebd)
@@ -289,7 +289,7 @@
                             - Which may make MORE sense for the namespace on claims to be `[[C:]]` 
                                 - Pros::
                                     - Differentiates the use of `#[[Evergreen Notes]]` and `[[E:]]`
-                                        - #[[Fleeting Notes]] "All [[claims]] are [[evergreen notes]], but not all evergreen notes are claims" #Ideas [*]([[assertions]])
+                                        - #[[Fleeting Notes]] "All [[claims]] are [[evergreen notes]], but not all evergreen notes are claims" #I [*]([[assertions]])
                                 - Cons::
                                     - "C" is novel. Z and E are more common in the community...
                                         - So maybe [[claims]] become [[zettels]].
@@ -422,7 +422,7 @@
                             - #min-con {{[[query]]: {and: [[E:]] [[resurfacing]]}}}
                             - I changed the title for [[[[E:]] Make evergreen notes as you write.]] to illustrate above...
                         - However, this same [query](((NrGcnTXDx))) can be accomplished using `[[Evergreen Notes]]`, so perhaps a bit duplicative...
-                            - #min-con {{[[query]]: {and: [[Evergreen Notes]] [[resurfacing]]}}}
+                            - #min-con {{[[query]]: {and: [[Evergreens]] [[resurfacing]]}}}
                     - "Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[[[E:]] Evergreen Note example 3]]. "
                         - This seems like a good happy medium!
         - On [[[[How To]] Determine Goals for a Graph]] with PRosso + BToner
@@ -513,10 +513,10 @@
                     - So, the big question for me is do we really need definitions and concept pages like what you have with [[[[E:]] alert fatigue]] right now?
                         - I don't know! However, in my head, I would likely organize it like this:
                             - An Evergreen
-                                - #Evergreen Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
+                                - #Evergreens Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
                             - A Collection — "C: Information Overload" (or some other higher level concept that alert fatigue rolls up under)
                         - I think my biggest qualm with a simply titled definition page is it gives you relatively little information right off the bat. It's functionally a fancy [[alert fatigue]] page.
-                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "#Evergreen Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
+                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "#Evergreens Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
                                 - Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?
             - {{[[TODO]]}} Convert definitions of page types into literature / evergreen / internal documentation...
         - On [[internal-facing]] versus [[external-facing]] documentation with BToner + PRosso
@@ -593,7 +593,7 @@
                     - #[[Fleeting Notes]] [[conversation]] designed for async communication should have clear [[goals]].
             - [[Related]] [*](((-sjmnGf_D))) [*](((0eWl7ORS7))) [*](((pCqXnE-QK)))
         - Concrete [need](((l1bAGu1Op))) for "#[[Fleeting Notes]] public vs private ".
-        - #[[Evergreen]] chunk size
+        - #[[Evergreens]] chunk size
             - A cognitive concept that I learn from [[Andy Matuschak]]
             - [[Related]] [[spaced repetition]]
     - #[[Bookmarks]]
@@ -611,15 +611,15 @@
         - {{[[embed]]: ((((CY2GCSwsp))))}}
         - "What needs to be different in knowledge management and creation, if it is collaborative?"
         - "But these units of ideas exist at very different levels of abstraction.  "
-            - [[Related]] "#[[Evergreen]] chunk size"
+            - [[Related]] "#[[Evergreens]] chunk size"
         - Ways to provide [[structure]]
             - {{[[embed]]: ((1SxJDY8Ks))}}
                 - "Hierarchies that provide an approximate sense of scope, and a guide for navigation"
                 - "Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions"
-                - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[[Ideas]]
+                - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[[I]]
     - #[[Conversation]]
         - Jamming on "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" [[~[[Brandon Toner]]]]
-            - argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreen]] [[pages]], in [[collaboration]] context.
+            - argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context.
                 - One [implication]([[significance and implications]]) of rush, is not enough [[maturity]].
                     - #[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].
                         - Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.
@@ -682,7 +682,7 @@
     - #Feedback 
         - Should there be a page with norms on using the DNP template?
             - I am personally confused as to when to use Questions vs. Conversation
-        - "Open Questions:: More big picture, related to the domain we're trying to navigate"
+        - "Questions:: More big picture, related to the domain we're trying to navigate"
             - [[~[[Brandon Toner]]]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
                 - Should there be some norm around memorializing key decisions on conventions?
                     - When I look at the change log for Questions, I find the decision but not the explanation

@@ -1,0 +1,12 @@
+- Tags:: #Seedlings
+    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Created by:: #not_populated
+    - Author:: #not_populated
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not_populated ((Plans for future elaboration or development))
+    - Contents:: 
+        - Saying/Expression.
+        - Often used in relation to ideas or content getting lost or missing the processing filters and systems.
+        - Often referenced and relevant to work within a collaborative graph.

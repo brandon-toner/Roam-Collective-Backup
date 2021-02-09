@@ -60,6 +60,9 @@
 
 - #[Scratchpad](<Scratchpad.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
@@ -99,5 +102,5 @@
 - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Scratchpad](<Scratchpad.md>)
+- #[Scratchpad](<Scratchpad.md>)
 

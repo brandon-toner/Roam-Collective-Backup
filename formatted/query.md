@@ -107,6 +107,11 @@
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - "{{[query](<query.md>):
 
+## [I](<I.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [I](<I.md>)  {not: {or: [query](<query.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - {{[query](<query.md>):
 
@@ -206,7 +211,7 @@
 
 - [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) {not: {or: [query](<query.md>)
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [query](<query.md>)
 
 ## [Winston Teng](<Winston Teng.md>)
 - {{[query](<query.md>):

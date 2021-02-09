@@ -11,7 +11,7 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph](<collaborative graph.md>)
 
-- #[Open Questions](<Open Questions.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>)
+- #[Q](<Q.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>)
 

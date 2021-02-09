@@ -1,2 +1,2 @@
 - Tags:: [[Templates]]
-- ".rc3CH — Choice AoT #42SmartBlock #roam/templates"
+- ".rc3CH — Choice AoT #roam/templates"

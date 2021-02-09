@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]] #[[Rules of Thumb]] #Principles
+- Tags:: #[[Evergreens]] #[[Rules of Thumb]] #Principles
     - Date Created:: [[January 31st, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]

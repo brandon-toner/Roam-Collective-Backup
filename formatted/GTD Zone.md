@@ -79,6 +79,11 @@
 
 - #[GTD Zone](<GTD Zone.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[GTD Zone](<GTD Zone.md>)
+
+- #[GTD Zone](<GTD Zone.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
@@ -127,5 +132,5 @@
 - SmartBlocks for engaging with content within the [GTD Zone](<GTD Zone.md>)
 
 ## [roam/css](<roam/css.md>)
-#[GTD Zone](<GTD Zone.md>)
+- #[GTD Zone](<GTD Zone.md>)
 

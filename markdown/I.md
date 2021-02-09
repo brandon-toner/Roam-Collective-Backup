@@ -1,1 +1,4 @@
 - Tags:: #Collections #Status/Experimental #Conventions
+- ---
+- `#I` Query
+    - #minimal {{[[query]]: {and: [[I]]  {not: {or: [[query]] }}  }}}

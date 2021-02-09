@@ -4,12 +4,6 @@
 ## [Conventions](<Conventions.md>)
 - Discussion ABOUT conventions. Use this when discussion conventions. Use `[Conventions](<Conventions.md>)`
 
-## [Evergreen Notes](<Evergreen Notes.md>)
-- **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
-- **[Conventions](<Conventions.md>):**
-
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - As for [conventions]([Conventions](<Conventions.md>))
 
@@ -56,6 +50,12 @@
 - [Conventions](<Conventions.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
+
+## [evergreen notes](<evergreen notes.md>)
+- **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
+- **[Conventions](<Conventions.md>):**
+
 - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
 
 ## [page-status questions](<page-status questions.md>)

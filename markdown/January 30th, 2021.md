@@ -156,7 +156,7 @@
                 - Quotes from education and technology professors expressing an urgency for technology in English classrooms (Hook/Ethos) 
                     - #Examples #rhetoric #exordium #introduction #hook
                 - Of course, you probably should not include all of these types of appeals in the opening section of your argument—if you do, you may end up with a boring, overlong introduction that doesn’t function well as a hook. Instead, consider using some of these points as evidence later on. Ask yourself: What will be most important to my audience? What information will most likely result in the action I want to bring about? Think about which appeal will work best to gain the attention of your intended audience and start there. 
-        - [[[[Roam Collaborative Meetup]] No. 1]] #Meetings #Agenda
+        - [[[[Roam Collaborative Meetup]] No. 1]] #[[Meetings & Discussions]] #Agenda
             - Overview & Welcome
             - Gathering feedback and user experience
             - Review of core conventions 
@@ -184,7 +184,7 @@
                         - What determines when [[structure]] should be crystallized into [[law]] or [[conventions]]?
                             - "Crystallized" is intended to be [[held lightly]] here. 
                                 - But degree of crystallization is another interesting question. How firm should we hold [[structure]]? [*](((h4WlwD7N4))) #[[Q]] 
-                                    - #[[Open Questions]] How firm should we hold [[structure]]? #conventions
+                                    - #[[Questions]] How firm should we hold [[structure]]? #conventions
                                         - I believe we have a good balance going here. Lots of emergent conventions, with emphasis placed only on a core few. #Bookmarks
         - Testing [[David Vargas]] query
             - Test 1 
@@ -207,7 +207,7 @@
                     - It would also be useful for gathering various **counts**.
                         - No. of ENs written by group members, (by week? Month?)
                 - Based on the complexity of writing these queries, a [[datalog query builder]] would certainly be useful! #[[Development Requests]]
-                - #Ideas #Q Could this type of thing be used to define and build [[hierarchies]]? 
+                - #I #Q Could this type of thing be used to define and build [[hierarchies]]? 
                     - [[i.e.]] levels of [[abstractions]] that could help to group pages together based on common [[properties]] for various purposes:
                         - Building queries using sets of data
                             - Example::
@@ -220,7 +220,7 @@
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
         - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
-            - Section for [[collections]] under "Tag Styling "
+            - Section for [[collections]] under "Tag Styling #Status/Enabled"
     - #[[Change Log]] 
         - Added some CSS Tags
         - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.
@@ -299,8 +299,8 @@
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
                     - First, [[[[E:]] Start from abundance]].
-                - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #Ideas #onboarding #[[Quick Start Guide]]
-                - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #Ideas #collaboration
+                - "Embedded [[videos]] accompanying the written [[documentation]] and showing [[examples]] could be useful" [*](((nwqDQY2hP))) #I #onboarding #[[Quick Start Guide]]
+                - "I like the idea of [[Roam-a-thons]]." [*](((xFRHf05lH))) #I #collaboration
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
                 - hahaha, precisely what I'm currently doing. [[~[[Peter Rosso]]]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
@@ -396,21 +396,21 @@
                     - As I read (and generally move through life) I collect [[literature notes]] and [[fleeting notes]]
                         - At some point, an [[evergreen]] thought will precipitate out of these
                     - I will then define this evergreen thought quite simply in Roam at the block level
-                        - #Evergreen Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others
+                        - #Evergreens Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others
                         - I may add a block reference (or two) below it, but this is no where near fully developed
                     - Once I am ready to develop it sooner, I will create an identical `[[E:]]` page for the Evergreen
                         - [[[[E:]] Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others]]
                     - Then I will physically move the [Evergreen block](((Zcd1kPIXX))) into the Evergreen page, detail out the note, and add references and other supporting elements
                         - Note: I will add a block reference to the `[[E:]]` page and then use the "Replace With > Original > Bring Nested Children" — doing so ensure that I can easily see where I originally created the note (the earliest daily note page)
                     - How this implicitly determines the maturity of a now it it is easy to query for Evergreens that are now nested within an E page
-                        - #minimal {{[[query]]: {and: [[Evergreen]] {not: {or: [[E:]] [[roam/css]]}} }}}
+                        - #minimal {{[[query]]: {and: [[Evergreens]] {not: {or: [[E:]] [[roam/css]]}} }}}
                     - A bit convoluted, but it accomplishes a few things...
                         - Gives me the ability to search for an Evergreen using both `[[]]` and `(())` searches
                         - Implicitly defines maturity
                         - When building an outline, I always use Evergreen block references — I can easily pull in the context by using the "Apply Children" function
                 - I should probably just post a loom narrating this approach — maybe tomorrow...
                 - As an example I converted this Evergreen from Andy Matuschak into the format outlined above
-                    - "#Evergreen Prefer note titles with complete phrases to sharpen claims"
+                    - "#Evergreens Prefer note titles with complete phrases to sharpen claims"
                         - "When writing [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C), I’ve found that using complete phrases as note titles helps maintain concept-orientation ([Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). For example: [Educational objectives often subvert themselves](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J), [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97)."
                         - "These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body. If I write a note but struggle to summarize it in a sharp title, that’s often a sign that my thinking is muddy or that this note is about several topics (contra [Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)). In both cases, the solution is to break the ideas down and write about the bits I understand best first."
                         - "Questions also make good note titles because that position creates pressure to make the question get to the core of the matter. Some questions really are evergreen ([To what extent is exceptional ability heritable?](https://notes.andymatuschak.org/z6Ndn5nmxLWsrQQ3ZLHsxHsokGTycgo17XGYi)); others are more ephemeral creative prompts ([How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z57S2Fte6gAnnM1gCS2nHpH7NYAiXD8KeDfvZ)). The goal with the latter type of note is to eventually drop the question mark, refactoring it into declarative/imperative notes."

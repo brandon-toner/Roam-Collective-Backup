@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):** [February 3rd, 2021](<February 3rd, 2021.md>)
     - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
@@ -7,4 +7,4 @@
     - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
-    - "[Evergreen](<Evergreen.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+    - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."

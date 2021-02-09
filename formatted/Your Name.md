@@ -8,13 +8,7 @@
 - "Projects I'm involved with" `{{[query](<query.md>): {and: [Status/Active](<Status/Active.md>) [Your Name](<Your Name.md>)}
 
 ## [roam/css](<roam/css.md>)
-- [Reply-from](<Reply-from.md>) [Your Name](<Your Name.md>)
-
 - #[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)
 
-- #[Posted by](<Posted by.md>) [Your Name](<Your Name.md>)
-
 - `[Chat](<Chat.md>) [Your Name](<Your Name.md>)
-
-- [Help](<Help.md>) [Your Name](<Your Name.md>)
 

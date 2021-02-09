@@ -18,8 +18,8 @@
             - Use the #Tensions tag to flag areas of conflict without clear resolution.
         - #Observations
             - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
-                - #[[Open Questions]] How could we preserve the chat integrity as the blocks they reference change?
-        - #[[Open Questions]]
+                - #[[Q]] How could we preserve the chat integrity as the blocks they reference change?
+        - #Questions
             - How could we build a convention for "waiting for reply"? 
                 - [[i.e.]] you tag someone in a chat and it is still unread.
                 - May need a From:Brandon type page to include in a query
@@ -78,8 +78,8 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].
             - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
         - #[[Fleeting Notes]] Setting the [[conventions]] in a [[collaborative graph]] is both critical and difficult.
-            - #[[Open Questions]] Should community [[conventions]] be seeded or emergent within a [[collaborative graph]] community? 
-            - #[[Open Questions]] What [[conventions]] are helpful to [[converge]] group thinking towards intentional outputs? #convergence
+            - #[[Q]] Should community [[conventions]] be seeded or emergent within a [[collaborative graph]] community? 
+            - #[[Q]] What [[conventions]] are helpful to [[converge]] group thinking towards intentional outputs? #convergence
         - #[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. 
             - Learning through observation.
             - #[[Fleeting Notes]] Watching others use [[Roam]] affects your own writing habits and [[conventions]].
@@ -119,7 +119,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]
         - #Conventions relevant [[tags]] should be appended to any [[fleeting notes]] to promote effective [[convergence]]. #zettelkasten
-        - #Ideas A [[Roam highlighter]] extension might be a good way to bring [[highlights]] from articles into the graph #zettelkasten #resources #[[reference notes]]
+        - #I A [[Roam highlighter]] extension might be a good way to bring [[highlights]] from articles into the graph #zettelkasten #resources #[[reference notes]]
         - #[[Fleeting Notes]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]
         - Fleeting Notes from [[[[Roam Book Club]] II]] imported (in same format and on the same theme!)
             - #[[Fleeting Notes]] custom [[CSS]] is a helpful tool for encouraging user alignment with important [[conventions]]
@@ -239,7 +239,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - #Conversation
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
             - whoops will do in the future!
-        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" #Ideas
+        - "#Q With the new [[Roam API]], would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" #I
             - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
         - "#Questions How do I make a [[horizontal line]]? I know there is a way with hiccup, but I can't recall the syntax."
             - [[~]][[Brandon Toner]] Why do you want to use hiccup? use `---`
@@ -250,7 +250,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [[notifications]] of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [[queries]] that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [[Roam API]] for
                     - Need to do some further investigation into all the ideas brought but by [[David Bieber]] [here](((1NzXjSWfB)))
-    - #[[Open Questions]] ((about collaboration and beyond)) 
+    - #Questions ((about collaboration and beyond)) 
         - Very interested in the shared space between [[Roam]] and [newsletters]([[Newsletter]]). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
 - #[[Daily Log]]
     - 11:49 - Discussion about chat conventions 

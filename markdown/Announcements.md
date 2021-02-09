@@ -1,11 +1,6 @@
 - Tags:: #Collections #[[DNP Section]]
 - Pinned Announcement
-    - #Announcements **READ THIS** (last updated [[January 30th, 2021]]) with 
-        - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
-            - Missing/misplaced blocks
-            - Missing CSS
-            - Announcements section looks weird
-            - Unable to add blocks in some places
+    - **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
         - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
         - Objectives:: 
             - Create a [[Roam Collaboration Guide]]

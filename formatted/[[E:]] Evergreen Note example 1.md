@@ -1,4 +1,4 @@
-- [Evergreen](<Evergreen.md>) Evergreen Note example 1 ((this line would match the title))
+- [Evergreens](<Evergreens.md>) Evergreen Note example 1 ((this line would match the title))
     - In the immediate space below the [[[E:](<[[E:.md>) Evergreen note titles are like APIs]] title, you provide the context — easily accessible if needed
     - Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)` header tag
 - ---

@@ -1,1 +1,1 @@
-- Tags:: #[[Zettel Questions]] #[[Open Questions]] #seedlings #[[evergreen notes]] #zettelkasten
+- Tags:: #[[Zettel Questions]] #[[Q]] #seedlings #[[evergreen notes]] #zettelkasten

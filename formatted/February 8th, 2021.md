@@ -13,7 +13,7 @@
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - **Hey all, **
-            - and maybe especially [@[[Brandon Toner](<@[[Brandon Toner.md>)]] and [@[[Charles Farr](<@[[Charles Farr.md>)]], can we use [@[[David Vargas](<@[[David Vargas.md>)]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
+            - and maybe especially [~[[Brandon Toner](<~[[Brandon Toner.md>)]] and [@[[Charles Farr](<@[[Charles Farr.md>)]], can we use [@[[David Vargas](<@[[David Vargas.md>)]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
             - ideally a short key-press could be assigned to make it a snap to flick the switch and change the hashtag
             - NOTE I think one little thing that would be REALLY cool ... would be THIS:
                 - what if the trigger could be just to "hover" your mouse over the link and then press a key, say "s" for "switch", and you'd trigger the cycle?
@@ -21,12 +21,10 @@
             - how cool would it be if hover + , instead of click, a __keypress__ - could CHANGE the link and take it through a link cycle?
             - what do you think [@[[David Vargas](<@[[David Vargas.md>)]]? 
                 - is that (even) theoretically possible?
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-    - ---
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>)
             - For anyone who uses [spaced repetition](<spaced repetition.md>), there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
@@ -38,7 +36,32 @@
         - Added [roam/js/slack](<roam/js/slack.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. [roam/js/tag-cycle](<roam/js/tag-cycle.md>) for changing notification states.[*]([Matt Brockwell](<Matt Brockwell.md>))
+            - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
+                - The challenge I've run into is that currently the keyboard shortcut assignment is **global** (applied to ALL users), so with diversity of platform and browser, I've found it difficult to find keystrokes that work for everyone...
+                    - BUT definitely possible if the right keystroke can be identified.
+                - The second challenge is the fact that the keystroke would have to be USER-SPECIFIC as to not adjust the state of multiple notification tags at once... 
+                    - The hover workflow you describe would solve this problem is feasible! 
+            - LOVE the idea of having hover commands for this with the ability to remove/adjust tags without entering the block! This would be excellent for things like not-populated! 
+                - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
+        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`...
+                - [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
+                    - **[Options](<Options.md>):** 
+                        - E:
+                            - **[Pros](<Pros.md>):**
+                                - Sometimes it feels natural to phrase an evergreen as a question? 
+                            - **[Cons](<Cons.md>):**
+                                - Kinda want a clean distinction between questions and evergreens.
+                        - Q:
+                            - **[Pros](<Pros.md>):**
+                                - Clear distinction between evergreen and questions
+                                    - Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
+                                    - Empowers a workflow that encourages tagging them with ease. 
+                    - **[Decision](<Decision.md>):** Tentative "Q:"
+                        - **[Rationale](<Rationale.md>):** "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
+                    - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
@@ -66,20 +89,26 @@
             - Part of the reason why I believe that [convergence](<convergence.md>) is going to be much harder for us to crack is the variety of end-points. By end-points, I really mean outputs from a preceding phase of divergent thinking.
             - To better illustrate my point, let's look at a few examples of how the point of [convergence](<convergence.md>) differs based on our goals...
                 - ....
+        - Updated conventions for notes types
+            - [[[Roam-Collective](<[[Roam-Collective.md>) Zettelkasten Conventions]]]]
+            - #[Fleeting Notes](<Fleeting Notes.md>) Fleeting notes capture nascent ideas with potential to contribute to
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
+            - Candidate for change: [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
+                - My original intention for this page was for it to be output focused 
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - [Tweet](<Tweet.md>) on divergent & convergent thinking from Conor + Deepu
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
         - #[Follow Up](<Follow Up.md>) [Tweet](<Tweet.md>) on [asynchronous](<asynchronous.md>) [communication](<communication.md>) channels (specifically Slack)
             - https://twitter.com/david__booth/status/1345205618458517504?s=20
-    - [Meetings](<Meetings.md>)
+    - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - Clubhouse Session
             - New primitive for Roam that is analogous to annotations
             - AR in Roam — moving Roam into the real world
             - [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] mentioned 12 Favorite Problems — Richard Feynman via Tiago Forte
-                - #[Follow Up](<Follow Up.md>) on [12 favorite problems](<12 favorite problems.md>)
+                - #[Follow Up](<Follow Up.md>) on [12 Favorite Problems](<12 Favorite Problems.md>)
                 - [Brandon Toner](<Brandon Toner.md>): "Applying that filter affects how you navigate the world"
         - 
 - ---
@@ -99,7 +128,7 @@
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=G_nOXbNetVQ}}
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
@@ -112,3 +141,8 @@
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
         - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---
+
+# Backlinks
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>)
+

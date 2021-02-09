@@ -3,7 +3,7 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) it's easier to first collect and [map](<map.md>) known information before making new [assertions](<assertions.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [Ideas](<Ideas.md>) [*]([assertions](<assertions.md>))
+- #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).

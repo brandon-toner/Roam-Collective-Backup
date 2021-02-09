@@ -6,7 +6,7 @@
 - #[Daily Activities](<Daily Activities.md>)
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
-    - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))"
+    - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Questions](<Questions.md>))[*]([Roam Games](<Roam Games.md>))"
 - #[The Main Feed](<The Main Feed.md>)
     - 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>). - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) [Processes](<Processes.md>) 
     - **Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>) as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([Beyond the Basics](<Beyond the Basics.md>))
@@ -81,7 +81,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                     - As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. 
                         - In addition, in a [collaborative zettelkasten](<collaborative zettelkasten.md>) there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.
                 - #[Fleeting Notes](<Fleeting Notes.md>) In a [collaborative zettelkasten](<collaborative zettelkasten.md>) you could actually take [literature notes](<literature notes.md>) on [evergreen notes](<evergreen notes.md>) written my others.
-                - #[Open Questions](<Open Questions.md>)
+                - #[Questions](<Questions.md>)
                     - What is the dividing line between an [evergreen note]([evergreen notes](<evergreen notes.md>)) and an [article]([articles](<articles.md>))?
                         - I consider this as I add some of [Andy Matuschak](<Andy Matuschak.md>)'s notes to the EN library in the graph. I consider these ENs rather than articles. 
                         - My justification is that Andy's notes are [atomic](<atomic.md>). If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
@@ -105,31 +105,30 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [resurfacing](<resurfacing.md>) methods.
                 - #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
                     - **[Related](<Related.md>):** "How do you navigate the problem of "missed content"?"
-        - #[Open Questions](<Open Questions.md>) When does a question mature into a [zettel question]([zettel questions](<zettel questions.md>)).
+        - #[Q](<Q.md>) When does a question mature into a [zettel question]([zettel questions](<zettel questions.md>)).
             - Maturity = page creation with page template similar to that of [evergreen notes](<evergreen notes.md>).
-        - #[Open Questions](<Open Questions.md>)
-            - Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>)), to [steel-man](<steel-man.md>) the [argument](<argument.md>) or [claim](<claim.md>)? [Bookmarks](<Bookmarks.md>)
+        - [Q](<Q.md>) Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>)), to [steel-man](<steel-man.md>) the [argument](<argument.md>) or [claim](<claim.md>)? [Bookmarks](<Bookmarks.md>)
         - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
             - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1355186036884664323?s=21 
                 - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
-        - #[Wish List](<Wish List.md>) [Ideas](<Ideas.md>)
+        - #[Wish List](<Wish List.md>) [I](<I.md>)
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([i.e.](<i.e..md>) exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
             - [Conversation](<Conversation.md>)
                 - "members of the graph" [*](((dYIpKh0sF)))
                     - This would require [second-degree connections](<second-degree connections.md>). [i.e.](<i.e..md>) `[People](<People.md>)` who are also `[Members](<Members.md>)`
-                        - #[Open Questions](<Open Questions.md>) How could [second-degree connections](<second-degree connections.md>) be facilitated?
+                        - #[Q](<Q.md>) How could [second-degree connections](<second-degree connections.md>) be facilitated?
         - [Problems](<Problems.md>)
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
                 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
                     - **[Related](<Related.md>):** "I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)"
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - [Filtering]([filtering](<filtering.md>)) in [block references](<block references.md>)
-        - #[Open Questions](<Open Questions.md>)
+        - #[Questions](<Questions.md>)
             - How could users "**suggest edits**" to a page?
                 - [e.g.](<e.g..md>) Add references to an evergreen note.
-                - **[Ideas](<Ideas.md>):**
+                - **[I](<I.md>):**
                     - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. ([i.e.](<i.e..md>) tag them + `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`)
                     - Another option is to give all users permission to edit/add to all pages.
             - What should the [top section](((skozg-bg0))) be called officially? 
@@ -242,7 +241,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
                 - I think this may relate to the formation of [evergreen notes](<evergreen notes.md>). Yes?
             - "Good css is not enough, good application is a better way to embed the [conventions](<conventions.md>) that we suggested, take this idea as an [example](((UDqsAeKJg)))."
                 - [This](((UDqsAeKJg))) chat plugin idea is cool too! 
-            - In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. 
+            - In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. 
         - [Conventions](<Conventions.md>) to make [these](((HjC43lt9e))) work:
             - Append TODOs with a day or week tag to schedule them. ((Must be in the SAME BLOCK))
             - Append `#[Flagged](<Flagged.md>)` to appear in the Flagged report.
@@ -329,8 +328,8 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
                     - Emotion/story sharing event? maybe.
                     - web articles/twitter thread sharing, rather than a book, which has shorter feedback loop.
                         - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
-                - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[Ideas](<Ideas.md>)
-            - "In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. "
+                - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[I](<I.md>)
+            - "In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>) of these ideas through time. "
                 - Yeah, they’re pretty good [resurfacing](<resurfacing.md>) mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private.
             - OK well, about the idea public vs private, I just come up with another idea, which is used in my own database, that’s adding a tag like `#.concept` for a block that’s not yet been level-up to a page, but it could help the Roaman to get a better search for their own words in auto-completion list. A rather balancing way to control the complexity of a database.
             - "How might a [reputation system](<reputation system.md>)[*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [Roles](<Roles.md>), but I'm not sure the best approaches yet. "

@@ -44,7 +44,7 @@
         - ---
     - Mentions (BT)
     - BToner — Andy's Notes [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - **[Tags](<Tags.md>):** #[Evergreen Notes](<Evergreen Notes.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
+        - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
             - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
             - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
             - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
@@ -138,6 +138,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>):
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))

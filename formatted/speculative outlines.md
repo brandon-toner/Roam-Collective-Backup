@@ -17,3 +17,6 @@
 
 - [speculative outlines](<speculative outlines.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>)
+

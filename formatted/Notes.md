@@ -4,6 +4,14 @@
 - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
             - **[Notes](<Notes.md>):**
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- **[Rationale](<Rationale.md>):** "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
+                    - **[Notes](<Notes.md>):**
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- **[Decision](<Decision.md>):** "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
+                            - **[Notes](<Notes.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - "Projects I'm involved with" `{{[query](<query.md>): {and: [Status/Active](<Status/Active.md>) [Your Name](<Your Name.md>)}}}`
                 - **[Notes](<Notes.md>):**

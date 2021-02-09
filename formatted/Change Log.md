@@ -49,6 +49,9 @@
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check the #[Change Log](<Change Log.md>)
 
@@ -95,5 +98,5 @@
 ## [roam/css](<roam/css.md>)
 - ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)`
 
-- `#[Change Log](<Change Log.md>)
+- #[Change Log](<Change Log.md>)
 

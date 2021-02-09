@@ -43,7 +43,7 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Literature Notes](<Literature Notes.md>)
+- #[Literature Notes](<Literature Notes.md>)
 
 ## [zettelkasten](<zettelkasten.md>)
 - #[Literature Notes](<Literature Notes.md>)

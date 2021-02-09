@@ -1,0 +1,110 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #Announcements
+    - Meetup Wednesday at 20:00GMT
+        - To suggest agenda items, tag the block with `#Agenda` — [like this](((qt8oh69sN)))
+        - Zoom link to be posted in Slack closer to the time. 
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. "Meetup Wednesday at 20:00GMT"
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+    - #[[Scratchpad]] 
+        - Hopped on [[Clubhouse]] for "20 mins" stayed for 2 hours. [[February 8th, 2021]] 
+            - Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):
+                - Taxonomy of notes & related tags: [*]([[Convergence]])
+                    - Note Classes
+                        - Core knowledge-base / zettelkasten
+                            - Fleeting notes
+                            - Literature notes
+                            - Seedlings
+                            - Budding (plural? — thinking no)
+                            - Evergreens
+                                - Namespace: `[[E:]]`
+                            - Zettel Questions (name?)
+                                - Namespace: `[[Q:]]`[*](((_Wr78aOE-)))
+                        - Other
+                            - Q
+                            - I
+                    - How to use these notes
+                        - "Fleeting notes" — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
+                        - "Seedlings" — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
+                            - Populate with the [seedlings template](((anEZNe19K)))
+                                - DO THIS RIGHT AWAY when creating the page!
+                            - A note remains a seedling until *some* content is populated on the page. 
+                            - Seedlings can also be used at the __block-level__ to identify ideas that could/should develop into more crystallized ideas. Example: [here](((exoq3sS3y)))
+                        - "Budding (plural? — thinking no)" — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
+                            - The conversion of seedlings to budding is kinda feeling-based. You'll know when it's more developed than a seedling. Precision is not important, really.
+                            - Change the tag from `Seedlings` to `Evergreens` AND `Budding`
+                            - The `[[E:]]` namespace can now be placed on the note as well.
+                        - "Evergreens" — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
+                            - An evergreen note is never "done" but this is the "final" stage of maturity.
+                            - Further maturity is informally measured by use, references, commentary, depth of sources, etc.
+                            - These can be concepts, claims, principles, whatever. If it's a significant idea, it's an evergreen.
+                        - "Literature notes" — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
+                        - "Zettel Questions (name?)" — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
+                            - Compare with [[Richard Feynman]]'s [[12 Favorite Problems]].
+                            - Evolves from "Q"
+                            - Uses the "Namespace: `[[Q:]]`[*](((_Wr78aOE-)))"
+                        - "Q" — The fleeting notes of questions
+                        - "I" — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [[falling between the cracks]]
+                    - Other notes on maturity
+                        - Beyond EN status, maturity is based on use, sourcing, and community review. 
+                        - Community [[consensus]] will be VERY hard to obtain, and I'm not yet interested in formalizing [[ratification]] processes. 
+                        - First step is informal reviewing and basic commentary.
+                            - Maybe a "Reviewed by:" attribute.
+                                - User can then block-ref to their commentary on the note itself.
+                                    - {{[[TODO]]}} Model an example of "Reviewed By" #[[Week-06: 02-08-2021]]
+                    - Thoughts::
+                        - #I Maybe reserve the evergreen namespace for claim-based ideas. "True" evergreens.
+                        - #I Maybe add a `#Claims` or `#Concepts` tag to further differentiate evergreens.
+                        - {{[[TODO]]}} [[Choice]]: Where should commentary/feedback on an evergreen be documented? ((((UMrJIm3O_)))) #Q
+                            - Options:: 
+                                - A - Nested under the name in the "Reviewed By" section
+                                    - Pros:: #not_populated
+                                    - Cons:: 
+                                        - ^^Could get messy/distract from the content of the note^^
+                                - B - In the user's Scratchpad, with a block reference to their Reviewed By block.
+                                    - Pros:: 
+                                        - Tidy
+                                    - Cons:: 
+                                        - Maybe a bit unorthodox
+                                - C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section.
+                                    - Pros:: 
+                                        - Tidy
+                                    - Cons:: 
+                                        - Logical
+                                        - Might be a bit unintuitive
+                            - Status:: #not_populated
+                            - Decision:: "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
+                            - Notes:: #not_populated
+                    - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
+                        - Tips::
+                            - Create fleeting notes liberally, keep them claim-leaning.
+                            - Create seedlings liberally — calibrate to what an evergreen might be. 
+                                - Again, I've cast a wide-net on the definition of evergreen... so don't be too precious with making a seedling or evergreen. 
+                                    - I would LOVE to have the problem of having "too many" evergreen notes.  
+        - #Activities 
+            - {{[[TODO]]}} Create a draft of our "[[12 Favorite Problems]]" (A small collection of [[zettel questions]]) #Agenda #[[Week-06: 02-08-2021]]
+            - {{[[TODO]]}} Review our meta-structure in [[About [[Roam-Collective]]]]  #[[Week-06: 02-08-2021]] #Agenda
+            - {{[[TODO]]}} Discuss Slack-to-Roam #Agenda #[[Week-06: 02-08-2021]]
+    - #[[GTD Zone]] #not_populated
+    - #[[Change Log]] #not_populated
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] [[convergence]] can be accomplished as an [[asynchronous]] team activity through the use of [[speculative outlines]] 
+            - Process::
+                - Members brainstorm elements of outline.
+                - Outline draft is "ratified" or adopted (only as formal as necessary, often VERY informal)
+                - Members anchor ideas to elements of that outline
+                - Those ideas serve to form new outlines, further subdividing the original outline into fractal-ed outlines. 
+                    - **Compare to:** Book → Sections → Chapters → Paragraphs → Sentences #Seedlings ((Seedling = the concept of granularity expressed via a book structure))
+    - #Questions
+        - #Q At what point does it become beneficial to each write on our own pages, rather than the [[Daily Notes Page]]. (As is done with [[[[Roam Book Club]] III]] and other [collaborative graphs](((3LM8RNDv0))).)
+    - #Conversation #not_populated
+    - #Feedback  #not_populated
+- ---

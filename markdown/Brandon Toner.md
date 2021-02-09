@@ -44,7 +44,7 @@
         - ---
     - Mentions (BT)
     - BToner — Andy's Notes #42SmartBlock #roam/templates
-        - Tags:: #[[Evergreen Notes]] #[[Reference Notes]] #[[Andy's Notes]]
+        - Tags:: #[[Evergreens]] #[[Reference Notes]] #[[Andy's Notes]]
             - Date Created:: {{Today:42SmartBlock:.Today}}
             - Created by:: [[Brandon Toner]]
             - Author:: [[Andy Matuschak]]

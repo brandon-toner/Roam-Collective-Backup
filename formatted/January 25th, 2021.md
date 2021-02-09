@@ -115,7 +115,7 @@
             3. "Commenting on the contents of the graph [to_populate](<to_populate.md>)"
             4. "Giving [feedback](<feedback.md>) [to_populate](<to_populate.md>)"
         - [Becoming an Editor](<Becoming an Editor.md>) 
-    - #[Open Questions](<Open Questions.md>)
+    - #[Questions](<Questions.md>)
         1. How do you create an artifact from a collaborative Roam experience?
         2. Who does clean-up? Compilation? Editing?
         3. What roles exist? 
@@ -133,7 +133,7 @@
         10. [page naming](<page naming.md>) — singular or plural?
         11. "Zettle Questions" vs "Questions" vs "Open Questions"?
         12. How to tag ideas related to graph conventions and processes?
-    - #[Conversations and Meetings](<Conversations and Meetings.md>)
+    - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - **[Discussion](<Discussion.md>):** [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
             - [Kyle Stratis](<Kyle Stratis.md>)
                 - Community lab space
@@ -160,10 +160,10 @@
         1. #[Fleeting Notes](<Fleeting Notes.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph](<collaborative graph.md>). Non-intrusive commentary — the original context is preserved.
         2. #[Fleeting Notes](<Fleeting Notes.md>) Strong conventions within a [collaborative graph](<collaborative graph.md>) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
         3. #[Fleeting Notes](<Fleeting Notes.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
-        4. #[Open Questions](<Open Questions.md>) How can we prevent a collaborative graph from feeling overwhelming?
+        4. #[Questions](<Questions.md>) How can we prevent a collaborative graph from feeling overwhelming?
             - Maybe through strong onboarding? Clubhouse calls to address questions? Encouraging the use of the `[Questions](<Questions.md>)` to create dialogue about conventions.
         5. #[Fleeting Notes](<Fleeting Notes.md>) The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
-        6. [Ideas](<Ideas.md>) — Might change `[Comments](<Comments.md>)` to `[Commentary](<Commentary.md>)`... feels more clear that it's commentary on stuff within the graph. [Conventions](<Conventions.md>)
+        6. [I](<I.md>) — Might change `[Comments](<Comments.md>)` to `[Commentary](<Commentary.md>)`... feels more clear that it's commentary on stuff within the graph. [Conventions](<Conventions.md>)
     - [Promptstorming](<Promptstorming.md>)
         1. From the [Prompts](<Prompts.md>) page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
             - For book club:
@@ -207,7 +207,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
                 - Synchronous conversation (Clubhouse) and Slack can be used to iron out any points of contention.
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>) {{word-count}}
     - [RoamLab intro article](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
-    - #[Open Questions](<Open Questions.md>)
+    - #[Questions](<Questions.md>)
         - What is the ideal community size?
             - How does this change across community focuses?
             - How do technical limitations affect this?
@@ -236,7 +236,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
             - Questions
             - References / Resources
             - Writing inbox for ideas that are worthwhile to work on... Reading inbox for resources that are worthwhile to read and digest...
-    - #[Conversations and Meetings](<Conversations and Meetings.md>)
+    - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
             - [Kyle Stratis](<Kyle Stratis.md>)
                 - How to recreate an academic lab within a Roam Graph
@@ -251,7 +251,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
                     - [Comment](<Comment.md>) like a kaleidoscope 
             - [Brandon Toner](<Brandon Toner.md>)
                 - Synchronous serendipity
-    - #[Open Questions](<Open Questions.md>)
+    - #[Questions](<Questions.md>)
         - What does the ideal artifact for shared knowledge work look like?
             - How does the artifact design account for known and unknown future uses?
             - How does the timeframe for future use impact the final artifact?

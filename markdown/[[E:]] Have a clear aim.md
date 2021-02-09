@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]] #values, #purpose, #direction, #focus
+- Tags:: #[[Evergreens]] #values, #purpose, #direction, #focus
     - Date Created:: [[January 30th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]

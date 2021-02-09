@@ -39,6 +39,9 @@
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
@@ -74,5 +77,5 @@
 8. Answer the [Daily Activities](<Daily Activities.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Daily Activities](<Daily Activities.md>)
+- #[Daily Activities](<Daily Activities.md>)
 

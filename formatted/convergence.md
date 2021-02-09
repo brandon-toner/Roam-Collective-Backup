@@ -1,3 +1,6 @@
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Status](<Status.md>)/Experimental
+- ---
+- A tag to use to tag "acts of convergence" — These are valuable efforts to prevent from [falling between the cracks](<falling between the cracks.md>). Could also name "Acts of Convergence" haha 
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
@@ -53,6 +56,9 @@
 - Part of the reason why I believe that [convergence](<convergence.md>)
 
 - To better illustrate my point, let's look at a few examples of how the point of [convergence](<convergence.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))

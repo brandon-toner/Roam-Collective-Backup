@@ -97,7 +97,7 @@
                 - Yea, great idea -- though I have limited bandwidth until mid next week...
                 - I'll keep an eye on conversation if you want to keep riffing on it! By in large, I'm playing a long-term game with this project, but love the idea of [[sprints]]. Hopefully, I'll be able to carve out some time to keep up with it. But the beauty of the graph is based on the conventions, information should accumulate in a way that transcends time-alignment. 
         6. Keifon on verbatim notes
-            - "#[[Ideas]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]"
+            - "#[[I]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]"
                 - Yea, based on the block refs to original source, should usually be able to trace back informally. Not sure how to do that systematically though... besides keeping and eye on block refs?
         7. Keifon on async communication 
             - "#[[Q]] What’s the best practice for async communication? [[~[[Brandon Toner]]]]"
@@ -539,7 +539,7 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Examples of exercises
                         - [Weekly or monthly reviews](((27-7K-sVS)))
         - "[[[[E:]] Why build maturity into your knowledge management system?]]"
-            - "#Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+            - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
                 - "Why is maturity important?"
                     - ""#[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])""
                     - ""We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks""
@@ -613,7 +613,7 @@ These users would have far better outcomes if they simply operated at or slightl
                                 - ""In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. ""
                                     - """Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"""
                                 - ""#Q How does the [[seedlings]] concept fit in here?""
-                                    - ""Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).""
+                                    - ""Maybe the current expression of "#Evergreens Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).""
                                         - ""Replace tree with seedling emoji, same effect.""
                                     - ""Maybe all fleeting notes are seedlings?""
                                     - ""#Q Whats the difference between a seedling and a fleeting note?""
@@ -667,8 +667,8 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Rationalize down the number of tags we have a current (design has been divergent, time to converge a bit)
                     - Develop a visual language that has implied meaning
                         - For instance...
-                            - All section-level tags have a background (e.g., "`#Conversation")
-                            - All block-level tags are bolded and add a `:` at the end (e.g., formatting like "`#[[Q]]" like #Evergreen)
+                            - All section-level tags have a background (e.g., "#Conversation")
+                            - All block-level tags are bolded and add a `:` at the end (e.g., formatting like `#[[Q]] like #Evergreen)
                             - Aligning color palettes with specific tag groupings (e.g., all DNP modules tags are shades of blue while notes are shades green (spitballing here))
                     - Create some "dashboard" pages that aggregate specific tags (e.g., a layout that makes it easy to see the latest Questions, or Questions that have been answered, etc.)
                 - On "2) Packaging to enable easily access by external participants"

@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]]
+- Tags:: #[[Evergreens]]
     - Date Created:: [[January 27th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[David Perell]]

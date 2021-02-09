@@ -140,7 +140,7 @@ Monthly reviews could include a zoom catchup?
     - #[Help Wanted](<Help Wanted.md>)
         - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
     - #[Bookmarks](<Bookmarks.md>)
-        - "Left Sidebar - Highlight important pages [Status](<Status.md>)/Enabled"
+        - "Left Sidebar — Highlight important pages [Status](<Status.md>)/Enabled"
         - {{[embed](<embed.md>): ((((BrDNimG4F))))}}
         - "[Feature Request](<Feature Request.md>) I would kill for a way to filter out code blocks from search results"
         - {{[embed](<embed.md>): ((YT3Dy690T))}}

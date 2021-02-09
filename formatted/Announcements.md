@@ -1,11 +1,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - Pinned Announcement
-    - [Announcements](<Announcements.md>) **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) with 
-        - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
-            - Missing/misplaced blocks
-            - Missing CSS
-            - Announcements section looks weird
-            - Unable to add blocks in some places
+    - **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
         - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
         - **[Objectives](<Objectives.md>):** 
             - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
@@ -27,6 +22,9 @@
             - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 
 # Backlinks
+## [Announcements](<Announcements.md>)
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Announcements](<Announcements.md>)
 

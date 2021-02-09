@@ -44,7 +44,7 @@
 - Focusing our first sprint around the current [Roam Games](<Roam Games.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Open Questions](<Open Questions.md>))[*]([Roam Games](<Roam Games.md>))
+- "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Questions](<Questions.md>))[*]([Roam Games](<Roam Games.md>))
 
 - [Kahlil Corazo](<Kahlil Corazo.md>) is putting out some great tweet threads related to the [Roam Games](<Roam Games.md>).
 

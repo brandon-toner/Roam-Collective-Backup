@@ -69,5 +69,5 @@
 - **[Contributors](<Contributors.md>):** #[Help Wanted](<Help Wanted.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Help Wanted](<Help Wanted.md>)
+- #[Help Wanted](<Help Wanted.md>)
 

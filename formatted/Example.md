@@ -30,7 +30,7 @@
                         - **[Example](<Example.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- [Ideas](<Ideas.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
+- [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
@@ -142,8 +142,4 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 ## [complex page names](<complex page names.md>)
 - Page name with a nested page 
     - **[Example](<Example.md>):**
-
-## [roam/css](<roam/css.md>)
-- Notifications & Mentions:
-                    - **[Example](<Example.md>):**
 

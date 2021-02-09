@@ -2,7 +2,7 @@
     - **[Goals](<../Goals.md>):** Review, organize, and ultimately curate an overview of insights related to maturity of notes (and the relation to maturity of other artefact types — e.g., projects)
 - ---
 - Precipitation
-    - [Evergreen](<../Evergreen.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...
+    - [Evergreens](<../Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...
 - ---
 - Summary — {{word-count}}
     - What is the relationship between complexity and maturity?
@@ -119,7 +119,7 @@
                 - "In the future, as aspects of [epistemology](<../epistemology.md>) are integrated into the [zettelkasten](<../zettelkasten.md>), an attribute could be created that helps to filter notes by the method of arrival at the idea. "
                     - ""Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?""
                 - "[Q](<../Q.md>) How does the [seedlings](<../seedlings.md>) concept fit in here?"
-                    - "Maybe the current expression of "[Evergreen](<../Evergreen.md>) Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_)))."
+                    - "Maybe the current expression of "[Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_)))."
                         - "Replace tree with seedling emoji, same effect."
                     - "Maybe all fleeting notes are seedlings?"
                     - "[Q](<../Q.md>) Whats the difference between a seedling and a fleeting note?"

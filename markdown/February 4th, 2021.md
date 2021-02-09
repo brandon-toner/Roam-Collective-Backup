@@ -140,7 +140,7 @@ Monthly reviews could include a zoom catchup?
     - #[[Help Wanted]]
         - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
     - #[[Bookmarks]]
-        - "Left Sidebar - Highlight important pages #Status/Enabled"
+        - "Left Sidebar — Highlight important pages #Status/Enabled"
         - {{[[embed]]: ((((BrDNimG4F))))}}
         - "[[Feature Request]] I would kill for a way to filter out code blocks from search results"
         - {{[[embed]]: ((YT3Dy690T))}}

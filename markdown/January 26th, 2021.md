@@ -47,7 +47,7 @@
                         - #[[Fleeting Notes]] [[Start writing, and worry about optimizing structure later.]]
                     - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
         - #Questions If I [[filter]]-out some page links from a page ([[e.g.]] hiding "not-populated"), does that filter it out for everyone or just me?
-        - #[[Open Questions]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
+        - #[[Q]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
             - My goal would be to put blocks that I want input or commentary on in a commonly reviewed place (like Announcements) so that it increases the probability of being seen. 
             - Maybe another tag that gets pinned to the top? The `#Mainstage` or "requests for input" maybe? 
             - Using `#Highlights` is a possibility! 
@@ -66,7 +66,7 @@
             - [[Roam Tour]] with [[Robert Haisfield]] — [link](https://www.youtube.com/watch?v=KoddCmn3eL0)
         - [[Andy Henson]]'s [[Roam Fundamentals]]
         - [[Andy Matuschak]]'s "Andy's Working Notes"
-    - #[[Open Questions]]
+    - #Questions
         - How to import highlights and take [[literature notes]] in [[Roam-Collective]]?
             - {{[[DONE]]}} Build "resource" template... for articles/books/twitter threads etc. 
                 - Based on [[Readwise]] template.
@@ -93,12 +93,12 @@
             - Using SmartBlocks & templates to facilitate structure and effortlessly drive conventions
     - #Chat
         - Thoughts on this? [[~]][[Charles Farr]]
-            - "#[[Open Questions]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+            - "#[[Q]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
     - #Conversation
         - In [these](((PmZ_NjkFA))) [[fleeting notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
         - "Contributors:: #[[Help Wanted]]"
-            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... #Ideas
+            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... #I
         - "Riffing while in transit..." [[Charles Farr]]
             - Love this! Great use of the Scratchpad.
             - "foundations of knowledge"
@@ -205,7 +205,7 @@
                         - Y
                         - Z
         - #Q Is there a way to standardize the color format to indicate specific types of tags ([[e.g.]], meta vs personal vs administrative etc...)?
-    - #[[Open Questions]] ((about collaboration and beyond))
+    - #[[Questions]] ((about collaboration and beyond))
         - #Q What types of [[communication]] does a collective framework need to be able to handle?
             - "synchronous versus asynchronous"
             - "targeted versus broad"
@@ -252,7 +252,7 @@
             - Expands the function of both the `#[[Open Questions]]` and `#Questions` tags
             - Envision being able to use it with [[SmartBlocks]] and [[queries]]
         - Added new CSS from Maggie Delano to clean up queries
-            - Here: "Query Display Options"
+            - Here: "Query Display Options #Status/Enabled"
                 - `#minimal` — hides breadcrumbs and page reference
                 - `#min-con` — hides the breadcrumbs in a query
                 - `#min-title` — hides the page references

@@ -5,7 +5,7 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [E:](<E:.md>) [resurfacing](<resurfacing.md>)}
 
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) [resurfacing](<resurfacing.md>)}
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)}
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>))
@@ -22,11 +22,11 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [passive](<passive.md>) or "[just-in-time](<just-in-time.md>)" [resurfacing](<resurfacing.md>)
 
-- In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
+- In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
 
 - "Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
 
-- "In general, I think the [Ideas](<Ideas.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
+- "In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
 
 - Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
 

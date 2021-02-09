@@ -18,8 +18,8 @@
             - Use the [Tensions](<Tensions.md>) tag to flag areas of conflict without clear resolution.
         - [Observations](<Observations.md>)
             - Just noted that if you change a block that has been referenced, it can make the chat history less read-able. 
-                - #[Open Questions](<Open Questions.md>) How could we preserve the chat integrity as the blocks they reference change?
-        - #[Open Questions](<Open Questions.md>)
+                - #[Q](<Q.md>) How could we preserve the chat integrity as the blocks they reference change?
+        - [Questions](<Questions.md>)
             - How could we build a convention for "waiting for reply"? 
                 - [i.e.](<i.e..md>) you tag someone in a chat and it is still unread.
                 - May need a From:Brandon type page to include in a query
@@ -78,8 +78,8 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph](<collaborative graph.md>).
             - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>) to make use of. 
         - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph](<collaborative graph.md>) is both critical and difficult.
-            - #[Open Questions](<Open Questions.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>) community? 
-            - #[Open Questions](<Open Questions.md>) What [conventions](<conventions.md>) are helpful to [converge](<converge.md>) group thinking towards intentional outputs? [convergence](<convergence.md>)
+            - #[Q](<Q.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>) community? 
+            - #[Q](<Q.md>) What [conventions](<conventions.md>) are helpful to [converge](<converge.md>) group thinking towards intentional outputs? [convergence](<convergence.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). 
             - Learning through observation.
             - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>) affects your own writing habits and [conventions](<conventions.md>).
@@ -119,7 +119,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]
         - [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any [fleeting notes](<fleeting notes.md>) to promote effective [convergence](<convergence.md>). [zettelkasten](<zettelkasten.md>)
-        - [Ideas](<Ideas.md>) A [Roam highlighter](<Roam highlighter.md>) extension might be a good way to bring [highlights](<highlights.md>) from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>) #[reference notes](<reference notes.md>)
+        - [I](<I.md>) A [Roam highlighter](<Roam highlighter.md>) extension might be a good way to bring [highlights](<highlights.md>) from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>) #[reference notes](<reference notes.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. "Why use [inline code-blocks](<inline code-blocks.md>) to disable tags?" #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Fleeting Notes from [[[Roam Book Club](<[[Roam Book Club.md>) II]] imported (in same format and on the same theme!)
             - #[Fleeting Notes](<Fleeting Notes.md>) custom [CSS](<CSS.md>) is a helpful tool for encouraging user alignment with important [conventions](<conventions.md>)
@@ -239,7 +239,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - [Conversation](<Conversation.md>)
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)"
             - whoops will do in the future!
-        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" [Ideas](<Ideas.md>)
+        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" [I](<I.md>)
             - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
         - "[Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax."
             - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
@@ -250,7 +250,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [notifications](<notifications.md>) of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [queries](<queries.md>) that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [Roam API](<Roam API.md>) for
                     - Need to do some further investigation into all the ideas brought but by [David Bieber](<David Bieber.md>) [here](((1NzXjSWfB)))
-    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond)) 
+    - [Questions](<Questions.md>) ((about collaboration and beyond)) 
         - Very interested in the shared space between [Roam](<Roam.md>) and [newsletters]([Newsletter](<Newsletter.md>)). Could people subscribe to certain pages/topics on your roam graph and get a custom newsletter with only the sections that interest them?
 - #[Daily Log](<Daily Log.md>)
     - 11:49 - Discussion about chat conventions 

@@ -18,6 +18,10 @@
 - [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[[E:](<[[E:.md>) cycles of divergence and convergence]]) [order](<order.md>) [chaos](<chaos.md>)
             - **[Thoughts](<Thoughts.md>):**
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- [ ] Model an example of "Reviewed By" #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+                    - **[Thoughts](<Thoughts.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Allow for ease in generating [output](<output.md>).
             - **[Thoughts](<Thoughts.md>):**

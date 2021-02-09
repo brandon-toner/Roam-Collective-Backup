@@ -1,0 +1,110 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- [Announcements](<Announcements.md>)
+    - Meetup Wednesday at 20:00GMT
+        - To suggest agenda items, tag the block with `[Agenda](<Agenda.md>)` — [like this](((qt8oh69sN)))
+        - Zoom link to be posted in Slack closer to the time. 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. "Meetup Wednesday at 20:00GMT"
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
+            - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
+                - Taxonomy of notes & related tags: [*]([Convergence](<Convergence.md>))
+                    - Note Classes
+                        - Core knowledge-base / zettelkasten
+                            - Fleeting notes
+                            - Literature notes
+                            - Seedlings
+                            - Budding (plural? — thinking no)
+                            - Evergreens
+                                - Namespace: `[E:](<E:.md>)`
+                            - Zettel Questions (name?)
+                                - Namespace: `[Q:](<Q:.md>)`[*](((_Wr78aOE-)))
+                        - Other
+                            - Q
+                            - I
+                    - How to use these notes
+                        - "Fleeting notes" — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
+                        - "Seedlings" — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
+                            - Populate with the [seedlings template](((anEZNe19K)))
+                                - DO THIS RIGHT AWAY when creating the page!
+                            - A note remains a seedling until *some* content is populated on the page. 
+                            - Seedlings can also be used at the __block-level__ to identify ideas that could/should develop into more crystallized ideas. Example: [here](((exoq3sS3y)))
+                        - "Budding (plural? — thinking no)" — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
+                            - The conversion of seedlings to budding is kinda feeling-based. You'll know when it's more developed than a seedling. Precision is not important, really.
+                            - Change the tag from `Seedlings` to `Evergreens` AND `Budding`
+                            - The `[E:](<E:.md>)` namespace can now be placed on the note as well.
+                        - "Evergreens" — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
+                            - An evergreen note is never "done" but this is the "final" stage of maturity.
+                            - Further maturity is informally measured by use, references, commentary, depth of sources, etc.
+                            - These can be concepts, claims, principles, whatever. If it's a significant idea, it's an evergreen.
+                        - "Literature notes" — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
+                        - "Zettel Questions (name?)" — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
+                            - Compare with [Richard Feynman](<Richard Feynman.md>)'s [12 Favorite Problems](<12 Favorite Problems.md>).
+                            - Evolves from "Q"
+                            - Uses the "Namespace: `[Q:](<Q:.md>)`[*](((_Wr78aOE-)))"
+                        - "Q" — The fleeting notes of questions
+                        - "I" — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [falling between the cracks](<falling between the cracks.md>)
+                    - Other notes on maturity
+                        - Beyond EN status, maturity is based on use, sourcing, and community review. 
+                        - Community [consensus](<consensus.md>) will be VERY hard to obtain, and I'm not yet interested in formalizing [ratification](<ratification.md>) processes. 
+                        - First step is informal reviewing and basic commentary.
+                            - Maybe a "Reviewed by:" attribute.
+                                - User can then block-ref to their commentary on the note itself.
+                                    - [ ] Model an example of "Reviewed By" #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+                    - **[Thoughts](<Thoughts.md>):**
+                        - [I](<I.md>) Maybe reserve the evergreen namespace for claim-based ideas. "True" evergreens.
+                        - [I](<I.md>) Maybe add a `[Claims](<Claims.md>)` or `[Concepts](<Concepts.md>)` tag to further differentiate evergreens.
+                        - [ ] [Choice](<Choice.md>): Where should commentary/feedback on an evergreen be documented? ((((UMrJIm3O_)))) [Q](<Q.md>)
+                            - **[Options](<Options.md>):** 
+                                - A - Nested under the name in the "Reviewed By" section
+                                    - **[Pros](<Pros.md>):** [not_populated](<not_populated.md>)
+                                    - **[Cons](<Cons.md>):** 
+                                        - ^^Could get messy/distract from the content of the note^^
+                                - B - In the user's Scratchpad, with a block reference to their Reviewed By block.
+                                    - **[Pros](<Pros.md>):** 
+                                        - Tidy
+                                    - **[Cons](<Cons.md>):** 
+                                        - Maybe a bit unorthodox
+                                - C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section.
+                                    - **[Pros](<Pros.md>):** 
+                                        - Tidy
+                                    - **[Cons](<Cons.md>):** 
+                                        - Logical
+                                        - Might be a bit unintuitive
+                            - **[Status](<Status.md>):** [not_populated](<not_populated.md>)
+                            - **[Decision](<Decision.md>):** "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
+                            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
+                    - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
+                        - **[Tips](<Tips.md>):**
+                            - Create fleeting notes liberally, keep them claim-leaning.
+                            - Create seedlings liberally — calibrate to what an evergreen might be. 
+                                - Again, I've cast a wide-net on the definition of evergreen... so don't be too precious with making a seedling or evergreen. 
+                                    - I would LOVE to have the problem of having "too many" evergreen notes.  
+        - [Activities](<Activities.md>) 
+            - [ ] Create a draft of our "[12 Favorite Problems](<12 Favorite Problems.md>)" (A small collection of [zettel questions](<zettel questions.md>)) [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+            - [ ] Review our meta-structure in [About [[Roam-Collective](<About [[Roam-Collective.md>)]]  #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [Agenda](<Agenda.md>)
+            - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
+            - **[Process](<Process.md>):**
+                - Members brainstorm elements of outline.
+                - Outline draft is "ratified" or adopted (only as formal as necessary, often VERY informal)
+                - Members anchor ideas to elements of that outline
+                - Those ideas serve to form new outlines, further subdividing the original outline into fractal-ed outlines. 
+                    - **Compare to:** Book → Sections → Chapters → Paragraphs → Sentences [Seedlings](<Seedlings.md>) ((Seedling = the concept of granularity expressed via a book structure))
+    - [Questions](<Questions.md>)
+        - [Q](<Q.md>) At what point does it become beneficial to each write on our own pages, rather than the [Daily Notes Page](<Daily Notes Page.md>). (As is done with [[[Roam Book Club](<[[Roam Book Club.md>) III]] and other [collaborative graphs](((3LM8RNDv0))).)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---

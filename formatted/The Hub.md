@@ -12,4 +12,4 @@
     - Literature Notes
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)  {not: {or: [query](<query.md>) [not_populated](<not_populated.md>) }}  }}}
     - Evergreen Notes
-        - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreen Notes](<Evergreen Notes.md>) {not: {or: [query](<query.md>) [not_populated](<not_populated.md>) }}  }}}
+        - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [query](<query.md>) [not_populated](<not_populated.md>) }}  }}}

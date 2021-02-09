@@ -6,7 +6,7 @@
 - #[[Daily Activities]]
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
-    - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Open Questions]])[*]([[Roam Games]])"
+    - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Questions]])[*]([[Roam Games]])"
 - #[[The Main Feed]]
     - 11:43 — Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes 
     - **Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [[DNP Modules]] as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([[Beyond the Basics]])
@@ -81,7 +81,7 @@ Thoughts? - [[Brandon Toner]]
                     - As long as authorship is **documented**, an effective zettelkasten should consider ideas from a variety of authors. 
                         - In addition, in a [[collaborative zettelkasten]] there are notes from numerous authors ANYWAY. So inclusion of notes from authors external to the graph should be fair game.
                 - #[[Fleeting Notes]] In a [[collaborative zettelkasten]] you could actually take [[literature notes]] on [[evergreen notes]] written my others.
-                - #[[Open Questions]]
+                - #[[Questions]]
                     - What is the dividing line between an [evergreen note]([[evergreen notes]]) and an [article]([[articles]])?
                         - I consider this as I add some of [[Andy Matuschak]]'s notes to the EN library in the graph. I consider these ENs rather than articles. 
                         - My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
@@ -105,31 +105,30 @@ Thoughts? - [[Brandon Toner]]
 This addresses the problem of “missing things”. If ideas are documented in zettelkasten conventions, then they are easier to rediscover through various [[resurfacing]] methods.
                 - #[[Fleeting Notes]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].
                     - Related:: "How do you navigate the problem of "missed content"?"
-        - #[[Open Questions]] When does a question mature into a [zettel question]([[zettel questions]]).
+        - #[[Q]] When does a question mature into a [zettel question]([[zettel questions]]).
             - Maturity = page creation with page template similar to that of [[evergreen notes]].
-        - #[[Open Questions]]
-            - Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([[evergreen notes]]), to [[steel-man]] the [[argument]] or [[claim]]? #Bookmarks
+        - #Q Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([[evergreen notes]]), to [[steel-man]] the [[argument]] or [[claim]]? #Bookmarks
         - [[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources
             - URL:: https://twitter.com/roamfu/status/1355186036884664323?s=21 
                 - {{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
-        - #[[Wish List]] #Ideas
+        - #[[Wish List]] #I
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([[i.e.]] exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
             - #Conversation
                 - "members of the graph" [*](((dYIpKh0sF)))
                     - This would require [[second-degree connections]]. [[i.e.]] `#People` who are also `#Members`
-                        - #[[Open Questions]] How could [[second-degree connections]] be facilitated?
+                        - #[[Q]] How could [[second-degree connections]] be facilitated?
         - #Problems
             - When referencing a prompt into the DNP, it adds a reference to the prompt.
                 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([[false-positive]] for user-responses.)
                     - Related:: "I just want [[one-way links]] so that I can do stuff like this without junking up the [[linked references]]: #[[Roam Enhancement Requests]]"
         - #[[Roam Enhancement Requests]]
             - [Filtering]([[filtering]]) in [[block references]]
-        - #[[Open Questions]]
+        - #[[Questions]]
             - How could users "**suggest edits**" to a page?
                 - [[e.g.]] Add references to an evergreen note.
-                - Ideas::
+                - I::
                     - Block reference the block where the edit would be added, nest the ideas, then add a tag to the block that would capture the editors' attention. ([[i.e.]] tag them + `[[[[Feedback]]: [[Suggestions]]]]`)
                     - Another option is to give all users permission to edit/add to all pages.
             - What should the [top section](((skozg-bg0))) be called officially? 
@@ -242,7 +241,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
                 - I think this may relate to the formation of [[evergreen notes]]. Yes?
             - "Good css is not enough, good application is a better way to embed the [[conventions]] that we suggested, take this idea as an [example](((UDqsAeKJg)))."
                 - [This](((UDqsAeKJg))) chat plugin idea is cool too! 
-            - In general, I think the #Ideas and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. 
+            - In general, I think the #I and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. 
         - [[Conventions]] to make [these](((HjC43lt9e))) work:
             - Append TODOs with a day or week tag to schedule them. ((Must be in the SAME BLOCK))
             - Append `#[[Flagged]]` to appear in the Flagged report.
@@ -329,8 +328,8 @@ Thoughts? - [[Brandon Toner]]"
                     - Emotion/story sharing event? maybe.
                     - web articles/twitter thread sharing, rather than a book, which has shorter feedback loop.
                         - Example:: Jamming about notes on [[Andy Matuschak]]
-                - I mean, could we fulfill our online social need purely in [[Roam]], through different events, instead of merely doing knowledge synthesis? #[[Ideas]]
-            - "In general, I think the #Ideas and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. "
+                - I mean, could we fulfill our online social need purely in [[Roam]], through different events, instead of merely doing knowledge synthesis? #[[I]]
+            - "In general, I think the #I and #Vision tags may be helpful to promote [[resurfacing]] of these ideas through time. "
                 - Yeah, they’re pretty good [[resurfacing]] mechanism, but they seems to be too **public**, and I’m always afraid that my non-mature thoughts will affect others information feed, and this is also one of the reason I care about public vs private.
             - OK well, about the idea public vs private, I just come up with another idea, which is used in my own database, that’s adding a tag like `#.concept` for a block that’s not yet been level-up to a page, but it could help the Roaman to get a better search for their own words in auto-completion list. A rather balancing way to control the complexity of a database.
             - "How might a [[reputation system]][*](((AClEvNz7Q))) be facilitated in a collaborative graph? I plan to do this somewhat manually with [[Roles]], but I'm not sure the best approaches yet. "

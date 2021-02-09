@@ -20,7 +20,7 @@
         - WE BACK.
     - 11:10 -- Added experimental persona CSS examples for [leekeifon](<leekeifon.md>) 
         - {{[embed](<embed.md>): ((((EZzT3MAmv))))}}
-    -  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. [Conversations](<Conversations.md>)
+    -  20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. #[Meetings & Discussions](<Meetings & Discussions.md>)
     - 22:11 — #[Bug Reports](<Bug Reports.md>) more graph instability noticed. Started with some minor CSS differences between users, then seemed to progress.
         - **Resolved after 30min**
 - ---
@@ -30,7 +30,7 @@
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FEqMGUb7Ry3.png?alt=media&token=2e6b76d5-8230-4007-8157-5f59b42b69b5)
             - Of these, [Plan](<Plan.md>) is new to me. 
-                - #[Open Questions](<Open Questions.md>) How could [Robert Haisfield](<Robert Haisfield.md>)'s "Plan" tag be used as a [convention]([conventions](<conventions.md>))? 
+                - #[Q](<Q.md>) How could [Robert Haisfield](<Robert Haisfield.md>)'s "Plan" tag be used as a [convention]([conventions](<conventions.md>))? 
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - Addition of OR operators to the page and reference [filtering](<filtering.md>).
                 - Currently, it is limited to AND and NOT.
@@ -46,7 +46,7 @@
         - I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>): #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtR_b1B1DKj.png?alt=media&token=7596d4f8-1683-41a8-94d3-fe24d5c79542)
-        - " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. [Conversations](<Conversations.md>)"
+        - " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. #[Meetings & Discussions](<Meetings & Discussions.md>)"
             - [Akiff Premjee](<Akiff Premjee.md>):
                 - Notifications
                 - Purpose and vision of [Roam-Collective](<Roam-Collective.md>)
@@ -60,7 +60,7 @@
                         - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>)."
                 - Potential of using [SmartBlocks](<SmartBlocks.md>) to curate a [newsfeed](<newsfeed.md>) at the top of the page each day... random blocks, etc.
         - **[Free Thoughts](<Free Thoughts.md>):**
-            - #[Open Questions](<Open Questions.md>)
+            - #[Questions](<Questions.md>)
                 - What would be the role of [live](<live.md>) [Roam-Collective](<Roam-Collective.md>) sessions?
                 - What could we collectively work towards?
                 - Could a single Roam graph support sub-communities?
@@ -77,8 +77,8 @@
                     - Participation in meaningful work
                     - Friendship
                 - What if [communities](<communities.md>) like [Ship 30 for 30](<Ship 30 for 30.md>) had a [collaborative graph](<collaborative graph.md>) community? 
-            - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>). [Vision](<Vision.md>) [Ideas](<Ideas.md>) [Extensions](<Extensions.md>)
-                - #[Open Questions](<Open Questions.md>) How do I tag development ideas? 
+            - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>). [Vision](<Vision.md>) [I](<I.md>) [Extensions](<Extensions.md>)
+                - #[Q](<Q.md>) How do I tag development ideas? 
             - **["Goals](<"Goals.md>):** ((See block references for additional ideas.))"
                 - To [empower](<empower.md>) Roam communities with the [conventions](<conventions.md>) and [processes](<processes.md>) necessary to transcend [meta](<meta.md>) discussion about the [organization](<organization.md>) and [structure](<structure.md>) of content — allowing them to focus on the [content](<content.md>) itself.
                     - [The structure and the content.](<The structure and the content..md>)
@@ -134,7 +134,7 @@
             - **[Related](<Related.md>):** 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
                 - Learning through observation and participation. Active learning.
-        - [Ideas](<Ideas.md>) [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) could be used for bringing [highlights](<highlights.md>) and page metadata into Roam & for building [reference notes](<reference notes.md>)
+        - [I](<I.md>) [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) could be used for bringing [highlights](<highlights.md>) and page metadata into Roam & for building [reference notes](<reference notes.md>)
     - [Promptstorming](<Promptstorming.md>) 
         - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
             - #[Questions](<Questions.md>) Why are [handoffs](<handoffs.md>) in Roam challenging? 

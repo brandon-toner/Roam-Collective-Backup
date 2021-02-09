@@ -19,7 +19,42 @@
     - ## Settings
         - Colors
             - Color Scheme
-                - > Use names for consistent colors throughout your them
+                - > Use names for consistent colors throughout your them — `--cl-name-strength`
+                - Standard Colors
+                    - Black, White, Gray
+                    - Red
+                    - Orange
+                    - Yellow
+                    - Green
+                    - Blue
+                    - Purple
+                - Additional Color Schemes
+                    - Togetic
+                        - ```css
+:root {
+/*Togetic [176](<../176.md>)*/
+  --cl-togetic-gray-500:  [737b83](<../737b83.md>);
+  --cl-togetic-gray-300:  [acc5bd](<../acc5bd.md>);
+  --cl-togetic-gray-100:  [d5eeee](<../d5eeee.md>);
+  --cl-togetic-red-500:   [bd1808](<../bd1808.md>);
+  --cl-togetic-red-300:   [de4139](<../de4139.md>);
+  --cl-togetic-blue-500:  [1062bd](<../1062bd.md>);
+  --cl-togetic-blue-300:  [2994e6](<../2994e6.md>);
+}```
+                    - Wobbufet
+                        - ```css
+:root {
+  /* CSS HEX */
+  --uranian-blue: [a4deffff](<../a4deffff.md>);
+  --aero: [73bdf6ff](<../73bdf6ff.md>);
+  --blue-jeans: [52aceeff](<../52aceeff.md>);
+  --yale-blue: [20528bff](<../20528bff.md>);
+  --gray-web: [838383ff](<../838383ff.md>);
+  --davys-grey: [525252ff](<../525252ff.md>);
+  --dark-orange: [ff8b00ff](<../ff8b00ff.md>);
+  --persimmon: [de5200ff](<../de5200ff.md>);
+  --rufous: [a41000ff](<../a41000ff.md>);
+}```
                 - Base
                     - ```css
 :root {
@@ -52,37 +87,12 @@
   --cl-beige-500:		[c8963e](<../c8963e.md>);
   --cl-beige-700:		[472515](<../472515.md>);
 }```
-                - Togetic
-                    - ```css
-:root {
-/*Togetic [176](<../176.md>)*/
-  --cl-togetic-gray-500:  [737b83](<../737b83.md>);
-  --cl-togetic-gray-300:  [acc5bd](<../acc5bd.md>);
-  --cl-togetic-gray-100:  [d5eeee](<../d5eeee.md>);
-  --cl-togetic-red-500:   [bd1808](<../bd1808.md>);
-  --cl-togetic-red-300:   [de4139](<../de4139.md>);
-  --cl-togetic-blue-500:  [1062bd](<../1062bd.md>);
-  --cl-togetic-blue-300:  [2994e6](<../2994e6.md>);
-}```
-                - Wobbufet
-                    - ```css
-:root {
-  /* CSS HEX */
-  --uranian-blue: [a4deffff](<../a4deffff.md>);
-  --aero: [73bdf6ff](<../73bdf6ff.md>);
-  --blue-jeans: [52aceeff](<../52aceeff.md>);
-  --yale-blue: [20528bff](<../20528bff.md>);
-  --gray-web: [838383ff](<../838383ff.md>);
-  --davys-grey: [525252ff](<../525252ff.md>);
-  --dark-orange: [ff8b00ff](<../ff8b00ff.md>);
-  --persimmon: [de5200ff](<../de5200ff.md>);
-  --rufous: [a41000ff](<../a41000ff.md>);
-}```
-            - UI
-                - All Pages
-                    - > Modifies the "All Pages" site, found in the left sidebar
-                    - Colors
-                        - ```css
+            - Color Settings
+                - UI
+                    - All Pages
+                        - > Modifies the "All Pages" site, found in the left sidebar
+                        - Colors
+                            - ```css
 :root {
   --fg-all-pages-title:					var(--cl-gray-800);
   --bg-all-pages-header:				var(--cl-gray-100);
@@ -112,10 +122,10 @@
   --br-all-pages-row:					var(--cl-gray-400);  
   } 
 }```
-                - Brackets
-                    - > Modifies the color of the Brackets when linking Pages
-                    - Colors
-                        - ```css
+                    - Brackets
+                        - > Modifies the color of the Brackets when linking Pages
+                        - Colors
+                            - ```css
 :root {
   --fg-brackets: var(--cl-gray-500);
 }
@@ -125,10 +135,10 @@
     --fg-brackets: var(--cl-gray-500);
   } 
 }```
-                - Buttons and Icons 
-                    - > Modifies icons in the top- and sidebar as well as buttons in the filter dialog.
-                    - Colors
-                        - ```css
+                    - Buttons and Icons 
+                        - > Modifies icons in the top- and sidebar as well as buttons in the filter dialog.
+                        - Colors
+                            - ```css
 :root {
   --fg-buttons:			var(--cl-gray-400);
   --bg-buttons: 		transparent;
@@ -148,10 +158,10 @@
   --fg-word-count:		var(--cl-gray-100);
   } 
 }```
-                - Caret
-                    - > Modifies the little caret the folds bullets
-                    - Colors
-                        - ```css
+                    - Caret
+                        - > Modifies the little caret the folds bullets
+                        - Colors
+                            - ```css
 :root {
   --fg-caret: 	var(--cl-gray-500);
 }
@@ -161,10 +171,10 @@
   --fg-caret: 	var(--cl-gray-300);
   } 
 }```
-                - Help
-                    - > Modifies the help dialog
-                    - Colors
-                        - ```css
+                    - Help
+                        - > Modifies the help dialog
+                        - Colors
+                            - ```css
 :root {
   --bg-help:	var(--cl-gray-100);
   --fg-help:	var(--cl-gray-600);
@@ -176,10 +186,10 @@
   --fg-help:	var(--cl-gray-400);
   } 
 }```
-                - Left Sidebar
-                    - > Modifies the left sidebar
-                    - Colors
-                        - ```css
+                    - Left Sidebar
+                        - > Modifies the left sidebar
+                        - Colors
+                            - ```css
 :root {
   --bg-left-sidebar:		var(--cl-gray-50);
   --bg-left-sidebar-hover:	var(--cl-gray-50);
@@ -201,10 +211,10 @@
   --fg-left-sidebar-icons: 	var(--cl-gray-400); 
   } 
 }```
-                - Log
-                    - > Modifies the color of the daily log
-                    - Colors
-                        - ```css
+                    - Log
+                        - > Modifies the color of the daily log
+                        - Colors
+                            - ```css
 :root {
   --fg-log-hr: 	var(--cl-gray-400);
   --fg-log:		var(--cl-gray-400);
@@ -216,13 +226,13 @@
   --fg-log:		var(--cl-gray-600);
   } 
 }```
-                - Menus
-                    - > Changes the color and fonts of the different menus
+                    - Menus
+                        - > Changes the color and fonts of the different menus
 
 **Notice**
 We can't change the selection background in some menus yet, so make sure, that your colors will fit - avoid too light and too dark shades.
-                    - Colors
-                        - ```css
+                        - Colors
+                            - ```css
 :root {
   --bg-menu:		var(--cl-white);
   --bg-menu-hover:	var(--cl-gray-100);
@@ -238,10 +248,10 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-menu-hover:	var(--cl-gray-500);
   } 
 }```
-                - Top Bar
-                    - > Modifies colors and fonts of the topbar including the  "Find or Create Page"-Input.
-                    - Colors
-                        - ```css
+                    - Top Bar
+                        - > Modifies colors and fonts of the topbar including the  "Find or Create Page"-Input.
+                        - Colors
+                            - ```css
 :root {
   --bg-topbar: 				var(--cl-white);
   --bg-input: 				var(--cl-gray-50);
@@ -259,8 +269,8 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-input-placeholder: 	var(--cl-gray-400);
   } 
 }```
-                - In-Line References
-                    - ```css
+                    - In-Line References
+                        - ```css
 :root {
 	--bg-inline-refs: 	var(--cl-gray-50);
 }
@@ -270,9 +280,9 @@ We can't change the selection background in some menus yet, so make sure, that y
 	--bg-inline-refs: 	var(--cl-gray-600);
   } 
 }```
-            - Content
-                - Body
-                    - ```css
+                - Content
+                    - Body
+                        - ```css
 :root {
   --primary-color: 		var(--cl-gray-800);
   --background-color: 	var(--cl-white);
@@ -289,9 +299,9 @@ We can't change the selection background in some menus yet, so make sure, that y
 
   } 
 }```
-                - Breadcrumbs
-                    - > Modifies the breadcrumbs (zoom items) 
-                    - ```css
+                    - Breadcrumbs
+                        - > Modifies the breadcrumbs (zoom items) 
+                        - ```css
 :root {
   --bg-zoom:			transparent;
   --fg-zoom:			var(--cl-gray-500);
@@ -306,14 +316,14 @@ We can't change the selection background in some menus yet, so make sure, that y
 
   } 
 }```
-                - Bullets and Lines
-                    - > Changes the bullets and lines for blocks
-                    - Preview
-                        - A single bullet
-                            - A line to the left
-                        - A closed bullet
-                            - 
-                    - ```css
+                    - Bullets and Lines
+                        - > Changes the bullets and lines for blocks
+                        - Preview
+                            - A single bullet
+                                - A line to the left
+                            - A closed bullet
+                                - 
+                        - ```css
 :root {
   --bg-bullet-inner:	var(--cl-gray-200);
   --br-bullet-outer:	var(--cl-gray-200);
@@ -327,13 +337,13 @@ We can't change the selection background in some menus yet, so make sure, that y
   --br-block:			var(--cl-gray-600);
   } 
 }```
-                - Headings
-                    - > Modifies the Headings Level 1 - 3
-                    - Preview
-                        - Heading 1
-                            - Heading 2
-                                - Heading 3
-                    - ```clojure
+                    - Headings
+                        - > Modifies the Headings Level 1 - 3
+                        - Preview
+                            - Heading 1
+                                - Heading 2
+                                    - Heading 3
+                        - ```clojure
 :root {
   --fg-h1:				var(--cl-gray-900);
   --fg-h2:				var(--cl-gray-900);
@@ -347,12 +357,12 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-h3:				var(--cl-gray-50);
   } 
 }```
-                - Highlights
-                    - > Modifies the highlights
-                    - Preview
-                        - ^^This text is highlighted^^
-                    - Colors
-                        - ```css
+                    - Highlights
+                        - > Modifies the highlights
+                        - Preview
+                            - ^^This text is highlighted^^
+                        - Colors
+                            - ```css
 :root {
   --bg-highlight:		var(--cl-blue-50);
   --bg-highlight-blue:	var(--cl-blue-200);
@@ -368,12 +378,12 @@ We can't change the selection background in some menus yet, so make sure, that y
   --bg-highlight-grey:	var(--cl-gray-500);
   } 
 }```
-                - Page Reference Links
-                    - > Modifies the color of links and references pages
-                    - Preview
-                        - This is [a link](http://link.com), this is a reference to a page [Test Page](<../Test Page.md>), this is a [Project/Complete Job Search & Get Hired](<../Project/Complete Job Search & Get Hired.md>) namespace, this is a double underline [[[R:](<../[[R:.md>) Remote Work (podcasts)]]
-                    - Colors
-                        - ```css
+                    - Page Reference Links
+                        - > Modifies the color of links and references pages
+                        - Preview
+                            - This is [a link](http://link.com), this is a reference to a page [Test Page](<../Test Page.md>), this is a [Project/Complete Job Search & Get Hired](<../Project/Complete Job Search & Get Hired.md>) namespace, this is a double underline [[[R:](<../[[R:.md>) Remote Work (podcasts)]]
+                        - Colors
+                            - ```css
 :root {
   --fg-link:						var(--cl-green-500);
   --fg-link-hover:					var(--cl-green-500);
@@ -397,12 +407,12 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-reference-underline-hover:	var(--cl-orange-500);
   } 
 }```
-                - Block References
-                    - > Modifies the background of the reference blocks
-                    - Preview
-                        - ((IeFN6yma5))
-                    - Colors
-                        - ```css
+                    - Block References
+                        - > Modifies the background of the reference blocks
+                        - Preview
+                            - ((IeFN6yma5))
+                        - Colors
+                            - ```css
 :root {
   --bg-reference:				var(--cl-gray-50);
   --bg-block-ref:				none;
@@ -422,12 +432,12 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-block-ref-end:			var(--cl-gray-50);
   }
 }```
-                - Tags
-                    - > Modifies the apperance of tags
-                    - Preview
-                        - [tag1](<../tag1.md>) [tag2](<../tag2.md>)
-                    - Colors
-                        - ```css
+                    - Tags
+                        - > Modifies the apperance of tags
+                        - Preview
+                            - [tag1](<../tag1.md>) [tag2](<../tag2.md>)
+                        - Colors
+                            - ```css
 :root {
   --fg-tag:				var(--cl-gray-500);
   --bg-tag:				none;
@@ -439,13 +449,13 @@ We can't change the selection background in some menus yet, so make sure, that y
   --bg-tag:				none;
   } 
 }```
-            - Special Blocks
-                - Calc
-                    - > Modifies the color of the calculation result
-                    - Preview
-                        - {{[calc](<../calc.md>): 31 + 11}}
-                    - Colors
-                        - ```css
+                - Special Blocks
+                    - Calc
+                        - > Modifies the color of the calculation result
+                        - Preview
+                            - {{[calc](<../calc.md>): 31 + 11}}
+                        - Colors
+                            - ```css
 :root {
   --fg-calc:		var(--cl-green-500);
 }
@@ -455,11 +465,11 @@ We can't change the selection background in some menus yet, so make sure, that y
   --fg-calc:		var(--cl-green-500);
   } 
 }```
-                - Code
-                    - > Modifies the color of Codeblocks and Inline Code
-                    - Preview
-                        - `Inline code` and Codeblocks:
-                            - ```javascript
+                    - Code
+                        - > Modifies the color of Codeblocks and Inline Code
+                        - Preview
+                            - `Inline code` and Codeblocks:
+                                - ```javascript
 const baseValue = prompt('Enter the base of a triangle: ');
 const heightValue = prompt('Enter the height of a triangle: ');
 
@@ -469,9 +479,9 @@ const areaValue = (baseValue * heightValue) / 2;
 console.log(
   `The area of the triangle is ${areaValue}`
 );```
-                    - Inline Code
-                        - Colors
-                            - ```css
+                        - Inline Code
+                            - Colors
+                                - ```css
 :root {
   --fg-inline-code:			var(--cl-gray-800);
   --bg-inline-code:			var(--cl-gray-50);
@@ -485,9 +495,9 @@ console.log(
   --br-inline-code:			var(--cl-gray-700);  
   } 
 }```
-                    - Code Block
-                        - Colors - Light
-                            - ```css
+                        - Code Block
+                            - Colors - Light
+                                - ```css
 :root {
   --bg-code:						var(--cl-gray-50);
   --bg-code-filler:					var(--cl-gray-50);
@@ -509,8 +519,8 @@ console.log(
   --fg-code-guttermarker:			var(--cl-black);
   --fg-code-guttermarker-subtle: 	var(--cl-gray-500);
 }```
-                        - Colors - Dark
-                            - ```css
+                            - Colors - Dark
+                                - ```css
 @media (prefers-color-scheme: dark) {
   :root { 
   --bg-code:						var(--cl-gray-800);
@@ -534,9 +544,9 @@ console.log(
   --fg-code-guttermarker-subtle: 	var(--cl-gray-500);
   } 
 }```
-                    - Syntax Highlighting
-                        - Colors - Light
-                            - ```css
+                        - Syntax Highlighting
+                            - Colors - Light
+                                - ```css
 :root {  
   --fg-code:					var(--cl-gray-400);
   --fg-code-header:				var(--cl-blue-500);
@@ -565,8 +575,8 @@ console.log(
   --fg-code-matchingbracket: 	var(--cl-green-500);
   --fg-code-nonmatchingbracket:	var(--cl-green-500);
 }```
-                        - Colors - Dark
-                            - ```css
+                            - Colors - Dark
+                                - ```css
 @media (prefers-color-scheme: dark) {
   :root { 
   --fg-code:					var(--cl-gray-300);
@@ -597,24 +607,24 @@ console.log(
   --fg-code-nonmatchingbracket:	var(--cl-green-500);  
   } 
 }```
-                - Diagrams
-                    - > Diagrams can't be modified yet. This is a problem with dark mode settings. 
-                    - Preview
-                        - {{[diagram](<../diagram.md>)}}
-                            - A
-                            - B
-                - Embed
-                    - > Changes the background color of embed blocks
-                    - Preview
-                        - Sample Data
-                            - Embed 1
-                                - {{[embed](<../embed.md>): ((ZuyIjM6mE))}}
-                            - Embed 2
-                                - {{[embed](<../embed.md>): ((oVEJn3mnp))}}
-                            - Embed 3
-                        - {{[embed](<../embed.md>): ((CR-dOUiRZ))}}
-                    - Colors
-                        - ```css
+                    - Diagrams
+                        - > Diagrams can't be modified yet. This is a problem with dark mode settings. 
+                        - Preview
+                            - {{[diagram](<../diagram.md>)}}
+                                - A
+                                - B
+                    - Embed
+                        - > Changes the background color of embed blocks
+                        - Preview
+                            - Sample Data
+                                - Embed 1
+                                    - {{[embed](<../embed.md>): ((ZuyIjM6mE))}}
+                                - Embed 2
+                                    - {{[embed](<../embed.md>): ((oVEJn3mnp))}}
+                                - Embed 3
+                            - {{[embed](<../embed.md>): ((CR-dOUiRZ))}}
+                        - Colors
+                            - ```css
 :root {
   --bg-embed-1: 	var(--cl-gray-50);
   --bg-embed-2: 	var(--cl-gray-100);
@@ -632,12 +642,12 @@ console.log(
   --bg-embed-5: 	var(--cl-gray-400);  
   } 
 }```
-                - HR
-                    - > Modifies horizontal lines
-                    - Preview
-                        - ---
-                    - Colors
-                        - ```css
+                    - HR
+                        - > Modifies horizontal lines
+                        - Preview
+                            - ---
+                        - Colors
+                            - ```css
 :root {
  --br-hr:	var(--cl-gray-300);
 }
@@ -647,16 +657,16 @@ console.log(
   --br-hr:	var(--cl-gray-300);
   } 
 }```
-                - Kanban
-                    - > Modifies Kanban boards
-                    - Preview
-                        - {{[kanban](<../kanban.md>)}}
-                            - Ready
-                                - Card 1
-                            - Done
-                                - Card 2
-                    - Colors
-                        - ```css
+                    - Kanban
+                        - > Modifies Kanban boards
+                        - Preview
+                            - {{[kanban](<../kanban.md>)}}
+                                - Ready
+                                    - Card 1
+                                - Done
+                                    - Card 2
+                        - Colors
+                            - ```css
 :root {
   --bg-kanban-board: 	var(--cl-gray-50);
   --br-kanban-board:	var(--cl-white);
@@ -672,17 +682,17 @@ console.log(
   --bg-kanban-card:		var(--cl-black);  
   } 
 }```
-                - Mermaid
-                    - > Modifies Mermaid diagrams
-                    - Preview
-                        - {{mermaid}}
-                            - graph TD;
-                                - A-->B;
-                                - A-->D;
-                                - B-->D;
-                                - C-->D;
-                    - Colors
-                        - ```css
+                    - Mermaid
+                        - > Modifies Mermaid diagrams
+                        - Preview
+                            - {{mermaid}}
+                                - graph TD;
+                                    - A-->B;
+                                    - A-->D;
+                                    - B-->D;
+                                    - C-->D;
+                        - Colors
+                            - ```css
 :root {
   --bg-mermaid: 		var(--cl-white);
   --bg-mermaid-node: 	var(--cl-gray-300);
@@ -698,12 +708,12 @@ console.log(
   --br-mermaid-node: 	var(--cl-gray-500);  
   } 
 }```
-                - Queries
-                    - > Modifies the appearance of queries
-                    - Preview
-                        - {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [December 30th, 2020](<../December 30th, 2020.md>)}}}
-                    - Colors
-                        - ```css
+                    - Queries
+                        - > Modifies the appearance of queries
+                        - Preview
+                            - {{[query](<../query.md>): {and: [TODO](<../TODO.md>) [December 30th, 2020](<../December 30th, 2020.md>)}}}
+                        - Colors
+                            - ```css
 :root {
   --bg-query-title:		var(--cl-gray-100);
   --fg-query-title:		var(--cl-gray-600);
@@ -717,12 +727,12 @@ console.log(
   --br-query:			var(--cl-gray-700);  
   } 
 }```
-                - Quote
-                    - > Modifies the design of quotes
-                    - Preview
-                        - > This is a famous quote!
-                    - Color
-                        - ```css
+                    - Quote
+                        - > Modifies the design of quotes
+                        - Preview
+                            - > This is a famous quote!
+                        - Color
+                            - ```css
 :root {
   --bg-quote:			var(--cl-white);
   --br-quote:			var(--cl-gray-800);
@@ -736,16 +746,16 @@ console.log(
   --fg-quote:			var(--cl-gray-100);    
   } 
 }```
-                - Tables
-                    - > Modifies tables
-                    - Preview
-                        - {{[table](<../table.md>)}}
-                            - Column 1
-                                - Column 2
-                            - Row 1
-                                - Row 2
-                    - Colors
-                        - ```css
+                    - Tables
+                        - > Modifies tables
+                        - Preview
+                            - {{[table](<../table.md>)}}
+                                - Column 1
+                                    - Column 2
+                                - Row 1
+                                    - Row 2
+                        - Colors
+                            - ```css
 :root {
   --br-table:	var(--cl-gray-300);
 }
@@ -755,13 +765,13 @@ console.log(
   --br-table:	var(--cl-gray-600);
   } 
 }```
-                - Todo
-                    - > Modifies the design of todos
-                    - Preview
-                        - [ ] This is a todo
-                        - [x] This is a finished todo
-                    - Colors
-                        - ```css
+                    - Todo
+                        - > Modifies the design of todos
+                        - Preview
+                            - [ ] This is a todo
+                            - [x] This is a finished todo
+                        - Colors
+                            - ```css
 :root {
   --br-checkbox: var(--cl-gray-300);
   --bg-checkbox-checked: var(--cl-gray-300);
@@ -775,12 +785,12 @@ console.log(
   --br-checkmark: var(--cl-white);  
   } 
 }```
-                - Versions
-                    - > Modifies the design of the version block
-                    - Preview
-                        - Version 2
-                    - Colors
-                        - ```css
+                    - Versions
+                        - > Modifies the design of the version block
+                        - Preview
+                            - Version 2
+                        - Colors
+                            - ```css
 :root {
   --bg-version-bullet: 		var(--cl-gray-400);
   --fg-version-selected: 	var(--cl-blue-500);
@@ -794,9 +804,9 @@ console.log(
   --br-version:				var(--cl-gray-600);  
   } 
 }```
-            - Custom
-                - 
-                    - ```css
+                - Custom
+                    - 
+                        - ```css
 :root {
   --note-tag-color:				var(--cl-gray-700);
 }
@@ -807,24 +817,26 @@ console.log(
   }
 }```
     - ## Elements
-        1. Tag Styling 
-            1. `GTD Tags`
-                - `GTD Tags`
-                    - `[INBOX](<../INBOX.md>)
-[Inbox](<../Inbox.md>)
-[Projects](<../Projects.md>)
-[Goals](<../Goals.md>)
-#[Follow Up](<../Follow Up.md>)
-[Mindsweep](<../Mindsweep.md>)
-[Waiting](<../Waiting.md>)
-#[Waiting-[[resolved](<../Waiting-[[resolved.md>)]]
-[Tracking](<../Tracking.md>)
-#[Daily Big 3](<../Daily Big 3.md>)
-#[Plan My Day](<../Plan My Day.md>)
-#[Weekly Preview](<../Weekly Preview.md>)
-#[Next Steps](<../Next Steps.md>)
-#[GTD Zone](<../GTD Zone.md>)
-                        - ```css
+        1. ## Tag Styling [Status](<../Status.md>)/Enabled
+            1. ### GTD Tags
+                - Examples
+                    - [INBOX](<../INBOX.md>)
+                    - [Inbox](<../Inbox.md>)
+                    - [Projects](<../Projects.md>)
+                    - [Goals](<../Goals.md>)
+                    - #[Agenda](<../Agenda.md>)
+                    - #[Follow Up](<../Follow Up.md>)
+                    - [Mindsweep](<../Mindsweep.md>)
+                    - [Waiting](<../Waiting.md>)
+                    - #[Waiting-[[resolved](<../Waiting-[[resolved.md>)]]
+                    - [Tracking](<../Tracking.md>)
+                    - #[Daily Big 3](<../Daily Big 3.md>)
+                    - #[Plan My Day](<../Plan My Day.md>)
+                    - #[Weekly Preview](<../Weekly Preview.md>)
+                    - #[Next Steps](<../Next Steps.md>)
+                    - #[GTD Zone](<../GTD Zone.md>)
+                - Code
+                    - ```css
 :root {
   --background:[607D8B](<../607D8B.md>);
   --color:[FFFFFF](<../FFFFFF.md>);
@@ -926,6 +938,21 @@ span.rm-page-ref[data-tag="Follow Up"] {
 
 span.rm-page-ref[data-tag="Follow Up"]:before {
     content: '📌'
+}
+
+span.rm-page-ref[data-tag="Agenda"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Agenda"]:before {
+    content: '🗓'
 }
 
 span.rm-page-ref[data-tag="Mindsweep"] {
@@ -1047,21 +1074,288 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-            2. `Zettelkasten Tags`
-                - `#[Reference Notes](<../Reference Notes.md>)
+            2. ## DNP Modules
+                - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
-span.rm-page-ref[data-tag="Reference Notes"] {
-	background-image: linear-gradient(90deg, [BEDFF8](<../BEDFF8.md>), [BEDFF8](<../BEDFF8.md>), [BEDFF8](<../BEDFF8.md>));
+span.rm-page-ref[data-tag="My Daily Notes"] {
+	background-image: linear-gradient(to right, [607D8B](<../607D8B.md>),[607D8B](<../607D8B.md>));
 	background-size: 100%;
-    color: [000000](<../000000.md>);
+    color: rgb(255,255,255);
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+ span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
+     background: [BFE4F2](<../BFE4F2.md>) !important;
+     color: [F3F7F2](<../F3F7F2.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Post"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="My Daily Notes"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [607D8B](<../607D8B.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="My Daily Notes"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [607D8B](<../607D8B.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}```
+                - #[The Zettelkasten](<../The Zettelkasten.md>)
+                    - ```css
+span.rm-page-ref[data-tag="The Zettelkasten"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
+}
+
+span.rm-page-ref[data-tag="The Zettelkasten"]:before {
+    content: '⚡'
 }```
-                - `#[Seedlings](<../Seedlings.md>)
+                - #[Scratchpad](<../Scratchpad.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Scratchpad"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Scratchpad"]:before {
+    content: '✏️'
+}```
+                - #[Bookmarks](<../Bookmarks.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Bookmarks"] {
+    background: [2196F3](<../2196F3.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Bookmarks"]:before {
+    content: '💾'
+}```
+                - [Questions](<../Questions.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Questions"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Questions"]:before {
+    content: '❓'
+}```
+                - [Promptstorming](<../Promptstorming.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Promptstorming"] {
+    background: [98160C](<../98160C.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Promptstorming"]:before {
+    content: '🌪️'
+}```
+                - #[Daily Log](<../Daily Log.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Daily Log"] {
+    background: [FF9800](<../FF9800.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Daily Log"]:before {
+    content: '📆'
+}```
+                - #[Daily Activities](<../Daily Activities.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Daily Activities"] {
+    background: [4CAF50](<../4CAF50.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Daily Activities"]:before {
+    content: '✍🏼'
+}```
+                - #[The Main Feed](<../The Main Feed.md>)
+                    - ```css
+span.rm-page-ref[data-tag="The Main Feed"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="The Main Feed"]:before {
+    content: '⭐️'
+}```
+                - #[Help Wanted](<../Help Wanted.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Help Wanted"] {
+    background: [9C27B0](<../9C27B0.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Help Wanted"]:before {
+    content: '😃'
+}```
+                - #[Change Log](<../Change Log.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Change Log"] {
+    background: [4CAF50](<../4CAF50.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢'
+}```
+                - [Announcements](<../Announcements.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Announcements"] {
+    background: [F44336](<../F44336.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Announcements"]:before {
+    content: '📢'
+}```
+                - #[Tips & Tricks](<../Tips & Tricks.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Tips & Tricks"] {
+    background: [4CAF50](<../4CAF50.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Tips & Tricks"]:before {
+    content: '🔑'
+}```
+                - "[Conversation](<../Conversation.md>)"
+                    - "[@[[Their Name](<../@[[Their Name.md>)]]"
+                    - "[cc:[[Their Name](<../cc:[[Their Name.md>)]]"
+                    - "[~[[Your Name](<../~[[Your Name.md>)]]"
+                    - "[^[[Your Name](<../^[[Your Name.md>)]]"
+                - "[Questions](<../Questions.md>)"
+                - "#[Chat](<../Chat.md>)"
+            3. ### Note & Zettelkasten Tags
+                - #[Fleeting Notes](<../Fleeting Notes.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Fleeting Notes"] {
+    color: [1A1718](<../1A1718.md>) !important;
+    padding: 2px 5px 2px 5px;
+	font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}```
+                - #[Literature Notes](<../Literature Notes.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Literature Notes"] {
+	background-image: linear-gradient(90deg, [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>));
+	background-size: 100%;
+    color: [FFFFFF](<../FFFFFF.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+
+
+```
+                - #[Seedlings](<../Seedlings.md>)
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
     color: [FFFFFF](<../FFFFFF.md>) !important;
@@ -1082,11 +1376,12 @@ background: linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6D
 
 
 ```
-                - `[Annotations](<../Annotations.md>)
+                - #[Buddings](<../Buddings.md>)
                     - ```css
-span.rm-page-ref[data-tag="Annotations"] {
-    background: [795548E2](<../795548E2.md>);
-    color: [fff](<../fff.md>);
+span.rm-page-ref[data-tag="Buddings"] {
+	background-image: linear-gradient(90deg, [70AC7B](<../70AC7B.md>), [70AC7B](<../70AC7B.md>), [70AC7B](<../70AC7B.md>));
+	background-size: 100%;
+    color: [EEF2EE](<../EEF2EE.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1094,47 +1389,9 @@ span.rm-page-ref[data-tag="Annotations"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-                - `#[Fleeting Notes](<../Fleeting Notes.md>)
+                - #[Evergreens](<../Evergreens.md>)
                     - ```css
-span.rm-page-ref[data-tag="Fleeting Notes"] {
-    color: [1A1718](<../1A1718.md>) !important;
-    padding: 2px 5px 2px 5px;
-	font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-}
-
-
-
-
-```
-                - `#[Literature Notes](<../Literature Notes.md>) [Test](<../Test.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Literature Notes"] {
-	background-image: linear-gradient(90deg, [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>));
-	background-size: 100%;
-    color: [FFFFFF](<../FFFFFF.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-
-
-```
-                - `#[Evergreen Notes](<../Evergreen Notes.md>) [Test](<../Test.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Evergreen Notes"] {
+span.rm-page-ref[data-tag="Evergreens"] {
 	background-image: linear-gradient(90deg, [507B58](<../507B58.md>), [507B58](<../507B58.md>), [507B58](<../507B58.md>));
 	background-size: 100%;
     color: [EEF2EE](<../EEF2EE.md>);
@@ -1186,29 +1443,106 @@ span.rm-page-ref[data-tag="Permanent Notes"]:before {
 
 
 ```
-                - `#[Zettel Questions](<../Zettel Questions.md>)
-                    ```clojure
-span.rm-page-ref[data-tag="Zettel Questions"] {
-    color: [FFFFFF](<../FFFFFF.md>) !important;
+                - [Annotations](<../Annotations.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Annotations"] {
+    background: [795548E2](<../795548E2.md>);
+    color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
-	font-size: 13px;
+    font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: [BC6DCA](<../BC6DCA.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [BC6DCA](<../BC6DCA.md>), [BC6DCA](<../BC6DCA.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [BC6DCA](<../BC6DCA.md>), [BC6DCA](<../BC6DCA.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
+}```
+                - #[Reference Notes](<../Reference Notes.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Reference Notes"] {
+	background-image: linear-gradient(90deg, [BEDFF8](<../BEDFF8.md>), [BEDFF8](<../BEDFF8.md>), [BEDFF8](<../BEDFF8.md>));
+	background-size: 100%;
+    color: [000000](<../000000.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+                - #[Project Ideas](<../Project Ideas.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Project Ideas"] {
+	color: [1A1718](<../1A1718.md>) !important;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+	background: [FF572268](<../FF572268.md>);  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<../FF572268.md>));  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<../FF572268.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}```
+                - ### Experimental & Deprecated Note Types
+                    - [Evergreen](<../Evergreen.md>)
+                        - Tag
+                            - ```css
+span.rm-page-ref[data-tag="Evergreen"]:before {
+    content: '🌲 '
 }
 
+span.rm-page-ref[data-tag="Evergreen"]:after {
+    content: ':'
+}
 
+span.rm-page-ref[data-tag="Evergreen"] {
+ color: var(--note-tag-color) !important;
+ padding: 1px 1px !important;
+ font-weight: 700 !important;
+}```
+                        - In Block Reference
+                            - Example: "[Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims"
+                            - ```css
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
+  /*display: none;*/
+  font-size: .1px;
+  line-height: 1.5em;
+}
 
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]:before{
+  font-size: 12px;
+  margin-right: -5px;
+}```
+                    - #[Community Note](<../Community Note.md>) [Test](<../Test.md>)
+                        - Tag
+                            - ```css
+span.rm-page-ref[data-tag="Community Note"]:before {
+    content: '⛺ '
+}
 
-```
-                - `#[Branching Notes](<../Branching Notes.md>) [Test](<../Test.md>)
-                    - ```css
+span.rm-page-ref[data-tag="Community Note"]:after {
+    content: ':'
+}
+
+span.rm-page-ref[data-tag="Community Note"] {
+ color: var(--note-tag-color) !important;
+ padding: 1px 1px !important;
+ font-weight: 700 !important;
+}```
+                        - In Block Reference
+                            - Example: "[Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims"
+                            - ```html
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Notes"]{
+  /*display: none;*/
+  font-size: .1px;
+  line-height: 1.5em;
+}
+
+.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Note"]:before{
+  font-size: 12px;
+  margin-right: -5px;
+}```
+                    - #[Branching Notes](<../Branching Notes.md>) [Test](<../Test.md>)
+                        - ```css
 span.rm-page-ref[data-tag="Branching Notes"] {
 background: [B79891](<../B79891.md>);  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, [94716B](<../94716B.md>), [94716B](<../94716B.md>));  /* Chrome 10-25, Safari 5.1-6 */
@@ -1240,8 +1574,22 @@ background: linear-gradient(to right, [94716B](<../94716B.md>), [94716B](<../947
 
 
 ```
-                - `#[Intermediary Notes](<../Intermediary Notes.md>)
-                    - ```css
+                    - #[Zettel Questions](<../Zettel Questions.md>)
+                        ```css
+span.rm-page-ref[data-tag="Zettel Questions"] {
+    color: [FFFFFF](<../FFFFFF.md>) !important;
+    padding: 2px 5px 2px 5px;
+	font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+background: [BC6DCA](<../BC6DCA.md>);  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, [BC6DCA](<../BC6DCA.md>), [BC6DCA](<../BC6DCA.md>));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, [BC6DCA](<../BC6DCA.md>), [BC6DCA](<../BC6DCA.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}```
+                    - #[Intermediary Notes](<../Intermediary Notes.md>)
+                        - ```css
 span.rm-page-ref[data-tag="Intermediary Notes"] {
 	color: [1A1718](<../1A1718.md>) !important;
     padding: 2px 5px 2px 5px;
@@ -1252,91 +1600,11 @@ span.rm-page-ref[data-tag="Intermediary Notes"] {
     position:relative;
 background: [607D8B68](<../607D8B68.md>);  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, [607D8B68](<../607D8B68.md>), [607D8B68](<../607D8B68.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [607D8B68](<../607D8B68.md>), [607D8B68](<../607D8B68.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-  
-}
-
-```
-                - `#[Project Ideas](<../Project Ideas.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Project Ideas"] {
-	color: [1A1718](<../1A1718.md>) !important;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-background: [FF572268](<../FF572268.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<../FF572268.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [FF572268](<../FF572268.md>), [FF572268](<../FF572268.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-  
-}
-
-```
-                - [Evergreen](<../Evergreen.md>)
-                    - Tag
-                        - ```css
-span.rm-page-ref[data-tag="Evergreen"]:before {
-    content: '🌲 '
-}
-
-span.rm-page-ref[data-tag="Evergreen"]:after {
-    content: ':'
-}
-
-span.rm-page-ref[data-tag="Evergreen"] {
- color: var(--note-tag-color) !important;
- padding: 1px 1px !important;
- font-weight: 700 !important;
+background: linear-gradient(to right, [607D8B68](<../607D8B68.md>), [607D8B68](<../607D8B68.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }```
-                    - In Block Reference
-                        - Example: "[Evergreen](<../Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
-                        - ```css
-.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
-  /*display: none;*/
-  font-size: .1px;
-  line-height: 1.5em;
-}
-
-.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]:before{
-  font-size: 12px;
-  margin-right: -5px;
-}```
-                - #[Community Note](<../Community Note.md>)
-                    - Tag
-                        - ```css
-span.rm-page-ref[data-tag="Community Note"]:before {
-    content: '⛺ '
-}
-
-span.rm-page-ref[data-tag="Community Note"]:after {
-    content: ':'
-}
-
-span.rm-page-ref[data-tag="Community Note"] {
- color: var(--note-tag-color) !important;
- padding: 1px 1px !important;
- font-weight: 700 !important;
-}```
-                    - In Block Reference
-                        - Example: "[Evergreen](<../Evergreen.md>) Prefer note titles with complete phrases to sharpen claims"
-                        - ```css
-.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
-  /*display: none;*/
-  font-size: .1px;
-  line-height: 1.5em;
-}
-
-.rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Note"]:before{
-  font-size: 12px;
-  margin-right: -5px;
-}```
-            3. `Areas Tags`
-                - `#[Administration](<../Administration.md>)
-            4. `Data-type Tags`
+            4. ## Areas Tags
+                - `#[Administration](<../Administration.md>)`
+            5. ### Page & Block Type Tags
                 - `[Articles](<../Articles.md>)
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -1385,38 +1653,6 @@ span.rm-page-ref[data-tag="Experiments"] {
 span.rm-page-ref[data-tag="Experiments"]:before {
     content: '🧪'
 }```
-                - `[Tweets](<../Tweets.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Tweets"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tweets"]:before {
-    content: '🐦'
-}```
-                - `#[Conversations and Meetings](<../Conversations and Meetings.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Conversations and Meetings"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Conversations and Meetings"]:before {
-    content: '💬'
-}```
                 - `[Podcasts](<../Podcasts.md>)
                     - ```css
 span.rm-page-ref[data-tag="Podcasts"] {
@@ -1433,9 +1669,9 @@ span.rm-page-ref[data-tag="Podcasts"] {
 span.rm-page-ref[data-tag="Podcasts"]:before {
     content: '🎙'
 }```
-                - `[Meetings](<../Meetings.md>)
+                - `[Tweets](<../Tweets.md>)
                     - ```css
-span.rm-page-ref[data-tag="Meetings"] {
+span.rm-page-ref[data-tag="Tweets"] {
     background: [9E9E9E](<../9E9E9E.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
@@ -1446,90 +1682,26 @@ span.rm-page-ref[data-tag="Meetings"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Meetings"]:before {
+span.rm-page-ref[data-tag="Tweets"]:before {
+    content: '🐦'
+}```
+                - `#[Meetings & Discussions](<../Meetings & Discussions.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Meetings & Discussions"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Meetings & Discussions"]:before {
     content: '👥'
 }```
-                - `[Conversations](<../Conversations.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Conversations"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Conversations"]:before {
-    content: '🗣'
-}```
-                - `[Discoveries](<../Discoveries.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Discoveries"] {
-    background: [03A9F4](<../03A9F4.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Discoveries"]:before {
-    content: '🎈'
-}```
-                - `[Lectures](<../Lectures.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Lectures"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Lectures"]:before {
-    content: '🏫'
-}```
-                - `#[Learning Objectives](<../Learning Objectives.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Learning Objectives"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Learning Objectives"]:before {
-    content: '🎓'
-}```
-                - `[Recommendations](<../Recommendations.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Recommendations"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Recommendations"]:before {
-    content: '📍'
-}```
-                - `#[I](<../I.md>)
+                - `#[I](<../I.md>) (Ideas)
                     - ```css
 span.rm-page-ref[data-tag="I"] {
     background: [607D8B](<../607D8B.md>);
@@ -1545,86 +1717,6 @@ span.rm-page-ref[data-tag="I"] {
 span.rm-page-ref[data-tag="I"]:before {
     content: '💡'
 }```
-                - `[Ideas](<../Ideas.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Ideas"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Ideas"]:before {
-    content: '💡'
-}```
-                - `[Jokes](<../Jokes.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Jokes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Jokes"]:before {
-    content: '🤣'
-}```
-                - `[Frameworks](<../Frameworks.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Frameworks"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Frameworks"]:before {
-    content: '⚙️'
-}```
-                - `#[Goal Ideas](<../Goal Ideas.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Goal Ideas"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Goal Ideas"]:before {
-    content: '🎯'
-}```
-                - `#[Graph Mentorship](<../Graph Mentorship.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Graph Mentorship"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Graph Mentorship"]:before {
-    content: '🤝'
-}```
                 - `#[Prompt Ideas](<../Prompt Ideas.md>)
                     - ```css
 span.rm-page-ref[data-tag="Prompt Ideas"] {
@@ -1639,38 +1731,6 @@ span.rm-page-ref[data-tag="Prompt Ideas"] {
 }
 
 span.rm-page-ref[data-tag="Prompt Ideas"]:before {
-    content: '💭'
-}```
-                - `[Quotes](<../Quotes.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Quotes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Quotes"]:before {
-    content: '💬'
-}```
-                - `[Prompts](<../Prompts.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Prompts"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompts"]:before {
     content: '💭'
 }```
                 - `[Outlines](<../Outlines.md>)
@@ -1737,70 +1797,6 @@ span.rm-page-ref[data-tag="Observations"] {
 span.rm-page-ref[data-tag="Observations"]:before {
     content: '👀'
 }```
-                - `[Opportunities](<../Opportunities.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Opportunities"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Opportunities"]:before {
-    content: '🚀'
-}```
-                - `[Examples](<../Examples.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Examples"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Examples"]:before {
-    content: '🏷'
-}```
-                - `[Transcript](<../Transcript.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Transcript"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Transcript"]:before {
-    content: '📜'
-}```
-                - `[missing-list](<../missing-list.md>)
-                    - ```css
-span.rm-page-ref[data-tag="missing-list"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="missing-list"]:before {
-    content: '🔍'
-}```
                 - `[Conventions](<../Conventions.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conventions"] {
@@ -1833,114 +1829,6 @@ span.rm-page-ref[data-tag="Processes"] {
 span.rm-page-ref[data-tag="Processes"]:before {
     content: '⚙️'
 }```
-                - `[Resources](<../Resources.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Resources"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Resources"]:before {
-    content: '🗃'
-}```
-                - `[Stories](<../Stories.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Stories"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Stories"]:before {
-    content: '🎭'
-}```
-                - `[Sprints](<../Sprints.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Sprints"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Sprints"]:before {
-    content: '🏃‍♂️'
-}```
-                - `[Predictions](<../Predictions.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Predictions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Predictions"]:before {
-    content: '🔮'
-}```
-                - `[Replies](<../Replies.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Replies"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Replies"]:before {
-    content: '💬'
-}```
-                - `[Idioms](<../Idioms.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Idioms"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Idioms"]:before {
-    content: '🗣'
-}```
-                - `[Timestamps](<../Timestamps.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Timestamps"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
                 - `[Tips](<../Tips.md>)
                     - ```css
 span.rm-page-ref[data-tag="Tips"] {
@@ -1956,22 +1844,6 @@ span.rm-page-ref[data-tag="Tips"] {
 
 span.rm-page-ref[data-tag="Tips"]:before {
     content: '☝️'
-}```
-                - `[Tensions](<../Tensions.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Tensions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tensions"]:before {
-    content: '⛓'
 }```
                 - `[Templates](<../Templates.md>)
                     - ```css
@@ -1989,38 +1861,6 @@ span.rm-page-ref[data-tag="Templates"] {
 span.rm-page-ref[data-tag="Templates"]:before {
     content: '📄'
 }```
-                - `#[Q](<../Q.md>)
-                    - ```clojure
-span.rm-page-ref[data-tag="Context Questions"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Context Questions"]:before {
-    content: '❓'
-}```
-                - `#[Open Questions](<../Open Questions.md>)
-                    - ```clojure
-span.rm-page-ref[data-tag="Open Questions"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Open Questions"]:before {
-    content: '❓'
-}```
                 - `[Q](<../Q.md>)
                     - ```css
 span.rm-page-ref[data-tag="Q"] {
@@ -2037,8 +1877,373 @@ span.rm-page-ref[data-tag="Q"] {
 span.rm-page-ref[data-tag="Q"]:before {
     content: '❓'
 }```
-                - `[Shownotes](<../Shownotes.md>)
-                    - ```css
+                - Secondary & Experimental
+                    - `[Lectures](<../Lectures.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Lectures"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Lectures"]:before {
+    content: '🏫'
+}```
+                    - `#[Learning Objectives](<../Learning Objectives.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Learning Objectives"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Learning Objectives"]:before {
+    content: '🎓'
+}```
+                    - `[Discoveries](<../Discoveries.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Discoveries"] {
+    background: [03A9F4](<../03A9F4.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Discoveries"]:before {
+    content: '🎈'
+}```
+                    - `[Recommendations](<../Recommendations.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Recommendations"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Recommendations"]:before {
+    content: '📍'
+}```
+                    - `[Jokes](<../Jokes.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Jokes"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Jokes"]:before {
+    content: '🤣'
+}```
+                    - `[Frameworks](<../Frameworks.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Frameworks"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Frameworks"]:before {
+    content: '⚙️'
+}```
+                    - `#[Goal Ideas](<../Goal Ideas.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Goal Ideas"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Goal Ideas"]:before {
+    content: '🎯'
+}```
+                    - `#[Graph Mentorship](<../Graph Mentorship.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Graph Mentorship"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Graph Mentorship"]:before {
+    content: '🤝'
+}```
+                    - `[Quotes](<../Quotes.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Quotes"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Quotes"]:before {
+    content: '💬'
+}```
+                    - `[Prompts](<../Prompts.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Prompts"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Prompts"]:before {
+    content: '💭'
+}```
+                    - `[missing-list](<../missing-list.md>)
+                        - ```css
+span.rm-page-ref[data-tag="missing-list"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="missing-list"]:before {
+    content: '🔍'
+}```
+                    - `[Opportunities](<../Opportunities.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Opportunities"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Opportunities"]:before {
+    content: '🚀'
+}```
+                    - `[Examples](<../Examples.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Examples"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Examples"]:before {
+    content: '🏷'
+}```
+                    - `[Transcript](<../Transcript.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Transcript"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Transcript"]:before {
+    content: '📜'
+}```
+                    - `[Resources](<../Resources.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Resources"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Resources"]:before {
+    content: '🗃'
+}```
+                    - `[Stories](<../Stories.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Stories"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Stories"]:before {
+    content: '🎭'
+}```
+                    - `[Sprints](<../Sprints.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Sprints"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Sprints"]:before {
+    content: '🏃‍♂️'
+}```
+                    - `[Predictions](<../Predictions.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Predictions"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Predictions"]:before {
+    content: '🔮'
+}```
+                    - `[Replies](<../Replies.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Replies"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Replies"]:before {
+    content: '💬'
+}```
+                    - `[Idioms](<../Idioms.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Idioms"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Idioms"]:before {
+    content: '🗣'
+}```
+                    - `[Timestamps](<../Timestamps.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Timestamps"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+                    - `[Tensions](<../Tensions.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Tensions"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Tensions"]:before {
+    content: '⛓'
+}```
+                    - `#[Open Questions](<../Open Questions.md>)`
+                        - ```html
+span.rm-page-ref[data-tag="Open Questions"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Open Questions"]:before {
+    content: '❓'
+}```
+                    - `[Shownotes](<../Shownotes.md>)
+                        - ```css
 span.rm-page-ref[data-tag="Shownotes"] {
     background: [9E9E9E](<../9E9E9E.md>);
     color: [fff](<../fff.md>);
@@ -2049,8 +2254,8 @@ span.rm-page-ref[data-tag="Shownotes"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-                - `#[Weather Report](<../Weather Report.md>)
-                    - ```css
+                    - `#[Weather Report](<../Weather Report.md>)
+                        - ```css
 span.rm-page-ref[data-tag="Weather Report"] {
     background: [9E9E9E](<../9E9E9E.md>);
     color: [fff](<../fff.md>);
@@ -2065,93 +2270,62 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            5. `Collaboration Tags`
-                - `#[Tips & Tricks](<../Tips & Tricks.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Tips & Tricks"] {
-    background: [4CAF50](<../4CAF50.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+            6. # Collaboration Tags
+                - ## Notifications & Mentions
+                    - [@[[Their Name](<../@[[Their Name.md>)]]
+                    - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
+                    - [~[[Your Name](<../~[[Your Name.md>)]]
+                    - [^[[Your Name](<../^[[Your Name.md>)]]
+                    - Code
+                        - ```css
+span[data-link-title^="@"] {
+        border: 2px solid [a76800](<../a76800.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="@"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "🚨unread "
 }
 
-span.rm-page-ref[data-tag="Tips & Tricks"]:before {
-    content: '🔑'
+span[data-link-title^="~"] {
+        border: 2px solid [02B920](<../02B920.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="~"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "✅read "
+}
+
+span[data-link-title^="^"] {
+        border: 2px solid [4CAF50](<../4CAF50.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="^"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "💾saved "
+}
+
+span[data-link-title^="cc:"] {
+        border: 2px solid [2196F3](<../2196F3.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="cc:"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "📨 "
 }```
-                - `[Questions](<../Questions.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Questions"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓'
-}```
-                - [Reply-from](<../Reply-from.md>) [Your Name](<../Your Name.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Reply-from"] {
-	background-image: linear-gradient(to right, [CD4CE3AD](<../CD4CE3AD.md>),[CD4CE3AD](<../CD4CE3AD.md>));
-	background-size: 100%;
-    color: rgb(255,255,255);
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    font-weight: 500;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
- span.rm-page-ref[data-tag="Reply-from"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Reply-from"]:after, span.rm-page-ref[data-tag="Question"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Reply-from"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="Reply-from"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-
-```
-                - `[Conversation](<../Conversation.md>)
+                - [Conversation](<../Conversation.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conversation"] {
     background: [9C27B0](<../9C27B0.md>);
@@ -2167,217 +2341,7 @@ span.rm-page-ref[data-tag="Conversation"] {
 span.rm-page-ref[data-tag="Conversation"]:before {
     content: '💬'
 }```
-                - `[Announcements](<../Announcements.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Announcements"] {
-    background: [F44336](<../F44336.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Announcements"]:before {
-    content: '📢'
-}```
-                - `#[Change Log](<../Change Log.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Change Log"] {
-    background: [4CAF50](<../4CAF50.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
-}```
-                - `[Promptstorming](<../Promptstorming.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Promptstorming"] {
-    background: [98160C](<../98160C.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Promptstorming"]:before {
-    content: '🌪️'
-}```
-                - `#[Help Wanted](<../Help Wanted.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Help Wanted"] {
-    background: [9C27B0](<../9C27B0.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Help Wanted"]:before {
-    content: '😃'
-}```
-                - `#[Dice Roll](<../Dice Roll.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Dice Roll"] {
-    background: [009688](<../009688.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Dice Roll"]:before {
-    content: '🎲'
-}```
-                - `#[Scratchpad](<../Scratchpad.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Scratchpad"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Scratchpad"]:before {
-    content: '✏️'
-}```
-                - `#[Bookmarks](<../Bookmarks.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Bookmarks"] {
-    background: [2196F3](<../2196F3.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Bookmarks"]:before {
-    content: '💾'
-}```
-                - `#[The Main Feed](<../The Main Feed.md>)
-                    - ```css
-span.rm-page-ref[data-tag="The Main Feed"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="The Main Feed"]:before {
-    content: '⭐️'
-}```
-                - `#[Daily Log](<../Daily Log.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Daily Log"] {
-    background: [FF9800](<../FF9800.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Log"]:before {
-    content: '📆'
-}```
-                - `#[Daily Activities](<../Daily Activities.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Daily Activities"] {
-    background: [4CAF50](<../4CAF50.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Activities"]:before {
-    content: '✍🏼'
-}```
-                - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
-                    - ```css
-span.rm-page-ref[data-tag="My Daily Notes"] {
-	background-image: linear-gradient(to right, [607D8B](<../607D8B.md>),[607D8B](<../607D8B.md>));
-	background-size: 100%;
-    color: rgb(255,255,255);
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
- span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Post"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="My Daily Notes"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [607D8B](<../607D8B.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="My Daily Notes"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [607D8B](<../607D8B.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}```
-                - #[Posted by](<../Posted by.md>) [Your Name](<../Your Name.md>)
-                - `#[Chat](<../Chat.md>)
+                - #[Chat](<../Chat.md>)
                     - ```css
 span.rm-page-ref[data-tag="Chat"] {
     background: [2196F3](<../2196F3.md>);
@@ -2393,241 +2357,9 @@ span.rm-page-ref[data-tag="Chat"] {
 span.rm-page-ref[data-tag="Chat"]:before {
     content: '📢'
 }```
-                - `[Chat](<../Chat.md>) [Your Name](<../Your Name.md>) #@ [Beau Haan 📌](<../Beau Haan 📌.md>)`
-                    - ```ruby
-span.rm-page-ref[data-tag="Chat"] {
-	background-image: linear-gradient(to right, [4c8dc9](<../4c8dc9.md>),[4c8dc9](<../4c8dc9.md>));
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
- 
-}
-
-/* span.rm-page-ref[data-tag="Chat"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Chat"]:after, 
-span.rm-page-ref[data-tag="Chat"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Chat"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [4c8dc9](<../4c8dc9.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="Chat"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [4c8dc9](<../4c8dc9.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-*/
-```
-                - [Reply](<../Reply.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Reply"] {
-	background: [CD4CE3AD](<../CD4CE3AD.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-  
-/* span.rm-page-ref[data-tag="Reply"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Reply"]:after, span.rm-page-ref[data-tag="Reply"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Reply"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="Reply"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-*/
-```
-                - [Question](<../Question.md>) [Their Name](<../Their Name.md>)
-                - [Help](<../Help.md>) [Your Name](<../Your Name.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Help"] {
-	background-image: linear-gradient(to right, [FF9800](<../FF9800.md>),[FF9800](<../FF9800.md>));
-	background-size: 100%;
-    color: black;
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
- span.rm-page-ref[data-tag="Help"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Help"]:after, span.rm-page-ref[data-tag="Help"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Help"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [FF9800](<../FF9800.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="Help"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [FF9800](<../FF9800.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-
-
-```
-                - #@ [Their Name](<../Their Name.md>)
-                    - ```css
-span.rm-page-ref[data-tag="@"] {
-	background-image: linear-gradient(to right, [4c8dc9](<../4c8dc9.md>),[4c8dc9](<../4c8dc9.md>));
-	background-size: 100%;
-    color: [EEF2EE](<../EEF2EE.md>);
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
- span.rm-page-ref[data-tag="@"] + span[data-link-title] {
-     background: [e4ffe3](<../e4ffe3.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="@"]:after, span.rm-page-ref[data-tag="@"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="@"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [4c8dc9](<../4c8dc9.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="@"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [4c8dc9](<../4c8dc9.md>);
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-
-
-
-```
-                - [Polls](<../Polls.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Polls"] {
-    color: white !important;
-    padding: 3px 5px 3px 5px;
-	font-size: 13px;
-    line-height: 1em;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [FFFFFF](<../FFFFFF.md>), [FFEFBA](<../FFEFBA.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [5856d6](<../5856d6.md>), [5856d6](<../5856d6.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-}
-
-
-
-
-
-
-```
-                - [Video](<../Video.md>)
-                    - ```css
+                - Depreciated
+                    - `[Video](<../Video.md>)`
+                        - ```html
 span.rm-page-ref[data-tag="Video"] {
 	background-image: linear-gradient(to right, [0D71EB](<../0D71EB.md>),[0D71EB](<../0D71EB.md>));
 	background-size: 100%;
@@ -2680,66 +2412,315 @@ span.rm-page-ref[data-tag="Video"]:before {
 
 
 ```
-                - Notifications & Mentions:
-                    - **[Example](<../Example.md>):**
-                        - [@[[Their Name](<../@[[Their Name.md>)]]
-                        - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
-                        - [~[[Your Name](<../~[[Your Name.md>)]]
-                        - [^[[Your Name](<../^[[Your Name.md>)]]
-                    - ```css
-span[data-link-title^="@"] {
-        border: 2px solid [a76800](<../a76800.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="@"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "🚨unread "
+                    - `#[Dice Roll](<../Dice Roll.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Dice Roll"] {
+    background: [009688](<../009688.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
 }
 
-span[data-link-title^="~"] {
-        border: 2px solid [02B920](<../02B920.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="~"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "✅read "
-}
-
-span[data-link-title^="^"] {
-        border: 2px solid [4CAF50](<../4CAF50.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="^"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "💾saved "
-}
-
-span[data-link-title^="cc:"] {
-        border: 2px solid [2196F3](<../2196F3.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="cc:"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "📨 "
+span.rm-page-ref[data-tag="Dice Roll"]:before {
+    content: '🎲'
 }```
-            6. `Feedback Tags` 
-                - [Feedback](<../Feedback.md>) 
-#[[[Feedback](<../[[Feedback.md>): What's working]]
-#[[[Feedback](<../[[Feedback.md>): What could be better]]
-#[[[Feedback](<../[[Feedback.md>): [Suggestions](<../Suggestions.md>)]]
-                    - ```css
+                    - [Polls](<../Polls.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Polls"] {
+    color: white !important;
+    padding: 3px 5px 3px 5px;
+	font-size: 13px;
+    line-height: 1em;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, [FFFFFF](<../FFFFFF.md>), [FFEFBA](<../FFEFBA.md>));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, [5856d6](<../5856d6.md>), [5856d6](<../5856d6.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+
+
+
+
+```
+                    - [Reply](<../Reply.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Reply"] {
+	background: [CD4CE3AD](<../CD4CE3AD.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+  
+/* span.rm-page-ref[data-tag="Reply"] + span[data-link-title] {
+     background: [e4ffe3](<../e4ffe3.md>) !important;
+     color: [F3F7F2](<../F3F7F2.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Reply"]:after, span.rm-page-ref[data-tag="Reply"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Reply"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="Reply"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+*/
+```
+                    - `[Reply-from](<../Reply-from.md>) [your_name_here](<../your_name_here.md>)`
+                        - ```html
+span.rm-page-ref[data-tag="Reply-from"] {
+	background-image: linear-gradient(to right, [CD4CE3AD](<../CD4CE3AD.md>),[CD4CE3AD](<../CD4CE3AD.md>));
+	background-size: 100%;
+    color: rgb(255,255,255);
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+ span.rm-page-ref[data-tag="Reply-from"] + span[data-link-title] {
+     background: [e4ffe3](<../e4ffe3.md>) !important;
+     color: [F3F7F2](<../F3F7F2.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Reply-from"]:after, span.rm-page-ref[data-tag="Question"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Reply-from"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="Reply-from"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [CD4CE3AD](<../CD4CE3AD.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+
+```
+                    - `#[Posted by](<../Posted by.md>) [your_name_here](<../your_name_here.md>)`
+                    - [Help](<../Help.md>) [your_name_here](<../your_name_here.md>)
+                        - ```html
+span.rm-page-ref[data-tag="Help"] {
+	background-image: linear-gradient(to right, [FF9800](<../FF9800.md>),[FF9800](<../FF9800.md>));
+	background-size: 100%;
+    color: black;
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+ span.rm-page-ref[data-tag="Help"] + span[data-link-title] {
+     background: [e4ffe3](<../e4ffe3.md>) !important;
+     color: [F3F7F2](<../F3F7F2.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Help"]:after, span.rm-page-ref[data-tag="Help"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Help"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [FF9800](<../FF9800.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="Help"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [FF9800](<../FF9800.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+
+
+```
+                    - #@ [your_name_here](<../your_name_here.md>)
+                        - ```html
+span.rm-page-ref[data-tag="@"] {
+	background-image: linear-gradient(to right, [4c8dc9](<../4c8dc9.md>),[4c8dc9](<../4c8dc9.md>));
+	background-size: 100%;
+    color: [EEF2EE](<../EEF2EE.md>);
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
+}
+
+ span.rm-page-ref[data-tag="@"] + span[data-link-title] {
+     background: [e4ffe3](<../e4ffe3.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="@"]:after, span.rm-page-ref[data-tag="@"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="@"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [4c8dc9](<../4c8dc9.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="@"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [4c8dc9](<../4c8dc9.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+
+
+
+```
+                    - `[Chat](<../Chat.md>) [Your Name](<../Your Name.md>) #@ [Beau Haan 📌](<../Beau Haan 📌.md>)`
+                        - ```ruby
+span.rm-page-ref[data-tag="Chat"] {
+	background-image: linear-gradient(to right, [4c8dc9](<../4c8dc9.md>),[4c8dc9](<../4c8dc9.md>));
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+ 
+}
+
+/* span.rm-page-ref[data-tag="Chat"] + span[data-link-title] {
+     background: [e4ffe3](<../e4ffe3.md>) !important;
+     color: [F3F7F2](<../F3F7F2.md>) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
+}
+
+
+span.rm-page-ref[data-tag="Chat"]:after, 
+span.rm-page-ref[data-tag="Chat"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Chat"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [4c8dc9](<../4c8dc9.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+
+span.rm-page-ref[data-tag="Chat"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: [4c8dc9](<../4c8dc9.md>);
+    border-width: 11px;
+    margin-top: -11px;
+}
+*/
+```
+            7. ## Feedback Tags
+                - [Feedback](<../Feedback.md>)
+                    - #[[[Feedback](<../[[Feedback.md>): What's working]]
+                    - #[[[Feedback](<../[[Feedback.md>): What could be better]]
+                    - #[[[Feedback](<../[[Feedback.md>): [Suggestions](<../Suggestions.md>)]]
+                    - Code
+                        - ```css
 :root {
   --color:[FFFFFF](<../FFFFFF.md>);
   --padding:2px 5px 2px 5px;
@@ -2803,7 +2784,7 @@ span.rm-page-ref[data-tag="[Feedback](<../Feedback.md>): [Suggestions](<../Sugge
 span.rm-page-ref[data-tag="[Feedback](<../Feedback.md>): [Suggestions](<../Suggestions.md>)"]:before {
     content: '📣💬'
 }```
-                - `#[Bug Reports-[[resolved](<../Bug Reports-[[resolved.md>)]]
+                - #[Bug Reports](<../Bug Reports.md>)
                     - ```css
 span.rm-page-ref[data-tag="Bug Reports"] {
     background: [009688](<../009688.md>);
@@ -2820,7 +2801,7 @@ span.rm-page-ref[data-tag="Bug Reports"]:before {
     content: '🐛 '
 }
 ```
-                - `#[Roam Enhancement Requests](<../Roam Enhancement Requests.md>)
+                - #[Roam Enhancement Requests](<../Roam Enhancement Requests.md>)
                     - ```css
 span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
     background: [009688](<../009688.md>);
@@ -2836,7 +2817,23 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-            7. `Processing Tags` 
+            8. ## Processing Tags
+                - `#[Housekeeping](<../Housekeeping.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Housekeeping"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Housekeeping"]:before {
+    content: '🧹'
+}```
                 - `[SRS](<../SRS.md>)
                     - ```css
 span.rm-page-ref[data-tag="SRS"] {
@@ -2933,7 +2930,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-            8. `Highlight Tags`
+            9. ### Highlight Tags
                 - [Highlights](<../Highlights.md>)
                     - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -2950,7 +2947,7 @@ span.rm-page-ref[data-tag="Highlights"] {
 span.rm-page-ref[data-tag="Highlights"]:before {
     content: ''
 }```
-                - `#[My Wins](<../My Wins.md>)
+                - #[My Wins](<../My Wins.md>)
                     - ```css
 span.rm-page-ref[data-tag="My Wins"] {
     background: [4CAF50](<../4CAF50.md>);
@@ -2982,88 +2979,7 @@ span.rm-page-ref[data-tag="Key Concepts"] {
 span.rm-page-ref[data-tag="Key Concepts"]:before {
     content: '🗝'
 }```
-                - [The BAGEL Method](<../The BAGEL Method.md>)
-                    - #[Big Idea](<../Big Idea.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Big Idea"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Big Idea"]:before {
-    content: '🔵'
-}```
-                    - #[Antagonism](<../Antagonism.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Antagonism"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Antagonism"]:before {
-    content: '🔴'
-}```
-                    - #[General Noteworthy](<../General Noteworthy.md>)
-                        - ```css
-span.rm-page-ref[data-tag="General Noteworthy"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="General Noteworthy"]:before {
-    content: '🟡'
-}```
-                    - #[External Reference](<../External Reference.md>)
-                        - ```css
-span.rm-page-ref[data-tag="External Reference"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="External Reference"]:before {
-    content: '🟠'
-}```
-                    - #[List of Ideas](<../List of Ideas.md>)
-                        - ```css
-span.rm-page-ref[data-tag="List of Ideas"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="List of Ideas"]:before {
-    content: '🟢'
-}```
-                - `#[Random Review](<../Random Review.md>)
+                - #[Random Review](<../Random Review.md>)
                     - ```css
 span.rm-page-ref[data-tag="Random Review"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -3079,7 +2995,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-            9. `Daily Tags`
+            10. ## Journaling Tags
                 - `#[Writing & Reflection](<../Writing & Reflection.md>)
                     - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -3144,8 +3060,190 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-            10. `[Quote](<../Quote.md>) (inline block ref)
-                - ```css
+            11. ### Status Tags
+                - Examples
+                    - #[Status/Idea](<../Status/Idea.md>)
+                    - #[Status/Active](<../Status/Active.md>)
+                    - [Status](<../Status.md>)/On-Hold
+                    - #[Status/Dropped](<../Status/Dropped.md>)
+                    - [Status](<../Status.md>)/Enabled
+                    - [Status](<../Status.md>)/Inactive
+                    - [Status](<../Status.md>)/Submitted
+                    - [Status](<../Status.md>)/Completed
+                    - [Status](<../Status.md>)/Deactivated
+                    - #[Status/Someday|Maybe](<../Status/Someday|Maybe.md>)
+                    - #[Status/Not Completed](<../Status/Not Completed.md>)
+                - Code
+                    - ```css
+:root {
+  --status-padding: 1px 1px 1px 1px;
+}
+
+span.rm-page-ref[data-tag="Status/Sent"] {
+    background: [03A9F4](<../03A9F4.md>);
+    color: [fff](<../fff.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Resolved"] {
+    background: [8BC34A](<../8BC34A.md>);
+    color: [fff](<../fff.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Closed"] {
+    background: [000000](<../000000.md>);
+    color: [fff](<../fff.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Completed"] {
+    color: [4CAF50](<../4CAF50.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Incomplete"] {
+    color: [607D8B](<../607D8B.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Waiting-For"] {
+    color: [795548](<../795548.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/On-Hold"] {
+    color: [6A6A6A](<../6A6A6A.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Dropped"] {
+    color: [C30D00](<../C30D00.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Active"] {
+    color: [2196F3](<../2196F3.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Approved"] {
+    color: [4CAF50](<../4CAF50.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Someday|Maybe"] {
+    color: [467C96](<../467C96.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Not-Completed, Carried"] {
+    color: [FF9800](<../FF9800.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Enabled"] {
+    background: [4CAF50](<../4CAF50.md>);
+    color: [fff](<../fff.md>);
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+            12. ## Miscellaneous
+                - `#[Quick Capture](<../Quick Capture.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Quick Capture"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Quick Capture"]:before {
+    content: '📱'
+}```
+                - `[Problems](<../Problems.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Problems"] {
+    background: [C52D22](<../C52D22.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+            13. ## Experimental
+                - `[Quote](<../Quote.md>) (inline block ref)
+                    - ```css
 span.rm-page-ref[data-tag="Quote"] {
     background: [607D8B](<../607D8B.md>) !important;
     color: rgb(255,255,255) !important;
@@ -3161,11 +3259,104 @@ span.rm-page-ref[data-tag="Quote"]:before {
     content: '✦'
 }
 ```
-            11. `#[Actions Taken](<../Actions Taken.md>)
-            12. `#[Action Items](<../Action Items.md>)
-                - ```css
-span.rm-page-ref[data-tag="Action Items"] {
-    background: [9E9E9E](<../9E9E9E.md>);
+                - [Personas](https://www.rodrigofranco.com/roam-personas-css.html) [Experiments](<../Experiments.md>)
+                    - Examples
+                        - #[P:Self](<../P:Self.md>) Inner Self Talk
+                        - #[P:Loving](<../P:Loving.md>) Love thyself
+                        - #[P:Critic](<../P:Critic.md>) Hard on yourself
+                    - Code
+                        - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: [DFDDD5](<../DFDDD5.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:black;
+}
+
+[data-tag="P:Loving"]{
+  background: [e2d0cb](<../e2d0cb.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color:red;
+}
+
+[data-tag="P:Critic"]{
+  background: [C4CBB7](<../C4CBB7.md>);
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color: brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [DFDDD5](<../DFDDD5.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [e2d0cb](<../e2d0cb.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: [C4CBB7](<../C4CBB7.md>);
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+            14. ## Archived & Deprecated
+                - `[Resolved](<../Resolved.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Resolved"] {
+    color: [1ea20d](<../1ea20d.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+                - `[Happenings](<../Happenings.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Happenings"] {
+    background: [0DCAAC](<../0DCAAC.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3173,16 +3364,11 @@ span.rm-page-ref[data-tag="Action Items"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-span.rm-page-ref[data-tag="Action Items"]:before {
-    content: '🚩'
 }```
-            13. `#[Focus Mode](<../Focus Mode.md>)
-            14. `#[The Zettelkasten](<../The Zettelkasten.md>)
-                - ```css
-span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: [607D8B](<../607D8B.md>);
+                - `[Disabled](<../Disabled.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Disabled"] {
+    background: [B82419](<../B82419.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3190,15 +3376,11 @@ span.rm-page-ref[data-tag="The Zettelkasten"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡'
 }```
-            15. `#[Focus Mode (plus)](<../Focus Mode (plus).md>)
-                - ```css
-span.rm-page-ref[data-tag="Focus Mode (plus)"] {
-    background: [607D8B](<../607D8B.md>);
+                - `[Important](<../Important.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Important"] {
+    background: [0BE100](<../0BE100.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3206,15 +3388,11 @@ span.rm-page-ref[data-tag="Focus Mode (plus)"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-span.rm-page-ref[data-tag="Focus Mode (plus)"]:before {
-    content: '🎯'
 }```
-            16. `#[Housekeeping](<../Housekeeping.md>)
-                - ```css
-span.rm-page-ref[data-tag="Housekeeping"] {
-    background: [9E9E9E](<../9E9E9E.md>);
+                - `[Urgent](<../Urgent.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Urgent"] {
+    background: [D90000](<../D90000.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3222,29 +3400,20 @@ span.rm-page-ref[data-tag="Housekeeping"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-span.rm-page-ref[data-tag="Housekeeping"]:before {
-    content: '🧹'
 }```
-            17. `#[Quick Capture](<../Quick Capture.md>)
-                - ```css
-span.rm-page-ref[data-tag="Quick Capture"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
+                - `Alert/ tags`
+                    - ```css
+span.rm-page-ref[data-tag="Alert/Not Populated"] {
+    color: [6F6F6F](<../6F6F6F.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-span.rm-page-ref[data-tag="Quick Capture"]:before {
-    content: '📱'
 }```
-            18. `[Flag](<../Flag.md>)
-                - ```css
+                - `[Flag](<../Flag.md>)`
+                    - ```css
 span.rm-page-ref[data-tag="Flag"] {
     background: [9E9E9E](<../9E9E9E.md>);
     color: [fff](<../fff.md>);
@@ -3259,225 +3428,8 @@ span.rm-page-ref[data-tag="Flag"] {
 span.rm-page-ref[data-tag="Flag"]:before {
     content: '🚩'
 }```
-            19. `[Problems](<../Problems.md>)
-                - ```css
-span.rm-page-ref[data-tag="Problems"] {
-    background: [C52D22](<../C52D22.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            20. `[Resolved](<../Resolved.md>)
-                - ```css
-span.rm-page-ref[data-tag="Resolved"] {
-    color: [1ea20d](<../1ea20d.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            21. `[Happenings](<../Happenings.md>)
-                - ```css
-span.rm-page-ref[data-tag="Happenings"] {
-    background: [0DCAAC](<../0DCAAC.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            22. `[Disabled](<../Disabled.md>)
-                - ```css
-span.rm-page-ref[data-tag="Disabled"] {
-    background: [B82419](<../B82419.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            23. `[Important](<../Important.md>)
-                - ```css
-span.rm-page-ref[data-tag="Important"] {
-    background: [0BE100](<../0BE100.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            24. `[Urgent](<../Urgent.md>)
-                - ```css
-span.rm-page-ref[data-tag="Urgent"] {
-    background: [D90000](<../D90000.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            25. `Status/ tags`
-                - ```css
-span.rm-page-ref[data-tag="Status/Sent"] {
-    background: [03A9F4](<../03A9F4.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Resolved"] {
-    background: [8BC34A](<../8BC34A.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Closed"] {
-    background: [000000](<../000000.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Completed"] {
-    color: [4CAF50](<../4CAF50.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Incomplete"] {
-    color: [607D8B](<../607D8B.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Waiting-For"] {
-    color: [795548](<../795548.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/On-Hold"] {
-    color: [6A6A6A](<../6A6A6A.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Dropped"] {
-    color: [C30D00](<../C30D00.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Active"] {
-    color: [2196F3](<../2196F3.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Approved"] {
-    color: [4CAF50](<../4CAF50.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Someday|Maybe"] {
-    color: [467C96](<../467C96.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Not-Completed, Carried"] {
-    color: [FF9800](<../FF9800.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Enabled"] {
-    background: [4CAF50](<../4CAF50.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            26. `Alert/ tags`
-                - ```css
-span.rm-page-ref[data-tag="Alert/Not Populated"] {
-    color: [6F6F6F](<../6F6F6F.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            27. `Flag/ tags`
-                - ```css
+                - `Flag/ tags`
+                    - ```css
 span.rm-page-ref[data-tag="Flag/Favourite"] {
     color: [FF3C7E](<../FF3C7E.md>);
     padding: 2px 5px 2px 5px;
@@ -3557,8 +3509,8 @@ span.rm-page-ref[data-tag="Flag/Needs-Review"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            28. `SCC/ tags`
-                - ```css
+                - `SCC/ tags`
+                    - ```css
 span.rm-page-ref[data-tag="SCC/No Contact Yet"] {
     background: [C7291D](<../C7291D.md>);
     color: [fff](<../fff.md>);
@@ -3594,171 +3546,40 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     font-weight: 500;
   	border-radius: 5px 5px 5px 5px;
 }```
-            29. Personas [Experiments](<../Experiments.md>)
-                - Examples
-                    - [P](<../P.md>):Self Your inner self talk
-                    - [P](<../P.md>):Loving Love thyself
-                    - [P](<../P.md>):Critic One's inner critical voice
-                - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: [DFDDD5](<../DFDDD5.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Loving"]{
-  background: [e2d0cb](<../e2d0cb.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color: red;
-}
-
-[data-tag="P:Critic"]{
-  background: [C4CBB7](<../C4CBB7.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [DFDDD5](<../DFDDD5.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [e2d0cb](<../e2d0cb.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [C4CBB7](<../C4CBB7.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
-            30. [Personas](https://www.rodrigofranco.com/roam-personas-css.html)
-                - Examples
-                    - #[P:Self](<../P:Self.md>) Inner Self Talk
-                    - #[P:Loving](<../P:Loving.md>) Love thyself
-                    - #[P:Critic](<../P:Critic.md>) Hard on yourself
-                - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: [DFDDD5](<../DFDDD5.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:black;
-}
-
-[data-tag="P:Loving"]{
-  background: [e2d0cb](<../e2d0cb.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color:red;
-}
-
-[data-tag="P:Critic"]{
-  background: [C4CBB7](<../C4CBB7.md>);
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color: brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [DFDDD5](<../DFDDD5.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [e2d0cb](<../e2d0cb.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: [C4CBB7](<../C4CBB7.md>);
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
-            31. **Archive**
-                - `Evergreen tags` ([Legacy](<../Legacy.md>))
+                - `#[Focus Mode (plus)](<../Focus Mode (plus).md>)`
                     - ```css
+span.rm-page-ref[data-tag="Focus Mode (plus)"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Focus Mode (plus)"]:before {
+    content: '🎯'
+}```
+                - `#[Action Items](<../Action Items.md>)`
+                    - ```css
+span.rm-page-ref[data-tag="Action Items"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Action Items"]:before {
+    content: '🚩'
+}```
+                - `Evergreen tags` ([Legacy](<../Legacy.md>))
+                    - ```html
 span.rm-page-ref[data-tag="Groves"] {
     background: [009678](<../009678.md>);
     color: [fff](<../fff.md>);
@@ -4372,41 +4193,43 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     line-height: 2em;
     font-weight: 500;
 }```
-        2. Buttons & Word Count [Status](<../Status.md>)/Enabled
-            - ```css
+        2. # Buttons & Word Count [Status](<../Status.md>)/Enabled
+            - Example: {{word-count}}
+            - Code
+                - ```css
 /* Buttons in Block Text */
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]),
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):focus,
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):hover {
   background-color: [D1D1D1](<../D1D1D1.md>);
   font-size: 12px;
-/*  line-height: 12px;*/
+  line-height: 12px;
   padding: 2px 4px 2px 4px; 
   min-height: 0px;
 }
 
 /* Buttons in Block References */
-.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]),
-.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):focus,
-.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):hover {
-  background-color: [D1D1D1](<../D1D1D1.md>);
-  font-size: 12px;
-/*  line-height: 12px;*/
-  padding: 2px 4px 2px 4px; 
-  min-height: 0px;
+	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]),
+	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):focus,
+	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):hover {
+	background-color: [D1D1D1](<../D1D1D1.md>);
+	font-size: 12px;
+	line-height: 12px;
+	padding: 2px 4px 2px 4px; 
+	min-height: 0px;
 }
 
 /* Buttons in Zoom Masks */
-.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]),
-.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):focus,
-.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):hover {
-  background-color: [D1D1D1](<../D1D1D1.md>);
-  font-size: 12px;
-/*  line-height: 12px;*/
-  padding: 2px 4px 2px 4px; 
-  min-height: 0px;
+	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]),
+	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):focus,
+	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):hover {
+	background-color: [D1D1D1](<../D1D1D1.md>);
+	font-size: 12px;
+	line-height: 12px;
+	padding: 2px 4px 2px 4px; 
+	min-height: 0px;
 }```
-        3. Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
+        3. # Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
             - ```css
 
 .roam-block-container  div.roam-block-container {
@@ -4424,8 +4247,8 @@ transition:  box-shadow 0.5s;
 {
 background-color: [000000](<../000000.md>);
 }```
-        4. Query Display Options
-            - V1
+        4. # Query Display Options [Status](<../Status.md>)/Enabled
+            - Code
                 - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
 before the beginning of your query (in the same block):
@@ -4479,7 +4302,7 @@ display:none!important; /* hide page reference (title) */
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }```
-        5. Headings [Status](<../Status.md>)/Enabled
+        5. # Headings [Status](<../Status.md>)/Enabled
             - Preview
                 - # Heading 1
                     - ## Heading 2
@@ -4552,7 +4375,7 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-        6. Page References [Status](<../Status.md>)/Enabled
+        6. # Page References [Status](<../Status.md>)/Enabled
             - ```css
 .rm-page-ref-link-color {
     color: [2179F3](<../2179F3.md>);
@@ -4561,19 +4384,19 @@ h1.level2,
 a {
     color: [2179F3](<../2179F3.md>);
 }```
-        7. Page Reference Brackets
+        7. # Page Reference Brackets
             - ```ruby
 .rm-page-ref__brackets{
   display:none;
 }```
-        8. Block Reference styling [Status](<../Status.md>)/Enabled
+        8. # Block Reference styling [Status](<../Status.md>)/Enabled
             - ```css
 .rm-block-ref > span:before {
   content: '| ';
   font-weight: 700;
   color: [FF9800](<../FF9800.md>)
 }```
-        9. Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
+        9. # Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
             - Example
                 - [[[E:](<../[[E:.md>) active vs passive resurfacing]]
             - Code
@@ -4638,24 +4461,29 @@ a {
     text-decoration: none;
     padding-bottom: 0px;
 }```
-        10. External Links [Status](<../Status.md>)/Enabled
+        10. # External Links [Status](<../Status.md>)/Enabled
             - V1
                 - ```css
 .rm-alias--external {
   color: var(--fg-link);
 }
 
-a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+.rm-alias--external:after {
+  content: '↗';
+}
+
+.rm-alias--external:hover {
     text-decoration: none!important;
     border-bottom: 1px dashed;
     color: [2196F3](<../2196F3.md>);;
 }
-a[href^='http']{
+  
+.rm-alias--external{
   color: [2196F3](<../2196F3.md>);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
-        11. Alias Styling 
+        11. # Alias Styling 
             - ```clojure
 .rm-alias.rm-alias-page {
   	color: [0884ff](<../0884ff.md>) ;
@@ -4675,13 +4503,13 @@ a[href^='http']{
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
-        12. Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
+        12. # Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
             - ```css
 
 [right-sidebar](<../right-sidebar.md>) .rm-title-textarea {
     width: 95%;
 }```
-        13. Left Sidebar - Highlight important pages [Status](<../Status.md>)/Enabled
+        13. # Left Sidebar — Highlight important pages [Status](<../Status.md>)/Enabled
             - ```css
 
 .starred-pages a[href*="MorTyZR-2"]>.page,
@@ -4703,7 +4531,7 @@ a[href^='http']{
 {
   color: [9C27B0](<../9C27B0.md>) !important;
 }```
-        14. Show Main Page multibar [Status](<../Status.md>)/Enabled
+        14. # Show Main Page multibar [Status](<../Status.md>)/Enabled
             - This is to stop people (read: me :P ) from accidentally clicking on the bar
             - ```css
 
@@ -4798,7 +4626,7 @@ h6 {
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [ ] Reorganize the [roam/css](<../roam/css.md>)
 
-- [minimal](<../minimal.md>) {{[query](<../query.md>): {and: [Evergreen](<../Evergreen.md>) {not: {or: [E:](<../E:.md>) [roam/css](<../roam/css.md>)}
+- [minimal](<../minimal.md>) {{[query](<../query.md>): {and: [Evergreens](<../Evergreens.md>) {not: {or: [E:](<../E:.md>) [roam/css](<../roam/css.md>)}
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)

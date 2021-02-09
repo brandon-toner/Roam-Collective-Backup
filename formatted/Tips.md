@@ -5,6 +5,10 @@
 - Create a hub for the [Roam Games](<Roam Games.md>)
         - **[Tips](<Tips.md>):**
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
+                        - **[Tips](<Tips.md>):**
+
 ## [Help Wanted](<Help Wanted.md>)
 - Tell us about you experience using the [feedback](<feedback.md>) tags 😃 ((Nest your thoughts and ideas underneath the feedback tags within your DNP Section))
 - **[Tips](<Tips.md>):**

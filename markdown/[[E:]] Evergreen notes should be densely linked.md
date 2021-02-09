@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]]
+- Tags:: #[[Evergreens]]
     - Date Created:: [[January 30th, 2021]] 
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]

@@ -13,10 +13,10 @@
         - Notes:
             - #[[Fleeting Notes]]
             - #[[Literature Notes]]
-            - #[[Evergreen Notes]]
+            - #[[Evergreens]]
             - #[[Reference Notes]]
         - Questions:
-            - #[[Open Questions]]
+            - #[[Q]]
             - #[[Q]]
             - #[[Zettel Questions]]
     - Conversation::

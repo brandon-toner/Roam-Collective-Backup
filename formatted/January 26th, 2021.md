@@ -47,7 +47,7 @@
                         - #[Fleeting Notes](<Fleeting Notes.md>) [Start writing, and worry about optimizing structure later.](<Start writing, and worry about optimizing structure later..md>)
                     - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
         - [Questions](<Questions.md>) If I [filter](<filter.md>)-out some page links from a page ([e.g.](<e.g..md>) hiding "not-populated"), does that filter it out for everyone or just me?
-        - #[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
+        - #[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
             - My goal would be to put blocks that I want input or commentary on in a commonly reviewed place (like Announcements) so that it increases the probability of being seen. 
             - Maybe another tag that gets pinned to the top? The `[Mainstage](<Mainstage.md>)` or "requests for input" maybe? 
             - Using `[Highlights](<Highlights.md>)` is a possibility! 
@@ -66,7 +66,7 @@
             - [Roam Tour](<Roam Tour.md>) with [Robert Haisfield](<Robert Haisfield.md>) — [link](https://www.youtube.com/watch?v=KoddCmn3eL0)
         - [Andy Henson](<Andy Henson.md>)'s [Roam Fundamentals](<Roam Fundamentals.md>)
         - [Andy Matuschak](<Andy Matuschak.md>)'s "Andy's Working Notes"
-    - #[Open Questions](<Open Questions.md>)
+    - [Questions](<Questions.md>)
         - How to import highlights and take [literature notes](<literature notes.md>) in [Roam-Collective](<Roam-Collective.md>)?
             - [x] Build "resource" template... for articles/books/twitter threads etc. 
                 - Based on [Readwise](<Readwise.md>) template.
@@ -93,12 +93,12 @@
             - Using SmartBlocks & templates to facilitate structure and effortlessly drive conventions
     - [Chat](<Chat.md>)
         - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
-            - "#[Open Questions](<Open Questions.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+            - "#[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
     - [Conversation](<Conversation.md>)
         - In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>) perhaps. I consider making a page link a step in [zettelkasten](<zettelkasten.md>) maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [evergreen notes](<evergreen notes.md>) template to it to complete the metamorphosis.
         - **["Contributors](<"Contributors.md>):** #[Help Wanted](<Help Wanted.md>)"
-            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... [Ideas](<Ideas.md>)
+            - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... [I](<I.md>)
         - "Riffing while in transit..." [Charles Farr](<Charles Farr.md>)
             - Love this! Great use of the Scratchpad.
             - "foundations of knowledge"
@@ -205,7 +205,7 @@
                         - Y
                         - Z
         - [Q](<Q.md>) Is there a way to standardize the color format to indicate specific types of tags ([e.g.](<e.g..md>), meta vs personal vs administrative etc...)?
-    - #[Open Questions](<Open Questions.md>) ((about collaboration and beyond))
+    - #[Questions](<Questions.md>) ((about collaboration and beyond))
         - [Q](<Q.md>) What types of [communication](<communication.md>) does a collective framework need to be able to handle?
             - "synchronous versus asynchronous"
             - "targeted versus broad"
@@ -252,7 +252,7 @@
             - Expands the function of both the `#[Open Questions](<Open Questions.md>)` and `[Questions](<Questions.md>)` tags
             - Envision being able to use it with [SmartBlocks](<SmartBlocks.md>) and [queries](<queries.md>)
         - Added new CSS from Maggie Delano to clean up queries
-            - Here: "Query Display Options"
+            - Here: "Query Display Options [Status](<Status.md>)/Enabled"
                 - `[minimal](<minimal.md>)` — hides breadcrumbs and page reference
                 - `[min-con](<min-con.md>)` — hides the breadcrumbs in a query
                 - `[min-title](<min-title.md>)` — hides the page references

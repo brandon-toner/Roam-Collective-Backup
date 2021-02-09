@@ -13,6 +13,9 @@
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - Today's [Clubhouse](<Clubhouse.md>)
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Hopped on [Clubhouse](<Clubhouse.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - Using external tools to support the graph ([Clubhouse](<Clubhouse.md>),
 

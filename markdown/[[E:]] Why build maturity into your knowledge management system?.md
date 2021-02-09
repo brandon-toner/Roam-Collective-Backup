@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreen Notes]]
+- Tags:: #[[Evergreens]]
     - Date Created:: [[February 3rd, 2021]]
     - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
     - Created by:: #not_populated
@@ -7,4 +7,4 @@
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))
     - Contents:: #not_populated
     - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - "#Evergreen Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+    - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."

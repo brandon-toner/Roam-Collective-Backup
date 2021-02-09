@@ -12,4 +12,4 @@
     - Literature Notes
         - #minimal {{[[query]]: {and: [[Literature Notes]]  {not: {or: [[query]] [[not_populated]] }}  }}}
     - Evergreen Notes
-        - #page-focus {{[[query]]: {and: [[Evergreen Notes]] {not: {or: [[query]] [[not_populated]] }}  }}}
+        - #page-focus {{[[query]]: {and: [[Evergreens]] {not: {or: [[query]] [[not_populated]] }}  }}}

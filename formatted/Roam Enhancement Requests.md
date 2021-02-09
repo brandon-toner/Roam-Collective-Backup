@@ -37,5 +37,5 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
 
 ## [roam/css](<roam/css.md>)
-- `#[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+- #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 

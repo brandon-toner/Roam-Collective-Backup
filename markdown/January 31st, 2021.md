@@ -88,7 +88,7 @@
                     - In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. 
                         - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
                     - #Q How does the [[seedlings]] concept fit in here?
-                        - Maybe the current expression of "#Evergreen Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
+                        - Maybe the current expression of "#Evergreens Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
                             - Replace tree with seedling emoji, same effect.
                         - Maybe all fleeting notes are seedlings?
                         - #Q Whats the difference between a seedling and a fleeting note?
@@ -203,10 +203,10 @@
                 - Benefits of including a namespace:
                     - Easy recall via the [[auto-populate]] menu. 
                         - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
-            - #Ideas It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
+            - #I It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
                 - Rationale:: Often the pros of one are the cons to another. There are repeated parts.
             - #[[Fleeting Notes]] [[[[E:]] Use the native convention as much as possible.]]
-        - {{[[TODO]]}} [[Choice]]: Whether to include the #Evergreen tag as an element of the evergreen note process ((((e-lL4buZ1))))
+        - {{[[TODO]]}} [[Choice]]: Whether to include the #Evergreens tag as an element of the evergreen note process ((((e-lL4buZ1))))
             - Options:: 
                 - A — Include `#Evergreen` tag as part of process
                 - B — Do not include `#Evergreen` tag as part of process
@@ -425,7 +425,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
                     - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
         - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
         - The "About Roam Collective" page feels hidden - I know it's in the sidebar, but I think it would be quite helpful to have it in the recommended path in the steps to getting started
@@ -498,7 +497,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - [[[[How To]] Seed Your Graph]]
             - Copy over the conventions, FAQs, and CSS relevant to your graph!
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Conversation
         - "Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))"
@@ -546,7 +544,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
     - #[[Change Log]]
         - Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon
             - See CSS here: "In Block Reference"
-            - Example: "#Evergreen Prefer note titles with complete phrases to sharpen claims"
+            - Example: "#Evergreens Prefer note titles with complete phrases to sharpen claims"
             - Allows for seamless inline referencing of Evergreen notes
     - #[[GTD Zone]]
         - {{[[TODO]]}} Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
@@ -558,7 +556,6 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 - #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #[[Open Questions]] ((about collaboration and beyond)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Conversation
         - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? " [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
@@ -574,12 +571,17 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
   color: var(--fg-link);
 }
 
-a[href^='http']:active, a[href^='http']:hover, a[href^='http']:focus {
+.rm-alias--external:after {
+  content: '↗';
+}
+
+.rm-alias--external:hover {
     text-decoration: none!important;
     border-bottom: 1px dashed;
     color: #2196F3;;
 }
-a[href^='http']{
+  
+.rm-alias--external{
   color: #2196F3;
   text-decoration: none!important;
   border-bottom: 1px solid;

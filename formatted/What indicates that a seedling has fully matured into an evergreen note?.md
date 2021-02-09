@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Open Questions](<Open Questions.md>) [seedlings](<seedlings.md>) #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>)
+- **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Q](<Q.md>) [seedlings](<seedlings.md>) #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>)
 
 # Backlinks
 ## [January 30th, 2021](<January 30th, 2021.md>)
