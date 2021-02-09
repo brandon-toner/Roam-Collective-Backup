@@ -8,7 +8,7 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>)
 
 ## [Charles Farr](<Charles Farr.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Follow Up](<Follow Up.md>)
@@ -70,9 +70,18 @@
 - #[Follow Up](<Follow Up.md>)
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
+- Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)
+
 - #[Follow Up](<Follow Up.md>)
 
 - #[Follow Up](<Follow Up.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- [ ] Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)"
+
+- "Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>)
+
+- Phrase the "#[Follow Up](<Follow Up.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Comment](<Comment.md>) This question is really more of a #[Follow Up](<Follow Up.md>),

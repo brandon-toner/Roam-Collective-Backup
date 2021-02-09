@@ -9,7 +9,7 @@
     - Questions
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Follow Ups
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
+        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
     - Todos
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
@@ -18,8 +18,6 @@
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
-
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
@@ -90,6 +88,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

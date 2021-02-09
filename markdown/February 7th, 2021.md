@@ -109,7 +109,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - This could turn the graph into more of a game similar to the Fitbit leaderboard. Could also be harmful pressure "My contribution is so small and not worth it"
                 - It's hard to quantify the value of an idea. A single idea/block could spawn dozens of blocks. Hmm maybe blocks with the most refs...
     - #Conversation 
-        - Works for me! Thanks [[@[[Charles Farr]]]]! [*](((shPwbVEW0)))
+        - Works for me! Thanks [[~[[Charles Farr]]]]! [*](((shPwbVEW0)))
         - [[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
             - [[~[[Brandon Toner]]]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**
@@ -430,7 +430,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - Once we get over this hurdle (defining structure and process), then we likely enter the phase of **engaging with** those processes, primarily knowledge development, and productivity (working on projects and outputs).
             - "[[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
             - "[[~[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))"
-                - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [[@[[Matthew Vogel]]]]
+                - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [[~[[Matthew Vogel]]]]
         2. On a RC Website #Bookmarks #[[February 2021]]
             - "[[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
             - 
@@ -441,7 +441,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - "[[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
                 - Where do I check my minutes usage? Can't seem to find. [[~[[Matthew Vogel]]]]
                 - "[[~[[Brandon Toner]]]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**"
-                    - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [[@[[Matthew Vogel]]]] 
+                    - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [[~[[Matthew Vogel]]]] 
                     - Image:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fed2fPTuVS7.png?alt=media&token=e606603a-aca2-45d3-b5e0-08aab80bdabe)
         5. [[architects, gardeners, and librarians]]

@@ -9,7 +9,7 @@
     - Questions
         - #min-con {{[[query]]: {and: [[csf]] [[Q]] {not: {or: }}  }}}
     - Follow Ups
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[Follow Up]] {not: {or: }}  }}}
+        - #min-title {{[[query]]: {and: [[csf]] [[Follow Up]] {not: {or: }}  }}}
     - Todos
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes

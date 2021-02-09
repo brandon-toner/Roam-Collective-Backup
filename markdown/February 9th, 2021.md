@@ -125,3 +125,17 @@
     - #Conversation #not_populated
     - #Feedback  #not_populated
 - ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
+    - #Scratchpad
+        - {{[[TODO]]}} Build Broadcast Mechansim
+        - {{[[TODO]]}} Create template for Q pages [*](((n0APOFCfx)))
+        - {{[[TODO]]}} Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[[Work In Process]] #[[Follow Up]]"
+        - {{[[TODO]]}} Document notetaking conventions: "[[[[Roam-Collective]]: Zettelkasten Conventions]]"
+            - "Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))"
+        - {{[[TODO]]}} Summarize value of the Question as an organizing principle
+            - Phrase the "#[[Follow Up]] on [[12 Favorite Problems]]" as questions...
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation
+        - "Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):"
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---

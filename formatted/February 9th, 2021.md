@@ -125,3 +125,17 @@
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>)
+        - [ ] Build Broadcast Mechansim
+        - [ ] Create template for Q pages [*](((n0APOFCfx)))
+        - [ ] Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)"
+        - [ ] Document notetaking conventions: "[[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]"
+            - "Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))"
+        - [ ] Summarize value of the Question as an organizing principle
+            - Phrase the "#[Follow Up](<Follow Up.md>) on [12 Favorite Problems](<12 Favorite Problems.md>)" as questions...
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - "Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):"
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+- ---

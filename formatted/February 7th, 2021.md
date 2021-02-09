@@ -109,7 +109,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - This could turn the graph into more of a game similar to the Fitbit leaderboard. Could also be harmful pressure "My contribution is so small and not worth it"
                 - It's hard to quantify the value of an idea. A single idea/block could spawn dozens of blocks. Hmm maybe blocks with the most refs...
     - [Conversation](<Conversation.md>) 
-        - Works for me! Thanks [@[[Charles Farr](<@[[Charles Farr.md>)]]! [*](((shPwbVEW0)))
+        - Works for me! Thanks [~[[Charles Farr](<~[[Charles Farr.md>)]]! [*](((shPwbVEW0)))
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**
@@ -430,7 +430,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - Once we get over this hurdle (defining structure and process), then we likely enter the phase of **engaging with** those processes, primarily knowledge development, and productivity (working on projects and outputs).
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))"
-                - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]]
+                - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
         2. On a RC Website [Bookmarks](<Bookmarks.md>) #[February 2021](<February 2021.md>)
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
             - 
@@ -441,7 +441,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
                 - Where do I check my minutes usage? Can't seem to find. [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                 - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**"
-                    - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] 
+                    - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] 
                     - Image:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fed2fPTuVS7.png?alt=media&token=e606603a-aca2-45d3-b5e0-08aab80bdabe)
         5. [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)

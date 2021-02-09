@@ -67,7 +67,7 @@
 ## [Charles Farr](<Charles Farr.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
-- [minimal](<minimal.md>) {{[query](<query.md>):
+- [min-title](<min-title.md>) {{[query](<query.md>):
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 

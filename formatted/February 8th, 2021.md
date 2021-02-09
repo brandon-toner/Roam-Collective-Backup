@@ -74,7 +74,7 @@
                             - 3) the stages of development within the process
             - While processing status and maturity are not analogous, they are tightly intertwined — general rule of thumb is as processing occurs, maturity increases
                 - Important to note that the process need not be linear, it can be circular as well...
-        - Right now Roam Collective is a fantastic forum for divergence...
+        - Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)
             - For the past two weeks or so, Roam Collective has been doing some high-quality [divergent](<divergent.md>) thinking — some of the nuggets strewn through earlier daily pages are **__really__** novel.
             - Earlier today I was thinking about what Roam Collective is at the moment and I think [forum](<forum.md>) may be the most appropriate word to describe what we have going on here. The graph is a place for open dialogue, thought, and debate for all to see and interact with.
             - But Roam Collective thus far is much more than a forum could ever be, thanks in large part to Roam's native capabilities, but also the conventions we've developed.
@@ -90,7 +90,7 @@
             - To better illustrate my point, let's look at a few examples of how the point of [convergence](<convergence.md>) differs based on our goals...
                 - ....
         - Updated conventions for notes types
-            - [[[Roam-Collective](<[[Roam-Collective.md>) Zettelkasten Conventions]]]]
+            - [[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]
             - #[Fleeting Notes](<Fleeting Notes.md>) Fleeting notes capture nascent ideas with potential to contribute to
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
