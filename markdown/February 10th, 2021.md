@@ -1,0 +1,36 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #Announcements
+    - Meetup Today at 20:00GMT
+        - To suggest agenda items, tag the block with `#Agenda` — [like this](((qt8oh69sN)))
+        - Zoom link:
+            - "https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
+You will have to wait for me ([[Peter Rosso]]) to let you in."
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        - "Meetup Today at 20:00GMT"
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]]
+        - #Agenda output channels
+            - Where
+                - RC twitter
+                - RC website
+                    - (Connor was talking about outputting newsletter from ROAM - I am sure we had that on here the first days I joined)
+            - What
+                - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
+    - #[[GTD Zone]]
+        - Explain the idea for graph dependency
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not_populated
+    - #Bookmarks #not_populated
+- ---

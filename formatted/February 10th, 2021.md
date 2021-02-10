@@ -1,0 +1,36 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- [Announcements](<Announcements.md>)
+    - Meetup Today at 20:00GMT
+        - To suggest agenda items, tag the block with `[Agenda](<Agenda.md>)` — [like this](((qt8oh69sN)))
+        - Zoom link:
+            - "https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
+You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        - "Meetup Today at 20:00GMT"
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>)
+        - [Agenda](<Agenda.md>) output channels
+            - Where
+                - RC twitter
+                - RC website
+                    - (Connor was talking about outputting newsletter from ROAM - I am sure we had that on here the first days I joined)
+            - What
+                - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
+    - #[GTD Zone](<GTD Zone.md>)
+        - Explain the idea for graph dependency
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+- ---
