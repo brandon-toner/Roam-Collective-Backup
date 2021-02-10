@@ -129,6 +129,74 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad
+        - Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))
+            - Previous...
+                - References — `References::`
+                - Fleeting Notes — `#FleetingNote`
+                - Literature Notes — `#LitNote`
+                - Zettels — `#Zettel` + `[[Z:]] pages`
+            - New...
+                - `#Context` + `[[R:]] pages` — Highlights, references, other notes; should come to be associated with other 
+                - `#Notion` — "a general understanding;" "vague or imperfect conception or idea of something;" "an opinion, view, or belief;" a general "conception or idea" — [dictionary.com](https://www.dictionary.com/browse/notion)
+                    - Often a precursor to a `#Syn` or a `#Seedling` `[[S:]]` page
+                - `#Obs` / `#Observations` — summarizing literature or resources in one or multiple concise statements
+                - `#Syn` / `[[S:]]` pages — new synthesized "evergreen" thoughts
+                    - `[[S:]]` pages have levels of maturity — `#Seedling` → `#Budding` → `#Evergreen`
+                - `#Q` / `#Questions` / `[[Q:]]` — my knowledge graph is organized around answering one or multiple questions; essentially, questions are output oriented...
+                    - Questions should be the most clearly articulated notes once polished, but can be used to generate speculative outlines as well
+                        - As such, question pages share the same maturity levels as [[S:](((i3KPQUiAr)))] pages
+                - `#Collection` — general purpose speculative outlines that organize around a topic or concept, not a central question
+            - Changes heavily inspired by "#Articles Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
+                - Only real change is I added the `#Notion` note class, which is most analogous to a Fleeting Note
+                    - Seemed like a worthwhile addition to ensure a distinction between notes coming from sources (i.e., `#Obs`) versus elsewhere...
+        - #Articles Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+            - # Annotation Summary of Joel Chan — Knowledge Synthesis.pdf.
+                - **Highlight [page 2]:** My initial audience for this document is researchers who struggle with knowledge synthesis (aka a “real” literature review"), which is the nebulous “black box” in between “I have found a bunch of papers to read” and “I now have synthesized the literature and have a set of promising angles of attack on my research problem”
+                - **Highlight [page 3]:** Notice how the second example creates something new, greater than the sum of its parts, namely the explanation for the origin of species. This is a core aspect of synthesis: the construction of a new point of view from a set of observations, that directly advances knowledge and/or opens up a path to advancing knowledge.
+                - **Highlight [page 3]:** In this case, the synthesis yielded a theory, which to me is a paradigmatic example of synthesis. But a good synthesis can also take other forms, such as a critical literature review that leads to a set of powerful new research questions, or a design argument or problem frame.
+                    - **and Note [page 4]:** Common failure modes for synthesis
+                - **Highlight [page 4]:** For this to be true, we need a system that helps us achieve a generative dialectic between compression/divergence/abstraction/theory and context/convergence/particulars/data. We also need the system to enable us to accrete insight over boundaries of time and projects/disciplines
+                - **Highlight [page 4]:** Finally, we need the system to enable us to
+                - **Highlight [page 5]:** distribute work across multiple peopl
+                - **Highlight [page 11]:** lends additional strength to the observatio
+                - **Highlight [page 11]:** Both observation notes and context snippets are also part-of a page dedicated to the particular paper from which they came
+                    - **and Note [page 11]:** Resource pages
+                - **Highlight [page 12]:** However, I have refrained from making this a synthesis note proper until I see it show up in at least one other observation note, so I can write a sharper note. This choice also reflects the relatively early stage of this inquiry. More on this later when I talk about the process.
+                    - **and Note [page 12]:** Implied maturity
+                - **Highlight [page 13]:** How does the model play out in my process of synthesis? At a high level, I begin with a set of question notes and papers and end with a network of synthesis notes grounded in observation notes that are themselves grounded in context snippet notes, and (usually) one or more new compelling question or synthesis notes that are not as well supported by observation notes and may be contradictory in some interesting ways. These indicate promising next steps for research.
+                - **Highlight [page 13]:** Phase 1: Articulate question notes.
+                - **Highlight [page 13]:** Every project is aimed at one or more high level research questions. These questions are expressed as question notes.
+                - **and Note [page 13]:** Interesting distinction between Joel's approach and sonke's. One starts with questions and the other doesn't. Another example of how objective impacts appronict
+                - **Highlight [page 13]:** Phase 2: Create observation notes from papers.
+                - **Highlight [page 13]:** Reading will produce a variety of scratch notes and annotations, but should culminate in one or more observation notes that inform question notes.
+                - **Highlight [page 13]:** Phase 3: Develop synthesis notes.
+                - **Highlight [page 13]:** what does the literature have to say about my questions of interest? Synthesis notes get explicitly linked to the relevant question note.
+                - **Highlight [page 14]:** The process of refining and juxtaposing synthesis notes may also spur refinement of observation notes (e.g., sharpening a description, adding context snippets that turn out to be important), or new question notes.
+                - **Highlight [page 14]:** Phase 4: Compose synthesis notes into arguments or theories
+                - **Highlight [page 14]:** If done well, this process reveals further, sharpened question notes that lack satisfactory answers from the literature.
+                - **Highlight [page 14]:** Note also that this phase is likely to be iterative with the previous two steps: as a higher-level argument or theory begins to emerge, I will discover, or seek to discover, points of weakness or uncertainty, and dive back down to reconsider and refine synthesis and observation notes to further develop the argument or theory.
+                - **Highlight [page 14]:** These compositions of synthesis notes can be encapsulated into complex synthesis notes (if I think I might want to reuse the whole package), or simply collated together in the body of a question note.
+                - **Highlight [page 15]:** This model allows for rich layers of context to aid synthesis.
+                - **Highlight [page 15]:** Distinguishing between observation notes and synthesis notes helps prevent me from rushing too quickly to generalizations, and allows for careful, nuanced questioning of past claims (e.g., does X really not work? ), and consideration of possible syntheses between opposing claims. Directly including context snippets also allows me to have crucial details “on hand” that are necessary for this nuanced questioning.
+                - **and Note [page 15]:** There does seem to be A gap between context, observations, and syntheses notes that fleeting notes currently occupy '
+                - **Highlight [page 15]:** In this way, the conceptual and process model helps mitigate the core challenge of lossy compression or premature ossification. Writing a synthesis note involves abstraction, which is a form of compression: removing details to generalize. If this is done in a way that breaks connections with the details (e.g., by writing a note without referencing even a page number, or even functionally breaking the reference by simply noting the bibliographic source), this compression is lossy. I believe compression that is more lossy or descriptions that are more reified are ok at much later stages of knowledge production, where there is sufficiently high confidence in the articulation and certainty of those ideas. But I suspect this is rare when working on hard, creative, open-ended knowledge problems like in research!
+                - **Highlight [page 15]:** Strike and Posner’s (1983)
+                - **Highlight [page 16]:** One mechanism by which this happens is that the overhead for regaining context for my notes is reduced for my future self, and possibly for others as well, since the details are much more directly accessible through the three-part model.
+                - **Highlight [page 16]:** If I’m right that these sorts of notes are more shareable, then I should be able to distribute the process across a team of people. Hopefully this also means we get to substantially reduce the time needed to do effective synthesis. I am testing this hypothesis right now with my lab, and hope to get others to join me. Stay tuned on this!
+                - **Highlight [page 17]:** Blake, C., & Pratt, W. (2006). Collaborative information synthesis II: Recommendations for information systems to support synthesis activities. Journal of the American Society for Information Science and Technology, 57(14), 1888–1895. https://doi.org/10.1002/asi.20486 ↩
+                - **Highlight [page 17]:** Clark, T., Ciccarese, P. N., & Goble, C. A. (2014). Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications. Journal of Biomedical Semantics, 5(1), 28. https://doi.org/10.1186/2041-1480-5-28 ↩
+                - **Highlight [page 18]:** Strike, K., & Posner, G. (1983). Types of synthesis and their criteria. ↩
+        - #[[Follow Up]] "Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):"
+    - #Conversation
+        - On updates to note mythology...
+            - [[@[[Larissa de Lima]]]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
+                - On a related note, last night [Brandon]([[cc:[[Brandon Toner]]]]) and I discussed [note classes](((_QWUf9796))) yesterday and aligned on the "stable" taxonomy for now. Idea is to settle the conventions to move to output.
+        - Simple Replies
+            - Love the idea [[cc:[[Matt Brockwell]]]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
+                - [[@[[Peter Rosso]]]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
+            - [[@[[Brandon Toner]]]] I agree with "Decision:: Tentative "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
+            - [[@[[leekeifon]]]] that's correct! [*](((a5b-u6IqI)))
+    - #[[GTD Zone]]
         - {{[[TODO]]}} Build Broadcast Mechansim
         - {{[[TODO]]}} Create template for Q pages [*](((n0APOFCfx)))
         - {{[[TODO]]}} Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[[Work In Process]] #[[Follow Up]]"
@@ -136,10 +204,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
             - "Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))"
         - {{[[TODO]]}} Summarize value of the Question as an organizing principle
             - Phrase the "#[[Follow Up]] on [[12 Favorite Problems]]" as questions...
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation
-        - "Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):"
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Bookmarks
+        - "I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph."
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] #not_populated

@@ -77,6 +77,8 @@
 - #[Follow Up](<Follow Up.md>)
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Follow Up](<Follow Up.md>)
+
 - [ ] Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)"
 
 - "Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>)

@@ -13,7 +13,7 @@
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - **Hey all, **
-            - and maybe especially [~[[Brandon Toner](<~[[Brandon Toner.md>)]] and [@[[Charles Farr](<@[[Charles Farr.md>)]], can we use [@[[David Vargas](<@[[David Vargas.md>)]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
+            - and maybe especially [~[[Brandon Toner](<~[[Brandon Toner.md>)]] and [^[[Charles Farr](<^[[Charles Farr.md>)]], can we use [@[[David Vargas](<@[[David Vargas.md>)]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
             - ideally a short key-press could be assigned to make it a snap to flick the switch and change the hashtag
             - NOTE I think one little thing that would be REALLY cool ... would be THIS:
                 - what if the trigger could be just to "hover" your mouse over the link and then press a key, say "s" for "switch", and you'd trigger the cycle?
@@ -45,7 +45,7 @@
                     - The hover workflow you describe would solve this problem is feasible! 
             - LOVE the idea of having hover commands for this with the ability to remove/adjust tags without entering the block! This would be excellent for things like not-populated! 
                 - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
-        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`...
                 - [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
                     - **[Options](<Options.md>):** 

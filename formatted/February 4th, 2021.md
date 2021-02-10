@@ -135,7 +135,7 @@ Monthly reviews could include a zoom catchup?
         - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
         - Lightweight Replies
             - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
-            - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [^[[Charles Farr](<^[[Charles Farr.md>)]]
             - re[*](((o-vu7iZWx))): not sure what urbit is, but what you really mean is that you’re eager to have the ability to sync outside world messy information into personal graph for manipulation. Am I right? [@[[Charles Farr](<@[[Charles Farr.md>)]]
     - #[Help Wanted](<Help Wanted.md>)
         - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]

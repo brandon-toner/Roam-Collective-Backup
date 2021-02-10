@@ -13,7 +13,7 @@
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) 
         - **Hey all, **
-            - and maybe especially [[~[[Brandon Toner]]]] and [[@[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
+            - and maybe especially [[~[[Brandon Toner]]]] and [[^[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
             - ideally a short key-press could be assigned to make it a snap to flick the switch and change the hashtag
             - NOTE I think one little thing that would be REALLY cool ... would be THIS:
                 - what if the trigger could be just to "hover" your mouse over the link and then press a key, say "s" for "switch", and you'd trigger the cycle?
@@ -45,7 +45,7 @@
                     - The hover workflow you describe would solve this problem is feasible! 
             - LOVE the idea of having hover commands for this with the ability to remove/adjust tags without entering the block! This would be excellent for things like not-populated! 
                 - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
-        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([[@[[Charles Farr]]]])
+        2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([[~[[Charles Farr]]]])
             - Excellent question. I could make the case for either `[[E:]]` or `[[Q:]]`...
                 - {{[[TODO]]}} [[Choice]]: Should `[[E:]]` or `[[Q:]]` be the namespace for page-status questions? ((((gU4AyicEw))))
                     - Options:: 

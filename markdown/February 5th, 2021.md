@@ -40,7 +40,7 @@
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation
-        - I love [[@[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Larissa de Lima]]]]
+        - I love [[~[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Larissa de Lima]]]]
         - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [[~[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
             - "[[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"

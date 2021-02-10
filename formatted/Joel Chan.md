@@ -15,6 +15,11 @@
 
 - [Joel's]([Joel Chan](<Joel Chan.md>))
 
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Changes heavily inspired by "[Articles](<Articles.md>) Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [Joel Chan](<Joel Chan.md>)
+
+- [Articles](<Articles.md>) Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [Joel Chan](<Joel Chan.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Joel Chan](<Joel Chan.md>)'
 

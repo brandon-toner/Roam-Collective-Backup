@@ -40,7 +40,7 @@
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
-        - I love [@[[Charles Farr](<@[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
+        - I love [~[[Charles Farr](<~[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
             - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
