@@ -2,6 +2,9 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
 
 # Backlinks
+## [February 10th, 2021](<February 10th, 2021.md>)
+- Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [notifications](<notifications.md>).
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - "[Q](<Q.md>) How could [notifications](<notifications.md>)
 

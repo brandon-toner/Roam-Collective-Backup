@@ -1,0 +1,6 @@
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource... Articles, Books, Videos etc.))
+    - **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)
+    - **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
+    - **[URL](<URL.md>):** [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+    - **[Literature Notes](<Literature Notes.md>):** [not_populated](<not_populated.md>)
+    - **[Highlights](<Highlights.md>):** [not_populated](<not_populated.md>)

@@ -5,6 +5,15 @@
         - Location:: Chicago, IL
         - Time Zone:: Central Time (GMT –6:00)
 - :hiccup [:hr]
+- Personal Artifacts
+    - SmartBlocks
+        - #42SmartBlock CFarr — DNP
+            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
+                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+                - #Questions ((about the graph, or directed towards someone)) #not_populated
+                - #Conversation #not_populated
+                - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+            - ---
 - Personal Queries
     - Questions
         - #min-con {{[[query]]: {and: [[csf]] [[Q]] {not: {or: }}  }}}
@@ -13,5 +22,6 @@
     - Todos
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes
-        - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] }}  }}}
+        - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] [[42SmartBlock]] }}  }}}
+- Personal Shortcuts
     - [[datalog experimentation]]

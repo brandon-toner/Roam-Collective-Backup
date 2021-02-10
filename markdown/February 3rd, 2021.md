@@ -686,9 +686,9 @@ These users would have far better outcomes if they simply operated at or slightl
             - [[~[[Brandon Toner]]]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)
         - Simple replies
             - [[~[[Brandon Toner]]]] "Love it! Gonna do this right away. How do I get those dash dividers?? [[~[[Larissa de Lima]]]]" I'm pretty sure you just create pages like below and then favorite them
-                - [[––––––––––––––––––––––––––––––]]
-                - [[–––––––––––––––––––––––––––––––]]
-                - [[––––––––––––––––––––––––––––––––]]
+                - [[––––––––––––––––––––––––]]
+                - [[–––––––––––––––––––––––]]
+                - [[––––––––––––––––––––––]]
                 - [[–––––––––––––––––––––––––––––––––]]
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 😴 offline, back tomorrow

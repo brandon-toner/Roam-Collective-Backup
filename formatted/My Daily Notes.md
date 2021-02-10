@@ -20,10 +20,15 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Charles Farr](<Charles Farr.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [DNP Section](<DNP Section.md>)
 - "#[My Daily Notes](<My Daily Notes.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>)

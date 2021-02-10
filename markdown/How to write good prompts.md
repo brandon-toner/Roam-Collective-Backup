@@ -1,6 +1,0 @@
-- Tags:: #Resources #[[Reference Notes]] ((add type of resource to tags... Articles, Books, Videos etc.)) #[[spaced repetition]] #understanding
-    - Author(s):: [[Andy Matuschak]]
-    - Full Title:: How to write good prompts: using spaced repetition to create understanding
-    - URL:: https://andymatuschak.org/prompts/
-    - Literature Notes:: #not_populated
-    - Highlights:: #not_populated

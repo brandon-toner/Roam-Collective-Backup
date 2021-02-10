@@ -19,6 +19,19 @@
 - Timestamp your activity as you visit or make changes in the graph.
         - **[Example](<Example.md>):**
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([Processes](<Processes.md>))
+                - **[Example](<Example.md>):**
+
+1. Create a reference note for the resource. (Include the `[R:](<R:.md>)` namespace)
+                - **[Example](<Example.md>):**
+
+4. Create a bullet in you DNP Section with the name of the reference note page and `[Annotations](<Annotations.md>)` [Important](<Important.md>)
+                - **[Example](<Example.md>):**
+
+- Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+                    - **[Example](<Example.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**

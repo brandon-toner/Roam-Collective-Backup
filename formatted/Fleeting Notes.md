@@ -15,6 +15,11 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -356,7 +361,7 @@
 
 - agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>)
 
-- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
@@ -379,7 +384,7 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
+- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 

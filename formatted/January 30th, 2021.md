@@ -37,7 +37,7 @@
         - [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>) format.
             - [Q](<Q.md>) How could the [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) be optimized for taking [annotations](<annotations.md>)? [note-taking](<note-taking.md>)
                 - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
-        - [Annotations](<Annotations.md>) of [How to write good prompts](<How to write good prompts.md>) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])
+        - [Annotations](<Annotations.md>) of [[[R:](<[[R:.md>) How to write good prompts]] [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])
             - How to write good prompts: using spaced repetition to create understanding
                 - **[URL](<URL.md>):** https://andymatuschak.org/prompts/
                 - As a child, I had a goofy recurring daydream: maybe if I type just the right sequence of keys, the computer would beep a few times in sly recognition, then a hidden world would suddenly unlock before my eyes. I’d find myself with new powers which I could use to transcend my humdrum life. 
@@ -194,7 +194,7 @@
             - Test 3 "Pages "Author"ed by a "Members""
                 - :q [:find ?n :where [?note :node/title ?n] [?bb :block/page ?note] [?bb :block/refs ?p] [?bb :block/refs ?c] [?c :node/title "Author"] [?b :block/page ?p] [?b :block/refs ?t] [?b :block/refs ?tag] [?t :node/title "Members"] [?tag :node/title "Tags"]]
         - #[Bug Reports-[[resolved](<Bug Reports-[[resolved.md>)]]
-            - Can't seem to [emoji react](<emoji react.md>) to blocks... #[Bug Reports-[[resolved](<Bug Reports-[[resolved.md>)]]
+            - Can't seem to [emoji react]([emoji reactions](<emoji reactions.md>)) to blocks... #[Bug Reports-[[resolved](<Bug Reports-[[resolved.md>)]]
         - Reflections on [datalog](<datalog.md>) queries [Bookmarks](<Bookmarks.md>)
             - Possible to generate a report of "pages authored by graph members"
                 - **[Example](<Example.md>):**
@@ -229,7 +229,7 @@
         - Played around with some [annotations](<annotations.md>)
             - "[Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])"
             - "[Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) [*]([^[[leekeifon](<^[[leekeifon.md>)]]) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])"
-            - "[Annotations](<Annotations.md>) of [How to write good prompts](<How to write good prompts.md>) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])"
+            - "[Annotations](<Annotations.md>) of [[[R:](<[[R:.md>) How to write good prompts]] [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])"
     - [Promptstorming](<Promptstorming.md>) 
         - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
             - Excellent experience so far (but I'm familiar with the specs and style guides)
@@ -289,10 +289,10 @@
                         5. As ideas become heavily referenced, or feel "[evergreen](<evergreen.md>)" in nature — a page should be created and an [evergreen note]([evergreen notes](<evergreen notes.md>)) formed.
                             - **[Related](<Related.md>):** [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>) notes]] [Seedlings](<Seedlings.md>)
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)) — a `[Seedlings](<Seedlings.md>)` tag should be assigned.
-            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
+            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
                 - Wow this is excellent! Love these. Will definitely [look further into this]([Bookmarks](<Bookmarks.md>)). [prompts](<prompts.md>) [Resources](<Resources.md>)
                     - **[URL](<URL.md>):** https://andymatuschak.org/prompts/
-                        - [ ] Create literature notes from [How to write good prompts](<How to write good prompts.md>). #[Help Wanted](<Help Wanted.md>)
+                        - [ ] Create literature notes from [[[R:](<[[R:.md>) How to write good prompts]]. #[Help Wanted](<Help Wanted.md>)
                             - [x] Create a smartblock for the [Daily Review](<Daily Review.md>) that pulls TODO + Help Wanted. [January 30th, 2021](<January 30th, 2021.md>) 
             - "Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks."
                 - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [[[E:](<[[E:.md>) cycles of divergence and convergence]].
@@ -313,7 +313,7 @@
                 - [Test]([~[[leekeifon](<~[[leekeifon.md>)]])
                 - [*]([~[[leekeifon](<~[[leekeifon.md>)]])
                 - These tests worked: They appeared in your [cc query](((YFVQmvseR))) [~[[leekeifon](<~[[leekeifon.md>)]]
-            - "We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’s origin one! [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
+            - "We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’s origin one! [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
                 - What's the origin one? Is that a different article?
                 - I've never really gotten into spaced repetition, but it's feeling like a [next logical step](<next logical step.md>) for me for sure! What kind of event do you have in mind?
             - "When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>) of the idea."
@@ -465,7 +465,7 @@ Just think of that we have a plugin ((maybe I will write it out in the near futu
 
 Then, We could also filter out certain properties to lower the complexity of the substructure. It should help us human do a better logical inference, but not machines.
 reply to [this](((R8sUuPhbz))).
-        - We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’s origin one! [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
+        - We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’s origin one! [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - Seems that alias don’t work well with query? I find that your mentioning [here](((YLeWbqa5w))) I can’t query out, you could check out my personal page to confirm this. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] #[Help Wanted](<Help Wanted.md>)
             - Yeah, these one works, but I still can’t find this [one](((YLeWbqa5w)))... A little bit tricky.
 - ---

@@ -5,6 +5,9 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- Draws on tenets advanced by both [Andy Matuschak](<Andy Matuschak.md>),
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - That being said, [Andy Matuschak](<Andy Matuschak.md>)
 
@@ -14,9 +17,6 @@
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [This piece](https://numinous.productions/ttft/) by [Andy Matuschak](<Andy Matuschak.md>)
-
-## [How to write good prompts](<How to write good prompts.md>)
-- **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Andy Matuschak](<Andy Matuschak.md>)'
@@ -37,9 +37,9 @@
 
 - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
 
-- "We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
+- "We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 
-- We should definitely start up an event, sharing our ideas on [How to write good prompts](<How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
+- We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
@@ -67,4 +67,7 @@
 
 ## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
+## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
+- **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
 

@@ -5,8 +5,8 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
         1. Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
-            - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
-            - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([^[[Charles Farr](<^[[Charles Farr.md>)]])
+            - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - Touches on the point re: what are the objectives?  Is it just to build a guide?  
                     - The reason I struggle with that is that tools and process for collaboration depend on the desired output.  Do we aim to create a guide that works for all types of collaboration?   
         2. Some outlines on [structure and process](((W8X67wb_G))) for Roam Collective

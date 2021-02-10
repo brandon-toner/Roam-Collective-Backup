@@ -12,6 +12,8 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - "Meetup Today at 20:00GMT"
+        - **["Processes](<"Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))"
+        - "Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>)."
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
@@ -34,12 +36,166 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
+            - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([Processes](<Processes.md>))
+                - **[Example](<Example.md>):** [Charles on Knowledge Synthesis](((ubkuzczkv)))
+                    - In this example, the annotation are not on the page itself, but rather within Charles' DNP Section. 
+                    - This format allows for multi-user contribution of their annotation, without the need for an "editor" or main page contributor. 
+                - The `[Annotations](<Annotations.md>)` tag is a parent tag for Highlights, Comments, and Lit Notes... really all user commentary on the reference material.
+        - **[Processes](<Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))
+            1. Create a reference note for the resource. (Include the `[R:](<R:.md>)` namespace)
+                - **[Example](<Example.md>):** [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]
+            2. Populate the new page with the [reference note template](((gix1P4auD)))
+            3. Add the type of reference (Articles, Books, Podcasts) as a tag.
+            4. Create a bullet in you DNP Section with the name of the reference note page and `[Annotations](<Annotations.md>)` [Important](<Important.md>)
+                - **[Example](<Example.md>):** 
+                    - "[Annotations](<Annotations.md>) of [[[R:](<[[R:.md>) How to write good prompts]] [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])"
+                    - "[Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+            5. The method of HOW you document your annotations here is less important... some creative liberties are fine and encouraged.
+                - It is helpful, however to make use of tags such as: `#[Literature Notes](<Literature Notes.md>)`, `[Highlights](<Highlights.md>)`, and `[Notes](<Notes.md>)` / `[Comments](<Comments.md>)` (?) 
+        - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+            - Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [notifications](<notifications.md>).
+                - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>)) are almost like [likes](<likes.md>) in other social platforms. 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+        - Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>).
+            - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. Simple Replies
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))" 
+                - Ah no way! I use both PDF Expert and Spark and Scanner Pro. I LOVE [Readdle](<Readdle.md>) haha.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+            - "Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)` page — only really seems to impact notes from [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])"
+                - Is it the ones I'm tucking into aliases?? [~[[Charles Farr](<~[[Charles Farr.md>)]]
+            - "[x] Create template for Q pages [*](((n0APOFCfx)))"
+                - See here ".rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        2. On Charle's [highlights/notes syntax](((l8ATiYKZG))) with page number
+            - How did you generate this syntax with page number? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+        3. On `[R:](<R:.md>)` namespacing.[*](((sqydLl-Vb)))
+            - I like this a lot. It consolidates namespaces for Books/ Articles/ Podcasts/ etc.
+                - Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+                    - **[Example](<Example.md>):** [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+    - #[Bug Reports](<Bug Reports.md>)
+        - Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)` page — only really seems to impact notes from [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
+            - Odd. Will just rely on the actual `@` page for now...
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes...
+            - Based on my thinking [here](((NOWabDQws))) I updated my personal taxonomy of [in my graph](((vxaP_RzP-)))
+            - Principles at play here...
+                1. Language and terms are system agnostic
+                    - Draws on tenets advanced by both [Andy Matuschak](<Andy Matuschak.md>), [Joel Chan](<Joel Chan.md>), and [Sonke Ahrens](<Sonke Ahrens.md>)
+                        - Due to the simplicity of [Joel Chan](<Joel Chan.md>)'s structure, which it draws most heavily upon, there are few implied definitions associated with they individual note types
+                            - The only definitions are those the terms share with the english language, hopefully boosting legibility and understanding
+                2. Language and terms are concise
+                    - Simple terms tied directly to the root definition in english [*](((wA02wBb0C)))
+                3. Language and terms are cohesive
+                    - To me, they "feel" cohesive — hard to define exactly why...
+                        - Likely just because they are simple, english words, all one or two syllables in their shortened form
+                4. Ability to incorporate a separate mythology/taxonomy for [maturity](<maturity.md>)
+                    - `Seedling` → `Budding` → `Evergreen`
+                    - Mitigates confusion between types of notes and level of development
+        - [Annotations](<Annotations.md>) Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)
+            - From David Vargas
+            - Features
+                - Allows for messages to both users and channels
+                - User notification is configurable within the graph
+                - Configurable to include a link to the block
+            - Tweet
+                - https://twitter.com/MatMcGann/status/1358909629372133378
+            - This was a [Roam Games](<Roam Games.md>) Submission
+        - [Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
+            - Notes
+                - User stories could be organized around `[Qs](<Qs.md>)`
+                - Need to aggregate questions in one location — `[Backlog](<Backlog.md>)`
+                - How do we want to define Sprints versus Epics?
+                - Could use `[S:](<S:.md>)` + `[E:](<E:.md>)` to differentiate
+                    - Could find ones that are Prioritized or not
+                    - Could also have seperate block and page level tags...
+                - Uses the Choice AoT
+                    - Thinking about the potential to use a Decision AoT for community decisions
+                    - Or a Review AoT
+                - **Note:** This could easily be replaced with a combination of block-level and page-level tags + a few standard queries (probably more the speed of the initial user)
+            - Highlights
+                - My goal is to create a step by step how-to guide and a full-featured template database, that a product development team can pick up to kick-start their process using Roam. I assume that Roam will be the only task and user story management tool used by this team, and I am developing a fully self-sustained solution built 100% around Roam's capabilities.
+                - My graph is public; I encourage you to look around. Read my user stories, check out my product backlog, look at sprint plans, personas, templates, roam/css style sheets, naming conventions, etc. Start here by accessing the [Product Vision](https://roamresearch.com/#/app/RoamAgile/page/cwZ9xV-cp) page.
+                - Agile takes a different path. Instead of detailed specifications and designs, the focus is on storytelling. Understanding how the user will use the product and delivering small increments of working solutions that the end customer can immediately use.
+                - Agile works based on the understanding that often when you ask someone what they want, they will list requirements, most of which they will never need.
+                - Agile requires a completely different mindset. If you have a team trained and socialized in traditional projects, you need to invest the time in training the team to be agile. The best is to bring in an Agile coach who stays with the team until they get in the rhythm of things, at least the first 5 to 10 sprints.
+                - While Scrum looks simple, free-flowing, and straightforward, there are some basic rules you need to stick to consistently. You should religiously stick to Agile Ceremonies, especially while the team is still young and adapting to Agile.
+                - There are five Scrum ceremonies (sometimes also called events), these are backlog grooming, sprint planning, daily standup, sprint demo, and sprint retrospective.
+                - The three artifacts are product backlog, sprint backlog, and a potentially releasable product increment.
+                - A Scrum team typically comprises seven to nine people, one product owner, one scrum master, and the development team.
+                - Sprints should be short, typically one to four weeks long. Each sprint aiming to deliver a working product increment.
+                - In an agile project, the scrum master is the master of ceremony. She/he is responsible to organize meetings, remove roadblocks, and maintain the rhythm of work for the team.
+                - The team tracks future development work on the backlog. The backlog is a list of user stories, each describing a feature of the product from the user’s perspective. The product owner ranks the backlog based on importance and value. The product owner is the story-teller. His/her role is to explain to the developers how and why end-users will use the product.
+                - The team works in sprints. At the beginning of each sprint, they pick stories from the top of the backlog, stories that are ready based on the completeness of the user story. They place these stories on the sprint plan and track their delivery typically on a kanban board.
+                - I named my sprints “sprint/Day 1”, “sprint/Day 2”, but later renamed them to just “sprint/1”, “sprint/2” when I realized I bit off more than I can chew next to daily work.
+                - I continued by writing an initial version of a `[[[How To](https://roamresearch.com/#/app/RoamAgile/page/kr20N1M4E)]]` guide and a list of design `[[[Dilemmas](https://roamresearch.com/#/app/RoamAgile/page/roVMgSAWO)]]`. This helped me think through how I was going to use Roam for managing my agile product development process. Later I created the user story `[[[story/Document final how-to guide](https://roamresearch.com/#/app/RoamAgile/page/k6DkFj72_)]]` to update the How To guide. Any time I make a comment regarding use of the template, be it in a user story or elsewhere in the graph, I tag it with this story. As a result, I have all the reminders of how-to design decisions as linked references at the bottom of this user story waiting for me when I get there with my work.
+                - See [demo](https://youtu.be/t6l_84svRxM)
+                - s you can see on the screenshot below, you can craft a Datalog query to identify stories in the graph, but missing from the backlog.
+                    - ![](https://1.bp.blogspot.com/-ayVkS_VUNHM/YBbdRnhkriI/AAAAAAAAxbw/DPAmyJc1xewQlWxN7il0aJ3zDR3xBy72wCLcBGAsYHQ/w640-h360/Missing%2Bstories.png)
+                    - **Note:** This could easily be replaced with a combination of block-level and page-level tags + a few standard queries (probably more the speed of the initial user)
+        - [Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
+            - Notes
+                - Indiviudal teams could have their own graphs and feed updates into a central repository using Roam Inter
+                    - [I](<I.md>) Roam Collective could build a more "polished" graph and set up an inter-feed to drop relevant content on a daily basis
+                - [I](<I.md>) An AoT for group decisions and group review — necessary for a distributed, asynchronous, community project...
+                - [I](<I.md>) Using speculative outlining and collection building as a means of sprint planning...
+            - Highlights
+                - It could even work for larger groups of up to a few teams... however, the lack of role-based access management may become an issue as the number of the teams grow.
+                - Why should you consider Roam as your platform for Agile Product Management?
+                - Stories play a key role in Agile Product Development. The Product Owner is the storyteller. His/her role is to introduce the product to the development team. Understanding the intricate details of the product will allow the team to construct a solution that far surpasses anything they could have specified, designed, and built following traditional waterfall methodologies.
+                - Stories, however, are inherently messy. Important details surface at the most unexpected times. A Product Development tool centered on stories, with the ability to deal with tasks, is more suited to this process than task management tools with the added ability to manage stories. The shift in focus is subtle but important.
+                - As I was writing user-stories, doing daily standup meetings, reviewing customer feedback, etc. every time something occurred to me, that I should include in the final how-to guide, I tagged it with this story.
+                - User stories are the Pattern Language of the product. See my blog post about [Pattern Language for Effective Thinking](https://cdn.prowritingaid.com/website/2.1.11953/webeditor/Pattern%20Language) if you are interested in pattern languages.
+                    -  #[Follow Up](<Follow Up.md>) & read zsolt's post on Pattern Language
+                - I have included 8 different algorithms in the Roam Agile template. These are:
+                    - Choice
+                    - Attention direction tools
+                        - Consider All Factors
+                        - Alternative, Possibilities, Choices
+                        - Other People's Views
+                        - Consequence and Sequel
+                        - Plus, Minus, and Interesting
+                        - Agreement, Disagreement, and Irrelevance
+                        - Examine Both Sides
+                    - Trouble, owner, Success Criteria, Actors
+                - Charts by David Vargas. I have included this in Roam Agile. This extension adds diagramming support for `{{line}}` and `{{bar}}` charts. I use `{{line}}` for the burndown charts in the sprint template.
+                - Ceremonies
+                    - Backlog Grooming
+                    - Sprint Planning
+                    - Daily Standuop Meeting
+                    - Sprint Demo
+                    - Sprint Retrospective
+                - Templates
+                    - Product Vision
+                    - Product Roadmap
+                    - Map of Personas
+                    - Customer Journey Map
+                    - Customer Feedback
+                    - Solution Design
+        - #[Follow Up](<Follow Up.md>) and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - Simple Replies
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a feature request for Roam would be allow for page references within namespaces [*](((7QgJ6Ey63)))[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
+                - https://twitter.com/CharlesSimsFarr/status/1359555125413613570?s=20
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))
+                - I was on the free trial version but may actually purchase the full one on the strength of this alone
+                - From the same firm (Readdle) that developed the [Spark](https://sparkmailapp.com/) email client, which I also highly recommend...
+            - I like the `Annotations` convention [*]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) [*](((XIszaTY8o))) — additional examples...
+                - "[Annotations](<Annotations.md>) Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)"
+                - "[Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
+                - "[Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[@[[Charles Farr](<@[[Charles Farr.md>)]]`, just not the `[Charles Farr](<Charles Farr.md>)` page
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---

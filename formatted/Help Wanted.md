@@ -61,7 +61,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [ ] Import sections of the [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) on [rhetoric](<rhetoric.md>), the [Toulmin Argument](<Toulmin Argument.md>), and [logic](<logic.md>) into the graph as [evergreen notes](<evergreen notes.md>). ((With external authorship documented (verbatim import)) #[Help Wanted](<Help Wanted.md>)
 
-- [ ] Create literature notes from [How to write good prompts](<How to write good prompts.md>). #[Help Wanted](<Help Wanted.md>)
+- [ ] Create literature notes from [[[R:](<[[R:.md>) How to write good prompts]]. #[Help Wanted](<Help Wanted.md>)
 
 - Seems that alias don’t work well with query? I find that your mentioning [here](((YLeWbqa5w))) I can’t query out, you could check out my personal page to confirm this. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] #[Help Wanted](<Help Wanted.md>)
 

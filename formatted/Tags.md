@@ -142,9 +142,6 @@
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):**
 
-## [How to write good prompts](<How to write good prompts.md>)
-- **[Tags](<Tags.md>):**
-
 ## [I](<I.md>)
 - **[Tags](<Tags.md>):**
 
@@ -447,6 +444,12 @@
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
+- **[Tags](<Tags.md>):**
+
+## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
+- **[Tags](<Tags.md>):**
+
+## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
 - **[Tags](<Tags.md>):**
 
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)

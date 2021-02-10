@@ -39,7 +39,7 @@
         - #[Help Wanted](<Help Wanted.md>)
             - Mine the Slack channel for great ideas and port them into the graph for greater consideration and preservation.
         - [Tips](<Tips.md>)
-            - You can [emoji react](<emoji react.md>) to any block by right clocking the bullet.
+            - You can [emoji react]([emoji reactions](<emoji reactions.md>)) to any block by right clocking the bullet.
         - [Conventions](<Conventions.md>)
             - Whenever you create a new collections or navigational tag, use the ["add to CSS" smartblock](((qrGab42mI))) to create an activity. [Tips](<Tips.md>)
         - I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. 

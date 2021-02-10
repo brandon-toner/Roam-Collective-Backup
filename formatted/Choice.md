@@ -12,7 +12,7 @@
 - """[x] [Choice](<Choice.md>):
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- [ ] [Choice](<Choice.md>):
+- [x] [Choice](<Choice.md>):
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - [ ] [Choice](<Choice.md>):

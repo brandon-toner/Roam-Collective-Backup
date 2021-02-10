@@ -3,6 +3,9 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - {{[DONE](<DONE.md>)}
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- "{{[DONE](<DONE.md>)}
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "{{[DONE](<DONE.md>)}
 
@@ -28,6 +31,12 @@
 - #[Follow Up](<Follow Up.md>) "{{[DONE](<DONE.md>)}
 
 - #[Follow Up](<Follow Up.md>) "{{[DONE](<DONE.md>)}
+
+## [February 8th, 2021](<February 8th, 2021.md>)
+- {{[DONE](<DONE.md>)}
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- {{[DONE](<DONE.md>)}
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 1. {{[DONE](<DONE.md>)}

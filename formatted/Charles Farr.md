@@ -5,6 +5,15 @@
         - **[Location](<Location.md>):** Chicago, IL
         - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
 - :hiccup [:hr]
+- Personal Artifacts
+    - SmartBlocks
+        - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
+            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+                - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+                - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+                - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+                - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+            - ---
 - Personal Queries
     - Questions
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>) {not: {or: }}  }}}
@@ -13,14 +22,26 @@
     - Todos
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
-        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) }}  }}}
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) [42SmartBlock](<42SmartBlock.md>) }}  }}}
+- Personal Shortcuts
     - [datalog experimentation](<datalog experimentation.md>)
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
+
+## [February 10th, 2021](<February 10th, 2021.md>)
+- "Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)`
+
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+- Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)`
+
+- [^[[Brandon Toner](<^[[Brandon Toner.md>)]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[@[[Charles Farr](<@[[Charles Farr.md>)]]`, just not the `[Charles Farr](<Charles Farr.md>)`
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)

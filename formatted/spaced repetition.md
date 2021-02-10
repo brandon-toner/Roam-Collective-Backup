@@ -21,9 +21,6 @@
 
 - For anyone who uses [spaced repetition](<spaced repetition.md>),
 
-## [How to write good prompts](<How to write good prompts.md>)
-- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)
-
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Q](<Q.md>) [spaced repetition](<spaced repetition.md>)
 
@@ -52,6 +49,9 @@
 
 ## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+
+## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)
 
 ## [spaced everything](<spaced everything.md>)
 - **[Related](<Related.md>):** #[spaced repetition](<spaced repetition.md>)

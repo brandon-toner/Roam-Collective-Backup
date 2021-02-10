@@ -5,7 +5,7 @@
             - **[Options](<Options.md>):**
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
+- [x] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
                     - **[Options](<Options.md>):**
 
 ## [February 9th, 2021](<February 9th, 2021.md>)

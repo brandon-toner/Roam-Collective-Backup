@@ -6,7 +6,7 @@
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "For anyone who uses [spaced repetition](<spaced repetition.md>), there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. [emoji reactions]([emoji react](<emoji react.md>)) seem no longer [broken](((9hY8K9SvB)))! 
+        1. [emoji reactions]([emoji reactions](<emoji reactions.md>)) seem no longer [broken](((9hY8K9SvB)))! 
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
@@ -47,7 +47,7 @@
                 - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
         2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`...
-                - [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
+                - [x] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)` be the namespace for page-status questions? ((((gU4AyicEw))))
                     - **[Options](<Options.md>):** 
                         - E:
                             - **[Pros](<Pros.md>):**
@@ -59,7 +59,7 @@
                                 - Clear distinction between evergreen and questions
                                     - Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
                                     - Empowers a workflow that encourages tagging them with ease. 
-                    - **[Decision](<Decision.md>):** Tentative "Q:"
+                    - **[Decision](<Decision.md>):** "Q:"
                         - **[Rationale](<Rationale.md>):** "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
                     - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)

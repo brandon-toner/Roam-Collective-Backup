@@ -10,6 +10,11 @@
 ## [Charles Farr](<Charles Farr.md>)
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+-  #[Follow Up](<Follow Up.md>)
+
+- #[Follow Up](<Follow Up.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Follow Up](<Follow Up.md>)
 

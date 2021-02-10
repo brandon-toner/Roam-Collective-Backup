@@ -352,7 +352,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - [axiomatic presuppositions](<axiomatic presuppositions.md>) can be achieved by consensus of the community.
                 - **[Example](<Example.md>):** We (may) all agree that logical inference is the methodology on achieving [objective [[truth](<objective [[truth.md>)]], so we set it as [axiomatic presuppositions](<axiomatic presuppositions.md>).
                 - **[Example](<Example.md>):** conclusions based on [Experiments](<Experiments.md>) result can be candidates for us to achieve consensus.
-        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [How to write good prompts](<How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
+        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
             - attributes and tendency
             - parts and whole
             - similarity and difference

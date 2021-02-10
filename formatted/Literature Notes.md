@@ -2,12 +2,11 @@
 - **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>), [evergreen notes](<evergreen notes.md>)
 
 # Backlinks
+## [February 10th, 2021](<February 10th, 2021.md>)
+- It is helpful, however to make use of tags such as: `#[Literature Notes](<Literature Notes.md>)`
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - `#[Literature Notes](<Literature Notes.md>)`
-
-## [How to write good prompts](<How to write good prompts.md>)
-- **[URL](<URL.md>):** https://andymatuschak.org/prompts/
-    - **[Literature Notes](<Literature Notes.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[Literature Notes](<Literature Notes.md>)
@@ -41,6 +40,10 @@
 
 ## [The Hub](<The Hub.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)
+
+## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
+- **[URL](<URL.md>):** [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+    - **[Literature Notes](<Literature Notes.md>):**
 
 ## [roam/css](<roam/css.md>)
 - #[Literature Notes](<Literature Notes.md>)

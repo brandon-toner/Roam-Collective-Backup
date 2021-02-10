@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 10th, 2021](<February 10th, 2021.md>)
+- Could use `[S:](<S:.md>)` + `[E:](<E:.md>)`
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - I still can't quite grok the value of the [E:](<E:.md>)
 
@@ -32,7 +35,7 @@
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - Excellent question. I could make the case for either `[E:](<E:.md>)`
 
-- [ ] [Choice](<Choice.md>): Should `[E:](<E:.md>)`
+- [x] [Choice](<Choice.md>): Should `[E:](<E:.md>)`
 
 - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`
 

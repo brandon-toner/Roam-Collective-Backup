@@ -146,10 +146,10 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                     - Questions should be the most clearly articulated notes once polished, but can be used to generate speculative outlines as well
                         - As such, question pages share the same maturity levels as [[S:](((i3KPQUiAr)))] pages
                 - `#Collection` — general purpose speculative outlines that organize around a topic or concept, not a central question
-            - Changes heavily inspired by "#Articles Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
+            - Changes heavily inspired by "#Annotations [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[[[R:]] Joel Chan — Knowledge Synthesis]]) — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
                 - Only real change is I added the `#Notion` note class, which is most analogous to a Fleeting Note
                     - Seemed like a worthwhile addition to ensure a distinction between notes coming from sources (i.e., `#Obs`) versus elsewhere...
-        - #Articles Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
+        - #Annotations [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[[[R:]] Joel Chan — Knowledge Synthesis]]) — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
             - # Annotation Summary of Joel Chan — Knowledge Synthesis.pdf.
                 - **Highlight [page 2]:** My initial audience for this document is researchers who struggle with knowledge synthesis (aka a “real” literature review"), which is the nebulous “black box” in between “I have found a bunch of papers to read” and “I now have synthesized the literature and have a set of promising angles of attack on my research problem”
                 - **Highlight [page 3]:** Notice how the second example creates something new, greater than the sum of its parts, namely the explanation for the origin of species. This is a core aspect of synthesis: the construction of a new point of view from a set of observations, that directly advances knowledge and/or opens up a path to advancing knowledge.
@@ -194,11 +194,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
         - Simple Replies
             - Love the idea [[cc:[[Matt Brockwell]]]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
                 - [[@[[Peter Rosso]]]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
-            - [[@[[Brandon Toner]]]] I agree with "Decision:: Tentative "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
+            - [[~[[Brandon Toner]]]] I agree with "Decision:: "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
             - [[@[[leekeifon]]]] that's correct! [*](((a5b-u6IqI)))
     - #[[GTD Zone]]
         - {{[[TODO]]}} Build Broadcast Mechansim
-        - {{[[TODO]]}} Create template for Q pages [*](((n0APOFCfx)))
+        - {{[[DONE]]}} Create template for Q pages [*](((n0APOFCfx)))
         - {{[[TODO]]}} Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[[Work In Process]] #[[Follow Up]]"
         - {{[[TODO]]}} Document notetaking conventions: "[[[[Roam-Collective]]: Zettelkasten Conventions]]"
             - "Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))"
@@ -215,7 +215,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
     - #Conversation #not_populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - [[@[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
+        - [[~[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
         - #Agenda I think I have an idea for the #RoamGames. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
             - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.

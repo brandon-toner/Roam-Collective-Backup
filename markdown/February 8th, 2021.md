@@ -6,7 +6,7 @@
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - #Chat ((A place to propose objects of discussion)) 
-        1. [emoji reactions]([[emoji react]]) seem no longer [broken](((9hY8K9SvB)))! 
+        1. [emoji reactions]([[emoji reactions]]) seem no longer [broken](((9hY8K9SvB)))! 
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
@@ -47,7 +47,7 @@
                 - Right now I use [ctrl-shift-c](((HvCkSL_js))) as a "universal keystroke" for removal
         2. On [namespaces for page-level questions](((oGCt4n-d-))) [*]([[~[[Charles Farr]]]])
             - Excellent question. I could make the case for either `[[E:]]` or `[[Q:]]`...
-                - {{[[TODO]]}} [[Choice]]: Should `[[E:]]` or `[[Q:]]` be the namespace for page-status questions? ((((gU4AyicEw))))
+                - {{[[DONE]]}} [[Choice]]: Should `[[E:]]` or `[[Q:]]` be the namespace for page-status questions? ((((gU4AyicEw))))
                     - Options:: 
                         - E:
                             - Pros::
@@ -59,7 +59,7 @@
                                 - Clear distinction between evergreen and questions
                                     - Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
                                     - Empowers a workflow that encourages tagging them with ease. 
-                    - Decision:: Tentative "Q:"
+                    - Decision:: "Q:"
                         - Rationale:: "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
                     - Notes:: #not_populated
     - #Feedback  #not_populated
