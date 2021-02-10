@@ -4603,6 +4603,9 @@ h6 {
 ## [Experiments](<Experiments.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- {{[query](<../query.md>): {and: [Agenda](<../Agenda.md>) {not: [roam/css](<../roam/css.md>)]
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - (resolved) "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 

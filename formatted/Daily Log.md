@@ -5,6 +5,9 @@
             - {{embed: ((aXbOspJJ4))}}
 
 # Backlinks
+## [February 10th, 2021](<February 10th, 2021.md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 

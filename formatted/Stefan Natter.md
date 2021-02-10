@@ -33,6 +33,9 @@
 ## [Directory](<Directory.md>)
 - [Stefan Natter](<Stefan Natter.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- [Stefan Natter](<Stefan Natter.md>)
+
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>)
 

@@ -2,6 +2,10 @@
 - [ ] Add to [roam/css](<roam/css.md>)
 
 # Backlinks
+## [February 10th, 2021](<February 10th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

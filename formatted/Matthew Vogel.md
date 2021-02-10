@@ -69,6 +69,11 @@ return [query, results];```
 ## [Directory](<Directory.md>)
 - [Matthew Vogel](<Matthew Vogel.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- [Matthew Vogel](<Matthew Vogel.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)
 

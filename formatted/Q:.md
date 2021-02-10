@@ -10,7 +10,7 @@
 
 - [x] [Choice](<Choice.md>): Should `[E:](<E:.md>)` or `[Q:](<Q:.md>)`
 
-- [@[[Brandon Toner](<@[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - Namespace: `[Q:](<Q:.md>)`

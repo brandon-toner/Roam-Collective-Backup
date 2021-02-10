@@ -29,6 +29,9 @@
 4. Create a bullet in you DNP Section with the name of the reference note page and `[Annotations](<Annotations.md>)` [Important](<Important.md>)
                 - **[Example](<Example.md>):**
 
+- I'm hesitant to tag with [Processes](<Processes.md>) or [Conventions](<Conventions.md>) as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
+                - **[Example](<Example.md>):**
+
 - Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                     - **[Example](<Example.md>):**
 

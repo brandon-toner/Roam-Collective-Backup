@@ -37,6 +37,8 @@
 ## [February 10th, 2021](<February 10th, 2021.md>)
 You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 
+- [Peter Rosso](<Peter Rosso.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

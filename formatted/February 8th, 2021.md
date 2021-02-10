@@ -94,7 +94,7 @@
             - #[Fleeting Notes](<Fleeting Notes.md>) Fleeting notes capture nascent ideas with potential to contribute to
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
             - Candidate for change: [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)

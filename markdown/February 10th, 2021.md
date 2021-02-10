@@ -16,8 +16,38 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[Meetings & Discussions]]
+        - #Agenda
+            - Overview — Brandon
+            - Meta Structure in "About" section — Brandon
+            - Draft "Favourite Problems" — Brandon
+            - Slack-to-Roam — Brandon
+            - Roam Games Idea — Peter
+                - Connectors
+                    - https://youtu.be/O3Chd8ECy2A
+                - How can we improve graph view
+                    - Not mentioned in the meeting: why can we not filter the nodes in a graph. 
+            - Output Channels — Peter
+            - Questions as Sprints & Speculative Outlines/Collections as Epics — Charles
+                - Absolutely brilliant
+                - [[Brandon Toner]]  
+                    - Sprints/[Descriptive Title]
+
+                    - Then template to populate contents
+
+                    - Use that page title as a tag on parent block related to sprint ideas(Hidden in an asterisk to simplify the visual noise as appropriate)
+
+                    - 
+
+        - #Members
+            - [[Brandon Toner]]
+            - [[Charles Farr]]
+            - [[Matthew Vogel]]
+            - [[Larissa de Lima]] (joined when discussing Convergence)
+            - [[Peter Rosso]]
+            - [[Stefan Natter]]
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - #[[Scratchpad]]
         - #Agenda output channels
             - Where
@@ -60,6 +90,23 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
                     - #[[Fleeting Notes]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
                     - #[[Fleeting Notes]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
+        - Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])
+            - **Methods:**
+                - Via block ref count
+                - Via emoji reactions
+                    - By using 👍or ➕on the `Option Blocks`
+                    - By using 1,2,3 emojis on a `Summary Block`
+                        - Using a `Community/Vote` attribute
+                            - Pros:: 
+                                - Can click that attribute to see similar votes
+                                - Can reference that block to further elaborate on the thoughts/nuance behind the vote
+                            - Cons::
+                                - Need to expand the parent to see it. 
+                                    - Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless.
+                        - Using the `top-level parent` block
+        - #Q How do we tag suggested or draft processes and conventions?[*]([[@[[Charles Farr]]]])
+            - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
+                - Example:: "Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])"
     - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([[~[[Charles Farr]]]])
@@ -82,8 +129,30 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - Feeling like this is a good implementation for RC. Create a page with an `[[R:]]` namespace for any references or resources in the database.[*]([[~[[Charles Farr]]]])
                     - Example:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
     - #Feedback  #not_populated
+    - #[[Meetings & Discussions]]
+    - #Sprints
+        - Notes
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlJ1uK2jpOJ.png?alt=media&token=a5fa77ee-0a60-436c-a4c5-0d2be0e781f9)
+        - [[Sprints/Title Example]]
+            - #Questions
+            - #[[GTD Zone]]
+            - #Outlines
+                - kjslkdjfklsd
+                - lsjdklfjsdkl
+            - [[Sprint/Roam Game Example]]
+    - #[[Daily Log]]
+        - 15:55 — RC Meetup (Zoom)
+            - Query
+                - {{[[query]]: {and: [[Agenda]] {not: [[roam/css]]]}}}}
+            - Agenda::
+                - "Overview — Brandon"
+                - "Meta Structure in "About" section — Brandon"
+                - "Draft "Favourite Problems" — Brandon"
+                - "Slack-to-Roam — Brandon"
+                - "Roam Games Idea — Peter"
+                - "Output Channels — Peter"
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #[[Bug Reports]]
         - Some `[[@[[Charles Farr]]]]` mentions don't show up within my `[[Charles Farr]]` page — only really seems to impact notes from [Brandon]([[cc:[[Brandon Toner]]]])
             - Odd. Will just rely on the actual `@` page for now...
@@ -198,4 +267,72 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #[[Meetings & Discussions]]
+        - #Q What are the most basic conventions required for effective participation?
+            - #Q How do "optional by effective" conventions go above and beyond?
+                - — [[cc:[[Brandon Toner]]]]
+        - #Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
+            - — [[cc:[[Peter Rosso]]]]
+        - #I Second-order analysis report using datalog
+        - PPV is a pillar system
+            - Pillars and values you're trying to achieve
+                - Seems similar to the idea of the 12 problems!
+                - Question of prioritization
+        - Agile for Roam Collective
+            - Questions as Stories
+            - Speculative Outlines as Sprints
+            - 12 Problems / Pillars as Epics (~kinda analogous)
+        - Convergent targets allow for easier re-entry
+            - — [[cc:[[Larissa de Lima]]]]
+        - [[Sprint/Roam Game Example]]
+            - "#Q What are the most basic conventions required for effective participation?"
+            - "#Q How do "optional by effective" conventions go above and beyond?"
+            - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
+- ---
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}} [*]([[mtv]])
+    - ^^Replace "your name here" with your page link^^
+    - #Scratchpad 
+        - 
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+    - #Scratchpad 
+        - Notes from the Zoom call
+            - CFarr:  Zsolt had done an agile development in Roam.  
+                - Can we have series of questions be sprints?
+                    - Easy way to structure it, clear entry and end point
+                -  PRosso the PPV system - every time you have a task, you have to confront it with pillars you want to achieve.  As a group, you can then decide what becomes active vs not
+                    - CFarr that sounds like prioritizing; reminds me of the 12 problems that you're interested in 
+                - BToner easy to drive convergence as a sprint - atomization of work
+                - PRosso - PPV provides personal pillars and a framework that provides an overview 
+                    - GTD Horizons of Focus - maintaining perpetual alignment - especially important when there is a lot of dispersion 
+                    - Everytime we create a sprint, you can connect that to your knowledge vault
+                    - CFarr what is the atomic structure of the graph, there's the output focused vs. zettelkasten
+                        - GTD makes sense for maintenance
+                        - While agile and sprint makes more sense for projects
+                        - Zettelkasten then is for knowledge management
+                - BToner purpose emerging naturally; recurrence of ideas, then that can advise the top part of the system
+                - CFarr take an experimental battle-test approach
+            - Latest Roam Games -> 
+                - PRosso looking at parent-child relationships
+                - Explore 
+                - CFarr generate set of questions
+            - How to implement it?
+                - Clear name; standardize
+                - What does a successful sprint look like?
+                    - Sets of questions 
+                - Sprint -> hub -> similar attributes to evergreen -> as you contribute, tag it then compile ideas underneath. 
+                    - What we can do
+                        - Identify questions
+                        - Create speculative outlines
+                        - Make assertions
+                        - Collaborate as we go on all the above
+                    - Then you can use existing tags (q, outline)
+                    - MVogel have it top of DN to ensure effectiveness
+    - #[[GTD Zone]] #not_populated
+    - #Questions #not_populated
+    - #Conversation  #not_populated
+    - #Feedback #not_populated
 - ---

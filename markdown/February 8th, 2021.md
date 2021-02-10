@@ -94,7 +94,7 @@
             - #[[Fleeting Notes]] Fleeting notes capture nascent ideas with potential to contribute to
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
-        - [[@[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
+        - [[~[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
             - Candidate for change: [[[[E:]] Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated

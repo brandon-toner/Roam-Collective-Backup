@@ -35,6 +35,8 @@
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
+- [Charles Farr](<Charles Farr.md>)
+
 - "Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)`
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
