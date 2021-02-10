@@ -34,3 +34,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[[Scratchpad]] #not_populated
+    - #[[GTD Zone]] #not_populated
+    - #[[Change Log]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+    - #Feedback  #not_populated
+- ---
