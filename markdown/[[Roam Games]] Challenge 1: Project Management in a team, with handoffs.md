@@ -1,3 +1,3 @@
 - Description::
-    - Tweet from [[Conor Sullivan-White]]:
+    - Tweet from [[Conor White-Sullivan]]:
         - https://twitter.com/Conaw/status/1353623250132078592?s=20

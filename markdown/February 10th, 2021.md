@@ -14,7 +14,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - "Meetup Today at 20:00GMT"
         - "Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])"
         - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
-        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])"
+        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))"
+            - "[Draft Sprints template](((tG1HJs2dK)))"
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
     - #[[Meetings & Discussions]]
@@ -72,7 +73,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[[Scratchpad]] 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([[Processes]])
@@ -113,16 +114,26 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - #Q How do we tag suggested or draft processes and conventions?[*]([[@[[Charles Farr]]]])
             - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
                 - Example:: "Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])"
-        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])
-            - Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
-            - Within that update, we could link to the work that we have done that lives within our DNP sections. 
-            - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
-            - This approach would make the Sprint page easy-to-navigate and simple in it's outline and deep with information via referenced content. 
+        - #Q How should pages for [[sprints]] be designed? 
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
+            - #I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
+                - Within that update, we could link to the work that we have done that lives within our DNP sections. 
+                - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
+                - This approach would make the Sprint page easy-to-navigate and simple in it's outline and deep with information via referenced content. 
+            - ORRRRRR
+            - #I series of queries could exist on the page template... which would automatically gather the `#Outlines`, `#Questions % #Q`, `Fleeting Notes, Lit Notes, Evergreens`, `#I`s, etc that are related to the sprint.
+            - ORRRR [[Why not both?]]
+                - [Draft Sprints template](((tG1HJs2dK)))
+        - Thoughts::
+            - "[[connecting the dots]]" is a very Roam visual metaphor/saying...
+                - Making connections between entities in a map of information... 
     - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([[~[[Charles Farr]]]])
         - Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]].
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
+        - Developed a [Sprints Template](((tG1HJs2dK)))
+        - Created a sprint for [Roam Games 3]([[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]])
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
@@ -151,7 +162,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - #Questions
             - #[[GTD Zone]]
             - #Outlines
-            - [[Sprint/Roam Game Example]]
+            - Sprint/Roam Game Example
     - #[[Daily Log]]
         - 15:55 — RC Meetup (Zoom)
             - Query
@@ -265,6 +276,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - Customer Feedback
                     - Solution Design
         - #[[Follow Up]] and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
+        - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
+            - https://twitter.com/Conaw/status/1359129393453355014?s=20
         - #Q What does an [[agile]] approach look like for Roam Collective?
             - Agile projects are structured around...
                 - Stories — bite size pieces of work
@@ -321,9 +334,17 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - As we work within the graph, it is natural to drop a `#Q` block in-line to ask a topical question.
                     - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
                 - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[[Q:]]` implicitly denotes an increase in maturity
-                - 
+            - 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
+        - On structuring work around Epics, Sprints, & Questions
+            - "#I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
+                - "[Draft Sprints template](((tG1HJs2dK)))"
+            - Like this: "[[Sprints/Title Example]]"
+            - On the shoulders of giants: "[[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc"
+            - Domains: "CFarr what is the atomic structure of the graph, there's the output focused vs. zettelkasten"
+            - Sprint versus Epic "#Q What do you do if a sprint is also a question? "\
+                - "Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[@[[Charles Farr]]]])"
         - Simple Replies
             - [[~[[Brandon Toner]]]] a feature request for Roam would be allow for page references within namespaces [*](((7QgJ6Ey63)))[*]([[Roam Enhancement Requests]])
                 - https://twitter.com/CharlesSimsFarr/status/1359555125413613570?s=20
@@ -335,6 +356,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
                 - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Import [connectors](((NbeK4NK4e)))
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #[[Meetings & Discussions]]
         - #Q What are the most basic conventions required for effective participation?
@@ -353,12 +376,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - 12 Problems / Pillars as Epics (~kinda analogous)
         - Convergent targets allow for easier re-entry
             - — [[cc:[[Larissa de Lima]]]]
-        - [[Sprint/Roam Game Example]]
+        - Sprint/Roam Game Example
             - "#Q What are the most basic conventions required for effective participation?"
             - "#Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])"
             - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}} [*]([[mtv]])
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}} [*]([[mtv]])
     - #Scratchpad 
         - #[[Meetings & Discussions]]
             - use fleeting notes and q for free, make pages once you ref an idea multiple times
@@ -377,7 +400,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #Scratchpad 
         - Notes from the Zoom call
             - CFarr:  Zsolt had done an agile development in Roam.  

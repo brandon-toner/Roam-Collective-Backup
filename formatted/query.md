@@ -1,5 +1,3 @@
-- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
-- Verb and noun [Tensions](<Tensions.md>)
 
 # Backlinks
 ## [@[Brandon Toner](<Brandon Toner.md>)](<@[Brandon Toner](<Brandon Toner.md>).md>)
@@ -196,6 +194,15 @@
 
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>), [query](<query.md>)
+
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
 
 ## [Stefan Natter](<Stefan Natter.md>)
 - {{[query](<query.md>):

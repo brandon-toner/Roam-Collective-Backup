@@ -88,7 +88,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Project Ideas](<Project Ideas.md>) Perhaps, collectively, we could create a [template](<template.md>) of [conventions](<conventions.md>) that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
             - This EXACT block was written during the first session in [[[Roam Book Club](<[[Roam Book Club.md>) II]] and describes the [mission](<mission.md>) of this graph well. The product is the [Roam Collaboration Guide](<Roam Collaboration Guide.md>). 
         - #[Fleeting Notes](<Fleeting Notes.md>) [alignment](<alignment.md>) with community [conventions](<conventions.md>) is key to [leveraging](<leveraging.md>) the scale of community and unlocking the power of the [collective intelligence](<collective intelligence.md>)
-        - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor Sullivan-White](<Conor Sullivan-White.md>)
+        - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor White-Sullivan](<Conor White-Sullivan.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([conventions](<conventions.md>)) that bias towards the achievement of those goals.

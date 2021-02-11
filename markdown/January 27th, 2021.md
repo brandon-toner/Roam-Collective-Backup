@@ -88,7 +88,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Project Ideas]] Perhaps, collectively, we could create a [[template]] of [[conventions]] that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
             - This EXACT block was written during the first session in [[[[Roam Book Club]] II]] and describes the [[mission]] of this graph well. The product is the [[Roam Collaboration Guide]]. 
         - #[[Fleeting Notes]] [[alignment]] with community [[conventions]] is key to [[leveraging]] the scale of community and unlocking the power of the [[collective intelligence]]
-        - #Quotes [[collective intelligence]] > [[artificial intelligence]] - [[Conor Sullivan-White]]
+        - #Quotes [[collective intelligence]] > [[artificial intelligence]] - [[Conor White-Sullivan]]
         - #[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([[conventions]]) that bias towards the achievement of those goals.

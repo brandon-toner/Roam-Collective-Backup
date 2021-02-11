@@ -6,6 +6,9 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
         - **[Thoughts](<Thoughts.md>):**
 
+- [Draft Sprints template](((tG1HJs2dK)))
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

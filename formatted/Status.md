@@ -15,3 +15,7 @@
 - B — Do not include `[Evergreen](<Evergreen.md>)` tag as part of process
             - **[Status](<Status.md>):**
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FXrX08XM4wy.png?alt=media&token=42f9892d-4ddd-493b-af5d-3f09c59b1eae)
+    - **[Status](<Status.md>):**
+

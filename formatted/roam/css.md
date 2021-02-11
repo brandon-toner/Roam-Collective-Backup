@@ -4541,6 +4541,7 @@ a {
 }
 
 .starred-pages a[href*="S04orQeHK"]>.page,
+.starred-pages a[href*="9QGedI_a3"]>.page,
 .starred-pages a[href*="vxKXH9a0r"]>.page
 {
   color: [2196F3](<../2196F3.md>) !important;

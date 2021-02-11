@@ -469,6 +469,9 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>)
+
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 

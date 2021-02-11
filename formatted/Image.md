@@ -50,6 +50,10 @@ Resolve by "[replace as text](<replace as text.md>)"
 12. Turn off brackets to streamline the look of page looks a bit
         - **[Image](<Image.md>):**
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- Will be 10-20k in prizes for you and your ancestors.
+        - **[Image](<Image.md>):**
+
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>) [Christianity](<Christianity.md>) [mythology](<mythology.md>)
     - **[Image](<Image.md>):**

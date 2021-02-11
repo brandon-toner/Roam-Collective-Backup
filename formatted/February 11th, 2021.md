@@ -1,0 +1,27 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))"
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
+        1. Are "minimal" queries displaying correctly for others?
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
+        - **[Active Sprint](<Active Sprint.md>):** [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - [Q](<Q.md>) What do you do if a sprint is also a question? 
+            - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
+        - #[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>) submissions. [*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
+            - [I](<I.md>) This could be a value-offering to the Roam community. RC could be a place to view the Roam Games developments. 
+                - [I](<I.md>) Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
+                    - A place to view the relationships and dependencies across projects.
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+- ---

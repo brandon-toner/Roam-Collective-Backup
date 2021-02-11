@@ -1,8 +1,16 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Library](<Library.md>)
 - ---
 - [Epic](<Epic.md>)/Active
-    - [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
-        - https://twitter.com/Conaw/status/1359129393453355014?s=20
+    - [Epic/Managing knowledge dependencies in multiplayer](<Epic/Managing knowledge dependencies in multiplayer.md>)
+        - [Sprint/1 — Roam Games 3](<Sprint/1 — Roam Games 3.md>)
+            - [ ] "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+            - [ ] "[Draft Sprints template](((tG1HJs2dK)))"
+            - [ ] Draft Epic template
+            - [ ] Collate related questions
+            - [ ] Collate related ideas → format into questions
+            - [ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+    - [Epic/Implement Agile Methodologies in Roam](<Epic/Implement Agile Methodologies in Roam.md>)
+        - "[Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? "
 - [Epic](<Epic.md>)/Queued
     - 
 - [Epic](<Epic.md>)/Proposed

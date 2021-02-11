@@ -1,8 +1,16 @@
 - Tags:: #Collections #Library
 - ---
 - #Epic/Active
-    - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
-        - https://twitter.com/Conaw/status/1359129393453355014?s=20
+    - [[Epic/Managing knowledge dependencies in multiplayer]]
+        - [[Sprint/1 — Roam Games 3]]
+            - {{[[TODO]]}} "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
+            - {{[[TODO]]}} "[Draft Sprints template](((tG1HJs2dK)))"
+            - {{[[TODO]]}} Draft Epic template
+            - {{[[TODO]]}} Collate related questions
+            - {{[[TODO]]}} Collate related ideas → format into questions
+            - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+    - [[Epic/Implement Agile Methodologies in Roam]]
+        - "#Q How should pages for [[sprints]] be designed? "
 - #Epic/Queued
     - 
 - #Epic/Proposed

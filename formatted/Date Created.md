@@ -24,6 +24,10 @@
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [collaboration](<collaboration.md>) [chat](<chat.md>) [communication](<communication.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>) 
+    - **[Date Created](<Date Created.md>):**
+
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**

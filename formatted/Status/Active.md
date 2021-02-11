@@ -13,6 +13,9 @@
 ## [Project Status](<Project Status.md>)
 - #[Status/Active](<../Status/Active.md>)
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[Status/Active](<../Status/Active.md>)
 

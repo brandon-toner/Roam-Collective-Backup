@@ -304,6 +304,9 @@
 ## [Sprints](<Sprints.md>)
 - **[Tags](<Tags.md>):**
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Stefan Natter](<Stefan Natter.md>)
 - **[Tags](<Tags.md>):**
 
@@ -350,6 +353,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
+- **[Tags](<Tags.md>):**
+
+## [Why not both?](<Why not both?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Wiel Zouantcha](<Wiel Zouantcha.md>)
@@ -539,9 +545,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [personal page](<personal page.md>)
-- **[Tags](<Tags.md>):**
-
-## [query](<query.md>)
 - **[Tags](<Tags.md>):**
 
 ## [serendipity](<serendipity.md>)

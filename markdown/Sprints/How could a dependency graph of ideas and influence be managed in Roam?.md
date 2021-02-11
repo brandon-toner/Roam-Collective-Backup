@@ -1,0 +1,27 @@
+- Tags:: #Sprints #[[Roam Games]] 
+    - Date Created:: [[February 10th, 2021]]
+    - Date Range:: [[February 9th, 2021]] ^^until ?????^^
+    - Description:: 
+        - ^^Roam Games 3^^
+        - "Show how we can manage a dependency graph of ideas and influence -preferable a peer produced one using `#roamjs` and `#roaminter`" - [[Conor White-Sullivan]]
+        - Will be 10-20k in prizes for you and your ancestors.
+        - Image::
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FXrX08XM4wy.png?alt=media&token=42f9892d-4ddd-493b-af5d-3f09c59b1eae)
+    - Status:: [[Status/Active]]
+    - Resources:: 
+        - RoamJS
+        - RoamInter
+        - RoamRender
+    - **Outlines:** #not_populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] [[Outlines]]}}} #minimal
+    - **Questions:** #not_populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] {or: [[Q]] [[Questions]]}}}} #minimal
+    - Relevant Notes:: #not_populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
+    - Tasks:: #not_populated ((Replace ex-A with the sprint page name))
+        - Query:: 
+            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] [[TODO]]}}}
+    - Contribution Log:: #not_populated ((Include your name, the date, a description of the work, and a link to the work))

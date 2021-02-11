@@ -31,6 +31,9 @@
 
 - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[I](<I.md>)
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>) [I](<I.md>)
+
 ## [roam/css](<roam/css.md>)
 - `#[I](<I.md>)
 

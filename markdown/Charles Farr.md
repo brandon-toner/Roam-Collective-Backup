@@ -9,10 +9,9 @@
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
             - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
-                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-                - #Questions ((about the graph, or directed towards someone)) #not_populated
+                - #Scratchpad #not_populated
+                - #Sprints #not_populated
                 - #Conversation #not_populated
-                - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
             - ---
 - Personal Queries
     - Questions

@@ -1,3 +1,3 @@
 - **[Description](<Description.md>):**
-    - Tweet from [Conor Sullivan-White](<Conor Sullivan-White.md>):
+    - Tweet from [Conor White-Sullivan](<Conor White-Sullivan.md>):
         - https://twitter.com/Conaw/status/1353623250132078592?s=20
