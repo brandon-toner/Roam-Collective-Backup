@@ -60,7 +60,7 @@ return [query, results];```
         - My Notes
             - {{[[query]]: {and:[[Matthew Vogel]] [[mtv]] }}}
         - People near me!
-            - {{[[query]]: {and: [[Location]] {or: [[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]] }}}}
+            - {{[[query]]: {and:[[Location]] {or:[[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]]} {not:[[query]]}}}}
     - SmartBlocks::#not_populated
     - Bookmarks::
         - [[[[E:]] alert fatigue]]

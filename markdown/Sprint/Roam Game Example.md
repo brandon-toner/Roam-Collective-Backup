@@ -2,6 +2,6 @@
 - ---
 - Current Outline
     - [[[[Q:]] Example Question Outline]]
-        - "#Q How do "optional by effective" conventions go above and beyond?"
+        - "#Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])"
     - "#Q What are the most basic conventions required for effective participation?"
     - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"

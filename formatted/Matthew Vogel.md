@@ -60,7 +60,7 @@ return [query, results];```
         - My Notes
             - {{[query](<query.md>): {and:[Matthew Vogel](<Matthew Vogel.md>) [mtv](<mtv.md>) }}}
         - People near me!
-            - {{[query](<query.md>): {and: [Location](<Location.md>) {or: [Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>) }}}}
+            - {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}}}}
     - **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
         - [[[E:](<[[E:.md>) alert fatigue]]

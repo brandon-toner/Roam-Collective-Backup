@@ -1,0 +1,8 @@
+- Tags:: #Collections #Library
+- ---
+- #Epic/Active
+    - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
+        - https://twitter.com/Conaw/status/1359129393453355014?s=20
+- #Epic/Proposed
+    - #Q How to onboard new contributors to Roam Collective?
+- #Epic/Completed

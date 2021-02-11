@@ -9,8 +9,13 @@
 ## [Announcements](<Announcements.md>)
 - Create a hub for the [Roam Games](<Roam Games.md>)
 
+## [Bill Petro](<Bill Petro.md>)
+- Here is my idea for #[Roam Games](<Roam Games.md>):
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - This was a [Roam Games](<Roam Games.md>)
+
+- Thinking about [Roam Games](<Roam Games.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "going to spend some time tonight on [Roam Games](<Roam Games.md>),
@@ -31,6 +36,9 @@
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>) #[Roam Games](<Roam Games.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- [Agenda](<Agenda.md>) I think I have an idea for the #[Roam Games](<Roam Games.md>).
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Create a hub for the [Roam Games](<Roam Games.md>)

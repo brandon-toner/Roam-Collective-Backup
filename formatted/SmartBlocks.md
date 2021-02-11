@@ -44,7 +44,7 @@
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- {{[query](<query.md>): {and: [Location](<Location.md>) {or: [Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>) }}}}
+- {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}}}}
     - **[SmartBlocks](<SmartBlocks.md>):**#
 
 ## [Peter Rosso](<Peter Rosso.md>)

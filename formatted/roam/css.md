@@ -816,6 +816,27 @@ console.log(
   	--note-tag-color:			var(--cl-gray-200);
   }
 }```
+        - Fonts
+            - Code Blocks
+                - Code
+                    - ```css
+:root {
+  --fnt-size-inline-code:		12px;
+  --fnt-size-code-block:		14px;
+}
+
+.CodeMirror .CodeMirror-code pre {
+  font-size: var(--fnt-size-code-block);
+  font-style: normal!important;
+}
+
+code {
+  font-size: var(--fnt-size-inline-code);
+  font-style: normal!important;
+}
+
+```
+                    - Example: `this is a code block`
     - ## Elements
         1. ## Tag Styling [Status](<../Status.md>)/Enabled
             1. ### GTD Tags

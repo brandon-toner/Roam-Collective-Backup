@@ -216,7 +216,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
         - [[~[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
-        - #Agenda I think I have an idea for the #RoamGames. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
+        - #Agenda I think I have an idea for the #[[Roam Games]]. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
             - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.
     - #Feedback  #not_populated

@@ -24,7 +24,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - Slack-to-Roam — Brandon
             - Roam Games Idea — Peter
                 - Connectors
-                    - https://youtu.be/O3Chd8ECy2A
+                    - {{[video](<video.md>): https://youtu.be/O3Chd8ECy2A}}
                 - How can we improve graph view
                     - Not mentioned in the meeting: why can we not filter the nodes in a graph. 
             - Output Channels — Peter
@@ -39,6 +39,10 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
 
                     - 
 
+                - [Q](<Q.md>) [Q: When does chaos becomes insurmountable](<Q: When does chaos becomes insurmountable.md>) 
+                    - Did I do this right?
+                    - Where does order emerges from?
+                    - With the right primitives order emerges
         - [Members](<Members.md>)
             - [Brandon Toner](<Brandon Toner.md>)
             - [Charles Farr](<Charles Farr.md>)
@@ -47,7 +51,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - [Peter Rosso](<Peter Rosso.md>)
             - [Stefan Natter](<Stefan Natter.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>)
         - [Agenda](<Agenda.md>) output channels
             - Where
@@ -56,6 +60,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - (Connor was talking about outputting newsletter from ROAM - I am sure we had that on here the first days I joined)
             - What
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
+        - 
     - #[GTD Zone](<GTD Zone.md>)
         - Explain the idea for graph dependency
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
@@ -253,6 +258,54 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - Customer Feedback
                     - Solution Design
         - #[Follow Up](<Follow Up.md>) and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
+        - On agile organization for Roam Collective
+            - Agile projects are structured around...
+                - Stories — bite size pieces of work
+                - Sprints — collections of stories (work), time-bound
+                - Epics — collections of sprints, oriented around a goal
+            - Adapting the framework to our goals at Roam Collective, I propose the following structure...
+                - Stories → `[Q](<Q.md>)` blocks that develop into `[Q:](<Q:.md>)` pages
+                - Sprints → a portion (or all of) an outline or collection of `Questions` to answer during a given time period
+                - Epic → an entire outline or collection of `Questions` to answer during an overarching `Question`
+            - ---
+                - [Meta](<Meta.md>) conversation with myself...
+                    - As I am thinking through the Epic & Sprint structure, what if Epics were speculative outlines and sprints were actual outlines?
+                        - Normally Sprints are just timebound sets of activities, while Epics contain as many sprints needed to actually deliver a feature...
+                    - Maybe Epics are actually collections (e.g., Onboarding)?
+                        - This isn't action oriented enough...
+                    - Maybe we organize at the level of Epics (being questions) and then sprints are just timebound sets of questions...?
+                - ---
+            - Summarizing, the structure would look something like this...
+                - `[Q:](<Q:.md>) What are the fundamental dependent relationships within a knowledge graph?`
+                    - **Oriented around:** answering a single focused question such as "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
+                        - [Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?
+                    - **With status:** `[Sprint](<Sprint.md>)/Current`
+                    - **Composed of:** a base `[Q](<Q.md>)` block maturing into a `[Q:](<Q:.md>)` page that at its completion is readily legible to an external audience (with relevant contxt)
+                    - **Nested under:** "`Sprint/1`"
+                - `Sprint/1`
+                    - **Oriented around:** a realistic set of questions to be answered in 7 days time (tentative)
+                    - **With status:** `[Sprint](<Sprint.md>)/Active`
+                    - **Composed of:** multiple questions (`[Q](<Q.md>)` blocks → `[Q:](<Q:.md>)` pages) and an associate set of tasks (e.g., create a template for output or implement roam garden extension)
+                    - **Nested under:** "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                - `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
+                    - **Oriented around:** answering a single broad question such as "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+                    - **With status:** `[Epic](<Epic.md>)/Active`
+                    - **Composed of:** two sprints (through next Wednesday & then through next Sunday)
+            - Building and completing an Epic would proceed like...
+                1. Determine broad question to answer during epic
+                    - Source of question can be:
+                        - External — e.g., from a Roam Game
+                        - Top Down — i.e., question that is determined to be applicable based on some criteria
+                        - Bottomw Up — i.e., question that precipitates out of the process of speculative outlining / curation
+                2. Outline sub-`[Qs](<Qs.md>)` to answer
+                    - Aggregate current questions in the graph into an outline
+                    - Add additional questions that arise during the curation process
+                3. Divide Epic into Sprints
+                    - **Note:** An Epic can be a single sprint
+                4. Create the appropriate pages
+                    - `Epic/ ———— the question goes here? ————`
+                        - `Sprint/N`, `Sprint/N+1`... `Sprint/N+x`
+                5. Add the Sprint announcement to the announcement to orient to broader Roam Collective around it!
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - Simple Replies
@@ -269,7 +322,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Q](<Q.md>) What are the most basic conventions required for effective participation?
-            - [Q](<Q.md>) How do "optional by effective" conventions go above and beyond?
+            - [Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])
                 - — [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
         - [Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
             - — [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
@@ -286,13 +339,24 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - — [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
         - [Sprint/Roam Game Example](<Sprint/Roam Game Example.md>)
             - "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
-            - "[Q](<Q.md>) How do "optional by effective" conventions go above and beyond?"
+            - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])"
             - "[Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}} [*]([mtv](<mtv.md>))
-    - ^^Replace "your name here" with your page link^^
     - [Scratchpad](<Scratchpad.md>) 
-        - 
+        - #[Meetings & Discussions](<Meetings & Discussions.md>)
+            - use fleeting notes and q for free, make pages once you ref an idea multiple times
+            - looking for a lower threshold to creating page based ideas
+            - [>](<>.md>) __"go with as much clarity as you have"__
+            - [>](<>.md>) __write the article before doing the research__
+            - order without design
+            - with the right primitives order emerges
+            - [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
+            - question well stated is half solved
+                - what why how - a structural guide to making questions
+            - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+        - Thinking about [Roam Games](<Roam Games.md>) and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [Roam-Collective](<Roam-Collective.md>) on the shoulders of?
+            - [Roam Book Club](<Roam Book Club.md>) conventions, Andy matuschak, Smartblocks/RoamHacker, etc
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
@@ -331,6 +395,8 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                         - Collaborate as we go on all the above
                     - Then you can use existing tags (q, outline)
                     - MVogel have it top of DN to ensure effectiveness
+                    - PRosso create an archive so we know what's been processed
+                    - Lower threshold for questions and page ideas
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)

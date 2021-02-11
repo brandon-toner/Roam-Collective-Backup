@@ -5,6 +5,14 @@
 
 - Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>)
 
+- Stories → `[Q](<Q.md>)` blocks that develop into `[Q:](<Q:.md>)`
+
+- `[Q:](<Q:.md>)
+
+- **Composed of:** a base `[Q](<Q.md>)` block maturing into a `[Q:](<Q:.md>)`
+
+- **Composed of:** multiple questions (`[Q](<Q.md>)` blocks → `[Q:](<Q:.md>)`
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`
 
