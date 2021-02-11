@@ -132,7 +132,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]].
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
         - Developed a [Sprints Template](((tG1HJs2dK)))
-        - Created a sprint for [Roam Games 3]([[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]])
+        - Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
@@ -334,17 +334,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
                 - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[[Q:]]` implicitly denotes an increase in maturity
             - 
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
-        - On structuring work around Epics, Sprints, & Questions
-            - "#I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
-                - "[Draft Sprints template](((tG1HJs2dK)))"
-            - Like this: "[[Sprints/Title Example]]"
-            - On the shoulders of giants: "[[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc"
-            - Domains: "CFarr what is the atomic structure of the graph, there's the output focused vs. zettelkasten"
-            - Sprint versus Epic "#Q What do you do if a sprint is also a question? "\
-                - "Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[@[[Charles Farr]]]])"
+        - On "[[domains]]" within the Roam Collective
+            -  [[@[[Larissa de Lima]]]] I almost think of [these](((xRXhJOm2O))) as distinct domains — meta, internal knowledge, external knowledge.
+                - Obviously there is a ton of overlap and exchange between each, but they each have distinct objectives and conventions
         - Simple Replies
+            - [[@[[Matthew Vogel]]]] completely agree with all of [these](((RCwNQ4AD1)))!
             - [[~[[Brandon Toner]]]] a feature request for Roam would be allow for page references within namespaces [*](((7QgJ6Ey63)))[*]([[Roam Enhancement Requests]])
                 - https://twitter.com/CharlesSimsFarr/status/1359555125413613570?s=20
             - [[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))
@@ -357,7 +352,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
     - #[[GTD Zone]]
         - {{[[TODO]]}} Import [connectors](((NbeK4NK4e)))
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #[[Meetings & Discussions]]
         - #Q What are the most basic conventions required for effective participation?
             - #Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])

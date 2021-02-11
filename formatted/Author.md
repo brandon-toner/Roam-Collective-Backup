@@ -116,6 +116,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+    - **[Author](<Author.md>):**
+
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
     - **[Author](<Author.md>):**

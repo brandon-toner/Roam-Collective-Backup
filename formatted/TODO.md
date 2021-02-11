@@ -24,6 +24,10 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>)
 
@@ -41,6 +45,11 @@
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - {{[TODO](<TODO.md>)}
+
+## [February 11th, 2021](<February 11th, 2021.md>)
+- "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}
@@ -157,8 +166,8 @@
 
 - {{[TODO](<TODO.md>)}
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) [TODO](<TODO.md>)}
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<TODO.md>)}
 
 ## [Thoughts](<Thoughts.md>)
 - {{[TODO](<TODO.md>)}

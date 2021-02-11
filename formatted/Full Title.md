@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
+- **[Author(s)](<Author(s).md>):** [Joseph Campbell](<Joseph Campbell.md>)
+    - **[Full Title](<Full Title.md>):**
+
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - **[Author(s)](<Author(s).md>):** [The Jordan B. Peterson Podcast](<The Jordan B. Peterson Podcast.md>)
     - **[Full Title](<Full Title.md>):**
@@ -10,5 +14,9 @@
 
 ## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
 - **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)
+    - **[Full Title](<Full Title.md>):**
+
+## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
+- **[Author(s)](<Author(s).md>):** [Jordan Peterson](<Jordan Peterson.md>)
     - **[Full Title](<Full Title.md>):**
 

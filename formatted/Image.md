@@ -50,7 +50,7 @@ Resolve by "[replace as text](<replace as text.md>)"
 12. Turn off brackets to streamline the look of page looks a bit
         - **[Image](<Image.md>):**
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - Will be 10-20k in prizes for you and your ancestors.
         - **[Image](<Image.md>):**
 

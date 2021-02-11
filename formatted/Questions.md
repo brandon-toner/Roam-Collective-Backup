@@ -41,6 +41,6 @@
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Questions](<Questions.md>)
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
 

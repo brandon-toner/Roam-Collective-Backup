@@ -32,8 +32,8 @@
 - **[URL](<URL.md>):** https://www.airr.io/episode/5f5e42a6fe900b31bb4ed546
     - **[Literature Notes](<Literature Notes.md>):**
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}
 
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - "#[Literature Notes](<Literature Notes.md>)

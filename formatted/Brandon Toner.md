@@ -372,6 +372,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - I can elaborate more on this. - [Brandon Toner](<Brandon Toner.md>)
 

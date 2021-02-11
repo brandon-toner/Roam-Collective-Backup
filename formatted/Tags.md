@@ -109,6 +109,9 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Tags](<Tags.md>):**
 
+## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Evergreens](<Evergreens.md>)
 - **[Tags](<Tags.md>):**
 
@@ -143,6 +146,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Help Wanted](<Help Wanted.md>)
+- **[Tags](<Tags.md>):**
+
+## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):**
 
 ## [I](<I.md>)
@@ -304,7 +310,7 @@
 ## [Sprints](<Sprints.md>)
 - **[Tags](<Tags.md>):**
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Stefan Natter](<Stefan Natter.md>)
@@ -455,6 +461,9 @@
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
 - **[Tags](<Tags.md>):**
 
+## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Tags](<Tags.md>):**
+
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - ---
 - **[Tags](<Tags.md>):**
@@ -463,6 +472,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
+- **[Tags](<Tags.md>):**
+
+## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
 - **[Tags](<Tags.md>):**
 
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)

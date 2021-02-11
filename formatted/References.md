@@ -127,6 +127,10 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
+## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - **[Author](<Author.md>):** [Peter Rosso](<Peter Rosso.md>)
     - **[References](<References.md>):**

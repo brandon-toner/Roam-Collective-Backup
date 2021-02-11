@@ -1,5 +1,7 @@
 - Tags:: #Sprints #[[Roam Games]] 
-    - Related:: [[Epic/Managing knowledge dependencies in multiplayer]]
+    - Related:: 
+        - **Epic: **[[Epics/Managing knowledge dependencies in multiplayer]]
+        - **Central question:** [[[[Q:]] How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - Date Created:: [[February 10th, 2021]]
     - Date Range:: [[February 9th, 2021]] ^^until ?????^^
     - Description:: 
@@ -15,14 +17,14 @@
         - RoamRender
     - **Outlines:** #not_populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] [[Outlines]]}}} #minimal
+            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[Outlines]]}}} #minimal
     - **Questions:** #not_populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] {or: [[Q]] [[Questions]]}}}} #minimal
+            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[Q]] [[Questions]]}}}} #minimal
     - Relevant Notes:: #not_populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
+            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
     - Tasks:: #not_populated ((Replace ex-A with the sprint page name))
         - Query:: 
-            - {{[[query]]: {and: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]] [[TODO]]}}}
+            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[TODO]]}}}
     - Contribution Log:: #not_populated ((Include your name, the date, a description of the work, and a link to the work))

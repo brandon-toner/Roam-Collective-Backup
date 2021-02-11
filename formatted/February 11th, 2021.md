@@ -3,41 +3,83 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))"
+        1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
         2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
-        3. 
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
-        - **[Active Sprint](<Active Sprint.md>):** [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+        - **[Active Sprint](<Active Sprint.md>):** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What do you do if a sprint is also a question? 
             - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
-        - #[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>) submissions. [*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
+        - #[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
             - [I](<I.md>) This could be a value-offering to the Roam community. RC could be a place to view the Roam Games developments. 
                 - [I](<I.md>) Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
                     - A place to view the relationships and dependencies across projects.
+        - Example work on a sprint [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+            - 
+        - **[Processes](<Processes.md>):** How to work on a sprint
+            - Create a block within your DNP Section (Scratchpad is a great spot)
+            - Include a link to the active sprint at the highest level that the work on the sprint exists. (i.e. nest your work below the sprint tag)
+            - You can hide the sprint tag in an alias to keep things more streamlined and readable. (I do this a lot)
+            - Use other complimentary tags beneath this block:
+                - Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[Fleeting Notes](<Fleeting Notes.md>)`, project ideas with `#[Project Ideas](<Project Ideas.md>)`, outlines with `[Outlines](<Outlines.md>)` etc
+                    - This allows the references on the sprint page to be filtered by various types of content -- this aids in convergence dramatically. 
+            - On the sprints page, contribute to the "Contribution Log" with a link to your work and a short description.
+                - This provides a place for people to look for updates on the Sprint Progress.
+                - Alternatively, you may look in the linked references for a summary of contributions 
+                    - I suggest filtering OUT `Query` and IN `My Daily Notes`
+                    - This would be a more complete data set, as members may forget to log work in the contributions log. 
+            - I'd propose another `[Summary](<Summary.md>)` tag as well that could be used (and filtered for), as a way for a user to take a moment to document a summary of the progress for the group. 
+    - [Mindsweep](<Mindsweep.md>)
+        - Sprints & Epics
+        - Evergreen note progression
+        - Fleeting Notes, Lit Notes
+        - Is and Qs
+        - Projects, Goals, Vision, Purpose
+        - Task 
+        - Date Planner
+        - SmartBlocks
+        - Roam Games
+            - Roam Games Directory
+                - Submissions by challenge with links to tweets/work & authors
+                    - Pages with `[RG:](<RG:.md>)` namespace
+                        - Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general.
+                - Courses
+                - People
+                - Products
+                - Extensions
+                - CSS themes and snippets
+        -  
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        - Merged the sprint I first created into the one Charles had created.
+        - Create an [Epics Template](((Gx7UUAS7L)))
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) How could a collaborative graph help to center users around **important** information rather than **current** information?
             - **Compare with:** [Twitter](<Twitter.md>), is a collaborative platform that is VERY focused around the "now" and "current". 
-        - [Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
+        - [Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
             - Directory of extensions
             - Modifications to those plugins
                 - e.g. alternate algorithms for Adam's SRS extension.
             - CSS snippets
-            - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+            - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) [Sprint]([sprints](<sprints.md>)) and epic titles should be descriptive.
     - [Conversation](<Conversation.md>) 
-        1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         2. On a RC domain[*](((81t5uIxRT)))
             - I don't think we need one quite yet, but once we start pivoting towards output, we could easily reassess the need for one. 
             - I'd say wait and monitor the need periodically. [*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
             - We should, however think about what our output channels might be. No rush, but I feel that conversation starting to emerge.
                 - [Q](<Q.md>) What output channels would be like to use for Roam Collective?
+        3. [[[R:](<[[R:.md>) Maps of Meaning - JBP (lecture series)]] podcast/YouTube series
+            - Here is the details of the lecture series I mentioned yesterday [@[[Peter Rosso](<@[[Peter Rosso.md>)]] 
+        4. Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+            - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.
+            - Collections are plural in our convention, so I lean towards being consistent with that. 
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -79,3 +121,45 @@
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+    - [Scratchpad](<Scratchpad.md>)
+        - Sprint & Epic Structure
+            - Do we want to use singular or plural for the namespaces?
+            - Do we want to orient sprints around questions?
+                - Can Epics & Sprints be oriented around the same questions?
+        - Maybe we just outline using blocks and then once we're most of the way there we consolidate into `Q/` or `Story/` pages...
+    - [Sprints](<Sprints.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - On structuring work around Epics, Sprints, & Questions
+            - @ [Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
+                - As it relates to Brandon's [question](((_LcN8ZnW8))), the question should actually be outlined at the Epic level. By comparison, sprints are just timebound sets of tasks. An Epic can be one or multiple sprints.
+                    - For epics, I propose a two part stucture:
+                        - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                        - Oriented around a question block and page:
+                            - Initial block: "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+                            - Ultimate page: [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
+                    - How work splits across Epics & Questions...
+                        - The epic page is used to outline sprints and individual story points / questions
+                        - The question block is used within the outline of the epic
+                        - The question page is created once someone takes the question on and is beginning to craft output
+                            - At this point, you would bring a block into the page and use the "Replace With" > "Original" > "Swap Blocks Only" function to tie the page to all of the relevant references
+                    - ` Sprint/` pages are simply used within outlines to Epics and to demarcate the work that needs to be done during a given timeframe — [ex](((66Ur1ga1S)))
+                - These illustrate the structure I am proposing:
+                    - [Backlog](<Backlog.md>) ← repository for the current outlines of active Epics & Sprints
+                    - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>) 3
+                    - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) ← Sprint from now until next Sunday
+                    - "[ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))" ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
+                    - "[ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"" ← Q block that has yet to turn into a Q page
+            - "[I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
+                - "[Draft Sprints template](((tG1HJs2dK)))"
+            - Like this: "[Sprints/Title Example](<Sprints/Title Example.md>)"
+        - Simple Replies
+            - Agree: "Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — I updated the epic & sprint namespaces I had created
+    - [Bookmarks](<Bookmarks.md>)
+        - "Possible structure"
+- ---
+
+# Backlinks
+## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+- **[Date Created](<Date Created.md>):** [February 11th, 2021](<February 11th, 2021.md>)
+

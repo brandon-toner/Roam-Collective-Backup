@@ -20,6 +20,8 @@
 ## [February 11th, 2021](<February 11th, 2021.md>)
 - #[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>)
 
+- [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "going to spend some time tonight on [Roam Games](<Roam Games.md>),
 
@@ -65,6 +67,6 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Discuss the [Roam Games](<Roam Games.md>)
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>)
 

@@ -12,6 +12,10 @@
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
+## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - **[Date Created](<Date Created.md>):** [February 10th, 2021](<February 10th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**

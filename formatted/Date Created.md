@@ -12,6 +12,10 @@
 - **[Tags](<Tags.md>):** `#[Evergreen Notes](<Evergreen Notes.md>)` [Experiments](<Experiments.md>) [Examples](<Examples.md>) [Status](<Status.md>)/Inactive
     - **[Date Created](<Date Created.md>):**
 
+## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+- **[Tags](<Tags.md>):** [Epics](<Epics.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
     - **[Date Created](<Date Created.md>):**
@@ -24,8 +28,8 @@
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [collaboration](<collaboration.md>) [chat](<chat.md>) [communication](<communication.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- **[Related](<Related.md>):** [Epic/Managing knowledge dependencies in multiplayer](<Epic/Managing knowledge dependencies in multiplayer.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- **Central question:** [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
@@ -130,6 +134,10 @@
 
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)

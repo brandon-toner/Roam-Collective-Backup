@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+- **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Status/Active](<../Status/Active.md>)
 
@@ -13,7 +16,7 @@
 ## [Project Status](<Project Status.md>)
 - #[Status/Active](<../Status/Active.md>)
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
 
 ## [roam/css](<roam/css.md>)

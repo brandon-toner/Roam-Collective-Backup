@@ -3,6 +3,8 @@
 ## [February 11th, 2021](<February 11th, 2021.md>)
 - #[Project Ideas](<Project Ideas.md>)
 
+- Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[Fleeting Notes](<Fleeting Notes.md>)`, project ideas with `#[Project Ideas](<Project Ideas.md>)`
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Thoughts](<Thoughts.md>) on [Project Ideas](<Project Ideas.md>)
 

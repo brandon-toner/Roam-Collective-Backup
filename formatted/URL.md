@@ -15,6 +15,10 @@
 - Article: Tagging Is Broken by [Tiago Forte](<Tiago Forte.md>)
             - **[URL](<URL.md>):**
 
+## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
+- **[Full Title](<Full Title.md>):** [not_populated](<not_populated.md>)
+    - **[URL](<URL.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? #[Tweet Threads](<Tweet Threads.md>)
             - **[URL](<URL.md>):**
@@ -85,5 +89,9 @@
 
 ## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
 - **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
+    - **[URL](<URL.md>):**
+
+## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
+- Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
     - **[URL](<URL.md>):**
 

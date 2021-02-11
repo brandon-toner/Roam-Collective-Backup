@@ -1,19 +1,25 @@
 - Tags:: #Collections #Library
 - ---
-- #Epic/Active
-    - [[Epic/Managing knowledge dependencies in multiplayer]]
-        - [[Sprint/1 — Roam Games 3]]
-            - {{[[TODO]]}} "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
-            - {{[[TODO]]}} "[Draft Sprints template](((tG1HJs2dK)))"
-            - {{[[TODO]]}} Draft Epic template
+- # Status
+    - #Active
+    - #Queued
+    - #Proposed
+    - #Completed
+- ---
+- [[Epics/Managing knowledge dependencies in multiplayer]] #Active
+    - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
+        - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+            - {{[[TODO]]}} Draft & finalize Sprint template
+            - {{[[TODO]]}} Draft & finalize Epic template
                 - Definitely a query of all the sprint involved
-            - {{[[TODO]]}} Collate related questions
-            - {{[[TODO]]}} Collate related ideas → format into questions
+            - {{[[TODO]]}} Collate related questions → insert into outline
+            - {{[[TODO]]}} Collate related ideas  → format into questions → insert into outline
+            - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
+                - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
+            - {{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
             - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "
-    - [[Epic/Implement Agile Methodologies in Roam]]
-        - "#Q How should pages for [[sprints]] be designed? "
-- #Epic/Queued
-    - 
-- #Epic/Proposed
+- [[Epics/Implement Agile Methodologies in Roam]] #Active
+    - "#Q How should pages for [[sprints]] be designed? "
+    - "#Q What are the most basic conventions required for effective participation?"
+- Onboarding new contributors #Proposed
     - #Q How to onboard new contributors to Roam Collective?
-- #Epic/Completed

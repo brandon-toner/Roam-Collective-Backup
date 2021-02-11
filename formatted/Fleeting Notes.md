@@ -20,6 +20,11 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+## [February 11th, 2021](<February 11th, 2021.md>)
+- Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[Fleeting Notes](<Fleeting Notes.md>)`
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -469,8 +474,8 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- {{[query](<query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>)
