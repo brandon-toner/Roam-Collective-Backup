@@ -193,7 +193,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - On a related note, last night [Brandon]([[cc:[[Brandon Toner]]]]) and I discussed [note classes](((_QWUf9796))) yesterday and aligned on the "stable" taxonomy for now. Idea is to settle the conventions to move to output.
         - Simple Replies
             - Love the idea [[cc:[[Matt Brockwell]]]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
-                - [[@[[Peter Rosso]]]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
+                - [[~[[Peter Rosso]]]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
             - [[~[[Brandon Toner]]]] I agree with "Decision:: "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
             - [[@[[leekeifon]]]] that's correct! [*](((a5b-u6IqI)))
     - #[[GTD Zone]]

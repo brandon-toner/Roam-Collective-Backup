@@ -53,7 +53,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - [[Peter Rosso]]
             - [[Stefan Natter]]
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]]
         - #Agenda output channels
             - Where
@@ -62,7 +62,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - (Connor was talking about outputting newsletter from ROAM - I am sure we had that on here the first days I joined)
             - What
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
-        - 
     - #[[GTD Zone]]
         - Explain the idea for graph dependency
     - #Promptstorming #not_populated

@@ -17,6 +17,11 @@
 
 - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[Q:](<Q:.md>)`
 
+## [February 11th, 2021](<February 11th, 2021.md>)
+2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>),
+
+- [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>),
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`
 

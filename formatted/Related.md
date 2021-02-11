@@ -179,6 +179,10 @@
 ## [Roam-Collective](<Roam-Collective.md>)
 - **[Related](<Related.md>):**
 
+## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
+- **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>) 
+    - **[Related](<Related.md>):**
+
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<Related.md>):**

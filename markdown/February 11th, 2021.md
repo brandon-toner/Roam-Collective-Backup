@@ -6,10 +6,12 @@
         1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]])"
     - #Chat ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
+        2. "[[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
+        3. 
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - Active Sprint:: [[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
         - #Q What do you do if a sprint is also a question? 
             - #I Duplicate it as a questions page, linking to the sprint. 
@@ -19,23 +21,61 @@
                     - A place to view the relationships and dependencies across projects.
     - #[[GTD Zone]] #not_populated
     - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
+    - #Questions
+        - #Q How could a collaborative graph help to center users around **important** information rather than **current** information?
+            - **Compare with:** [[Twitter]], is a collaborative platform that is VERY focused around the "now" and "current". 
+        - #Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]])
+            - Directory of extensions
+            - Modifications to those plugins
+                - e.g. alternate algorithms for Adam's SRS extension.
+            - CSS snippets
+            - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([[Sprints/How could a dependency graph of ideas and influence be managed in Roam?]])
     - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[@[[Charles Farr]]]])
+        2. On a RC domain[*](((81t5uIxRT)))
+            - I don't think we need one quite yet, but once we start pivoting towards output, we could easily reassess the need for one. 
+            - I'd say wait and monitor the need periodically. [*]([[@[[Peter Rosso]]]])
+            - We should, however think about what our output channels might be. No rush, but I feel that conversation starting to emerge.
+                - #Q What output channels would be like to use for Roam Collective?
     - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
         - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
         - "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+            - Possible structure
+                - Types
+                    - Structural/Uncontextualised relations
+                    - Semantics/Structural Relations
+                    - Hybrid
+                - Testing
+                    - Smaller graph test
+                    - RC test
+                - Discussion
+                    - Advantages of such system
+                    - Comparison to Code reviews and dependency
+        - "[[~[[Peter Rosso]]]] would be happy to pitch in! [[cc:[[Brandon Toner]]]]"
+            - Do we still need a domain, or is a substack enough for now?
+        - "[On reviews and maintainence](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]]), [*]([[cc:[[Charles Farr]]]])."
+    - #[[GTD Zone]]
+        - Produce a small graph that has different kind of connections and use it as test. 
+        - Once the test is running experiment with the RC graph
+        - For the PoC show a smaller graph through time and show how adding different information can be mapped?
         - 
-    - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        - [[Brandon Toner]] I am not sure the idea of [duplicating blocks](((czpA6rCRy))) is right. Have you had an example in mind? Can we keep them always distinct but connected. A sprint should be a hypothesis trying to answer a question. Otherwise, I would recommend having a fixed hierarchy so that either the question is always ls always blocked referenced to the sprint or vice-versa? Or probably better, avoid block references?
+        - [[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
+            - I wish I started at the beginnings as it would have been fun/interesting to document changes 
+        - [[code snippets]] version control and community sharing [*](((ykxX5bHS9)))
+            - [*]([[@[[Brandon Toner]]]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. 
+        - [*]([[@[[Brandon Toner]]]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
+            - [*]([[@[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
+        - [*]([[@[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---

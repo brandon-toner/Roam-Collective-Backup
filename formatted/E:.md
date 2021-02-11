@@ -3,6 +3,11 @@
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - Could use `[S:](<S:.md>)` + `[E:](<E:.md>)`
 
+## [February 11th, 2021](<February 11th, 2021.md>)
+2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)`
+
+- [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)`
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - I still can't quite grok the value of the [E:](<E:.md>)
 

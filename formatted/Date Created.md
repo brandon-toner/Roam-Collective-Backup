@@ -25,7 +25,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
-- **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>) 
+- **[Related](<Related.md>):** [Epic/Managing knowledge dependencies in multiplayer](<Epic/Managing knowledge dependencies in multiplayer.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)

@@ -501,7 +501,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - Wonder what informs that hypothesis for you  
                 - My anecdotal evidence points to the opposite, with Roam the dream tool for architects, as it allows creation and co-existence of multiple structures to achieve simultaneously.  
         - On [output channel](((pjCpYAPW4)))
-            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] would be happy to pitch in! [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] would be happy to pitch in! [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
         - On [Broadcasting](((N6JYOLMZE))) to the Graph/Group
             - Agree with the need!  Still catching up on what I've missed in the last couple of days, so earmarking this to come back later once I've understood how it's been implemented 
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)

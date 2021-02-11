@@ -1,4 +1,5 @@
 - **[Tags](<../Tags.md>):** [Sprints](<../Sprints.md>) #[Roam Games](<../Roam Games.md>) 
+    - **[Related](<../Related.md>):** [Epic/Managing knowledge dependencies in multiplayer](<../Epic/Managing knowledge dependencies in multiplayer.md>)
     - **[Date Created](<../Date Created.md>):** [February 10th, 2021](<../February 10th, 2021.md>)
     - **[Date Range](<../Date Range.md>):** [February 9th, 2021](<../February 9th, 2021.md>) ^^until ?????^^
     - **[Description](<../Description.md>):** 
@@ -36,6 +37,10 @@
 - **[Active Sprint](<../Active Sprint.md>):** [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<../Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
 
 - #[Project Ideas](<../Project Ideas.md>) Build a directory of [Roam Games](<../Roam Games.md>) submissions. [*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<../Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
+
+- [Q](<../Q.md>) How could [code snippets](<../code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<../Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
+
+- This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<../Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>))
 
 ## [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)
 - {{[query](<../query.md>): {and: [Sprints/How could a dependency graph of ideas and influence be managed in Roam?](<../Sprints/How could a dependency graph of ideas and influence be managed in Roam?.md>)

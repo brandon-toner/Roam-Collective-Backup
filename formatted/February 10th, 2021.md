@@ -53,7 +53,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - [Peter Rosso](<Peter Rosso.md>)
             - [Stefan Natter](<Stefan Natter.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>)
         - [Agenda](<Agenda.md>) output channels
             - Where
@@ -62,7 +62,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - (Connor was talking about outputting newsletter from ROAM - I am sure we had that on here the first days I joined)
             - What
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
-        - 
     - #[GTD Zone](<GTD Zone.md>)
         - Explain the idea for graph dependency
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)

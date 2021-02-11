@@ -193,7 +193,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - On a related note, last night [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) and I discussed [note classes](((_QWUf9796))) yesterday and aligned on the "stable" taxonomy for now. Idea is to settle the conventions to move to output.
         - Simple Replies
             - Love the idea [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
-                - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
+                - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
             - **[[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with "Decision](<[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with "Decision.md>):** "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
             - [@[[leekeifon](<@[[leekeifon.md>)]] that's correct! [*](((a5b-u6IqI)))
     - #[GTD Zone](<GTD Zone.md>)
