@@ -15,7 +15,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
             - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About [[Roam-Collective]]]])
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
-    - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
@@ -112,8 +111,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
                     - #[[Fleeting Notes]] Simplicity and constraints are important to focus a group — especially a large group.
                     - 
-    - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] [[convergence]] can be accomplished as an [[asynchronous]] team activity through the use of [[speculative outlines]] 
             - Process::
@@ -124,8 +121,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                     - **Compare to:** Book → Sections → Chapters → Paragraphs → Sentences #Seedlings ((Seedling = the concept of granularity expressed via a book structure))
     - #Questions
         - #Q At what point does it become beneficial to each write on our own pages, rather than the [[Daily Notes Page]]. (As is done with [[[[Roam Book Club]] III]] and other [collaborative graphs](((3LM8RNDv0))).)
-    - #Conversation #not_populated
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad
@@ -208,17 +203,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
         - "I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph."
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[[Scratchpad]] #not_populated
-    - #[[GTD Zone]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Conversation 
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
         - [[~[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
         - #Agenda I think I have an idea for the #[[Roam Games]]. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
             - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.
-    - #Feedback  #not_populated
-    - #Bookmarks #not_populated
 - ---

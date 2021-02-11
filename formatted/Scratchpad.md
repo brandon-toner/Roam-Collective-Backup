@@ -2,9 +2,6 @@
 - Scrap-paper, a place to write down your ideas.
 
 # Backlinks
-## [Brandon Toner](<Brandon Toner.md>)
-- #[Scratchpad](<Scratchpad.md>)
-
 ## [DNP Modules](<DNP Modules.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
@@ -32,8 +29,6 @@
 
 - #[Scratchpad](<Scratchpad.md>)
 
-- #[Scratchpad](<Scratchpad.md>)
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
@@ -47,8 +42,6 @@
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
-- #[Scratchpad](<Scratchpad.md>)
-
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
@@ -71,8 +64,6 @@
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- #[Scratchpad](<Scratchpad.md>)
-
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
@@ -100,11 +91,6 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
-- #[Scratchpad](<Scratchpad.md>)
-
-- #[Scratchpad](<Scratchpad.md>)
-
-## [Maggie Delano](<Maggie Delano.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)

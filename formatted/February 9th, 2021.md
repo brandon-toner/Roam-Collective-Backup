@@ -15,7 +15,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
             - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About [[Roam-Collective](<About [[Roam-Collective.md>)]])
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
@@ -112,8 +111,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
                     - #[Fleeting Notes](<Fleeting Notes.md>) Simplicity and constraints are important to focus a group — especially a large group.
                     - 
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
             - **[Process](<Process.md>):**
@@ -124,8 +121,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                     - **Compare to:** Book → Sections → Chapters → Paragraphs → Sentences [Seedlings](<Seedlings.md>) ((Seedling = the concept of granularity expressed via a book structure))
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) At what point does it become beneficial to each write on our own pages, rather than the [Daily Notes Page](<Daily Notes Page.md>). (As is done with [[[Roam Book Club](<[[Roam Book Club.md>) III]] and other [collaborative graphs](((3LM8RNDv0))).)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
@@ -208,19 +203,13 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
         - "I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph."
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
         - [Agenda](<Agenda.md>) I think I have an idea for the #[Roam Games](<Roam Games.md>). I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
             - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
 
 # Backlinks

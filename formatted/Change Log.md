@@ -3,9 +3,6 @@
 ## [Announcements](<Announcements.md>)
 - Check the #[Change Log](<Change Log.md>)
 
-## [Brandon Toner](<Brandon Toner.md>)
-- #[Change Log](<Change Log.md>)
-
 ## [DNP Modules](<DNP Modules.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -20,13 +17,7 @@
 
 - #[Change Log](<Change Log.md>)
 
-- #[Change Log](<Change Log.md>)
-
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[Change Log](<Change Log.md>)
-
-- #[Change Log](<Change Log.md>)
-
 - #[Change Log](<Change Log.md>)
 
 - #[Change Log](<Change Log.md>)
@@ -34,28 +25,15 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
-- #[Change Log](<Change Log.md>)
-
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
-- #[Change Log](<Change Log.md>)
-
-- #[Change Log](<Change Log.md>)
-
-## [February 5th, 2021](<February 5th, 2021.md>)
-- #[Change Log](<Change Log.md>)
-
-## [February 6th, 2021](<February 6th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- #[Change Log](<Change Log.md>)
-
-## [February 9th, 2021](<February 9th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -91,11 +69,6 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
-- #[Change Log](<Change Log.md>)
-
-- #[Change Log](<Change Log.md>)
-
-## [Maggie Delano](<Maggie Delano.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)

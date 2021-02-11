@@ -86,7 +86,6 @@
                 - Would definitely replace `#[[Creative Projects]]`
         - #Tips the [[sidebar]] is important for navigating [[conversations]]
         - #Tips Using the back and forward browser shortcuts is important for navigating between pages.
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Drafted a "[[maturity]] progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
         - Changed the name-spacing convention for [[evergreen notes]] "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -304,10 +303,6 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]]
-    - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         - [[~[[Brandon Toner]]]]"#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
@@ -338,7 +333,6 @@
             - [[~[[Brandon Toner]]]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FdlGzsQA9E5.png?alt=media&token=1f34e98d-e688-4e4c-8ad7-f6609bfc2547)
                 - I like to think that the first phase is the Zettlekasten phase, while the second phase is the output phase.
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf 
     - #Scratchpad
@@ -541,7 +535,7 @@
             - Makes sense [[~[[Brandon Toner]]]] re `#[[Project Ideas]]` — [[compound tags]] shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
             - [[~[[Peter Rosso]]]] I couldn't agree more [here](((nHhKPP6DQ)))!
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [[~[[Charles Farr]]]]" [[~[[Brandon Toner]]]] a little hacky-ness goes a long way!
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - 
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
@@ -569,7 +563,6 @@
                 - Hooks
         - CSS Playground
             - [[Books/The Culture Code]]
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation 
         - [[~[[Brandon Toner]]]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - {{[[embed]]: ((((u8k4sDzcA))))}}
@@ -577,7 +570,6 @@
     - #[[Change Log]]
         - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
         - [Added the RoamJS Query builder](((OIrYB9b3N)))
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
@@ -666,7 +658,6 @@
                         - Asynchronicity
                             - Different time commitment 
                         - Prioritization
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation  
         - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
             - Could there be two types of fleeting notes? 

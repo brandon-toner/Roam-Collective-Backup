@@ -23,10 +23,6 @@
             - NStefan — DNT [42SmartBlock](<42SmartBlock.md>)
                 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
                     - #[Daily Log](<Daily Log.md>)
-                    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
-                    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-                    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-                    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
                 - ---
 
 # Backlinks

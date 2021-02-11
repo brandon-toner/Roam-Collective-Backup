@@ -24,8 +24,6 @@
                 - Was able to save it with a JSON backup! 
                     - Imported to personal graph
                     - Copied in missing pieces.
-    - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) 😴 offline, back tomorrow
     - #[Scratchpad](<Scratchpad.md>) 
@@ -43,12 +41,10 @@
             - [Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps.
         - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>) in a public graph based on different use-contexts.
             - **[URL](<URL.md>):** https://twitter.com/cortexfutura/status/1357017794802556928?s=21
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Reorganized and decluttered CSS a bit — I've gone as far as my expertise will allow haha. [*](((xVo60DN5o)))
         2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
             - **[Rationale](<Rationale.md>):** "My thinking on why this order"
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - [Dhrumil Shah](<Dhrumil Shah.md>) on some potential Roam features and design. "[Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))"
         - [Charles Farr](<Charles Farr.md>) on CSS layout and design
@@ -185,10 +181,6 @@
         - #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
             - "#[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
             - how do I use `[Reply](<Reply.md>)` and `[Reply-from](<Reply-from.md>)`
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
             - "> Changes the color and fonts of the different menus
@@ -198,7 +190,6 @@ We can't change the selection background in some menus yet, so make sure, that y
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]"
             - Mostly interested in the answer
         - [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]] really interesting work. Tomorrow I will give it a second read and let you know if something comes to mind.
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Dhrumil Shah](<Dhrumil Shah.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
@@ -504,9 +495,6 @@ These users would have far better outcomes if they simply operated at or slightl
                 - "> progressively reveals information as the user develops so they are always becoming more effective users. Even through behavioral tracking, it can be challenging for the app to recognize exactly what the user wants to learn at any given point. This means that there has to be a solid framework for exploratory search, where the user can find what they are looking for on their own or with the help of other users."
                 - "> People are often going to fail when they attempt to achieve their goals. How do we [Intentionally design for failure states](https://robhaisfield.com/notes/Intentionally-design-for-failure-states) so people try again instead of giving up? How do we increase the likelihood that they are successful when they try again?"
                 - {{[embed](<embed.md>): ((((BhJWvpiGM))))}}
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>)
@@ -649,7 +637,6 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""If author is unknown, use the [Unknown](<Unknown.md>) tag.""
                                         - ""[Q](<Q.md>) is there advantage to this vs leaving as `[not_populated](<not_populated.md>)`?""
                     - ""Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>) or [maturity](<maturity.md>) is less important. ""
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - #[Follow Up](<Follow Up.md>) "When Brandon commented made about [asynchronous](<asynchronous.md>) editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [synchronous](<synchronous.md>)?!" "
         - #[Follow Up](<Follow Up.md>) "[x] Obviously [Robert Haisfield](<Robert Haisfield.md>)  lol, probably the go-to person for this"
@@ -715,8 +702,6 @@ These users would have far better outcomes if they simply operated at or slightl
             - "[Q](<Q.md>) When to use 📨 vs. 🚨 ?"
                 - 🚨 Response requested
                 - 📨 FYI
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - #[Help Wanted](<Help Wanted.md>) on process of organizing questions
             - "I think yes. The meatier ones get escalated to page-level. (hasn't happened yet to my knowledge)"
@@ -796,11 +781,8 @@ These users would have far better outcomes if they simply operated at or slightl
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - So many thoughts, so little time. Will return when I can.
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 
 # Backlinks

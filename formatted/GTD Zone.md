@@ -3,19 +3,10 @@
 - When used in the [Top Section of the DNP](<Top Section of the DNP.md>), it is the home of the [Daily Review](((hUyrZQscO)))
 
 # Backlinks
-## [Brandon Toner](<Brandon Toner.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
 ## [DNP Modules](<DNP Modules.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - #[GTD Zone](<GTD Zone.md>)
 
 - #[GTD Zone](<GTD Zone.md>)
@@ -32,51 +23,21 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - #[GTD Zone](<GTD Zone.md>)
 
 #[GTD Zone](<GTD Zone.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - "#[GTD Zone](<GTD Zone.md>)"
 
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 ## [February 4th, 2021](<February 4th, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - #[GTD Zone](<GTD Zone.md>)
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 ## [February 6th, 2021](<February 6th, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - #[GTD Zone](<GTD Zone.md>)
 
 ## [February 7th, 2021](<February 7th, 2021.md>)
@@ -86,24 +47,7 @@
 
 - #[GTD Zone](<GTD Zone.md>)
 
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-## [February 8th, 2021](<February 8th, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
 - #[GTD Zone](<GTD Zone.md>)
 
 - #[GTD Zone](<GTD Zone.md>)
@@ -137,13 +81,6 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-- #[GTD Zone](<GTD Zone.md>)
-
-## [Larissa de Lima](<Larissa de Lima.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)

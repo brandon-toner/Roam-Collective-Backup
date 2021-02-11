@@ -3,9 +3,6 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
-    - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] #not_populated
@@ -98,7 +95,6 @@
                             - I don't know where I land here...
                     - ...
             - Ultimately, my preference would be to adopt a new note schema for us to use in this graph — I like the [structure Joel has proposed](((PsBKVvanv))) and believe it would support us as we tackle the tricky challenge of convergence within a community graph. **But what I really want is to hear everyone else's thoughts!**  
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - On tagging curation
             - [[^[[Brandon Toner]]]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
@@ -108,17 +104,13 @@
                 - Ultimately I proposed a new approach to categorizing and structuring our notes (and all other work) — hopefully its at least a helpful thought piece to spur come convergence around how we (RC) take notes here...
                 - p.s. — your question on "What is a community note? How is it different from an evergreen note?" is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
         - Welcome [[@[[Reddy2Go]]]]!
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Stefan Natter]] {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Daily Log]]
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
-- **Brandon:**#[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
     - #[[Scratchpad]] 
         - On [[proximity]] and [[synthesis]].
             - Ideas start small and grow. 
@@ -160,10 +152,6 @@
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
                     - #Q What are they called? How are they tagged? 
                 - 
-    - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) #Bookmarks #[[Follow Up]]
             - Great question. Gonna think on this! [[~[[Charles Farr]]]]
@@ -178,5 +166,4 @@
                         - Then We could use that tag to collect related ideas, leading to the eventual synthesis of the evergreen note on the subject. 
                 - Hmmmm.
                 - What is a community note? How is it different from an evergreen note?
-    - #Feedback  #not_populated
 - ---

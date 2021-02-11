@@ -23,12 +23,6 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
-## [February 5th, 2021](<February 5th, 2021.md>)
-- #[The Main Feed](<The Main Feed.md>)
-
-## [February 6th, 2021](<February 6th, 2021.md>)
-- #[The Main Feed](<The Main Feed.md>)
-
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 

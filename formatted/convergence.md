@@ -27,8 +27,6 @@
 
 - [Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
 
-- "[Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>)
 

@@ -9,9 +9,6 @@
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
             - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
-                - #Scratchpad #not_populated
-                - #Sprints #not_populated
-                - #Conversation #not_populated
             - ---
 - Personal Queries
     - Questions

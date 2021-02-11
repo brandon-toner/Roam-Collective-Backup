@@ -44,8 +44,6 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpYoCDth_sJ.png?alt=media&token=0ce5b39b-bd4f-4cbe-bc1a-f706479be55b)
             - **Matt V:** Honestly it doesn't look like any of the [query css](((KOuJf-Smr))) is doing anything...
             - **[Charles Farr](<Charles Farr.md>):** You're got to add a tag to the same block as a query — `[minimal](<minimal.md>)`, `[min-con](<min-con.md>)`, `[min-title](<min-title.md>)`, etc. (check the css for the IDs in the block tags)
-    -  #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>)) {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -63,9 +61,6 @@
     - #[GTD Zone](<GTD Zone.md>) 
         - Check out "[Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))"
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - [Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
@@ -88,7 +83,6 @@ Monthly reviews could include a zoom catchup?
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] The [drop-down menus](((uRYMznUlI))) could be used to indicate the maturity of an `Evergreen Note`... Do they work with links to pages? e.g.
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) 
         - #[Follow Up](<Follow Up.md>) ""[[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]""
         - #[Follow Up](<Follow Up.md>) """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
@@ -164,13 +158,10 @@ Monthly reviews could include a zoom catchup?
         - **[Thoughts](<Thoughts.md>):**
             - Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts?
         - [Q](<Q.md>) How can I effectively "keep something on my radar for reassessment"? What tag is this?[*](((LGy2SrPD3)))
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
         2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
         3. Disabled Intercom
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. On top-section [chat](<chat.md>) 
             - "**Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))"
@@ -233,21 +224,17 @@ Monthly reviews could include a zoom catchup?
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - Big meeting tomorrow so just stopping by very quickly!
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."
             - Ooh what book?
         - On new away messages
             - "[~[[Charles Farr](<~[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?"
                 - 😂 love it!
-    - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>)
         - If you click into the MDN level you can `ctrl c ctrl m` and advance through everyone's notes — good way to read through the graph...
         - Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - On Weekly Reviews with PRosso
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I like this [idea](((nZArzolvZ))) — [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
@@ -270,7 +257,6 @@ Monthly reviews could include a zoom catchup?
             - [~[[leekeifon](<~[[leekeifon.md>)]] re: the display [here](((BrDNimG4F))), are you referring the the preview on hover?
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [status](((cLrCgntHm))) looks great!
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - #[Follow Up](<Follow Up.md>) Re: "How do you [query](<query.md>)? for blocks that contain 2 tags and not for when one is a child of the other"
             - Tomorrow I'm hoping to continue on with my [datalog](<datalog.md>) tutorial — will ponder...

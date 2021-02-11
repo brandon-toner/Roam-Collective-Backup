@@ -12,8 +12,6 @@
         - This is to indicate "**1000 upvotes**" from [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
-    - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
@@ -43,7 +41,6 @@
         - [I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - Simple top line, with nested detail below.
             - A topic-header to promote easy collaboration and browsing.
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Added the [page-status questions](<page-status questions.md>) conventions and process. [Status](<Status.md>)/Experimental
         2. Personally emulated some of the queries used by [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
@@ -73,7 +70,6 @@
             - **[Status](<Status.md>):** [not_populated](<not_populated.md>)
             - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
             - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Keifon on not rushing to make [evergreen notes](<evergreen notes.md>)
             - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context."
@@ -140,7 +136,6 @@
             - "Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `[Q](<Q.md>)` block mention and ask the community to think on it..."
                 - This type of [randomization](<randomization.md>) will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [^[[Charles Farr](<^[[Charles Farr.md>)]]
             - 
-    - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
     - #[Scratchpad](<Scratchpad.md>) 
@@ -153,9 +148,6 @@
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Add [double diamond](<double diamond.md>) literature notes from thesis
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - **["What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<"What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`"
             - **[I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
@@ -267,7 +259,6 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "[Q](<Q.md>) Should minor questions of clarifications also be tagged?  "
             - Output / memorialization
                 - "[Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
-    [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     #[GTD Zone](<GTD Zone.md>)
         - Finish thoughts on number analogy
         - Catch up on How To series
@@ -308,7 +299,6 @@ I think I need to go through the whole process to make sure I internalise it.
         - [[[Clubhouse](<[[Clubhouse.md>) conversation: Feb 02 2021]]
             - [Brandon Toner](<Brandon Toner.md>)
                 - [Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
-    [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>)
@@ -341,10 +331,6 @@ I think I need to go through the whole process to make sure I internalise it.
                     - [Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>), working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
                         - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-        - "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?"
-        - "[Q](<Q.md>) How do you differentiate a collection and an outline?"
-        - "[Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?"
     - [Conversation](<Conversation.md>)
         - On [conversation](<conversation.md>) conventions with LdeLima
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  "
@@ -373,7 +359,6 @@ I think I need to go through the whole process to make sure I internalise it.
                 - I'll shoot you a DM on Twitter!
             - "[I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]"
                 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I like to top level summary for most sections where significant works goes on underneath a single block
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - #[Follow Up](<Follow Up.md>) ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)""
         - **[#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table."
@@ -449,14 +434,8 @@ I think I need to go through the whole process to make sure I internalise it.
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>) {{word-count}}
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
     - #[Daily Log](<Daily Log.md>)
         - 23:26 poking around the graph for the first time after learning about the experiment on [Clubhouse](<Clubhouse.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 
 # Backlinks
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)

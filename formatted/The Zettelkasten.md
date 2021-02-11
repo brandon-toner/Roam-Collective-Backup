@@ -1,15 +1,7 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 # Backlinks
-## [Brandon Toner](<Brandon Toner.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [DNP Modules](<DNP Modules.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [February 10th, 2021](<February 10th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
@@ -20,50 +12,16 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [February 4th, 2021](<February 4th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [February 5th, 2021](<February 5th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [February 7th, 2021](<February 7th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [February 8th, 2021](<February 8th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
@@ -88,11 +46,6 @@
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [Maggie Delano](<Maggie Delano.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)

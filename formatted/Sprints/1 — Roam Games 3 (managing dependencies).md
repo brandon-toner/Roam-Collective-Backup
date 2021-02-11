@@ -27,7 +27,11 @@
     - **[Tasks](<../Tasks.md>):** [not_populated](<../not_populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):** 
             - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<../TODO.md>)}}}
-    - **[Contribution Log](<../Contribution Log.md>):** [not_populated](<../not_populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
+    - **[Contribution Log](<../Contribution Log.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
+        1. [February 11th, 2021](<../February 11th, 2021.md>) 
+            - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
+                - "Pages for submissions, organized by challenge, with links to tweets/work & authors "
+            - **Brandon:** Question - How could the code variants of the community be mapped for easy of navigation and distribution? [*](((ykxX5bHS9)))
 
 # Backlinks
 ## [Backlog](<Backlog.md>)
@@ -41,6 +45,8 @@
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
 1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
+
+2. See [Sprint 1 Page]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 - **[Active Sprint](<../Active Sprint.md>):** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 

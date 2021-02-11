@@ -169,8 +169,6 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 

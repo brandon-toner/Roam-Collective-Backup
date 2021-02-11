@@ -86,7 +86,6 @@
                 - Would definitely replace `#[Creative Projects](<Creative Projects.md>)`
         - [Tips](<Tips.md>) the [sidebar](<sidebar.md>) is important for navigating [conversations](<conversations.md>)
         - [Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages.
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Drafted a "[maturity](<maturity.md>) progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
         - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -304,10 +303,6 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"[Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
@@ -338,7 +333,6 @@
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FdlGzsQA9E5.png?alt=media&token=1f34e98d-e688-4e4c-8ad7-f6609bfc2547)
                 - I like to think that the first phase is the Zettlekasten phase, while the second phase is the output phase.
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>) 
     - [Scratchpad](<Scratchpad.md>)
@@ -541,7 +535,7 @@
             - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)` — [compound tags](<compound tags.md>) shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I couldn't agree more [here](((nHhKPP6DQ)))!
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]]" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a little hacky-ness goes a long way!
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
+    - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
@@ -569,7 +563,6 @@
                 - Hooks
         - CSS Playground
             - [Books/The Culture Code](<Books/The Culture Code.md>)
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - {{[embed](<embed.md>): ((((u8k4sDzcA))))}}
@@ -577,7 +570,6 @@
     - #[Change Log](<Change Log.md>)
         - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
         - [Added the RoamJS Query builder](((OIrYB9b3N)))
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
@@ -666,7 +658,6 @@
                         - Asynchronicity
                             - Different time commitment 
                         - Prioritization
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)  
         - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
             - Could there be two types of fleeting notes? 

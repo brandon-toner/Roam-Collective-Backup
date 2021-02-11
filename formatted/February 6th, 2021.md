@@ -3,9 +3,6 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
@@ -98,7 +95,6 @@
                             - I don't know where I land here...
                     - ...
             - Ultimately, my preference would be to adopt a new note schema for us to use in this graph — I like the [structure Joel has proposed](((PsBKVvanv))) and believe it would support us as we tackle the tricky challenge of convergence within a community graph. **But what I really want is to hear everyone else's thoughts!**  
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - On tagging curation
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
@@ -108,17 +104,13 @@
                 - Ultimately I proposed a new approach to categorizing and structuring our notes (and all other work) — hopefully its at least a helpful thought piece to spur come convergence around how we (RC) take notes here...
                 - p.s. — your question on "What is a community note? How is it different from an evergreen note?" is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
         - Welcome [@[[Reddy2Go](<@[[Reddy2Go.md>)]]!
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Daily Log](<Daily Log.md>)
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>), [Roam42](<Roam42.md>), and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
-- **Brandon:**#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
     - #[Scratchpad](<Scratchpad.md>) 
         - On [proximity](<proximity.md>) and [synthesis](<synthesis.md>).
             - Ideas start small and grow. 
@@ -160,10 +152,6 @@
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
                     - [Q](<Q.md>) What are they called? How are they tagged? 
                 - 
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
             - Great question. Gonna think on this! [~[[Charles Farr](<~[[Charles Farr.md>)]]
@@ -178,5 +166,4 @@
                         - Then We could use that tag to collect related ideas, leading to the eventual synthesis of the evergreen note on the subject. 
                 - Hmmmm.
                 - What is a community note? How is it different from an evergreen note?
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---

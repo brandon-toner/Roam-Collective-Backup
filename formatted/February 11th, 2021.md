@@ -4,6 +4,7 @@
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)"
+        2. See [Sprint 1 Page]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) for updates on that.[*](((RK8SxJ-Pb)))
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
         2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
@@ -19,10 +20,10 @@
                 - [I](<I.md>) Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
                     - A place to view the relationships and dependencies across projects.
         - Example work on a sprint [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-            - 
         - **[Processes](<Processes.md>):** How to work on a sprint
             - Create a block within your DNP Section (Scratchpad is a great spot)
-            - Include a link to the active sprint at the highest level that the work on the sprint exists. (i.e. nest your work below the sprint tag)
+            - Include a link to the active sprint at the highest level that the work on the sprint exists. (i.e. nest your work below the sprint tag) 
+                - **[(I decided against using the `Sprints` tag as a DNP module, as to not dilute the references for the actual sprints. Though, they could still be identified using the namespace, or by also filtering in `Tags](<(I decided against using the `Sprints` tag as a DNP module, as to not dilute the references for the actual sprints. Though, they could still be identified using the namespace, or by also filtering in `Tags.md>):**` so it's probably not a big deal...)
             - You can hide the sprint tag in an alias to keep things more streamlined and readable. (I do this a lot)
             - Use other complimentary tags beneath this block:
                 - Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[Fleeting Notes](<Fleeting Notes.md>)`, project ideas with `#[Project Ideas](<Project Ideas.md>)`, outlines with `[Outlines](<Outlines.md>)` etc
@@ -33,6 +34,11 @@
                     - I suggest filtering OUT `Query` and IN `My Daily Notes`
                     - This would be a more complete data set, as members may forget to log work in the contributions log. 
             - I'd propose another `[Summary](<Summary.md>)` tag as well that could be used (and filtered for), as a way for a user to take a moment to document a summary of the progress for the group. 
+        - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) The ability to filter out certain pages from the auto-complete dropdown based on the collection the page belongs to.
+            - Logistics: The flexibility with user preference to remove results from auto-populate based on [datalog query](<datalog query.md>).
+                - **[I.e. could build a query to identify pages with `Tags](<I.e. could build a query to identify pages with `Tags.md>):**` + `{collection name}`
+        - [Observations](<Observations.md>)
+            - When summarizing my work by posting to the Sprint Contribution log, I'm tempted to ALSO post to `The Main Feed`. I didn't post to the feed, but then thought maybe something should be there to direct a user to where to find updates...
     - [Mindsweep](<Mindsweep.md>)
         - Sprints & Epics
         - Evergreen note progression
@@ -44,8 +50,8 @@
         - SmartBlocks
         - Roam Games
             - Roam Games Directory
-                - Submissions by challenge with links to tweets/work & authors
-                    - Pages with `[RG:](<RG:.md>)` namespace
+                - Pages for submissions, organized by challenge, with links to tweets/work & authors 
+                    - With `RoamGames/` namespace & `#[[[Roam Games](<[[Roam Games.md>) Submissions]]` as collection tag
                         - Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general.
                 - Courses
                 - People
@@ -57,6 +63,7 @@
     - #[Change Log](<Change Log.md>) 
         - Merged the sprint I first created into the one Charles had created.
         - Create an [Epics Template](((Gx7UUAS7L)))
+        - **[Housekeeping](<Housekeeping.md>):** Cleared the empty DNP sections since Jan 31 (removed blocks with not-populated AND no nested content)
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) How could a collaborative graph help to center users around **important** information rather than **current** information?
             - **Compare with:** [Twitter](<Twitter.md>), is a collaborative platform that is VERY focused around the "now" and "current". 
@@ -97,7 +104,7 @@
                 - Discussion
                     - Advantages of such system
                     - Comparison to Code reviews and dependency
-        - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] would be happy to pitch in! [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]"
+        - ((iGUsXhqcg))
             - Do we still need a domain, or is a substack enough for now?
         - "[On reviews and maintainence](((b5_pXqQgk)))[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]), [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])."
     - #[GTD Zone](<GTD Zone.md>)
@@ -118,6 +125,7 @@
         - [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
             - [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [I](<I.md>) [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
+        - [*]([Brandon Toner](<Brandon Toner.md>)) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
@@ -162,4 +170,7 @@
 # Backlinks
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
 - **[Date Created](<Date Created.md>):** [February 11th, 2021](<February 11th, 2021.md>)
+
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+1. [February 11th, 2021](<February 11th, 2021.md>)
 

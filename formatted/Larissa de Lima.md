@@ -18,11 +18,6 @@
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-            - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
-            - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)
-            - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
         - ---
 
 # Backlinks
@@ -50,9 +45,6 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
-
-## [February 7th, 2021](<February 7th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

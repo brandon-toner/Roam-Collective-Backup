@@ -7,10 +7,8 @@
         1. "For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - #Chat ((A place to propose objects of discussion)) 
         1. [emoji reactions]([[emoji reactions]]) seem no longer [broken](((9hY8K9SvB)))! 
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Matt Brockwell]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
     - #Questions ((about the graph, or directed towards someone)) 
         - **Hey all, **
             - and maybe especially [[~[[Brandon Toner]]]] and [[^[[Charles Farr]]]], can we use [[@[[David Vargas]]]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
@@ -21,7 +19,6 @@
             - how cool would it be if hover + , instead of click, a __keypress__ - could CHANGE the link and take it through a link cycle?
             - what do you think [[@[[David Vargas]]]]? 
                 - is that (even) theoretically possible?
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -31,11 +28,8 @@
             - [[Robert Haisfield]] and [[Dhrumil Shah]] on [[onboarding]] #[[Roam Games]]
                 - [Twitter link](https://twitter.com/roberthaisfield/status/1358801982811590657?s=21)
                 - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Added [[roam/js/slack]]
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         1. [[roam/js/tag-cycle]] for changing notification states.[*]([[Matt Brockwell]])
             - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
@@ -62,7 +56,6 @@
                     - Decision:: "Q:"
                         - Rationale:: "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
                     - Notes:: #not_populated
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad
@@ -92,12 +85,10 @@
         - Updated conventions for notes types
             - [[[[Roam-Collective]]: Zettelkasten Conventions]]
             - #[[Fleeting Notes]] Fleeting notes capture nascent ideas with potential to contribute to
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - [[~[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
             - Candidate for change: [[[[E:]] Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #Tweet on divergent & convergent thinking from Conor + Deepu
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
@@ -114,7 +105,7 @@
 - ---
 - #[[My Daily Notes]] [[Stefan Natter]] {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Daily Log]]
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Article: Tagging Is Broken by [[Tiago Forte]]
             - URL:: https://fortelabs.co/blog/tagging-is-broken/
             - > There is an axiom in the productivity world that goes something like this: “Tags are inherently superior to folders”.
@@ -124,20 +115,13 @@
                 - This is where I see [[Roam]]'s strength. Because the structure of my notes is bottom-up, it feels more natural to tag notes and build a system from them. Refactorings are not a necessity but can happen from time to time. The system itself remains the same.
             - > The “limitation” of notes residing “only” in a single location is in fact a strength!
                 - Memory grandmaster strength is the skill to "offload" cognitive tasks onto their environment. One strategy is to imaging a room you are familiar with (e.g. children's room) and associate information with objects (e.g. your teddy bear, or chair, ...) in that room. By doing this it is easier for our brain to recall information because of the association. 
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]]
         - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
-    - #[[GTD Zone]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Conversation 
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-    - #Feedback  #not_populated
     - #Bookmarks
         - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---

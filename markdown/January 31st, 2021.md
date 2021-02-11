@@ -215,7 +215,6 @@
                 - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
             - Decision:: #not_populated
             - Notes:: #not_populated
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
@@ -244,8 +243,6 @@
         10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
             - `Chat` should be reserved for the top-section for now.
             - "`Conversation` as a DNP Module as opposed to Chat + Comments."
-    - #Promptstorming #not_populated
-    - #[[Dice Roll]] #not_populated
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
             - Related:: 
@@ -361,7 +358,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
             - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
@@ -402,13 +398,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - __Magic Ink(Bret Victors)__ mentioned [here](((PHA4b1MZj))) by [[Larissa de Lima]]
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
-    - #[[Scratchpad]] #not_populated
-    - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
@@ -424,7 +413,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                 - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
                 - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
                     - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
         - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
         - The "About Roam Collective" page feels hidden - I know it's in the sidebar, but I think it would be quite helpful to have it in the recommended path in the steps to getting started
@@ -496,8 +484,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Conventions
         - [[[[How To]] Seed Your Graph]]
             - Copy over the conventions, FAQs, and CSS relevant to your graph!
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Conversation
         - "Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))"
             - [[^[[Brandon Toner]]]] I like the AOT but disagree with the choice!
@@ -554,9 +540,6 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Conversation
         - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? " [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
             - Yup 

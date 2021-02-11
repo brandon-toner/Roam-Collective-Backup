@@ -7,10 +7,8 @@
         1. "For anyone who uses [spaced repetition](<spaced repetition.md>), there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. [emoji reactions]([emoji reactions](<emoji reactions.md>)) seem no longer [broken](((9hY8K9SvB)))! 
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - **Hey all, **
             - and maybe especially [~[[Brandon Toner](<~[[Brandon Toner.md>)]] and [^[[Charles Farr](<^[[Charles Farr.md>)]], can we use [@[[David Vargas](<@[[David Vargas.md>)]] "tag cycler" to make it easier to change links following the "unseen-->seen" "@"-->"~" convention?
@@ -21,7 +19,6 @@
             - how cool would it be if hover + , instead of click, a __keypress__ - could CHANGE the link and take it through a link cycle?
             - what do you think [@[[David Vargas](<@[[David Vargas.md>)]]? 
                 - is that (even) theoretically possible?
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -31,11 +28,8 @@
             - [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>) #[Roam Games](<Roam Games.md>)
                 - [Twitter link](https://twitter.com/roberthaisfield/status/1358801982811590657?s=21)
                 - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Added [roam/js/slack](<roam/js/slack.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [roam/js/tag-cycle](<roam/js/tag-cycle.md>) for changing notification states.[*]([Matt Brockwell](<Matt Brockwell.md>))
             - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
@@ -62,7 +56,6 @@
                     - **[Decision](<Decision.md>):** "Q:"
                         - **[Rationale](<Rationale.md>):** "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
                     - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
@@ -92,12 +85,10 @@
         - Updated conventions for notes types
             - [[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]
             - #[Fleeting Notes](<Fleeting Notes.md>) Fleeting notes capture nascent ideas with potential to contribute to
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
             - Candidate for change: [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - [Tweet](<Tweet.md>) on divergent & convergent thinking from Conor + Deepu
             - https://twitter.com/Conaw/status/1352840390286602241?s=20
@@ -114,7 +105,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Daily Log](<Daily Log.md>)
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Article: Tagging Is Broken by [Tiago Forte](<Tiago Forte.md>)
             - **[URL](<URL.md>):** https://fortelabs.co/blog/tagging-is-broken/
             - > There is an axiom in the productivity world that goes something like this: “Tags are inherently superior to folders”.
@@ -124,20 +115,13 @@
                 - This is where I see [Roam](<Roam.md>)'s strength. Because the structure of my notes is bottom-up, it feels more natural to tag notes and build a system from them. Refactorings are not a necessity but can happen from time to time. The system itself remains the same.
             - > The “limitation” of notes residing “only” in a single location is in fact a strength!
                 - Memory grandmaster strength is the skill to "offload" cognitive tasks onto their environment. One strategy is to imaging a room you are familiar with (e.g. children's room) and associate information with objects (e.g. your teddy bear, or chair, ...) in that room. By doing this it is easier for our brain to recall information because of the association. 
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=G_nOXbNetVQ}}
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
 - ---

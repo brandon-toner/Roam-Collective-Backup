@@ -24,8 +24,6 @@
                 - Was able to save it with a JSON backup! 
                     - Imported to personal graph
                     - Copied in missing pieces.
-    - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) 😴 offline, back tomorrow
     - #[[Scratchpad]] 
@@ -43,12 +41,10 @@
             - #Q Is there a standard format for CSS page documentation? I feel like [[Cato Minor]] came up with something at some point perhaps.
         - [[Cortex Futura]] on [[onboarding]] in a public graph based on different use-contexts.
             - URL:: https://twitter.com/cortexfutura/status/1357017794802556928?s=21
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Reorganized and decluttered CSS a bit — I've gone as far as my expertise will allow haha. [*](((xVo60DN5o)))
         2. Started to reorganize the shortcuts based on [this](((ZH-J4OPDR)))
             - Rationale:: "My thinking on why this order"
-    - #Promptstorming #not_populated
     - #Bookmarks
         - [[Dhrumil Shah]] on some potential Roam features and design. "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
         - [[Charles Farr]] on CSS layout and design
@@ -185,10 +181,6 @@
         - #[[Follow Up]] "#[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
             - "#[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
             - how do I use `#Reply` and `#Reply-from`
-    - #[[GTD Zone]] #not_populated
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
             - "> Changes the color and fonts of the different menus
@@ -198,7 +190,6 @@ We can't change the selection background in some menus yet, so make sure, that y
         - [[~[[Brandon Toner]]]] I have been doing a CSS bootcamp over the the last few days, so I hope you don't mind I cc'd myself here: "^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]"
             - Mostly interested in the answer
         - [[@[[Dhrumil Shah]]]] really interesting work. Tomorrow I will give it a second read and let you know if something comes to mind.
-    - #Feedback  #not_populated
 - ---
 - #[[My Daily Notes]] [[Dhrumil Shah]] {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
@@ -504,9 +495,6 @@ These users would have far better outcomes if they simply operated at or slightl
                 - "> progressively reveals information as the user develops so they are always becoming more effective users. Even through behavioral tracking, it can be challenging for the app to recognize exactly what the user wants to learn at any given point. This means that there has to be a solid framework for exploratory search, where the user can find what they are looking for on their own or with the help of other users."
                 - "> People are often going to fail when they attempt to achieve their goals. How do we [Intentionally design for failure states](https://robhaisfield.com/notes/Intentionally-design-for-failure-states) so people try again instead of giving up? How do we increase the likelihood that they are successful when they try again?"
                 - {{[[embed]]: ((((BhJWvpiGM))))}}
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
@@ -649,7 +637,6 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""If author is unknown, use the [[Unknown]] tag.""
                                         - ""#Q is there advantage to this vs leaving as `#not_populated`?""
                     - ""Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [[certainty]] or [[maturity]] is less important. ""
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Bookmarks
         - #[[Follow Up]] "When Brandon commented made about [[asynchronous]] editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [[synchronous]]?!" "
         - #[[Follow Up]] "{{[[DONE]]}} Obviously [[Robert Haisfield]]  lol, probably the go-to person for this"
@@ -715,8 +702,6 @@ These users would have far better outcomes if they simply operated at or slightl
             - "#Q When to use 📨 vs. 🚨 ?"
                 - 🚨 Response requested
                 - 📨 FYI
-    - #[[GTD Zone]] #not_populated
-    - #Questions #not_populated
     - #Conversation 
         - #[[Help Wanted]] on process of organizing questions
             - "I think yes. The meatier ones get escalated to page-level. (hasn't happened yet to my knowledge)"
@@ -796,9 +781,6 @@ These users would have far better outcomes if they simply operated at or slightl
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - So many thoughts, so little time. Will return when I can.
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation ((For nesting interactions with other members of the graph)) #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---

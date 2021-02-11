@@ -15,13 +15,6 @@
         - {{[query](<query.md>): {and: [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
 - MDelano — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
     - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>) {{word-count}}
-        - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-        - #[Daily Log](<Daily Log.md>) [not_populated](<not_populated.md>)
-        - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
-        - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-        - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-        - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-        - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 
 # Backlinks
 ## [Directory](<Directory.md>)

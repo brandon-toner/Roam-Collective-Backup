@@ -16,8 +16,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
         - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))"
             - "[Draft Sprints template](((tG1HJs2dK)))"
-    - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
     - #[[Meetings & Discussions]]
         - #Agenda
             - Overview — Brandon
@@ -64,13 +62,9 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
     - #[[GTD Zone]]
         - Explain the idea for graph dependency
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #Conversation 
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-    - #Feedback  #not_populated
-    - #Bookmarks #not_populated
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[[Scratchpad]] 
@@ -126,15 +120,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Thoughts::
             - "[[connecting the dots]]" is a very Roam visual metaphor/saying...
                 - Making connections between entities in a map of information... 
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([[~[[Charles Farr]]]])
         - Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]].
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
         - Developed a [Sprints Template](((tG1HJs2dK)))
         - Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         1. Simple Replies
             - "[[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))" 
@@ -152,7 +143,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
     - #Bookmarks
         - "I have included 8 different algorithms in the Roam Agile template. These are:"
         - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
-    - #Feedback  #not_populated
     - #[[Meetings & Discussions]]
     - #Sprints #Examples
         - Notes
@@ -389,9 +379,6 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
         - Thinking about [[Roam Games]] and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [[Roam-Collective]] on the shoulders of?
             - [[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
 - ---
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #Scratchpad 
@@ -429,8 +416,4 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - MVogel have it top of DN to ensure effectiveness
                     - PRosso create an archive so we know what's been processed
                     - Lower threshold for questions and page ideas
-    - #[[GTD Zone]] #not_populated
-    - #Questions #not_populated
-    - #Conversation  #not_populated
-    - #Feedback #not_populated
 - ---

@@ -12,8 +12,6 @@
         - This is to indicate "**1000 upvotes**" from [[~[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - #Chat ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]
-    - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
@@ -43,7 +41,6 @@
         - #I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]
             - Simple top line, with nested detail below.
             - A topic-header to promote easy collaboration and browsing.
-    - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         1. Added the [[page-status questions]] conventions and process. #Status/Experimental
         2. Personally emulated some of the queries used by [[cc:[[Charles Farr]]]]
@@ -73,7 +70,6 @@
             - Status:: #not_populated
             - Decision:: #not_populated
             - Notes:: #not_populated
-    - #Promptstorming #not_populated
     - #Bookmarks
         - Keifon on not rushing to make [[evergreen notes]]
             - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context."
@@ -140,7 +136,6 @@
             - "Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `#Q` block mention and ask the community to think on it..."
                 - This type of [[randomization]] will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [[^[[Charles Farr]]]]
             - 
-    - #Feedback #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
     - #[[Scratchpad]] 
@@ -153,9 +148,6 @@
         - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
         - Add [[double diamond]] literature notes from thesis
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
     - #Conversation 
         - "What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`"
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
@@ -267,7 +259,6 @@ I think I need to go through the whole process to make sure I internalise it.
                     - "#Q Should minor questions of clarifications also be tagged?  "
             - Output / memorialization
                 - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
-    #Questions ((about the graph, or directed towards someone)) #not_populated
     #[[GTD Zone]]
         - Finish thoughts on number analogy
         - Catch up on How To series
@@ -308,7 +299,6 @@ I think I need to go through the whole process to make sure I internalise it.
         - [[[[Clubhouse]] conversation: Feb 02 2021]]
             - [[Brandon Toner]]
                 - #Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
-    #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #Scratchpad
@@ -341,10 +331,6 @@ I think I need to go through the whole process to make sure I internalise it.
                     - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
                         - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-        - "#Q What differentiates [[fleeting notes]] and [[seedlings]]?"
-        - "#Q How do you differentiate a collection and an outline?"
-        - "#Q How do collections and outlines support [[convergence]]?"
     - #Conversation
         - On [[conversation]] conventions with LdeLima
             - [[~[[Larissa de Lima]]]] re: "[[~[[Charles Farr]]]] what you did was so incredibly helpful!  "
@@ -373,7 +359,6 @@ I think I need to go through the whole process to make sure I internalise it.
                 - I'll shoot you a DM on Twitter!
             - "#I Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [[~[[Charles Farr]]]]"
                 - [[~[[Brandon Toner]]]] I like to top level summary for most sections where significant works goes on underneath a single block
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
     - #Bookmarks
         - #[[Follow Up]] ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors""
         - #[[Follow Up]] [[datalog]] "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table."
@@ -449,11 +434,5 @@ I think I need to go through the whole process to make sure I internalise it.
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---
 - #[[My Daily Notes]] [[Maggie Delano]] {{word-count}}
-    - #[[Scratchpad]] #not_populated
     - #[[Daily Log]]
         - 23:26 poking around the graph for the first time after learning about the experiment on [[Clubhouse]]
-    - #[[Change Log]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
-    - #Feedback  #not_populated

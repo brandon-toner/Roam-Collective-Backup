@@ -4,6 +4,7 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)"
+        2. See [Sprint 1 Page]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) for updates on that.[*](((RK8SxJ-Pb)))
     - #Chat ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
         2. "[[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
@@ -19,10 +20,10 @@
                 - #I Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
                     - A place to view the relationships and dependencies across projects.
         - Example work on a sprint [[Sprints/1 — Roam Games 3 (managing dependencies)]]
-            - 
         - Processes:: How to work on a sprint
             - Create a block within your DNP Section (Scratchpad is a great spot)
-            - Include a link to the active sprint at the highest level that the work on the sprint exists. (i.e. nest your work below the sprint tag)
+            - Include a link to the active sprint at the highest level that the work on the sprint exists. (i.e. nest your work below the sprint tag) 
+                - (I decided against using the `Sprints` tag as a DNP module, as to not dilute the references for the actual sprints. Though, they could still be identified using the namespace, or by also filtering in `Tags::` so it's probably not a big deal...)
             - You can hide the sprint tag in an alias to keep things more streamlined and readable. (I do this a lot)
             - Use other complimentary tags beneath this block:
                 - Tag questions with `#Q` , ideas with `#I` related claims and assertions with `#[[Fleeting Notes]]`, project ideas with `#[[Project Ideas]]`, outlines with `#Outlines` etc
@@ -33,6 +34,11 @@
                     - I suggest filtering OUT `Query` and IN `My Daily Notes`
                     - This would be a more complete data set, as members may forget to log work in the contributions log. 
             - I'd propose another `#Summary` tag as well that could be used (and filtered for), as a way for a user to take a moment to document a summary of the progress for the group. 
+        - #[[Roam Enhancement Requests]] The ability to filter out certain pages from the auto-complete dropdown based on the collection the page belongs to.
+            - Logistics: The flexibility with user preference to remove results from auto-populate based on [[datalog query]].
+                - I.e. could build a query to identify pages with `Tags::` + `{collection name}`
+        - #Observations
+            - When summarizing my work by posting to the Sprint Contribution log, I'm tempted to ALSO post to `The Main Feed`. I didn't post to the feed, but then thought maybe something should be there to direct a user to where to find updates...
     - #Mindsweep
         - Sprints & Epics
         - Evergreen note progression
@@ -44,8 +50,8 @@
         - SmartBlocks
         - Roam Games
             - Roam Games Directory
-                - Submissions by challenge with links to tweets/work & authors
-                    - Pages with `[[RG:]]` namespace
+                - Pages for submissions, organized by challenge, with links to tweets/work & authors 
+                    - With `RoamGames/` namespace & `#[[[[Roam Games]] Submissions]]` as collection tag
                         - Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general.
                 - Courses
                 - People
@@ -57,6 +63,7 @@
     - #[[Change Log]] 
         - Merged the sprint I first created into the one Charles had created.
         - Create an [Epics Template](((Gx7UUAS7L)))
+        - Housekeeping:: Cleared the empty DNP sections since Jan 31 (removed blocks with not-populated AND no nested content)
     - #Questions
         - #Q How could a collaborative graph help to center users around **important** information rather than **current** information?
             - **Compare with:** [[Twitter]], is a collaborative platform that is VERY focused around the "now" and "current". 
@@ -97,7 +104,7 @@
                 - Discussion
                     - Advantages of such system
                     - Comparison to Code reviews and dependency
-        - "[[~[[Peter Rosso]]]] would be happy to pitch in! [[cc:[[Brandon Toner]]]]"
+        - ((iGUsXhqcg))
             - Do we still need a domain, or is a substack enough for now?
         - "[On reviews and maintainence](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]]), [*]([[cc:[[Charles Farr]]]])."
     - #[[GTD Zone]]
@@ -118,6 +125,7 @@
         - [*]([[@[[Brandon Toner]]]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
             - [*]([[@[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([[@[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
+        - [*]([[Brandon Toner]]) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---

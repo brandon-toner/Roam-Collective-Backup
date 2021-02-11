@@ -16,8 +16,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - "Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>)."
         - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))"
             - "[Draft Sprints template](((tG1HJs2dK)))"
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Agenda](<Agenda.md>)
             - Overview — Brandon
@@ -64,13 +62,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
     - #[GTD Zone](<GTD Zone.md>)
         - Explain the idea for graph dependency
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -126,15 +120,12 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - **[Thoughts](<Thoughts.md>):**
             - "[connecting the dots](<connecting the dots.md>)" is a very Roam visual metaphor/saying...
                 - Making connections between entities in a map of information... 
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         - Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>).
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
         - Developed a [Sprints Template](((tG1HJs2dK)))
         - Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. Simple Replies
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))" 
@@ -152,7 +143,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
     - [Bookmarks](<Bookmarks.md>)
         - "I have included 8 different algorithms in the Roam Agile template. These are:"
         - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
     - [Sprints](<Sprints.md>) [Examples](<Examples.md>)
         - Notes
@@ -389,9 +379,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
         - Thinking about [Roam Games](<Roam Games.md>) and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [Roam-Collective](<Roam-Collective.md>) on the shoulders of?
             - [Roam Book Club](<Roam Book Club.md>) conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - [Scratchpad](<Scratchpad.md>) 
@@ -429,10 +416,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - MVogel have it top of DN to ensure effectiveness
                     - PRosso create an archive so we know what's been processed
                     - Lower threshold for questions and page ideas
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Questions](<Questions.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)
-    - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
 
 # Backlinks
