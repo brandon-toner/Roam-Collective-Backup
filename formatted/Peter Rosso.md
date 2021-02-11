@@ -86,3 +86,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 ## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
 
+## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+- **[Author](<Author.md>):** [Peter Rosso](<Peter Rosso.md>)
+

@@ -127,6 +127,10 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
+## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+- **[Author](<Author.md>):** [Peter Rosso](<Peter Rosso.md>)
+    - **[References](<References.md>):**
+
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
 - **[References](<References.md>):**

@@ -13,6 +13,10 @@
 
 - **Composed of:** multiple questions (`[Q](<Q.md>)` blocks → `[Q:](<Q:.md>)`
 
+- Question answers should ultimately end up in a `[Q:](<Q:.md>)`
+
+- When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[Q:](<Q:.md>)`
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`
 

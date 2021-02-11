@@ -14,6 +14,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - "Meetup Today at 20:00GMT"
         - "Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])"
         - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
+        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])"
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
     - #[[Meetings & Discussions]]
@@ -39,7 +40,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
 
                     - 
 
-                - #Q [[Q: When does chaos becomes insurmountable]] 
+                - #Q [[[[Q:]] When does chaos become insurmountable?]] 
                     - Did I do this right?
                     - Where does order emerges from?
                     - With the right primitives order emerges
@@ -112,6 +113,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - #Q How do we tag suggested or draft processes and conventions?[*]([[@[[Charles Farr]]]])
             - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
                 - Example:: "Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])"
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])
+            - Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
+            - Within that update, we could link to the work that we have done that lives within our DNP sections. 
+            - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
+            - This approach would make the Sprint page easy-to-navigate and simple in it's outline and deep with information via referenced content. 
     - #[[GTD Zone]] #not_populated
     - #[[Change Log]] 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([[~[[Charles Farr]]]])
@@ -133,17 +139,18 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - I like this a lot. It consolidates namespaces for Books/ Articles/ Podcasts/ etc.
                 - Feeling like this is a good implementation for RC. Create a page with an `[[R:]]` namespace for any references or resources in the database.[*]([[~[[Charles Farr]]]])
                     - Example:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
+    - #Bookmarks
+        - "I have included 8 different algorithms in the Roam Agile template. These are:"
+        - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
     - #Feedback  #not_populated
     - #[[Meetings & Discussions]]
-    - #Sprints
+    - #Sprints #Examples
         - Notes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlJ1uK2jpOJ.png?alt=media&token=a5fa77ee-0a60-436c-a4c5-0d2be0e781f9)
         - [[Sprints/Title Example]]
             - #Questions
             - #[[GTD Zone]]
             - #Outlines
-                - kjslkdjfklsd
-                - lsjdklfjsdkl
             - [[Sprint/Roam Game Example]]
     - #[[Daily Log]]
         - 15:55 — RC Meetup (Zoom)
@@ -258,13 +265,13 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - Customer Feedback
                     - Solution Design
         - #[[Follow Up]] and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
-        - On agile organization for Roam Collective
+        - #Q What does an [[agile]] approach look like for Roam Collective?
             - Agile projects are structured around...
                 - Stories — bite size pieces of work
                 - Sprints — collections of stories (work), time-bound
                 - Epics — collections of sprints, oriented around a goal
             - Adapting the framework to our goals at Roam Collective, I propose the following structure...
-                - Stories → `#Q` blocks that develop into `[[Q:]]` pages
+                - Stories → `#Q` blocks that develop into `[[Q:]]` pages (or other tasks)
                 - Sprints → a portion (or all of) an outline or collection of `Questions` to answer during a given time period
                 - Epic → an entire outline or collection of `Questions` to answer during an overarching `Question`
             - ---
@@ -291,7 +298,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - **Oriented around:** answering a single broad question such as "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
                     - **With status:** `#Epic/Active`
                     - **Composed of:** two sprints (through next Wednesday & then through next Sunday)
-            - Building and completing an Epic would proceed like...
+            - Outlining an Epic would proceed like...
                 1. Determine broad question to answer during epic
                     - Source of question can be:
                         - External — e.g., from a Roam Game
@@ -306,6 +313,15 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                     - `Epic/ ———— the question goes here? ————`
                         - `Sprint/N`, `Sprint/N+1`... `Sprint/N+x`
                 5. Add the Sprint announcement to the announcement to orient to broader Roam Collective around it!
+            - Outlining a Sprint is really just as simple as divvying up work into appropriate buckets (based on dependencies and bandwidth)
+            - Epics & Sprints should be aggregate within the [[Backlog]]
+                - Utilizing a central repository decreases the search costs to understand the current focus of the graph.
+                - The processes to develop questions, outline Epics, and delineate sprints can occur within daily note pages, but once an Epic is queued or is active, the outline should be ported or replicated within the backlog.
+            - Question answers should ultimately end up in a `[[Q:]]` page
+                - As we work within the graph, it is natural to drop a `#Q` block in-line to ask a topical question.
+                    - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
+                - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[[Q:]]` implicitly denotes an increase in maturity
+                - 
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation
         - Simple Replies
@@ -356,7 +372,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - what why how - a structural guide to making questions
             - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
         - Thinking about [[Roam Games]] and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [[Roam-Collective]] on the shoulders of?
-            - [[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, etc
+            - [[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated

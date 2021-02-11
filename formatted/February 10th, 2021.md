@@ -14,6 +14,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - "Meetup Today at 20:00GMT"
         - **["Processes](<"Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))"
         - "Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>)."
+        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
@@ -39,7 +40,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
 
                     - 
 
-                - [Q](<Q.md>) [Q: When does chaos becomes insurmountable](<Q: When does chaos becomes insurmountable.md>) 
+                - [Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] 
                     - Did I do this right?
                     - Where does order emerges from?
                     - With the right primitives order emerges
@@ -112,6 +113,11 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - [Q](<Q.md>) How do we tag suggested or draft processes and conventions?[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
             - I'm hesitant to tag with [Processes](<Processes.md>) or [Conventions](<Conventions.md>) as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
                 - **[Example](<Example.md>):** "Thoughts:: [voting](<voting.md>) mechanism [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])
+            - Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
+            - Within that update, we could link to the work that we have done that lives within our DNP sections. 
+            - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
+            - This approach would make the Sprint page easy-to-navigate and simple in it's outline and deep with information via referenced content. 
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Removed Literature Notes and Highlights from the [references notes template](((gix1P4auD))), adjusting the workflow to allow for multi-user contribution.[*](((7Jju0z75P)))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
@@ -133,17 +139,18 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - I like this a lot. It consolidates namespaces for Books/ Articles/ Podcasts/ etc.
                 - Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                     - **[Example](<Example.md>):** [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]
+    - [Bookmarks](<Bookmarks.md>)
+        - "I have included 8 different algorithms in the Roam Agile template. These are:"
+        - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
-    - [Sprints](<Sprints.md>)
+    - [Sprints](<Sprints.md>) [Examples](<Examples.md>)
         - Notes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlJ1uK2jpOJ.png?alt=media&token=a5fa77ee-0a60-436c-a4c5-0d2be0e781f9)
         - [Sprints/Title Example](<Sprints/Title Example.md>)
             - [Questions](<Questions.md>)
             - #[GTD Zone](<GTD Zone.md>)
             - [Outlines](<Outlines.md>)
-                - kjslkdjfklsd
-                - lsjdklfjsdkl
             - [Sprint/Roam Game Example](<Sprint/Roam Game Example.md>)
     - #[Daily Log](<Daily Log.md>)
         - 15:55 — RC Meetup (Zoom)
@@ -258,13 +265,13 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - Customer Feedback
                     - Solution Design
         - #[Follow Up](<Follow Up.md>) and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
-        - On agile organization for Roam Collective
+        - [Q](<Q.md>) What does an [agile](<agile.md>) approach look like for Roam Collective?
             - Agile projects are structured around...
                 - Stories — bite size pieces of work
                 - Sprints — collections of stories (work), time-bound
                 - Epics — collections of sprints, oriented around a goal
             - Adapting the framework to our goals at Roam Collective, I propose the following structure...
-                - Stories → `[Q](<Q.md>)` blocks that develop into `[Q:](<Q:.md>)` pages
+                - Stories → `[Q](<Q.md>)` blocks that develop into `[Q:](<Q:.md>)` pages (or other tasks)
                 - Sprints → a portion (or all of) an outline or collection of `Questions` to answer during a given time period
                 - Epic → an entire outline or collection of `Questions` to answer during an overarching `Question`
             - ---
@@ -291,7 +298,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - **Oriented around:** answering a single broad question such as "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
                     - **With status:** `[Epic](<Epic.md>)/Active`
                     - **Composed of:** two sprints (through next Wednesday & then through next Sunday)
-            - Building and completing an Epic would proceed like...
+            - Outlining an Epic would proceed like...
                 1. Determine broad question to answer during epic
                     - Source of question can be:
                         - External — e.g., from a Roam Game
@@ -306,6 +313,15 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                     - `Epic/ ———— the question goes here? ————`
                         - `Sprint/N`, `Sprint/N+1`... `Sprint/N+x`
                 5. Add the Sprint announcement to the announcement to orient to broader Roam Collective around it!
+            - Outlining a Sprint is really just as simple as divvying up work into appropriate buckets (based on dependencies and bandwidth)
+            - Epics & Sprints should be aggregate within the [Backlog](<Backlog.md>)
+                - Utilizing a central repository decreases the search costs to understand the current focus of the graph.
+                - The processes to develop questions, outline Epics, and delineate sprints can occur within daily note pages, but once an Epic is queued or is active, the outline should be ported or replicated within the backlog.
+            - Question answers should ultimately end up in a `[Q:](<Q:.md>)` page
+                - As we work within the graph, it is natural to drop a `[Q](<Q.md>)` block in-line to ask a topical question.
+                    - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
+                - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[Q:](<Q:.md>)` implicitly denotes an increase in maturity
+                - 
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>)
         - Simple Replies
@@ -356,7 +372,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - what why how - a structural guide to making questions
             - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
         - Thinking about [Roam Games](<Roam Games.md>) and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [Roam-Collective](<Roam-Collective.md>) on the shoulders of?
-            - [Roam Book Club](<Roam Book Club.md>) conventions, Andy matuschak, Smartblocks/RoamHacker, etc
+            - [Roam Book Club](<Roam Book Club.md>) conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not_populated](<not_populated.md>)
@@ -402,3 +418,8 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
     - [Conversation](<Conversation.md>)  [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
 - ---
+
+# Backlinks
+## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+- **[Date Created](<Date Created.md>):** [February 10th, 2021](<February 10th, 2021.md>)
+
