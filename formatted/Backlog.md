@@ -6,6 +6,7 @@
             - [ ] "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
             - [ ] "[Draft Sprints template](((tG1HJs2dK)))"
             - [ ] Draft Epic template
+                - Definitely a query of all the sprint involved
             - [ ] Collate related questions
             - [ ] Collate related ideas → format into questions
             - [ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "

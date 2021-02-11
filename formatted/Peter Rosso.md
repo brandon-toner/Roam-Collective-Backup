@@ -41,6 +41,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
+## [February 11th, 2021](<February 11th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 

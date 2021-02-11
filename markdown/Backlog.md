@@ -6,6 +6,7 @@
             - {{[[TODO]]}} "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
             - {{[[TODO]]}} "[Draft Sprints template](((tG1HJs2dK)))"
             - {{[[TODO]]}} Draft Epic template
+                - Definitely a query of all the sprint involved
             - {{[[TODO]]}} Collate related questions
             - {{[[TODO]]}} Collate related ideas → format into questions
             - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "

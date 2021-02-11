@@ -25,3 +25,17 @@
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - #[Scratchpad](<Scratchpad.md>) 
+        - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+        - "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+        - 
+    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+- ---
