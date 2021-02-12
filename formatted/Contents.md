@@ -16,6 +16,18 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
@@ -54,6 +66,10 @@
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -116,7 +132,7 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 

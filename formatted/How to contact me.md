@@ -60,6 +60,10 @@
 - **[Work](<Work.md>):** [software engineer](<software engineer.md>)
         - **[How to contact me](<How to contact me.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Birthday](<Birthday.md>):** 
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Work](<Work.md>):** [doctor](<doctor.md>)
         - **[How to contact me](<How to contact me.md>):**

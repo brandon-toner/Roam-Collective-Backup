@@ -16,6 +16,22 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>)
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[supported by](<supported by.md>):** [[[E:](<[[E:.md>) Claim 2]]
+    - **[Next Steps](<Next Steps.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[supported by](<supported by.md>):** [[[E:](<[[E:.md>) Claim 3]]
+    - **[Next Steps](<Next Steps.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
 - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - **[Next Steps](<Next Steps.md>):**
@@ -24,7 +40,7 @@
 - Use of context-based [rituals](<rituals.md>).
     - **[Next Steps](<Next Steps.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
     - **[Next Steps](<Next Steps.md>):**
 

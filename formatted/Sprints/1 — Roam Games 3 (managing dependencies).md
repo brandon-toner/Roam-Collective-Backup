@@ -15,7 +15,7 @@
         - RoamJS
         - RoamInter
         - RoamRender
-    - **Outlines:** [not_populated](<../not_populated.md>) ((Replace ex-A with the sprint page name))
+    - **Outlines:**  ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):**
             - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [Outlines](<../Outlines.md>)}}} [minimal](<../minimal.md>)
     - **Questions:** [not_populated](<../not_populated.md>) ((Replace ex-A with the sprint page name))
@@ -32,12 +32,16 @@
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
                 - "Pages for submissions, organized by challenge, with links to tweets/work & authors "
             - **Brandon:** Question - How could the code variants of the community be mapped for easy of navigation and distribution? [*](((ykxX5bHS9)))
+        2. [February 12th, 2021](<../February 12th, 2021.md>) 
+            - **Brandon:** Nearly comprehensive draft of a [workflow for agile project management](((74aPTS1FT))). [Drafts](<../Drafts.md>) [Outlines](<../Outlines.md>)
 
 # Backlinks
 ## [Backlog](<Backlog.md>)
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+- [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
@@ -62,6 +66,8 @@
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
+- [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)

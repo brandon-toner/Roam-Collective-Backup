@@ -32,6 +32,18 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Created by](<Created by.md>):**
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Created by](<Created by.md>):**
@@ -70,6 +82,10 @@
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
 - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -132,7 +148,7 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):**
 

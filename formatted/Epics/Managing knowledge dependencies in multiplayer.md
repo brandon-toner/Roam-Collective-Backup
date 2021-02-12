@@ -2,11 +2,14 @@
     - **[Date Created](<../Date Created.md>):** [February 11th, 2021](<../February 11th, 2021.md>)
     - **[Date Range](<../Date Range.md>):** [February 2021](<../February 2021.md>) until [undetermined date](<../undetermined date.md>)
     - **[Description](<../Description.md>):** [not_populated](<../not_populated.md>)
+    - **[Story Points](<../Story Points.md>):** [not_populated](<../not_populated.md>)
     - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
     - **Sprints:**
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
     - **[Resources](<../Resources.md>):** [not_populated](<../not_populated.md>)
-    - **[Work Summary](<../Work Summary.md>):** [not_populated](<../not_populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
+    - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
+        - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+            - {{[embed](<../embed.md>): ((-DJMsGv-q))}}
 
 # Backlinks
 ## [Backlog](<Backlog.md>)

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 12th, 2021](<February 12th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor White-Sullivan](<Conor White-Sullivan.md>)
 

@@ -30,6 +30,9 @@
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>)
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Time Zone](<Time Zone.md>):** [Central European Standard Time](<Central European Standard Time.md>) ([UTC](<UTC.md>)
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>)
 

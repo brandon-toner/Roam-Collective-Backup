@@ -267,7 +267,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - #[[Follow Up]] and refine thoughts on notes from zsolt [here](((dXBoYfZNH))) + [here](((HVS7yXmy-)))
         - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
             - https://twitter.com/Conaw/status/1359129393453355014?s=20
-        - #Q What does an [[agile]] approach look like for Roam Collective?
+        - #Q What does an [[agile development]] approach look like for Roam Collective?
             - Agile projects are structured around...
                 - Stories — bite size pieces of work
                 - Sprints — collections of stories (work), time-bound

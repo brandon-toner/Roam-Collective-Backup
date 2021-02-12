@@ -1,0 +1,13 @@
+- Tags:: #[[Evergreens]] #Examples
+    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Created by:: #not_populated
+    - Author:: #not_populated
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not_populated ((Not a reference, but a related idea, block or page))
+        - Query
+            - {{[[query]]: {and: [[supported by]] [[[[E:]] Claim 2]]}}}
+            - [[supported by]] AND [[[[E:]] Claim 2]]
+        - supported by:: [[[[E:]] Claim 3]]
+    - Next Steps:: #not_populated ((Plans for future elaboration or development))
+    - Contents:: #not_populated

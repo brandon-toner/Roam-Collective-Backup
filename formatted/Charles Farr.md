@@ -10,7 +10,6 @@
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
             - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
                 - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-                - [Sprints](<Sprints.md>) [not_populated](<not_populated.md>)
                 - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
             - ---

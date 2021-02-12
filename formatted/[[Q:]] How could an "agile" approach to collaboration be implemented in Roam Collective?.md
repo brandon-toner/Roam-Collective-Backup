@@ -1,10 +1,10 @@
-- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
     - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** Adapted from Charles' block-level question.
     - **[References](<References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
-        - "[Q](<Q.md>) What does an [agile](<agile.md>) approach look like for Roam Collective?"
+        - "[Q](<Q.md>) What does an [agile development](<agile development.md>) approach look like for Roam Collective?"
     - **[Resources](<Resources.md>):**
         - [[[R:](<[[R:.md>) Agile Product Management in Roam]]
     - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Related notes in the graph — FN, LN, EN, Q, I, etc.))

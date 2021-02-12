@@ -56,6 +56,10 @@
 - **[Twitter](<Twitter.md>):** [@natterstefan](https://www.twitter.com/natterstefan) 
         - **[Website](<Website.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Twitter](<Twitter.md>):** [@groundedSAGE](https://twitter.com/groundedSAGE)
+        - **[Website](<Website.md>):**
+
 ## [Zsolt Viczián](<Zsolt Viczián.md>)
 - **[Twitter](<Twitter.md>):** [@zsviczian](https://twitter.com/zsviczian)
         - **[Website](<Website.md>):**

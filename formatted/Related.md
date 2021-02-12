@@ -39,6 +39,10 @@
 ## [FAQ](<FAQ.md>)
 - **[Related](<Related.md>):**
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- Sprints are the manageable units of work associated with an epic.[*]([Definitions](<Definitions.md>))
+                    - **[Related](<Related.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**
@@ -247,6 +251,10 @@
 - [Jordan Peterson](<Jordan Peterson.md>) — recurring theme in his body of works.
     - **[Related](<Related.md>):**
 
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Author](<Author.md>):** [Unknown](<Unknown.md>)
+    - **[Related](<Related.md>):**
+
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
@@ -313,7 +321,7 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - [[[R:](<[[R:.md>) Agile Product Management in Roam]]
     - **[Related](<Related.md>):**
 

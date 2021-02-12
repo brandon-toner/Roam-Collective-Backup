@@ -243,6 +243,12 @@
 ## [Winston Teng](<Winston Teng.md>)
 - {{[query](<query.md>):
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- {{[query](<query.md>):
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- {{[query](<query.md>):
+
 ## [cc:[Brandon Toner](<Brandon Toner.md>)](<cc:[Brandon Toner](<Brandon Toner.md>).md>)
 - {{[query](<query.md>):
 

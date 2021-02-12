@@ -1,0 +1,11 @@
+- Tags:: #[[Evergreens]]
+    - Date Created:: [[February 12th, 2021]]
+    - Last Updated:: [[February 12th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: #not_populated
+    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not_populated ((Not a reference, but a related idea, block or page))
+        - {{[[query]]: {and: [[supported by]] [[[[E:]] Claim 1]]}}}
+        - supported by:: [[[[E:]] Claim 2]]
+    - Next Steps:: #not_populated ((Plans for future elaboration or development))
+    - Contents:: #not_populated

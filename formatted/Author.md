@@ -16,6 +16,18 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+    - **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+    - **[Author](<Author.md>):**
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -53,6 +65,10 @@
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
@@ -116,7 +132,7 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

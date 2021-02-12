@@ -100,6 +100,9 @@
 ## [Discoveries](<Discoveries.md>)
 - **[Tags](<Tags.md>):**
 
+## [Drafts](<Drafts.md>)
+- **[Tags](<Tags.md>):**
+
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
 - **[Tags](<Tags.md>):**
 
@@ -355,6 +358,9 @@
 ## [Tyler Wince](<Tyler Wince.md>)
 - **[Tags](<Tags.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Waiting](<Waiting.md>)
 - **[Tags](<Tags.md>):**
 
@@ -380,6 +386,15 @@
 - **[Tags](<Tags.md>):**
 
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
@@ -411,6 +426,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -467,7 +485,7 @@
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
 - **[Tags](<Tags.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)

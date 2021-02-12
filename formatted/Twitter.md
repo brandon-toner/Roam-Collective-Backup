@@ -84,6 +84,10 @@
 ## [Visakan Veerasamy](<Visakan Veerasamy.md>)
 - **[Twitter](<Twitter.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Time Zone](<Time Zone.md>):**  [UTC](<UTC.md>) +8:00
         - **[Twitter](<Twitter.md>):**

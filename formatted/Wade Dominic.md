@@ -1,7 +1,14 @@
-- :q [:find (count ?members)
-:where [?e :user/display-name ?members]]
-- :q [:find  ?members
-:where [?e :user/display-name ?members]]
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [@groundedSAGE](https://twitter.com/groundedSAGE)
+        - **[Website](<Website.md>):** [groundedsage.dev](https://www.groundedsage.dev/)
+        - **[Location](<Location.md>):** [Berlin](<Berlin.md>), [Germany](<Germany.md>)
+        - **[Time Zone](<Time Zone.md>):** [Central European Standard Time](<Central European Standard Time.md>) ([UTC](<UTC.md>) +1:00)
+        - **[Birthday](<Birthday.md>):** 
+        - **[How to contact me](<How to contact me.md>):** 
+            - Send me a DM on Twitter (also great)
+- 
+- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
 
 # Backlinks
 ## [Directory](<Directory.md>)

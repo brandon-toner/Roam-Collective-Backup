@@ -22,6 +22,9 @@
 
 - [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>),
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- "`[Q](<Q.md>)` / `[Questions](<Questions.md>)` / `[Q:](<Q:.md>)`
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - Excellent question. I could make the case for either `[E:](<E:.md>)` or `[Q:](<Q:.md>)`
 

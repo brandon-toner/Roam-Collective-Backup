@@ -290,6 +290,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -320,6 +323,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
@@ -375,7 +381,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)

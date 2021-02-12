@@ -40,6 +40,18 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
     - **[Date Created](<Date Created.md>):**
@@ -78,6 +90,10 @@
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [values](<values.md>), [purpose](<purpose.md>), [direction](<direction.md>), [focus](<focus.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Proverbs](<Proverbs.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -140,8 +156,8 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)

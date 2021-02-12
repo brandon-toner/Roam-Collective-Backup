@@ -10,10 +10,13 @@
         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- Added page: [[[Q:](<[[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?]]
+- Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - **[Thoughts](<Thoughts.md>):**
 
 9. Roam's upsides make up for its downsides.
+        - **[Thoughts](<Thoughts.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

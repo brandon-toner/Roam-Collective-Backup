@@ -159,8 +159,8 @@
                     - [Backlog](<Backlog.md>) ← repository for the current outlines of active Epics & Sprints
                     - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>) 3
                     - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) ← Sprint from now until next Sunday
-                    - "[ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))" ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
-                    - "[ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"" ← Q block that has yet to turn into a Q page
+                    - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
+                    - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
             - "[I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
                 - "[Draft Sprints template](((tG1HJs2dK)))"
             - Like this: "[Sprints/Title Example](<Sprints/Title Example.md>)"

@@ -20,34 +20,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
-
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>)
 
@@ -67,9 +39,38 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
+
+## [February 12th, 2021](<February 12th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}

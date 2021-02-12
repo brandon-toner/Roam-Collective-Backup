@@ -17,7 +17,7 @@
 - **[Status](<Status.md>):** [Status/Active](<Status/Active.md>)
     - **[Resources](<Resources.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
-- "[Q](<Q.md>) What does an [agile](<agile.md>) approach look like for Roam Collective?"
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- "[Q](<Q.md>) What does an [agile development](<agile development.md>) approach look like for Roam Collective?"
     - **[Resources](<Resources.md>):**
 

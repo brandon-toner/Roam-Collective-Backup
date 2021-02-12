@@ -5,7 +5,7 @@
     - **[Status](<Status.md>):**
 
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
-- **[Description](<Description.md>):** [not_populated](<not_populated.md>)
+- **[Story Points](<Story Points.md>):** [not_populated](<not_populated.md>)
     - **[Status](<Status.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

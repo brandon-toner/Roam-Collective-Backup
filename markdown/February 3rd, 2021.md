@@ -205,7 +205,7 @@ We can't change the selection background in some menus yet, so make sure, that y
                 - 1. Design/UX of a in-app tutorial and onboarding component
 -- could be Figma files, A roam graph with css hackery, whatever
                 - 2. Editorial -- Videos, Examples, Text, Images that should go in there.
-                - To that end, we will be judging not just on the work you put forward - but how the [[Intermediate Deliverables]] you share along the way inspire others -- how you help to grow the commons, and inspire others in the roamcult faithful.. what others build on your foundation....
+                - To that end, we will be judging not just on the work you put forward - but how the [[intermediate deliverables]] you share along the way inspire others -- how you help to grow the commons, and inspire others in the roamcult faithful.. what others build on your foundation....
                 - So - if you are entering into this challenge - then - along with your submission - we encourage you to cite (via quote tweet, or link out) the people whose work inspired you or you built on.
 
 If you win, everyone you cited, and everyone who cited you, will share in your reward.

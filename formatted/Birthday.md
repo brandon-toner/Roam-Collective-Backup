@@ -16,3 +16,7 @@
 - **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Engineerig](<Engineerig.md>)
         - **[Birthday](<Birthday.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Time Zone](<Time Zone.md>):** [Central European Standard Time](<Central European Standard Time.md>) ([UTC](<UTC.md>) +1:00)
+        - **[Birthday](<Birthday.md>):**
+

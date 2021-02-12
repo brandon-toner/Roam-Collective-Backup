@@ -10,6 +10,13 @@
 - Example work on a sprint [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
         - **[Processes](<Processes.md>):**
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))
+
+- **[My thoughts continued more centrally located [here]"Thoughts](<My thoughts continued more centrally located [here]"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))
+
+- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>) 
         - **[Processes](<Processes.md>):**
@@ -31,4 +38,7 @@
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - **["Process](<"Process.md>):** [*]([Processes](<Processes.md>))
+
+## [Wade Dominic](<Wade Dominic.md>)
+- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))
 

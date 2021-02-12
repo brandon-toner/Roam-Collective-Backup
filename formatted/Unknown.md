@@ -9,6 +9,9 @@
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "If author is unknown, use the [Unknown](<Unknown.md>)
 
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Author](<Author.md>):** [Unknown](<Unknown.md>)
+
 ## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>)
 

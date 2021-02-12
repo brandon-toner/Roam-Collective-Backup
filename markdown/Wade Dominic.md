@@ -1,4 +1,11 @@
-- :q [:find (count ?members)
-:where [?e :user/display-name ?members]]
-- :q [:find  ?members
-:where [?e :user/display-name ?members]]
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@groundedSAGE](https://twitter.com/groundedSAGE)
+        - Website:: [groundedsage.dev](https://www.groundedsage.dev/)
+        - Location:: [[Berlin]], [[Germany]]
+        - Time Zone:: [[Central European Standard Time]] ([[UTC]] +1:00)
+        - Birthday:: 
+        - How to contact me:: 
+            - Send me a DM on Twitter (also great)
+- 
+- "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[@[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"

@@ -73,6 +73,10 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 - **[Website](<Website.md>):** https://natterstefan.me
         - **[Location](<Location.md>):**
 
+## [Wade Dominic](<Wade Dominic.md>)
+- **[Website](<Website.md>):** [groundedsage.dev](https://www.groundedsage.dev/)
+        - **[Location](<Location.md>):**
+
 ## [Zsolt Viczián](<Zsolt Viczián.md>)
 - **[Website](<Website.md>):** [zsolt.blog](https://www.zsolt.blog)
         - **[Location](<Location.md>):**

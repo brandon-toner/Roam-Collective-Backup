@@ -1,0 +1,2 @@
+- Definition: Easily digestible nuggets of wisdom. 
+    - Often embedded culturally, with vague authorship.

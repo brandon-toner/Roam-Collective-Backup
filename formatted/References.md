@@ -27,6 +27,18 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
+## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
+## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
 - **[URL](<URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)
     - **[References](<References.md>):**
@@ -65,6 +77,10 @@
 
 ## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[References](<References.md>):**
+
+## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- [sprints](<sprints.md>) (in agile development)
     - **[References](<References.md>):**
 
 ## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
@@ -127,7 +143,7 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
-## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Author](<Author.md>):** Adapted from Charles' block-level question.
     - **[References](<References.md>):**
 
