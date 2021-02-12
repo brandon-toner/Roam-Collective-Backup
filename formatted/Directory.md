@@ -26,6 +26,7 @@
     - [Siva Arunagiri](<Siva Arunagiri.md>)
     - [Larissa de Lima](<Larissa de Lima.md>)
     - [Maggie Delano](<Maggie Delano.md>)
+    - [Wade Dominic](<Wade Dominic.md>)
 - **[Queries](<Queries.md>):**
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

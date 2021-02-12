@@ -26,6 +26,7 @@
     - [[Siva Arunagiri]]
     - [[Larissa de Lima]]
     - [[Maggie Delano]]
+    - [[Wade Dominic]]
 - Queries::
     - :q [:find ?members
  :where [?b :user/display-name ?members]]

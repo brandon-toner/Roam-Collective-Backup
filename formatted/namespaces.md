@@ -6,6 +6,11 @@
 
 - Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>))
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- **[Thoughts](<Thoughts.md>):** [namespaces](<namespaces.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [namespaces](<namespaces.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>)
 

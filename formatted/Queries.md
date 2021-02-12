@@ -4,7 +4,7 @@
 
 # Backlinks
 ## [Directory](<Directory.md>)
-- [Maggie Delano](<Maggie Delano.md>)
+- [Wade Dominic](<Wade Dominic.md>)
 - **[Queries](<Queries.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)

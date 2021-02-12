@@ -14,13 +14,22 @@
                 - Definitely a query of all the sprint involved
             - [ ] Collate related questions → insert into outline
             - [ ] Collate related ideas  → format into questions → insert into outline
-            - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
-                - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
-            - [ ] "[Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
-            - [ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+            - [ ] What, Why, How: Implementing a Zettelkasten
+                - [ ] "[Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
+            - [ ] What, Why, How: Collaborating within Roam
+                - [ ] What, Why, How: Divergent Thinking
+                    - [ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+                - [ ] What, Why, How: Convergent Thinking
+                - [ ] What, Why, How: Communicating within Roam
+            - [ ] What, Why, How: Defining Types of Relationships
+                - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
+                    - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
+            - 
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) [Active](<Active.md>)
-    - "[Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? "
-    - "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
+    - [ ] "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
+    - "[ ] Draft & finalize Sprint template"
+        - [ ] "[Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? "
+    - "[ ] Draft & finalize Epic template"
 - Onboarding new contributors [Proposed](<Proposed.md>)
     - [Q](<Q.md>) How to onboard new contributors to Roam Collective?
 

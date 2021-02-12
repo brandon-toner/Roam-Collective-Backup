@@ -9,6 +9,10 @@
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
             - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
+                - #Scratchpad #not_populated
+                - #Sprints #not_populated
+                - #Conversation #not_populated
+                - #Bookmarks #not_populated
             - ---
 - Personal Queries
     - Questions
@@ -19,5 +23,8 @@
         - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes
         - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] [[42SmartBlock]] }}  }}}
+    - Query on keywords
+        - {{[[query]]: {and: [[Charles Farr]] [[taxonomy]] {not: {or: [[query]] }}  }}}
 - Personal Shortcuts
     - [[datalog experimentation]]
+    - [@ mentions for me]([[@[[Charles Farr]]]])

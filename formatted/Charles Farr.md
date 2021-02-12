@@ -9,6 +9,10 @@
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
             - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+                - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+                - [Sprints](<Sprints.md>) [not_populated](<not_populated.md>)
+                - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+                - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
             - ---
 - Personal Queries
     - Questions
@@ -19,8 +23,11 @@
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) [42SmartBlock](<42SmartBlock.md>) }}  }}}
+    - Query on keywords
+        - {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [taxonomy](<taxonomy.md>) {not: {or: [query](<query.md>) }}  }}}
 - Personal Shortcuts
     - [datalog experimentation](<datalog experimentation.md>)
+    - [@ mentions for me]([@[[Charles Farr](<@[[Charles Farr.md>)]])
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
@@ -29,6 +36,8 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
+
+- {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - [Charles Farr](<Charles Farr.md>)
@@ -42,6 +51,9 @@
 - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[@[[Charles Farr](<@[[Charles Farr.md>)]]`, just not the `[Charles Farr](<Charles Farr.md>)`
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 12th, 2021](<February 12th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

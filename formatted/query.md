@@ -75,6 +75,10 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>)
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [taxonomy](<taxonomy.md>) {not: {or: [query](<query.md>)
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>):
 
@@ -84,6 +88,9 @@
 - {{[query](<query.md>):
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
+- "{{[query](<query.md>):
+
+## [February 12th, 2021](<February 12th, 2021.md>)
 - "{{[query](<query.md>):
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

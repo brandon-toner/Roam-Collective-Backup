@@ -13,3 +13,4 @@
     - Contents:: #not_populated
     - Work Summary:: #not_populated ((Link to work related to this page from elsewhere in the graph))
         - [Charles' initial work mapping out this area](((6GfcqwQrI)))
+        - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

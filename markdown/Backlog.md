@@ -14,12 +14,21 @@
                 - Definitely a query of all the sprint involved
             - {{[[TODO]]}} Collate related questions → insert into outline
             - {{[[TODO]]}} Collate related ideas  → format into questions → insert into outline
-            - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
-                - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
-            - {{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
-            - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+            - {{[[TODO]]}} What, Why, How: Implementing a Zettelkasten
+                - {{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
+            - {{[[TODO]]}} What, Why, How: Collaborating within Roam
+                - {{[[TODO]]}} What, Why, How: Divergent Thinking
+                    - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+                - {{[[TODO]]}} What, Why, How: Convergent Thinking
+                - {{[[TODO]]}} What, Why, How: Communicating within Roam
+            - {{[[TODO]]}} What, Why, How: Defining Types of Relationships
+                - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
+                    - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
+            - 
 - [[Epics/Implement Agile Methodologies in Roam]] #Active
-    - "#Q How should pages for [[sprints]] be designed? "
-    - "#Q What are the most basic conventions required for effective participation?"
+    - {{[[TODO]]}} "#Q What are the most basic conventions required for effective participation?"
+    - "{{[[TODO]]}} Draft & finalize Sprint template"
+        - {{[[TODO]]}} "#Q How should pages for [[sprints]] be designed? "
+    - "{{[[TODO]]}} Draft & finalize Epic template"
 - Onboarding new contributors #Proposed
     - #Q How to onboard new contributors to Roam Collective?
