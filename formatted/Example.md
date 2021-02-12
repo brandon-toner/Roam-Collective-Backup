@@ -35,6 +35,10 @@
 - Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                     - **[Example](<Example.md>):**
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- Work done on questions and sprints are embedded on their relevant epics. 
+                        - **[Example](<Example.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**

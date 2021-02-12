@@ -1,4 +1,5 @@
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [zettelkasten](<zettelkasten.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>)
+- **[Related](<Related.md>):** [I](<I.md>), [Obs](<Obs.md>)
 
 # Backlinks
 ## [Antonette Laderas](<Antonette Laderas.md>)

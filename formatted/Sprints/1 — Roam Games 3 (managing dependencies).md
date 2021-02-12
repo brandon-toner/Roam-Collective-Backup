@@ -27,7 +27,7 @@
     - **[Tasks](<../Tasks.md>):** [not_populated](<../not_populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):** 
             - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<../TODO.md>)}}}
-    - **[Contribution Log](<../Contribution Log.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
+    - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         1. [February 11th, 2021](<../February 11th, 2021.md>) 
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
                 - "Pages for submissions, organized by challenge, with links to tweets/work & authors "
@@ -59,6 +59,9 @@
 - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
+## [February 12th, 2021](<February 12th, 2021.md>)
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)

@@ -27,7 +27,7 @@
     - Tasks:: #not_populated ((Replace ex-A with the sprint page name))
         - Query:: 
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[TODO]]}}}
-    - Contribution Log::  ((Include your name, the date, a description of the work, and a link to the work))
+    - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
         1. [[February 11th, 2021]] 
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
                 - "Pages for submissions, organized by challenge, with links to tweets/work & authors "

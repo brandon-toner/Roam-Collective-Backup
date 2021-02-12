@@ -1,0 +1,15 @@
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+    - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):** Adapted from Charles' block-level question.
+    - **[References](<References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
+        - "[Q](<Q.md>) What does an [agile](<agile.md>) approach look like for Roam Collective?"
+    - **[Resources](<Resources.md>):**
+        - [[[R:](<[[R:.md>) Agile Product Management in Roam]]
+    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
+        - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
+    - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Work Summary](<Work Summary.md>):** [not_populated](<not_populated.md>) ((Link to work related to this page from elsewhere in the graph))
+        - [Charles' initial work mapping out this area](((6GfcqwQrI)))

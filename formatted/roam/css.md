@@ -1818,6 +1818,22 @@ span.rm-page-ref[data-tag="Observations"] {
 span.rm-page-ref[data-tag="Observations"]:before {
     content: '👀'
 }```
+                - `#[Obs](<../Obs.md>) (Observations)
+                    - ```css
+span.rm-page-ref[data-tag="Obs"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Obs"]:before {
+    content: '👀'
+}```
                 - `[Conventions](<../Conventions.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conventions"] {

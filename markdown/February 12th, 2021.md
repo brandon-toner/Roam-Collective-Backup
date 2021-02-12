@@ -1,0 +1,38 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - #Scratchpad 
+        - [[[[Q:]] How could an "[[agile]]" approach to collaboration be implemented in Roam Collective?]]
+        - Thoughts:: `Work Summary` attribute
+            - Purpose: to orient team members working on the question/sprint/epic
+            - A place to log/link to related work elsewhere in the database.
+            - #Q How do you prevent the need to duplicate the log in several places in the graph?
+                - Solution:: Block embeds.
+                    - Work done on questions and sprints are embedded on their relevant epics. 
+                        - Example:: [here](((fPjw916JP)))
+                    - Work on pages related to a sprint are embedded on the sprint.
+        - Feeling the need for some other block-level tag like "observation" maybe...
+            - Right now, I use Q and I — but I'd like to be able to log simple observations
+                - These could be statements/problems about the way things are. 
+                - This would serve as an important anchor for driving the dialogue between A and A.
+            - Proposed workflow:
+                - Make **observation**
+                - Phrase as **question**
+                    - Document Q-pages as they arise.
+                - Come up with some related **ideas**
+                    - Document FN, SDL, etc as they arise. 
+                - Cycles naturally through these, inviting collaboration as necessary.
+            - Testing it out: #Obs
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks #not_populated
+    - #Conversation #not_populated
+    - #[[Change Log]] 
+        1. Upgraded [Charles]([[@[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+- ---

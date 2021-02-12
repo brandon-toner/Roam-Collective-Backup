@@ -1,1 +1,2 @@
-- Tags:: #Collections #zettelkasten
+- Tags:: #Collections
+- Related:: #I, #Obs

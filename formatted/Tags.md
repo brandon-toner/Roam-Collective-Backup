@@ -109,6 +109,9 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Tags](<Tags.md>):**
 
+## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
 - **[Tags](<Tags.md>):**
 
@@ -218,6 +221,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Next Steps](<Next Steps.md>)
+- **[Tags](<Tags.md>):**
+
+## [Obs](<Obs.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Observations](<Observations.md>)
@@ -459,6 +465,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
+- **[Tags](<Tags.md>):**
+
+## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)

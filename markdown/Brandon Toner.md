@@ -34,6 +34,11 @@
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+            - #Scratchpad #not_populated
+            - #[[The Zettelkasten]] #not_populated
+            - #Bookmarks #not_populated
+            - #Conversation #not_populated
+            - #[[Change Log]] #not_populated
         - ---
     - Mentions (BT)
     - BToner — Andy's Notes #42SmartBlock #roam/templates

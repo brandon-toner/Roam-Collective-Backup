@@ -1,4 +1,5 @@
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Status](<Status.md>)/Experimental [Conventions](<Conventions.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Conventions](<Conventions.md>)
+- **[Related](<Related.md>):** [Q](<Q.md>) [Obs](<Obs.md>)
 - ---
 - `[I](<I.md>)` Query
     - [minimal](<minimal.md>) {{[query](<query.md>): {and: [I](<I.md>)  {not: {or: [query](<query.md>) }}  }}}

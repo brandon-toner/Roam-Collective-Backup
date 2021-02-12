@@ -9,6 +9,10 @@
 - [Draft Sprints template](((tG1HJs2dK)))
         - **[Thoughts](<Thoughts.md>):**
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- [[[Q:](<[[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?]]
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

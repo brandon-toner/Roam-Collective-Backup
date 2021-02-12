@@ -6,4 +6,4 @@
     - **Sprints:**
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
     - Resources:: #not_populated
-    - Contribution Log:: #not_populated ((Include your name, the date, a description of the work, and a link to the work))
+    - Work Summary:: #not_populated ((Include your name, the date, a description of the work, and a link to the work))

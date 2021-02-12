@@ -32,6 +32,10 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
+## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
+- [[[R:](<[[R:.md>) Agile Product Management in Roam]]
+    - **[Related](<Related.md>):**
+
 ## [FAQ](<FAQ.md>)
 - **[Related](<Related.md>):**
 
@@ -67,6 +71,10 @@
 
 ## [Fleeting Notes](<Fleeting Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
+- **[Related](<Related.md>):**
+
+## [I](<I.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Conventions](<Conventions.md>)
 - **[Related](<Related.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
@@ -150,6 +158,10 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**
 
+## [Obs](<Obs.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Status](<Status.md>)/Experimental
+- **[Related](<Related.md>):**
+
 ## [People](<People.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**
@@ -161,6 +173,10 @@
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Date Created](<Date Created.md>):** [January 28th, 2021](<January 28th, 2021.md>) 
     - **[Related](<Related.md>):**
+
+## [Q](<Q.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>)
+- **[Related](<Related.md>):**
 
 ## [Queries](<Queries.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
@@ -295,6 +311,10 @@
 
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):**
+
+## [[Q:](<[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?.md>)
+- [[[R:](<[[R:.md>) Agile Product Management in Roam]]
     - **[Related](<Related.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)

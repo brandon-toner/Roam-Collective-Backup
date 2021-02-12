@@ -3,6 +3,9 @@
 ## [Announcements](<Announcements.md>)
 - Check the #[Change Log](<Change Log.md>)
 
+## [Brandon Toner](<Brandon Toner.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [DNP Modules](<DNP Modules.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -10,6 +13,9 @@
 - #[Change Log](<Change Log.md>)
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
+## [February 12th, 2021](<February 12th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

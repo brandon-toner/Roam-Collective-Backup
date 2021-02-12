@@ -6,7 +6,7 @@
     - **Sprints:**
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
     - **[Resources](<../Resources.md>):** [not_populated](<../not_populated.md>)
-    - **[Contribution Log](<../Contribution Log.md>):** [not_populated](<../not_populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
+    - **[Work Summary](<../Work Summary.md>):** [not_populated](<../not_populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
 
 # Backlinks
 ## [Backlog](<Backlog.md>)

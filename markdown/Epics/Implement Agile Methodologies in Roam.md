@@ -1,1 +1,12 @@
-- 
+- Tags:: #Epics
+    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Date Range:: #not_populated
+    - Description:: #not_populated
+    - Status:: [[Status/Active]]
+    - Resources:: 
+        - [[[[R:]] Agile Product Management in Roam]]
+    - Related:: 
+        - [[[[Q:]] How could an "[[agile]]" approach to collaboration be implemented in Roam Collective?]]
+    - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
+        1. Embedded work from `[[[[Q:]] How could an "[[agile]]" approach to collaboration be implemented in Roam Collective?]]`:
+            - {{[[embed]]: ((hERIWAO3v))}}

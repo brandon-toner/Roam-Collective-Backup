@@ -1,0 +1,38 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - [Scratchpad](<Scratchpad.md>) 
+        - [[[Q:](<[[Q:.md>) How could an "[agile](<agile.md>)" approach to collaboration be implemented in Roam Collective?]]
+        - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute
+            - Purpose: to orient team members working on the question/sprint/epic
+            - A place to log/link to related work elsewhere in the database.
+            - [Q](<Q.md>) How do you prevent the need to duplicate the log in several places in the graph?
+                - **[Solution](<Solution.md>):** Block embeds.
+                    - Work done on questions and sprints are embedded on their relevant epics. 
+                        - **[Example](<Example.md>):** [here](((fPjw916JP)))
+                    - Work on pages related to a sprint are embedded on the sprint.
+        - Feeling the need for some other block-level tag like "observation" maybe...
+            - Right now, I use Q and I — but I'd like to be able to log simple observations
+                - These could be statements/problems about the way things are. 
+                - This would serve as an important anchor for driving the dialogue between A and A.
+            - Proposed workflow:
+                - Make **observation**
+                - Phrase as **question**
+                    - Document Q-pages as they arise.
+                - Come up with some related **ideas**
+                    - Document FN, SDL, etc as they arise. 
+                - Cycles naturally through these, inviting collaboration as necessary.
+            - Testing it out: [Obs](<Obs.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. Upgraded [Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+- ---
