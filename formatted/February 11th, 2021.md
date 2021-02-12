@@ -11,7 +11,7 @@
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - **[Active Sprint](<Active Sprint.md>):** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What do you do if a sprint is also a question? 
             - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
