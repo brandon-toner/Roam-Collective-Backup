@@ -39,6 +39,9 @@
                 - **[I.e. could build a query to identify pages with `Tags](<I.e. could build a query to identify pages with `Tags.md>):**` + `{collection name}`
         - [Observations](<Observations.md>)
             - When summarizing my work by posting to the Sprint Contribution log, I'm tempted to ALSO post to `The Main Feed`. I didn't post to the feed, but then thought maybe something should be there to direct a user to where to find updates...
+        - Notes from [RC Meetup (Feb 10)](<RC Meetup (Feb 10).md>)
+    - #[Bug Reports](<Bug Reports.md>)
+        - Unread block notifications are hard to clear occasionally.
     - [Mindsweep](<Mindsweep.md>)
         - Sprints & Epics
         - Evergreen note progression

@@ -156,7 +156,7 @@
                 - Quotes from education and technology professors expressing an urgency for technology in English classrooms (Hook/Ethos) 
                     - #Examples #rhetoric #exordium #introduction #hook
                 - Of course, you probably should not include all of these types of appeals in the opening section of your argument—if you do, you may end up with a boring, overlong introduction that doesn’t function well as a hook. Instead, consider using some of these points as evidence later on. Ask yourself: What will be most important to my audience? What information will most likely result in the action I want to bring about? Think about which appeal will work best to gain the attention of your intended audience and start there. 
-        - [[[[Roam Collaborative Meetup]] No. 1]] #[[Meetings & Discussions]] #Agenda
+        - [[[[RC Meetup]] (Feb 10)]] #[[Meetings & Discussions]] #Agenda
             - Overview & Welcome
             - Gathering feedback and user experience
             - Review of core conventions 

@@ -39,6 +39,9 @@
                 - I.e. could build a query to identify pages with `Tags::` + `{collection name}`
         - #Observations
             - When summarizing my work by posting to the Sprint Contribution log, I'm tempted to ALSO post to `The Main Feed`. I didn't post to the feed, but then thought maybe something should be there to direct a user to where to find updates...
+        - Notes from [[RC Meetup (Feb 10)]]
+    - #[[Bug Reports]]
+        - Unread block notifications are hard to clear occasionally.
     - #Mindsweep
         - Sprints & Epics
         - Evergreen note progression

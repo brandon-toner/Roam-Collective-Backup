@@ -31,7 +31,7 @@
 - " 20:19 — Brief [Clubhouse](<Clubhouse.md>) conversation with [Akiff Premjee](<Akiff Premjee.md>), [Charles Farr](<Charles Farr.md>) & others. #[Meetings & Discussions](<Meetings & Discussions.md>)"
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- [[[Roam Collaborative Meetup](<[[Roam Collaborative Meetup.md>) No. 1]] #[Meetings & Discussions](<Meetings & Discussions.md>)
+- [[[RC Meetup](<[[RC Meetup.md>) (Feb 10)]] #[Meetings & Discussions](<Meetings & Discussions.md>)
 
 ## [roam/css](<roam/css.md>)
 - `#[Meetings & Discussions](<Meetings & Discussions.md>)
