@@ -90,7 +90,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
                     - #[Fleeting Notes](<Fleeting Notes.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>)) are almost like [likes](<likes.md>) in other social platforms. 
                     - #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
-        - **[Thoughts](<Thoughts.md>):** [voting](<voting.md>) mechanism [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - **[Thoughts](<Thoughts.md>):** [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])
             - **Methods:**
                 - Via block ref count
                 - Via emoji reactions
@@ -106,7 +106,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                         - Using the `top-level parent` block
         - [Q](<Q.md>) How do we tag suggested or draft processes and conventions?[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - I'm hesitant to tag with [Processes](<Processes.md>) or [Conventions](<Conventions.md>) as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
-                - **[Example](<Example.md>):** "Thoughts:: [voting](<voting.md>) mechanism [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
+                - **[Example](<Example.md>):** "Thoughts:: [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])"
         - [Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? 
         - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))
             - [I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.

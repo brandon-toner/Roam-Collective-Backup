@@ -118,6 +118,10 @@
                 - in tension with
                 - analogous to
                 - related to
+        - #Q What are the types of [[evidence]]?
+            - That can be used to formulate a claim or a belief — explicitly or implicitly.
+            - Related:: [[supported by]]
+            - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
     - #Bookmarks #not_populated
@@ -156,7 +160,7 @@
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
         - On conventions
-            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([[@[[Charles Farr]]]])[@]([[@[[Peter Rosso]]]])
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([[~[[Charles Farr]]]])[@]([[@[[Peter Rosso]]]])
                 - #Q How can we improve our onboarding messaging to dismiss this fear. 
                     - I consider it hard to "break" the graph. 
                     - Levels of "jumping in" #Drafts #Outlines
@@ -177,7 +181,7 @@
                     - #I Make CORE conventions very obvious. 
                         - Establish a hierarchy of conventions. Most important to least important.
                     - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
-                    - #I What about a new-member stamp-card type challenge  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+                    - #I What about a new-member stamp-card type challenge  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
                         - A set of simple activities to try that walk the new user through various conventions in the graph
                             - Examples::
                                 - Create your DNP Section
@@ -244,7 +248,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points
@@ -265,7 +269,32 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                         - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
         - #Q How do you balance the energy required to adhere to conventions with the value said conventions provide?
         - On the foundations of statement chains...
-            - 
+            - [[Conor]] mentioned that he thinks of education as a series of [[statement chains]]
+                - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
+                - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
+            - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
+                - #Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[[E:]] prepositional linkages]] & phrases
+                - Relates to
+                    - "in tension with"
+                    - "analogous to"
+                    - "related to"
+                - Supports
+                    - Supports
+                        - Supported By
+                    - Strengthens
+                        - Strengthened by
+                    - Example
+                - Disproves
+                    - Disproves
+                        - Disproved By
+                    - Challenges
+                        - Challenged By
+                    - Weakens
+                        - Weakened By
+                    - Counter-example
+            - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
+            - [[[[E:]] prepositional linkages]]
     - #Conversation
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([[~[[Brandon Toner]]]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
@@ -292,6 +321,11 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([[@[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
+            - [@B]([[@[[Brandon Toner]]]]) [@P]([[@[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
+                - Would add a few prompts to ask them to respond to:
+                    - What do you love about Roam? What do you wish was better?
+                    - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?
+                    - 
     - #Bookmarks
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
         - "Thoughts:: [[[[E:]] prepositional linkages]]"

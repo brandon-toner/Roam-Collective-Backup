@@ -118,6 +118,10 @@
                 - in tension with
                 - analogous to
                 - related to
+        - [Q](<Q.md>) What are the types of [evidence](<evidence.md>)?
+            - That can be used to formulate a claim or a belief — explicitly or implicitly.
+            - **[Related](<Related.md>):** [supported by](<supported by.md>)
+            - **[Resources](<Resources.md>):** https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -156,7 +160,7 @@
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
         - On conventions
-            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])[@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])[@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
                 - [Q](<Q.md>) How can we improve our onboarding messaging to dismiss this fear. 
                     - I consider it hard to "break" the graph. 
                     - Levels of "jumping in" [Drafts](<Drafts.md>) [Outlines](<Outlines.md>)
@@ -177,7 +181,7 @@
                     - [I](<I.md>) Make CORE conventions very obvious. 
                         - Establish a hierarchy of conventions. Most important to least important.
                     - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
-                    - [I](<I.md>) What about a new-member stamp-card type challenge  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+                    - [I](<I.md>) What about a new-member stamp-card type challenge  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
                         - A set of simple activities to try that walk the new user through various conventions in the graph
                             - **[Examples](<Examples.md>):**
                                 - Create your DNP Section
@@ -244,7 +248,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
+- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:😴 Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) of tentative Story points
@@ -265,7 +269,32 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                         - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
         - [Q](<Q.md>) How do you balance the energy required to adhere to conventions with the value said conventions provide?
         - On the foundations of statement chains...
-            - 
+            - [Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)
+                - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
+                - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
+            - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
+                - [Q](<Q.md>) What are the [fundamental](<fundamental.md>) [linkage](<linkage.md>) / [connection](<connection.md>) types for pieces of [knowledge](<knowledge.md>)?
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[E:](<[[E:.md>) prepositional linkages]] & phrases
+                - Relates to
+                    - "in tension with"
+                    - "analogous to"
+                    - "related to"
+                - Supports
+                    - Supports
+                        - Supported By
+                    - Strengthens
+                        - Strengthened by
+                    - Example
+                - Disproves
+                    - Disproves
+                        - Disproved By
+                    - Challenges
+                        - Challenged By
+                    - Weakens
+                        - Weakened By
+                    - Counter-example
+            - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
+            - [[[E:](<[[E:.md>) prepositional linkages]]
     - [Conversation](<Conversation.md>)
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
@@ -292,6 +321,11 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [taxonomy](<taxonomy.md>) of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
+                - Would add a few prompts to ask them to respond to:
+                    - What do you love about Roam? What do you wish was better?
+                    - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?
+                    - 
     - [Bookmarks](<Bookmarks.md>)
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
         - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"

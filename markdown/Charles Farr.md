@@ -4,12 +4,12 @@
         - Website:: [Foundation.al — personal blog](https://thefoundation.al)
         - Location:: Chicago, IL
         - Time Zone:: Central Time (GMT –6:00)
-    - Status::  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - Status::  {{or:😴 Offline | 🟢Online | 🟠Away}}
 - :hiccup [:hr]
 - Personal Artifacts
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
-            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
+            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:😴 Offline | 🟢Online | 🟠Away}}"
                 - #Scratchpad #not_populated
                 - #Conversation #not_populated
                 - #Bookmarks #not_populated

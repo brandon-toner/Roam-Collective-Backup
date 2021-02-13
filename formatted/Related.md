@@ -43,6 +43,9 @@
 - Sprints are the manageable units of work associated with an epic.[*]([Definitions](<Definitions.md>))
                     - **[Related](<Related.md>):**
 
+- That can be used to formulate a claim or a belief — explicitly or implicitly.
+            - **[Related](<Related.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**

@@ -90,7 +90,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
                     - #[[Fleeting Notes]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
                     - #[[Fleeting Notes]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
-        - Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])
+        - Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])
             - **Methods:**
                 - Via block ref count
                 - Via emoji reactions
@@ -106,7 +106,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                         - Using the `top-level parent` block
         - #Q How do we tag suggested or draft processes and conventions?[*]([[~[[Charles Farr]]]])
             - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
-                - Example:: "Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])"
+                - Example:: "Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])"
         - #Q How should pages for [[sprints]] be designed? 
         - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
             - #I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.

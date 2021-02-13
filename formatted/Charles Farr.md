@@ -4,12 +4,12 @@
         - **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
         - **[Location](<Location.md>):** Chicago, IL
         - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
-    - **[Status](<Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+    - **[Status](<Status.md>):**  {{or:😴 Offline | 🟢Online | 🟠Away}}
 - :hiccup [:hr]
 - Personal Artifacts
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
-            - **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
+            - **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:😴 Offline | 🟢Online | 🟠Away}}"
                 - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
                 - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)

@@ -20,6 +20,9 @@
 
 - #[Change Log](<Change Log.md>)
 
+## [February 13th, 2021](<February 13th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
