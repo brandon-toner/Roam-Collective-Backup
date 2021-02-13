@@ -9,6 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
+    - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -33,7 +34,7 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
             - #Scratchpad #not_populated
             - #[[The Zettelkasten]] #not_populated
             - #Bookmarks #not_populated
@@ -56,4 +57,4 @@
             - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
     - BToner — ChatName #42SmartBlock #roam/templates
-        - **Brandon:**
+        - **Brandon:** 

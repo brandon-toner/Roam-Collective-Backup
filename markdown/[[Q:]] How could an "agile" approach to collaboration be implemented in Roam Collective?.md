@@ -1,5 +1,5 @@
 - Tags:: #Questions #[[agile development]]
-    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Date Created:: [[February 12th, 2021]]
     - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
     - Created by:: [[Brandon Toner]]
     - Author:: Adapted from Charles' block-level question.
@@ -7,10 +7,10 @@
         - "#Q What does an [[agile development]] approach look like for Roam Collective?"
     - Resources::
         - [[[[R:]] Agile Product Management in Roam]]
-    - Related:: #not_populated ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
+    - Related::
         - [[Epics/Implement Agile Methodologies in Roam]]
     - Next Steps:: #not_populated ((Plans for future elaboration or development))
     - Contents:: #not_populated
-    - Work Summary:: #not_populated ((Link to work related to this page from elsewhere in the graph))
+    - Work Summary:: 
         - [Charles' initial work mapping out this area](((6GfcqwQrI)))
         - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

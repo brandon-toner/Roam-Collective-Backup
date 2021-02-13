@@ -12,6 +12,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -57,7 +61,7 @@
     - **[About me](<About me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- {{or:🚫 offline | 🟢Online | 🟠Away}}
     - **[About me](<About me.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)

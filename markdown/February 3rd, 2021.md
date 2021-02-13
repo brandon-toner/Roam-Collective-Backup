@@ -25,7 +25,7 @@
                     - Imported to personal graph
                     - Copied in missing pieces.
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) 😴 offline, back tomorrow
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Observations
             - The [[[[Roam Book Club]] III]] graph looks AMAZING! #Examples

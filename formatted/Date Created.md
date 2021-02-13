@@ -41,7 +41,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
@@ -116,6 +116,10 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Rules of Thumb](<Rules of Thumb.md>) [Principles](<Principles.md>)
     - **[Date Created](<Date Created.md>):**
@@ -141,7 +145,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Seedlings](<Seedlings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
@@ -149,11 +153,19 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>), [mutually exclusive](<mutually exclusive.md>), [Concepts](<Concepts.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
@@ -161,6 +173,10 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 

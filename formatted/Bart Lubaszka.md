@@ -1,0 +1,78 @@
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):** 
+        - **[Twitter](<Twitter.md>):** [@bartlubaszka](https://www.twitter.com/bartlubaszka) 
+        - **[Website](<Website.md>):** [bart.lubaszka.me](https://bart.lubaszka.me)
+        - **[Location](<Location.md>):** [Wrocław](<Wrocław.md>), [Poland](<Poland.md>)
+        - **[Work](<Work.md>):** English Teacher for British Council
+        - **[How to contact me](<How to contact me.md>):**
+            - Send me a DM on Twitter
+        - Received education at [University of Birmingham](<University of Birmingham.md>) and [Full Sail University](<Full Sail University.md>)
+        - Roles:
+            - father of two girls
+            - husband
+            - teacher of English
+            - student of English Language and Applied Linguistics
+            - aspiring action researcher and academic writer
+            - insight meditation teacher
+            - guitarist
+            - aspiring stoic
+            - helper
+            - manager of a modern zettlekasten system
+        - I started using [Roam](<Roam.md>) in [October 2020](<October 2020.md>)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FCfvGNUDDfL.jpg?alt=media&token=23d47e52-9e5f-4742-b225-ec369331f7a1)
+        - Some of my [Roam](<Roam.md>) related work:
+            - I'd love to fill these lines but for now I'm a user and a learner.
+                - I'm a believer for I can see clearly where I'm coming from, where I'm at and where I want to go. We aren't doing the mundane here. We are reaching for the stars and they're within our reach because we have the will and the tools. We all feel this to some extent or we wouldn't proudly be the [roamcult](<roamcult.md>). I've been seeking this for years and my first quarter spent with Roam has proven that it is the right tool. I've come far. I'm at a precipice now. I can fall off or climb the rest of the mountain. All that is left is to continue to learn best practices and build a rock solid habit.
+                - My work is in participation and in doing the work within Roam itself. 
+                - I hope to contribute to the community one day
+        - **[Interests](<Interests.md>):**
+            - Roaming
+            - Wandering
+            - Reading
+            - Writing
+            - my kids
+            - mountains
+                - hiking
+                - camping
+                - trekking 
+            - seas and oceans
+                - swimming
+                - scuba diving
+                - snorkelling
+                - flying kites
+            - running
+            - spirituality
+                - meditation practice and mindfulness
+                - Yoga practice for holistic health
+                - stoic practice and improving myself 
+            - food and drink
+                - feasting on amazing food
+                - extended fasting
+                - coffee
+                    - fair trade
+                    - single origin
+                    - fresh
+                    - freshly, lightly roasted
+                    - freshly ground just before brewing
+                    - hand pour over brewing
+                        - V60
+                        - Aeropress
+            - music
+                - playing guitar
+                    - with my wife whom plays the piano
+                    - for my students
+                - watching and listening to live music
+            - teaching
+                - data driven learning
+                    - corpus linguistics
+                - creative writing
+                    - use Roam for choose your own adventure stories with learners
+                - academic writing
+                    - use Roam for collaborative writing with learners
+                    - use Roam for progressive summarisation strategies with learners
+- ---
+
+# Backlinks
+## [Directory](<Directory.md>)
+- [Bart Lubaszka](<Bart Lubaszka.md>)
+

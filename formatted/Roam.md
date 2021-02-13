@@ -3,6 +3,11 @@
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - I started using [Roam](<Roam.md>)
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- I started using [Roam](<Roam.md>)
+
+- Some of my [Roam](<Roam.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - We could get context easily within [Roam](<Roam.md>),
 

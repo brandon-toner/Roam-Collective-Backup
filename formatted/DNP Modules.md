@@ -46,6 +46,9 @@
 ## [Dice Roll](<Dice Roll.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) #[DNP Modules](<DNP Modules.md>)
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>)
+
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
@@ -92,6 +95,9 @@
 - Questions as one of the [DNP Modules](<DNP Modules.md>)
 
 - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>))
+
+## [Wade Dominic](<Wade Dominic.md>)
+- For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
 - Proper use of the [DNP Modules](<DNP Modules.md>).

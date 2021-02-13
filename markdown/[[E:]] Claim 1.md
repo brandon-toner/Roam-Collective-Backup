@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreens]]
+- Tags:: #[[Evergreens]] #Examples
     - Date Created:: [[February 12th, 2021]]
     - Last Updated:: [[February 12th, 2021]]
     - Created by:: [[Brandon Toner]]

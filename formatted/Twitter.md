@@ -12,6 +12,10 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- **[About me](<About me.md>):** 
+        - **[Twitter](<Twitter.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**

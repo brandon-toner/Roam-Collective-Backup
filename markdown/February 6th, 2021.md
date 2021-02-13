@@ -32,7 +32,7 @@
     - in an [[Interintellect]] salon today, [[Matthew Vogel]] drew me back into this collective.
     - still not sure how to use the daily template, but i'm gonna start dropping thoughts. 
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad
         - Drafting: [[Summary/of maturity of notes]]
             - "Summary — {{word-count}}"
@@ -110,7 +110,7 @@
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - On [[proximity]] and [[synthesis]].
             - Ideas start small and grow. 

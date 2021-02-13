@@ -42,6 +42,9 @@
 ## [Backlog](<Backlog.md>)
 - **[Tags](<Tags.md>):**
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Bookmarks](<Bookmarks.md>)
 - **[Tags](<Tags.md>):**
 
@@ -359,6 +362,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [Wade Dominic](<Wade Dominic.md>)
+- ---
 - **[Tags](<Tags.md>):**
 
 ## [Waiting](<Waiting.md>)
@@ -446,6 +450,9 @@
 ## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
 - **[Tags](<Tags.md>):**
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Tags](<Tags.md>):**
+
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - **[Tags](<Tags.md>):**
 
@@ -476,6 +483,12 @@
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Tags](<Tags.md>):**
 
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Tags](<Tags.md>):**
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Tags](<Tags.md>):**
+
 ## [[Feedback](<[Feedback.md>): What could be better](<[Feedback](<Feedback.md>): What could be better.md>)
 - **[Tags](<Tags.md>):**
 
@@ -489,6 +502,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Tags](<Tags.md>):**
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
@@ -573,7 +589,7 @@
 ## [linked references](<linked references.md>)
 - **[Tags](<Tags.md>):**
 
-## [mutually-exclusive](<mutually-exclusive.md>)
+## [mutually exclusive](<mutually exclusive.md>)
 - **[Tags](<Tags.md>):**
 
 ## [namespaces](<namespaces.md>)

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 12th, 2021](<February 12th, 2021.md>)
+- [@Peter]([@[[Peter Rosso](<../@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<../~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
 

@@ -16,3 +16,7 @@
 - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - **[Work Summary](<Work Summary.md>):**
 
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Work Summary](<Work Summary.md>):**
+

@@ -62,7 +62,7 @@ Resolve by "[replace as text](<replace as text.md>)"
 - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - **[Image](<Image.md>):**
 
-## [mutually-exclusive](<mutually-exclusive.md>)
-- **[Related](<Related.md>):** [venn diagrams](<venn diagrams.md>), [conventions](<conventions.md>)
+## [mutually exclusive](<mutually exclusive.md>)
+- **[Related](<Related.md>):** [venn diagrams](<venn diagrams.md>), [conventions](<conventions.md>), [[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]]
 - **[Image](<Image.md>):**
 

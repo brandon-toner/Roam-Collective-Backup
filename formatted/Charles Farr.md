@@ -4,11 +4,12 @@
         - **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
         - **[Location](<Location.md>):** Chicago, IL
         - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
+    - **[Status](<Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
 - :hiccup [:hr]
 - Personal Artifacts
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
-            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+            - **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
                 - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
                 - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -18,6 +19,8 @@
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Follow Ups
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
+    - Bookmarks
+        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not_populated](<not_populated.md>) }}  }}}
     - Todos
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
@@ -53,6 +56,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
+- **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
+        - **[Charles Farr](<Charles Farr.md>):**
+
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
@@ -193,6 +199,14 @@
 
 ## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
 - [Charles Farr](<Charles Farr.md>)
+
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (on behalf of [Charles Farr](<Charles Farr.md>))
+
+- **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)

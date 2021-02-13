@@ -38,6 +38,16 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
+- #[Fleeting Notes](<Fleeting Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>)
 
@@ -505,6 +515,11 @@
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
 
 ## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>)
+
 - "#[Fleeting Notes](<Fleeting Notes.md>)
 
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)

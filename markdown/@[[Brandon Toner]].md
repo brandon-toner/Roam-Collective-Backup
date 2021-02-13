@@ -1,2 +1,2 @@
-- {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: [[query]]]}}}}
+- {{[[query]]: {and: [[@[[Brandon Toner]]]] {not:{or: [[query]] [[42SmartBlock]]}}}}}
 - {{[[query]]: {and: [[cc:[[Brandon Toner]]]] {not: [[query]]]}}}}

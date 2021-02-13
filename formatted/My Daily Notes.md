@@ -57,6 +57,8 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -283,6 +285,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [Stefan Natter](<Stefan Natter.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [Wade Dominic](<Wade Dominic.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [roam/css](<roam/css.md>)

@@ -370,7 +370,7 @@
 ## [just-in-time](<just-in-time.md>)
 - **[Related](<Related.md>):**
 
-## [mutually-exclusive](<mutually-exclusive.md>)
+## [mutually exclusive](<mutually exclusive.md>)
 - **[Tags](<Tags.md>):** [Concepts](<Concepts.md>)
 - **[Related](<Related.md>):**
 

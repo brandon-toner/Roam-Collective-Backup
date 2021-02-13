@@ -7,7 +7,6 @@
     - Relevant Notes:: #not_populated ((Not a reference, but a related idea, block or page))
         - Query
             - {{[[query]]: {and: [[supported by]] [[[[E:]] Claim 2]]}}}
-            - [[supported by]] AND [[[[E:]] Claim 2]]
         - supported by:: [[[[E:]] Claim 3]]
     - Next Steps:: #not_populated ((Plans for future elaboration or development))
     - Contents:: #not_populated

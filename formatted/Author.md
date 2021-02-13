@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
@@ -92,6 +92,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -132,6 +136,14 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'s reference
+    - **[Author](<Author.md>):**
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -140,11 +152,15 @@
 - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
     - **[Author](<Author.md>):**
 
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (on behalf of [Charles Farr](<Charles Farr.md>))
+    - **[Author](<Author.md>):**
+
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
     - **[Author](<Author.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

@@ -1,0 +1,13 @@
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>)
+    - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[References](<References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
+        - [Mark Robertson](<Mark Robertson.md>)'s array of connecting phrases in his graph [find-reference](<find-reference.md>)
+    - **[Relevant Notes](<Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):** 
+        - The connections between claims made explicit with page titles within a [zettelkasten](<zettelkasten.md>) or [knowledge base](<knowledge base.md>).
+        - Prepositional linkages are used to clarify **the nature of** the relationships between claims.
+        - Examples: "supported by" "challenged by" "relates to"

@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- I hope to contribute to the community one day
+        - **[Interests](<Interests.md>):**
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
         - **[Interests](<Interests.md>):**

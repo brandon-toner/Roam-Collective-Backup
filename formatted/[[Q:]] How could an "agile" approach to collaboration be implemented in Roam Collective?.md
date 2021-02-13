@@ -1,5 +1,5 @@
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
-    - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** Adapted from Charles' block-level question.
@@ -7,10 +7,10 @@
         - "[Q](<Q.md>) What does an [agile development](<agile development.md>) approach look like for Roam Collective?"
     - **[Resources](<Resources.md>):**
         - [[[R:](<[[R:.md>) Agile Product Management in Roam]]
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
+    - **[Related](<Related.md>):**
         - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
     - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
-    - **[Work Summary](<Work Summary.md>):** [not_populated](<not_populated.md>) ((Link to work related to this page from elsewhere in the graph))
+    - **[Work Summary](<Work Summary.md>):** 
         - [Charles' initial work mapping out this area](((6GfcqwQrI)))
         - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

@@ -4,6 +4,7 @@
     - [[Alysson M. Costa]]
     - [[Andy Henson]]
     - [[Antonette Laderas]]
+    - [[Bart Lubaszka]]
     - [[Deepu Asok]]
     - [[Eneko Uruñuela]]
     - [[Kyle Stratis]]

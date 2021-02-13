@@ -32,6 +32,10 @@
 - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies."
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
 - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
     - **[Next Steps](<Next Steps.md>):**
@@ -40,12 +44,24 @@
 - Use of context-based [rituals](<rituals.md>).
     - **[Next Steps](<Next Steps.md>):**
 
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Relevant Notes](<Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
     - **[Next Steps](<Next Steps.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
 - **Epics:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+    - **[Next Steps](<Next Steps.md>):**
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
     - **[Next Steps](<Next Steps.md>):**
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)

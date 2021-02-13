@@ -5,6 +5,9 @@
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [notifications](<notifications.md>).
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [notifications](<notifications.md>)[
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - "[Q](<Q.md>) How could [notifications](<notifications.md>)
 

@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Charles Farr](<Charles Farr.md>)
+- **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
+    - **[Status](<Status.md>):**
+
 ## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
 - **[Description](<Description.md>):** [not_populated](<not_populated.md>)
     - **[Status](<Status.md>):**
@@ -26,4 +30,8 @@
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FXrX08XM4wy.png?alt=media&token=42f9892d-4ddd-493b-af5d-3f09c59b1eae)
     - **[Status](<Status.md>):**
+
+## [Wade Dominic](<Wade Dominic.md>)
+- Send me a DM on Twitter (also great)
+        - **[Status](<Status.md>):**
 

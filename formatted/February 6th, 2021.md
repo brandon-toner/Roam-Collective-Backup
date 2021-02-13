@@ -32,7 +32,7 @@
     - in an [Interintellect](<Interintellect.md>) salon today, [Matthew Vogel](<Matthew Vogel.md>) drew me back into this collective.
     - still not sure how to use the daily template, but i'm gonna start dropping thoughts. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
         - Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
             - "Summary — {{word-count}}"
@@ -110,7 +110,7 @@
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>), [Roam42](<Roam42.md>), and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - On [proximity](<proximity.md>) and [synthesis](<synthesis.md>).
             - Ideas start small and grow. 

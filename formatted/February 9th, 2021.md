@@ -18,7 +18,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
             - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
@@ -139,7 +139,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                     - `[S:](<S:.md>)` pages have levels of maturity — `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`
                 - `[Q](<Q.md>)` / `[Questions](<Questions.md>)` / `[Q:](<Q:.md>)` — my knowledge graph is organized around answering one or multiple questions; essentially, questions are output oriented...
                     - Questions should be the most clearly articulated notes once polished, but can be used to generate speculative outlines as well
-                        - As such, question pages share the same maturity levels as [[S:](((i3KPQUiAr)))] pages
+                        - As such, question pages share the same maturity levels as [S:](((i3KPQUiAr))) pages
                 - `[Collection](<Collection.md>)` — general purpose speculative outlines that organize around a topic or concept, not a central question
             - Changes heavily inspired by "[Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]) — [Joel Chan](<Joel Chan.md>) — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
                 - Only real change is I added the `[Notion](<Notion.md>)` note class, which is most analogous to a Fleeting Note

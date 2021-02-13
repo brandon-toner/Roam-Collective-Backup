@@ -1,7 +1,7 @@
 - Tags:: #Seedlings
     - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
     - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
-    - Created by:: #not_populated
+    - Created by:: [[Brandon Toner]]
     - Author:: #not_populated
     - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not_populated ((Not a reference, but a related idea, block or page))

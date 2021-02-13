@@ -141,7 +141,7 @@ Monthly reviews could include a zoom catchup?
         - {{[[embed]]: ((r1FQAyh6N))}}
         - {{[[embed]]: ((jbnNi00AV))}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])  {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - Are we creating [[MSN Messenger]]? 😂 
             - Image::

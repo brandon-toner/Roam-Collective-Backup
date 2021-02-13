@@ -28,3 +28,6 @@
 ## [February 11th, 2021](<February 11th, 2021.md>)
 - [Backlog](<Backlog.md>)
 
+## [February 12th, 2021](<February 12th, 2021.md>)
+- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>))
+

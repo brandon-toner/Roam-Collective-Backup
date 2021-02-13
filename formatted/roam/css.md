@@ -1802,6 +1802,38 @@ span.rm-page-ref[data-tag="Members"] {
 span.rm-page-ref[data-tag="Members"]:before {
     content: '🔑'
 }```
+                - `[Proverbs](<../Proverbs.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Proverbs"] {
+    background: [9E9E9E](<../9E9E9E.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Proverbs"]:before {
+    content: '💫'
+}```
+                - `[Thoughts](<../Thoughts.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Thoughts"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Thoughts"]:before {
+    content: '💭'
+}```
                 - `[Observations](<../Observations.md>)
                     - ```css
 span.rm-page-ref[data-tag="Observations"] {
@@ -2316,15 +2348,20 @@ span.rm-page-ref[data-tag="Weather Report"]:before {
                     - Code
                         - ```css
 span[data-link-title^="@"] {
-        border: 2px solid [a76800](<../a76800.md>) !important;
+        border: 2px solid [B35555](<../B35555.md>) !important;
         padding: 3px 6px 3px 7px;
         margin-right: 1px;
-    line-height: 2em;
+    	line-height: 2em;
 } 
 
 span[data-link-title^="@"]:before {
     color: [000746](<../000746.md>) !important;
-    content: "🚨unread "
+    content: "🚨unread ";
+}
+
+span[data-link-title^="@[Everyone](<../Everyone.md>)"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "🚨🚨" !important;
 }
 
 span[data-link-title^="~"] {
@@ -4431,7 +4468,7 @@ a {
 .rm-block-ref > span:before {
   content: '| ';
   font-weight: 700;
-  color: [FF9800](<../FF9800.md>)
+  color: [607D8B](<../607D8B.md>)
 }```
         9. # Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
             - Example

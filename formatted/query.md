@@ -3,7 +3,7 @@
 ## [@[Brandon Toner](<Brandon Toner.md>)](<@[Brandon Toner](<Brandon Toner.md>).md>)
 - {{[query](<query.md>):
 
-- {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: [query](<query.md>)]
+- {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not:{or: [query](<query.md>)
 
 - {{[query](<query.md>):
 
@@ -64,6 +64,8 @@
 
 ## [Charles Farr](<Charles Farr.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>):
+
+- [min-title](<min-title.md>) {{[query](<query.md>):
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 

@@ -12,6 +12,10 @@
 - **[Website](<Website.md>):** [Nette's Blog](https://antonetteladeras.substack.com/)
         - **[Location](<Location.md>):**
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- **[Website](<Website.md>):** [bart.lubaszka.me](https://bart.lubaszka.me)
+        - **[Location](<Location.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
         - **[Location](<Location.md>):**

@@ -7,7 +7,6 @@
     - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
         - Query
             - {{[query](<query.md>): {and: [supported by](<supported by.md>) [[[E:](<[[E:.md>) Claim 2]]}}}
-            - [supported by](<supported by.md>) AND [[[E:](<[[E:.md>) Claim 2]]
         - **[supported by](<supported by.md>):** [[[E:](<[[E:.md>) Claim 3]]
     - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)

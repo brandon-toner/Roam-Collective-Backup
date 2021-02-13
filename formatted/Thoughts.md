@@ -19,6 +19,9 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):**
 
+- Idea of [[[E:](<[[E:.md>) prepositional linkages]]
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

@@ -1,4 +1,4 @@
-- Tags:: #[[Evergreens]] #Seedlings #[[inspired action]] #[[knowledge graphs]], #writing, #[[flow state]]
+- Tags:: #Seedlings #[[inspired action]] #[[knowledge graphs]], #writing, #[[flow state]]
     - Date Created:: [[January 30th, 2021]] 
     - Created by:: [[Brandon Toner]]
     - Author::  [[Brandon Toner]]

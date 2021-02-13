@@ -110,9 +110,6 @@
 ## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
-## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 

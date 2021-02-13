@@ -20,6 +20,10 @@
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>) 
     - **[Last Updated](<Last Updated.md>):**
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
 - **[Date Created](<Date Created.md>):** [February 3rd, 2021](<February 3rd, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
@@ -28,12 +32,24 @@
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
 - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<Last Updated.md>):**
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)

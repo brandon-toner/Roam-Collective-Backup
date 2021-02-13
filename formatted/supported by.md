@@ -9,8 +9,6 @@
 ## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
 - {{[query](<query.md>): {and: [supported by](<supported by.md>)
 
-- [supported by](<supported by.md>)
-
-- [supported by](<supported by.md>) AND [[[E:](<[[E:.md>) Claim 2]]
+- {{[query](<query.md>): {and: [supported by](<supported by.md>) [[[E:](<[[E:.md>) Claim 2]]}}}
         - **[supported by](<supported by.md>):**
 

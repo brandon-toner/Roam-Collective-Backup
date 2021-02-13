@@ -9,6 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
+    - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -33,7 +34,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -56,9 +57,12 @@
             - **Page:** <%PAGE%>
 {{[embed](<embed.md>): <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
     - BToner — ChatName [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - **Brandon:**
+        - **Brandon:** 
 
 # Backlinks
+## [12 Favorite Problems](<12 Favorite Problems.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -68,7 +72,7 @@
 - **[Editor](<Editor.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Announcements](<Announcements.md>)
-- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
 
 ## [Brandon Toner](<Brandon Toner.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
@@ -109,6 +113,8 @@
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [@]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
@@ -344,6 +350,11 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -381,7 +392,18 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>),
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
@@ -392,6 +414,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [complex page names](<complex page names.md>)
 - `[Brandon Toner](<Brandon Toner.md>)`
+
+## [falling between the cracks](<falling between the cracks.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [graph editors](<graph editors.md>)
 - Message [Brandon Toner](<Brandon Toner.md>)

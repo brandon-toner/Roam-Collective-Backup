@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
     - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>) 
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**  [Brandon Toner](<Brandon Toner.md>)

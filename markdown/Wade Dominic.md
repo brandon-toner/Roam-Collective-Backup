@@ -1,3 +1,5 @@
+- {{or:🚫 offline | 🟠Away | 🟢Online}}
+- ---
 - Tags:: #People #Members
     - About me::
         - Twitter:: [@groundedSAGE](https://twitter.com/groundedSAGE)
@@ -7,5 +9,14 @@
         - Birthday:: 
         - How to contact me:: 
             - Send me a DM on Twitter (also great)
-- 
-- "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[@[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+        - Status::
+- SmartBlocks::
+    - WDominic — .DNP Templatee #42SmartBlock #roam/templates
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+            - #Questions ((about the graph, or directed towards someone)) #not_populated
+            - #Conversation #not_populated
+            - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+            - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+        - ---
+- "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"

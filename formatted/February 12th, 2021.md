@@ -4,14 +4,16 @@
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - **Brandon:** [Thoughts on sprints, epics and breaking work into intermediate deliverables](((74aPTS1FT))).
+        - **Brandon:** [Thoughts on sprints, epics and breaking work into intermediate deliverables](((74aPTS1FT)))
+        - **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
+        - **[Charles Farr](<Charles Farr.md>):** Graph goal: make everything [MECE](((rIe6X12fA)))
     - [Chat](<Chat.md>) ((A place to propose objects of discussion))
         - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - [Scratchpad](<Scratchpad.md>) 
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
         - Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]])
             - Purpose: to orient team members working on the question/sprint/epic
@@ -54,14 +56,14 @@
                 - **[#[Fleeting Notes](<Fleeting Notes.md>) A `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>) and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[Fleeting Notes](<Fleeting Notes.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually-exclusive](<mutually-exclusive.md>) when a categorization decision is necessary?
-            - [Q](<Q.md>) What conventions should be [mutually-exclusive](<mutually-exclusive.md>)? 
+        - #[Fleeting Notes](<Fleeting Notes.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>) when a categorization decision is necessary?
+            - [Q](<Q.md>) What conventions should be [mutually exclusive](<mutually exclusive.md>)? 
                 - #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
-        - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
+        - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
             - Really, a Roam Games question feels big enough in scope for an Epic, but the time-frame pushes it to feel more at-home as a sprint.
-                - Maybe this addresses [this](((RJj8IZlGp)))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - Maybe this addresses [this](((RJj8IZlGp)))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - [Epics]([epics](<epics.md>)) = the thing to be developed/answered/accomplished
             - [Sprints]([sprints](<sprints.md>)) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
@@ -86,25 +88,35 @@
             - Epic = question
             - Sprint = group of tasks, the work
             - Story points = outline of components of the epic
-        - Prepositional Linkages
+            - Idea of [[[E:](<[[E:.md>) prepositional linkages]]
+        - **[Thoughts](<Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]
             - [[[E:](<[[E:.md>) Claim 1]]
             - [[[E:](<[[E:.md>) Claim 2]]
-    - 
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+            - #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [[[E:](<[[E:.md>) prepositional linkages]].
+                - **[Example](<Example.md>):** "supported by:: [[[E:](<[[E:.md>) Claim 2]]"
+            - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) prepositional linkages]] should be past-tense in tone. 
+                - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
+                - This process allows a continuous documentation of [dependencies](<dependencies.md>) as [development](<development.md>) progresses.
+                - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
+            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
+                - #[Fleeting Notes](<Fleeting Notes.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+                    - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
-        - @Peter on `Obs` vs `Ob`
+        - [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) on `Obs` vs `Ob`
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
                 - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[[E:](<[[E:.md>) beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
-            - It also brings up the idea of using [@Everyone]([@[[Everyone](<@[[Everyone.md>)]]) as a universal notification place... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
+            - It also brings up the idea of using [@Everyone]([@[[Everyone](<@[[Everyone.md>)]]) as a universal notification place... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
                 - Of course, this inbox couldn't be cleared, but it could serve as a rolling inbox for people to check in on periodically. 
                 - Not sure if @ or cc would be best... probably @ for higher priority/request for input, cc for lower as usual. 
                     - You'll be less likely to *get* input unless people have the habit of checking that inbox... which is a bit labour intensive, but I donno.
                     - I still prefer the top-section "Chat" for elevation. This could be used in combo no problem, though. It's non-destructive.
-        - On [Charles' personal system](((vxaP_RzP-))):[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - On [Charles' personal system](((vxaP_RzP-))):[*]([^[[Charles Farr](<^[[Charles Farr.md>)]])
             - "`[Obs](<Obs.md>)` / `[Observations](<Observations.md>)` — summarizing literature or resources in one or multiple concise statements"
                 - Ha! [Same tag](((cxK_gynrp))) — different use context... 
                     - I'm conceptualizing Obs/Observations as being much more broad than __observations on specific literature__.
@@ -118,16 +130,24 @@
             - "`[Notion](<Notion.md>)` — "a general understanding;" "vague or imperfect conception or idea of something;" "an opinion, view, or belief;" a general "conception or idea" — [dictionary.com](https://www.dictionary.com/browse/notion)"
                 - This is intriguing — I'm thinking the role of a Notion note would be satisfied by the space around FN and SDL
                     - Level of [uncertainty](<uncertainty.md>) could be eventually captured with a **confidence level** attribute.
-        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) I haven't yet been able to grok the proposed structure [here](((67jhmzS6u))) 
+        - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) I haven't yet been able to grok the proposed structure [here](((67jhmzS6u))) 
             - Working through it, gradually. & working to intergrate your thoughts into the templates [here](((tG1HJs2dK))) and [here](((Gx7UUAS7L))).
             - Stories is the part that I haven't been able to work in yet — feels too zoomed in maybe? Sprints are already pretty high-res. I think I conceptualize stories as  being outlines on an epic that are worked upon during a sprint. I don't find the "user stories" metaphor clicks with me at all haha
-            - **[My thoughts continued more centrally located [here]"Thoughts](<My thoughts continued more centrally located [here]"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
+            - **[My thoughts continued more centrally located [here]"Thoughts](<My thoughts continued more centrally located [here]"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
+        - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) — Made MECE a page; that's a good one! Use that idea allll the time, but didn't know that term/synthesis. Love it! 
+        - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [notifications](<notifications.md>)[*]
+            - On [Aliases](((OpfbgR-H7))) — This makes sense.
+            - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
+        - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on conventions
     - #[Change Log](<Change Log.md>) 
-        1. Upgraded [Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+        1. Upgraded [Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+        2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
-        - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
+        - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
+        - see camera for type of links in roam
+    - #[Scratchpad](<Scratchpad.md>) 
         - New people might be afraid of breaking something when joining a very pretty and very organised graph. 
             - [Q](<Q.md>) Should we share the link to the welcome page rather than the link to the main graph?
         - [Q](<Q.md>) Is there a danger of [Design Fixation](<Design Fixation.md>) in the graph?
@@ -135,7 +155,9 @@
         - Google indexing system and graph dependency, what do theyu have in common
         - Order without design
             - What is order?
-            - [Q](<Q.md>) can we quantify the [Entropy](<Entropy.md>) of a zettelkasten?
+            - [Q](<Q.md>) can we quantify the [entropy](<entropy.md>) of a [zettelkasten](<zettelkasten.md>)?
+        - "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+            - [entropy](<entropy.md>)
         - Anarchic design and anarchic thinking
             - check papers by andrew Ma on anarchic manufactutring
             - I genuilly think this could be an interesting study if structured well.
@@ -144,8 +166,6 @@
         - [Q](<Q.md>) Do we want to force direction?
         - [Q](<Q.md>) Do we want to force convergence?
         - [Q](<Q.md>) How do we make sure there are not too many/overlapping questions?
-        - see camera for type of links in roam
-    - #[Scratchpad](<Scratchpad.md>) 
         - On change of Conventions in the graph
             - c. "[@]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [""](((cxK_gynrp))) `👀[Obs](<Obs.md>)` seems plural, what about `👀[Ob](<Ob.md>)`?"
 d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
@@ -160,12 +180,13 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
         - [@]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [""](((cxK_gynrp))) `👀[Obs](<Obs.md>)` seems plural, what about `👀[Ob](<Ob.md>)`?
             - also, trying a new tag to indicate `@` who I am speaking to, `""` What I am referring to (if I am not kinking to a word or a sentence), thoughts?
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On the necessity of a Obs Tag](((yiYxykJSI))) I am still going through Chan's white paper discussing the different kind of notes he uses. I think there is a value in observation notes `[O:](<O:.md>)` deriving from `👀[Obs](<Obs.md>)`
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
-        - 
+            [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On habit of checking conversation inbox](((l3YD_0kvu))) I have a Query in my daily DNP under conversations so I don't necessarily have to go back to my personal page. At the end of the weeks, I clear all the queries as they are linked blocs to the one on my page.  
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
+- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) of tentative Story points
@@ -184,16 +205,51 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                 - [ ] What, Why, How: Defining Types of Relationships
                     - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                         - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
-                - 
+        - [Q](<Q.md>) How do you balance the energy required to adhere to conventions with the value said conventions provide?
+        - On the foundations of statement chains...
+            - 
     - [Conversation](<Conversation.md>)
-        - On Observations: [*](((o0O63qE8T))) [@[[Brandon Toner](<@[[Brandon Toner.md>)]]
-            - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or  an example within this graph.
-                - It is distinct from a Fleeting Note or a Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
-        - Simple Discussions
+        - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
+            - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
+                - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
+        - On the holy concept of MECE ([[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]])
+            - In [consulting]([cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]), when assessing a system, solution, or just a set of options, we would use MECE to test it's strength.
+            - Very similar to your thinking [here](((8A5PGG4bj))) [Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]).
+            - The overall goal was to ensure that..
+                - Each __thing__ did not overlap with another thing in the same category — it was distinct and mutually exclusive.
+                    - This ensures there is a clear definition of said __thing__, ultimately eliminating risk of confusion
+                - All of the __things__ added up to constitute the whole of the category of interest — in doing you, you've mapped the entire problem-/solution-space. The options are collectively exhaustive.
+        - Discussions
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Peter Rosso](<@[[Peter Rosso.md>)]] check out the new mythology of notes I implemented in my personal graph, regarding your thoughts on `[Obs](<Obs.md>)` [*](((1jQSerSAt)))
                 - See the [taxonomy](((1hcqsThv_))) and the [rational](((1zrz0cqzH))) behind the switch...
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] what you you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
+            - [@]([Brandon Toner](<Brandon Toner.md>)) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
+                - Suggestion is to use `[@]()` for people and `[*]()` for blocks
+            - [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
+                - {{or:[~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+                - #[Change Log](<Change Log.md>)
+                    - Updated the CSS for `[@[[Everyone](<@[[Everyone.md>)]]` to remove the `unread` — only affects the everyone tag
+                    - [42SmartBlock](<42SmartBlock.md>) .rcNotify — @Everyone Tag
+                        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+            - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 
+                - See → "Today I revised my personal [taxonomy](<taxonomy.md>) of notes... ((this is in my graph, not here in Roam Collective))"
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
+    - [Bookmarks](<Bookmarks.md>)
+        - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
+        - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"
+        - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - Made Online/Offline status global with a block reference to my profile.
+            - "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
+        - Discovered that the drop down selector from Or query is out of place when viewed on Firefox
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzfGGKU_cn9.png?alt=media&token=60ed969f-b718-4f04-a73f-dc071f7939bd)
+    - #[[[Feedback](<[[Feedback.md>): What could be better]]
+        - Make online/offline status a block reference to profile page. That way the status becomes globally updated when used. [*](((oR-6jC02D)))
 - ---
 - #[Quick Capture](<Quick Capture.md>)
     - [Peter Rosso](<Peter Rosso.md>) : do we have a convention for [Quick Capture](<Quick Capture.md>)?
@@ -208,6 +264,27 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
 - **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
 ## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)

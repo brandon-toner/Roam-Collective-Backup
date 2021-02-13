@@ -12,6 +12,10 @@
 - **[Twitter](<Twitter.md>):** [@nettesblog](https://twitter.com/nettesblog)
         - **[Website](<Website.md>):**
 
+## [Bart Lubaszka](<Bart Lubaszka.md>)
+- **[Twitter](<Twitter.md>):** [@bartlubaszka](https://www.twitter.com/bartlubaszka) 
+        - **[Website](<Website.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
         - **[Website](<Website.md>):**

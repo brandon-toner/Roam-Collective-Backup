@@ -9,7 +9,7 @@
             - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
             - Check out the #[[Help Wanted]] page references for opportunities to contribute.
             - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
-            - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+            - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
             - Check out the #[[Fleeting Notes]] linked references for some [[atomic ideas]].
                 - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
             - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.

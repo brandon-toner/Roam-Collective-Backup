@@ -14,7 +14,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - "Meetup Today at 20:00GMT"
         - **["Processes](<"Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))"
         - "Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>)."
-        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))"
+        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))"
             - "[Draft Sprints template](((tG1HJs2dK)))"
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Agenda](<Agenda.md>)
@@ -66,7 +66,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([Processes](<Processes.md>))
@@ -104,11 +104,11 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                                 - Need to expand the parent to see it. 
                                     - Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless.
                         - Using the `top-level parent` block
-        - [Q](<Q.md>) How do we tag suggested or draft processes and conventions?[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - [Q](<Q.md>) How do we tag suggested or draft processes and conventions?[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - I'm hesitant to tag with [Processes](<Processes.md>) or [Conventions](<Conventions.md>) as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
                 - **[Example](<Example.md>):** "Thoughts:: [voting](<voting.md>) mechanism [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
         - [Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? 
-        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([@[[Charles Farr](<@[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))
             - [I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
                 - Within that update, we could link to the work that we have done that lives within our DNP sections. 
                 - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
@@ -329,7 +329,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             -  [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] I almost think of [these](((xRXhJOm2O))) as distinct domains — meta, internal knowledge, external knowledge.
                 - Obviously there is a ton of overlap and exchange between each, but they each have distinct objectives and conventions
         - Simple Replies
-            - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] completely agree with all of [these](((RCwNQ4AD1)))!
+            - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] completely agree with all of [these](((RCwNQ4AD1)))!
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a feature request for Roam would be allow for page references within namespaces [*](((7QgJ6Ey63)))[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
                 - https://twitter.com/CharlesSimsFarr/status/1359555125413613570?s=20
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))
@@ -341,7 +341,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - "[Annotations](<Annotations.md>) [[[R:](<[[R:.md>) Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[@[[Charles Farr](<@[[Charles Farr.md>)]]`, just not the `[Charles Farr](<Charles Farr.md>)` page
     - #[GTD Zone](<GTD Zone.md>)
-        - [ ] Import [connectors](((NbeK4NK4e)))
+        - [x] Import [connectors](((NbeK4NK4e)))
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Q](<Q.md>) What are the most basic conventions required for effective participation?
             - [Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])

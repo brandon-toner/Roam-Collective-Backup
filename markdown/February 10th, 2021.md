@@ -14,7 +14,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - "Meetup Today at 20:00GMT"
         - "Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])"
         - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
-        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))"
+        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))"
             - "[Draft Sprints template](((tG1HJs2dK)))"
     - #[[Meetings & Discussions]]
         - #Agenda
@@ -66,7 +66,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([[Processes]])
@@ -104,11 +104,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                                 - Need to expand the parent to see it. 
                                     - Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless.
                         - Using the `top-level parent` block
-        - #Q How do we tag suggested or draft processes and conventions?[*]([[@[[Charles Farr]]]])
+        - #Q How do we tag suggested or draft processes and conventions?[*]([[~[[Charles Farr]]]])
             - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
                 - Example:: "Thoughts:: [[voting]] mechanism [*]([[@[[Charles Farr]]]])"
         - #Q How should pages for [[sprints]] be designed? 
-        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[@[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
             - #I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
                 - Within that update, we could link to the work that we have done that lives within our DNP sections. 
                 - This would preserve the page's role as a HUB for navigation, without actually housing all of the actual work.
@@ -329,7 +329,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             -  [[@[[Larissa de Lima]]]] I almost think of [these](((xRXhJOm2O))) as distinct domains — meta, internal knowledge, external knowledge.
                 - Obviously there is a ton of overlap and exchange between each, but they each have distinct objectives and conventions
         - Simple Replies
-            - [[@[[Matthew Vogel]]]] completely agree with all of [these](((RCwNQ4AD1)))!
+            - [[~[[Matthew Vogel]]]] completely agree with all of [these](((RCwNQ4AD1)))!
             - [[~[[Brandon Toner]]]] a feature request for Roam would be allow for page references within namespaces [*](((7QgJ6Ey63)))[*]([[Roam Enhancement Requests]])
                 - https://twitter.com/CharlesSimsFarr/status/1359555125413613570?s=20
             - [[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))
@@ -341,7 +341,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Import [connectors](((NbeK4NK4e)))
+        - {{[[DONE]]}} Import [connectors](((NbeK4NK4e)))
     - #[[Meetings & Discussions]]
         - #Q What are the most basic conventions required for effective participation?
             - #Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])

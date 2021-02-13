@@ -4,14 +4,16 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        - **Brandon:** [Thoughts on sprints, epics and breaking work into intermediate deliverables](((74aPTS1FT))).
+        - **Brandon:** [Thoughts on sprints, epics and breaking work into intermediate deliverables](((74aPTS1FT)))
+        - **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
+        - Charles Farr:: Graph goal: make everything [MECE](((rIe6X12fA)))
     - #Chat ((A place to propose objects of discussion))
         - "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - #Scratchpad 
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - #Scratchpad
         - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])
             - Purpose: to orient team members working on the question/sprint/epic
@@ -54,14 +56,14 @@
                 - #[[Fleeting Notes]] A `Tags::` attribute can be used to designate [[collections]] and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[[Fleeting Notes]] A test for strength of [[conventions]]: Are categories [[mutually-exclusive]] when a categorization decision is necessary?
-            - #Q What conventions should be [[mutually-exclusive]]? 
+        - #[[Fleeting Notes]] A test for strength of [[conventions]]: Are categories [[mutually exclusive]] when a categorization decision is necessary?
+            - #Q What conventions should be [[mutually exclusive]]? 
                 - #[[Fleeting Notes]] conventions with overlap in utility or lack-of-clarity of use should be flagged as `#Tensions` to allow for re-evaluation and resolution.
-        - Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[@[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
+        - Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
             - Really, a Roam Games question feels big enough in scope for an Epic, but the time-frame pushes it to feel more at-home as a sprint.
-                - Maybe this addresses [this](((RJj8IZlGp)))[*]([[@[[Charles Farr]]]])
+                - Maybe this addresses [this](((RJj8IZlGp)))[*]([[~[[Charles Farr]]]])
             - [Epics]([[epics]]) = the thing to be developed/answered/accomplished
             - [Sprints]([[sprints]]) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
@@ -86,25 +88,35 @@
             - Epic = question
             - Sprint = group of tasks, the work
             - Story points = outline of components of the epic
-        - Prepositional Linkages
+            - Idea of [[[[E:]] prepositional linkages]]
+        - Thoughts:: [[[[E:]] prepositional linkages]]
             - [[[[E:]] Claim 1]]
             - [[[[E:]] Claim 2]]
-    - 
-    - #[[The Zettelkasten]] #not_populated
+            - #[[Fleeting Notes]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[[[E:]] prepositional linkages]].
+                - Example:: "supported by:: [[[[E:]] Claim 2]]"
+            - #[[Fleeting Notes]] [[[[E:]] prepositional linkages]] should be past-tense in tone. 
+                - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
+                - This process allows a continuous documentation of [[dependencies]] as [[development]] progresses.
+                - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
+            - #[[Fleeting Notes]] [prepositional linkages]([[[[E:]] prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
+                - #[[Fleeting Notes]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+                    - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
     - #Bookmarks #not_populated
     - #Conversation 
-        - @Peter on `Obs` vs `Ob`
+        - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - "[@Brandon]([[@[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
                 - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[[[E:]] beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([[@[[Peter Rosso]]]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
-            - It also brings up the idea of using [@Everyone]([[@[[Everyone]]]]) as a universal notification place... [*]([[@[[Charles Farr]]]]), [*]([[@[[Peter Rosso]]]])
+            - It also brings up the idea of using [@Everyone]([[@[[Everyone]]]]) as a universal notification place... [*]([[~[[Charles Farr]]]]), [*]([[@[[Peter Rosso]]]])
                 - Of course, this inbox couldn't be cleared, but it could serve as a rolling inbox for people to check in on periodically. 
                 - Not sure if @ or cc would be best... probably @ for higher priority/request for input, cc for lower as usual. 
                     - You'll be less likely to *get* input unless people have the habit of checking that inbox... which is a bit labour intensive, but I donno.
                     - I still prefer the top-section "Chat" for elevation. This could be used in combo no problem, though. It's non-destructive.
-        - On [Charles' personal system](((vxaP_RzP-))):[*]([[@[[Charles Farr]]]])
+        - On [Charles' personal system](((vxaP_RzP-))):[*]([[^[[Charles Farr]]]])
             - "`#Obs` / `#Observations` — summarizing literature or resources in one or multiple concise statements"
                 - Ha! [Same tag](((cxK_gynrp))) — different use context... 
                     - I'm conceptualizing Obs/Observations as being much more broad than __observations on specific literature__.
@@ -118,16 +130,24 @@
             - "`#Notion` — "a general understanding;" "vague or imperfect conception or idea of something;" "an opinion, view, or belief;" a general "conception or idea" — [dictionary.com](https://www.dictionary.com/browse/notion)"
                 - This is intriguing — I'm thinking the role of a Notion note would be satisfied by the space around FN and SDL
                     - Level of [[uncertainty]] could be eventually captured with a **confidence level** attribute.
-        - [@Charles]([[@[[Charles Farr]]]]) I haven't yet been able to grok the proposed structure [here](((67jhmzS6u))) 
+        - [@Charles]([[~[[Charles Farr]]]]) I haven't yet been able to grok the proposed structure [here](((67jhmzS6u))) 
             - Working through it, gradually. & working to intergrate your thoughts into the templates [here](((tG1HJs2dK))) and [here](((Gx7UUAS7L))).
             - Stories is the part that I haven't been able to work in yet — feels too zoomed in maybe? Sprints are already pretty high-res. I think I conceptualize stories as  being outlines on an epic that are worked upon during a sprint. I don't find the "user stories" metaphor clicks with me at all haha
-            - My thoughts continued more centrally located [here]"Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[@[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+            - My thoughts continued more centrally located [here]"Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+        - [@Charles]([[~[[Charles Farr]]]]) — Made MECE a page; that's a good one! Use that idea allll the time, but didn't know that term/synthesis. Love it! 
+        - [@Charles]([[~[[Charles Farr]]]]) on [[notifications]][*]
+            - On [Aliases](((OpfbgR-H7))) — This makes sense.
+            - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
+        - [@Peter]([[@[[Peter Rosso]]]]) on conventions
     - #[[Change Log]] 
-        1. Upgraded [Charles]([[@[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+        1. Upgraded [Charles]([[~[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
+        2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟢Online | 🟠Away | 😴 offline, back tomorrow}}
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - #Inbox #not_populated
-        - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[@[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+        - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+        - see camera for type of links in roam
+    - #[[Scratchpad]] 
         - New people might be afraid of breaking something when joining a very pretty and very organised graph. 
             - #Q Should we share the link to the welcome page rather than the link to the main graph?
         - #Q Is there a danger of [[Design Fixation]] in the graph?
@@ -135,7 +155,9 @@
         - Google indexing system and graph dependency, what do theyu have in common
         - Order without design
             - What is order?
-            - #Q can we quantify the [[Entropy]] of a zettelkasten?
+            - #Q can we quantify the [[entropy]] of a [[zettelkasten]]?
+        - "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+            - [[entropy]]
         - Anarchic design and anarchic thinking
             - check papers by andrew Ma on anarchic manufactutring
             - I genuilly think this could be an interesting study if structured well.
@@ -144,8 +166,6 @@
         - #Q Do we want to force direction?
         - #Q Do we want to force convergence?
         - #Q How do we make sure there are not too many/overlapping questions?
-        - see camera for type of links in roam
-    - #[[Scratchpad]] 
         - On change of Conventions in the graph
             - c. "[@]([[@[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?"
 d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
@@ -160,12 +180,13 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
         - [@]([[@[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
             - also, trying a new tag to indicate `@` who I am speaking to, `""` What I am referring to (if I am not kinking to a word or a sentence), thoughts?
         - [@Brandon]([[@[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
+            - [@Brandon]([[@[[Brandon Toner]]]]) [On the necessity of a Obs Tag](((yiYxykJSI))) I am still going through Chan's white paper discussing the different kind of notes he uses. I think there is a value in observation notes `[[O:]]` deriving from `👀#Obs`
         - [@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
-        - 
+            [@Brandon]([[@[[Brandon Toner]]]]) [On habit of checking conversation inbox](((l3YD_0kvu))) I have a Query in my daily DNP under conversations so I don't necessarily have to go back to my personal page. At the end of the weeks, I clear all the queries as they are linked blocs to the one on my page.  
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}"
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points
@@ -184,16 +205,51 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - {{[[TODO]]}} What, Why, How: Defining Types of Relationships
                     - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                         - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
-                - 
+        - #Q How do you balance the energy required to adhere to conventions with the value said conventions provide?
+        - On the foundations of statement chains...
+            - 
     - #Conversation
-        - On Observations: [*](((o0O63qE8T))) [[@[[Brandon Toner]]]]
-            - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or  an example within this graph.
-                - It is distinct from a Fleeting Note or a Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
-        - Simple Discussions
+        - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([[~[[Brandon Toner]]]])
+            - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
+                - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
+        - On the holy concept of MECE ([[[[E:]] mutually exclusive, collectively exhaustive (MECE)]])
+            - In [consulting]([[cc:[[Larissa de Lima]]]]), when assessing a system, solution, or just a set of options, we would use MECE to test it's strength.
+            - Very similar to your thinking [here](((8A5PGG4bj))) [Brandon]([[~[[Brandon Toner]]]]).
+            - The overall goal was to ensure that..
+                - Each __thing__ did not overlap with another thing in the same category — it was distinct and mutually exclusive.
+                    - This ensures there is a clear definition of said __thing__, ultimately eliminating risk of confusion
+                - All of the __things__ added up to constitute the whole of the category of interest — in doing you, you've mapped the entire problem-/solution-space. The options are collectively exhaustive.
+        - Discussions
             - [[~[[Brandon Toner]]]] [[@[[Peter Rosso]]]] check out the new mythology of notes I implemented in my personal graph, regarding your thoughts on `#Obs` [*](((1jQSerSAt)))
                 - See the [taxonomy](((1hcqsThv_))) and the [rational](((1zrz0cqzH))) behind the switch...
-            - [[@[[Brandon Toner]]]] what you you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
-    - #Bookmarks #not_populated
+            - [[~[[Brandon Toner]]]] what do you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
+            - [@]([[Brandon Toner]]) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
+                - Suggestion is to use `[@]()` for people and `[*]()` for blocks
+            - [@]([[~[[Brandon Toner]]]]) [@]([[@[[Peter Rosso]]]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
+                - {{or:[[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+                - #[[Change Log]]
+                    - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
+                    - #42SmartBlock .rcNotify — @Everyone Tag
+                        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+            - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
+                - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
+            - [@Brandon]([[@[[Brandon Toner]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
+    - #Bookmarks
+        - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
+        - "Thoughts:: [[[[E:]] prepositional linkages]]"
+        - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Made Online/Offline status global with a block reference to my profile.
+            - "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
+        - Discovered that the drop down selector from Or query is out of place when viewed on Firefox
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzfGGKU_cn9.png?alt=media&token=60ed969f-b718-4f04-a73f-dc071f7939bd)
+    - #[[[[Feedback]]: What could be better]]
+        - Make online/offline status a block reference to profile page. That way the status becomes globally updated when used. [*](((oR-6jC02D)))
 - ---
 - #[[Quick Capture]]
     - [[Peter Rosso]] : do we have a convention for [[Quick Capture]]?
