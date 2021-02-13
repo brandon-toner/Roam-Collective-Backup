@@ -7,6 +7,7 @@
     - [Bart Lubaszka](<Bart Lubaszka.md>)
     - [Deepu Asok](<Deepu Asok.md>)
     - [Eneko Uruñuela](<Eneko Uruñuela.md>)
+    - [Justin Shaffner](<Justin Shaffner.md>)
     - [Kyle Stratis](<Kyle Stratis.md>)
     - [leekeifon](<leekeifon.md>)
     - [Lindsey Johnston](<Lindsey Johnston.md>)

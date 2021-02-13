@@ -1946,6 +1946,22 @@ span.rm-page-ref[data-tag="Q"] {
 span.rm-page-ref[data-tag="Q"]:before {
     content: '❓'
 }```
+                - `#A
+                    - ```css
+span.rm-page-ref[data-tag="A"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="A"]:before {
+    content: '✅'
+}```
                 - Secondary & Experimental
                     - `#Lectures
                         - ```css

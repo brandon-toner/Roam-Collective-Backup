@@ -101,6 +101,23 @@
             - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
                 - #[Fleeting Notes](<Fleeting Notes.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+            - [Obs](<Obs.md>) I'm often looking for a `response tag` to a `[Q](<Q.md>)`...
+                - Sometimes this is an `[I](<I.md>)` for ideas, but sometimes it feels like I need an `[A](<A.md>)` for Answer.
+                - So, I'm adding an `[A](<A.md>)` block-level tag for use in response to a `[Q](<Q.md>)` tag, when an answer feels appropriate.
+                    - [Obs](<Obs.md>) A feels a bit definitive sometimes... but I'm reframing this mentally as the `A` designates **AN** answer, not **THE** answer. 
+            - **Forward-looking**
+                - [therefore](<therefore.md>)
+                - if this is true, then
+                - supports
+                - challenges
+                - however
+            - **Back-looking**
+                - supported by
+                - because (inverse of "[therefore](<therefore.md>)")
+            - **Neutral**
+                - in tension with
+                - analogous to
+                - related to
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -138,10 +155,51 @@
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [notifications](<notifications.md>)[*]
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
-        - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on conventions
+        - On conventions
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])[@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
+                - [Q](<Q.md>) How can we improve our onboarding messaging to dismiss this fear. 
+                    - I consider it hard to "break" the graph. 
+                    - Levels of "jumping in" [Drafts](<Drafts.md>) [Outlines](<Outlines.md>)
+                        1. Simple DNP Section, few linked references.
+                        2. Learn essential conventions
+                            - lowercase page names
+                            - Using the DNP Modules (Collections tags)
+                            - notifications and communication
+                        3. Try the top-section
+                            - Move into some neutral graph space by trying out the top section
+                                - E.g. Chat.
+                        4. Create some basic zettelkasten-like notes.
+                            - Q, I, Obs are nice and simple
+                            - FNs are a nice step up
+                            - Q-pages, and Seedlings
+                        5. Jump into the action on a sprint
+                            - Write some ideas in your scratchpad, linking to the sprint page. 
+                    - [I](<I.md>) Make CORE conventions very obvious. 
+                        - Establish a hierarchy of conventions. Most important to least important.
+                    - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
+                    - [I](<I.md>) What about a new-member stamp-card type challenge  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+                        - A set of simple activities to try that walk the new user through various conventions in the graph
+                            - **[Examples](<Examples.md>):**
+                                - Create your DNP Section
+                                - Tag someone with an @ notification
+                                - Create a `[Q](<Q.md>)` block
+                                - Build a daily template
+                                - Build a notifications query
+                                - Link ideas to a sprint page
+                                - Post in the top-section
+        - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On forcing [*](((9P3oqx1Zh)))[*](((maTU41UJf)))
+            - On some basic conventions, yes. 
+            - On direction — what exactly do you mean? 
+                - Work direction on sprints/epics?
+                    - If so, I think we can make the work direction clear, but optional. 
+                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
+            - On convergence
+                - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [alignment](<alignment.md>) — ref: [standing waves](<standing waves.md>) concept.
+                    - > "I think that synchronous and aligned activities in a multiplayer[ zettelkasten](< zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals."
     - #[Change Log](<Change Log.md>) 
         1. Upgraded [Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])' block-level question on agile to page-level. Lots of ideas around that lately. 
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
+        3. Added an `[A](<A.md>)` tag as an option for response to a `[Q](<Q.md>)` block.[*](((IB0MarB0y)))
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
@@ -233,7 +291,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                         - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [taxonomy](<taxonomy.md>) of notes... ((this is in my graph, not here in Roam Collective))"
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
     - [Bookmarks](<Bookmarks.md>)
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
         - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"

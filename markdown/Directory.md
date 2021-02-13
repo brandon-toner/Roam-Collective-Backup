@@ -7,6 +7,7 @@
     - [[Bart Lubaszka]]
     - [[Deepu Asok]]
     - [[Eneko Uruñuela]]
+    - [[Justin Shaffner]]
     - [[Kyle Stratis]]
     - [[leekeifon]]
     - [[Lindsey Johnston]]

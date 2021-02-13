@@ -107,7 +107,6 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I think this is a good impulse, especially since the multiplayer [Roam Games](<Roam Games.md>) is closing soon [*](((gYGadCTR3)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
-- ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
@@ -438,6 +437,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
                 - Yea, I have a feeling this is quite applicable. Gonna think on this. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
         6. Thoughts on [this](((bUlmW8JmS)))? [*]([Charles Farr](<Charles Farr.md>)) — See [example](((XwG-Noysg)))
+- ---
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)

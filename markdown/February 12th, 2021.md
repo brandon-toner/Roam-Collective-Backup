@@ -101,6 +101,23 @@
             - #[[Fleeting Notes]] [prepositional linkages]([[[[E:]] prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
                 - #[[Fleeting Notes]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+            - #Obs I'm often looking for a `response tag` to a `#Q`...
+                - Sometimes this is an `#I` for ideas, but sometimes it feels like I need an `#A` for Answer.
+                - So, I'm adding an `#A` block-level tag for use in response to a `#Q` tag, when an answer feels appropriate.
+                    - #Obs A feels a bit definitive sometimes... but I'm reframing this mentally as the `A` designates **AN** answer, not **THE** answer. 
+            - **Forward-looking**
+                - [[therefore]]
+                - if this is true, then
+                - supports
+                - challenges
+                - however
+            - **Back-looking**
+                - supported by
+                - because (inverse of "[[therefore]]")
+            - **Neutral**
+                - in tension with
+                - analogous to
+                - related to
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
     - #Bookmarks #not_populated
@@ -138,10 +155,51 @@
         - [@Charles]([[~[[Charles Farr]]]]) on [[notifications]][*]
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
-        - [@Peter]([[@[[Peter Rosso]]]]) on conventions
+        - On conventions
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([[@[[Charles Farr]]]])[@]([[@[[Peter Rosso]]]])
+                - #Q How can we improve our onboarding messaging to dismiss this fear. 
+                    - I consider it hard to "break" the graph. 
+                    - Levels of "jumping in" #Drafts #Outlines
+                        1. Simple DNP Section, few linked references.
+                        2. Learn essential conventions
+                            - lowercase page names
+                            - Using the DNP Modules (Collections tags)
+                            - notifications and communication
+                        3. Try the top-section
+                            - Move into some neutral graph space by trying out the top section
+                                - E.g. Chat.
+                        4. Create some basic zettelkasten-like notes.
+                            - Q, I, Obs are nice and simple
+                            - FNs are a nice step up
+                            - Q-pages, and Seedlings
+                        5. Jump into the action on a sprint
+                            - Write some ideas in your scratchpad, linking to the sprint page. 
+                    - #I Make CORE conventions very obvious. 
+                        - Establish a hierarchy of conventions. Most important to least important.
+                    - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
+                    - #I What about a new-member stamp-card type challenge  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+                        - A set of simple activities to try that walk the new user through various conventions in the graph
+                            - Examples::
+                                - Create your DNP Section
+                                - Tag someone with an @ notification
+                                - Create a `#Q` block
+                                - Build a daily template
+                                - Build a notifications query
+                                - Link ideas to a sprint page
+                                - Post in the top-section
+        - [@Peter]([[@[[Peter Rosso]]]]) On forcing [*](((9P3oqx1Zh)))[*](((maTU41UJf)))
+            - On some basic conventions, yes. 
+            - On direction — what exactly do you mean? 
+                - Work direction on sprints/epics?
+                    - If so, I think we can make the work direction clear, but optional. 
+                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
+            - On convergence
+                - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [[alignment]] — ref: [[standing waves]] concept.
+                    - > "I think that synchronous and aligned activities in a multiplayer[[ zettelkasten]] can lead to compound effects like [[standing waves]] created by signals."
     - #[[Change Log]] 
         1. Upgraded [Charles]([[~[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
+        3. Added an `#A` tag as an option for response to a `#Q` block.[*](((IB0MarB0y)))
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - #Inbox #not_populated
@@ -233,7 +291,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                         - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
-            - [@Brandon]([[@[[Brandon Toner]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
+            - [@Brandon]([[@[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
     - #Bookmarks
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
         - "Thoughts:: [[[[E:]] prepositional linkages]]"
