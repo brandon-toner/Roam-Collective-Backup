@@ -5,6 +5,9 @@
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - It is helpful, however to make use of tags such as: `#[Literature Notes](<Literature Notes.md>)`
 
+## [February 13th, 2021](<February 13th, 2021.md>)
+- #[Literature Notes](<Literature Notes.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - `#[Literature Notes](<Literature Notes.md>)`
 

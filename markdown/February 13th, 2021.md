@@ -9,7 +9,18 @@
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
-    - #Scratchpad #not_populated
+    - #Scratchpad 
+        - #[[Literature Notes]] "[[information architecture]] is hard."
+            - Source:: Tweet by [[Visakan Veerasamy]]
+            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[[[E:]] mutually exclusive, collectively exhaustive (MECE)]])
+                - Source:: Reply to Visa's tweet.
+            - #[[Fleeting Notes]] Start with known [[classification]] systems and adapt them to specific needs.
+                - #I Use [[Wikipedia]] to find existing [[classification]] systems.
+            - #Q What [[classification]] systems, [[taxonomies]], or lists would be useful within Roam Collective?
+                - List of [prepositional linkages]([[[[E:]] prepositional linkages]])
+            - #I I would like to begin collecting classification systems. Mostly in my personal system, but many will apply here. 
+                - This would look like a `#Classifications` tag, which serves as a parent to the `#Collections` class of tags.
+                    - A [[classification]] is a set of collections that map a domain or system.
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
     - #Conversation #not_populated

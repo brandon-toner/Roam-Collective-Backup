@@ -268,7 +268,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                         - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
         - #Q How do you balance the energy required to adhere to conventions with the value said conventions provide?
-        - On the foundations of statement chains...
+        - On the foundations of [[statement chains]]...
             - [[Conor]] mentioned that he thinks of education as a series of [[statement chains]]
                 - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
                 - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.

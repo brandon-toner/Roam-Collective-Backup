@@ -268,7 +268,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                     - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                         - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
         - [Q](<Q.md>) How do you balance the energy required to adhere to conventions with the value said conventions provide?
-        - On the foundations of statement chains...
+        - On the foundations of [statement chains](<statement chains.md>)...
             - [Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)
                 - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
                 - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.

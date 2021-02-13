@@ -9,7 +9,18 @@
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
-    - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) 
+        - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
+            - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
+            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]])
+                - **[Source](<Source.md>):** Reply to Visa's tweet.
+            - #[Fleeting Notes](<Fleeting Notes.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
+                - [I](<I.md>) Use [Wikipedia](<Wikipedia.md>) to find existing [classification](<classification.md>) systems.
+            - [Q](<Q.md>) What [classification](<classification.md>) systems, [taxonomies](<taxonomies.md>), or lists would be useful within Roam Collective?
+                - List of [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
+            - [I](<I.md>) I would like to begin collecting classification systems. Mostly in my personal system, but many will apply here. 
+                - This would look like a `[Classifications](<Classifications.md>)` tag, which serves as a parent to the `[Collections](<Collections.md>)` class of tags.
+                    - A [classification](<classification.md>) is a set of collections that map a domain or system.
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
