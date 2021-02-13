@@ -30,7 +30,21 @@
                         - This would also emphasize the importance of logging information in these places so that it is surfaced for inclusion of the weekly highlights.
                 - This would help to keep Twitter and members of the graph apprised on events, updates and highlights.
                 - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
+        - #Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[@[[Charles Farr]]]])
+            - Desired style:
+                - Most = dark grey
+                - Some = special & unique
+            - Goal: Be able to adjust the dark grey at will easily.
+            - #Q What classes of tags are there that might have different colors?
     - #[[The Zettelkasten]] #not_populated
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]
+            - Weekly newsletter
+            - Contents
+                - Graph updates, highlights, active projects
+                - Section on the Roam Games latest.
+            - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
+            - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
     - #Bookmarks #not_populated
     - #Conversation 
         1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -47,6 +61,9 @@
                     - Built using 
                     - Incorporating
                     - Inspired by
+                    - I like "`Influence::`"
+                        - The nature of the influence could be added next to the mention with simple text.
+                    - Perhaps plural for "`Contributor::`"
                     - #Q How could the "ancestors" be explicity connected to roam games submission pages? 
     - #[[Change Log]] #not_populated
 - ---
@@ -157,7 +174,7 @@
                     - Ancestor
                     - Commenter
     - #Conversation
-        - [[@[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
+        - [[~[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
     - #Bookmarks #not_populated
 - ---

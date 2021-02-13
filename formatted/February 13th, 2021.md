@@ -30,7 +30,21 @@
                         - This would also emphasize the importance of logging information in these places so that it is surfaced for inclusion of the weekly highlights.
                 - This would help to keep Twitter and members of the graph apprised on events, updates and highlights.
                 - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
+        - [Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - Desired style:
+                - Most = dark grey
+                - Some = special & unique
+            - Goal: Be able to adjust the dark grey at will easily.
+            - [Q](<Q.md>) What classes of tags are there that might have different colors?
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
+            - Weekly newsletter
+            - Contents
+                - Graph updates, highlights, active projects
+                - Section on the Roam Games latest.
+            - [I](<I.md>) We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
+            - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -47,6 +61,9 @@
                     - Built using 
                     - Incorporating
                     - Inspired by
+                    - **[I like "`Influence](<I like "`Influence.md>):**`"
+                        - The nature of the influence could be added next to the mention with simple text.
+                    - **[Perhaps plural for "`Contributor](<Perhaps plural for "`Contributor.md>):**`"
                     - [Q](<Q.md>) How could the "ancestors" be explicity connected to roam games submission pages? 
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
 - ---
@@ -157,7 +174,7 @@
                     - Ancestor
                     - Commenter
     - [Conversation](<Conversation.md>)
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] re: "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
