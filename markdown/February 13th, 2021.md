@@ -21,8 +21,157 @@
             - #I I would like to begin collecting classification systems. Mostly in my personal system, but many will apply here. 
                 - This would look like a `#Classifications` tag, which serves as a parent to the `#Collections` class of tags.
                     - A [[classification]] is a set of collections that map a domain or system.
+        - #Q Could a [[spaced repetition]] extension be built with PER USER settings?
+            - Algorithm and card management on a per-user basis...
+        - #Q How could we improve communication with members of the graph and those interested in the project?
+            - #I Weekly [[Substack]] [[newsletter]] with graph updates, highlights, active projects/sprints etc.
+                - #Q Who writes it? How could we make this easy?
+                    - #I Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([[grist for the mill]]) for drafting the contents of the letter.
+                        - This would also emphasize the importance of logging information in these places so that it is surfaced for inclusion of the weekly highlights.
+                - This would help to keep Twitter and members of the graph apprised on events, updates and highlights.
+                - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
-    - #Conversation #not_populated
+    - #Conversation 
+        1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
+            - Image::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
+            - Thoughts::
+                - This is not an idea, nor a fleeting note -- it is moreso benefits or additional commentary on the reasons the idea would be worthwhile. 
+                    - Comments feels too broad and pointless
+        2. [@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
+            - I briefly explored this [here](((j44mqPh6J)))
+                - I think this is the necessary next-step: taking the existing (major) Roam Games submissions and contributors and creating a network of those ideas.
+                - We could map the dependencies similar to how we document [[relevant notes]] on ENs
+                - Maybe there are some [prepositional linkages]([[[[E:]] prepositional linkages]]) that could be identified to connect the submissions
+                    - Built using 
+                    - Incorporating
+                    - Inspired by
+                    - #Q How could the "ancestors" be explicity connected to roam games submission pages? 
     - #[[Change Log]] #not_populated
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - "On the foundations of [[statement chains]]..."
+            - "[[Conor]] mentioned that he thinks of education as a series of [[statement chains]]"
+                - "The idea of a **statement chain** is not something that is well developed, just something that live in his head."
+                - "However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain."
+            - "Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently..."
+                - "#Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?"
+            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[[E:]] prepositional linkages]] & phrases"
+                - Relations between two nodes
+                    - "Relates to"
+                        - ""in tension with""
+                        - ""analogous to""
+                        - ""related to""
+                    - "Supports"
+                        - "Supports"
+                            - "Supported By"
+                        - "Strengthens"
+                            - "Strengthened by"
+                        - "Example"
+                    - "Disproves"
+                        - "Disproves"
+                            - "Disproved By"
+                        - "Challenges"
+                            - "Challenged By"
+                        - "Weakens"
+                            - "Weakened By"
+                        - "Counter-example"
+                - Argument structure
+                    - __This requires a separate schema...__
+            - "[[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
+            - "[[[[E:]] prepositional linkages]]"
+        - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+            - #Outlines Continued exploration of story points [*](((my07O-J1h)))
+                - "{{[[DONE]]}} Draft & finalize Sprint template"
+                - "{{[[DONE]]}} Draft & finalize Epic template"
+                    - "Definitely a query of all the sprint involved"
+                - "{{[[TODO]]}} Collate related questions → insert into outline"
+                - "{{[[TODO]]}} Collate related ideas  → format into questions → insert into outline"
+                - "{{[[TODO]]}} What, Why, How: Implementing a Zettelkasten"
+                    - "{{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))""
+                    - What, Why, How: Taxonomy of Notes
+                - "{{[[TODO]]}} What, Why, How: Collaborating within Roam"
+                    - "{{[[TODO]]}} What, Why, How: Communicating within Roam"
+                        - What is communication in Roam?
+                            - Asynchronous vs. synchronous
+                        - Why communicate in Roam?
+                        - How to implement communication in Roam?
+                            - What are the various conventions available for use?
+                    - "{{[[TODO]]}} What, Why, How: Divergent Thinking"
+                        - What is divergence and divergent thinking?
+                        - Why is divergent thinking helpful?
+                        - How to support divergent thinking in Roam?
+                            - {{[[TODO]]}} What, Why, How: Algorithms to Support Divergence
+                                - {{[[TODO]]}} What, Why, How: Algorithms of Thought (General)
+                                - {{[[TODO]]}} Why use AoT's to support divergent thinking?
+                                - {{[[TODO]]}} How to use AoT's to support divergent thinking?
+                                    - Would include examples
+                        - "{{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] ""
+                    - "{{[[TODO]]}} What, Why, How: Convergent Thinking"
+                        - What is convergence and convergent thinking?
+                        - Why is convergence helpful?
+                        - How to support convergence in Roam?
+                            - {{[[TODO]]}} What, Why, How: Structures to support convergence
+                                - Project management may be one good example...
+                            - {{[[TODO]]}} What, Why, How: Algorithms to Support Convergence
+                                - {{[[TODO]]}} What, Why, How: Algorithms of Thought (General)
+                                - {{[[TODO]]}} Why use AoT's to support divergent thinking?
+                                - {{[[TODO]]}} How to use AoT's to support divergent thinking?
+                                    - Would include examples
+                        - {{[[TODO]]}} What, Why, How: Algorithms to Support Convergence
+                    - {{[[TODO]]}} What, Why, How: Contributing to Shared Artifacts
+                - {{[[TODO]]}} What, Why, How: Dependencies within a Graph
+                    - "{{[[TODO]]}} What, Why, How: Defining Types of Relationships"
+                        - "{{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))"
+                    - {{[[TODO]]}} What, Why, How: Tracking Conversations
+                - {{[[TODO]]}} What, Why, How: Analyzing Your Graph
+                    - {{[[TODO]]}} What, Why, How: Leveraging The Relationships Between Ideas
+                    - {{[[TODO]]}} What, Why, How: Leveraging The Relationships Between Contributors
+                    - {{[[TODO]]}} What, Why, How: Visualizing Influence
+        - Reviewing Conor's tweet regarding RG3
+            - I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
+            - Conor [original tweet](((Lnfo1H7-B))) is in response to Zsolt's question about setting up a roam 
+        - Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)
+            - Motivation: 
+                - A place to work in public on Roam Games submissions (optional)
+                - A place to collate ideas & influence related to Roam Games
+            - Structure
+                - DNP for live conversation
+                - Submission pages connected to graphs via Roam Inter to aggregate updates seamlessly
+                    - Every new push should be nested as follows
+                        - Top-level Inter → `roam:inter:roam-collective`
+                            - DNP Reference → `[[February 13th, 2021]]`
+                                - Contributor → `[[Charles Farr]]`
+                                    - `Content`
+                - Standard conventions for associating work with individuals and submissions
+                    - `Influence::`
+                    - `Contributor::`
+                    - People would be represented by pages (e.g., `[[Charles Farr]]`)
+                        - Standard conversation conventions would allow for communication & tracking
+                        - Additional convention required for attribution (outside of contributor)
+                            - Similar to the `[[cc:[[Charles Farr]]]]` convention, but explicitly for citation of influence (maybe `$` or repurposing `^`)
+                - Analytics to summarize contributions
+                    - Contributor
+                    - Ancestor
+                    - Commenter
+    - #Conversation
+        - [[@[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
+            - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+    - #Bookmarks #not_populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+    - #Inbox #not_populated
+        - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
+        - {{[[drawing]]}}
+    - #[[Scratchpad]] #not_populated
+    - #[[GTD Zone]] #not_populated
+    - #Promptstorming #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Conversation #not_populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not_populated
+    - #Bookmarks #not_populated
 - ---

@@ -164,6 +164,10 @@
 - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
+## [grist for the mill](<grist for the mill.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
 ## [roam/css](<roam/css.md>)
 - [Queries](((KOuJf-Smr)))
 - **[Contents](<Contents.md>):**

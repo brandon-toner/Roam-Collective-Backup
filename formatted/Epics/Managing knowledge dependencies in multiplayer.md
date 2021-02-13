@@ -1,7 +1,8 @@
 - **[Tags](<../Tags.md>):** [Epics](<../Epics.md>)
     - **[Date Created](<../Date Created.md>):** [February 11th, 2021](<../February 11th, 2021.md>)
     - **[Date Range](<../Date Range.md>):** [February 2021](<../February 2021.md>) until [undetermined date](<../undetermined date.md>)
-    - **[Description](<../Description.md>):** [not_populated](<../not_populated.md>)
+    - **[Description](<../Description.md>):**
+        - Question from Conor: "[Q](<../Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
     - **[Story Points](<../Story Points.md>):** [not_populated](<../not_populated.md>)
     - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
     - **Sprints:**

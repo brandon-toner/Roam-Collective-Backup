@@ -574,6 +574,9 @@
 ## [graph editors](<graph editors.md>)
 - **[Tags](<Tags.md>):**
 
+## [grist for the mill](<grist for the mill.md>)
+- **[Tags](<Tags.md>):**
+
 ## [i.e.](<i.e..md>)
 - **[Tags](<Tags.md>):**
 

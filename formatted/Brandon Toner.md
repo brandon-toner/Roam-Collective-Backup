@@ -424,6 +424,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [graph editors](<graph editors.md>)
 - Message [Brandon Toner](<Brandon Toner.md>)
 
+## [grist for the mill](<grist for the mill.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [zettelkasten](<zettelkasten.md>)
 - View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>))
 

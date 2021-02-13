@@ -17,7 +17,7 @@
             - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
         - #[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
             - [I](<I.md>) This could be a value-offering to the Roam community. RC could be a place to view the Roam Games developments. 
-                - [I](<I.md>) Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
+                - [I](<I.md>) Building a directory of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
                     - A place to view the relationships and dependencies across projects.
         - Example work on a sprint [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
         - **[Processes](<Processes.md>):** How to work on a sprint
@@ -163,7 +163,7 @@
                     - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
             - "[I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
                 - "[Draft Sprints template](((tG1HJs2dK)))"
-            - Like this: "[Sprints/Title Example](<Sprints/Title Example.md>)"
+            - Like this: "Sprints/Title Example"
         - Simple Replies
             - Agree: "Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — I updated the epic & sprint namespaces I had created
     - [Bookmarks](<Bookmarks.md>)

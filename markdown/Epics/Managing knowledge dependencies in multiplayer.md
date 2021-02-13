@@ -1,7 +1,8 @@
 - Tags:: #Epics
     - Date Created:: [[February 11th, 2021]]
     - Date Range:: [[February 2021]] until [[undetermined date]]
-    - Description:: #not_populated
+    - Description::
+        - Question from Conor: "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
     - Story Points:: #not_populated
     - Status:: [[Status/Active]]
     - **Sprints:**

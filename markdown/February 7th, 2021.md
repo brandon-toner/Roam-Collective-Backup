@@ -107,6 +107,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [[~[[Peter Rosso]]]] I think this is a good impulse, especially since the multiplayer [[Roam Games]] is closing soon [*](((gYGadCTR3)))
             - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
+- ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Resources 
@@ -437,7 +438,6 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
                 - Yea, I have a feeling this is quite applicable. Gonna think on this. [[~[[Peter Rosso]]]]
         6. Thoughts on [this](((bUlmW8JmS)))? [*]([[Charles Farr]]) — See [example](((XwG-Noysg)))
-- ---
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]

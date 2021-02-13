@@ -248,12 +248,12 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:😴 Offline | 🟢Online | 🟠Away}}"
+- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) of tentative Story points
-                - [ ] Draft & finalize Sprint template
-                - [ ] Draft & finalize Epic template
+                - [x] Draft & finalize Sprint template
+                - [x] Draft & finalize Epic template
                     - Definitely a query of all the sprint involved
                 - [ ] Collate related questions → insert into outline
                 - [ ] Collate related ideas  → format into questions → insert into outline

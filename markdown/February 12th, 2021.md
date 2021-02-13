@@ -248,12 +248,12 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points
-                - {{[[TODO]]}} Draft & finalize Sprint template
-                - {{[[TODO]]}} Draft & finalize Epic template
+                - {{[[DONE]]}} Draft & finalize Sprint template
+                - {{[[DONE]]}} Draft & finalize Epic template
                     - Definitely a query of all the sprint involved
                 - {{[[TODO]]}} Collate related questions → insert into outline
                 - {{[[TODO]]}} Collate related ideas  → format into questions → insert into outline

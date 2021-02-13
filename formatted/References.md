@@ -175,6 +175,10 @@
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
 
+## [grist for the mill](<grist for the mill.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
 ## [spaced repetition](<spaced repetition.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**

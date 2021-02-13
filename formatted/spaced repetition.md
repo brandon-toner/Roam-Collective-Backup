@@ -3,6 +3,9 @@
     - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]] ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
+## [February 13th, 2021](<February 13th, 2021.md>)
+- [Q](<Q.md>) Could a [spaced repetition](<spaced repetition.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
 

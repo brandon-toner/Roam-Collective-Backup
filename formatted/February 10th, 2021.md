@@ -147,7 +147,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
     - [Sprints](<Sprints.md>) [Examples](<Examples.md>)
         - Notes
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlJ1uK2jpOJ.png?alt=media&token=a5fa77ee-0a60-436c-a4c5-0d2be0e781f9)
-        - [Sprints/Title Example](<Sprints/Title Example.md>)
+        - Sprints/Title Example
             - [Questions](<Questions.md>)
             - #[GTD Zone](<GTD Zone.md>)
             - [Outlines](<Outlines.md>)

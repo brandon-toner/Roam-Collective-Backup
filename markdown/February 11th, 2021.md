@@ -17,7 +17,7 @@
             - #I Duplicate it as a questions page, linking to the sprint. 
         - #[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
             - #I This could be a value-offering to the Roam community. RC could be a place to view the Roam Games developments. 
-                - #I Building a directors of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
+                - #I Building a directory of submissions could be proof of concept for this challenge! Multiplayer contribution to an evolving directory of RoamGames activity. 
                     - A place to view the relationships and dependencies across projects.
         - Example work on a sprint [[Sprints/1 — Roam Games 3 (managing dependencies)]]
         - Processes:: How to work on a sprint
@@ -163,7 +163,7 @@
                     - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
             - "#I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
                 - "[Draft Sprints template](((tG1HJs2dK)))"
-            - Like this: "[[Sprints/Title Example]]"
+            - Like this: "Sprints/Title Example"
         - Simple Replies
             - Agree: "Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]])" [[~[[Brandon Toner]]]] — I updated the epic & sprint namespaces I had created
     - #Bookmarks
