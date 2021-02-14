@@ -12,6 +12,10 @@
 - **[Time Zone](<Time Zone.md>):** [Central European Time](<Central European Time.md>) ([UTC](<UTC.md>) +1:00)
         - **[Work](<Work.md>):**
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- **[Location](<Location.md>):** [Ann Arbor](<Ann Arbor.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
+        - **[Work](<Work.md>):**
+
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
         - **[Work](<Work.md>):**

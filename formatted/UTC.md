@@ -9,6 +9,9 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Time Zone](<Time Zone.md>):** [Central European Time](<Central European Time.md>) ([UTC](<UTC.md>)
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
 

@@ -24,6 +24,10 @@
 - **[Work](<Work.md>):** [PhD student](<PhD student.md>)
         - **[How to contact me](<How to contact me.md>):**
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -4:00)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
         - **[How to contact me](<How to contact me.md>):**

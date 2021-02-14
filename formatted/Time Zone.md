@@ -20,6 +20,10 @@
 - **[Location](<Location.md>):** [Donostia - San Sebastián](<Donostia - San Sebastián.md>), [Basque Country](<Basque Country.md>) [Spain](<Spain.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- **[Work](<Work.md>):** [anthropologist](<anthropologist.md>) [researcher](<researcher.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Location](<Location.md>):** [Boston](<Boston.md>), [Massachusetts](<Massachusetts.md>) [USA](<USA.md>)
         - **[Time Zone](<Time Zone.md>):**

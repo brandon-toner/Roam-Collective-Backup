@@ -8,6 +8,10 @@
 - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
         - **[Interests](<Interests.md>):**
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- I started using [Roam](<Roam.md>) in [October 4th, 2019](<October 4th, 2019.md>)
+        - **[Interests](<Interests.md>):**
+
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - **[Birthday](<Birthday.md>):** [April 14th, 2021](<April 14th, 2021.md>)
         - **[Interests](<Interests.md>):**

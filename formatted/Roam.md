@@ -88,6 +88,9 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- I started using [Roam](<Roam.md>)
+
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
 - I also started using [Roam](<Roam.md>)
 

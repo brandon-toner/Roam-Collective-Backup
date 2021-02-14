@@ -115,6 +115,9 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Tags](<Tags.md>):**
 
+## [Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
 - **[Tags](<Tags.md>):**
 
@@ -164,6 +167,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Jokes](<Jokes.md>)
+- **[Tags](<Tags.md>):**
+
+## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Kyle Stratis](<Kyle Stratis.md>)

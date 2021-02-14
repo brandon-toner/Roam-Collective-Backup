@@ -56,10 +56,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
-- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone](@[Peter Rosso](<Peter Rosso.md>)]
-
-- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone](@[Peter Rosso](<Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[@[[Brandon Toner](<@[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`[@[[Everyone](<[Everyone.md>)](@[Peter Rosso](<Peter Rosso.md>)]
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 

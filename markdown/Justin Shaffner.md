@@ -1,1 +1,13 @@
-- 
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@shaffner_justin](https://twitter.com/shaffner_justin)
+        - Website:: In progress
+        - Location:: [[Ann Arbor]], [[Michigan]] [[United States]]
+        - Work:: [[anthropologist]] [[researcher]]
+        - Time Zone:: [[Eastern Time]] ([[UTC]] -4:00)
+        - How to contact me:: 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
+        - I started using [[Roam]] in [[October 4th, 2019]]
+        - Interests::
+            - Knowledge practices; relationship between cultural meaning and human perception; technologies of self and body; and dynamics of organization and leadership.

@@ -1,1 +1,13 @@
-- 
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [@shaffner_justin](https://twitter.com/shaffner_justin)
+        - **[Website](<Website.md>):** In progress
+        - **[Location](<Location.md>):** [Ann Arbor](<Ann Arbor.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
+        - **[Work](<Work.md>):** [anthropologist](<anthropologist.md>) [researcher](<researcher.md>)
+        - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -4:00)
+        - **[How to contact me](<How to contact me.md>):** 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
+        - I started using [Roam](<Roam.md>) in [October 4th, 2019](<October 4th, 2019.md>)
+        - **[Interests](<Interests.md>):**
+            - Knowledge practices; relationship between cultural meaning and human perception; technologies of self and body; and dynamics of organization and leadership.

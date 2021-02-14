@@ -1,0 +1,20 @@
+- Tags:: #Epics
+    - Date Created:: [[February 14th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Date Range:: #not_populated
+    - Description:: 
+        - A collection of tasks and projects to establish a healthy and functional baseline for the RC.
+        - Litmus tests: 
+            - New members can easily join and contribute.
+            - Daily activity on the DNP by >1 person
+            - Meaningful progress on collaborative projects
+            - Member satisfaction and fulfillment (time well spent)
+            - Emulation within the community / dissemination of the conventions and processes
+            - Roam Games acknowledgement/winning (Either directly or honored as ancestors/inspirations)
+            - Knowledge base accumulates naturally and with minimal convergent "effort".
+    - Status:: [[Status/Active]]
+    - Resources:: #not_populated
+    - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
+        1. [[February 14th, 2021]]
+            - **Brandon:** Established Epic and made initial [outline](((48PY0Vlnm)))
+            - **Brandon:** Populated epic [description and vision statements](((owNcyPWbT))).

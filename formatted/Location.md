@@ -28,6 +28,10 @@
 - **[Website](<Website.md>):** [eurunuela.github.io](https://eurunuela.github.io)
         - **[Location](<Location.md>):**
 
+## [Justin Shaffner](<Justin Shaffner.md>)
+- **[Website](<Website.md>):** In progress
+        - **[Location](<Location.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
         - **[Location](<Location.md>):**
