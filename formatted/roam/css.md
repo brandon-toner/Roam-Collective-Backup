@@ -4484,7 +4484,7 @@ a {
 /*Block Reference formatting*/
 
 .rm-block-ref {
-    font-weight: 430;
+    font-weight: 390;
   	font-style: italic;
     /*color: [009688](<../009688.md>);
   	text-decoration: underline;

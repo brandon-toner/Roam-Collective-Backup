@@ -5,7 +5,13 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
         1. **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+        2. **Brandon:** "[I](<I.md>) Weekly [Substack](<Substack.md>) [newsletter](<newsletter.md>) with graph updates, highlights, active projects/sprints etc."
+            - "[I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>)) for drafting the contents of the letter."
+        3. **From Charles' section:** 
+            - [Obs](<Obs.md>) "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
+                - **Result:** "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
+        1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"

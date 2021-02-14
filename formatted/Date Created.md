@@ -33,7 +33,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
-- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>)
+- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>) [Metaphors](<Metaphors.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
@@ -193,6 +193,6 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
-- **[Tags](<Tags.md>):** [Idioms](<Idioms.md>)
+- **[Tags](<Tags.md>):** [Idioms](<Idioms.md>) [Metaphors](<Metaphors.md>)
     - **[Date Created](<Date Created.md>):**
 
