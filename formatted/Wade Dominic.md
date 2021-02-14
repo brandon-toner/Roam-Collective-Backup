@@ -1,4 +1,4 @@
-- {{or:🚫 offline | 🟠Away | 🟢Online}}
+- {{or:🟢Online | 🚫 offline | 🟠Away}}
 - ---
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -12,7 +12,7 @@
         - **[Status](<Status.md>):**
 - **[SmartBlocks](<SmartBlocks.md>):**
     - WDominic — .DNP Templatee [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not_populated](<not_populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
             - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
@@ -26,6 +26,9 @@
 - [Wade Dominic](<Wade Dominic.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
+
+## [February 13th, 2021](<February 13th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
 
 ## [Wade Dominic](<Wade Dominic.md>)

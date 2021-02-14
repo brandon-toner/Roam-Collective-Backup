@@ -331,10 +331,10 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
         - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+            - "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 

@@ -225,3 +225,10 @@
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not_populated
+    - #Conversation #not_populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+- ---

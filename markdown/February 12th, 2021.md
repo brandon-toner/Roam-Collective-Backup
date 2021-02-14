@@ -331,10 +331,10 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
         - "Thoughts:: [[[[E:]] prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🚫 offline | 🟠Away | 🟢Online}}"
+            - "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - #Questions ((about the graph, or directed towards someone)) #not_populated
     - #Conversation #not_populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
