@@ -15,10 +15,6 @@
 - Article: Tagging Is Broken by [Tiago Forte](<Tiago Forte.md>)
             - **[URL](<URL.md>):**
 
-## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
-- **[Full Title](<Full Title.md>):** [not_populated](<not_populated.md>)
-    - **[URL](<URL.md>):**
-
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? #[Tweet Threads](<Tweet Threads.md>)
             - **[URL](<URL.md>):**
@@ -82,6 +78,10 @@
 ## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
 - Alarm fatigue - Wikipedia
             - **[URL](<URL.md>):**
+
+## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
+- **[Full Title](<Full Title.md>):** [not_populated](<not_populated.md>)
+    - **[URL](<URL.md>):**
 
 ## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
 - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding

@@ -157,9 +157,6 @@
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):**
 
-## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
-- **[Tags](<Tags.md>):**
-
 ## [I](<I.md>)
 - **[Tags](<Tags.md>):**
 
@@ -512,6 +509,9 @@
 
 ## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
 - ---
+- **[Tags](<Tags.md>):**
+
+## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):**
 
 ## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)

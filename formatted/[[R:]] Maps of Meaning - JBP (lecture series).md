@@ -1,5 +1,5 @@
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Podcasts](<Podcasts.md>), [order](<order.md>), [chaos](<chaos.md>), [mythology](<mythology.md>), [meaning](<meaning.md>) 
-    - **[Related](<Related.md>):** [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
+    - **[Related](<Related.md>):** [[[R:](<[[R:.md>) Hero of a Thousand Faces]]
     - **[Author(s)](<Author(s).md>):** [Jordan Peterson](<Jordan Peterson.md>)
     - **[Full Title](<Full Title.md>):** Maps of Meaning
     - **[Recommended by](<Recommended by.md>):** 

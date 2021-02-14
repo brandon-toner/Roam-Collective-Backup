@@ -1,5 +1,5 @@
 - Tags:: #Resources #[[Reference Notes]] ((add type of resource... Articles, Books, Videos etc.)) #Podcasts, #order, #chaos, #mythology, #meaning 
-    - Related:: [[Hero of a Thousand Faces]]
+    - Related:: [[[[R:]] Hero of a Thousand Faces]]
     - Author(s):: [[Jordan Peterson]]
     - Full Title:: Maps of Meaning
     - Recommended by:: 

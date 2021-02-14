@@ -1,0 +1,4 @@
+- Tags:: #Resources #[[Reference Notes]] ((add type of resource... Articles, Books, Videos etc.)) #Books
+    - Author(s):: [[Joseph Campbell]]
+    - Full Title:: #not_populated
+    - URL:: #not_populated

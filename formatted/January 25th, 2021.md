@@ -168,7 +168,7 @@
         1. From the [Prompts](<Prompts.md>) page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
             - For book club:
                 - Book reading companion
-                    - Thinking of something like what [Sam Marfleet](<Sam Marfleet.md>) made for [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)...
+                    - Thinking of something like what [Sam Marfleet](<Sam Marfleet.md>) made for [[[R:](<[[R:.md>) Hero of a Thousand Faces]]...
                 - Study guide
         1. "What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](((ODwYwd-L7)))"
             - "To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities."

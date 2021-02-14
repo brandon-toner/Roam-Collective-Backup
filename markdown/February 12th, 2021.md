@@ -160,7 +160,7 @@
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
         - On conventions
-            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([[~[[Charles Farr]]]])[@]([[@[[Peter Rosso]]]])
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([[~[[Charles Farr]]]])[~]([[~[[Peter Rosso]]]])
                 - #Q How can we improve our onboarding messaging to dismiss this fear. 
                     - I consider it hard to "break" the graph. 
                     - Levels of "jumping in" #Drafts #Outlines
@@ -181,7 +181,7 @@
                     - #I Make CORE conventions very obvious. 
                         - Establish a hierarchy of conventions. Most important to least important.
                     - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
-                    - #I What about a new-member stamp-card type challenge  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+                    - #I What about a new-member stamp-card type challenge  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
                         - A set of simple activities to try that walk the new user through various conventions in the graph
                             - Examples::
                                 - Create your DNP Section
@@ -205,7 +205,7 @@
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `#A` tag as an option for response to a `#Q` block.[*](((IB0MarB0y)))
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - #Inbox #not_populated
         - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
         - see camera for type of links in roam
@@ -312,8 +312,8 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
             - [[~[[Brandon Toner]]]] what do you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
             - [@]([[Brandon Toner]]) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
                 - Suggestion is to use `[@]()` for people and `[*]()` for blocks
-            - [@]([[~[[Brandon Toner]]]]) [@]([[@[[Peter Rosso]]]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
-                - {{or:[[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+            - [@]([[~[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
+                - {{or:[[~[[Peter Rosso]]]] | [[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
                 - #[[Change Log]]
                     - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
                     - #42SmartBlock .rcNotify — @Everyone Tag
@@ -321,7 +321,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([[@[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
-            - [@B]([[@[[Brandon Toner]]]]) [@P]([[@[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
+            - [@B]([[@[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
                 - Would add a few prompts to ask them to respond to:
                     - What do you love about Roam? What do you wish was better?
                     - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?

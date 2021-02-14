@@ -86,7 +86,7 @@
             - We should, however think about what our output channels might be. No rush, but I feel that conversation starting to emerge.
                 - [Q](<Q.md>) What output channels would be like to use for Roam Collective?
         3. [[[R:](<[[R:.md>) Maps of Meaning - JBP (lecture series)]] podcast/YouTube series
-            - Here is the details of the lecture series I mentioned yesterday [@[[Peter Rosso](<@[[Peter Rosso.md>)]] 
+            - Here is the details of the lecture series I mentioned yesterday [~[[Peter Rosso](<~[[Peter Rosso.md>)]] 
         4. Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.
             - Collections are plural in our convention, so I lean towards being consistent with that. 

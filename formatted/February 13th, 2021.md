@@ -54,7 +54,7 @@
                 - Graph updates, highlights, active projects
                 - Section on the Roam Games latest.
             - [I](<I.md>) We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
-            - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+            - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -211,7 +211,7 @@
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
         - {{[drawing](<drawing.md>)}}

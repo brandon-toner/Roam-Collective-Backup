@@ -160,7 +160,7 @@
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
             - On [@Everyone](((yez0IRTC_))) — This is amazing hahaha
         - On conventions
-            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])[@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
+            - ["fear of breaking it"](((R-lX26S64))) I would agree. [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])[~]([~[[Peter Rosso](<~[[Peter Rosso.md>)]])
                 - [Q](<Q.md>) How can we improve our onboarding messaging to dismiss this fear. 
                     - I consider it hard to "break" the graph. 
                     - Levels of "jumping in" [Drafts](<Drafts.md>) [Outlines](<Outlines.md>)
@@ -181,7 +181,7 @@
                     - [I](<I.md>) Make CORE conventions very obvious. 
                         - Establish a hierarchy of conventions. Most important to least important.
                     - Less conventions is not a viable option in my books. There will always be an experimental edge in the graph — BUT we can emphasize the line between what is common norm and what is not. This can be done through stronger conventions guides & onboarding/welcoming.
-                    - [I](<I.md>) What about a new-member stamp-card type challenge  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+                    - [I](<I.md>) What about a new-member stamp-card type challenge  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
                         - A set of simple activities to try that walk the new user through various conventions in the graph
                             - **[Examples](<Examples.md>):**
                                 - Create your DNP Section
@@ -205,7 +205,7 @@
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `[A](<A.md>)` tag as an option for response to a `[Q](<Q.md>)` block.[*](((IB0MarB0y)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
         - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
         - see camera for type of links in roam
@@ -312,8 +312,8 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about the structure of Epics / Sprints [here](((67jhmzS6u)))
             - [@]([Brandon Toner](<Brandon Toner.md>)) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
                 - Suggestion is to use `[@]()` for people and `[*]()` for blocks
-            - [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
-                - {{or:[~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+            - [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [~P]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
+                - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
                 - #[Change Log](<Change Log.md>)
                     - Updated the CSS for `[@[[Everyone](<@[[Everyone.md>)]]` to remove the `unread` — only affects the everyone tag
                     - [42SmartBlock](<42SmartBlock.md>) .rcNotify — @Everyone Tag
@@ -321,7 +321,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [taxonomy](<taxonomy.md>) of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
-            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [~P]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
                 - Would add a few prompts to ask them to respond to:
                     - What do you love about Roam? What do you wish was better?
                     - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?

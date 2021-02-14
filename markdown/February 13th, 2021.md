@@ -54,7 +54,7 @@
                 - Graph updates, highlights, active projects
                 - Section on the Roam Games latest.
             - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
-            - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+            - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
     - #Bookmarks #not_populated
     - #Conversation 
         1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -211,7 +211,7 @@
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
     - #Inbox #not_populated
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
         - {{[[drawing]]}}

@@ -10,9 +10,6 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>)
 
-## [Hero of a Thousand Faces](<Hero of a Thousand Faces.md>)
-- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
-
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
@@ -45,6 +42,9 @@
 
 ## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>)
+
+## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
 ## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)

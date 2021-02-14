@@ -61,7 +61,7 @@
     - **[About me](<About me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- {{or:🚫 offline | 🟢Online | 🟠Away}}
+- {{or:🟢Online | 🚫 offline | 🟠Away}}
     - **[About me](<About me.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)
