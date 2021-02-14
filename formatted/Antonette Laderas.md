@@ -44,6 +44,3 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>)
 
-## [Directory](<Directory.md>)
-- [Antonette Laderas](<Antonette Laderas.md>)
-

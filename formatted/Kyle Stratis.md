@@ -16,9 +16,6 @@
     - {{[query](<query.md>): {and: [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]]}}}
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Kyle Stratis](<Kyle Stratis.md>)
-
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Kyle Stratis](<Kyle Stratis.md>)
 

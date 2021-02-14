@@ -21,9 +21,6 @@
         - ---
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Larissa de Lima](<Larissa de Lima.md>)
-
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - [Larissa de Lima](<Larissa de Lima.md>)
 

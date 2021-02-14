@@ -36,9 +36,6 @@
 - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Mark Robertson](<Mark Robertson.md>)
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 

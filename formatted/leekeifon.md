@@ -16,9 +16,6 @@
     - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>) [leekeifon](<leekeifon.md>)}}}
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [leekeifon](<leekeifon.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 

@@ -8,6 +8,10 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - #[Next Steps](<Next Steps.md>)
 
+## [February 14th, 2021](<February 14th, 2021.md>)
+- **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+            - **[Next Steps](<Next Steps.md>):**
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Next Steps](<Next Steps.md>)
 
@@ -15,6 +19,9 @@
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - 19:34 — Changed preferred tasks convention from #[Next Steps](<Next Steps.md>)
+
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [Next Steps](<Next Steps.md>)}
 
 ## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
 - **[supported by](<supported by.md>):** [[[E:](<[[E:.md>) Claim 2]]

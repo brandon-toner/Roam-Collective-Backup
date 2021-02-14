@@ -1,9 +1,6 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Andy Henson](<Andy Henson.md>)
-
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Andy Henson](<Andy Henson.md>)'
 

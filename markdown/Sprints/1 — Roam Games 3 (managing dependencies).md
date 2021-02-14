@@ -26,7 +26,10 @@
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
     - Tasks:: #not_populated ((Replace ex-A with the sprint page name))
         - Query:: 
-            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[TODO]]}}}
+            - **Sprint + "Next Steps"**
+                - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[Next Steps]]}}}
+            - **Sprint + TODO**
+                - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[TODO]]}}}
     - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
         1. [[February 11th, 2021]] 
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 

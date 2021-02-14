@@ -22,6 +22,9 @@
 
 - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>)
 
+## [February 14th, 2021](<February 14th, 2021.md>)
+- Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "going to spend some time tonight on [Roam Games](<Roam Games.md>),
 

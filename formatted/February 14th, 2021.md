@@ -1,0 +1,29 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+            - **[Next Steps](<Next Steps.md>):**
+                - Continue to outline and explore components of 
+                    - [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
+                    - [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]] 
+                - Building a collection of [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
+                    - [ ] Find and take notes on the system from [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) #[February 2021](<February 2021.md>)
+                    - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric
+                - Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>) submissions, projects, and contributors.
+                    - Will eventually live within [The Roaman Agora](<The Roaman Agora.md>)
+                - Building "[The Roaman Agora](<The Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
+                - Integrating [Roam Inter](<Roam Inter.md>) into [The Roaman Agora](<The Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not_populated](<not_populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. Added some [queries](((-iIUy3zDF))) to assist in detecting and picking up with "work to be done" on active sprints.
+        2. Added some "Next Steps" on the current sprint.
+- ---

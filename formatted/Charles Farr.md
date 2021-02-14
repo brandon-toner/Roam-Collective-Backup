@@ -68,6 +68,11 @@
 
 - People would be represented by pages (e.g., `[Charles Farr](<Charles Farr.md>)`
 
+## [February 14th, 2021](<February 14th, 2021.md>)
+- Building "[The Roaman Agora](<The Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
+
+- Integrating [Roam Inter](<Roam Inter.md>) into [The Roaman Agora](<The Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 

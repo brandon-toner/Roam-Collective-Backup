@@ -11,9 +11,6 @@
     - {{[query](<query.md>): {and: [@](<@.md>) [Winston Teng](<Winston Teng.md>)}}}
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Winston Teng](<Winston Teng.md>)
-
 ## [Winston Teng](<Winston Teng.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Winston Teng](<Winston Teng.md>)}
 

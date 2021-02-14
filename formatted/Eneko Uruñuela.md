@@ -23,9 +23,6 @@
 - 
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Eneko Uruñuela](<Eneko Uruñuela.md>)
-
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}
 

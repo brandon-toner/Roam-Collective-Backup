@@ -8,8 +8,3 @@
             - Send me a DM on Twitter
         - Received education at [HEC Montreal](<HEC Montreal.md>) 
         - I started using [Roam](<Roam.md>) in [June 2020](<June 2020.md>)
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Alysson M. Costa](<Alysson M. Costa.md>)
-

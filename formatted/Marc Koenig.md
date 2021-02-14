@@ -5,8 +5,3 @@
 
         - **[Location](<Location.md>):** [Madison, WI](<Madison, WI.md>), [Wisconsin](<Wisconsin.md>) [United States](<United States.md>)
         - **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>) -6:00)
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Marc Koenig](<Marc Koenig.md>)
-

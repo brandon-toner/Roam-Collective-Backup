@@ -14,9 +14,6 @@
         - **[Fun facts](<Fun facts.md>):** I have an adorable Blue Abyssinian kitten named Blueberry & she's much more active on Instagram than I am; I'm a proud member of [YelpEliteNYC](<YelpEliteNYC.md>) (basically I get to go cool elite events for writing rad reviews); I also read/review pre-launch books for writers/publishers when I have time
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Lindsey Johnston](<Lindsey Johnston.md>)
-
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - **[Participants](<Participants.md>):** [Jason Griffing](<Jason Griffing.md>), [Beau Hann](<Beau Hann.md>), [Adam Bartley](<Adam Bartley.md>), [David Bieber](<David Bieber.md>), [Norman Chella](<Norman Chella.md>), [Lindsey Johnston](<Lindsey Johnston.md>),
 

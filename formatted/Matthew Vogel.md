@@ -66,9 +66,6 @@ return [query, results];```
         - [[[E:](<[[E:.md>) alert fatigue]]
 
 # Backlinks
-## [Directory](<Directory.md>)
-- [Matthew Vogel](<Matthew Vogel.md>)
-
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - [Matthew Vogel](<Matthew Vogel.md>)
 

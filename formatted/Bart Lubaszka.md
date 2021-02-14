@@ -71,8 +71,3 @@
                     - use Roam for collaborative writing with learners
                     - use Roam for progressive summarisation strategies with learners
 - ---
-
-# Backlinks
-## [Directory](<Directory.md>)
-- [Bart Lubaszka](<Bart Lubaszka.md>)
-

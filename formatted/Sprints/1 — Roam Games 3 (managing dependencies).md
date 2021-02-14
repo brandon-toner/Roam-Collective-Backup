@@ -26,7 +26,10 @@
             - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<../E:.md>) [Fleeting Notes](<../Fleeting Notes.md>) [I](<../I.md>) [Literature Notes](<../Literature Notes.md>)}}}} [minimal](<../minimal.md>)
     - **[Tasks](<../Tasks.md>):** [not_populated](<../not_populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):** 
-            - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<../TODO.md>)}}}
+            - **Sprint + "Next Steps"**
+                - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [Next Steps](<../Next Steps.md>)}}}
+            - **Sprint + TODO**
+                - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<../TODO.md>)}}}
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         1. [February 11th, 2021](<../February 11th, 2021.md>) 
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
@@ -74,7 +77,12 @@
 
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
+## [February 14th, 2021](<February 14th, 2021.md>)
+- **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
