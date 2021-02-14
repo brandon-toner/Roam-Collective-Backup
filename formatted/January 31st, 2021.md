@@ -58,7 +58,7 @@
         - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
-                - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](((RmnP5y1HC))))
+                - [alphabetical order](<alphabetical order.md>) (of primary interest, particularly [here](**Pages authored by graph members:**))
         - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
             - **[Related](<Related.md>):**
                 - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "

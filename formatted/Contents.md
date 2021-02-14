@@ -12,6 +12,10 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Origin](<Origin.md>):** [not_populated](<not_populated.md>)
+    - **[Contents](<Contents.md>):**
+
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**

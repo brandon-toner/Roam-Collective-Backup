@@ -1,15 +1,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) [zettelkasten](<zettelkasten.md>)
 - **[Entry Points](<Entry Points.md>):** [not_populated](<not_populated.md>)
 - **[Index](<Index.md>):**
-    - **Pages authored by graph members:**
-        - [[[E:](<[[E:.md>) cycles of divergence and convergence]]
-        - [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
-        - [[[E:](<[[E:.md>) Have a clear aim]]
-        - [[[E:](<[[E:.md>) active vs passive resurfacing]]
-        - [[[E:](<[[E:.md>) beneficial, but optional]]
-        - [[[E:](<[[E:.md>) active vs passive resurfacing]]
-        - [[[E:](<[[E:.md>) Use the native convention as much as possible.]]
-        - [[[E:](<[[E:.md>) "Hacked" solutions are likely to break over time.]]
 - How to document [evergreen notes](<evergreen notes.md>): [*]
     - {{[embed](<embed.md>): ((vDdMH0T-r))}}
 

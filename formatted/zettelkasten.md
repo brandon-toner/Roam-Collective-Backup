@@ -31,6 +31,9 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - [Q](<Q.md>) can we quantify the [entropy](<entropy.md>) of a [zettelkasten](<zettelkasten.md>)?
 
+## [February 13th, 2021](<February 13th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) The purpose of my [zettelkasten](<zettelkasten.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>)
 

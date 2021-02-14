@@ -32,6 +32,10 @@
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [collaboration](<collaboration.md>) [chat](<chat.md>) [communication](<communication.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **Central question:** [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - **[Date Created](<Date Created.md>):**

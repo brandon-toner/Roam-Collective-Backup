@@ -1,0 +1,6 @@
+- Tags:: #Proverbs
+    - Date Created:: [[February 13th, 2021]]
+    - Last Updated:: [[February 13th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Origin:: #not_populated
+    - Contents:: #not_populated

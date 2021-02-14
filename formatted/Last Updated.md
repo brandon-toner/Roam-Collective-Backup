@@ -4,6 +4,10 @@
 - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Last Updated](<Last Updated.md>):**
 
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Date Created](<Date Created.md>):** [February 13th, 2021](<February 13th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**

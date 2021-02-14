@@ -58,7 +58,7 @@
         - #[[Development Requests]] #[[Help Wanted]]
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
-                - [[alphabetical order]] (of primary interest, particularly [here](((RmnP5y1HC))))
+                - [[alphabetical order]] (of primary interest, particularly [here](**Pages authored by graph members:**))
         - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])
             - Related::
                 - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "

@@ -36,6 +36,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - [Q](<Q.md>) What classes of tags are there that might have different colors?
+        - #[Fleeting Notes](<Fleeting Notes.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
+            - Proverb: "Definition: Easily digestible nuggets of wisdom. "
+            - Atomic ideas are easily digestible. This is the format of a proverb. 
+            - #[Fleeting Notes](<Fleeting Notes.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
@@ -65,7 +69,8 @@
                         - The nature of the influence could be added next to the mention with simple text.
                     - **[Perhaps plural for "`Contributor](<Perhaps plural for "`Contributor.md>):**`"
                     - [Q](<Q.md>) How could the "ancestors" be explicity connected to roam games submission pages? 
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
 - **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
@@ -156,6 +161,7 @@
                 - A place to collate ideas & influence related to Roam Games
             - Structure
                 - DNP for live conversation
+                    - Following current Roam Collective conventions
                 - Submission pages connected to graphs via Roam Inter to aggregate updates seamlessly
                     - Every new push should be nested as follows
                         - Top-level Inter → `roam:inter:roam-collective`
@@ -173,6 +179,27 @@
                     - Contributor
                     - Ancestor
                     - Commenter
+            - Necessary Artifacts
+                - About
+                    - Roam Games
+                    - Roaman Agora
+                    - Roam Collective
+                - Onboarding
+                    - Guide
+                        - "About"
+                        - "Convention Overview"
+                    - SmartBlocks & Templates
+                        - For setup
+                - Convention Overview
+                    - Sections
+                        - DNP
+                            - Writing
+                            - Communication / Commentary
+                        - Project / Submission Pages
+                            - roam-inter
+                            - non-roam-inter
+                    - Examples
+                - roam-inter set up
     - [Conversation](<Conversation.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
@@ -196,6 +223,11 @@
 # Backlinks
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - DNP Reference → `[February 13th, 2021](<February 13th, 2021.md>)`
+
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Date Created](<Date Created.md>):** [February 13th, 2021](<February 13th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 13th, 2021](<February 13th, 2021.md>)
 
 ## [grist for the mill](<grist for the mill.md>)
 - **[Date Created](<Date Created.md>):** [February 13th, 2021](<February 13th, 2021.md>)

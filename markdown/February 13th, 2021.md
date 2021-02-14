@@ -36,6 +36,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - #Q What classes of tags are there that might have different colors?
+        - #[[Fleeting Notes]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
+            - Proverb: "Definition: Easily digestible nuggets of wisdom. "
+            - Atomic ideas are easily digestible. This is the format of a proverb. 
+            - #[[Fleeting Notes]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
     - #[[The Zettelkasten]] #not_populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]
@@ -65,7 +69,8 @@
                         - The nature of the influence could be added next to the mention with simple text.
                     - Perhaps plural for "`Contributor::`"
                     - #Q How could the "ancestors" be explicity connected to roam games submission pages? 
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] 
+        1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
@@ -156,6 +161,7 @@
                 - A place to collate ideas & influence related to Roam Games
             - Structure
                 - DNP for live conversation
+                    - Following current Roam Collective conventions
                 - Submission pages connected to graphs via Roam Inter to aggregate updates seamlessly
                     - Every new push should be nested as follows
                         - Top-level Inter → `roam:inter:roam-collective`
@@ -173,6 +179,27 @@
                     - Contributor
                     - Ancestor
                     - Commenter
+            - Necessary Artifacts
+                - About
+                    - Roam Games
+                    - Roaman Agora
+                    - Roam Collective
+                - Onboarding
+                    - Guide
+                        - "About"
+                        - "Convention Overview"
+                    - SmartBlocks & Templates
+                        - For setup
+                - Convention Overview
+                    - Sections
+                        - DNP
+                            - Writing
+                            - Communication / Commentary
+                        - Project / Submission Pages
+                            - roam-inter
+                            - non-roam-inter
+                    - Examples
+                - roam-inter set up
     - #Conversation
         - [[~[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"

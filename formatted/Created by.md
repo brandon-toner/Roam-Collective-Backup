@@ -28,6 +28,10 @@
 - **[People](<People.md>):** ((People involved with the project))
         - **[Created by](<Created by.md>):**
 
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Last Updated](<Last Updated.md>):** [February 13th, 2021](<February 13th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**

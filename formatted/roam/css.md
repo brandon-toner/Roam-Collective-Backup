@@ -4481,10 +4481,14 @@ a {
 }```
         8. # Block Reference styling [Status](<../Status.md>)/Enabled
             - ```css
-.rm-block-ref > span:before {
-  content: '| ';
-  font-weight: 700;
-  color: [607D8B](<../607D8B.md>)
+/*Block Reference formatting*/
+
+.rm-block-ref {
+    font-weight: 430;
+  	font-style: italic;
+    /*color: [009688](<../009688.md>);
+  	text-decoration: underline;
+  	text-decoration-color: [FF9800](<../FF9800.md>); */
 }```
         9. # Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
             - Example

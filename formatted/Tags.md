@@ -274,6 +274,9 @@
 ## [Promptstorming](<Promptstorming.md>)
 - **[Tags](<Tags.md>):**
 
+## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Q](<Q.md>)
 - **[Tags](<Tags.md>):**
 
