@@ -64,6 +64,10 @@
 - **[Work](<Work.md>):** [retired](<retired.md>)
         - **[How to contact me](<How to contact me.md>):**
 
+## [Samuel Bars](<Samuel Bars.md>)
+- **[Time Zone](<Time Zone.md>):** [CET](<CET.md>)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[Work](<Work.md>):** [Educator](<Educator.md>)
         - **[How to contact me](<How to contact me.md>):**

@@ -2,5 +2,8 @@
     - About me::
         - Twitter:: [@samuelbars](https://twitter.com/samuelbars)
         - Website:: #not_populated 
-        - Location:: [[Switzerland]]
+        - Location:: [[Yverdon-les-Bains]], [[Switzerland]]
         - Time Zone:: [[CET]]
+        - How to contact me::
+            - Dm on twitter
+    - {{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}

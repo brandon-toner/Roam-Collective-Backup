@@ -39,6 +39,9 @@
 
 - #[GTD Zone](<GTD Zone.md>)
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- #[GTD Zone](<GTD Zone.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 

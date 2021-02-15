@@ -18,6 +18,11 @@
 
 - "{{[DONE](<DONE.md>)}
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "{{[DONE](<DONE.md>)}
 

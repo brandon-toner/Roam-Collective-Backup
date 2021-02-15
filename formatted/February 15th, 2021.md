@@ -1,0 +1,14 @@
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - 
+    - #[GTD Zone](<GTD Zone.md>)
+        - [x] Create your own personal page, by placing your name at the top of your daily notes.
+        - [x] Follow [these instructions](((6202Hd2VO))) to make your own page.
+    - [Conversation](<Conversation.md>)
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) About [writing on daily pages vs your own](((dakVN3D1r)))
+            - When the amount of active users increases and the daily page starts getting overwhelming.
+                - In Roam Book Club, every daily writing template is tagged with the day, so you have daily activity, but in linked refs (easily collapsible to prevent lagging)
+            - When you want to use the daily page to focus attention on announcements or daily activities.
+                - It can become the place where you check what members shouldn't miss.
+                    - Seems like the announcements page is filling that role here.
