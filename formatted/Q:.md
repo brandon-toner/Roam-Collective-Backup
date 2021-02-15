@@ -39,6 +39,9 @@
 
 - `[Q](<Q.md>)` / `[Questions](<Questions.md>)` / `[Q:](<Q:.md>)`
 
+## [Samuel Bars](<Samuel Bars.md>)
+- {{[query](<query.md>): {and: [Samuel Bars](<Samuel Bars.md>) [Q:](<Q:.md>)
+
 ## [page-status questions](<page-status questions.md>)
 - **[Namespaces](<Namespaces.md>):** `[Q:](<Q:.md>)`
 

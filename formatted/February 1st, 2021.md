@@ -274,7 +274,7 @@
                             - We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)! [Bookmarks](<Bookmarks.md>)
                                 - [YES.](((SGUHeHTkV)))
                                     - I think we should work on conventions for [seedlings](<seedlings.md>) next. That feels like a fruitful endeavour.
-                                        - [ ] Establish conventions for [seedlings](<seedlings.md>) #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+                                        - Establish conventions for [seedlings](<seedlings.md>) #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
         - "Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?"
             - This was the direction I was leading to this afternoon.... 
             - For me, anchoring the concepts and definitions is important for mapping the territory. And is actually a [pre-requisite](<pre-requisite.md>). 
@@ -481,8 +481,8 @@
                                     - get the idea down on "paper"
                                     - mark it as an "immature" evergreen or some such
                                     - then have a process that forces you to return and mature it... 
-            - [ ] Build process to progress [seedlings](<seedlings.md>) into higher levels of maturity [*](((mfnMxjFW1)))
-            - "[ ] Convert definitions of page types into literature / evergreen / internal documentation..."
+            - Build process to progress [seedlings](<seedlings.md>) into higher levels of maturity [*](((mfnMxjFW1)))
+            - "Convert definitions of page types into literature / evergreen / internal documentation..."
         - On [collections](<collections.md>) versus [concept pages](<concept pages.md>) with BToner
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] — re: "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" + "Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]"
                 - The idea of [concept pages](<concept pages.md>) is an interesting one... Perhaps worthwhile for me to quickly map the space as I see it and then think about how they relate...
@@ -512,7 +512,7 @@
                         - I think my biggest qualm with a simply titled definition page is it gives you relatively little information right off the bat. It's functionally a fancy [alert fatigue](<alert fatigue.md>) page.
                             - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "[Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
                                 - Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?
-            - [ ] Convert definitions of page types into literature / evergreen / internal documentation...
+            - Convert definitions of page types into literature / evergreen / internal documentation...
         - On [internal-facing](<internal-facing.md>) versus [external-facing](<external-facing.md>) documentation with BToner + PRosso
             - Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [namespaces](<namespaces.md>) for [definitions](<definitions.md>) and [collections](<collections.md>) with BToner

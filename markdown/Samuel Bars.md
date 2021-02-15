@@ -6,9 +6,14 @@
         - Time Zone:: [[CET]]
         - How to contact me::
             - Dm on twitter
-    - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
-- Queries
+    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+- Inbox
     - **Notifications**:
         - {{[[query]]: {and:[[@[[Samuel Bars]]]] {not:[[query]]}}}}
     - **CC'd mentions**
         - {{[[query]]: {and: [[cc:[[Samuel Bars]]]] {not: [[query]]]}}}}
+- My activity on the graph
+    - **Questions**:
+        - {{[[query]]: {and: [[Samuel Bars]] [[Q:]] {not: [[query]]]}}}} #minimal
+    - **Ideas**:
+        - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal

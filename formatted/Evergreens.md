@@ -95,6 +95,9 @@
 ## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 

@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
+    - {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -34,7 +34,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -129,6 +129,10 @@
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
+
+- [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
@@ -290,6 +294,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [Joel Chan](<Joel Chan.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -393,6 +400,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -439,6 +449,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - Message [Brandon Toner](<Brandon Toner.md>)
 
 ## [grist for the mill](<grist for the mill.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [zettelkasten](<zettelkasten.md>)

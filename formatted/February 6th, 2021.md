@@ -110,7 +110,7 @@
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>), [Roam42](<Roam42.md>), and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - On [proximity](<proximity.md>) and [synthesis](<synthesis.md>).
             - Ideas start small and grow. 

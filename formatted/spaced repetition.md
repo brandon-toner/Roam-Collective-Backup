@@ -6,6 +6,9 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - [Q](<Q.md>) Could a [spaced repetition](<spaced repetition.md>)
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- 2) The database can be used to drive [spaced repetition](<spaced repetition.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
 

@@ -4,17 +4,18 @@
         - **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
         - **[Location](<Location.md>):** Chicago, IL
         - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
-    - **[Status](<Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}
+    - **[Status](<Status.md>):**
+        - {{or:🟢Online | 😴 Offline | 🟠Away}}
 - :hiccup [:hr]
-- Personal Artifacts
+- # Personal Artifacts
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
-            - **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
                 - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
                 - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
             - ---
-- Personal Queries
+- # Personal Queries
     - Questions
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Q](<Q.md>) {not: {or: }}  }}}
     - Follow Ups
@@ -22,12 +23,12 @@
     - Bookmarks
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not_populated](<not_populated.md>) }}  }}}
     - Todos
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {not: {or: [query](<query.md>) [42SmartBlock](<42SmartBlock.md>) }}  }}}
     - Query on keywords
         - {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [taxonomy](<taxonomy.md>) {not: {or: [query](<query.md>) }}  }}}
-- Personal Shortcuts
+- # Personal Shortcuts
     - [datalog experimentation](<datalog experimentation.md>)
     - [@ mentions for me]([@[[Charles Farr](<@[[Charles Farr.md>)]])
 
@@ -35,7 +36,7 @@
 ## [Charles Farr](<Charles Farr.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
@@ -72,6 +73,9 @@
 - Building "[The Roaman Agora](<The Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
 
 - Integrating [Roam Inter](<Roam Inter.md>) into [The Roaman Agora](<The Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+
+## [February 15th, 2021](<February 15th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)

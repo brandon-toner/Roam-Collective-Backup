@@ -32,6 +32,9 @@
 
 - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[I](<I.md>)
 
+## [Samuel Bars](<Samuel Bars.md>)
+- {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>)
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>) [I](<I.md>)
 

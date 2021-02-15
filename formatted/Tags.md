@@ -21,6 +21,9 @@
 ## [Akiff Premjee](<Akiff Premjee.md>)
 - **[Tags](<Tags.md>):**
 
+## [Algorithms of Thought](<Algorithms of Thought.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - **[Tags](<Tags.md>):**
 
@@ -166,6 +169,9 @@
 ## [Idioms](<Idioms.md>)
 - **[Tags](<Tags.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Jokes](<Jokes.md>)
 - **[Tags](<Tags.md>):**
 
@@ -236,9 +242,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [Obs](<Obs.md>)
-- **[Tags](<Tags.md>):**
-
-## [Observations](<Observations.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Opportunities](<Opportunities.md>)
@@ -483,6 +486,9 @@
 ## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
 - **[Tags](<Tags.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Tags](<Tags.md>):**
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Tags](<Tags.md>):**
 
@@ -535,6 +541,9 @@
 ## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
 - **[Tags](<Tags.md>):**
 
+## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
+- **[Tags](<Tags.md>):**
+
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
 - **[Tags](<Tags.md>):**
 
@@ -551,6 +560,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [chat](<chat.md>)
+- **[Tags](<Tags.md>):**
+
+## [chicken-and-egg](<chicken-and-egg.md>)
 - **[Tags](<Tags.md>):**
 
 ## [choice algorithm](<choice algorithm.md>)
@@ -599,6 +611,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [inklings](<inklings.md>)
+- **[Tags](<Tags.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
 - **[Tags](<Tags.md>):**
 
 ## [leekeifon](<leekeifon.md>)

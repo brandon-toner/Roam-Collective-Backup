@@ -274,7 +274,7 @@
                             - We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks
                                 - [YES.](((SGUHeHTkV)))
                                     - I think we should work on conventions for [[seedlings]] next. That feels like a fruitful endeavour.
-                                        - {{[[TODO]]}} Establish conventions for [[seedlings]] #[[Week-05: 02-01-2021]]
+                                        - Establish conventions for [[seedlings]] #[[Week-05: 02-01-2021]]
         - "Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?"
             - This was the direction I was leading to this afternoon.... 
             - For me, anchoring the concepts and definitions is important for mapping the territory. And is actually a [[pre-requisite]]. 
@@ -481,8 +481,8 @@
                                     - get the idea down on "paper"
                                     - mark it as an "immature" evergreen or some such
                                     - then have a process that forces you to return and mature it... 
-            - {{[[TODO]]}} Build process to progress [[seedlings]] into higher levels of maturity [*](((mfnMxjFW1)))
-            - "{{[[TODO]]}} Convert definitions of page types into literature / evergreen / internal documentation..."
+            - Build process to progress [[seedlings]] into higher levels of maturity [*](((mfnMxjFW1)))
+            - "Convert definitions of page types into literature / evergreen / internal documentation..."
         - On [[collections]] versus [[concept pages]] with BToner
             - [[^[[Brandon Toner]]]] — re: "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" + "Thoughts on this thread of thoughts? [[~[[Charles Farr]]]]"
                 - The idea of [[concept pages]] is an interesting one... Perhaps worthwhile for me to quickly map the space as I see it and then think about how they relate...
@@ -512,7 +512,7 @@
                         - I think my biggest qualm with a simply titled definition page is it gives you relatively little information right off the bat. It's functionally a fancy [[alert fatigue]] page.
                             - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "#Evergreens Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
                                 - Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?
-            - {{[[TODO]]}} Convert definitions of page types into literature / evergreen / internal documentation...
+            - Convert definitions of page types into literature / evergreen / internal documentation...
         - On [[internal-facing]] versus [[external-facing]] documentation with BToner + PRosso
             - Re: [How To pages](((mMz7pLfVD))) [[^[[Brandon Toner]]]] [[^[[Peter Rosso]]]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [[namespaces]] for [[definitions]] and [[collections]] with BToner

@@ -28,6 +28,10 @@
 - **[Website](<Website.md>):** [eurunuela.github.io](https://eurunuela.github.io)
         - **[Location](<Location.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- See also public working notes at https://joelchan.roam.garden/
+        - **[Location](<Location.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Website](<Website.md>):** [itsjustmath.net](https://itsjustmath.net/)
         - **[Location](<Location.md>):**

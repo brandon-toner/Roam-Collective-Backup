@@ -36,6 +36,10 @@
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
@@ -66,5 +70,9 @@
 
 ## [grist for the mill](<grist for the mill.md>)
 - **[Date Created](<Date Created.md>):** [February 13th, 2021](<February 13th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+- **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 

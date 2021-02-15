@@ -124,6 +124,10 @@
 - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- In the meantime, easily discoverable on Twitter or Google.
+    - **[Contents](<Contents.md>):**
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - the purpose of the [divergence](<divergence.md>) phase is to generate [abundance](<abundance.md>).
     - **[Contents](<Contents.md>):**
@@ -169,6 +173,10 @@
     - **[Contents](<Contents.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
+- **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
 - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 

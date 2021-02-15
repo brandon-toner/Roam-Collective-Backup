@@ -3,6 +3,9 @@
 ## [Adam Bartley](<Adam Bartley.md>)
 - **[Location](<Location.md>):** [Royal Oak](<Royal Oak.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Location](<Location.md>):** [College Park](<College Park.md>) [Maryland](<Maryland.md>) [United States](<United States.md>)
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Location](<Location.md>):** [Ann Arbor](<Ann Arbor.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
 

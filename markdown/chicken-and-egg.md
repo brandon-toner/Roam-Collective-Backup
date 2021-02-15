@@ -1,0 +1,2 @@
+- Tags:: #Metaphors
+- "What came first, the chicken or the egg?"

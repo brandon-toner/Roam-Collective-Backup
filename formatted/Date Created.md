@@ -152,6 +152,10 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [leverage](<leverage.md>) [compounding](<compounding.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
     - **[Date Created](<Date Created.md>):**
@@ -198,5 +202,9 @@
 
 ## [grist for the mill](<grist for the mill.md>)
 - **[Tags](<Tags.md>):** [Idioms](<Idioms.md>) [Metaphors](<Metaphors.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
 

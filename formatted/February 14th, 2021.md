@@ -20,7 +20,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - Domains [Outlines](<Outlines.md>)
             - Onboarding
@@ -78,7 +78,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
-    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
         - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
             - Welcome to the Roam Collective friend! In a couple of sessions, we will help you get used to some of the tools and conventions that are used on this graph. Start by typing `;;` followed by `Welcome` and then press enter.
                 - Welcome .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
@@ -94,13 +94,14 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) Check [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe?hl=en) out! So cool! 
+            - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [cc:C]([@[[Charles Farr](<@[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone]([@[[Peter Rosso](<@[[Peter Rosso.md>)]][@[[Everyone](<@[[Everyone.md>)]][@[[Charles Farr](<@[[Charles Farr.md>)]][~[[Brandon Toner](<~[[Brandon Toner.md>)]][@[[leekeifon](<@[[leekeifon.md>)]][@[[Larissa de Lima](<@[[Larissa de Lima.md>))
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone](@[Peter Rosso](<Peter Rosso.md>)]][@[[Everyone](<@[[Everyone.md>)]][@[[Charles Farr](<@[[Charles Farr.md>)]][~[[Brandon Toner](<~[[Brandon Toner.md>)]][@[[leekeifon](<@[[leekeifon.md>)]][[@[[Larissa de Lima)
 `[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[@[[Brandon Toner](<@[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@C]([@[[Charles Farr](<@[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 

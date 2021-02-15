@@ -69,9 +69,9 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
-- [minimal](<minimal.md>) {{[query](<query.md>):
+- [min-con](<min-con.md>) {{[query](<query.md>):
 
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
@@ -221,6 +221,14 @@
 - {{[query](<query.md>):
 
 - {{[query](<query.md>): {and: [cc:[[Samuel Bars](<cc:[[Samuel Bars.md>)]] {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [Samuel Bars](<Samuel Bars.md>) [Q:](<Q:.md>) {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>) {not: [query](<query.md>)]
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>):

@@ -16,6 +16,9 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>)
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
 

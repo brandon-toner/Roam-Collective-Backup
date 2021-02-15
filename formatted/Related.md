@@ -46,6 +46,19 @@
 - That can be used to formulate a claim or a belief — explicitly or implicitly.
             - **[Related](<Related.md>):**
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- This might be what [R&D](<R&D.md>) is.[*](((6qTdvRXbI)))
+            - **[Related](<Related.md>):**
+
+- #[Fleeting Notes](<Fleeting Notes.md>) within any given domain, there is a LOT of material that can be learned.
+                    - **[Related](<Related.md>):**
+
+- Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
+            - **[Related](<Related.md>):**
+
+- [Q](<Q.md>) How might those barriers be navigated or reduced? 
+            - **[Related](<Related.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**

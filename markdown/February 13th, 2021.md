@@ -14,7 +14,7 @@
         1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[@[[Charles Farr]]]])"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
@@ -78,7 +78,7 @@
     - #[[Change Log]] 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - "On the foundations of [[statement chains]]..."
             - "[[Conor]] mentioned that he thinks of education as a series of [[statement chains]]"

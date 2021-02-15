@@ -8,6 +8,10 @@
 - **[Time Zone](<Time Zone.md>):** [Atlantic Time](<Atlantic Time.md>) ([UTC](<UTC.md>) -4:00)
         - **[Birthday](<Birthday.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
+        - **[Birthday](<Birthday.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Time Zone](<Time Zone.md>):** [Pacific Time](<Pacific Time.md>) ([UTC](<UTC.md>) -8:00)
         - **[Birthday](<Birthday.md>):**

@@ -131,6 +131,10 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Author](<Author.md>):** [Jack Butcher](<Jack Butcher.md>) of [Visualize Value](<Visualize Value.md>)
+    - **[References](<References.md>):**
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
@@ -176,6 +180,10 @@
     - **[References](<References.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[References](<References.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
 

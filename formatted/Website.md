@@ -28,6 +28,10 @@
 - **[Twitter](<Twitter.md>):** [@eurunuela](https://twitter.com/eurunuela)
         - **[Website](<Website.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Twitter](<Twitter.md>):** [@joelchan86](https://twitter.com/joelchan86)
+        - **[Website](<Website.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Twitter](<Twitter.md>):** [@itsjustmath](https://twitter.com/itsjustmath)
         - **[Website](<Website.md>):**

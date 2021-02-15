@@ -1,0 +1,21 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@joelchan86](https://twitter.com/joelchan86)
+        - Website:: [joelchan.me](http://joelchan.me/)
+            - See also public working notes at https://joelchan.roam.garden/
+        - Location:: [[College Park]] [[Maryland]] [[United States]]
+        - Time Zone:: [[Eastern Time]] ([[UTC]] -5:00)
+        - Birthday:: 
+        - How to contact me:: 
+            - Send me an email at joelchan@umd.edu (preferred)
+            - Send me a DM on Twitter or slack (also ok)
+    - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
+- **Personal SmartBlocks**
+    - JChan — .DNP Template #42SmartBlock #roam/templates 
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+            - #Scratchpad #not_populated
+            - #[[The Zettelkasten]] #not_populated
+            - #Bookmarks #not_populated
+            - #Conversation #not_populated
+            - #[[Change Log]] #not_populated
+        - ---

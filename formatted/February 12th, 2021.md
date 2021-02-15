@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -248,7 +248,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
     - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
-- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) of tentative Story points

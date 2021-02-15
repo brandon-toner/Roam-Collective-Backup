@@ -14,7 +14,7 @@
         1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
@@ -78,7 +78,7 @@
     - #[Change Log](<Change Log.md>) 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- **[#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status](<#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "Status.md>):**  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - "On the foundations of [statement chains](<statement chains.md>)..."
             - "[Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)"

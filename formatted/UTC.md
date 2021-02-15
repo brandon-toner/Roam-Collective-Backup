@@ -9,6 +9,9 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - **[Time Zone](<Time Zone.md>):** [Central European Time](<Central European Time.md>) ([UTC](<UTC.md>)
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Time Zone](<Time Zone.md>):** [Pacific Time](<Pacific Time.md>) ([UTC](<UTC.md>)
 

@@ -20,3 +20,7 @@
 - "#[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
 - **[Process](<Process.md>):**
 
+## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)
+    - **[Process](<Process.md>):**
+

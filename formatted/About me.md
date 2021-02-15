@@ -28,6 +28,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**

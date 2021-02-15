@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
         - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -248,7 +248,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Feedback  #not_populated
     - #Bookmarks #not_populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points

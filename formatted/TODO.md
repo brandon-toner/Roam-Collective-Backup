@@ -24,7 +24,7 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>)
 
 ## [Charles Farr](<Charles Farr.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>)
 
 ## [Decisions](<Decisions.md>)
 - {{[TODO](<TODO.md>)}
@@ -139,7 +139,39 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - To continue on this I will "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -149,14 +181,6 @@
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 

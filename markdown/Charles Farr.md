@@ -4,17 +4,18 @@
         - Website:: [Foundation.al — personal blog](https://thefoundation.al)
         - Location:: Chicago, IL
         - Time Zone:: Central Time (GMT –6:00)
-    - Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}
+    - Status::
+        - {{or:🟢Online | 😴 Offline | 🟠Away}}
 - :hiccup [:hr]
-- Personal Artifacts
+- # Personal Artifacts
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
-            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "Status::  {{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
                 - #Scratchpad #not_populated
                 - #Conversation #not_populated
                 - #Bookmarks #not_populated
             - ---
-- Personal Queries
+- # Personal Queries
     - Questions
         - #min-con {{[[query]]: {and: [[csf]] [[Q]] {not: {or: }}  }}}
     - Follow Ups
@@ -22,11 +23,11 @@
     - Bookmarks
         - #min-title {{[[query]]: {and: [[csf]] [[Bookmarks]] {not: {or: [[not_populated]] }}  }}}
     - Todos
-        - #minimal {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
+        - #min-con {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes
         - #min-con {{[[query]]: {and: [[Charles Farr]] [[csf]] {not: {or: [[query]] [[42SmartBlock]] }}  }}}
     - Query on keywords
         - {{[[query]]: {and: [[Charles Farr]] [[taxonomy]] {not: {or: [[query]] }}  }}}
-- Personal Shortcuts
+- # Personal Shortcuts
     - [[datalog experimentation]]
     - [@ mentions for me]([[@[[Charles Farr]]]])

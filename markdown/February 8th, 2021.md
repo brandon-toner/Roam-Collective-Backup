@@ -21,7 +21,7 @@
                 - is that (even) theoretically possible?
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #[[Scratchpad]] 
         - #Resources
             - For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 

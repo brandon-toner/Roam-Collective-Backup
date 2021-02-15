@@ -51,6 +51,10 @@
 - Use of context-based [rituals](<rituals.md>).
     - **[Next Steps](<Next Steps.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
@@ -80,6 +84,10 @@
     - **[Next Steps](<Next Steps.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
 - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 

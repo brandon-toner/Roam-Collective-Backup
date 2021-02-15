@@ -24,6 +24,10 @@
 - **[Work](<Work.md>):** [PhD student](<PhD student.md>)
         - **[How to contact me](<How to contact me.md>):**
 
+## [Joel Chan](<Joel Chan.md>)
+- **[Birthday](<Birthday.md>):** 
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Birthday](<Birthday.md>):** [September 15th, 2021](<September 15th, 2021.md>)
         - **[How to contact me](<How to contact me.md>):**

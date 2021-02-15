@@ -8,10 +8,76 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+        - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
+        - [ ] Import library of [learning objectives](<learning objectives.md>) prefixes.
+        - Knowledge seeking workflow [Bookmarks](<Bookmarks.md>) [Outlines](<Outlines.md>) [zettelkasten](<zettelkasten.md>)
+            - Purpose drives values
+            - Values drive [learning objectives](<learning objectives.md>)'
+            - Learning objective drive [questions](<questions.md>)
+            - Questions drive [research](<research.md>)
+            - Research surfaces [observations](<observations.md>)
+            - Observations support [claims](<claims.md>)
+            - Which attempt to answer or contribute to the answering of questions.
+            - **[Related to](<Related to.md>):** [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]
+        - [Q](<Q.md>) How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?
+            - This might be what [R&D](<R&D.md>) is.[*](((6qTdvRXbI)))
+            - **[Related](<Related.md>):** [[[R:](<[[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)]]
+                - Specifically the diagram of the process that unites the cycles of care and of research (information gathering and resolution of self-directed [learning objectives](<learning objectives.md>))
+                    - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
+                - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
+                - [I](<I.md>) I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
+                - #[Fleeting Notes](<Fleeting Notes.md>) [learning](<learning.md>) with the [self-directed learning](<self-directed learning.md>) method is hard work and time consuming.
+                - #[Fleeting Notes](<Fleeting Notes.md>) within any given domain, there is a LOT of material that can be learned.
+                    - **[Related](<Related.md>):** [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+                    - [Q](<Q.md>) How should learning projects be prioritized? 
+                        - [Q](<Q.md>) What should be learned and when?
+                        - [Q](<Q.md>) Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
+                - #[Fleeting Notes](<Fleeting Notes.md>) team-based learning can help to accelerate the process of mapping a domain.
+                - #[Fleeting Notes](<Fleeting Notes.md>) there is large overlap between the learning projects people embark on individually.
+                    - #[Fleeting Notes](<Fleeting Notes.md>) There is a lot of unnecessary re-work when it comes to mapping a domain.
+                        - #[Fleeting Notes](<Fleeting Notes.md>) Collaborative learning can help to improve the efficiency of learning.
+                            - [Q](<Q.md>) What are the advantages of a collaborative learning strategy?
+                            - [Q](<Q.md>) What are the potential downsides of a collaborative learning strategy?
+                                - Claim: The work of learning is where the learning takes place. Adding efficiency may decrease the effectiveness of the learning, defeating the purpose.
+                                    - I disagree with this claim, as I believe that building these knowledge sets serves several benefits:
+                                        - 1) Builds a database for easy reference
+                                        - 2) The database can be used to drive [spaced repetition](<spaced repetition.md>) systems, which can facilitate learning.
+                                        - 3) Facilitates a shared truth among teams and communities.
+                                        - #[Fleeting Notes](<Fleeting Notes.md>) The formation of maps of content is overrated as a method of learning. 
+                                            - There are stronger methods that can be utilized once the maps exist. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) learn it once, and then have the answer easily accessible for future reference 
+            - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[R:](<[[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)]])
+                - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
+            - **[Related](<Related.md>):** [[[E:](<[[E:.md>) build once, sell twice]]
+    - #[The Zettelkasten](<The Zettelkasten.md>) 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Let user questions drive the documentation of conventions and FAQs. 
+            - Process: #[Algorithms of Thought](<Algorithms of Thought.md>) [Processes](<Processes.md>) [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - Receive question
+                - [Q](<Q.md>) Is there a clear answer?
+                    - **[If yes](<If yes.md>):** "[Q](<Q.md>) Is it documented?"
+                    - **[If no](<If no.md>):** reflect on it and create clarity.
+                - [Q](<Q.md>) Is it documented?
+                    - **[If yes](<If yes.md>):** Link them to it.
+                    - **[If no](<If no.md>):** Create documentation or create TODO for the task of documenting.
+                - [Q](<Q.md>) Is the documentation sufficiently clear and effective?
+                    - **[If no](<If no.md>):** Revise it.
+                - [Q](<Q.md>) Is it easily accessible? Would users find it naturally? ((In one sense, this is an auto-no since they are asking))
+                    - **[If no](<If no.md>):** Improve its stumble-upon-ability / resurfacing strength
+        - #[Fleeting Notes](<Fleeting Notes.md>) When leading a community, optimize for user engagement. 
+            - User engagement is the lifeblood of collective communities.
+            - [Q](<Q.md>) What makes users want to contribute to a collaborative graph? 
+            - [Q](<Q.md>) What are the barriers to user engagement?
+                - [Q](<Q.md>) How might those barriers be navigated or reduced? 
+            - **[Related](<Related.md>):** 
+                - "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)"
+                    - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
+        - #[Fleeting Notes](<Fleeting Notes.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>) [questions](<questions.md>)
+            - [Q](<Q.md>) "What learning objective is this questions trying to address?"
+        - #[Learning Objectives](<Learning Objectives.md>) 
+            - [compare & contrast](<compare & contrast.md>) multiplayer [chat](<chat.md>) [conventions](<conventions.md>)
     - [Bookmarks](<Bookmarks.md>) 
         - [Feedback](<Feedback.md>) ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
     - [Conversation](<Conversation.md>) 
@@ -29,28 +95,45 @@
             - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
                 - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
             - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
-                - Totally! [@[[Charles Farr](<@[[Charles Farr.md>)]] has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) 
+                - Totally! [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
+            - "Question: Is there any convention around reactions?" [Conventions](<Conventions.md>) #[emoji reactions](<emoji reactions.md>)
+                - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [Roam Portal](<Roam Portal.md>)'s latest update.
+            - "Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)"
+                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!
+                    - I suspect we have some significant differences in ZK flow though.
+                    - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>)) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+                - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
+                    - Great, yea I'd love to evolve the compare & contrast over time. My goal isn't to fully align with those conventions, but rather to develop these with appreciation and awareness of other systems that exist. Integrating best practices as a medley from other systems.
+        3. [@Joel]([@[[Joel Chan](<@[[Joel Chan.md>)]]) (various)
+            - "I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy"
+                - Yea, this is a draft still. I still see questions as top-tier. But i think it's a bit of a [chicken-and-egg](<chicken-and-egg.md>) situation...
+                    - Sometimes research starts with a questions, and other times it seems to start with an objective -- from which questions are formed to address...
+                    - I suspect the best answer will be something along the lines of "start with whatever place feels natural" and formulate into questions to drive the research process.
+                    - Say in a lecture, the slidedeck often starts with "learning objectives" 
+                        - What we are trying to accomplish.
+                        - Then questions are formed that help to drive the conversation, eventually leading to the synthesis and presentation of information to address the questions, thereby satisfying the learning objectives (which were designed to accomplish something... a standard, or prerequisite to solving a problem.) 
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
-        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype (roam-inter by stian).
+        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype ([Roam Inter](<Roam Inter.md>) by [Stian Håklev](<Stian Håklev.md>)).
             - I think in the discussion around roam-inter (twitter or video, not sure), Connor mentioned multiuser graphs are working well, but the ideal would be cross-db collaboration (collaborating on public graphs from your personal graph)
             - Technically we're obviously still not there, but we can figure out how that model would work, and how such a tool could be used.
-                - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or blocks), rss feeds, and a little chat app.
+                - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or content), rss feeds, and a little chat app.
                 - The potential here is with roam-inter is not to replace social media, or github, or another tool. The unique features of roam enable new kinds of social interaction, that could be used in totally new ways, including for collaboration in roamgames.
                     - A social network of knowledge graphs
-            - [I](<I.md>) Thought about **alien blocks**. Blocks coming from another database (whether through feeds, "share block to _", or one-click import tools) could have slightly different css styling, and some js magic (link to source, sending unread block refs notifs if you write blocks under the alien block and share it, etc)
+            - [I](<I.md>) Thought about **alien blocks**. Blocks coming from another database (whether through feeds, "share block to _" feature, or one-click import tools) could have slightly different css styling, and some js magic (link to source, sending unread block refs notifs if you write blocks under the alien block and share it, etc)
             - [Q](<Q.md>) What are the best ways to enable enable frictionless and asynchronous cross-db conversation, while leveraging the features of a graph database ((beyond the chronological chat))?
             - A great question too is, how would it look like?  What would be the ideal UI for a social network made of roam graphs?
             - To go back to roamgames 3, I see some simple tools now that could be implemented with roam inter and roam/js 
                 - Subscribe to feeds for updates
                     - `[submissions](<submissions.md>)`
                 - send submissions
+                    - add a `#.send-to-roamgames` tag to parent block
             - To continue on this I will "[ ] Take notes on [Roam Inter](<Roam Inter.md>)'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
-                - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it could explain the lack of interest. Also because it's still only accessible to technically savy users.
+                - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it can explain the lack of interest. Also because it's still only accessible to technically savy users.
                 - I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
         - Big agree on "#[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))"
             - Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games.
@@ -77,4 +160,65 @@
             - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
                 - Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)
             - Question: Is there any convention around reactions?
+            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!"
+                - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
+            - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
+                - Shouldn't questions drive learning objectives, which imply a particular path towards addressing a question? 
+                - Could you elaborate with an example?
+            - I'm also wondering about the place of [Concepts](<Concepts.md>)
+                - There's a long history of work in Infosci and semantic web grappling with the problem of how to demarcate conceptual boundaries, and how context-bound and fraught this work is
+                    - Some risks include:
+                        - Premature formalism
+                        - Ambiguity
+                        - Legibility (as in "seeing like a state") over insight
+                    - These risks are probably especially at play in the early stages of learning (which includes crossing disciplinary boundaries)
+                - IMO a discourse-centric approach can mitigate these risks
+                    - Some initial writing on this (from a recent grant proposal, yet to integrate back into my graph) here:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbKYWi85srR.png?alt=media&token=35b56aad-776e-49fc-8ff1-42af072402ba)
+                - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
+        - Also, hi [@[[Charles Farr](<@[[Charles Farr.md>)]]! we should chat sometime, I see some engagement with my [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
+            - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - "[ ] Review mentions & work of the last few days"
+            - "[ ] Review notes on the Roaman Agora"
+                - "[ ] Review Bookmarks & Saved Items"
+        - 
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Review Bookmarks & Saved Items
+        - [ ] Review notes on the Roaman Agora
+        - [ ] Outline structure of the Agora
+            - Use the creative projects page
+        - [ ] Investigate roam-inter
+            - [ ] Set up roam-inter to connect RC & The Agora (test)
+            - [ ] Reach out to Stian regarding roam inter
+        - [ ] Pull in relevant notes from [Books/The Culture Code](<Books/The Culture Code.md>) regarding conventions
+        - [ ] Brainstorm personal approach to converting thoughts → artifacts
+        - [ ] Review mentions & work of the last few days
+- ---
+
+# Backlinks
+## [February 15th, 2021](<February 15th, 2021.md>)
+- [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>)
+
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+- **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+

@@ -144,6 +144,10 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+- **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
 - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
     - **[Created by](<Created by.md>):**
@@ -190,5 +194,9 @@
 
 ## [grist for the mill](<grist for the mill.md>)
 - **[Last Updated](<Last Updated.md>):** [February 13th, 2021](<February 13th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+- **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
     - **[Created by](<Created by.md>):**
 

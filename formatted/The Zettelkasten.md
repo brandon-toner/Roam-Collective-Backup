@@ -30,6 +30,8 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
@@ -67,6 +69,9 @@
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
+## [Joel Chan](<Joel Chan.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)

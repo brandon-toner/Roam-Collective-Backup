@@ -8,10 +8,76 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
-    - #[[The Zettelkasten]] #not_populated
+        - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
+        - {{[[TODO]]}} Import library of [[learning objectives]] prefixes.
+        - Knowledge seeking workflow #Bookmarks #Outlines #zettelkasten
+            - Purpose drives values
+            - Values drive [[learning objectives]]'
+            - Learning objective drive [[questions]]
+            - Questions drive [[research]]
+            - Research surfaces [[observations]]
+            - Observations support [[claims]]
+            - Which attempt to answer or contribute to the answering of questions.
+            - Related to:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
+        - #Q How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?
+            - This might be what [[R&D]] is.[*](((6qTdvRXbI)))
+            - Related:: [[[[R:]] Pharmacist's Patient Care Process (Dalhousie University)]]
+                - Specifically the diagram of the process that unites the cycles of care and of research (information gathering and resolution of self-directed [[learning objectives]])
+                    - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
+                - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
+                - #I I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
+                - #[[Fleeting Notes]] [[learning]] with the [[self-directed learning]] method is hard work and time consuming.
+                - #[[Fleeting Notes]] within any given domain, there is a LOT of material that can be learned.
+                    - Related:: [[just-in-time vs just-in case]]
+                    - #Q How should learning projects be prioritized? 
+                        - #Q What should be learned and when?
+                        - #Q Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
+                - #[[Fleeting Notes]] team-based learning can help to accelerate the process of mapping a domain.
+                - #[[Fleeting Notes]] there is large overlap between the learning projects people embark on individually.
+                    - #[[Fleeting Notes]] There is a lot of unnecessary re-work when it comes to mapping a domain.
+                        - #[[Fleeting Notes]] Collaborative learning can help to improve the efficiency of learning.
+                            - #Q What are the advantages of a collaborative learning strategy?
+                            - #Q What are the potential downsides of a collaborative learning strategy?
+                                - Claim: The work of learning is where the learning takes place. Adding efficiency may decrease the effectiveness of the learning, defeating the purpose.
+                                    - I disagree with this claim, as I believe that building these knowledge sets serves several benefits:
+                                        - 1) Builds a database for easy reference
+                                        - 2) The database can be used to drive [[spaced repetition]] systems, which can facilitate learning.
+                                        - 3) Facilitates a shared truth among teams and communities.
+                                        - #[[Fleeting Notes]] The formation of maps of content is overrated as a method of learning. 
+                                            - There are stronger methods that can be utilized once the maps exist. 
+        - #[[Fleeting Notes]] learn it once, and then have the answer easily accessible for future reference 
+            - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[[R:]] Pharmacist's Patient Care Process (Dalhousie University)]])
+                - Cumulative knowledge base, driven by [[just-in-time]] problem solving.
+            - Related:: [[[[E:]] build once, sell twice]]
+    - #[[The Zettelkasten]] 
+        - #[[Fleeting Notes]] Let user questions drive the documentation of conventions and FAQs. 
+            - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[@[[Charles Farr]]]])
+                - Receive question
+                - #Q Is there a clear answer?
+                    - If yes:: "#Q Is it documented?"
+                    - If no:: reflect on it and create clarity.
+                - #Q Is it documented?
+                    - If yes:: Link them to it.
+                    - If no:: Create documentation or create TODO for the task of documenting.
+                - #Q Is the documentation sufficiently clear and effective?
+                    - If no:: Revise it.
+                - #Q Is it easily accessible? Would users find it naturally? ((In one sense, this is an auto-no since they are asking))
+                    - If no:: Improve its stumble-upon-ability / resurfacing strength
+        - #[[Fleeting Notes]] When leading a community, optimize for user engagement. 
+            - User engagement is the lifeblood of collective communities.
+            - #Q What makes users want to contribute to a collaborative graph? 
+            - #Q What are the barriers to user engagement?
+                - #Q How might those barriers be navigated or reduced? 
+            - Related:: 
+                - "{{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]"
+                    - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
+        - #[[Fleeting Notes]] Use [[learning objectives]] to guide [[research]] [[questions]]
+            - #Q "What learning objective is this questions trying to address?"
+        - #[[Learning Objectives]] 
+            - [[compare & contrast]] multiplayer [[chat]] [[conventions]]
     - #Bookmarks 
         - #Feedback ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
     - #Conversation 
@@ -29,28 +95,45 @@
             - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
                 - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
             - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
-                - Totally! [[@[[Charles Farr]]]] has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) 
+                - Totally! [@Charles]([[@[[Charles Farr]]]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
+            - "Question: Is there any convention around reactions?" #Conventions #[[emoji reactions]]
+                - [@Samuel]([[@[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
+            - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
+                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!
+                    - I suspect we have some significant differences in ZK flow though.
+                    - {{[[TODO]]}} Review [[Beau Hann]]'s [[zettelkasten]] [[conventions]]. [*]([[Brandon Toner]]) #[[Week-07: 02-15-2021]]
+                - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
+                    - Great, yea I'd love to evolve the compare & contrast over time. My goal isn't to fully align with those conventions, but rather to develop these with appreciation and awareness of other systems that exist. Integrating best practices as a medley from other systems.
+        3. [@Joel]([[@[[Joel Chan]]]]) (various)
+            - "I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy"
+                - Yea, this is a draft still. I still see questions as top-tier. But i think it's a bit of a [[chicken-and-egg]] situation...
+                    - Sometimes research starts with a questions, and other times it seems to start with an objective -- from which questions are formed to address...
+                    - I suspect the best answer will be something along the lines of "start with whatever place feels natural" and formulate into questions to drive the research process.
+                    - Say in a lecture, the slidedeck often starts with "learning objectives" 
+                        - What we are trying to accomplish.
+                        - Then questions are formed that help to drive the conversation, eventually leading to the synthesis and presentation of information to address the questions, thereby satisfying the learning objectives (which were designed to accomplish something... a standard, or prerequisite to solving a problem.) 
     - #[[Change Log]] #not_populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
-        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype (roam-inter by stian).
+        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype ([[Roam Inter]] by [[Stian Håklev]]).
             - I think in the discussion around roam-inter (twitter or video, not sure), Connor mentioned multiuser graphs are working well, but the ideal would be cross-db collaboration (collaborating on public graphs from your personal graph)
             - Technically we're obviously still not there, but we can figure out how that model would work, and how such a tool could be used.
-                - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or blocks), rss feeds, and a little chat app.
+                - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or content), rss feeds, and a little chat app.
                 - The potential here is with roam-inter is not to replace social media, or github, or another tool. The unique features of roam enable new kinds of social interaction, that could be used in totally new ways, including for collaboration in roamgames.
                     - A social network of knowledge graphs
-            - #I Thought about **alien blocks**. Blocks coming from another database (whether through feeds, "share block to _", or one-click import tools) could have slightly different css styling, and some js magic (link to source, sending unread block refs notifs if you write blocks under the alien block and share it, etc)
+            - #I Thought about **alien blocks**. Blocks coming from another database (whether through feeds, "share block to _" feature, or one-click import tools) could have slightly different css styling, and some js magic (link to source, sending unread block refs notifs if you write blocks under the alien block and share it, etc)
             - #Q What are the best ways to enable enable frictionless and asynchronous cross-db conversation, while leveraging the features of a graph database ((beyond the chronological chat))?
             - A great question too is, how would it look like?  What would be the ideal UI for a social network made of roam graphs?
             - To go back to roamgames 3, I see some simple tools now that could be implemented with roam inter and roam/js 
                 - Subscribe to feeds for updates
                     - `#submissions`
                 - send submissions
+                    - add a `#.send-to-roamgames` tag to parent block
             - To continue on this I will "{{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
-                - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it could explain the lack of interest. Also because it's still only accessible to technically savy users.
+                - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it can explain the lack of interest. Also because it's still only accessible to technically savy users.
                 - I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
         - Big agree on "#[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
             - Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games.
@@ -77,4 +160,50 @@
             - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
                 - Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)
             - Question: Is there any convention around reactions?
+            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!"
+                - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
+- ---
+- #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+    - #Scratchpad #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks #not_populated
+    - #Conversation #not_populated
+        - [[~[[Brandon Toner]]]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
+            - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
+                - Shouldn't questions drive learning objectives, which imply a particular path towards addressing a question? 
+                - Could you elaborate with an example?
+            - I'm also wondering about the place of [[Concepts]]
+                - There's a long history of work in Infosci and semantic web grappling with the problem of how to demarcate conceptual boundaries, and how context-bound and fraught this work is
+                    - Some risks include:
+                        - Premature formalism
+                        - Ambiguity
+                        - Legibility (as in "seeing like a state") over insight
+                    - These risks are probably especially at play in the early stages of learning (which includes crossing disciplinary boundaries)
+                - IMO a discourse-centric approach can mitigate these risks
+                    - Some initial writing on this (from a recent grant proposal, yet to integrate back into my graph) here:
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbKYWi85srR.png?alt=media&token=35b56aad-776e-49fc-8ff1-42af072402ba)
+                - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
+        - Also, hi [[@[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
+            - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
+    - #[[Change Log]] #not_populated
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - "{{[[TODO]]}} Review mentions & work of the last few days"
+            - "{{[[TODO]]}} Review notes on the Roaman Agora"
+                - "{{[[TODO]]}} Review Bookmarks & Saved Items"
+        - 
+    - #Conversation #not_populated
+    - #Bookmarks #not_populated
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Review Bookmarks & Saved Items
+        - {{[[TODO]]}} Review notes on the Roaman Agora
+        - {{[[TODO]]}} Outline structure of the Agora
+            - Use the creative projects page
+        - {{[[TODO]]}} Investigate roam-inter
+            - {{[[TODO]]}} Set up roam-inter to connect RC & The Agora (test)
+            - {{[[TODO]]}} Reach out to Stian regarding roam inter
+        - {{[[TODO]]}} Pull in relevant notes from [[Books/The Culture Code]] regarding conventions
+        - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
+        - {{[[TODO]]}} Review mentions & work of the last few days
 - ---
