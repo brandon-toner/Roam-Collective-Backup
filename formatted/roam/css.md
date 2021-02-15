@@ -1464,18 +1464,6 @@ span.rm-page-ref[data-tag="Permanent Notes"]:before {
 
 
 ```
-                - [Annotations](<../Annotations.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Annotations"] {
-    background: [795548E2](<../795548E2.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
                 - #[Reference Notes](<../Reference Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
