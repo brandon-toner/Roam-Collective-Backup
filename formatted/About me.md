@@ -28,6 +28,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
+## [Justin Mather](<Justin Mather.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -65,10 +69,14 @@
     - **[About me](<About me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
-- {{or:🟢Online | 🚫 offline | 🟠Away}}
+- {{or:🟠Away | 🟢Online | 🚫 offline}}
     - **[About me](<About me.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 

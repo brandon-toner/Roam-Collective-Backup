@@ -20,6 +20,10 @@
 - **[Location](<Location.md>):** [Donostia - San Sebastián](<Donostia - San Sebastián.md>), [Basque Country](<Basque Country.md>) [Spain](<Spain.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Justin Mather](<Justin Mather.md>)
+- **[Location](<Location.md>):** [Los Angeles](<Los Angeles.md>), [California](<California.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Work](<Work.md>):** [anthropologist](<anthropologist.md>) [researcher](<researcher.md>)
         - **[Time Zone](<Time Zone.md>):**
@@ -54,6 +58,10 @@
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Location](<Location.md>):** [Bombay](<Bombay.md>), [India](<India.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
+- **[Location](<Location.md>):** [Switzerland](<Switzerland.md>)
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Siva Arunagiri](<Siva Arunagiri.md>)

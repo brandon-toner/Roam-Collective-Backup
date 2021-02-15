@@ -1,0 +1,12 @@
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [@itsjustmath](https://twitter.com/itsjustmath)
+        - **[Website](<Website.md>):** [itsjustmath.net](https://itsjustmath.net/)
+        - **[Location](<Location.md>):** [Los Angeles](<Los Angeles.md>), [California](<California.md>)
+        - **[Time Zone](<Time Zone.md>):** [Pacific Time](<Pacific Time.md>) ([UTC](<UTC.md>) -8:00)
+        - **[Birthday](<Birthday.md>):** [September 15th, 2021](<September 15th, 2021.md>)
+        - **[How to contact me](<How to contact me.md>):** 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
+            - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
+    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}

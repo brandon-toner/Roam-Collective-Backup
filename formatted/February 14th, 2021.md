@@ -46,10 +46,12 @@
                 - Publishing/distribution channels active and stable
                 - Organize CSS by component
                 - Establish CSS color strategy with easy adjustment in centralized location.
+        - Zettelkasten conventions
+        - Agile Development
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
-        1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC." {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+        1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC." {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) ["Twitter acct"](((DweiIynrD))) 
             - So we could prob just make an @roam_collective account, and use that. (Pending availability).
 I'll have a look this week. #[Follow Up](<Follow Up.md>)
@@ -74,7 +76,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
         2. Added some "Next Steps" on the current sprint.
         3. "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC."
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
     - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
     - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
         - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
@@ -87,8 +89,8 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
                             - [ ] Follow [these instructions](((6202Hd2VO))) to make your own page.
                     - ---
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPKbObbdUH-.png?alt=media&token=fecaee1b-272a-4884-a10d-586487011f70)
-        - [I](<I.md>) [Anarchic Manufacturing](<Anarchic Manufacturing.md>) as  a mental model to describe 
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fnjp8nXPfkd.jpg?alt=media&token=0170ed8e-3b2a-4806-bd13-f4a718494374)
+        - [I](<I.md>) [Anarchic Manufacturing](<Anarchic Manufacturing.md>) as  a mental model to describe the operation of [Roam-Collective](<Roam-Collective.md>)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fnjp8nXPfkd.jpg?alt=media&token=0170ed8e-3b2a-4806-bd13-f4a718494374)
     - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)

@@ -93,5 +93,3 @@
 ## [zettelkasten](<zettelkasten.md>)
 - #[Q](<Q.md>)
 
-- #[Q](<Q.md>)
-

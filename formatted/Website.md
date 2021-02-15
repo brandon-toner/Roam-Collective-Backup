@@ -28,6 +28,10 @@
 - **[Twitter](<Twitter.md>):** [@eurunuela](https://twitter.com/eurunuela)
         - **[Website](<Website.md>):**
 
+## [Justin Mather](<Justin Mather.md>)
+- **[Twitter](<Twitter.md>):** [@itsjustmath](https://twitter.com/itsjustmath)
+        - **[Website](<Website.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Twitter](<Twitter.md>):** [@shaffner_justin](https://twitter.com/shaffner_justin)
         - **[Website](<Website.md>):**
@@ -58,6 +62,10 @@
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Twitter](<Twitter.md>):** [@reddy2go](https://twitter.com/reddy2go)
+        - **[Website](<Website.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
+- **[Twitter](<Twitter.md>):** [@samuelbars](https://twitter.com/samuelbars)
         - **[Website](<Website.md>):**
 
 ## [Stefan Natter](<Stefan Natter.md>)

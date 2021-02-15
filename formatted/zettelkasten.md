@@ -13,12 +13,13 @@
         - Notes:
             - #[Fleeting Notes](<Fleeting Notes.md>)
             - #[Literature Notes](<Literature Notes.md>)
+            - [Seedlings](<Seedlings.md>)
+            - [Buddings](<Buddings.md>)
             - #[Evergreens](<Evergreens.md>)
             - #[Reference Notes](<Reference Notes.md>)
         - Questions:
             - #[Q](<Q.md>)
-            - #[Q](<Q.md>)
-            - #[Zettel Questions](<Zettel Questions.md>)
+            - [Questions](<Questions.md>)
     - **[Conversation](<Conversation.md>):**
         - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
     - **[Tips](<Tips.md>):**

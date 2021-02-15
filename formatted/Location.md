@@ -28,6 +28,10 @@
 - **[Website](<Website.md>):** [eurunuela.github.io](https://eurunuela.github.io)
         - **[Location](<Location.md>):**
 
+## [Justin Mather](<Justin Mather.md>)
+- **[Website](<Website.md>):** [itsjustmath.net](https://itsjustmath.net/)
+        - **[Location](<Location.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Website](<Website.md>):** In progress
         - **[Location](<Location.md>):**
@@ -71,6 +75,10 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Newsletter](<Newsletter.md>):** [Playtime!](https://playtime.reddy2go.com)
+        - **[Location](<Location.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
+- **[Website](<Website.md>):** [not_populated](<not_populated.md>) 
         - **[Location](<Location.md>):**
 
 ## [Siva Arunagiri](<Siva Arunagiri.md>)

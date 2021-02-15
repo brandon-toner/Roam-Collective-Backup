@@ -169,6 +169,9 @@
 ## [Jokes](<Jokes.md>)
 - **[Tags](<Tags.md>):**
 
+## [Justin Mather](<Justin Mather.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Tags](<Tags.md>):**
 
@@ -317,6 +320,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+- **[Tags](<Tags.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Scratchpad](<Scratchpad.md>)

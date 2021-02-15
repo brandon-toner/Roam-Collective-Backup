@@ -46,10 +46,12 @@
                 - Publishing/distribution channels active and stable
                 - Organize CSS by component
                 - Establish CSS color strategy with easy adjustment in centralized location.
+        - Zettelkasten conventions
+        - Agile Development
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
     - #Conversation 
-        1. FYI "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC." {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+        1. FYI "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC." {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
         2. [@Peter]([[@[[Peter Rosso]]]]) ["Twitter acct"](((DweiIynrD))) 
             - So we could prob just make an @roam_collective account, and use that. (Pending availability).
 I'll have a look this week. #[[Follow Up]]
@@ -74,7 +76,7 @@ I'll have a look this week. #[[Follow Up]]
         2. Added some "Next Steps" on the current sprint.
         3. "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC."
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
     - #Inbox #not_populated
     - #[[Scratchpad]] #not_populated
         - [[[[How To]] Onboard with Roam Collective]] #Drafts [*]([[onboarding]])
@@ -87,8 +89,8 @@ I'll have a look this week. #[[Follow Up]]
                             - {{[[TODO]]}} Follow [these instructions](((6202Hd2VO))) to make your own page.
                     - ---
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPKbObbdUH-.png?alt=media&token=fecaee1b-272a-4884-a10d-586487011f70)
-        - #I [[Anarchic Manufacturing]] as  a mental model to describe 
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fnjp8nXPfkd.jpg?alt=media&token=0170ed8e-3b2a-4806-bd13-f4a718494374)
+        - #I [[Anarchic Manufacturing]] as  a mental model to describe the operation of [[Roam-Collective]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fnjp8nXPfkd.jpg?alt=media&token=0170ed8e-3b2a-4806-bd13-f4a718494374)
     - #[[GTD Zone]] #not_populated
     - #Promptstorming #not_populated
     - #[[The Zettelkasten]] #not_populated

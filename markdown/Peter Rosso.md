@@ -1,5 +1,5 @@
 - Tags:: #People #Members 
-    - {{or:🟢Online | 🚫 offline | 🟠Away}}
+    - {{or:🟠Away | 🟢Online | 🚫 offline}}
     - About me::
         - Twitter:: [@rossopeter_](https://twitter.com/rossopeter_)
         - Website:: [rosso.io](https://rosso.io)
@@ -19,7 +19,7 @@
                 - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
         - SmartBlocks::
             - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
-                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
                     - #Inbox #not_populated
                     - #[[Scratchpad]] #not_populated
                     - #[[GTD Zone]] #not_populated

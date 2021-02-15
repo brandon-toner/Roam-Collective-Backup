@@ -13,12 +13,13 @@
         - Notes:
             - #[[Fleeting Notes]]
             - #[[Literature Notes]]
+            - #Seedlings
+            - #Buddings
             - #[[Evergreens]]
             - #[[Reference Notes]]
         - Questions:
             - #[[Q]]
-            - #[[Q]]
-            - #[[Zettel Questions]]
+            - #Questions
     - Conversation::
         - The question-related conventions are more [experimental]([[Experiments]])
     - Tips::

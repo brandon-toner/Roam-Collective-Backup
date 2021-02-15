@@ -1,0 +1,6 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@samuelbars](https://twitter.com/samuelbars)
+        - Website:: #not_populated 
+        - Location:: [[Switzerland]]
+        - Time Zone:: [[CET]]

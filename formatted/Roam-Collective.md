@@ -32,6 +32,8 @@
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+- [I](<I.md>) [Anarchic Manufacturing](<Anarchic Manufacturing.md>) as  a mental model to describe the operation of [Roam-Collective](<Roam-Collective.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Having more fun writing in [Roam-Collective](<Roam-Collective.md>)
 

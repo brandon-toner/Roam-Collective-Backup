@@ -1,0 +1,12 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@itsjustmath](https://twitter.com/itsjustmath)
+        - Website:: [itsjustmath.net](https://itsjustmath.net/)
+        - Location:: [[Los Angeles]], [[California]]
+        - Time Zone:: [[Pacific Time]] ([[UTC]] -8:00)
+        - Birthday:: [[September 15th, 2021]]
+        - How to contact me:: 
+            - Send me a DM on Roam Slack (preferred)
+            - Send me a DM on Twitter (also great)
+            - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
+    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}

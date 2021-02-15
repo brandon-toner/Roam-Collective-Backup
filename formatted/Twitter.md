@@ -37,6 +37,10 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
 
+## [Justin Mather](<Justin Mather.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
@@ -78,6 +82,10 @@
         - **[Twitter](<Twitter.md>):**
 
 ## [Reddy2Go](<Reddy2Go.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
+## [Samuel Bars](<Samuel Bars.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
