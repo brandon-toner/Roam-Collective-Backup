@@ -316,8 +316,6 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - {{or:[[~[[Peter Rosso]]]] | [[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
                 - #[[Change Log]]
                     - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
-                    - #42SmartBlock .rcNotify — @Everyone Tag
-                        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([[@[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))

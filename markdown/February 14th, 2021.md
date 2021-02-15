@@ -59,7 +59,7 @@ I'll have a look this week. #[[Follow Up]]
         3. [@Peter]([[@[[Peter Rosso]]]]) On ["everyone"](((0Fg6SkW_z))) [cc:Charles]([[cc:[[Charles Farr]]]])
             - The problem is that that creates a big complex page. I prefer the dropdown for sure. 
                 - It also mess with the personal queries, adding a result for every permutation of that complex page created.
-                - The ease with the dropdown is using the [smartblock](((3BhV6o4JX)))!
+                - The ease with the dropdown is using the [smartblock](#42SmartBlock .rcNotify — @Everyone Tag)!
                 - Image::
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FphIGpKd3UZ.png?alt=media&token=4d1d219c-1820-4b43-bcf9-e94b432594b6)
         4. [@Peter]([[@[[Peter Rosso]]]]) On ["Funky dropdowns"](((IQm5ksecG)))

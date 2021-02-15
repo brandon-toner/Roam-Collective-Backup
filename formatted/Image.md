@@ -5,7 +5,7 @@
             - **[Image](<Image.md>):**
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
-- The ease with the dropdown is using the [smartblock](((3BhV6o4JX)))!
+- The ease with the dropdown is using the [smartblock]([42SmartBlock](<42SmartBlock.md>) .rcNotify — @Everyone Tag)!
                 - **[Image](<Image.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

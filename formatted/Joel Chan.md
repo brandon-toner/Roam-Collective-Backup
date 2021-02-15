@@ -5,6 +5,9 @@
 
 - Due to the simplicity of [Joel Chan](<Joel Chan.md>)'
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [@tracyplaces](https://twitter.com/tracyplaces) - not feeling the use cases part. But hmm, tangential thought --- what if you can like connect your twitter or something to your roam. then people can search for twitter people they like that have roam, and send request to check out there roam? idk, but some shit along the lines of... how tf does team roam actually use roam would be interesting. idk if this can be pulled off in any way thats not like hella annoying for the graph owners tho. OnlyGraphs lol. [Robert Haisfield](<Robert Haisfield.md>) hosts these roam tour videos which are great, i've emulated a lot of my process using Beau Haan and [Joel Chan](<Joel Chan.md>).
 

@@ -14,3 +14,6 @@
 
 - [I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>))
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- Don't worry about diluting things with unformed thought. It's all "[grist for the mill](<grist for the mill.md>)"
+

@@ -1,14 +1,80 @@
+- {{embed: ((FRFW0hQu_))}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. Welcome [@Samuel]([[Samuel Bars]])!
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - #Scratchpad 
+        - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks 
+        - #Feedback ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
+    - #Conversation 
+        1. [@Samuel]([[@[[Samuel Bars]]]]) On [where users write](((wHHBViiGV)))
+            - Great work jumping into the chat conventons!! perfect.
+            - Yea, this is on my radar to reassess if it begins to feel overwhelming. What's nice here is that having all the work centralized fosters more conversation and collaboration -- but that might not scale well. 
+        2. [@Samuel]([[@[[Samuel Bars]]]]) (various)
+            - Loving the thoughts! I added a Q and an I tag in there just to demonstrate where I might use them. I use these pretty liberally so don't worry about overuse. 
+            - "I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling."
+                -  I love the rambling! I think that's the beauty of RC - we can "think in public", giving others the opportunity to benefit from out half-baked idea, and the opportunity to offer insight and questions that can push use past sticking points.
+                    - Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this.
+                    - As ideas start to crystallize, and questions, ideas, claims, etc start to emerge -- you can use the zettelkasten-like conventions to tag those thoughts accordingly. 
+                        - These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. 
+                        - Don't worry about diluting things with unformed thought. It's all "[[grist for the mill]]".
+            - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
+                - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
+            - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
+                - Totally! [[@[[Charles Farr]]]] has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) 
+    - #[[Change Log]] #not_populated
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
     - #Scratchpad
-        - 
+        - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
+            - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
+        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype (roam-inter by stian).
+            - I think in the discussion around roam-inter (twitter or video, not sure), Connor mentioned multiuser graphs are working well, but the ideal would be cross-db collaboration (collaborating on public graphs from your personal graph)
+            - Technically we're obviously still not there, but we can figure out how that model would work, and how such a tool could be used.
+                - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or blocks), rss feeds, and a little chat app.
+                - The potential here is with roam-inter is not to replace social media, or github, or another tool. The unique features of roam enable new kinds of social interaction, that could be used in totally new ways, including for collaboration in roamgames.
+                    - A social network of knowledge graphs
+            - #I Thought about **alien blocks**. Blocks coming from another database (whether through feeds, "share block to _", or one-click import tools) could have slightly different css styling, and some js magic (link to source, sending unread block refs notifs if you write blocks under the alien block and share it, etc)
+            - #Q What are the best ways to enable enable frictionless and asynchronous cross-db conversation, while leveraging the features of a graph database ((beyond the chronological chat))?
+            - A great question too is, how would it look like?  What would be the ideal UI for a social network made of roam graphs?
+            - To go back to roamgames 3, I see some simple tools now that could be implemented with roam inter and roam/js 
+                - Subscribe to feeds for updates
+                    - `#submissions`
+                - send submissions
+            - To continue on this I will "{{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
+                - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it could explain the lack of interest. Also because it's still only accessible to technically savy users.
+                - I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
+        - Big agree on "#[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
+            - Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games.
+                - Instead of twitter hashtag search, have the linked refs to the `#submission` tag or similar
+                    - Makes it easier to not miss the work of others, save time for everyone
+                        - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
+                    - Also would make navigation between ancestors and descendants much easier.
+        - I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling.
+            - update: will keep the scratchpad for rambling, and progressively abstract, synthesize and connect as I get more familiar with zettelkasten conventions.
     - #[[GTD Zone]]
         - {{[[DONE]]}} Create your own personal page, by placing your name at the top of your daily notes.
         - {{[[DONE]]}} Follow [these instructions](((6202Hd2VO))) to make your own page.
+        - {{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors
     - #Conversation
-        - [@Brandon]([[@[[Brandon Toner]]]]) About [writing on daily pages vs your own](((dakVN3D1r)))
+        1. [@Brandon]([[@[[Brandon Toner]]]]) About [writing on daily pages vs your own](((dakVN3D1r)))
             - When the amount of active users increases and the daily page starts getting overwhelming.
                 - In Roam Book Club, every daily writing template is tagged with the day, so you have daily activity, but in linked refs (easily collapsible to prevent lagging)
             - When you want to use the daily page to focus attention on announcements or daily activities.
                 - It can become the place where you check what members shouldn't miss.
                     - Seems like the announcements page is filling that role here.
+        2. [@Brandon]([[@[[Brandon Toner]]]]) (various)
+            - "Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this."
+                - Great, still getting familiar with what the different "locations" (tags) mean, but I like that approach. Diverge before converging.
+            - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
+                - Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)
+            - Question: Is there any convention around reactions?
+- ---

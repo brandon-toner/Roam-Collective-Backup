@@ -25,6 +25,9 @@
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>)
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- Big agree on "#[Project Ideas](<Project Ideas.md>) Build a directory of [Roam Games](<Roam Games.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "going to spend some time tonight on [Roam Games](<Roam Games.md>),
 

@@ -8,6 +8,9 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
 
+## [February 15th, 2021](<February 15th, 2021.md>)
+- Big agree on "#[Project Ideas](<Project Ideas.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Thoughts](<Thoughts.md>) on [Project Ideas](<Project Ideas.md>)
 

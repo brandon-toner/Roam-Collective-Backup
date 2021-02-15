@@ -316,8 +316,6 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                 - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
                 - #[Change Log](<Change Log.md>)
                     - Updated the CSS for `[@[[Everyone](<@[[Everyone.md>)]]` to remove the `unread` — only affects the everyone tag
-                    - [42SmartBlock](<42SmartBlock.md>) .rcNotify — @Everyone Tag
-                        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [taxonomy](<taxonomy.md>) of notes... ((this is in my graph, not here in Roam Collective))"
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>)) as well [*](((lZGgXcABy)))
