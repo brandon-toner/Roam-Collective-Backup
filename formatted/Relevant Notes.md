@@ -44,7 +44,7 @@
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 

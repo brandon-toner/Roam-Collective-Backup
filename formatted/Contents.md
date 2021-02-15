@@ -176,7 +176,7 @@
 - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 

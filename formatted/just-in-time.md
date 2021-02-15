@@ -7,3 +7,6 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - My approach might be to collect some favourite topic tags, add them in relevant spots, and to rely on [passive](<passive.md>) or "[just-in-time](<just-in-time.md>)"
 
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+- **[Related](<Related.md>):** [just-in-time](<just-in-time.md>),
+

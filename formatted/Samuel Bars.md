@@ -6,7 +6,7 @@
         - **[Time Zone](<Time Zone.md>):** [CET](<CET.md>)
         - **[How to contact me](<How to contact me.md>):**
             - Dm on twitter
-    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+    - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
 - Inbox
     - **Notifications**:
         - {{[query](<query.md>): {and:[@[[Samuel Bars](<@[[Samuel Bars.md>)]] {not:[query](<query.md>)}}}}

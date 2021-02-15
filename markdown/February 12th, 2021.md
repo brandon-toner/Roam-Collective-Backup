@@ -313,7 +313,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
             - [@]([[Brandon Toner]]) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
                 - Suggestion is to use `[@]()` for people and `[*]()` for blocks
             - [@]([[~[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
-                - {{or:[[~[[Peter Rosso]]]] | [[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+                - {{or:[[~[[Peter Rosso]]]] | [[~[[Brandon Toner]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
                 - #[[Change Log]]
                     - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 

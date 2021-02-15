@@ -9,9 +9,9 @@
             - "[I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>)) for drafting the contents of the letter."
         3. **From Charles' section:** 
             - [Obs](<Obs.md>) "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
-                - **Result:** "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+                - **Result:** "Roam Games Multiplayer Graph — [The Roaman Agora](<The Roaman Agora.md>) (The Roman Forum)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
+        1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
@@ -36,7 +36,7 @@
                         - This would also emphasize the importance of logging information in these places so that it is surfaced for inclusion of the weekly highlights.
                 - This would help to keep Twitter and members of the graph apprised on events, updates and highlights.
                 - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
-        - [Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - [Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - Desired style:
                 - Most = dark grey
                 - Some = special & unique
@@ -54,7 +54,7 @@
                 - Graph updates, highlights, active projects
                 - Section on the Roam Games latest.
             - [I](<I.md>) We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
-            - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+            - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]}}
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -161,7 +161,7 @@
         - Reviewing Conor's tweet regarding RG3
             - I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
             - Conor [original tweet](((Lnfo1H7-B))) is in response to Zsolt's question about setting up a roam 
-        - Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)
+        - Roam Games Multiplayer Graph — [The Roaman Agora](<The Roaman Agora.md>) (The Roman Forum)
             - Motivation: 
                 - A place to work in public on Roam Games submissions (optional)
                 - A place to collate ideas & influence related to Roam Games
@@ -208,7 +208,7 @@
                 - roam-inter set up
     - [Conversation](<Conversation.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
-            - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+            - See: "Roam Games Multiplayer Graph — [The Roaman Agora](<The Roaman Agora.md>) (The Roman Forum)"
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"

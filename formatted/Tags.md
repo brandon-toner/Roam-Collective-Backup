@@ -613,7 +613,7 @@
 ## [inklings](<inklings.md>)
 - **[Tags](<Tags.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Tags](<Tags.md>):**
 
 ## [leekeifon](<leekeifon.md>)

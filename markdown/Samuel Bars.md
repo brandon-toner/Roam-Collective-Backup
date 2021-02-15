@@ -6,7 +6,7 @@
         - Time Zone:: [[CET]]
         - How to contact me::
             - Dm on twitter
-    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+    - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
 - Inbox
     - **Notifications**:
         - {{[[query]]: {and:[[@[[Samuel Bars]]]] {not:[[query]]}}}}

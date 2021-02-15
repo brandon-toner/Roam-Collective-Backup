@@ -56,6 +56,9 @@
 - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
             - **[Related](<Related.md>):**
 
+- creating relationships between blocks
+                    - **[Related](<Related.md>):**
+
 - [Q](<Q.md>) How might those barriers be navigated or reduced? 
             - **[Related](<Related.md>):**
 
@@ -384,6 +387,13 @@
 - **[Related](<Related.md>):**
 
 ## [just-in-time](<just-in-time.md>)
+- **[Related](<Related.md>):**
+
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+    - **[Related](<Related.md>):**
+
+## [mind-mapping](<mind-mapping.md>)
 - **[Related](<Related.md>):**
 
 ## [mutually exclusive](<mutually exclusive.md>)

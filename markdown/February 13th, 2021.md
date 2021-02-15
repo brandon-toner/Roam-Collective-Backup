@@ -9,9 +9,9 @@
             - "#I Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([[grist for the mill]]) for drafting the contents of the letter."
         3. **From Charles' section:** 
             - #Obs "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
-                - **Result:** "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+                - **Result:** "Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)"
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[@[[Charles Farr]]]])"
+        1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
@@ -36,7 +36,7 @@
                         - This would also emphasize the importance of logging information in these places so that it is surfaced for inclusion of the weekly highlights.
                 - This would help to keep Twitter and members of the graph apprised on events, updates and highlights.
                 - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
-        - #Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[@[[Charles Farr]]]])
+        - #Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])
             - Desired style:
                 - Most = dark grey
                 - Some = special & unique
@@ -54,7 +54,7 @@
                 - Graph updates, highlights, active projects
                 - Section on the Roam Games latest.
             - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
-            - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+            - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
     - #Bookmarks #not_populated
     - #Conversation 
         1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
@@ -161,7 +161,7 @@
         - Reviewing Conor's tweet regarding RG3
             - I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
             - Conor [original tweet](((Lnfo1H7-B))) is in response to Zsolt's question about setting up a roam 
-        - Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)
+        - Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)
             - Motivation: 
                 - A place to work in public on Roam Games submissions (optional)
                 - A place to collate ideas & influence related to Roam Games
@@ -208,7 +208,7 @@
                 - roam-inter set up
     - #Conversation
         - [[~[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
-            - See: "Roam Games Multiplayer Graph — [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) (The Roman Forum)"
+            - See: "Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)"
     - #Bookmarks #not_populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"

@@ -5,6 +5,7 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. Welcome [@Samuel]([Samuel Bars](<Samuel Bars.md>))!
+        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
@@ -31,7 +32,7 @@
                 - [I](<I.md>) I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
                 - #[Fleeting Notes](<Fleeting Notes.md>) [learning](<learning.md>) with the [self-directed learning](<self-directed learning.md>) method is hard work and time consuming.
                 - #[Fleeting Notes](<Fleeting Notes.md>) within any given domain, there is a LOT of material that can be learned.
-                    - **[Related](<Related.md>):** [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+                    - **[Related](<Related.md>):** [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
                     - [Q](<Q.md>) How should learning projects be prioritized? 
                         - [Q](<Q.md>) What should be learned and when?
                         - [Q](<Q.md>) Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
@@ -52,9 +53,45 @@
             - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[R:](<[[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)]])
                 - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
             - **[Related](<Related.md>):** [[[E:](<[[E:.md>) build once, sell twice]]
+        - [Q](<Q.md>) How might conventions/workflows/frameworks be utilized to optimize for [flow state](<flow state.md>) writing?
+            - "It's been particularly interesting to me the level of [flow state](<flow state.md>) writing I've been able to tap into writing in here. " 
+            - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]])"
+            - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>) and [flow state](<flow state.md>) exploration of ideas. "
+            - "#[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+        - #[Fleeting Notes](<Fleeting Notes.md>) Displaying word counts on each [DNP Section](<DNP Section.md>) helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) [gamification](<gamification.md>)
+        - Notes from Clubhouse #[Meetings & Discussions](<Meetings & Discussions.md>)
+            - [onboarding](<onboarding.md>)
+                - Need to foster the programmer's mindset
+                - Get comfortable with not knowing at all, and finding comfort in that complexity.
+                - "I do not teach about the past, I teach to ask questions about the past" - [Mark Robertson](<Mark Robertson.md>)
+                - [Roam](<Roam.md>) at the heart is an outliner - [Roamhacker](<Roamhacker.md>)
+                    - Concept of hierarchical notes
+                    - The 1% that is the most important
+                    - "writing with structure" = skill
+                        - creating relationships between blocks
+                    - **[Related](<Related.md>):** 
+                        - [Azlen Elza](<Azlen Elza.md>)'s roam/js relationship highlighter
+                            - Visually communicating relationships
+                        - [mind-mapping](<mind-mapping.md>) 
+                - Knowing **how to group information** is tacit knowledge - [Ramses Oudt](<Ramses Oudt.md>)
+                    - Indentation and linking
+                    - The philosophy of Roam and information is important.
+                - Within Roam, the outliner is infinite.
+                    - Compare with something like [OmniOutliner](<OmniOutliner.md>)
+                    - Infinite indentation and collapsible blocks
+                - "I had the whole Omni Suite" - [Drew Coffman](<Drew Coffman.md>)
+                - [Q](<Q.md>) What is the 1% of using Roam / getting the benefits?
+                    - Outliner
+                    - DNP 
+                - Dealing with non-linear thought 
+                - DNP = new start everyday - [Andy Henson](<Andy Henson.md>)
+                    - Hides the complexity
+                    - Break the tree apart, but it still be the same tree
+                    - Can start literally anywhere
+                    - Removes "where do I get started"
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Fleeting Notes](<Fleeting Notes.md>) Let user questions drive the documentation of conventions and FAQs. 
-            - Process: #[Algorithms of Thought](<Algorithms of Thought.md>) [Processes](<Processes.md>) [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - Process: #[Algorithms of Thought](<Algorithms of Thought.md>) [Processes](<Processes.md>) [cc:Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - Receive question
                 - [Q](<Q.md>) Is there a clear answer?
                     - **[If yes](<If yes.md>):** "[Q](<Q.md>) Is it documented?"
@@ -78,6 +115,10 @@
             - [Q](<Q.md>) "What learning objective is this questions trying to address?"
         - #[Learning Objectives](<Learning Objectives.md>) 
             - [compare & contrast](<compare & contrast.md>) multiplayer [chat](<chat.md>) [conventions](<conventions.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) Good [questions](<questions.md>) are the path to good [solutions](<solutions.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) The [fleeting notes](<fleeting notes.md>) format is very tweetable. 
+            - Many tweets can be fleeting notes, and many fleeting notes would make good tweet.
+            - Idea of an activity: Take a note within the [zettelkasten](<zettelkasten.md>) that calls to you, and write tweetstorm elaborating on the idea. [Activities](<Activities.md>)
     - [Bookmarks](<Bookmarks.md>) 
         - [Feedback](<Feedback.md>) ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
     - [Conversation](<Conversation.md>) 
@@ -95,7 +136,7 @@
             - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
                 - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
             - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
-                - Totally! [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
+                - Totally! [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
             - "Question: Is there any convention around reactions?" [Conventions](<Conventions.md>) #[emoji reactions](<emoji reactions.md>)
                 - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [Roam Portal](<Roam Portal.md>)'s latest update.
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)"
@@ -114,7 +155,7 @@
                         - Then questions are formed that help to drive the conversation, eventually leading to the synthesis and presentation of information to address the questions, thereby satisfying the learning objectives (which were designed to accomplish something... a standard, or prerequisite to solving a problem.) 
     - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -189,11 +230,19 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
-        - "[ ] Review mentions & work of the last few days"
-            - "[ ] Review notes on the Roaman Agora"
-                - "[ ] Review Bookmarks & Saved Items"
+        - "[x] Review mentions & work of the last few days"
+        - "[ ] Review notes on the Roaman Agora"
+            - "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
+        - "[ ] Review Bookmarks & Saved Items"
         - 
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>)
+        - On self-accruing onboarding material
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
+        - Discussions
+            - [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of [The Roaman Agora](<The Roaman Agora.md>) — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) what are you refering to [here](((V-5pe7Vgp)))?
+            - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[@[[Everyone](<@[[Everyone.md>)]]` tag, otherwise you risk creating weird compound pages...
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
     - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Review Bookmarks & Saved Items
@@ -205,7 +254,20 @@
             - [ ] Reach out to Stian regarding roam inter
         - [ ] Pull in relevant notes from [Books/The Culture Code](<Books/The Culture Code.md>) regarding conventions
         - [ ] Brainstorm personal approach to converting thoughts → artifacts
-        - [ ] Review mentions & work of the last few days
+        - [x] Review mentions & work of the last few days
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - Still challenging to get up to speed - would someone mind getting on a quick chat to catch-up?
+        - Getting up to speed!
+            - Love the epics!
+        - Clubhouse
+            - Daily Notes as a fresh start - never have to worry about where to start
+            - Core features:  outline, side-bar
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
 - ---
 
 # Backlinks
@@ -217,7 +279,7 @@
 
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)

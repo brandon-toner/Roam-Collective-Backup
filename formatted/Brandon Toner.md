@@ -451,7 +451,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [grist for the mill](<grist for the mill.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [zettelkasten](<zettelkasten.md>)

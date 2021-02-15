@@ -1,9 +1,0 @@
-- Tags:: #Seedlings
-    - Date Created:: [[February 15th, 2021]]
-    - Last Updated:: [[February 15th, 2021]]
-    - Created by:: [[Brandon Toner]]
-    - Author:: #not_populated
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Relevant Notes:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - Contents:: #not_populated

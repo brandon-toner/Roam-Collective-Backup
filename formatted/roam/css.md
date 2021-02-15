@@ -27,6 +27,18 @@
                     - Yellow
                     - Green
                     - Blue
+                        - ```css
+:root {
+  --cl-blue-100:	[6FBCFF](<../6FBCFF.md>);
+  --cl-blue-200:	[55A9F2](<../55A9F2.md>);
+  --cl-blue-300:	[348FDD](<../348FDD.md>);
+  --cl-blue-400:	[2E7FC4](<../2E7FC4.md>);
+  --cl-blue-500:	[1476CA](<../1476CA.md>);
+  --cl-blue-600:	[1160A4](<../1160A4.md>);
+  --cl-blue-700:	[124A7B](<../124A7B.md>);
+  --cl-blue-800:	[053762](<../053762.md>);
+  --cl-blue-900:	[04233E](<../04233E.md>);
+}```
                     - Purple
                 - Additional Color Schemes
                     - Togetic
@@ -839,7 +851,16 @@ code {
                     - Example: `this is a code block`
     - ## Elements
         1. ## Tag Styling [Status](<../Status.md>)/Enabled
-            1. ### GTD Tags
+            1. Variables
+                - ```css
+:root {
+  /*
+  Format:
+  --tag-bg-cl-<family-name>: 	var(--cl-<color-name>);
+  */
+  --tag-bg-cl-gtd:		var(--cl-blue-500);
+}```
+            2. ### GTD Tags
                 - Examples
                     - [INBOX](<../INBOX.md>)
                     - [Inbox](<../Inbox.md>)
@@ -1095,7 +1116,7 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-            2. ## DNP Modules
+            3. ## DNP Modules
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
@@ -1344,7 +1365,7 @@ span.rm-page-ref[data-tag="Tips & Tricks"]:before {
                     - "[^[[Your Name](<../^[[Your Name.md>)]]"
                 - "[Questions](<../Questions.md>)"
                 - "#[Chat](<../Chat.md>)"
-            3. ### Note & Zettelkasten Tags
+            4. ### Note & Zettelkasten Tags
                 - #[Fleeting Notes](<../Fleeting Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
@@ -1371,11 +1392,7 @@ span.rm-page-ref[data-tag="Literature Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-
-
-```
+}```
                 - #[Seedlings](<../Seedlings.md>)
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
@@ -1389,14 +1406,7 @@ span.rm-page-ref[data-tag="Seedlings"] {
 background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6DA69.md>));  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6DA69.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
-}
-
-
-
-
-```
+}```
                 - #[Buddings](<../Buddings.md>)
                     - ```css
 span.rm-page-ref[data-tag="Buddings"] {
@@ -1611,9 +1621,9 @@ background: [607D8B68](<../607D8B68.md>);  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, [607D8B68](<../607D8B68.md>), [607D8B68](<../607D8B68.md>));  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, [607D8B68](<../607D8B68.md>), [607D8B68](<../607D8B68.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }```
-            4. ## Areas Tags
+            5. ## Areas Tags
                 - `#[Administration](<../Administration.md>)`
-            5. ### Page & Block Type Tags
+            6. ### Page & Block Type Tags
                 - `[Articles](<../Articles.md>)
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -2343,7 +2353,7 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            6. # Collaboration Tags
+            7. # Collaboration Tags
                 - ## Notifications & Mentions
                     - [@[[Their Name](<../@[[Their Name.md>)]]
                     - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
@@ -2792,7 +2802,7 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            7. ## Feedback Tags
+            8. ## Feedback Tags
                 - [Feedback](<../Feedback.md>)
                     - #[[[Feedback](<../[[Feedback.md>): What's working]]
                     - #[[[Feedback](<../[[Feedback.md>): What could be better]]
@@ -2895,7 +2905,7 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-            8. ## Processing Tags
+            9. ## Processing Tags
                 - `#[Housekeeping](<../Housekeeping.md>)
                     - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
@@ -3008,7 +3018,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-            9. ### Highlight Tags
+            10. ### Highlight Tags
                 - [Highlights](<../Highlights.md>)
                     - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -3073,7 +3083,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-            10. ## Journaling Tags
+            11. ## Journaling Tags
                 - `#[Writing & Reflection](<../Writing & Reflection.md>)
                     - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -3138,7 +3148,7 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-            11. ### Status Tags
+            12. ### Status Tags
                 - Examples
                     - #[Status/Idea](<../Status/Idea.md>)
                     - #[Status/Active](<../Status/Active.md>)
@@ -3290,7 +3300,7 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            12. ## Miscellaneous
+            13. ## Miscellaneous
                 - `#[Quick Capture](<../Quick Capture.md>)
                     - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
@@ -3319,7 +3329,7 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            13. ## Experimental
+            14. ## Experimental
                 - `[Quote](<../Quote.md>) (inline block ref)
                     - ```css
 span.rm-page-ref[data-tag="Quote"] {
@@ -3419,7 +3429,7 @@ span.rm-page-ref[data-tag="Quote"]:before {
 	margin-top: -8px;
 	margin-right: -10px;
 }```
-            14. ## Archived & Deprecated
+            15. ## Archived & Deprecated
                 - `[Resolved](<../Resolved.md>)`
                     - ```css
 span.rm-page-ref[data-tag="Resolved"] {

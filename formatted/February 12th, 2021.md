@@ -313,7 +313,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
             - [@]([Brandon Toner](<Brandon Toner.md>)) I like using an alias, I'm not as sure about using the `*` as the icon though — can be difficult to identify where you're name is mentioned [*](((8SPfH10rB)))
                 - Suggestion is to use `[@]()` for people and `[*]()` for blocks
             - [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [~P]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) Check out this lazy way to get everyone's attention... [*](((lXg3061j_)))
-                - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]}}
+                - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]}}
                 - #[Change Log](<Change Log.md>)
                     - Updated the CSS for `[@[[Everyone](<@[[Everyone.md>)]]` to remove the `unread` — only affects the everyone tag
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) to Joel's, adding the `[Notion](<Notion.md>)` category to capture the more fleeting note types... 

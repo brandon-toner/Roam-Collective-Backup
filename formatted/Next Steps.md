@@ -87,7 +87,7 @@
 - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 

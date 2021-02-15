@@ -5,6 +5,7 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. Welcome [@Samuel]([[Samuel Bars]])!
+        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
@@ -31,7 +32,7 @@
                 - #I I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
                 - #[[Fleeting Notes]] [[learning]] with the [[self-directed learning]] method is hard work and time consuming.
                 - #[[Fleeting Notes]] within any given domain, there is a LOT of material that can be learned.
-                    - Related:: [[just-in-time vs just-in case]]
+                    - Related:: [[just-in-time vs just-in-case]]
                     - #Q How should learning projects be prioritized? 
                         - #Q What should be learned and when?
                         - #Q Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
@@ -52,9 +53,45 @@
             - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[[R:]] Pharmacist's Patient Care Process (Dalhousie University)]])
                 - Cumulative knowledge base, driven by [[just-in-time]] problem solving.
             - Related:: [[[[E:]] build once, sell twice]]
+        - #Q How might conventions/workflows/frameworks be utilized to optimize for [[flow state]] writing?
+            - "It's been particularly interesting to me the level of [[flow state]] writing I've been able to tap into writing in here. " 
+            - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]])"
+            - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. "
+            - "#[[Fleeting Notes]] [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+        - #[[Fleeting Notes]] Displaying word counts on each [[DNP Section]] helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) #gamification
+        - Notes from Clubhouse #[[Meetings & Discussions]]
+            - [[onboarding]]
+                - Need to foster the programmer's mindset
+                - Get comfortable with not knowing at all, and finding comfort in that complexity.
+                - "I do not teach about the past, I teach to ask questions about the past" - [[Mark Robertson]]
+                - [[Roam]] at the heart is an outliner - [[Roamhacker]]
+                    - Concept of hierarchical notes
+                    - The 1% that is the most important
+                    - "writing with structure" = skill
+                        - creating relationships between blocks
+                    - Related:: 
+                        - [[Azlen Elza]]'s roam/js relationship highlighter
+                            - Visually communicating relationships
+                        - [[mind-mapping]] 
+                - Knowing **how to group information** is tacit knowledge - [[Ramses Oudt]]
+                    - Indentation and linking
+                    - The philosophy of Roam and information is important.
+                - Within Roam, the outliner is infinite.
+                    - Compare with something like [[OmniOutliner]]
+                    - Infinite indentation and collapsible blocks
+                - "I had the whole Omni Suite" - [[Drew Coffman]]
+                - #Q What is the 1% of using Roam / getting the benefits?
+                    - Outliner
+                    - DNP 
+                - Dealing with non-linear thought 
+                - DNP = new start everyday - [[Andy Henson]]
+                    - Hides the complexity
+                    - Break the tree apart, but it still be the same tree
+                    - Can start literally anywhere
+                    - Removes "where do I get started"
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] Let user questions drive the documentation of conventions and FAQs. 
-            - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[@[[Charles Farr]]]])
+            - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[~[[Charles Farr]]]])
                 - Receive question
                 - #Q Is there a clear answer?
                     - If yes:: "#Q Is it documented?"
@@ -78,6 +115,10 @@
             - #Q "What learning objective is this questions trying to address?"
         - #[[Learning Objectives]] 
             - [[compare & contrast]] multiplayer [[chat]] [[conventions]]
+        - #[[Fleeting Notes]] Good [[questions]] are the path to good [[solutions]].
+        - #[[Fleeting Notes]] The [[fleeting notes]] format is very tweetable. 
+            - Many tweets can be fleeting notes, and many fleeting notes would make good tweet.
+            - Idea of an activity: Take a note within the [[zettelkasten]] that calls to you, and write tweetstorm elaborating on the idea. #Activities
     - #Bookmarks 
         - #Feedback ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
     - #Conversation 
@@ -95,7 +136,7 @@
             - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
                 - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
             - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
-                - Totally! [@Charles]([[@[[Charles Farr]]]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
+                - Totally! [@Charles]([[~[[Charles Farr]]]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
             - "Question: Is there any convention around reactions?" #Conventions #[[emoji reactions]]
                 - [@Samuel]([[@[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
@@ -114,7 +155,7 @@
                         - Then questions are formed that help to drive the conversation, eventually leading to the synthesis and presentation of information to address the questions, thereby satisfying the learning objectives (which were designed to accomplish something... a standard, or prerequisite to solving a problem.) 
     - #[[Change Log]] #not_populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -189,11 +230,19 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
-        - "{{[[TODO]]}} Review mentions & work of the last few days"
-            - "{{[[TODO]]}} Review notes on the Roaman Agora"
-                - "{{[[TODO]]}} Review Bookmarks & Saved Items"
+        - "{{[[DONE]]}} Review mentions & work of the last few days"
+        - "{{[[TODO]]}} Review notes on the Roaman Agora"
+            - "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
+        - "{{[[TODO]]}} Review Bookmarks & Saved Items"
         - 
-    - #Conversation #not_populated
+    - #Conversation
+        - On self-accruing onboarding material
+            - [@B]([[@[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
+        - Discussions
+            - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of [[The Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
+            - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
+            - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
     - #Bookmarks #not_populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Review Bookmarks & Saved Items
@@ -205,5 +254,18 @@
             - {{[[TODO]]}} Reach out to Stian regarding roam inter
         - {{[[TODO]]}} Pull in relevant notes from [[Books/The Culture Code]] regarding conventions
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
-        - {{[[TODO]]}} Review mentions & work of the last few days
+        - {{[[DONE]]}} Review mentions & work of the last few days
+- ---
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad
+        - Still challenging to get up to speed - would someone mind getting on a quick chat to catch-up?
+        - Getting up to speed!
+            - Love the epics!
+        - Clubhouse
+            - Daily Notes as a fresh start - never have to worry about where to start
+            - Core features:  outline, side-bar
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks #not_populated
+    - #Conversation #not_populated
+    - #[[Change Log]] #not_populated
 - ---

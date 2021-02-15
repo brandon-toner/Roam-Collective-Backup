@@ -196,7 +196,7 @@
 - **[Last Updated](<Last Updated.md>):** [February 13th, 2021](<February 13th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
     - **[Created by](<Created by.md>):**
 

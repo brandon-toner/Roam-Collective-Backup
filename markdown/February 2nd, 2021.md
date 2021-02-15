@@ -391,6 +391,7 @@ I think I need to go through the whole process to make sure I internalise it.
             - "Colors"
             - Note: Did not update any existing css code to utilize the `var()` best practice
                 - {{[[TODO]]}} Standardize color scheme #[[February 2021]]
+                    - "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
                     - #Q Can Roam Collective develop a color scheme that better supports our key mission?
                         - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
         - Added SmartBlock to handle resurfacing: "#42SmartBlock .rc4AoT — Resurfacing for Future Me"

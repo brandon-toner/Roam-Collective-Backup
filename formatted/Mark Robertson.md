@@ -36,6 +36,9 @@
 - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
 
 # Backlinks
+## [February 15th, 2021](<February 15th, 2021.md>)
+- "I do not teach about the past, I teach to ask questions about the past" - [Mark Robertson](<Mark Robertson.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 

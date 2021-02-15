@@ -183,8 +183,8 @@
 - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
     - **[References](<References.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
-- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+- **[Related](<Related.md>):** [just-in-time](<just-in-time.md>), [just-in-case](<just-in-case.md>)
     - **[References](<References.md>):**
 
 ## [spaced repetition](<spaced repetition.md>)

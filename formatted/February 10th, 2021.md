@@ -133,7 +133,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - "Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)` page — only really seems to impact notes from [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])"
                 - Is it the ones I'm tucking into aliases?? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - "[x] Create template for Q pages [*](((n0APOFCfx)))"
-                - See here ".rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - See here ".rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         2. On Charle's [highlights/notes syntax](((l8ATiYKZG))) with page number
             - How did you generate this syntax with page number? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         3. On `[R:](<R:.md>)` namespacing.[*](((sqydLl-Vb)))
@@ -358,7 +358,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - Speculative Outlines as Sprints
             - 12 Problems / Pillars as Epics (~kinda analogous)
         - Convergent targets allow for easier re-entry
-            - — [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+            - — [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - Sprint/Roam Game Example
             - "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
             - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])"

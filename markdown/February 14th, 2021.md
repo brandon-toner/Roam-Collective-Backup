@@ -51,7 +51,7 @@
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
     - #Conversation 
-        1. FYI "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC." {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]]}}
+        1. FYI "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC." {{or:[[~[[Larissa de Lima]]]] | [[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]]}}
         2. [@Peter]([[@[[Peter Rosso]]]]) ["Twitter acct"](((DweiIynrD))) 
             - So we could prob just make an @roam_collective account, and use that. (Pending availability).
 I'll have a look this week. #[[Follow Up]]
@@ -99,11 +99,11 @@ I'll have a look this week. #[[Follow Up]]
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
         - [@B]([[@[[Brandon Toner]]]]) Check [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe?hl=en) out! So cool! 
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
-        - [@B]([[@[[Brandon Toner]]]]) [cc:C]([[@[[Charles Farr]]]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
+        - [@B]([[@[[Brandon Toner]]]]) [cc:C]([[~[[Charles Farr]]]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
         - [@Brandon]([[@[[Brandon Toner]]]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone](@[[Peter Rosso]]]][[@[[Everyone]]]][[@[[Charles Farr]]]][[~[[Brandon Toner]]]][[@[[leekeifon]]]][[@[[Larissa de Lima)
 `[@[[[Everyone]]]([[@[[Peter Rosso]]]],[[@[[Everyone]]]],[[@[[Charles Farr]]]],[[@[[Brandon Toner]]]],[[@[[leekeifon]]]],[[@[[Larissa de Lima]])`
-        - [@B]([[@[[Brandon Toner]]]]) [@C]([[@[[Charles Farr]]]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
+        - [@B]([[@[[Brandon Toner]]]]) [@C]([[^[[Charles Farr]]]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 
             - Also, we could create a DNP called welcome? that has a welcome message and points people to the right resources in the right order. This feels redundant but thought I'd write it anyways. 
         - [@Brandon]([[@[[Brandon Toner]]]]) [On "recovering Twitter account"](((cNxFQnwKF))) Good luck it may take ages and they might want money for it. It's worth asking and hopes good people. Additionally, you can always change your Twitter handle. As long as people don't write it on paper or on websites we can start populating one with crazy content.

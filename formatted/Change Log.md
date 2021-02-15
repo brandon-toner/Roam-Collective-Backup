@@ -31,6 +31,8 @@
 
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -91,6 +93,9 @@
 - #[Change Log](<Change Log.md>)
 
 ## [Joel Chan](<Joel Chan.md>)
+- #[Change Log](<Change Log.md>)
+
+## [Larissa de Lima](<Larissa de Lima.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)

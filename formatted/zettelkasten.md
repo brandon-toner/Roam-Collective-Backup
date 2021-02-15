@@ -36,6 +36,8 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) The purpose of my [zettelkasten](<zettelkasten.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- Idea of an activity: Take a note within the [zettelkasten](<zettelkasten.md>)
+
 - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

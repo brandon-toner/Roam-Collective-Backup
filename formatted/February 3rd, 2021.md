@@ -11,7 +11,7 @@
             - [Shortcuts Bar](((ZH-J4OPDR)))
             - [Dhrumil's adventures in the future of Roam's features](((ogK77gVv6)))
         - [Brandon Toner](<Brandon Toner.md>)
-            - WOO There is some PROGRESS in here tonight. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] and [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] you folks are on fire. 
+            - WOO There is some PROGRESS in here tonight. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] and [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] you folks are on fire. 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion))
         - "Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members."
         - Been thinking about it and I see no benefit of "Daily Log" up here vs "Main Feed". Thoughts?
@@ -147,7 +147,7 @@
             - "Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?"
                 - I don't think so! I like that metaphor quite a bit, and it's still in keeping with how others are using it... mostly. 
                 - I'd say it works.
-                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [^[[Charles Farr](<^[[Charles Farr.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+                - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [^[[Charles Farr](<^[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         13. On [filtering](<filtering.md>) over querying
             - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
 `{{[query](<query.md>): {or: [ex-B](<ex-B.md>) [ex-C](<ex-C.md>)}}}`"
@@ -161,7 +161,7 @@
             - Love the use of GIFs, Images, sketches, etc!
                 - [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [here](((pA1lK9w6c))) and [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [here](((PSVDrzk2_)))
             - Love these questions to gather clarity and input, then assembly into [norms](<norms.md>). [here](((mkTuyp16G))) to [here](((CaGPiJ2TS)))
-            - Love these status updates! [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
+            - Love these status updates! [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FGoSqscyypY.png?alt=media&token=51810c01-2033-45db-b697-e97263163854)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))

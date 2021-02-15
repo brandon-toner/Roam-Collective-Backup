@@ -204,7 +204,7 @@
 - **[Tags](<Tags.md>):** [Idioms](<Idioms.md>) [Metaphors](<Metaphors.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [just-in-time vs just-in case](<just-in-time vs just-in case.md>)
+## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
 

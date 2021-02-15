@@ -184,7 +184,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
         - #[Follow Up](<Follow Up.md>) "Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):"
     - [Conversation](<Conversation.md>)
         - On updates to note mythology...
-            - [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
+            - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
                 - On a related note, last night [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) and I discussed [note classes](((_QWUf9796))) yesterday and aligned on the "stable" taxonomy for now. Idea is to settle the conventions to move to output.
         - Simple Replies
             - Love the idea [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))

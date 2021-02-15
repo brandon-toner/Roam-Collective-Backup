@@ -16,14 +16,22 @@
     - Unread
         - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
-    - LaBrisa — DNT [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
+    - LaBrisa — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+            - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
         - ---
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - [Larissa de Lima](<Larissa de Lima.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
+
+## [February 15th, 2021](<February 15th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
