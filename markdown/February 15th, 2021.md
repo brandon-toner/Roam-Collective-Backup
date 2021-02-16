@@ -249,7 +249,6 @@
                         - It is no longer a question of replicating [[analog]] or [[synchronous]] processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
                     - #Syn When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
                 - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [[organizations]].
-        - 
     - #Conversation
         - On self-accruing onboarding material
             - [@B]([[@[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
@@ -261,7 +260,8 @@
             - Hi [@Joel]([[@[[Joel Chan]]]])! I would love to connect sometime to discuss your model.
                 - The biggest addition for me is a `#Notion` tag, which captures something akin to a "fleeting note" that is really just a thought — no immediate evidence or some implied context, but I'm too lazy to develop it into a `#Obs` of `#Syn` note.
                 - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[@[[Brandon Toner]]]])?
-    - #Bookmarks #not_populated
+    - #Bookmarks
+        - "IMO a discourse-centric approach can mitigate these risks"
     - #[[GTD Zone]]
         - {{[[DONE]]}} Review Bookmarks & Saved Items
         - {{[[TODO]]}} Review notes on the Roaman Agora
@@ -274,7 +274,7 @@
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
         - {{[[DONE]]}} Review mentions & work of the last few days
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad
         - Still challenging to get up to speed - would someone mind getting on a quick chat to catch-up?
         - Getting up to speed!

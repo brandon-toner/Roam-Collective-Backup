@@ -10,7 +10,7 @@
         - **[Interests](<Interests.md>):** [economics](<economics.md>) [history](<history.md>) [data policy](<data policy.md>) [policy](<policy.md>) [metacognition](<metacognition.md>) [systems thinking](<systems thinking.md>)
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
-    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+    - {{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}
 - **[Queries](<Queries.md>):**
     - CCed
         - {{[query](<query.md>): {and: [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}

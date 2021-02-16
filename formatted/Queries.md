@@ -12,7 +12,7 @@
 - **[Queries](<Queries.md>):**
 
 ## [Larissa de Lima](<Larissa de Lima.md>)
-- {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+- {{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}
 - **[Queries](<Queries.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)
