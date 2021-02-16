@@ -10,6 +10,7 @@
         - **[Interests](<Interests.md>):** [economics](<economics.md>) [history](<history.md>) [data policy](<data policy.md>) [policy](<policy.md>) [metacognition](<metacognition.md>) [systems thinking](<systems thinking.md>)
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
+    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
 - **[Queries](<Queries.md>):**
     - CCed
         - {{[query](<query.md>): {and: [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
@@ -17,7 +18,7 @@
         - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)

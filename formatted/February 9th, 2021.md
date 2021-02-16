@@ -18,7 +18,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
             - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):

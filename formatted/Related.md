@@ -56,11 +56,11 @@
 - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
             - **[Related](<Related.md>):**
 
-- creating relationships between blocks
-                    - **[Related](<Related.md>):**
-
 - [Q](<Q.md>) How might those barriers be navigated or reduced? 
             - **[Related](<Related.md>):**
+
+- creating relationships between blocks
+                    - **[Related](<Related.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...

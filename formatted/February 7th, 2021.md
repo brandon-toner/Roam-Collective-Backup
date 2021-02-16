@@ -108,7 +108,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
             - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 

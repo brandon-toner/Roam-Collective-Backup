@@ -10,6 +10,7 @@
         - Interests:: [[economics]] [[history]] [[data policy]] [[policy]] [[metacognition]] [[systems thinking]]
             - Love learning and there's very little that I'm not interested in.  Studied computer science with minor in cognitive sciences in college, got a MBA and Masters in Public Policy, and had worked towards a masters in math that I didn't finish.  Have also done consulting work in healthcare and international development
         - Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
+    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
 - Queries::
     - CCed
         - {{[[query]]: {and: [[cc:[[Larissa de Lima]]]] {not: [[query]]}}}}
@@ -17,7 +18,7 @@
         - {{[[query]]: {and: [[@[[Larissa de Lima]]]] {not: [[query]]}}}}
 - SmartBlocks::
     - LaBrisa — .DNP Template #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
             - #Scratchpad #not_populated
             - #[[The Zettelkasten]] #not_populated
             - #Bookmarks #not_populated

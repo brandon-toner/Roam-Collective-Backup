@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 15th, 2021](<February 15th, 2021.md>)
+- [Notion](<Notion.md>) The same is true for an organization built for a distributed, [asynchronous](<asynchronous.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - When Brandon commented made about [asynchronous](<asynchronous.md>)
 

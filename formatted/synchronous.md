@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 15th, 2021](<February 15th, 2021.md>)
+- It is no longer a question of replicating [analog](<analog.md>) or [synchronous](<synchronous.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - When Brandon commented made about [asynchronous](<asynchronous.md>) editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [synchronous](<synchronous.md>)?
 

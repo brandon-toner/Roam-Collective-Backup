@@ -18,7 +18,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #[[Scratchpad]] 
         - Hopped on [[Clubhouse]] for "20 mins" stayed for 2 hours. [[February 8th, 2021]] 
             - Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):

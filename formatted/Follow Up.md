@@ -60,7 +60,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
 
 - Will #[Follow Up](<Follow Up.md>)
 
-- #[Follow Up](<Follow Up.md>)
+- [x] #[Follow Up](<Follow Up.md>)
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - On a broadcasting smartblock. #[Follow Up](<Follow Up.md>)

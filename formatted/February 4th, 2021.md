@@ -141,7 +141,7 @@ Monthly reviews could include a zoom catchup?
         - {{[embed](<embed.md>): ((r1FQAyh6N))}}
         - {{[embed](<embed.md>): ((jbnNi00AV))}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Are we creating [MSN Messenger](<MSN Messenger.md>)? 😂 
             - **[Image](<Image.md>):**
@@ -258,7 +258,7 @@ Monthly reviews could include a zoom catchup?
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [status](((cLrCgntHm))) looks great!
     - [Bookmarks](<Bookmarks.md>)
-        - #[Follow Up](<Follow Up.md>) Re: "How do you [query](<query.md>)? for blocks that contain 2 tags and not for when one is a child of the other"
+        - [x] #[Follow Up](<Follow Up.md>) Re: "How do you [query](<query.md>)? for blocks that contain 2 tags and not for when one is a child of the other"
             - Tomorrow I'm hoping to continue on with my [datalog](<datalog.md>) tutorial — will ponder...
     - ---
 

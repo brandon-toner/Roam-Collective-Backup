@@ -12,7 +12,7 @@
 - **[Queries](<Queries.md>):**
 
 ## [Larissa de Lima](<Larissa de Lima.md>)
-- Started using Roam in Oct 2020.  Working on creating a public garden focused on tools/visualizations for understanding the financial system
+- {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
 - **[Queries](<Queries.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)

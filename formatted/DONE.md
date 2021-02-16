@@ -25,6 +25,10 @@
 
 - "{{[DONE](<DONE.md>)}
 
+- "{{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
@@ -52,6 +56,9 @@
 - #[Follow Up](<Follow Up.md>) "{{[DONE](<DONE.md>)}
 
 - #[Follow Up](<Follow Up.md>) "{{[DONE](<DONE.md>)}
+
+## [February 4th, 2021](<February 4th, 2021.md>)
+- {{[DONE](<DONE.md>)}
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - {{[DONE](<DONE.md>)}

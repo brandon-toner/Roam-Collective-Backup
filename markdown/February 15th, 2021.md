@@ -9,7 +9,7 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -59,36 +59,6 @@
             - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. "
             - "#[[Fleeting Notes]] [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
         - #[[Fleeting Notes]] Displaying word counts on each [[DNP Section]] helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) #gamification
-        - Notes from Clubhouse #[[Meetings & Discussions]]
-            - [[onboarding]]
-                - Need to foster the programmer's mindset
-                - Get comfortable with not knowing at all, and finding comfort in that complexity.
-                - "I do not teach about the past, I teach to ask questions about the past" - [[Mark Robertson]]
-                - [[Roam]] at the heart is an outliner - [[Roamhacker]]
-                    - Concept of hierarchical notes
-                    - The 1% that is the most important
-                    - "writing with structure" = skill
-                        - creating relationships between blocks
-                    - Related:: 
-                        - [[Azlen Elza]]'s roam/js relationship highlighter
-                            - Visually communicating relationships
-                        - [[mind-mapping]] 
-                - Knowing **how to group information** is tacit knowledge - [[Ramses Oudt]]
-                    - Indentation and linking
-                    - The philosophy of Roam and information is important.
-                - Within Roam, the outliner is infinite.
-                    - Compare with something like [[OmniOutliner]]
-                    - Infinite indentation and collapsible blocks
-                - "I had the whole Omni Suite" - [[Drew Coffman]]
-                - #Q What is the 1% of using Roam / getting the benefits?
-                    - Outliner
-                    - DNP 
-                - Dealing with non-linear thought 
-                - DNP = new start everyday - [[Andy Henson]]
-                    - Hides the complexity
-                    - Break the tree apart, but it still be the same tree
-                    - Can start literally anywhere
-                    - Removes "where do I get started"
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] Let user questions drive the documentation of conventions and FAQs. 
             - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[~[[Charles Farr]]]])
@@ -153,6 +123,43 @@
                     - Say in a lecture, the slidedeck often starts with "learning objectives" 
                         - What we are trying to accomplish.
                         - Then questions are formed that help to drive the conversation, eventually leading to the synthesis and presentation of information to address the questions, thereby satisfying the learning objectives (which were designed to accomplish something... a standard, or prerequisite to solving a problem.) 
+        4. [@Larissa]([[@[[Larissa de Lima]]]]) — I added you a status indicator to your profile (you had my block ref so when I updated mine, yours changed haha)
+    - #[[Meetings & Discussions]]
+        - Notes from Clubhouse #[[Meetings & Discussions]]
+            - [[onboarding]]
+                - Need to foster the programmer's mindset
+                - Get comfortable with not knowing at all, and finding comfort in that complexity.
+                - "I do not teach about the past, I teach to ask questions about the past" - [[Mark Robertson]]
+                - [[Roam]] at the heart is an outliner - [[Roamhacker]]
+                    - Concept of hierarchical notes
+                    - The 1% that is the most important
+                    - "writing with structure" = skill
+                        - creating relationships between blocks
+                    - Related:: 
+                        - [[Azlen Elza]]'s roam/js relationship highlighter
+                            - Visually communicating relationships
+                        - [[mind-mapping]] 
+                - Knowing **how to group information** is tacit knowledge - [[Ramses Oudt]]
+                    - Indentation and linking
+                    - The philosophy of Roam and information is important.
+                - Within Roam, the outliner is infinite.
+                    - Compare with something like [[OmniOutliner]]
+                    - Infinite indentation and collapsible blocks
+                - "I had the whole Omni Suite" - [[Drew Coffman]]
+                - #Q What is the 1% of using Roam / getting the benefits?
+                    - Outliner
+                    - DNP 
+                - Dealing with non-linear thought 
+                - DNP = new start everyday - [[Andy Henson]]
+                    - Hides the complexity
+                    - Break the tree apart, but it still be the same tree
+                    - Can start literally anywhere
+                    - Removes "where do I get started"
+                - 
+            - zoom feature
+                - Focus 
+                - New URL 
+            - Nesting 
     - #[[Change Log]] #not_populated
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
@@ -208,7 +215,7 @@
     - #Scratchpad #not_populated
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
-    - #Conversation #not_populated
+    - #Conversation
         - [[~[[Brandon Toner]]]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
             - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
                 - Shouldn't questions drive learning objectives, which imply a particular path towards addressing a question? 
@@ -224,8 +231,9 @@
                     - Some initial writing on this (from a recent grant proposal, yet to integrate back into my graph) here:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbKYWi85srR.png?alt=media&token=35b56aad-776e-49fc-8ff1-42af072402ba)
                 - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
-        - Also, hi [[@[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
+        - Also, hi [[~[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
+        - 
     - #[[Change Log]] #not_populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
@@ -233,7 +241,14 @@
         - "{{[[DONE]]}} Review mentions & work of the last few days"
         - "{{[[TODO]]}} Review notes on the Roaman Agora"
             - "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
-        - "{{[[TODO]]}} Review Bookmarks & Saved Items"
+        - "{{[[DONE]]}} Review Bookmarks & Saved Items"
+        - #Annotations on [[Book/The Art of Doing Science & Engineering]]
+            - 19: **It has rarely proved practical to produce exactly the same product by machines as we produced by hand.**
+                - 19: Indeed, one of the major items in the conversion from hand to machine production is the imaginative redesign of an __equivalent product__. Thus in thinking of mechanizing a large organization, it won't work if you try to keep things in detail exactly the same, rather there must be a larger give and take there is to be significant success. You must get the essentials of the job in mind and then design the mechanization to do that job rather than trying to mechanize the current version — if you want a significant success in the long run.
+                    - #Notion The same is true for an organization built for a distributed, [[asynchronous]] existence. The movement to [[remote work]] has forced organizations to grapple with the shortcomings of porting their current working approach to an entirely new playing field.
+                        - It is no longer a question of replicating [[analog]] or [[synchronous]] processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
+                    - #Syn When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
+                - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [[organizations]].
         - 
     - #Conversation
         - On self-accruing onboarding material
@@ -243,9 +258,12 @@
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
+            - Hi [@Joel]([[@[[Joel Chan]]]])! I would love to connect sometime to discuss your model.
+                - The biggest addition for me is a `#Notion` tag, which captures something akin to a "fleeting note" that is really just a thought — no immediate evidence or some implied context, but I'm too lazy to develop it into a `#Obs` of `#Syn` note.
+                - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[@[[Brandon Toner]]]])?
     - #Bookmarks #not_populated
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Review Bookmarks & Saved Items
+        - {{[[DONE]]}} Review Bookmarks & Saved Items
         - {{[[TODO]]}} Review notes on the Roaman Agora
         - {{[[TODO]]}} Outline structure of the Agora
             - Use the creative projects page
@@ -256,7 +274,7 @@
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
         - {{[[DONE]]}} Review mentions & work of the last few days
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad
         - Still challenging to get up to speed - would someone mind getting on a quick chat to catch-up?
         - Getting up to speed!
@@ -264,6 +282,11 @@
         - Clubhouse
             - Daily Notes as a fresh start - never have to worry about where to start
             - Core features:  outline, side-bar
+        - What's 
+            - Epics (large scale domains) vs. sprints (these then can fit within epics)
+                - Story points -> breaking it down
+                - Summarize within Work Summary
+        - #Q What type of conventions and processes best scale with number of users?
     - #[[The Zettelkasten]] #not_populated
     - #Bookmarks #not_populated
     - #Conversation #not_populated

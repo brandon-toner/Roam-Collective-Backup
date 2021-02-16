@@ -141,7 +141,7 @@ Monthly reviews could include a zoom catchup?
         - {{[[embed]]: ((r1FQAyh6N))}}
         - {{[[embed]]: ((jbnNi00AV))}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #[[Scratchpad]] 
         - Are we creating [[MSN Messenger]]? 😂 
             - Image::
@@ -258,6 +258,6 @@ Monthly reviews could include a zoom catchup?
             - [[~[[Larissa de Lima]]]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [[cc:[[Brandon Toner]]]] [status](((cLrCgntHm))) looks great!
     - #Bookmarks
-        - #[[Follow Up]] Re: "How do you #query? for blocks that contain 2 tags and not for when one is a child of the other"
+        - {{[[DONE]]}} #[[Follow Up]] Re: "How do you #query? for blocks that contain 2 tags and not for when one is a child of the other"
             - Tomorrow I'm hoping to continue on with my [[datalog]] tutorial — will ponder...
     - ---

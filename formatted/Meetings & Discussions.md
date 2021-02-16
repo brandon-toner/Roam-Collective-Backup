@@ -13,6 +13,8 @@
 - #[Meetings & Discussions](<Meetings & Discussions.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- #[Meetings & Discussions](<Meetings & Discussions.md>)
+
 - Notes from Clubhouse #[Meetings & Discussions](<Meetings & Discussions.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
