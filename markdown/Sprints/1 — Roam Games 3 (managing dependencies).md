@@ -18,13 +18,13 @@
     - **Outlines:**  ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[Outlines]]}}} #minimal
-    - **Questions:** #not_populated ((Replace ex-A with the sprint page name))
+    - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[Q]] [[Questions]]}}}} #minimal
-    - Relevant Notes:: #not_populated ((Replace ex-A with the sprint page name))
+    - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
-    - Tasks:: #not_populated ((Replace ex-A with the sprint page name))
+    - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query:: 
             - **Sprint + "Next Steps"**
                 - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] [[Next Steps]]}}}

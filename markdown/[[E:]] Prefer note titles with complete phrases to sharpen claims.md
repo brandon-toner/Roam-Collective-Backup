@@ -3,7 +3,7 @@
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)
-    - References:: #not_populated ((Supporting fleeting notes or literature notes would go here))
+    - References:: #not-populated ((Supporting fleeting notes or literature notes would go here))
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[[[E:]] Evergreen note titles are like APIs]]
         - "Less of an [assertion]([[assertions]]), but it is a concept that I refer to periodically. "

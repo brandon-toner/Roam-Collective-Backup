@@ -20,16 +20,16 @@
         - SmartBlocks::
             - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
                 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
-                    - #Inbox #not_populated
-                    - #[[Scratchpad]] #not_populated
-                    - #[[GTD Zone]] #not_populated
-                    - #Promptstorming #not_populated
-                    - #[[The Zettelkasten]] #not_populated
-                    - #Conversation #not_populated
+                    - #Inbox #not-populated
+                    - #[[Scratchpad]] #not-populated
+                    - #[[GTD Zone]] #not-populated
+                    - #Promptstorming #not-populated
+                    - #[[The Zettelkasten]] #not-populated
+                    - #Conversation #not-populated
                         - Query:
                             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-                    - #Feedback  #not_populated
-                    - #Bookmarks #not_populated
+                    - #Feedback  #not-populated
+                    - #Bookmarks #not-populated
                     - 
                 - ---
     - 

@@ -9,8 +9,8 @@
         - [[[R:](<[[R:.md>) Agile Product Management in Roam]]
     - **[Related](<Related.md>):**
         - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
-    - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
-    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
     - **[Work Summary](<Work Summary.md>):** 
         - [Charles' initial work mapping out this area](((6GfcqwQrI)))
         - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

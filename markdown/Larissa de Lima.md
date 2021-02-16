@@ -18,10 +18,10 @@
         - {{[[query]]: {and: [[@[[Larissa de Lima]]]] {not: [[query]]}}}}
 - SmartBlocks::
     - LaBrisa — .DNP Template #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
-            - #Scratchpad #not_populated
-            - #[[The Zettelkasten]] #not_populated
-            - #Bookmarks #not_populated
-            - #Conversation #not_populated
-            - #[[Change Log]] #not_populated
+        - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+            - #Scratchpad #not-populated
+            - #[[The Zettelkasten]] #not-populated
+            - #Bookmarks #not-populated
+            - #Conversation #not-populated
+            - #[[Change Log]] #not-populated
         - ---

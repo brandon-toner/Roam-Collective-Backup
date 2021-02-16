@@ -3,8 +3,8 @@
     - Last Updated:: [[February 2nd, 2021]] 
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - [[active resurfacing]] is a more [[reliable]] method of resurfacing. It involves the use of time-anchored events resurface blocks.
             - Methods of active resurfacing:

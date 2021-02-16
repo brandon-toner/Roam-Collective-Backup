@@ -18,7 +18,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
             - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
@@ -71,7 +71,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                         - [ ] [Choice](<Choice.md>): Where should commentary/feedback on an evergreen be documented? ((((UMrJIm3O_)))) [Q](<Q.md>)
                             - **[Options](<Options.md>):** 
                                 - A - Nested under the name in the "Reviewed By" section
-                                    - **[Pros](<Pros.md>):** [not_populated](<not_populated.md>)
+                                    - **[Pros](<Pros.md>):** [not-populated](<not-populated.md>)
                                     - **[Cons](<Cons.md>):** 
                                         - ^^Could get messy/distract from the content of the note^^
                                 - B - In the user's Scratchpad, with a block reference to their Reviewed By block.
@@ -85,9 +85,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                                     - **[Cons](<Cons.md>):** 
                                         - Logical
                                         - Might be a bit unintuitive
-                            - **[Status](<Status.md>):** [not_populated](<not_populated.md>)
+                            - **[Status](<Status.md>):** [not-populated](<not-populated.md>)
                             - **[Decision](<Decision.md>):** "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
-                            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
+                            - **[Notes](<Notes.md>):** [not-populated](<not-populated.md>)
                     - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
                         - **[Tips](<Tips.md>):**
                             - Create fleeting notes liberally, keep them claim-leaning.

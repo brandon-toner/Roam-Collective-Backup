@@ -3,11 +3,11 @@
     - **[Date Range](<../Date Range.md>):** [February 2021](<../February 2021.md>) until [undetermined date](<../undetermined date.md>)
     - **[Description](<../Description.md>):**
         - Question from Conor: "[Q](<../Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
-    - **[Story Points](<../Story Points.md>):** [not_populated](<../not_populated.md>)
+    - **[Story Points](<../Story Points.md>):** [not-populated](<../not-populated.md>)
     - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
     - **Sprints:**
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
-    - **[Resources](<../Resources.md>):** [not_populated](<../not_populated.md>)
+    - **[Resources](<../Resources.md>):** [not-populated](<../not-populated.md>)
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - {{[embed](<../embed.md>): ((-DJMsGv-q))}}

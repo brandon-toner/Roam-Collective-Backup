@@ -37,7 +37,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - solo movement = masturbation
             - partner movement = sex
         - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
         - "Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology""
         - Eisenhower the past tasks and scratch pad contents
             - Get up to date
@@ -49,7 +49,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [Questions](<Questions.md>)
             - How to quantify the value of a block or a note? [*](((Ys9BGmef3)))
                 - [I](<I.md>) can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
         - [~[[Reddy2Go](<~[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)` `[Quick Start Guide](<Quick Start Guide.md>)` and `[Conventions](<Conventions.md>)'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
@@ -67,7 +67,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
         - [@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] I think I saw this [*](((k3pgleY8f))) as an interpretation of the [double diamond](<double diamond.md>) The variation was on the first part not being created. ((I shall find the article))
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
         - I love that when I check my messages I can also see that 
     - [Bookmarks](<Bookmarks.md>)
         - "#[Fleeting Notes](<Fleeting Notes.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
@@ -108,7 +108,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
             - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 

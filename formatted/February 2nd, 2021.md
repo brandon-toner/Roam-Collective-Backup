@@ -63,13 +63,13 @@
                 - B - Change to `Daily Activities`
                     - **[Pros](<Pros.md>):** 
                     - 
-                    - **[Cons](<Cons.md>):** [not_populated](<not_populated.md>)
+                    - **[Cons](<Cons.md>):** [not-populated](<not-populated.md>)
                 - C - Change to `Activities`
-                    - **[Pros](<Pros.md>):** [not_populated](<not_populated.md>)
-                    - **[Cons](<Cons.md>):** [not_populated](<not_populated.md>)
-            - **[Status](<Status.md>):** [not_populated](<not_populated.md>)
-            - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
-            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
+                    - **[Pros](<Pros.md>):** [not-populated](<not-populated.md>)
+                    - **[Cons](<Cons.md>):** [not-populated](<not-populated.md>)
+            - **[Status](<Status.md>):** [not-populated](<not-populated.md>)
+            - **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)
+            - **[Notes](<Notes.md>):** [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Keifon on not rushing to make [evergreen notes](<evergreen notes.md>)
             - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context."

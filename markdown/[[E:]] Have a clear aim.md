@@ -2,9 +2,9 @@
     - Date Created:: [[January 30th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
         - [[Jordan Peterson]] — recurring theme in his body of works.
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - Our [[value structures]] determine our aims.
         - Your aim becomes a [[filter]] on through which you see the world.

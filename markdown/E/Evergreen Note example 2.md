@@ -1,8 +1,8 @@
 - Tags:: `#[[Evergreen Notes]]` #Experiments #Examples #Status/Inactive
     - Date Created:: [[February 1st, 2021]]
     - Created by:: [[Brandon Toner]]
-    - Author:: #not_populated
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - Author:: #not-populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - <Note content goes here>

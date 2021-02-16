@@ -8,10 +8,10 @@
     - **[People](<People.md>):**
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
-- **[Related](<Related.md>):** #[not_populated](<not_populated.md>)
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
     - **[People](<People.md>):**
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
-- **[Related](<Related.md>):** #[not_populated](<not_populated.md>)
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
     - **[People](<People.md>):**
 

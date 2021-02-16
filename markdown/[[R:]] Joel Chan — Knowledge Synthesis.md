@@ -2,5 +2,5 @@
     - Author(s):: [[Joel Chan]]
     - Full Title:: Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
     - URL:: [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
-    - Literature Notes:: #not_populated
-    - Highlights:: #not_populated
+    - Literature Notes:: #not-populated
+    - Highlights:: #not-populated

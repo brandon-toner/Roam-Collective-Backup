@@ -1,10 +1,10 @@
 - Tags:: #Questions
     - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
     - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
-    - Created by:: #not_populated
-    - Author:: #not_populated
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Created by:: #not-populated
+    - Author:: #not-populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: ((Not a reference, but a related idea, block or page))
         - **Epics:** [[Epics/Managing knowledge dependencies in multiplayer]]
-    - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - Contents:: #not_populated
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

@@ -11,16 +11,16 @@
                     - [ ] Find and take notes on the system from [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) #[February 2021](<February 2021.md>)
                     - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric
                 - Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>) submissions, projects, and contributors.
-                    - Will eventually live within [The Roaman Agora](<The Roaman Agora.md>)
-                - Building "[The Roaman Agora](<The Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
-                - Integrating [Roam Inter](<Roam Inter.md>) into [The Roaman Agora](<The Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+                    - Will eventually live within [Roaman Agora](<Roaman Agora.md>)
+                - Building "[Roaman Agora](<Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
+                - Integrating [Roam Inter](<Roam Inter.md>) into [Roaman Agora](<Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC.
             - "**Brandon:** Populated epic [description and vision statements](((owNcyPWbT)))."
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - Domains [Outlines](<Outlines.md>)
             - Onboarding
@@ -48,8 +48,8 @@
                 - Establish CSS color strategy with easy adjustment in centralized location.
         - Zettelkasten conventions
         - Agile Development
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC." {{or:[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]]}}
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) ["Twitter acct"](((DweiIynrD))) 
@@ -77,23 +77,23 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
         3. "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC."
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
-    - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
+    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
     - #[Scratchpad](<Scratchpad.md>) 
         - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
             - Welcome to the Roam Collective friend! In a couple of sessions, we will help you get used to some of the tools and conventions that are used on this graph. Start by typing `;;` followed by `Welcome` and then press enter.
                 - Welcome .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
                     - #[My Daily Notes](<My Daily Notes.md>) [your name goes here](<your name goes here.md>) {{word-count}} [*](add here and `#` followed by 3 letters, from your name and surname. This link can be handy to find all your daily pages)
                         - Let's get started. Open the GTF panel below
-                        - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+                        - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
                             - [ ] Create your own personal page, by placing your name at the top of your daily notes.
                             - [ ] Follow [these instructions](((6202Hd2VO))) to make your own page.
                     - ---
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPKbObbdUH-.png?alt=media&token=fecaee1b-272a-4884-a10d-586487011f70)
         - [I](<I.md>) [Anarchic Manufacturing](<Anarchic Manufacturing.md>) as  a mental model to describe the operation of [Roam-Collective](<Roam-Collective.md>)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fnjp8nXPfkd.jpg?alt=media&token=0170ed8e-3b2a-4806-bd13-f4a718494374)
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
@@ -110,7 +110,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On Maps of Meaning](((6Lx8NA4n_))) There is also a book!
     - [Feedback](<Feedback.md>) 
         - I like the funky look of the drop down menus.
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 
 # Backlinks

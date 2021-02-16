@@ -51,7 +51,7 @@
 - "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- **[SmartBlocks](<SmartBlocks.md>):**[not_populated](<not_populated.md>)
+- **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)

@@ -1,10 +1,10 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):** [February 3rd, 2021](<February 3rd, 2021.md>)
     - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-    - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
-    - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
-    - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
+    - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
+    - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
+    - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."

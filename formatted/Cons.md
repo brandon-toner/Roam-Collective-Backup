@@ -21,7 +21,7 @@
 - 
                     - **[Cons](<Cons.md>):**
 
-- **[Pros](<Pros.md>):** [not_populated](<not_populated.md>)
+- **[Pros](<Pros.md>):** [not-populated](<not-populated.md>)
                     - **[Cons](<Cons.md>):**
 
 - [~[[Charles Farr](<~[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
@@ -32,7 +32,7 @@
                             - **[Cons](<Cons.md>):**
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- **[Pros](<Pros.md>):** [not_populated](<not_populated.md>)
+- **[Pros](<Pros.md>):** [not-populated](<not-populated.md>)
                                     - **[Cons](<Cons.md>):**
 
 - Tidy

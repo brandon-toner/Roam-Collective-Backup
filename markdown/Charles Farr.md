@@ -1,4 +1,4 @@
-- Tags:: #People #Members
+- Tags:: #People #Members #Moderators
     - About me::
         - Twitter:: [@CharlesSimsFarr](https://twitter.com/CharlesSimsFarr)
         - Website:: [Foundation.al — personal blog](https://thefoundation.al)
@@ -11,9 +11,9 @@
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
             - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
-                - #Scratchpad #not_populated
-                - #Conversation #not_populated
-                - #Bookmarks #not_populated
+                - #Scratchpad #not-populated
+                - #Conversation #not-populated
+                - #Bookmarks #not-populated
             - ---
 - # Personal Queries
     - Questions
@@ -21,7 +21,7 @@
     - Follow Ups
         - #min-title {{[[query]]: {and: [[csf]] [[Follow Up]] {not: {or: }}  }}}
     - Bookmarks
-        - #min-title {{[[query]]: {and: [[csf]] [[Bookmarks]] {not: {or: [[not_populated]] }}  }}}
+        - #min-title {{[[query]]: {and: [[csf]] [[Bookmarks]] {not: {or: [[not-populated]] }}  }}}
     - Todos
         - #min-con {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes

@@ -1,12 +1,12 @@
 - Tags:: #People #Members
     - About me::
         - Twitter:: [@samuelbars](https://twitter.com/samuelbars)
-        - Website:: #not_populated 
+        - Website:: #not-populated 
         - Location:: [[Yverdon-les-Bains]], [[Switzerland]]
         - Time Zone:: [[CET]]
         - How to contact me::
             - Dm on twitter
-    - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
+    - {{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}
 - Inbox
     - **Notifications**:
         - {{[[query]]: {and:[[@[[Samuel Bars]]]] {not:[[query]]}}}}
@@ -17,3 +17,12 @@
         - {{[[query]]: {and: [[Samuel Bars]] [[Q:]] {not: [[query]]]}}}} #minimal
     - **Ideas**:
         - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal
+- Smartblocks
+    - SamB - .DNP template #42SmartBlock
+        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+            - #Questions ((about the graph, or directed towards someone)) #not-populated
+            - #[[GTD Zone]]
+            - #[[The Zettelkasten]]
+            - #Conversation #not-populated
+            - ---

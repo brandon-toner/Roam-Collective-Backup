@@ -1,8 +1,8 @@
 - Tags:: `#[[Evergreen Notes]]` #Experiments #Examples
     - Date Created:: [[February 1st, 2021]]
     - Created by:: [[Brandon Toner]]
-    - Author:: #not_populated
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - Author:: #not-populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[[[E:]] Evergreen Note example 1]]
         - [[E/Evergreen Note example 2]]

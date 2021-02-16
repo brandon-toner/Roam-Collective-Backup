@@ -5,7 +5,7 @@
     - Recommended by:: 
         - [[Brandon Toner]] - finished [[February 2021]]
             - Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
-    - URL:: #not_populated
+    - URL:: #not-populated
     - Description::
         - 12-part lecture series from the University of Toronto.
         - Episodes are ~2 hours in duration

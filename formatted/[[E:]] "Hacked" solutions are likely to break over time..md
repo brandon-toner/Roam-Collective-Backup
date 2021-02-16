@@ -2,8 +2,8 @@
     - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** 
         - Hacked solutions are usually out-of-sync with [native conventions]([[[E:](<[[E:.md>) Use the native convention as much as possible.]]), employing workarounds to accomplish an extension in [functionality](<functionality.md>).
         - Benefits of hacked solutions:

@@ -5,7 +5,7 @@
     - **[Recommended by](<Recommended by.md>):** 
         - [Brandon Toner](<Brandon Toner.md>) - finished [February 2021](<February 2021.md>)
             - Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
-    - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
+    - **[URL](<URL.md>):** [not-populated](<not-populated.md>)
     - **[Description](<Description.md>):**
         - 12-part lecture series from the University of Toronto.
         - Episodes are ~2 hours in duration

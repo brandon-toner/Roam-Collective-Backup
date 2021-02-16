@@ -8,6 +8,6 @@
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
-        - I started using [Roam](<Roam.md>) in [October 4th, 2019](<October 4th, 2019.md>)
+        - I started using [Roam](<Roam.md>) on [October 4th, 2019](<October 4th, 2019.md>)
         - **[Interests](<Interests.md>):**
             - Knowledge practices; relationship between cultural meaning and human perception; technologies of self and body; and dynamics of organization and leadership.

@@ -3,11 +3,11 @@
     - Date Range:: [[February 2021]] until [[undetermined date]]
     - Description::
         - Question from Conor: "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
-    - Story Points:: #not_populated
+    - Story Points:: #not-populated
     - Status:: [[Status/Active]]
     - **Sprints:**
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
-    - Resources:: #not_populated
+    - Resources:: #not-populated
     - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - {{[[embed]]: ((-DJMsGv-q))}}

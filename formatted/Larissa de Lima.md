@@ -18,12 +18,12 @@
         - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
-            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-            - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
-            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+            - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+            - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
 
 # Backlinks

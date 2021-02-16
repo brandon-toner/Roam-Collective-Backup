@@ -3,8 +3,8 @@
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting fleeting notes or literature notes would go here))
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting fleeting notes or literature notes would go here))
+    - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** 
         - When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
         - Normally, we start an outline when we start a writing project. This forces us to start with a blank page. By contrast, if we write new notes every day and notice how they relate to each other, these can accumulate into potential writing projects. When an outline feels “ripe,” we can pluck it and turn it into a manuscript without the exerting herculean start-up effort that comes with a blank page.

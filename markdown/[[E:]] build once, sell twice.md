@@ -3,9 +3,9 @@
     - Last Updated:: [[February 15th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Jack Butcher]] of [[Visualize Value]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Relevant Notes:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
     - Next Steps:: ((Plans for future elaboration or development))
         - Add link and summary of content.
             - In the meantime, easily discoverable on Twitter or Google.
-    - Contents:: #not_populated
+    - Contents:: #not-populated

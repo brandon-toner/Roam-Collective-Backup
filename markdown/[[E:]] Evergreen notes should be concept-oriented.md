@@ -3,8 +3,8 @@
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)
-    - References:: #not_populated ((Supporting notes (FN, LN, EN, or other) would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting notes (FN, LN, EN, or other) would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents::
         - It’s best to factor [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)).
         - "The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [[[[E:]] Evergreen notes should be atomic]]). [*](((imi2Ydjmh)))"

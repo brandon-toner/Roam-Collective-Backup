@@ -10,7 +10,7 @@
 - How do I create a SmartBlock template?
     - Check out [these]([Templates](<Templates.md>)) as examples.
     - Anything beneath the block containing `[42SmartBlock](<42SmartBlock.md>)` becomes part of the template expansion (or "workflow")
-- What is the role of the [not_populated](<not_populated.md>) tag? 
+- What is the role of the [not-populated](<not-populated.md>) tag? 
     - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)"
 - How do I mention someone to get their attention? 
     - Tag them using the @ symbol. 

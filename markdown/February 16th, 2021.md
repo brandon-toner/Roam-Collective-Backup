@@ -2,16 +2,96 @@
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
         - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
-    - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
-    - #Scratchpad #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Bookmarks #not_populated
-    - #Conversation #not_populated
-    - #[[Change Log]] #not_populated
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+            - Where are we with this?
+            - How is the [[Roaman Agora]] coming along? Is there a graph we can view? How can we help? [@Charles]([[@[[Charles Farr]]]])
+                - "Questions on the [[Roaman Agora]]"
+                - "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
+                    - "A place to collate ideas & influence related to Roam Games"
+                    - I like the [about](((tJ4cJ9377))) structure & conventions
+                        - "Convention Overview"
+                - #Q What is a dependency graph? 
+                    - What sort of dependencies should be mapped? Is there any precursor models or best practices?
+        - #I Set up a collection of "[Activities]([[activities]])" and randomize from a limited selection each day to keep it fresh. 
+            - Use RANDOMFROM to pick a random child of a block.
+        - [[Epics/Establish and document baseline RC conventions and workflows]]
+            - Features of the graph:[*]([[onboarding]])
+                - DNP Sections for personal workspace
+                - DNP Modules to assist in the categorization of work 
+                    - drive resurfacing, querying, and convergence
+                - Ability to "save" blocks as bookmarks
+                    - With ability to tag with `Follow-up` as another level of bookmark management.
+                - Chat and Conversation conventions that empower collaboration and inline development of the collective knowledge base and shared projects.
+                - Epics and Sprints to organize the "work"
+                - Collective knowledge base conventions to accumulate concepts, ideas and claims.
+                - Clear process for the documentation of, and use of questions to drive research and development.
+                - Main Feed to collect graph highlights
+                    - Improves ability to "catch up" on the graph.
+                - Changelog for logistic changes to the graph and conventions.
+                - Custom CSS to promote clarity of approved conventions.
+                    - adds aesthetic
+                    - Visual feedback communicates that the user used the "right tag"
+                - Scratchpad as a place for loosely organized thought -- a scratchpad.
+        - #[[Fleeting Notes]] aligned [[collaboration]] drives [[flow state]] work and thinking.
+        - #I A roam/js extension that helps to "mirror" relationships between pages.
+            - Example:: "supports"/"supported by"
+            - bi-directional linking for [prepositional linkages]([[[[E:]] prepositional linkages]])
+            - #Q How might this look?
+        - #Q What is an [[agora]]?
+    - #[[The Zettelkasten]] #not-populated
+    - #Bookmarks #not-populated
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad
+        - "#Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
+            - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
+    - #[[GTD Zone]]
+    - #[[The Zettelkasten]]
+    - #Conversation
+        - [@Charles]([[@[[Charles Farr]]]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]). [cc: @b]([[cc:[[Brandon Toner]]]])
+            - In summary: I really believe in the idea of an agora on a roam graph, since it's already booming on twitter, but not sure it's the best way to manage an actual dependency graph.
+                - I think the ideal would be a clean and minimalist dependency graph as a stream, sent to the roaman agora where all the discussion happens.
+            - "A place to collate ideas & influence related to Roam Games"
+                - Beyond the roam games, a place to collate ideas and influences for roamcult collaboration
+                    - Design, UI, onboarding, ux
+                    - Code, functionality
+                    - Workflows and systems using features and plugins
+            - For the [[Roam Games]] I think it could be valuable to have a focused and curated database, structured in the same way, that makes it easy and clear to see submissions and dependencies.
+                - Because when you start discussing about everything, it can go on and on and be confusing for people who just wanna catch up with existing submissions
+                - Also this lightweight, clean and maybe specially structured db would make it easier for the roam team to distribute rewards
+                - **actually**: if the submissions are pretty clean and have a consistent structure and are not too tightly linked to the discussions, they could be part of the larger roaman agora, and be exported to some website or another graph for ease of access to that info.
+                    - totally possible by extending roam-inter, just need to parse and convert the blocks correctly
+            - "DNP for live conversation"
+                - I'm just getting familiar with conventions here, but this is really great for conversation! I don't know if it should be in the dependency graph, but I think it could replace a big part of what roam-cult does on Twitter.
+                    - Of course twitter would stay there for updates, news, getting the word out, etc, but just talking deep and solving problems seems more fitting in a graph.
+            - Agreed on conventions (nesting, dependencies, etc)
+            - "SmartBlocks & Templates"
+                - This gets me thinking about how we could reduce friction as much as possible, to really get every contributor on this.
+                - Maybe you could have some sort of roamgames plugin.
+                    - Get a roam inter feed of submissions. On roamgames page, nested under daily page link (some sort of notification)
+                    - Then for sending submissions, a smartblock that starts a roam-inter stream, and puts below the standard submission template
+                        - for discussions it would be similar
+                    - I was imagining a send button, but roam inter sends automatically.
+                - Since this is most likely gonna be inaccessible to many in the short term (roam-inter is very hacky), we'd need something else too
+                    - roam template on the shared graph, and a page with instructions (write on your page, etc)
+        - [@Charles]([[~[[Charles Farr]]]]) re [email](((EGJodIb92)))
+            - samuel.bars@outlook.fr
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad #not-populated
+    - #Conversation
+        - Discussions
+        - [re](((A5lIDpmnY))): [@B]([[@[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
+            - Going to sketch out the key parts of it shortly and then start building the structure.
+    - #Bookmarks #not-populated
 - ---

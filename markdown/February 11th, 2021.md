@@ -11,7 +11,7 @@
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - Active Sprint:: [[Sprints/1 — Roam Games 3 (managing dependencies)]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Q What do you do if a sprint is also a question? 
             - #I Duplicate it as a questions page, linking to the sprint. 
@@ -62,7 +62,7 @@
                 - Extensions
                 - CSS themes and snippets
         -  
-    - #[[GTD Zone]] #not_populated
+    - #[[GTD Zone]] #not-populated
     - #[[Change Log]] 
         - Merged the sprint I first created into the one Charles had created.
         - Create an [Epics Template](((Gx7UUAS7L)))
@@ -90,7 +90,7 @@
         4. Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]])
             - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.
             - Collections are plural in our convention, so I lean towards being consistent with that. 
-    - #Feedback  #not_populated
+    - #Feedback  #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
@@ -115,8 +115,8 @@
         - Once the test is running experiment with the RC graph
         - For the PoC show a smaller graph through time and show how adding different information can be mapped?
         - 
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
     - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
@@ -129,8 +129,8 @@
             - [*]([[@[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([[@[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
         - [*]([[Brandon Toner]]) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
-    - #Feedback  #not_populated
-    - #Bookmarks #not_populated
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} 
     - #Scratchpad
@@ -139,7 +139,7 @@
             - Do we want to orient sprints around questions?
                 - Can Epics & Sprints be oriented around the same questions?
         - Maybe we just outline using blocks and then once we're most of the way there we consolidate into `Q/` or `Story/` pages...
-    - #Sprints #not_populated
+    - #Sprints #not-populated
     - #Conversation
         - On structuring work around Epics, Sprints, & Questions
             - @ [Brandon]([[@[[Brandon Toner]]]]) & [Peter]([[@[[Peter Rosso]]]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))

@@ -2,8 +2,8 @@
     - Date Created:: [[January 31st, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[[[E:]] Evergreen note titles are like APIs]]
         - [[[[E:]] Evergreen note-writing helps insight accumulate]]
-    - Contents:: #not_populated 
+    - Contents:: #not-populated 

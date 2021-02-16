@@ -3,8 +3,8 @@
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL: [link](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - I’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I don’t have anything useful to say about the notion yet—it just seems awfully interesting.
         - What action should I take now? How can I arrange to develop that inkling over time? I could create a “to-do” or block out time to think about this question, but that’s often not what’s called for. Instead, often what I need is marination: let’s come back in a few days, see what bubbles up.

@@ -9,8 +9,8 @@
         - [[[[R:]] Agile Product Management in Roam]]
     - Related::
         - [[Epics/Implement Agile Methodologies in Roam]]
-    - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - Contents:: #not_populated
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated
     - Work Summary:: 
         - [Charles' initial work mapping out this area](((6GfcqwQrI)))
         - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

@@ -3,18 +3,18 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
         1. **Current Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
         2. **Brandon:** "#I Weekly [[Substack]] [[newsletter]] with graph updates, highlights, active projects/sprints etc."
             - "#I Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([[grist for the mill]]) for drafting the contents of the letter."
         3. **From Charles' section:** 
             - #Obs "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
-                - **Result:** "Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)"
+                - **Result:** "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
     - #Chat ((A place to propose objects of discussion)) 
         1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
@@ -46,7 +46,7 @@
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
             - #[[Fleeting Notes]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
-    - #[[The Zettelkasten]] #not_populated
+    - #[[The Zettelkasten]] #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]
             - Weekly newsletter
@@ -55,7 +55,7 @@
                 - Section on the Roam Games latest.
             - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
             - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
-    - #Bookmarks #not_populated
+    - #Bookmarks #not-populated
     - #Conversation 
         1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - Image::
@@ -161,9 +161,9 @@
         - Reviewing Conor's tweet regarding RG3
             - I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
             - Conor [original tweet](((Lnfo1H7-B))) is in response to Zsolt's question about setting up a roam 
-        - Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)
+        - Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)
             - Motivation: 
-                - A place to work in public on Roam Games submissions (optional)
+                - A place to work in public on [[Roam Games]] submissions (optional)
                 - A place to collate ideas & influence related to Roam Games
             - Structure
                 - DNP for live conversation
@@ -208,27 +208,27 @@
                 - roam-inter set up
     - #Conversation
         - [[~[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
-            - See: "Roam Games Multiplayer Graph — [[The Roaman Agora]] (The Roman Forum)"
-    - #Bookmarks #not_populated
+            - See: "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
+    - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
-    - #Inbox #not_populated
+    - #Inbox #not-populated
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
         - {{[[drawing]]}}
-    - #[[Scratchpad]] #not_populated
-    - #[[GTD Zone]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-    - #Feedback  #not_populated
-    - #Bookmarks #not_populated
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not_populated
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not_populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Conversation #not-populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---

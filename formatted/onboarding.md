@@ -6,6 +6,9 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - [onboarding](<onboarding.md>)
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- Features of the graph:[*]([onboarding](<onboarding.md>))
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>)
 

@@ -13,11 +13,11 @@
 - **Personal SmartBlocks**
     - JChan — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
         - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
-            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-            - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
-            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+            - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+            - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
 
 # Backlinks
@@ -27,6 +27,8 @@
 - Due to the simplicity of [Joel Chan](<Joel Chan.md>)'
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- "[Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'
+
 - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'
 
 - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>)

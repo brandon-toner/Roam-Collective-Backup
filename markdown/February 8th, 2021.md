@@ -21,7 +21,7 @@
                 - is that (even) theoretically possible?
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Resources
             - For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
@@ -55,7 +55,7 @@
                                     - Empowers a workflow that encourages tagging them with ease. 
                     - Decision:: "Q:"
                         - Rationale:: "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
-                    - Notes:: #not_populated
+                    - Notes:: #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad

@@ -17,11 +17,11 @@
     - **[About me](<About me.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) [Moderators](<Moderators.md>)
     - **[About me](<About me.md>):**
 
 ## [Charles Farr](<Charles Farr.md>)
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) [Moderators](<Moderators.md>)
     - **[About me](<About me.md>):**
 
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)

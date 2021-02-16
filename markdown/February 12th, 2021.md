@@ -10,9 +10,9 @@
     - #Chat ((A place to propose objects of discussion))
         - "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -124,7 +124,7 @@
             - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
         - #[[Fleeting Notes]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
-    - #Bookmarks #not_populated
+    - #Bookmarks #not-populated
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
@@ -206,7 +206,7 @@
         3. Added an `#A` tag as an option for response to a `#Q` block.[*](((IB0MarB0y)))
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
-    - #Inbox #not_populated
+    - #Inbox #not-populated
         - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
         - see camera for type of links in roam
     - #[[Scratchpad]] 
@@ -233,9 +233,9 @@
 d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
                 - This thread of messages could be observed from evolution of language. Brandon and I developed a way to message which might either stabilize for some time, or evolve over time. The graph show evidence of linguistic evolution.
                     - #Q Could we do a social study of the graph? Interactions, language  and structures are continuously changing.
-    - #[[GTD Zone]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
     - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
@@ -245,8 +245,8 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
             - [@Brandon]([[@[[Brandon Toner]]]]) [On the necessity of a Obs Tag](((yiYxykJSI))) I am still going through Chan's white paper discussing the different kind of notes he uses. I think there is a value in observation notes `[[O:]]` deriving from `👀#Obs`
         - [@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
             [@Brandon]([[@[[Brandon Toner]]]]) [On habit of checking conversation inbox](((l3YD_0kvu))) I have a Query in my daily DNP under conversations so I don't necessarily have to go back to my personal page. At the end of the weeks, I clear all the queries as they are linked blocs to the one on my page.  
-    - #Feedback  #not_populated
-    - #Bookmarks #not_populated
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
@@ -333,8 +333,8 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
             - "{{or:🟢Online | 🚫 offline | 🟠Away}}"
-    - #Questions ((about the graph, or directed towards someone)) #not_populated
-    - #Conversation #not_populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Conversation #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
         - Discovered that the drop down selector from Or query is out of place when viewed on Firefox
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzfGGKU_cn9.png?alt=media&token=60ed969f-b718-4f04-a73f-dc071f7939bd)

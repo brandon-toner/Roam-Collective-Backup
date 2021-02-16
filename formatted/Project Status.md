@@ -11,7 +11,7 @@
     - **[Project Status](<Project Status.md>):**
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
-- **[Areas](<Areas.md>):** #[not_populated](<not_populated.md>) [Housekeeping](<Housekeeping.md>)
+- **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
     - **[Project Status](<Project Status.md>):**
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)

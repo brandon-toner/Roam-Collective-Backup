@@ -9,15 +9,15 @@
     - **[Status](<Status.md>):**
 
 ## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
-- **[Description](<Description.md>):** [not_populated](<not_populated.md>)
+- **[Description](<Description.md>):** [not-populated](<not-populated.md>)
     - **[Status](<Status.md>):**
 
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
-- **[Story Points](<Story Points.md>):** [not_populated](<not_populated.md>)
+- **[Story Points](<Story Points.md>):** [not-populated](<not-populated.md>)
     - **[Status](<Status.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- **[Cons](<Cons.md>):** [not_populated](<not_populated.md>)
+- **[Cons](<Cons.md>):** [not-populated](<not-populated.md>)
             - **[Status](<Status.md>):**
 
 ## [February 9th, 2021](<February 9th, 2021.md>)

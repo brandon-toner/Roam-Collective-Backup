@@ -21,11 +21,11 @@
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
@@ -37,7 +37,7 @@
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
 - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
@@ -101,7 +101,7 @@
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
 ## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
@@ -153,7 +153,7 @@
     - **[Author](<Author.md>):**
 
 ## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
 ## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)

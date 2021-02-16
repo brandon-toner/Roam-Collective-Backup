@@ -14,8 +14,8 @@
         - {{[[embed]]: ((LFSTdlWF1))}}
         - {{[[embed]]: ((lLhwYNuv-))}}
         - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
-- #Chat ((A place to propose objects of discussion)) #not_populated
-- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not_populated
+- #Chat ((A place to propose objects of discussion)) #not-populated
+- #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) #not-populated
 - #[[GTD Zone]] ((Run the "Daily Review" smartblock))
     - Daily Review::
         - **Scheduled for Today:**

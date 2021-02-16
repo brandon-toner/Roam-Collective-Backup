@@ -3,8 +3,8 @@
     - **[Last Updated](<Last Updated.md>):** [February 2nd, 2021](<February 2nd, 2021.md>) 
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** 
         - [active resurfacing](<active resurfacing.md>) is a more [reliable](<reliable.md>) method of resurfacing. It involves the use of time-anchored events resurface blocks.
             - Methods of active resurfacing:

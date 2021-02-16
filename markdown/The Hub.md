@@ -10,6 +10,6 @@
     - Fleeting Notes
         - #min-con {{[[query]]: {and: [[Fleeting Notes]] {not: {or: [[query]] }}  }}}
     - Literature Notes
-        - #minimal {{[[query]]: {and: [[Literature Notes]]  {not: {or: [[query]] [[not_populated]] }}  }}}
+        - #minimal {{[[query]]: {and: [[Literature Notes]]  {not: {or: [[query]] [[not-populated]] }}  }}}
     - Evergreen Notes
-        - #page-focus {{[[query]]: {and: [[Evergreens]] {not: {or: [[query]] [[not_populated]] }}  }}}
+        - #page-focus {{[[query]]: {and: [[Evergreens]] {not: {or: [[query]] [[not-populated]] }}  }}}

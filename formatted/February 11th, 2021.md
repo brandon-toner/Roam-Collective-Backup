@@ -11,7 +11,7 @@
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - **[Active Sprint](<Active Sprint.md>):** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What do you do if a sprint is also a question? 
             - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
@@ -62,7 +62,7 @@
                 - Extensions
                 - CSS themes and snippets
         -  
-    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Merged the sprint I first created into the one Charles had created.
         - Create an [Epics Template](((Gx7UUAS7L)))
@@ -90,7 +90,7 @@
         4. Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.
             - Collections are plural in our convention, so I lean towards being consistent with that. 
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) 
@@ -115,8 +115,8 @@
         - Once the test is running experiment with the RC graph
         - For the PoC show a smaller graph through time and show how adding different information can be mapped?
         - 
-    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
@@ -129,8 +129,8 @@
             - [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [I](<I.md>) [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
         - [*]([Brandon Toner](<Brandon Toner.md>)) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
-    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} 
     - [Scratchpad](<Scratchpad.md>)
@@ -139,7 +139,7 @@
             - Do we want to orient sprints around questions?
                 - Can Epics & Sprints be oriented around the same questions?
         - Maybe we just outline using blocks and then once we're most of the way there we consolidate into `Q/` or `Story/` pages...
-    - [Sprints](<Sprints.md>) [not_populated](<not_populated.md>)
+    - [Sprints](<Sprints.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - On structuring work around Epics, Sprints, & Questions
             - @ [Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))

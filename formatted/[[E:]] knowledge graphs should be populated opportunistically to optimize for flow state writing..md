@@ -2,8 +2,8 @@
     - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>) 
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**  [Brandon Toner](<Brandon Toner.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):** 
         - Within a knowledge graph, there are a lot of paths that could be taken to populate content and "fill out" the graph. To keep it fun and engaging, and to optimize [productivity](<productivity.md>), populate the graph [opportunistically](<opportunistically.md>). Take the path you are most [inspired](<inspired.md>) to take.
         - The exception to this is the population of essential structure and time-sensitive projects. Prioritize what needs to be done first, and apply this principle within those constraints. 

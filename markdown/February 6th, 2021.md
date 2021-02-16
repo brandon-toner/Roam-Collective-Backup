@@ -5,14 +5,14 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
-    - #[[Scratchpad]] #not_populated
-    - #[[GTD Zone]] #not_populated
-    - #Promptstorming #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Conversation #not_populated
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-    - #Feedback  #not_populated
+    - #Feedback  #not-populated
     - #Bookmarks 
         - "[[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
         - "[[datalog experimentation]]"
@@ -110,7 +110,7 @@
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Scratchpad]] 
         - On [[proximity]] and [[synthesis]].
             - Ideas start small and grow. 

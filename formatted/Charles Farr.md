@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) [Moderators](<Moderators.md>)
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@CharlesSimsFarr](https://twitter.com/CharlesSimsFarr)
         - **[Website](<Website.md>):** [Foundation.al — personal blog](https://thefoundation.al)
@@ -11,9 +11,9 @@
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
             - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
-                - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-                - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-                - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+                - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+                - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+                - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
             - ---
 - # Personal Queries
     - Questions
@@ -21,7 +21,7 @@
     - Follow Ups
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
     - Bookmarks
-        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not_populated](<not_populated.md>) }}  }}}
+        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not-populated](<not-populated.md>) }}  }}}
     - Todos
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
@@ -70,11 +70,14 @@
 - People would be represented by pages (e.g., `[Charles Farr](<Charles Farr.md>)`
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
-- Building "[The Roaman Agora](<The Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
+- Building "[Roaman Agora](<Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
 
-- Integrating [Roam Inter](<Roam Inter.md>) into [The Roaman Agora](<The Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+- Integrating [Roam Inter](<Roam Inter.md>) into [Roaman Agora](<Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 16th, 2021](<February 16th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

@@ -37,7 +37,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - solo movement = masturbation
             - partner movement = sex
         - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
-    - #[[GTD Zone]] #not_populated
+    - #[[GTD Zone]] #not-populated
         - "Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology""
         - Eisenhower the past tasks and scratch pad contents
             - Get up to date
@@ -49,7 +49,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - #Questions
             - How to quantify the value of a block or a note? [*](((Ys9BGmef3)))
                 - #I can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
-    - #Conversation #not_populated
+    - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
         - [[~[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
@@ -67,7 +67,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
             - [[~[[Brandon Toner]]]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
         - [[@[[Matthew Vogel]]]] I think I saw this [*](((k3pgleY8f))) as an interpretation of the [[double diamond]] The variation was on the first part not being created. ((I shall find the article))
-    - #Feedback  #not_populated
+    - #Feedback  #not-populated
         - I love that when I check my messages I can also see that 
     - #Bookmarks
         - "#[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
@@ -108,7 +108,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Resources 
             - Interested in [[Mat McGann]]'s work on collaborative Roaming. 

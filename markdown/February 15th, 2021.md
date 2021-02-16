@@ -5,11 +5,16 @@
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. Welcome [@Samuel]([[Samuel Bars]])!
-        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏
-    - #Chat ((A place to propose objects of discussion)) #not_populated
-    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏 
+        3. **Brandon:** 
+            - "#Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?"
+            - "Knowledge seeking workflow #Bookmarks #Outlines #zettelkasten"
+            - "#Q How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?"
+            - 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -160,9 +165,9 @@
                 - Focus 
                 - New URL 
             - Nesting 
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -212,9 +217,9 @@
                 - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
 - #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
-    - #Scratchpad #not_populated
-    - #[[The Zettelkasten]] #not_populated
-    - #Bookmarks #not_populated
+    - #Scratchpad #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Bookmarks #not-populated
     - #Conversation
         - [[~[[Brandon Toner]]]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
             - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
@@ -234,7 +239,7 @@
         - Also, hi [[~[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
         - 
-    - #[[Change Log]] #not_populated
+    - #[[Change Log]] #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
@@ -249,16 +254,16 @@
                         - It is no longer a question of replicating [[analog]] or [[synchronous]] processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
                     - #Syn When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
                 - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [[organizations]].
-        - Questions on [[The Roaman Agora]]
+        - Questions on the [[Roaman Agora]]
             - Having done a bit more investigation around [[roam-inter]], watching the videos [[Stian Håklev]] has up on YouTube, I am turning a few questions over in my head...
-                - If each submission had a page that was aggregating its updates, would it be automatically updated?
+                - #Q If each submission had a page that was aggregating its updates, would it be automatically updated?
                     - Or, in its current state, does the window & page need to be open?
                 - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
     - #Conversation
         - On self-accruing onboarding material
             - [@B]([[@[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
-            - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of [[The Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
@@ -294,8 +299,8 @@
                 - Story points -> breaking it down
                 - Summarize within Work Summary
         - #Q What type of conventions and processes best scale with number of users?
-    - #[[The Zettelkasten]] #not_populated
-    - #Bookmarks #not_populated
-    - #Conversation #not_populated
-    - #[[Change Log]] #not_populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Bookmarks #not-populated
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
 - ---

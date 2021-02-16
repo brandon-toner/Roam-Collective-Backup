@@ -4,10 +4,10 @@
 - ---
 - **[Tags](<Tags.md>):** [Experiments](<Experiments.md>) [Examples](<Examples.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-- **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
-- **[Author](<Author.md>):** [not_populated](<not_populated.md>)
-- **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
+- **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
 - **[Related](<Related.md>):** 
     - [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>) 
     - [[[E:](<[[E:.md>) Evergreen Note example 3]]
-- **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+- **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)

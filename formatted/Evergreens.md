@@ -1,5 +1,5 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) [zettelkasten](<zettelkasten.md>)
-- **[Entry Points](<Entry Points.md>):** [not_populated](<not_populated.md>)
+- **[Entry Points](<Entry Points.md>):** [not-populated](<not-populated.md>)
 - **[Index](<Index.md>):**
 - How to document [evergreen notes](<evergreen notes.md>): [*]
     - {{[embed](<embed.md>): ((vDdMH0T-r))}}

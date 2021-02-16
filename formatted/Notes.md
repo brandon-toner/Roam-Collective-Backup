@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
+- **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)
             - **[Notes](<Notes.md>):**
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
@@ -20,7 +20,7 @@
 - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen Note example 3]]
             - **[Notes](<Notes.md>):**
 
-- **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
+- **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)
             - **[Notes](<Notes.md>):**
 
 - This one should be used at the block level to flag a block as a question. 

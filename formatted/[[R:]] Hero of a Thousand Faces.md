@@ -1,4 +1,4 @@
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):** [Joseph Campbell](<Joseph Campbell.md>)
-    - **[Full Title](<Full Title.md>):** [not_populated](<not_populated.md>)
-    - **[URL](<URL.md>):** [not_populated](<not_populated.md>)
+    - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+    - **[URL](<URL.md>):** [not-populated](<not-populated.md>)

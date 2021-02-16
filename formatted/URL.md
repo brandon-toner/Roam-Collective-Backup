@@ -80,7 +80,7 @@
             - **[URL](<URL.md>):**
 
 ## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
-- **[Full Title](<Full Title.md>):** [not_populated](<not_populated.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
     - **[URL](<URL.md>):**
 
 ## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)

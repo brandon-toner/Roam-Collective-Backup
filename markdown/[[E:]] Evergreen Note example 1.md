@@ -4,10 +4,10 @@
 - ---
 - Tags:: #Experiments #Examples
 - Date Created:: [[January 31st, 2021]]
-- Created by:: #not_populated
-- Author:: #not_populated
-- References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
+- Created by:: #not-populated
+- Author:: #not-populated
+- References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
 - Related:: 
     - [[E/Evergreen Note example 2]] 
     - [[[[E:]] Evergreen Note example 3]]
-- Contents:: #not_populated
+- Contents:: #not-populated

@@ -8,6 +8,6 @@
         - How to contact me:: 
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
-        - I started using [[Roam]] in [[October 4th, 2019]]
+        - I started using [[Roam]] on [[October 4th, 2019]]
         - Interests::
             - Knowledge practices; relationship between cultural meaning and human perception; technologies of self and body; and dynamics of organization and leadership.

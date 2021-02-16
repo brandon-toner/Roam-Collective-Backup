@@ -49,6 +49,8 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
+- #[GTD Zone](<GTD Zone.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
@@ -116,6 +118,9 @@
 - Productivity coach in [GTD Zone](<GTD Zone.md>),
 
 ## [Peter Rosso](<Peter Rosso.md>)
+- #[GTD Zone](<GTD Zone.md>)
+
+## [Samuel Bars](<Samuel Bars.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)

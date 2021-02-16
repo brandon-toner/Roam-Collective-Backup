@@ -2,8 +2,8 @@
     - Author(s):: [[The Jordan B. Peterson Podcast]]
     - Full Title:: Maps of Meaning 08: Neuropsychology of Symbolic Representation
     - URL:: https://www.airr.io/episode/5f5e42a6fe900b31bb4ed546
-    - Literature Notes:: #not_populated
-    - Highlights:: #not_populated
+    - Literature Notes:: #not-populated
+    - Highlights:: #not-populated
         - ### Highlights added [[January 30th, 2021]] at 10:35 AM #[[RW Highlights]]; [[]]
             - Speaker 0: they're five or six. They're playing marbles. You take them out of the game and you say Okay, tell me the rules of the game of marbles. They give incoherent representations. Why? Because their behavior is more sophisticated than their representation. You see, a soon as you understand that that is a wild thing to understand because it answers the question. For example, how can you have dreams that tell you things you don't know? You think? Well, how the hell can that possibly be your coming up with the damn dream? How can the dream tell you things you don't know or analogous? Li? How can people tell stories that contain information that they don't understand? And the answer is that information is coded in our behavior. Okay, so we'll go back to a chimpanzee troupe. All the chimpanzees in the troop know the dominance hierarchy structure. But if you take a chimpanzee out from the truth and say, What's the dominant structure? The chimpanzee is gonna do whatever chimpanzee does, it's not gonna have a little conversation with you about the nature of the dominance hierarchy so it can act out its knowledge, and it might even be able to represent it. An image. But it can't articulate it. Well, why would we be any different? We aren't obviously because we're more complex than we understand. So the fact that we're more complex than we understand means that we contain information that we cannot articulate. Why can't that reveal itself? It does all the time. You have, ah, revelation. Ha, ([Time 0:53:16](https://www.airr.io/quote/601569d5030ce3303c173e15))
                 - **Note**: We are far more complex than we understand. We act out what we cannot articulate.

@@ -3,8 +3,8 @@
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
     - URL:: [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - Much of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it’s simply an accidental property in many cases. We should do our serious thinking in the form of [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) so that the thinking accumulates.
         - [Leaps of insight emerge from prior thought](https://notes.andymatuschak.org/zSn7SX7yMtnh1ZCQEG44TJoxrH7Udpm9oeEm). So where does that thought happen? It could happen in your head, or in a series of fleeting sketches in the pages of your notebook, but [Knowledge work should accrete](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT), and those mechanisms are awfully lossy.

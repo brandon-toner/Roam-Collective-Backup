@@ -5,11 +5,16 @@
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. Welcome [@Samuel]([Samuel Bars](<Samuel Bars.md>))!
-        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
+        2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏 
+        3. **Brandon:** 
+            - "[Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?"
+            - "Knowledge seeking workflow [Bookmarks](<Bookmarks.md>) [Outlines](<Outlines.md>) [zettelkasten](<zettelkasten.md>)"
+            - "[Q](<Q.md>) How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?"
+            - 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
         - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -160,9 +165,9 @@
                 - Focus 
                 - New URL 
             - Nesting 
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -212,9 +217,9 @@
                 - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
-    - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
             - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
@@ -234,7 +239,7 @@
         - Also, hi [~[[Charles Farr](<~[[Charles Farr.md>)]]! we should chat sometime, I see some engagement with my [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
         - 
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
@@ -249,16 +254,16 @@
                         - It is no longer a question of replicating [analog](<analog.md>) or [synchronous](<synchronous.md>) processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
                     - [Syn](<Syn.md>) When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
                 - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [organizations](<organizations.md>).
-        - Questions on [The Roaman Agora](<The Roaman Agora.md>)
+        - Questions on the [Roaman Agora](<Roaman Agora.md>)
             - Having done a bit more investigation around [roam-inter](<roam-inter.md>), watching the videos [Stian Håklev](<Stian Håklev.md>) has up on YouTube, I am turning a few questions over in my head...
-                - If each submission had a page that was aggregating its updates, would it be automatically updated?
+                - [Q](<Q.md>) If each submission had a page that was aggregating its updates, would it be automatically updated?
                     - Or, in its current state, does the window & page need to be open?
                 - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
     - [Conversation](<Conversation.md>)
         - On self-accruing onboarding material
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
-            - [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of [The Roaman Agora](<The Roaman Agora.md>) — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of The [Roaman Agora](<Roaman Agora.md>) — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[@[[Everyone](<@[[Everyone.md>)]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
@@ -294,10 +299,10 @@
                 - Story points -> breaking it down
                 - Summarize within Work Summary
         - [Q](<Q.md>) What type of conventions and processes best scale with number of users?
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
-    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-    - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 
 # Backlinks

@@ -2,8 +2,8 @@
     - Date Created:: [[January 31st, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 
         - Hacked solutions are usually out-of-sync with [native conventions]([[[[E:]] Use the native convention as much as possible.]]), employing workarounds to accomplish an extension in [[functionality]].
         - Benefits of hacked solutions:

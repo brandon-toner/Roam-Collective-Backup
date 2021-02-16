@@ -63,13 +63,13 @@
                 - B - Change to `Daily Activities`
                     - Pros:: 
                     - 
-                    - Cons:: #not_populated
+                    - Cons:: #not-populated
                 - C - Change to `Activities`
-                    - Pros:: #not_populated
-                    - Cons:: #not_populated
-            - Status:: #not_populated
-            - Decision:: #not_populated
-            - Notes:: #not_populated
+                    - Pros:: #not-populated
+                    - Cons:: #not-populated
+            - Status:: #not-populated
+            - Decision:: #not-populated
+            - Notes:: #not-populated
     - #Bookmarks
         - Keifon on not rushing to make [[evergreen notes]]
             - "argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context."

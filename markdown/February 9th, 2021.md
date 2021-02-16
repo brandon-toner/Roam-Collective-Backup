@@ -18,7 +18,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #[[Scratchpad]] 
         - Hopped on [[Clubhouse]] for "20 mins" stayed for 2 hours. [[February 8th, 2021]] 
             - Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):
@@ -71,7 +71,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                         - {{[[TODO]]}} [[Choice]]: Where should commentary/feedback on an evergreen be documented? ((((UMrJIm3O_)))) #Q
                             - Options:: 
                                 - A - Nested under the name in the "Reviewed By" section
-                                    - Pros:: #not_populated
+                                    - Pros:: #not-populated
                                     - Cons:: 
                                         - ^^Could get messy/distract from the content of the note^^
                                 - B - In the user's Scratchpad, with a block reference to their Reviewed By block.
@@ -85,9 +85,9 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                                     - Cons:: 
                                         - Logical
                                         - Might be a bit unintuitive
-                            - Status:: #not_populated
+                            - Status:: #not-populated
                             - Decision:: "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
-                            - Notes:: #not_populated
+                            - Notes:: #not-populated
                     - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
                         - Tips::
                             - Create fleeting notes liberally, keep them claim-leaning.

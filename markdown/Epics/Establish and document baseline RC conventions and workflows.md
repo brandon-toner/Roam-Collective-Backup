@@ -1,7 +1,7 @@
 - Tags:: #Epics
     - Date Created:: [[February 14th, 2021]]
     - Created by:: [[Brandon Toner]]
-    - Date Range:: #not_populated
+    - Date Range:: #not-populated
     - Description:: 
         - A collection of tasks and projects to establish a healthy and functional baseline for the RC.
         - Litmus tests: 
@@ -13,7 +13,7 @@
             - Roam Games acknowledgement/winning (Either directly or honored as ancestors/inspirations)
             - Knowledge base accumulates naturally and with minimal convergent "effort".
     - Status:: [[Status/Active]]
-    - Resources:: #not_populated
+    - Resources:: #not-populated
     - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
         1. [[February 14th, 2021]]
             - **Brandon:** Established Epic and made initial [outline](((48PY0Vlnm)))

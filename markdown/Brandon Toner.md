@@ -1,4 +1,4 @@
-- Tags:: #People #Members
+- Tags:: #People #Members #Moderators
     - About me::
         - Twitter:: [@brandontoner](https://twitter.com/brandontoner)
         - Website:: [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
+    - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -34,12 +34,12 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - SmartBlocks::
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
-            - #Scratchpad #not_populated
-            - #[[The Zettelkasten]] #not_populated
-            - #Bookmarks #not_populated
-            - #Conversation #not_populated
-            - #[[Change Log]] #not_populated
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+            - #Scratchpad #not-populated
+            - #[[The Zettelkasten]] #not-populated
+            - #Bookmarks #not-populated
+            - #Conversation #not-populated
+            - #[[Change Log]] #not-populated
         - ---
     - Mentions (BT)
     - BToner — Andy's Notes #42SmartBlock #roam/templates
@@ -47,10 +47,10 @@
             - Date Created:: {{Today:42SmartBlock:.Today}}
             - Created by:: [[Brandon Toner]]
             - Author:: [[Andy Matuschak]]
-            - URL: #not_populated
-            - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-            - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-            - Contents:: #not_populated
+            - URL: #not-populated
+            - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+            - Related:: #not-populated ((Not a reference, but a related idea, block or page))
+            - Contents:: #not-populated
     - BToner — My TODOs #42SmartBlock
         - **Ways you can help:**
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20

@@ -213,8 +213,8 @@
             - **[Status](<Status.md>):** Not yet included in conventions
             - **[References](<References.md>):**
                 - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
-            - **[Decision](<Decision.md>):** [not_populated](<not_populated.md>)
-            - **[Notes](<Notes.md>):** [not_populated](<not_populated.md>)
+            - **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)
+            - **[Notes](<Notes.md>):** [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))

@@ -1,5 +1,5 @@
 - Tags:: #Collections #zettelkasten
-- Entry Points:: #not_populated
+- Entry Points:: #not-populated
 - Index::
 - How to document [[evergreen notes]]: [*]
     - {{[[embed]]: ((vDdMH0T-r))}}

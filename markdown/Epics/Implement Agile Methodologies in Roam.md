@@ -1,7 +1,7 @@
 - Tags:: #Epics
     - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-    - Date Range:: #not_populated
-    - Description:: #not_populated
+    - Date Range:: #not-populated
+    - Description:: #not-populated
     - Status:: [[Status/Active]]
     - Resources:: 
         - [[[[R:]] Agile Product Management in Roam]]

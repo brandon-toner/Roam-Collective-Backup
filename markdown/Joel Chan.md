@@ -13,9 +13,9 @@
 - **Personal SmartBlocks**
     - JChan — .DNP Template #42SmartBlock #roam/templates 
         - #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
-            - #Scratchpad #not_populated
-            - #[[The Zettelkasten]] #not_populated
-            - #Bookmarks #not_populated
-            - #Conversation #not_populated
-            - #[[Change Log]] #not_populated
+            - #Scratchpad #not-populated
+            - #[[The Zettelkasten]] #not-populated
+            - #Bookmarks #not-populated
+            - #Conversation #not-populated
+            - #[[Change Log]] #not-populated
         - ---

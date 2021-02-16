@@ -213,8 +213,8 @@
             - Status:: Not yet included in conventions
             - References::
                 - Related discussion [here](((sBu3zOPiV))) and [here](((IRSOUC-2O)))
-            - Decision:: #not_populated
-            - Notes:: #not_populated
+            - Decision:: #not-populated
+            - Notes:: #not-populated
     - #[[Change Log]] 
         1. Updated the [global variables](((bFUOGEPXz))) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))

@@ -9,7 +9,7 @@
         - **[Interests](<Interests.md>):**
 
 ## [Justin Shaffner](<Justin Shaffner.md>)
-- I started using [Roam](<Roam.md>) in [October 4th, 2019](<October 4th, 2019.md>)
+- I started using [Roam](<Roam.md>) on [October 4th, 2019](<October 4th, 2019.md>)
         - **[Interests](<Interests.md>):**
 
 ## [Larissa de Lima](<Larissa de Lima.md>)

@@ -6,7 +6,7 @@
     - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
     - Created by:: [[Charles Farr]]
     - Author:: [[Peter Rosso]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - Contents:: #not_populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

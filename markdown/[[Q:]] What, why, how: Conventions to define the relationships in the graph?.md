@@ -3,7 +3,7 @@
     - Last Updated:: [[February 12th, 2021]]
     - Created by:: [[Brandon Toner]] (on behalf of [[Charles Farr]])
     - Author:: [[Charles Farr]]
-    - Relevant Notes:: #not_populated ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
-    - Next Steps:: #not_populated ((Plans for future elaboration or development))
-    - Contents:: #not_populated
-    - Work Summary:: #not_populated ((Link to work related to this page from elsewhere in the graph — Include name & date if relevant))
+    - Relevant Notes:: #not-populated ((Related notes in the graph — FN, LN, EN, Q, I, etc.))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated
+    - Work Summary:: #not-populated ((Link to work related to this page from elsewhere in the graph — Include name & date if relevant))

@@ -1,12 +1,12 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
     - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-    - **[Created by](<Created by.md>):** [not_populated](<not_populated.md>)
-    - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
+    - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
         - Query
             - {{[query](<query.md>): {and: [supported by](<supported by.md>) [[[E:](<[[E:.md>) Claim 2]]}}}
         - **[supported by](<supported by.md>):** [[[E:](<[[E:.md>) Claim 3]]
-    - **[Next Steps](<Next Steps.md>):** [not_populated](<not_populated.md>) ((Plans for future elaboration or development))
-    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)

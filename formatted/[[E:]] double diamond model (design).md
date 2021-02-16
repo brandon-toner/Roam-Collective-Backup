@@ -1,10 +1,10 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [design](<design.md>) [research](<research.md>) [divergence](<divergence.md>) [convergence](<convergence.md>)
     - **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
-    - **[Author](<Author.md>):** [not_populated](<not_populated.md>)
-    - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+    - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**  ((Not a reference, but a related idea, block or page))
         - [[[E:](<[[E:.md>) cycles of divergence and convergence]]
-    - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+    - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
     - **[Image](<Image.md>):**
         - ![Double Diamond Model Expanded - Austin Stubbs - Medium](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*FH6Re6NwLf5ftsJqa8s6Hw.png&f=1&nofb=1)

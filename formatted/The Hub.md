@@ -10,6 +10,6 @@
     - Fleeting Notes
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) {not: {or: [query](<query.md>) }}  }}}
     - Literature Notes
-        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)  {not: {or: [query](<query.md>) [not_populated](<not_populated.md>) }}  }}}
+        - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)  {not: {or: [query](<query.md>) [not-populated](<not-populated.md>) }}  }}}
     - Evergreen Notes
-        - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [query](<query.md>) [not_populated](<not_populated.md>) }}  }}}
+        - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [query](<query.md>) [not-populated](<not-populated.md>) }}  }}}

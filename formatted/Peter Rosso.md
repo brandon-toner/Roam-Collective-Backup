@@ -20,16 +20,16 @@
         - **[SmartBlocks](<SmartBlocks.md>):**
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
                 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
-                    - [Inbox](<Inbox.md>) [not_populated](<not_populated.md>)
-                    - #[Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-                    - #[GTD Zone](<GTD Zone.md>) [not_populated](<not_populated.md>)
-                    - [Promptstorming](<Promptstorming.md>) [not_populated](<not_populated.md>)
-                    - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-                    - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
+                    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+                    - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+                    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+                    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+                    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+                    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
                         - Query:
                             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-                    - [Feedback](<Feedback.md>)  [not_populated](<not_populated.md>)
-                    - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
+                    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+                    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
                     - 
                 - ---
     - 

@@ -2,6 +2,6 @@
     - Date Created:: [[January 31st, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Unknown]]
-    - References:: #not_populated ((Supporting FN, LN, EN, or RN would go here))
-    - Related:: #not_populated ((Not a reference, but a related idea, block or page))
-    - Contents:: #not_populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Contents:: #not-populated

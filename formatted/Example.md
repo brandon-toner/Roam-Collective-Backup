@@ -42,6 +42,10 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [[[E:](<[[E:.md>) prepositional linkages]].
                 - **[Example](<Example.md>):**
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- [I](<I.md>) A roam/js extension that helps to "mirror" relationships between pages.
+            - **[Example](<Example.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**

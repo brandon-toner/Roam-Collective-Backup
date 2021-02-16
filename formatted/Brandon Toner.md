@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) [Moderators](<Moderators.md>)
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@brandontoner](https://twitter.com/brandontoner)
         - **[Website](<Website.md>):** [brandontoner.substack.com](https://t.co/PQwCMbPZwT?amp=1)
@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
+    - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -34,12 +34,12 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
-            - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
-            - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
-            - [Conversation](<Conversation.md>) [not_populated](<not_populated.md>)
-            - #[Change Log](<Change Log.md>) [not_populated](<not_populated.md>)
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+            - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+            - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
     - Mentions (BT)
     - BToner — Andy's Notes [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
@@ -47,10 +47,10 @@
             - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
             - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
             - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-            - URL: [not_populated](<not_populated.md>)
-            - **[References](<References.md>):** [not_populated](<not_populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-            - **[Related](<Related.md>):** [not_populated](<not_populated.md>) ((Not a reference, but a related idea, block or page))
-            - **[Contents](<Contents.md>):** [not_populated](<not_populated.md>)
+            - URL: [not-populated](<not-populated.md>)
+            - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+            - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+            - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
     - BToner — My TODOs [42SmartBlock](<42SmartBlock.md>)
         - **Ways you can help:**
             - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
