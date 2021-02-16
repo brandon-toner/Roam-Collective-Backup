@@ -4,5 +4,5 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>))
 
 ## [Joel Chan](<Joel Chan.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([jc](<jc.md>))
+- #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>))
 

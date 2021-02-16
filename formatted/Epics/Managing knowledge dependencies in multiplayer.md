@@ -22,6 +22,9 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - #[Fleeting Notes](<../Fleeting Notes.md>) [prepositional linkages]([[[E:](<../[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<../dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>))
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- **Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **Epic: **[Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)
 

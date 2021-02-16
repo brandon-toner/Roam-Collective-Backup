@@ -1,0 +1,17 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+        - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not_populated 
+    - #Chat ((A place to propose objects of discussion)) #not_populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+    - #Scratchpad #not_populated
+    - #[[The Zettelkasten]] #not_populated
+    - #Bookmarks #not_populated
+    - #Conversation #not_populated
+    - #[[Change Log]] #not_populated
+- ---

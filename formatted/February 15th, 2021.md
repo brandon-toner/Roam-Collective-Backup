@@ -9,7 +9,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not_populated](<not_populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not_populated](<not_populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
         - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -249,6 +249,11 @@
                         - It is no longer a question of replicating [analog](<analog.md>) or [synchronous](<synchronous.md>) processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
                     - [Syn](<Syn.md>) When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
                 - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [organizations](<organizations.md>).
+        - Questions on [The Roaman Agora](<The Roaman Agora.md>)
+            - Having done a bit more investigation around [roam-inter](<roam-inter.md>), watching the videos [Stian Håklev](<Stian Håklev.md>) has up on YouTube, I am turning a few questions over in my head...
+                - If each submission had a page that was aggregating its updates, would it be automatically updated?
+                    - Or, in its current state, does the window & page need to be open?
+                - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
     - [Conversation](<Conversation.md>)
         - On self-accruing onboarding material
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
@@ -270,6 +275,8 @@
         - [ ] Investigate roam-inter
             - [ ] Set up roam-inter to connect RC & The Agora (test)
             - [ ] Reach out to Stian regarding roam inter
+            - [x] Watch Stian's overview videos
+            - [ ] Watch detailed technical video
         - [ ] Pull in relevant notes from [Books/The Culture Code](<Books/The Culture Code.md>) regarding conventions
         - [ ] Brainstorm personal approach to converting thoughts → artifacts
         - [x] Review mentions & work of the last few days

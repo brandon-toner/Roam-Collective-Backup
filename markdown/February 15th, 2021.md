@@ -9,7 +9,7 @@
     - #Chat ((A place to propose objects of discussion)) #not_populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not_populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -249,6 +249,11 @@
                         - It is no longer a question of replicating [[analog]] or [[synchronous]] processes digitally or asynchronously. Instead, the goal of the process needs to be identified, and a new process built to accomplish said goal under a new set of circumstances.
                     - #Syn When the fundamental nature of an organizational system changes, it is not possible to simply port previous operating processes — the processes must be redesigned to achieve the goals of the previous system within the new operating environment.
                 - 19: I need to stress this point: mechanization requires you produce an equivalent product, not identically the same one. Furthermore, in any design it is now essential to consider field maintenance since in the long run it often dominates all other costs. The more complex the designed system, the more field maintenance must be central to the final design. Only when field maintenance is part of the original design can it be safely controlled; it is not wise to try to graft it on later. This applies to both mechanical things and to human [[organizations]].
+        - Questions on [[The Roaman Agora]]
+            - Having done a bit more investigation around [[roam-inter]], watching the videos [[Stian Håklev]] has up on YouTube, I am turning a few questions over in my head...
+                - If each submission had a page that was aggregating its updates, would it be automatically updated?
+                    - Or, in its current state, does the window & page need to be open?
+                - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
     - #Conversation
         - On self-accruing onboarding material
             - [@B]([[@[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
@@ -270,6 +275,8 @@
         - {{[[TODO]]}} Investigate roam-inter
             - {{[[TODO]]}} Set up roam-inter to connect RC & The Agora (test)
             - {{[[TODO]]}} Reach out to Stian regarding roam inter
+            - {{[[DONE]]}} Watch Stian's overview videos
+            - {{[[TODO]]}} Watch detailed technical video
         - {{[[TODO]]}} Pull in relevant notes from [[Books/The Culture Code]] regarding conventions
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
         - {{[[DONE]]}} Review mentions & work of the last few days

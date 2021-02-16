@@ -12,7 +12,7 @@
     - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
 - **Personal SmartBlocks**
     - JChan — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not_populated](<not_populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not_populated](<not_populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not_populated](<not_populated.md>)
@@ -64,6 +64,9 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - **Origin**: This is a concept I come up when I try to generalize the AXYZ [model](<model.md>) ((A do X under Y condition and observe Z)) purposed by [Joel Chan](<Joel Chan.md>),
+
+## [Joel Chan](<Joel Chan.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>)
 
 ## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
 - **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)

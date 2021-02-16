@@ -83,6 +83,9 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Big agree on "#[Project Ideas](<../Project Ideas.md>) Build a directory of [Roam Games](<../Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 

@@ -12,7 +12,7 @@
     - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
 - **Personal SmartBlocks**
     - JChan — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+        - #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
             - #Scratchpad #not_populated
             - #[[The Zettelkasten]] #not_populated
             - #Bookmarks #not_populated
