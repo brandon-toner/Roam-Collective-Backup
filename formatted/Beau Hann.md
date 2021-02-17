@@ -8,6 +8,9 @@
 
 - Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>)
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- Could be fun down the line! [Beau Hann](<Beau Hann.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 

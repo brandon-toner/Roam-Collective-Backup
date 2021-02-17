@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #Scratchpad
         - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])

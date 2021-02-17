@@ -57,7 +57,7 @@
     - Status/Someday|Maybe
 - CTRL+SHIFT+C HASH
     - 
-    - not_populated
+    - not-populated
 - CTRL+SHIFT+C HASH
     - 
     - Urgent

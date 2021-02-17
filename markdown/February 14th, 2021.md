@@ -20,7 +20,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #Scratchpad 
         - Domains #Outlines
             - Onboarding

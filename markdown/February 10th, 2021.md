@@ -66,7 +66,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([[Processes]])

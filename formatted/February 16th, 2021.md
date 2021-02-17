@@ -8,11 +8,11 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - Where are we with this?
-            - How is the [Roaman Agora](<Roaman Agora.md>) coming along? Is there a graph we can view? How can we help? [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - How is the [Roaman Agora](<Roaman Agora.md>) coming along? Is there a graph we can view? How can we help? [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - "Questions on the [Roaman Agora](<Roaman Agora.md>)"
                 - "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
                     - "A place to collate ideas & influence related to Roam Games"
@@ -46,10 +46,12 @@
             - bi-directional linking for [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
             - [Q](<Q.md>) How might this look?
         - [Q](<Q.md>) What is an [agora](<agora.md>)?
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+        - [Obs](<Obs.md>) We haven't used [pomodoros](<pomodoros.md>) or synchronous writing sessions yet. 
+            - Could be fun down the line! [Beau Hann](<Beau Hann.md>) has that worked down to an art. 
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
@@ -88,10 +90,32 @@
             - samuel.bars@outlook.fr
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
-    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - [Scratchpad](<Scratchpad.md>)
+        - Chat with [Brandon Toner](<Brandon Toner.md>)
+
+            - First seed convention/graph
+            - Domains in RC
+                - Conversation
+                - Knowledge Base
+                - Project Management
+                - Engagement through conversation drives progress in the other domains
+            - Is this a workspace?
+                - Is the work done here or is it showcased?
+                - In the Agora, unlikely for people to work within it, but place for people to discuss
+            - In the Agora, there is a much greater timeframe that is easily available
+            - Feeding yourself future breadcrumbs
+            - Notes
+                - Evergreen notes
+                    - The most concise form of an idea
+                    - Not redundant — synthesized, concise
+                - Fleeting notes can be redundant 
     - [Conversation](<Conversation.md>)
         - Discussions
-        - [re](((A5lIDpmnY))): [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) just added you as an editor. [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
-            - Going to sketch out the key parts of it shortly and then start building the structure.
+            - [re](((A5lIDpmnY))): [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) just added you as an editor. [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
+                - Going to sketch out the key parts of it shortly and then start building the structure.
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>)
+        - Updated color scheme variables [here](((2qUvADEmE)))
+            - Have not reworked any of the css code to use the new color scheme
 - ---

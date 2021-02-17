@@ -20,26 +20,153 @@
         - Colors
             - Color Scheme
                 - > Use names for consistent colors throughout your them — `--cl-name-strength`
-                - Standard Colors
+                - Colors
                     - Black, White, Gray
-                    - Red
-                    - Orange
-                    - Yellow
-                    - Green
-                    - Blue
                         - ```css
 :root {
-  --cl-blue-100:	#6FBCFF;
-  --cl-blue-200:	#55A9F2;
-  --cl-blue-300:	#348FDD;
-  --cl-blue-400:	#2E7FC4;
-  --cl-blue-500:	#1476CA;
-  --cl-blue-600:	#1160A4;
-  --cl-blue-700:	#124A7B;
-  --cl-blue-800:	#053762;
-  --cl-blue-900:	#04233E;
+  --cl-white:    #ffffff;
+  --cl-gray-100: #f8f9faff; /*--cultured*/
+  --cl-gray-200: #e9ecefff; /*--cultured-2*/
+  --cl-gray-300: #dee2e6ff; /*--gainsboro*/
+  --cl-gray-400: #ced4daff; /*--light-gray*/
+  --cl-gray-500: #adb5bdff; /*--cadet-blue-crayola*/
+  --cl-gray-600: #6c757dff; /*--slate-gray*/
+  --cl-gray-700: #495057ff; /*--davys-grey*/
+  --cl-gray-800: #343a40ff; /*--gunmetal*/
+  --cl-gray-900: #212529ff; /*--charleston-green*/
+  --cl-black:    #000000;
+}```
+                    - Red
+                        - ```css
+:root {
+  --cl-red-100: #ffc2c4ff; /*--spanish-pink*/
+  --cl-red-200: #f9acafff; /*--light-pink*/
+  --cl-red-300: #f3969aff; /*--salmon-pink*/
+  --cl-red-400: #ed8084ff; /*--light-coral*/
+  --cl-red-500: #e86b6fff; /*--candy-pink*/
+  --cl-red-600: #e2555aff; /*--indian-red*/
+  --cl-red-700: #dc3f45ff; /*--rose-madder*/
+  --cl-red-800: #d6292fff; /*--amaranth-red*/
+  --cl-red-900: #d0131aff; /*--lava*/
+}```
+                    - Orange
+                        - ```css
+:root {
+  --cl-orange-100: #ffcdadff; /*--apricot:*/
+  --cl-orange-200: #fbbe97ff; /*--peach-crayola:*/
+  --cl-orange-300: #f7af82ff; /*--macaroni-and-cheese:*/
+  --cl-orange-400: #f3a06cff; /*--atomic-tangerine:*/
+  --cl-orange-500: #f09257ff; /*--atomic-tangerine-2:*/
+  --cl-orange-600: #ec8341ff; /*--princeton-orange:*/
+  --cl-orange-700: #e8742bff; /*--spanish-orange:*/
+  --cl-orange-800: #e46516ff; /*--spanish-orange-2:*/
+  --cl-orange-900: #e05600ff; /*--persimmon:*/
+}```
+                    - Yellow
+                        - ```css
+:root {
+  --cl-yellow-100: #ffe499ff; /*--jasmine:*/
+  --cl-yellow-200: #fbdc86ff; /*--jasmine-2:*/
+  --cl-yellow-300: #f7d473ff; /*--orange-yellow-crayola:*/
+  --cl-yellow-400: #f3cc60ff; /*--maize-crayola:*/
+  --cl-yellow-500: #f0c54dff; /*--maize-crayola-2:*/
+  --cl-yellow-600: #ecbd39ff; /*--saffron:*/
+  --cl-yellow-700: #e8b526ff; /*--orange-yellow:*/
+  --cl-yellow-800: #e4ad13ff; /*--goldenrod:*/
+  --cl-yellow-900: #e0a500ff; /*--goldenrod-2:*/
+
+}```
+                    - Green Yellow
+                        - ```css
+:root {
+  --cl-green-yel-100: #eaecacff;/*--pale-spring-bud:*/
+  --cl-green-yel-200: #e1e39bff;/*--green-yellow-crayola:*/
+  --cl-green-yel-300: #d8da8bff;/*--khaki-x-11-light-khaki:*/
+  --cl-green-yel-400: #cfd17aff;/*--straw:*/
+  --cl-green-yel-500: #c6c96aff;/*--dark-khaki:*/
+  --cl-green-yel-600: #bcc059ff;/*--olive-green:*/
+  --cl-green-yel-700: #b3b748ff;/*--olive-green-2:*/
+  --cl-green-yel-800: #aaae38ff;/*--citron:*/
+  --cl-green-yel-900: #a1a527ff;/*--citron-2:*/
+}```
+                    - Green
+                        - ```css
+:root {
+  --cl-green-100: #cae4a0ff; /*--yellow-green-crayola:*/
+  --cl-green-200: #bed991ff; /*--yellow-green-crayola-2:*/
+  --cl-green-300: #b2cf82ff; /*--pistachio:*/
+  --cl-green-400: #a5c473ff; /*--olivine:*/
+  --cl-green-500: #99ba64ff; /*--olivine-2:*/
+  --cl-green-600: #8daf55ff; /*--olivine-3:*/
+  --cl-green-700: #81a446ff; /*--moss-green:*/
+  --cl-green-800: #749a37ff; /*--olive-drab-3:*/
+  --cl-green-900: #688f28ff; /*--olive-drab-3-2:*/
+}```
+                    - Green-Blue
+                        - ```css
+:root {
+  --cl-green-blu-100: #a8dcd9ff;/*--powder-blue:*/ 
+  --cl-green-blu-200: #9ad3d0ff;/*--middle-blue-green:*/ 
+  --cl-green-blu-300: #8dc9c6ff;/*--middle-blue-green-2:*/ 
+  --cl-green-blu-400: #7fc0bdff;/*--green-sheen:*/ 
+  --cl-green-blu-500: #72b7b3ff;/*--green-sheen-2:*/ 
+  --cl-green-blu-600: #64adaaff;/*--verdigris:*/ 
+  --cl-green-blu-700: #56a4a0ff;/*--cadet-blue:*/ 
+  --cl-green-blu-800: #499a97ff;/*--cadet-blue-2:*/ 
+  --cl-green-blu-900: #3b918dff;/*--viridian-green:*/ 
+}```
+                    - Blue (lighter shade)
+                        - ```css
+:root {
+  --cl-blue-lt-100: #aecdeaff; /*--baby-blue-eyes:*/
+  --cl-blue-lt-200: #9ec2e3ff; /*--baby-blue-eyes-2:*/
+  --cl-blue-lt-300: #8eb6dcff; /*--aero:*/
+  --cl-blue-lt-400: #7eabd5ff; /*--iceberg:*/
+  --cl-blue-lt-500: #6fa0ceff; /*--blue-gray:*/
+  --cl-blue-lt-600: #5f94c6ff; /*--blue-gray-2:*/
+  --cl-blue-lt-700: #4f89bfff; /*--green-blue-crayola:*/
+  --cl-blue-lt-800: #3f7db8ff; /*--steel-blue:*/
+  --cl-blue-lt-900: #2f72b1ff; /*--spanish-blue:*/
+}```
+                    - Blue (Darker Shade)
+                        - ```css
+:root {
+  --cl-blue-dk-100: #b6c2e2ff; /*--periwinkle-crayola*/
+  --cl-blue-dk-200: #a6b4d8ff; /*--wild-blue-yonder*/
+  --cl-blue-dk-300: #97a6ceff; /*--wild-blue-yonder-2*/
+  --cl-blue-dk-400: #8798c4ff; /*--cool-grey*/
+  --cl-blue-dk-500: #788abbff; /*--glaucous*/
+  --cl-blue-dk-600: #687bb1ff; /*--glaucous-2*/
+  --cl-blue-dk-700: #586da7ff; /*--blue-yonder*/
+  --cl-blue-dk-800: #495f9dff; /*--liberty*/
+  --cl-blue-dk-900: #395193ff; /*--y-in-mn-blue*/
+}```
+                    - Violet
+                        - ```css
+:root {
+  --cl-violet-100: #afb1d4ff; /*--wild-blue-yonder*/
+  --cl-violet-200: #a2a4caff; /*--blue-bell*/
+  --cl-violet-300: #9597c0ff; /*--blue-bell-2*/
+  --cl-violet-400: #888ab6ff; /*--cool-grey*/
+  --cl-violet-500: #7b7eadff; /*--rhythm*/
+  --cl-violet-600: #6e71a3ff; /*--dark-blue-gray*/
+  --cl-violet-700: #616499ff; /*--dark-blue-gray-2*/
+  --cl-violet-800: #54578fff; /*--purple-navy*/
+  --cl-violet-900: #474a85ff; /*--purple-navy-2*/
 }```
                     - Purple
+                        - ```css
+:root {
+  --cl-purple-100: #bfaed5ff; /*--lilac*/
+  --cl-purple-200: #b3a1cbff; /*--glossy-grape*/
+  --cl-purple-300: #a894c2ff; /*--glossy-grape-2*/
+  --cl-purple-400: #9c87b8ff; /*--purple-mountain-majesty*/
+  --cl-purple-500: #907aaeff; /*--purple-mountain-majesty-2*/
+  --cl-purple-600: #846ca4ff; /*--middle-blue-purple*/
+  --cl-purple-700: #795f9bff; /*--royal-purple*/
+  --cl-purple-800: #6d5291ff; /*--royal-purple-2*/
+  --cl-purple-900: #614587ff; /*--cyber-grape*/
+}```
                 - Additional Color Schemes
                     - Togetic
                         - ```css

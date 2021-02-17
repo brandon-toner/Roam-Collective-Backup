@@ -8,11 +8,11 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #Scratchpad 
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - Where are we with this?
-            - How is the [[Roaman Agora]] coming along? Is there a graph we can view? How can we help? [@Charles]([[@[[Charles Farr]]]])
+            - How is the [[Roaman Agora]] coming along? Is there a graph we can view? How can we help? [@Charles]([[~[[Charles Farr]]]])
                 - "Questions on the [[Roaman Agora]]"
                 - "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
                     - "A place to collate ideas & influence related to Roam Games"
@@ -46,10 +46,12 @@
             - bi-directional linking for [prepositional linkages]([[[[E:]] prepositional linkages]])
             - #Q How might this look?
         - #Q What is an [[agora]]?
-    - #[[The Zettelkasten]] #not-populated
+        - #Obs We haven't used [[pomodoros]] or synchronous writing sessions yet. 
+            - Could be fun down the line! [[Beau Hann]] has that worked down to an art. 
     - #Bookmarks #not-populated
     - #Conversation #not-populated
     - #[[Change Log]] #not-populated
+    - 
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
@@ -88,10 +90,32 @@
             - samuel.bars@outlook.fr
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
-    - #Scratchpad #not-populated
+    - #Scratchpad
+        - Chat with [[Brandon Toner]]
+
+            - First seed convention/graph
+            - Domains in RC
+                - Conversation
+                - Knowledge Base
+                - Project Management
+                - Engagement through conversation drives progress in the other domains
+            - Is this a workspace?
+                - Is the work done here or is it showcased?
+                - In the Agora, unlikely for people to work within it, but place for people to discuss
+            - In the Agora, there is a much greater timeframe that is easily available
+            - Feeding yourself future breadcrumbs
+            - Notes
+                - Evergreen notes
+                    - The most concise form of an idea
+                    - Not redundant — synthesized, concise
+                - Fleeting notes can be redundant 
     - #Conversation
         - Discussions
-        - [re](((A5lIDpmnY))): [@B]([[@[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
-            - Going to sketch out the key parts of it shortly and then start building the structure.
+            - [re](((A5lIDpmnY))): [@B]([[@[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
+                - Going to sketch out the key parts of it shortly and then start building the structure.
+            - [@B]([[@[[Brandon Toner]]]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
     - #Bookmarks #not-populated
+    - #[[Change Log]]
+        - Updated color scheme variables [here](((2qUvADEmE)))
+            - Have not reworked any of the css code to use the new color scheme
 - ---

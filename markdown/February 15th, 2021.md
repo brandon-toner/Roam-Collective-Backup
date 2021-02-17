@@ -14,7 +14,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -266,7 +266,7 @@
             - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
-            - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](((OhULOtImw))) and then for [tags](((Z5ETQBI4D))).  
+            - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  
             - Hi [@Joel]([[@[[Joel Chan]]]])! I would love to connect sometime to discuss your model.
                 - The biggest addition for me is a `#Notion` tag, which captures something akin to a "fleeting note" that is really just a thought — no immediate evidence or some implied context, but I'm too lazy to develop it into a `#Obs` of `#Syn` note.
                 - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[@[[Brandon Toner]]]])?

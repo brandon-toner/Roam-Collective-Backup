@@ -11,7 +11,7 @@
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - Active Sprint:: [[Sprints/1 — Roam Games 3 (managing dependencies)]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #[[Scratchpad]] 
         - #Q What do you do if a sprint is also a question? 
             - #I Duplicate it as a questions page, linking to the sprint. 
