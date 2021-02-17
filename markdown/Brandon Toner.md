@@ -58,3 +58,5 @@
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
     - BToner — ChatName #42SmartBlock #roam/templates
         - **Brandon:** 
+    - BToner — @Charles #42SmartBlock #roam/templates
+        - [@Charles]([[@[[Charles Farr]]]])

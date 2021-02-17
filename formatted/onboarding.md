@@ -9,6 +9,9 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - Features of the graph:[*]([onboarding](<onboarding.md>))
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>).
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>)
 

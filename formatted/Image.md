@@ -8,6 +8,13 @@
 - The ease with the dropdown is using the [smartblock]([42SmartBlock](<42SmartBlock.md>) .rcNotify — @Everyone Tag)!
                 - **[Image](<Image.md>):**
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Obs](<Obs.md>) The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
+                - **[Image](<Image.md>):**
+
+- [Obs](<Obs.md>) overview shortcuts are well laid out.
+                - **[Image](<Image.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
                 - **[Image](<Image.md>):**

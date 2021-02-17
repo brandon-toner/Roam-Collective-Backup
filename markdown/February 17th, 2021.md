@@ -67,6 +67,17 @@
                             - Illustrations of ideas in the Roam community.
                         - Primary: dependency; multiple graphs
                         - Secondary: illustrating ideas of Roam
+        - #Q What do I like about the design of the [[Roaman Agora]]?
+            - #Obs The color strategy in the CSS is nice. 
+            - #Obs The simplicity of the DNP is nice.
+            - #Obs The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
+                - Image::
+                    - 
+            - #Obs overview shortcuts are well laid out.
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDBGxryky3R.png?alt=media&token=601bd393-7cef-4002-9d86-50a7e5e8c11c)
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [[onboarding]]. [*]([[Brandon Toner]])[*]([[Week-07: 02-15-2021]])
     - #Bookmarks #not-populated
     - #Conversation #not-populated
     - #[[Change Log]] #not-populated

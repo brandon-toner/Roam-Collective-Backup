@@ -1,5 +1,5 @@
 - **[Related](<Related.md>):** [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
-- **[Table of Contents](<Table of Contents.md>):**
+- **[[Table of Contents](<Table of Contents.md>)](<[Table of Contents](<Table of Contents.md>).md>):**
     - [Welcome 😃](<Welcome 😃.md>)
     - [Quick Start Guide](<Quick Start Guide.md>)
     - [FAQ](<FAQ.md>)

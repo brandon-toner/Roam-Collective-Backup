@@ -238,13 +238,12 @@
                 - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
         - Also, hi [[~[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
-        - 
     - #[[Change Log]] #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - "{{[[DONE]]}} Review mentions & work of the last few days"
-        - "{{[[TODO]]}} Review notes on the Roaman Agora"
+        - "{{[[DONE]]}} Review notes on the Roaman Agora"
             - "[@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
         - "{{[[DONE]]}} Review Bookmarks & Saved Items"
         - #Annotations on [[Book/The Art of Doing Science & Engineering]]
@@ -274,8 +273,8 @@
         - "IMO a discourse-centric approach can mitigate these risks"
     - #[[GTD Zone]]
         - {{[[DONE]]}} Review Bookmarks & Saved Items
-        - {{[[TODO]]}} Review notes on the Roaman Agora
-        - {{[[TODO]]}} Outline structure of the Agora
+        - {{[[DONE]]}} Review notes on the Roaman Agora
+        - {{[[DONE]]}} Outline structure of the Agora
             - Use the creative projects page
         - {{[[TODO]]}} Investigate roam-inter
             - {{[[TODO]]}} Set up roam-inter to connect RC & The Agora (test)

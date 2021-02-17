@@ -5,6 +5,5 @@
 - **[Table of Contents](<Table of Contents.md>):**
 
 ## [Roam-Collective](<Roam-Collective.md>)
-- **[Related](<Related.md>):** [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
-- **[Table of Contents](<Table of Contents.md>):**
+- [Table of Contents](<Table of Contents.md>):
 

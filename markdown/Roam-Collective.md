@@ -1,5 +1,5 @@
 - Related:: [[About [[Roam-Collective]]]]
-- Table of Contents::
+- [[Table of Contents]]::
     - [[Welcome 😃]]
     - [[Quick Start Guide]]
     - [[FAQ]]

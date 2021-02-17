@@ -76,6 +76,8 @@
         2. [@Charles]([[@[[Charles Farr]]]]) — Best documentation is [here]([[About [[Roam-Collective]]]]), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
+        3. [@Charles]([[@[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
+        4. 
     - #[[Change Log]] #not-populated
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"

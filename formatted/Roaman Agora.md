@@ -30,3 +30,6 @@
 
 - Did most of my work in the [Roaman Agora](<Roaman Agora.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?
+

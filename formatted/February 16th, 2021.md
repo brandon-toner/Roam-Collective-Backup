@@ -76,6 +76,8 @@
         2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About [[Roam-Collective](<About [[Roam-Collective.md>)]]), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
+        3. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
+        4. 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"

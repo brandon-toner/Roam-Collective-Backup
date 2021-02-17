@@ -238,13 +238,12 @@
                 - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
         - Also, hi [~[[Charles Farr](<~[[Charles Farr.md>)]]! we should chat sometime, I see some engagement with my [[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
-        - 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - "[x] Review mentions & work of the last few days"
-        - "[ ] Review notes on the Roaman Agora"
+        - "[x] Review notes on the Roaman Agora"
             - "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
         - "[x] Review Bookmarks & Saved Items"
         - [Annotations](<Annotations.md>) on [Book/The Art of Doing Science & Engineering](<Book/The Art of Doing Science & Engineering.md>)
@@ -274,8 +273,8 @@
         - "IMO a discourse-centric approach can mitigate these risks"
     - #[GTD Zone](<GTD Zone.md>)
         - [x] Review Bookmarks & Saved Items
-        - [ ] Review notes on the Roaman Agora
-        - [ ] Outline structure of the Agora
+        - [x] Review notes on the Roaman Agora
+        - [x] Outline structure of the Agora
             - Use the creative projects page
         - [ ] Investigate roam-inter
             - [ ] Set up roam-inter to connect RC & The Agora (test)

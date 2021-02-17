@@ -67,6 +67,17 @@
                             - Illustrations of ideas in the Roam community.
                         - Primary: dependency; multiple graphs
                         - Secondary: illustrating ideas of Roam
+        - [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?
+            - [Obs](<Obs.md>) The color strategy in the CSS is nice. 
+            - [Obs](<Obs.md>) The simplicity of the DNP is nice.
+            - [Obs](<Obs.md>) The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
+                - **[Image](<Image.md>):**
+                    - 
+            - [Obs](<Obs.md>) overview shortcuts are well laid out.
+                - **[Image](<Image.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDBGxryky3R.png?alt=media&token=601bd393-7cef-4002-9d86-50a7e5e8c11c)
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))[*]([Week-07: 02-15-2021](<Week-07: 02-15-2021.md>))
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)

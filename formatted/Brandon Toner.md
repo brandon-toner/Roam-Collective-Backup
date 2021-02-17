@@ -58,6 +58,8 @@
 {{[embed](<embed.md>): <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
     - BToner — ChatName [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **Brandon:** 
+    - BToner — @Charles [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
 
 # Backlinks
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
@@ -141,6 +143,8 @@
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
