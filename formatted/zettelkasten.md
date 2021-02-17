@@ -40,6 +40,11 @@
 
 - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [zettelkasten](<zettelkasten.md>)
+
+- Promise of the [zettelkasten](<zettelkasten.md>):
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>)
 

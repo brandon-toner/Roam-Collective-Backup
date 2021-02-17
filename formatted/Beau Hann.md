@@ -11,6 +11,11 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - Could be fun down the line! [Beau Hann](<Beau Hann.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Beau Hann](<Beau Hann.md>)
+
+- "We need more smart people in Roam to solve big problems" - [Beau Hann](<Beau Hann.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 

@@ -5,12 +5,12 @@
         - Location:: Chicago, IL
         - Time Zone:: Central Time (GMT –6:00)
     - Status::
-        - {{or:🟢Online | 😴 Offline | 🟠Away}}
+        - {{or:😴 Offline | 🟢Online | 🟠Away}}
 - :hiccup [:hr]
 - # Personal Artifacts
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
-            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
                 - #Scratchpad #not-populated
                 - #Conversation #not-populated
                 - #Bookmarks #not-populated

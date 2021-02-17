@@ -90,7 +90,7 @@
 
 - "[Q](<../Q.md>) How could [code snippets](<../code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
-- [@Charles]([@[[Charles Farr](<../@[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
+- [@Charles]([~[[Charles Farr](<../~[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)

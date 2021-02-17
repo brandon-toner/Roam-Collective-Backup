@@ -78,7 +78,7 @@
     - #[[Change Log]] 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - "On the foundations of [[statement chains]]..."
             - "[[Conor]] mentioned that he thinks of education as a series of [[statement chains]]"

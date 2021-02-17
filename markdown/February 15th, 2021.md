@@ -241,7 +241,7 @@
         - 
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - "{{[[DONE]]}} Review mentions & work of the last few days"
         - "{{[[TODO]]}} Review notes on the Roaman Agora"

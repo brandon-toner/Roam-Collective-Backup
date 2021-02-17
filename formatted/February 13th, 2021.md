@@ -78,7 +78,7 @@
     - #[Change Log](<Change Log.md>) 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - "On the foundations of [statement chains](<statement chains.md>)..."
             - "[Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)"

@@ -5,12 +5,12 @@
         - **[Location](<Location.md>):** Chicago, IL
         - **[Time Zone](<Time Zone.md>):** Central Time (GMT –6:00)
     - **[Status](<Status.md>):**
-        - {{or:🟢Online | 😴 Offline | 🟠Away}}
+        - {{or:😴 Offline | 🟢Online | 🟠Away}}
 - :hiccup [:hr]
 - # Personal Artifacts
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
-            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
                 - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                 - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -78,6 +78,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 17th, 2021](<February 17th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

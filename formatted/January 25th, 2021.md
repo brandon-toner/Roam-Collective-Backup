@@ -82,7 +82,7 @@
         - "Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
         - Thoughts about [Roam Collective]([About [[Roam-Collective](<About [[Roam-Collective.md>)]])
             - **["Mission](<"Mission.md>):** ((See block references for additional ideas.))"
-                - "To define an approach for effective collaboration in Roam."
+                - To define an approach for effective collaboration in Roam.
             - **["Vision](<"Vision.md>):** ((See block references for additional ideas.))"
                 - A space that is able to asynchronously host collaboration towards a common goal. 
                 - Members of the space adhere to shared conventions that facilitate clear and orderly communication. 

@@ -40,6 +40,9 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Having more fun writing in [Roam-Collective](<Roam-Collective.md>)
 

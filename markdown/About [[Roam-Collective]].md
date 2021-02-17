@@ -4,7 +4,7 @@
     - This is an experiment in collaboration in Roam. A space to explore conventions and processes within shared graphs. A community space for exploration and innovation.
     - The aim is to create a collaborative environment built on sound conventions, processes and group roles to improve the quality of the multiplayer Roam experience.
 - Mission:: ((See block references for additional ideas.))
-    - To define an approach for effective collaboration in Roam.
+    - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE)))
     - To build the [[conventions]] necessary to enable effective knowledge collaboration at scale.
 - Vision:: ((See block references for additional ideas.))
 - Purpose:: ((See block references for additional ideas.))
