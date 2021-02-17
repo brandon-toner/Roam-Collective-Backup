@@ -3,6 +3,9 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 2. Once work starts to center around some common [themes](<themes.md>), [questions](<questions.md>) and [ideas](<ideas.md>),
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [ideas](<ideas.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).
 

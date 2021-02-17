@@ -14,7 +14,7 @@
         1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
@@ -57,13 +57,13 @@
             - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]}}
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
-        1. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
+        1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
             - **[Thoughts](<Thoughts.md>):**
                 - This is not an idea, nor a fleeting note -- it is moreso benefits or additional commentary on the reasons the idea would be worthwhile. 
                     - Comments feels too broad and pointless
-        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))
+        2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))
             - I briefly explored this [here](((j44mqPh6J)))
                 - I think this is the necessary next-step: taking the existing (major) Roam Games submissions and contributors and creating a network of those ideas.
                 - We could map the dependencies similar to how we document [relevant notes](<relevant notes.md>) on ENs
@@ -207,7 +207,7 @@
                     - Examples
                 - roam-inter set up
     - [Conversation](<Conversation.md>)
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

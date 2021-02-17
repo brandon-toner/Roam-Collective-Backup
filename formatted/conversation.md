@@ -6,6 +6,13 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>))
+
+- #[Fleeting Notes](<Fleeting Notes.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
+
+- "#[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>)
 

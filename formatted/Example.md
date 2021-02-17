@@ -46,6 +46,9 @@
 - [I](<I.md>) A roam/js extension that helps to "mirror" relationships between pages.
             - **[Example](<Example.md>):**
 
+- [Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))
+            - **[Example](<Example.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**

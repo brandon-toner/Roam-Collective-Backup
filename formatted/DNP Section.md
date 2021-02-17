@@ -24,6 +24,9 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) Displaying word counts on each [DNP Section](<DNP Section.md>)
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>))
+
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
@@ -57,9 +60,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Polls](<Polls.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
-
-## [Problems](<Problems.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Promptstorming](<Promptstorming.md>)

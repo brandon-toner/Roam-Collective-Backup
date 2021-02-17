@@ -5,6 +5,11 @@
 - Create a hub for the [Roam Games](<Roam Games.md>)
         - **[Tips](<Tips.md>):**
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+1. "[Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))
+
+- [Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))
+
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
                         - **[Tips](<Tips.md>):**

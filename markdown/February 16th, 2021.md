@@ -4,11 +4,12 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
         - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. "#Obs This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([[@[[Charles Farr]]]])[*]([[Tips]])" (I discovered that I have made 149 fleeting notes!)
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - Where are we with this?
@@ -48,10 +49,30 @@
         - #Q What is an [[agora]]?
         - #Obs We haven't used [[pomodoros]] or synchronous writing sessions yet. 
             - Could be fun down the line! [[Beau Hann]] has that worked down to an art. 
+        - #Obs This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([[@[[Charles Farr]]]])[*]([[Tips]])
+            - Example::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FSL9R5bnDPC.png?alt=media&token=c9fc57c1-9ad3-4a70-ab02-c7f3292e8667)
+            - You get some amazing data this way!! 
+                1. The number of each type of note you've produced.
+                2. The top co-tags ordered by number of hits. 
+                    - This gives you the ability to assess for what topics you have thought a lot about.
+                        - These are rich places to look for the development of [[evergreen notes]]. 
+            - #[[Fleeting Notes]] The addition of a unique identifier to the [DNP Section]([[DNP Section]]) empowers the ability to [query]([[querying]]) for information from exclusively within your notes.
+        - #[[Fleeting Notes]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo)))
+            - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [[block-level tags]]. 
+                - #[[Fleeting Notes]] [[ideas]] and [[action items]] arise naturally in [[conversation]].
+                    - [[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
+        - #[[Fleeting Notes]] A [[collaborative graph]] transcends "The Now". 
+        - #Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[[[R:]] Joel Chan — Knowledge Synthesis]])
+            - Diagram::
+                - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
+            - #Q How might [[problems]] be stated at the [[block-level]]?
+            - #Q How might [[hypotheses]] be documented at the [[block-level]]?
+            - #Q How might [[conclusions]] be documented?
+        - #[[Fleeting Notes]] micro and macro levels of [[inquiry]].
     - #Bookmarks #not-populated
     - #Conversation #not-populated
     - #[[Change Log]] #not-populated
-    - 
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
@@ -92,7 +113,6 @@
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - Chat with [[Brandon Toner]]
-
             - First seed convention/graph
             - Domains in RC
                 - Conversation
@@ -109,12 +129,25 @@
                     - The most concise form of an idea
                     - Not redundant — synthesized, concise
                 - Fleeting notes can be redundant 
+            - ---
+            - Follow on from above...
+                - 
+        - Working on the overview section for the [[Roaman Agora]]
+            - # Mission Statement
+                Technically the agora was invented in Ancient Greece, but it feels surprisingly at home in modern Roam.
+                Just as the agora was at the center of public life in Greece, our hope for **The Roaman Agora** is for it to be a meeting place for roam cult. A forum for us to meet and discuss ideas, all while leveraging the power of a multiplayer graph. [*](((kDLzIzdBc)))
+                Over time, the intention is to build a dependency graph charting the exchange of ideas and influence through collaboration and conversation. The inti
+            - # Building on the work of [[Roam Collective]]
+                - 
+            - # Goals for this Graph
     - #Conversation
         - Discussions
             - [re](((A5lIDpmnY))): [@B]([[@[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.
             - [@B]([[@[[Brandon Toner]]]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
-    - #Bookmarks #not-populated
+            - [@B]([[@[[Brandon Toner]]]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `#I` block they're nested under, which feels appropriate. 
+    - #Bookmarks
+        - "#[[Fleeting Notes]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo)))"
     - #[[Change Log]]
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme

@@ -16,6 +16,9 @@
 
 - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
 
+## [February 16th, 2021](<February 16th, 2021.md>)
+- [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 

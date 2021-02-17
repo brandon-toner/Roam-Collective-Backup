@@ -265,9 +265,6 @@
 ## [Predictions](<Predictions.md>)
 - **[Tags](<Tags.md>):**
 
-## [Problems](<Problems.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):**
 

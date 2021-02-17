@@ -18,7 +18,7 @@
         - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)

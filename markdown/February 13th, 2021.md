@@ -14,7 +14,7 @@
         1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
@@ -57,13 +57,13 @@
             - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
     - #Bookmarks #not-populated
     - #Conversation 
-        1. [@Charles]([[@[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
+        1. [@Charles]([[~[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
             - Thoughts::
                 - This is not an idea, nor a fleeting note -- it is moreso benefits or additional commentary on the reasons the idea would be worthwhile. 
                     - Comments feels too broad and pointless
-        2. [@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
+        2. [@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
             - I briefly explored this [here](((j44mqPh6J)))
                 - I think this is the necessary next-step: taking the existing (major) Roam Games submissions and contributors and creating a network of those ideas.
                 - We could map the dependencies similar to how we document [[relevant notes]] on ENs
@@ -207,7 +207,7 @@
                     - Examples
                 - roam-inter set up
     - #Conversation
-        - [[~[[Brandon Toner]]]] re: "[@Charles]([[@[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
+        - [[~[[Brandon Toner]]]] re: "[@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
             - See: "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
     - #Bookmarks #not-populated
 - ---

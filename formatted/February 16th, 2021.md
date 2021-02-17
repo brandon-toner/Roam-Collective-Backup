@@ -4,11 +4,12 @@
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
         - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. "[Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))" (I discovered that I have made 149 fleeting notes!)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - Where are we with this?
@@ -48,10 +49,30 @@
         - [Q](<Q.md>) What is an [agora](<agora.md>)?
         - [Obs](<Obs.md>) We haven't used [pomodoros](<pomodoros.md>) or synchronous writing sessions yet. 
             - Could be fun down the line! [Beau Hann](<Beau Hann.md>) has that worked down to an art. 
+        - [Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))
+            - **[Example](<Example.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FSL9R5bnDPC.png?alt=media&token=c9fc57c1-9ad3-4a70-ab02-c7f3292e8667)
+            - You get some amazing data this way!! 
+                1. The number of each type of note you've produced.
+                2. The top co-tags ordered by number of hits. 
+                    - This gives you the ability to assess for what topics you have thought a lot about.
+                        - These are rich places to look for the development of [evergreen notes](<evergreen notes.md>). 
+            - #[Fleeting Notes](<Fleeting Notes.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>)) empowers the ability to [query]([querying](<querying.md>)) for information from exclusively within your notes.
+        - #[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo)))
+            - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [block-level tags](<block-level tags.md>). 
+                - #[Fleeting Notes](<Fleeting Notes.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
+                    - [Roam](<Roam.md>), in combination with the [conventions](<conventions.md>) set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
+        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) transcends "The Now". 
+        - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]])
+            - **[Diagram](<Diagram.md>):**
+                - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
+            - [Q](<Q.md>) How might [problems](<problems.md>) be stated at the [block-level](<block-level.md>)?
+            - [Q](<Q.md>) How might [hypotheses](<hypotheses.md>) be documented at the [block-level](<block-level.md>)?
+            - [Q](<Q.md>) How might [conclusions](<conclusions.md>) be documented?
+        - #[Fleeting Notes](<Fleeting Notes.md>) micro and macro levels of [inquiry](<inquiry.md>).
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
-    - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
@@ -92,7 +113,6 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - Chat with [Brandon Toner](<Brandon Toner.md>)
-
             - First seed convention/graph
             - Domains in RC
                 - Conversation
@@ -109,12 +129,25 @@
                     - The most concise form of an idea
                     - Not redundant — synthesized, concise
                 - Fleeting notes can be redundant 
+            - ---
+            - Follow on from above...
+                - 
+        - Working on the overview section for the [Roaman Agora](<Roaman Agora.md>)
+            - # Mission Statement
+                Technically the agora was invented in Ancient Greece, but it feels surprisingly at home in modern Roam.
+                Just as the agora was at the center of public life in Greece, our hope for **The Roaman Agora** is for it to be a meeting place for roam cult. A forum for us to meet and discuss ideas, all while leveraging the power of a multiplayer graph. [*](((kDLzIzdBc)))
+                Over time, the intention is to build a dependency graph charting the exchange of ideas and influence through collaboration and conversation. The inti
+            - # Building on the work of [Roam Collective](<Roam Collective.md>)
+                - 
+            - # Goals for this Graph
     - [Conversation](<Conversation.md>)
         - Discussions
             - [re](((A5lIDpmnY))): [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) just added you as an editor. [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+            - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `[I](<I.md>)` block they're nested under, which feels appropriate. 
+    - [Bookmarks](<Bookmarks.md>)
+        - "#[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo)))"
     - #[Change Log](<Change Log.md>)
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme

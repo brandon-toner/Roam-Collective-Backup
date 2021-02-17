@@ -14,7 +14,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
         - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -245,7 +245,7 @@
     - [Scratchpad](<Scratchpad.md>)
         - "[x] Review mentions & work of the last few days"
         - "[ ] Review notes on the Roaman Agora"
-            - "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
+            - "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
         - "[x] Review Bookmarks & Saved Items"
         - [Annotations](<Annotations.md>) on [Book/The Art of Doing Science & Engineering](<Book/The Art of Doing Science & Engineering.md>)
             - 19: **It has rarely proved practical to produce exactly the same product by machines as we produced by hand.**
