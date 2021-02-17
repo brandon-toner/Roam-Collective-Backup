@@ -18,6 +18,9 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - These are rich places to look for the development of [evergreen notes](<evergreen notes.md>).
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)
 

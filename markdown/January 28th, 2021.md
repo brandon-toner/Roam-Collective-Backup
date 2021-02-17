@@ -76,7 +76,7 @@
                     - Engagement on ideas
                     - Participation in meaningful work
                     - Friendship
-                - What if [[communities]] like [[Ship 30 for 30]] had a [[collaborative graph]] community? 
+                - What if [[communities]] like [[Ship 30 for 30]] had a [collaborative graph]([[collaborative graphs]]) community? 
             - Similar to [[Clubhouse]], it would be cool if there were external notifications for "Brandon is currently writing in [[Roam-Collective]]. #Vision #I #Extensions
                 - #[[Q]] How do I tag development ideas? 
             - "Goals:: ((See block references for additional ideas.))"
@@ -132,7 +132,7 @@
         - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
             - Ok... maybe not "__better__" but different and complimentary!
             - Related:: 
-                - "#[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. "
+                - "#[[Fleeting Notes]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. "
                 - Learning through observation and participation. Active learning.
         - #I [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Promptstorming 

@@ -62,7 +62,7 @@
             - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [block-level tags](<block-level tags.md>). 
                 - #[Fleeting Notes](<Fleeting Notes.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
                     - [Roam](<Roam.md>), in combination with the [conventions](<conventions.md>) set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
-        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) transcends "The Now". 
+        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) transcends "The Now". 
         - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]])
             - **[Diagram](<Diagram.md>):**
                 - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
@@ -73,14 +73,13 @@
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
-        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About [[Roam-Collective](<About [[Roam-Collective.md>)]]), but I bet I'd re-write it differently now haha
+        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>)), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
         3. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
-        4. 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - "[Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.

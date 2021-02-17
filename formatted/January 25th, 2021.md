@@ -39,7 +39,7 @@
             2. Processes added
                 - [Feedback](<Feedback.md>)
             3. Added directory
-            4. Added [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
+            4. Added [About Roam Collective](<About Roam Collective.md>)
             5. Added [Conventions](<Conventions.md>)
             6. Added [Change Log](<Change Log.md>)
             7. Added [roam/css](<roam/css.md>)
@@ -80,7 +80,7 @@
             17. [x] Add some project-management and task-based SmartBlocks
     - [Scratchpad](<Scratchpad.md>)
         - "Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
-        - Thoughts about [Roam Collective]([About [[Roam-Collective](<About [[Roam-Collective.md>)]])
+        - Thoughts about [Roam Collective]([About Roam Collective](<About Roam Collective.md>))
             - **["Mission](<"Mission.md>):** ((See block references for additional ideas.))"
                 - To define an approach for effective collaboration in Roam.
             - **["Vision](<"Vision.md>):** ((See block references for additional ideas.))"
@@ -157,8 +157,8 @@
             - [Charles Farr](<Charles Farr.md>)
                 - Seeding graphs
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        1. #[Fleeting Notes](<Fleeting Notes.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph](<collaborative graph.md>). Non-intrusive commentary — the original context is preserved.
-        2. #[Fleeting Notes](<Fleeting Notes.md>) Strong conventions within a [collaborative graph](<collaborative graph.md>) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
+        1. #[Fleeting Notes](<Fleeting Notes.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). Non-intrusive commentary — the original context is preserved.
+        2. #[Fleeting Notes](<Fleeting Notes.md>) Strong conventions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
         3. #[Fleeting Notes](<Fleeting Notes.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
         4. #[Questions](<Questions.md>) How can we prevent a collaborative graph from feeling overwhelming?
             - Maybe through strong onboarding? Clubhouse calls to address questions? Encouraging the use of the `[Questions](<Questions.md>)` to create dialogue about conventions.
@@ -199,7 +199,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - [Chat](<Chat.md>)
         - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): "Block ref the sections to add your ideas around mission, vision, purpose, goals, etc."
             - Feels like a good way to converge ideas on something. 
-            - Note the use of the (()) symbol on [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
+            - Note the use of the (()) symbol on [About Roam Collective](<About Roam Collective.md>)
         - [~](<~.md>)[Charles Farr](<Charles Farr.md>) — Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>) as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [Roam Book Club](<Roam Book Club.md>) and other communities. 
             - My thoughts on process: [Processes](<Processes.md>)
                 - Use block references to the table of contents to gather ideas on the content of each section
@@ -295,7 +295,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
         - The one thing that will be important to master is [conventions](<conventions.md>) because I use Roam in a specific way in my personal graph but there needs to be more structure and order in this kind of space so that there isn't a ton of noise
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>)
 
 ## [Announcements](<Announcements.md>)

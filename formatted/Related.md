@@ -13,7 +13,7 @@
 ## [@](<@.md>)
 - **[Related](<Related.md>):**
 
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):**
 
@@ -61,6 +61,10 @@
 
 - creating relationships between blocks
                     - **[Related](<Related.md>):**
+
+## [February 17th, 2021](<February 17th, 2021.md>)
+- Meta
+                - **[Related](<Related.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
@@ -408,10 +412,6 @@
 - **[Related](<Related.md>):**
 
 ## [project management](<project management.md>)
-- **[Related](<Related.md>):**
-
-## [roam/css](<roam/css.md>)
-- ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)` tag within your [DNP Section](<DNP Section.md>)
 - **[Related](<Related.md>):**
 
 ## [roam/templates](<roam/templates.md>)

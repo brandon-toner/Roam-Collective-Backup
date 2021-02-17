@@ -2,7 +2,8 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
+        - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
@@ -67,17 +68,77 @@
                             - Illustrations of ideas in the Roam community.
                         - Primary: dependency; multiple graphs
                         - Secondary: illustrating ideas of Roam
-        - [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?
+        - [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?[*](((9qyHdNpnR)))
             - [Obs](<Obs.md>) The color strategy in the CSS is nice. 
+                - I like how it is tied to the color naming. 
+                - [I](<I.md>) Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - I like the green for conversations.
             - [Obs](<Obs.md>) The simplicity of the DNP is nice.
+                - **[Image](<Image.md>):**
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FRvEcV79NeG.png?alt=media&token=2e8b3cc9-a4ab-43fb-94b5-8664ba8020aa)
             - [Obs](<Obs.md>) The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
                 - **[Image](<Image.md>):**
-                    - 
-            - [Obs](<Obs.md>) overview shortcuts are well laid out.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F8jg9ysJA8Y.png?alt=media&token=510a3bc9-48b7-46a7-917a-20134622b0db)
+                - I like the narrative layout and completeness of the writeup. 
+                - [ ] Draft and improvement to [About Roam Collective](<About Roam Collective.md>)
+            - [Obs](<Obs.md>) Overview shortcuts are well laid out.
                 - **[Image](<Image.md>):**
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDBGxryky3R.png?alt=media&token=601bd393-7cef-4002-9d86-50a7e5e8c11c)
+        - Questions for [@George]([@[[George Silverman](<@[[George Silverman.md>)]])
+            - [Q](<Q.md>) What is [easification](<easification.md>)?
+            - [Q](<Q.md>) How does [easification](<easification.md>) [compare & contrast](<compare & contrast.md>) with [simplification](<simplification.md>)?
+            - [Q](<Q.md>) What is objectivist [epistemology](<epistemology.md>)?
+        - [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
+            - Meta
+                - **[Related](<Related.md>):** [[[E:](<[[E:.md>) prepositional linkages]]
+                - **[Disclaimer](<Disclaimer.md>):** This is going to look/feel excessive — but I am attempting to map the full model in order to be [collectively exhaustive](<collectively exhaustive.md>). Some of these will be able to be inferred or implied based on context. 
+                    - #[Fleeting Notes](<Fleeting Notes.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
+                - [I](<I.md>) The study of [grammar](<grammar.md>) may prove a valuable resource for the discovery of potential block-level tags and annotations.
+                - [Resources](<Resources.md>)
+                    - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [structure](<structure.md>) here.
+                    - "[I](<I.md>) The study of [grammar](<grammar.md>) may prove a valuable resource for the discovery of potential block-level tags and annotations."
+                        - [I](<I.md>) Academic writing centers from universities might have some good resources for this. 
+                            - E.g. how to write a paper / the breakdown of sentences and linking phrases.
+            - Questions
+                - [Q](<Q.md>) What types of questions might exist in an article/piece of literature?
+                    - Questions that drive the narrative and the claim of logic. 
+                        - AKA Questions that help to guide the reader th
+            - Statement
+                - [Q](<Q.md>) What are the types of statements that might exist in an article/piece of literature?
+                    - Assertion/claim
+                        - [I](<I.md>) [assertions](<assertions.md>)/[claims](<claims.md>) could be represented at the block-level with `[C](<C.md>)`
+                            - [Q](<Q.md>) How does this differ from [fleeting notes](<fleeting notes.md>), if at all?
+                    - Counter points
+                        - [I](<I.md>) [counter points](<counter points.md>) could be represented at the block-level with `[CP](<CP.md>)`
+            - Example
+                - [I](<I.md>) [examples](<examples.md>) could be represented at the block-level with `[Ex](<Ex.md>)`
+            - Evidence
+            - Decisions
+            - Rationale/Reason/Justification
+            - Prediction
+        - #[Fleeting Notes](<Fleeting Notes.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
+            - [therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+                - #[Fleeting Notes](<Fleeting Notes.md>) the use [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) 
+                - [Obs](<Obs.md>) [statement chains](<statement chains.md>) feels off, because lines of [logic](<logic.md>) involve more than [statements](<statements.md>). 
+        - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
+            - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+                - I really want to be able to link an evergreen note, and them to turn green due to the collapsing namespaces. (the color feels like another **tier** of link)
+                - Burying the page names in an alias is kinda annoying.
+        - [Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?
+            - You can't, really. And that's ok.
+                - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative graphs](<collaborative graphs.md>) are [chaotic](<chaotic.md>).
+            - [Q](<Q.md>) What information is important to [catch-up](<catch-up.md>) on?
+                - Epics
+                - Sprints
+                - Changelog
+                - Main Feed
+        - #[Literature Notes](<Literature Notes.md>) Every [language](<language.md>) has its [vocabulary](<vocabulary.md>) and [grammar](<grammar.md>).
+            - **[Source](<Source.md>):** https://catominor3.medium.com/roam-with-style-8a18c216d338
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))[*]([Week-07: 02-15-2021](<Week-07: 02-15-2021.md>))
+        - [ ] Update color layout in roam/css.
+            - Emulate Roaman Agora layout.
+            - Default [tag backgrounds](((OyHWMqBxC))).
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
@@ -89,3 +150,16 @@
             - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
+    - #[Scratchpad](<Scratchpad.md>) 
+        - Brandon on behalf of Peter. [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
+                - **[URL](<URL.md>):** https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - ---

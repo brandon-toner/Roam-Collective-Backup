@@ -8,7 +8,7 @@
     - If you are interested in contributing to the initiative, request edit access by messaging [Brandon Toner](<Brandon Toner.md>) on Slack or Twitter with the email you use for Roam.
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>)
 
 ## [Announcements](<Announcements.md>)

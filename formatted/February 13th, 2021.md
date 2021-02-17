@@ -211,7 +211,7 @@
             - See: "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
         - {{[drawing](<drawing.md>)}}
@@ -225,7 +225,7 @@
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

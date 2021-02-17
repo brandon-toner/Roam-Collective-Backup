@@ -9,10 +9,13 @@
                 - **[Image](<Image.md>):**
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
+- [Obs](<Obs.md>) The simplicity of the DNP is nice.
+                - **[Image](<Image.md>):**
+
 - [Obs](<Obs.md>) The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
                 - **[Image](<Image.md>):**
 
-- [Obs](<Obs.md>) overview shortcuts are well laid out.
+- [Obs](<Obs.md>) Overview shortcuts are well laid out.
                 - **[Image](<Image.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

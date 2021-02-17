@@ -4,7 +4,7 @@
     - [to_populate](<to_populate.md>)
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
 ## [Announcements](<Announcements.md>)
@@ -31,7 +31,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - This EXACT block was written during the first session in [[[Roam Book Club](<[[Roam Book Club.md>) II]] and describes the [mission](<mission.md>) of this graph well. The product is the [Roam Collaboration Guide](<Roam Collaboration Guide.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))

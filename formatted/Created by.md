@@ -13,7 +13,7 @@
 - **[Tags](<Tags.md>):** [Templates](<Templates.md>) [SmartBlocks](<SmartBlocks.md>)
 - **[Created by](<Created by.md>):**
 
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - **[Created by](<Created by.md>):**
 
 ## [Brandon Toner](<Brandon Toner.md>)

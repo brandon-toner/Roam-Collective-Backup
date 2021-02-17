@@ -2,7 +2,8 @@
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
@@ -67,17 +68,77 @@
                             - Illustrations of ideas in the Roam community.
                         - Primary: dependency; multiple graphs
                         - Secondary: illustrating ideas of Roam
-        - #Q What do I like about the design of the [[Roaman Agora]]?
+        - #Q What do I like about the design of the [[Roaman Agora]]?[*](((9qyHdNpnR)))
             - #Obs The color strategy in the CSS is nice. 
+                - I like how it is tied to the color naming. 
+                - #I Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([[@[[Charles Farr]]]])
+                - I like the green for conversations.
             - #Obs The simplicity of the DNP is nice.
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FRvEcV79NeG.png?alt=media&token=2e8b3cc9-a4ab-43fb-94b5-8664ba8020aa)
             - #Obs The "[Agora Overview](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)" is really nice.
                 - Image::
-                    - 
-            - #Obs overview shortcuts are well laid out.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F8jg9ysJA8Y.png?alt=media&token=510a3bc9-48b7-46a7-917a-20134622b0db)
+                - I like the narrative layout and completeness of the writeup. 
+                - {{[[TODO]]}} Draft and improvement to [[About Roam Collective]]
+            - #Obs Overview shortcuts are well laid out.
                 - Image::
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDBGxryky3R.png?alt=media&token=601bd393-7cef-4002-9d86-50a7e5e8c11c)
+        - Questions for [@George]([[@[[George Silverman]]]])
+            - #Q What is [[easification]]?
+            - #Q How does [[easification]] [[compare & contrast]] with [[simplification]]?
+            - #Q What is objectivist [[epistemology]]?
+        - {{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]
+            - Meta
+                - Related:: [[[[E:]] prepositional linkages]]
+                - Disclaimer:: This is going to look/feel excessive — but I am attempting to map the full model in order to be [[collectively exhaustive]]. Some of these will be able to be inferred or implied based on context. 
+                    - #[[Fleeting Notes]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
+                - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
+                - #Resources
+                    - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [[structure]] here.
+                    - "#I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations."
+                        - #I Academic writing centers from universities might have some good resources for this. 
+                            - E.g. how to write a paper / the breakdown of sentences and linking phrases.
+            - Questions
+                - #Q What types of questions might exist in an article/piece of literature?
+                    - Questions that drive the narrative and the claim of logic. 
+                        - AKA Questions that help to guide the reader th
+            - Statement
+                - #Q What are the types of statements that might exist in an article/piece of literature?
+                    - Assertion/claim
+                        - #I [[assertions]]/[[claims]] could be represented at the block-level with `#C`
+                            - #Q How does this differ from [[fleeting notes]], if at all?
+                    - Counter points
+                        - #I [[counter points]] could be represented at the block-level with `#CP`
+            - Example
+                - #I [[examples]] could be represented at the block-level with `#Ex`
+            - Evidence
+            - Decisions
+            - Rationale/Reason/Justification
+            - Prediction
+        - #[[Fleeting Notes]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
+            - [[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+                - #[[Fleeting Notes]] the use [prepositional linkages]([[[[E:]] prepositional linkages]]) 
+                - #Obs [[statement chains]] feels off, because lines of [[logic]] involve more than [[statements]]. 
+        - #Q What are the benefits of nested-page [[namespaces]]?
+            - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                - I really want to be able to link an evergreen note, and them to turn green due to the collapsing namespaces. (the color feels like another **tier** of link)
+                - Burying the page names in an alias is kinda annoying.
+        - #Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?
+            - You can't, really. And that's ok.
+                - #[[Fleeting Notes]] [[collaborative graphs]] are [[chaotic]].
+            - #Q What information is important to [[catch-up]] on?
+                - Epics
+                - Sprints
+                - Changelog
+                - Main Feed
+        - #[[Literature Notes]] Every [[language]] has its [[vocabulary]] and [[grammar]].
+            - Source:: https://catominor3.medium.com/roam-with-style-8a18c216d338
     - #[[GTD Zone]]
         - {{[[TODO]]}} Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [[onboarding]]. [*]([[Brandon Toner]])[*]([[Week-07: 02-15-2021]])
+        - {{[[TODO]]}} Update color layout in roam/css.
+            - Emulate Roaman Agora layout.
+            - Default [tag backgrounds](((OyHWMqBxC))).
     - #Bookmarks #not-populated
     - #Conversation #not-populated
     - #[[Change Log]] #not-populated
@@ -89,3 +150,16 @@
             - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
     - #Bookmarks #not-populated
 - ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
+    - #[[Scratchpad]] 
+        - Brandon on behalf of Peter. [cc:Charles]([[@[[Charles Farr]]]])
+            - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
+                - URL:: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]]
+    - #[[The Zettelkasten]]
+    - #Conversation #not-populated
+    - ---

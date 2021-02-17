@@ -110,7 +110,7 @@
 - [Change Log](<Change Log.md>)
 
 ## [roam/css](<roam/css.md>)
-- ## Please document any changes to the CSS under a `#[Change Log](<Change Log.md>)`
+2. Add note under a #[Change Log](<Change Log.md>)
 
 - #[Change Log](<Change Log.md>)
 

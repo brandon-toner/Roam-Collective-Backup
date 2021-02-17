@@ -53,8 +53,8 @@
         - #Observations
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
                 - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
-                    - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants.
-                        - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [[collaborative graph]] to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+                    - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants.
+                        - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
         - #[[Development Requests]] #[[Help Wanted]]
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
@@ -293,7 +293,7 @@
             - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
                 - Interested in your thoughts on the use of the Choice Algorithm
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
-                    - Similar convention for within [[About [[Roam-Collective]]]]
+                    - Similar convention for within [[About Roam Collective]]
         2. #[[Graph Mentorship]]
             - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[[E:]] Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
@@ -317,7 +317,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                             - goals
                 - Related:: [[[[E:]] Have a clear aim]]
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
-                - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About [[Roam-Collective]]]]. Thanks! 
+                - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About Roam Collective]]. Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 

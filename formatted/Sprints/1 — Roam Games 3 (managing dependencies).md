@@ -92,6 +92,9 @@
 
 - [@Charles]([~[[Charles Farr](<../~[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 

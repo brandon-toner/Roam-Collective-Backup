@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [structure](<structure.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) the [components](<components.md>) and [structure](<structure.md>)
 

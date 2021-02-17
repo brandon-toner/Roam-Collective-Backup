@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 17th, 2021](<February 17th, 2021.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
+
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - Once a base of ideas has been establish, and a clear [narrative]([narratives](<narratives.md>))
 

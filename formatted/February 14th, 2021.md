@@ -76,7 +76,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
         2. Added some "Next Steps" on the current sprint.
         3. "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC."
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
     - #[Scratchpad](<Scratchpad.md>) 
         - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
@@ -101,7 +101,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [cc:C]([~[[Charles Farr](<~[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone](@[Peter Rosso](<Peter Rosso.md>)]][@[[Everyone](<@[[Everyone.md>)]][@[[Charles Farr](<@[[Charles Farr.md>)]][~[[Brandon Toner](<~[[Brandon Toner.md>)]][@[[leekeifon](<@[[leekeifon.md>)]][[@[[Larissa de Lima)
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone]([@[[Peter Rosso](<@[[Peter Rosso.md>)]][@[[Everyone](<@[[Everyone.md>)]][@[[Charles Farr](<@[[Charles Farr.md>)]][~[[Brandon Toner](<~[[Brandon Toner.md>)]][@[[leekeifon](<@[[leekeifon.md>)]][@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])
 `[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[@[[Brandon Toner](<@[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@C]([^[[Charles Farr](<^[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 

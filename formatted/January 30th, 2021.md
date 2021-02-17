@@ -235,7 +235,7 @@
             - Excellent experience so far (but I'm familiar with the specs and style guides)
             - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
                 - #[Fleeting Notes](<Fleeting Notes.md>) [writing](<writing.md>) for other people helps to facilitate [clarity](<clarity.md>), and therefore enhanced [understanding](<understanding.md>).
-                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) facilitates shared [understanding](<understanding.md>) through its requirements for explicit explanation and enhanced [clarity](<clarity.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) facilitates shared [understanding](<understanding.md>) through its requirements for explicit explanation and enhanced [clarity](<clarity.md>).
                     - #[Fleeting Notes](<Fleeting Notes.md>) It is easier to tolerate vague [writing](<writing.md>) within a [private graph](<private graph.md>).
                     - #[Fleeting Notes](<Fleeting Notes.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>). [zettelkasten](<zettelkasten.md>) [Tips](<Tips.md>)
         - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"

@@ -75,12 +75,12 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[[Fleeting Notes]] #tensions could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. #collaboration
         - #[[Fleeting Notes]] Adding the `#Chat` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [[commentary]] on.
         - #[[Fleeting Notes]] The [[DNP Modules]] tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) #convergence
-        - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [[collaborative graph]].
+        - #[[Fleeting Notes]] A modular tag system helps to maintain order in a [collaborative graph]([[collaborative graphs]]).
             - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
-        - #[[Fleeting Notes]] Setting the [[conventions]] in a [[collaborative graph]] is both critical and difficult.
-            - #[[Q]] Should community [[conventions]] be seeded or emergent within a [[collaborative graph]] community? 
+        - #[[Fleeting Notes]] Setting the [[conventions]] in a [collaborative graph]([[collaborative graphs]]) is both critical and difficult.
+            - #[[Q]] Should community [[conventions]] be seeded or emergent within a [collaborative graph]([[collaborative graphs]]) community? 
             - #[[Q]] What [[conventions]] are helpful to [[converge]] group thinking towards intentional outputs? #convergence
-        - #[[Fleeting Notes]] A [[collaborative graph]] is an excellent [[learning]] arena for a newer [[Roam user]]. 
+        - #[[Fleeting Notes]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. 
             - Learning through observation.
             - #[[Fleeting Notes]] Watching others use [[Roam]] affects your own writing habits and [[conventions]].
                 - Shared graphs allow you to LEARN from the way others structure their thoughts
@@ -89,11 +89,11 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - This EXACT block was written during the first session in [[[[Roam Book Club]] II]] and describes the [[mission]] of this graph well. The product is the [[Roam Collaboration Guide]]. 
         - #[[Fleeting Notes]] [[alignment]] with community [[conventions]] is key to [[leveraging]] the scale of community and unlocking the power of the [[collective intelligence]]
         - #Quotes [[collective intelligence]] > [[artificial intelligence]] - [[Conor White-Sullivan]]
-        - #[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [[collaborative graph]]. 
+        - #[[Fleeting Notes]] Purpose, Mission, Vision, and Goals are important in a [collaborative graph]([[collaborative graphs]]). 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([[conventions]]) that bias towards the achievement of those goals.
-        - #[[Fleeting Notes]] Clear processes are important within a [[collaborative graph]] to maintain clarity and [[order]].
-        - #[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [[collaborative graph]] #chat
+        - #[[Fleeting Notes]] Clear processes are important within a [collaborative graph]([[collaborative graphs]]) to maintain clarity and [[order]].
+        - #[[Fleeting Notes]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [collaborative graph]([[collaborative graphs]]) #chat
         - #Scratchpad #zettelkasten
             - [[zettelkasten]] #Processes #Overview
                 - Fleeting Notes **-[contribute to]>** Creative Projects
@@ -102,7 +102,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Literature Notes **-[contribute to]>** Evergreen Notes
             - Purpose:
                 - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
-                    - #[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [[collaborative graph]].
+                    - #[[Fleeting Notes]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [collaborative graph]([[collaborative graphs]]).
             - Process:
                 - Capture assertions as [[fleeting notes]] (atomic ideas, succinct)
                 - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
@@ -114,7 +114,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 -  #Chat
                     - [[^[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
         - #[[Fleeting Notes]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
-        - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [multiplayer graph]([[collaborative graph]]). #[[Roam Collaboration Guide]]
+        - #[[Fleeting Notes]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [collaborative graph]([[collaborative graphs]]). #[[Roam Collaboration Guide]]
             - Block reference the FN into your Comments module, then nest comments underneath.
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]

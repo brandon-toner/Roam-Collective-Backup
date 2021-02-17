@@ -11,6 +11,11 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [namespaces](<namespaces.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
+
+- "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>)
 

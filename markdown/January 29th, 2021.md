@@ -87,9 +87,9 @@ Thoughts? - [[Brandon Toner]]
                         - My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
                 - #[[Fleeting Notes]] many interpretations of [[zettelkasten]] are too strict and rigid. 
                     - [[Andy's Notes]] serve as a great example of a system that has clear standards and conventions, but will consciously [colour outside the lines]([[It is ok to colour outside of the lines.]]) when it [makes sense](((HuYfatW7v))).
-                - #[[Fleeting Notes]] [[block references]] are a way to [[crowd-source]] contributions within a [[collaborative graph]]. #zettelkasten #Bookmarks #Seedlings
+                - #[[Fleeting Notes]] [[block references]] are a way to [[crowd-source]] contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings
                     - This allows groups of people to organize and work together to collectively create a unified product. 
-                    - #[[Fleeting Notes]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [[collaborative graph]]. #zettelkasten
+                    - #[[Fleeting Notes]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten
                         - This allows an [[editor]] to [[[[E:]] Start from abundance]]. 
                         - Process:: #creativity #collaboration #[[creative projects]]
                             1. Set [creative project]([[creative projects]]).

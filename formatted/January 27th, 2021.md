@@ -75,12 +75,12 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Fleeting Notes](<Fleeting Notes.md>) [tensions](<tensions.md>) could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. [collaboration](<collaboration.md>)
         - #[Fleeting Notes](<Fleeting Notes.md>) Adding the `[Chat](<Chat.md>)` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [commentary](<commentary.md>) on.
         - #[Fleeting Notes](<Fleeting Notes.md>) The [DNP Modules](<DNP Modules.md>) tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) [convergence](<convergence.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph](<collaborative graph.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) A modular tag system helps to maintain order in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)).
             - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>) to make use of. 
-        - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph](<collaborative graph.md>) is both critical and difficult.
-            - #[Q](<Q.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph](<collaborative graph.md>) community? 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Setting the [conventions](<conventions.md>) in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) is both critical and difficult.
+            - #[Q](<Q.md>) Should community [conventions](<conventions.md>) be seeded or emergent within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) community? 
             - #[Q](<Q.md>) What [conventions](<conventions.md>) are helpful to [converge](<converge.md>) group thinking towards intentional outputs? [convergence](<convergence.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). 
+        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). 
             - Learning through observation.
             - #[Fleeting Notes](<Fleeting Notes.md>) Watching others use [Roam](<Roam.md>) affects your own writing habits and [conventions](<conventions.md>).
                 - Shared graphs allow you to LEARN from the way others structure their thoughts
@@ -89,11 +89,11 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - This EXACT block was written during the first session in [[[Roam Book Club](<[[Roam Book Club.md>) II]] and describes the [mission](<mission.md>) of this graph well. The product is the [Roam Collaboration Guide](<Roam Collaboration Guide.md>). 
         - #[Fleeting Notes](<Fleeting Notes.md>) [alignment](<alignment.md>) with community [conventions](<conventions.md>) is key to [leveraging](<leveraging.md>) the scale of community and unlocking the power of the [collective intelligence](<collective intelligence.md>)
         - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor White-Sullivan](<Conor White-Sullivan.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph](<collaborative graph.md>). 
+        - #[Fleeting Notes](<Fleeting Notes.md>) Purpose, Mission, Vision, and Goals are important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([conventions](<conventions.md>)) that bias towards the achievement of those goals.
-        - #[Fleeting Notes](<Fleeting Notes.md>) Clear processes are important within a [collaborative graph](<collaborative graph.md>) to maintain clarity and [order](<order.md>).
-        - #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>) for unread notifications is important for any system of communication in a [collaborative graph](<collaborative graph.md>) [chat](<chat.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) Clear processes are important within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to maintain clarity and [order](<order.md>).
+        - #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>) for unread notifications is important for any system of communication in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) [chat](<chat.md>)
         - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
             - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
                 - Fleeting Notes **-[contribute to]>** Creative Projects
@@ -102,7 +102,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Literature Notes **-[contribute to]>** Evergreen Notes
             - Purpose:
                 - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph](<collaborative graph.md>).
+                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)).
             - Process:
                 - Capture assertions as [fleeting notes](<fleeting notes.md>) (atomic ideas, succinct)
                 - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
@@ -114,7 +114,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 -  [Chat](<Chat.md>)
                     - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
         - #[Fleeting Notes](<Fleeting Notes.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [multiplayer graph]([collaborative graph](<collaborative graph.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
             - Block reference the FN into your Comments module, then nest comments underneath.
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]

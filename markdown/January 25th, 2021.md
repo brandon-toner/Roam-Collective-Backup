@@ -39,7 +39,7 @@
             2. Processes added
                 - [[Feedback]]
             3. Added directory
-            4. Added [[About [[Roam-Collective]]]]
+            4. Added [[About Roam Collective]]
             5. Added [[Conventions]]
             6. Added [[Change Log]]
             7. Added [[roam/css]]
@@ -80,7 +80,7 @@
             17. {{[[DONE]]}} Add some project-management and task-based SmartBlocks
     - #Scratchpad
         - "Description of the [[DNP Modules]] ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
-        - Thoughts about [Roam Collective]([[About [[Roam-Collective]]]])
+        - Thoughts about [Roam Collective]([[About Roam Collective]])
             - "Mission:: ((See block references for additional ideas.))"
                 - To define an approach for effective collaboration in Roam.
             - "Vision:: ((See block references for additional ideas.))"
@@ -157,8 +157,8 @@
             - [[Charles Farr]]
                 - Seeding graphs
     - #[[The Zettelkasten]]
-        1. #[[Fleeting Notes]] [Block references]([[block references]]) are key within a [[collaborative graph]]. Non-intrusive commentary — the original context is preserved.
-        2. #[[Fleeting Notes]] Strong conventions within a [[collaborative graph]] help to maintain [[order]] and mitigate [[chaos]].
+        1. #[[Fleeting Notes]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.
+        2. #[[Fleeting Notes]] Strong conventions within a [collaborative graph]([[collaborative graphs]]) help to maintain [[order]] and mitigate [[chaos]].
         3. #[[Fleeting Notes]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
         4. #[[Questions]] How can we prevent a collaborative graph from feeling overwhelming?
             - Maybe through strong onboarding? Clubhouse calls to address questions? Encouraging the use of the `#Questions` to create dialogue about conventions.
@@ -199,7 +199,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #Chat
         - Thoughts on this? [[~]][[Charles Farr]], [[Everyone]]: "Block ref the sections to add your ideas around mission, vision, purpose, goals, etc."
             - Feels like a good way to converge ideas on something. 
-            - Note the use of the (()) symbol on [[About [[Roam-Collective]]]]
+            - Note the use of the (()) symbol on [[About Roam Collective]]
         - [[~]][[Charles Farr]] — Added [[Roam Collaboration Guide]] as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [[Roam Book Club]] and other communities. 
             - My thoughts on process: #Processes
                 - Use block references to the table of contents to gather ideas on the content of each section

@@ -149,7 +149,7 @@
     - **[Contents](<Contents.md>):**
 
 ## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+- however
     - **[Contents](<Contents.md>):**
 
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
@@ -179,8 +179,4 @@
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
-
-## [roam/css](<roam/css.md>)
-- [Queries](((KOuJf-Smr)))
-- **[Contents](<Contents.md>):**
 

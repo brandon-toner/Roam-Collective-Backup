@@ -20,3 +20,34 @@
     	[?e :node/title ?project]
 		[(re-matches #"(?i)\b.*(Projects/).*" ?project)]	  
 	]
+
+# Backlinks
+## [February 16th, 2021](<February 16th, 2021.md>)
+2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>))
+
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [ ] Draft and improvement to [About Roam Collective](<About Roam Collective.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About Roam Collective](<About Roam Collective.md>))
+
+- [ ] Review our meta-structure in [About Roam Collective](<About Roam Collective.md>)
+
+## [January 25th, 2021](<January 25th, 2021.md>)
+4. Added [About Roam Collective](<About Roam Collective.md>)
+
+- Thoughts about [Roam Collective]([About Roam Collective](<About Roam Collective.md>))
+
+- Note the use of the (()) symbol on [About Roam Collective](<About Roam Collective.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Similar convention for within [About Roam Collective](<About Roam Collective.md>)
+
+- I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About Roam Collective](<About Roam Collective.md>).
+
+## [Quick Start Guide](<Quick Start Guide.md>)
+5. Learn more about the purpose and objectives of Roam Collective [here]([About Roam Collective](<About Roam Collective.md>))
+
+## [Roam-Collective](<Roam-Collective.md>)
+- **[Related](<Related.md>):** [About Roam Collective](<About Roam Collective.md>)
+

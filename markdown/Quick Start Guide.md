@@ -8,7 +8,7 @@
             - [[Mark Robertson]]
     3. Join the `#Roam-Collective` channel on [[Roam Slack]]
     4. Review the [conventions]([[Conventions]])
-    5. Learn more about the purpose and objectives of Roam Collective [here]([[About [[Roam-Collective]]]])
+    5. Learn more about the purpose and objectives of Roam Collective [here]([[About Roam Collective]])
     6. Build your DNP Section using the universal [template](((qONZuXh3Y))). 
     7. Use the [[Daily Log]] to sign-in
     8. Answer the [[Daily Activities]] or something from the [[Prompts]] library.

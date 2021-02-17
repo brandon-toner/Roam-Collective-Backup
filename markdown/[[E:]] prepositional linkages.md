@@ -7,6 +7,12 @@
         - [[Mark Robertson]]'s array of connecting phrases in his graph #find-reference
     - Relevant Notes::  ((Not a reference, but a related idea, block or page))
     - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - **Library:**
+        - supports/supported by
+        - therefore
+        - moreover
+        - in addition
+        - however
     - Contents:: 
         - The connections between claims made explicit with page titles within a [[zettelkasten]] or [[knowledge base]].
         - Prepositional linkages are used to clarify **the nature of** the relationships between claims.

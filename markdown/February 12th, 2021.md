@@ -205,7 +205,7 @@
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `#A` tag as an option for response to a `#Q` block.[*](((IB0MarB0y)))
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - #Inbox #not-populated
         - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
         - see camera for type of links in roam
@@ -329,10 +329,10 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
         - "Thoughts:: [[[[E:]] prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+            - "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 

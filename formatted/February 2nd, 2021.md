@@ -388,7 +388,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
             - "External Links [Status](<Status.md>)/Enabled"
         - Added color scheme setting
-            - "Colors"
+            - Colors
             - Note: Did not update any existing css code to utilize the `var()` best practice
                 - [ ] Standardize color scheme #[February 2021](<February 2021.md>)
                     - "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"

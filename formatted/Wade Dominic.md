@@ -1,4 +1,4 @@
-- {{or:🟢Online | 🚫 offline | 🟠Away}}
+- {{or:🚫 offline | 🟢Online | 🟠Away}}
 - ---
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -12,7 +12,7 @@
         - **[Status](<Status.md>):**
 - **[SmartBlocks](<SmartBlocks.md>):**
     - WDominic — .DNP Templatee [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

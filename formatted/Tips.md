@@ -25,10 +25,6 @@
 ## [Quick Start Guide](<Quick Start Guide.md>)
 9. Explore the [Tips](<Tips.md>)
 
-## [roam/css](<roam/css.md>)
-- **[Related](<Related.md>):** [roam/js](<roam/js.md>)
-- **[Tips](<Tips.md>):**
-
 ## [zettelkasten](<zettelkasten.md>)
 - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
     - **[Tips](<Tips.md>):**

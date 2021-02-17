@@ -7,7 +7,7 @@
         - 5. [Block References]([block references](<block references.md>))
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>))
 
 ## [January 26th, 2021](<January 26th, 2021.md>)

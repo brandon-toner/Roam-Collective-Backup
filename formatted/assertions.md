@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [I](<I.md>) [assertions](<assertions.md>)/
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) it's easier to first collect and [map](<map.md>) known information before making new [assertions](<assertions.md>).
 

@@ -76,7 +76,7 @@
                     - Engagement on ideas
                     - Participation in meaningful work
                     - Friendship
-                - What if [communities](<communities.md>) like [Ship 30 for 30](<Ship 30 for 30.md>) had a [collaborative graph](<collaborative graph.md>) community? 
+                - What if [communities](<communities.md>) like [Ship 30 for 30](<Ship 30 for 30.md>) had a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) community? 
             - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>). [Vision](<Vision.md>) [I](<I.md>) [Extensions](<Extensions.md>)
                 - #[Q](<Q.md>) How do I tag development ideas? 
             - **["Goals](<"Goals.md>):** ((See block references for additional ideas.))"
@@ -132,7 +132,7 @@
         - #[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s
             - Ok... maybe not "__better__" but different and complimentary!
             - **[Related](<Related.md>):** 
-                - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph](<collaborative graph.md>) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
+                - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
                 - Learning through observation and participation. Active learning.
         - [I](<I.md>) [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) could be used for bringing [highlights](<highlights.md>) and page metadata into Roam & for building [reference notes](<reference notes.md>)
     - [Promptstorming](<Promptstorming.md>) 

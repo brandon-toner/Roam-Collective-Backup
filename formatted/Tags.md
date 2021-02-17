@@ -565,7 +565,7 @@
 ## [choice algorithm](<choice algorithm.md>)
 - **[Tags](<Tags.md>):**
 
-## [collaborative graph](<collaborative graph.md>)
+## [collaborative graphs](<collaborative graphs.md>)
 - **[Tags](<Tags.md>):**
 
 ## [collapsing](<collapsing.md>)

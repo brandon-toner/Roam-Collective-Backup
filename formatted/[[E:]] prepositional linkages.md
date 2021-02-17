@@ -7,6 +7,12 @@
         - [Mark Robertson](<Mark Robertson.md>)'s array of connecting phrases in his graph [find-reference](<find-reference.md>)
     - **[Relevant Notes](<Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **Library:**
+        - supports/supported by
+        - therefore
+        - moreover
+        - in addition
+        - however
     - **[Contents](<Contents.md>):** 
         - The connections between claims made explicit with page titles within a [zettelkasten](<zettelkasten.md>) or [knowledge base](<knowledge base.md>).
         - Prepositional linkages are used to clarify **the nature of** the relationships between claims.

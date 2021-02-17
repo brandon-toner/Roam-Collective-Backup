@@ -6,7 +6,7 @@
         - Time Zone:: [[CET]]
         - How to contact me::
             - Dm on twitter
-    - {{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}
+    - {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}
 - Inbox
     - **Notifications**:
         - {{[[query]]: {and:[[@[[Samuel Bars]]]] {not:[[query]]}}}}
@@ -19,7 +19,7 @@
         - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal
 - Smartblocks
     - SamB - .DNP template #42SmartBlock
-        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #[[GTD Zone]]

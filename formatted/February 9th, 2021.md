@@ -12,7 +12,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
         - Brainstorm on one of the following:
             - How graph onboarding and documentation could be improved to orient new visitors
             - A set of questions that guide our explorations. Ref: [12 Favorite Problems](<12 Favorite Problems.md>)
-            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About [[Roam-Collective](<About [[Roam-Collective.md>)]])
+            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About Roam Collective](<About Roam Collective.md>))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
@@ -96,7 +96,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                                     - I would LOVE to have the problem of having "too many" evergreen notes.  
         - [Activities](<Activities.md>) 
             - [ ] Create a draft of our "[12 Favorite Problems](<12 Favorite Problems.md>)" (A small collection of [zettel questions](<zettel questions.md>)) [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
-            - [ ] Review our meta-structure in [About [[Roam-Collective](<About [[Roam-Collective.md>)]]  #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [Agenda](<Agenda.md>)
+            - [ ] Review our meta-structure in [About Roam Collective](<About Roam Collective.md>)  #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [Agenda](<Agenda.md>)
             - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
         - [Q](<Q.md>) What are the elements of [Beau Hann](<Beau Hann.md>)'s success in coordinating a group of 2500 Roam users through [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)?
             - **Elements:**

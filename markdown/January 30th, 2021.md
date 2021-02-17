@@ -235,7 +235,7 @@
             - Excellent experience so far (but I'm familiar with the specs and style guides)
             - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
                 - #[[Fleeting Notes]] [[writing]] for other people helps to facilitate [[clarity]], and therefore enhanced [[understanding]].
-                    - #[[Fleeting Notes]] A [[collaborative graph]] facilitates shared [[understanding]] through its requirements for explicit explanation and enhanced [[clarity]].
+                    - #[[Fleeting Notes]] A [collaborative graph]([[collaborative graphs]]) facilitates shared [[understanding]] through its requirements for explicit explanation and enhanced [[clarity]].
                     - #[[Fleeting Notes]] It is easier to tolerate vague [[writing]] within a [[private graph]].
                     - #[[Fleeting Notes]] Writing [[fleeting notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
         - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"

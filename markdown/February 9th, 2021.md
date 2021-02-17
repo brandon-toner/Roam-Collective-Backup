@@ -12,7 +12,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
         - Brainstorm on one of the following:
             - How graph onboarding and documentation could be improved to orient new visitors
             - A set of questions that guide our explorations. Ref: [[12 Favorite Problems]]
-            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About [[Roam-Collective]]]])
+            - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About Roam Collective]])
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
@@ -96,7 +96,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                                     - I would LOVE to have the problem of having "too many" evergreen notes.  
         - #Activities 
             - {{[[TODO]]}} Create a draft of our "[[12 Favorite Problems]]" (A small collection of [[zettel questions]]) #Agenda #[[Week-06: 02-08-2021]]
-            - {{[[TODO]]}} Review our meta-structure in [[About [[Roam-Collective]]]]  #[[Week-06: 02-08-2021]] #Agenda
+            - {{[[TODO]]}} Review our meta-structure in [[About Roam Collective]]  #[[Week-06: 02-08-2021]] #Agenda
             - {{[[TODO]]}} Discuss Slack-to-Roam #Agenda #[[Week-06: 02-08-2021]]
         - #Q What are the elements of [[Beau Hann]]'s success in coordinating a group of 2500 Roam users through [[Books/How to Take Smart Notes]]?
             - **Elements:**

@@ -1,6 +1,6 @@
 
 # Backlinks
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - To build the [conventions](<conventions.md>) necessary to enable effective knowledge collaboration at scale.
 - **[Vision](<Vision.md>):**
 

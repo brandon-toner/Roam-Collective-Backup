@@ -205,7 +205,7 @@
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `[A](<A.md>)` tag as an option for response to a `[Q](<Q.md>)` block.[*](((IB0MarB0y)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
         - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
         - see camera for type of links in roam
@@ -329,10 +329,10 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
         - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+            - "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 

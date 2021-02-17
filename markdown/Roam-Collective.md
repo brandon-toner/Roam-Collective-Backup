@@ -1,4 +1,4 @@
-- Related:: [[About [[Roam-Collective]]]]
+- Related:: [[About Roam Collective]]
 - [[Table of Contents]]::
     - [[Welcome 😃]]
     - [[Quick Start Guide]]

@@ -9,7 +9,7 @@
 
 - {{[query](<query.md>): {and: [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] {not: [query](<query.md>)]
 
-## [About [Roam-Collective](<Roam-Collective.md>)](<About [Roam-Collective](<Roam-Collective.md>).md>)
+## [About Roam Collective](<About Roam Collective.md>)
 - [query](<query.md>)
 
 ## [Antonette Laderas](<Antonette Laderas.md>)

@@ -53,8 +53,8 @@
         - [Observations](<Observations.md>)
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
                 - #[Fleeting Notes](<Fleeting Notes.md>) the blank [DNP](<DNP.md>) and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants.
-                        - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph](<collaborative graph.md>) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+                    - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants.
+                        - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
         - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
@@ -293,7 +293,7 @@
             - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
                 - Interested in your thoughts on the use of the Choice Algorithm
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
-                    - Similar convention for within [About [[Roam-Collective](<About [[Roam-Collective.md>)]]
+                    - Similar convention for within [About Roam Collective](<About Roam Collective.md>)
         2. #[Graph Mentorship](<Graph Mentorship.md>)
             - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[E:](<[[E:.md>) Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
@@ -317,7 +317,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                             - goals
                 - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Have a clear aim]]
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
-                - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About [[Roam-Collective](<About [[Roam-Collective.md>)]]. Thanks! 
+                - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About Roam Collective](<About Roam Collective.md>). Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 

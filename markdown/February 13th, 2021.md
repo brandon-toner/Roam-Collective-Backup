@@ -211,7 +211,7 @@
             - See: "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - #Inbox #not-populated
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
         - {{[[drawing]]}}
@@ -225,7 +225,7 @@
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | 🚫 offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated

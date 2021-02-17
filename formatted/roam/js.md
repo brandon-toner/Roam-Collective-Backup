@@ -94,9 +94,6 @@ try{
 ## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - {{[roam/js](<../roam/js.md>)}
 
-## [roam/css](<roam/css.md>)
-- **[Related](<../Related.md>):** [roam/js](<../roam/js.md>)
-
 ## [roam/js](<roam/js.md>)
 - {{{[roam/js](<../roam/js.md>)}
 
