@@ -9,7 +9,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - Where are we with this?
@@ -44,7 +44,7 @@
         - #[Fleeting Notes](<Fleeting Notes.md>) aligned [collaboration](<collaboration.md>) drives [flow state](<flow state.md>) work and thinking.
         - [I](<I.md>) A roam/js extension that helps to "mirror" relationships between pages.
             - **[Example](<Example.md>):** "supports"/"supported by"
-            - bi-directional linking for [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
+            - bi-directional linking for [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
             - [Q](<Q.md>) How might this look?
         - [Q](<Q.md>) What is an [agora](<agora.md>)?
         - [Obs](<Obs.md>) We haven't used [pomodoros](<pomodoros.md>) or synchronous writing sessions yet. 
@@ -73,13 +73,12 @@
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
-        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>)), but I bet I'd re-write it differently now haha
+        2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>)), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
-        3. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - "[Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
@@ -115,7 +114,7 @@
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) re [email](((EGJodIb92)))
             - samuel.bars@outlook.fr
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - Chat with [Brandon Toner](<Brandon Toner.md>)
             - First seed convention/graph

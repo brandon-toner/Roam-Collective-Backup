@@ -14,7 +14,7 @@
         1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
@@ -23,7 +23,7 @@
             - #[[Fleeting Notes]] Start with known [[classification]] systems and adapt them to specific needs.
                 - #I Use [[Wikipedia]] to find existing [[classification]] systems.
             - #Q What [[classification]] systems, [[taxonomies]], or lists would be useful within Roam Collective?
-                - List of [prepositional linkages]([[[[E:]] prepositional linkages]])
+                - List of [prepositional linkages]([[prepositional linkages]])
             - #I I would like to begin collecting classification systems. Mostly in my personal system, but many will apply here. 
                 - This would look like a `#Classifications` tag, which serves as a parent to the `#Collections` class of tags.
                     - A [[classification]] is a set of collections that map a domain or system.
@@ -67,7 +67,7 @@
             - I briefly explored this [here](((j44mqPh6J)))
                 - I think this is the necessary next-step: taking the existing (major) Roam Games submissions and contributors and creating a network of those ideas.
                 - We could map the dependencies similar to how we document [[relevant notes]] on ENs
-                - Maybe there are some [prepositional linkages]([[[[E:]] prepositional linkages]]) that could be identified to connect the submissions
+                - Maybe there are some [prepositional linkages]([[prepositional linkages]]) that could be identified to connect the submissions
                     - Built using 
                     - Incorporating
                     - Inspired by
@@ -78,7 +78,7 @@
     - #[[Change Log]] 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - "On the foundations of [[statement chains]]..."
             - "[[Conor]] mentioned that he thinks of education as a series of [[statement chains]]"
@@ -86,7 +86,7 @@
                 - "However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain."
             - "Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently..."
                 - "#Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?"
-            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[[E:]] prepositional linkages]] & phrases"
+            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[prepositional linkages]] & phrases"
                 - Relations between two nodes
                     - "Relates to"
                         - ""in tension with""
@@ -109,7 +109,7 @@
                 - Argument structure
                     - __This requires a separate schema...__
             - "[[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
-            - "[[[[E:]] prepositional linkages]]"
+            - "[[prepositional linkages]]"
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines Continued exploration of story points [*](((my07O-J1h)))
                 - "{{[[DONE]]}} Draft & finalize Sprint template"

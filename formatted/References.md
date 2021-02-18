@@ -155,10 +155,6 @@
 - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
     - **[References](<References.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[References](<References.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Author](<Author.md>):** Adapted from Charles' block-level question.
     - **[References](<References.md>):**
@@ -185,6 +181,10 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Related](<Related.md>):** [just-in-time](<just-in-time.md>), [just-in-case](<just-in-case.md>)
+    - **[References](<References.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
 ## [spaced repetition](<spaced repetition.md>)

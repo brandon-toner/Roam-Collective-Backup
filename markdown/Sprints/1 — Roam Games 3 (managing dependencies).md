@@ -3,7 +3,7 @@
         - **Epic: **[[Epics/Managing knowledge dependencies in multiplayer]]
         - **Central question:** [[[[Q:]] How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - Date Created:: [[February 10th, 2021]]
-    - Date Range:: [[February 9th, 2021]] ^^until ?????^^
+    - Date Range:: [[February 22nd, 2021]]
     - Description:: 
         - ^^Roam Games 3^^
         - "Show how we can manage a dependency graph of ideas and influence -preferable a peer produced one using `#roamjs` and `#roaminter`" - [[Conor White-Sullivan]]

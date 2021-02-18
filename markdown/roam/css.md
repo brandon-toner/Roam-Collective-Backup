@@ -195,38 +195,6 @@
   --persimmon: #de5200ff;
   --rufous: #a41000ff;
 }```
-            - Base
-                - ```css
-:root {
-  --cl-white:			#ffffff;
-  --cl-gray-50:			#f4f5f5;
-  --cl-gray-100:		#e5e6e6;
-  --cl-gray-200: 		#dcdcdc;
-  --cl-gray-300: 		#bdbdbd;
-  --cl-gray-400: 		#99999d;
-  --cl-gray-500: 		#797a79;
-  --cl-gray-600: 		#646464;
-  --cl-gray-700: 		#454545;
-  --cl-gray-800: 		#272727;
-  --cl-gray-900:		#1a1a1a;
-  --cl-black:			#000000;
-  --cl-green-700: 		#1a8917;
-  --cl-blue-50:			#e8f2ff;
-  --cl-blue-200:		#BFDBFE;
-  --cl-yellow-200:		#FDE68A;
-  --cl-red-500: 		#fe3c30;
-  --cl-orange-500:	 	#fe9500;
-  --cl-yellow-500: 		#fecc00;
-  --cl-green-500: 		#27cd41;
-  --cl-blue-500: 		#007aff;
-  --cl-indigo-500: 		#5756d5;
-  --cl-purple-500: 		#af52de;
-  --cl-pink-500: 		#fe2e55;	
-  --cl-brown-500: 		#a2845e;
-  --cl-beige-200:		#eec170;
-  --cl-beige-500:		#c8963e;
-  --cl-beige-700:		#472515;
-}```
         - Color Settings
             - UI
                 - All Pages
@@ -1509,6 +1477,25 @@ background: #FFEFBA;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #FFEFBA, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #FFEFBA, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
+                    - Version 2
+                        - ```javascript
+/*
+span.rm-page-ref[data-tag="Fleeting Notes"]:before {
+    content: 		'';
+    font-size: 		13px;
+}
+
+span.rm-page-ref[data-tag="Fleeting Notes"]:after {
+    content: 		':';
+	font-weight:	600;
+}
+
+span.rm-page-ref[data-tag="Fleeting Notes"] {
+	color: 			var(--cl-gray-900);
+ 	padding:		var(--note-tag-padding);
+  	font-weight:	600;
+}
+*/```
                 - #[[Literature Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {
@@ -1689,6 +1676,56 @@ span.rm-page-ref[data-tag="Community Note"] {
   font-size: 12px;
   margin-right: -5px;
 }```
+                    - #Notion #Test
+                        - ```css
+span.rm-page-ref[data-tag="Notion"]:before {
+    content: 		'⛅️ ';
+    font-size: 		var(--tag-icon-font-size);
+}
+
+span.rm-page-ref[data-tag="Notion"]:after {
+    content: 		':';
+}
+
+span.rm-page-ref[data-tag="Notion"] {
+	color: 			var(--note-tag-color);
+ 	padding:		var(--note-tag-padding);
+/* 	font-weight: 	var(--note-tag-font-weight);*/
+  	font-weight:	600;
+}```
+                    - #Obs 
+                        - ```css
+span.rm-page-ref[data-tag="Obs"]:before {
+    content: 		'🔬 ';
+    font-size: 		var(--tag-icon-font-size);
+}
+
+span.rm-page-ref[data-tag="Obs"]:after {
+    content: 		':';
+}
+
+span.rm-page-ref[data-tag="Obs"] {
+	color: 			var(--note-tag-color);
+ 	padding:		var(--note-tag-padding);
+ 	font-weight: 	var(--note-tag-font-weight);
+}```
+                    - #Syn #Test
+                        - ```css
+span.rm-page-ref[data-tag="Syn"]:before {
+    content: 		'🍲 ';
+    font-size: 		var(--tag-icon-font-size);
+}
+
+span.rm-page-ref[data-tag="Syn"]:after {
+    content: 		':';
+}
+
+span.rm-page-ref[data-tag="Syn"] {
+	color: 			var(--note-tag-color);
+ 	padding:		var(--note-tag-padding);
+/* 	font-weight: 	var(--note-tag-font-weight);*/
+  	font-weight:	600;
+}```
                     - #[[Branching Notes]] [[Test]]
                         - ```css
 span.rm-page-ref[data-tag="Branching Notes"] {
@@ -1750,9 +1787,22 @@ background: #607D8B68;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #607D8B68, #607D8B68);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #607D8B68, #607D8B68); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }```
-            5. ## Areas Tags
+            5. Prepositional Linkages
+                - #therefore
+                    - ```css
+span.rm-page-ref[data-tag="therefore"]:after {
+    content: 		' →';
+}
+
+span.rm-page-ref[data-tag="therefore"] {
+	color: 			var(--cl-gray-500);
+ 	padding:		var(--note-tag-padding);
+/* 	font-weight: 	var(--note-tag-font-weight);*/
+  	font-weight:	600;
+}```
+            6. ## Areas Tags
                 - `#[[Administration]]`
-            6. ### Page & Block Type Tags
+            7. ### Page & Block Type Tags
                 - `#Articles
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -2482,7 +2532,7 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            7. # Collaboration Tags
+            8. # Collaboration Tags
                 - ## Notifications & Mentions
                     - [[@[[Their Name]]]]
                     - [[cc:[[Their Name]]]]
@@ -2931,7 +2981,7 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            8. ## Feedback Tags
+            9. ## Feedback Tags
                 - #Feedback
                     - #[[[[Feedback]]: What's working]]
                     - #[[[[Feedback]]: What could be better]]
@@ -3034,7 +3084,7 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-            9. ## Processing Tags
+            10. ## Processing Tags
                 - `#[[Housekeeping]]
                     - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
@@ -3147,7 +3197,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-            10. ### Highlight Tags
+            11. ### Highlight Tags
                 - #Highlights
                     - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -3212,7 +3262,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-            11. ## Journaling Tags
+            12. ## Journaling Tags
                 - `#[[Writing & Reflection]]
                     - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -3277,7 +3327,7 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-            12. ### Status Tags
+            13. ### Status Tags
                 - Examples
                     - #[[Status/Idea]]
                     - #[[Status/Active]]
@@ -3429,7 +3479,7 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            13. ## Miscellaneous
+            14. ## Miscellaneous
                 - `#[[Quick Capture]]
                     - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
@@ -3458,7 +3508,7 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            14. ## Experimental
+            15. ## Experimental
                 - `#Quote (inline block ref)
                     - ```css
 span.rm-page-ref[data-tag="Quote"] {
@@ -3558,7 +3608,7 @@ span.rm-page-ref[data-tag="Quote"]:before {
 	margin-top: -8px;
 	margin-right: -10px;
 }```
-            15. ## Archived & Deprecated
+            16. ## Archived & Deprecated
                 - `#Resolved`
                     - ```css
 span.rm-page-ref[data-tag="Resolved"] {

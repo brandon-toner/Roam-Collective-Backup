@@ -18,7 +18,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
             - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
@@ -211,8 +211,3 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
             - More structured pages will exhibit patterns in their structure, thus we might be able to condense them and to a single node refactoring the dependency graph.
 - ---
-
-# Backlinks
-## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- **[Date Range](<Date Range.md>):** [February 9th, 2021](<February 9th, 2021.md>)
-

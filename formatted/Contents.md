@@ -148,10 +148,6 @@
 - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- however
-    - **[Contents](<Contents.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
@@ -178,5 +174,9 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- however
     - **[Contents](<Contents.md>):**
 

@@ -26,6 +26,9 @@
 ## [Charles Farr](<Charles Farr.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>)
 
+## [Concepts](<Concepts.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [Decisions](<Decisions.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -171,6 +174,14 @@
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- even better, resurface them in gtd zone with a `{{[TODO](<TODO.md>)}
+
+- also wanna see if "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}

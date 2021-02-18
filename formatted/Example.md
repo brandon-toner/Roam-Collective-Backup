@@ -39,7 +39,7 @@
 - Work done on questions and sprints are embedded on their relevant epics. 
                         - **[Example](<Example.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [[[E:](<[[E:.md>) prepositional linkages]].
+- #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
                 - **[Example](<Example.md>):**
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
@@ -48,6 +48,9 @@
 
 - [Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))
             - **[Example](<Example.md>):**
+
+## [February 17th, 2021](<February 17th, 2021.md>)
+- Good [example]([Example](<Example.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]

@@ -168,10 +168,6 @@
 - **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-    - **[Created by](<Created by.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):**
@@ -198,5 +194,9 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Created by](<Created by.md>):**
 

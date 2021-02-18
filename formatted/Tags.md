@@ -69,6 +69,9 @@
 ## [Charles Farr](<Charles Farr.md>)
 - **[Tags](<Tags.md>):**
 
+## [Concepts](<Concepts.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
 - **[Tags](<Tags.md>):**
 
@@ -501,9 +504,6 @@
 ## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Tags](<Tags.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Tags](<Tags.md>):**
-
 ## [[Feedback](<[Feedback.md>): What could be better](<[Feedback](<Feedback.md>): What could be better.md>)
 - **[Tags](<Tags.md>):**
 
@@ -633,6 +633,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [personal page](<personal page.md>)
+- **[Tags](<Tags.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
 - **[Tags](<Tags.md>):**
 
 ## [serendipity](<serendipity.md>)

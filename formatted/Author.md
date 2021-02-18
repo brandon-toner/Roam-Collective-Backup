@@ -144,10 +144,6 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'s reference
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
@@ -173,6 +169,10 @@
     - **[Author](<Author.md>):**
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

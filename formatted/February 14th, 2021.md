@@ -7,7 +7,7 @@
                 - Continue to outline and explore components of 
                     - [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
                     - [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]] 
-                - Building a collection of [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
+                - Building a collection of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
                     - [ ] Find and take notes on the system from [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) #[February 2021](<February 2021.md>)
                     - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric
                 - Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>) submissions, projects, and contributors.
@@ -20,7 +20,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - Domains [Outlines](<Outlines.md>)
             - Onboarding
@@ -101,7 +101,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [cc:C]([~[[Charles Farr](<~[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone]([@[[Peter Rosso](<@[[Peter Rosso.md>)]][@[[Everyone](<@[[Everyone.md>)]][@[[Charles Farr](<@[[Charles Farr.md>)]][~[[Brandon Toner](<~[[Brandon Toner.md>)]][@[[leekeifon](<@[[leekeifon.md>)]][@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
 `[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[@[[Brandon Toner](<@[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@C]([^[[Charles Farr](<^[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 

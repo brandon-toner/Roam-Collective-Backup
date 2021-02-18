@@ -5,8 +5,8 @@
 
 - This process allows a continuous documentation of [dependencies](<dependencies.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<dependencies.md>).
+- #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).
 
 ## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<dependencies.md>).
+- "#[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).
 

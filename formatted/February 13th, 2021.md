@@ -14,7 +14,7 @@
         1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
@@ -23,7 +23,7 @@
             - #[Fleeting Notes](<Fleeting Notes.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
                 - [I](<I.md>) Use [Wikipedia](<Wikipedia.md>) to find existing [classification](<classification.md>) systems.
             - [Q](<Q.md>) What [classification](<classification.md>) systems, [taxonomies](<taxonomies.md>), or lists would be useful within Roam Collective?
-                - List of [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]])
+                - List of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
             - [I](<I.md>) I would like to begin collecting classification systems. Mostly in my personal system, but many will apply here. 
                 - This would look like a `[Classifications](<Classifications.md>)` tag, which serves as a parent to the `[Collections](<Collections.md>)` class of tags.
                     - A [classification](<classification.md>) is a set of collections that map a domain or system.
@@ -67,7 +67,7 @@
             - I briefly explored this [here](((j44mqPh6J)))
                 - I think this is the necessary next-step: taking the existing (major) Roam Games submissions and contributors and creating a network of those ideas.
                 - We could map the dependencies similar to how we document [relevant notes](<relevant notes.md>) on ENs
-                - Maybe there are some [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) that could be identified to connect the submissions
+                - Maybe there are some [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) that could be identified to connect the submissions
                     - Built using 
                     - Incorporating
                     - Inspired by
@@ -78,7 +78,7 @@
     - #[Change Log](<Change Log.md>) 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - "On the foundations of [statement chains](<statement chains.md>)..."
             - "[Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)"
@@ -86,7 +86,7 @@
                 - "However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain."
             - "Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently..."
                 - "[Q](<Q.md>) What are the [fundamental](<fundamental.md>) [linkage](<linkage.md>) / [connection](<connection.md>) types for pieces of [knowledge](<knowledge.md>)?"
-            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[E:](<[[E:.md>) prepositional linkages]] & phrases"
+            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>) & phrases"
                 - Relations between two nodes
                     - "Relates to"
                         - ""in tension with""
@@ -109,7 +109,7 @@
                 - Argument structure
                     - __This requires a separate schema...__
             - "[[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
-            - "[[[E:](<[[E:.md>) prepositional linkages]]"
+            - "[prepositional linkages](<prepositional linkages.md>)"
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) Continued exploration of story points [*](((my07O-J1h)))
                 - "[x] Draft & finalize Sprint template"

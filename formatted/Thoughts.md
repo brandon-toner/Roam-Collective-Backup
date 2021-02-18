@@ -19,7 +19,7 @@
 - #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):**
 
-- Idea of [[[E:](<[[E:.md>) prepositional linkages]]
+- Idea of [prepositional linkages](<prepositional linkages.md>)
         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 13th, 2021](<February 13th, 2021.md>)

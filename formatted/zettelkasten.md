@@ -282,6 +282,6 @@
 
 - "[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
+## [prepositional linkages](<prepositional linkages.md>)
 - The connections between claims made explicit with page titles within a [zettelkasten](<zettelkasten.md>)
 

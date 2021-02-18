@@ -176,10 +176,6 @@
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>), [mutually exclusive](<mutually exclusive.md>), [Concepts](<Concepts.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>)
-    - **[Date Created](<Date Created.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
     - **[Date Created](<Date Created.md>):**
@@ -206,5 +202,9 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [Concepts](<Concepts.md>)
     - **[Date Created](<Date Created.md>):**
 

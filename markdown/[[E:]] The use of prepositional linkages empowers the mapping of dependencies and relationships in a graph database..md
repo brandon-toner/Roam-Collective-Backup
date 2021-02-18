@@ -4,9 +4,9 @@
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
     - References::  ((Supporting FN, LN, EN, or RN would go here))
-        - **Concept page:** [[[[E:]] prepositional linkages]]
+        - **Concept page:** [[prepositional linkages]]
     - Relevant Notes::  ((Not a reference, but a related idea, block or page))
-        - "#[[Fleeting Notes]] [prepositional linkages]([[[[E:]] prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])"
+        - "#[[Fleeting Notes]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])"
         - "#[[Fleeting Notes]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies."
     - Next Steps:: #not-populated ((Plans for future elaboration or development))
     - Contents:: #not-populated

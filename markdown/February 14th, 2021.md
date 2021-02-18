@@ -7,7 +7,7 @@
                 - Continue to outline and explore components of 
                     - [[[[Q:]] How do you manage dependency of ideas and influence within a community knowledge graph?]]
                     - [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]] 
-                - Building a collection of [prepositional linkages]([[[[E:]] prepositional linkages]])
+                - Building a collection of [prepositional linkages]([[prepositional linkages]])
                     - {{[[TODO]]}} Find and take notes on the system from [@Mark]([[@[[Mark Robertson]]]]) #[[February 2021]]
                     - {{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric
                 - Populating a [[directory]] of [[Roam Games]] submissions, projects, and contributors.
@@ -20,7 +20,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - Domains #Outlines
             - Onboarding
@@ -101,7 +101,7 @@ I'll have a look this week. #[[Follow Up]]
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
         - [@B]([[@[[Brandon Toner]]]]) [cc:C]([[~[[Charles Farr]]]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
-        - [@Brandon]([[@[[Brandon Toner]]]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as  [@Everyone]([[@[[Peter Rosso]]]][[@[[Everyone]]]][[@[[Charles Farr]]]][[~[[Brandon Toner]]]][[@[[leekeifon]]]][[@[[Larissa de Lima]]]])
+        - [@Brandon]([[@[[Brandon Toner]]]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
 `[@[[[Everyone]]]([[@[[Peter Rosso]]]],[[@[[Everyone]]]],[[@[[Charles Farr]]]],[[@[[Brandon Toner]]]],[[@[[leekeifon]]]],[[@[[Larissa de Lima]])`
         - [@B]([[@[[Brandon Toner]]]]) [@C]([[^[[Charles Farr]]]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 

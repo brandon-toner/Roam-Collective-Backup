@@ -23,7 +23,7 @@
 
 # Backlinks
 ## [February 16th, 2021](<February 16th, 2021.md>)
-2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>))
+2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>))
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [ ] Draft and improvement to [About Roam Collective](<About Roam Collective.md>)

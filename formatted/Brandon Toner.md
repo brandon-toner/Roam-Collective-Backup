@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}
+    - {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -34,7 +34,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -431,11 +431,6 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>),
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-
-- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -462,6 +457,11 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [zettelkasten](<zettelkasten.md>)
 - View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>))

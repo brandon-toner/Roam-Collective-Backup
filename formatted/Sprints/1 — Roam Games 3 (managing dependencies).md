@@ -3,7 +3,7 @@
         - **Epic: **[Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)
         - **Central question:** [[[Q:](<../[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - **[Date Created](<../Date Created.md>):** [February 10th, 2021](<../February 10th, 2021.md>)
-    - **[Date Range](<../Date Range.md>):** [February 9th, 2021](<../February 9th, 2021.md>) ^^until ?????^^
+    - **[Date Range](<../Date Range.md>):** [February 22nd, 2021](<../February 22nd, 2021.md>)
     - **[Description](<../Description.md>):** 
         - ^^Roam Games 3^^
         - "Show how we can manage a dependency graph of ideas and influence -preferable a peer produced one using `[roamjs](<../roamjs.md>)` and `[roaminter](<../roaminter.md>)`" - [Conor White-Sullivan](<../Conor White-Sullivan.md>)

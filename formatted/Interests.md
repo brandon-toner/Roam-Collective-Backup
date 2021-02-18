@@ -40,6 +40,10 @@
 - I started using [Roam](<Roam.md>) in [July 2020](<July 2020.md>) but still agnostic due to 80% of my workflow being mobile
         - **[Interests](<Interests.md>):**
 
+## [Samuel Bars](<Samuel Bars.md>)
+- Dm on twitter
+        - **[Interests](<Interests.md>):**
+
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
 - DM on Twitter.
         - **[Interests](<Interests.md>):**

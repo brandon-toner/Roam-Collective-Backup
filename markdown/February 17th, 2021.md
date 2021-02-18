@@ -8,7 +8,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - #Q Can the "online status indicator" be automated with Roam/js
         - [[Roam Games]] [[Clubhouse]] call #[[Meetings & Discussions]]
@@ -71,7 +71,7 @@
         - #Q What do I like about the design of the [[Roaman Agora]]?[*](((9qyHdNpnR)))
             - #Obs The color strategy in the CSS is nice. 
                 - I like how it is tied to the color naming. 
-                - #I Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([[@[[Charles Farr]]]])
+                - #I Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([[~[[Charles Farr]]]])
                 - I like the green for conversations.
             - #Obs The simplicity of the DNP is nice.
                 - Image::
@@ -90,7 +90,7 @@
             - #Q What is objectivist [[epistemology]]?
         - {{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]
             - Meta
-                - Related:: [[[[E:]] prepositional linkages]]
+                - Related:: [[prepositional linkages]]
                 - Disclaimer:: This is going to look/feel excessive — but I am attempting to map the full model in order to be [[collectively exhaustive]]. Some of these will be able to be inferred or implied based on context. 
                     - #[[Fleeting Notes]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
                 - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
@@ -117,8 +117,8 @@
             - Rationale/Reason/Justification
             - Prediction
         - #[[Fleeting Notes]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
-            - [[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
-                - #[[Fleeting Notes]] the use [prepositional linkages]([[[[E:]] prepositional linkages]]) 
+            - #[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+                - #[[Fleeting Notes]] the use [prepositional linkages]([[prepositional linkages]]) 
                 - #Obs [[statement chains]] feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
             - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -134,32 +134,135 @@
                 - Main Feed
         - #[[Literature Notes]] Every [[language]] has its [[vocabulary]] and [[grammar]].
             - Source:: https://catominor3.medium.com/roam-with-style-8a18c216d338
+        - #Q How might a [[CSS]] page be laid out to improve navigation and collaboration? 
+            - #Q Is there a [[standard]] layout for a [[CSS]] page in Roam? [*]([[~[[Charles Farr]]]]), [*]([[@[[Matthew Vogel]]]])
+    - #[[Meetings & Discussions]]
+        - SRS Call with [[Adam Krivka]] 
+            - [[Matt Brockwell]]
+                - Tool for learning language
+                - RBC III & Collaboration
+                    - #Q How could SRS be used in a [[collaborative graph]]?
+                        - Review storage from DNP to people's pages
+                        - Each card, original block
+                - Matt was a teacher in a classroom setting for a while
+                - Stian and Minerva School
+                - #I SRS for company use of core knowledge base
+            - [[Adam Krivka]]
+                - Multiple master tags
+                - Decks
+                - Recreating Readwise
+            - #Q What are [[decks]]?
+            - #Q How might users use [[decks]]?
+            - #Q How might [[decks]] be implemented?
+                - Sub-version of your database.
+                - Decks vs tags.
+                - #I Support for [[boolean logic]] operators to form complex queries
+                - Searchability
+                - Custom session
+                - Define a custom session
+                - Cram Mode
+            - #Q What are the terms related to spaced repetition
+            - #Q How could a processing UI be established?
+            - #I Community algorithms
+            - #I Community themes
+            - #I Syntax for defining the user interface (a la Readwise)
+            - States of acceleration
+            - Recreating jupitor notebooks
+            - Graphs
+            - #Q How does the system scale?
+                - Akiff: 50,000 cards
+                    - That's a lot! 
+                - Front end is slow:
+                    - Tried to render 
+                    - #I implement pagination
+            - Card Types
+                - #Q What are the various card types?
+                - #I Type defines the UI
+                    - SR (Anki)
+                    - Writing
+                    - Processing
+                    - Set interval
+                    - Fractal Inquiry
+            - Card Types 
+                - UI Colour background
+            - Custom Sessions
+            - Decks
+            - Card Types
+            - Card UID
     - #[[GTD Zone]]
         - {{[[TODO]]}} Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [[onboarding]]. [*]([[Brandon Toner]])[*]([[Week-07: 02-15-2021]])
         - {{[[TODO]]}} Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
     - #Bookmarks #not-populated
-    - #Conversation #not-populated
+    - #Conversation 
+        1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
+        2. [@Charles]([[@[[Charles Farr]]]]) on [CSS](((XkuzI7Zp8)))
+            - "Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`)."
+                - This is perfect!
+            - "You could pair this with some fancy #therefore css..."
+                - This is FIRE!
+            - "[@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
+                - Perhaps we could adjust the CSS of `#Fleeting  Notes` to be more subtle....
+                    - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad #not-populated
     - #Conversation
-        - [@Brandon]([[@[[Brandon Toner]]]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
-            - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
+        - On Graph [[CSS]] settings [°]([[@[[Brandon Toner]]]])
+            - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
+                - CSS block with color variables → see: "Red"
+                - CSS block with variables for specific features → see: "Tags"
+            - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
+            - Specifically for your question [here](((OyHWMqBxC))) Brandon, most tags would use the `var(--bg-tag)`, representing the standard __tag background__.
+                - You could also create additional tag categories, such as for DNP tags (`var(--cl-dnp-tags)`).
+            - To your question [here](((1uVLjCSgJ))) Brandon, I am sure there are some best practices related to coding. [°]([[@[[Matthew Vogel]]]])
+                - By creating and using [[variables]], you limit the complexity and allow for easily updating the graph. For instance, all you need to do to change the shade of red is to change all of the `--cl-red-x00` variables, or to change all of the standard tags, edit the `--bg-tag` variable.
+                    - Good [example]([[Example]]) of [[modularity]] and the power of [[abstractions]]
+        - Simple Replies
+            - [@Brandon]([[@[[Brandon Toner]]]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
+                - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
+            - [@Brandon]([[@[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
+            - [@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
+                - Re: "#[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+                    - If I were to rephrase this (using my css), it would look like...
+                    - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
+                        - You could pair this with some fancy #therefore css...
+                    - #therefore "#Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing"
+                        - Using this approach leads to better separation between the constituent parts of the block-level tag...
+                            - You can easily parse out...
+                                1. The [[prepositional linkages]]
+                                2. The type of note (Notion)
+                                3. The content of the note
+                            - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
+                                - See: "Version 2"
+                    - #[[Fleeting Notes]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - #[[Scratchpad]] 
         - Brandon on behalf of Peter. [cc:Charles]([[@[[Charles Farr]]]])
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
-                - URL:: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n
+                - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
+        - So many graphs, so little time...
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
+        - {{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
+            - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
+    - #Bookmarks
+        - "SRS Call with [[Adam Krivka]] "
+        - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
+        - "#[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+            - I was just thinking about this the last few days, wanna get deeper into it
+                - [[Mark Robertson]] has some block levels tags in his roam graph, should check out the tours with rob
+                - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.
+                - I know I saw some other source about this, can't remember now
+        - "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
     - #[[The Zettelkasten]]
     - #Conversation #not-populated
-    - ---
+- ---

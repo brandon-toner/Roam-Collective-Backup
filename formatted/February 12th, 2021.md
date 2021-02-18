@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -88,17 +88,17 @@
             - Epic = question
             - Sprint = group of tasks, the work
             - Story points = outline of components of the epic
-            - Idea of [[[E:](<[[E:.md>) prepositional linkages]]
-        - **[Thoughts](<Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]
+            - Idea of [prepositional linkages](<prepositional linkages.md>)
+        - **[Thoughts](<Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)
             - [[[E:](<[[E:.md>) Claim 1]]
             - [[[E:](<[[E:.md>) Claim 2]]
-            - #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [[[E:](<[[E:.md>) prepositional linkages]].
+            - #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
                 - **[Example](<Example.md>):** "supported by:: [[[E:](<[[E:.md>) Claim 2]]"
-            - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) prepositional linkages]] should be past-tense in tone. 
+            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages](<prepositional linkages.md>) should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [dependencies](<dependencies.md>) as [development](<development.md>) progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
+            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
                 - #[Fleeting Notes](<Fleeting Notes.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
             - [Obs](<Obs.md>) I'm often looking for a `response tag` to a `[Q](<Q.md>)`...
@@ -248,7 +248,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) of tentative Story points
@@ -274,7 +274,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                 - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
             - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
                 - [Q](<Q.md>) What are the [fundamental](<fundamental.md>) [linkage](<linkage.md>) / [connection](<connection.md>) types for pieces of [knowledge](<knowledge.md>)?
-            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[E:](<[[E:.md>) prepositional linkages]] & phrases
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>) & phrases
                 - Relates to
                     - "in tension with"
                     - "analogous to"
@@ -294,7 +294,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                         - Weakened By
                     - Counter-example
             - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
-            - [[[E:](<[[E:.md>) prepositional linkages]]
+            - [prepositional linkages](<prepositional linkages.md>)
     - [Conversation](<Conversation.md>)
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
@@ -326,7 +326,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                     - 
     - [Bookmarks](<Bookmarks.md>)
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
-        - **["Thoughts](<"Thoughts.md>):** [[[E:](<[[E:.md>) prepositional linkages]]"
+        - **["Thoughts](<"Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
@@ -368,9 +368,6 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
 
 - **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
@@ -378,4 +375,7 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 

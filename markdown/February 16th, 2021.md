@@ -9,7 +9,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad 
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - Where are we with this?
@@ -44,7 +44,7 @@
         - #[[Fleeting Notes]] aligned [[collaboration]] drives [[flow state]] work and thinking.
         - #I A roam/js extension that helps to "mirror" relationships between pages.
             - Example:: "supports"/"supported by"
-            - bi-directional linking for [prepositional linkages]([[[[E:]] prepositional linkages]])
+            - bi-directional linking for [prepositional linkages]([[prepositional linkages]])
             - #Q How might this look?
         - #Q What is an [[agora]]?
         - #Obs We haven't used [[pomodoros]] or synchronous writing sessions yet. 
@@ -73,13 +73,12 @@
     - #Bookmarks #not-populated
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
-        2. [@Charles]([[@[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
+        2. [@Charles]([[~[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
-        3. [@Charles]([[@[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
         - "#Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
@@ -115,7 +114,7 @@
         - [@Charles]([[~[[Charles Farr]]]]) re [email](((EGJodIb92)))
             - samuel.bars@outlook.fr
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - Chat with [[Brandon Toner]]
             - First seed convention/graph

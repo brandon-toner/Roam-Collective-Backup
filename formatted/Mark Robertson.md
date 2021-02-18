@@ -39,6 +39,9 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - "I do not teach about the past, I teach to ask questions about the past" - [Mark Robertson](<Mark Robertson.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Mark Robertson](<Mark Robertson.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
@@ -68,9 +71,9 @@
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - [Mark Robertson](<Mark Robertson.md>)
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- [Mark Robertson](<Mark Robertson.md>)'
-
 ## [chat](<chat.md>)
 - "11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>)
+
+## [prepositional linkages](<prepositional linkages.md>)
+- [Mark Robertson](<Mark Robertson.md>)'
 

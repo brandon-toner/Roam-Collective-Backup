@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
         - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -88,17 +88,17 @@
             - Epic = question
             - Sprint = group of tasks, the work
             - Story points = outline of components of the epic
-            - Idea of [[[[E:]] prepositional linkages]]
-        - Thoughts:: [[[[E:]] prepositional linkages]]
+            - Idea of [[prepositional linkages]]
+        - Thoughts:: [[prepositional linkages]]
             - [[[[E:]] Claim 1]]
             - [[[[E:]] Claim 2]]
-            - #[[Fleeting Notes]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[[[E:]] prepositional linkages]].
+            - #[[Fleeting Notes]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
                 - Example:: "supported by:: [[[[E:]] Claim 2]]"
-            - #[[Fleeting Notes]] [[[[E:]] prepositional linkages]] should be past-tense in tone. 
+            - #[[Fleeting Notes]] [[prepositional linkages]] should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [[dependencies]] as [[development]] progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[[Fleeting Notes]] [prepositional linkages]([[[[E:]] prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
+            - #[[Fleeting Notes]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
                 - #[[Fleeting Notes]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
             - #Obs I'm often looking for a `response tag` to a `#Q`...
@@ -248,7 +248,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points
@@ -274,7 +274,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
             - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
                 - #Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?
-            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[[[E:]] prepositional linkages]] & phrases
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[prepositional linkages]] & phrases
                 - Relates to
                     - "in tension with"
                     - "analogous to"
@@ -294,7 +294,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                         - Weakened By
                     - Counter-example
             - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
-            - [[[[E:]] prepositional linkages]]
+            - [[prepositional linkages]]
     - #Conversation
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([[~[[Brandon Toner]]]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
@@ -326,7 +326,7 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - 
     - #Bookmarks
         - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
-        - "Thoughts:: [[[[E:]] prepositional linkages]]"
+        - "Thoughts:: [[prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"

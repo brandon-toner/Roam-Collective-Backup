@@ -3,6 +3,9 @@
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 

@@ -59,10 +59,6 @@
 - **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Relevant Notes](<Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
-    - **[Next Steps](<Next Steps.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
     - **[Next Steps](<Next Steps.md>):**
@@ -89,6 +85,10 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Relevant Notes](<Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 
 ## [roam/css](<roam/css.md>)

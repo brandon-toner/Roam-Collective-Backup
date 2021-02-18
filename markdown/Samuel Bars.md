@@ -6,7 +6,15 @@
         - Time Zone:: [[CET]]
         - How to contact me::
             - Dm on twitter
-    - {{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}
+        - Interests::
+            - SRS
+                - fractal inquiry/zettelquestions
+                - active recall
+            - Programmeable attention, algorithms of thoughts, prompts
+            - Roam-inter and open protocols for knowledge graphs (outside roam too)
+            - Individual and collective Zettelkasten
+                - More broadly, interested in different ways to acquire knowledge and understanding, think better, improve my reasoning, and my solidification of ideas, etc.
+    - {{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}
 - Inbox
     - **Notifications**:
         - {{[[query]]: {and:[[@[[Samuel Bars]]]] {not:[[query]]}}}}
@@ -14,15 +22,15 @@
         - {{[[query]]: {and: [[cc:[[Samuel Bars]]]] {not: [[query]]]}}}}
 - My activity on the graph
     - **Questions**:
-        - {{[[query]]: {and: [[Samuel Bars]] [[Q:]] {not: [[query]]]}}}} #minimal
+        - {{[[query]]: {and: [[smb]] [[Q:]] }}} #minimal
     - **Ideas**:
         - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal
 - Smartblocks
     - SamB - .DNP template #42SmartBlock
-        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #[[GTD Zone]]
             - #[[The Zettelkasten]]
             - #Conversation #not-populated
-            - ---
+        - ---

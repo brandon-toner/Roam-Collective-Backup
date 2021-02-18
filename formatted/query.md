@@ -224,8 +224,6 @@
 
 - {{[query](<query.md>):
 
-- {{[query](<query.md>): {and: [Samuel Bars](<Samuel Bars.md>) [Q:](<Q:.md>) {not: [query](<query.md>)]
-
 - {{[query](<query.md>):
 
 - {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>) {not: [query](<query.md>)]

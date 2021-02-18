@@ -9,6 +9,8 @@
 
 - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative graphs](<collaborative graphs.md>)
 
+- "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 1. #[Fleeting Notes](<Fleeting Notes.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 

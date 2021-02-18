@@ -21,7 +21,7 @@
     - **[Description](<Description.md>):**
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- **[Date Range](<Date Range.md>):** [February 9th, 2021](<February 9th, 2021.md>) ^^until ?????^^
+- **[Date Range](<Date Range.md>):** [February 22nd, 2021](<February 22nd, 2021.md>)
     - **[Description](<Description.md>):**
 
 ## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)

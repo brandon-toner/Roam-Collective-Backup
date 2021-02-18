@@ -8,7 +8,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) Can the "online status indicator" be automated with Roam/js
         - [Roam Games](<Roam Games.md>) [Clubhouse](<Clubhouse.md>) call #[Meetings & Discussions](<Meetings & Discussions.md>)
@@ -71,7 +71,7 @@
         - [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?[*](((9qyHdNpnR)))
             - [Obs](<Obs.md>) The color strategy in the CSS is nice. 
                 - I like how it is tied to the color naming. 
-                - [I](<I.md>) Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - [I](<I.md>) Could a "default tag background" variable be assigned? Like a basic dark grey, but with the ability to change the default at any time.... [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - I like the green for conversations.
             - [Obs](<Obs.md>) The simplicity of the DNP is nice.
                 - **[Image](<Image.md>):**
@@ -90,7 +90,7 @@
             - [Q](<Q.md>) What is objectivist [epistemology](<epistemology.md>)?
         - [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
             - Meta
-                - **[Related](<Related.md>):** [[[E:](<[[E:.md>) prepositional linkages]]
+                - **[Related](<Related.md>):** [prepositional linkages](<prepositional linkages.md>)
                 - **[Disclaimer](<Disclaimer.md>):** This is going to look/feel excessive — but I am attempting to map the full model in order to be [collectively exhaustive](<collectively exhaustive.md>). Some of these will be able to be inferred or implied based on context. 
                     - #[Fleeting Notes](<Fleeting Notes.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
                 - [I](<I.md>) The study of [grammar](<grammar.md>) may prove a valuable resource for the discovery of potential block-level tags and annotations.
@@ -117,8 +117,8 @@
             - Rationale/Reason/Justification
             - Prediction
         - #[Fleeting Notes](<Fleeting Notes.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
-            - [therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
-                - #[Fleeting Notes](<Fleeting Notes.md>) the use [prepositional linkages]([[[E:](<[[E:.md>) prepositional linkages]]) 
+            - #[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+                - #[Fleeting Notes](<Fleeting Notes.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
                 - [Obs](<Obs.md>) [statement chains](<statement chains.md>) feels off, because lines of [logic](<logic.md>) involve more than [statements](<statements.md>). 
         - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
             - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -134,32 +134,135 @@
                 - Main Feed
         - #[Literature Notes](<Literature Notes.md>) Every [language](<language.md>) has its [vocabulary](<vocabulary.md>) and [grammar](<grammar.md>).
             - **[Source](<Source.md>):** https://catominor3.medium.com/roam-with-style-8a18c216d338
+        - [Q](<Q.md>) How might a [CSS](<CSS.md>) page be laid out to improve navigation and collaboration? 
+            - [Q](<Q.md>) Is there a [standard](<standard.md>) layout for a [CSS](<CSS.md>) page in Roam? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Matthew Vogel](<@[[Matthew Vogel.md>)]])
+    - #[Meetings & Discussions](<Meetings & Discussions.md>)
+        - SRS Call with [Adam Krivka](<Adam Krivka.md>) 
+            - [Matt Brockwell](<Matt Brockwell.md>)
+                - Tool for learning language
+                - RBC III & Collaboration
+                    - [Q](<Q.md>) How could SRS be used in a [collaborative graph](<collaborative graph.md>)?
+                        - Review storage from DNP to people's pages
+                        - Each card, original block
+                - Matt was a teacher in a classroom setting for a while
+                - Stian and Minerva School
+                - [I](<I.md>) SRS for company use of core knowledge base
+            - [Adam Krivka](<Adam Krivka.md>)
+                - Multiple master tags
+                - Decks
+                - Recreating Readwise
+            - [Q](<Q.md>) What are [decks](<decks.md>)?
+            - [Q](<Q.md>) How might users use [decks](<decks.md>)?
+            - [Q](<Q.md>) How might [decks](<decks.md>) be implemented?
+                - Sub-version of your database.
+                - Decks vs tags.
+                - [I](<I.md>) Support for [boolean logic](<boolean logic.md>) operators to form complex queries
+                - Searchability
+                - Custom session
+                - Define a custom session
+                - Cram Mode
+            - [Q](<Q.md>) What are the terms related to spaced repetition
+            - [Q](<Q.md>) How could a processing UI be established?
+            - [I](<I.md>) Community algorithms
+            - [I](<I.md>) Community themes
+            - [I](<I.md>) Syntax for defining the user interface (a la Readwise)
+            - States of acceleration
+            - Recreating jupitor notebooks
+            - Graphs
+            - [Q](<Q.md>) How does the system scale?
+                - Akiff: 50,000 cards
+                    - That's a lot! 
+                - Front end is slow:
+                    - Tried to render 
+                    - [I](<I.md>) implement pagination
+            - Card Types
+                - [Q](<Q.md>) What are the various card types?
+                - [I](<I.md>) Type defines the UI
+                    - SR (Anki)
+                    - Writing
+                    - Processing
+                    - Set interval
+                    - Fractal Inquiry
+            - Card Types 
+                - UI Colour background
+            - Custom Sessions
+            - Decks
+            - Card Types
+            - Card UID
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))[*]([Week-07: 02-15-2021](<Week-07: 02-15-2021.md>))
         - [ ] Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
+        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [CSS](((XkuzI7Zp8)))
+            - "Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`)."
+                - This is perfect!
+            - "You could pair this with some fancy [therefore](<therefore.md>) css..."
+                - This is FIRE!
+            - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
+                - Perhaps we could adjust the CSS of `[Fleeting](<Fleeting.md>)  Notes` to be more subtle....
+                    - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:😴 Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
-            - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
+        - On Graph [CSS](<CSS.md>) settings [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+            - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
+                - CSS block with color variables → see: "Red"
+                - CSS block with variables for specific features → see: "Tags"
+            - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
+            - Specifically for your question [here](((OyHWMqBxC))) Brandon, most tags would use the `var(--bg-tag)`, representing the standard __tag background__.
+                - You could also create additional tag categories, such as for DNP tags (`var(--cl-dnp-tags)`).
+            - To your question [here](((1uVLjCSgJ))) Brandon, I am sure there are some best practices related to coding. [°]([@[[Matthew Vogel](<@[[Matthew Vogel.md>)]])
+                - By creating and using [variables](<variables.md>), you limit the complexity and allow for easily updating the graph. For instance, all you need to do to change the shade of red is to change all of the `--cl-red-x00` variables, or to change all of the standard tags, edit the `--bg-tag` variable.
+                    - Good [example]([Example](<Example.md>)) of [modularity](<modularity.md>) and the power of [abstractions](<abstractions.md>)
+        - Simple Replies
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
+                - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
+                - Re: "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+                    - If I were to rephrase this (using my css), it would look like...
+                    - [Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
+                        - You could pair this with some fancy [therefore](<therefore.md>) css...
+                    - [therefore](<therefore.md>) "[Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing"
+                        - Using this approach leads to better separation between the constituent parts of the block-level tag...
+                            - You can easily parse out...
+                                1. The [prepositional linkages](<prepositional linkages.md>)
+                                2. The type of note (Notion)
+                                3. The content of the note
+                            - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
+                                - See: "Version 2"
+                    - #[Fleeting Notes](<Fleeting Notes.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Brandon on behalf of Peter. [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
             - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
-                - **[URL](<URL.md>):** https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n
+                - **[URL](<URL.md>):** {{[video](<video.md>): https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
+        - So many graphs, so little time...
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
+            - even better, resurface them in gtd zone with a `[ ] Read ((block ref from bookmarks))` next to them
+    - [Bookmarks](<Bookmarks.md>)
+        - "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
+        - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?"
+        - "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+            - I was just thinking about this the last few days, wanna get deeper into it
+                - [Mark Robertson](<Mark Robertson.md>) has some block levels tags in his roam graph, should check out the tours with rob
+                - also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric" and on logic have stuff on that.
+                - I know I saw some other source about this, can't remember now
+        - "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
     - #[The Zettelkasten](<The Zettelkasten.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-    - ---
+- ---

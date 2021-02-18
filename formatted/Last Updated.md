@@ -44,10 +44,6 @@
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
-## [[E:](<[E:.md>) prepositional linkages](<[E:](<E:.md>) prepositional linkages.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-    - **[Last Updated](<Last Updated.md>):**
-
 ## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
@@ -74,5 +70,9 @@
 
 ## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
+## [prepositional linkages](<prepositional linkages.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
