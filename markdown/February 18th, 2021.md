@@ -15,3 +15,11 @@
     - #Conversation #not-populated
     - #[[Change Log]] #not-populated
 - ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]]
+    - #[[The Zettelkasten]]
+    - #Conversation #not-populated
+        - [@B]([[@[[Brandon Toner]]]]) "19YO genius kid in ...." Mauritius
+- ---

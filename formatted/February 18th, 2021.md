@@ -15,3 +15,11 @@
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) "19YO genius kid in ...." Mauritius
+- ---

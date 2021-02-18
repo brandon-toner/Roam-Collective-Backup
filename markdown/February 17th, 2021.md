@@ -262,7 +262,7 @@
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
                 - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away | 🟢Online | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...
