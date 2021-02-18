@@ -168,7 +168,7 @@
         1. From the [[Prompts]] page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
             - For book club:
                 - Book reading companion
-                    - Thinking of something like what [[Sam Marfleet]] made for [[[[R:]] Hero of a Thousand Faces]]...
+                    - Thinking of something like what [[Sam Marfleet]] made for [[Books/Hero of a Thousand Faces]]...
                 - Study guide
         1. "What goals or objectives would you like to work towards with [[Roam-Collective]]? [*](((ODwYwd-L7)))"
             - "To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities."
@@ -180,7 +180,7 @@
         5. "How important is it to stick to vanilla Roam?"
     - #Conversation
         1. "[[~]][[Brandon Toner]] any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below)" — fixed
-        1. "[[~]] [[Brandon Toner]] how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([[Templates]])
+        1. "[[~]] [[Brandon Toner]] how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([[Graph/Templates]])
             - Feel free to add some! You could make a `#Templates` section in your DNP section, and create some [[SmartBlocks]] there #Processes #templates
         1. Added [[roam/css]]
             - I copy/pasted from another shared graph so I'm not sure what's there yet haha. Will sift through later.

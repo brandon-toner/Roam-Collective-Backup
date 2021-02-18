@@ -98,6 +98,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>)
 

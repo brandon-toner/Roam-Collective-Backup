@@ -20,12 +20,19 @@
 - **[Date Range](<Date Range.md>):** [February 2021](<February 2021.md>) until [undetermined date](<undetermined date.md>)
     - **[Description](<Description.md>):**
 
-## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- **[Date Range](<Date Range.md>):** [February 22nd, 2021](<February 22nd, 2021.md>)
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Date Range](<Date Range.md>):** [not-populated](<not-populated.md>)
+                - **[Description](<Description.md>):**
+
+- **[Date Range](<Date Range.md>):** [not-populated](<not-populated.md>)
+                - **[Description](<Description.md>):**
+
+## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
+- **[URL](<URL.md>):** [not-populated](<not-populated.md>)
     - **[Description](<Description.md>):**
 
-## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
-- **[URL](<URL.md>):** [not-populated](<not-populated.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- **[Date Range](<Date Range.md>):** [February 22nd, 2021](<February 22nd, 2021.md>)
     - **[Description](<Description.md>):**
 
 ## [[Roam Games](<[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs](<[Roam Games](<Roam Games.md>) Challenge 1: Project Management in a team, with handoffs.md>)

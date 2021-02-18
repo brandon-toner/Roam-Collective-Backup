@@ -128,6 +128,13 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+                - **[References](<References.md>):**
+
+- **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+                - **[References](<References.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[FN](<FN.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
                     - **[References](<References.md>):**

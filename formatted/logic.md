@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 17th, 2021](<February 17th, 2021.md>)
-- [Obs](<Obs.md>) [statement chains](<statement chains.md>) feels off, because lines of [logic](<logic.md>)
+- [Obs](<Obs.md>) "[statement chains](<statement chains.md>)" feels off, because lines of [logic](<logic.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - This is eventually where [logic](<logic.md>)

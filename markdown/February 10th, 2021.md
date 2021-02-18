@@ -76,13 +76,13 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - The `#Annotations` tag is a parent tag for Highlights, Comments, and Lit Notes... really all user commentary on the reference material.
         - Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])
             1. Create a reference note for the resource. (Include the `[[R:]]` namespace)
-                - Example:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
+                - Example:: [[Articles/Joel Chan — Knowledge Synthesis]]
             2. Populate the new page with the [reference note template](((gix1P4auD)))
             3. Add the type of reference (Articles, Books, Podcasts) as a tag.
             4. Create a bullet in you DNP Section with the name of the reference note page and `#Annotations` #Important
                 - Example:: 
-                    - "#Annotations of [[[[R:]] How to write good prompts]] [*]([[cc:[[leekeifon]]]])"
-                    - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                    - "#Annotations of [[Articles/How to write good prompts]] [*]([[cc:[[leekeifon]]]])"
+                    - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             5. The method of HOW you document your annotations here is less important... some creative liberties are fine and encouraged.
                 - It is helpful, however to make use of tags such as: `#[[Literature Notes]]`, `#Highlights`, and `#Notes` / `#Comments` (?) 
         - #[[Roam Enhancement Requests]]
@@ -139,7 +139,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         3. On `[[R:]]` namespacing.[*](((sqydLl-Vb)))
             - I like this a lot. It consolidates namespaces for Books/ Articles/ Podcasts/ etc.
                 - Feeling like this is a good implementation for RC. Create a page with an `[[R:]]` namespace for any references or resources in the database.[*]([[~[[Charles Farr]]]])
-                    - Example:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
+                    - Example:: [[Articles/Joel Chan — Knowledge Synthesis]]
     - #Bookmarks
         - "I have included 8 different algorithms in the Roam Agile template. These are:"
         - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
@@ -193,7 +193,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - Tweet
                 - https://twitter.com/MatMcGann/status/1358909629372133378
             - This was a [[Roam Games]] Submission
-        - #Annotations [[[[R:]] Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
+        - #Annotations [[Articles/Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
             - Notes
                 - User stories could be organized around `#Qs`
                 - Need to aggregate questions in one location — `[[Backlog]]`
@@ -225,7 +225,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - s you can see on the screenshot below, you can craft a Datalog query to identify stories in the graph, but missing from the backlog.
                     - ![](https://1.bp.blogspot.com/-ayVkS_VUNHM/YBbdRnhkriI/AAAAAAAAxbw/DPAmyJc1xewQlWxN7il0aJ3zDR3xBy72wCLcBGAsYHQ/w640-h360/Missing%2Bstories.png)
                     - **Note:** This could easily be replaced with a combination of block-level and page-level tags + a few standard queries (probably more the speed of the initial user)
-        - #Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
+        - #Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
             - Notes
                 - Indiviudal teams could have their own graphs and feed updates into a central repository using Roam Inter
                     - #I Roam Collective could build a more "polished" graph and set up an inter-feed to drop relevant content on a daily basis
@@ -337,8 +337,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - From the same firm (Readdle) that developed the [Spark](https://sparkmailapp.com/) email client, which I also highly recommend...
             - I like the `Annotations` convention [*]([[cc:[[Brandon Toner]]]]) [*](((XIszaTY8o))) — additional examples...
                 - "#Annotations Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)"
-                - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
-                - "#Annotations [[[[R:]] Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
+                - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
     - #[[GTD Zone]]
         - {{[[DONE]]}} Import [connectors](((NbeK4NK4e)))

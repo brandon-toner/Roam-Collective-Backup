@@ -3,6 +3,21 @@
 ## [Charles Farr](<Charles Farr.md>)
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not-populated](<not-populated.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
+
+- **[People](<People.md>):** #[not-populated](<not-populated.md>)
+
+- **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>)
+
+- **[Project Status](<Project Status.md>):** #[not-populated](<not-populated.md>)
+
+- **[Due Date](<Due Date.md>):** #[not-populated](<not-populated.md>)
+
+- **[Reminders](<Reminders.md>):** #[not-populated](<not-populated.md>)
+
+- **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
 

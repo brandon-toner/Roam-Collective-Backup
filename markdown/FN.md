@@ -1,9 +1,2 @@
 - Tags:: #Abbreviations
-- [[fleeting notes]]
-- Tags:: #Conventions #zettelkasten #Collections
-- #Tips
-    - Each documented fleeting note: 
-        - should convey a complete idea or claim.
-            - Elaboration:: [here](((LJ14xzU8D)))
-        - should lead with the `#[[Fleeting Notes]]` tag (should trigger CSS)
-        - should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))
+    - [[fleeting notes]]

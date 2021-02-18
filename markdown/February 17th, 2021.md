@@ -4,7 +4,11 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. "SRS Call with [[Adam Krivka]] "
+        2. "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
+        3. "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+        4. **Brandon:** {{[[embed]]: ((oeQciItoi))}}
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
@@ -119,7 +123,7 @@
         - #[[FN]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
             - #[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
                 - #[[FN]] the use [prepositional linkages]([[prepositional linkages]]) 
-                - #Obs [[statement chains]] feels off, because lines of [[logic]] involve more than [[statements]]. 
+                - #Obs "[[statement chains]]" feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
             - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
                 - I really want to be able to link an evergreen note, and them to turn green due to the collapsing namespaces. (the color feels like another **tier** of link)
@@ -212,7 +216,8 @@
     - #[[Change Log]] 
         1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
             - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
-        2. Adjusted the Graph/backup to 
+        2. Adjusted the [[Graph/backup]] to every 6 hours (running low on action minutes on [[GitHub]]).
+        3. Adjusted "#[[My Daily Notes]] [[Your Name]]" to align with the Agora's colour scheme 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad #not-populated
@@ -243,10 +248,12 @@
                                 2. The type of note (Notion)
                                 3. The content of the note
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
-                                - See: "Version 2"
+                                - See: Version 2
                     - #[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-        - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])"
-            - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
+            - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])"
+                - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Update color scheme with better shades of blue and green
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"

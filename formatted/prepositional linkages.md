@@ -10,8 +10,9 @@
     - **Library:**
         - supports/supported by
         - therefore
-        - moreover
-        - in addition
+        - furthermore
+            - moreover
+            - in addition
         - however
     - **[Contents](<Contents.md>):** 
         - The connections between claims made explicit with page titles within a [zettelkasten](<zettelkasten.md>) or [knowledge base](<knowledge base.md>).

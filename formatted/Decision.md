@@ -12,6 +12,10 @@
 - **[Status](<Status.md>):** [not-populated](<not-populated.md>)
                             - **[Decision](<Decision.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Status](<Status.md>):** [not-populated](<not-populated.md>)
+                - **[Decision](<Decision.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - `[E:](<E:.md>)` (at the time of creation)
             - **[Decision](<Decision.md>):**

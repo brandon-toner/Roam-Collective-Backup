@@ -37,6 +37,9 @@
 
 - #[Q](<Q.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 9. Added #[Q](<Q.md>)
 

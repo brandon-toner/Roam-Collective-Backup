@@ -65,6 +65,10 @@ Resolve by "[replace as text](<replace as text.md>)"
 - "Roam wasn't built in a day" error message when adjusting [User Settings](<User Settings.md>)
         - **[Image](<Image.md>):**
 
+## [Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>)
+- **[Authored by](<Authored by.md>):** [Dalhousie College of Pharmacy](<Dalhousie College of Pharmacy.md>)
+    - **[Image](<Image.md>):**
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 11. Turn on [Roam42](<Roam42.md>) in [roam/js](<roam/js.md>) to get access to SmartBlocks and other extension features.
         - **[Image](<Image.md>):**
@@ -78,10 +82,6 @@ Resolve by "[replace as text](<replace as text.md>)"
 
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>) [Christianity](<Christianity.md>) [mythology](<mythology.md>)
-    - **[Image](<Image.md>):**
-
-## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
-- **[Authored by](<Authored by.md>):** [Dalhousie College of Pharmacy](<Dalhousie College of Pharmacy.md>)
     - **[Image](<Image.md>):**
 
 ## [mutually exclusive](<mutually exclusive.md>)

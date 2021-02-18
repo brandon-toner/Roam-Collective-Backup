@@ -5,6 +5,10 @@
 - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [block-level tags](<block-level tags.md>).
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
+2. "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
+
+3. "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
+
 - [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
 
 - #[FN](<FN.md>) The selection of which [block-level tags](<block-level tags.md>)

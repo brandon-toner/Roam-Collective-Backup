@@ -41,6 +41,10 @@
 - Tidy
                                     - **[Cons](<Cons.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Pros](<Pros.md>):** [not-populated](<not-populated.md>)
+                - **[Cons](<Cons.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page."
                     - **[Cons](<Cons.md>):**

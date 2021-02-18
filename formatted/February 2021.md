@@ -22,6 +22,9 @@
 ## [February 7th, 2021](<February 7th, 2021.md>)
 2. On a RC Website [Bookmarks](<Bookmarks.md>) #[February 2021](<February 2021.md>)
 
-## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
+## [Graph/Templates](<Graph/Templates.md>)
+- [42Setting](<42Setting.md>) ThisMonth #[February 2021](<February 2021.md>)
+
+## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
 - [Brandon Toner](<Brandon Toner.md>) - finished [February 2021](<February 2021.md>)
 

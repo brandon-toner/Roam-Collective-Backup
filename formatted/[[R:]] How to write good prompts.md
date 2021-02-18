@@ -1,4 +1,0 @@
-- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>) [understanding](<understanding.md>)
-    - **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
-    - **[URL](<URL.md>):** https://andymatuschak.org/prompts/

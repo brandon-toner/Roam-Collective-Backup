@@ -20,6 +20,9 @@
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - [ ] [Choice](<Choice.md>):
 
+## [Graph/Templates](<Graph/Templates.md>)
+- [ ] [Choice](<Choice.md>):
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "[x] [Choice](<Choice.md>):
 

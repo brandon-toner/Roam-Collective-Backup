@@ -167,6 +167,10 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
+2. "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -233,6 +237,17 @@
 - {{[TODO](<TODO.md>)}
 
 ## [Frameworks](<Frameworks.md>)
+- {{[TODO](<TODO.md>)}
+
+## [Graph/Templates](<Graph/Templates.md>)
+- <%IFDAYOFWEEK:1,2%> {{[TODO](<TODO.md>)}
+
+- <%IFDAYOFMONTH:1,2%> {{[TODO](<TODO.md>)}
+
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) [TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

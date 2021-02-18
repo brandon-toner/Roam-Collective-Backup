@@ -1,3 +1,10 @@
+- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>) [zettelkasten](<zettelkasten.md>) [Collections](<Collections.md>)
+- [Tips](<Tips.md>)
+    - Each documented fleeting note: 
+        - should convey a complete idea or claim.
+            - **[Elaboration](<Elaboration.md>):** [here](((LJ14xzU8D)))
+        - should lead with the `#[[FN]` tag (should trigger CSS)
+        - should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))
 
 # Backlinks
 ## [Agreement Rating](<Agreement Rating.md>)

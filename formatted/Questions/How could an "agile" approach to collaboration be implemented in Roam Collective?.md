@@ -6,7 +6,7 @@
     - **[References](<../References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
         - "[Q](<../Q.md>) What does an [agile development](<../agile development.md>) approach look like for Roam Collective?"
     - **[Resources](<../Resources.md>):**
-        - [[[R:](<../[[R:.md>) Agile Product Management in Roam]]
+        - [Articles/Agile Product Management in Roam](<../Articles/Agile Product Management in Roam.md>)
     - **[Related](<../Related.md>):**
         - [Epics/Implement Agile Methodologies in Roam](<../Epics/Implement Agile Methodologies in Roam.md>)
     - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))

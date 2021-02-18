@@ -20,6 +20,10 @@
 - **[Location](<Location.md>):** [Donostia - San Sebastián](<Donostia - San Sebastián.md>), [Basque Country](<Basque Country.md>) [Spain](<Spain.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Location](<Location.md>):** [not-populated](<not-populated.md>)
+                    - **[Time Zone](<Time Zone.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[Location](<Location.md>):** [College Park](<College Park.md>) [Maryland](<Maryland.md>) [United States](<United States.md>)
         - **[Time Zone](<Time Zone.md>):**

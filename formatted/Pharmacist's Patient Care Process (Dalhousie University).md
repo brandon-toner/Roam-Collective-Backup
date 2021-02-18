@@ -19,3 +19,10 @@
         7. Make recommendation
         8. Develop monitoring plan
         9. Monitor / Follow-up ([assessment](((ZU2IhvhWt))))
+
+# Backlinks
+## [February 15th, 2021](<February 15th, 2021.md>)
+- **[Related](<Related.md>):** [Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>)
+
+- e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>))
+

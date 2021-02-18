@@ -128,6 +128,25 @@
 - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- [Miscellaneous](((3Oj1R8i4j)))
+- **[Contents](<Contents.md>):**
+
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+                - **[Contents](<Contents.md>):**
+
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+                - **[Contents](<Contents.md>):**
+
+- **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+                - **[Contents](<Contents.md>):**
+
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+                - **[Contents](<Contents.md>):**
+
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+                - **[Contents](<Contents.md>):**
+
 ## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
 - **[Origin](<Origin.md>):** [not-populated](<not-populated.md>)
     - **[Contents](<Contents.md>):**

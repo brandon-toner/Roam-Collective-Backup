@@ -8,7 +8,7 @@
 - How do I use SmartBlock templates?
     - Launch the template menu by pressing `jj` 
 - How do I create a SmartBlock template?
-    - Check out [these]([[Templates]]) as examples.
+    - Check out [these]([[Graph/Templates]]) as examples.
     - Anything beneath the block containing `#42SmartBlock` becomes part of the template expansion (or "workflow")
 - What is the role of the #not-populated tag? 
     - "Use `#not-populated` in your template to avoid creating [[empty references]]"

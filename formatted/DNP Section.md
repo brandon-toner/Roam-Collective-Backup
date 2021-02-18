@@ -1,5 +1,5 @@
 - Your part of the Daily Notes Page ([DNP](<DNP.md>)).
-- DNP Templates are found [here]([Templates](<Templates.md>))
+- DNP Templates are found [here]([Graph/Templates](<Graph/Templates.md>))
 - **[Example](<Example.md>):** 
     - "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}}"
 

@@ -352,7 +352,7 @@ Thoughts? - [[Brandon Toner]]"
             - [[axiomatic presuppositions]] can be achieved by consensus of the community.
                 - Example:: We (may) all agree that logical inference is the methodology on achieving [[objective [[truth]]]], so we set it as [[axiomatic presuppositions]].
                 - Example:: conclusions based on [[Experiments]] result can be candidates for us to achieve consensus.
-        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[[[R:]] How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[FN]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]
+        - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[Articles/How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[FN]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]
             - attributes and tendency
             - parts and whole
             - similarity and difference

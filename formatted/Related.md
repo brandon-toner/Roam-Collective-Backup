@@ -33,7 +33,7 @@
     - **[Related](<Related.md>):**
 
 ## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
-- [[[R:](<[[R:.md>) Agile Product Management in Roam]]
+- [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>)
     - **[Related](<Related.md>):**
 
 ## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
@@ -199,6 +199,16 @@
 - **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>) and [Robert Haisfield](<Robert Haisfield.md>) in their chatting video.
             - **[Related](<Related.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>)
+- **[Related](<Related.md>):**
+
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Related](<Related.md>):**
+
+## [Graph/backup](<Graph/backup.md>)
+- **[Related](<Related.md>):**
+
 ## [I](<I.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) [Conventions](<Conventions.md>)
 - **[Related](<Related.md>):**
@@ -276,6 +286,10 @@
 - [Status](<Status.md>)/Experimental
 - **[Related](<Related.md>):**
 
+## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Podcasts](<Podcasts.md>), [order](<order.md>), [chaos](<chaos.md>), [mythology](<mythology.md>), [meaning](<meaning.md>) 
+    - **[Related](<Related.md>):**
+
 ## [Literature Notes](<Literature Notes.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
@@ -309,7 +323,7 @@
 - **[Related](<Related.md>):**
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- [[[R:](<[[R:.md>) Agile Product Management in Roam]]
+- [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>)
     - **[Related](<Related.md>):**
 
 ## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
@@ -354,10 +368,6 @@
 
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
-    - **[Related](<Related.md>):**
-
-## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
-- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Podcasts](<Podcasts.md>), [order](<order.md>), [chaos](<chaos.md>), [mythology](<mythology.md>), [meaning](<meaning.md>) 
     - **[Related](<Related.md>):**
 
 ## [block references](<block references.md>)

@@ -1,1 +1,1 @@
-- Related:: [[Templates]]
+- Related:: [[Graph/Templates]]

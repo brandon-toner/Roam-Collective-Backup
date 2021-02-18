@@ -2,6 +2,9 @@
 - **[URL](<URL.md>):** https://notes.andymatuschak.org/
 
 # Backlinks
+## [Articles/How to write good prompts](<Articles/How to write good prompts.md>)
+- **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
 
@@ -64,10 +67,7 @@
 
 - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
 
-- "We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’
+- "We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<Articles/How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 
-- We should definitely start up an event, sharing our ideas on [[[R:](<[[R:.md>) How to write good prompts]] by reading about [Andy Matuschak](<Andy Matuschak.md>)’
-
-## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
-- **[Author(s)](<Author(s).md>):** [Andy Matuschak](<Andy Matuschak.md>)
+- We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<Articles/How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 

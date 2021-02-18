@@ -38,6 +38,10 @@
 - C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section.
                                     - **[Pros](<Pros.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- <%INPUT:Letter (e.g. A, B, C)%%A%> -
+                - **[Pros](<Pros.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
                     - **[Pros](<Pros.md>):**

@@ -6,11 +6,11 @@
     - **[Created by](<Created by.md>):**
 
 ## [2nd-Degree Filter](<2nd-Degree Filter.md>)
-- **[Tags](<Tags.md>):** [Templates](<Templates.md>) [Experiments](<Experiments.md>)
+- **[Tags](<Tags.md>):** [Graph](<Graph.md>)/Templates [Experiments](<Experiments.md>)
 - **[Created by](<Created by.md>):**
 
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
-- **[Tags](<Tags.md>):** [Templates](<Templates.md>) [SmartBlocks](<SmartBlocks.md>)
+- **[Tags](<Tags.md>):** [Graph](<Graph.md>)/Templates [SmartBlocks](<SmartBlocks.md>)
 - **[Created by](<Created by.md>):**
 
 ## [About Roam Collective](<About Roam Collective.md>)
@@ -143,6 +143,25 @@
 ## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
+
+## [Graph/Templates](<Graph/Templates.md>)
+- **[People](<People.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
+                    - **[Created by](<Created by.md>):**
+
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Created by](<Created by.md>):**
+
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Created by](<Created by.md>):**
+
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Created by](<Created by.md>):**
+
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Created by](<Created by.md>):**
+
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Created by](<Created by.md>):**
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[People](<People.md>):** ((People involved with the project))

@@ -140,6 +140,31 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Tags](<Tags.md>):** [Projects](<Projects.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Projects](<Projects.md>) [Creative](<Creative.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Sprints](<Sprints.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Epics](<Epics.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+                - **[Date Created](<Date Created.md>):**
+
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+                - **[Date Created](<Date Created.md>):**
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
     - **[Date Created](<Date Created.md>):**

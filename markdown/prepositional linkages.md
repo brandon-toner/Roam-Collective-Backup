@@ -10,8 +10,9 @@
     - **Library:**
         - supports/supported by
         - therefore
-        - moreover
-        - in addition
+        - furthermore
+            - moreover
+            - in addition
         - however
     - Contents:: 
         - The connections between claims made explicit with page titles within a [[zettelkasten]] or [[knowledge base]].

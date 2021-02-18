@@ -33,6 +33,9 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
@@ -64,6 +67,9 @@
 - #[Daily Activities](<Daily Activities.md>)
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
+## [Graph/Templates](<Graph/Templates.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

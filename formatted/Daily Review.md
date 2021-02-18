@@ -4,6 +4,10 @@
 - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))
     - **[Daily Review](<Daily Review.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- .rc3GTD — Daily Review GTD [42SmartBlock](<42SmartBlock.md>)
+            - **[Daily Review](<Daily Review.md>):**
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock; delete sections with no results. Delete all sections at the end of the day.))  
 - **[Daily Review](<Daily Review.md>):**

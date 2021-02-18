@@ -1,0 +1,17 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [[Roam Games III]])
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+    - #Scratchpad #not-populated
+    - #Bookmarks #not-populated
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
+- ---

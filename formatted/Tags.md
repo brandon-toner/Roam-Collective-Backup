@@ -42,6 +42,12 @@
 ## [Areas/Roam Collective](<Areas/Roam Collective.md>)
 - **[Tags](<Tags.md>):**
 
+## [Articles/How to write good prompts](<Articles/How to write good prompts.md>)
+- **[Tags](<Tags.md>):**
+
+## [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Backlog](<Backlog.md>)
 - **[Tags](<Tags.md>):**
 
@@ -49,6 +55,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Bookmarks](<Bookmarks.md>)
+- **[Tags](<Tags.md>):**
+
+## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Books/The Culture Code](<Books/The Culture Code.md>)
@@ -227,9 +236,6 @@
 ## [FN](<FN.md>)
 - **[Tags](<Tags.md>):**
 
-- [fleeting notes](<fleeting notes.md>)
-- **[Tags](<Tags.md>):**
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
 
@@ -250,6 +256,39 @@
 
 ## [Graph Mentorship](<Graph Mentorship.md>)
 - **[Tags](<Tags.md>):**
+
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Tags](<Tags.md>):**
+
+- .rc3PRSNL — Personal Page [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rc2PRJ — Projects Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rc3REF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rc3CRT — Creative Project Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+            - **[Tags](<Tags.md>):**
+
+- .rc3SPR — Sprints Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+            - **[Tags](<Tags.md>):**
+
+- .rc3EPC — Epics Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+            - **[Tags](<Tags.md>):**
+
+- .rcEVN — Evergreen Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rcPVB — Proverb Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rcSDL — Seedlings Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
+
+- .rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+            - **[Tags](<Tags.md>):**
 
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):**
@@ -282,6 +321,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Lectures](<Lectures.md>)
+- **[Tags](<Tags.md>):**
+
+## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
@@ -342,6 +384,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
+- **[Tags](<Tags.md>):**
+
+## [Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Plan My Day](<Plan My Day.md>)
@@ -427,6 +472,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+- **[Tags](<Tags.md>):**
+
+## [Roaman Agora](<Roaman Agora.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Samuel Bars](<Samuel Bars.md>)
@@ -529,21 +577,6 @@
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
 - **[Tags](<Tags.md>):**
 
-## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
-- **[Tags](<Tags.md>):**
-
-## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
-- **[Tags](<Tags.md>):**
-
-## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
-- **[Tags](<Tags.md>):**
-
-## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
-- **[Tags](<Tags.md>):**
-
-## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
-- **[Tags](<Tags.md>):**
-
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
 - **[Tags](<Tags.md>):**
 
@@ -596,6 +629,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [filtering](<filtering.md>)
+- **[Tags](<Tags.md>):**
+
+## [fleeting notes](<fleeting notes.md>)
 - **[Tags](<Tags.md>):**
 
 ## [graph editors](<graph editors.md>)

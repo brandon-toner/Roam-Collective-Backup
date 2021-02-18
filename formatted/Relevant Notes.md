@@ -20,6 +20,25 @@
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Resources](<Resources.md>):** [not-populated](<not-populated.md>)
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}}}} [minimal](<minimal.md>)
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
+- **[Origin](<Origin.md>):** [not-populated](<not-populated.md>)
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
+- **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+                - **[Relevant Notes](<Relevant Notes.md>):**
+
 ## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
     - **[Relevant Notes](<Relevant Notes.md>):**

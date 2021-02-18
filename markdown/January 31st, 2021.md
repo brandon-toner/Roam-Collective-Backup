@@ -311,7 +311,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                         - Do I want easy access to editing the content from the reference destination?
             - "#[[FN]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal"
                 - Excellent documentation on this!! 
-                    - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [[resurfacing]].
+                    - Maybe consider [appending some relevant tags](should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))) to the line as well to promote [[resurfacing]].
                         - Id suggest:
                             - collaboration
                             - goals
@@ -376,7 +376,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
         - #[[FN]] composable [[visual cues]]
         - #[[FN]] visual feedback as rewards
-        - [convention on fleeting note content](((cCkvQbhSA))) [[^[[leekeifon]]]]
+        - [convention on fleeting note content](Each documented fleeting note: ) [[^[[leekeifon]]]]
         - "#[[FN]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal" [[^[[leekeifon]]]]
         - #[[P:Self]] It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
         - "#[[FN]] Effective teaming requires clear norms and expectations" [[^[[leekeifon]]]]

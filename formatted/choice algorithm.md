@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [Templates](<Templates.md>)
+- **[Tags](<Tags.md>):** [Graph/Templates](<Graph/Templates.md>)
 - ".rc3CH — Choice AoT [roam](<roam.md>)/templates"
 
 # Backlinks

@@ -23,6 +23,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[I](<I.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
+
 ## [I](<I.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [I](<I.md>)
 

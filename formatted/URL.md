@@ -4,6 +4,18 @@
 - **[Tags](<Tags.md>):** [People](<People.md>)
 - **[URL](<URL.md>):**
 
+## [Articles/How to write good prompts](<Articles/How to write good prompts.md>)
+- **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
+    - **[URL](<URL.md>):**
+
+## [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
+- **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
+    - **[URL](<URL.md>):**
+
+## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+    - **[URL](<URL.md>):**
+
 ## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**
@@ -51,6 +63,10 @@
 - Article: Tagging Is Broken by [Tiago Forte](<Tiago Forte.md>)
             - **[URL](<URL.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+                - **[URL](<URL.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? #[Tweet Threads](<Tweet Threads.md>)
             - **[URL](<URL.md>):**
@@ -75,27 +91,15 @@
 - Wow this is excellent! Love these. Will definitely [look further into this]([Bookmarks](<Bookmarks.md>)). [prompts](<prompts.md>) [Resources](<Resources.md>)
                     - **[URL](<URL.md>):**
 
+## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
+- Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
+    - **[URL](<URL.md>):**
+
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - **[Full Title](<Full Title.md>):** Maps of Meaning 08: Neuropsychology of Symbolic Representation
     - **[URL](<URL.md>):**
 
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - See discussion on [Slack](<Slack.md>)
-    - **[URL](<URL.md>):**
-
-## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
-- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
-    - **[URL](<URL.md>):**
-
-## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
-- **[Full Title](<Full Title.md>):** How to write good prompts: using spaced repetition to create understanding
-    - **[URL](<URL.md>):**
-
-## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
-- **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
-    - **[URL](<URL.md>):**
-
-## [[R:](<[R:.md>) Maps of Meaning - JBP (lecture series)](<[R:](<R:.md>) Maps of Meaning - JBP (lecture series).md>)
-- Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
     - **[URL](<URL.md>):**
 

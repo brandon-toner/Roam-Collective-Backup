@@ -489,7 +489,7 @@ We can't change the selection background in some menus yet, so make sure, that y
                 - Page Reference Links
                     - > Modifies the color of links and references pages
                     - Preview
-                        - This is [a link](http://link.com), this is a reference to a page [Test Page](<../Test Page.md>), this is a [Project/Complete Job Search & Get Hired](<../Project/Complete Job Search & Get Hired.md>) namespace, this is a double underline [[[R:](<../[[R:.md>) Remote Work (podcasts)]]
+                        - This is [a link](http://link.com), this is a reference to a page [Test Page](<../Test Page.md>), this is a [Project/Complete Job Search & Get Hired](<../Project/Complete Job Search & Get Hired.md>) namespace, this is a double underline [Podcasts/Remote Work (podcasts)](<../Podcasts/Remote Work (podcasts).md>)
                     - Colors
                         - ```css
 :root {
@@ -945,10 +945,10 @@ code {
 
 ```
                 - Example: `this is a code block`
-- **Code:**
-    - Elements
-        1. Tag Styling [Status](<../Status.md>)/Enabled
-            1. Variables,
+- # **Code:**
+    - ## Elements
+        1. ### Tag Styling [Status](<../Status.md>)/Enabled
+            1. Variables
                 - ```css
 :root {
   /*
@@ -957,7 +957,7 @@ code {
   */
   --tag-bg-cl-gtd:		var(--cl-blue-500);
 }```
-            2. ## GTD Tags
+            2. GTD Tags
                 - Examples
                     - [INBOX](<../INBOX.md>)
                     - [Inbox](<../Inbox.md>)
@@ -1211,11 +1211,11 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-            3. # DNP Modules
+            3. DNP Modules
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
-	background-image: linear-gradient(to right, var(--cl-blue-dk-900),var(--cl-blue-dk-900));
+	background-image: linear-gradient(to right, var(--cl-gray-600),var(--cl-gray-600));
 	background-size: 100%;
     color: var(--cl-white);
     padding: 3px 2px 3px 5px;
@@ -1226,8 +1226,8 @@ span.rm-page-ref[data-tag="My Daily Notes"] {
 }
 
  span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
-     background: var(--cl-blue-lt-200) !important;
-     color: var(--cl-white) !important;
+     background: var(--cl-gray-200) !important;
+     color: var(--cl-gray-900) !important;
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;
@@ -1250,22 +1250,22 @@ span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Po
 
 span.rm-page-ref[data-tag="My Daily Notes"]:after {
     border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-blue-dk-900);
+    border-left-color: var(--cl-gray-600);
     border-width: 11px;
     margin-top: -11px;
 }
 
 span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-blue-dk-900);
+    border-left-color: var(--cl-gray-600);
     border-width: 11px;
     margin-top: -11px;
 }```
                 - #[The Zettelkasten](<../The Zettelkasten.md>)
                     - ```css
 span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1275,13 +1275,13 @@ span.rm-page-ref[data-tag="The Zettelkasten"] {
 }
 
 span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡'
+    content: '⚡';
 }```
                 - #[Scratchpad](<../Scratchpad.md>)
                     - ```css
 span.rm-page-ref[data-tag="Scratchpad"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1291,12 +1291,12 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 }
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
-    content: '✏️'
+    content: '✏️';
 }```
                 - #[Bookmarks](<../Bookmarks.md>)
                     - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {
-    background: [2196F3](<../2196F3.md>);
+    background: var(--cl-blue-lt-700);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1307,13 +1307,13 @@ span.rm-page-ref[data-tag="Bookmarks"] {
 }
 
 span.rm-page-ref[data-tag="Bookmarks"]:before {
-    content: '💾'
+    content: '💾';
 }```
                 - [Questions](<../Questions.md>)
                     - ```css
 span.rm-page-ref[data-tag="Questions"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1323,13 +1323,13 @@ span.rm-page-ref[data-tag="Questions"] {
 }
 
 span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓'
+    content: '❓';
 }```
                 - [Promptstorming](<../Promptstorming.md>)
                     - ```css
 span.rm-page-ref[data-tag="Promptstorming"] {
-    background: [98160C](<../98160C.md>);
-    color: [fff](<../fff.md>);
+    background: var(--cl-red-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1339,7 +1339,7 @@ span.rm-page-ref[data-tag="Promptstorming"] {
 }
 
 span.rm-page-ref[data-tag="Promptstorming"]:before {
-    content: '🌪️'
+    content: '🌪️';
 }```
                 - #[Daily Log](<../Daily Log.md>)
                     - ```css
@@ -1408,7 +1408,7 @@ span.rm-page-ref[data-tag="Help Wanted"]:before {
                 - #[Change Log](<../Change Log.md>)
                     - ```css
 span.rm-page-ref[data-tag="Change Log"] {
-    background: [4CAF50](<../4CAF50.md>);
+    background: var(--cl-green-900);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1419,13 +1419,13 @@ span.rm-page-ref[data-tag="Change Log"] {
 }
 
 span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
+    content: '📢';
 }```
                 - [Announcements](<../Announcements.md>)
                     - ```css
 span.rm-page-ref[data-tag="Announcements"] {
-    background: [F44336](<../F44336.md>);
-    color: [fff](<../fff.md>);
+    background: var(--cl-red-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1435,7 +1435,7 @@ span.rm-page-ref[data-tag="Announcements"] {
 }
 
 span.rm-page-ref[data-tag="Announcements"]:before {
-    content: '📢'
+    content: '📢';
 }```
                 - #[Tips & Tricks](<../Tips & Tricks.md>)
                     - ```css
@@ -1460,46 +1460,24 @@ span.rm-page-ref[data-tag="Tips & Tricks"]:before {
                     - "[^[[Your Name](<../^[[Your Name.md>)]]"
                 - "[Questions](<../Questions.md>)"
                 - "#[Chat](<../Chat.md>)"
-            4. ### Note & Zettelkasten Tags
+            4. Note & Zettelkasten Tags
                 - #[Fleeting Notes](<../Fleeting Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
-    color: [1A1718](<../1A1718.md>) !important;
+	background-image: linear-gradient(45deg, var(--cl-yellow-100), var(--cl-yellow-100));
+  	color: [1A1718](<../1A1718.md>) !important;
     padding: 2px 5px 2px 5px;
 	font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: var(--cl-yellow-100);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
-                    - Version 2
-                        - ```javascript
-/*
-span.rm-page-ref[data-tag="Fleeting Notes"]:before {
-    content: 		'';
-    font-size: 		13px;
-}
-
-span.rm-page-ref[data-tag="Fleeting Notes"]:after {
-    content: 		':';
-	font-weight:	600;
-}
-
-span.rm-page-ref[data-tag="Fleeting Notes"] {
-	color: 			var(--cl-gray-900);
- 	padding:		var(--note-tag-padding);
-  	font-weight:	600;
-}
-*/```
                 - [FN](<../FN.md>)
                     - ```css
-span.rm-page-ref[data-tag="FN"]:before {
+/*span.rm-page-ref[data-tag="FN"]:before {
     content: 		'🕊';
-    /*font-size: 		var(--tag-icon-font-size);*/
-}
+}*/
 
 span.rm-page-ref[data-tag="FN"]:after {
     content: 		':';
@@ -1514,13 +1492,13 @@ span.rm-page-ref[data-tag="FN"] {
     border-radius: 	5px 5px 5px 5px;
     position:		relative;
 	background: 	var(--cl-yellow-100);
-```
+}```
                 - #[Literature Notes](<../Literature Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {
-	background-image: linear-gradient(90deg, [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>), [3A98E3](<../3A98E3.md>));
+	background-image: linear-gradient(45deg, var(--cl-blue-lt-600), var(--cl-blue-lt-600));
 	background-size: 100%;
-    color: [FFFFFF](<../FFFFFF.md>);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1531,23 +1509,21 @@ span.rm-page-ref[data-tag="Literature Notes"] {
                 - #[Seedlings](<../Seedlings.md>)
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
-    color: [FFFFFF](<../FFFFFF.md>) !important;
+	background-image: linear-gradient(90deg, var(--cl-green-300), var(--cl-green-300));
+    color: var(--cl-white) !important;
     padding: 2px 5px 2px 5px;
 	font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6DA69.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [A6DA69](<../A6DA69.md>), [A6DA69](<../A6DA69.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
                 - #[Buddings](<../Buddings.md>)
                     - ```css
 span.rm-page-ref[data-tag="Buddings"] {
-	background-image: linear-gradient(90deg, [70AC7B](<../70AC7B.md>), [70AC7B](<../70AC7B.md>), [70AC7B](<../70AC7B.md>));
+	background-image: linear-gradient(90deg, var(--cl-green-600), var(--cl-green-600));
 	background-size: 100%;
-    color: [EEF2EE](<../EEF2EE.md>);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1558,57 +1534,16 @@ span.rm-page-ref[data-tag="Buddings"] {
                 - #[Evergreens](<../Evergreens.md>)
                     - ```css
 span.rm-page-ref[data-tag="Evergreens"] {
-	background-image: linear-gradient(90deg, [507B58](<../507B58.md>), [507B58](<../507B58.md>), [507B58](<../507B58.md>));
+	background-image: linear-gradient(90deg, var(--cl-green-900), var(--cl-green-900));
 	background-size: 100%;
-    color: [EEF2EE](<../EEF2EE.md>);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-/* span.rm-page-ref[data-tag="Permanent Notes"] + span[data-link-title] {
-     background: [DCE5DE8C](<../DCE5DE8C.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}*/
-
-
-/*span.rm-page-ref[data-tag="Permanent Notes"]:after, span.rm-page-ref[data-tag="Permanent Notes"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}*/
-
-span.rm-page-ref[data-tag="Permanent Notes"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [507B58](<../507B58.md>);
-    border-width: 10px;
-    margin-top: -10px;
-}
-
-span.rm-page-ref[data-tag="Permanent Notes"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: [507B58](<../507B58.md>);
-    border-width: 10px;
-    margin-top: -10px;
-}
-
-
-
-```
+}```
                 - #[Reference Notes](<../Reference Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
@@ -1819,9 +1754,9 @@ span.rm-page-ref[data-tag="therefore"] {
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
 }```
-            6. ## Areas Tags
+            6. Areas Tags
                 - `#[Administration](<../Administration.md>)`
-            7. ### Page & Block Type Tags
+            7. Page & Block Type Tags
                 - `[Articles](<../Articles.md>)
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -2110,7 +2045,7 @@ span.rm-page-ref[data-tag="Tips"] {
 span.rm-page-ref[data-tag="Tips"]:before {
     content: '☝️'
 }```
-                - `[Templates](<../Templates.md>)
+                - `[Graph](<../Graph.md>)/Templates
                     - ```css
 span.rm-page-ref[data-tag="Templates"] {
     background: [9E9E9E](<../9E9E9E.md>);
@@ -2551,7 +2486,7 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            8. # Collaboration Tags
+            8. Collaboration Tags
                 - ## Notifications & Mentions
                     - [@[[Their Name](<../@[[Their Name.md>)]]
                         - ```css
@@ -3002,7 +2937,7 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            9. ## Feedback Tags
+            9. Feedback Tags
                 - [Feedback](<../Feedback.md>)
                     - #[[[Feedback](<../[[Feedback.md>): What's working]]
                     - #[[[Feedback](<../[[Feedback.md>): What could be better]]
@@ -3105,7 +3040,7 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-            10. ## Processing Tags
+            10. Processing Tags
                 - `#[Housekeeping](<../Housekeeping.md>)
                     - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
@@ -3218,7 +3153,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-            11. ### Highlight Tags
+            11. Highlight Tags
                 - [Highlights](<../Highlights.md>)
                     - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -3283,7 +3218,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-            12. ## Journaling Tags
+            12. Journaling Tags
                 - `#[Writing & Reflection](<../Writing & Reflection.md>)
                     - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -3348,7 +3283,7 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-            13. ### Status Tags
+            13. Status Tags
                 - Examples
                     - #[Status/Idea](<../Status/Idea.md>)
                     - #[Status/Active](<../Status/Active.md>)
@@ -3500,7 +3435,7 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            14. ## Miscellaneous
+            14. Miscellaneous
                 - `#[Quick Capture](<../Quick Capture.md>)
                     - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
@@ -3529,7 +3464,7 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            15. ## Experimental
+            15. Experimental
                 - `[Quote](<../Quote.md>) (inline block ref)
                     - ```css
 span.rm-page-ref[data-tag="Quote"] {
@@ -3629,7 +3564,7 @@ span.rm-page-ref[data-tag="Quote"]:before {
 	margin-top: -8px;
 	margin-right: -10px;
 }```
-            16. ## Archived & Deprecated
+            16. Archived & Deprecated
                 - `[Resolved](<../Resolved.md>)`
                     - ```css
 span.rm-page-ref[data-tag="Resolved"] {
@@ -4909,6 +4844,9 @@ h6 {
 - (resolved) "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
 ## [Frameworks](<Frameworks.md>)
+- [ ] Add to [roam/css](<../roam/css.md>)
+
+## [Graph/Templates](<Graph/Templates.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

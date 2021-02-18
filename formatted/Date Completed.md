@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Reminders](<Reminders.md>):** #[not-populated](<not-populated.md>) 
+                - **[Date Completed](<Date Completed.md>):**
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Project Status](<Project Status.md>):** [Status/Completed](<Status/Completed.md>)
     - **[Date Completed](<Date Completed.md>):**

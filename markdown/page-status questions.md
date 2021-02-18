@@ -1,3 +1,3 @@
 - Conventions::
     - Namespaces:: `[[Q:]]`
-    - Templates:: [questions template](((HBqwZEBCv)))
+    - Graph/Templates:: [questions template](((HBqwZEBCv)))

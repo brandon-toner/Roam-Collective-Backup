@@ -1,6 +1,6 @@
 - **[Conventions](<Conventions.md>):**
     - **[Namespaces](<Namespaces.md>):** `[Q:](<Q:.md>)`
-    - **[Templates](<Templates.md>):** [questions template](((HBqwZEBCv)))
+    - **[Graph/Templates](<Graph/Templates.md>):** [questions template](((HBqwZEBCv)))
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

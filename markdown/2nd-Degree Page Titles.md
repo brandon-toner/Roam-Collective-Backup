@@ -1,4 +1,4 @@
-- Tags:: #Templates #SmartBlocks
+- Tags:: #Graph/Templates #SmartBlocks
 - Created by:: [[Dharam]]
 - Description::
     - Uses the [datalog query](((SIZjCeOS3))) built by [[David Vargas]] and turns the results into page titles.

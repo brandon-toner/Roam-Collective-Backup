@@ -29,6 +29,9 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- #[The Main Feed](<The Main Feed.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
@@ -50,6 +53,9 @@
 - #[The Main Feed](<The Main Feed.md>)
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
+- #[The Main Feed](<The Main Feed.md>)
+
+## [Graph/Templates](<Graph/Templates.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)

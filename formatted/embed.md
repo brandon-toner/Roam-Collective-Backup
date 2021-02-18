@@ -26,6 +26,9 @@
 ## [Evergreens](<Evergreens.md>)
 - {{[embed](<embed.md>):
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+4. **Brandon:** {{[embed](<embed.md>):
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[embed](<embed.md>):
 
@@ -101,6 +104,29 @@
 - {{[embed](<embed.md>):
 
 - {{[embed](<embed.md>):
+
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[embed](<embed.md>):
+
+- {{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+- {{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
+
+{{[embed](<embed.md>):
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 -  {{[embed](<embed.md>):

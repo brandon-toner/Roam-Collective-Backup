@@ -4,7 +4,7 @@
     - **[Description](<../Description.md>):** [not-populated](<../not-populated.md>)
     - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
     - **[Resources](<../Resources.md>):** 
-        - [[[R:](<../[[R:.md>) Agile Product Management in Roam]]
+        - [Articles/Agile Product Management in Roam](<../Articles/Agile Product Management in Roam.md>)
     - **[Related](<../Related.md>):** 
         - [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<../Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))

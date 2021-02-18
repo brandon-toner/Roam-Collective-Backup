@@ -12,6 +12,16 @@
 - **[Resources](<Resources.md>):** [not-populated](<not-populated.md>)
     - **[Work Summary](<Work Summary.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) [TODO](<TODO.md>)}}}
+                - **[Work Summary](<Work Summary.md>):**
+
+- **[Resources](<Resources.md>):** [not-populated](<not-populated.md>)
+                - **[Work Summary](<Work Summary.md>):**
+
+- **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
+                - **[Work Summary](<Work Summary.md>):**
+
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
     - **[Work Summary](<Work Summary.md>):**

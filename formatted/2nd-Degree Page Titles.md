@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [Templates](<Templates.md>) [SmartBlocks](<SmartBlocks.md>)
+- **[Tags](<Tags.md>):** [Graph](<Graph.md>)/Templates [SmartBlocks](<SmartBlocks.md>)
 - **[Created by](<Created by.md>):** [Dharam](<Dharam.md>)
 - **[Description](<Description.md>):**
     - Uses the [datalog query](((SIZjCeOS3))) built by [David Vargas](<David Vargas.md>) and turns the results into page titles.

@@ -137,6 +137,15 @@
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - "{{[query](<query.md>):
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>):
+
 ## [I](<I.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>):
 

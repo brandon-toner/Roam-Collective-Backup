@@ -1,4 +1,4 @@
-- **[Tags](<Tags.md>):** [Templates](<Templates.md>) [Experiments](<Experiments.md>)
+- **[Tags](<Tags.md>):** [Graph](<Graph.md>)/Templates [Experiments](<Experiments.md>)
 - **[Created by](<Created by.md>):** [Dharam](<Dharam.md>)
 - [42SmartBlock](<42SmartBlock.md>) 2nd Degree (Experimental)
     - <%SET:second_degree_page_name,<%INPUT:Enter Page Name for 2nd degree references%>%><%NOBLOCKOUTPUT%>

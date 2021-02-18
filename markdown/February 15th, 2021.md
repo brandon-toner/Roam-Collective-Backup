@@ -27,10 +27,10 @@
             - Research surfaces [[observations]]
             - Observations support [[claims]]
             - Which attempt to answer or contribute to the answering of questions.
-            - Related to:: [[[[R:]] Joel Chan — Knowledge Synthesis]]
+            - Related to:: [[Articles/Joel Chan — Knowledge Synthesis]]
         - #Q How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?
             - This might be what [[R&D]] is.[*](((6qTdvRXbI)))
-            - Related:: [[[[R:]] Pharmacist's Patient Care Process (Dalhousie University)]]
+            - Related:: [[Pharmacist's Patient Care Process (Dalhousie University)]]
                 - Specifically the diagram of the process that unites the cycles of care and of research (information gathering and resolution of self-directed [[learning objectives]])
                     - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
                 - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
@@ -55,7 +55,7 @@
                                         - #[[FN]] The formation of maps of content is overrated as a method of learning. 
                                             - There are stronger methods that can be utilized once the maps exist. 
         - #[[FN]] learn it once, and then have the answer easily accessible for future reference 
-            - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[[R:]] Pharmacist's Patient Care Process (Dalhousie University)]])
+            - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[Pharmacist's Patient Care Process (Dalhousie University)]])
                 - Cumulative knowledge base, driven by [[just-in-time]] problem solving.
             - Related:: [[Evergreens/build once, sell twice]]
         - #Q How might conventions/workflows/frameworks be utilized to optimize for [[flow state]] writing?
@@ -236,7 +236,7 @@
                     - Some initial writing on this (from a recent grant proposal, yet to integrate back into my graph) here:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbKYWi85srR.png?alt=media&token=35b56aad-776e-49fc-8ff1-42af072402ba)
                 - Not saying that they shouldn't be a "thing", just that... they should not be the primary unit, which I think is an easy mistake to make if you're still living in folder-land
-        - Also, hi [[~[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[[[R:]] Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
+        - Also, hi [[~[[Charles Farr]]]]! we should chat sometime, I see some engagement with my [[Articles/Joel Chan — Knowledge Synthesis]] model, would love to dig more into where it's working or not! I'm making some refinements to it now from a process perspective, would be curious to run it by you and any others who are doing similar things.
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
     - #[[Change Log]] #not-populated
 - ---

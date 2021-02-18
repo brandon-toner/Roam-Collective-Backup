@@ -10,9 +10,9 @@
 
 3. Accidentally discovered the meaning of the phrase "[research](<research.md>)
 
+## [Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>)
+- No [*]([research](<research.md>))
+
 ## [Winston Teng](<Winston Teng.md>)
 - **[Interests](<Interests.md>):** [learning](<learning.md>), [research](<research.md>),
-
-## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
-- No [*]([research](<research.md>))
 

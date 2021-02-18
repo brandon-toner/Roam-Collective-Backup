@@ -1,0 +1,7 @@
+- Tags:: #Conventions #zettelkasten #Collections
+- #Tips
+    - Each documented fleeting note: 
+        - should convey a complete idea or claim.
+            - Elaboration:: [here](((LJ14xzU8D)))
+        - should lead with the `#[[FN]` tag (should trigger CSS)
+        - should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))

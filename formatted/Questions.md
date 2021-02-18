@@ -5,6 +5,9 @@
 ## [DNP Modules](<DNP Modules.md>)
 - #[Questions](<Questions.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Questions](<Questions.md>)
 

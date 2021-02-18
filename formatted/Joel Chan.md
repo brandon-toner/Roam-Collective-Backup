@@ -21,6 +21,9 @@
         - ---
 
 # Backlinks
+## [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
+- **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - Draws on tenets advanced by both [Andy Matuschak](<Andy Matuschak.md>), [Joel Chan](<Joel Chan.md>),
 
@@ -49,9 +52,9 @@
 - [Joel's]([Joel Chan](<Joel Chan.md>))
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- Changes heavily inspired by "[Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]) — [Joel Chan](<Joel Chan.md>)
+- Changes heavily inspired by "[Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)) — [Joel Chan](<Joel Chan.md>)
 
-- [Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]]) — [Joel Chan](<Joel Chan.md>)
+- [Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)) — [Joel Chan](<Joel Chan.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Joel Chan](<Joel Chan.md>)'
@@ -69,7 +72,4 @@
 
 ## [Joel Chan](<Joel Chan.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>)
-
-## [[R:](<[R:.md>) Joel Chan — Knowledge Synthesis](<[R:](<R:.md>) Joel Chan — Knowledge Synthesis.md>)
-- **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)
 

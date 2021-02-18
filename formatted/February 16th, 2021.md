@@ -63,7 +63,7 @@
                 - #[FN](<FN.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
                     - [Roam](<Roam.md>), in combination with the [conventions](<conventions.md>) set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
         - #[FN](<FN.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) transcends "The Now". 
-        - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]])
+        - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))
             - **[Diagram](<Diagram.md>):**
                 - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
             - [Q](<Q.md>) How might [problems](<problems.md>) be stated at the [block-level](<block-level.md>)?

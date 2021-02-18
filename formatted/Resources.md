@@ -18,6 +18,16 @@
 - **[Related](<Related.md>):** [supported by](<supported by.md>)
             - **[Resources](<Resources.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Resources](<Resources.md>):**
+
+- **[Status](<Status.md>):** [not-populated](<not-populated.md>)
+                - **[Resources](<Resources.md>):**
+
+- **[Status](<Status.md>):** [not-populated](<not-populated.md>)
+                - **[Resources](<Resources.md>):**
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Resources](<Resources.md>)
 

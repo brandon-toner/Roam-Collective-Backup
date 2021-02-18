@@ -52,6 +52,9 @@
 
 - The `[E:](<E:.md>)`
 
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>)
+
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Once I am ready to develop it sooner, I will create an identical `[E:](<E:.md>)`
 

@@ -1,4 +1,4 @@
-- Tags:: #Templates #Experiments
+- Tags:: #Graph/Templates #Experiments
 - Created by:: [[Dharam]]
 - #42SmartBlock 2nd Degree (Experimental)
     - <%SET:second_degree_page_name,<%INPUT:Enter Page Name for 2nd degree references%>%><%NOBLOCKOUTPUT%>

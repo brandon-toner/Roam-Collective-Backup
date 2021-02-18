@@ -37,6 +37,10 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[FN](<FN.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[About me](<About me.md>):**
+                    - **[Twitter](<Twitter.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**

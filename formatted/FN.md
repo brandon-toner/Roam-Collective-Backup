@@ -1,12 +1,5 @@
 - **[Tags](<Tags.md>):** [Abbreviations](<Abbreviations.md>)
-- [fleeting notes](<fleeting notes.md>)
-- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>) [zettelkasten](<zettelkasten.md>) [Collections](<Collections.md>)
-- [Tips](<Tips.md>)
-    - Each documented fleeting note: 
-        - should convey a complete idea or claim.
-            - **[Elaboration](<Elaboration.md>):** [here](((LJ14xzU8D)))
-        - should lead with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag (should trigger CSS)
-        - should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))
+    - [fleeting notes](<fleeting notes.md>)
 
 # Backlinks
 ## [Announcements](<Announcements.md>)
@@ -30,6 +23,8 @@
 - #[FN](<FN.md>)
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
+- Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[FN](<FN.md>)`
+
 - #[FN](<FN.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
@@ -109,6 +104,8 @@
 - "#[FN](<FN.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
+3. "#[therefore](<therefore.md>) #[FN](<FN.md>)
+
 - #[FN](<FN.md>)
 
 - #[FN](<FN.md>)
@@ -274,6 +271,9 @@
 - #[FN](<FN.md>)
 
 - #[FN](<FN.md>)
+
+## [Graph/Templates](<Graph/Templates.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out the #[FN](<FN.md>)
@@ -457,7 +457,7 @@
 
 - agree with current setting: "#[FN](<FN.md>)
 
-- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[FN](<FN.md>)
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [Articles/How to write good prompts](<Articles/How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[FN](<FN.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[FN](<FN.md>)
@@ -478,7 +478,7 @@
 
 - #[FN](<FN.md>)
 
-- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[FN](<FN.md>)
+- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [Articles/How to write good prompts](<Articles/How to write good prompts.md>), which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 

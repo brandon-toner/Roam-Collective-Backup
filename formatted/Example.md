@@ -8,7 +8,7 @@
     - **[Example](<Example.md>):**
 
 ## [DNP Section](<DNP Section.md>)
-- DNP Templates are found [here]([Templates](<Templates.md>))
+- DNP Templates are found [here]([Graph/Templates](<Graph/Templates.md>))
 - **[Example](<Example.md>):**
 
 ## [Daily Activities](<Daily Activities.md>)

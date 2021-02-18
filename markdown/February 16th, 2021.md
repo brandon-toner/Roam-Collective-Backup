@@ -63,7 +63,7 @@
                 - #[[FN]] [[ideas]] and [[action items]] arise naturally in [[conversation]].
                     - [[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
         - #[[FN]] A [collaborative graph]([[collaborative graphs]]) transcends "The Now". 
-        - #Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[[[R:]] Joel Chan — Knowledge Synthesis]])
+        - #Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[Articles/Joel Chan — Knowledge Synthesis]])
             - Diagram::
                 - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
             - #Q How might [[problems]] be stated at the [[block-level]]?

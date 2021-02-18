@@ -1,2 +1,2 @@
-- Tags:: [[Templates]]
+- Tags:: [[Graph/Templates]]
 - ".rc3CH — Choice AoT #roam/templates"

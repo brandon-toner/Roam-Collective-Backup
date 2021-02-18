@@ -12,6 +12,13 @@
 - **[Decision](<Decision.md>):** "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
                             - **[Notes](<Notes.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
+                - **[Notes](<Notes.md>):**
+
+- **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)
+                - **[Notes](<Notes.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - "Projects I'm involved with" `{{[query](<query.md>): {and: [Status/Active](<Status/Active.md>) [Your Name](<Your Name.md>)}}}`
                 - **[Notes](<Notes.md>):**

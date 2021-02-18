@@ -26,7 +26,7 @@
                 - (I decided against using the `Sprints` tag as a DNP module, as to not dilute the references for the actual sprints. Though, they could still be identified using the namespace, or by also filtering in `Tags::` so it's probably not a big deal...)
             - You can hide the sprint tag in an alias to keep things more streamlined and readable. (I do this a lot)
             - Use other complimentary tags beneath this block:
-                - Tag questions with `#Q` , ideas with `#I` related claims and assertions with `#[[Fleeting Notes]]`, project ideas with `#[[Project Ideas]]`, outlines with `#Outlines` etc
+                - Tag questions with `#Q` , ideas with `#I` related claims and assertions with `#[[FN]]`, project ideas with `#[[Project Ideas]]`, outlines with `#Outlines` etc
                     - This allows the references on the sprint page to be filtered by various types of content -- this aids in convergence dramatically. 
             - On the sprints page, contribute to the "Contribution Log" with a link to your work and a short description.
                 - This provides a place for people to look for updates on the Sprint Progress.
@@ -85,7 +85,7 @@
             - I'd say wait and monitor the need periodically. [*]([[@[[Peter Rosso]]]])
             - We should, however think about what our output channels might be. No rush, but I feel that conversation starting to emerge.
                 - #Q What output channels would be like to use for Roam Collective?
-        3. [[[[R:]] Maps of Meaning - JBP (lecture series)]] podcast/YouTube series
+        3. [[Lectures/Maps of Meaning - JBP (lecture series)]] podcast/YouTube series
             - Here is the details of the lecture series I mentioned yesterday [[~[[Peter Rosso]]]] 
         4. Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]])
             - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.

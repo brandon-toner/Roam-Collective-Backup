@@ -6,7 +6,7 @@
     - References::  ((Supporting FN, LN, EN, or RN would go here))
         - "#Q What does an [[agile development]] approach look like for Roam Collective?"
     - Resources::
-        - [[[[R:]] Agile Product Management in Roam]]
+        - [[Articles/Agile Product Management in Roam]]
     - Related::
         - [[Epics/Implement Agile Methodologies in Roam]]
     - Next Steps:: #not-populated ((Plans for future elaboration or development))

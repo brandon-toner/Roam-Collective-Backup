@@ -4,7 +4,7 @@
     - Description:: #not-populated
     - Status:: [[Status/Active]]
     - Resources:: 
-        - [[[[R:]] Agile Product Management in Roam]]
+        - [[Articles/Agile Product Management in Roam]]
     - Related:: 
         - [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
     - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))

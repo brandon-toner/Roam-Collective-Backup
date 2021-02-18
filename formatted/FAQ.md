@@ -8,7 +8,7 @@
 - How do I use SmartBlock templates?
     - Launch the template menu by pressing `jj` 
 - How do I create a SmartBlock template?
-    - Check out [these]([Templates](<Templates.md>)) as examples.
+    - Check out [these]([Graph/Templates](<Graph/Templates.md>)) as examples.
     - Anything beneath the block containing `[42SmartBlock](<42SmartBlock.md>)` becomes part of the template expansion (or "workflow")
 - What is the role of the [not-populated](<not-populated.md>) tag? 
     - "Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)"

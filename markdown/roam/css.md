@@ -489,7 +489,7 @@ We can't change the selection background in some menus yet, so make sure, that y
                 - Page Reference Links
                     - > Modifies the color of links and references pages
                     - Preview
-                        - This is [a link](http://link.com), this is a reference to a page [[Test Page]], this is a [[Project/Complete Job Search & Get Hired]] namespace, this is a double underline [[[[R:]] Remote Work (podcasts)]]
+                        - This is [a link](http://link.com), this is a reference to a page [[Test Page]], this is a [[Project/Complete Job Search & Get Hired]] namespace, this is a double underline [[Podcasts/Remote Work (podcasts)]]
                     - Colors
                         - ```css
 :root {
@@ -945,10 +945,10 @@ code {
 
 ```
                 - Example: `this is a code block`
-- **Code:**
-    - Elements
-        1. Tag Styling #Status/Enabled
-            1. Variables,
+- # **Code:**
+    - ## Elements
+        1. ### Tag Styling #Status/Enabled
+            1. Variables
                 - ```css
 :root {
   /*
@@ -957,7 +957,7 @@ code {
   */
   --tag-bg-cl-gtd:		var(--cl-blue-500);
 }```
-            2. ## GTD Tags
+            2. GTD Tags
                 - Examples
                     - #INBOX
                     - #Inbox
@@ -1211,11 +1211,11 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-            3. # DNP Modules
+            3. DNP Modules
                 - #[[My Daily Notes]] [[Your Name]]
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
-	background-image: linear-gradient(to right, var(--cl-blue-dk-900),var(--cl-blue-dk-900));
+	background-image: linear-gradient(to right, var(--cl-gray-600),var(--cl-gray-600));
 	background-size: 100%;
     color: var(--cl-white);
     padding: 3px 2px 3px 5px;
@@ -1226,8 +1226,8 @@ span.rm-page-ref[data-tag="My Daily Notes"] {
 }
 
  span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
-     background: var(--cl-blue-lt-200) !important;
-     color: var(--cl-white) !important;
+     background: var(--cl-gray-200) !important;
+     color: var(--cl-gray-900) !important;
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;
@@ -1250,22 +1250,22 @@ span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Po
 
 span.rm-page-ref[data-tag="My Daily Notes"]:after {
     border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-blue-dk-900);
+    border-left-color: var(--cl-gray-600);
     border-width: 11px;
     margin-top: -11px;
 }
 
 span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-blue-dk-900);
+    border-left-color: var(--cl-gray-600);
     border-width: 11px;
     margin-top: -11px;
 }```
                 - #[[The Zettelkasten]]
                     - ```css
 span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: #607D8B;
-    color: #fff;
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1275,13 +1275,13 @@ span.rm-page-ref[data-tag="The Zettelkasten"] {
 }
 
 span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡'
+    content: '⚡';
 }```
                 - #[[Scratchpad]]
                     - ```css
 span.rm-page-ref[data-tag="Scratchpad"] {
-    background: #607D8B;
-    color: #fff;
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1291,12 +1291,12 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 }
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
-    content: '✏️'
+    content: '✏️';
 }```
                 - #[[Bookmarks]]
                     - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {
-    background: #2196F3;
+    background: var(--cl-blue-lt-700);
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1307,13 +1307,13 @@ span.rm-page-ref[data-tag="Bookmarks"] {
 }
 
 span.rm-page-ref[data-tag="Bookmarks"]:before {
-    content: '💾'
+    content: '💾';
 }```
                 - #Questions
                     - ```css
 span.rm-page-ref[data-tag="Questions"] {
-    background: #607D8B;
-    color: #fff;
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1323,13 +1323,13 @@ span.rm-page-ref[data-tag="Questions"] {
 }
 
 span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓'
+    content: '❓';
 }```
                 - #Promptstorming
                     - ```css
 span.rm-page-ref[data-tag="Promptstorming"] {
-    background: #98160C;
-    color: #fff;
+    background: var(--cl-red-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1339,7 +1339,7 @@ span.rm-page-ref[data-tag="Promptstorming"] {
 }
 
 span.rm-page-ref[data-tag="Promptstorming"]:before {
-    content: '🌪️'
+    content: '🌪️';
 }```
                 - #[[Daily Log]]
                     - ```css
@@ -1408,7 +1408,7 @@ span.rm-page-ref[data-tag="Help Wanted"]:before {
                 - #[[Change Log]]
                     - ```css
 span.rm-page-ref[data-tag="Change Log"] {
-    background: #4CAF50;
+    background: var(--cl-green-900);
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1419,13 +1419,13 @@ span.rm-page-ref[data-tag="Change Log"] {
 }
 
 span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
+    content: '📢';
 }```
                 - #Announcements
                     - ```css
 span.rm-page-ref[data-tag="Announcements"] {
-    background: #F44336;
-    color: #fff;
+    background: var(--cl-red-600);
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1435,7 +1435,7 @@ span.rm-page-ref[data-tag="Announcements"] {
 }
 
 span.rm-page-ref[data-tag="Announcements"]:before {
-    content: '📢'
+    content: '📢';
 }```
                 - #[[Tips & Tricks]]
                     - ```css
@@ -1460,46 +1460,24 @@ span.rm-page-ref[data-tag="Tips & Tricks"]:before {
                     - "[[^[[Your Name]]]]"
                 - "#Questions"
                 - "#[[Chat]]"
-            4. ### Note & Zettelkasten Tags
+            4. Note & Zettelkasten Tags
                 - #[[Fleeting Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
-    color: #1A1718 !important;
+	background-image: linear-gradient(45deg, var(--cl-yellow-100), var(--cl-yellow-100));
+  	color: #1A1718 !important;
     padding: 2px 5px 2px 5px;
 	font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: var(--cl-yellow-100);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
-                    - Version 2
-                        - ```javascript
-/*
-span.rm-page-ref[data-tag="Fleeting Notes"]:before {
-    content: 		'';
-    font-size: 		13px;
-}
-
-span.rm-page-ref[data-tag="Fleeting Notes"]:after {
-    content: 		':';
-	font-weight:	600;
-}
-
-span.rm-page-ref[data-tag="Fleeting Notes"] {
-	color: 			var(--cl-gray-900);
- 	padding:		var(--note-tag-padding);
-  	font-weight:	600;
-}
-*/```
                 - #FN
                     - ```css
-span.rm-page-ref[data-tag="FN"]:before {
+/*span.rm-page-ref[data-tag="FN"]:before {
     content: 		'🕊';
-    /*font-size: 		var(--tag-icon-font-size);*/
-}
+}*/
 
 span.rm-page-ref[data-tag="FN"]:after {
     content: 		':';
@@ -1514,13 +1492,13 @@ span.rm-page-ref[data-tag="FN"] {
     border-radius: 	5px 5px 5px 5px;
     position:		relative;
 	background: 	var(--cl-yellow-100);
-```
+}```
                 - #[[Literature Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {
-	background-image: linear-gradient(90deg, #3A98E3, #3A98E3, #3A98E3);
+	background-image: linear-gradient(45deg, var(--cl-blue-lt-600), var(--cl-blue-lt-600));
 	background-size: 100%;
-    color: #FFFFFF;
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1531,23 +1509,21 @@ span.rm-page-ref[data-tag="Literature Notes"] {
                 - #[[Seedlings]]
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
-    color: #FFFFFF !important;
+	background-image: linear-gradient(90deg, var(--cl-green-300), var(--cl-green-300));
+    color: var(--cl-white) !important;
     padding: 2px 5px 2px 5px;
 	font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: #FFEFBA;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #A6DA69, #A6DA69);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #A6DA69, #A6DA69); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
                 - #[[Buddings]]
                     - ```css
 span.rm-page-ref[data-tag="Buddings"] {
-	background-image: linear-gradient(90deg, #70AC7B, #70AC7B, #70AC7B);
+	background-image: linear-gradient(90deg, var(--cl-green-600), var(--cl-green-600));
 	background-size: 100%;
-    color: #EEF2EE;
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1558,57 +1534,16 @@ span.rm-page-ref[data-tag="Buddings"] {
                 - #[[Evergreens]]
                     - ```css
 span.rm-page-ref[data-tag="Evergreens"] {
-	background-image: linear-gradient(90deg, #507B58, #507B58, #507B58);
+	background-image: linear-gradient(90deg, var(--cl-green-900), var(--cl-green-900));
 	background-size: 100%;
-    color: #EEF2EE;
+    color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
     line-height: 1em;
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-}
-
-/* span.rm-page-ref[data-tag="Permanent Notes"] + span[data-link-title] {
-     background: #DCE5DE8C !important;
-     color: #F3F7F2 !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}*/
-
-
-/*span.rm-page-ref[data-tag="Permanent Notes"]:after, span.rm-page-ref[data-tag="Permanent Notes"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}*/
-
-span.rm-page-ref[data-tag="Permanent Notes"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: #507B58;
-    border-width: 10px;
-    margin-top: -10px;
-}
-
-span.rm-page-ref[data-tag="Permanent Notes"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: #507B58;
-    border-width: 10px;
-    margin-top: -10px;
-}
-
-
-
-```
+}```
                 - #[[Reference Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
@@ -1819,9 +1754,9 @@ span.rm-page-ref[data-tag="therefore"] {
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
 }```
-            6. ## Areas Tags
+            6. Areas Tags
                 - `#[[Administration]]`
-            7. ### Page & Block Type Tags
+            7. Page & Block Type Tags
                 - `#Articles
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
@@ -2110,7 +2045,7 @@ span.rm-page-ref[data-tag="Tips"] {
 span.rm-page-ref[data-tag="Tips"]:before {
     content: '☝️'
 }```
-                - `#Templates
+                - `#Graph/Templates
                     - ```css
 span.rm-page-ref[data-tag="Templates"] {
     background: #9E9E9E;
@@ -2551,7 +2486,7 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            8. # Collaboration Tags
+            8. Collaboration Tags
                 - ## Notifications & Mentions
                     - [[@[[Their Name]]]]
                         - ```css
@@ -3002,7 +2937,7 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            9. ## Feedback Tags
+            9. Feedback Tags
                 - #Feedback
                     - #[[[[Feedback]]: What's working]]
                     - #[[[[Feedback]]: What could be better]]
@@ -3105,7 +3040,7 @@ span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
 span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
     content: '🚀 '
 }```
-            10. ## Processing Tags
+            10. Processing Tags
                 - `#[[Housekeeping]]
                     - ```css
 span.rm-page-ref[data-tag="Housekeeping"] {
@@ -3218,7 +3153,7 @@ span.rm-page-ref[data-tag="how-should-I-tag-this"] {
 span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
     content: '❔'
 }```
-            11. ### Highlight Tags
+            11. Highlight Tags
                 - #Highlights
                     - ```css
 span.rm-page-ref[data-tag="Highlights"] {
@@ -3283,7 +3218,7 @@ span.rm-page-ref[data-tag="Random Review"] {
 span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
-            12. ## Journaling Tags
+            12. Journaling Tags
                 - `#[[Writing & Reflection]]
                     - ```css
 span.rm-page-ref[data-tag="Writing & Reflection"] {
@@ -3348,7 +3283,7 @@ span.rm-page-ref[data-tag="Evening Journal"] {
 span.rm-page-ref[data-tag="Evening Journal"]:before {
     content: '🌛'
 }```
-            13. ### Status Tags
+            13. Status Tags
                 - Examples
                     - #[[Status/Idea]]
                     - #[[Status/Active]]
@@ -3500,7 +3435,7 @@ span.rm-page-ref[data-tag="Status/Enabled"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            14. ## Miscellaneous
+            14. Miscellaneous
                 - `#[[Quick Capture]]
                     - ```css
 span.rm-page-ref[data-tag="Quick Capture"] {
@@ -3529,7 +3464,7 @@ span.rm-page-ref[data-tag="Problems"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-            15. ## Experimental
+            15. Experimental
                 - `#Quote (inline block ref)
                     - ```css
 span.rm-page-ref[data-tag="Quote"] {
@@ -3629,7 +3564,7 @@ span.rm-page-ref[data-tag="Quote"]:before {
 	margin-top: -8px;
 	margin-right: -10px;
 }```
-            16. ## Archived & Deprecated
+            16. Archived & Deprecated
                 - `#Resolved`
                     - ```css
 span.rm-page-ref[data-tag="Resolved"] {
