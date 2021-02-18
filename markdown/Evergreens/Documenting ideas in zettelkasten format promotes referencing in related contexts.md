@@ -1,0 +1,9 @@
+- Tags:: #[[Evergreens]]
+    - Date Created:: [[January 31st, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Brandon Toner]]
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related::  ((Not a reference, but a related idea, block or page))
+        - [[Evergreens/Evergreen note titles are like APIs]]
+        - [[Evergreens/Evergreen note-writing helps insight accumulate]]
+    - Contents:: #not-populated 

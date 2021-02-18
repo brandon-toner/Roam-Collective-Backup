@@ -4,6 +4,38 @@
 - **[Tags](<Tags.md>):** [People](<People.md>)
 - **[URL](<URL.md>):**
 
+## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Evergreen note-writing helps insight accumulate](<Evergreens/Evergreen note-writing helps insight accumulate.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Evergreen notes should be atomic](<Evergreens/Evergreen notes should be atomic.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+- **[Author](<Author.md>):** [David Perell](<David Perell.md>)
+    - **[URL](<URL.md>):**
+
+## [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
+- Alarm fatigue - Wikipedia
+            - **[URL](<URL.md>):**
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
                 - **[URL](<URL.md>):**
@@ -50,38 +82,6 @@
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - See discussion on [Slack](<Slack.md>)
     - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
-- **[Author](<Author.md>):** [David Perell](<David Perell.md>)
-    - **[URL](<URL.md>):**
-
-## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
-- Alarm fatigue - Wikipedia
-            - **[URL](<URL.md>):**
 
 ## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)

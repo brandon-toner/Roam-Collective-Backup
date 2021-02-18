@@ -1,0 +1,10 @@
+- Tags:: #[[Evergreens]] #design #research #divergence #convergence
+    - Date Created:: [[February 1st, 2021]]
+    - Created by:: [[Brandon Toner]] (based on it's reference by [[Peter Rosso]])
+    - Author:: #not-populated
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Related::  ((Not a reference, but a related idea, block or page))
+        - [[Evergreens/cycles of divergence and convergence]]
+    - Contents:: #not-populated
+    - Image::
+        - ![Double Diamond Model Expanded - Austin Stubbs - Medium](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*FH6Re6NwLf5ftsJqa8s6Hw.png&f=1&nofb=1)

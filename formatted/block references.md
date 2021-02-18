@@ -4,18 +4,18 @@
 
 # Backlinks
 ## [January 25th, 2021](<January 25th, 2021.md>)
-1. #[Fleeting Notes](<Fleeting Notes.md>) [Block references]([block references](<block references.md>))
+1. #[FN](<FN.md>) [Block references]([block references](<block references.md>))
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>)
+- #[FN](<FN.md>) [block references](<block references.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Would love a dashboard of tags and the number of linked references of each. With similar styling to the [unread references](<unread references.md>) for [block references](<block references.md>).
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>)
+- #[FN](<FN.md>) [block references](<block references.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [block references](<block references.md>)
+- #[FN](<FN.md>) [block references](<block references.md>)
 
 4. The [project lead](<project lead.md>) or graph [editor](<editor.md>) reviews the contributions in the [block references](<block references.md>)
 

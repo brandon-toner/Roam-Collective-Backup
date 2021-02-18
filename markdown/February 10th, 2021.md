@@ -39,7 +39,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
 
                     - 
 
-                - #Q [[[[Q:]] When does chaos become insurmountable?]] 
+                - #Q [[Questions/When does chaos become insurmountable?]] 
                     - Did I do this right?
                     - Where does order emerges from?
                     - With the right primitives order emerges
@@ -88,8 +88,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - #[[Roam Enhancement Requests]]
             - Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [[notifications]].
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
-                    - #[[Fleeting Notes]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
-                    - #[[Fleeting Notes]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
+                    - #[[FN]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
+                    - #[[FN]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
         - Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])
             - **Methods:**
                 - Via block ref count
@@ -344,7 +344,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - {{[[DONE]]}} Import [connectors](((NbeK4NK4e)))
     - #[[Meetings & Discussions]]
         - #Q What are the most basic conventions required for effective participation?
-            - #Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])
+            - #Q How do "optional but effective" conventions go above and beyond?[*]([[Evergreens/beneficial, but optional]])
                 - — [[cc:[[Brandon Toner]]]]
         - #Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
             - — [[cc:[[Peter Rosso]]]]
@@ -361,7 +361,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - — [[~[[Larissa de Lima]]]]
         - Sprint/Roam Game Example
             - "#Q What are the most basic conventions required for effective participation?"
-            - "#Q How do "optional but effective" conventions go above and beyond?[*]([[[[E:]] beneficial, but optional]])"
+            - "#Q How do "optional but effective" conventions go above and beyond?[*]([[Evergreens/beneficial, but optional]])"
             - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}} [*]([[mtv]])

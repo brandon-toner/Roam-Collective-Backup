@@ -11,7 +11,7 @@
         - [[context questions]]
     - **Official Conventions:**
         - Notes:
-            - #[[Fleeting Notes]]
+            - #[[FN]]
             - #[[Literature Notes]]
             - #Seedlings
             - #Buddings

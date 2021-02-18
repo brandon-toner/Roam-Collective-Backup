@@ -5,8 +5,8 @@
         - **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - **[Next Steps](<Next Steps.md>):**
                 - Continue to outline and explore components of 
-                    - [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
-                    - [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]] 
+                    - [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+                    - [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>) 
                 - Building a collection of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
                     - [ ] Find and take notes on the system from [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) #[February 2021](<February 2021.md>)
                     - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric

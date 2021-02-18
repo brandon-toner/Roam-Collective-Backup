@@ -7,7 +7,7 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [I](<I.md>) [bnt](<bnt.md>)
 
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Fleeting Notes](<Fleeting Notes.md>) [bnt](<bnt.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [FN](<FN.md>) [bnt](<bnt.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>)
 
@@ -18,7 +18,7 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [I](<I.md>) [bnt](<bnt.md>)
 
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>) [bnt](<bnt.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [FN](<FN.md>) [bnt](<bnt.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>)
 

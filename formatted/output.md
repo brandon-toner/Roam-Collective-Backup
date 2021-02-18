@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>) towards [output](<output.md>).
+- #[FN](<FN.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>) towards [output](<output.md>).
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""Allow for ease in generating [output](<output.md>).

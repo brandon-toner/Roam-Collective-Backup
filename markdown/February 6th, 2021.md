@@ -142,10 +142,10 @@
                 - #Q How are [[speculative outlines]] populated?
                 - #Q How are drafts documented?
             - Thoughts::
-                - #[[Fleeting Notes]] [[speculative outlines]] create the [[scaffolding]] for future development.  
-                - #[[Fleeting Notes]] [[speculative outlines]] create a shared lens for directed [[brainstorming]]. [*](((eMa8XoHvR)))
+                - #[[FN]] [[speculative outlines]] create the [[scaffolding]] for future development.  
+                - #[[FN]] [[speculative outlines]] create a shared lens for directed [[brainstorming]]. [*](((eMa8XoHvR)))
                     - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
-                        - This is [[[[E:]] Start from abundance]] at [[scale]].
+                        - This is [[Evergreens/Start from abundance]] at [[scale]].
                 - "#Q How are [[speculative outlines]] documented?"
                     - [[speculative outlines]] can be created in several ways:
                         - First think of the topic. What is it? What type of outline are you creating?

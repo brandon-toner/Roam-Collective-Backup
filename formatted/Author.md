@@ -12,152 +12,156 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
+## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
+## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
 - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
+## [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
+## [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
+## [Evergreens/Evergreen note-writing helps insight accumulate](<Evergreens/Evergreen note-writing helps insight accumulate.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
+## [Evergreens/Evergreen notes should be atomic](<Evergreens/Evergreen notes should be atomic.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
+## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
+## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
+## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
+## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
+## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+## [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
-- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
-    - **[Author](<Author.md>):**
-
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+## [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
+## [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
+## [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'s reference
-    - **[Author](<Author.md>):**
-
-## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
-## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
     - **[Author](<Author.md>):**
 
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (on behalf of [Charles Farr](<Charles Farr.md>))
     - **[Author](<Author.md>):**
 
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+    - **[Author](<Author.md>):**
+
+## [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
+    - **[Author](<Author.md>):**
+
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'s reference
     - **[Author](<Author.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)
@@ -165,10 +169,6 @@
     - **[Author](<Author.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
-    - **[Author](<Author.md>):**
-
-## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

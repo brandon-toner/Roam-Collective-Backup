@@ -28,7 +28,7 @@
 - 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>).
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>)
+- #[FN](<FN.md>) Keeping up with [notifications](<notifications.md>)
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [notifications](<notifications.md>)

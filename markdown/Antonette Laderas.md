@@ -23,7 +23,7 @@
             - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[I]] [[bnt]] {not: {or: }}  }}}
     - Zettelkasten Notes
         - **Fleeting Notes:**
-            - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[Fleeting Notes]] [[bnt]] {not: {or: }}  }}}
+            - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[FN]] [[bnt]] {not: {or: }}  }}}
     - Productivity
         - **Follow Ups:**
             - #minimal {{[[query]]: {and: [[Antonette Laderas]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}

@@ -8,7 +8,7 @@
                 - Conventions [here](((xfdvIW54z)))
                 - Process [here](((5CxAQCSjk)))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
         - This is to indicate "**1000 upvotes**" from [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
@@ -21,7 +21,7 @@
             3. Of the questions collected, promote some to page-status — making them easier to track, and creating a space for elaboration on the page contents.
         - [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
-                - Thoughts on [[[E:](<[[E:.md>) active vs passive resurfacing]]
+                - Thoughts on [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
                     - **["Next Steps](<"Next Steps.md>):**"
                         - #[Project Ideas](<Project Ideas.md>) develop a guide to thinking about resurfacing in Roam.
                         - Clarify methods of passive resurfacing
@@ -79,12 +79,12 @@
                     -  [Q](<Q.md>) Could an [AoT](<AoT.md>) be developed to help avoid cognitive [biases]([bias](<bias.md>))
         - Peter on [waves](<waves.md>), signal, and synchronous engagement. [*](((e5szI-YDO)))
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
-        - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph.
+        - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
+        - #[FN](<FN.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph.
             - While converging ideas around a particular activity, more new ideas are likely to arise. 
-                - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is a [lens]([lenses](<lenses.md>)). [*](((yDP-gHQj9)))
+                - #[FN](<FN.md>) [convergence](<convergence.md>) is a [lens]([lenses](<lenses.md>)). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
-                    - #[Fleeting Notes](<Fleeting Notes.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
+                    - #[FN](<FN.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
     - [Conversation](<Conversation.md>) 
         1. On "1000 upvotes"
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? "
@@ -92,14 +92,14 @@
         2. On processing growing data in the graph.
             - "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?""
                 - I've been thinking of my [future self](<future self.md>) through the use of [tagging](<tagging.md>).
-                    - 1) I use [this]([[[E:](<[[E:.md>) Evergreen notes should be densely linked]]) idea as much as I can. 
+                    - 1) I use [this]([Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)) idea as much as I can. 
                     - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
                         - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fv76lWL9fSC.png?alt=media&token=648c2190-46e7-4dec-9ad4-a93d12d6e5fd)
                     - I believe processes here will evolve. 
                         - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>)).
-                        - The idea of [[[E:](<[[E:.md>) active vs passive resurfacing]] is related here. [Bookmarks](<Bookmarks.md>)
+                        - The idea of [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>) is related here. [Bookmarks](<Bookmarks.md>)
                             - Within [passive resurfacing](<passive resurfacing.md>), there are strategies we can hone to improve the [probability](<probability.md>) of [resurfacing](<resurfacing.md>).
                                 - E.g. use of [zettelkasten](<zettelkasten.md>) notes to preserve main ideas.
                                 - The questions I constantly ask myself (somewhat by second nature) is: 
@@ -142,7 +142,7 @@
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #[GTD Zone](<GTD Zone.md>)
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
@@ -166,7 +166,7 @@
                     - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[contrarians](<contrarians.md>)". This can lead to [confirmation bias](<confirmation bias.md>), creation of echo chambers and in some extent cults and collectives 😂
                     - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
                         - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
-                - The up and down in the waveform below have some parallel with the [[[E:](<[[E:.md>) double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
+                - The up and down in the waveform below have some parallel with the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>). If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
                     - **[Image](<Image.md>):**
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnSb_C87Ivt.png?alt=media&token=09463f46-264a-4b4e-87b7-f57b8009a2e7)
                     - The dots on the bottom of the image also represent the density of air created by the air displacement carrying the sound. 
@@ -188,7 +188,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  
     [Scratchpad](<Scratchpad.md>) 
         - 🛠 IN PROGRESS - RETURN LATER
-            - #[Fleeting Notes](<Fleeting Notes.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
+            - #[FN](<FN.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
                     - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
                 - Arguments:
@@ -272,12 +272,12 @@ I think I need to go through the whole process to make sure I internalise it.
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
-            - "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
+            - "#[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
                 - This is really striking at something
                 - The challenge is - how does one define acceptance of a term? 
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
+                    - #[FN](<FN.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
                         - This is analogous to applying heat to molecules to create structure 
-                        - #[Fleeting Notes](<Fleeting Notes.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
+                        - #[FN](<FN.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
                             - It is costly to:
                                 - (re: basis) have a (sufficient) basis of shared context
                                 - (re: process) share mental models asynchronously 
@@ -290,7 +290,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     #[Meetings & Discussions](<Meetings & Discussions.md>)
         - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) "
-            - "#[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes"
+            - "#[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -305,7 +305,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - "**Activity:** Review, query, filter and browse the many [questions](<questions.md>) captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
         - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
             - #[Follow Up](<Follow Up.md>) In progress...
-                - [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
+                - [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
                     - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [maturity](<maturity.md>) scale for notes
                 - ## Maturity Levels
@@ -326,7 +326,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Background on the [zettelkasten](<zettelkasten.md>)
             - [Evergreens](<Evergreens.md>) [Q](<Q.md>) What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
-                    - #[Fleeting Notes](<Fleeting Notes.md>) A [zettelkasten](<zettelkasten.md>) is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+                    - #[FN](<FN.md>) A [zettelkasten](<zettelkasten.md>) is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [Nicolas Luhmann](<Nicolas Luhmann.md>), was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
                     - [Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>), working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
@@ -377,12 +377,12 @@ I think I need to go through the whole process to make sure I internalise it.
             - Memorialization "decreases the search cost"
             - [Brandon Toner](<Brandon Toner.md>) has joined the chat!
             - How do you control authorship?
-                - See: [[[E:](<[[E:.md>) Evergreen notes should be concept-oriented]]
+                - See: [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
             - Larissa
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes
+            - #[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes
                 - #[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on...
     - #[Change Log](<Change Log.md>)
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -415,19 +415,19 @@ I think I need to go through the whole process to make sure I internalise it.
             - I’m in [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]]
             - Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
     - #[Scratchpad](<Scratchpad.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
-            - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen note titles are like APIs]]
-            - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
+        - #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+            - **[Related](<Related.md>):** [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
+            - **[Related](<Related.md>):** "#[FN](<FN.md>) block-embed [model](<model.md>)"
         - #[I](<I.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
-        - #[Fleeting Notes](<Fleeting Notes.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
+        - #[FN](<FN.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
             - **[Related](<Related.md>):** "[Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
-        - #[Fleeting Notes](<Fleeting Notes.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
-        - #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
+        - #[FN](<FN.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
+        - #[FN](<FN.md>) "#[FN](<FN.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
     - #[Bookmarks](<Bookmarks.md>)
         - {{[embed](<embed.md>): ((wfOtQk0aX))}}
         - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
         - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-        - "#[Fleeting Notes](<Fleeting Notes.md>) Community Notes are an Extension of Evergreen Notes"
+        - "#[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes"
         - "#[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on..."
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
         - {{[embed](<embed.md>): ((HmjblrRLi))}}
@@ -439,6 +439,6 @@ I think I need to go through the whole process to make sure I internalise it.
         - 23:26 poking around the graph for the first time after learning about the experiment on [Clubhouse](<Clubhouse.md>)
 
 # Backlinks
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - **[Last Updated](<Last Updated.md>):** [February 2nd, 2021](<February 2nd, 2021.md>)
 

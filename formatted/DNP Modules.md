@@ -46,8 +46,11 @@
 ## [Dice Roll](<Dice Roll.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>) #[DNP Modules](<DNP Modules.md>)
 
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
+- Proper use of the [DNP Modules](<DNP Modules.md>).
+
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>)
+- #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
@@ -73,7 +76,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) The [DNP Modules](<DNP Modules.md>)
+- #[FN](<FN.md>) The [DNP Modules](<DNP Modules.md>)
 
 - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>)
 
@@ -101,7 +104,4 @@
 
 ## [Wade Dominic](<Wade Dominic.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- Proper use of the [DNP Modules](<DNP Modules.md>).
 

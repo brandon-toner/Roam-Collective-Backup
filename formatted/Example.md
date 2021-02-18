@@ -19,6 +19,10 @@
 - Timestamp your activity as you visit or make changes in the graph.
         - **[Example](<Example.md>):**
 
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
+- In product development, low floor = low [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>), high ceiling = able to meet the needs of [power users](<power users.md>).
+- **[Example](<Example.md>):**
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([Processes](<Processes.md>))
                 - **[Example](<Example.md>):**
@@ -39,7 +43,7 @@
 - Work done on questions and sprints are embedded on their relevant epics. 
                         - **[Example](<Example.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
+- #[FN](<FN.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
                 - **[Example](<Example.md>):**
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
@@ -56,10 +60,10 @@
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
+- #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
                 - **[Example](<Example.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+- #[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
@@ -96,7 +100,7 @@
                 - **[Example](<Example.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
+- #[FN](<FN.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
             - **[Example](<Example.md>):**
 
 - My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))
@@ -145,10 +149,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
             - **[Example](<Example.md>):**
 
-- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)".
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[FN](<FN.md>) block-level [model](<model.md>)".
             - **[Example](<Example.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
+- #[FN](<FN.md>) block-embed [model](<model.md>)
             - **[Example](<Example.md>):**
 
 - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
@@ -163,10 +167,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - **[Example](<Example.md>):**
 
 9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
-
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
-- In product development, low floor = low [[[E:](<[[E:.md>) barrier to entry]], high ceiling = able to meet the needs of [power users](<power users.md>).
-- **[Example](<Example.md>):**
 
 ## [chat](<chat.md>)
 - To reply, reference the block into your "Comments" section, nesting your reply beneath.

@@ -1,8 +1,14 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [Techniques](<Techniques.md>) [Concepts](<Concepts.md>)
 - **[References](<References.md>):**
-    - [[[E:](<[[E:.md>) Spaced repetition systems can be used to program attention]] ([Andy's Notes](<Andy's Notes.md>))
+    - [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>) ([Andy's Notes](<Andy's Notes.md>))
 
 # Backlinks
+## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+
+## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - [Q](<Q.md>) Could a [spaced repetition](<spaced repetition.md>)
 
@@ -42,19 +48,13 @@
 
 - [Andy Matuschak](<Andy Matuschak.md>)'s system of [spaced repetition](<spaced repetition.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>)
+- #[FN](<FN.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
-
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
-
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
 
 ## [[R:](<[R:.md>) How to write good prompts](<[R:](<R:.md>) How to write good prompts.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource to tags... Articles, Books, Videos etc.)) #[spaced repetition](<spaced repetition.md>)

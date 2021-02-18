@@ -3,20 +3,20 @@
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+- #[FN](<FN.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
         - **[Thoughts](<Thoughts.md>):**
 
 - [Draft Sprints template](((tG1HJs2dK)))
         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
+- Added page: [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
         - **[Thoughts](<Thoughts.md>):**
 
 9. Roam's upsides make up for its downsides.
         - **[Thoughts](<Thoughts.md>):**
 
-- #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
+- #[FN](<FN.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):**
 
 - Idea of [prepositional linkages](<prepositional linkages.md>)
@@ -39,7 +39,7 @@
             - **[Thoughts](<Thoughts.md>):**
 
 ## [February 7th, 2021](<February 7th, 2021.md>)
-- [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[[E:](<[[E:.md>) cycles of divergence and convergence]]) [order](<order.md>) [chaos](<chaos.md>)
+- [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)) [order](<order.md>) [chaos](<chaos.md>)
             - **[Thoughts](<Thoughts.md>):**
 
 ## [February 9th, 2021](<February 9th, 2021.md>)

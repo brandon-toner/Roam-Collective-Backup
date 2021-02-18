@@ -2,11 +2,11 @@
 
 # Backlinks
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
+- #[FN](<FN.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
             - **[Process](<Process.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- This allows an [editor](<editor.md>) to [[[E:](<[[E:.md>) Start from abundance]]. 
+- This allows an [editor](<editor.md>) to [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>). 
                         - **[Process](<Process.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

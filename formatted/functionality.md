@@ -1,5 +1,5 @@
 
 # Backlinks
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
-- Hacked solutions are usually out-of-sync with [native conventions]([[[E:](<[[E:.md>) Use the native convention as much as possible.]]), employing workarounds to accomplish an extension in [functionality](<functionality.md>).
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
+- Hacked solutions are usually out-of-sync with [native conventions]([Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)), employing workarounds to accomplish an extension in [functionality](<functionality.md>).
 

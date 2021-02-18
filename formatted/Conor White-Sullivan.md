@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))
+- #[FN](<FN.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - "My life would be better if I listened to more of your lectures" - [Conor White-Sullivan](<Conor White-Sullivan.md>)

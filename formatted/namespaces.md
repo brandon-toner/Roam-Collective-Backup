@@ -9,7 +9,7 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - **[Thoughts](<Thoughts.md>):** [namespaces](<namespaces.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [namespaces](<namespaces.md>)
+- #[FN](<FN.md>) [namespaces](<namespaces.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?

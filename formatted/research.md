@@ -3,7 +3,7 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Questions drive [research](<research.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>)
+- #[FN](<FN.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 2. Review periodically, collecting ones that [resonate]([resonance](<resonance.md>)) or feel important to the direction of [research](<research.md>)

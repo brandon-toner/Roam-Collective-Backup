@@ -8,7 +8,7 @@
                 - Conventions [here](((xfdvIW54z)))
                 - Process [here](((5CxAQCSjk)))
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[Evergreens/double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - This is to indicate "**1000 upvotes**" from [[~[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - #Chat ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [[~[[Charles Farr]]]]
@@ -21,7 +21,7 @@
             3. Of the questions collected, promote some to page-status — making them easier to track, and creating a space for elaboration on the page contents.
         - #I Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - Example::
-                - Thoughts on [[[[E:]] active vs passive resurfacing]]
+                - Thoughts on [[Evergreens/active vs passive resurfacing]]
                     - "Next Steps::"
                         - #[[Project Ideas]] develop a guide to thinking about resurfacing in Roam.
                         - Clarify methods of passive resurfacing
@@ -79,12 +79,12 @@
                     -  #Q Could an [[AoT]] be developed to help avoid cognitive [biases]([[bias]])
         - Peter on [[waves]], signal, and synchronous engagement. [*](((e5szI-YDO)))
     - #[[The Zettelkasten]] 
-        - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
-        - #[[Fleeting Notes]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph.
+        - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[Evergreens/double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
+        - #[[FN]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph.
             - While converging ideas around a particular activity, more new ideas are likely to arise. 
-                - #[[Fleeting Notes]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
+                - #[[FN]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
-                    - #[[Fleeting Notes]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
+                    - #[[FN]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
     - #Conversation 
         1. On "1000 upvotes"
             - "[[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
@@ -92,14 +92,14 @@
         2. On processing growing data in the graph.
             - "[[^[[Brandon Toner]]]] how are you approaching this: "#Q How do we digest all of the information we're adding to the graph?""
                 - I've been thinking of my [[future self]] through the use of [[tagging]].
-                    - 1) I use [this]([[[[E:]] Evergreen notes should be densely linked]]) idea as much as I can. 
+                    - 1) I use [this]([[Evergreens/Evergreen notes should be densely linked]]) idea as much as I can. 
                     - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
                         - This helps as a filter on pages as well. 
                             - Image::
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fv76lWL9fSC.png?alt=media&token=648c2190-46e7-4dec-9ad4-a93d12d6e5fd)
                     - I believe processes here will evolve. 
                         - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([[resurfacing]]).
-                        - The idea of [[[[E:]] active vs passive resurfacing]] is related here. #Bookmarks
+                        - The idea of [[Evergreens/active vs passive resurfacing]] is related here. #Bookmarks
                             - Within [[passive resurfacing]], there are strategies we can hone to improve the [[probability]] of [[resurfacing]].
                                 - E.g. use of [[zettelkasten]] notes to preserve main ideas.
                                 - The questions I constantly ask myself (somewhat by second nature) is: 
@@ -142,7 +142,7 @@
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[[[E:]] double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
+        - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[Evergreens/double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #[[GTD Zone]]
         - Answer to [[^[[Peter Rosso]]]] 
@@ -166,7 +166,7 @@
                     - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[[contrarians]]". This can lead to [[confirmation bias]], creation of echo chambers and in some extent cults and collectives 😂
                     - e.g. Good partners, when in synch are often referred to as power couples. __"You should see y best friend and I on a good day - we are unstoppable" - Peter__
                         - The synch does not necessarily need to be in amount of output: good friends and partners are often able to push each other even when only one of the two has energy. 
-                - The up and down in the waveform below have some parallel with the [[[[E:]] double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
+                - The up and down in the waveform below have some parallel with the [[Evergreens/double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
                     - Image::
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnSb_C87Ivt.png?alt=media&token=09463f46-264a-4b4e-87b7-f57b8009a2e7)
                     - The dots on the bottom of the image also represent the density of air created by the air displacement carrying the sound. 
@@ -188,7 +188,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]])  
     #Scratchpad 
         - 🛠 IN PROGRESS - RETURN LATER
-            - #[[Fleeting Notes]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
+            - #[[FN]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
                     - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
                 - Arguments:
@@ -272,12 +272,12 @@ I think I need to go through the whole process to make sure I internalise it.
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
-            - "#[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
+            - "#[[FN]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
                 - This is really striking at something
                 - The challenge is - how does one define acceptance of a term? 
-                    - #[[Fleeting Notes]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
+                    - #[[FN]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
                         - This is analogous to applying heat to molecules to create structure 
-                        - #[[Fleeting Notes]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
+                        - #[[FN]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
                             - It is costly to:
                                 - (re: basis) have a (sufficient) basis of shared context
                                 - (re: process) share mental models asynchronously 
@@ -290,7 +290,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     #[[Meetings & Discussions]]
         - "[[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] "
-            - "#[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes"
+            - "#[[FN]] Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -305,7 +305,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - "**Activity:** Review, query, filter and browse the many [[questions]] captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
         - Trying to tie together the collective's thoughts on [[maturity]]
             - #[[Follow Up]] In progress...
-                - [[[[E:]] Why build maturity into your knowledge management system?]]
+                - [[Questions/Why build maturity into your knowledge management system?]]
                     - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
             - [[maturity]] scale for notes
                 - ## Maturity Levels
@@ -326,7 +326,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Background on the [[zettelkasten]]
             - #Evergreens #Q What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
-                    - #[[Fleeting Notes]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+                    - #[[FN]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
                     - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
@@ -377,12 +377,12 @@ I think I need to go through the whole process to make sure I internalise it.
             - Memorialization "decreases the search cost"
             - [[Brandon Toner]] has joined the chat!
             - How do you control authorship?
-                - See: [[[[E:]] Evergreen notes should be concept-oriented]]
+                - See: [[Evergreens/Evergreen notes should be concept-oriented]]
             - Larissa
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes
+            - #[[FN]] Community Notes are an Extension of Evergreen Notes
                 - #[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on...
     - #[[Change Log]]
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -415,19 +415,19 @@ I think I need to go through the whole process to make sure I internalise it.
             - I’m in [[@[[Dhrumil Shah]]]]
             - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[~[[Brandon Toner]]]]
     - #[[Scratchpad]]
-        - #[[Fleeting Notes]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
-            - Related:: [[[[E:]] Evergreen note titles are like APIs]]
-            - Related:: "#[[Fleeting Notes]] block-embed [[model]]"
+        - #[[FN]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
+            - Related:: [[Evergreens/Evergreen note titles are like APIs]]
+            - Related:: "#[[FN]] block-embed [[model]]"
         - #[[I]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
-        - #[[Fleeting Notes]] Define composable local [[structure]] will enable predictable global [[structure]].
+        - #[[FN]] Define composable local [[structure]] will enable predictable global [[structure]].
             - Related:: "#Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
-        - #[[Fleeting Notes]] [[procedures]] are of loose couple [[structure]] between each step.
-        - #[[Fleeting Notes]] "#[[Fleeting Notes]] block-level [[model]]" is of tight couple [[structure]].
+        - #[[FN]] [[procedures]] are of loose couple [[structure]] between each step.
+        - #[[FN]] "#[[FN]] block-level [[model]]" is of tight couple [[structure]].
     - #[[Bookmarks]]
         - {{[[embed]]: ((wfOtQk0aX))}}
         - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
         - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
-        - "#[[Fleeting Notes]] Community Notes are an Extension of Evergreen Notes"
+        - "#[[FN]] Community Notes are an Extension of Evergreen Notes"
         - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
         - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
         - {{[[embed]]: ((HmjblrRLi))}}

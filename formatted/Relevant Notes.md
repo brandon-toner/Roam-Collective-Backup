@@ -1,46 +1,46 @@
 
 # Backlinks
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **Concept page:** [prepositional linkages](<prepositional linkages.md>)
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}}}} [minimal](<minimal.md>)
     - **[Relevant Notes](<Relevant Notes.md>):**
 
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- **Concept page:** [prepositional linkages](<prepositional linkages.md>)
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
-- **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
 ## [grist for the mill](<grist for the mill.md>)
-- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
-    - **[Relevant Notes](<Relevant Notes.md>):**
-
-## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 

@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) capture [resonant]([resonance](<resonance.md>)) ideas, mapping the territory of thought. [Patterns]([patterns](<patterns.md>))
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) capture [resonant]([resonance](<resonance.md>)) ideas, mapping the territory of thought. [Patterns]([patterns](<patterns.md>))
 
 - Once the map is established, [patterns](<patterns.md>)
 

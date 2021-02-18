@@ -6,7 +6,7 @@
     2. Add note under a #[Change Log](<../Change Log.md>) header in your Daily Notes Section, referencing the code block and detailing the change
     3. Try to use the standard set of colors & variables as much as possible!
 - **[### Shortcuts](<../### Shortcuts.md>):**
-    - [Colors](Colors)
+    - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
         - [Collections Tags](((JNVnlLDxv))) 
         - [Notifications & Mentions](((01X6uO5N8)))
@@ -66,7 +66,7 @@
                 - Yellow
                     - ```css
 :root {
-  --cl-yellow-100: [ffe499ff](<../ffe499ff.md>); /*--jasmine:*/
+  --cl-yellow-100: [FDEAB4ff](<../FDEAB4ff.md>); /*--jasmine:*/
   --cl-yellow-200: [fbdc86ff](<../fbdc86ff.md>); /*--jasmine-2:*/
   --cl-yellow-300: [f7d473ff](<../f7d473ff.md>); /*--orange-yellow-crayola:*/
   --cl-yellow-400: [f3cc60ff](<../f3cc60ff.md>); /*--maize-crayola:*/
@@ -946,8 +946,8 @@ code {
 ```
                 - Example: `this is a code block`
 - **Code:**
-    - ## Elements
-        1. ## Tag Styling [Status](<../Status.md>)/Enabled
+    - Elements
+        1. Tag Styling [Status](<../Status.md>)/Enabled
             1. Variables
                 - ```css
 :root {
@@ -977,8 +977,8 @@ code {
                 - Code
                     - ```css
 :root {
-  --background:[607D8B](<../607D8B.md>);
-  --color:[FFFFFF](<../FFFFFF.md>);
+  --background: var(--cl-blue-lt-700);
+  --color: var(--cl-white);
   --padding:2px 5px 2px 5px;
   --font-size: 13px;
   --line-height: 1em;
@@ -1217,9 +1217,9 @@ span.rm-page-ref[data-tag="Next Steps"]:before {
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
-	background-image: linear-gradient(to right, [607D8B](<../607D8B.md>),[607D8B](<../607D8B.md>));
+	background-image: linear-gradient(to right, var(--cl-blue-dk-900),var(--cl-blue-dk-900));
 	background-size: 100%;
-    color: rgb(255,255,255);
+    color: var(--cl-white);
     padding: 3px 2px 3px 5px;
     font-size: 13px;
     line-height: 1em;
@@ -1228,8 +1228,8 @@ span.rm-page-ref[data-tag="My Daily Notes"] {
 }
 
  span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
-     background: [BFE4F2](<../BFE4F2.md>) !important;
-     color: [F3F7F2](<../F3F7F2.md>) !important;
+     background: var(--cl-blue-lt-200) !important;
+     color: var(--cl-white);
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;
@@ -1252,14 +1252,14 @@ span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Po
 
 span.rm-page-ref[data-tag="My Daily Notes"]:after {
     border-color: rgba(255,255,255,0);
-    border-left-color: [607D8B](<../607D8B.md>);
+    border-left-color: var(--cl-blue-dk-900);
     border-width: 11px;
     margin-top: -11px;
 }
 
 span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-color: rgba(255,255,255,0);
-    border-left-color: [607D8B](<../607D8B.md>);
+    border-left-color: var(--cl-blue-dk-900);
     border-width: 11px;
     margin-top: -11px;
 }```
@@ -1473,9 +1473,9 @@ span.rm-page-ref[data-tag="Fleeting Notes"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
-background: [FFEFBA](<../FFEFBA.md>);  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>));  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, [FFEFBA](<../FFEFBA.md>), [FFEFBA](<../FFEFBA.md>)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: var(--cl-yellow-100);  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, var(--cl-yellow-100), var(--cl-yellow-100)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }```
                     - Version 2
                         - ```javascript
@@ -1496,6 +1496,27 @@ span.rm-page-ref[data-tag="Fleeting Notes"] {
   	font-weight:	600;
 }
 */```
+                - [FN](<../FN.md>)
+                    - ```css
+span.rm-page-ref[data-tag="FN"]:before {
+    content: 		'🕊';
+    font-size: 		var(--tag-icon-font-size);
+}
+
+span.rm-page-ref[data-tag="FN"]:after {
+    content: 		':';
+}
+
+span.rm-page-ref[data-tag="FN"] {
+    color: 			var(--cl-gray-900) !important;
+    padding: 		2px 5px 2px 5px;
+	font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-yellow-100);
+```
                 - #[Literature Notes](<../Literature Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {
@@ -4460,7 +4481,7 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     line-height: 2em;
     font-weight: 500;
 }```
-        2. # Buttons & Word Count [Status](<../Status.md>)/Enabled
+        2. Buttons & Word Count [Status](<../Status.md>)/Enabled
             - Example: {{word-count}}
             - Code
                 - ```css
@@ -4496,7 +4517,7 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
 	padding: 2px 4px 2px 4px; 
 	min-height: 0px;
 }```
-        3. # Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
+        3. Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
             - ```css
 
 .roam-block-container  div.roam-block-container {
@@ -4514,7 +4535,7 @@ transition:  box-shadow 0.5s;
 {
 background-color: [000000](<../000000.md>);
 }```
-        4. # Query Display Options [Status](<../Status.md>)/Enabled
+        4. Query Display Options [Status](<../Status.md>)/Enabled
             - Code
                 - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
@@ -4569,7 +4590,7 @@ display:none!important; /* hide page reference (title) */
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }```
-        5. # Headings [Status](<../Status.md>)/Enabled
+        5. Headings [Status](<../Status.md>)/Enabled
             - Preview
                 - # Heading 1
                     - ## Heading 2
@@ -4642,7 +4663,7 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-        6. # Page References [Status](<../Status.md>)/Enabled
+        6. Page References [Status](<../Status.md>)/Enabled
             - ```css
 .rm-page-ref-link-color {
     color: [2179F3](<../2179F3.md>);
@@ -4651,12 +4672,12 @@ h1.level2,
 a {
     color: [2179F3](<../2179F3.md>);
 }```
-        7. # Page Reference Brackets
+        7. Page Reference Brackets
             - ```ruby
 .rm-page-ref__brackets{
   display:none;
 }```
-        8. # Block Reference styling [Status](<../Status.md>)/Enabled
+        8. Block Reference styling [Status](<../Status.md>)/Enabled
             - ```css
 /*Block Reference formatting*/
 
@@ -4667,9 +4688,9 @@ a {
   	text-decoration: underline;
   	text-decoration-color: [FF9800](<../FF9800.md>); */
 }```
-        9. # Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
+        9. Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
             - Example
-                - [[[E:](<../[[E:.md>) active vs passive resurfacing]]
+                - [Evergreens/active vs passive resurfacing](<../Evergreens/active vs passive resurfacing.md>)
             - Code
                 - V3
                     - ```css
@@ -4732,7 +4753,7 @@ a {
     text-decoration: none;
     padding-bottom: 0px;
 }```
-        10. # External Links [Status](<../Status.md>)/Enabled
+        10. External Links [Status](<../Status.md>)/Enabled
             - V1
                 - ```css
 .rm-alias--external {
@@ -4754,7 +4775,7 @@ a {
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
-        11. # Alias Styling 
+        11. Alias Styling 
             - ```clojure
 .rm-alias.rm-alias-page {
   	color: [0884ff](<../0884ff.md>) ;
@@ -4774,13 +4795,13 @@ a {
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
-        12. # Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
+        12. Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
             - ```css
 
 [right-sidebar](<../right-sidebar.md>) .rm-title-textarea {
     width: 95%;
 }```
-        13. # Left Sidebar — Highlight important pages [Status](<../Status.md>)/Enabled
+        13. Left Sidebar — Highlight important pages [Status](<../Status.md>)/Enabled
             - ```css
 
 .starred-pages a[href*="MorTyZR-2"]>.page,
@@ -4803,7 +4824,7 @@ a {
 {
   color: [9C27B0](<../9C27B0.md>) !important;
 }```
-        14. # Show Main Page multibar [Status](<../Status.md>)/Enabled
+        14. Show Main Page multibar [Status](<../Status.md>)/Enabled
             - This is to stop people (read: me :P ) from accidentally clicking on the bar
             - ```css
 

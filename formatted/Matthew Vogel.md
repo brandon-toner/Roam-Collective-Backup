@@ -63,7 +63,7 @@ return [query, results];```
             - {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}}}}
     - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
-        - [[[E:](<[[E:.md>) alert fatigue]]
+        - [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)

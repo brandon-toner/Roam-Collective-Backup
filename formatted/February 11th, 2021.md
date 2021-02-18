@@ -77,7 +77,7 @@
             - CSS snippets
             - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Fleeting Notes](<Fleeting Notes.md>) [Sprint]([sprints](<sprints.md>)) and epic titles should be descriptive.
+        - #[FN](<FN.md>) [Sprint]([sprints](<sprints.md>)) and epic titles should be descriptive.
     - [Conversation](<Conversation.md>) 
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         2. On a RC domain[*](((81t5uIxRT)))
@@ -148,7 +148,7 @@
                         - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
                         - Oriented around a question block and page:
                             - Initial block: "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
-                            - Ultimate page: [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
+                            - Ultimate page: [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
                     - How work splits across Epics & Questions...
                         - The epic page is used to outline sprints and individual story points / questions
                         - The question block is used within the outline of the epic
@@ -159,7 +159,7 @@
                     - [Backlog](<Backlog.md>) ← repository for the current outlines of active Epics & Sprints
                     - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>) 3
                     - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) ← Sprint from now until next Sunday
-                    - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
+                    - [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
                     - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
             - "[I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
                 - "[Draft Sprints template](((tG1HJs2dK)))"

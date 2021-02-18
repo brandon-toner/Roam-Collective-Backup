@@ -18,9 +18,9 @@
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
-            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]])
+            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>))
                 - **[Source](<Source.md>):** Reply to Visa's tweet.
-            - #[Fleeting Notes](<Fleeting Notes.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
+            - #[FN](<FN.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
                 - [I](<I.md>) Use [Wikipedia](<Wikipedia.md>) to find existing [classification](<classification.md>) systems.
             - [Q](<Q.md>) What [classification](<classification.md>) systems, [taxonomies](<taxonomies.md>), or lists would be useful within Roam Collective?
                 - List of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
@@ -42,10 +42,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - [Q](<Q.md>) What classes of tags are there that might have different colors?
-        - #[Fleeting Notes](<Fleeting Notes.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
+        - #[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
-            - #[Fleeting Notes](<Fleeting Notes.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
+            - #[FN](<FN.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
@@ -108,7 +108,7 @@
                         - "Counter-example"
                 - Argument structure
                     - __This requires a separate schema...__
-            - "[[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
+            - "[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)"
             - "[prepositional linkages](<prepositional linkages.md>)"
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) Continued exploration of story points [*](((my07O-J1h)))
@@ -136,7 +136,7 @@
                                 - [ ] Why use AoT's to support divergent thinking?
                                 - [ ] How to use AoT's to support divergent thinking?
                                     - Would include examples
-                        - "[ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] ""
+                        - "[ ] "[Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) ""
                     - "[ ] What, Why, How: Convergent Thinking"
                         - What is convergence and convergent thinking?
                         - Why is convergence helpful?
@@ -152,7 +152,7 @@
                     - [ ] What, Why, How: Contributing to Shared Artifacts
                 - [ ] What, Why, How: Dependencies within a Graph
                     - "[ ] What, Why, How: Defining Types of Relationships"
-                        - "[ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))"
+                        - "[ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W)))"
                     - [ ] What, Why, How: Tracking Conversations
                 - [ ] What, Why, How: Analyzing Your Graph
                     - [ ] What, Why, How: Leveraging The Relationships Between Ideas

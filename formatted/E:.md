@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+- Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)`
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - Could use `[S:](<S:.md>)` + `[E:](<E:.md>)`
 
@@ -67,7 +70,4 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>)
-
-## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- Below you could have the meta data unnested — can easily be tied to an evergreen through use of the `[E:](<E:.md>)`
 

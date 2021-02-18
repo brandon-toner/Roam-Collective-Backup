@@ -35,6 +35,9 @@
     - 
 
 # Backlinks
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 
@@ -101,9 +104,6 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
-
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
 - **[Author](<Author.md>):** [Peter Rosso](<Peter Rosso.md>)
 

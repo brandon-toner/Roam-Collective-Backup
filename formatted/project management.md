@@ -2,11 +2,11 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
 
-- #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
+- #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
 
-- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
 
 - #[Follow Up](<Follow Up.md>) "[^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
 
@@ -40,5 +40,5 @@
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
+- #[FN](<FN.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
 

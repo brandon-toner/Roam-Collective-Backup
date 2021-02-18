@@ -6,7 +6,7 @@
     - **[Resources](<../Resources.md>):** 
         - [[[R:](<../[[R:.md>) Agile Product Management in Roam]]
     - **[Related](<../Related.md>):** 
-        - [[[Q:](<../[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
+        - [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<../Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         1. Embedded work from `[[[Q:](<../[[Q:.md>) How could an "[agile](<../agile.md>)" approach to collaboration be implemented in Roam Collective?]]`:
             - {{[embed](<../embed.md>): ((hERIWAO3v))}}
@@ -15,6 +15,6 @@
 ## [Backlog](<Backlog.md>)
 - [Epics/Implement Agile Methodologies in Roam](<../Epics/Implement Agile Methodologies in Roam.md>)
 
-## [[Q:](<../[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<../Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - [Epics/Implement Agile Methodologies in Roam](<../Epics/Implement Agile Methodologies in Roam.md>)
 

@@ -42,6 +42,9 @@
 
 - {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>)
 
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
+- [Charles Farr](<Charles Farr.md>)
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - [Charles Farr](<Charles Farr.md>)
 
@@ -92,7 +95,7 @@
 
 - [Charles Farr](<Charles Farr.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+- #[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
@@ -114,7 +117,7 @@
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+- ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - ""The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 
@@ -214,22 +217,19 @@
 
 - **[Project Lead](<Project Lead.md>):** [Charles Farr](<Charles Farr.md>)
 
-## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
-
-- "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
-
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
-- [Charles Farr](<Charles Farr.md>)
-
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'
-
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (on behalf of [Charles Farr](<Charles Farr.md>))
 
 - **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
 
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+
+- "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 

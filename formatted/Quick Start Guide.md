@@ -44,7 +44,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "Embedded [videos](<videos.md>) accompanying the written [documentation](<documentation.md>) and showing [examples](<examples.md>) could be useful" [*](((nwqDQY2hP))) [I](<I.md>) [onboarding](<onboarding.md>) #[Quick Start Guide](<Quick Start Guide.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>)
+- #[FN](<FN.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>)
 
 ## [Learning Center](<Learning Center.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)

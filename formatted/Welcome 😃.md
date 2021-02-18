@@ -14,6 +14,9 @@
 ## [Announcements](<Announcements.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>))
 
+## [February 17th, 2021](<February 17th, 2021.md>)
+- [Obs](<Obs.md>) The page ID for the [Welcome 😃](<Welcome 😃.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - INTERNALLY, I think the learning center should stem off of the [Welcome 😃](<Welcome 😃.md>)
 

@@ -92,7 +92,7 @@
             - Meta
                 - **[Related](<Related.md>):** [prepositional linkages](<prepositional linkages.md>)
                 - **[Disclaimer](<Disclaimer.md>):** This is going to look/feel excessive — but I am attempting to map the full model in order to be [collectively exhaustive](<collectively exhaustive.md>). Some of these will be able to be inferred or implied based on context. 
-                    - #[Fleeting Notes](<Fleeting Notes.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
+                    - #[FN](<FN.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
                 - [I](<I.md>) The study of [grammar](<grammar.md>) may prove a valuable resource for the discovery of potential block-level tags and annotations.
                 - [Resources](<Resources.md>)
                     - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [structure](<structure.md>) here.
@@ -116,9 +116,9 @@
             - Decisions
             - Rationale/Reason/Justification
             - Prediction
-        - #[Fleeting Notes](<Fleeting Notes.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
-            - #[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
-                - #[Fleeting Notes](<Fleeting Notes.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
+        - #[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
+            - #[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+                - #[FN](<FN.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
                 - [Obs](<Obs.md>) [statement chains](<statement chains.md>) feels off, because lines of [logic](<logic.md>) involve more than [statements](<statements.md>). 
         - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
             - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -126,7 +126,7 @@
                 - Burying the page names in an alias is kinda annoying.
         - [Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?
             - You can't, really. And that's ok.
-                - #[Fleeting Notes](<Fleeting Notes.md>) [collaborative graphs](<collaborative graphs.md>) are [chaotic](<chaotic.md>).
+                - #[FN](<FN.md>) [collaborative graphs](<collaborative graphs.md>) are [chaotic](<chaotic.md>).
             - [Q](<Q.md>) What information is important to [catch-up](<catch-up.md>) on?
                 - Epics
                 - Sprints
@@ -136,6 +136,10 @@
             - **[Source](<Source.md>):** https://catominor3.medium.com/roam-with-style-8a18c216d338
         - [Q](<Q.md>) How might a [CSS](<CSS.md>) page be laid out to improve navigation and collaboration? 
             - [Q](<Q.md>) Is there a [standard](<standard.md>) layout for a [CSS](<CSS.md>) page in Roam? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Matthew Vogel](<@[[Matthew Vogel.md>)]])
+        - [Obs](<Obs.md>) The page ID for the [Welcome 😃](<Welcome 😃.md>) page spells "Morty"
+            - **[Images](<Images.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlO0dipVaDj.png?alt=media&token=ebc77d40-2bbf-487f-81c8-3f318dbc8861)
+            - [I](<I.md>) So naturally [Morty](<Morty.md>) is graph greeter / mascot.
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - SRS Call with [Adam Krivka](<Adam Krivka.md>) 
             - [Matt Brockwell](<Matt Brockwell.md>)
@@ -205,7 +209,9 @@
             - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `[Fleeting](<Fleeting.md>)  Notes` to be more subtle....
                     - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
-    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+            - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
@@ -225,7 +231,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
-                - Re: "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+                - Re: "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
                     - If I were to rephrase this (using my css), it would look like...
                     - [Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy [therefore](<therefore.md>) css...
@@ -237,7 +243,9 @@
                                 3. The content of the note
                             - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
                                 - See: "Version 2"
-                    - #[Fleeting Notes](<Fleeting Notes.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+                    - #[FN](<FN.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
+            - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
@@ -257,7 +265,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?"
-        - "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+        - "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [Mark Robertson](<Mark Robertson.md>) has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric" and on logic have stuff on that.

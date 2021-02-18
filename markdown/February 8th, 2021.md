@@ -84,10 +84,10 @@
                 - ....
         - Updated conventions for notes types
             - [[[[Roam-Collective]]: Zettelkasten Conventions]]
-            - #[[Fleeting Notes]] Fleeting notes capture nascent ideas with potential to contribute to
+            - #[[FN]] Fleeting notes capture nascent ideas with potential to contribute to
     - #Conversation
         - [[~[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
-            - Candidate for change: [[[[E:]] Why build maturity into your knowledge management system?]]
+            - Candidate for change: [[Questions/Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
     - #Bookmarks
         - #Tweet on divergent & convergent thinking from Conor + Deepu

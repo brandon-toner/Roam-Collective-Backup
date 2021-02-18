@@ -22,7 +22,7 @@
         - {{[query](<query.md>): {and: [cc:[[Samuel Bars](<cc:[[Samuel Bars.md>)]] {not: [query](<query.md>)]}}}}
 - My activity on the graph
     - **Questions**:
-        - {{[query](<query.md>): {and: [smb](<smb.md>) [Q:](<Q:.md>) }}} [minimal](<minimal.md>)
+        - {{[query](<query.md>): {and: [smb](<smb.md>) [Q](<Q.md>) }}} [minimal](<minimal.md>)
     - **Ideas**:
         - {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>) {not: [query](<query.md>)]}}}} [minimal](<minimal.md>)
 - Smartblocks

@@ -30,7 +30,7 @@
 - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>).
+- #[FN](<FN.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>).
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - For [SmartBlocks](<SmartBlocks.md>)

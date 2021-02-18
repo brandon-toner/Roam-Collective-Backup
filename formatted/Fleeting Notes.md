@@ -1,615 +1,129 @@
-- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
-- **[Related](<Related.md>):**
-    - [reference notes](<reference notes.md>)
-    - [literature notes](<literature notes.md>)
-    - [evergreen notes](<evergreen notes.md>)
-- For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
 
 # Backlinks
-## [Announcements](<Announcements.md>)
-- Check out the #[Fleeting Notes](<Fleeting Notes.md>)
+## [Agreement Rating](<Agreement Rating.md>)
+- Idea: Ability to add a [slider](<slider.md>) to a note to rate the degree of agreement with the assertion. Great for [fleeting notes](<fleeting notes.md>)
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Fleeting Notes](<Fleeting Notes.md>)
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
-## [Brandon Toner](<Brandon Toner.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Fleeting Notes](<Fleeting Notes.md>)
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-## [February 10th, 2021](<February 10th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 11th, 2021](<February 11th, 2021.md>)
-- Tag questions with `[Q](<Q.md>)` , ideas with `[I](<I.md>)` related claims and assertions with `#[Fleeting Notes](<Fleeting Notes.md>)`
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 12th, 2021](<February 12th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 13th, 2021](<February 13th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
+## [FN](<FN.md>)
+- [fleeting notes](<fleeting notes.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 16th, 2021](<February 16th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) The [fleeting notes](<fleeting notes.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)`
-
-- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)`
-
-- Re: "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>)
-
-- It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)`
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>)
+- [Q](<Q.md>) How does this differ from [fleeting notes](<fleeting notes.md>),
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- Many similar [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- `#[Fleeting Notes](<Fleeting Notes.md>)`
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- Concrete [need](((l1bAGu1Op))) for "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- Some early thoughts I am in process of further refining under here: "#[Fleeting Notes](<Fleeting Notes.md>)
+- "Seedlings may be used to designate a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
+- [Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+3. Charles on [fleeting notes](<fleeting notes.md>)
 
-- Building on "#[Fleeting Notes](<Fleeting Notes.md>)
+- "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Follow Up](<Follow Up.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- """#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 4th, 2021](<February 4th, 2021.md>)
-- **[Related](<Related.md>):** The above block is the example of "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 6th, 2021](<February 6th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 7th, 2021](<February 7th, 2021.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 8th, 2021](<February 8th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [February 9th, 2021](<February 9th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [Fleeting Notes](<Fleeting Notes.md>)
-- For the collection of fleeting notes (and to observe documentation conventions for their use), visit: #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [January 25th, 2021](<January 25th, 2021.md>)
-- Check out the #[Fleeting Notes](<Fleeting Notes.md>)
-
-1. #[Fleeting Notes](<Fleeting Notes.md>)
-
-2. #[Fleeting Notes](<Fleeting Notes.md>)
-
-3. #[Fleeting Notes](<Fleeting Notes.md>)
-
-5. #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- ""Document ideas freely as [fleeting notes](<fleeting notes.md>)"
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- Summarizing resource / meeting / <event>
-            - **[Fleeting Notes](<Fleeting Notes.md>):**
+- In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>),
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- Capture assertions as [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) conversation surrounding [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) far outnumber [literature notes](<literature notes.md>) and [permanent notes](<permanent notes.md>) in quantity. It take an accumulation of [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- As my wanderings inspire thoughts and ideas, I save those ideas as [fleeting notes](<fleeting notes.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- These are statements written inline with my notes. [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- When adding new [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)[
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)[
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)[
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- **[Example](<Example.md>):** "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
+- As both [fleeting notes](<fleeting notes.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>)
+- #[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- I'll draw something out on this to further clarify, but in this expression [fleeting notes](<fleeting notes.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen [fleeting notes](<fleeting notes.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-1. I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
+- Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+1. I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- What I'm feeling is likely the thing [Sonke Ahrens](<Sonke Ahrens.md>) created [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- The [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- While making a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
+- agree with current setting: "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
+- Writing [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- #[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- How I see this flowing: [Processes](<Processes.md>) [*]([fleeting notes](<fleeting notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+1. Users document ideas as [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+2.  Users **continue the conversation** of these notes by [referencing]([block referencing](<block referencing.md>)) them in discussion, and formulating new [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "When referencing a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]]" + "My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>)
+- As I read (and generally move through life) I collect [literature notes](<literature notes.md>) and [fleeting notes](<fleeting notes.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- Document ideas freely as [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- While making [fleeting notes](<fleeting notes.md>),
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- The reason I'm hesitant to change the css related to [fleeting notes](<fleeting notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)
+## [Literature Notes](<Literature Notes.md>)
+- **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>),
 
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-5. "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>)
-
-""#[Fleeting Notes](<Fleeting Notes.md>)
-
-""#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [Fleeting Notes](<Fleeting Notes.md>)
+## [Reference Notes](<Reference Notes.md>)
+- [fleeting notes](<fleeting notes.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- ""#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-## [The Hub](<The Hub.md>)
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
-
-## [evergreen notes](<evergreen notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>)
-
-## [leekeifon](<leekeifon.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>)
-
-## [roam/css](<roam/css.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- "Document ideas freely as [fleeting notes](<fleeting notes.md>)"
 
 ## [zettelkasten](<zettelkasten.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>)
+- [fleeting notes](<fleeting notes.md>)
 

@@ -7,7 +7,7 @@
         - **[How to contact me](<How to contact me.md>):** Twitter/Roam Slack
         - **[Interests](<Interests.md>):** Math/Logic/Design/Program
 - **[Queries](<Queries.md>):**
-    - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) [leekeifon](<leekeifon.md>)}}}
+    - [minimal](<minimal.md>) {{[query](<query.md>): {and: [FN](<FN.md>) [leekeifon](<leekeifon.md>)}}}
     - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>) [Bookmarks](<Bookmarks.md>)}}}
     - [minimal](<minimal.md>)  {{[query](<query.md>): {and: [Experiments](<Experiments.md>) [leekeifon](<leekeifon.md>)}}}
     - # {{[query](<query.md>): {and: [@[[leekeifon](<@[[leekeifon.md>)]]}}}
@@ -37,11 +37,11 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
+- "#[FN](<FN.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
 
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
+- #[FN](<FN.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "Seems that alias don’t work well with query?" [*](((WUv5rMu8g))) [leekeifon](<leekeifon.md>)
@@ -52,7 +52,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [leekeifon](<leekeifon.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) [leekeifon](<leekeifon.md>)}
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [FN](<FN.md>) [leekeifon](<leekeifon.md>)}
 
 - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>)
 

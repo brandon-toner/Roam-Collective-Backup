@@ -1,4 +1,4 @@
 - Tags:: #Concepts
-- Related:: [[venn diagrams]], [[conventions]], [[[[E:]] mutually exclusive, collectively exhaustive (MECE)]]
+- Related:: [[venn diagrams]], [[conventions]], [[Seedlings/mutually exclusive, collectively exhaustive (MECE)]]
 - Image::
     - ![Mutually Exclusive Events (solutions, examples, videos)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.onlinemathlearning.com%2Fimage-files%2Fprobability-mutually-exclusive.png&f=1&nofb=1)

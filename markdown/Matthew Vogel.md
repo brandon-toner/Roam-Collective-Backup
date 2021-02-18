@@ -63,4 +63,4 @@ return [query, results];```
             - {{[[query]]: {and:[[Location]] {or:[[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]]} {not:[[query]]}}}}
     - SmartBlocks::#not-populated
     - Bookmarks::
-        - [[[[E:]] alert fatigue]]
+        - [[Evergreens/alert fatigue]]

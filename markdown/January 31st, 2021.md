@@ -52,9 +52,9 @@
                 - Active [CSS for nested pages](((y9rumn-yn))) helps to determine what part of the page is selected.
         - #Observations
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
-                - #[[Fleeting Notes]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
-                    - #[[Fleeting Notes]] Keeping up the [[momentum]] is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants.
-                        - #[[Fleeting Notes]] Keeping up with [[notifications]] "is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+                - #[[FN]] the blank [[DNP]] and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
+                    - #[[FN]] Keeping up the [[momentum]] is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants.
+                        - #[[FN]] Keeping up with [[notifications]] "is important in a [collaborative graph]([[collaborative graphs]]) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
         - #[[Development Requests]] #[[Help Wanted]]
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
@@ -66,7 +66,7 @@
             - Objectives::
                 - Have [[pages]] for commonly referenced ideas.
                 - Clear authorship.
-                - [[[[E:]] low floor, high ceiling]] workflow
+                - [[Evergreens/low floor, high ceiling]] workflow
                 - Ease of [[onboarding]].
                 - Clear [[disambiguation]]
                 - Minimize [[cognitive burden]] associated with too many tags [*](((Ur95KwfFX)))
@@ -79,7 +79,7 @@
                         - #Q How do you differentiate title authorship from body authorship?
                             - For the purposes of avoiding [[plagarism]] and generating accurate [[references]].
                 - On [[order]] of notes within the [[zettelkasten]]:
-                    - #[[Fleeting Notes]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves.
+                    - #[[FN]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves.
                     - This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]].
                     - #Q How can the order of notes within the zettelkasten be represented in this emerging system?
                         - The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here.
@@ -97,8 +97,8 @@
                         - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
                 - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
-                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
-                    - I see more detail as [[[[E:]] beneficial, but optional]]
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - I see more detail as [[Evergreens/beneficial, but optional]]
             - Questions::
                 - #Q How does [this system](((sBu3zOPiV))) provide a difference in generating [[output]]?
                 - #Q How can a [[conversation]] be best facilitated among the notes of the [[zettelkasten]]?
@@ -106,7 +106,7 @@
                 - #Q How can [[questions]] be integrated in to [[zettelkasten]]?
                     - Related:: 
                         - "#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"
-                        - "#[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."
+                        - "#[[FN]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."
                         - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
                         - "My preference is to limit it to a parent-level tag and then a block level tag"
                 - #Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?
@@ -114,7 +114,7 @@
                 - Document ideas freely as [[fleeting notes]]
                 - [[literature notes]] or [[verbatim notes]] are representations of the author's ideas.
                     - OK to be verbatim — these should be quick & easy! 
-                        - #[[Fleeting Notes]] The need for originality adds [[cognitive burden]].
+                        - #[[FN]] The need for originality adds [[cognitive burden]].
                     - References::
                         - https://twitter.com/syncretizm/status/1355812313505230852?s=21
                 - As ideas begin to feel [[evergreen]], a page should be created.
@@ -172,7 +172,7 @@
             - Options:: 
                 - Option A - `[[E:]]`
                     - Example::
-                        - [[[[E:]] Evergreen Note example 1]]
+                        - [[Evergreens/Evergreen Note example 1]]
                     - Pros:: 
                         - Able to be included as a query element.
                             - "#Q Is this important?"
@@ -188,24 +188,24 @@
                             - #Q Is this important?
                         - "The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse."
                             - This leads to inconsistent visual presentation... 
-                                - #[[Fleeting Notes]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
+                                - #[[FN]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
             - Status:: ^^Updated to E/^^ 
                 - `[[E:]]` (at the time of creation)
-            - Decision:: "Option A - `[[E:]]`", used with [[[[E:]] Evergreen Note example 3]]
+            - Decision:: "Option A - `[[E:]]`", used with [[Evergreens/Evergreen Note example 3]]
             - Factors::
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
                     - Allows the name to be visually streamlined #readability
             - Conversation::
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
-                    - Related:: [[[[E:]] Evergreen Note example 3]]
+                    - Related:: [[Evergreens/Evergreen Note example 3]]
             - Notes::
                 - Benefits of including a namespace:
                     - Easy recall via the [[auto-populate]] menu. 
                         - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
             - #I It might be helpful to include a `Factors::` attribute, that could be referenced in the various pros and cons...
                 - Rationale:: Often the pros of one are the cons to another. There are repeated parts.
-            - #[[Fleeting Notes]] [[[[E:]] Use the native convention as much as possible.]]
+            - #[[FN]] [[Evergreens/Use the native convention as much as possible.]]
         - {{[[TODO]]}} [[Choice]]: Whether to include the #Evergreens tag as an element of the evergreen note process ((((e-lL4buZ1))))
             - Options:: 
                 - A — Include `#Evergreen` tag as part of process
@@ -244,10 +244,10 @@
             - `Chat` should be reserved for the top-section for now.
             - "`Conversation` as a DNP Module as opposed to Chat + Comments."
     - #[[The Zettelkasten]] 
-        - #[[Fleeting Notes]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
+        - #[[FN]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
             - Related:: 
                 - [[What indicates that a seedling has fully matured into an evergreen note?]]
-                - [[[[E:]] Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [[Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings]]
         - #Q What is a good page title or tag to collect ideas around note maturation?
         - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]
             - There is too much overlap right now.
@@ -264,11 +264,11 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([[[[E:]] Have a clear aim]]) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([[Evergreens/Have a clear aim]]) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [[page status]], and should be frequently referenced in related discussions.
-                            - #[[Fleeting Notes]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
-                                - #[[Fleeting Notes]] Not ALL evergreen notes and zettel questions should be on the [[mental fingertips]] of group members — just the ones that are related to central to active pursuits.
+                            - #[[FN]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
+                                - #[[FN]] Not ALL evergreen notes and zettel questions should be on the [[mental fingertips]] of group members — just the ones that are related to central to active pursuits.
                                     - Strategies:
                                         - List on project pages
                                         - Maintain familiarity through the use of [[spaced repetition]]
@@ -276,9 +276,9 @@
                         - Suggestion:: `#[[Zettel Questions]]`
         - #Q What is the role of the Q questions tag?
             - Inline questions, even less threshold than [[open questions]]. #Conventions
-        - #[[Fleeting Notes]] [[[[E:]] Make evergreen notes as you write.]]
-        - #[[Fleeting Notes]] clear [[conventions]] for [[collaboration]] are a [[pre-requisite]] for effective [[project management]].
-        - #[[Fleeting Notes]] the [[astrolabe icon]] is an excellent place to hide [[instructions]].
+        - #[[FN]] [[Evergreens/Make evergreen notes as you write.]]
+        - #[[FN]] clear [[conventions]] for [[collaboration]] are a [[pre-requisite]] for effective [[project management]].
+        - #[[FN]] the [[astrolabe icon]] is an excellent place to hide [[instructions]].
     - #Questions
         - #Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)
         - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
@@ -295,7 +295,7 @@
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
                     - Similar convention for within [[About Roam Collective]]
         2. #[[Graph Mentorship]]
-            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[[E:]] Evergreen note titles are like APIs]] to apply to fleeting notes. 
+            - While making [[fleeting notes]], try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[Evergreens/Evergreen note titles are like APIs]] to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - Example:: 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -304,25 +304,25 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
                 - I solve this appearance issue by using [[aliases]]. Does this help? [[~[[leekeifon]]]]
                 - The reason I'm hesitant to change the css related to [[fleeting notes]] is that the tag is a helpful [visual cue]([[visual cues]]) to trigger the the presence of a zettelkasten idea in various contexts.
-            - "Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]"
+            - "Don’t know if these are [[fruitful]] new concepts for you. "#[[FN]] block-level [[model]]" and "#[[FN]] block-embed [[model]]" [[~[[Brandon Toner]]]]"
                 - I haven't fully [grokked]([[grok]]) the idea yet — but I think I definitely use a combination of [references]([[block references]]) and [embeds]([[block embeds]]) when making references. 
                     - Factors I use to choose:
                         - Do I want to also display children blocks?
                         - Do I want easy access to editing the content from the reference destination?
-            - "#[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal"
+            - "#[[FN]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal"
                 - Excellent documentation on this!! 
                     - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [[resurfacing]].
                         - Id suggest:
                             - collaboration
                             - goals
-                - Related:: [[[[E:]] Have a clear aim]]
+                - Related:: [[Evergreens/Have a clear aim]]
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About Roam Collective]]. Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
             - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
-                - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[[E:]] beneficial, but optional]] step. 
+                - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[Evergreens/beneficial, but optional]] step. 
             - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
                 - I'd place this within a Daily Log module instead. 
                 - Change Log is best for changes to the graph and its conventions
@@ -331,7 +331,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Within your [[DNP Section]] is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [[sleep on it]].
         4. "Turn off brackets to streamline the look of page looks a bit"
             - {{[[DONE]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]] [[~[[Matthew Vogel]]]]
-        5. "#[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags" #Bookmarks
+        5. "#[[FN]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags" #Bookmarks
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [[questions]] throughout the graph.
         6. "Allows for seamless inline referencing of Evergreen notes"
             - What determines whether you'd reference the page or the block?
@@ -361,37 +361,37 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
-        - #[[Fleeting Notes]] block-level [[model]]
+        - #[[FN]] block-level [[model]]
             - **Definition**: (Logical) structure that could be contained within a single block ((one way to understand this is, using one sentence to conclude what you wanna express)).
             - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
-            - Example:: Actually, we could think of current `#Fleeting Notes` and `#Evergreen` a kind of "#[[Fleeting Notes]] block-level [[model]]".
+            - Example:: Actually, we could think of current `#Fleeting Notes` and `#Evergreen` a kind of "#[[FN]] block-level [[model]]".
             - Example:: Try to think of the following situation, saying that I want to **distinguish two concepts by introducing their difference**. 
-""#[[Fleeting Notes]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[Fleeting Notes]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]"
+""#[[FN]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[FN]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]"
                 - [[Related]] to [view concepts with different lenses](((MawQmWVvk)))
                 - [[Related]] to [substructure graph generation](((WC25L-wqT)))
             - **Origin**: This is a concept I come up when I try to generalize the AXYZ [[model]] ((A do X under Y condition and observe Z)) purposed by [[Joel Chan]], based on my own understanding.
-        - #[[Fleeting Notes]] block-embed [[model]]
+        - #[[FN]] block-embed [[model]]
             - Example:: {{[[embed]]: ((zFyFH7Z_m))}}
-        - "#[[Fleeting Notes]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[Fleeting Notes]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]
+        - "#[[FN]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[FN]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
-        - #[[Fleeting Notes]] composable [[visual cues]]
-        - #[[Fleeting Notes]] visual feedback as rewards
+        - #[[FN]] composable [[visual cues]]
+        - #[[FN]] visual feedback as rewards
         - [convention on fleeting note content](((cCkvQbhSA))) [[^[[leekeifon]]]]
-        - "#[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal" [[^[[leekeifon]]]]
+        - "#[[FN]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal" [[^[[leekeifon]]]]
         - #[[P:Self]] It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
-        - "#[[Fleeting Notes]] Effective teaming requires clear norms and expectations" [[^[[leekeifon]]]]
+        - "#[[FN]] Effective teaming requires clear norms and expectations" [[^[[leekeifon]]]]
         - #[[Q]] What could be the common base of a digital environment of loosely connected people expectation?
     - #[[Conversation]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
-        - Don’t know if these are [[fruitful]] new concepts for you. "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]" [[~[[Brandon Toner]]]]
+        - Don’t know if these are [[fruitful]] new concepts for you. "#[[FN]] block-level [[model]]" and "#[[FN]] block-embed [[model]]" [[~[[Brandon Toner]]]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[^[[Brandon Toner]]]]
         - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [[aliases]] serve the job to hide these messy situation. Or in other words, our [[visual cues]] are not able to mix/compose together within a block. [[~[[Brandon Toner]]]]
             - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[[Experiments]]
                 - Example:: When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [[aliases]].
-            - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]"
-        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[Fleeting Notes]] visual feedback as rewards". [[~[[Brandon Toner]]]]
+            - [[Related]] "#[[FN]] composable [[visual cues]]"
+        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[FN]] visual feedback as rewards". [[~[[Brandon Toner]]]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [[patterns]] we tend to use in block ((AXYZ model from Joel Chan is one example)).
-            - [[Related]] "#[[Fleeting Notes]] composable [[visual cues]]".
+            - [[Related]] "#[[FN]] composable [[visual cues]]".
     - #[[[[Feedback]]: [[Suggestions]]]]
         - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [[~[[Brandon Toner]]]]
     - #[[Resources]]
@@ -402,16 +402,16 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - #[[[[project management]] in Roam]] #[[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]
-            - #[[Fleeting Notes]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal
+            - #[[FN]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal
                 - Epistemic status:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
                 - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
                 - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
                 - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
-            - #[[Fleeting Notes]] Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
+            - #[[FN]] Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
                 - Epistemic status:  intuition that needs to be stress-tested
                 - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
                 - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
-                - #[[Fleeting Notes]] Effective teaming requires clear norms and expectations
+                - #[[FN]] Effective teaming requires clear norms and expectations
                     - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
         - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
@@ -427,7 +427,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #Replies
             - "Excellent documentation on this!! "
                 - Added the recommended tags!!
-            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[[E:]] beneficial, but optional]] step. "
+            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[Evergreens/beneficial, but optional]] step. "
                 - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
             - "I'd place this within a Daily Log module instead. "
                 - Better to place it under one's daily notes or within the daily log up above?  
@@ -505,13 +505,13 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                                     - #Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)
                 - Downsides
                     - Context is implicit, not explicit
-            - #[[Fleeting Notes]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags
+            - #[[FN]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
         - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]]."
             - [[~[[Brandon Toner]]]] makes complete sense — I think we can consolidate it down to be a bit more manageable
                 - If I were to build an updated format, this is what it might look like...
-                    - [[[[E:]] Evergreen Note example 1]]
+                    - [[Evergreens/Evergreen Note example 1]]
         - "Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?"
             - [[~[[Brandon Toner]]]] I actually proposed this to Matt haha
                 - But yeah I agree — any type of communication, either with reference to a block or not would easily be captured by the `#Converation` block...

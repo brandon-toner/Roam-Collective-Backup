@@ -133,10 +133,101 @@
 ## [Evergreens](<Evergreens.md>)
 - **[Tags](<Tags.md>):**
 
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+- ---
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen note-writing helps insight accumulate](<Evergreens/Evergreen note-writing helps insight accumulate.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen notes should be atomic](<Evergreens/Evergreen notes should be atomic.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
+- **[Tags](<Tags.md>):**
+
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Experiments](<Experiments.md>)
 - **[Tags](<Tags.md>):**
 
 ## [FN](<FN.md>)
+- **[Tags](<Tags.md>):**
+
+- [fleeting notes](<fleeting notes.md>)
 - **[Tags](<Tags.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
@@ -144,9 +235,6 @@
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
-
-## [Fleeting Notes](<Fleeting Notes.md>)
-- **[Tags](<Tags.md>):**
 
 ## [Follow Up](<Follow Up.md>)
 - **[Tags](<Tags.md>):**
@@ -295,6 +383,22 @@
 ## [Questions](<Questions.md>)
 - **[Tags](<Tags.md>):**
 
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- **[Tags](<Tags.md>):**
+
+## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+- **[Tags](<Tags.md>):**
+
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Tags](<Tags.md>):**
+
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
+- ---
+- **[Tags](<Tags.md>):**
+
+## [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Quick Capture](<Quick Capture.md>)
 - **[Tags](<Tags.md>):**
 
@@ -329,6 +433,18 @@
 - **[Tags](<Tags.md>):**
 
 ## [Scratchpad](<Scratchpad.md>)
+- **[Tags](<Tags.md>):**
+
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Tags](<Tags.md>):**
+
+## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
+- **[Tags](<Tags.md>):**
+
+## [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- **[Tags](<Tags.md>):**
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
@@ -404,106 +520,6 @@
 ## [Zsolt Viczián](<Zsolt Viczián.md>)
 - **[Tags](<Tags.md>):**
 
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- ---
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
-- **[Tags](<Tags.md>):**
-
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[Tags](<Tags.md>):**
-
 ## [[Feedback](<[Feedback.md>): What could be better](<[Feedback](<Feedback.md>): What could be better.md>)
 - **[Tags](<Tags.md>):**
 
@@ -511,19 +527,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
-- **[Tags](<Tags.md>):**
-
-## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Tags](<Tags.md>):**
-
-## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
-- **[Tags](<Tags.md>):**
-
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
-- **[Tags](<Tags.md>):**
-
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
-- ---
 - **[Tags](<Tags.md>):**
 
 ## [[R:](<[R:.md>) Hero of a Thousand Faces](<[R:](<R:.md>) Hero of a Thousand Faces.md>)
@@ -610,9 +613,6 @@
 ## [inklings](<inklings.md>)
 - **[Tags](<Tags.md>):**
 
-## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
-- **[Tags](<Tags.md>):**
-
 ## [leekeifon](<leekeifon.md>)
 - **[Tags](<Tags.md>):**
 
@@ -629,7 +629,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [passive](<passive.md>)
-- **[Related](<Related.md>):** [[[E:](<[[E:.md>) active vs passive resurfacing]]
+- **[Related](<Related.md>):** [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - **[Tags](<Tags.md>):**
 
 ## [personal page](<personal page.md>)

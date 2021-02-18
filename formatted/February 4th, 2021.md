@@ -84,7 +84,7 @@ Monthly reviews could include a zoom catchup?
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
     - [Bookmarks](<Bookmarks.md>) 
-        - #[Follow Up](<Follow Up.md>) ""[[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]""
+        - #[Follow Up](<Follow Up.md>) ""[Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)""
         - #[Follow Up](<Follow Up.md>) """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
@@ -105,11 +105,11 @@ Monthly reviews could include a zoom catchup?
                 - #[P:Self](<P:Self.md>) Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
         - #[Q](<Q.md>) It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [datalog](<datalog.md>) query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [patterns](<patterns.md>) to be recognized.  [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
             - **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>) and [Robert Haisfield](<Robert Haisfield.md>) in their chatting video.
-            - **[Related](<Related.md>):** The above block is the example of "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)"
-        - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)".
+            - **[Related](<Related.md>):** The above block is the example of "#[FN](<FN.md>) block-embed [model](<model.md>)"
+        - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[FN](<FN.md>) block-level [model](<model.md>)" and "#[FN](<FN.md>) block-embed [model](<model.md>)".
         - #[Q](<Q.md>) What’s the best way to convey information within a block?
             - **[Observations](<Observations.md>):** one [tensions](<tensions.md>) is, when the linking intention and the center of block information don’t align.
-            - #[Fleeting Notes](<Fleeting Notes.md>) Those css that are not trying to convey the center of block information, tends to dull our concentration.
+            - #[FN](<FN.md>) Those css that are not trying to convey the center of block information, tends to dull our concentration.
                 - **[[ ] Examples](<[ ] Examples.md>):** convey what I think is good and what’s not.
         - "Assumption: everyone’s mind is reasonable."
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.
@@ -192,7 +192,7 @@ Monthly reviews could include a zoom catchup?
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>)[*]([mtv](<mtv.md>)) {{word-count}} {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - {{[embed](<embed.md>): ((((rhJbktB9i))))}}
-            - [@[[Zsolt Viczián](<@[[Zsolt Viczián.md>)]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [roam/render](<roam/render.md>) custom components. [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[[E:](<[[E:.md>) "Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[[E:](<[[E:.md>) Use the native convention as much as possible.]])
+            - [@[[Zsolt Viczián](<@[[Zsolt Viczián.md>)]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [roam/render](<roam/render.md>) custom components. [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)) with custom components being more ["native"]([Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>))
                 - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
         - [Feature Request](<Feature Request.md>) I would kill for a way to filter out code blocks from search results
         - {{[embed](<embed.md>): ((((0nxSPSAyD))))}}

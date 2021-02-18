@@ -8,6 +8,84 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Evergreen note-writing helps insight accumulate](<Evergreens/Evergreen note-writing helps insight accumulate.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Evergreen notes should be atomic](<Evergreens/Evergreen notes should be atomic.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>)
 
@@ -25,87 +103,6 @@
 
 ## [The Hub](<The Hub.md>)
 - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
 ## [evergreen notes](<evergreen notes.md>)
 - **[Related](<Related.md>):** [Evergreens](<Evergreens.md>)

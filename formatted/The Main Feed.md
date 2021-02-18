@@ -58,7 +58,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) The [meta](<meta.md>) fades when the system is clear. #[The Main Feed](<The Main Feed.md>)
+- #[FN](<FN.md>) The [meta](<meta.md>) fades when the system is clear. #[The Main Feed](<The Main Feed.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)

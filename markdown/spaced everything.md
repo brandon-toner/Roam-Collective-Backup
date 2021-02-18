@@ -1,3 +1,3 @@
 - Tags:: #Glossary
 - Related:: #[[spaced repetition]]
-- Source:: [[[[E:]] Spaced repetition systems can be used to program attention]]
+- Source:: [[Evergreens/Spaced repetition systems can be used to program attention]]

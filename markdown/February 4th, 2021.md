@@ -84,7 +84,7 @@ Monthly reviews could include a zoom catchup?
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
         - [[~[[Brandon Toner]]]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
     - #Bookmarks 
-        - #[[Follow Up]] ""[[[[E:]] Why build maturity into your knowledge management system?]]""
+        - #[[Follow Up]] ""[[Questions/Why build maturity into your knowledge management system?]]""
         - #[[Follow Up]] """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
@@ -105,11 +105,11 @@ Monthly reviews could include a zoom catchup?
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
         - #[[Q]] It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [[datalog]] query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [[patterns]] to be recognized.  [[cc:[[Brandon Toner]]]] [[cc:[[Matthew Vogel]]]]
             - Related:: sibling query feature request mentioned by [[Joel Chan]] and [[Robert Haisfield]] in their chatting video.
-            - Related:: The above block is the example of "#[[Fleeting Notes]] block-embed [[model]]"
-        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[Fleeting Notes]] block-level [[model]]" and "#[[Fleeting Notes]] block-embed [[model]]".
+            - Related:: The above block is the example of "#[[FN]] block-embed [[model]]"
+        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[FN]] block-level [[model]]" and "#[[FN]] block-embed [[model]]".
         - #[[Q]] What’s the best way to convey information within a block?
             - Observations:: one [[tensions]] is, when the linking intention and the center of block information don’t align.
-            - #[[Fleeting Notes]] Those css that are not trying to convey the center of block information, tends to dull our concentration.
+            - #[[FN]] Those css that are not trying to convey the center of block information, tends to dull our concentration.
                 - {{[[TODO]]}} Examples:: convey what I think is good and what’s not.
         - "Assumption: everyone’s mind is reasonable."
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.
@@ -192,7 +192,7 @@ Monthly reviews could include a zoom catchup?
 - #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}} {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - {{[[embed]]: ((((rhJbktB9i))))}}
-            - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[[[E:]] "Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[[[E:]] Use the native convention as much as possible.]])
+            - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[Evergreens/"Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[Evergreens/Use the native convention as much as possible.]])
                 - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
         - [[Feature Request]] I would kill for a way to filter out code blocks from search results
         - {{[[embed]]: ((((0nxSPSAyD))))}}

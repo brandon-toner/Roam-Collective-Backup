@@ -18,9 +18,9 @@
 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. "Why use [inline code-blocks](<inline code-blocks.md>) to disable tags?" #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+- #[FN](<FN.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. "Why use [inline code-blocks](<inline code-blocks.md>) to disable tags?" #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+- #[FN](<FN.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)

@@ -39,7 +39,7 @@
                                     - **[Pros](<Pros.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- [[[E:](<[[E:.md>) Evergreen Note example 1]]
+- [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
                     - **[Pros](<Pros.md>):**
 
 - Option B - `E/`

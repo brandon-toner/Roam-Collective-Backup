@@ -24,6 +24,122 @@
 - **[Tags](<Tags.md>):** [Epics](<Epics.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+- **[Tags](<Tags.md>):** [Experiments](<Experiments.md>) [Examples](<Examples.md>)
+- **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
+- **[Tags](<Tags.md>):** `#[Evergreen Notes](<Evergreen Notes.md>)` [Experiments](<Experiments.md>) [Examples](<Examples.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen note-writing helps insight accumulate](<Evergreens/Evergreen note-writing helps insight accumulate.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen notes should be atomic](<Evergreens/Evergreen notes should be atomic.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>) [atomic](<atomic.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [values](<values.md>), [purpose](<purpose.md>), [direction](<direction.md>), [focus](<focus.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Proverbs](<Proverbs.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>) [inklings](<inklings.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Rules of Thumb](<Rules of Thumb.md>) [Principles](<Principles.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [notifications](<notifications.md>) [Concepts](<Concepts.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [leverage](<leverage.md>) [compounding](<compounding.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [design](<design.md>) [research](<research.md>) [divergence](<divergence.md>) [convergence](<convergence.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
     - **[Date Created](<Date Created.md>):**
@@ -40,156 +156,44 @@
 - **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>) [Metaphors](<Metaphors.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- **Central question:** [[[Q:](<[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Examples](<Examples.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Claim 3](<[E:](<E:.md>) Claim 3.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Create speculative outlines while you write](<[E:](<E:.md>) Create speculative outlines while you write.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- **[Tags](<Tags.md>):** [Experiments](<Experiments.md>) [Examples](<Examples.md>)
-- **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen Note example 3](<[E:](<E:.md>) Evergreen Note example 3.md>)
-- **[Tags](<Tags.md>):** `#[Evergreen Notes](<Evergreen Notes.md>)` [Experiments](<Experiments.md>) [Examples](<Examples.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen note titles are like APIs](<[E:](<E:.md>) Evergreen note titles are like APIs.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen note-writing helps insight accumulate](<[E:](<E:.md>) Evergreen note-writing helps insight accumulate.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be atomic](<[E:](<E:.md>) Evergreen notes should be atomic.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>) [atomic](<atomic.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be concept-oriented](<[E:](<E:.md>) Evergreen notes should be concept-oriented.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [values](<values.md>), [purpose](<purpose.md>), [direction](<direction.md>), [focus](<focus.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
-- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Proverbs](<Proverbs.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings](<[E:](<E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>) [inklings](<inklings.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Spaced repetition systems can be used to program attention](<[E:](<E:.md>) Spaced repetition systems can be used to program attention.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>) #[spaced repetition](<spaced repetition.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Start from abundance](<[E:](<E:.md>) Start from abundance.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Rules of Thumb](<Rules of Thumb.md>) [Principles](<Principles.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) Why build maturity into your knowledge management system?](<[E:](<E:.md>) Why build maturity into your knowledge management system?.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) active vs passive resurfacing](<[E:](<E:.md>) active vs passive resurfacing.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) alert fatigue](<[E:](<E:.md>) alert fatigue.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [notifications](<notifications.md>) [Concepts](<Concepts.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [leverage](<leverage.md>) [compounding](<compounding.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [design](<design.md>) [research](<research.md>) [divergence](<divergence.md>) [convergence](<convergence.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
-- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>), [mutually exclusive](<mutually exclusive.md>), [Concepts](<Concepts.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [[Q:](<[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?](<[Q:](<Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
+- **[Tags](<Tags.md>):** [Questions](<Questions.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>) #[knowledge graphs](<knowledge graphs.md>), [writing](<writing.md>), #[flow state](<flow state.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>), [mutually exclusive](<mutually exclusive.md>), [Concepts](<Concepts.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- **Central question:** [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)
@@ -198,10 +202,6 @@
 
 ## [grist for the mill](<grist for the mill.md>)
 - **[Tags](<Tags.md>):** [Idioms](<Idioms.md>) [Metaphors](<Metaphors.md>)
-    - **[Date Created](<Date Created.md>):**
-
-## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
-- **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [prepositional linkages](<prepositional linkages.md>)

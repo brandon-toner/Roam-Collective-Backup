@@ -7,17 +7,19 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) The selection of which [block-level tags](<block-level tags.md>)
+- #[FN](<FN.md>) The selection of which [block-level tags](<block-level tags.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
+- #[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
 
-- #[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>)
+- #[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
 
-- Re: "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>)
+- Re: "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) CSS for [block-level tags](<block-level tags.md>)
+- #[FN](<FN.md>) CSS for [block-level tags](<block-level tags.md>)
 
-- "#[therefore](<therefore.md>) #[Fleeting Notes](<Fleeting Notes.md>) the use of [block-level tags](<block-level tags.md>)
+- [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+
+- "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
 
 - "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
 

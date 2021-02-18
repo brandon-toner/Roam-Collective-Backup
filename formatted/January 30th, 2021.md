@@ -33,7 +33,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
-        - [[[E:](<[[E:.md>) Evergreen notes should be densely linked]]
+        - [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
         - [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>) format.
             - [Q](<Q.md>) How could the [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) be optimized for taking [annotations](<annotations.md>)? [note-taking](<note-taking.md>)
                 - Details of how the copy-paster can be customized can be found [here](https://www.notion.so/Text-Export-Templates-bb1794c15dea4e588a59b52d37ca0070) 
@@ -234,10 +234,10 @@
         - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
             - Excellent experience so far (but I'm familiar with the specs and style guides)
             - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
-                - #[Fleeting Notes](<Fleeting Notes.md>) [writing](<writing.md>) for other people helps to facilitate [clarity](<clarity.md>), and therefore enhanced [understanding](<understanding.md>).
-                    - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) facilitates shared [understanding](<understanding.md>) through its requirements for explicit explanation and enhanced [clarity](<clarity.md>).
-                    - #[Fleeting Notes](<Fleeting Notes.md>) It is easier to tolerate vague [writing](<writing.md>) within a [private graph](<private graph.md>).
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>). [zettelkasten](<zettelkasten.md>) [Tips](<Tips.md>)
+                - #[FN](<FN.md>) [writing](<writing.md>) for other people helps to facilitate [clarity](<clarity.md>), and therefore enhanced [understanding](<understanding.md>).
+                    - #[FN](<FN.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) facilitates shared [understanding](<understanding.md>) through its requirements for explicit explanation and enhanced [clarity](<clarity.md>).
+                    - #[FN](<FN.md>) It is easier to tolerate vague [writing](<writing.md>) within a [private graph](<private graph.md>).
+                    - #[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>). [zettelkasten](<zettelkasten.md>) [Tips](<Tips.md>)
         - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
             - Improved [onboarding](<onboarding.md>) documentation — it's decent now, but it could be better now that things have evolved a bit.
             - Some live events to drive some interest and activity.
@@ -245,11 +245,11 @@
             - More emphasis and training on the collective zettelkasten systems.
         - 
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>) or within [conversation](<conversation.md>).
+        - #[FN](<FN.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>) or within [conversation](<conversation.md>).
             - **[Tools](<Tools.md>):** [Memex](<Memex.md>) [copy-paster](<copy-paster.md>)
-            - #[Fleeting Notes](<Fleeting Notes.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
-        - #[Fleeting Notes](<Fleeting Notes.md>) Asterisk [aliases](<aliases.md>) can be used to [hide](<hide.md>) content from blocks — improving [readability](<readability.md>). [Tips](<Tips.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>). [standardization](<standardization.md>)
+            - #[FN](<FN.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
+        - #[FN](<FN.md>) Asterisk [aliases](<aliases.md>) can be used to [hide](<hide.md>) content from blocks — improving [readability](<readability.md>). [Tips](<Tips.md>)
+        - #[FN](<FN.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>). [standardization](<standardization.md>)
     - [Conversation](<Conversation.md>) 
         - [Observations](<Observations.md>)
             - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
@@ -277,7 +277,7 @@
                 - Love this exploration. 
                 - There is a lot of information here worth crystallizing.
                 - Some thoughts inspired by this:
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>) is the most efficient way for [ideas](<ideas.md>) and [trails of thought](<trails of thought.md>) to persist through time.
+                    - #[FN](<FN.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>) is the most efficient way for [ideas](<ideas.md>) and [trails of thought](<trails of thought.md>) to persist through time.
                         - [Conventions](<Conventions.md>) [conversation](<conversation.md>) should be conducted in the form of [zettelkasten](<zettelkasten.md>) notes whenever possible to facilitate the  development of ideas through time.
                     - How I see this flowing: [Processes](<Processes.md>) [*]([fleeting notes](<fleeting notes.md>)) [*]([evergreen notes](<evergreen notes.md>))
                         1. Users document ideas as [fleeting notes](<fleeting notes.md>) (low filter for creation)
@@ -285,27 +285,27 @@
                         2.  Users **continue the conversation** of these notes by [referencing]([block referencing](<block referencing.md>)) them in discussion, and formulating new [fleeting notes](<fleeting notes.md>) in response to them.
                             - This may be an opportunity to use principles of [logic](<logic.md>) and [rhetoric](<rhetoric.md>), but these conventions would be [optional](<optional.md>).
                         3. Repeat [ad infinitum](<ad infinitum.md>) until ideas have been exhausted and writing becomes less [fruitful](<fruitful.md>). 
-                        4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>) could be facilitated by [active or passive resurfacing]([[[E:](<[[E:.md>) active vs passive resurfacing]]).
+                        4. Development and [maturation](<maturation.md>) of ideas in [zettelkasten](<zettelkasten.md>) could be facilitated by [active or passive resurfacing]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)).
                         5. As ideas become heavily referenced, or feel "[evergreen](<evergreen.md>)" in nature — a page should be created and an [evergreen note]([evergreen notes](<evergreen notes.md>)) formed.
                             - **[Related](<Related.md>):** [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>) notes]] [Seedlings](<Seedlings.md>)
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)) — a `[Seedlings](<Seedlings.md>)` tag should be assigned.
-            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
+            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’s [[[R:](<[[R:.md>) How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[FN](<FN.md>) Roam {X} protocol" when communicating concept. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]"
                 - Wow this is excellent! Love these. Will definitely [look further into this]([Bookmarks](<Bookmarks.md>)). [prompts](<prompts.md>) [Resources](<Resources.md>)
                     - **[URL](<URL.md>):** https://andymatuschak.org/prompts/
                         - [ ] Create literature notes from [[[R:](<[[R:.md>) How to write good prompts]]. #[Help Wanted](<Help Wanted.md>)
                             - [x] Create a smartblock for the [Daily Review](<Daily Review.md>) that pulls TODO + Help Wanted. [January 30th, 2021](<January 30th, 2021.md>) 
             - "Once rules and conventions are a considered established enough perhaps it would be useful to map the whole system to identify redundancies and bottlenecks."
-                - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [[[E:](<[[E:.md>) cycles of divergence and convergence]].
+                - Yup, this is definitely in my conceptual [roadmap](<roadmap.md>). I see it as [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>).
                     - Right now we are in a divergence phase, gathering ideas, expanding conventions. 
                     - Next phase would be to converge the growing set of collections, conventions, and documentation down to something more distilled.
-                    - First, [[[E:](<[[E:.md>) Start from abundance]].
+                    - First, [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>).
                 - "Embedded [videos](<videos.md>) accompanying the written [documentation](<documentation.md>) and showing [examples](<examples.md>) could be useful" [*](((nwqDQY2hP))) [I](<I.md>) [onboarding](<onboarding.md>) #[Quick Start Guide](<Quick Start Guide.md>)
                 - "I like the idea of [Roam-a-thons](<Roam-a-thons.md>)." [*](((xFRHf05lH))) [I](<I.md>) [collaboration](<collaboration.md>)
             - "An aspect worth considering is that people learn by doing, thus perhaps if people had someone checking their first entry, this could prevent future problems/misunderstandings" [*](((E_Nm9fsx1)))
                 - hahaha, precisely what I'm currently doing. [~[[Peter Rosso](<~[[Peter Rosso.md>)]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([opportunistically](<opportunistically.md>)) populating these as I interact with the graph.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - #[FN](<FN.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
             - "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>) via prompts."
                 - YES! I was about to develop a Smartblock actually that would generate a RANDOMBLOCKMENTION of `[Seedlings](<Seedlings.md>)`. 
                     - Created [here](((tE6jhytOC)))
@@ -335,7 +335,7 @@
             - `meta-j s` Roam42 shortcut while selecting a passage of text to copy as quote + alias has got to be one of my favourite [block referencing](<block referencing.md>) [techniques]([Techniques](<Techniques.md>)).
                 - Here's a [GIF]([GIFs](<GIFs.md>))
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fmi5GFmBjwZ.gif?alt=media&token=ea71f8bf-0b4f-4339-856c-81a9ad2b8ff0)
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>) [onboarding](<onboarding.md>) [training](<training.md>)
+                    - #[FN](<FN.md>) [GIFs](<GIFs.md>) are an [efficient](<efficient.md>) and [effective](<effective.md>) way to communicate a process or workflow. [teaching](<teaching.md>) [documentation](<documentation.md>) [Techniques](<Techniques.md>) #[Quick Start Guide](<Quick Start Guide.md>) [onboarding](<onboarding.md>) [training](<training.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - #[Scratchpad](<Scratchpad.md>)
@@ -383,7 +383,7 @@
                     - Debate
         3. "Yup, really like this idea. cc: [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - Sounds good [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
-        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[Fleeting Notes](<Fleeting Notes.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[FN](<FN.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - Ahhhh [~[[leekeifon](<~[[leekeifon.md>)]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [Feature Request](<Feature Request.md>): Individualized CSS and view options within multi-player graphs
         5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]]" + "My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))" [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [^[[leekeifon](<^[[leekeifon.md>)]]
@@ -399,7 +399,7 @@
                         - [Evergreens](<Evergreens.md>) Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others
                         - I may add a block reference (or two) below it, but this is no where near fully developed
                     - Once I am ready to develop it sooner, I will create an identical `[E:](<E:.md>)` page for the Evergreen
-                        - [[[E:](<[[E:.md>) Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others]]
+                        - [Evergreens/Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others](<Evergreens/Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others.md>)
                     - Then I will physically move the [Evergreen block](((Zcd1kPIXX))) into the Evergreen page, detail out the note, and add references and other supporting elements
                         - Note: I will add a block reference to the `[E:](<E:.md>)` page and then use the "Replace With > Original > Bring Nested Children" — doing so ensure that I can easily see where I originally created the note (the earliest daily note page)
                     - How this implicitly determines the maturity of a now it it is easy to query for Evergreens that are now nested within an E page
@@ -483,6 +483,15 @@ reply to [this](((R8sUuPhbz))).
 ## [Announcements](<Announcements.md>)
 - **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>))
 
+## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
+## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
+## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
+- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **Page:** [January 30th, 2021](<January 30th, 2021.md>)
 
@@ -507,15 +516,6 @@ reply to [this](((R8sUuPhbz))).
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - ### Highlights added [January 30th, 2021](<January 30th, 2021.md>)
 
-## [[E:](<[E:.md>) Evergreen notes should be densely linked](<[E:](<E:.md>) Evergreen notes should be densely linked.md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) Have a clear aim](<[E:](<E:.md>) Have a clear aim.md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) cycles of divergence and convergence](<[E:](<E:.md>) cycles of divergence and convergence.md>)
-- **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
-
-## [[E:](<[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.](<[E:](<E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+## [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
 - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
 

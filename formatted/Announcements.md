@@ -10,7 +10,7 @@
             - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
             - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
             - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
-            - Check out the #[Fleeting Notes](<Fleeting Notes.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Check out the #[FN](<FN.md>) linked references for some [atomic ideas](<atomic ideas.md>).
                 - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
             - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
             - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 

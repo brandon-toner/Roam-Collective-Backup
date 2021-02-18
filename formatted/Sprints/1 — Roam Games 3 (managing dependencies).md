@@ -1,7 +1,7 @@
 - **[Tags](<../Tags.md>):** [Sprints](<../Sprints.md>) #[Roam Games](<../Roam Games.md>) 
     - **[Related](<../Related.md>):** 
         - **Epic: **[Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)
-        - **Central question:** [[[Q:](<../[[Q:.md>) How do you manage dependency of ideas and influence within a community knowledge graph?]]
+        - **Central question:** [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<../Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
     - **[Date Created](<../Date Created.md>):** [February 10th, 2021](<../February 10th, 2021.md>)
     - **[Date Range](<../Date Range.md>):** [February 22nd, 2021](<../February 22nd, 2021.md>)
     - **[Description](<../Description.md>):** 
@@ -23,7 +23,7 @@
             - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [Q](<../Q.md>) [Questions](<../Questions.md>)}}}} [minimal](<../minimal.md>)
     - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):**
-            - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<../E:.md>) [Fleeting Notes](<../Fleeting Notes.md>) [I](<../I.md>) [Literature Notes](<../Literature Notes.md>)}}}} [minimal](<../minimal.md>)
+            - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<../E:.md>) [FN](<../FN.md>) [I](<../I.md>) [Literature Notes](<../Literature Notes.md>)}}}} [minimal](<../minimal.md>)
     - **[Tasks](<../Tasks.md>):** [not-populated](<../not-populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):** 
             - **Sprint + "Next Steps"**

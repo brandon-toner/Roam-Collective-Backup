@@ -35,16 +35,16 @@
                     - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
                 - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
                 - [I](<I.md>) I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
-                - #[Fleeting Notes](<Fleeting Notes.md>) [learning](<learning.md>) with the [self-directed learning](<self-directed learning.md>) method is hard work and time consuming.
-                - #[Fleeting Notes](<Fleeting Notes.md>) within any given domain, there is a LOT of material that can be learned.
-                    - **[Related](<Related.md>):** [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+                - #[FN](<FN.md>) [learning](<learning.md>) with the [self-directed learning](<self-directed learning.md>) method is hard work and time consuming.
+                - #[FN](<FN.md>) within any given domain, there is a LOT of material that can be learned.
+                    - **[Related](<Related.md>):** [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
                     - [Q](<Q.md>) How should learning projects be prioritized? 
                         - [Q](<Q.md>) What should be learned and when?
                         - [Q](<Q.md>) Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
-                - #[Fleeting Notes](<Fleeting Notes.md>) team-based learning can help to accelerate the process of mapping a domain.
-                - #[Fleeting Notes](<Fleeting Notes.md>) there is large overlap between the learning projects people embark on individually.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) There is a lot of unnecessary re-work when it comes to mapping a domain.
-                        - #[Fleeting Notes](<Fleeting Notes.md>) Collaborative learning can help to improve the efficiency of learning.
+                - #[FN](<FN.md>) team-based learning can help to accelerate the process of mapping a domain.
+                - #[FN](<FN.md>) there is large overlap between the learning projects people embark on individually.
+                    - #[FN](<FN.md>) There is a lot of unnecessary re-work when it comes to mapping a domain.
+                        - #[FN](<FN.md>) Collaborative learning can help to improve the efficiency of learning.
                             - [Q](<Q.md>) What are the advantages of a collaborative learning strategy?
                             - [Q](<Q.md>) What are the potential downsides of a collaborative learning strategy?
                                 - Claim: The work of learning is where the learning takes place. Adding efficiency may decrease the effectiveness of the learning, defeating the purpose.
@@ -52,20 +52,20 @@
                                         - 1) Builds a database for easy reference
                                         - 2) The database can be used to drive [spaced repetition](<spaced repetition.md>) systems, which can facilitate learning.
                                         - 3) Facilitates a shared truth among teams and communities.
-                                        - #[Fleeting Notes](<Fleeting Notes.md>) The formation of maps of content is overrated as a method of learning. 
+                                        - #[FN](<FN.md>) The formation of maps of content is overrated as a method of learning. 
                                             - There are stronger methods that can be utilized once the maps exist. 
-        - #[Fleeting Notes](<Fleeting Notes.md>) learn it once, and then have the answer easily accessible for future reference 
+        - #[FN](<FN.md>) learn it once, and then have the answer easily accessible for future reference 
             - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[[R:](<[[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)]])
                 - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
-            - **[Related](<Related.md>):** [[[E:](<[[E:.md>) build once, sell twice]]
+            - **[Related](<Related.md>):** [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
         - [Q](<Q.md>) How might conventions/workflows/frameworks be utilized to optimize for [flow state](<flow state.md>) writing?
             - "It's been particularly interesting to me the level of [flow state](<flow state.md>) writing I've been able to tap into writing in here. " 
-            - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]])"
+            - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>))"
             - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>) and [flow state](<flow state.md>) exploration of ideas. "
-            - "#[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
-        - #[Fleeting Notes](<Fleeting Notes.md>) Displaying word counts on each [DNP Section](<DNP Section.md>) helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) [gamification](<gamification.md>)
+            - "#[FN](<FN.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)"
+        - #[FN](<FN.md>) Displaying word counts on each [DNP Section](<DNP Section.md>) helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) [gamification](<gamification.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Fleeting Notes](<Fleeting Notes.md>) Let user questions drive the documentation of conventions and FAQs. 
+        - #[FN](<FN.md>) Let user questions drive the documentation of conventions and FAQs. 
             - Process: #[Algorithms of Thought](<Algorithms of Thought.md>) [Processes](<Processes.md>) [cc:Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - Receive question
                 - [Q](<Q.md>) Is there a clear answer?
@@ -78,7 +78,7 @@
                     - **[If no](<If no.md>):** Revise it.
                 - [Q](<Q.md>) Is it easily accessible? Would users find it naturally? ((In one sense, this is an auto-no since they are asking))
                     - **[If no](<If no.md>):** Improve its stumble-upon-ability / resurfacing strength
-        - #[Fleeting Notes](<Fleeting Notes.md>) When leading a community, optimize for user engagement. 
+        - #[FN](<FN.md>) When leading a community, optimize for user engagement. 
             - User engagement is the lifeblood of collective communities.
             - [Q](<Q.md>) What makes users want to contribute to a collaborative graph? 
             - [Q](<Q.md>) What are the barriers to user engagement?
@@ -86,12 +86,12 @@
             - **[Related](<Related.md>):** 
                 - "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)"
                     - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
-        - #[Fleeting Notes](<Fleeting Notes.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>) [questions](<questions.md>)
+        - #[FN](<FN.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>) [questions](<questions.md>)
             - [Q](<Q.md>) "What learning objective is this questions trying to address?"
         - #[Learning Objectives](<Learning Objectives.md>) 
             - [compare & contrast](<compare & contrast.md>) multiplayer [chat](<chat.md>) [conventions](<conventions.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) Good [questions](<questions.md>) are the path to good [solutions](<solutions.md>).
-        - #[Fleeting Notes](<Fleeting Notes.md>) The [fleeting notes](<fleeting notes.md>) format is very tweetable. 
+        - #[FN](<FN.md>) Good [questions](<questions.md>) are the path to good [solutions](<solutions.md>).
+        - #[FN](<FN.md>) The [fleeting notes](<fleeting notes.md>) format is very tweetable. 
             - Many tweets can be fleeting notes, and many fleeting notes would make good tweet.
             - Idea of an activity: Take a note within the [zettelkasten](<zettelkasten.md>) that calls to you, and write tweetstorm elaborating on the idea. [Activities](<Activities.md>)
     - [Bookmarks](<Bookmarks.md>) 
@@ -305,15 +305,15 @@
 - ---
 
 # Backlinks
-## [February 15th, 2021](<February 15th, 2021.md>)
-- [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>)
-
-## [[E:](<[E:.md>) build once, sell twice](<[E:](<E:.md>) build once, sell twice.md>)
+## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
 - **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)
 
-## [just-in-time vs just-in-case](<just-in-time vs just-in-case.md>)
+## [February 15th, 2021](<February 15th, 2021.md>)
+- [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>)
+
+## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)
 - **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 15th, 2021](<February 15th, 2021.md>)

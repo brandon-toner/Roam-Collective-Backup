@@ -84,6 +84,12 @@
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>):
 
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- {{[query](<query.md>):
+
+## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+- {{[query](<query.md>):
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - "{{[query](<query.md>):
 
@@ -140,7 +146,7 @@
 - {{[query](<query.md>):
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) The ability to easily [query](<query.md>)
+- #[FN](<FN.md>) The ability to easily [query](<query.md>)
 
 - "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>):
 
@@ -255,7 +261,7 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Fleeting Notes](<Fleeting Notes.md>) {not: {or: [query](<query.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [FN](<FN.md>) {not: {or: [query](<query.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 
@@ -266,12 +272,6 @@
 - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) {not: {or: [query](<query.md>)
 
 ## [Winston Teng](<Winston Teng.md>)
-- {{[query](<query.md>):
-
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- {{[query](<query.md>):
-
-## [[E:](<[E:.md>) Claim 2](<[E:](<E:.md>) Claim 2.md>)
 - {{[query](<query.md>):
 
 ## [cc:[Brandon Toner](<Brandon Toner.md>)](<cc:[Brandon Toner](<Brandon Toner.md>).md>)

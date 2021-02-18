@@ -1,7 +1,7 @@
 - Tags:: #Sprints #[[Roam Games]] 
     - Related:: 
         - **Epic: **[[Epics/Managing knowledge dependencies in multiplayer]]
-        - **Central question:** [[[[Q:]] How do you manage dependency of ideas and influence within a community knowledge graph?]]
+        - **Central question:** [[Questions/How do you manage dependency of ideas and influence within a community knowledge graph?]]
     - Date Created:: [[February 10th, 2021]]
     - Date Range:: [[February 22nd, 2021]]
     - Description:: 
@@ -23,7 +23,7 @@
             - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[Q]] [[Questions]]}}}} #minimal
     - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
         - Query::
-            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[E:]] [[Fleeting Notes]] [[I]] [[Literature Notes]]}}}} #minimal
+            - {{[[query]]: {and: [[Sprints/1 — Roam Games 3 (managing dependencies)]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal
     - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
         - Query:: 
             - **Sprint + "Next Steps"**

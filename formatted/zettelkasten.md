@@ -11,7 +11,7 @@
         - [context questions](<context questions.md>)
     - **Official Conventions:**
         - Notes:
-            - #[Fleeting Notes](<Fleeting Notes.md>)
+            - #[FN](<FN.md>)
             - #[Literature Notes](<Literature Notes.md>)
             - [Seedlings](<Seedlings.md>)
             - [Buddings](<Buddings.md>)
@@ -33,7 +33,7 @@
 - [Q](<Q.md>) can we quantify the [entropy](<entropy.md>) of a [zettelkasten](<zettelkasten.md>)?
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) The purpose of my [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Idea of an activity: Take a note within the [zettelkasten](<zettelkasten.md>)
@@ -46,7 +46,7 @@
 - Promise of the [zettelkasten](<zettelkasten.md>):
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) writing in a [zettelkasten](<zettelkasten.md>)
 
 - In fact, his entire twitter style demonstrates an effective [zettelkasten](<zettelkasten.md>).
 
@@ -54,17 +54,17 @@
 
 - [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
 
 - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>)
 
 - Yea, I see [project ideas](<project ideas.md>) as the output engine of the [zettelkasten](<zettelkasten.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
+- #[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
 
-- We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)!
+- We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>) [zettelkasten](<zettelkasten.md>)!
 
 - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
 
@@ -83,15 +83,15 @@
 - Clarification on the [key concepts](<key concepts.md>) of [zettelkasten](<zettelkasten.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
 
 - [Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
 
-- #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
+- #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
 
 - E.g. use of [zettelkasten](<zettelkasten.md>)
 
-- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [[[E:](<[[E:.md>) double diamond model (design)]] as it relates to our [zettelkasten](<zettelkasten.md>)
+- "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
 
 - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>)
 
@@ -109,7 +109,7 @@
 
 - Background on the [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) A [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) A [zettelkasten](<zettelkasten.md>)
 
 - On [zettelkasten](<zettelkasten.md>)
 
@@ -120,9 +120,9 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
+- ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
 
-- ""We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)!
+- ""We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>) [zettelkasten](<zettelkasten.md>)!
 
 - ""Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>)
 
@@ -132,7 +132,7 @@
 
 - ""On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
+- ""#[FN](<FN.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
 
 - ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
 
@@ -181,9 +181,9 @@
 
 - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) conversation surrounding [fleeting notes](<fleeting notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) when beginning a [zettelkasten](<zettelkasten.md>),
+- #[FN](<FN.md>) when beginning a [zettelkasten](<zettelkasten.md>),
 
 - When adding new [fleeting notes](<fleeting notes.md>) to my [zettelkasten](<zettelkasten.md>),
 
@@ -201,22 +201,22 @@
 
 - Is this a [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>)  A [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>)  A [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) many interpretations of [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) many interpretations of [zettelkasten](<zettelkasten.md>)
 
 - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
 
 - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>).
 
 - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>)) based on [felt [[truth](<felt [[truth.md>)]].[*](((ZZWmGCw0B))) [cc:[[leekeifon](<cc:[[leekeifon.md>)]] [*]([Bookmarks](<Bookmarks.md>))[*]([page naming](<page naming.md>))[*]([zettelkasten](<zettelkasten.md>))
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) It is helpful to import [verbatim](<verbatim.md>) passages from [resources](<resources.md>) so that they can be directly referenced as [context snippets](<context snippets.md>) within the [zettelkasten](<zettelkasten.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) Directing conversation about ideas in the form of [zettelkasten](<zettelkasten.md>)
 
 - [Conventions](<Conventions.md>) [conversation](<conversation.md>) should be conducted in the form of [zettelkasten](<zettelkasten.md>)
 
@@ -229,7 +229,7 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
+- #[FN](<FN.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
 
 - This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
 
@@ -254,9 +254,9 @@
 - Questions as a first-class citizen of the [zettelkasten](<zettelkasten.md>).
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
+- "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
 
-- "We are close to nailing the nuance of a [[[E:](<[[E:.md>) low floor, high ceiling]] [zettelkasten](<zettelkasten.md>)!
+- "We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>) [zettelkasten](<zettelkasten.md>)!
 
 - "[The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>)
 
@@ -266,7 +266,7 @@
 
 - "On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
+- "#[FN](<FN.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>)
 
 - "This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
 

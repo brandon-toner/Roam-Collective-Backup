@@ -29,13 +29,13 @@
         - **[Twitter](<Twitter.md>):**
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+- #[FN](<FN.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
 - **Compare with:** [Twitter](<Twitter.md>),
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
+- #[FN](<FN.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
 
 ## [Joel Chan](<Joel Chan.md>)
 - **[About me](<About me.md>):**

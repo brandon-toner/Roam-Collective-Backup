@@ -4,7 +4,7 @@
 - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):**
 
-- The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]])
+- The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>))
                 - **[Source](<Source.md>):**
 
 ## [February 17th, 2021](<February 17th, 2021.md>)

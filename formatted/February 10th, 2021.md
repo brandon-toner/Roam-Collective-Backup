@@ -39,7 +39,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
 
                     - 
 
-                - [Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] 
+                - [Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) 
                     - Did I do this right?
                     - Where does order emerges from?
                     - With the right primitives order emerges
@@ -88,8 +88,8 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [notifications](<notifications.md>).
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>)) are almost like [likes](<likes.md>) in other social platforms. 
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+                    - #[FN](<FN.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>)) are almost like [likes](<likes.md>) in other social platforms. 
+                    - #[FN](<FN.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
         - **[Thoughts](<Thoughts.md>):** [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])
             - **Methods:**
                 - Via block ref count
@@ -344,7 +344,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - [x] Import [connectors](((NbeK4NK4e)))
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Q](<Q.md>) What are the most basic conventions required for effective participation?
-            - [Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])
+            - [Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))
                 - — [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
         - [Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
             - — [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
@@ -361,7 +361,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - — [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - Sprint/Roam Game Example
             - "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
-            - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([[[E:](<[[E:.md>) beneficial, but optional]])"
+            - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))"
             - "[Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}} [*]([mtv](<mtv.md>))
@@ -419,9 +419,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
 - ---
 
 # Backlinks
-## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
 - **[Date Created](<Date Created.md>):** [February 10th, 2021](<February 10th, 2021.md>)
 
-## [[Q:](<[Q:.md>) When does chaos become insurmountable?](<[Q:](<Q:.md>) When does chaos become insurmountable?.md>)
+## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Date Created](<Date Created.md>):** [February 10th, 2021](<February 10th, 2021.md>)
 

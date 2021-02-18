@@ -109,10 +109,10 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - "Energy & enthusiasm"
                     - Creates excitement & engagement
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Simplicity and constraints are important to focus a group — especially a large group.
+                    - #[FN](<FN.md>) Simplicity and constraints are important to focus a group — especially a large group.
                     - 
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Fleeting Notes](<Fleeting Notes.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
+        - #[FN](<FN.md>) [convergence](<convergence.md>) can be accomplished as an [asynchronous](<asynchronous.md>) team activity through the use of [speculative outlines](<speculative outlines.md>) 
             - **[Process](<Process.md>):**
                 - Members brainstorm elements of outline.
                 - Outline draft is "ratified" or adopted (only as formal as necessary, often VERY informal)

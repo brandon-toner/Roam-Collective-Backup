@@ -5,7 +5,7 @@
                             - **[Cons](<Cons.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
+- #[FN](<FN.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
                                 - **[Cons](<Cons.md>):**
 
 - Simple implicit convention

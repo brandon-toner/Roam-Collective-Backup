@@ -8,12 +8,12 @@
         - <Note content goes here>
 
 # Backlinks
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+- [E/Evergreen Note example 2](<../E/Evergreen Note example 2.md>)
+
+## [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
+- [E/Evergreen Note example 2](<../E/Evergreen Note example 2.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- [E/Evergreen Note example 2](<../E/Evergreen Note example 2.md>)
-
-## [[E:](<../[E:.md>) Evergreen Note example 1](<[E:](<../E:.md>) Evergreen Note example 1.md>)
-- [E/Evergreen Note example 2](<../E/Evergreen Note example 2.md>)
-
-## [[E:](<../[E:.md>) Evergreen Note example 3](<[E:](<../E:.md>) Evergreen Note example 3.md>)
 - [E/Evergreen Note example 2](<../E/Evergreen Note example 2.md>)
 

@@ -24,11 +24,11 @@
 
 - **[Thoughts](<Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
+- #[FN](<FN.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages](<prepositional linkages.md>)
+- #[FN](<FN.md>) [prepositional linkages](<prepositional linkages.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- #[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
 - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>)
 
@@ -54,12 +54,12 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - **[Related](<Related.md>):** [prepositional linkages](<prepositional linkages.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- #[FN](<FN.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
 1. The [prepositional linkages](<prepositional linkages.md>)
 
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - **Concept page:** [prepositional linkages](<prepositional linkages.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- "#[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 

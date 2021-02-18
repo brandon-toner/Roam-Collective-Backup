@@ -22,7 +22,7 @@
         - {{[[query]]: {and: [[cc:[[Samuel Bars]]]] {not: [[query]]]}}}}
 - My activity on the graph
     - **Questions**:
-        - {{[[query]]: {and: [[smb]] [[Q:]] }}} #minimal
+        - {{[[query]]: {and: [[smb]] [[Q]] }}} #minimal
     - **Ideas**:
         - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal
 - Smartblocks

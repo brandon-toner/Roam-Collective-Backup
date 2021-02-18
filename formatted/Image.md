@@ -1,5 +1,9 @@
 
 # Backlinks
+## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
+- **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
+    - **[Image](<Image.md>):**
+
 ## [February 13th, 2021](<February 13th, 2021.md>)
 1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - **[Image](<Image.md>):**
@@ -26,7 +30,7 @@
 - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**
 
-- The up and down in the waveform below have some parallel with the [[[E:](<[[E:.md>) double diamond model (design)]]. If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
+- The up and down in the waveform below have some parallel with the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>). If you take the derivative of the waveform below (or if you imagine the speed of a ball going up and down), Zero speed is reached the highest points. I see this as the upper edges of the diamond. At this point, we have explored as much as our singular or collective brains can cope.  
                     - **[Image](<Image.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
@@ -76,15 +80,11 @@ Resolve by "[replace as text](<replace as text.md>)"
 - Tags: [Stories](<Stories.md>) [rules](<rules.md>) [order](<order.md>) [conventions](<conventions.md>) [structure](<structure.md>) [emergence](<emergence.md>) #[Reference Notes](<Reference Notes.md>) [Christianity](<Christianity.md>) [mythology](<mythology.md>)
     - **[Image](<Image.md>):**
 
-## [[E:](<[E:.md>) double diamond model (design)](<[E:](<E:.md>) double diamond model (design).md>)
-- **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
-    - **[Image](<Image.md>):**
-
 ## [[R:](<[R:.md>) Pharmacist's Patient Care Process (Dalhousie University)](<[R:](<R:.md>) Pharmacist's Patient Care Process (Dalhousie University).md>)
 - **[Authored by](<Authored by.md>):** [Dalhousie College of Pharmacy](<Dalhousie College of Pharmacy.md>)
     - **[Image](<Image.md>):**
 
 ## [mutually exclusive](<mutually exclusive.md>)
-- **[Related](<Related.md>):** [venn diagrams](<venn diagrams.md>), [conventions](<conventions.md>), [[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]]
+- **[Related](<Related.md>):** [venn diagrams](<venn diagrams.md>), [conventions](<conventions.md>), [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
 - **[Image](<Image.md>):**
 

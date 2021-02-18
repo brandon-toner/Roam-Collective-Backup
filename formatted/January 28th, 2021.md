@@ -57,7 +57,7 @@
                     - **[Vision](<Vision.md>):** Ability to reference the [Urbit](<Urbit.md>) [chat](<chat.md>) in [Roam](<Roam.md>), and Roam blocks in the Urbit chat.
                 - Future synchronous writing sessions like in [Roam Book Club](<Roam Book Club.md>)
                     - Live call to discuss active [projects](<projects.md>), launch or work on [sprints](<sprints.md>), and to collectively reflect on prompts related to those projects or sprints.
-                        - **[Related](<Related.md>):** "#[Fleeting Notes](<Fleeting Notes.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>)."
+                        - **[Related](<Related.md>):** "#[FN](<FN.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>)."
                 - Potential of using [SmartBlocks](<SmartBlocks.md>) to curate a [newsfeed](<newsfeed.md>) at the top of the page each day... random blocks, etc.
         - **[Free Thoughts](<Free Thoughts.md>):**
             - #[Questions](<Questions.md>)
@@ -132,7 +132,7 @@
         - #[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s
             - Ok... maybe not "__better__" but different and complimentary!
             - **[Related](<Related.md>):** 
-                - "#[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
+                - "#[FN](<FN.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) is an excellent [learning](<learning.md>) arena for a newer [Roam user](<Roam user.md>). "
                 - Learning through observation and participation. Active learning.
         - [I](<I.md>) [Memex](<Memex.md>) [copy-paster](<copy-paster.md>) could be used for bringing [highlights](<highlights.md>) and page metadata into Roam & for building [reference notes](<reference notes.md>)
     - [Promptstorming](<Promptstorming.md>) 
@@ -194,7 +194,7 @@ Resolve by "[replace as text](<replace as text.md>)"
             - distinguish private feed and public feed.
                 - Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public.
         - Some **concept** on Roam collaboration comes up these days...
-            - #[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol
+            - #[FN](<FN.md>) Roam {X} protocol
                 - **For example**, Roam publish protocol, Roam communicate protocol
                 - **Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal 
             - Roam reputation system

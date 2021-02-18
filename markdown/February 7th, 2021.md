@@ -62,7 +62,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [[~[[Matthew Vogel]]]] I did try to review material, but I think today I was truly burned out. [*](((9Q2agVyFC)))
         - [[~[[Matthew Vogel]]]] [*](((KJ2FvCNN3))) Harmful for two reasons. Quantity does not mean quality. And fear to fail and being observed is a limiting factor to the freedom people feel in expressing their mind. What I am trying to say with the second point is that we might preclude yourself from exploring ideas which disagree with the main ideas.
         - [[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
-            - "#[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
+            - "#[[FN]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
         - [[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
             - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
             - [[~[[Brandon Toner]]]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
@@ -70,7 +70,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
     - #Feedback  #not-populated
         - I love that when I check my messages I can also see that 
     - #Bookmarks
-        - "#[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
+        - "#[[FN]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
         - ""[[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯""
 - ---
@@ -117,7 +117,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - Here is the link to that [graph](https://roamresearch.com/#/app/multiplayerknowledgebases/page/tIRpxfXyY). It's impressive.
                 - {{[[TODO]]}} Review Mat's graph for lessons that can apply to Roam Collective.  #[[Help Wanted]]
         - #Q How do you confront feelings of [[chaos]] and overwhelm? 
-            - #[[Fleeting Notes]] Find the biggest rock you can lift, and carry it. #responsibility
+            - #[[FN]] Find the biggest rock you can lift, and carry it. #responsibility
                 - #Q How does this apply to Roam Collective?
                     - Convergence and finding a sense of order is everyone's collective responsibility.
                     - If things feel chaotic, find something you can [[clarify]] and bring into [[order]].
@@ -126,20 +126,20 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                             - Then reflect on how it could be more clear.
                                 - What decisions need to be made? 
                                 - What material needs to be summarized?
-        - #Q Should phases of [[divergence]] and [[convergence]] be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[[[E:]] cycles of divergence and convergence]]) #order #chaos
+        - #Q Should phases of [[divergence]] and [[convergence]] be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([[Evergreens/cycles of divergence and convergence]]) #order #chaos
             - Thoughts::
-                - #[[Fleeting Notes]] Freedom of expression is fun.
-                    - #[[Fleeting Notes]] Fun drives productivity and engagement.
-                - #[[Fleeting Notes]] Individuals have varying thresholds for tolerance of [[chaos]].
+                - #[[FN]] Freedom of expression is fun.
+                    - #[[FN]] Fun drives productivity and engagement.
+                - #[[FN]] Individuals have varying thresholds for tolerance of [[chaos]].
                 - It is easier to follow the rules when there are less of them.
                 - If each individual uses their own intuition as guide for navigating balance, then the whole will benefit. 
                 - Global phases of divergence and convergence could be offered, and followed loosely. 
-                - #[[Fleeting Notes]] "[[ride the lightning]]" as a mode of action.
+                - #[[FN]] "[[ride the lightning]]" as a mode of action.
                     - Run with [[inspired action]] as it strikes.
                     - [[non-coercive]] [[productivity]].
                     - #Q What happens when everyone rides the lightning. 
-                    - #[[Fleeting Notes]] Roam was built to empower a "[[ride the lightning]]" workflow.
-            - #[[Fleeting Notes]] Find order through collective chaos. 
+                    - #[[FN]] Roam was built to empower a "[[ride the lightning]]" workflow.
+            - #[[FN]] Find order through collective chaos. 
                 - As we all ride the lightning, patterns emerge naturally; we improve the surface-area for [[serendipity]]  and [[alignment]].
                 - Work independently together, and leverage moments of serendipitous alignment.
                     - Global [[purpose]], [[goals]], and [[vision]] narrows the space that we oscillate around. It creates a lens to think and act through.
@@ -172,7 +172,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - [[neuroticism]]
                     - [[withdrawal]]
                     - [[volatility]]
-            - #[[Fleeting Notes]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]]).
+            - #[[FN]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]]).
         - A speculative outline of some speculative outlines: #Outlines
             - Sections
                 - Miscellaneous

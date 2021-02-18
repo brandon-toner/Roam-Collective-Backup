@@ -57,7 +57,7 @@
                     - Vision:: Ability to reference the [[Urbit]] [[chat]] in [[Roam]], and Roam blocks in the Urbit chat.
                 - Future synchronous writing sessions like in [[Roam Book Club]]
                     - Live call to discuss active [[projects]], launch or work on [[sprints]], and to collectively reflect on prompts related to those projects or sprints.
-                        - Related:: "#[[Fleeting Notes]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
+                        - Related:: "#[[FN]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
                 - Potential of using [[SmartBlocks]] to curate a [[newsfeed]] at the top of the page each day... random blocks, etc.
         - Free Thoughts::
             - #[[Questions]]
@@ -132,7 +132,7 @@
         - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
             - Ok... maybe not "__better__" but different and complimentary!
             - Related:: 
-                - "#[[Fleeting Notes]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. "
+                - "#[[FN]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. "
                 - Learning through observation and participation. Active learning.
         - #I [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Promptstorming 
@@ -194,7 +194,7 @@ Resolve by "[[replace as text]]"
             - distinguish private feed and public feed.
                 - Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public.
         - Some **concept** on Roam collaboration comes up these days...
-            - #[[Fleeting Notes]] Roam {X} protocol
+            - #[[FN]] Roam {X} protocol
                 - **For example**, Roam publish protocol, Roam communicate protocol
                 - **Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal 
             - Roam reputation system

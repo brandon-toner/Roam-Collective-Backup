@@ -66,7 +66,7 @@
             - 
         - #Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]
             - Thoughts on this thread of thoughts? [[~[[Charles Farr]]]]
-            - Example:: [[[[E:]] alert fatigue]]
+            - Example:: [[Evergreens/alert fatigue]]
             - I'm inclined to make these concepts [[evergreen notes]], but it feels like it may have the potential to dilute more claim-based [[zettels]].
                 - That being said, [[Andy Matuschak]] will include concept pages as an anchor for other claim-based and more specific ideas.
                 - My natural impulse while writing is to:
@@ -93,9 +93,9 @@
     - #Bookmarks
         - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ #Metaphors"
     - #[[The Zettelkasten]] 
-        - #[[Fleeting Notes]] writing in a [[zettelkasten]] is a lot like writing on [[Twitter]].
+        - #[[FN]] writing in a [[zettelkasten]] is a lot like writing on [[Twitter]].
             - [[atomic ideas]], brief claims and assertions.
-            - #[[Fleeting Notes]] [[evergreen notes]] are like the [[Twitter threads]] you keep coming back to. The anchoring points to explain an idea or concept. 
+            - #[[FN]] [[evergreen notes]] are like the [[Twitter threads]] you keep coming back to. The anchoring points to explain an idea or concept. 
                 - Example:: [[Visakan Veerasamy]]'s "talking points" are essentially a collection of [[evergreen notes]].
                     - In fact, his entire twitter style demonstrates an effective [[zettelkasten]].
                         - Prolific, interconnected, cumulative — self-propelling.
@@ -103,7 +103,7 @@
             - #Q What should the convention be for the use of [[abbreviations]]? #Conventions
         - #I a #[[Reference Needed]] tag can be helpful for flagging and populating missing references. 
             - ... but this might be satisfied by not_populated! 
-        - #[[Fleeting Notes]] [[constraints]] help to facilitate [[convergence]].
+        - #[[FN]] [[constraints]] help to facilitate [[convergence]].
     - #Conversation 
         - "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
             - There is definitely some variance on the structure of zettelkastens.
@@ -122,7 +122,7 @@
         - "#Q What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?"
             - Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.
                 - #Projects #I Build a productivity [[dashboard]].
-        - Some thoughts on [[[[E:]] Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten
+        - Some thoughts on [[Evergreens/Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten
             - Attributes could be improved for [[querying]] by nesting them beneath a `Tags::` block. 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpnHw9Gjief.png?alt=media&token=2f636fa5-6549-44a7-b581-de4e3e119ebd)
             - The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes.
@@ -133,10 +133,10 @@
                 - **Benefits I can see that I do like:**
                     - Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page.
                         - ^^This actually sounds quite powerful^^
-                        - I built [[[[E:]] Evergreen Note example 3]] to illustrate this iteration.
-                - Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[[[E:]] Evergreen Note example 3]]. 
+                        - I built [[Evergreens/Evergreen Note example 3]] to illustrate this iteration.
+                - Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[Evergreens/Evergreen Note example 3]]. 
                     - Related:: 
-                        - [[[[E:]] Evergreen Note example 1]]
+                        - [[Evergreens/Evergreen Note example 1]]
                         - [[E/Evergreen Note example 2]]
                         - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
         - "[[~[[Brandon Toner]]]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how"
@@ -154,7 +154,7 @@
                 - i.e. here "This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title."[*](((xHjy_KXGZ)))
                 - This method will allow us to access powerful uses of specific [[2nd-degree connections]] to build [[abstractions]] that we can use for querying. 
                     - This is eventually where [[logic]] will get quite fun. 
-                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[[[E:]] Use the native convention as much as possible.]]).
+                - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[Evergreens/Use the native convention as much as possible.]]).
         - "perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph" [*](((xLHZnRztX)))
             - Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions 
                 - [[~[[Charles Farr]]]], [[^[[Peter Rosso]]]]
@@ -184,20 +184,20 @@
                 - Comments::
                     - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[[evergreen notes]] #zettelkasten [*]([[Bookmarks]])
                         - I'm tying this to authorship. 
-                        - Supporting evidence, background, elaboration, examples, etc are all encouraged — But not considered part of [[minimum requirements]][*]([[[[E:]] beneficial, but optional]])
+                        - Supporting evidence, background, elaboration, examples, etc are all encouraged — But not considered part of [[minimum requirements]][*]([[Evergreens/beneficial, but optional]])
                         - If you disagree with a zettel, reference it and engage in conversation with it. Use principles of [[rhetoric]], and seek truth through iterative reasoning. 
-                            - #[[Fleeting Notes]] the validity of a note within the zettelkasten should be surrogated by the content of its references. 
+                            - #[[FN]] the validity of a note within the zettelkasten should be surrogated by the content of its references. 
                                 - Is it being frequently [cited]([[citation]])?
                                 - Is it being challenged? Supported?
-                        - #[[Fleeting Notes]] To seek [truthfulness]([[truth]]) as minimum requirement is to be paralyzed out of the gates. #[[evergreen notes]] #zettelkasten
+                        - #[[FN]] To seek [truthfulness]([[truth]]) as minimum requirement is to be paralyzed out of the gates. #[[evergreen notes]] #zettelkasten
                         - #Q How can we objectively categorize the degree of maturity of an evergreen note? 
-                            - #[[Fleeting Notes]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. 
+                            - #[[FN]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. 
         - #[[Graph Mentorship]]
             - "#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?"
                 - Just changed `#[[Context Questions]]` to #Q here. [*](((LndnjT55D)))
                     - HA! This was me, before the switch.
             - [[~[[Larissa de Lima]]]] seeing lots of great questions, consider prepending some with `#Q` to make sure they are carried forward. 
-                - Also, feel free to tag more liberally in your writing, that will help with querying/filtering as we start digging through the database soon. I use [this]([[[[E:]] Evergreen notes should be densely linked]]) philosophy even when writing in the DNP.
+                - Also, feel free to tag more liberally in your writing, that will help with querying/filtering as we start digging through the database soon. I use [this]([[Evergreens/Evergreen notes should be densely linked]]) philosophy even when writing in the DNP.
                     - Big keywords and glossary terms are the main ones to include (as relevant)
         - "#Q Should [[How To]] pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"[*](((nECtcrahY))) [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
             - My thoughts are:
@@ -212,7 +212,7 @@
                 - Flagged it as experimental. 
         - Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[[E:]]`" [[~[[Charles Farr]]]]
         - "[[~[[Brandon Toner]]]] This idea goes hand in hand with the idea of double diamond in engineering design and product development."
-            - [[[[E:]] double diamond model (design)]] — love it.
+            - [[Evergreens/double diamond model (design)]] — love it.
         - "This is [one screenshot](((j0NJb8DOE))) when I’m trying to figure out what’s going on in a conversation."
             - Oh wow hahahah [[~[[leekeifon]]]]
             - Definitely need to use some block zooming to get better views on things to make use of screen space.
@@ -224,11 +224,11 @@
                 1. Import Andy's notes as [[evergreen notes]] (with Andy as author).
                 2. Reference those notes in conversation among the group. 
                 3. Then andy's notes **become a part of the conversation.**
-                    - #[[Fleeting Notes]] notes within a zettelkasten become part of a conversation. 
+                    - #[[FN]] notes within a zettelkasten become part of a conversation. 
                         - At their best, the are representations of full arguments.
                             - Their use allows the conversation to go further, faster. All while leaving a trail.
         - [[zettelkasten]] variations [*](((ouhexdetE))) #Bookmarks
-            - #[[Fleeting Notes]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
+            - #[[FN]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
                 - From [[Charles Farr]]:
                     - "Single-player versus multiplayer"
                     - "Output-oriented versus memorialization-driven"
@@ -257,28 +257,28 @@
                     - As for [conventions]([[Conventions]]) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE))).
         - "Makes sense [[~[[Brandon Toner]]]] re `#[[Project Ideas]]` — [[compound tags]] shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))"
             - Yea, I see [[project ideas]] as the output engine of the [[zettelkasten]].
-                - #[[Fleeting Notes]] [[project ideas]] are what drives the [[zettelkasten]] towards [[output]].
+                - #[[FN]] [[project ideas]] are what drives the [[zettelkasten]] towards [[output]].
         - [[Charles Farr]] on [concept pages](((tzhAdFJur)))[*]([[concept pages]]) #Bookmarks
             - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
                 - Would adjust to *may* get processed — most won't.
                     - Many similar [[fleeting notes]] may highlight a pattern of thought that I then crystallize one or more [[evergreen notes]].[*]([[pattern-recognition]])
-                        - #[[Fleeting Notes]] [[fleeting notes]] capture [resonant]([[resonance]]) ideas, mapping the territory of thought. [Patterns]([[patterns]]) in fleeting notes documented hint towards central ideas worth distilling into [[evergreen notes]].
+                        - #[[FN]] [[fleeting notes]] capture [resonant]([[resonance]]) ideas, mapping the territory of thought. [Patterns]([[patterns]]) in fleeting notes documented hint towards central ideas worth distilling into [[evergreen notes]].
             - Really like [this](((8v8Lq9E8o))) [definition]([[Definitions]]) of [[seedlings]]. #Bookmarks
             - Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. 
-                - #[[Fleeting Notes]] To keep ideas flowing, you need to keep [[minimum requirements]] low. #momentum
-                    - #[[Fleeting Notes]] excessive quality [[standards]] can halt or smother [[creativity]].
+                - #[[FN]] To keep ideas flowing, you need to keep [[minimum requirements]] low. #momentum
+                    - #[[FN]] excessive quality [[standards]] can halt or smother [[creativity]].
             - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-                - #[[Fleeting Notes]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])
+                - #[[FN]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])
                     - LOVE this. This is getting quite good. [[~[[Charles Farr]]]]
                         - #Q At the level of the [seedling]([[seedlings]]), would the namespace of the note still be `[[E:]]`?
-                            - We are close to nailing the nuance of a [[[[E:]] low floor, high ceiling]] [[zettelkasten]]! #Bookmarks
+                            - We are close to nailing the nuance of a [[Evergreens/low floor, high ceiling]] [[zettelkasten]]! #Bookmarks
                                 - [YES.](((SGUHeHTkV)))
                                     - I think we should work on conventions for [[seedlings]] next. That feels like a fruitful endeavour.
                                         - Establish conventions for [[seedlings]] #[[Week-05: 02-01-2021]]
         - "Perhaps a `#Definition` or `#Concept` tag within the evergreen page itself could then identify it as such?"
             - This was the direction I was leading to this afternoon.... 
             - For me, anchoring the concepts and definitions is important for mapping the territory. And is actually a [[pre-requisite]]. 
-                - #[[Fleeting Notes]] it's easier to first collect and [[map]] known information before making new [[assertions]].
+                - #[[FN]] it's easier to first collect and [[map]] known information before making new [[assertions]].
                     - Once the map is established, [[patterns]] emerge, and the building blocks are there for the stacking.
             - #Q Does the namespace change? [[~[[Charles Farr]]]]
                 - If so, it should be a broad enough collection as to not require more. 
@@ -288,7 +288,7 @@
                             - Which may make MORE sense for the namespace on claims to be `[[C:]]` 
                                 - Pros::
                                     - Differentiates the use of `#[[Evergreen Notes]]` and `[[E:]]`
-                                        - #[[Fleeting Notes]] "All [[claims]] are [[evergreen notes]], but not all evergreen notes are claims" #I [*]([[assertions]])
+                                        - #[[FN]] "All [[claims]] are [[evergreen notes]], but not all evergreen notes are claims" #I [*]([[assertions]])
                                 - Cons::
                                     - "C" is novel. Z and E are more common in the community...
                                         - So maybe [[claims]] become [[zettels]].
@@ -299,7 +299,7 @@
         - I'm sure I marked a bunch of things as read, then on another browser they were unread again. Not sure what happened — don't notice anything else missing/off.
     - #Feedback  
         - #[[[[Feedback]]: What's working]]
-            - Loving the "cc" convention as a "soft" notification. Really helps to reduce [[[[E:]] alert fatigue]] as well. 
+            - Loving the "cc" convention as a "soft" notification. Really helps to reduce [[Evergreens/alert fatigue]] as well. 
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]]
@@ -405,7 +405,7 @@
             - Re: "The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)"
                 - I'm realizing that [[~[[Brandon Toner]]]] you've probably already thought of this — is there a convention you've built for the purpose?
         - On nested `[[E:]]` [[namespaces]] / title references with BToner
-            - "Some thoughts on [[[[E:]] Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten"
+            - "Some thoughts on [[Evergreens/Evergreen Note example 1]] [[~[[Charles Farr]]]] #zettelkasten"
                 - [[~[[Brandon Toner]]]]
                     - "The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes."
                         - Yep, this makes sense — I came back to this point actually when thinking about it [yesterday](((VpmyBCAWV)))
@@ -414,10 +414,10 @@
                         - This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[[Evergreen Notes]]` tag within linked references
                         - The other benefit is being able to query based on the combination of `[[E:]]` and some topic of interest — for instance `[[resurfacing]]`
                             - #min-con {{[[query]]: {and: [[E:]] [[resurfacing]]}}}
-                            - I changed the title for [[[[E:]] Make evergreen notes as you write.]] to illustrate above...
+                            - I changed the title for [[Evergreens/Make evergreen notes as you write.]] to illustrate above...
                         - However, this same [query](((NrGcnTXDx))) can be accomplished using `[[Evergreen Notes]]`, so perhaps a bit duplicative...
                             - #min-con {{[[query]]: {and: [[Evergreens]] [[resurfacing]]}}}
-                    - "Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[[[E:]] Evergreen Note example 3]]. "
+                    - "Considering: Adopt `[[E:]]` as the [namespace]([[namespaces]]) of choice, while adopting [[Evergreens/Evergreen Note example 3]]. "
                         - This seems like a good happy medium!
         - On [[[[How To]] Determine Goals for a Graph]] with PRosso + BToner
             - {{[[TODO]]}} Outline [[[[How To]] Determine Goals for a Graph]]
@@ -499,12 +499,12 @@
                                         - "Often through this process, I find that the big idea is refined"
                                     - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
                                         - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
-                        - **Definitions** — most closely related to your concept page for [[[[E:]] alert fatigue]]
+                        - **Definitions** — most closely related to your concept page for [[Evergreens/alert fatigue]]
                         - **Collections** — a set of evergreens oriented around a higher level concept
-                            - When compared to alter fatigue, it might be "sustaining participation in shared endeavors," which requires mitigating [[[[E:]] alert fatigue]]
+                            - When compared to alter fatigue, it might be "sustaining participation in shared endeavors," which requires mitigating [[Evergreens/alert fatigue]]
                         - **Outlines** — a ordered set of evergreens to explicit support an argument
                             - For example, I would envision starting with an outline when writing [[[[Why]] Build A Community Zettelkasten]]
-                    - So, the big question for me is do we really need definitions and concept pages like what you have with [[[[E:]] alert fatigue]] right now?
+                    - So, the big question for me is do we really need definitions and concept pages like what you have with [[Evergreens/alert fatigue]] right now?
                         - I don't know! However, in my head, I would likely organize it like this:
                             - An Evergreen
                                 - #Evergreens Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
@@ -582,9 +582,9 @@
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FqvyB7oEU2U.png?alt=media&token=70132a84-98ba-4d84-bafd-017590b1ab67)
                     - Even if when I was doing synchronous communication, [I feel lost too](((xWL23Wbc6))).
                 - claim::
-                    - #[[Fleeting Notes]] [[conversation]] designed for async communication should have clear [[goals]].
+                    - #[[FN]] [[conversation]] designed for async communication should have clear [[goals]].
             - [[Related]] [*](((-sjmnGf_D))) [*](((0eWl7ORS7))) [*](((pCqXnE-QK)))
-        - Concrete [need](((l1bAGu1Op))) for "#[[Fleeting Notes]] public vs private ".
+        - Concrete [need](((l1bAGu1Op))) for "#[[FN]] public vs private ".
         - #[[Evergreens]] chunk size
             - A cognitive concept that I learn from [[Andy Matuschak]]
             - [[Related]] [[spaced repetition]]
@@ -613,7 +613,7 @@
         - Jamming on "#Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]]" [[~[[Brandon Toner]]]]
             - argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context.
                 - One [implication]([[significance and implications]]) of rush, is not enough [[maturity]].
-                    - #[[Fleeting Notes]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].
+                    - #[[FN]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].
                         - Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.
                         - **Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up.
                 - Similar [idea](((7UZ275DjI))) from [[Larissa de Lima]]
@@ -625,7 +625,7 @@
         - Does the conversation need to be segmented by individual?
             - What if the conversation convention was that you added sequentially to a page, instead of 
         - What needs to be different in knowledge management and creation, if it is collaborative?
-        - #[[Fleeting Notes]] Shared endeavors and [[collaboration]] require solidity
+        - #[[FN]] Shared endeavors and [[collaboration]] require solidity
             - Epistemic status: strong intuition that I am in process of elaborating, would welcome reactions both for and against
                 - Inspiration: have been mulling over Beau Haan's RoamTour and his metaphor with physical states
             - "Solidity" depends on agreed upon structure
@@ -680,5 +680,5 @@
         - #[[[[Feedback]]: [[Suggestions]]]] resolved 
             - "Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now."
                 - I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful
-                - Some early thoughts I am in process of further refining under here: "#[[Fleeting Notes]] Shared endeavors and [[collaboration]] require solidity" 
+                - Some early thoughts I am in process of further refining under here: "#[[FN]] Shared endeavors and [[collaboration]] require solidity" 
 - ---

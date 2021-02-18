@@ -23,7 +23,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [I](<I.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
     - Zettelkasten Notes
         - **Fleeting Notes:**
-            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Fleeting Notes](<Fleeting Notes.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [FN](<FN.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
     - Productivity
         - **Follow Ups:**
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>) {not: {or: }}  }}}

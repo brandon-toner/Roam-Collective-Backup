@@ -41,7 +41,7 @@
                     - adds aesthetic
                     - Visual feedback communicates that the user used the "right tag"
                 - Scratchpad as a place for loosely organized thought -- a scratchpad.
-        - #[Fleeting Notes](<Fleeting Notes.md>) aligned [collaboration](<collaboration.md>) drives [flow state](<flow state.md>) work and thinking.
+        - #[FN](<FN.md>) aligned [collaboration](<collaboration.md>) drives [flow state](<flow state.md>) work and thinking.
         - [I](<I.md>) A roam/js extension that helps to "mirror" relationships between pages.
             - **[Example](<Example.md>):** "supports"/"supported by"
             - bi-directional linking for [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
@@ -57,19 +57,19 @@
                 2. The top co-tags ordered by number of hits. 
                     - This gives you the ability to assess for what topics you have thought a lot about.
                         - These are rich places to look for the development of [evergreen notes](<evergreen notes.md>). 
-            - #[Fleeting Notes](<Fleeting Notes.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>)) empowers the ability to [query]([querying](<querying.md>)) for information from exclusively within your notes.
-        - #[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))
+            - #[FN](<FN.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>)) empowers the ability to [query]([querying](<querying.md>)) for information from exclusively within your notes.
+        - #[FN](<FN.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))
             - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [block-level tags](<block-level tags.md>). 
-                - #[Fleeting Notes](<Fleeting Notes.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
+                - #[FN](<FN.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
                     - [Roam](<Roam.md>), in combination with the [conventions](<conventions.md>) set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
-        - #[Fleeting Notes](<Fleeting Notes.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) transcends "The Now". 
+        - #[FN](<FN.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) transcends "The Now". 
         - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([[[R:](<[[R:.md>) Joel Chan — Knowledge Synthesis]])
             - **[Diagram](<Diagram.md>):**
                 - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
             - [Q](<Q.md>) How might [problems](<problems.md>) be stated at the [block-level](<block-level.md>)?
             - [Q](<Q.md>) How might [hypotheses](<hypotheses.md>) be documented at the [block-level](<block-level.md>)?
             - [Q](<Q.md>) How might [conclusions](<conclusions.md>) be documented?
-        - #[Fleeting Notes](<Fleeting Notes.md>) micro and macro levels of [inquiry](<inquiry.md>).
+        - #[FN](<FN.md>) micro and macro levels of [inquiry](<inquiry.md>).
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
@@ -157,7 +157,7 @@
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `[I](<I.md>)` block they're nested under, which feels appropriate. 
             - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `[csf](<csf.md>)` tag...
     - [Bookmarks](<Bookmarks.md>)
-        - "#[Fleeting Notes](<Fleeting Notes.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))"
+        - "#[FN](<FN.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))"
     - #[Change Log](<Change Log.md>)
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme

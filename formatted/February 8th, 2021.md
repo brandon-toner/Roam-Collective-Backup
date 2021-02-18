@@ -84,10 +84,10 @@
                 - ....
         - Updated conventions for notes types
             - [[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]
-            - #[Fleeting Notes](<Fleeting Notes.md>) Fleeting notes capture nascent ideas with potential to contribute to
+            - #[FN](<FN.md>) Fleeting notes capture nascent ideas with potential to contribute to
     - [Conversation](<Conversation.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
-            - Candidate for change: [[[E:](<[[E:.md>) Why build maturity into your knowledge management system?]]
+            - Candidate for change: [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
                 - My original intention for this page was for it to be output focused 
     - [Bookmarks](<Bookmarks.md>)
         - [Tweet](<Tweet.md>) on divergent & convergent thinking from Conor + Deepu

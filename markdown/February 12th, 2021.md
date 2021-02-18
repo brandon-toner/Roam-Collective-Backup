@@ -14,8 +14,8 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - #Scratchpad
-        - Added page: [[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]]
-        - Thoughts:: `Work Summary` attribute[*]([[[[Q:]] How could an "agile" approach to collaboration be implemented in Roam Collective?]])
+        - Added page: [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
+        - Thoughts:: `Work Summary` attribute[*]([[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]])
             - Purpose: to orient team members working on the question/sprint/epic
             - A place to log/link to related work elsewhere in the database.
             - #Q How do you prevent the need to duplicate the log in several places in the graph?
@@ -52,13 +52,13 @@
             - Comments::
                 - A page can only have ONE namespace. 
                     - These can be nested hierarchically, but it's very [[file-folder]]-y
-                - #[[Fleeting Notes]] [[namespaces]] should be reserved for pages with a clear categorization.
-                - #[[Fleeting Notes]] A `Tags::` attribute can be used to designate [[collections]] and sub-collections, using a combination of tags.
+                - #[[FN]] [[namespaces]] should be reserved for pages with a clear categorization.
+                - #[[FN]] A `Tags::` attribute can be used to designate [[collections]] and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[[Fleeting Notes]] A test for strength of [[conventions]]: Are categories [[mutually exclusive]] when a categorization decision is necessary?
+        - #[[FN]] A test for strength of [[conventions]]: Are categories [[mutually exclusive]] when a categorization decision is necessary?
             - #Q What conventions should be [[mutually exclusive]]? 
-                - #[[Fleeting Notes]] conventions with overlap in utility or lack-of-clarity of use should be flagged as `#Tensions` to allow for re-evaluation and resolution.
+                - #[[FN]] conventions with overlap in utility or lack-of-clarity of use should be flagged as `#Tensions` to allow for re-evaluation and resolution.
         - Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
@@ -68,19 +68,19 @@
             - [Sprints]([[sprints]]) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
                 1. Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
-                    - #[[Fleeting Notes]] [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
+                    - #[[FN]] [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
                 2. Once work starts to center around some common [[themes]], [[questions]] and [[ideas]], they could start to take the form of a defined "[epic]([[epics]])".
                     - An [epic]([[epics]]) is an objective centered around an open question or development milestone. [*]([[Definitions]])
                 3. The epic should be formed using the [epic template](((Gx7UUAS7L))), and information on the template should be populated to gather all relevant information in one place.
                     - This becomes the hub of the mission.
                 4. Epics are big though... sometimes they can feel too big or overwhelming to tackle. This is where [[sprints]] come in.
                     - Sprints are the manageable units of work associated with an epic.[*]([[Definitions]])
-                    - Related:: [[[[E:]] How do you eat an elephant?]]
+                    - Related:: [[Evergreens/How do you eat an elephant?]]
                 5. Sprints are formed to break epics into manageable pieces. These should be populated using the [sprints template](((tG1HJs2dK)))
                 6. Sprints and epics should be easily visible on the daily notes page each day — giving users the ability to see at-a-glance what the group is converging around. 
                 7. Work related to sprints should be conducted within each user's DNP Section & referenced into the [Work Summary section](((JZ6S734y4))), as a rolling log of work completed by all team members.
                 8. As work accumulates, members (or a sprint leader) should then review the bits of work, **assembling the pieces into a summary document**. This is the [deliverable]([[deliverables]]) of the sprint.  
-                    - #[[Fleeting Notes]] By breaking down epics into [[intermediate packets]] or [[intermediate deliverables]] (as phrased by [Conor]([[Conor White-Sullivan]])), collaboration, the remixing of work, and the management of [[dependencies]] becomes easier.[*](((RyuMSELI3)))
+                    - #[[FN]] By breaking down epics into [[intermediate packets]] or [[intermediate deliverables]] (as phrased by [Conor]([[Conor White-Sullivan]])), collaboration, the remixing of work, and the management of [[dependencies]] becomes easier.[*](((RyuMSELI3)))
                         - #Seedlings Breaking down work into intermediate packets improves collaboration, agility, and dependency management. 
                 9. Once a sprint is adequately completed, the team can then move to the next priority component of the epic. 
                 10. Repeat.
@@ -90,17 +90,17 @@
             - Story points = outline of components of the epic
             - Idea of [[prepositional linkages]]
         - Thoughts:: [[prepositional linkages]]
-            - [[[[E:]] Claim 1]]
-            - [[[[E:]] Claim 2]]
-            - #[[Fleeting Notes]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
-                - Example:: "supported by:: [[[[E:]] Claim 2]]"
-            - #[[Fleeting Notes]] [[prepositional linkages]] should be past-tense in tone. 
+            - [[Evergreens/Claim 1]]
+            - [[Evergreens/Claim 2]]
+            - #[[FN]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
+                - Example:: "supported by:: [[Evergreens/Claim 2]]"
+            - #[[FN]] [[prepositional linkages]] should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [[dependencies]] as [[development]] progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[[Fleeting Notes]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
-                - #[[Fleeting Notes]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
-                    - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+            - #[[FN]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
+                - #[[FN]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+                    - [[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
             - #Obs I'm often looking for a `response tag` to a `#Q`...
                 - Sometimes this is an `#I` for ideas, but sometimes it feels like I need an `#A` for Answer.
                 - So, I'm adding an `#A` block-level tag for use in response to a `#Q` tag, when an answer feels appropriate.
@@ -123,13 +123,13 @@
             - Related:: [[supported by]]
             - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
-        - #[[Fleeting Notes]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
+        - #[[FN]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
     - #Bookmarks #not-populated
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - "[@Brandon]([[@[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
-                - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[[[E:]] beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
+                - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[Evergreens/beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([[@[[Peter Rosso]]]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
             - It also brings up the idea of using [@Everyone]([[@[[Everyone]]]]) as a universal notification place... [*]([[~[[Charles Farr]]]]), [*]([[@[[Peter Rosso]]]])
@@ -196,7 +196,7 @@
             - On direction — what exactly do you mean? 
                 - Work direction on sprints/epics?
                     - If so, I think we can make the work direction clear, but optional. 
-                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[[E:]] knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
+                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
             - On convergence
                 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [[alignment]] — ref: [[standing waves]] concept.
                     - > "I think that synchronous and aligned activities in a multiplayer[[ zettelkasten]] can lead to compound effects like [[standing waves]] created by signals."
@@ -218,7 +218,7 @@
         - Order without design
             - What is order?
             - #Q can we quantify the [[entropy]] of a [[zettelkasten]]?
-        - "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+        - "#Q [[Questions/When does chaos become insurmountable?]] "
             - [[entropy]]
         - Anarchic design and anarchic thinking
             - check papers by andrew Ma on anarchic manufactutring
@@ -261,11 +261,11 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - {{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
                 - {{[[TODO]]}} What, Why, How: Collaborating within Roam
                     - {{[[TODO]]}} What, Why, How: Divergent Thinking
-                        - {{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] "
+                        - {{[[TODO]]}} "#Q [[Questions/When does chaos become insurmountable?]] "
                     - {{[[TODO]]}} What, Why, How: Convergent Thinking
                     - {{[[TODO]]}} What, Why, How: Communicating within Roam
                 - {{[[TODO]]}} What, Why, How: Defining Types of Relationships
-                    - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
+                    - {{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                         - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
         - #Q How do you balance the energy required to adhere to conventions with the value said conventions provide?
         - On the foundations of [[statement chains]]...
@@ -293,13 +293,13 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - Weakens
                         - Weakened By
                     - Counter-example
-            - [[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
+            - [[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
             - [[prepositional linkages]]
     - #Conversation
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([[~[[Brandon Toner]]]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
                 - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
-        - On the holy concept of MECE ([[[[E:]] mutually exclusive, collectively exhaustive (MECE)]])
+        - On the holy concept of MECE ([[Seedlings/mutually exclusive, collectively exhaustive (MECE)]])
             - In [consulting]([[cc:[[Larissa de Lima]]]]), when assessing a system, solution, or just a set of options, we would use MECE to test it's strength.
             - Very similar to your thinking [here](((8A5PGG4bj))) [Brandon]([[~[[Brandon Toner]]]]).
             - The overall goal was to ensure that..

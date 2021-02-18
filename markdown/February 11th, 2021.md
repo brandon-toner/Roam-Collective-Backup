@@ -77,7 +77,7 @@
             - CSS snippets
             - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
     - #[[The Zettelkasten]] 
-        - #[[Fleeting Notes]] [Sprint]([[sprints]]) and epic titles should be descriptive.
+        - #[[FN]] [Sprint]([[sprints]]) and epic titles should be descriptive.
     - #Conversation 
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[~[[Charles Farr]]]])
         2. On a RC domain[*](((81t5uIxRT)))
@@ -148,7 +148,7 @@
                         - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
                         - Oriented around a question block and page:
                             - Initial block: "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
-                            - Ultimate page: [[[[Q:]] How do you manage dependency of ideas and influence within a community knowledge graph?]]
+                            - Ultimate page: [[Questions/How do you manage dependency of ideas and influence within a community knowledge graph?]]
                     - How work splits across Epics & Questions...
                         - The epic page is used to outline sprints and individual story points / questions
                         - The question block is used within the outline of the epic
@@ -159,7 +159,7 @@
                     - [[Backlog]] ← repository for the current outlines of active Epics & Sprints
                     - [[Epics/Managing knowledge dependencies in multiplayer]] ← Epic related to [[Roam Games]] 3
                     - [[Sprints/1 — Roam Games 3 (managing dependencies)]] ← Sprint from now until next Sunday
-                    - {{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
+                    - {{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
                     - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
             - "#I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
                 - "[Draft Sprints template](((tG1HJs2dK)))"

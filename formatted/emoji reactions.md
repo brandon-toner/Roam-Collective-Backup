@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[Fleeting Notes](<Fleeting Notes.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>))
+- #[FN](<FN.md>) [Emoji reactions]([emoji reactions](<emoji reactions.md>))
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - "Question: Is there any convention around reactions?" [Conventions](<Conventions.md>) #[emoji reactions](<emoji reactions.md>)

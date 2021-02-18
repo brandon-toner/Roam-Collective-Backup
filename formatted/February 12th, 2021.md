@@ -14,8 +14,8 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
-        - Added page: [[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]]
-        - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([[[Q:](<[[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?]])
+        - Added page: [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+        - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>))
             - Purpose: to orient team members working on the question/sprint/epic
             - A place to log/link to related work elsewhere in the database.
             - [Q](<Q.md>) How do you prevent the need to duplicate the log in several places in the graph?
@@ -52,13 +52,13 @@
             - **[Comments](<Comments.md>):**
                 - A page can only have ONE namespace. 
                     - These can be nested hierarchically, but it's very [file-folder](<file-folder.md>)-y
-                - #[Fleeting Notes](<Fleeting Notes.md>) [namespaces](<namespaces.md>) should be reserved for pages with a clear categorization.
-                - **[#[Fleeting Notes](<Fleeting Notes.md>) A `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>) and sub-collections, using a combination of tags.
+                - #[FN](<FN.md>) [namespaces](<namespaces.md>) should be reserved for pages with a clear categorization.
+                - **[#[FN](<FN.md>) A `Tags](<#[FN](<FN.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>) and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[Fleeting Notes](<Fleeting Notes.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>) when a categorization decision is necessary?
+        - #[FN](<FN.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>) when a categorization decision is necessary?
             - [Q](<Q.md>) What conventions should be [mutually exclusive](<mutually exclusive.md>)? 
-                - #[Fleeting Notes](<Fleeting Notes.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
+                - #[FN](<FN.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
@@ -68,19 +68,19 @@
             - [Sprints]([sprints](<sprints.md>)) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
                 1. Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
+                    - #[FN](<FN.md>) [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
                 2. Once work starts to center around some common [themes](<themes.md>), [questions](<questions.md>) and [ideas](<ideas.md>), they could start to take the form of a defined "[epic]([epics](<epics.md>))".
                     - An [epic]([epics](<epics.md>)) is an objective centered around an open question or development milestone. [*]([Definitions](<Definitions.md>))
                 3. The epic should be formed using the [epic template](((Gx7UUAS7L))), and information on the template should be populated to gather all relevant information in one place.
                     - This becomes the hub of the mission.
                 4. Epics are big though... sometimes they can feel too big or overwhelming to tackle. This is where [sprints](<sprints.md>) come in.
                     - Sprints are the manageable units of work associated with an epic.[*]([Definitions](<Definitions.md>))
-                    - **[Related](<Related.md>):** [[[E:](<[[E:.md>) How do you eat an elephant?]]
+                    - **[Related](<Related.md>):** [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
                 5. Sprints are formed to break epics into manageable pieces. These should be populated using the [sprints template](((tG1HJs2dK)))
                 6. Sprints and epics should be easily visible on the daily notes page each day — giving users the ability to see at-a-glance what the group is converging around. 
                 7. Work related to sprints should be conducted within each user's DNP Section & referenced into the [Work Summary section](((JZ6S734y4))), as a rolling log of work completed by all team members.
                 8. As work accumulates, members (or a sprint leader) should then review the bits of work, **assembling the pieces into a summary document**. This is the [deliverable]([deliverables](<deliverables.md>)) of the sprint.  
-                    - #[Fleeting Notes](<Fleeting Notes.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))), collaboration, the remixing of work, and the management of [dependencies](<dependencies.md>) becomes easier.[*](((RyuMSELI3)))
+                    - #[FN](<FN.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))), collaboration, the remixing of work, and the management of [dependencies](<dependencies.md>) becomes easier.[*](((RyuMSELI3)))
                         - [Seedlings](<Seedlings.md>) Breaking down work into intermediate packets improves collaboration, agility, and dependency management. 
                 9. Once a sprint is adequately completed, the team can then move to the next priority component of the epic. 
                 10. Repeat.
@@ -90,17 +90,17 @@
             - Story points = outline of components of the epic
             - Idea of [prepositional linkages](<prepositional linkages.md>)
         - **[Thoughts](<Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)
-            - [[[E:](<[[E:.md>) Claim 1]]
-            - [[[E:](<[[E:.md>) Claim 2]]
-            - #[Fleeting Notes](<Fleeting Notes.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
-                - **[Example](<Example.md>):** "supported by:: [[[E:](<[[E:.md>) Claim 2]]"
-            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages](<prepositional linkages.md>) should be past-tense in tone. 
+            - [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+            - [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
+            - #[FN](<FN.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
+                - **[Example](<Example.md>):** "supported by:: [Evergreens/Claim 2](<Evergreens/Claim 2.md>)"
+            - #[FN](<FN.md>) [prepositional linkages](<prepositional linkages.md>) should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [dependencies](<dependencies.md>) as [development](<development.md>) progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[Fleeting Notes](<Fleeting Notes.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
-                - #[Fleeting Notes](<Fleeting Notes.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
-                    - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
+            - #[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
+                - #[FN](<FN.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+                    - [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>) 
             - [Obs](<Obs.md>) I'm often looking for a `response tag` to a `[Q](<Q.md>)`...
                 - Sometimes this is an `[I](<I.md>)` for ideas, but sometimes it feels like I need an `[A](<A.md>)` for Answer.
                 - So, I'm adding an `[A](<A.md>)` block-level tag for use in response to a `[Q](<Q.md>)` tag, when an answer feels appropriate.
@@ -123,13 +123,13 @@
             - **[Related](<Related.md>):** [supported by](<supported by.md>)
             - **[Resources](<Resources.md>):** https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Fleeting Notes](<Fleeting Notes.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
+        - #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         - [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) on `Obs` vs `Ob`
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
-                - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[[E:](<[[E:.md>) beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
+                - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
             - It also brings up the idea of using [@Everyone]([@[[Everyone](<@[[Everyone.md>)]]) as a universal notification place... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])
@@ -196,7 +196,7 @@
             - On direction — what exactly do you mean? 
                 - Work direction on sprints/epics?
                     - If so, I think we can make the work direction clear, but optional. 
-                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
+                        - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>))
             - On convergence
                 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [alignment](<alignment.md>) — ref: [standing waves](<standing waves.md>) concept.
                     - > "I think that synchronous and aligned activities in a multiplayer[ zettelkasten](< zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals."
@@ -218,7 +218,7 @@
         - Order without design
             - What is order?
             - [Q](<Q.md>) can we quantify the [entropy](<entropy.md>) of a [zettelkasten](<zettelkasten.md>)?
-        - "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+        - "[Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) "
             - [entropy](<entropy.md>)
         - Anarchic design and anarchic thinking
             - check papers by andrew Ma on anarchic manufactutring
@@ -261,11 +261,11 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                     - [ ] "[Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
                 - [ ] What, Why, How: Collaborating within Roam
                     - [ ] What, Why, How: Divergent Thinking
-                        - [ ] "[Q](<Q.md>) [[[Q:](<[[Q:.md>) When does chaos become insurmountable?]] "
+                        - [ ] "[Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) "
                     - [ ] What, Why, How: Convergent Thinking
                     - [ ] What, Why, How: Communicating within Roam
                 - [ ] What, Why, How: Defining Types of Relationships
-                    - [ ] [[[Q:](<[[Q:.md>) What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
+                    - [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W)))
                         - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
         - [Q](<Q.md>) How do you balance the energy required to adhere to conventions with the value said conventions provide?
         - On the foundations of [statement chains](<statement chains.md>)...
@@ -293,13 +293,13 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
                     - Weakens
                         - Weakened By
                     - Counter-example
-            - [[[E:](<[[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
+            - [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
             - [prepositional linkages](<prepositional linkages.md>)
     - [Conversation](<Conversation.md>)
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
                 - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
-        - On the holy concept of MECE ([[[E:](<[[E:.md>) mutually exclusive, collectively exhaustive (MECE)]])
+        - On the holy concept of MECE ([Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>))
             - In [consulting]([cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]), when assessing a system, solution, or just a set of options, we would use MECE to test it's strength.
             - Very similar to your thinking [here](((8A5PGG4bj))) [Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]).
             - The overall goal was to ensure that..
@@ -345,36 +345,36 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
     - [Peter Rosso](<Peter Rosso.md>) : do we have a convention for [Quick Capture](<Quick Capture.md>)?
 
 # Backlinks
+## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)
+- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 2. [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[E:](<[E:.md>) Claim 1](<[E:](<E:.md>) Claim 1.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[E:](<[E:.md>) How do you eat an elephant?](<[E:](<E:.md>) How do you eat an elephant?.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[E:](<[E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<[E:](<E:.md>) The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[E:](<[E:.md>) mutually exclusive, collectively exhaustive (MECE)](<[E:](<E:.md>) mutually exclusive, collectively exhaustive (MECE).md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-## [[Q:](<[Q:.md>) What, why, how: Conventions to define the relationships in the graph?](<[Q:](<Q:.md>) What, why, how: Conventions to define the relationships in the graph?.md>)
-- **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-
-- **[Last Updated](<Last Updated.md>):** [February 12th, 2021](<February 12th, 2021.md>)
 
 ## [prepositional linkages](<prepositional linkages.md>)
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)

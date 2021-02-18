@@ -10,11 +10,11 @@
 
 - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>)
 
-## [Wade Dominic](<Wade Dominic.md>)
-- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>)
-
-## [[Q:](<[Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?](<[Q:](<Q:.md>) How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
+## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
 
 - "[Q](<Q.md>) What does an [agile development](<agile development.md>)
+
+## [Wade Dominic](<Wade Dominic.md>)
+- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>)
 

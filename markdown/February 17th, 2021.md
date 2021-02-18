@@ -92,7 +92,7 @@
             - Meta
                 - Related:: [[prepositional linkages]]
                 - Disclaimer:: This is going to look/feel excessive — but I am attempting to map the full model in order to be [[collectively exhaustive]]. Some of these will be able to be inferred or implied based on context. 
-                    - #[[Fleeting Notes]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
+                    - #[[FN]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
                 - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
                 - #Resources
                     - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [[structure]] here.
@@ -116,9 +116,9 @@
             - Decisions
             - Rationale/Reason/Justification
             - Prediction
-        - #[[Fleeting Notes]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
-            - #[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
-                - #[[Fleeting Notes]] the use [prepositional linkages]([[prepositional linkages]]) 
+        - #[[FN]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
+            - #[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+                - #[[FN]] the use [prepositional linkages]([[prepositional linkages]]) 
                 - #Obs [[statement chains]] feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
             - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -126,7 +126,7 @@
                 - Burying the page names in an alias is kinda annoying.
         - #Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?
             - You can't, really. And that's ok.
-                - #[[Fleeting Notes]] [[collaborative graphs]] are [[chaotic]].
+                - #[[FN]] [[collaborative graphs]] are [[chaotic]].
             - #Q What information is important to [[catch-up]] on?
                 - Epics
                 - Sprints
@@ -136,6 +136,10 @@
             - Source:: https://catominor3.medium.com/roam-with-style-8a18c216d338
         - #Q How might a [[CSS]] page be laid out to improve navigation and collaboration? 
             - #Q Is there a [[standard]] layout for a [[CSS]] page in Roam? [*]([[~[[Charles Farr]]]]), [*]([[@[[Matthew Vogel]]]])
+        - #Obs The page ID for the [[Welcome 😃]] page spells "Morty"
+            - Images::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlO0dipVaDj.png?alt=media&token=ebc77d40-2bbf-487f-81c8-3f318dbc8861)
+            - #I So naturally [[Morty]] is graph greeter / mascot.
     - #[[Meetings & Discussions]]
         - SRS Call with [[Adam Krivka]] 
             - [[Matt Brockwell]]
@@ -205,7 +209,9 @@
             - "[@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `#Fleeting  Notes` to be more subtle....
                     - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])
-    - #[[Change Log]] #not-populated
+    - #[[Change Log]] 
+        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+            - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad #not-populated
@@ -225,7 +231,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([[@[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
-                - Re: "#[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+                - Re: "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
                     - If I were to rephrase this (using my css), it would look like...
                     - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy #therefore css...
@@ -237,7 +243,9 @@
                                 3. The content of the note
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
                                 - See: "Version 2"
-                    - #[[Fleeting Notes]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+                    - #[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+        - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])"
+            - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
@@ -257,7 +265,7 @@
     - #Bookmarks
         - "SRS Call with [[Adam Krivka]] "
         - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
-        - "#[[therefore]] #[[Fleeting Notes]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+        - "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [[Mark Robertson]] has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.

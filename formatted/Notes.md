@@ -17,7 +17,7 @@
                 - **[Notes](<Notes.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen Note example 3]]
+- **[Related](<Related.md>):** [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
             - **[Notes](<Notes.md>):**
 
 - **[Decision](<Decision.md>):** [not-populated](<not-populated.md>)

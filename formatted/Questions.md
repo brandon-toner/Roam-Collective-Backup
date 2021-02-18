@@ -35,7 +35,7 @@
 - #[Questions](<Questions.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- I see more detail as [[[E:](<[[E:.md>) beneficial, but optional]]
+- I see more detail as [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
             - **[Questions](<Questions.md>):**
 
 ## [Promptstorming](<Promptstorming.md>)

@@ -9,9 +9,9 @@
 
 - "perhaps it makes sense to build some standard [maturity](<maturity.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
+- #[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
+- #[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
 
 - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
 
@@ -25,25 +25,25 @@
 
 - One [implication]([significance and implications](<significance and implications.md>)) of rush, is not enough [maturity](<maturity.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>),
+- #[FN](<FN.md>) [maturity](<maturity.md>),
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>),
+- "#[FN](<FN.md>) [maturity](<maturity.md>),
 
 - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
 
 - [maturity](<maturity.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
+- ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>),
+- ""#[FN](<FN.md>) [maturity](<maturity.md>),
 
 - ""Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
 
 - ""[maturity](<maturity.md>)
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
+- ""#[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
 
 - ""Clearly detect level of [maturity](<maturity.md>).
 
@@ -75,20 +75,20 @@
 
 - On note [maturity](<maturity.md>):
 
-- #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>)
+- #[FN](<FN.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - A few examples of [mythology](<mythology.md>) related to [maturity](<maturity.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
+- "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>).
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) [maturity](<maturity.md>),
+- "#[FN](<FN.md>) [maturity](<maturity.md>),
 
 - "[maturity](<maturity.md>)
 
 - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>)
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
+- "#[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>).
 
 - "Clearly detect level of [maturity](<maturity.md>).
 

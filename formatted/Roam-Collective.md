@@ -96,11 +96,11 @@
 - Similar to [Clubhouse](<Clubhouse.md>), it would be cool if there were external notifications for "Brandon is currently writing in [Roam-Collective](<Roam-Collective.md>).
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+- "So, in fact, I wanna level up the concept "#[FN](<FN.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
 
 - So, the idea [here](((Fvi-lhrAe))) is similar to using `[Fleeting](<Fleeting.md>) Notes` in [Roam-Collective](<Roam-Collective.md>),
 
-- So, in fact, I wanna level up the concept "#[Fleeting Notes](<Fleeting Notes.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
+- So, in fact, I wanna level up the concept "#[FN](<FN.md>) Roam {X} protocol" to be a page in [Roam-Collective](<Roam-Collective.md>).
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "Describe your experience in [Roam-Collective](<Roam-Collective.md>)

@@ -18,9 +18,9 @@
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
-            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[[[E:]] mutually exclusive, collectively exhaustive (MECE)]])
+            - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[Seedlings/mutually exclusive, collectively exhaustive (MECE)]])
                 - Source:: Reply to Visa's tweet.
-            - #[[Fleeting Notes]] Start with known [[classification]] systems and adapt them to specific needs.
+            - #[[FN]] Start with known [[classification]] systems and adapt them to specific needs.
                 - #I Use [[Wikipedia]] to find existing [[classification]] systems.
             - #Q What [[classification]] systems, [[taxonomies]], or lists would be useful within Roam Collective?
                 - List of [prepositional linkages]([[prepositional linkages]])
@@ -42,10 +42,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - #Q What classes of tags are there that might have different colors?
-        - #[[Fleeting Notes]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
+        - #[[FN]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
-            - #[[Fleeting Notes]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
+            - #[[FN]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
     - #[[The Zettelkasten]] #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]
@@ -108,7 +108,7 @@
                         - "Counter-example"
                 - Argument structure
                     - __This requires a separate schema...__
-            - "[[[[E:]] The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
+            - "[[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
             - "[[prepositional linkages]]"
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines Continued exploration of story points [*](((my07O-J1h)))
@@ -136,7 +136,7 @@
                                 - {{[[TODO]]}} Why use AoT's to support divergent thinking?
                                 - {{[[TODO]]}} How to use AoT's to support divergent thinking?
                                     - Would include examples
-                        - "{{[[TODO]]}} "#Q [[[[Q:]] When does chaos become insurmountable?]] ""
+                        - "{{[[TODO]]}} "#Q [[Questions/When does chaos become insurmountable?]] ""
                     - "{{[[TODO]]}} What, Why, How: Convergent Thinking"
                         - What is convergence and convergent thinking?
                         - Why is convergence helpful?
@@ -152,7 +152,7 @@
                     - {{[[TODO]]}} What, Why, How: Contributing to Shared Artifacts
                 - {{[[TODO]]}} What, Why, How: Dependencies within a Graph
                     - "{{[[TODO]]}} What, Why, How: Defining Types of Relationships"
-                        - "{{[[TODO]]}} [[[[Q:]] What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))"
+                        - "{{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))"
                     - {{[[TODO]]}} What, Why, How: Tracking Conversations
                 - {{[[TODO]]}} What, Why, How: Analyzing Your Graph
                     - {{[[TODO]]}} What, Why, How: Leveraging The Relationships Between Ideas

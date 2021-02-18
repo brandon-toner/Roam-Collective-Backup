@@ -2,7 +2,7 @@
 - **[Related](<Related.md>):** [Evergreens](<Evergreens.md>)
 - **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
 - **[Conventions](<Conventions.md>):**
-    - **["#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<"#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)"
+    - **["#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<"#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)"
     - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))"
 
 # Backlinks
@@ -14,6 +14,12 @@
 
 ## [Evergreens](<Evergreens.md>)
 - How to document [evergreen notes](<evergreen notes.md>):
+
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
+
+## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - These are rich places to look for the development of [evergreen notes](<evergreen notes.md>).
@@ -32,7 +38,7 @@
 
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 - **[Example](<Example.md>):** [Visakan Veerasamy](<Visakan Veerasamy.md>)'s "talking points" are essentially a collection of [evergreen notes](<evergreen notes.md>).
 
@@ -42,9 +48,9 @@
 
 - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) To seek [truthfulness]([truth](<truth.md>)) as minimum requirement is to be paralyzed out of the gates. #[evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) To seek [truthfulness]([truth](<truth.md>)) as minimum requirement is to be paralyzed out of the gates. #[evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- #[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
 1. Import Andy's notes as [evergreen notes](<evergreen notes.md>)
 
@@ -52,11 +58,11 @@
 
 - Many similar [fleeting notes](<fleeting notes.md>) may highlight a pattern of thought that I then crystallize one or more [evergreen notes](<evergreen notes.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) capture [resonant]([resonance](<resonance.md>)) ideas, mapping the territory of thought. [Patterns]([patterns](<patterns.md>)) in fleeting notes documented hint towards central ideas worth distilling into [evergreen notes](<evergreen notes.md>).
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) capture [resonant]([resonance](<resonance.md>)) ideas, mapping the territory of thought. [Patterns]([patterns](<patterns.md>)) in fleeting notes documented hint towards central ideas worth distilling into [evergreen notes](<evergreen notes.md>).
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>),
+- #[FN](<FN.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>),
 
 - Yes, it will be both! Same for [evergreen notes](<evergreen notes.md>).
 
@@ -80,22 +86,19 @@
 - "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)"
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
+- ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
 
 - ""In doing so, it can serve as a [forcing function](<forcing function.md>) to actually complete high quality permanent notes or zettels[*]([evergreen notes](<evergreen notes.md>))
 
 - ""In doing so, it can serve as a [forcing function](<forcing function.md>) to actually complete high quality permanent notes or zettels[*]([evergreen notes](<evergreen notes.md>))
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- ""#[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
 - ""Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>))
 
 - """[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
 
-- """#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
-
-## [Fleeting Notes](<Fleeting Notes.md>)
-- [evergreen notes](<evergreen notes.md>)
+- """#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>)
@@ -121,15 +124,15 @@
 - Both could contribute to the development of [evergreen notes](<evergreen notes.md>),
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-1. I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
+1. I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
 - "We should do our serious thinking in the form of [Evergreen notes]([evergreen notes](<evergreen notes.md>))
 
 - This is an important point, and should be a central convention for page naming of [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) personal [authorship](<authorship.md>) of [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) personal [authorship](<authorship.md>) of [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) In a [collaborative zettelkasten](<collaborative zettelkasten.md>) you could actually take [literature notes](<literature notes.md>) on [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) In a [collaborative zettelkasten](<collaborative zettelkasten.md>) you could actually take [literature notes](<literature notes.md>) on [evergreen notes](<evergreen notes.md>)
 
 - What is the dividing line between an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
@@ -137,15 +140,15 @@
 
 - [Q](<Q.md>) Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
+- "I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- #[FN](<FN.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>) A [screenshot essay]([screenshot essays](<screenshot essays.md>)) is essentially an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- #[FN](<FN.md>) A [screenshot essay]([screenshot essays](<screenshot essays.md>)) is essentially an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>).
+- #[FN](<FN.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>).
 
 - Is this an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
@@ -157,9 +160,9 @@
 
 - Based on the [high bar of objective truth](((Bv1dMQIvH))), the [reliance on unconscious presuppositions](((ZTimVeKp6))), and the [existence of a "felt" truth as a reasonable alternative](((BrnMMHZ5O))), I would determine it appropriate to level an idea up to [page status (EN)]([evergreen notes](<evergreen notes.md>))
 
-- "I decided to consider [this idea]([[[E:](<[[E:.md>) active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
+- "I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
-- agree with current setting: "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
+- agree with current setting: "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>).
@@ -177,15 +180,15 @@
 
 - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- "#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
 
 - "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
-- #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 - "Brandon and I were discussing structures for Evergreen note pages earlier..." #[evergreen notes](<evergreen notes.md>)
 
@@ -198,7 +201,7 @@
 - [evergreen notes](<evergreen notes.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
+- "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>)
 
 - "In doing so, it can serve as a [forcing function](<forcing function.md>) to actually complete high quality permanent notes or zettels[*]([evergreen notes](<evergreen notes.md>))
 
@@ -206,25 +209,19 @@
 
 - "In doing so, it can serve as a [forcing function](<forcing function.md>) to actually complete high quality permanent notes or zettels[*]([evergreen notes](<evergreen notes.md>))
 
-- "#[Fleeting Notes](<Fleeting Notes.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- "#[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>))
 
 - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>))
 
 - ""[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>),
 
-- ""#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- ""#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 ## [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
 - **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Q](<Q.md>) [seedlings](<seedlings.md>) #[evergreen notes](<evergreen notes.md>)
 
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
-- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
-
-## [[E:](<[E:.md>) Prefer note titles with complete phrases to sharpen claims](<[E:](<E:.md>) Prefer note titles with complete phrases to sharpen claims.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>)
-
 ## [evergreen notes](<evergreen notes.md>)
-- "#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>)
+- "#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
 - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>))
 

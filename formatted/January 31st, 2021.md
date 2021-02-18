@@ -52,9 +52,9 @@
                 - Active [CSS for nested pages](((y9rumn-yn))) helps to determine what part of the page is selected.
         - [Observations](<Observations.md>)
             - A new DNP can begin as quite empty. A new visitor to the graph may not think to "go back a day" to see most recent content. 
-                - #[Fleeting Notes](<Fleeting Notes.md>) the blank [DNP](<DNP.md>) and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
-                    - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants.
-                        - #[Fleeting Notes](<Fleeting Notes.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
+                - #[FN](<FN.md>) the blank [DNP](<DNP.md>) and [this effect](((92Z_Zq-zn))) provides incentive to write each day to keep the graph momentum going.
+                    - #[FN](<FN.md>) Keeping up the [momentum](<momentum.md>) is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants.
+                        - #[FN](<FN.md>) Keeping up with [notifications](<notifications.md>) "is important in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) to keep it interesting and worthwhile for participants." [*](((JI1BnXUtL)))
         - #[Development Requests](<Development Requests.md>) #[Help Wanted](<Help Wanted.md>)
             - Is there a way to reorder sibling blocks by various parameters:
                 - Date created
@@ -66,7 +66,7 @@
             - **[Objectives](<Objectives.md>):**
                 - Have [pages](<pages.md>) for commonly referenced ideas.
                 - Clear authorship.
-                - [[[E:](<[[E:.md>) low floor, high ceiling]] workflow
+                - [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>) workflow
                 - Ease of [onboarding](<onboarding.md>).
                 - Clear [disambiguation](<disambiguation.md>)
                 - Minimize [cognitive burden](<cognitive burden.md>) associated with too many tags [*](((Ur95KwfFX)))
@@ -79,7 +79,7 @@
                         - [Q](<Q.md>) How do you differentiate title authorship from body authorship?
                             - For the purposes of avoiding [plagarism](<plagarism.md>) and generating accurate [references](<references.md>).
                 - On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):
-                    - #[Fleeting Notes](<Fleeting Notes.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>) matters as much as the content of the notes themselves.
+                    - #[FN](<FN.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>) matters as much as the content of the notes themselves.
                     - This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).
                     - [Q](<Q.md>) How can the order of notes within the zettelkasten be represented in this emerging system?
                         - The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>) may be of use here.
@@ -97,8 +97,8 @@
                         - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
                 - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
-                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[[E:](<[[E:.md>) knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
-                    - I see more detail as [[[E:](<[[E:.md>) beneficial, but optional]]
+                    - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+                    - I see more detail as [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
             - **[Questions](<Questions.md>):**
                 - [Q](<Q.md>) How does [this system](((sBu3zOPiV))) provide a difference in generating [output](<output.md>)?
                 - [Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?
@@ -106,7 +106,7 @@
                 - [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
                     - **[Related](<Related.md>):** 
                         - "[Q](<Q.md>) How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"
-                        - "#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>)."
+                        - "#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>)."
                         - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
                         - "My preference is to limit it to a parent-level tag and then a block level tag"
                 - [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
@@ -114,7 +114,7 @@
                 - Document ideas freely as [fleeting notes](<fleeting notes.md>)
                 - [literature notes](<literature notes.md>) or [verbatim notes](<verbatim notes.md>) are representations of the author's ideas.
                     - OK to be verbatim — these should be quick & easy! 
-                        - #[Fleeting Notes](<Fleeting Notes.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
+                        - #[FN](<FN.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
                     - **[References](<References.md>):**
                         - https://twitter.com/syncretizm/status/1355812313505230852?s=21
                 - As ideas begin to feel [evergreen](<evergreen.md>), a page should be created.
@@ -172,7 +172,7 @@
             - **[Options](<Options.md>):** 
                 - Option A - `[E:](<E:.md>)`
                     - **[Example](<Example.md>):**
-                        - [[[E:](<[[E:.md>) Evergreen Note example 1]]
+                        - [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
                     - **[Pros](<Pros.md>):** 
                         - Able to be included as a query element.
                             - "[Q](<Q.md>) Is this important?"
@@ -188,24 +188,24 @@
                             - [Q](<Q.md>) Is this important?
                         - "The [namespaces]([namespaces](<namespaces.md>)) of [complex page names](<complex page names.md>) do not collapse."
                             - This leads to inconsistent visual presentation... 
-                                - **[#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<#[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)
+                                - **[#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags](<#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>) — terms within the title that are desired for querying should be included in the `Tags.md>):**` block. [Conventions](<Conventions.md>)
             - **[Status](<Status.md>):** ^^Updated to E/^^ 
                 - `[E:](<E:.md>)` (at the time of creation)
-            - **[Decision](<Decision.md>):** "Option A - `[E:](<E:.md>)`", used with [[[E:](<[[E:.md>) Evergreen Note example 3]]
+            - **[Decision](<Decision.md>):** "Option A - `[E:](<E:.md>)`", used with [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
             - **[Factors](<Factors.md>):**
                 - Ability to be included as a query element
                 - Alignment with native [namespacing](<namespacing.md>) conventions
                     - Allows the name to be visually streamlined [readability](<readability.md>)
             - **[Conversation](<Conversation.md>):**
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
-                    - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Evergreen Note example 3]]
+                    - **[Related](<Related.md>):** [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
             - **[Notes](<Notes.md>):**
                 - Benefits of including a namespace:
                     - Easy recall via the [auto-populate](<auto-populate.md>) menu. 
                         - Simply type the name space and then some keywords to find what you are looking for — or to browse for relevance.
             - **[[I](<I.md>) It might be helpful to include a `Factors](<[I](<I.md>) It might be helpful to include a `Factors.md>):**` attribute, that could be referenced in the various pros and cons...
                 - **[Rationale](<Rationale.md>):** Often the pros of one are the cons to another. There are repeated parts.
-            - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) Use the native convention as much as possible.]]
+            - #[FN](<FN.md>) [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
         - [ ] [Choice](<Choice.md>): Whether to include the [Evergreens](<Evergreens.md>) tag as an element of the evergreen note process ((((e-lL4buZ1))))
             - **[Options](<Options.md>):** 
                 - A — Include `[Evergreen](<Evergreen.md>)` tag as part of process
@@ -244,10 +244,10 @@
             - `Chat` should be reserved for the top-section for now.
             - "`Conversation` as a DNP Module as opposed to Chat + Comments."
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[Fleeting Notes](<Fleeting Notes.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
+        - #[FN](<FN.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):** 
                 - [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
-                - [[[E:](<[[E:.md>) Spaced repetition may be a helpful tool to incrementally develop inklings]]
+                - [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
         - [Q](<Q.md>) What is a good page title or tag to collect ideas around note maturation?
         - [Q](<Q.md>) How should we disambiguate between the various types of question tags? [Bookmarks](<Bookmarks.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - There is too much overlap right now.
@@ -264,11 +264,11 @@
                     - evergreen
                         - important questions
                         - Well formed and context independent.
-                        - These serve as North Stars, helping to orient towards a [clear aim]([[[E:](<[[E:.md>) Have a clear aim]]) or purpose.
+                        - These serve as North Stars, helping to orient towards a [clear aim]([Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)) or purpose.
                         - These research questions guide the work. They frame the search and help to focus efforts and facilitate alignment.
                         - They should be elevated to [page status](<page status.md>), and should be frequently referenced in related discussions.
-                            - #[Fleeting Notes](<Fleeting Notes.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>).
-                                - #[Fleeting Notes](<Fleeting Notes.md>) Not ALL evergreen notes and zettel questions should be on the [mental fingertips](<mental fingertips.md>) of group members — just the ones that are related to central to active pursuits.
+                            - #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>).
+                                - #[FN](<FN.md>) Not ALL evergreen notes and zettel questions should be on the [mental fingertips](<mental fingertips.md>) of group members — just the ones that are related to central to active pursuits.
                                     - Strategies:
                                         - List on project pages
                                         - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)
@@ -276,9 +276,9 @@
                         - **[Suggestion](<Suggestion.md>):** `#[Zettel Questions](<Zettel Questions.md>)`
         - [Q](<Q.md>) What is the role of the Q questions tag?
             - Inline questions, even less threshold than [open questions](<open questions.md>). [Conventions](<Conventions.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) [[[E:](<[[E:.md>) Make evergreen notes as you write.]]
-        - #[Fleeting Notes](<Fleeting Notes.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
-        - #[Fleeting Notes](<Fleeting Notes.md>) the [astrolabe icon](<astrolabe icon.md>) is an excellent place to hide [instructions](<instructions.md>).
+        - #[FN](<FN.md>) [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+        - #[FN](<FN.md>) clear [conventions](<conventions.md>) for [collaboration](<collaboration.md>) are a [pre-requisite](<pre-requisite.md>) for effective [project management](<project management.md>).
+        - #[FN](<FN.md>) the [astrolabe icon](<astrolabe icon.md>) is an excellent place to hide [instructions](<instructions.md>).
     - [Questions](<Questions.md>)
         - [Q](<Q.md>) How can we flag and process threats to [disambiguation](<disambiguation.md>)? ([i.e.](<i.e..md>) overlap or duplication of pages or conventions.)
         - [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? 
@@ -295,7 +295,7 @@
                 - For any pros/cons I haven't considered, reference the Pros or Cons attribute block of either option. Same for Factors.
                     - Similar convention for within [About Roam Collective](<About Roam Collective.md>)
         2. #[Graph Mentorship](<Graph Mentorship.md>)
-            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [[[E:](<[[E:.md>) Evergreen note titles are like APIs]] to apply to fleeting notes. 
+            - While making [fleeting notes](<fleeting notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>) to apply to fleeting notes. 
 The difference is that FNs are a bit more "rough" or less timeless in their content. They may be redundant with other notes, or require some further thinking. That's ok, that's the purpose of the note class.
                 - **[Example](<Example.md>):** 
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
@@ -304,25 +304,25 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
                 - I solve this appearance issue by using [aliases](<aliases.md>). Does this help? [~[[leekeifon](<~[[leekeifon.md>)]]
                 - The reason I'm hesitant to change the css related to [fleeting notes](<fleeting notes.md>) is that the tag is a helpful [visual cue]([visual cues](<visual cues.md>)) to trigger the the presence of a zettelkasten idea in various contexts.
-            - "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+            - "Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[FN](<FN.md>) block-level [model](<model.md>)" and "#[FN](<FN.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
                 - I haven't fully [grokked]([grok](<grok.md>)) the idea yet — but I think I definitely use a combination of [references]([block references](<block references.md>)) and [embeds]([block embeds](<block embeds.md>)) when making references. 
                     - Factors I use to choose:
                         - Do I want to also display children blocks?
                         - Do I want easy access to editing the content from the reference destination?
-            - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal"
+            - "#[FN](<FN.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal"
                 - Excellent documentation on this!! 
                     - Maybe consider [appending some relevant tags](((wyoVYXVX9))) to the line as well to promote [resurfacing](<resurfacing.md>).
                         - Id suggest:
                             - collaboration
                             - goals
-                - **[Related](<Related.md>):** [[[E:](<[[E:.md>) Have a clear aim]]
+                - **[Related](<Related.md>):** [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
             - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
                 - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About Roam Collective](<About Roam Collective.md>). Thanks! 
             - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
             - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
-                - **[I saw this and love the idea! I've used `Rationale](<I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[E:](<[[E:.md>) beneficial, but optional]] step. 
+                - **[I saw this and love the idea! I've used `Rationale](<I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>) step. 
             - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
                 - I'd place this within a Daily Log module instead. 
                 - Change Log is best for changes to the graph and its conventions
@@ -331,7 +331,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - Within your [DNP Section](<DNP Section.md>) is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [sleep on it](<sleep on it.md>).
         4. "Turn off brackets to streamline the look of page looks a bit"
             - [x] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
-        5. "#[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
+        5. "#[FN](<FN.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags" [Bookmarks](<Bookmarks.md>)
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [questions](<questions.md>) throughout the graph.
         6. "Allows for seamless inline referencing of Evergreen notes"
             - What determines whether you'd reference the page or the block?
@@ -361,37 +361,37 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)
+        - #[FN](<FN.md>) block-level [model](<model.md>)
             - **Definition**: (Logical) structure that could be contained within a single block ((one way to understand this is, using one sentence to conclude what you wanna express)).
             - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
-            - **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)".
+            - **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[FN](<FN.md>) block-level [model](<model.md>)".
             - **[Example](<Example.md>):** Try to think of the following situation, saying that I want to **distinguish two concepts by introducing their difference**. 
-""#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)"
+""#[FN](<FN.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[FN](<FN.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)"
                 - [Related](<Related.md>) to [view concepts with different lenses](((MawQmWVvk)))
                 - [Related](<Related.md>) to [substructure graph generation](((WC25L-wqT)))
             - **Origin**: This is a concept I come up when I try to generalize the AXYZ [model](<model.md>) ((A do X under Y condition and observe Z)) purposed by [Joel Chan](<Joel Chan.md>), based on my own understanding.
-        - #[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)
+        - #[FN](<FN.md>) block-embed [model](<model.md>)
             - **[Example](<Example.md>):** {{[embed](<embed.md>): ((zFyFH7Z_m))}}
-        - "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)
+        - "#[FN](<FN.md>) block-embed [model](<model.md>)" conveys information in a rather ‘networked way’ while "#[FN](<FN.md>) block-level [model](<model.md>)" conveys information in a ‘linear way’. #[.concept/difference](<.concept/difference.md>)
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
-        - #[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)
-        - #[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards
+        - #[FN](<FN.md>) composable [visual cues](<visual cues.md>)
+        - #[FN](<FN.md>) visual feedback as rewards
         - [convention on fleeting note content](((cCkvQbhSA))) [^[[leekeifon](<^[[leekeifon.md>)]]
-        - "#[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal" [^[[leekeifon](<^[[leekeifon.md>)]]
+        - "#[FN](<FN.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal" [^[[leekeifon](<^[[leekeifon.md>)]]
         - #[P:Self](<P:Self.md>) It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
-        - "#[Fleeting Notes](<Fleeting Notes.md>) Effective teaming requires clear norms and expectations" [^[[leekeifon](<^[[leekeifon.md>)]]
+        - "#[FN](<FN.md>) Effective teaming requires clear norms and expectations" [^[[leekeifon](<^[[leekeifon.md>)]]
         - #[Q](<Q.md>) What could be the common base of a digital environment of loosely connected people expectation?
     - #[Conversation](<Conversation.md>)
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
-        - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[Fleeting Notes](<Fleeting Notes.md>) block-level [model](<model.md>)" and "#[Fleeting Notes](<Fleeting Notes.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
+        - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. "#[FN](<FN.md>) block-level [model](<model.md>)" and "#[FN](<FN.md>) block-embed [model](<model.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
         - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [aliases](<aliases.md>) serve the job to hide these messy situation. Or in other words, our [visual cues](<visual cues.md>) are not able to mix/compose together within a block. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
                 - **[Example](<Example.md>):** When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [aliases](<aliases.md>).
-            - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)"
-        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[Fleeting Notes](<Fleeting Notes.md>) visual feedback as rewards". [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
+            - [Related](<Related.md>) "#[FN](<FN.md>) composable [visual cues](<visual cues.md>)"
+        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[FN](<FN.md>) visual feedback as rewards". [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [patterns](<patterns.md>) we tend to use in block ((AXYZ model from Joel Chan is one example)).
-            - [Related](<Related.md>) "#[Fleeting Notes](<Fleeting Notes.md>) composable [visual cues](<visual cues.md>)".
+            - [Related](<Related.md>) "#[FN](<FN.md>) composable [visual cues](<visual cues.md>)".
     - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]
         - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
     - #[Resources](<Resources.md>)
@@ -402,16 +402,16 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - #[[[project management](<[[project management.md>) in Roam]] #[[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]
-            - #[Fleeting Notes](<Fleeting Notes.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal
+            - #[FN](<FN.md>) Learning [collaboration](<collaboration.md>) requires separate clear shared [goals](<goals.md>), to enable the process of learning collaboration to serve as a meta-goal
                 - Epistemic status:  strongly held belief, shaped by personal experience managing teams and project managing myself on Roam
                 - It's hard to have learning to collaborate be the sole goal, as it's then difficult to measure and assess progress.  How do you think about whether one is collaborating enough?  How does one measure success in the collaboration?
                 - It's possible that I'm overly anchored on the one Roam Game that's stated re: project management.  In my own experience incorporating Roam into project management, it took some experimentation by thoughtfully asking myself: is this current workflow enabling me to make progress across my multitude of projects?  It wasn't about the workflow in and of itself, but about how the workflow was a tool towards 
                 - My working hypothesis is that given how unbounded and malleable Roam is, the ideal project management structure will likely depend greatly on the type of project (e.g., short vs. long, high collaboration vs. separable).  It will be a family of principles, rather than a universal one.  
-            - #[Fleeting Notes](<Fleeting Notes.md>) Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
+            - #[FN](<FN.md>) Building norms for collaboration in a distributed setting might require very structured initiation, that may feel antithetic to Roam
                 - Epistemic status:  intuition that needs to be stress-tested
                 - Perhaps I'm overly anchored by recency bias from having read Bret Victor's [Magic Ink](http://worrydream.com/MagicInk/) yesterday and the harms of interactivity
                 - Within Victor's definition, Roam is clearly a manipulation software and not an information software; but it has an incredible malleability that makes its a multi-purpose tool.  How best to work and shape the tool will depend on the objective.  
-                - #[Fleeting Notes](<Fleeting Notes.md>) Effective teaming requires clear norms and expectations
+                - #[FN](<FN.md>) Effective teaming requires clear norms and expectations
                     - Epistemic status:  business truism, true to my experience - but need to think about how a digital environment of loosely connected people may lead to a different definition of "effective", "clear", "norms" and "expectations"
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
         - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
@@ -427,7 +427,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - [Replies](<Replies.md>)
             - "Excellent documentation on this!! "
                 - Added the recommended tags!!
-            - **["I saw this and love the idea! I've used `Rationale](<"I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [[[E:](<[[E:.md>) beneficial, but optional]] step. "
+            - **["I saw this and love the idea! I've used `Rationale](<"I saw this and love the idea! I've used `Rationale.md>):**` with similar purpose on occasion... maybe `Basis::`? I see it as an [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>) step. "
                 - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
             - "I'd place this within a Daily Log module instead. "
                 - Better to place it under one's daily notes or within the daily log up above?  
@@ -505,13 +505,13 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                                     - [Q](<Q.md>) How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)
                 - Downsides
                     - Context is implicit, not explicit
-            - #[Fleeting Notes](<Fleeting Notes.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags
+            - #[FN](<FN.md>) [tagging](<tagging.md>) [conventions](<conventions.md>) should lean on using tag combinations as opposed to compound tags
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
         - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [disambiguation](<disambiguation.md>)."
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] makes complete sense — I think we can consolidate it down to be a bit more manageable
                 - If I were to build an updated format, this is what it might look like...
-                    - [[[E:](<[[E:.md>) Evergreen Note example 1]]
+                    - [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
         - "Thinking of making the switch... thoughts [~[[Charles Farr](<~[[Charles Farr.md>)]]?"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I actually proposed this to Matt haha
                 - But yeah I agree — any type of communication, either with reference to a block or not would easily be captured by the `[Converation](<Converation.md>)` block...
@@ -574,6 +574,30 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 - ---
 
 # Backlinks
+## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/barrier to entry](<Evergreens/barrier to entry.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
+## [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>)
+- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **Page:** [January 31st, 2021](<January 31st, 2021.md>)
 
@@ -581,28 +605,4 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) "Hacked" solutions are likely to break over time.](<[E:](<E:.md>) "Hacked" solutions are likely to break over time..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts](<[E:](<E:.md>) Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) Evergreen Note example 1](<[E:](<E:.md>) Evergreen Note example 1.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) Make evergreen notes as you write.](<[E:](<E:.md>) Make evergreen notes as you write..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) Use the native convention as much as possible.](<[E:](<E:.md>) Use the native convention as much as possible..md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) barrier to entry](<[E:](<E:.md>) barrier to entry.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) beneficial, but optional](<[E:](<E:.md>) beneficial, but optional.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
-
-## [[E:](<[E:.md>) low floor, high ceiling](<[E:](<E:.md>) low floor, high ceiling.md>)
-- **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
 
