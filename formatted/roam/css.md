@@ -948,7 +948,7 @@ code {
 - **Code:**
     - Elements
         1. Tag Styling [Status](<../Status.md>)/Enabled
-            1. Variables
+            1. Variables,
                 - ```css
 :root {
   /*
@@ -957,7 +957,7 @@ code {
   */
   --tag-bg-cl-gtd:		var(--cl-blue-500);
 }```
-            2. ### GTD Tags
+            2. ## GTD Tags
                 - Examples
                     - [INBOX](<../INBOX.md>)
                     - [Inbox](<../Inbox.md>)
@@ -984,9 +984,7 @@ code {
   --line-height: 1em;
   --font-weight: 500;
   --border-radius: 5px 5px 5px 5px;
-  --position:relative;
-  
-  
+  --position:relative; 
 }
 
 span.rm-page-ref[data-tag="GTD Zone"] {
@@ -1001,7 +999,7 @@ span.rm-page-ref[data-tag="GTD Zone"] {
 }
 
 span.rm-page-ref[data-tag="GTD Zone"]:before {
-    content: '✅'
+    content: '✅';
 }
 
 span.rm-page-ref[data-tag="INBOX"] {
@@ -1213,7 +1211,7 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-            3. ## DNP Modules
+            3. # DNP Modules
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
@@ -1229,7 +1227,7 @@ span.rm-page-ref[data-tag="My Daily Notes"] {
 
  span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
      background: var(--cl-blue-lt-200) !important;
-     color: var(--cl-white);
+     color: var(--cl-white) !important;
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;
@@ -1500,7 +1498,7 @@ span.rm-page-ref[data-tag="Fleeting Notes"] {
                     - ```css
 span.rm-page-ref[data-tag="FN"]:before {
     content: 		'🕊';
-    font-size: 		var(--tag-icon-font-size);
+    /*font-size: 		var(--tag-icon-font-size);*/
 }
 
 span.rm-page-ref[data-tag="FN"]:after {
@@ -2556,10 +2554,6 @@ span.rm-page-ref[data-tag="Weather Report"]:before {
             8. # Collaboration Tags
                 - ## Notifications & Mentions
                     - [@[[Their Name](<../@[[Their Name.md>)]]
-                    - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
-                    - [~[[Your Name](<../~[[Your Name.md>)]]
-                    - [^[[Your Name](<../^[[Your Name.md>)]]
-                    - Code
                         - ```css
 span[data-link-title^="@"] {
         border: 2px solid [B35555](<../B35555.md>) !important;
@@ -2576,20 +2570,35 @@ span[data-link-title^="@"]:before {
 span[data-link-title^="@[Everyone](<../Everyone.md>)"]:before {
     color: [000746](<../000746.md>) !important;
     content: "🚨🚨" !important;
-}
-
-span[data-link-title^="~"] {
-        border: 2px solid [02B920](<../02B920.md>) !important;
+}```
+                    - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
+                        - ```css
+span[data-link-title^="cc:"] {
+        border: 2px solid [2196F3](<../2196F3.md>) !important;
         padding: 3px 6px 3px 7px;
         margin-right: 1px;
     line-height: 2em;
 } 
 
+span[data-link-title^="cc:"]:before {
+    color: [000746](<../000746.md>) !important;
+    content: "📨 ";
+}```
+                    - [~[[Your Name](<../~[[Your Name.md>)]]
+                        - ```css
+span[data-link-title^="~"] {
+        border: 2px solid [02B920](<../02B920.md>) !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    	line-height: 2em;
+} 
+
 span[data-link-title^="~"]:before {
     color: [000746](<../000746.md>) !important;
     content: "✅read "
-}
-
+}```
+                    - [^[[Your Name](<../^[[Your Name.md>)]]
+                        - ```css
 span[data-link-title^="^"] {
         border: 2px solid [4CAF50](<../4CAF50.md>) !important;
         padding: 3px 6px 3px 7px;
@@ -2600,19 +2609,10 @@ span[data-link-title^="^"] {
 span[data-link-title^="^"]:before {
     color: [000746](<../000746.md>) !important;
     content: "💾saved "
-}
-
-span[data-link-title^="cc:"] {
-        border: 2px solid [2196F3](<../2196F3.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="cc:"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "📨 "
 }```
+                    - Code
+                        - ```css
+```
                 - [Conversation](<../Conversation.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conversation"] {
