@@ -18,6 +18,11 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - 2) The database can be used to drive [spaced repetition](<spaced repetition.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- How could "SR" be used to resurface interesting information. #[spaced repetition](<spaced repetition.md>)
+
+- [Q](<Q.md>) What are the [glossary](<glossary.md>) terms related to [spaced repetition](<spaced repetition.md>)?
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
 

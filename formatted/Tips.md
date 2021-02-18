@@ -25,7 +25,3 @@
 ## [Quick Start Guide](<Quick Start Guide.md>)
 9. Explore the [Tips](<Tips.md>)
 
-## [zettelkasten](<zettelkasten.md>)
-- The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
-    - **[Tips](<Tips.md>):**
-

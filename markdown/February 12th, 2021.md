@@ -124,7 +124,6 @@
             - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
         - #[[FN]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
-    - #Bookmarks #not-populated
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
@@ -199,7 +198,7 @@
                         - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
             - On convergence
                 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [[alignment]] — ref: [[standing waves]] concept.
-                    - > "I think that synchronous and aligned activities in a multiplayer[[ zettelkasten]] can lead to compound effects like [[standing waves]] created by signals."
+                    - > "I think that synchronous and aligned activities in a multiplayer[[zettelkasten]] can lead to compound effects like [[standing waves]] created by signals."
     - #[[Change Log]] 
         1. Upgraded [Charles]([[~[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)

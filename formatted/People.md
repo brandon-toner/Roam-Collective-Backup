@@ -3,6 +3,9 @@
 - [ ] Add to [roam/css](<roam/css.md>)
 
 # Backlinks
+## [Adam Krivka](<Adam Krivka.md>)
+- **[Tags](<Tags.md>):** #[People](<People.md>)
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
                 - **[People](<People.md>):**

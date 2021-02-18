@@ -25,6 +25,11 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [Q](<Q.md>) How does this differ from [fleeting notes](<fleeting notes.md>),
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+2. Review of [fleeting notes](<fleeting notes.md>)
+
+- [Fleeting notes]([fleeting notes](<fleeting notes.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Many similar [fleeting notes](<fleeting notes.md>)
 
@@ -130,7 +135,4 @@
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "Document ideas freely as [fleeting notes](<fleeting notes.md>)"
-
-## [zettelkasten](<zettelkasten.md>)
-- [fleeting notes](<fleeting notes.md>)
 

@@ -6,6 +6,11 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - **[URL](<URL.md>):** {{[video](<video.md>):
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- **[URL](<URL.md>):** {{[video](<video.md>):
+
+- {{[video](<video.md>):
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - {{[video](<video.md>):
 

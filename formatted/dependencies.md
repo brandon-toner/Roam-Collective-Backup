@@ -7,6 +7,9 @@
 
 - #[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- This is THE REASON for creating a for mapping the [dependencies](<dependencies.md>)
+
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - "#[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).
 

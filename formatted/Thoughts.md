@@ -26,6 +26,10 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
             - **[Thoughts](<Thoughts.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIF887MZQED.png?alt=media&token=b1375b75-f1dc-45b6-b4ed-c11508e4a4db)
+                        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

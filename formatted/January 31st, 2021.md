@@ -561,11 +561,11 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
 .rm-alias--external:hover {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: [2196F3](<2196F3.md>);;
+    color: var(--cl-blue-900);
 }
   
 .rm-alias--external{
-  color: [2196F3](<2196F3.md>);
+  color: var(--cl-blue-700);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```"

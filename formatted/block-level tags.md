@@ -27,6 +27,15 @@
 
 - "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- On the value of [block-level tags](<block-level tags.md>)
+
+- Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
+
+- If you want to be able to resurface Bookmarks, you need [block-level tags](<block-level tags.md>);
+
+- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 

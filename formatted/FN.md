@@ -122,6 +122,19 @@
 
 - "#[therefore](<therefore.md>) #[FN](<FN.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[FN](<FN.md>)
 
@@ -592,7 +605,4 @@
 
 ## [leekeifon](<leekeifon.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [FN](<FN.md>)
-
-## [zettelkasten](<zettelkasten.md>)
-- #[FN](<FN.md>)
 

@@ -17,5 +17,7 @@
 
 - {{[query](<query.md>): {and: [smb](<smb.md>)
 
+- {{[query](<query.md>): {and: [smb](<smb.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
 

@@ -1,3 +1,0 @@
-- Tags:: #Conventions #[[DNP Modules]] #Collections
-- Rules:
-    - You can add a bookmark tag to anything written in your DNP Section, but not elsewhere in the graph.

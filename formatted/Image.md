@@ -22,6 +22,25 @@
 - [Obs](<Obs.md>) Overview shortcuts are well laid out.
                 - **[Image](<Image.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [SmartBlocks](<SmartBlocks.md>) [Random Commands](https://roamresearch.com/#/app/roamhacker/page/UEV5tM9KC)
+                        - **[Image](<Image.md>):**
+
+- RANDOMBLOCK
+                            - **[Image](<Image.md>):**
+
+- RANDOMBLOCKFROM
+                            - **[Image](<Image.md>):**
+
+- RANDOMBLOCKMENTION
+                            - **[Image](<Image.md>):**
+
+- RANDOMPAGE
+                            - **[Image](<Image.md>):**
+
+- 3rd level = summarizing the whole note on the parent level block, next to `#[Fleeting Notes](<Fleeting Notes.md>)`
+                    - **[Image](<Image.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
                 - **[Image](<Image.md>):**

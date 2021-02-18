@@ -70,7 +70,6 @@
             - #Q How might [[hypotheses]] be documented at the [[block-level]]?
             - #Q How might [[conclusions]] be documented?
         - #[[FN]] micro and macro levels of [[inquiry]].
-    - #Bookmarks #not-populated
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
         2. [@Charles]([[~[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
@@ -78,7 +77,7 @@
             - Mmm yea, I dig that.
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - #Scratchpad
         - "#Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.

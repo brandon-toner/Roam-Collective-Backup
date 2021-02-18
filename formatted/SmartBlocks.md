@@ -9,6 +9,9 @@
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
         - **[SmartBlocks](<SmartBlocks.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [SmartBlocks](<SmartBlocks.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>)
 

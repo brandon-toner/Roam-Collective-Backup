@@ -1,6 +1,3 @@
-- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>) #[DNP Modules](<DNP Modules.md>) [Collections](<Collections.md>)
-- Rules:
-    - You can add a bookmark tag to anything written in your DNP Section, but not elsewhere in the graph.
 
 # Backlinks
 ## [Charles Farr](<Charles Farr.md>)
@@ -18,6 +15,11 @@
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
+
+## [February 18th, 2021](<February 18th, 2021.md>)
+- I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))
+
+- `[Bookmarks](<Bookmarks.md>)`
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))

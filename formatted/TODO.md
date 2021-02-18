@@ -164,8 +164,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 ## [February 17th, 2021](<February 17th, 2021.md>)
 2. "{{[TODO](<TODO.md>)}
 
@@ -179,13 +177,22 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- even better, resurface them in gtd zone with a `{{[TODO](<TODO.md>)}
-
 - also wanna see if "{{[TODO](<TODO.md>)}
 
 - "{{[TODO](<TODO.md>)}
+
+## [February 18th, 2021](<February 18th, 2021.md>)
+- **[Related](<Related.md>):** "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- even better, resurface them in gtd zone with a `{{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}
@@ -304,6 +311,9 @@
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
+
+## [Samuel Bars](<Samuel Bars.md>)
+- {{[query](<query.md>): {and: [smb](<smb.md>) [TODO](<TODO.md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<TODO.md>)}

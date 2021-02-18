@@ -132,6 +132,3 @@
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - How does [Roam-Collective](<Roam-Collective.md>)
 
-## [Welcome 😃](<Welcome 😃.md>)
-- Welcome to [Roam-Collective](<Roam-Collective.md>)!
-

@@ -202,19 +202,18 @@
         - [ ] Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
-        2. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [CSS](((XkuzI7Zp8)))
+        2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [CSS](((XkuzI7Zp8)))
             - "Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`)."
                 - This is perfect!
             - "You could pair this with some fancy [therefore](<therefore.md>) css..."
                 - This is FIRE!
             - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `[Fleeting](<Fleeting.md>)  Notes` to be more subtle....
-                    - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                    - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
     - #[Change Log](<Change Log.md>) 
-        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
             - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
         2. Adjusted the [Graph/backup](<Graph/backup.md>) to every 6 hours (running low on action minutes on [GitHub](<GitHub.md>)).
         3. Adjusted "#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)" to align with the Agora's colour scheme 
@@ -250,7 +249,7 @@
                             - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
                                 - See: Version 2
                     - #[FN](<FN.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])"
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
                 - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Update color scheme with better shades of blue and green
@@ -262,14 +261,11 @@
             - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
                 - **[URL](<URL.md>):** {{[video](<video.md>): https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
-        - [ ] Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
-            - even better, resurface them in gtd zone with a `[ ] Read ((block ref from bookmarks))` next to them
     - [Bookmarks](<Bookmarks.md>)
         - "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?"
@@ -279,6 +275,4 @@
                 - also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric" and on logic have stuff on that.
                 - I know I saw some other source about this, can't remember now
         - "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
-    - #[The Zettelkasten](<The Zettelkasten.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
 - ---

@@ -231,11 +231,7 @@
 ## [Samuel Bars](<Samuel Bars.md>)
 - {{[query](<query.md>):
 
-- {{[query](<query.md>): {and:[@[[Samuel Bars](<@[[Samuel Bars.md>)]] {not:[query](<query.md>)}
-
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [cc:[[Samuel Bars](<cc:[[Samuel Bars.md>)]] {not: [query](<query.md>)]
+- {{[query](<query.md>): {and: [smb](<smb.md>) [TODO](<TODO.md>) {not: [query](<query.md>)]
 
 - {{[query](<query.md>):
 

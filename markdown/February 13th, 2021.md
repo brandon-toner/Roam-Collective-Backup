@@ -55,7 +55,6 @@
                 - Section on the Roam Games latest.
             - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
             - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
-    - #Bookmarks #not-populated
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - Image::

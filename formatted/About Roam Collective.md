@@ -13,6 +13,7 @@
 - **[Goals](<Goals.md>):** ((See block references for additional ideas.))
     - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities.
     - To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>)). 
+    - To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
 - **[Projects](<Projects.md>):** ((See block references for additional ideas.))
     - [query](<query.md>) for all projects
         - :q [:find ?project

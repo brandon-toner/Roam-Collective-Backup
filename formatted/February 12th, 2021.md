@@ -124,7 +124,6 @@
             - **[Resources](<Resources.md>):** https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         - [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) on `Obs` vs `Ob`
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
@@ -199,7 +198,7 @@
                         - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>))
             - On convergence
                 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [alignment](<alignment.md>) — ref: [standing waves](<standing waves.md>) concept.
-                    - > "I think that synchronous and aligned activities in a multiplayer[ zettelkasten](< zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals."
+                    - > "I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals."
     - #[Change Log](<Change Log.md>) 
         1. Upgraded [Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])' block-level question on agile to page-level. Lots of ideas around that lately. 
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)

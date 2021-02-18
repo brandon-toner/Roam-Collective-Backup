@@ -119,29 +119,40 @@
                 - Blue (lighter shade)
                     - ```css
 :root {
-  --cl-blue-lt-100: [aecdeaff](<../aecdeaff.md>); /*--baby-blue-eyes:*/
-  --cl-blue-lt-200: [9ec2e3ff](<../9ec2e3ff.md>); /*--baby-blue-eyes-2:*/
-  --cl-blue-lt-300: [8eb6dcff](<../8eb6dcff.md>); /*--aero:*/
-  --cl-blue-lt-400: [7eabd5ff](<../7eabd5ff.md>); /*--iceberg:*/
-  --cl-blue-lt-500: [6fa0ceff](<../6fa0ceff.md>); /*--blue-gray:*/
-  --cl-blue-lt-600: [5f94c6ff](<../5f94c6ff.md>); /*--blue-gray-2:*/
-  --cl-blue-lt-700: [4f89bfff](<../4f89bfff.md>); /*--green-blue-crayola:*/
-  --cl-blue-lt-800: [3f7db8ff](<../3f7db8ff.md>); /*--steel-blue:*/
-  --cl-blue-lt-900: [2f72b1ff](<../2f72b1ff.md>); /*--spanish-blue:*/
+  --cl-blue-lt-100: [aec7efff](<../aec7efff.md>); /*--baby-blue-eyes:*/
+  --cl-blue-lt-200: [a0bce9ff](<../a0bce9ff.md>); /*--baby-blue-eyes-2:*/
+  --cl-blue-lt-300: [8fafe2ff](<../8fafe2ff.md>); /*--french-sky-blue:*/
+  --cl-blue-lt-400: [7ea5e0ff](<../7ea5e0ff.md>); /*--little-boy-blue:*/
+  --cl-blue-lt-500: [7099daff](<../7099daff.md>); /*--cornflower-blue:*/
+  --cl-blue-lt-600: [5f8cd3ff](<../5f8cd3ff.md>); /*--united-nations-blue:*/
+  --cl-blue-lt-700: [4c7eceff](<../4c7eceff.md>); /*--glaucous:*/
+  --cl-blue-lt-800: [3770cbff](<../3770cbff.md>); /*--celtic-blue:*/
+  --cl-blue-lt-900: [2b66c4ff](<../2b66c4ff.md>); /*--true-blue:*/}```
+                - Blue
+                    - ```css
+:root {
+  --cl-blue-100:   [dceff9ff](<../dceff9ff.md>); /*--alice-blue:*/
+  --cl-blue-200:   [a7d9f1ff](<../a7d9f1ff.md>); /*--uranian-blue:*/
+  --cl-blue-300:   [85c6e9ff](<../85c6e9ff.md>); /*--light-cornflower-blue:*/
+  --cl-blue-400:   [5aaddcff](<../5aaddcff.md>); /*--blue-jeans:*/
+  --cl-blue-500:   [389bd5ff](<../389bd5ff.md>); /*--carolina-blue:*/
+  --cl-blue-600:   [1e7ac0ff](<../1e7ac0ff.md>); /*--star-command-blue:*/
+  --cl-blue-700:   [0254a0ff](<../0254a0ff.md>); /*--usafa-blue:*/
+  --cl-blue-800:   [014889ff](<../014889ff.md>); /*--yale-blue:*/
+  --cl-blue-900:   [023a72ff](<../023a72ff.md>); /*--indigo-dye:*/
 }```
                 - Blue (Darker Shade)
                     - ```css
 :root {
-  --cl-blue-dk-100: [b6c2e2ff](<../b6c2e2ff.md>); /*--periwinkle-crayola*/
-  --cl-blue-dk-200: [a6b4d8ff](<../a6b4d8ff.md>); /*--wild-blue-yonder*/
-  --cl-blue-dk-300: [97a6ceff](<../97a6ceff.md>); /*--wild-blue-yonder-2*/
-  --cl-blue-dk-400: [8798c4ff](<../8798c4ff.md>); /*--cool-grey*/
-  --cl-blue-dk-500: [788abbff](<../788abbff.md>); /*--glaucous*/
-  --cl-blue-dk-600: [687bb1ff](<../687bb1ff.md>); /*--glaucous-2*/
-  --cl-blue-dk-700: [586da7ff](<../586da7ff.md>); /*--blue-yonder*/
-  --cl-blue-dk-800: [495f9dff](<../495f9dff.md>); /*--liberty*/
-  --cl-blue-dk-900: [395193ff](<../395193ff.md>); /*--y-in-mn-blue*/
-}```
+  --cl-blue-dk-100: [7a8fd8ff](<../7a8fd8ff.md>); /* --cornflower-blue:  */
+  --cl-blue-dk-200: [6e85d0ff](<../6e85d0ff.md>); /* --glaucous:  */
+  --cl-blue-dk-300: [6076c9ff](<../6076c9ff.md>); /* --han-blue:  */
+  --cl-blue-dk-400: [526cc1ff](<../526cc1ff.md>); /* --han-blue-2:  */
+  --cl-blue-dk-500: [455eb9ff](<../455eb9ff.md>); /* --liberty:  */
+  --cl-blue-dk-600: [3f56aaff](<../3f56aaff.md>); /* --cerulean-blue:  */
+  --cl-blue-dk-700: [3a4f99ff](<../3a4f99ff.md>); /* --y-in-mn-blue:  */
+  --cl-blue-dk-800: [30448fff](<../30448fff.md>); /* --dark-cornflower-blue:  */
+  --cl-blue-dk-900: [263a83ff](<../263a83ff.md>); /* --dark-cornflower-blue-2:  */}```
                 - Violet
                     - ```css
 :root {
@@ -195,7 +206,7 @@
   --persimmon: [de5200ff](<../de5200ff.md>);
   --rufous: [a41000ff](<../a41000ff.md>);
 }```
-        - Color Settings
+        - Color Settings [Status](<../Status.md>)/Inactive
             - UI
                 - All Pages
                     - > Modifies the "All Pages" site, found in the left sidebar
@@ -1296,7 +1307,7 @@ span.rm-page-ref[data-tag="Scratchpad"]:before {
                 - #[Bookmarks](<../Bookmarks.md>)
                     - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {
-    background: var(--cl-blue-lt-700);
+    background: var(--cl-blue-500);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -2567,7 +2578,7 @@ span.rm-page-ref[data-tag="Conversation"]:before {
                 - #[Chat](<../Chat.md>)
                     - ```css
 span.rm-page-ref[data-tag="Chat"] {
-    background: [2196F3](<../2196F3.md>);
+    background: var(--cl-blue-500);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3219,9 +3230,9 @@ span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
             12. Journaling Tags
-                - `#[Writing & Reflection](<../Writing & Reflection.md>)
+                - `#[Reflection](<../Reflection.md>)
                     - ```css
-span.rm-page-ref[data-tag="Writing & Reflection"] {
+span.rm-page-ref[data-tag="Reflection"] {
     background: [607D8B](<../607D8B.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
@@ -3232,7 +3243,7 @@ span.rm-page-ref[data-tag="Writing & Reflection"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Writing & Reflection"]:before {
+span.rm-page-ref[data-tag="Reflection"]:before {
     content: '💬'
 }```
                 - `#[Today I Learned](<../Today I Learned.md>)
@@ -3286,16 +3297,38 @@ span.rm-page-ref[data-tag="Evening Journal"]:before {
             13. Status Tags
                 - Examples
                     - #[Status/Idea](<../Status/Idea.md>)
+                        - ```css
+```
                     - #[Status/Active](<../Status/Active.md>)
+                        - ```css
+```
                     - [Status](<../Status.md>)/On-Hold
+                        - ```css
+```
                     - #[Status/Dropped](<../Status/Dropped.md>)
+                        - ```css
+```
                     - [Status](<../Status.md>)/Enabled
+                        - ```css
+```
                     - [Status](<../Status.md>)/Inactive
+                        - ```css
+```
                     - [Status](<../Status.md>)/Submitted
+                        - ```css
+```
                     - [Status](<../Status.md>)/Completed
+                        - ```css
+```
                     - [Status](<../Status.md>)/Deactivated
+                        - ```css
+```
                     - #[Status/Someday|Maybe](<../Status/Someday|Maybe.md>)
+                        - ```css
+```
                     - #[Status/Not Completed](<../Status/Not Completed.md>)
+                        - ```css
+```
                 - Code
                     - ```css
 :root {
@@ -4538,8 +4571,8 @@ display:none!important; /* hide page reference (title) */
   --fnt-h2:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-h3:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-size-page-title: 	22px;
-  --fnt-size-h1:       		14px;
-  --fnt-size-h2:       		14px;
+  --fnt-size-h1:       		20px;
+  --fnt-size-h2:       		17px;
   --fnt-size-h3:       		14px;
   --fnt-style-h1:			normal;
   --fnt-style-h2:			normal;
@@ -4601,11 +4634,12 @@ h1.level2,
         6. Page References [Status](<../Status.md>)/Enabled
             - ```css
 .rm-page-ref-link-color {
-    color: [2179F3](<../2179F3.md>);
+    color: var(--cl-blue-500);
     font-weight: 400;
 }
+
 a {
-    color: [2179F3](<../2179F3.md>);
+    color: var(--cl-blue-500);
 }```
         7. Page Reference Brackets
             - ```ruby
@@ -4702,11 +4736,11 @@ a {
 .rm-alias--external:hover {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: [2196F3](<../2196F3.md>);;
+    color: var(--cl-blue-900);
 }
   
 .rm-alias--external{
-  color: [2196F3](<../2196F3.md>);
+  color: var(--cl-blue-700);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```

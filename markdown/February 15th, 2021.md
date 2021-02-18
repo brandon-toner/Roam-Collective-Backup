@@ -115,7 +115,7 @@
             - "Question: Is there any convention around reactions?" #Conventions #[[emoji reactions]]
                 - [@Samuel]([[@[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
-                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!
+                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
                     - {{[[TODO]]}} Review [[Beau Hann]]'s [[zettelkasten]] [[conventions]]. [*]([[Brandon Toner]]) #[[Week-07: 02-15-2021]]
                 - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
@@ -167,7 +167,7 @@
             - Nesting 
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -199,7 +199,6 @@
     - #[[GTD Zone]]
         - {{[[DONE]]}} Create your own personal page, by placing your name at the top of your daily notes.
         - {{[[DONE]]}} Follow [these instructions](((6202Hd2VO))) to make your own page.
-        - {{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors
     - #Conversation
         1. [@Brandon]([[@[[Brandon Toner]]]]) About [writing on daily pages vs your own](((dakVN3D1r)))
             - When the amount of active users increases and the daily page starts getting overwhelming.
@@ -213,7 +212,7 @@
             - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
                 - Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)
             - Question: Is there any convention around reactions?
-            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!"
+            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!"
                 - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
 - #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"

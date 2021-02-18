@@ -159,7 +159,7 @@
             - The way we digest is individual through exploration, but collective or at least shared through conversation. I'll add this comment on the RC-Roam when I find it
             - I have some thoughts on how what you said about narrative can be observed in successful storytelling.  I'll add later on the graph.
             - When Brandon commented made about [asynchronous](<asynchronous.md>) editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [synchronous](<synchronous.md>)?!" 
-                - I think that synchronous and aligned activities in a multiplayer[ zettelkasten](< zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals.
+                - I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>) can lead to compound effects like [standing waves](<standing waves.md>) created by signals.
                     - **[GIF](<GIF.md>):**
                         - ![Standing wave - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waventerference.gif/310px-Waventerference.gif)
                 - When everyone is in sinch, the compound effect of [alignment](<alignment.md>) and [synchronicity](<synchronicity.md>) can lead to a compound output of work. Increasing both quality and quantity. Conversely, when everyone is out of sync the continuos disagreement, contradiction or misalignment in purpose can produce no perceivable result.

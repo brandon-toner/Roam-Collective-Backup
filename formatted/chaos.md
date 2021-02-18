@@ -1,5 +1,12 @@
 
 # Backlinks
+## [February 18th, 2021](<February 18th, 2021.md>)
+- I want people to be prepared for, and comfortable with a degree of [chaos](<chaos.md>).
+
+- [ ] Write about managing [chaos](<chaos.md>)
+
+- #[FN](<FN.md>) To manage [chaos](<chaos.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
 

@@ -34,9 +34,6 @@
 ## [Beyond the Basics](<Beyond the Basics.md>)
 - Using the other [DNP Modules](<DNP Modules.md>)
 
-## [Bookmarks](<Bookmarks.md>)
-- **[Tags](<Tags.md>):** [Conventions](<Conventions.md>) #[DNP Modules](<DNP Modules.md>)
-
 ## [DNP Modules](<DNP Modules.md>)
 - Description of the [DNP Modules](<DNP Modules.md>)
 
@@ -53,6 +50,9 @@
 - #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
+- For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
+
+## [February 18th, 2021](<February 18th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
 ## [February 8th, 2021](<February 8th, 2021.md>)

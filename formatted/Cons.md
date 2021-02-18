@@ -4,6 +4,10 @@
 - Can reference that block to further elaborate on the thoughts/nuance behind the vote
                             - **[Cons](<Cons.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- For an alias, be able to know that "that isn't the actual name of the page"
+                    - **[Cons](<Cons.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[FN](<FN.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
                                 - **[Cons](<Cons.md>):**

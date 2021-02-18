@@ -37,7 +37,6 @@
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
             - #Scratchpad #not-populated
             - #[[The Zettelkasten]] #not-populated
-            - #Bookmarks #not-populated
             - #Conversation #not-populated
             - #[[Change Log]] #not-populated
         - ---

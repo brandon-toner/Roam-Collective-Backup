@@ -52,7 +52,7 @@
                 - Similar to the @Channel feature in [Slack](<Slack.md>)...
                     - Can use `@[Everyone](<Everyone.md>)` to elevate something to everyone's attention. 
                         - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
-            12. Added [Welcome 😃](<Welcome 😃.md>) and the "**Getting Started:**" sections 
+            12. Added [Welcome 😃](<Welcome 😃.md>) and the "Getting Started" sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - #[GTD Zone](<GTD Zone.md>)
             1. [x] Add process for suggestions [*](((7PyTNYa6C)))
@@ -216,7 +216,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
                 - Choice paralysis
         - How important is it to stick to vanilla Roam?
             - I think it's important for the __frameworks__, but communities can and should explore tools optimize their specific community.
-    - #[Writing & Reflection](<Writing & Reflection.md>)
+    - [Scratchpad](<Scratchpad.md>)
         - [anarchic self-organization](<anarchic self-organization.md>)
             - Doable with the "right" kind of group, so may not be more widely applicable
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)

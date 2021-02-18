@@ -1,35 +1,11 @@
-- **[Related](<Related.md>):** [The Zettelkasten](<The Zettelkasten.md>)
-- **[Overview](<Overview.md>):**
-    - **[Components](<Components.md>):**
-        - [reference notes](<reference notes.md>)
-            - The resource pages — where [bibliographic information](<bibliographic information.md>), [highlights](<highlights.md>) and [literature notes](<literature notes.md>) are located
-        - [fleeting notes](<fleeting notes.md>)
-            - Assertions 
-        - [literature notes](<literature notes.md>)
-        - [evergreen notes](<evergreen notes.md>)
-        - zettel questions = [open questions](<open questions.md>) in this graph it seems
-        - [context questions](<context questions.md>)
-    - **Official Conventions:**
-        - Notes:
-            - #[FN](<FN.md>)
-            - #[Literature Notes](<Literature Notes.md>)
-            - [Seedlings](<Seedlings.md>)
-            - [Buddings](<Buddings.md>)
-            - #[Evergreens](<Evergreens.md>)
-            - #[Reference Notes](<Reference Notes.md>)
-        - Questions:
-            - #[Q](<Q.md>)
-            - [Questions](<Questions.md>)
-    - **[Conversation](<Conversation.md>):**
-        - The question-related conventions are more [experimental]([Experiments](<Experiments.md>))
-    - **[Tips](<Tips.md>):**
-        - View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>)) get a sense of the conventions in action.
 
 # Backlinks
 ## [Announcements](<Announcements.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
+- > "I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>)
+
 - [Q](<Q.md>) can we quantify the [entropy](<entropy.md>) of a [zettelkasten](<zettelkasten.md>)?
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
@@ -44,6 +20,15 @@
 - [zettelkasten](<zettelkasten.md>)
 
 - Promise of the [zettelkasten](<zettelkasten.md>):
+
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
+
+- About [Beau's zettelkasten conventions/method in rbc](((2Kxu_piLV))) compared to the RC [zettelkasten](<zettelkasten.md>)
+
+- On [zettelkasten](<zettelkasten.md>)
+
+- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[FN](<FN.md>) writing in a [zettelkasten](<zettelkasten.md>)
@@ -92,6 +77,8 @@
 - E.g. use of [zettelkasten](<zettelkasten.md>)
 
 - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
+
+- I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>)
 
 - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>)
 

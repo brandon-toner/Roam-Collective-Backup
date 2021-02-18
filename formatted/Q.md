@@ -96,6 +96,3 @@
 ## [replace with text](<replace with text.md>)
 - "#[Q](<Q.md>)
 
-## [zettelkasten](<zettelkasten.md>)
-- #[Q](<Q.md>)
-

@@ -8,6 +8,9 @@
 
 - To continue on this I will "[ ] Take notes on [Roam Inter](<Roam Inter.md>)'
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Roam Inter](<Roam Inter.md>)
+
 - [ ] Take notes on [Roam Inter](<Roam Inter.md>)'
 
 ## [January 29th, 2021](<January 29th, 2021.md>)

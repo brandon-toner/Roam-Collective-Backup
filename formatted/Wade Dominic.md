@@ -28,6 +28,9 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
+
 ## [Wade Dominic](<Wade Dominic.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
 

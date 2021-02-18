@@ -4,6 +4,10 @@
 - Using a `Community/Vote` attribute
                             - **[Pros](<Pros.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [Q](<Q.md>) Is there any functional importance of being able to visually differentiate between an alias and a page link?
+                    - **[Pros](<Pros.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Which may make MORE sense for the namespace on claims to be `[C:](<C:.md>)` 
                                 - **[Pros](<Pros.md>):**

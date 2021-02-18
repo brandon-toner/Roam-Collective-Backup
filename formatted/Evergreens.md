@@ -113,6 +113,3 @@
 ## [roam/css](<roam/css.md>)
 - #[Evergreens](<Evergreens.md>)
 
-## [zettelkasten](<zettelkasten.md>)
-- #[Evergreens](<Evergreens.md>)
-

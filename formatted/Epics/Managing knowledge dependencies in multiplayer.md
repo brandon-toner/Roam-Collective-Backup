@@ -31,6 +31,8 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
 
+- This is THE REASON for creating a for mapping the [dependencies](<../dependencies.md>) between ideas[*]([Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>))
+
 ## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
 - **Epics:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)
 

@@ -169,6 +169,10 @@
 - Meta
                 - **[Related](<Related.md>):**
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- i.e. card surfacing and responses are user-specific.
+            - **[Related](<Related.md>):**
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**
@@ -425,8 +429,5 @@
 
 ## [spaced everything](<spaced everything.md>)
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
-- **[Related](<Related.md>):**
-
-## [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
 

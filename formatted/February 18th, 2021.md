@@ -5,21 +5,238 @@
         - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
         - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [Roam Games III](<Roam Games III.md>))
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
+        2. Review of [fleeting notes](<fleeting notes.md>) with Sam — [here](((0oR0z3jPD))) [Onboarding](<Onboarding.md>) #[Graph Mentorship](<Graph Mentorship.md>)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - [Scratchpad](<Scratchpad.md>) 
+        - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>) be used [resurface ]([resurfacing](<resurfacing.md>))information across time?
+            - How could "SR" be used to resurface interesting information. #[spaced repetition](<spaced repetition.md>)
+                - Say in the case of an organization with an established [knowledge base](<knowledge base.md>):
+                    - [Q](<Q.md>) How might an organization facilitate meaningful engagement and familiarization with that collective knowledge base?
+                        - [Q](<Q.md>) How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?
+                            - i.e. card surfacing and responses are user-specific.
+            - **[Related](<Related.md>):** "[ ] Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command" [randomization](<randomization.md>) [serendipity](<serendipity.md>) 
+                - I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))
+                    - [SmartBlocks](<SmartBlocks.md>) [Random Commands](https://roamresearch.com/#/app/roamhacker/page/UEV5tM9KC)
+                        - **[Image](<Image.md>):**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Ff_5LyLYYYQ.png?alt=media&token=f1d8202f-a3f4-428d-9816-9338736005b9)
+                        - RANDOMBLOCK
+                            - **[Image](<Image.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fob99VlRCVO.png?alt=media&token=c64567bf-c642-4099-9442-f45b59709dfb)
+                        - RANDOMBLOCKFROM
+                            - **[Image](<Image.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtcZ0WOJIM_.png?alt=media&token=ad3ea305-e3ce-4b0e-8dcc-71d90484b06e)
+                        - RANDOMBLOCKMENTION
+                            - **[Image](<Image.md>):**
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FkMPU6DMi4G.png?alt=media&token=ec470708-6567-4f35-ad74-d93b4022b337)
+                        - RANDOMPAGE
+                            - **[Image](<Image.md>):** 
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIF887MZQED.png?alt=media&token=b1375b75-f1dc-45b6-b4ed-c11508e4a4db)
+                        - **[Thoughts](<Thoughts.md>):**
+                            - My suspicion is that unless some original text is added with the block ref in your [bookmarks](<bookmarks.md>) section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([querying](<querying.md>)). [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]])
+                                - This is because the markdown in YOUR section will only be the `((jslkdjrls))` block ID code gibberish.
+        - [Q](<Q.md>) What are the [glossary](<glossary.md>) terms related to [spaced repetition](<spaced repetition.md>)?
+            - [I](<I.md>) I'd like to form a quick glossary/map of terms to facilitate more precise discussion of terms.
+        - I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph.
+            - **[Goals](<Goals.md>):**
+                - I want the graph to feel approachable to a visitor. 
+                    - [I](<I.md>) Send people the link to [Welcome 😃](<Welcome 😃.md>) rather than the DNP
+                - I want people to be prepared for, and comfortable with a degree of [chaos](<chaos.md>).
+                    - This feels like an article/write-up. I've got lots of thoughts on this.
+                        - [ ] Write about managing [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>). [*][Brandon Toner](<Brandon Toner.md>) #[February 2021](<February 2021.md>)
+                            - #[FN](<FN.md>) To manage [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>) — aim to amplify [signal](<signal.md>), rather than reduce [noise](<noise.md>).
+                                - Have clear places to look for 
+                                    - Important updates & changes (Announcements, and Change Log, in our case)
+                                    - Active projects (epics and sprints, in our case)
+                                    - Relevant work on those projects
+                                        - Goals/objectives
+                                        - Status
+                                        - Progress and updates
+                                        - #[FN](<FN.md>) To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
+                                            - #[FN](<FN.md>) In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
+                                                - This is [bottom-up](<bottom-up.md>), or emergent in style & feels quite natural in a Roam-environment.
+                                                    - #[FN](<FN.md>) a [bottom-up](<bottom-up.md>) or [emergent](<emergent.md>) development style is natural within a [collaborative graph](<collaborative graph.md>)
+                                    - Highlights & key discussions (The Main Feed, in our case)
+                                - 
+                - I want visitors to be able to understand the project, see the potential, and not become overwhelmed with complexity.
+                    - [I](<I.md>) Stronger landing pages will be helpful here. 
+                        - #[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>).
+                            - [Q](<Q.md>) What are the elements of an effective [landing page]([landing pages](<landing pages.md>))?
+                            - [Q](<Q.md>) Who is the target audience of a [landing page]([landing pages](<landing pages.md>))?
+                            - [Q](<Q.md>) What are the goals of a [landing page]([landing pages](<landing pages.md>))?
+                            - [Q](<Q.md>) Where should visitors be directed from a [landing page]([landing pages](<landing pages.md>))?
+                - 
+        - [Obs](<Obs.md>) I really like the grey banners for information/about type page content... [as in RBC III](https://roamresearch.com/#/app/RBC3-The-Culture-Code/page/dapkTbb76)
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Adjust the various link colours to better shades of blue. [roam](<roam.md>)/css [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) ["standardize color scheme"](((1EiZgZo--)))
+            - [Q](<Q.md>) Should page link, alias, and external link all be different colours?
+                - I like the external links a lot. The colour, underline, and hover response feel good.
+                - The page link and external colours clash to me 
+                    - [Test](<Test.md>) vs [Test](https://en.wikipedia.org/wiki/Test)
+                - Here is all three together:
+                    - [Test](<Test.md>) vs [Test]([Test](<Test.md>)) vs [Test](https://en.wikipedia.org/wiki/Test)
+                    - All three are different...
+                - I think I like all three as being blue.
+                - I like page and alias being the same color I think.
+                - Maybe all three being the same color??
+                - [Q](<Q.md>) Is there any functional importance of being able to visually differentiate between an alias and a page link?
+                    - **[Pros](<Pros.md>):**
+                        - For an alias, be able to know that "that isn't the actual name of the page"
+                    - **[Cons](<Cons.md>):**
+                        - The visual consistency is non-distracting in a block of text
+                    - **[Opinions](<Opinions.md>):** (held loosely)
+                        - The [added signal](((Mbn9vD_YE))) is not worth the [distraction](((4EIv3EgzF)))
+    - [Conversation](<Conversation.md>) 
+        1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Roam Inter](<Roam Inter.md>) "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+            - These are the main points that I don't yet understand, but would be interested in knowing. 
+            - Even simply: What can it do? What are the limitations?
+                - Where does it insert blocks?
+                    - Nested beneath a designated parent?
+                    - What happens if that parent is deleted?
+        2. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
+            - There is a fleeting note (or several) in there — **I can feel it haha.**
+                - Toss a `[FN](<FN.md>)` tag and make a claim. (use these liberally)
+                    - e.g.
+                        - [FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>)) chunks makes them more easily digestible for others.
+                            - [FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
+                                - This is THE REASON for creating a for mapping the [dependencies](<dependencies.md>) between ideas[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)) and probably the [mission](<mission.md>) of [Roam](<Roam.md>).
+                            - [Q](<Q.md>) What information is best to "get from the source" on vs a summary?
+                                - [Ans](<Ans.md>) When the accuracy and precision of the idea is crucial to it's usage / when you are unable to trust the summarizing source.
+                                    - This is NOT very often.
+                                        - [FN](<FN.md>) It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
+                                            - [FN](<FN.md>) We RELY on the [summaries](<summaries.md>) generated by others, in order to integrate a large amount of information into our [thinking](<thinking.md>).
+                                            - [FN](<FN.md>) a [collaborative graph](<collaborative graph.md>) offers the ability to maintain a chain of influence — enhancing the custom of source [citation](<citation.md>).
+                                                - This has the potential to improve both recreational and professional knowledge work.
+        3. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) I think of this clip from [Fight Club](<Fight Club.md>) every time we discuss colours.
+            - **[URL](<URL.md>):** {{[video](<video.md>): https://www.youtube.com/watch?v=UMXs9i201AQ}}
+            - "Could I get this icon in [cornflower blue](<cornflower blue.md>)"
+                - Which, admittedly, is a really nice blue 😂— we should find a nice place to use it hahah — a nice little easter egg for the CSS
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2ForHq073oFI.png?alt=media&token=b5200ab1-b36f-44cc-a953-c635cfe3ddba)
+        4. Simple Replies
+            - "I use the `[Follow](<Follow.md>) Up` block in this way, but it's not perfect"
+                - I do this as well — and will sometimes add a tag if I want to add it to the linked references/query results with other information.
+    - #[Change Log](<Change Log.md>) 
+        1. Made some updates to [Welcome 😃](<Welcome 😃.md>) — still lots of work to do, mostly a draft.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
+        - On [alien blocks](((cR0Q76Dpl)))
+            - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
+        - About [Beau's zettelkasten conventions/method in rbc](((2Kxu_piLV))) compared to the RC [zettelkasten](<zettelkasten.md>)
+            - [Fleeting notes]([fleeting notes](<fleeting notes.md>))
+                - One of these takes 25mn or more to write, not just a little idea on a scrap of paper
+                - They are your reactions/thoughts from reading/watching something, not just an idea you got on a walk or in the shower. (his answer to my question about this is below, from rbc). At least for Beau's system, the zettelkasten is a dialogue partner born out of his internal conversation with sources only, without linking outside. 
+                    - [Samuel Bars](<Samuel Bars.md>) to [Beau Haan](<Beau Haan.md>) and everyone else who wants to answer.
+What's your take on fleeting notes that come from personal experience/journaling sessions?
+                        - [Beau Haan](<Beau Haan.md>) I have a Project Zettelkasten, structured the same way, but without the Literature Notes (since I am the author) and the Reference Note links to the URL of the journaling — But I have these Project notes completely fire-walled from the main Zettelkasten in order to keep my dialogue partner as formidable as possible. 
+                            - But I actually prefer to use the journaling as a way to play with ideas and then when I stumble upon an article that resonates with me—I take that and create new Permanent Notes in the main Zettelkasten, since then the information is useful over time, compounding
+                - 3 levels of analysis
+                    - Structure
+                        - 1st level = Siblings under `#[Fleeting Notes](<Fleeting Notes.md>)` parent blocks
+                        - 2nd level = going back to blocks from level 1 and nesting abstraction/expansion underneath
+                        - 3rd level = summarizing the whole note on the parent level block, next to `#[Fleeting Notes](<Fleeting Notes.md>)`
+                    - **[Image](<Image.md>):**
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FS_ecWGt5FQ.png?alt=media&token=2affab73-f710-4688-b23a-bbb181c8a3c3)
+                    - Video explanation
+                        - {{[video](<video.md>): https://www.youtube.com/watch?v=CtHajVUjrGE}}
+            - [reference notes](<reference notes.md>)
+                - They go above the fleeting note
+                - Next to the tag is the reference, as an alias
+`[Chapter X](((block ref to passage of the book)))`
+            - We haven't covered much of literature and permanent notes, but I'll share when we get there. 
+                - Might do some writeup/analysis of my experience when the 6 weeks are done.
+        - [Obs](<Obs.md>) The approaches to the Zettelkasten method can be wildly different.
+        - On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation
+            - hypothesis: Reduce the amount of effort necessary to understand an idea = Increase amount of people building from it
+                - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
+    - [Bookmarks](<Bookmarks.md>)
+        - "[Q](<Q.md>) How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
+        - "#[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>)."
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Take notes on [Roam Inter](<Roam Inter.md>)'s technical walkthrough. Eventually write up some summary/takeaways for contributors
+            - "Even simply: What can it do? What are the limitations?"
+                - "Where does it insert blocks?"
+                    - "Nested beneath a designated parent?"
+                    - "What happens if that parent is deleted?"
+        - [ ] Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
+            - even better, resurface them in gtd zone with a `[ ] Read ((block ref from bookmarks))` next to them
     - #[The Zettelkasten](<The Zettelkasten.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) "19YO genius kid in ...." Mauritius
+        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) various: 
+            - "19YO genius kid in ...." Mauritius
+            - [re roam inter explanation](((posZGcO_u)))
+                - Yeah I think there's a low hanging fruit there, just making a simple, clear, explanation.
+                    - Maybe just drawing some of these things out (how ShareDB works, simple, but even simpler when illustrated)
+            - [re ](((0oR0z3jPD))) Wow this is some really training, you basically broke down my idea. I have a bit of a hard time formalizing my thinking by writing actually, I'm used to do it a lot in my head. This is great!
+                - I like the `[Ans](<Ans.md>)` tag
+                - Will add more fleeting notes/answers/questions
+        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))
+            - "Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))/[Sonke]([Sonke Ahrens](<Sonke Ahrens.md>)) approach in favor of what feels like a more "agnostic" system."
+                - Haven't got the details yet of how Sonke does it
+            - "What are your thoughts?"
+                - Maybe not journaling but certainly a more reflective process, and less focused on blocks compared to RC
+                    - With how you guys do it here, it's breaking down thinking block by block. Beau uses a "wall of text", multiple blocks, for one fleeting note, permanent note, etc.
+                        - I guess the idea is that the divergence at the beginning, when you're writing a fleeting note, is less important for him to resurface, and he wants to focus attention on the parent block, where the big idea is summarized (calls them "thumbnails")
+                        - He's training us, with the daily writing sessions, to write freely and extensively, and then abstract from that. Less focus on being clear and intentional about what you're writing from the start, it's a wild free ride, but then going back and abstracting
+                            - bottom up
+                            - Writing to think, then hiding that (although you can come back for context) and collapsing it under "thumbnails" of thought
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+    - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - On the value of [block-level tags](<block-level tags.md>) #[Status/In-Progress](<Status/In-Progress.md>)
+            - Necessary to resurface indiviudal tid-bits of information — [see](((AcVV2n11w)))
+            - Allows for highly contextual note-taking in-line with content
+            - Increases searchability
+                - Can combine keywords and block-level tags to quickly surface potentially related thoughts
+            - Increases flexibility of filtering
+                - When pulling in source material, viewing all inline comments can be distracting — filtering out all of the block-level tags allows for unobstructed view
+            - ... 
+        - Importing [Maggie Delano](<Maggie Delano.md>)'s code for her Zettel Smartblock Aggregator
+            - **[> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type](<> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type.md>):** [Zettel](<Zettel.md>)` that are not referenced here, so ideally give your zettel its own page to find it, otherwise it will return whatever page the block is on. You need [Roam42](<Roam42.md>) running for it to work.
+                - > {{CLICK TO FIND PAGES WITH ZETTELS MISSING FROM INDEX:42SmartBlk:Check Zettels:42RemoveButton=false}}  
+                    - > Further missing zettels from these pages will be ignored:
+                        - > `[Book Club Planning](<Book Club Planning.md>)` ← take out of ``
+                - [Code](https://github.com/maggiedelano/roambookclub)
+            - SmartBlock
+                - `[42SmartBlock](<42SmartBlock.md>)` Check Zettels
+                    - <%JAVASCRIPT:function getPagesNotOnIndexPage(n,e,t){return window.roamAlphaAPI.q("\n[:find ?page_title\n  :in $ % ?container_title ?tag1 ?tag2\n  :where\n    [?t1id :node/title ?tag1]\n    [?t2id :node/title ?tag2]\n    [?blocks :block/refs ?t1id]\n    [?blocks :block/refs ?t2id] \n    [?container_page :node/title ?container_title]\n    [?blocks :block/page ?page]\n    [?page :node/title ?page_title]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]","[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]",n,e,t).map((n,e)=>`[[${n[0]}]]`)}return getPagesNotOnIndexPage("[Zettelkasten](<Zettelkasten.md>) Index","Zettel","Page Type").map((n,e)=>`${n}`).join("\n");%>
+            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) see the above...
+    - [Conversation](<Conversation.md>)
+        - On [CSS](<CSS.md>) styling
+            - "[Q](<Q.md>) Should page link, alias, and external link all be different colours?"
+                - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
+        - On [zettelkasten](<zettelkasten.md>) systems
+            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
+                - What are your thoughts?
+                - Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))/[Sonke]([Sonke Ahrens](<Sonke Ahrens.md>)) approach in favor of what feels like a more "agnostic" system.
+                    - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
+                        - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
+        - Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
+                - If you want to be able to resurface Bookmarks, you need [block-level tags](<block-level tags.md>); the `[Bookmarks](<Bookmarks.md>)` section won't meet your needs
+                - I use the `[Follow](<Follow.md>) Up` block in this way, but it's not perfect
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>) is that it distinguishes between an atomic block and a collection.
+                - `[Bookmark](<Bookmark.md>)` is a block-level bookmark
+                - `[Bookmarks](<Bookmarks.md>)` is a collection of `[Bookmark](<Bookmark.md>)` blocks
+                - Will be easier to implement once Roam has [aliases](<aliases.md>), but in the interim queries can fill the gap
+                - Franky, I don't think the collection of Bookmarks is even necessary — it's highly personal, so all you really care about are `[Bookmark](<Bookmark.md>)` blocks you've added to your personal note section — very little need to see the sum-total of Bookmarks in the graph
+        - On "[Cornflower Blue]([cornflower blue](<cornflower blue.md>))" [°](((MtLeq6G4N)))
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
+    - [Bookmarks](<Bookmarks.md>)
+        - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
+        - "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))"
+    - #[Change Log](<Change Log.md>)
+        - Added better blue shades: "Blue"
 - ---

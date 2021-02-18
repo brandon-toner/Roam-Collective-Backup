@@ -1,5 +1,10 @@
 
 # Backlinks
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>)
+
+- #[FN](<FN.md>) To manage [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>) — aim to amplify [signal](<signal.md>),
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
 

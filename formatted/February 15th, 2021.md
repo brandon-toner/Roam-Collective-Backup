@@ -115,7 +115,7 @@
             - "Question: Is there any convention around reactions?" [Conventions](<Conventions.md>) #[emoji reactions](<emoji reactions.md>)
                 - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [Roam Portal](<Roam Portal.md>)'s latest update.
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)"
-                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!
+                - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
                     - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>)) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
                 - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
@@ -167,7 +167,7 @@
             - Nesting 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -199,7 +199,6 @@
     - #[GTD Zone](<GTD Zone.md>)
         - [x] Create your own personal page, by placing your name at the top of your daily notes.
         - [x] Follow [these instructions](((6202Hd2VO))) to make your own page.
-        - [ ] Take notes on [Roam Inter](<Roam Inter.md>)'s technical walkthrough. Eventually write up some summary/takeaways for contributors
     - [Conversation](<Conversation.md>)
         1. [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) About [writing on daily pages vs your own](((dakVN3D1r)))
             - When the amount of active users increases and the daily page starts getting overwhelming.
@@ -213,7 +212,7 @@
             - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
                 - Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)
             - Question: Is there any convention around reactions?
-            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCII stuff but it looks awesome!"
+            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!"
                 - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Joel Chan](<Joel Chan.md>) {{word-count}} [*]([jc](<jc.md>)) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"

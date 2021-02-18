@@ -49,7 +49,6 @@
         - Zettelkasten conventions
         - Agile Development
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC." {{or:[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]]}}
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) ["Twitter acct"](((DweiIynrD))) 
@@ -101,8 +100,8 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [cc:C]([~[[Charles Farr](<~[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
-`[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[@[[Brandon Toner](<@[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+`[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[~[[Brandon Toner](<~[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
         - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@C]([^[[Charles Farr](<^[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 
             - Also, we could create a DNP called welcome? that has a welcome message and points people to the right resources in the right order. This feels redundant but thought I'd write it anyways. 

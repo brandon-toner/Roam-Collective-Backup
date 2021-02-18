@@ -37,9 +37,6 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-## [February 17th, 2021](<February 17th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
@@ -96,7 +93,4 @@
 
 ## [roam/css](<roam/css.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
-
-## [zettelkasten](<zettelkasten.md>)
-- **[Related](<Related.md>):** [The Zettelkasten](<The Zettelkasten.md>)
 

@@ -52,7 +52,7 @@
                 - Similar to the @Channel feature in [[Slack]]...
                     - Can use `@[[Everyone]]` to elevate something to everyone's attention. 
                         - #Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
-            12. Added [[Welcome 😃]] and the "**Getting Started:**" sections 
+            12. Added [[Welcome 😃]] and the "Getting Started" sections 
             13. Added [[Roam Collaboration Guide]]
         - #[[GTD Zone]]
             1. {{[[DONE]]}} Add process for suggestions [*](((7PyTNYa6C)))
@@ -216,7 +216,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
                 - Choice paralysis
         - How important is it to stick to vanilla Roam?
             - I think it's important for the __frameworks__, but communities can and should explore tools optimize their specific community.
-    - #[[Writing & Reflection]]
+    - #Scratchpad
         - [[anarchic self-organization]]
             - Doable with the "right" kind of group, so may not be more widely applicable
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf

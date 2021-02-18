@@ -3,6 +3,9 @@
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>) be used [resurface ]([resurfacing](<resurfacing.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - The other benefit is being able to query based on the combination of `[E:](<E:.md>)` and some topic of interest — for instance `[resurfacing](<resurfacing.md>)`
 

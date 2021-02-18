@@ -9,6 +9,9 @@
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - [ ] Find and take notes on the system from [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) #[February 2021](<February 2021.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- [ ] Write about managing [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>). [*][Brandon Toner](<Brandon Toner.md>) #[February 2021](<February 2021.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **This Month:** `#[February 2021](<February 2021.md>)`
 

@@ -37,7 +37,6 @@
         - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-            - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
@@ -242,6 +241,8 @@
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [ ] Write about managing [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>). [*][Brandon Toner](<Brandon Toner.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
@@ -465,7 +466,4 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
-
-## [zettelkasten](<zettelkasten.md>)
-- View the linked references filtered by [my name]([Brandon Toner](<Brandon Toner.md>))
 

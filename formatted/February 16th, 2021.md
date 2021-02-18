@@ -70,7 +70,6 @@
             - [Q](<Q.md>) How might [hypotheses](<hypotheses.md>) be documented at the [block-level](<block-level.md>)?
             - [Q](<Q.md>) How might [conclusions](<conclusions.md>) be documented?
         - #[FN](<FN.md>) micro and macro levels of [inquiry](<inquiry.md>).
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
         2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>)), but I bet I'd re-write it differently now haha
@@ -78,7 +77,7 @@
             - Mmm yea, I dig that.
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - "[Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.

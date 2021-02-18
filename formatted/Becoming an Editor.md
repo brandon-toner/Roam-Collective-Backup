@@ -12,6 +12,3 @@
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>), [Becoming an Editor](<Becoming an Editor.md>)
 
-## [Welcome 😃](<Welcome 😃.md>)
-- [Becoming an Editor](<Becoming an Editor.md>)
-

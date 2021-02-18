@@ -7,5 +7,7 @@
 3. Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
 
 ## [Welcome 😃](<Welcome 😃.md>)
+- "Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
+
 - Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
 

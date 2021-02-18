@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [About Roam Collective](<About Roam Collective.md>)
-- To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>)). 
+- To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
 - **[Projects](<Projects.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

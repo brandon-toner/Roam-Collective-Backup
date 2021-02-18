@@ -119,29 +119,40 @@
                 - Blue (lighter shade)
                     - ```css
 :root {
-  --cl-blue-lt-100: #aecdeaff; /*--baby-blue-eyes:*/
-  --cl-blue-lt-200: #9ec2e3ff; /*--baby-blue-eyes-2:*/
-  --cl-blue-lt-300: #8eb6dcff; /*--aero:*/
-  --cl-blue-lt-400: #7eabd5ff; /*--iceberg:*/
-  --cl-blue-lt-500: #6fa0ceff; /*--blue-gray:*/
-  --cl-blue-lt-600: #5f94c6ff; /*--blue-gray-2:*/
-  --cl-blue-lt-700: #4f89bfff; /*--green-blue-crayola:*/
-  --cl-blue-lt-800: #3f7db8ff; /*--steel-blue:*/
-  --cl-blue-lt-900: #2f72b1ff; /*--spanish-blue:*/
+  --cl-blue-lt-100: #aec7efff; /*--baby-blue-eyes:*/
+  --cl-blue-lt-200: #a0bce9ff; /*--baby-blue-eyes-2:*/
+  --cl-blue-lt-300: #8fafe2ff; /*--french-sky-blue:*/
+  --cl-blue-lt-400: #7ea5e0ff; /*--little-boy-blue:*/
+  --cl-blue-lt-500: #7099daff; /*--cornflower-blue:*/
+  --cl-blue-lt-600: #5f8cd3ff; /*--united-nations-blue:*/
+  --cl-blue-lt-700: #4c7eceff; /*--glaucous:*/
+  --cl-blue-lt-800: #3770cbff; /*--celtic-blue:*/
+  --cl-blue-lt-900: #2b66c4ff; /*--true-blue:*/}```
+                - Blue
+                    - ```css
+:root {
+  --cl-blue-100:   #dceff9ff; /*--alice-blue:*/
+  --cl-blue-200:   #a7d9f1ff; /*--uranian-blue:*/
+  --cl-blue-300:   #85c6e9ff; /*--light-cornflower-blue:*/
+  --cl-blue-400:   #5aaddcff; /*--blue-jeans:*/
+  --cl-blue-500:   #389bd5ff; /*--carolina-blue:*/
+  --cl-blue-600:   #1e7ac0ff; /*--star-command-blue:*/
+  --cl-blue-700:   #0254a0ff; /*--usafa-blue:*/
+  --cl-blue-800:   #014889ff; /*--yale-blue:*/
+  --cl-blue-900:   #023a72ff; /*--indigo-dye:*/
 }```
                 - Blue (Darker Shade)
                     - ```css
 :root {
-  --cl-blue-dk-100: #b6c2e2ff; /*--periwinkle-crayola*/
-  --cl-blue-dk-200: #a6b4d8ff; /*--wild-blue-yonder*/
-  --cl-blue-dk-300: #97a6ceff; /*--wild-blue-yonder-2*/
-  --cl-blue-dk-400: #8798c4ff; /*--cool-grey*/
-  --cl-blue-dk-500: #788abbff; /*--glaucous*/
-  --cl-blue-dk-600: #687bb1ff; /*--glaucous-2*/
-  --cl-blue-dk-700: #586da7ff; /*--blue-yonder*/
-  --cl-blue-dk-800: #495f9dff; /*--liberty*/
-  --cl-blue-dk-900: #395193ff; /*--y-in-mn-blue*/
-}```
+  --cl-blue-dk-100: #7a8fd8ff; /* --cornflower-blue:  */
+  --cl-blue-dk-200: #6e85d0ff; /* --glaucous:  */
+  --cl-blue-dk-300: #6076c9ff; /* --han-blue:  */
+  --cl-blue-dk-400: #526cc1ff; /* --han-blue-2:  */
+  --cl-blue-dk-500: #455eb9ff; /* --liberty:  */
+  --cl-blue-dk-600: #3f56aaff; /* --cerulean-blue:  */
+  --cl-blue-dk-700: #3a4f99ff; /* --y-in-mn-blue:  */
+  --cl-blue-dk-800: #30448fff; /* --dark-cornflower-blue:  */
+  --cl-blue-dk-900: #263a83ff; /* --dark-cornflower-blue-2:  */}```
                 - Violet
                     - ```css
 :root {
@@ -195,7 +206,7 @@
   --persimmon: #de5200ff;
   --rufous: #a41000ff;
 }```
-        - Color Settings
+        - Color Settings #Status/Inactive
             - UI
                 - All Pages
                     - > Modifies the "All Pages" site, found in the left sidebar
@@ -1296,7 +1307,7 @@ span.rm-page-ref[data-tag="Scratchpad"]:before {
                 - #[[Bookmarks]]
                     - ```css
 span.rm-page-ref[data-tag="Bookmarks"] {
-    background: var(--cl-blue-lt-700);
+    background: var(--cl-blue-500);
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -2567,7 +2578,7 @@ span.rm-page-ref[data-tag="Conversation"]:before {
                 - #[[Chat]]
                     - ```css
 span.rm-page-ref[data-tag="Chat"] {
-    background: #2196F3;
+    background: var(--cl-blue-500);
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -3219,9 +3230,9 @@ span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
             12. Journaling Tags
-                - `#[[Writing & Reflection]]
+                - `#[[Reflection]]
                     - ```css
-span.rm-page-ref[data-tag="Writing & Reflection"] {
+span.rm-page-ref[data-tag="Reflection"] {
     background: #607D8B;
     color: #fff;
     padding: 2px 5px 2px 5px;
@@ -3232,7 +3243,7 @@ span.rm-page-ref[data-tag="Writing & Reflection"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Writing & Reflection"]:before {
+span.rm-page-ref[data-tag="Reflection"]:before {
     content: '💬'
 }```
                 - `#[[Today I Learned]]
@@ -3286,16 +3297,38 @@ span.rm-page-ref[data-tag="Evening Journal"]:before {
             13. Status Tags
                 - Examples
                     - #[[Status/Idea]]
+                        - ```css
+```
                     - #[[Status/Active]]
+                        - ```css
+```
                     - #Status/On-Hold
+                        - ```css
+```
                     - #[[Status/Dropped]]
+                        - ```css
+```
                     - #Status/Enabled
+                        - ```css
+```
                     - #Status/Inactive
+                        - ```css
+```
                     - #Status/Submitted
+                        - ```css
+```
                     - #Status/Completed
+                        - ```css
+```
                     - #Status/Deactivated
+                        - ```css
+```
                     - #[[Status/Someday|Maybe]]
+                        - ```css
+```
                     - #[[Status/Not Completed]]
+                        - ```css
+```
                 - Code
                     - ```css
 :root {
@@ -4538,8 +4571,8 @@ display:none!important; /* hide page reference (title) */
   --fnt-h2:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-h3:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-size-page-title: 	22px;
-  --fnt-size-h1:       		14px;
-  --fnt-size-h2:       		14px;
+  --fnt-size-h1:       		20px;
+  --fnt-size-h2:       		17px;
   --fnt-size-h3:       		14px;
   --fnt-style-h1:			normal;
   --fnt-style-h2:			normal;
@@ -4601,11 +4634,12 @@ h1.level2,
         6. Page References #Status/Enabled
             - ```css
 .rm-page-ref-link-color {
-    color: #2179F3;
+    color: var(--cl-blue-500);
     font-weight: 400;
 }
+
 a {
-    color: #2179F3;
+    color: var(--cl-blue-500);
 }```
         7. Page Reference Brackets
             - ```ruby
@@ -4702,11 +4736,11 @@ a {
 .rm-alias--external:hover {
     text-decoration: none!important;
     border-bottom: 1px dashed;
-    color: #2196F3;;
+    color: var(--cl-blue-900);
 }
   
 .rm-alias--external{
-  color: #2196F3;
+  color: var(--cl-blue-700);
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```

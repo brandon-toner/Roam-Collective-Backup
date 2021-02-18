@@ -12,6 +12,9 @@
 ## [Adam Bartley](<Adam Bartley.md>)
 - **[Tags](<Tags.md>):**
 
+## [Adam Krivka](<Adam Krivka.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Agenda](<Agenda.md>)
 - **[Tags](<Tags.md>):**
 
@@ -52,9 +55,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
-- **[Tags](<Tags.md>):**
-
-## [Bookmarks](<Bookmarks.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)

@@ -14,6 +14,9 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Roam](<Roam.md>),
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- This is THE REASON for creating a for mapping the [dependencies](<dependencies.md>) between ideas[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)) and probably the [mission](<mission.md>) of [Roam](<Roam.md>).
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - We could get context easily within [Roam](<Roam.md>),
 

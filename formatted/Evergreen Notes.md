@@ -228,6 +228,3 @@
 ## [permanent notes](<permanent notes.md>)
 - **[Redirect](<Redirect.md>):** [evergreen notes](<evergreen notes.md>)
 
-## [zettelkasten](<zettelkasten.md>)
-- [evergreen notes](<evergreen notes.md>)
-

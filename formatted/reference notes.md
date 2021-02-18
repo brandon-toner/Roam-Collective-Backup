@@ -61,6 +61,3 @@
 ## [roam/css](<roam/css.md>)
 - #[Reference Notes](<Reference Notes.md>)
 
-## [zettelkasten](<zettelkasten.md>)
-- #[Reference Notes](<Reference Notes.md>)
-

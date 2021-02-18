@@ -87,3 +87,6 @@
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>)
 
+## [Welcome 😃](<Welcome 😃.md>)
+- To provide a hub for community collaboration surrounding the [Roam Games](<Roam Games.md>)
+

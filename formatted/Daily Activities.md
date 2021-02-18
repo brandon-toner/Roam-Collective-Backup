@@ -3,7 +3,7 @@
     - Copy the block reference of the prompt into your DNP section, nested under `#[Promptstorming](<Promptstorming.md>)`
     - Nest your writing underneath the prompt reference.
     - **[Example](<Example.md>):**
-        - [to_populate](<to_populate.md>)
+        - [to-populate](<to-populate.md>)
 
 # Backlinks
 ## [DWP](<DWP.md>)

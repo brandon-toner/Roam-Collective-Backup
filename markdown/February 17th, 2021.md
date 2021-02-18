@@ -202,19 +202,18 @@
         - {{[[TODO]]}} Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
-    - #Bookmarks #not-populated
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
-        2. [@Charles]([[@[[Charles Farr]]]]) on [CSS](((XkuzI7Zp8)))
+        2. [@Charles]([[~[[Charles Farr]]]]) on [CSS](((XkuzI7Zp8)))
             - "Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`)."
                 - This is perfect!
             - "You could pair this with some fancy #therefore css..."
                 - This is FIRE!
             - "[@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `#Fleeting  Notes` to be more subtle....
-                    - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])
+                    - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])
     - #[[Change Log]] 
-        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+        1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
             - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
         2. Adjusted the [[Graph/backup]] to every 6 hours (running low on action minutes on [[GitHub]]).
         3. Adjusted "#[[My Daily Notes]] [[Your Name]]" to align with the Agora's colour scheme 
@@ -250,7 +249,7 @@
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
                                 - See: Version 2
                     - #[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-            - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[@[[Charles Farr]]]])"
+            - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])"
                 - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
     - #[[GTD Zone]]
         - {{[[TODO]]}} Update color scheme with better shades of blue and green
@@ -262,14 +261,11 @@
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
                 - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...
-    - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
-            - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
     - #Bookmarks
         - "SRS Call with [[Adam Krivka]] "
         - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
@@ -279,6 +275,4 @@
                 - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.
                 - I know I saw some other source about this, can't remember now
         - "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
-    - #[[The Zettelkasten]]
-    - #Conversation #not-populated
 - ---

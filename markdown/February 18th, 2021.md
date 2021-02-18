@@ -5,21 +5,238 @@
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [[Roam Games III]])
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
+        2. Review of [[fleeting notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - #Scratchpad #not-populated
-    - #Bookmarks #not-populated
-    - #Conversation #not-populated
-    - #[[Change Log]] #not-populated
+    - #Scratchpad 
+        - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
+            - How could "SR" be used to resurface interesting information. #[[spaced repetition]]
+                - Say in the case of an organization with an established [[knowledge base]]:
+                    - #Q How might an organization facilitate meaningful engagement and familiarization with that collective knowledge base?
+                        - #Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?
+                            - i.e. card surfacing and responses are user-specific.
+            - Related:: "{{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command" #randomization #serendipity 
+                - I want this SO bad. Here is my understanding of what is currently possible:[*]([[Bookmarks]])
+                    - [[SmartBlocks]] [Random Commands](https://roamresearch.com/#/app/roamhacker/page/UEV5tM9KC)
+                        - Image::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Ff_5LyLYYYQ.png?alt=media&token=f1d8202f-a3f4-428d-9816-9338736005b9)
+                        - RANDOMBLOCK
+                            - Image::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fob99VlRCVO.png?alt=media&token=c64567bf-c642-4099-9442-f45b59709dfb)
+                        - RANDOMBLOCKFROM
+                            - Image::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtcZ0WOJIM_.png?alt=media&token=ad3ea305-e3ce-4b0e-8dcc-71d90484b06e)
+                        - RANDOMBLOCKMENTION
+                            - Image::
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FkMPU6DMi4G.png?alt=media&token=ec470708-6567-4f35-ad74-d93b4022b337)
+                        - RANDOMPAGE
+                            - Image:: 
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIF887MZQED.png?alt=media&token=b1375b75-f1dc-45b6-b4ed-c11508e4a4db)
+                        - Thoughts::
+                            - My suspicion is that unless some original text is added with the block ref in your [[bookmarks]] section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([[querying]]). [@Sam]([[@[[Samuel Bars]]]])
+                                - This is because the markdown in YOUR section will only be the `((jslkdjrls))` block ID code gibberish.
+        - #Q What are the [[glossary]] terms related to [[spaced repetition]]?
+            - #I I'd like to form a quick glossary/map of terms to facilitate more precise discussion of terms.
+        - I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph.
+            - Goals::
+                - I want the graph to feel approachable to a visitor. 
+                    - #I Send people the link to [[Welcome 😃]] rather than the DNP
+                - I want people to be prepared for, and comfortable with a degree of [[chaos]].
+                    - This feels like an article/write-up. I've got lots of thoughts on this.
+                        - {{[[TODO]]}} Write about managing [[chaos]] in a [[collaborative graph]]. [*][[Brandon Toner]] #[[February 2021]]
+                            - #[[FN]] To manage [[chaos]] in a [[collaborative graph]] — aim to amplify [[signal]], rather than reduce [[noise]].
+                                - Have clear places to look for 
+                                    - Important updates & changes (Announcements, and Change Log, in our case)
+                                    - Active projects (epics and sprints, in our case)
+                                    - Relevant work on those projects
+                                        - Goals/objectives
+                                        - Status
+                                        - Progress and updates
+                                        - #[[FN]] To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
+                                            - #[[FN]] In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
+                                                - This is [[bottom-up]], or emergent in style & feels quite natural in a Roam-environment.
+                                                    - #[[FN]] a [[bottom-up]] or [[emergent]] development style is natural within a [[collaborative graph]]
+                                    - Highlights & key discussions (The Main Feed, in our case)
+                                - 
+                - I want visitors to be able to understand the project, see the potential, and not become overwhelmed with complexity.
+                    - #I Stronger landing pages will be helpful here. 
+                        - #[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]].
+                            - #Q What are the elements of an effective [landing page]([[landing pages]])?
+                            - #Q Who is the target audience of a [landing page]([[landing pages]])?
+                            - #Q What are the goals of a [landing page]([[landing pages]])?
+                            - #Q Where should visitors be directed from a [landing page]([[landing pages]])?
+                - 
+        - #Obs I really like the grey banners for information/about type page content... [as in RBC III](https://roamresearch.com/#/app/RBC3-The-Culture-Code/page/dapkTbb76)
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Adjust the various link colours to better shades of blue. #roam/css [cc:Charles]([[@[[Charles Farr]]]]) ["standardize color scheme"](((1EiZgZo--)))
+            - #Q Should page link, alias, and external link all be different colours?
+                - I like the external links a lot. The colour, underline, and hover response feel good.
+                - The page link and external colours clash to me 
+                    - [[Test]] vs [Test](https://en.wikipedia.org/wiki/Test)
+                - Here is all three together:
+                    - [[Test]] vs [Test]([[Test]]) vs [Test](https://en.wikipedia.org/wiki/Test)
+                    - All three are different...
+                - I think I like all three as being blue.
+                - I like page and alias being the same color I think.
+                - Maybe all three being the same color??
+                - #Q Is there any functional importance of being able to visually differentiate between an alias and a page link?
+                    - Pros::
+                        - For an alias, be able to know that "that isn't the actual name of the page"
+                    - Cons::
+                        - The visual consistency is non-distracting in a block of text
+                    - Opinions:: (held loosely)
+                        - The [added signal](((Mbn9vD_YE))) is not worth the [distraction](((4EIv3EgzF)))
+    - #Conversation 
+        1. [@Sam]([[@[[Samuel Bars]]]]) on [[Roam Inter]] "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+            - These are the main points that I don't yet understand, but would be interested in knowing. 
+            - Even simply: What can it do? What are the limitations?
+                - Where does it insert blocks?
+                    - Nested beneath a designated parent?
+                    - What happens if that parent is deleted?
+        2. [@Sam]([[@[[Samuel Bars]]]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
+            - There is a fleeting note (or several) in there — **I can feel it haha.**
+                - Toss a `#FN` tag and make a claim. (use these liberally)
+                    - e.g.
+                        - #FN [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others.
+                            - #FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])
+                                - This is THE REASON for creating a for mapping the [[dependencies]] between ideas[*]([[Epics/Managing knowledge dependencies in multiplayer]]) and probably the [[mission]] of [[Roam]].
+                            - #Q What information is best to "get from the source" on vs a summary?
+                                - #Ans When the accuracy and precision of the idea is crucial to it's usage / when you are unable to trust the summarizing source.
+                                    - This is NOT very often.
+                                        - #FN It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
+                                            - #FN We RELY on the [[summaries]] generated by others, in order to integrate a large amount of information into our [[thinking]].
+                                            - #FN a [[collaborative graph]] offers the ability to maintain a chain of influence — enhancing the custom of source [[citation]].
+                                                - This has the potential to improve both recreational and professional knowledge work.
+        3. [@Charles]([[~[[Charles Farr]]]]) I think of this clip from [[Fight Club]] every time we discuss colours.
+            - URL:: {{[[video]]: https://www.youtube.com/watch?v=UMXs9i201AQ}}
+            - "Could I get this icon in [[cornflower blue]]"
+                - Which, admittedly, is a really nice blue 😂— we should find a nice place to use it hahah — a nice little easter egg for the CSS
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2ForHq073oFI.png?alt=media&token=b5200ab1-b36f-44cc-a953-c635cfe3ddba)
+        4. Simple Replies
+            - "I use the `#Follow Up` block in this way, but it's not perfect"
+                - I do this as well — and will sometimes add a tag if I want to add it to the linked references/query results with other information.
+    - #[[Change Log]] 
+        1. Made some updates to [[Welcome 😃]] — still lots of work to do, mostly a draft.
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - On [alien blocks](((cR0Q76Dpl)))
+            - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
+        - About [Beau's zettelkasten conventions/method in rbc](((2Kxu_piLV))) compared to the RC [[zettelkasten]]
+            - [Fleeting notes]([[fleeting notes]])
+                - One of these takes 25mn or more to write, not just a little idea on a scrap of paper
+                - They are your reactions/thoughts from reading/watching something, not just an idea you got on a walk or in the shower. (his answer to my question about this is below, from rbc). At least for Beau's system, the zettelkasten is a dialogue partner born out of his internal conversation with sources only, without linking outside. 
+                    - [[Samuel Bars]] to [[Beau Haan]] and everyone else who wants to answer.
+What's your take on fleeting notes that come from personal experience/journaling sessions?
+                        - [[Beau Haan]] I have a Project Zettelkasten, structured the same way, but without the Literature Notes (since I am the author) and the Reference Note links to the URL of the journaling — But I have these Project notes completely fire-walled from the main Zettelkasten in order to keep my dialogue partner as formidable as possible. 
+                            - But I actually prefer to use the journaling as a way to play with ideas and then when I stumble upon an article that resonates with me—I take that and create new Permanent Notes in the main Zettelkasten, since then the information is useful over time, compounding
+                - 3 levels of analysis
+                    - Structure
+                        - 1st level = Siblings under `#[[Fleeting Notes]]` parent blocks
+                        - 2nd level = going back to blocks from level 1 and nesting abstraction/expansion underneath
+                        - 3rd level = summarizing the whole note on the parent level block, next to `#[[Fleeting Notes]]`
+                    - Image::
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FS_ecWGt5FQ.png?alt=media&token=2affab73-f710-4688-b23a-bbb181c8a3c3)
+                    - Video explanation
+                        - {{[[video]]: https://www.youtube.com/watch?v=CtHajVUjrGE}}
+            - [[reference notes]]
+                - They go above the fleeting note
+                - Next to the tag is the reference, as an alias
+`[Chapter X](((block ref to passage of the book)))`
+            - We haven't covered much of literature and permanent notes, but I'll share when we get there. 
+                - Might do some writeup/analysis of my experience when the 6 weeks are done.
+        - #Obs The approaches to the Zettelkasten method can be wildly different.
+        - On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation
+            - hypothesis: Reduce the amount of effort necessary to understand an idea = Increase amount of people building from it
+                - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
+    - #Bookmarks
+        - "#Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
+        - "#[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
+        - {{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors
+            - "Even simply: What can it do? What are the limitations?"
+                - "Where does it insert blocks?"
+                    - "Nested beneath a designated parent?"
+                    - "What happens if that parent is deleted?"
+        - {{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
+            - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
     - #[[The Zettelkasten]]
     - #Conversation #not-populated
-        - [@B]([[@[[Brandon Toner]]]]) "19YO genius kid in ...." Mauritius
+        - [@B]([[@[[Brandon Toner]]]]) various: 
+            - "19YO genius kid in ...." Mauritius
+            - [re roam inter explanation](((posZGcO_u)))
+                - Yeah I think there's a low hanging fruit there, just making a simple, clear, explanation.
+                    - Maybe just drawing some of these things out (how ShareDB works, simple, but even simpler when illustrated)
+            - [re ](((0oR0z3jPD))) Wow this is some really training, you basically broke down my idea. I have a bit of a hard time formalizing my thinking by writing actually, I'm used to do it a lot in my head. This is great!
+                - I like the `#Ans` tag
+                - Will add more fleeting notes/answers/questions
+        - [@Charles]([[@[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))
+            - "Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system."
+                - Haven't got the details yet of how Sonke does it
+            - "What are your thoughts?"
+                - Maybe not journaling but certainly a more reflective process, and less focused on blocks compared to RC
+                    - With how you guys do it here, it's breaking down thinking block by block. Beau uses a "wall of text", multiple blocks, for one fleeting note, permanent note, etc.
+                        - I guess the idea is that the divergence at the beginning, when you're writing a fleeting note, is less important for him to resurface, and he wants to focus attention on the parent block, where the big idea is summarized (calls them "thumbnails")
+                        - He's training us, with the daily writing sessions, to write freely and extensively, and then abstract from that. Less focus on being clear and intentional about what you're writing from the start, it's a wild free ride, but then going back and abstracting
+                            - bottom up
+                            - Writing to think, then hiding that (although you can come back for context) and collapsing it under "thumbnails" of thought
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Conversation #not-populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
+    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - On the value of [[block-level tags]] #[[Status/In-Progress]]
+            - Necessary to resurface indiviudal tid-bits of information — [see](((AcVV2n11w)))
+            - Allows for highly contextual note-taking in-line with content
+            - Increases searchability
+                - Can combine keywords and block-level tags to quickly surface potentially related thoughts
+            - Increases flexibility of filtering
+                - When pulling in source material, viewing all inline comments can be distracting — filtering out all of the block-level tags allows for unobstructed view
+            - ... 
+        - Importing [[Maggie Delano]]'s code for her Zettel Smartblock Aggregator
+            - > To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type:: #Zettel` that are not referenced here, so ideally give your zettel its own page to find it, otherwise it will return whatever page the block is on. You need [[Roam42]] running for it to work.
+                - > {{CLICK TO FIND PAGES WITH ZETTELS MISSING FROM INDEX:42SmartBlk:Check Zettels:42RemoveButton=false}}  
+                    - > Further missing zettels from these pages will be ignored:
+                        - > `[[Book Club Planning]]` ← take out of ``
+                - [Code](https://github.com/maggiedelano/roambookclub)
+            - SmartBlock
+                - `#42SmartBlock` Check Zettels
+                    - <%JAVASCRIPT:function getPagesNotOnIndexPage(n,e,t){return window.roamAlphaAPI.q("\n[:find ?page_title\n  :in $ % ?container_title ?tag1 ?tag2\n  :where\n    [?t1id :node/title ?tag1]\n    [?t2id :node/title ?tag2]\n    [?blocks :block/refs ?t1id]\n    [?blocks :block/refs ?t2id] \n    [?container_page :node/title ?container_title]\n    [?blocks :block/page ?page]\n    [?page :node/title ?page_title]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]","[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]",n,e,t).map((n,e)=>`[[${n[0]}]]`)}return getPagesNotOnIndexPage("[[Zettelkasten]] Index","Zettel","Page Type").map((n,e)=>`${n}`).join("\n");%>
+            - [@Samuel]([[@[[Samuel Bars]]]]) see the above...
+    - #Conversation
+        - On [[CSS]] styling
+            - "#Q Should page link, alias, and external link all be different colours?"
+                - [@Brandon]([[@[[Brandon Toner]]]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
+        - On [[zettelkasten]] systems
+            - [@Samuel]([[@[[Samuel Bars]]]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
+                - What are your thoughts?
+                - Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system.
+                    - See: "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
+                        - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([[cc:[[Joel Chan]]]]) system with the addition of a `#FN` level that I call a `#Notion`
+        - Resurfacing useful tidbits almost always requires [[block-level tags]]
+            - [@Brandon]([[@[[Brandon Toner]]]]) [@Samuel]([[@[[Samuel Bars]]]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
+                - If you want to be able to resurface Bookmarks, you need [[block-level tags]]; the `#Bookmarks` section won't meet your needs
+                - I use the `#Follow Up` block in this way, but it's not perfect
+            - [@Brandon]([[@[[Brandon Toner]]]]) I think that one of the biggest reasons why I like singular for [[block-level tags]] is that it distinguishes between an atomic block and a collection.
+                - `#Bookmark` is a block-level bookmark
+                - `[[Bookmarks]]` is a collection of `#Bookmark` blocks
+                - Will be easier to implement once Roam has [[aliases]], but in the interim queries can fill the gap
+                - Franky, I don't think the collection of Bookmarks is even necessary — it's highly personal, so all you really care about are `#Bookmark` blocks you've added to your personal note section — very little need to see the sum-total of Bookmarks in the graph
+        - On "[Cornflower Blue]([[cornflower blue]])" [°](((MtLeq6G4N)))
+            - [@Brandon]([[@[[Brandon Toner]]]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
+    - #Bookmarks
+        - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
+        - "#FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
+    - #[[Change Log]]
+        - Added better blue shades: "Blue"
 - ---

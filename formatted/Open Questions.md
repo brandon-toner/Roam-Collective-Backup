@@ -11,6 +11,3 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Inline questions, even less threshold than [open questions](<open questions.md>).
 
-## [zettelkasten](<zettelkasten.md>)
-- zettel questions = [open questions](<open questions.md>)
-

@@ -13,6 +13,7 @@
 - Goals:: ((See block references for additional ideas.))
     - To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities.
     - To help others learn how to use Roam effectively by demonstrating [the fundamentals]([[Roam Fundamentals]]). 
+    - To support other collaborative projects, such as [[Roam Book Club]].
 - Projects:: ((See block references for additional ideas.))
     - [[query]] for all projects
         - :q [:find ?project
