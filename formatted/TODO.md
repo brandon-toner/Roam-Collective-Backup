@@ -182,8 +182,6 @@
 - "{{[TODO](<TODO.md>)}
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-- **[Related](<Related.md>):** "{{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -193,6 +191,8 @@
 - {{[TODO](<TODO.md>)}
 
 - even better, resurface them in gtd zone with a `{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - {{[TODO](<TODO.md>)}

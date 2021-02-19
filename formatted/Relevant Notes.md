@@ -16,6 +16,14 @@
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- [Book link on amazon](https://www.amazon.com/Ready-Fire-Aim-Zero-Million/dp/0470182024)
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
 ## [Evergreens/build once, sell twice](<Evergreens/build once, sell twice.md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**

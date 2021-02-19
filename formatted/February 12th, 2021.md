@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
         - Added page: [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
         - **[Thoughts](<Thoughts.md>):** `Work Summary` attribute[*]([Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>))
@@ -328,10 +328,10 @@ d. "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [on "This new messag
         - **["Thoughts](<"Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+            - "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 

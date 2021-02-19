@@ -9,7 +9,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - Where are we with this?
@@ -77,7 +77,7 @@
             - Mmm yea, I dig that.
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad
         - "#Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.

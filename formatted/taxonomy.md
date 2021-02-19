@@ -10,6 +10,8 @@
 - See → "Today I revised my personal [taxonomy](<taxonomy.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
+- "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/
+
 - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/
 
 ## [February 9th, 2021](<February 9th, 2021.md>)

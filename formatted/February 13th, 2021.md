@@ -14,7 +14,7 @@
         1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
@@ -224,7 +224,7 @@
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

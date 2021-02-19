@@ -5,6 +5,12 @@
                             - **[Cons](<Cons.md>):**
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
+- Leader can "pave the way" and others can easily identify work to contribute to.
+                            - **[Cons](<Cons.md>):**
+
+- Leader has more information available to make a good decision.
+                            - **[Cons](<Cons.md>):**
+
 - For an alias, be able to know that "that isn't the actual name of the page"
                     - **[Cons](<Cons.md>):**
 

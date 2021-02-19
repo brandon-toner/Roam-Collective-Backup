@@ -10,6 +10,9 @@
         - ![Double Diamond Model Expanded - Austin Stubbs - Medium](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*FH6Re6NwLf5ftsJqa8s6Hw.png&f=1&nofb=1)
 
 # Backlinks
+## [February 18th, 2021](<February 18th, 2021.md>)
+- **[Related](<../Related.md>):** [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
 

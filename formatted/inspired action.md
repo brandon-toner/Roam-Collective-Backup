@@ -3,6 +3,9 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- "Run with [inspired action](<inspired action.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>)
 

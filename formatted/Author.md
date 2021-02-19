@@ -76,7 +76,15 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[Author](<Author.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

@@ -12,7 +12,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - #Q Can the "online status indicator" be automated with Roam/js
         - [[Roam Games]] [[Clubhouse]] call #[[Meetings & Discussions]]
@@ -261,7 +261,7 @@
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
                 - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...

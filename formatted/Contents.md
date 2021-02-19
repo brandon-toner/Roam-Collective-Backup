@@ -76,8 +76,16 @@
 - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)"
+    - **[Contents](<Contents.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
 ## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)

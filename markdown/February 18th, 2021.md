@@ -11,7 +11,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
             - How could "SR" be used to resurface interesting information. #[[spaced repetition]]
@@ -19,7 +19,7 @@
                     - #Q How might an organization facilitate meaningful engagement and familiarization with that collective knowledge base?
                         - #Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?
                             - i.e. card surfacing and responses are user-specific.
-            - Related:: "{{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command" #randomization #serendipity 
+            - Related:: "{{[[DONE]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command" #randomization #serendipity 
                 - I want this SO bad. Here is my understanding of what is currently possible:[*]([[Bookmarks]])
                     - [[SmartBlocks]] [Random Commands](https://roamresearch.com/#/app/roamhacker/page/UEV5tM9KC)
                         - Image::
@@ -71,8 +71,40 @@
                             - #Q Where should visitors be directed from a [landing page]([[landing pages]])?
                 - 
         - #Obs I really like the grey banners for information/about type page content... [as in RBC III](https://roamresearch.com/#/app/RBC3-The-Culture-Code/page/dapkTbb76)
+        - Phases of "work"
+            - Defining and Doing
+                - Related:: [[Evergreens/double diamond model (design)]]
+                - #Q How is the work defined?
+                    - Options
+                        - Leader goes depth-first, mapping the scope, purpose, objectives, and tasks. Then everyone chips away at the work as it is defined.
+                            - Pros::
+                                - Leader can "pave the way" and others can easily identify work to contribute to.
+                            - Cons:: 
+                                - The leader can become a bottleneck.
+                                - Other options/opportunites could be missed.
+                                - Risk of less buy-in engagement if people are less "part of the process"
+                        - Everyone brainstorms to define the work, then the leader decides on the direction (using the overall mission, vision and values of the organization/community to guide the decision)
+                            - Pros::
+                                - Everyone has an opportunity to contribute to the direction of work.
+                                - More collective buy-in and commitment to the work and direction of development.
+                                - Leader has more information available to make a good decision.
+                            - Cons::
+                                - Can be more chaotic and exploratory.
+                                - Can be harder to get things "off the ground".
+                                - More onus/work on community members to both define/then do, the work.
+                        - Thoughts::
+                            - The best is a blend of these approaches, and likely one that is [[opportunistic]]: 
+                                - As leaders or group members become clear on work that could/should be done — they define it. 
+                                - As members are inspired to do work, they do it. 
+                                - #[[FN]] [[non-coercive]] development systems are optimal for volunteer communities.
+                                    - Optimize for inspired action.
+                                    - "Run with [[inspired action]] as it strikes."
+                                    - "#[[FN]] "[[ride the lightning]]" as a mode of action."
+                                    - "#[[FN]] Roam was built to empower a "[[ride the lightning]]" workflow."
+        - [[Evergreens/Make it work, then make it easy, then make it pretty.]]
+        - [[Evergreens/Ready, Fire, Aim]]
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Adjust the various link colours to better shades of blue. #roam/css [cc:Charles]([[@[[Charles Farr]]]]) ["standardize color scheme"](((1EiZgZo--)))
+        - {{[[TODO]]}} Adjust the various link colours to better shades of blue. #roam/css [cc:Charles]([[~[[Charles Farr]]]]) ["standardize color scheme"](((1EiZgZo--)))
             - #Q Should page link, alias, and external link all be different colours?
                 - I like the external links a lot. The colour, underline, and hover response feel good.
                 - The page link and external colours clash to me 
@@ -119,10 +151,20 @@
         4. Simple Replies
             - "I use the `#Follow Up` block in this way, but it's not perfect"
                 - I do this as well — and will sometimes add a tag if I want to add it to the linked references/query results with other information.
+        5. [@Charles]([[@[[Charles Farr]]]]) on [Bookmarks](((RbE7YKTsL)))
+            - Right now our behaviour on bookmarks isnt block-level though... We nest multiple bookmarks under a single `#Bookmarks` tag.
+                - The beauty of this workflow is I can filter `Bookmarks` by `bnt` to see mine, by `csf` to see yours etc. And further filter by `Follow Up` to see that intersection.
+                - I wouldn't consider Bookmarks a block-level tag. 
+        6. [@Sam]([[@[[Samuel Bars]]]]) on [Zettelkasten](((6TxFuxypY)))
+            - The same thing could be done using the block-level tags. I often jump right into the fleeting notes if I have the clarity to do so on the topic, or **I'll write more until I do**... or ask more questions.
+                - The goal is a self-directed conversation that you mediate and tag using the block level tags.
+                - Capturing clarity of thought as it surfaces in whatever form it presents.
+                - Still very bottom-up. The option to write-to-think without block-tags is still there and encouraged.
+        7. [@Wade]([[@[[Wade Dominic]]]]) coming in hot with the expert-level `#My Wins` [tag](((EglComi8g)))! 
     - #[[Change Log]] 
         1. Made some updates to [[Welcome 😃]] — still lots of work to do, mostly a draft.
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -154,17 +196,23 @@ What's your take on fleeting notes that come from personal experience/journaling
             - hypothesis: Reduce the amount of effort necessary to understand an idea = Increase amount of people building from it
                 - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
     - #Bookmarks
+        - "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
+        - "I want this SO bad. Here is my understanding of what is currently possible:[*]([[Bookmarks]])"
         - "#Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
         - "#[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
+        - {{[[TODO]]}} Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas
+            - source of rec (thread reply)
+                - https://twitter.com/flancian/status/1362189138326401024?s=20
         - {{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors
             - "Even simply: What can it do? What are the limitations?"
                 - "Where does it insert blocks?"
                     - "Nested beneath a designated parent?"
                     - "What happens if that parent is deleted?"
-        - {{[[TODO]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
+        - {{[[DONE]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
             - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
+        - {{[[TODO]]}} "Will add more fleeting notes/answers/questions" to [this](((0oR0z3jPD)))
     - #[[The Zettelkasten]]
     - #Conversation #not-populated
         - [@B]([[@[[Brandon Toner]]]]) various: 
@@ -186,12 +234,13 @@ What's your take on fleeting notes that come from personal experience/journaling
                             - bottom up
                             - Writing to think, then hiding that (although you can come back for context) and collapsing it under "thumbnails" of thought
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
-    - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
+    - #[[My Wins]]
+        - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
@@ -237,6 +286,7 @@ What's your take on fleeting notes that come from personal experience/journaling
     - #Bookmarks
         - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         - "#FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
+        - #[[Follow Up]] "[@Charles]([[@[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))"
     - #[[Change Log]]
         - Added better blue shades: "Blue"
 - ---

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Author](<Author.md>):** Heard from [Conor White-Sullivan](<Conor White-Sullivan.md>)
+
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - #[FN](<FN.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))
 

@@ -92,8 +92,16 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Last Updated](<Last Updated.md>):** [February 18th, 2021](<February 18th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
+    - **[Created by](<Created by.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Last Updated](<Last Updated.md>):** [February 18th, 2021](<February 18th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)

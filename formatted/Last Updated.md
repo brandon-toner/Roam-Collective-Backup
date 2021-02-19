@@ -20,6 +20,14 @@
 - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>) 
     - **[Last Updated](<Last Updated.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Date Created](<Date Created.md>):** [February 18th, 2021](<February 18th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Date Created](<Date Created.md>):** [February 18th, 2021](<February 18th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - **[Date Created](<Date Created.md>):** [January 29th, 2021](<January 29th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**

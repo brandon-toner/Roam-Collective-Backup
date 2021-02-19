@@ -88,8 +88,16 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [development](<development.md>) 
+    - **[Date Created](<Date Created.md>):**
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Andy's Notes](<Andy's Notes.md>) #[Reference Notes](<Reference Notes.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)

@@ -4,6 +4,8 @@
 - On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
+- "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>)
+
 - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)

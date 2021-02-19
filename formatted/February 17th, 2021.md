@@ -12,7 +12,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) Can the "online status indicator" be automated with Roam/js
         - [Roam Games](<Roam Games.md>) [Clubhouse](<Clubhouse.md>) call #[Meetings & Discussions](<Meetings & Discussions.md>)
@@ -261,7 +261,7 @@
             - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
                 - **[URL](<URL.md>):** {{[video](<video.md>): https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...

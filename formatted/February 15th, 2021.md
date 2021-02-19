@@ -14,7 +14,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
         - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -167,7 +167,7 @@
             - Nesting 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟠Away | 🟢Online | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>)
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.

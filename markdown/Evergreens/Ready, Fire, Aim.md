@@ -1,0 +1,10 @@
+- Tags:: #[[Evergreens]]
+    - Date Created:: [[February 18th, 2021]]
+    - Last Updated:: [[February 18th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Michael Masterson]]
+    - References::  ((Supporting FN, LN, EN, or RN would go here))
+        - [Book link on amazon](https://www.amazon.com/Ready-Fire-Aim-Zero-Million/dp/0470182024)
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

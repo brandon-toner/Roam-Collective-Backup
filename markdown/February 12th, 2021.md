@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟠Away | 🟡On & Off | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - #Scratchpad
         - Added page: [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -328,10 +328,10 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
         - "Thoughts:: [[prepositional linkages]]"
         - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🚫 offline | 🟢Online | 🟠Away}}"
+            - "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 

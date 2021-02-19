@@ -1,0 +1,9 @@
+- Tags:: #[[Evergreens]] #Buddings #development 
+    - Date Created:: [[February 18th, 2021]]
+    - Last Updated:: [[February 18th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Author:: Heard from [[Conor White-Sullivan]] (not sure where he was quoting from)
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

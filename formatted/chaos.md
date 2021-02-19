@@ -21,3 +21,6 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>)
 
+## [Welcome 😃](<Welcome 😃.md>)
+- We operate with an agile spirit of experimentation and iteration — this is a place of [chaos](<chaos.md>)
+

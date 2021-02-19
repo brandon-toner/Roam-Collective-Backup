@@ -76,8 +76,16 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Author](<Author.md>):** Heard from [Conor White-Sullivan](<Conor White-Sullivan.md>) (not sure where he was quoting from)
+    - **[References](<References.md>):**
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - **[URL](<URL.md>):** [link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF&stackedNotes=z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C&stackedNotes=z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)
+    - **[References](<References.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Author](<Author.md>):** [Michael Masterson](<Michael Masterson.md>)
     - **[References](<References.md>):**
 
 ## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)

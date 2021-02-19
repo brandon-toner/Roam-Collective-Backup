@@ -47,7 +47,13 @@
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
 ## [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)

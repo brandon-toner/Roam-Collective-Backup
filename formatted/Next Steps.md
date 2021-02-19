@@ -24,6 +24,14 @@
 - **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Next Steps](<Next Steps.md>):**
 
+## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
+## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - Use of context-based [rituals](<rituals.md>).
     - **[Next Steps](<Next Steps.md>):**

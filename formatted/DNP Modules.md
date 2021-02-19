@@ -52,9 +52,6 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
-## [February 18th, 2021](<February 18th, 2021.md>)
-- For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 
