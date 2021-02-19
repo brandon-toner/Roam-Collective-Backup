@@ -40,3 +40,18 @@
             - "#[[Community Notes]] [[Roam Collective]]"
         5. Made lots of little CSS adjustments to color, etc
 - ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]]
+    - #[[The Zettelkasten]]
+    - #Conversation
+        - Simple replies
+            - "#Q How might [[Roam Portal]] be used in RC?" [°]([[@[[Brandon Toner]]]])
+                - Show a google earth type map to see where every graph is, on the globe
+                - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
+                    - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[[Sprints/1 — Roam Games 3 (managing dependencies)]]` and it's children for ex.) have the biggest word count.
+                    - Would be interesting to see which blocks are referenced the most
+                        - First results would be the DNP tags obviously, but what comes after is interesting.
+                - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
+- ---

@@ -14,9 +14,7 @@
             - Roam-inter and open protocols for knowledge graphs (outside roam too)
             - Individual and collective Zettelkasten
                 - More broadly, interested in different ways to acquire knowledge and understanding, think better, improve my reasoning, and my solidification of ideas, etc.
-    - {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
-- todo
-    - {{[[query]]: {and: [[smb]] [[TODO]] {not: [[query]]]}}}}
+    - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - My activity on the graph
     - **Questions**:
         - {{[[query]]: {and: [[smb]] [[Q]] }}} #minimal
@@ -24,10 +22,14 @@
         - {{[[query]]: {and: [[smb]] [[I]] {not: [[query]]]}}}} #minimal
 - Smartblocks
     - SamB - .DNP template #42SmartBlock
-        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+        - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #[[GTD Zone]]
             - #[[The Zettelkasten]]
             - #Conversation #not-populated
         - ---
+- todo
+    - {{[[query]]: {and: [[smb]] [[TODO]] {not: [[query]]]}}}}
+- bookmarks
+    - {{[[query]]: {and: [[Bookmarks]] [[smb]] {not: [[query]]]}}}}

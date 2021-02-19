@@ -61,6 +61,9 @@
 - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
 
+## [Samuel Bars](<Samuel Bars.md>)
+- {{[query](<query.md>): {and: [Bookmarks](<Bookmarks.md>)
+
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 

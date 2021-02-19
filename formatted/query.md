@@ -231,13 +231,17 @@
 ## [Samuel Bars](<Samuel Bars.md>)
 - {{[query](<query.md>):
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>) {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
 - {{[query](<query.md>): {and: [smb](<smb.md>) [TODO](<TODO.md>) {not: [query](<query.md>)]
 
 - {{[query](<query.md>):
 
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>) {not: [query](<query.md>)]
+- {{[query](<query.md>): {and: [Bookmarks](<Bookmarks.md>) [smb](<smb.md>) {not: [query](<query.md>)]
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>):

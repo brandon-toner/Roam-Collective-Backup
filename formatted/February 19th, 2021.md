@@ -40,3 +40,18 @@
             - "#[Community Notes](<Community Notes.md>) [Roam Collective](<Roam Collective.md>)"
         5. Made lots of little CSS adjustments to color, etc
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+    - [Conversation](<Conversation.md>)
+        - Simple replies
+            - "[Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?" [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+                - Show a google earth type map to see where every graph is, on the globe
+                - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
+                    - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)` and it's children for ex.) have the biggest word count.
+                    - Would be interesting to see which blocks are referenced the most
+                        - First results would be the DNP tags obviously, but what comes after is interesting.
+                - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
+- ---
