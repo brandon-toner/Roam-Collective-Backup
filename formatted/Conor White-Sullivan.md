@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Author](<Author.md>):** Heard from [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)

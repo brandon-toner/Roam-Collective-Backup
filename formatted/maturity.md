@@ -4,6 +4,11 @@
 ## [February 10th, 2021](<February 10th, 2021.md>)
 4. Ability to incorporate a separate mythology/taxonomy for [maturity](<maturity.md>)
 
+## [February 18th, 2021](<February 18th, 2021.md>)
+- One of the [implicit](<implicit.md>) differences between these [two tag types](((loZtX8kki))) — [block-level tags](<block-level tags.md>) and [section tags](<section tags.md>) —  is their [maturity](<maturity.md>).
+
+- [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Drafted a "[maturity](<maturity.md>)
 

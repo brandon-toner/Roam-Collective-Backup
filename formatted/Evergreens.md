@@ -47,7 +47,7 @@
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)

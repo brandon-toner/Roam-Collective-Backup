@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Graph/Templates](<Graph/Templates.md>)
-- **[Related](<Related.md>):** [roam](<roam.md>)/templates
+- **[Related](<Related.md>):** [roam/templates](<roam/templates.md>)
 - **[Table of Contents](<Table of Contents.md>):**
 
 ## [Roam Collaboration Guide](<Roam Collaboration Guide.md>)

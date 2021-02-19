@@ -70,7 +70,7 @@
         - How to import highlights and take [[literature notes]] in [[Roam-Collective]]?
             - {{[[DONE]]}} Build "resource" template... for articles/books/twitter threads etc. 
                 - Based on [[Readwise]] template.
-                - ".rc3REF — Reference Note Template #42SmartBlock #roam/templates"
+                - ".rcREF — Reference Note Template #42SmartBlock #roam/templates"
         - How to use Roam for school and learning?
             - Spaced repetition
     - #[[Help Wanted]]

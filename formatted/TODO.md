@@ -190,7 +190,34 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - even better, resurface them in gtd zone with a `{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+## [February 19th, 2021](<February 19th, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 

@@ -16,7 +16,7 @@
     - [Kahlil Corazo](<Kahlil Corazo.md>) is putting out some great tweet threads related to the [Roam Games](<Roam Games.md>). Check [this](((JUvpVJe0-))) out.
     - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
     - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [fleeting notes](<fleeting notes.md>) can be used to build an [argument](<argument.md>) or [claim](<claim.md>). [cc:[[leekeifon](<cc:[[leekeifon.md>)]], [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]], [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]]
-    - "[Stian Håklev](<Stian Håklev.md>)'s [Roam Inter](<Roam Inter.md>)[*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
+    - "[Stian Håklev](<Stian Håklev.md>)'s [roam-inter](<roam-inter.md>)[*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
 - [Chat](<Chat.md>) ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)) an evergreen note. I think it makes sense, but it challenges my idea that "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)" 
 
@@ -97,7 +97,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
                             3. Encourage group members to [block reference]([block referencing](<block referencing.md>)) aspects of the outline with their ideas.
                             4. The [project lead](<project lead.md>) or graph [editor](<editor.md>) reviews the contributions in the [block references](<block references.md>) and uses them to develop their ideas and build out the full bodied [creative project]([creative projects](<creative projects.md>))
     - #[Scratchpad](<Scratchpad.md>)
-        - [Stian Håklev](<Stian Håklev.md>)'s [Roam Inter](<Roam Inter.md>)[*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.
+        - [Stian Håklev](<Stian Håklev.md>)'s [roam-inter](<roam-inter.md>)[*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.
             - Inter-graph transfer & sync is now possible.
         - "Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database."
             - Here, I’m introducing the idea that the [collaborative zettelkasten](<collaborative zettelkasten.md>) is the key to carrying mature ideas forward through time.

@@ -8,7 +8,7 @@
         - **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
         - Charles Farr:: Graph goal: make everything [MECE](((rIe6X12fA)))
     - #Chat ((A place to propose objects of discussion))
-        - "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
+        - "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
@@ -127,7 +127,7 @@
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
-            - "[@Brandon]([[@[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
+            - "[@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
                 - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[Evergreens/beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([[@[[Peter Rosso]]]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
@@ -228,8 +228,8 @@
         - #Q Do we want to force convergence?
         - #Q How do we make sure there are not too many/overlapping questions?
         - On change of Conventions in the graph
-            - c. "[@]([[@[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?"
-d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
+            - c. "[@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?"
+d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
                 - This thread of messages could be observed from evolution of language. Brandon and I developed a way to message which might either stabilize for some time, or evolve over time. The graph show evidence of linguistic evolution.
                     - #Q Could we do a social study of the graph? Interactions, language  and structures are continuously changing.
     - #[[GTD Zone]] #not-populated
@@ -238,12 +238,12 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - [@]([[@[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
+        - [@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
             - also, trying a new tag to indicate `@` who I am speaking to, `""` What I am referring to (if I am not kinking to a word or a sentence), thoughts?
-        - [@Brandon]([[@[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
-            - [@Brandon]([[@[[Brandon Toner]]]]) [On the necessity of a Obs Tag](((yiYxykJSI))) I am still going through Chan's white paper discussing the different kind of notes he uses. I think there is a value in observation notes `[[O:]]` deriving from `👀#Obs`
-        - [@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
-            [@Brandon]([[@[[Brandon Toner]]]]) [On habit of checking conversation inbox](((l3YD_0kvu))) I have a Query in my daily DNP under conversations so I don't necessarily have to go back to my personal page. At the end of the weeks, I clear all the queries as they are linked blocs to the one on my page.  
+        - [@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
+            - [@Brandon]([[~[[Brandon Toner]]]]) [On the necessity of a Obs Tag](((yiYxykJSI))) I am still going through Chan's white paper discussing the different kind of notes he uses. I think there is a value in observation notes `[[O:]]` deriving from `👀#Obs`
+        - [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
+            [@Brandon]([[~[[Brandon Toner]]]]) [On habit of checking conversation inbox](((l3YD_0kvu))) I have a Query in my daily DNP under conversations so I don't necessarily have to go back to my personal page. At the end of the weeks, I clear all the queries as they are linked blocs to the one on my page.  
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
@@ -317,8 +317,8 @@ d. "[@Brandon]([[@[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
                 - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
-            - [@Brandon]([[@[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
-            - [@B]([[@[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
+            - [@Brandon]([[~[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
+            - [@B]([[~[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
                 - Would add a few prompts to ask them to respond to:
                     - What do you love about Roam? What do you wish was better?
                     - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?

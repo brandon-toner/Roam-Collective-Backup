@@ -1,6 +1,6 @@
 - **[Related](<Related.md>):** [About Roam Collective](<About Roam Collective.md>)
 - **[[Table of Contents](<Table of Contents.md>)](<[Table of Contents](<Table of Contents.md>).md>):**
-    - [Welcome 😃](<Welcome 😃.md>)
+    - [Welcome](<Welcome.md>)
     - [Quick Start Guide](<Quick Start Guide.md>)
     - [FAQ](<FAQ.md>)
     - [Conventions](<Conventions.md>)
@@ -45,6 +45,9 @@
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Having more fun writing in [Roam-Collective](<Roam-Collective.md>)

@@ -25,7 +25,7 @@
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
-4. "Use the [Daily Log](<Daily Log.md>)
+4. Use the [Daily Log](<Daily Log.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
@@ -48,9 +48,6 @@
 - #[Daily Log](<Daily Log.md>)
 
 - #[Daily Log](<Daily Log.md>)
-
-## [Quick Start Guide](<Quick Start Guide.md>)
-7. Use the [Daily Log](<Daily Log.md>)
 
 ## [Stefan Natter](<Stefan Natter.md>)
 - #[Daily Log](<Daily Log.md>)

@@ -1,1 +1,10 @@
-- Examples: `#I` and `#Q`
+- Tags:: #Glossary
+    - Block-level tags are used to tag the contents of individual blocks.
+    - This is a powerful technique that empowers some great queries and filtering.
+    - Examples::
+        - #Q
+        - #I
+        - #Ans
+        - #Obs
+        - #FN
+        - #LN

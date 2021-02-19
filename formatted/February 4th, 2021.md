@@ -208,9 +208,9 @@ Monthly reviews could include a zoom catchup?
     - [Conversation](<Conversation.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>) attribute so who knows lol 
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
 `{{[query](<query.md>): {or: [ex-B](<ex-B.md>) [ex-C](<ex-C.md>)}}}`
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [*](((zM6l437S8))) Yes there is! [Check it out.](((hupwRjd9n))) This should follow each page even if the order is changed. I tried to keep the color subtle so it's not too aggressive [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
     - #[Change Log](<Change Log.md>)

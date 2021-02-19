@@ -13,7 +13,7 @@
 
 - Building "[Roaman Agora](<Roaman Agora.md>)"
 
-- Integrating [Roam Inter](<Roam Inter.md>) into [Roaman Agora](<Roaman Agora.md>)
+- Integrating [roam-inter](<roam-inter.md>) into [Roaman Agora](<Roaman Agora.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Questions on the [Roaman Agora](<Roaman Agora.md>)
@@ -33,4 +33,10 @@
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [Q](<Q.md>) What do I like about the design of the [Roaman Agora](<Roaman Agora.md>)?
+
+## [February 18th, 2021](<February 18th, 2021.md>)
+- Draft outline of announcement for [Roam Games III](<Roam Games III.md>) on the [Roaman Agora](<Roaman Agora.md>)
+
+## [February 19th, 2021](<February 19th, 2021.md>)
+- [ ] Implement dotted-line tag styling as seen in [Roaman Agora](<Roaman Agora.md>)
 

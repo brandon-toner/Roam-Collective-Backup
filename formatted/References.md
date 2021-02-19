@@ -76,8 +76,8 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
-- **[Author](<Author.md>):** Heard from [Conor White-Sullivan](<Conor White-Sullivan.md>) (not sure where he was quoting from)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
+- Maybe from [here](https://dwaincsql.com/2014/04/01/make-it-work-make-it-fast-make-it-pretty/) or wherever they are sourcing.
     - **[References](<References.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)

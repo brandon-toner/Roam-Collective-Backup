@@ -76,7 +76,7 @@
 - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<Contents.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 

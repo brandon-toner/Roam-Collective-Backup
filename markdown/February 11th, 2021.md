@@ -62,7 +62,6 @@
                 - Extensions
                 - CSS themes and snippets
         -  
-    - #[[GTD Zone]] #not-populated
     - #[[Change Log]] 
         - Merged the sprint I first created into the one Charles had created.
         - Create an [Epics Template](((Gx7UUAS7L)))
@@ -90,7 +89,6 @@
         4. Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]])
             - I went with plural for consistency with the `Projects/` namespace, but I'm pretty indifferent.
             - Collections are plural in our convention, so I lean towards being consistent with that. 
-    - #Feedback  #not-populated
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
@@ -124,10 +122,10 @@
         - [[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
             - I wish I started at the beginnings as it would have been fun/interesting to document changes 
         - [[code snippets]] version control and community sharing [*](((ykxX5bHS9)))
-            - [*]([[@[[Brandon Toner]]]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. 
-        - [*]([[@[[Brandon Toner]]]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
-            - [*]([[@[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
-        - [*]([[@[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
+            - [*]([[~[[Brandon Toner]]]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. 
+        - [*]([[~[[Brandon Toner]]]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
+            - [*]([[~[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
+        - [*]([[~[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
         - [*]([[Brandon Toner]]) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
@@ -142,7 +140,7 @@
     - #Sprints #not-populated
     - #Conversation
         - On structuring work around Epics, Sprints, & Questions
-            - @ [Brandon]([[@[[Brandon Toner]]]]) & [Peter]([[@[[Peter Rosso]]]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
+            - @ [Brandon]([[~[[Brandon Toner]]]]) & [Peter]([[@[[Peter Rosso]]]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
                 - As it relates to Brandon's [question](((_LcN8ZnW8))), the question should actually be outlined at the Epic level. By comparison, sprints are just timebound sets of tasks. An Epic can be one or multiple sprints.
                     - For epics, I propose a two part stucture:
                         - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"

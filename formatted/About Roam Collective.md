@@ -1,5 +1,5 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
-- **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>)
+- **[Related](<Related.md>):** [Welcome](<Welcome.md>)
 - **[Description](<Description.md>):** ((See block references for additional ideas.))
     - This is an experiment in collaboration in Roam. A space to explore conventions and processes within shared graphs. A community space for exploration and innovation.
     - The aim is to create a collaborative environment built on sound conventions, processes and group roles to improve the quality of the multiplayer Roam experience.
@@ -46,9 +46,9 @@
 
 - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About Roam Collective](<About Roam Collective.md>).
 
-## [Quick Start Guide](<Quick Start Guide.md>)
-5. Learn more about the purpose and objectives of Roam Collective [here]([About Roam Collective](<About Roam Collective.md>))
-
 ## [Roam-Collective](<Roam-Collective.md>)
 - **[Related](<Related.md>):** [About Roam Collective](<About Roam Collective.md>)
+
+## [Welcome](<Welcome.md>)
+- __Learn more about Roam Collective__ [here]([About Roam Collective](<About Roam Collective.md>))
 

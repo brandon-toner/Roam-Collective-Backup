@@ -46,7 +46,6 @@
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
             - #[FN](<FN.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
             - Weekly newsletter

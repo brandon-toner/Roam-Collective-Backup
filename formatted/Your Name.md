@@ -3,6 +3,9 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 3. Adjusted "#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)"
 
+## [Graph/Templates](<Graph/Templates.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - This is a [query](<query.md>)-able attribute. `{{[query](<query.md>): {and: [Your Name](<Your Name.md>)
 

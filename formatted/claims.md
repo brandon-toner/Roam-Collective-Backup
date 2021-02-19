@@ -9,6 +9,9 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [I](<I.md>) [assertions](<assertions.md>)/[claims](<claims.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>).
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[FN](<FN.md>) "All [claims](<claims.md>)
 

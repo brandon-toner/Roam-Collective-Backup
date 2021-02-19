@@ -33,6 +33,10 @@
 - More onus/work on community members to both define/then do, the work.
                         - **[Thoughts](<Thoughts.md>):**
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)...
+            - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

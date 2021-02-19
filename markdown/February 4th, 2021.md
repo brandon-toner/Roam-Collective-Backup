@@ -208,9 +208,9 @@ Monthly reviews could include a zoom catchup?
     - #Conversation 
         - [[~[[Brandon Toner]]]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol 
-        - [[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
+        - [[~[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`
-            - [[@[[Brandon Toner]]]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
+            - [[~[[Brandon Toner]]]] have you tried the [query builder](((OIrYB9b3N))) script? You're right, it's still not as simple as a page filter but it brings the complexity of creating a query WAY down [*](((j2oZoVpHO)))
         - [[~[[Peter Rosso]]]] [*](((zM6l437S8))) Yes there is! [Check it out.](((hupwRjd9n))) This should follow each page even if the order is changed. I tried to keep the color subtle so it's not too aggressive [[cc:[[Brandon Toner]]]]
         - [[~[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
     - #[[Change Log]]

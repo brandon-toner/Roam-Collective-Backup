@@ -1,11 +1,11 @@
-- Using the other [[DNP Modules]]
-    - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
-        - Example:: ((last update: Jan 28, 2021 — see recent DNPs for up-to-date examples))
-            - {{[[embed]]: ((p3I4ov6M5))}}
-            - 
-- Build a personal [[DNP]] Template ((Place personal SmartBlocks on your page))
-    - Example:: 
-        - {{[[embed]]: ((VyS8OjXZx))}}
-- Using the [[Chat]] features
-- Commenting on the contents of the graph #to_populate
-- Giving [[feedback]] #to_populate
+- Tags:: ^^Under construction^^
+    - > The best way to learn is to jump in, observe others, and ask questions. We're here to help!
+    - Using the other [[DNP Modules]].
+        - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
+            - Example:: ((last update: Jan 28, 2021 — see recent DNPs for up-to-date examples))
+                - {{[[embed]]: ((p3I4ov6M5))}}
+                - 
+    - Engaging in conversation & commenting on parts of the graph.
+    - Using the [[block-level tags]].
+    - Contributing to the [[collaborative zettelkasten]].
+    - 

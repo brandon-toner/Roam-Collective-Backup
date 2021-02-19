@@ -5,7 +5,7 @@
         - Missing CSS
         - Announcements section looks weird
         - Unable to add blocks in some places
-    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
     - Objectives:: 
         - Create a [[Roam Collaboration Guide]]
         - Create a hub for the [[Roam Games]]
@@ -52,7 +52,7 @@
                 - Similar to the @Channel feature in [[Slack]]...
                     - Can use `@[[Everyone]]` to elevate something to everyone's attention. 
                         - #Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
-            12. Added [[Welcome 😃]] and the "Getting Started" sections 
+            12. Added [[Welcome]] and the "Getting Started" sections 
             13. Added [[Roam Collaboration Guide]]
         - #[[GTD Zone]]
             1. {{[[DONE]]}} Add process for suggestions [*](((7PyTNYa6C)))
@@ -102,18 +102,18 @@
                 - The latter gives you the ability to view ALL UNREADS across the graph. Plus, you can still filter `[[@]]` by your name to find YOUR unreads.
                     - Thoughts? [[~]] [[Charles Farr]]
         - [[Quick Start Guide]]
-            1. "Review the [conventions]([[Conventions]])"
-            1. "[[Brandon Toner]]"
-            3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
-            4. "Use the [[Daily Log]] to sign-in"
-            5. "Answer the [[Daily Activities]] or something from the [[Prompts]] library."
+            1. Review the [conventions]([[Conventions]])
+            1. [[Brandon Toner]]
+            3. Build your DNP Section using the universal [template](((qONZuXh3Y))). 
+            4. Use the [[Daily Log]] to sign-in
+            5. "Work on something from the `Daily Activities`."
                 - Nest your prompt-replies underneath the #Promptstorming tag.
                     - Example::
         - [[Beyond the Basics]]
-            1. "Using the other [[DNP Modules]]"
-            2. "Using the [[Chat]] features"
-            3. "Commenting on the contents of the graph #to_populate"
-            4. "Giving [[feedback]] #to_populate"
+            1. "Using the other [[DNP Modules]]."
+            2. Using the [[Chat]] features
+            3. Commenting on the contents of the graph #to_populate
+            4. Giving [[feedback]] #to_populate
         - [[Becoming an Editor]] 
     - #[[Questions]]
         1. How do you create an artifact from a collaborative Roam experience?
@@ -129,7 +129,7 @@
         7. How could I flag things as request for comment/feedback?
             - [[e.g.]] "{{[[TODO]]}} Improve [[roam/css]] styling (make it more consistent and easy on the eyes)"
         8. What is the distinction between conventions and processes?
-        9. How can a [[Welcome 😃]] page be designed to quickly orient the new member to the community conventions and processes?
+        9. How can a [[Welcome]] page be designed to quickly orient the new member to the community conventions and processes?
         10. [[page naming]] — singular or plural?
         11. "Zettle Questions" vs "Questions" vs "Open Questions"?
         12. How to tag ideas related to graph conventions and processes?

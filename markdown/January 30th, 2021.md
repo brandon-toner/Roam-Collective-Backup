@@ -220,7 +220,7 @@
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
         - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
-            - Section for [[collections]] under "Tag Styling #Status/Enabled"
+            - Section for [[collections]] under Tag Styling #Status/Enabled
     - #[[Change Log]] 
         - Added some CSS Tags
         - Added `#People` and `#Members` tags to all people listed in the [[Directory]] for the purpose of building queries.

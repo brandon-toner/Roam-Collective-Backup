@@ -1,16 +1,19 @@
-- Using the other [DNP Modules](<DNP Modules.md>)
-    - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
-        - **[Example](<Example.md>):** ((last update: Jan 28, 2021 — see recent DNPs for up-to-date examples))
-            - {{[embed](<embed.md>): ((p3I4ov6M5))}}
-            - 
-- Build a personal [DNP](<DNP.md>) Template ((Place personal SmartBlocks on your page))
-    - **[Example](<Example.md>):** 
-        - {{[embed](<embed.md>): ((VyS8OjXZx))}}
-- Using the [Chat](<Chat.md>) features
-- Commenting on the contents of the graph [to_populate](<to_populate.md>)
-- Giving [feedback](<feedback.md>) [to_populate](<to_populate.md>)
+- **[Tags](<Tags.md>):** ^^Under construction^^
+    - > The best way to learn is to jump in, observe others, and ask questions. We're here to help!
+    - Using the other [DNP Modules](<DNP Modules.md>).
+        - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
+            - **[Example](<Example.md>):** ((last update: Jan 28, 2021 — see recent DNPs for up-to-date examples))
+                - {{[embed](<embed.md>): ((p3I4ov6M5))}}
+                - 
+    - Engaging in conversation & commenting on parts of the graph.
+    - Using the [block-level tags](<block-level tags.md>).
+    - Contributing to the [collaborative zettelkasten](<collaborative zettelkasten.md>).
+    - 
 
 # Backlinks
+## [February 19th, 2021](<February 19th, 2021.md>)
+3. Updated [Beyond the Basics](<Beyond the Basics.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Beyond the Basics](<Beyond the Basics.md>)
 
@@ -23,10 +26,7 @@
 - [Beyond the Basics](<Beyond the Basics.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-- **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>),
+- **[Related](<Related.md>):** [Welcome](<Welcome.md>), [Beyond the Basics](<Beyond the Basics.md>)
 
 - **[Next](<Next.md>):** [Beyond the Basics](<Beyond the Basics.md>)
-
-## [Welcome 😃](<Welcome 😃.md>)
-- [Beyond the Basics](<Beyond the Basics.md>)
 

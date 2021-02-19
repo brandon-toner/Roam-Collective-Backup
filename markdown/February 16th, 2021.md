@@ -75,7 +75,6 @@
         2. [@Charles]([[~[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
-    - #[[Change Log]] #not-populated
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad
@@ -150,11 +149,11 @@
         - Did most of my work in the [[Roaman Agora]] graph today, plus a long CH call with Brandon — lots to think on...
     - #Conversation
         - Discussions
-            - [re](((A5lIDpmnY))): [@B]([[@[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
+            - [re](((A5lIDpmnY))): [@B]([[~[[Brandon Toner]]]]) just added you as an editor. [@S]([[@[[Samuel Bars]]]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.
-            - [@B]([[@[[Brandon Toner]]]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
-            - [@B]([[@[[Brandon Toner]]]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `#I` block they're nested under, which feels appropriate. 
-            - [@B]([[@[[Brandon Toner]]]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `#csf` tag...
+            - [@B]([[~[[Brandon Toner]]]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
+            - [@B]([[~[[Brandon Toner]]]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `#I` block they're nested under, which feels appropriate. 
+            - [@B]([[~[[Brandon Toner]]]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `#csf` tag...
     - #Bookmarks
         - "#[[FN]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])"
     - #[[Change Log]]

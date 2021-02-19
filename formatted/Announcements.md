@@ -1,10 +1,10 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - Pinned Announcement
     - **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
-        - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
+        - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
         - **[Objectives](<Objectives.md>):** 
             - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
-            - Create a hub for the [Roam Games](<Roam Games.md>)
+            - [x] Create a hub for the [Roam Games](<Roam Games.md>)
         - **[Tips](<Tips.md>):** 
             - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
             - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.

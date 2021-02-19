@@ -165,13 +165,13 @@
                 - Focus 
                 - New URL 
             - Nesting 
-    - #[[Change Log]] #not-populated
+    - 
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
-        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype ([[Roam Inter]] by [[Stian Håklev]]).
+        - So something I wanna explore more, is cross-db multiplayer roam. It's difficult to go figure out things there because there's only a great, but still hacky and limited prototype ([[roam-inter]] by [[Stian Håklev]]).
             - I think in the discussion around roam-inter (twitter or video, not sure), Connor mentioned multiuser graphs are working well, but the ideal would be cross-db collaboration (collaborating on public graphs from your personal graph)
             - Technically we're obviously still not there, but we can figure out how that model would work, and how such a tool could be used.
                 - Imagine, if you brought together the threading and quote-tweeting features of twitter, with a package manager (pull code or content), rss feeds, and a little chat app.
@@ -185,7 +185,7 @@
                     - `#submissions`
                 - send submissions
                     - add a `#.send-to-roamgames` tag to parent block
-            - To continue on this I will "{{[[TODO]]}} Take notes on [[Roam Inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
+            - To continue on this I will "{{[[TODO]]}} Take notes on [[roam-inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
                 - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it can explain the lack of interest. Also because it's still only accessible to technically savy users.
                 - I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
         - Big agree on "#[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
@@ -198,15 +198,15 @@
             - update: will keep the scratchpad for rambling, and progressively abstract, synthesize and connect as I get more familiar with zettelkasten conventions.
     - #[[GTD Zone]]
         - {{[[DONE]]}} Create your own personal page, by placing your name at the top of your daily notes.
-        - {{[[DONE]]}} Follow [these instructions](((6202Hd2VO))) to make your own page.
+        - {{[[DONE]]}} Follow [these instructions](Build your bio page ) to make your own page.
     - #Conversation
-        1. [@Brandon]([[@[[Brandon Toner]]]]) About [writing on daily pages vs your own](((dakVN3D1r)))
+        1. [@Brandon]([[~[[Brandon Toner]]]]) About [writing on daily pages vs your own](((dakVN3D1r)))
             - When the amount of active users increases and the daily page starts getting overwhelming.
                 - In Roam Book Club, every daily writing template is tagged with the day, so you have daily activity, but in linked refs (easily collapsible to prevent lagging)
             - When you want to use the daily page to focus attention on announcements or daily activities.
                 - It can become the place where you check what members shouldn't miss.
                     - Seems like the announcements page is filling that role here.
-        2. [@Brandon]([[@[[Brandon Toner]]]]) (various)
+        2. [@Brandon]([[~[[Brandon Toner]]]]) (various)
             - "Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this."
                 - Great, still getting familiar with what the different "locations" (tags) mean, but I like that approach. Diverge before converging.
             - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
@@ -259,15 +259,15 @@
                 - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
     - #Conversation
         - On self-accruing onboarding material
-            - [@B]([[@[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
+            - [@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
             - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
-            - [@B]([[@[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  
+            - [@B]([[~[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  
             - Hi [@Joel]([[@[[Joel Chan]]]])! I would love to connect sometime to discuss your model.
                 - The biggest addition for me is a `#Notion` tag, which captures something akin to a "fleeting note" that is really just a thought — no immediate evidence or some implied context, but I'm too lazy to develop it into a `#Obs` of `#Syn` note.
-                - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[@[[Brandon Toner]]]])?
+                - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[^[[Brandon Toner]]]])?
     - #Bookmarks
         - "IMO a discourse-centric approach can mitigate these risks"
     - #[[GTD Zone]]

@@ -7,9 +7,9 @@
     3. Try to use the standard set of colors & variables as much as possible!
 - ### Shortcuts::
     - [Colors](((ClLqIfFSn)))
-    - [Tag Styling](((yAzEsiUsx))) ((This needs to be tidied up significantly... ((r1E6gBj56))))
+    - [Tag Styling](((6w_N1hr1k)))
         - [Collections Tags](((JNVnlLDxv))) 
-        - [Notifications & Mentions](((01X6uO5N8)))
+        - [Notifications & Mentions](Notifications & Mentions)
     - [Headings](((nL58k_bhI)))
     - [Page References](((kJ_piMpzy)))
     - [Block References](((xcLgPdvs0)))
@@ -956,10 +956,10 @@ code {
 
 ```
                 - Example: `this is a code block`
-- # **Code:**
-    - ## Elements
-        1. ### Tag Styling #Status/Enabled
-            1. Variables
+- ### **Code:**
+    - Elements
+        - Tags
+            - Variables
                 - ```css
 :root {
   /*
@@ -968,173 +968,76 @@ code {
   */
   --tag-bg-cl-gtd:		var(--cl-blue-500);
 }```
-            2. GTD Tags
-                - Examples
-                    - #INBOX
-                    - #Inbox
-                    - #Projects
-                    - #Goals
-                    - #[[Agenda]]
-                    - #[[Follow Up]]
-                    - #Mindsweep
-                    - #Waiting
-                    - #[[Waiting-[[resolved]]]]
-                    - #Tracking
-                    - #[[Daily Big 3]]
-                    - #[[Plan My Day]]
-                    - #[[Weekly Preview]]
-                    - #[[Next Steps]]
-                    - #[[GTD Zone]]
-                - Code
+            - Top-Section Tags
+                - #[[Community Notes]] [[Roam Collective]]
                     - ```css
-:root {
-  --background: var(--cl-blue-lt-700);
-  --color: var(--cl-white);
-  --padding:2px 5px 2px 5px;
-  --font-size: 13px;
-  --line-height: 1em;
-  --font-weight: 500;
-  --border-radius: 5px 5px 5px 5px;
-  --position:relative; 
+span.rm-page-ref[data-tag="Community Notes"] {
+	background-image: linear-gradient(to right, var(--cl-gray-800),var(--cl-gray-800));
+	background-size: 100%;
+    color: var(--cl-white);
+    padding: 3px 2px 3px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    border-radius: 3px 0 0 3px;
+    position:relative;
 }
 
-span.rm-page-ref[data-tag="GTD Zone"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
+ span.rm-page-ref[data-tag="Community Notes"] + span[data-link-title] {
+     background: var(--cl-gray-400) !important;
+     color: var(--cl-gray-900) !important;
+     padding: 3px 5px 3px 15px;
+     font-size: 13px;
+     line-height: 1em;
+     font-weight: 400;
+     border-radius: 0 3px 3px 0;
+     margin-left: -5px;
 }
 
-span.rm-page-ref[data-tag="GTD Zone"]:before {
-    content: '✅';
+
+span.rm-page-ref[data-tag="Community Notes"]:after, span.rm-page-ref[data-tag="Post"]:before {
+    left: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
 }
 
-span.rm-page-ref[data-tag="INBOX"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
+span.rm-page-ref[data-tag="Community Notes"]:after {
+    border-color: rgba(255,255,255,0);
+    border-left-color: var(--cl-gray-800);
+    border-width: 11px;
+    margin-top: -11px;
 }
 
-span.rm-page-ref[data-tag="INBOX"]:before {
-    content: '📥'
+span.rm-page-ref[data-tag="Community Notes"]:before {
+    border-color: rgba(255,255,255,0);
+    border-left-color: var(--cl-gray-800);
+    border-width: 11px;
+    margin-top: -11px;
+}```
+                - #Announcements
+                    - ```css
+span.rm-page-ref[data-tag="Announcements"] {
+    background: var(--cl-red-600);
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
 }
 
-span.rm-page-ref[data-tag="Inbox"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Inbox"]:before {
-    content: '📥'
-}
-
-span.rm-page-ref[data-tag="Projects"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Projects"]:before {
-    content: '🔨'
-}
-
-span.rm-page-ref[data-tag="Goals"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Goals"]:before {
-    content: '🎯'
-}
-
-span.rm-page-ref[data-tag="Follow Up"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Follow Up"]:before {
-    content: '📌'
-}
-
-span.rm-page-ref[data-tag="Agenda"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Agenda"]:before {
-    content: '🗓'
-}
-
-span.rm-page-ref[data-tag="Mindsweep"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Mindsweep"]:before {
-    content: '🧹'
-}
-
-span.rm-page-ref[data-tag="Waiting"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Waiting"]:before {
-    content: '⏱'
-}
-
-span.rm-page-ref[data-tag="Waiting-[[resolved]]"] {
-    background: #607D8B;
+span.rm-page-ref[data-tag="Announcements"]:before {
+    content: '📢';
+}```
+                - #[[Daily Activities]]
+                    - ```css
+span.rm-page-ref[data-tag="Daily Activities"] {
+    background: #4CAF50;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1144,85 +1047,58 @@ span.rm-page-ref[data-tag="Waiting-[[resolved]]"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Waiting-[[resolved]]"]:before {
-    content: '☑️'
-}
-
-span.rm-page-ref[data-tag="Tracking"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Tracking"]:before {
-    content: '👀'
-}
-
-span.rm-page-ref[data-tag="Daily Big 3"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Daily Big 3"]:before {
-    content: '🚩'
-}
-
-span.rm-page-ref[data-tag="Plan My Day"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Plan My Day"]:before {
-    content: '🎯'
-}
-
-span.rm-page-ref[data-tag="Weekly Preview"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Weekly Preview"]:before {
-    content: '🗓'
-}
-
-span.rm-page-ref[data-tag="Next Steps"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Next Steps"]:before {
-    content: '➡️'
+span.rm-page-ref[data-tag="Daily Activities"]:before {
+    content: '✍🏼'
 }```
-            3. DNP Modules
+                - #[[The Main Feed]]
+                    - ```css
+span.rm-page-ref[data-tag="The Main Feed"] {
+	background: var(--cl-orange-600);
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="The Main Feed"]:before {
+    content: '⭐️'
+}```
+                - #[[Chat]]
+                    - ```css
+span.rm-page-ref[data-tag="Chat"] {
+    background: var(--cl-blue-500);
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Chat"]:before {
+    content: '📢'
+}```
+                - #[[Daily Log]]
+                    - ```css
+span.rm-page-ref[data-tag="Daily Log"] {
+    background: #FF9800;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Daily Log"]:before {
+    content: '📆'
+}```
+            - DNP Modules
                 - #[[My Daily Notes]] [[Your Name]]
                     - ```css
 span.rm-page-ref[data-tag="My Daily Notes"] {
@@ -1272,26 +1148,10 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-width: 11px;
     margin-top: -11px;
 }```
-                - #[[The Zettelkasten]]
-                    - ```css
-span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡';
-}```
                 - #[[Scratchpad]]
                     - ```css
 span.rm-page-ref[data-tag="Scratchpad"] {
-    background: var(--cl-gray-600);
+    background: var(--cl-yellow-800);
     color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1303,6 +1163,22 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
     content: '✏️';
+}```
+                - #Conversation
+                    - ```css
+span.rm-page-ref[data-tag="Conversation"] {
+    background: var(--cl-green-700);
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Conversation"]:before {
+    content: '💬'
 }```
                 - #[[Bookmarks]]
                     - ```css
@@ -1319,6 +1195,38 @@ span.rm-page-ref[data-tag="Bookmarks"] {
 
 span.rm-page-ref[data-tag="Bookmarks"]:before {
     content: '💾';
+}```
+                - #[[Change Log]]
+                    - ```css
+span.rm-page-ref[data-tag="Change Log"] {
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢'
+}```
+                - #[[The Zettelkasten]]
+                    - ```css
+span.rm-page-ref[data-tag="The Zettelkasten"] {
+    background: var(--cl-gray-600);
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="The Zettelkasten"]:before {
+    content: '⚡';
 }```
                 - #Questions
                     - ```css
@@ -1352,54 +1260,6 @@ span.rm-page-ref[data-tag="Promptstorming"] {
 span.rm-page-ref[data-tag="Promptstorming"]:before {
     content: '🌪️';
 }```
-                - #[[Daily Log]]
-                    - ```css
-span.rm-page-ref[data-tag="Daily Log"] {
-    background: #FF9800;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Log"]:before {
-    content: '📆'
-}```
-                - #[[Daily Activities]]
-                    - ```css
-span.rm-page-ref[data-tag="Daily Activities"] {
-    background: #4CAF50;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Activities"]:before {
-    content: '✍🏼'
-}```
-                - #[[The Main Feed]]
-                    - ```css
-span.rm-page-ref[data-tag="The Main Feed"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="The Main Feed"]:before {
-    content: '⭐️'
-}```
                 - #[[Help Wanted]]
                     - ```css
 span.rm-page-ref[data-tag="Help Wanted"] {
@@ -1416,26 +1276,10 @@ span.rm-page-ref[data-tag="Help Wanted"] {
 span.rm-page-ref[data-tag="Help Wanted"]:before {
     content: '😃'
 }```
-                - #[[Change Log]]
+                - #[[Feedback & Questions]]
                     - ```css
-span.rm-page-ref[data-tag="Change Log"] {
-    background: var(--cl-green-900);
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢';
-}```
-                - #Announcements
-                    - ```css
-span.rm-page-ref[data-tag="Announcements"] {
-    background: var(--cl-red-600);
+span.rm-page-ref[data-tag="Feedback & Questions"] {
+    background: var(--cl-purple-900);
     color: var(--cl-white);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1445,13 +1289,15 @@ span.rm-page-ref[data-tag="Announcements"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Announcements"]:before {
+span.rm-page-ref[data-tag="Feedback & Questions"]:before {
     content: '📢';
 }```
-                - #[[Tips & Tricks]]
+                - "#Questions"
+                - "#[[Chat]]"
+                - #[[Dice Roll]]
                     - ```css
-span.rm-page-ref[data-tag="Tips & Tricks"] {
-    background: #4CAF50;
+span.rm-page-ref[data-tag="Dice Roll"] {
+    background: #009688;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -1461,17 +1307,71 @@ span.rm-page-ref[data-tag="Tips & Tricks"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Tips & Tricks"]:before {
-    content: '🔑'
+span.rm-page-ref[data-tag="Dice Roll"]:before {
+    content: '🎲'
 }```
-                - "#Conversation"
-                    - "[[@[[Their Name]]]]"
-                    - "[[cc:[[Their Name]]]]"
-                    - "[[~[[Your Name]]]]"
-                    - "[[^[[Your Name]]]]"
-                - "#Questions"
-                - "#[[Chat]]"
-            4. Note & Zettelkasten Tags
+            - Notifications & Mentions
+                - [[@[[Their Name]]]]
+                    - ```css
+span[data-link-title^="@"] {
+        border: 2px solid #B35555 !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    	line-height: 2em;
+} 
+
+span[data-link-title^="@"]:before {
+    color: #000746 !important;
+    content: "🚨unread ";
+}
+
+span[data-link-title^="@[[Everyone]]"]:before {
+    color: #000746 !important;
+    content: "🚨🚨" !important;
+}```
+                - [[cc:[[Their Name]]]]
+                    - ```css
+span[data-link-title^="cc:"] {
+        border: 2px solid #2196F3 !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="cc:"]:before {
+    color: #000746 !important;
+    content: "📨 ";
+}```
+                - [[~[[Your Name]]]]
+                    - ```css
+span[data-link-title^="~"] {
+        border: 2px solid #02B920 !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    	line-height: 2em;
+} 
+
+span[data-link-title^="~"]:before {
+    color: #000746 !important;
+    content: "✅read "
+}```
+                - [[^[[Your Name]]]]
+                    - ```css
+span[data-link-title^="^"] {
+        border: 2px solid #4CAF50 !important;
+        padding: 3px 6px 3px 7px;
+        margin-right: 1px;
+    line-height: 2em;
+} 
+
+span[data-link-title^="^"]:before {
+    color: #000746 !important;
+    content: "💾saved "
+}```
+                - Code
+                    - ```css
+```
+            - Note & Zettelkasten Tags
                 - #[[Fleeting Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Fleeting Notes"] {
@@ -1517,6 +1417,22 @@ span.rm-page-ref[data-tag="Literature Notes"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
+                - #[[LN]] 
+                    - ```css
+span.rm-page-ref[data-tag="LN"] {
+	background: var(--cl-blue-lt-600);
+    color: #FFFFFF;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+
+
+```
                 - #[[Seedlings]]
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
@@ -1752,7 +1668,7 @@ background: #607D8B68;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #607D8B68, #607D8B68);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #607D8B68, #607D8B68); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }```
-            5. Prepositional Linkages
+            - Prepositional Linkages
                 - #therefore
                     - ```css
 span.rm-page-ref[data-tag="therefore"]:after {
@@ -1765,106 +1681,8 @@ span.rm-page-ref[data-tag="therefore"] {
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
 }```
-            6. Areas Tags
-                - `#[[Administration]]`
-            7. Page & Block Type Tags
-                - `#Articles
-                    - ```css
-span.rm-page-ref[data-tag="Articles"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Articles"]:before {
-    content: '📰'
-}```
-                - `#Books
-                    - ```css
-span.rm-page-ref[data-tag="Books"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Books"]:before {
-    content: '📚'
-}```
-                - `#Experiments
-                    - ```css
-span.rm-page-ref[data-tag="Experiments"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Experiments"]:before {
-    content: '🧪'
-}```
-                - `#Podcasts
-                    - ```css
-span.rm-page-ref[data-tag="Podcasts"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Podcasts"]:before {
-    content: '🎙'
-}```
-                - `#Tweets
-                    - ```css
-span.rm-page-ref[data-tag="Tweets"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tweets"]:before {
-    content: '🐦'
-}```
-                - `#[[Meetings & Discussions]]
-                    - ```css
-span.rm-page-ref[data-tag="Meetings & Discussions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Meetings & Discussions"]:before {
-    content: '👥'
-}```
-                - `#[[I]] (Ideas)
+            - Block-level Tags
+                - #[[I]] (Ideas)
                     - ```css
 span.rm-page-ref[data-tag="I"] {
     background: #607D8B;
@@ -1880,199 +1698,7 @@ span.rm-page-ref[data-tag="I"] {
 span.rm-page-ref[data-tag="I"]:before {
     content: '💡'
 }```
-                - `#[[Prompt Ideas]]
-                    - ```css
-span.rm-page-ref[data-tag="Prompt Ideas"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompt Ideas"]:before {
-    content: '💭'
-}```
-                - `#Outlines
-                    - ```css
-span.rm-page-ref[data-tag="Outlines"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Outlines"]:before {
-    content: '📝'
-}```
-                - `#People
-                    - ```css
-span.rm-page-ref[data-tag="People"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="People"]:before {
-    content: '😃'
-}```
-                - `#Members
-                    - ```css
-span.rm-page-ref[data-tag="Members"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Members"]:before {
-    content: '🔑'
-}```
-                - `#Proverbs
-                    - ```css
-span.rm-page-ref[data-tag="Proverbs"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Proverbs"]:before {
-    content: '💫'
-}```
-                - `#Thoughts
-                    - ```css
-span.rm-page-ref[data-tag="Thoughts"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Thoughts"]:before {
-    content: '💭'
-}```
-                - `#Observations
-                    - ```css
-span.rm-page-ref[data-tag="Observations"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Observations"]:before {
-    content: '👀'
-}```
-                - `#[[Obs]] (Observations)
-                    - ```css
-span.rm-page-ref[data-tag="Obs"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Obs"]:before {
-    content: '👀'
-}```
-                - `#Conventions
-                    - ```css
-span.rm-page-ref[data-tag="Conventions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Conventions"]:before {
-    content: '⚙️'
-}```
-                - `#Processes
-                    - ```css
-span.rm-page-ref[data-tag="Processes"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Processes"]:before {
-    content: '⚙️'
-}```
-                - `#Tips
-                    - ```css
-span.rm-page-ref[data-tag="Tips"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tips"]:before {
-    content: '☝️'
-}```
-                - `#Graph/Templates
-                    - ```css
-span.rm-page-ref[data-tag="Templates"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Templates"]:before {
-    content: '📄'
-}```
-                - `#Q
+                - #Q (Questions)
                     - ```css
 span.rm-page-ref[data-tag="Q"] {
     background: #607D8B;
@@ -2088,7 +1714,7 @@ span.rm-page-ref[data-tag="Q"] {
 span.rm-page-ref[data-tag="Q"]:before {
     content: '❓'
 }```
-                - `#Ans
+                - #Ans (Answers)
                     - ```css
 span.rm-page-ref[data-tag="Ans"] {
     background: #607D8B;
@@ -2103,6 +1729,295 @@ span.rm-page-ref[data-tag="Ans"] {
 
 span.rm-page-ref[data-tag="Ans"]:before {
     content: '✅'
+}```
+                - #[[Obs]] (Observations)
+                    - ```css
+span.rm-page-ref[data-tag="Obs"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Obs"]:before {
+    content: '👀'
+}```
+            - Page-type Tags
+                - #Articles
+                    - ```css
+span.rm-page-ref[data-tag="Articles"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Articles"]:before {
+    content: '📰'
+}```
+                - #Books
+                    - ```css
+span.rm-page-ref[data-tag="Books"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Books"]:before {
+    content: '📚'
+}```
+                - #Experiments
+                    - ```css
+span.rm-page-ref[data-tag="Experiments"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Experiments"]:before {
+    content: '🧪'
+}```
+                - #Podcasts
+                    - ```css
+span.rm-page-ref[data-tag="Podcasts"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Podcasts"]:before {
+    content: '🎙'
+}```
+                - #Tweets
+                    - ```css
+span.rm-page-ref[data-tag="Tweets"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Tweets"]:before {
+    content: '🐦'
+}```
+                - #[[Meetings & Discussions]]
+                    - ```css
+span.rm-page-ref[data-tag="Meetings & Discussions"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Meetings & Discussions"]:before {
+    content: '👥'
+}```
+                - #[[Prompt Ideas]]
+                    - ```css
+span.rm-page-ref[data-tag="Prompt Ideas"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Prompt Ideas"]:before {
+    content: '💭'
+}```
+                - #Outlines
+                    - ```css
+span.rm-page-ref[data-tag="Outlines"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Outlines"]:before {
+    content: '📝'
+}```
+                - #People
+                    - ```css
+span.rm-page-ref[data-tag="People"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="People"]:before {
+    content: '😃'
+}```
+                - #Members
+                    - ```css
+span.rm-page-ref[data-tag="Members"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Members"]:before {
+    content: '🔑'
+}```
+                - #Proverbs
+                    - ```css
+span.rm-page-ref[data-tag="Proverbs"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Proverbs"]:before {
+    content: '💫'
+}```
+                - #[[Tips & Tricks]]
+                    - ```css
+span.rm-page-ref[data-tag="Tips & Tricks"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Tips & Tricks"]:before {
+    content: '🔑'
+}```
+                - #Thoughts
+                    - ```css
+span.rm-page-ref[data-tag="Thoughts"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Thoughts"]:before {
+    content: '💭'
+}```
+                - #Observations
+                    - ```css
+span.rm-page-ref[data-tag="Observations"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Observations"]:before {
+    content: '👀'
+}```
+                - #Conventions
+                    - ```css
+span.rm-page-ref[data-tag="Conventions"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Conventions"]:before {
+    content: '⚙️'
+}```
+                - #Processes
+                    - ```css
+span.rm-page-ref[data-tag="Processes"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Processes"]:before {
+    content: '⚙️'
+}```
+                - #Tips
+                    - ```css
+span.rm-page-ref[data-tag="Tips"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Tips"]:before {
+    content: '☝️'
 }```
                 - Secondary & Experimental
                     - `#Lectures
@@ -2497,72 +2412,173 @@ span.rm-page-ref[data-tag="Weather Report"] {
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
 }```
-            8. Collaboration Tags
-                - ## Notifications & Mentions
-                    - [[@[[Their Name]]]]
-                        - ```css
-span[data-link-title^="@"] {
-        border: 2px solid #B35555 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="@"]:before {
-    color: #000746 !important;
-    content: "🚨unread ";
-}
-
-span[data-link-title^="@[[Everyone]]"]:before {
-    color: #000746 !important;
-    content: "🚨🚨" !important;
-}```
-                    - [[cc:[[Their Name]]]]
-                        - ```css
-span[data-link-title^="cc:"] {
-        border: 2px solid #2196F3 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="cc:"]:before {
-    color: #000746 !important;
-    content: "📨 ";
-}```
-                    - [[~[[Your Name]]]]
-                        - ```css
-span[data-link-title^="~"] {
-        border: 2px solid #02B920 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="~"]:before {
-    color: #000746 !important;
-    content: "✅read "
-}```
-                    - [[^[[Your Name]]]]
-                        - ```css
-span[data-link-title^="^"] {
-        border: 2px solid #4CAF50 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="^"]:before {
-    color: #000746 !important;
-    content: "💾saved "
-}```
+            - GTD Tags
+                - GTD Core Tags
+                    - #INBOX
+                    - #Inbox
+                    - #Projects
+                    - #Goals
+                    - #[[Agenda]]
+                    - #[[Follow Up]]
+                    - #Mindsweep
+                    - #Waiting
+                    - #[[Waiting-[[resolved]]]]
+                    - #Tracking
+                    - #[[Daily Big 3]]
+                    - #[[Plan My Day]]
+                    - #[[Weekly Preview]]
+                    - #[[Next Steps]]
+                    - #[[GTD Zone]]
                     - Code
                         - ```css
-```
-                - #Conversation
-                    - ```css
-span.rm-page-ref[data-tag="Conversation"] {
-    background: #9C27B0;
+:root {
+  --background: var(--cl-gray-600);
+  --color: var(--cl-white);
+  --padding:2px 5px 2px 5px;
+  --font-size: 13px;
+  --line-height: 1em;
+  --font-weight: 500;
+  --border-radius: 5px 5px 5px 5px;
+  --position:relative; 
+}
+
+span.rm-page-ref[data-tag="GTD Zone"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="GTD Zone"]:before {
+    content: '✅';
+}
+
+span.rm-page-ref[data-tag="INBOX"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="INBOX"]:before {
+    content: '📥'
+}
+
+span.rm-page-ref[data-tag="Inbox"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Inbox"]:before {
+    content: '📥'
+}
+
+span.rm-page-ref[data-tag="Projects"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Projects"]:before {
+    content: '🔨'
+}
+
+span.rm-page-ref[data-tag="Goals"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Goals"]:before {
+    content: '🎯'
+}
+
+span.rm-page-ref[data-tag="Follow Up"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Follow Up"]:before {
+    content: '📌'
+}
+
+span.rm-page-ref[data-tag="Agenda"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Agenda"]:before {
+    content: '🗓'
+}
+
+span.rm-page-ref[data-tag="Mindsweep"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Mindsweep"]:before {
+    content: '🧹'
+}
+
+span.rm-page-ref[data-tag="Waiting"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Waiting"]:before {
+    content: '⏱'
+}
+
+span.rm-page-ref[data-tag="Waiting-[[resolved]]"] {
+    background: #607D8B;
     color: #fff;
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -2572,83 +2588,173 @@ span.rm-page-ref[data-tag="Conversation"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Conversation"]:before {
-    content: '💬'
+span.rm-page-ref[data-tag="Waiting-[[resolved]]"]:before {
+    content: '☑️'
+}
+
+span.rm-page-ref[data-tag="Tracking"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Tracking"]:before {
+    content: '👀'
+}
+
+span.rm-page-ref[data-tag="Daily Big 3"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Daily Big 3"]:before {
+    content: '🚩'
+}
+
+span.rm-page-ref[data-tag="Plan My Day"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Plan My Day"]:before {
+    content: '🎯'
+}
+
+span.rm-page-ref[data-tag="Weekly Preview"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Weekly Preview"]:before {
+    content: '🗓'
+}
+
+span.rm-page-ref[data-tag="Next Steps"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Next Steps"]:before {
+    content: '➡️'
 }```
-                - #[[Chat]]
+                - #Todos
                     - ```css
-span.rm-page-ref[data-tag="Chat"] {
-    background: var(--cl-blue-500);
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Todos"] {
+    background: 	var(--cl-yellow-700);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+  	font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
 }
 
-span.rm-page-ref[data-tag="Chat"]:before {
-    content: '📢'
+span.rm-page-ref[data-tag="Todos"]:before {
+    content: '🎯';
 }```
-                - Depreciated
-                    - `#Video`
-                        - ```html
-span.rm-page-ref[data-tag="Video"] {
-	background-image: linear-gradient(to right, #0D71EB,#0D71EB);
-	background-size: 100%;
-    color: white;
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
-}
-
- span.rm-page-ref[data-tag="Video"] + span[data-link-title] {
-     background: white !important;
-     padding: 2px 5px 2px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border: 1px solid #0D71EB;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
-}
-
-
-span.rm-page-ref[data-tag="Video"]:after, span.rm-page-ref[data-tag="Video"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
-}
-
-span.rm-page-ref[data-tag="Video"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: #0D71EB;
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-span.rm-page-ref[data-tag="Video"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: #0D71EB;
-    border-width: 11px;
-    margin-top: -11px;
-}
-
-
-
-
-```
-                    - `#[[Dice Roll]]
+            - Feedback Tags
+                - #Feedback
+                    - #[[[[Feedback]]: What's working]]
+                    - #[[[[Feedback]]: What could be better]]
+                    - #[[[[Feedback]]: [[Suggestions]]]]
+                    - Code
                         - ```css
-span.rm-page-ref[data-tag="Dice Roll"] {
+:root {
+  --color:#FFFFFF;
+  --padding:2px 5px 2px 5px;
+  --font-size: 13px;
+  --line-height: 1em;
+  --font-weight: 500;
+  --border-radius: 5px 5px 5px 5px;
+  --position:relative;
+  
+}
+
+span.rm-page-ref[data-tag="Feedback"] {
+    background: #009688;
+    color: #fff;
+    padding: var(--padding);
+    line-height: 1em;
+    font-weight: 500;
+  	border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Feedback"]:before {
+    content: '📣'
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: What's working"] {
+    background: #609a62;
+    color: #FFFFFF;
+    padding: 3px 8px;
+    line-height: 1em;
+    font-weight: 500;
+  	border-radius: 5px 5px 5px 5px;
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: What's working"]:before {
+    content: '📣😃'
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: What could be better"] {
+    background: #6775c3;
+    color: #FFFFFF;
+    padding: 3px 8px;
+    line-height: 1em;
+    font-weight: 500;
+  	border-radius: 5px 5px 5px 5px;
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: What could be better"]:before {
+    content: '📣😕'
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"] {
+    background: #0b8bc5;
+    color: #FFFFFF;
+    padding: 3px 8px;
+    line-height: 1em;
+    font-weight: 500;
+  	border-radius: 5px 5px 5px 5px;
+}
+
+span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"]:before {
+    content: '📣💬'
+}```
+                - #[[Bug Reports]]
+                    - ```css
+span.rm-page-ref[data-tag="Bug Reports"] {
     background: #009688;
     color: #fff;
     padding: 2px 5px 2px 5px;
@@ -2659,9 +2765,573 @@ span.rm-page-ref[data-tag="Dice Roll"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Dice Roll"]:before {
+span.rm-page-ref[data-tag="Bug Reports"]:before {
+    content: '🐛 '
+}
+```
+                - #[[Roam Enhancement Requests]]
+                    - ```css
+span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
+    content: '🚀 '
+}```
+            - Processing Tags
+                - `#[[Housekeeping]]
+                    - ```css
+span.rm-page-ref[data-tag="Housekeeping"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Housekeeping"]:before {
+    content: '🧹'
+}```
+                - `#SRS
+                    - ```css
+span.rm-page-ref[data-tag="SRS"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="SRS"]:before {
+    content: '🔁'
+}```
+                - `#[[grab-attachment]]
+                    - ```css
+span.rm-page-ref[data-tag="grab-attachment"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="grab-attachment"]:before {
+    content: '📎'
+}```
+                - `#[[connect-to]]
+                    - ```css
+span.rm-page-ref[data-tag="connect-to"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="connect-to"]:before {
+    content: '🔗'
+}```
+                - `#[[find-connections]]
+                    - ```css
+span.rm-page-ref[data-tag="find-connections"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="find-connections"]:before {
+    content: '👀'
+}```
+                - `#find-reference
+                    - ```css
+span.rm-page-ref[data-tag="find-reference"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="find-reference"]:before {
+    content: '🔍'
+}```
+                - `#[[how-should-I-tag-this]]
+                    - ```css
+span.rm-page-ref[data-tag="how-should-I-tag-this"] {
+    background: #009688;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
+    content: '❔'
+}```
+            - Highlight Tags
+                - #Highlights
+                    - ```css
+span.rm-page-ref[data-tag="Highlights"] {
+    background: #FFC107;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Highlights"]:before {
+    content: ''
+}```
+                - #[[My Wins]]
+                    - ```css
+span.rm-page-ref[data-tag="My Wins"] {
+    background: #4CAF50;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="My Wins"]:before {
+    content: '🏆'
+}```
+                - #[[Key Concepts]]
+                    - ```css
+span.rm-page-ref[data-tag="Key Concepts"] {
+    background: #4CAF50;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Key Concepts"]:before {
+    content: '🗝'
+}```
+                - #[[Random Review]]
+                    - ```css
+span.rm-page-ref[data-tag="Random Review"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Random Review"]:before {
     content: '🎲'
 }```
+            - Journaling Tags
+                - `#[[Reflection]]
+                    - ```css
+span.rm-page-ref[data-tag="Reflection"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Reflection"]:before {
+    content: '💬'
+}```
+                - `#[[Today I Learned]]
+                    - ```css
+span.rm-page-ref[data-tag="Today I Learned"] {
+    background: #9C27B0;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Today I Learned"]:before {
+    content: '⚡️'
+}```
+                - `#[[Morning Journal]]
+                    - ```css
+span.rm-page-ref[data-tag="Morning Journal"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Morning Journal"]:before {
+    content: '🌞'
+}```
+                - `#[[Evening Journal]]
+                    - ```css
+span.rm-page-ref[data-tag="Evening Journal"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Evening Journal"]:before {
+    content: '🌛'
+}```
+            - Status Tags
+                - Examples
+                    - #[[Status/Idea]]
+                        - ```css
+```
+                    - #[[Status/Active]]
+                        - ```css
+```
+                    - #Status/On-Hold
+                        - ```css
+```
+                    - #[[Status/Dropped]]
+                        - ```css
+```
+                    - #Status/Enabled
+                        - ```css
+```
+                    - #Status/Inactive
+                        - ```css
+```
+                    - #Status/Submitted
+                        - ```css
+```
+                    - #Status/Completed
+                        - ```css
+```
+                    - #Status/Deactivated
+                        - ```css
+```
+                    - #[[Status/Someday|Maybe]]
+                        - ```css
+```
+                    - #[[Status/Not Completed]]
+                        - ```css
+```
+                - Code
+                    - ```css
+:root {
+  --status-padding: 1px 1px 1px 1px;
+}
+
+span.rm-page-ref[data-tag="Status/Sent"] {
+    background: #03A9F4;
+    color: #fff;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Resolved"] {
+    background: #8BC34A;
+    color: #fff;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Closed"] {
+    background: #000000;
+    color: #fff;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Completed"] {
+    color: #4CAF50;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Incomplete"] {
+    color: #607D8B;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Waiting-For"] {
+    color: #795548;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/On-Hold"] {
+    color: #6A6A6A;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Dropped"] {
+    color: #C30D00;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Active"] {
+    color: #2196F3;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Approved"] {
+    color: #4CAF50;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Someday|Maybe"] {
+    color: #467C96;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Not-Completed, Carried"] {
+    color: #FF9800;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Status/Enabled"] {
+    color: #4CAF50;
+    padding: var(--status-padding);
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+            - Miscellaneous
+                - `#[[Quick Capture]]
+                    - ```css
+span.rm-page-ref[data-tag="Quick Capture"] {
+    background: #9E9E9E;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Quick Capture"]:before {
+    content: '📱'
+}```
+                - `#Problems
+                    - ```css
+span.rm-page-ref[data-tag="Problems"] {
+    background: #C52D22;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
+            - Experimental
+                - `#Quote (inline block ref)
+                    - ```css
+span.rm-page-ref[data-tag="Quote"] {
+    background: #607D8B !important;
+    color: rgb(255,255,255) !important;
+    padding: 1px 5px;
+ 	font-size: 13px;
+    line-height: 1em;
+    font-weight: 600;
+  	border-radius: 4px 4px 4px 20px;
+}
+
+
+span.rm-page-ref[data-tag="Quote"]:before {
+    content: '✦'
+}
+```
+                - [Personas](https://www.rodrigofranco.com/roam-personas-css.html) #Experiments
+                    - Examples
+                        - #[[P:Self]] Inner Self Talk
+                        - #[[P:Loving]] Love thyself
+                        - #[[P:Critic]] Hard on yourself
+                    - Code
+                        - ```css
+/***************/
+/** personas **/
+/**************/
+
+[data-tag="P:Self"]{
+  background: #DFDDD5;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color:black;
+}
+
+[data-tag="P:Loving"]{
+  background: #e2d0cb;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 8px;
+  color:red;
+}
+
+[data-tag="P:Critic"]{
+  background: #C4CBB7;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 10px;
+  color: brown;
+}
+
+[data-tag="P:Self"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #DFDDD5;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Loving"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #e2d0cb;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}
+
+[data-tag="P:Critic"]:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-left-color: #C4CBB7;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -8px;
+	margin-right: -10px;
+}```
+            - Archived & Deprecated
+                - Depreciated
                     - #Polls
                         - ```css
 span.rm-page-ref[data-tag="Polls"] {
@@ -2948,656 +3618,6 @@ span.rm-page-ref[data-tag="Chat"]:before {
 }
 */
 ```
-            9. Feedback Tags
-                - #Feedback
-                    - #[[[[Feedback]]: What's working]]
-                    - #[[[[Feedback]]: What could be better]]
-                    - #[[[[Feedback]]: [[Suggestions]]]]
-                    - Code
-                        - ```css
-:root {
-  --color:#FFFFFF;
-  --padding:2px 5px 2px 5px;
-  --font-size: 13px;
-  --line-height: 1em;
-  --font-weight: 500;
-  --border-radius: 5px 5px 5px 5px;
-  --position:relative;
-  
-}
-
-span.rm-page-ref[data-tag="Feedback"] {
-    background: #009688;
-    color: #fff;
-    padding: var(--padding);
-    line-height: 1em;
-    font-weight: 500;
-  	border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Feedback"]:before {
-    content: '📣'
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: What's working"] {
-    background: #609a62;
-    color: #FFFFFF;
-    padding: 3px 8px;
-    line-height: 1em;
-    font-weight: 500;
-  	border-radius: 5px 5px 5px 5px;
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: What's working"]:before {
-    content: '📣😃'
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: What could be better"] {
-    background: #6775c3;
-    color: #FFFFFF;
-    padding: 3px 8px;
-    line-height: 1em;
-    font-weight: 500;
-  	border-radius: 5px 5px 5px 5px;
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: What could be better"]:before {
-    content: '📣😕'
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"] {
-    background: #0b8bc5;
-    color: #FFFFFF;
-    padding: 3px 8px;
-    line-height: 1em;
-    font-weight: 500;
-  	border-radius: 5px 5px 5px 5px;
-}
-
-span.rm-page-ref[data-tag="[[Feedback]]: [[Suggestions]]"]:before {
-    content: '📣💬'
-}```
-                - #[[Bug Reports]]
-                    - ```css
-span.rm-page-ref[data-tag="Bug Reports"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Bug Reports"]:before {
-    content: '🐛 '
-}
-```
-                - #[[Roam Enhancement Requests]]
-                    - ```css
-span.rm-page-ref[data-tag="Roam Enhancement Requests"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Roam Enhancement Requests"]:before {
-    content: '🚀 '
-}```
-            10. Processing Tags
-                - `#[[Housekeeping]]
-                    - ```css
-span.rm-page-ref[data-tag="Housekeeping"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Housekeeping"]:before {
-    content: '🧹'
-}```
-                - `#SRS
-                    - ```css
-span.rm-page-ref[data-tag="SRS"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="SRS"]:before {
-    content: '🔁'
-}```
-                - `#[[grab-attachment]]
-                    - ```css
-span.rm-page-ref[data-tag="grab-attachment"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="grab-attachment"]:before {
-    content: '📎'
-}```
-                - `#[[connect-to]]
-                    - ```css
-span.rm-page-ref[data-tag="connect-to"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="connect-to"]:before {
-    content: '🔗'
-}```
-                - `#[[find-connections]]
-                    - ```css
-span.rm-page-ref[data-tag="find-connections"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="find-connections"]:before {
-    content: '👀'
-}```
-                - `#find-reference
-                    - ```css
-span.rm-page-ref[data-tag="find-reference"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="find-reference"]:before {
-    content: '🔍'
-}```
-                - `#[[how-should-I-tag-this]]
-                    - ```css
-span.rm-page-ref[data-tag="how-should-I-tag-this"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="how-should-I-tag-this"]:before {
-    content: '❔'
-}```
-            11. Highlight Tags
-                - #Highlights
-                    - ```css
-span.rm-page-ref[data-tag="Highlights"] {
-    background: #FFC107;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Highlights"]:before {
-    content: ''
-}```
-                - #[[My Wins]]
-                    - ```css
-span.rm-page-ref[data-tag="My Wins"] {
-    background: #4CAF50;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="My Wins"]:before {
-    content: '🏆'
-}```
-                - #[[Key Concepts]]
-                    - ```css
-span.rm-page-ref[data-tag="Key Concepts"] {
-    background: #4CAF50;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Key Concepts"]:before {
-    content: '🗝'
-}```
-                - #[[Random Review]]
-                    - ```css
-span.rm-page-ref[data-tag="Random Review"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Random Review"]:before {
-    content: '🎲'
-}```
-            12. Journaling Tags
-                - `#[[Reflection]]
-                    - ```css
-span.rm-page-ref[data-tag="Reflection"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Reflection"]:before {
-    content: '💬'
-}```
-                - `#[[Today I Learned]]
-                    - ```css
-span.rm-page-ref[data-tag="Today I Learned"] {
-    background: #9C27B0;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Today I Learned"]:before {
-    content: '⚡️'
-}```
-                - `#[[Morning Journal]]
-                    - ```css
-span.rm-page-ref[data-tag="Morning Journal"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Morning Journal"]:before {
-    content: '🌞'
-}```
-                - `#[[Evening Journal]]
-                    - ```css
-span.rm-page-ref[data-tag="Evening Journal"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Evening Journal"]:before {
-    content: '🌛'
-}```
-            13. Status Tags
-                - Examples
-                    - #[[Status/Idea]]
-                        - ```css
-```
-                    - #[[Status/Active]]
-                        - ```css
-```
-                    - #Status/On-Hold
-                        - ```css
-```
-                    - #[[Status/Dropped]]
-                        - ```css
-```
-                    - #Status/Enabled
-                        - ```css
-```
-                    - #Status/Inactive
-                        - ```css
-```
-                    - #Status/Submitted
-                        - ```css
-```
-                    - #Status/Completed
-                        - ```css
-```
-                    - #Status/Deactivated
-                        - ```css
-```
-                    - #[[Status/Someday|Maybe]]
-                        - ```css
-```
-                    - #[[Status/Not Completed]]
-                        - ```css
-```
-                - Code
-                    - ```css
-:root {
-  --status-padding: 1px 1px 1px 1px;
-}
-
-span.rm-page-ref[data-tag="Status/Sent"] {
-    background: #03A9F4;
-    color: #fff;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Resolved"] {
-    background: #8BC34A;
-    color: #fff;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Closed"] {
-    background: #000000;
-    color: #fff;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Completed"] {
-    color: #4CAF50;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Incomplete"] {
-    color: #607D8B;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Waiting-For"] {
-    color: #795548;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/On-Hold"] {
-    color: #6A6A6A;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Dropped"] {
-    color: #C30D00;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Active"] {
-    color: #2196F3;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Approved"] {
-    color: #4CAF50;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Someday|Maybe"] {
-    color: #467C96;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Not-Completed, Carried"] {
-    color: #FF9800;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Status/Enabled"] {
-    background: #4CAF50;
-    color: #fff;
-    padding: var(--status-padding);
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            14. Miscellaneous
-                - `#[[Quick Capture]]
-                    - ```css
-span.rm-page-ref[data-tag="Quick Capture"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Quick Capture"]:before {
-    content: '📱'
-}```
-                - `#Problems
-                    - ```css
-span.rm-page-ref[data-tag="Problems"] {
-    background: #C52D22;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-            15. Experimental
-                - `#Quote (inline block ref)
-                    - ```css
-span.rm-page-ref[data-tag="Quote"] {
-    background: #607D8B !important;
-    color: rgb(255,255,255) !important;
-    padding: 1px 5px;
- 	font-size: 13px;
-    line-height: 1em;
-    font-weight: 600;
-  	border-radius: 4px 4px 4px 20px;
-}
-
-
-span.rm-page-ref[data-tag="Quote"]:before {
-    content: '✦'
-}
-```
-                - [Personas](https://www.rodrigofranco.com/roam-personas-css.html) #Experiments
-                    - Examples
-                        - #[[P:Self]] Inner Self Talk
-                        - #[[P:Loving]] Love thyself
-                        - #[[P:Critic]] Hard on yourself
-                    - Code
-                        - ```css
-/***************/
-/** personas **/
-/**************/
-
-[data-tag="P:Self"]{
-  background: #DFDDD5;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color:black;
-}
-
-[data-tag="P:Loving"]{
-  background: #e2d0cb;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 8px;
-  color:red;
-}
-
-[data-tag="P:Critic"]{
-  background: #C4CBB7;
-  padding: 3px 10px 3px 10px;
-  border-radius: 5px;
-  position: relative;
-  margin-right: 10px;
-  color: brown;
-}
-
-[data-tag="P:Self"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #DFDDD5;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Loving"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #e2d0cb;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}
-
-[data-tag="P:Critic"]:after {
-	content: '';
-	position: absolute;
-	right: 0;
-	top: 50%;
-	width: 0;
-	height: 0;
-	border: 10px solid transparent;
-	border-left-color: #C4CBB7;
-	border-right: 0;
-	border-bottom: 0;
-	margin-top: -8px;
-	margin-right: -10px;
-}```
-            16. Archived & Deprecated
                 - `#Resolved`
                     - ```css
 span.rm-page-ref[data-tag="Resolved"] {
@@ -4449,10 +4469,11 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     line-height: 2em;
     font-weight: 500;
 }```
-        2. Buttons & Word Count #Status/Enabled
-            - Example: {{word-count}}
-            - Code
-                - ```css
+        - User Interface
+            - Buttons & Word Count #Status/Enabled
+                - Example: {{word-count}}
+                - Code
+                    - ```css
 /* Buttons in Block Text */
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]),
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):focus,
@@ -4485,27 +4506,27 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
 	padding: 2px 4px 2px 4px; 
 	min-height: 0px;
 }```
-        3. Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) #Status/Enabled
-            - ```css
+            - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) #Status/Enabled
+                - ```css
 
 .roam-block-container  div.roam-block-container {
-box-shadow: -2px 0px #BFCCD6);
+box-shadow: -2px 0px var(--cl-gray-600));
 transition: box-shadow 1s;
 }
 
 .roam-block-container div.roam-block-container:hover {
-box-shadow: -0.5px 0px #666666;
+box-shadow: -0.5px 0px var(--cl-gray-800);
 transition:  box-shadow 0.5s;
 }
 
 .roam-block-container:focus-within > .rm-block-main > div:nth-child(1) 
 .rm-bullet .rm-bullet__inner  
 {
-background-color: #000000;
+background-color: var(--cl-black);
 }```
-        4. Query Display Options #Status/Enabled
-            - Code
-                - ```css
+            - Query Display Options #Status/Enabled
+                - Code
+                    - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
 before the beginning of your query (in the same block):
 
@@ -4558,13 +4579,54 @@ display:none!important; /* hide page reference (title) */
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }```
-        5. Headings #Status/Enabled
-            - Preview
-                - # Heading 1
-                    - ## Heading 2
-                        - ### Heading 3
-            - Settings
+            - Prevent right sidebar title from jumping around when editing #Status/Enabled
                 - ```css
+
+#right-sidebar .rm-title-textarea {
+    width: 95%;
+}```
+            - Show Main Page multibar #Status/Enabled
+                - This is to stop people (read: me :P ) from accidentally clicking on the bar
+                - ```css
+
+.rm-level-0>.rm-multibar {
+    opacity: .3;
+  	border-right: 1px dashed #BFCCD6, .2) !important;
+}
+.rm-level-0>.rm-multibar:hover {
+    border-right: 3px solid #5C7080, .5);
+}```
+            - Left Sidebar — Highlight important pages #Status/Enabled
+                - ```css
+
+.starred-pages a[href*="MorTyZR-2"]>.page,
+.starred-pages a[href*="sQPmakIfe"]>.page,
+.starred-pages a[href*="TxsV9GIET"]>.page
+{
+  color: #FFCF40 !important;
+}
+
+.starred-pages a[href*="S04orQeHK"]>.page,
+.starred-pages a[href*="9QGedI_a3"]>.page,
+.starred-pages a[href*="vxKXH9a0r"]>.page
+{
+  color: #2196F3 !important;
+}
+
+.starred-pages a[href*="ohDe4FbVt"]>.page,
+.starred-pages a[href*="7CWEj1_kU"]>.page,
+.starred-pages a[href*="7y86LvOF6"]>.page
+{
+  color: #9E9E9E !important;
+}```
+        - Content
+            - Headings #Status/Enabled
+                - Preview
+                    - # Heading 1
+                        - ## Heading 2
+                            - ### Heading 3
+                - Settings
+                    - ```css
 :root {
   --fnt-page-title: 		/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
   --fnt-h1:       			/*-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif*/;
@@ -4581,8 +4643,8 @@ display:none!important; /* hide page reference (title) */
   --fnt-weight-h2:			500;
   --fnt-weight-h3:			500;
 }```
-            - Headings
-                - ```css
+                - Headings
+                    - ```css
 h1.level2,
 .rm-level2, 
 .rm-heading-level-2 > .rm-block__self .rm-block__input {
@@ -4631,8 +4693,8 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-        6. Page References #Status/Enabled
-            - ```css
+            - Page References #Status/Enabled
+                - ```css
 .rm-page-ref-link-color {
     color: var(--cl-blue-500);
     font-weight: 400;
@@ -4641,13 +4703,13 @@ h1.level2,
 a {
     color: var(--cl-blue-500);
 }```
-        7. Page Reference Brackets
-            - ```ruby
+            - Page Reference Brackets
+                - ```ruby
 .rm-page-ref__brackets{
   display:none;
 }```
-        8. Block Reference styling #Status/Enabled
-            - ```css
+            - Block Reference styling #Status/Enabled
+                - ```css
 /*Block Reference formatting*/
 
 .rm-block-ref {
@@ -4657,12 +4719,12 @@ a {
   	text-decoration: underline;
   	text-decoration-color: #FF9800; */
 }```
-        9. Page Reference Underlines & Nested Links #Status/Enabled
-            - Example
-                - [[Evergreens/active vs passive resurfacing]]
-            - Code
-                - V3
-                    - ```css
+            - Page Reference Underlines & Nested Links #Status/Enabled
+                - Example
+                    - [[Evergreens/active vs passive resurfacing]]
+                - Code
+                    - V3
+                        - ```css
 :root {
   --fg-reference-underline: #136BA2;
   --fg-reference-underline-hover: #136BA2;
@@ -4722,9 +4784,9 @@ a {
     text-decoration: none;
     padding-bottom: 0px;
 }```
-        10. External Links #Status/Enabled
-            - V1
-                - ```css
+            - External Links #Status/Enabled
+                - V1
+                    - ```css
 .rm-alias--external {
   color: var(--fg-link);
 }
@@ -4744,8 +4806,8 @@ a {
   text-decoration: none!important;
   border-bottom: 1px solid;
 }```
-        11. Alias Styling 
-            - ```clojure
+            - Alias Styling 
+                - ```clojure
 .rm-alias.rm-alias-page {
   	color: #0884ff ;
   	font-weight: 600;
@@ -4764,53 +4826,45 @@ a {
   	color: rgb(17,153,55) ;
   	font-weight: 600;
 }```
-        12. Prevent right sidebar title from jumping around when editing #Status/Enabled
-            - ```css
-
-#right-sidebar .rm-title-textarea {
-    width: 95%;
-}```
-        13. Left Sidebar — Highlight important pages #Status/Enabled
-            - ```css
-
-.starred-pages a[href*="MorTyZR-2"]>.page,
-.starred-pages a[href*="sQPmakIfe"]>.page,
-.starred-pages a[href*="TxsV9GIET"]>.page
-{
-  color: #4CAF50 !important;
+            - Spacing
+                - Spacing using `#ubrk` (up break) & `#dbrk` (down break)
+                    - ```css
+[data-page-links="dbrk"] > .rm-block-main { 
+    margin-bottom: 1em !important;
 }
 
-.starred-pages a[href*="S04orQeHK"]>.page,
-.starred-pages a[href*="9QGedI_a3"]>.page,
-.starred-pages a[href*="vxKXH9a0r"]>.page
-{
-  color: #2196F3 !important;
+span.rm-page-ref[data-tag="dbrk"] {
+  display: none;
 }
 
-.starred-pages a[href*="ohDe4FbVt"]>.page,
-.starred-pages a[href*="7CWEj1_kU"]>.page,
-.starred-pages a[href*="7y86LvOF6"]>.page
-{
-  color: #9C27B0 !important;
-}```
-        14. Show Main Page multibar #Status/Enabled
-            - This is to stop people (read: me :P ) from accidentally clicking on the bar
-            - ```css
-
-.rm-level-0>.rm-multibar {
-    opacity: .3;
-  	border-right: 1px dashed #BFCCD6, .2) !important;
+[data-page-links*="ubrk"] > .rm-block-main { 
+    margin-top: .25em !important;
 }
-.rm-level-0>.rm-multibar:hover {
-    border-right: 3px solid #5C7080, .5);
+
+span.rm-page-ref[data-tag="ubrk"] {
+  display: none;
 }```
-    - ### Patch Fixes
+            - Block Highlightings
+                - Block Highlights
+                    - `#blk-gray` #blk-gray
+                        - ```css
+[data-page-links*="blk-gray"] > .rm-block-main {
+    /* color: #383d41; */
+    background-color: var(--cl-gray-200);
+    border: .5px dashed var(--cl-gray-400); 
+    /*margin-bottom: 5px;*/
+}
+
+span.rm-page-ref[data-tag="blk-gray"] {
+  display: none;
+}```
+    - Patch Fixes
         - Fix for orange blocks ((Unsure purpose - BT))
             - ```css
 #find-or-create-input {
    outline: none!important;
 }```
-    - ### Archive
+    - Archive
         - Left side-bar 
             - ```ruby
 /* Left Sidebar reformatting */

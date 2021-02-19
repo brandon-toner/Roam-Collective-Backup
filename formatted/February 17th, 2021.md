@@ -140,7 +140,7 @@
             - **[Source](<Source.md>):** https://catominor3.medium.com/roam-with-style-8a18c216d338
         - [Q](<Q.md>) How might a [CSS](<CSS.md>) page be laid out to improve navigation and collaboration? 
             - [Q](<Q.md>) Is there a [standard](<standard.md>) layout for a [CSS](<CSS.md>) page in Roam? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Matthew Vogel](<@[[Matthew Vogel.md>)]])
-        - [Obs](<Obs.md>) The page ID for the [Welcome 😃](<Welcome 😃.md>) page spells "Morty"
+        - [Obs](<Obs.md>) The page ID for the [Welcome](<Welcome.md>) page spells "Morty"
             - **[Images](<Images.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlO0dipVaDj.png?alt=media&token=ebc77d40-2bbf-487f-81c8-3f318dbc8861)
             - [I](<I.md>) So naturally [Morty](<Morty.md>) is graph greeter / mascot.
@@ -209,7 +209,7 @@
                 - This is perfect!
             - "You could pair this with some fancy [therefore](<therefore.md>) css..."
                 - This is FIRE!
-            - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
+            - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `[Fleeting](<Fleeting.md>)  Notes` to be more subtle....
                     - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
     - #[Change Log](<Change Log.md>) 
@@ -221,7 +221,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
-        - On Graph [CSS](<CSS.md>) settings [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+        - On Graph [CSS](<CSS.md>) settings [°]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
                 - CSS block with color variables → see: "Red"
                 - CSS block with variables for specific features → see: "Tags"
@@ -232,10 +232,10 @@
                 - By creating and using [variables](<variables.md>), you limit the complexity and allow for easily updating the graph. For instance, all you need to do to change the shade of red is to change all of the `--cl-red-x00` variables, or to change all of the standard tags, edit the `--bg-tag` variable.
                     - Good [example]([Example](<Example.md>)) of [modularity](<modularity.md>) and the power of [abstractions](<abstractions.md>)
         - Simple Replies
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
                 - Re: "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
                     - If I were to rephrase this (using my css), it would look like...
                     - [Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
@@ -249,7 +249,7 @@
                             - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
                                 - See: Version 2
                     - #[FN](<FN.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
                 - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Update color scheme with better shades of blue and green

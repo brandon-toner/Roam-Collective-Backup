@@ -13,7 +13,7 @@
                 - Populating a [directory](<directory.md>) of [Roam Games](<Roam Games.md>) submissions, projects, and contributors.
                     - Will eventually live within [Roaman Agora](<Roaman Agora.md>)
                 - Building "[Roaman Agora](<Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
-                - Integrating [Roam Inter](<Roam Inter.md>) into [Roaman Agora](<Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
+                - Integrating [roam-inter](<roam-inter.md>) into [Roaman Agora](<Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC.
             - "**Brandon:** Populated epic [description and vision statements](((owNcyPWbT)))."
@@ -48,7 +48,6 @@
                 - Establish CSS color strategy with easy adjustment in centralized location.
         - Zettelkasten conventions
         - Agile Development
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC." {{or:[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]]}}
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) ["Twitter acct"](((DweiIynrD))) 
@@ -85,7 +84,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
                         - Let's get started. Open the GTF panel below
                         - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
                             - [ ] Create your own personal page, by placing your name at the top of your daily notes.
-                            - [ ] Follow [these instructions](((6202Hd2VO))) to make your own page.
+                            - [ ] Follow [these instructions](Build your bio page ) to make your own page.
                     - ---
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPKbObbdUH-.png?alt=media&token=fecaee1b-272a-4884-a10d-586487011f70)
         - [I](<I.md>) [Anarchic Manufacturing](<Anarchic Manufacturing.md>) as  a mental model to describe the operation of [Roam-Collective](<Roam-Collective.md>)
@@ -96,17 +95,17 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
     - [Conversation](<Conversation.md>) 
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) Check [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe?hl=en) out! So cool! 
+        - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) Check [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe?hl=en) out! So cool! 
             - I chatted with the developer about roam games as his extension queries all the info that it's required for the dependency deduction.
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [cc:C]([~[[Charles Farr](<~[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
+        - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [cc:C]([~[[Charles Farr](<~[[Charles Farr.md>)]])The page did not look like [this](((09YoL_11j))) when I made it. Check again.
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FnwP5m055Tl.png?alt=media&token=e500f159-46a5-4dfe-b670-b93f0d5d108a)
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [This is cool](((yez0IRTC_))), but it's just as easy and less verbose to edit if you write it as {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
 `[@[[Everyone](<[Everyone.md>)]([@[[Peter Rosso](<@[[Peter Rosso.md>)]],[@[[Everyone](<@[[Everyone.md>)]],[@[[Charles Farr](<@[[Charles Farr.md>)]],[~[[Brandon Toner](<~[[Brandon Toner.md>)]],[@[[leekeifon](<@[[leekeifon.md>)]],[@[[Larissa de Lima](<@[[Larissa de Lima.md>))`
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@C]([^[[Charles Farr](<^[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
+        - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@C]([^[[Charles Farr](<^[[Charles Farr.md>)]]) This is far more articulated than what we said on the call. Loving it. If the process brings them to answer a personal question or creating their first evergreen notes it would increase their sense of self esteem. ((Get those endorphins running am I right?)) [...]
             - What if we structured it in sessions. These sessions are todos in the DNP so that people can add things like the examples that you guys gave as todos in their personal section. 
             - Also, we could create a DNP called welcome? that has a welcome message and points people to the right resources in the right order. This feels redundant but thought I'd write it anyways. 
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On "recovering Twitter account"](((cNxFQnwKF))) Good luck it may take ages and they might want money for it. It's worth asking and hopes good people. Additionally, you can always change your Twitter handle. As long as people don't write it on paper or on websites we can start populating one with crazy content.
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On Maps of Meaning](((6Lx8NA4n_))) There is also a book!
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On "recovering Twitter account"](((cNxFQnwKF))) Good luck it may take ages and they might want money for it. It's worth asking and hopes good people. Additionally, you can always change your Twitter handle. As long as people don't write it on paper or on websites we can start populating one with crazy content.
+        - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On Maps of Meaning](((6Lx8NA4n_))) There is also a book!
     - [Feedback](<Feedback.md>) 
         - I like the funky look of the drop down menus.
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)

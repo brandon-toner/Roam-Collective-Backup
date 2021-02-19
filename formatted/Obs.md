@@ -3,5 +3,5 @@
 
 # Backlinks
 ## [roam/css](<roam/css.md>)
-- `#[Obs](<Obs.md>)
+- #[Obs](<Obs.md>)
 

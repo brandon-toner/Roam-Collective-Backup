@@ -57,6 +57,9 @@
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
 - **[Tags](<Tags.md>):**
 
+## [Beyond the Basics](<Beyond the Basics.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):**
 
@@ -191,7 +194,7 @@
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - **[Tags](<Tags.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Tags](<Tags.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -266,22 +269,22 @@
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Tags](<Tags.md>):**
 
-- .rc3PRSNL — Personal Page [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+- .rcYOU — Personal Page [42SmartBlock](<42SmartBlock.md>)
             - **[Tags](<Tags.md>):**
 
-- .rc2PRJ — Projects Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+- .rcPRJ — Projects Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
             - **[Tags](<Tags.md>):**
 
-- .rc3REF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+- .rcREF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
             - **[Tags](<Tags.md>):**
 
-- .rc3CRT — Creative Project Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+- .rcCRT — Creative Project Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
             - **[Tags](<Tags.md>):**
 
-- .rc3SPR — Sprints Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+- .rcSPR — Sprints Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
             - **[Tags](<Tags.md>):**
 
-- .rc3EPC — Epics Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
+- .rcEPC — Epics Template [42SmartBlock](<42SmartBlock.md>) #[roam/templates](<roam/templates.md>)
             - **[Tags](<Tags.md>):**
 
 - .rcEVN — Evergreen Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
@@ -596,6 +599,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [block references](<block references.md>)
+- **[Tags](<Tags.md>):**
+
+## [block-level tags](<block-level tags.md>)
 - **[Tags](<Tags.md>):**
 
 ## [chat](<chat.md>)

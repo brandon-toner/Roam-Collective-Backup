@@ -36,6 +36,9 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
@@ -77,8 +80,6 @@
 
 14. [x] Establish a "[Daily Activities](<Daily Activities.md>)"
 
-5. "Answer the [Daily Activities](<Daily Activities.md>)
-
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
@@ -102,9 +103,6 @@
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
-
-## [Quick Start Guide](<Quick Start Guide.md>)
-8. Answer the [Daily Activities](<Daily Activities.md>)
 
 ## [roam/css](<roam/css.md>)
 - #[Daily Activities](<Daily Activities.md>)

@@ -68,9 +68,6 @@
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
-## [Quick Start Guide](<Quick Start Guide.md>)
-- [Mark Robertson](<Mark Robertson.md>)
-
 ## [chat](<chat.md>)
 - "11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>)
 

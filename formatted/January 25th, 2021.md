@@ -5,7 +5,7 @@
         - Missing CSS
         - Announcements section looks weird
         - Unable to add blocks in some places
-    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome 😃](<Welcome 😃.md>)). 
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
     - **[Objectives](<Objectives.md>):** 
         - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - Create a hub for the [Roam Games](<Roam Games.md>)
@@ -52,7 +52,7 @@
                 - Similar to the @Channel feature in [Slack](<Slack.md>)...
                     - Can use `@[Everyone](<Everyone.md>)` to elevate something to everyone's attention. 
                         - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
-            12. Added [Welcome 😃](<Welcome 😃.md>) and the "Getting Started" sections 
+            12. Added [Welcome](<Welcome.md>) and the "Getting Started" sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - #[GTD Zone](<GTD Zone.md>)
             1. [x] Add process for suggestions [*](((7PyTNYa6C)))
@@ -102,18 +102,18 @@
                 - The latter gives you the ability to view ALL UNREADS across the graph. Plus, you can still filter `[@](<@.md>)` by your name to find YOUR unreads.
                     - Thoughts? [~](<~.md>) [Charles Farr](<Charles Farr.md>)
         - [Quick Start Guide](<Quick Start Guide.md>)
-            1. "Review the [conventions]([Conventions](<Conventions.md>))"
-            1. "[Brandon Toner](<Brandon Toner.md>)"
-            3. "Build your DNP Section using the universal [template](((qONZuXh3Y))). "
-            4. "Use the [Daily Log](<Daily Log.md>) to sign-in"
-            5. "Answer the [Daily Activities](<Daily Activities.md>) or something from the [Prompts](<Prompts.md>) library."
+            1. Review the [conventions]([Conventions](<Conventions.md>))
+            1. [Brandon Toner](<Brandon Toner.md>)
+            3. Build your DNP Section using the universal [template](((qONZuXh3Y))). 
+            4. Use the [Daily Log](<Daily Log.md>) to sign-in
+            5. "Work on something from the `Daily Activities`."
                 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**
         - [Beyond the Basics](<Beyond the Basics.md>)
-            1. "Using the other [DNP Modules](<DNP Modules.md>)"
-            2. "Using the [Chat](<Chat.md>) features"
-            3. "Commenting on the contents of the graph [to_populate](<to_populate.md>)"
-            4. "Giving [feedback](<feedback.md>) [to_populate](<to_populate.md>)"
+            1. "Using the other [DNP Modules](<DNP Modules.md>)."
+            2. Using the [Chat](<Chat.md>) features
+            3. Commenting on the contents of the graph [to_populate](<to_populate.md>)
+            4. Giving [feedback](<feedback.md>) [to_populate](<to_populate.md>)
         - [Becoming an Editor](<Becoming an Editor.md>) 
     - #[Questions](<Questions.md>)
         1. How do you create an artifact from a collaborative Roam experience?
@@ -129,7 +129,7 @@
         7. How could I flag things as request for comment/feedback?
             - [e.g.](<e.g..md>) "[ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)"
         8. What is the distinction between conventions and processes?
-        9. How can a [Welcome 😃](<Welcome 😃.md>) page be designed to quickly orient the new member to the community conventions and processes?
+        9. How can a [Welcome](<Welcome.md>) page be designed to quickly orient the new member to the community conventions and processes?
         10. [page naming](<page naming.md>) — singular or plural?
         11. "Zettle Questions" vs "Questions" vs "Open Questions"?
         12. How to tag ideas related to graph conventions and processes?

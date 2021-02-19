@@ -20,11 +20,7 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 14th, 2021](<February 14th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)

@@ -1,5 +1,3 @@
-- {{embed: ((FRFW0hQu_))}}
-- ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
@@ -8,8 +6,9 @@
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         2. Review of [fleeting notes](<fleeting notes.md>) with Sam — [here](((0oR0z3jPD))) [Onboarding](<Onboarding.md>) #[Graph Mentorship](<Graph Mentorship.md>)
+        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+        4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
@@ -44,7 +43,7 @@
         - I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph.
             - **[Goals](<Goals.md>):**
                 - I want the graph to feel approachable to a visitor. 
-                    - [I](<I.md>) Send people the link to [Welcome 😃](<Welcome 😃.md>) rather than the DNP
+                    - [I](<I.md>) Send people the link to [Welcome](<Welcome.md>) rather than the DNP
                 - I want people to be prepared for, and comfortable with a degree of [chaos](<chaos.md>).
                     - This feels like an article/write-up. I've got lots of thoughts on this.
                         - [ ] Write about managing [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>). [*][Brandon Toner](<Brandon Toner.md>) #[February 2021](<February 2021.md>)
@@ -101,8 +100,12 @@
                                     - "Run with [inspired action](<inspired action.md>) as it strikes."
                                     - "#[FN](<FN.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action."
                                     - "#[FN](<FN.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow."
-        - [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+        - [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
         - [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
+        - [Roam Collective Exports](<Roam Collective Exports.md>)
+            - [Datahike Squad Logs (Wade)](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/VP5hU0EoH)
+            - [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu)
+            - [Joel Chan's Synthesis Pilot](https://roamresearch.com/#/app/joel-covid19)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Adjust the various link colours to better shades of blue. [roam](<roam.md>)/css [cc:Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ["standardize color scheme"](((1EiZgZo--)))
             - [Q](<Q.md>) Should page link, alias, and external link all be different colours?
@@ -122,8 +125,10 @@
                         - The visual consistency is non-distracting in a block of text
                     - **[Opinions](<Opinions.md>):** (held loosely)
                         - The [added signal](((Mbn9vD_YE))) is not worth the [distraction](((4EIv3EgzF)))
+        - [ ] Move all non-basic templates to Roam42, reserving roam/templates for basic functions
+        - [ ] Adjust the sidebar colors to a cohesive color strategy
     - [Conversation](<Conversation.md>) 
-        1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Roam Inter](<Roam Inter.md>) "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+        1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [roam-inter](<roam-inter.md>) "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
             - These are the main points that I don't yet understand, but would be interested in knowing. 
             - Even simply: What can it do? What are the limitations?
                 - Where does it insert blocks?
@@ -151,7 +156,7 @@
         4. Simple Replies
             - "I use the `[Follow](<Follow.md>) Up` block in this way, but it's not perfect"
                 - I do this as well — and will sometimes add a tag if I want to add it to the linked references/query results with other information.
-        5. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [Bookmarks](((RbE7YKTsL)))
+        5. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((RbE7YKTsL)))
             - Right now our behaviour on bookmarks isnt block-level though... We nest multiple bookmarks under a single `[Bookmarks](<Bookmarks.md>)` tag.
                 - The beauty of this workflow is I can filter `Bookmarks` by `bnt` to see mine, by `csf` to see yours etc. And further filter by `Follow Up` to see that intersection.
                 - I wouldn't consider Bookmarks a block-level tag. 
@@ -160,9 +165,16 @@
                 - The goal is a self-directed conversation that you mediate and tag using the block level tags.
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
                 - Still very bottom-up. The option to write-to-think without block-tags is still there and encouraged.
-        7. [@Wade]([@[[Wade Dominic](<@[[Wade Dominic.md>)]]) coming in hot with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
+        7. [@Wade]([@[[Wade Dominic](<@[[Wade Dominic.md>)]]) coming in HOT with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
+            - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
+            - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))
+        8. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [landing pages](((QLgSYCYVl)))
+            - I'd say just [Welcome](<Welcome.md>) — it's feeling much better now.
+    - [Bookmarks](<Bookmarks.md>)
+        - #[Follow Up](<Follow Up.md>) "[@B]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs." #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
     - #[Change Log](<Change Log.md>) 
-        1. Made some updates to [Welcome 😃](<Welcome 😃.md>) — still lots of work to do, mostly a draft.
+        1. Made some updates to [Welcome](<Welcome.md>) — still lots of work to do, mostly a draft.
+        2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
@@ -200,12 +212,14 @@ What's your take on fleeting notes that come from personal experience/journaling
         - "I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))"
         - "[Q](<Q.md>) How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
         - "#[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>)."
+        - #[Follow Up](<Follow Up.md>) "[@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Zettelkasten](((6TxFuxypY)))"
+        - #[Follow Up](<Follow Up.md>) on "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((RbE7YKTsL)))"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas
             - source of rec (thread reply)
                 - https://twitter.com/flancian/status/1362189138326401024?s=20
-        - [ ] Take notes on [Roam Inter](<Roam Inter.md>)'s technical walkthrough. Eventually write up some summary/takeaways for contributors
+        - [ ] Take notes on [roam-inter](<roam-inter.md>)'s technical walkthrough. Eventually write up some summary/takeaways for contributors
             - "Even simply: What can it do? What are the limitations?"
                 - "Where does it insert blocks?"
                     - "Nested beneath a designated parent?"
@@ -215,7 +229,7 @@ What's your take on fleeting notes that come from personal experience/journaling
         - [ ] "Will add more fleeting notes/answers/questions" to [this](((0oR0z3jPD)))
     - #[The Zettelkasten](<The Zettelkasten.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-        - [@B]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) various: 
+        - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) various: 
             - "19YO genius kid in ...." Mauritius
             - [re roam inter explanation](((posZGcO_u)))
                 - Yeah I think there's a low hanging fruit there, just making a simple, clear, explanation.
@@ -223,7 +237,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - [re ](((0oR0z3jPD))) Wow this is some really training, you basically broke down my idea. I have a bit of a hard time formalizing my thinking by writing actually, I'm used to do it a lot in my head. This is great!
                 - I like the `[Ans](<Ans.md>)` tag
                 - Will add more fleeting notes/answers/questions
-        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))
+        - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))
             - "Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))/[Sonke]([Sonke Ahrens](<Sonke Ahrens.md>)) approach in favor of what feels like a more "agnostic" system."
                 - Haven't got the details yet of how Sonke does it
             - "What are your thoughts?"
@@ -244,14 +258,25 @@ What's your take on fleeting notes that come from personal experience/journaling
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
-        - On the value of [block-level tags](<block-level tags.md>) #[Status/In-Progress](<Status/In-Progress.md>)
-            - Necessary to resurface indiviudal tid-bits of information — [see](((AcVV2n11w)))
-            - Allows for highly contextual note-taking in-line with content
-            - Increases searchability
-                - Can combine keywords and block-level tags to quickly surface potentially related thoughts
-            - Increases flexibility of filtering
-                - When pulling in source material, viewing all inline comments can be distracting — filtering out all of the block-level tags allows for unobstructed view
-            - ... 
+        - On the value of [block-level tags](<block-level tags.md>)
+            - More and more, I am realizing that I use the `#` functionally in a fundamentally different way that standard `[[]]` page references. The biggest different is when I use a `#` I rarely plan on visiting the page. Instead, I am looking to surface the associated blocks through queries at some future time.
+                - [FN](<FN.md>) A users planned method of [information retrieval](<information retrieval.md>) will impact all of the [knowledge](<knowledge.md>) [structure](<structure.md>)s they prefer using
+                    - [therefore](<therefore.md>) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+                        - [FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
+                - Under this usage of the `#` convention, there are essentially two sub-conventions — using the `#` as [section tags](<section tags.md>) and as [block-level tags](<block-level tags.md>).
+                    - I see section tags as being used best to aggregate **general** thoughts and information. They are scratchpads of one form or another. The information that is contained is either prose (like this) or unrefined ideas.
+                        - [FN](<FN.md>) [Section-level tags]([section tags](<section tags.md>)) should be used to aggregate loosely held ideas and general thoughts.
+                    - I see block-level tags as being used best to summarize **atomic** and **focused** thoughts (of varying types and maturities). The information at the level of the block level tag should be digestible on its own, with context nested underneath. The context can be terse or flowing, rough or developed, but the priority for the highest block should be **concise** as hell.
+                        - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should be used to summarize atomic and focused thoughts and pieces of knowledge
+                - One of the [implicit](<implicit.md>) differences between these [two tag types](((loZtX8kki))) — [block-level tags](<block-level tags.md>) and [section tags](<section tags.md>) —  is their [maturity](<maturity.md>).
+                    - A thought that can be summarized in a single-block is at least somewhat thought out. One that requires an entire section may be chipping away at a unified idea, but the final understanding/idea is still [fluid]([fluidity](<fluidity.md>)).
+            - Taking all of the above into account, we can use the implicit distinct between [block-level tags](<block-level tags.md>) and [section tags](<section tags.md>) to help [parse](((AcVV2n11w))) out [signal](<signal.md>) versus [noise](<noise.md>).
+                - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>)) thoughts.
+            - Block-level tags tangentially related benefits as well...
+                - They allow for the identification and summarization of high-quality thoughts anywhere in the graph.
+                    - Often this leads to creation in-line with important contextual information.
+                    - Viewing the though-processes around [idea formation](<idea formation.md>) increasing  [traceability](<traceability.md>) of our own and others' thought processes, ultimately allowing for easier [comprehension](<comprehension.md>) and greater [cross-pollination](<cross-pollination.md>) of ideas.
+                        - [FN](<FN.md>) Ease of [comprehension](<comprehension.md>) (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([cross-pollination](<cross-pollination.md>))
         - Importing [Maggie Delano](<Maggie Delano.md>)'s code for her Zettel Smartblock Aggregator
             - **[> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type](<> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type.md>):** [Zettel](<Zettel.md>)` that are not referenced here, so ideally give your zettel its own page to find it, otherwise it will return whatever page the block is on. You need [Roam42](<Roam42.md>) running for it to work.
                 - > {{CLICK TO FIND PAGES WITH ZETTELS MISSING FROM INDEX:42SmartBlk:Check Zettels:42RemoveButton=false}}  
@@ -262,37 +287,85 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - `[42SmartBlock](<42SmartBlock.md>)` Check Zettels
                     - <%JAVASCRIPT:function getPagesNotOnIndexPage(n,e,t){return window.roamAlphaAPI.q("\n[:find ?page_title\n  :in $ % ?container_title ?tag1 ?tag2\n  :where\n    [?t1id :node/title ?tag1]\n    [?t2id :node/title ?tag2]\n    [?blocks :block/refs ?t1id]\n    [?blocks :block/refs ?t2id] \n    [?container_page :node/title ?container_title]\n    [?blocks :block/page ?page]\n    [?page :node/title ?page_title]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]","[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]",n,e,t).map((n,e)=>`[[${n[0]}]]`)}return getPagesNotOnIndexPage("[Zettelkasten](<Zettelkasten.md>) Index","Zettel","Page Type").map((n,e)=>`${n}`).join("\n");%>
             - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) see the above...
+        - Agenda for discussion with [Stian Håklev](<Stian Håklev.md>) on [roam-inter](<roam-inter.md>)
+            - Discuss the Agora
+                - Helpful for us to share how we see working with roam-inter?
+            - Questions on roam-inter
+                - "Even simply: What can it do? What are the limitations?"
+                    - "Where does it insert blocks?"
+                        - "Nested beneath a designated parent?"
+                        - "What happens if that parent is deleted?"
+                - How does it handle Daily Note Pages across databases?
+                    - Would a Daily Notes reference from a publisher graph link onto a subscription database?
+                - What needs to happen for roam-inter to really launch?
+        - Draft outline of announcement for [Roam Games III](<Roam Games III.md>) on the [Roaman Agora](<Roaman Agora.md>)
+            - Context
+                - Work with Roam Collective
+                - Experiment has coalesced around some great conventions for conversation and discussion
+            - Idea
+                - Community hub to aggregate submissions
+                - Conventions that allow for discussion
+                - Over time, collect pressing questions and budding ideas for Roam across various domains
+                    - Document how these evolve
+            - Expansion
+                - Integration with roam-inter to allow for easy aggregation
+            - Closing
+                - Plan to document all of the Roam Games III submissions
+                    - Ask for everyone to join and add some details on their submission
+            - Questions
+                - [ ] Should we prepopulate some RGIII submission pages?
+                - [ ] Who tweets what?
+                    - Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play
+        - [Q](<Q.md>) What landing pages do we need for the [Roam Collective](<Roam Collective.md>) graph?[°](((5h0Y6Z_hI)))
+        - On Brandon's prolific output...
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpppC83KQch.png?alt=media&token=6f307e83-962a-4f3c-9817-78e34c8e5656)
+            - Trying to keep up with [@Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])'s output on a daily basis is impossible...
+                - Reminds me of Aaron Burr complaining about Alexander Hamilton's output for the Federalist Papers lol
     - [Conversation](<Conversation.md>)
         - On [CSS](<CSS.md>) styling
             - "[Q](<Q.md>) Should page link, alias, and external link all be different colours?"
-                - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
+                - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
         - On [zettelkasten](<zettelkasten.md>) systems
             - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
                 - What are your thoughts?
                 - Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))/[Sonke]([Sonke Ahrens](<Sonke Ahrens.md>)) approach in favor of what feels like a more "agnostic" system.
                     - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
+            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+                - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
                 - If you want to be able to resurface Bookmarks, you need [block-level tags](<block-level tags.md>); the `[Bookmarks](<Bookmarks.md>)` section won't meet your needs
                 - I use the `[Follow](<Follow.md>) Up` block in this way, but it's not perfect
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>) is that it distinguishes between an atomic block and a collection.
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>) is that it distinguishes between an atomic block and a collection.
                 - `[Bookmark](<Bookmark.md>)` is a block-level bookmark
                 - `[Bookmarks](<Bookmarks.md>)` is a collection of `[Bookmark](<Bookmark.md>)` blocks
                 - Will be easier to implement once Roam has [aliases](<aliases.md>), but in the interim queries can fill the gap
                 - Franky, I don't think the collection of Bookmarks is even necessary — it's highly personal, so all you really care about are `[Bookmark](<Bookmark.md>)` blocks you've added to your personal note section — very little need to see the sum-total of Bookmarks in the graph
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) re: [this is true](((jz6oBckoK))), but if Sam wanted to be able to surface bookmarks programmatically, they would need to be block-level tags!
         - On "[Cornflower Blue]([cornflower blue](<cornflower blue.md>))" [°](((MtLeq6G4N)))
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
     - [Bookmarks](<Bookmarks.md>)
         - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         - "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))"
-        - #[Follow Up](<Follow Up.md>) "[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))"
+        - #[Follow Up](<Follow Up.md>) "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))"
+        - #[Follow Up](<Follow Up.md>) "Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))"
+    - [Todos](<Todos.md>)
+        - [ ] Tweet out summary of this tomorrow: ""On the value of [block-level tags](<block-level tags.md>)""
+        - [ ] Create Agora conventions seed-pack
+        - [ ] Adapt Maggies code to work with block level tags: "Importing [Maggie Delano](<Maggie Delano.md>)'s code for her Zettel Smartblock Aggregator"
+        - [ ] Purchase domain for Roam Collective
+            - Lots of options — my favorite is `roamcollective.ly`
+            - Could use it as a slick link shortener and to add customer meta-tags for links
     - #[Change Log](<Change Log.md>)
         - Added better blue shades: "Blue"
+        - Added "Spacing" & "Block Highlightings"
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) added [css](((rADwGn6Ml))) in RC
 - ---
 
 # Backlinks
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Date Created](<Date Created.md>):** [February 18th, 2021](<February 18th, 2021.md>)
 
 - **[Last Updated](<Last Updated.md>):** [February 18th, 2021](<February 18th, 2021.md>)

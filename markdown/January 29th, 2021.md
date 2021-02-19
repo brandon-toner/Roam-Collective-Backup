@@ -16,7 +16,7 @@
     - [[Kahlil Corazo]] is putting out some great tweet threads related to the [[Roam Games]]. Check [this](((JUvpVJe0-))) out.
     - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
     - Really enjoyed [this exchange](((PdawSmakm))), leading to an example of how [[fleeting notes]] can be used to build an [[argument]] or [[claim]]. [[cc:[[leekeifon]]]], [[cc:[[Charles Farr]]]], [[cc:[[Mark Robertson]]]]
-    - "[[Stian Håklev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
+    - "[[Stian Håklev]]'s [[roam-inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING."
 - #Chat ((I added a Chat to the main section. To reply, reference the block into your "Comments" section, nesting your reply beneath. ))
     1. I decided to consider [this idea]([[Evergreens/active vs passive resurfacing]]) an evergreen note. I think it makes sense, but it challenges my idea that "#[[FN]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten" 
 
@@ -97,7 +97,7 @@ Thoughts? - [[Brandon Toner]]
                             3. Encourage group members to [block reference]([[block referencing]]) aspects of the outline with their ideas.
                             4. The [[project lead]] or graph [[editor]] reviews the contributions in the [[block references]] and uses them to develop their ideas and build out the full bodied [creative project]([[creative projects]])
     - #[[Scratchpad]]
-        - [[Stian Håklev]]'s [[Roam Inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.
+        - [[Stian Håklev]]'s [[roam-inter]][*](https://www.youtube.com/watch?app=desktop&v=W88mMS4hpLw&ab_channel=StianH%C3%A5klev) is ABSOLUTELY MINDBENDING.
             - Inter-graph transfer & sync is now possible.
         - "Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database."
             - Here, I’m introducing the idea that the [[collaborative zettelkasten]] is the key to carrying mature ideas forward through time.

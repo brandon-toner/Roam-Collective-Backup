@@ -18,7 +18,7 @@
 ## [January 25th, 2021](<January 25th, 2021.md>)
 5. Added [Conventions](<Conventions.md>)
 
-1. "Review the [conventions]([Conventions](<Conventions.md>))
+1. Review the [conventions]([Conventions](<Conventions.md>))
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Change in [convention]([Conventions](<Conventions.md>))
@@ -43,14 +43,14 @@
 
 - "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>))
 
-## [Quick Start Guide](<Quick Start Guide.md>)
-4. Review the [conventions]([Conventions](<Conventions.md>))
-
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Conventions](<Conventions.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>))
+
+## [Welcome](<Welcome.md>)
+- 8. Review the graph [conventions]([Conventions](<Conventions.md>))
 
 ## [evergreen notes](<evergreen notes.md>)
 - **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C

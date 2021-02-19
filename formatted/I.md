@@ -42,5 +42,5 @@
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[I](<I.md>)
+- #[I](<I.md>)
 

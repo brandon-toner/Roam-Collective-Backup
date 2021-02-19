@@ -205,7 +205,7 @@
                     - My thought is that the How To's as they are currently set out should be reserved for EXTERNAL. This should be clear on those pages (or in the page name itself) to avoid any confusion with the internal conventions. 
                         - This is important because the scope of the externally facing documents is larger than the internal conventions — and contradictions will exist. 
                         - Clarity = key here.
-                    - INTERNALLY, I think the learning center should stem off of the [[Welcome 😃]] page — though "Welcome" feels off, if it's a place for existing users to go as well... maybe we make a [[Learning Center]] that mirrors some of that structure, or at least serves as a directory for navigating the [[conventions]] in a logical order/sequence. #Bookmarks #[[February 2021]] #[[Week-05: 02-01-2021]]
+                    - INTERNALLY, I think the learning center should stem off of the [[Welcome]] page — though "Welcome" feels off, if it's a place for existing users to go as well... maybe we make a [[Learning Center]] that mirrors some of that structure, or at least serves as a directory for navigating the [[conventions]] in a logical order/sequence. #Bookmarks #[[February 2021]] #[[Week-05: 02-01-2021]]
         - "[[~[[Brandon Toner]]]] I think you hit it on the head with the `#Projects` + `#Ideas`"
             - In most cases I agree, but have decided to go with `#[[Project Ideas]]` for this one use-case. [[~[[Charles Farr]]]]
                 - "The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. "

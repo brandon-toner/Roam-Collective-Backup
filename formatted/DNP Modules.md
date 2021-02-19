@@ -32,7 +32,7 @@
 
 # Backlinks
 ## [Beyond the Basics](<Beyond the Basics.md>)
-- Using the other [DNP Modules](<DNP Modules.md>)
+- Using the other [DNP Modules](<DNP Modules.md>).
 
 ## [DNP Modules](<DNP Modules.md>)
 - Description of the [DNP Modules](<DNP Modules.md>)
@@ -58,13 +58,10 @@
 ## [GTD Zone](<GTD Zone.md>)
 - **[Tags](<Tags.md>):** #[DNP Modules](<DNP Modules.md>)
 
-## [Graph/Templates](<Graph/Templates.md>)
-- For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - "Description of the [DNP Modules](<DNP Modules.md>)
 
-1. "Using the other [DNP Modules](<DNP Modules.md>)"
+1. "Using the other [DNP Modules](<DNP Modules.md>).
 
 - Original thoughts are that I like that there is enough structure but also enough flexibility to create your own structure ([i.e.](<i.e..md>) specific [DNP Modules](<DNP Modules.md>)
 

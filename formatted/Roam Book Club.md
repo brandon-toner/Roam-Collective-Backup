@@ -34,6 +34,3 @@
 ## [RBC](<RBC.md>)
 - **[Redirect](<Redirect.md>):** [Roam Book Club](<Roam Book Club.md>)
 
-## [Welcome 😃](<Welcome 😃.md>)
-- To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
-

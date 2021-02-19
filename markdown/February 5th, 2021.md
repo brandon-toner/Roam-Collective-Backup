@@ -54,7 +54,7 @@
                     - Creating your page & profile
                     - Understand how to interact with the graph and others
                     - Start writing
-            - Feedback: [[Welcome 😃]]
+            - Feedback: [[Welcome]]
                 - Welcome should provide an answer the "what" and "why" of Roam Collective, provide a few examples of the awesome conversations and content we're building, and then link to the various "how" pages
                     - How to use basic features
                     - How to use more complex features

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- Contributing to the [collaborative zettelkasten](<collaborative zettelkasten.md>).
+
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>)
 

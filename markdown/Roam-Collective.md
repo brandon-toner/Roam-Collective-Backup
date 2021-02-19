@@ -1,6 +1,6 @@
 - Related:: [[About Roam Collective]]
 - [[Table of Contents]]::
-    - [[Welcome 😃]]
+    - [[Welcome]]
     - [[Quick Start Guide]]
     - [[FAQ]]
     - [[Conventions]]

@@ -5,7 +5,7 @@
 - **[Description](<Description.md>):**
 
 ## [About Roam Collective](<About Roam Collective.md>)
-- **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>)
+- **[Related](<Related.md>):** [Welcome](<Welcome.md>)
 - **[Description](<Description.md>):**
 
 ## [Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)

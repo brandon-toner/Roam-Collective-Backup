@@ -149,7 +149,7 @@
                 - I'd say it works.
                 - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [^[[Charles Farr](<^[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         13. On [filtering](<filtering.md>) over querying
-            - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
+            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
 `{{[query](<query.md>): {or: [ex-B](<ex-B.md>) [ex-C](<ex-C.md>)}}}`"
                 - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                     - I find it harder to "play" with queries. 

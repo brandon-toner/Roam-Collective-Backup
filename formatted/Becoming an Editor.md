@@ -9,6 +9,3 @@
 ## [Learning Center](<Learning Center.md>)
 - [Becoming an Editor](<Becoming an Editor.md>)
 
-## [Quick Start Guide](<Quick Start Guide.md>)
-- **[Related](<Related.md>):** [Welcome 😃](<Welcome 😃.md>), [Beyond the Basics](<Beyond the Basics.md>), [Becoming an Editor](<Becoming an Editor.md>)
-

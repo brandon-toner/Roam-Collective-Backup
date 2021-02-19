@@ -88,11 +88,11 @@ try{
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - I think every person needs to activate the [roam/js](<../roam/js.md>)
 
-## [Quick Start Guide](<Quick Start Guide.md>)
-11. Turn on [Roam42](<../Roam42.md>) in [roam/js](<../roam/js.md>)
-
 ## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - {{[roam/js](<../roam/js.md>)}
+
+## [Welcome](<Welcome.md>)
+- "{{{[roam/js](<../roam/js.md>)}
 
 ## [roam/js](<roam/js.md>)
 - {{{[roam/js](<../roam/js.md>)}

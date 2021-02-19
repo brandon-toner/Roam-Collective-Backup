@@ -16,7 +16,7 @@
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 

@@ -220,7 +220,7 @@
             - Goal: Have related questions converge into fewer central questions. 
                 - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)"
         - [ ] Reorganize the [roam/css](<roam/css.md>) page #[Week-04: 01-25-2021](<Week-04: 01-25-2021.md>)
-            - Section for [collections](<collections.md>) under "Tag Styling [Status](<Status.md>)/Enabled"
+            - Section for [collections](<collections.md>) under Tag Styling [Status](<Status.md>)/Enabled
     - #[Change Log](<Change Log.md>) 
         - Added some CSS Tags
         - Added `[People](<People.md>)` and `[Members](<Members.md>)` tags to all people listed in the [Directory](<Directory.md>) for the purpose of building queries.

@@ -70,7 +70,7 @@
         - How to import highlights and take [literature notes](<literature notes.md>) in [Roam-Collective](<Roam-Collective.md>)?
             - [x] Build "resource" template... for articles/books/twitter threads etc. 
                 - Based on [Readwise](<Readwise.md>) template.
-                - ".rc3REF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
+                - ".rcREF — Reference Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"
         - How to use Roam for school and learning?
             - Spaced repetition
     - #[Help Wanted](<Help Wanted.md>)

@@ -140,7 +140,7 @@
             - Source:: https://catominor3.medium.com/roam-with-style-8a18c216d338
         - #Q How might a [[CSS]] page be laid out to improve navigation and collaboration? 
             - #Q Is there a [[standard]] layout for a [[CSS]] page in Roam? [*]([[~[[Charles Farr]]]]), [*]([[@[[Matthew Vogel]]]])
-        - #Obs The page ID for the [[Welcome 😃]] page spells "Morty"
+        - #Obs The page ID for the [[Welcome]] page spells "Morty"
             - Images::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FlO0dipVaDj.png?alt=media&token=ebc77d40-2bbf-487f-81c8-3f318dbc8861)
             - #I So naturally [[Morty]] is graph greeter / mascot.
@@ -209,7 +209,7 @@
                 - This is perfect!
             - "You could pair this with some fancy #therefore css..."
                 - This is FIRE!
-            - "[@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
+            - "[@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
                 - Perhaps we could adjust the CSS of `#Fleeting  Notes` to be more subtle....
                     - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])
     - #[[Change Log]] 
@@ -221,7 +221,7 @@
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad #not-populated
     - #Conversation
-        - On Graph [[CSS]] settings [°]([[@[[Brandon Toner]]]])
+        - On Graph [[CSS]] settings [°]([[~[[Brandon Toner]]]])
             - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
                 - CSS block with color variables → see: "Red"
                 - CSS block with variables for specific features → see: "Tags"
@@ -232,10 +232,10 @@
                 - By creating and using [[variables]], you limit the complexity and allow for easily updating the graph. For instance, all you need to do to change the shade of red is to change all of the `--cl-red-x00` variables, or to change all of the standard tags, edit the `--bg-tag` variable.
                     - Good [example]([[Example]]) of [[modularity]] and the power of [[abstractions]]
         - Simple Replies
-            - [@Brandon]([[@[[Brandon Toner]]]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
+            - [@Brandon]([[~[[Brandon Toner]]]]) draft version of the RC statement in the agora is [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T)
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
-            - [@Brandon]([[@[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
-            - [@Brandon]([[@[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
+            - [@Brandon]([[~[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
+            - [@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
                 - Re: "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
                     - If I were to rephrase this (using my css), it would look like...
                     - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
@@ -249,7 +249,7 @@
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
                                 - See: Version 2
                     - #[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-            - [@Brandon]([[@[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])"
+            - [@Brandon]([[~[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])"
                 - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
     - #[[GTD Zone]]
         - {{[[TODO]]}} Update color scheme with better shades of blue and green

@@ -76,7 +76,7 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 

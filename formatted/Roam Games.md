@@ -7,7 +7,7 @@
 - To provide a hub for community collaboration surrounding the [Roam Games](<Roam Games.md>)
 
 ## [Announcements](<Announcements.md>)
-- Create a hub for the [Roam Games](<Roam Games.md>)
+- [x] Create a hub for the [Roam Games](<Roam Games.md>)
 
 ## [Bill Petro](<Bill Petro.md>)
 - Here is my idea for #[Roam Games](<Roam Games.md>):
@@ -86,7 +86,4 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **[Tags](<Tags.md>):** [Sprints](<Sprints.md>) #[Roam Games](<Roam Games.md>)
-
-## [Welcome 😃](<Welcome 😃.md>)
-- To provide a hub for community collaboration surrounding the [Roam Games](<Roam Games.md>)
 

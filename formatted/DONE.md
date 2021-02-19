@@ -3,6 +3,9 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - {{[DONE](<DONE.md>)}
 
+## [Announcements](<Announcements.md>)
+- {{[DONE](<DONE.md>)}
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - "{{[DONE](<DONE.md>)}
 

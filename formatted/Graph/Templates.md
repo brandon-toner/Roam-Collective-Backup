@@ -1,5 +1,5 @@
 - **[Tags](<../Tags.md>):** [Collections](<../Collections.md>)
-- **[Related](<../Related.md>):** [roam](<../roam.md>)/templates
+- **[Related](<../Related.md>):** [roam/templates](<../roam/templates.md>)
 - **[Table of Contents](<../Table of Contents.md>):**
     - [Global Variables](((bFUOGEPXz)))
     - [Daily Templates](((dho4joU3n)))
@@ -21,6 +21,37 @@
         - [42Setting](<../42Setting.md>) ThisMnthRaw February 2021
         - [42Setting](<../42Setting.md>) NextMonth #[March 2021](<../March 2021.md>)
         - [42Setting](<../42Setting.md>) NextMnthRaw March 2021
+    - Getting Started
+        - .rcGS — Getting Started  [42SmartBlock](<../42SmartBlock.md>) 
+            - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
+                - **Welcome to Roam Collective!** 😃 
+                    - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+                - **Tips:**
+                    - Write some thoughts under your **scratchpad** block
+                    - Comment on something in the graph under your **conversation** block
+                    - Capture some initial feedback in your **feedback** block
+                - [Scratchpad](<../Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<../not-populated.md>)
+                    - __write here__
+                - [Conversation](<../Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<../not-populated.md>)
+                    - __comment/reply here__
+                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+                - #[Feedback & Questions](<../Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<../not-populated.md>)
+            - ---
+        - .rcYOU — Personal Page [42SmartBlock](<../42SmartBlock.md>)
+            - **[Tags](<../Tags.md>):** [People](<../People.md>) [Members](<../Members.md>)
+                - **[About me](<../About me.md>):**
+                    - **[Twitter](<../Twitter.md>):** [not-populated](<../not-populated.md>)
+                    - **[Website](<../Website.md>):** [not-populated](<../not-populated.md>) 
+                    - **[Location](<../Location.md>):** [not-populated](<../not-populated.md>)
+                    - **[Time Zone](<../Time Zone.md>):** [not-populated](<../not-populated.md>)
+                - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+            - ---
+            - **Personal SmartBlocks:**
+                - .rcDNP <%CONCAT:<%INPUT:Your first initial and last name, or unique identifier%>%> — Daily Notes Template <%CONCAT:#,42SmartBlock%>
+                    - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
+                        - [Scratchpad](<../Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<../not-populated.md>)
+                        - [Conversation](<../Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<../not-populated.md>)
+                    - ---
     - Daily Templates
         - .rc2DH — Daily Header [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - {{embed: ((FRFW0hQu_))}}
@@ -31,16 +62,17 @@
                 - #[The Main Feed](<../The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<../not-populated.md>) 
                 - [Chat](<../Chat.md>) ((A place to propose objects of discussion)) [not-populated](<../not-populated.md>)
                 - #[GTD Zone](<../GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<../not-populated.md>) 
+                    - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
+                    - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
             - ---
         - .rc1DNP — Daily Notes Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
-            - #[My Daily Notes](<../My Daily Notes.md>) [your_name_here](<../your_name_here.md>) {{word-count}}
-                - ^^Replace "your name here" with your page link^^
-                - [Scratchpad](<../Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<../not-populated.md>)
-                - [Questions](<../Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<../not-populated.md>)
-                - [Conversation](<../Conversation.md>) [not-populated](<../not-populated.md>)
-                - [Feedback](<../Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<../not-populated.md>)
-                - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<../DNP Modules.md>)`
-                - ---
+            - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>) {{word-count}}
+                - [Scratchpad](<../Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<../not-populated.md>)
+                    - __write here__
+                - [Conversation](<../Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<../not-populated.md>)
+                    - __comment/reply here__
+                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+            - ---
     - Dates
         - .rc3TD — Today [42SmartBlock](<../42SmartBlock.md>)
             - <%DATE:today%>
@@ -108,14 +140,7 @@
                 - **Page:** <%PAGE%>
 {{[embed](<../embed.md>): <%BLOCKMENTIONS:20,TODO,Help Wanted,-DONE,-query,-`%>}}
     - Page Templates
-        - .rc3PRSNL — Personal Page [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
-            - **[Tags](<../Tags.md>):** [People](<../People.md>) [Members](<../Members.md>)
-                - **[About me](<../About me.md>):**
-                    - **[Twitter](<../Twitter.md>):** [not-populated](<../not-populated.md>)
-                    - **[Website](<../Website.md>):** [not-populated](<../not-populated.md>) 
-                    - **[Location](<../Location.md>):** [not-populated](<../not-populated.md>)
-                    - **[Time Zone](<../Time Zone.md>):** [not-populated](<../not-populated.md>)
-        - .rc2PRJ — Projects Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
+        - .rcPRJ — Projects Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Projects](<../Projects.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Related](<../Related.md>):** #[not-populated](<../not-populated.md>)
@@ -130,12 +155,12 @@
                 - **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
                 - **[Notes](<../Notes.md>):** #[not-populated](<../not-populated.md>)
                 - **[Tasks](<../Tasks.md>):** [not-populated](<../not-populated.md>)
-        - .rc3REF — Reference Note Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
+        - .rcREF — Reference Note Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Resources](<../Resources.md>) #[Reference Notes](<../Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.))
                 - **[Author(s)](<../Author(s).md>):** [not-populated](<../not-populated.md>)
                 - **[Full Title](<../Full Title.md>):** [not-populated](<../not-populated.md>)
                 - **[URL](<../URL.md>):** [not-populated](<../not-populated.md>)
-        - .rc3CRT — Creative Project Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
+        - .rcCRT — Creative Project Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Projects](<../Projects.md>) [Creative](<../Creative.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
@@ -144,7 +169,7 @@
                 - **[Outline](<../Outline.md>):** [not-populated](<../not-populated.md>)
                 - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
-        - .rc3SPR — Sprints Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
+        - .rcSPR — Sprints Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Sprints](<../Sprints.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Date Range](<../Date Range.md>):** [not-populated](<../not-populated.md>)
@@ -164,7 +189,7 @@
                     - **[Query](<../Query.md>):** 
                         - {{[query](<../query.md>): {and: [ex-A](<../ex-A.md>) [TODO](<../TODO.md>)}}}
                 - **[Work Summary](<../Work Summary.md>):** [not-populated](<../not-populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
-        - .rc3EPC — Epics Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
+        - .rcEPC — Epics Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Epics](<../Epics.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
@@ -255,7 +280,7 @@
             - {{or: Option A | Option B | Option C}}
         - .rcBRB — Online/Status [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
-        - [42SmartBlock](<../42SmartBlock.md>) .rcNotify — @Everyone Tag
+        - .rcNotify — @Everyone Tag  [42SmartBlock](<../42SmartBlock.md>) 
             - {{or: [@[[Everyone](<../@[[Everyone.md>)]] | [@[[Charles Farr](<../@[[Charles Farr.md>)]] | [@[[Brandon Toner](<../@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<../@[[Peter Rosso.md>)]] | [@[[leekeifon](<../@[[leekeifon.md>)]] | [@[[Larissa de Lima](<../@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<../@[[Samuel Bars.md>)]] }}
 
 # Backlinks

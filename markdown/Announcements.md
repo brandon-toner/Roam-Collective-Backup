@@ -1,10 +1,10 @@
 - Tags:: #Collections #[[DNP Section]]
 - Pinned Announcement
     - **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
-        - Welcome to [[Roam-Collective]]! [Start here]([[Welcome 😃]]). 
+        - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
         - Objectives:: 
             - Create a [[Roam Collaboration Guide]]
-            - Create a hub for the [[Roam Games]]
+            - {{[[DONE]]}} Create a hub for the [[Roam Games]]
         - Tips:: 
             - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
             - Check out the #[[Help Wanted]] page references for opportunities to contribute.

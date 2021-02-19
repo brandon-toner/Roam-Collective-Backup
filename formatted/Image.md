@@ -89,10 +89,7 @@ Resolve by "[replace as text](<replace as text.md>)"
     - **[Image](<Image.md>):**
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
-11. Turn on [Roam42](<Roam42.md>) in [roam/js](<roam/js.md>) to get access to SmartBlocks and other extension features.
-        - **[Image](<Image.md>):**
-
-12. Turn off brackets to streamline the look of page looks a bit
+4. Turn off brackets to streamline the look of page looks a bit
         - **[Image](<Image.md>):**
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)

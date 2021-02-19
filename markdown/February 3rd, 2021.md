@@ -149,7 +149,7 @@
                 - I'd say it works.
                 - My challenge with "budding" is that it's hard to put objective boundaries on... when is something not growing? No longer a work in progress? [[^[[Charles Farr]]]] [[~[[Larissa de Lima]]]]
         13. On [[filtering]] over querying
-            - "[[@[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
+            - "[[~[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
 `{{[[query]]: {or: [[ex-B]] [[ex-C]]}}}`"
                 - Filtering is easier to do "on-the-fly". I like queries for standing searches, but I like to mess around in the filtering sections to "play" with the data a bit. [[~[[Matthew Vogel]]]]
                     - I find it harder to "play" with queries. 

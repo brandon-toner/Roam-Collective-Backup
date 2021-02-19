@@ -2,9 +2,6 @@
 - "Daily Notes Page"
 
 # Backlinks
-## [Beyond the Basics](<Beyond the Basics.md>)
-- Build a personal [DNP](<DNP.md>)
-
 ## [DNP Section](<DNP Section.md>)
 - Your part of the Daily Notes Page ([DNP](<DNP.md>))
 

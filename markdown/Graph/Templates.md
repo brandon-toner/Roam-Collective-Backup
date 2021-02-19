@@ -1,5 +1,5 @@
 - Tags:: #Collections
-- Related:: #roam/templates
+- Related:: [[roam/templates]]
 - Table of Contents::
     - [Global Variables](((bFUOGEPXz)))
     - [Daily Templates](((dho4joU3n)))
@@ -21,6 +21,37 @@
         - #42Setting ThisMnthRaw February 2021
         - #42Setting NextMonth #[[March 2021]]
         - #42Setting NextMnthRaw March 2021
+    - Getting Started
+        - .rcGS — Getting Started  #42SmartBlock 
+            - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
+                - **Welcome to Roam Collective!** 😃 
+                    - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+                - **Tips:**
+                    - Write some thoughts under your **scratchpad** block
+                    - Comment on something in the graph under your **conversation** block
+                    - Capture some initial feedback in your **feedback** block
+                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+                    - __write here__
+                - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+                    - __comment/reply here__
+                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+                - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated
+            - ---
+        - .rcYOU — Personal Page #42SmartBlock
+            - Tags:: #People #Members
+                - About me::
+                    - Twitter:: #not-populated
+                    - Website:: #not-populated 
+                    - Location:: #not-populated
+                    - Time Zone:: #not-populated
+                - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+            - ---
+            - **Personal SmartBlocks:**
+                - .rcDNP <%CONCAT:<%INPUT:Your first initial and last name, or unique identifier%>%> — Daily Notes Template <%CONCAT:#,42SmartBlock%>
+                    - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
+                        - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+                        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+                    - ---
     - Daily Templates
         - .rc2DH — Daily Header #42SmartBlock #roam/templates
             - {{embed: ((FRFW0hQu_))}}
@@ -31,16 +62,17 @@
                 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
                 - #Chat ((A place to propose objects of discussion)) #not-populated
                 - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
+                    - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+                    - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
             - ---
         - .rc1DNP — Daily Notes Template #42SmartBlock #roam/templates
-            - #[[My Daily Notes]] [[your_name_here]] {{word-count}}
-                - ^^Replace "your name here" with your page link^^
-                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
-                - #Questions ((about the graph, or directed towards someone)) #not-populated
-                - #Conversation #not-populated
-                - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
-                - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
-                - ---
+            - #[[My Daily Notes]] [[Your Name]] {{word-count}}
+                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+                    - __write here__
+                - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+                    - __comment/reply here__
+                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+            - ---
     - Dates
         - .rc3TD — Today #42SmartBlock
             - <%DATE:today%>
@@ -108,14 +140,7 @@
                 - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Help Wanted,-DONE,-query,-`%>}}
     - Page Templates
-        - .rc3PRSNL — Personal Page #42SmartBlock #roam/templates
-            - Tags:: #People #Members
-                - About me::
-                    - Twitter:: #not-populated
-                    - Website:: #not-populated 
-                    - Location:: #not-populated
-                    - Time Zone:: #not-populated
-        - .rc2PRJ — Projects Template #42SmartBlock #roam/templates
+        - .rcPRJ — Projects Template #42SmartBlock #roam/templates
             - Tags:: #Projects
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Related:: #[[not-populated]]
@@ -130,12 +155,12 @@
                 - Date Completed:: #[[Status/Not Completed]]
                 - Notes:: #[[not-populated]]
                 - Tasks:: #not-populated
-        - .rc3REF — Reference Note Template #42SmartBlock #roam/templates
+        - .rcREF — Reference Note Template #42SmartBlock #roam/templates
             - Tags:: #Resources #[[Reference Notes]] ((add type of resource... Articles, Books, Videos etc.))
                 - Author(s):: #not-populated
                 - Full Title:: #not-populated
                 - URL:: #not-populated
-        - .rc3CRT — Creative Project Template #42SmartBlock #[[roam/templates]]
+        - .rcCRT — Creative Project Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Projects #Creative
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
@@ -144,7 +169,7 @@
                 - Outline:: #not-populated
                 - Next Steps:: #not-populated ((Plans for future elaboration or development))
                 - Contents:: #not-populated
-        - .rc3SPR — Sprints Template #42SmartBlock #[[roam/templates]]
+        - .rcSPR — Sprints Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Sprints
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Date Range:: #not-populated
@@ -164,7 +189,7 @@
                     - Query:: 
                         - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
                 - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
-        - .rc3EPC — Epics Template #42SmartBlock #[[roam/templates]]
+        - .rcEPC — Epics Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Epics
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Created by:: #not-populated
@@ -255,5 +280,5 @@
             - {{or: Option A | Option B | Option C}}
         - .rcBRB — Online/Status #42SmartBlock #roam/templates
             - {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
-        - #42SmartBlock .rcNotify — @Everyone Tag
+        - .rcNotify — @Everyone Tag  #42SmartBlock 
             - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}

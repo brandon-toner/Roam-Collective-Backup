@@ -92,7 +92,7 @@
 - **[Date Created](<Date Created.md>):** [January 31st, 2021](<January 31st, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
 - **[Last Updated](<Last Updated.md>):** [February 18th, 2021](<February 18th, 2021.md>)
     - **[Created by](<Created by.md>):**
 

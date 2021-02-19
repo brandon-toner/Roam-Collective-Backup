@@ -88,8 +88,8 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
     - **[Date Created](<Date Created.md>):**
 
-## [Evergreens/Make it work, then make it easy, then make it pretty.](<Evergreens/Make it work, then make it easy, then make it pretty..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [development](<development.md>) 
+## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [development](<development.md>) 
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)

@@ -44,5 +44,5 @@
 - [[[RC Meetup](<[[RC Meetup.md>) (Feb 10)]] #[Meetings & Discussions](<Meetings & Discussions.md>)
 
 ## [roam/css](<roam/css.md>)
-- `#[Meetings & Discussions](<Meetings & Discussions.md>)
+- #[Meetings & Discussions](<Meetings & Discussions.md>)
 

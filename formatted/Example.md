@@ -2,10 +2,7 @@
 # Backlinks
 ## [Beyond the Basics](<Beyond the Basics.md>)
 - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
-        - **[Example](<Example.md>):**
-
-- Build a personal [DNP](<DNP.md>) Template ((Place personal SmartBlocks on your page))
-    - **[Example](<Example.md>):**
+            - **[Example](<Example.md>):**
 
 ## [DNP Section](<DNP Section.md>)
 - DNP Templates are found [here]([Graph/Templates](<Graph/Templates.md>))
@@ -161,12 +158,6 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**
-
-## [Quick Start Guide](<Quick Start Guide.md>)
-2. Build your bio page 
-        - **[Example](<Example.md>):**
-
-9. Explore the [Tips](<Tips.md>) and [Examples]([Example](<Example.md>))
 
 ## [chat](<chat.md>)
 - To reply, reference the block into your "Comments" section, nesting your reply beneath.

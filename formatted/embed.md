@@ -6,8 +6,6 @@
 ## [Beyond the Basics](<Beyond the Basics.md>)
 - {{[embed](<embed.md>):
 
-- {{[embed](<embed.md>):
-
 ## [Brandon Toner](<Brandon Toner.md>)
 {{[embed](<embed.md>):
 
@@ -212,6 +210,9 @@
 - {{[embed](<embed.md>):
 
 ## [My Daily Notes](<My Daily Notes.md>)
+- {{[embed](<embed.md>):
+
+## [Quick Start Guide](<Quick Start Guide.md>)
 - {{[embed](<embed.md>):
 
 ## [Roles](<Roles.md>)
