@@ -364,7 +364,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))"
             - "[Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}} [*]([mtv](<mtv.md>))
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>))
     - [Scratchpad](<Scratchpad.md>) 
         - #[Meetings & Discussions](<Meetings & Discussions.md>)
             - use fleeting notes and q for free, make pages once you ref an idea multiple times

@@ -31,6 +31,8 @@
 - [Fleeting notes]([fleeting notes](<fleeting notes.md>))
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
+1. "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>)
+
 - [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

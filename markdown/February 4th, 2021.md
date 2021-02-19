@@ -189,7 +189,7 @@ Monthly reviews could include a zoom catchup?
         - #[[[[Feedback]]: What's working]]
             - Liking the look & functionality of the [drop-down menu statuses](((a5khoiytS)))!
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}} {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
+- #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}} "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - {{[[embed]]: ((((rhJbktB9i))))}}
             - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[Evergreens/"Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[Evergreens/Use the native convention as much as possible.]])

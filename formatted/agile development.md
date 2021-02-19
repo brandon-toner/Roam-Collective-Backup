@@ -15,6 +15,9 @@
 
 - #[Follow Up](<Follow Up.md>) "Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- Tweet on [agile development](<agile development.md>)
+
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
 

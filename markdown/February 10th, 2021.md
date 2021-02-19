@@ -364,7 +364,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - "#Q How do "optional but effective" conventions go above and beyond?[*]([[Evergreens/beneficial, but optional]])"
             - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}} [*]([[mtv]])
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}" [*]([[mtv]])
     - #Scratchpad 
         - #[[Meetings & Discussions]]
             - use fleeting notes and q for free, make pages once you ref an idea multiple times

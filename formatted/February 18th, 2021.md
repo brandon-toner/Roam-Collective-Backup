@@ -168,7 +168,7 @@
         7. [@Wade]([@[[Wade Dominic](<@[[Wade Dominic.md>)]]) coming in HOT with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
             - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
             - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))
-        8. [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [landing pages](((QLgSYCYVl)))
+        8. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [landing pages](((QLgSYCYVl)))
             - I'd say just [Welcome](<Welcome.md>) — it's feeling much better now.
     - [Bookmarks](<Bookmarks.md>)
         - #[Follow Up](<Follow Up.md>) "[@B]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs." #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
@@ -176,7 +176,7 @@
         1. Made some updates to [Welcome](<Welcome.md>) — still lots of work to do, mostly a draft.
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -209,11 +209,8 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
     - [Bookmarks](<Bookmarks.md>)
         - "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
-        - "I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))"
         - "[Q](<Q.md>) How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
         - "#[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>)."
-        - #[Follow Up](<Follow Up.md>) "[@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Zettelkasten](((6TxFuxypY)))"
-        - #[Follow Up](<Follow Up.md>) on "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((RbE7YKTsL)))"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas

@@ -12,6 +12,7 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
         - **Things I have helped design or develop:**
             - [Journey to the Center of Hawkthorne](http://projecthawkthorne.com/)
             - Spotify's NYC Headquarters
+    - {{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}
     - **[Queries](<Queries.md>):**
         - [notifications](<notifications.md>)
             - {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}}}}

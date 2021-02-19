@@ -89,6 +89,13 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+- Each chat would be registered with a member page, e.g., `Chat/[Charles Farr](<Charles Farr.md>)`
+
+- 09:58 | `Chat/[Charles Farr](<Charles Farr.md>):
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 

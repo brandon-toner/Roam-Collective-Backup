@@ -3,6 +3,9 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - [FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>))
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[FN](<FN.md>) break things down to build new things with the pieces.[*]([atomic](<atomic.md>))
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>)[literature notes](<literature notes.md>) should be [atomic](<atomic.md>)
 

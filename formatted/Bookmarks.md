@@ -19,8 +19,6 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))
 
-- "I want this SO bad. Here is my understanding of what is currently possible:[*]([Bookmarks](<Bookmarks.md>))
-
 - `[Bookmarks](<Bookmarks.md>)`
 
 ## [February 1st, 2021](<February 1st, 2021.md>)

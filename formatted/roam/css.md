@@ -1746,6 +1746,22 @@ span.rm-page-ref[data-tag="Obs"] {
 span.rm-page-ref[data-tag="Obs"]:before {
     content: '👀'
 }```
+                - [G](<../G.md>) (Goals)
+                    - ```css
+span.rm-page-ref[data-tag="G"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="G"]:before {
+    content: '🏆'
+}```
             - Page-type Tags
                 - [Articles](<../Articles.md>)
                     - ```css
@@ -4857,6 +4873,12 @@ span.rm-page-ref[data-tag="ubrk"] {
 
 span.rm-page-ref[data-tag="blk-gray"] {
   display: none;
+}```
+        - Miscellaneous
+            - Sign Up Form Iframe
+                - ```css
+iframe[src*="docs.google.com"] {
+  height: 1100px;
 }```
     - Patch Fixes
         - Fix for orange blocks ((Unsure purpose - BT))

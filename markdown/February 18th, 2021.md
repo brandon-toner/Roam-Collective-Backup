@@ -168,7 +168,7 @@
         7. [@Wade]([[@[[Wade Dominic]]]]) coming in HOT with the expert-level `#My Wins` [tag](((EglComi8g)))! 
             - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
             - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([[agile development]])[*]([[Examples]])
-        8. [@Charles]([[@[[Charles Farr]]]]) on [landing pages](((QLgSYCYVl)))
+        8. [@Charles]([[~[[Charles Farr]]]]) on [landing pages](((QLgSYCYVl)))
             - I'd say just [[Welcome]] — it's feeling much better now.
     - #Bookmarks
         - #[[Follow Up]] "[@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs." #[[Week-07: 02-15-2021]]
@@ -176,7 +176,7 @@
         1. Made some updates to [[Welcome]] — still lots of work to do, mostly a draft.
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -209,11 +209,8 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
     - #Bookmarks
         - "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
-        - "I want this SO bad. Here is my understanding of what is currently possible:[*]([[Bookmarks]])"
         - "#Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
         - "#[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
-        - #[[Follow Up]] "[@Sam]([[@[[Samuel Bars]]]]) on [Zettelkasten](((6TxFuxypY)))"
-        - #[[Follow Up]] on "[@Charles]([[~[[Charles Farr]]]]) on [Bookmarks](((RbE7YKTsL)))"
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas

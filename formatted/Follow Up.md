@@ -25,10 +25,6 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
 
 - #[Follow Up](<Follow Up.md>)
 
-- #[Follow Up](<Follow Up.md>)
-
-- #[Follow Up](<Follow Up.md>)
-
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[Follow Up](<Follow Up.md>)
 

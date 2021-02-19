@@ -20,7 +20,7 @@
         - **[Queries](<Queries.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- Spotify's NYC Headquarters
+- {{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}
     - **[Queries](<Queries.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)
