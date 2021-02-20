@@ -37,6 +37,11 @@ Breaking things apart, so they can be put together
                     - Missing: 
                         - Change Log
                         - Specific areas of work/thinking
+        - [Q](<Q.md>) What prevents a user from distilling their ideas into [block-level tags](<block-level tags.md>)?
+            - #[FN](<FN.md>) Documenting ideas using [block-level tags](<block-level tags.md>) requires a confidence in your ideas. 
+                - [Obs](<Obs.md>) This is often exaggerated by users, often feeling they don't want to "muck up" the graph or references. 
+                    - I believe this is mis-placed, and that ideas should be tagged more liberally — so that ideas as captured, making them available to build upon in the future, and for other users.
+                    - [Q](<Q.md>) Can you [filter](<filter.md>) ideas at the block-level by [authorship](<authorship.md>).
         - Incorporating [play](<play.md>) into your life [Interintellect](<Interintellect.md>) I+([Charles Farr](<Charles Farr.md>))
             - inventor of binary code
                 - unicycle
@@ -46,6 +51,35 @@ Breaking things apart, so they can be put together
             - Willing to build a few features to make Roam-inter more production-ready.
             - Chat in Roam
                 - In-chat function
+        - [Obs](<Obs.md>) the block-level tags for [block-level tags](<block-level tags.md>) are likely getting VERY rich. We could prob start making some evergreen notes/speculative outlines [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))"
+            - The [scientific method](<scientific method.md>)
+                - Make an [observation]([observations](<observations.md>))
+                - Identify a [problem]([problems](<problems.md>))
+                - [Research]([research](<research.md>)) your problem
+                - Develop a [hypothesis]([hypotheses](<hypotheses.md>))
+                - Design an [experiment]([experiments](<experiments.md>))
+                - Collect and analyze [results](<results.md>)
+                - Construct a [conclusion]([conclusions](<conclusions.md>))
+            - #[FN](<FN.md>) The use of [block-level tags](<block-level tags.md>) to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
+            - Set of [questions](<questions.md>) for scientific thinking [AoTs](<AoTs.md>)
+                - What did you observe?
+                - What is the problem?
+                - What could be the reason for your observation?
+                - Has research or writing be conducted on this subject?
+                - How could this be verified or tested?
+                - What conclusions can you draw from the observations/data?
+        - "Tweetstorm on The Roaman Agora"
+            - Charles posts the overview of the Agora.
+            - I... 
+                - geek out over the Agora, 
+                - reflect on the progress of the RC project, 
+                - showcase some other exports and seeds, 
+                - get excited about the future and next steps
+            - More tweet ideas
+                - Share past observations and beliefs about collaborative graphs
+                    - chaos, disorder, lossy, missed opportunities for resurfacing and collaboration.
+                    - Then reflect how breakthroughs in the RC have helped to resolve those tensions and envision a brighter future.
                 - 
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((HZk-NJWQ8)))
@@ -76,7 +110,15 @@ Breaking things apart, so they can be put together
                             - These processes can be further refined and advised by [algorithms of thought (AoTs)](<algorithms of thought (AoTs).md>)
         4. @Charles
             - [YES]([Bookmarks](<Bookmarks.md>)) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
-            - "They are scratchpads of one form or another." [*](((O1XunbzQI)))
+                - This gets to the WHY behind many of the [conventions](<conventions.md>).
+                - [Q](<Q.md>) How do you educate users on the power or discoverability and search — and the use habits that strengthen the quality of these results?
+            - This is a great description. Sub-scratchpads even, which further collect and pompile bits of related information. "They are scratchpads of one form or another." [*](((O1XunbzQI)))
+        5. @Charles on [Tweetstorm](((JeHClfDnW)))
+            - This is dope. "Similarly, the Agora could publish key questions & updates for subscribers to grapple with in their own graphs." [*](((v2dDsbO9j)))
+            - "If you would like to add your Roam Games submission to the graph, feel free to fill out the sign up sheet here or DM me your email.
+
+https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
+                - I'd make this more active-tone — ~~If you would like~~ → To have your RG submission included/showcased in the Agora...
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Review past TODOs and reschedule ones that feels relevant still. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
         - [ ] Download [Roam Portal](<Roam Portal.md>) and give it a test drive. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
@@ -291,6 +333,6 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
                     - "[ ] Who tweets what?"
                         - "Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play"
     - [Conversation](<Conversation.md>)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) thoughts on the draft [here](((JeHClfDnW)))?
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) thoughts on the draft [here](((JeHClfDnW)))?
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

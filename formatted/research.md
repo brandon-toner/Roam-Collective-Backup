@@ -5,6 +5,9 @@
 
 - #[FN](<FN.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- [Research]([research](<research.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 2. Review periodically, collecting ones that [resonate]([resonance](<resonance.md>)) or feel important to the direction of [research](<research.md>)
 

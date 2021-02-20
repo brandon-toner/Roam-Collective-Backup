@@ -4,3 +4,8 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Q](<Q.md>) How can the [scientific method](<scientific method.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>)
+
+- The [scientific method](<scientific method.md>)
+

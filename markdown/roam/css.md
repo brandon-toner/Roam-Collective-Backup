@@ -1575,7 +1575,7 @@ span.rm-page-ref[data-tag="Notion"] {
   	font-weight:	600;
 }```
                     - #Obs 
-                        - ```css
+                        - ```clojure
 span.rm-page-ref[data-tag="Obs"]:before {
     content: 		'🔬 ';
     font-size: 		var(--tag-icon-font-size);

@@ -6,6 +6,9 @@
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>)
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>)
+
 ## [Help Wanted](<Help Wanted.md>)
 - Take some [annotations](<annotations.md>) on a shared resource. Import highlights onto a [reference notes](<reference notes.md>) page & formulate some [literature notes](<literature notes.md>) — the goal here is to digest the resource and integrate it into the [collaborative zettelkasten](<collaborative zettelkasten.md>).
 

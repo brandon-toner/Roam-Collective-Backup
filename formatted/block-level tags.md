@@ -63,6 +63,14 @@
 - [ ] Tweet out summary of this tomorrow: ""On the value of [block-level tags](<block-level tags.md>)"
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
+- [Q](<Q.md>) What prevents a user from distilling their ideas into [block-level tags](<block-level tags.md>)?
+
+- #[FN](<FN.md>) Documenting ideas using [block-level tags](<block-level tags.md>)
+
+- [Obs](<Obs.md>) the block-level tags for [block-level tags](<block-level tags.md>)
+
+- #[FN](<FN.md>) The use of [block-level tags](<block-level tags.md>)
+
 - #[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
 
 - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)

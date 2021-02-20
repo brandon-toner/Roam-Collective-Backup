@@ -1575,7 +1575,7 @@ span.rm-page-ref[data-tag="Notion"] {
   	font-weight:	600;
 }```
                     - [Obs](<../Obs.md>) 
-                        - ```css
+                        - ```clojure
 span.rm-page-ref[data-tag="Obs"]:before {
     content: 		'🔬 ';
     font-size: 		var(--tag-icon-font-size);
@@ -4942,9 +4942,6 @@ h6 {
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [Drafts](<Drafts.md>)
-- [ ] Add to [roam/css](<../roam/css.md>)
-
-## [Experiments](<Experiments.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)

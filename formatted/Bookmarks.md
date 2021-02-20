@@ -22,6 +22,8 @@
 - `[Bookmarks](<Bookmarks.md>)`
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
+- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
+
 - [YES]([Bookmarks](<Bookmarks.md>))
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
