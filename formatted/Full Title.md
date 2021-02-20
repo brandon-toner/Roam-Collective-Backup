@@ -8,6 +8,14 @@
 - **[Author(s)](<Author(s).md>):** [Joel Chan](<Joel Chan.md>)
     - **[Full Title](<Full Title.md>):**
 
+## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
+- **[Author(s)](<Author(s).md>):** [Christopher Hodgkinson](<Christopher Hodgkinson.md>)
+    - **[Full Title](<Full Title.md>):**
+
+## [Books/Atomic Habits](<Books/Atomic Habits.md>)
+- **[Author(s)](<Author(s).md>):** [James Clear](<James Clear.md>)
+    - **[Full Title](<Full Title.md>):**
+
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Author(s)](<Author(s).md>):** [Joseph Campbell](<Joseph Campbell.md>)
     - **[Full Title](<Full Title.md>):**

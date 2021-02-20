@@ -103,6 +103,11 @@
 
 - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)`
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+
+- [@Charles]([@[[Charles Farr](<../@[[Charles Farr.md>)]]) [@Brandon]([@[[Brandon Toner](<../@[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
 

@@ -16,6 +16,9 @@
 
 - #[Q](<Q.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [Q](<Q.md>)}
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Q](<Q.md>)
 

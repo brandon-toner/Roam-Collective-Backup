@@ -36,6 +36,9 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
 

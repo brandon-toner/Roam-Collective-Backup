@@ -6,7 +6,7 @@
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         2. Review of [[fleeting notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
-        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}
         4. "On the value of [[block-level tags]]"
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
@@ -36,7 +36,7 @@
                             - Image:: 
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIF887MZQED.png?alt=media&token=b1375b75-f1dc-45b6-b4ed-c11508e4a4db)
                         - Thoughts::
-                            - My suspicion is that unless some original text is added with the block ref in your [[bookmarks]] section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([[querying]]). [@Sam]([[@[[Samuel Bars]]]])
+                            - My suspicion is that unless some original text is added with the block ref in your [[bookmarks]] section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([[querying]]). [@Sam]([[~[[Samuel Bars]]]])
                                 - This is because the markdown in YOUR section will only be the `((jslkdjrls))` block ID code gibberish.
         - #Q What are the [[glossary]] terms related to [[spaced repetition]]?
             - #I I'd like to form a quick glossary/map of terms to facilitate more precise discussion of terms.
@@ -128,13 +128,13 @@
         - {{[[TODO]]}} Move all non-basic templates to Roam42, reserving roam/templates for basic functions
         - {{[[TODO]]}} Adjust the sidebar colors to a cohesive color strategy
     - #Conversation 
-        1. [@Sam]([[@[[Samuel Bars]]]]) on [[roam-inter]] "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+        1. [@Sam]([[~[[Samuel Bars]]]]) on [[roam-inter]] "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
             - These are the main points that I don't yet understand, but would be interested in knowing. 
             - Even simply: What can it do? What are the limitations?
                 - Where does it insert blocks?
                     - Nested beneath a designated parent?
                     - What happens if that parent is deleted?
-        2. [@Sam]([[@[[Samuel Bars]]]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
+        2. [@Sam]([[~[[Samuel Bars]]]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
             - There is a fleeting note (or several) in there — **I can feel it haha.**
                 - Toss a `#FN` tag and make a claim. (use these liberally)
                     - e.g.
@@ -160,7 +160,7 @@
             - Right now our behaviour on bookmarks isnt block-level though... We nest multiple bookmarks under a single `#Bookmarks` tag.
                 - The beauty of this workflow is I can filter `Bookmarks` by `bnt` to see mine, by `csf` to see yours etc. And further filter by `Follow Up` to see that intersection.
                 - I wouldn't consider Bookmarks a block-level tag. 
-        6. [@Sam]([[@[[Samuel Bars]]]]) on [Zettelkasten](((6TxFuxypY)))
+        6. [@Sam]([[~[[Samuel Bars]]]]) on [Zettelkasten](((6TxFuxypY)))
             - The same thing could be done using the block-level tags. I often jump right into the fleeting notes if I have the clarity to do so on the topic, or **I'll write more until I do**... or ask more questions.
                 - The goal is a self-directed conversation that you mediate and tag using the block level tags.
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
@@ -284,7 +284,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - SmartBlock
                 - `#42SmartBlock` Check Zettels
                     - <%JAVASCRIPT:function getPagesNotOnIndexPage(n,e,t){return window.roamAlphaAPI.q("\n[:find ?page_title\n  :in $ % ?container_title ?tag1 ?tag2\n  :where\n    [?t1id :node/title ?tag1]\n    [?t2id :node/title ?tag2]\n    [?blocks :block/refs ?t1id]\n    [?blocks :block/refs ?t2id] \n    [?container_page :node/title ?container_title]\n    [?blocks :block/page ?page]\n    [?page :node/title ?page_title]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]","[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]",n,e,t).map((n,e)=>`[[${n[0]}]]`)}return getPagesNotOnIndexPage("[[Zettelkasten]] Index","Zettel","Page Type").map((n,e)=>`${n}`).join("\n");%>
-            - [@Samuel]([[@[[Samuel Bars]]]]) see the above...
+            - [@Samuel]([[~[[Samuel Bars]]]]) see the above...
         - Agenda for discussion with [[Stian Håklev]] on [[roam-inter]]
             - Discuss the Agora
                 - Helpful for us to share how we see working with roam-inter?
@@ -324,16 +324,16 @@ What's your take on fleeting notes that come from personal experience/journaling
             - "#Q Should page link, alias, and external link all be different colours?"
                 - [@Brandon]([[~[[Brandon Toner]]]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
         - On [[zettelkasten]] systems
-            - [@Samuel]([[@[[Samuel Bars]]]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
+            - [@Samuel]([[~[[Samuel Bars]]]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
                 - What are your thoughts?
                 - Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system.
                     - See: "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([[cc:[[Joel Chan]]]]) system with the addition of a `#FN` level that I call a `#Notion`
-            - [@Samuel]([[@[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
-            - [@Brandon]([[@[[Brandon Toner]]]]) & [@Samuel]([[@[[Samuel Bars]]]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+            - [@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
+            - [@Brandon]([[@[[Brandon Toner]]]]) & [@Samuel]([[[[Samuel Bars]]]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
                 - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [[block-level tags]]
-            - [@Brandon]([[~[[Brandon Toner]]]]) [@Samuel]([[@[[Samuel Bars]]]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
+            - [@Brandon]([[~[[Brandon Toner]]]]) [@Samuel]([[~[[Samuel Bars]]]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
                 - If you want to be able to resurface Bookmarks, you need [[block-level tags]]; the `#Bookmarks` section won't meet your needs
                 - I use the `#Follow Up` block in this way, but it's not perfect
             - [@Brandon]([[~[[Brandon Toner]]]]) I think that one of the biggest reasons why I like singular for [[block-level tags]] is that it distinguishes between an atomic block and a collection.

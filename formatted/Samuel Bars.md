@@ -25,8 +25,8 @@
         - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-            - #[GTD Zone](<GTD Zone.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>)
+            - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - ---
 - todo

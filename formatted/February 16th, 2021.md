@@ -149,7 +149,7 @@
         - Did most of my work in the [Roaman Agora](<Roaman Agora.md>) graph today, plus a long CH call with Brandon — lots to think on...
     - [Conversation](<Conversation.md>)
         - Discussions
-            - [re](((A5lIDpmnY))): [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) just added you as an editor. [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
+            - [re](((A5lIDpmnY))): [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) just added you as an editor. [@S]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.
             - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) is there a good summary of Roam Collective's mission statement in the graph here? Want to add a summary to the Agora...
             - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `[I](<I.md>)` block they're nested under, which feels appropriate. 

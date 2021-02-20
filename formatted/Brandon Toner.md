@@ -36,7 +36,6 @@
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
         - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
@@ -257,6 +256,11 @@
 - [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [February 20th, 2021](<February 20th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+- [@Brandon]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)

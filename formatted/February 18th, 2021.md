@@ -6,7 +6,7 @@
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         2. Review of [fleeting notes](<fleeting notes.md>) with Sam — [here](((0oR0z3jPD))) [Onboarding](<Onboarding.md>) #[Graph Mentorship](<Graph Mentorship.md>)
-        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or:[@[[Everyone](<@[[Everyone.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}}
         4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
@@ -36,7 +36,7 @@
                             - **[Image](<Image.md>):** 
                                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIF887MZQED.png?alt=media&token=b1375b75-f1dc-45b6-b4ed-c11508e4a4db)
                         - **[Thoughts](<Thoughts.md>):**
-                            - My suspicion is that unless some original text is added with the block ref in your [bookmarks](<bookmarks.md>) section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([querying](<querying.md>)). [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]])
+                            - My suspicion is that unless some original text is added with the block ref in your [bookmarks](<bookmarks.md>) section, the block refs you are adding to you Bookmarks section will be unavailable for [query]([querying](<querying.md>)). [@Sam]([~[[Samuel Bars](<~[[Samuel Bars.md>)]])
                                 - This is because the markdown in YOUR section will only be the `((jslkdjrls))` block ID code gibberish.
         - [Q](<Q.md>) What are the [glossary](<glossary.md>) terms related to [spaced repetition](<spaced repetition.md>)?
             - [I](<I.md>) I'd like to form a quick glossary/map of terms to facilitate more precise discussion of terms.
@@ -128,13 +128,13 @@
         - [ ] Move all non-basic templates to Roam42, reserving roam/templates for basic functions
         - [ ] Adjust the sidebar colors to a cohesive color strategy
     - [Conversation](<Conversation.md>) 
-        1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [roam-inter](<roam-inter.md>) "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+        1. [@Sam]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [roam-inter](<roam-inter.md>) "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
             - These are the main points that I don't yet understand, but would be interested in knowing. 
             - Even simply: What can it do? What are the limitations?
                 - Where does it insert blocks?
                     - Nested beneath a designated parent?
                     - What happens if that parent is deleted?
-        2. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
+        2. [@Sam]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
             - There is a fleeting note (or several) in there — **I can feel it haha.**
                 - Toss a `[FN](<FN.md>)` tag and make a claim. (use these liberally)
                     - e.g.
@@ -160,7 +160,7 @@
             - Right now our behaviour on bookmarks isnt block-level though... We nest multiple bookmarks under a single `[Bookmarks](<Bookmarks.md>)` tag.
                 - The beauty of this workflow is I can filter `Bookmarks` by `bnt` to see mine, by `csf` to see yours etc. And further filter by `Follow Up` to see that intersection.
                 - I wouldn't consider Bookmarks a block-level tag. 
-        6. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [Zettelkasten](((6TxFuxypY)))
+        6. [@Sam]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [Zettelkasten](((6TxFuxypY)))
             - The same thing could be done using the block-level tags. I often jump right into the fleeting notes if I have the clarity to do so on the topic, or **I'll write more until I do**... or ask more questions.
                 - The goal is a self-directed conversation that you mediate and tag using the block level tags.
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
@@ -284,7 +284,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - SmartBlock
                 - `[42SmartBlock](<42SmartBlock.md>)` Check Zettels
                     - <%JAVASCRIPT:function getPagesNotOnIndexPage(n,e,t){return window.roamAlphaAPI.q("\n[:find ?page_title\n  :in $ % ?container_title ?tag1 ?tag2\n  :where\n    [?t1id :node/title ?tag1]\n    [?t2id :node/title ?tag2]\n    [?blocks :block/refs ?t1id]\n    [?blocks :block/refs ?t2id] \n    [?container_page :node/title ?container_title]\n    [?blocks :block/page ?page]\n    [?page :node/title ?page_title]\n    (not (ancestor ?container_block ?container_page)\n         [?container_block :block/refs ?page])\n]","[ \n  [(ancestor ?child ?parent)\n   [?parent :block/children ?child]]\n  [(ancestor ?child ?ancestor)\n   [?parent :block/children ?child]\n   (ancestor ?parent ?ancestor)]\n]",n,e,t).map((n,e)=>`[[${n[0]}]]`)}return getPagesNotOnIndexPage("[Zettelkasten](<Zettelkasten.md>) Index","Zettel","Page Type").map((n,e)=>`${n}`).join("\n");%>
-            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) see the above...
+            - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) see the above...
         - Agenda for discussion with [Stian Håklev](<Stian Håklev.md>) on [roam-inter](<roam-inter.md>)
             - Discuss the Agora
                 - Helpful for us to share how we see working with roam-inter?
@@ -324,16 +324,16 @@ What's your take on fleeting notes that come from personal experience/journaling
             - "[Q](<Q.md>) Should page link, alias, and external link all be different colours?"
                 - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
         - On [zettelkasten](<zettelkasten.md>) systems
-            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
+            - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
                 - What are your thoughts?
                 - Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))/[Sonke]([Sonke Ahrens](<Sonke Ahrens.md>)) approach in favor of what feels like a more "agnostic" system.
                     - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
-            - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+            - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
+            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [@Samuel]([[[Samuel Bars](<[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
                 - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
-            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))
                 - If you want to be able to resurface Bookmarks, you need [block-level tags](<block-level tags.md>); the `[Bookmarks](<Bookmarks.md>)` section won't meet your needs
                 - I use the `[Follow](<Follow.md>) Up` block in this way, but it's not perfect
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>) is that it distinguishes between an atomic block and a collection.

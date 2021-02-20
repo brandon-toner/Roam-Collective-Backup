@@ -8,6 +8,14 @@
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource... Articles, Books, Videos etc.))
     - **[Author(s)](<Author(s).md>):**
 
+## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
+    - **[Author(s)](<Author(s).md>):**
+
+## [Books/Atomic Habits](<Books/Atomic Habits.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
+    - **[Author(s)](<Author(s).md>):**
+
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):**

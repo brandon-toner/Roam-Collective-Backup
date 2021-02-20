@@ -9,3 +9,6 @@
 
 - The [scientific method](<scientific method.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>)
+

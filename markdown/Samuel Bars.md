@@ -25,8 +25,8 @@
         - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
-            - #[[GTD Zone]]
-            - #[[The Zettelkasten]]
+            - #[[GTD Zone]] #not-populated
+            - #[[The Zettelkasten]] #not-populated
             - #Conversation #not-populated
         - ---
 - todo

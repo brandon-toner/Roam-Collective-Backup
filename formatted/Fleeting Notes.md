@@ -42,6 +42,15 @@
 
 - "Seedlings may be used to designate a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>)
+
+- "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>)
+
+2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on [fleeting notes](<fleeting notes.md>)
+
+2. [claims](<claims.md>) vs [fleeting notes](<fleeting notes.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>)
 

@@ -3,6 +3,11 @@
 ## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
 - the purpose of the [divergence](<divergence.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) drive [creativity](<creativity.md>) and [divergence](<divergence.md>).
+
+- [divergence](<divergence.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>)
 

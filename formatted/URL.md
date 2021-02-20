@@ -12,6 +12,14 @@
 - **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
     - **[URL](<URL.md>):**
 
+## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
+- **[Full Title](<Full Title.md>):** Administrative Philosophy: values and motivations in administrative life
+    - **[URL](<URL.md>):**
+
+## [Books/Atomic Habits](<Books/Atomic Habits.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+    - **[URL](<URL.md>):**
+
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
     - **[URL](<URL.md>):**

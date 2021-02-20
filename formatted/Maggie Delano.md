@@ -22,6 +22,13 @@
 
 - [ ] Adapt Maggies code to work with block level tags: "Importing [Maggie Delano](<Maggie Delano.md>)'
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- [Maggie D]([Maggie Delano](<Maggie Delano.md>))
+
+- "[Maggie D]([Maggie Delano](<Maggie Delano.md>))
+
+- "[Maggie D]([Maggie Delano](<Maggie Delano.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>)
 

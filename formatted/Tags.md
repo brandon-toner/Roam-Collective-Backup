@@ -24,9 +24,6 @@
 ## [Akiff Premjee](<Akiff Premjee.md>)
 - **[Tags](<Tags.md>):**
 
-## [Algorithms of Thought](<Algorithms of Thought.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Alysson M. Costa](<Alysson M. Costa.md>)
 - **[Tags](<Tags.md>):**
 
@@ -58,6 +55,12 @@
 - **[Tags](<Tags.md>):**
 
 ## [Beyond the Basics](<Beyond the Basics.md>)
+- **[Tags](<Tags.md>):**
+
+## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
+- **[Tags](<Tags.md>):**
+
+## [Books/Atomic Habits](<Books/Atomic Habits.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
@@ -581,6 +584,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [[Feedback](<[Feedback.md>): [Suggestions](<Suggestions.md>)](<[Feedback](<Feedback.md>): [Suggestions](<Suggestions.md>).md>)
+- **[Tags](<Tags.md>):**
+
+## [algorithms of thought](<algorithms of thought.md>)
 - **[Tags](<Tags.md>):**
 
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)

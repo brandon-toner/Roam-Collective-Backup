@@ -115,7 +115,7 @@
         3. Accidentally discovered the meaning of the phrase "[[research]] & [[development]]" (R&D) [here](((wALPyzpN9))) haha.
             - Used that phrasing then realized: "Hey, that's R&D!" -- sign that "research" and "development" are great broad categories for tagging.
         4. On prompt-like questions:
-            - "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithms of thought (AoTs)]] to build using a template, in  which case I would just nest them under the tag for said AoT"
+            - "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithms of thought]] to build using a template, in  which case I would just nest them under the tag for said AoT"
                 - Love this solution. An AoT tag is the answer here. Great work. [[cc:[[Charles Farr]]]]
         5. On Roam Games - Dhrumil
             - "going to spend some time tonight on [[Roam Games]], anyone doing it this week? we can jam together."
@@ -339,10 +339,10 @@ I think I need to go through the whole process to make sure I internalise it.
             - [[^[[Peter Rosso]]]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [[~[[Charles Farr]]]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
                 - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                     - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
-        - On labeling [[prompts]] disguised as [[questions]] with BToner → [[algorithms of thought (AoTs)]] creation
+        - On labeling [[prompts]] disguised as [[questions]] with BToner → [[algorithms of thought]] creation
             - [[^[[Brandon Toner]]]] re: "[[~[[Charles Farr]]]] How would you tag these types of [[questions]]? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?"
                 - As far as tagging questions like these, I've just been adding the `#Q` tag — ultimately for most of the questions I've identified, I would like to return to them
-                - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithms of thought (AoTs)]] to build using a template, in  which case I would just nest them under the tag for said AoT
+                - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [[algorithms of thought]] to build using a template, in  which case I would just nest them under the tag for said AoT
                     - #42SmartBlock .rc4AoT — Resurfacing for Future Me
                         - [[[[AoT]] For My Future Self]]
                             - How do I want to come across this again? (active vs. passive)

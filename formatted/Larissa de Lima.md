@@ -40,6 +40,11 @@
 
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- [Larissa]([Larissa de Lima](<Larissa de Lima.md>))
+
+- "[Larissa]([Larissa de Lima](<Larissa de Lima.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 

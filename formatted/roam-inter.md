@@ -11,7 +11,7 @@
 - Having done a bit more investigation around [roam-inter](<roam-inter.md>),
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-1. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [roam-inter](<roam-inter.md>)
+1. [@Sam]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [roam-inter](<roam-inter.md>)
 
 - [ ] Take notes on [roam-inter](<roam-inter.md>)'
 

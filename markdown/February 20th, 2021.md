@@ -1,30 +1,279 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        - "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
+            - ... "Found a better alternative: [[propositions]]"
+                - "I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. "
+    - #Chat ((A place to propose objects of discussion)) 
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock))
+        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+    - #Scratchpad 
+        - "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
+            - Found a better alternative: [[propositions]]
+                - I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. 
+                - The tone fits perfectly — it is declarative, yet suggestive. Not overly confident in tone, simply proposing some facts, claims or assertions.
+                - The term is unique in the current array of zettelkasten expressions — as to conflict with RBCIII, etc.
+                - Example:: From [[Books/Administrative Philosophy]] by [[Christopher Hodgkinson]]
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F3h1KmO_P9b.png?alt=media&token=23ba5253-e20a-4726-95b9-395a4120469e)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)
+                - #Q What block-level abbreviation could be assigned to [[propositions]]?
+                    - Prop
+                    - PN
+                    - FN
+                    - 
+        - I've stopped using #[[The Zettelkasten]] as a daily module — instead, I capture zettelkasten ideas inline using the block-level tags within my scratchpad. 
+            - Ideas arise **in context** so having to jump section to put them somewhere else felt unnatural and not optimal for future re-discovery of ideas and context.
+            - Instead, I've built a series of queries that auto-collect contents from elsewhere in my DNP section. 
+                - #I Something similar could be added to the [[community notes]] section at the top.
+                    - This would auto-compile ALL of the block-level tags used throughout the day by all users — and would be a great way to detect [[signal]] in the graph.
+                        - #[[FN]] [[block-level tags]] are a great indicator of [[signal]] within a [[collaborative graph]].
+                            - Blocks containing a block-level tag are more likely to be signal-dense.
+        - #Q How do we adjust the color/appearance of queries in CSS?
+            - The black/blue feels off with the rest of the colors/theme
+        - #Obs I feel a tension between [[quotes]], [[highlights]], [[literature notes]], and [[verbatim notes]].
+            - Goals: 
+        - Citizens of Hypertext: provocations #Clubhouse
+            - Hosts:: 
+                - [Maggie]([[Maggie Appleton]])
+                - Jad
+                - Prakhar
+                - Kirill
+                - Daniel
+                - Sai
+            - #Annotations
+                - #Obs I love the idea of [[provocations]]
+                    - #Q How does a [provocation]([[provocations]]) differ from a [proposition]([[propositions]])
+                - "#Q What are the metaphors we should be using to conceptualize internet spaces?"
+                - "The nature and characteristics of online and physical is converging."
+                    - #[[FN]] Online spaces are influenced by physical spaces; physical spaces are influenced by online spaces.
+                    - #[[FN]] Online spaces cast a vision and model of interaction that physical spaces can follow and emulate.
+                    - #[[FN]] The internet, and online spaces, should be designed with care.
+                        - "The [[metaphors]] we bring with us into design affect the products that we create, consciously and unconsciously." 
+            - Provocation 1: "Digital societies amplify inequities existent in physical spaces"
+                - "Jad":
+                    - Digital societies amplify inequities existent in physical spaces
+                    - "A game of the top 1%"
+                - "[Maggie]([[Maggie Appleton]])":
+                    - "Digital societies amplify inequities existent in physical spaces"
+                        - We tell ourselves the narrative of the democratic nature of the internet.
+                        - "Its all egalitarian online" "Anyone can be a YouTube star"
+                        - Q: Have we let the narrative overshoot the reality of how its really working?
+                - "Prakhar"
+                    - Difference between value creation and receipt of reward
+                - "Jad"
+                    - A creator middle class would require smaller platforms
+                        - An article.
+                    - "The superstar effect" drives "Digital societies amplify inequities existent in physical spaces"
+            - Provocation 2: "[Maggie]([[Maggie Appleton]])": "The internet is not finished and has been "built by a few privileged white men""
+                - "[Maggie]([[Maggie Appleton]])"
+                    - The internet is not finished and has been "built by a few privileged white men"
+                    - "You have the right to build whatever you want"
+                    - An unhealthy idolization of them
+                    - Paints a picture of "who is the type of person who builds a protocol"
+                    - Out metaphors are very deeply culturally ingrained
+                    - The [[metaphors]] we bring with us into design affect the products that we create, consciously and unconsciously.
+            - Provocation 3: "Prakhar" (missed it)
+            - #Q What are the metaphors we should be using to conceptualize internet spaces?
+                - "Prakhar"
+                    - A place as close to the place we live in physically
+                        - Cities, parks, etc
+                        - Expand beyond office metaphor
+            - Provocation 4: "Sai"
+                - The future of the internet has the potential to impact the future of humanity.
+                - The nature and characteristics of online and physical is converging.
+                - While physical spaces are finite, online spaces are infinite.
+                    - You can create infinite amounts of "online land"
+            - "Jad": The metaverse
+                - Who owns and operates the metaverse?
+            - "[Maggie]([[Maggie Appleton]])"
+                - #Q Is it possible for individual people to build large-scale, complex, reactive applications?
+                    - #Q Does [[Moore's Law]] empower [this](((gkJdghHrV))) future?
+            - Provocation 5: "Sense of self online / effects of our [[information diet]]"
+                - "Daniel"
+                    - Alice in Wonderland: Who are you?
+                    - Sense of self online / effects of our [[information diet]]
+                    - Each bite of content online alters our thinking.
+                    - A word of caution on our [[information diet]]
+                    - What we read impacts who we are. How we perceive our own reality.
+        - Roam Research: [[algorithms of thought]] #Clubhouse
+            - **Participants:**
+                - [Norman]([[Norman Chella]])
+                - [Chris]([[Roamhacker]]) 
+                - Lukas
+                - Lisa-Marie
+                - [Zsolt]([[Zsolt Viczián]])
+                - [Maggie D]([[Maggie Delano]])
+                - [Larissa]([[Larissa de Lima]])
+                - [Mark]([[Mark Robertson]])
+            - #Annotations
+                - ""I want [[Jarvis]], rather than [[Clippy]].""
+                    - #Q What are the characteristics of [[Jarvis]]? ([[Iron Man]]'s AI assistant)
+                    - #Q How might [[Jarvis]] be expressed within Roam? What would it do? What information would it provide? How would it detect context?
+                - "Recommendation of algorithms"
+                    - #I An algorithm of the selection of algorithms.
+                - "Technology may be able to eventually assist in the selection of tools."
+                    - #I Regular behaviours and patterns of documentation may be necessary for an algorithm to detect context.
+                        - #[[FN]] Standard documentation processes and conventions may assist in algorithmic suggestions and [[algorithms of thought]].
+                    - It feels quite possible to over-automate the process of algorithms of thought.
+                - Thoughts:: [*]([[algorithms of thought]])
+                    - #[[FN]] Processes of thought are complex.
+                    - #[[FN]] Processes of thought are deeply personal.
+                    - #[[FN]] Processes of thought are adaptive to context
+                    - #Obs Science employs [[algorithms of thought]].
+                    - #[[FN]] "[[augmentation]] over [[automation]]"
+                    - #Q How might [[algorithms of thought]] empower [[flow state]] writing?
+                    - #Q How might [[algorithms of thought]] assist with [[editing]]?
+                    - #Q How might [[algorithms of thought]] support convergence?
+                    - #Q How might [[algorithms of thought]] drive [[creativity]] and [[divergence]].
+                    - #[[FN]] [[algorithms of thought]] should be [[memetic]] and adaptive.
+                    - #I The degree of guidance and rigidity should vary Aot-to-Aot.
+                    - "Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established."
+                        - The [[establishment]] is a dominant frame — a shared lens. 
+                    - #I An algorithmic approach to thinking and behaviour
+                    - "Take any series of concepts, and create dialogue between them."
+                        - #I Develop randomization systems that facilitate the environment and the mind-space for creativity.
+                    - 
+            - Notes::
+                - #Q What are [[algorithms of thought]]?
+                - #Q How could [[algorithms of thought]] be implemented in Roam?
+                - #Q How could [[algorithms of thought]] of thought be created and shared?
+                - #Q What [[algorithms of thought]] might be helpful, and why?
+                - Simple set of guiding structures
+                - [Norman](((UFDGB6kL3)))
+                - "Lisa-Marie"
+                    - Break down processes for "how I think"
+                        - "Can I actually do that?"
+                        - Standardized thinking processes
+                        - Building processes to support my thinking
+                            - "I don't think I've ever gone that deep"
+                - "Lukas"
+                    - "[Chris]([[Roamhacker]]) " — Brainstorming with yourself // Post-mortems
+                    - "Lisa-Marie" — Meta-processes
+                    - #Q How do you help people to think in processes?
+                    - Ideas:
+                        - Presentation of general framework and guidance.
+                        - Presentation of context-dependant suggestions that may be valuable within those frameworks.
+                            - On structure, process, and content.
+                            - "[Maggie D]([[Maggie Delano]])" — like a smarter [[Clippy]]?
+                        - Engage with the system manually.
+                            - "I want [[Jarvis]], rather than [[Clippy]]."
+                - "[Chris]([[Roamhacker]]) "
+                    - #Q How can we integrate these suggestions into our workflows without initiating the command manually?
+                - "Lukas"
+                - "[Larissa]([[Larissa de Lima]])"
+                    - How might it be triggered by the individual?
+                        - Recommendation of questions
+                        - Recommendation of algorithms
+                - "[Mark]([[Mark Robertson]])"
+                    - Build the toolbox
+                    - Then scan that list of potential tools, manually
+                    - Technology may be able to eventually assist in the selection of tools.
+                    - If there is too much prompting, too much AI, there will be a significant loss of context.
+                - "Not a calculator, but more of a socratic guide." - "Lukas"
+                - "Resistant to the idea of being asked questions by something non-organic" - "Lisa-Marie"
+                - Q: What is the source of that resistance? - "Lukas"
+                    - Common objection.
+                    - "I like organic, free-range thinking rather that rigid process guides"
+                - "When I talk about process to other people: Process is extremely personal" - "Lisa-Marie"
+                    - Leary of standardized processes 
+                - "[Zsolt]([[Zsolt Viczián]])"
+                    - Check out Edward Bono's work on 
+                - "[Maggie D]([[Maggie Delano]])"
+                    - Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established.
+                - Shana
+                    - How do we prevent prescription AoTs to 
+                    - Creativity also embodies and algorithmic approach to thinking.
+                        - Prompting for new ideas
+                        - [[idea sex]]
+                    - Value in separating "left-" and "right-brained" thought
+                        - [[divergence]] and [[convergence]]
+                    - Roam is very bi-modal 
+                        - Meets needs of creativity and convergence
+                    - Re-training adults to turning off and on the right-brain switch
+                        - Create the environment for uncommon ideas to bounce off of one another
+                        - Take any series of concepts, and create dialogue between them.
+                            - [[idea sex]]
+                    - #FN There are aspects of creativity that can be programmatic and algorithmic.
+                - Lorenzo
+                    - The importance of asking the right questions.
+                        - [[Evergreens/A question well stated is a problem half-solved]]
+                - [[Joe Brucker]]
+                    - [[category theory]]
+                        - Objects, relationships, and analogies
+                        - Tool for exploration and creativity
+                            - Possible to collect objects, define relationships and search for analogous object-relationship connections.
+        - Thoughts on Agora x RGIII tweets
+            - Link to BT tweet thread yesterday (verbose relfection on RC to-date)
+            - Key points of Thread 2
+    - #[[The Zettelkasten]]
+        - Observations
+            - {{[[query]]: {and: [[bnt]] [[February 20th, 2021]] [[Obs]]}}}
+        - Questions 
+            - {{[[query]]: {and: [[bnt]] [[February 20th, 2021]] [[Q]]}}}
+        - Ideas
+            - {{[[query]]: {and: [[bnt]] [[February 20th, 2021]] [[I]]}}}
+        - Fleeting Notes
+            - {{[[query]]: {and: [[bnt]] [[February 20th, 2021]] [[FN]]}}}
+    - #Conversation 
+        1. [@Peter]([[@[[Peter Rosso]]]]) On [reading choice](((BUM_0plKB))) ([[Christopher Hodgkinson]])
+            - VERY hard to find.
+            - This author came HIGHLY recommended to my by a mentor of mine — who studied ethics and organizational leadership for his PhD and was a previous superintendent of a school board. I borrowed his copy of a different one of his books — and recently found a few copies online via a second hand resale site. Just arrived on delivery yesterday.
+            - In particular, his book, [[Books/Educational Leadership]] was recommended. I'm primarily reading that one now.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHv7r_09Uy3.png?alt=media&token=8d9de0ff-5771-4ee9-82f8-4ee71d3f6b76)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbydVOh7frE.png?alt=media&token=8f8731a1-fb73-461a-b167-fe1e3390e37b)
+            - "[@Brandon]([[@[[Brandon Toner]]]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting."
+                - Yea — she'd love it. Great historical look on education, with a focus on philosophy and morality. It's a gem.
+        2. [@Peter]([[@[[Peter Rosso]]]]) on [[fleeting notes]] vs [[propositions]] [*](((70BbCHmbe)))[*]([[@[[Charles Farr]]]])
+            - I agree — "#[[FN]] To keep ideas flowing, you need to keep [[minimum requirements]] low. #momentum"
+            - #I I think that "[[flow state]]" writing can take place in the form of TRUE "fleeting" notes — ones WITHOUT a [block-level tag]([[block-level tags]]) associated.
+                - THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags.
+                    - In this way, the [[conventions]] both optimize for [[flow state]] writing, while being capable of [[capturing]] [convergent]([[convergent]]) insight as it precipitates.
+        3. [@Peter]([[@[[Peter Rosso]]]]) On [[questions]] [*](((GofzUrNr3)))
+            - Kinda both actually. Stating questions summarized and converges uncertainty into a manageable unit. 
+            - They set the stage for future divergence, through further exploration, or for future convergence through distillation and summarization. 
+            - Questions are special.
+            - "is there any point in answering the previous question?" [*](((GofzUrNr3)))
+                - Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally.
+                    - #[[FN]] The act of defining [[questions]] is in itself valuable — independent of the answering process.
+                    - #[[FN]] important [[questions]] central to an area of development should be elevated to [[page-level]] to promote more frequent consideration and [[resurfacing]].
+                - 
+    - #[[Change Log]] #not-populated
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
+    - #Bookmarks
+        - "#Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[Articles/Joel Chan — Knowledge Synthesis]])"
     - #[[The Zettelkasten]]
-        - Having different UIs with constraints, to focus user behaviour and induce different types of attention 
-        - #FN The design and features of our tools influence our behavior and type of attention
-            - #FN We take cues from our environment to adapt our behavior, often unconsciously
-                - An obvious example is social media. It is engineered to increase our time on the app, and increase ad revenue.
-                    - #Obs some of the behaviors that emerged on social media were probably not expected/designed, they were rather a side effects of the tool's design and social phenomena.
-                        - Especially thinking about communities
-                            - politics twitter, arguing-about-everything-twitter, polarity, division
-                            - money twitter, people leveraging the algorithm and self-reinforcing communities to make money, echo chambers, content substance matters less than the validation of others in the community
-                            - Roamcult, one product kickstarting huge activity in tools for thought space, memex twitter (QT and threads) with connor/visakanv/many others, twitter becoming an intellectual caffe
-                        - #FN The design and functionality of social platforms has unexpected influence on user/group behavior
-                    - #Q How much of our behavior depends on our environment and tools, versus our internal frames, initiatives, desires, and other internal drivers?
-                - #FN Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
-                    - #Q If decision-making is consciously choosing an option, how do we name the process of making the endless "decisions" we're not even aware we do all the time, like which muscles to activate to make a step forward?
-                        - Unconscious/Unaware decision making?
-                - How does attention relate to that? 
-                    - I should dig a bit on these studies that show the eye movements of people on the Internet. Looks like some maniac stuff. Also how attention spans have shortened, many people don't read books, etc etc.
-                        - #Q What are the causes really, for the dramatical shift in the type of attention most people have day to day?
-                            - Some people say it's since we created clickable links
-                                - Which introduced FOMO?
-                                    - There's always something else to check __out there__, not here, and I can get there **very** easily. Why stay where I am? It might be better there, there might be something/surprising/interesting, there might be something better. It's definitely going to be **new**
-                            - Others talk about media, television
+        - "#[[FN]] system/[[UI]] [[constraints]] focus user behaviour" which means that
+            - #FN The design and features of our tools influence our behavior and type of attention
+                - #FN We take cues from our environment to adapt our behavior, often unconsciously
+                    - An obvious example is social media. It is engineered to increase our time on the app, and increase ad revenue.
+                        - #Obs some of the behaviors that emerged on social media were probably not expected/designed, they were rather a side effects of the tool's design and social phenomena.
+                            - Especially thinking about communities
+                                - politics twitter, arguing-about-everything-twitter, polarity, division
+                                - money twitter, people leveraging the algorithm and self-reinforcing communities to make money, echo chambers, content substance matters less than the validation of others in the community
+                                - Roamcult, one product kickstarting huge activity in tools for thought space, memex twitter (QT and threads) with connor/visakanv/many others, twitter becoming an intellectual caffe
+                            - #FN The design and functionality of social platforms has unexpected influence on user/group behavior
+                        - #Q How much of our behavior depends on our environment and tools, versus our internal frames, initiatives, desires, and other internal drivers?
+                    - #FN Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
+                        - #Q If decision-making is consciously choosing an option, how do we name the process of making the endless "decisions" we're not even aware we do all the time, like which muscles to activate to make a step forward?
+                            - Unconscious/Unaware decision making?
+                        - How does attention relate to that? 
+                            - I should dig a bit on these studies that show the eye movements of people on the Internet. Looks like some maniac stuff. Also how attention spans have shortened, many people don't read books, etc etc.
+                                - #Q What are the causes really, for the dramatical shift in the type of attention most people have day to day?
+                                    - Some people say it's since we created clickable links
+                                        - Which introduced FOMO?
+                                            - There's always something else to check __out there__, not here, and I can get there **very** easily. Why stay where I am? It might be better there, there might be something/surprising/interesting, there might be something better. It's definitely going to be **new**
+                                    - Others talk about media, television
+                - "Due to increased user uptake, a reduced [[learning curve]], and more homogenous user behaviour, #[[FN]] increased user constraints improve the feasibility of systems of collaboration."
         - #[[LN]] [[Books/How to Take Smart Notes]] 9.3 Give Each Task the Right Kind of Attention (p. 61)
             - The examples here are in writing.
                 - Proofreading and writing require a very different kind of attention
@@ -46,7 +295,7 @@
                 - Correcting
                 - Rewriting
             - ^ "All these are not just different tasks, but tasks requiring a different kind of attention."
-    - #Conversation #not-populated
+    - #Conversation
         - [@Brandon]([[@[[Brandon Toner]]]]) About [block level tags](((Spljfcp-2)))
             - #FN Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - They see a question, with a fleeting notes as an answer underneath. They might think the question is good, but they think there is a better answer. Now they can just reference the question and give their answer.
@@ -57,4 +306,89 @@
                     - #FN You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
                         - #FN Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
                             - Related to Expert vs Planner chapter in [[Books/How to Take Smart Notes]]
+        - [@Charles]([[@[[Charles Farr]]]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
+            - Practically, how would you make the demo? Drawing the chat interface on figma/some other design tool and putting some mock data in roam? 
+            - Happy to help btw, very interested in this
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}" Currently using a Raspberry Pi...
+    - #Inbox
+        - Has anyone used roam inter yet?
+        - I have been using this group css for some time now, could I sink it?
+        - #Q What is a viable unit test for a Roam games js/css submission?
+        - "Found a better alternative: [[propositions]]"
+        - "Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])"
+            - "**Methods:**"
+                - "Via block ref count"
+                - "Via emoji reactions"
+                    - "By using 👍or ➕on the `Option Blocks`"
+                    - "By using 1,2,3 emojis on a `Summary Block`"
+                        - "Using a `Community/Vote` attribute"
+                            - "Pros:: "
+                                - "Can click that attribute to see similar votes"
+                                - "Can reference that block to further elaborate on the thoughts/nuance behind the vote"
+                            - "Cons::"
+                                - "Need to expand the parent to see it. "
+                                    - "Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless."
+                        - "Using the `top-level parent` block"
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F_8RWheuEC4.png?alt=media&token=b57bfd43-2bc1-4c31-9c82-a3ebfa980a69)
+    - #[[Scratchpad]]
+        - Voting
+            - #Q Can we use thumbs up and down to [vote](((Rze0wSaaN)))? [*]((((FFs7Dxscf)))
+        - On [[resurfacing]] of [[questions]]
+            - "Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally."
+                - And if a question is more pressing it can be made to a task so that we have control on when to address it rather than hoping to stumble on it.
+        - "#[[FN]] The act of defining [[questions]] is in itself valuable — independent of the answering process."
+            - [[Books/Atomic Habits]] quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works.
+        - Code inspired dependency management
+            - "[*]([[~[[Brandon Toner]]]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. "
+                - The podcast explored the idea of centralisation of control versus lack of centralisation. Despite the latter approach ruby is still a widely used language, but what the Agora would do is to achieve centralisation. 
+                - Every time I need to write new code I look for documentation. Documentation is accompanied by a centralised library of all the code that is freely available.
+                - Another thoughts that comes to mind when thinking about code management and testing is CD/CI
+                    - The idea is that code gets tested before being deployed. This works in an ideal world in which people actually write tests for their own code, but people never do that. When code is pushed to the main branch of their git remote, the code is tested and integrated into the general workflow. 
+                    - If the code works and does not throw errors it becomes part of the bigger code.
+                    - [@Charles]([[@[[Charles Farr]]]]) [@Brandon]([[@[[Brandon Toner]]]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[[Sprints/1 — Roam Games 3 (managing dependencies)]]
+                        - Enters Roam Inter
+                            - Imagine that the css and js necessary to run this page was organised on the Roam Agora. If the is a change on the code on the agora which only the creator can edit that change updates in the RC graph using roam inter.
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
+                            - This kind of fix would be automatically updated to all the graphs with the mentioned code.
+                            - Thoughts?
+        - "[[~[[Brandon Toner]]]] [[@[[Peter Rosso]]]] check out the new mythology of notes I implemented in my personal graph, regarding your thoughts on `#Obs` [*](((1jQSerSAt)))"
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Install roam inter 
+        - {{[[TODO]]}} Find "[[Books/Atomic Habits]] quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works."
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation
+        1. Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        2. [[claims]] vs [[fleeting notes]] vs [[preposition]]
+            - [@Brandon]([[@[[Brandon Toner]]]]), [On Claims](((KS6457gQP))) I will need to find the exact section of the book, but we discussed this last week at a reading (unfortunately not recorded). Some claims can be fleeting notes, but the converse is not necessarily true. From the original definition, I think we have been using the scratch book as a list of fleeting notes and then sorting some of them into claims. Most of the current fleeting notes are claims but fleeting notes $$\neq$$ claims.
+                - Additionally, [On adoption of standards](((ct3Iw8fLY))) I think the next wave of Zettelkasten users will mostly be influenced by Beau's design given that he is running the RBC III. [cc:Brandon]([[@[[Brandon Toner]]]])
+                - On top of this it is worth considering what I have been repeating to anyone I zoomed about Zettelkasten development. In order to yield the greatest output it is important to have a personalised system that meets our needs.
+                    - [@Brandon]([[@[[Brandon Toner]]]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. #FN Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
+                    - "THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags."
+                    - [@Brandon]([[@[[Brandon Toner]]]])[On Questions](((U8aJOgOcc))) #Q Are `#Q` convergent or divergent? and is there any point in answering the previous question?
+                    - ---
+                    - [@Brandon]([[@[[Brandon Toner]]]]) [On your choice of reading](((zOU13sMXS))) How did you even end up picking this book?! (It's hard to find book)
+                        - [@Brandon]([[@[[Brandon Toner]]]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting.
+        3. Epic/Agora [*]([[cc:[[Brandon Toner]]]])
+            - [@Charles]([[@[[Charles Farr]]]]) [On current Epic/Agora](((46B1do3DS))) If help is still welcome/required I would love to help. The same way a Zettelkasten needs an entry point for a serendipitous exploration is there a specific block, the page I can start from in order to get an idea of what is the best way I can help?
+                - [@Charles]([[@[[Charles Farr]]]]) [On prepopulating the Agora](((MnEbaYLbR))) We could ask people doing old submissions to test it? That way you would populate it with relevant material and create momentum in people using it.
+        4. Entry points and catching up [*]([[@[[Charles Farr]]]])
+            - [@Brandon]([[Brandon Toner]]) [On catching up on missing work](((us0FrcExU))). As mentioned to Charles [here](((nZRSNurhn))) perhaps an index of the topic discussed can be a good entry point? Maybe that index is already the `#Q` page. What's worth considering is that depending on timings, people might have a different level of urgency in catching up. 
+                - #Q Should we have `RC Entry Points` as well as `Evergreen Entry Points`
+    - #Feedback  #not-populated
+    - #Bookmarks
+        - Book: Administrative Philosophy
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)"
+        - "#[[FN]] important [[questions]] central to an area of development should be elevated to [[page-level]] to promote more frequent consideration and [[resurfacing]]."
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} [°]([[csf]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+    - #Scratchpad
+        - {{[[TODO]]}} Tweet about the Agora
+        - {{[[TODO]]}} Google form for submission information
+        - Goal: Community awareness of the project
+            - Getting people into the graph
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
 - ---

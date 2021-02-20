@@ -74,7 +74,7 @@ I'll have a look this week. #[[Follow Up]]
         2. Added some "Next Steps" on the current sprint.
         3. "Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC."
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
     - #Inbox #not-populated
     - #[[Scratchpad]] 
         - [[[[How To]] Onboard with Roam Collective]] #Drafts [*]([[onboarding]])

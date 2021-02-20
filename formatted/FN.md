@@ -211,6 +211,43 @@
 
 - Some early thoughts I am in process of further refining under here: "#[FN](<FN.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [FN](<FN.md>)}
+
+- I agree — "#[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- #[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>)
 

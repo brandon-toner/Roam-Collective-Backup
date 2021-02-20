@@ -1,0 +1,4 @@
+- Tags:: #Resources #[[Reference Notes]] ((add type of resource... Articles, Books, Videos etc.)) #Books
+    - Author(s):: [[James Clear]]
+    - Full Title:: #not-populated
+    - URL:: #not-populated

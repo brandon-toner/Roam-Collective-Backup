@@ -255,7 +255,7 @@
         - [ ] Update color scheme with better shades of blue and green
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟠Away | 🟢Online | 🚫 offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Brandon on behalf of Peter. [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
             - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 

@@ -13,6 +13,13 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)}
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- #[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
+
+- On [resurfacing](<resurfacing.md>)
+
+- "#[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>))
 

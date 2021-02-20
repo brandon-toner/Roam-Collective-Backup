@@ -78,6 +78,10 @@
 - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
+- #[FN](<FN.md>) [block-level tags](<block-level tags.md>)
+
+- [I](<I.md>) I think that "[flow state](<flow state.md>)" writing can take place in the form of TRUE "fleeting" notes — ones WITHOUT a [block-level tag]([block-level tags](<block-level tags.md>))
+
 - [FN](<FN.md>) [block-level tags](<block-level tags.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

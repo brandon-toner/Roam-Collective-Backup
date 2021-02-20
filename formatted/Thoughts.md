@@ -34,8 +34,12 @@
                         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)...
+- [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)
             - **[Thoughts](<Thoughts.md>):**
+
+## [February 20th, 2021](<February 20th, 2021.md>)
+- It feels quite possible to over-automate the process of algorithms of thought.
+                - **[Thoughts](<Thoughts.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"

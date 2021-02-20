@@ -97,10 +97,10 @@
     - #Bookmarks 
         - #Feedback ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
     - #Conversation 
-        1. [@Samuel]([[@[[Samuel Bars]]]]) On [where users write](((wHHBViiGV)))
+        1. [@Samuel]([[~[[Samuel Bars]]]]) On [where users write](((wHHBViiGV)))
             - Great work jumping into the chat conventons!! perfect.
             - Yea, this is on my radar to reassess if it begins to feel overwhelming. What's nice here is that having all the work centralized fosters more conversation and collaboration -- but that might not scale well. 
-        2. [@Samuel]([[@[[Samuel Bars]]]]) (various)
+        2. [@Samuel]([[~[[Samuel Bars]]]]) (various)
             - Loving the thoughts! I added a Q and an I tag in there just to demonstrate where I might use them. I use these pretty liberally so don't worry about overuse. 
             - "I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling."
                 -  I love the rambling! I think that's the beauty of RC - we can "think in public", giving others the opportunity to benefit from out half-baked idea, and the opportunity to offer insight and questions that can push use past sticking points.
@@ -113,7 +113,7 @@
             - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
                 - Totally! [@Charles]([[~[[Charles Farr]]]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
             - "Question: Is there any convention around reactions?" #Conventions #[[emoji reactions]]
-                - [@Samuel]([[@[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
+                - [@Samuel]([[~[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
                 - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
@@ -261,7 +261,7 @@
         - On self-accruing onboarding material
             - [@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
-            - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@S]([[[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([[~[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  

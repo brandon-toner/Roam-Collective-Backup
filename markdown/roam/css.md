@@ -1498,6 +1498,19 @@ span.rm-page-ref[data-tag="Project Ideas"] {
 	background: -webkit-linear-gradient(to right, #FF572268, #FF572268);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #FF572268, #FF572268); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
 }```
+                - #[[Annotations]]
+                    - ```css
+span.rm-page-ref[data-tag="Annotations"] {
+	background: #795548;
+	background-size: 100%;
+    color: var(--cl-white);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}```
                 - ### Experimental & Deprecated Note Types
                     - #Evergreen
                         - Tag

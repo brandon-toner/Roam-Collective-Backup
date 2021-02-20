@@ -63,6 +63,10 @@
 - #[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):**
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- The term is unique in the current array of zettelkasten expressions — as to conflict with RBCIII, etc.
+                - **[Example](<Example.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**

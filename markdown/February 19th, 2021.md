@@ -2,9 +2,9 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - What additional [FAQs]([[FAQ]]) might be helpful to add? (We haven't revisited these in a while)  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}"
+        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}"
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#I Might rename [[fleeting notes]] to [[claims]]..."
+        1. "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
         2. "#Q How might [[Roam Portal]] be used in RC?"
     - #[[Bug Reports]]
         - Aliased notifications not showing up in my personal notification [query](((HN8L0n32w))) — anyone else? Solution?
@@ -14,7 +14,7 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
-        - #I Might rename [[fleeting notes]] to [[claims]]...
+        - #I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)
             - Thoughts::
                 - Thats what they are... 
                 - I'm a bit concerned about various definitions and meanings associated with the term in the community. It's quite fragmented. Especially with RBCIII, there will be a large cohort of folks who use fleeting notes differently.
@@ -87,11 +87,11 @@ Breaking things apart, so they can be put together
             - If that were a desired function, we could add a `#Bk` or similar abbreviation.
                 - Similar to:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F3op6cxyTYE.png?alt=media&token=67eeeebd-4000-4fc0-8417-3da98f08fbb3)
-        2. [@Sam]([[@[[Samuel Bars]]]]) on [inter-graph conventions](((y4YNcoZ-9)))
+        2. [@Sam]([[~[[Samuel Bars]]]]) on [inter-graph conventions](((y4YNcoZ-9)))
             - Yea, there will always be a diversity of graph conventions and I think that's probably healthy. That diversity will lead to the continuous discovery of better and better workflows.
             - What I'm ultimately hoping for are some sort of converting interfaces that can facilitate effective transfer across graphs with different conventions.
                 - This feel like a very complicated problem though, with the wide array of user behaviour patterns.
-        3. [@Sam]([[@[[Samuel Bars]]]]) Various 
+        3. [@Sam]([[~[[Samuel Bars]]]]) Various 
             - "demos, even if totally faked, that show powerful use cases, could get rewards, inspire the roam team, and inspire developers to build"
                 - ABSOLUTELY believe in the value of this. [Imagination]([[imagination]]) and [[vision]] leads the way and directs [[innovation]].
             - "UIs for specific use cases could have reduced functionality and have special extensions activated (unique css and js features), and they would use the [normal roam graph and UI](((ZmC71tQ_R))) as a storage system."
@@ -107,7 +107,7 @@ Breaking things apart, so they can be put together
                     - #[[FN]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])
                         - #[[FN]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]].
                         - #[[FN]] the use of [[block-level tags]] facilitates more structured processes of thought. 
-                            - These processes can be further refined and advised by [[algorithms of thought (AoTs)]]
+                            - These processes can be further refined and advised by [[algorithms of thought]]
         4. @Charles
             - [YES]([[Bookmarks]]) "#FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
                 - This gets to the WHY behind many of the [[conventions]].
@@ -115,7 +115,7 @@ Breaking things apart, so they can be put together
             - This is a great description. Sub-scratchpads even, which further collect and pompile bits of related information. "They are scratchpads of one form or another." [*](((O1XunbzQI)))
         5. @Charles on [Tweetstorm](((JeHClfDnW)))
             - This is dope. "Similarly, the Agora could publish key questions & updates for subscribers to grapple with in their own graphs." [*](((v2dDsbO9j)))
-            - "If you would like to add your Roam Games submission to the graph, feel free to fill out the sign up sheet here or DM me your email.
+            - "To showcase your submission or project in the Agora, click through the link to request access (or shoot me a DM).
 
 https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
                 - I'd make this more active-tone — ~~If you would like~~ → To have your RG submission included/showcased in the Agora...
@@ -192,7 +192,7 @@ loud is what leads to significant insights).__
                         -  #Q How can we increase the discussion starting from each other's fleeting/literature/permanent notes and questions in a collective zettelkasten
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Zettelfy [this](((Ppshpjpy8)))
+        - {{[[DONE]]}} Zettelfy [this](((Ppshpjpy8))). Kindof did it/expanded [there](((itCqYLkkF)))
     - #[[The Zettelkasten]]
     - #Bookmarks
         - "Ideas from Chat with [[Stian Håklev]]"
@@ -203,7 +203,7 @@ loud is what leads to significant insights).__
         - Simple replies
             - [@Charles]([[@[[Charles Farr]]]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
-            - [@Charles]([[@[[Charles Farr]]]]) "[@Samuel]([[@[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
+            - [@Charles]([[@[[Charles Farr]]]]) "[@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
                 - The writing prompts are not linked to progress on the book, seems a bit non-linear
                     - I read a few chapters, skimmed a bit part of it, but yeah I've been slacking a bit 
                 - There are group readings at 3:30am on mondays, so I didn't join, and I forgot about checking the other group that popped up for accessible timezones
@@ -268,32 +268,42 @@ loud is what leads to significant insights).__
         - Tweet on [[agile development]]
             - https://twitter.com/jeremy_data/status/1362611549517606912?s=20
         - Tweetstorm on The Roaman Agora
+            - Announcement
             - {{character-count}}
-                - Over the past month, Roam Collective has been experimenting with a multiplayer Roam environment. 
+                - For Roam Games 3, Roam Collective has built The Roaman Agora, a public graph to aggregate information on submissions and related projects, in addition to fostering discussion around these submissions.
+
+You can view the Agora and sign up for access here!
+
+https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA
+            - {{character-count}}
+                - The Agora comes out of Roam Collective's experimentation with a multiplayer Roam environment over the past month or so.
 
 In the process, we've coalesced around a few conventions that support really fruitful in-graph conversation and discussion.
             - {{character-count}}
                 - On of the biggest [[takeaways]] is that in-graph conversation is a hugely powerful mechanism for generating divergence and subsequent convergence. So much so that we want to foster it more broadly!
             - {{character-count}}
+                - Brandon summarized RC's progress here...
+https://twitter.com/brandontoner/status/1362956670976946179?s=20
+            - {{character-count}}
                 - So our submission for Roam Games III is the Roaman Agora, a public graph designed to:
 
-1) Collate Roam Games submissions, tracking dependencies and influence
-2) Foster further conversation and discussion around the submissions
-3) Harness the resulting feedback loop
+1) Collate Roam Games submissions, tracking dependencies and influence...
+2) Foster further conversation and discussion around the submissions...
+3) Harness the resulting feedback loop...
             - {{character-count}}
                 - Collecting submissions in a single graph allows for easier tracking of dependencies, a core focus for RGIII.
 
-It also fosters conversations that span and tie together multiple submissions, projects, and contributors. Ultimately, this is what we're more excited about.
+It also enables discussions that span and tie together disparate submissions, projects, and contributors. Ultimately, this is what we're most excited about.
             - {{character-count}}
-                - These broad conversations help create a positive feedback loop. As new ideas and questions emerge, the community grapples with them, and the resulting thought feeds back into development of new Roam capacities (conventions, tools, use-cases...), as well as new questions & ideas.
+                - These broad discussion create a positive feedback loop. As new ideas and questions emerge, the community can grapple with them, and the resulting insights feeds back into development of new Roam capabilities (conventions, tools, use-cases...), as well as new questions & ideas.
             - {{character-count}}
-                - Through this cycle, we hope these in-graph conversations influence future Roam Game submissions and projects. With them already ~generally~ centralized, dependency tracking happens naturally over time...
+                - Through this cycle, we hope these in-graph conversations influence future Roam Game submissions and projects. With submissions ~generally~ centralized, dependency tracking emerges naturally...
             - {{character-count}}
-                - Right now, the Agora is in its MVP state. Most of the conventions are somewhat manual, but we are excited for it to expand in a variety of ways...
+                - Right now, the Agora is in its MVP state. Most of the conventions are manual to a degree, but we are excited for it to expand in a variety of ways...
             - {{character-count}}
                 - The most exciting is integrating @houshuang's roam-inter. Doing so would allow for submitters (and other project owners) to push updates to the Agora. Similarly, the Agora could publish key questions & updates for subscribers to grapple with in their own graphs.
             - {{character-count}}
-                - The Roam Collective team has a bunch of other topics we are planning to pursue — better communication tools (e.g., in-graph chat), shared zettelkastens, asynchronous & distributed project management.
+                - The Roam Collective team has a bunch of other topics we are planning to pursue — better communication tools, shared zettelkastens, asynchronous & distributed project management.
 
 Some of which will inevitably make its way to the Agora.
             - {{character-count}}
@@ -305,13 +315,13 @@ The hope is it lowers the bar for other communities to stand up their own multip
 
 https://roamresearch.com/#/app/The-Roaman-Agora/page/15cJP2N2T
             - {{character-count}}
-                - If you would like to add your Roam Games submission to the graph, feel free to fill out the sign up sheet here or DM me your email.
+                - To showcase your submission or project in the Agora, click through the link to request access (or shoot me a DM).
 
 https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA
             - {{character-count}}
                 - If you don't have a submission to add but are interested in participating in the conversation, please join us — the more the merrier!
             - {{character-count}}
-                - For a rundown of all of the dependencies and influences for the Agora, check out our meta submission page here.
+                - For a rundown of all of the dependencies and influences for the Agora, check out our own submission page here.
 
 https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
             - "Draft outline of announcement for [[Roam Games III]] on the [[Roaman Agora]]"
