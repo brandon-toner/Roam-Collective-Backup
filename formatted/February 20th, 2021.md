@@ -1,31 +1,31 @@
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
-    - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #[[GTD Zone]]
-    - #[[The Zettelkasten]]
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
         - Having different UIs with constraints, to focus user behaviour and induce different types of attention 
-        - #FN The design and features of our tools influence our behavior and type of attention
-            - #FN We take cues from our environment to adapt our behavior, often unconsciously
+        - [FN](<FN.md>) The design and features of our tools influence our behavior and type of attention
+            - [FN](<FN.md>) We take cues from our environment to adapt our behavior, often unconsciously
                 - An obvious example is social media. It is engineered to increase our time on the app, and increase ad revenue.
-                    - #Obs some of the behaviors that emerged on social media were probably not expected/designed, they were rather a side effects of the tool's design and social phenomena.
+                    - [Obs](<Obs.md>) some of the behaviors that emerged on social media were probably not expected/designed, they were rather a side effects of the tool's design and social phenomena.
                         - Especially thinking about communities
                             - politics twitter, arguing-about-everything-twitter, polarity, division
                             - money twitter, people leveraging the algorithm and self-reinforcing communities to make money, echo chambers, content substance matters less than the validation of others in the community
                             - Roamcult, one product kickstarting huge activity in tools for thought space, memex twitter (QT and threads) with connor/visakanv/many others, twitter becoming an intellectual caffe
-                        - #FN The design and functionality of social platforms has unexpected influence on user/group behavior
-                    - #Q How much of our behavior depends on our environment and tools, versus our internal frames, initiatives, desires, and other internal drivers?
-                - #FN Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
-                    - #Q If decision-making is consciously choosing an option, how do we name the process of making the endless "decisions" we're not even aware we do all the time, like which muscles to activate to make a step forward?
+                        - [FN](<FN.md>) The design and functionality of social platforms has unexpected influence on user/group behavior
+                    - [Q](<Q.md>) How much of our behavior depends on our environment and tools, versus our internal frames, initiatives, desires, and other internal drivers?
+                - [FN](<FN.md>) Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
+                    - [Q](<Q.md>) If decision-making is consciously choosing an option, how do we name the process of making the endless "decisions" we're not even aware we do all the time, like which muscles to activate to make a step forward?
                         - Unconscious/Unaware decision making?
                 - How does attention relate to that? 
                     - I should dig a bit on these studies that show the eye movements of people on the Internet. Looks like some maniac stuff. Also how attention spans have shortened, many people don't read books, etc etc.
-                        - #Q What are the causes really, for the dramatical shift in the type of attention most people have day to day?
+                        - [Q](<Q.md>) What are the causes really, for the dramatical shift in the type of attention most people have day to day?
                             - Some people say it's since we created clickable links
                                 - Which introduced FOMO?
                                     - There's always something else to check __out there__, not here, and I can get there **very** easily. Why stay where I am? It might be better there, there might be something/surprising/interesting, there might be something better. It's definitely going to be **new**
                             - Others talk about media, television
-        - #[[LN]] [[Books/How to Take Smart Notes]] 9.3 Give Each Task the Right Kind of Attention (p. 61)
+        - #[LN](<LN.md>) [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) 9.3 Give Each Task the Right Kind of Attention (p. 61)
             - The examples here are in writing.
                 - Proofreading and writing require a very different kind of attention
                     - If the critical and detached voice, necessary in proofreading, constantly comes up when writing, we won't write anything or will do it very slowly.
@@ -46,15 +46,15 @@
                 - Correcting
                 - Rewriting
             - ^ "All these are not just different tasks, but tasks requiring a different kind of attention."
-    - #Conversation #not-populated
-        - [@Brandon]([[@[[Brandon Toner]]]]) About [block level tags](((Spljfcp-2)))
-            - #FN Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) About [block level tags](((Spljfcp-2)))
+            - [FN](<FN.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - They see a question, with a fleeting notes as an answer underneath. They might think the question is good, but they think there is a better answer. Now they can just reference the question and give their answer.
                     - This is simple but it's magic.
-                - #FN [[block-level tags]] allow you to choose where to respond to others, at any step of their thought process. 
+                - [FN](<FN.md>) [block-level tags](<block-level tags.md>) allow you to choose where to respond to others, at any step of their thought process. 
                     - Maybe you think their claim is good but it raises a question they haven't thought of asking, or they ask a good question but you have another answer that the one they gave
-                - #Q Could this formalization of communicating thought keep us stuck in ways of thinking that make us miss the point, make us slower, or keep us from more fluid conversation?
-                    - #FN You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
-                        - #FN Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
-                            - Related to Expert vs Planner chapter in [[Books/How to Take Smart Notes]]
+                - [Q](<Q.md>) Could this formalization of communicating thought keep us stuck in ways of thinking that make us miss the point, make us slower, or keep us from more fluid conversation?
+                    - [FN](<FN.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
+                        - [FN](<FN.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
+                            - Related to Expert vs Planner chapter in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)
 - ---

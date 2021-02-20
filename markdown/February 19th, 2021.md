@@ -137,7 +137,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
             - "#[[Community Notes]] [[Roam Collective]]"
         5. Made lots of little CSS adjustments to color, etc
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away until tomorrow (still reachable thru twitter dms) | 🟢Online | 🟡On & Off | ⚫️Offline}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
     - #Scratchpad 
         - notes on call with [[Stian Håklev]] 
             - roam the protocol
@@ -173,11 +173,23 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
 — Shawn:__
                 - __As part of our collaboration, André and I use several acronyms in our
 communications.__
-                - __For example, NPO means 'no pride of ownership' — that's our way of saying we've
+                - __For example, ^^NPO means 'no pride of ownership' — that's our way of saying we've
 done our best with a piece of writing and we're handing it off to be improved
-by the other person.__
+by the other person^^.__
                 - __TOL means 'thinking out loud' — that's a signal that whatever follows isn't yet fully formed. It's a work in progress (and often the freedom of thinking out
 loud is what leads to significant insights).__
+        - "#Q How might [[Roam Portal]] be used in RC?" [°]([[@[[Brandon Toner]]]])
+            - Show a google earth type map to see where every graph is, on the globe
+            - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
+                - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[[Sprints/1 — Roam Games 3 (managing dependencies)]]` and it's children for ex.) have the biggest word count.
+                - Would be interesting to see which blocks are referenced the most
+                    - First results would be the DNP tags obviously, but what comes after is interesting.
+            - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
+        - "#Q How can we make the community notes section more rich and comprehensive?" [°]([[@[[Brandon Toner]]]])
+            - As prompts, surfacing interesting fleeting notes and questions is great I think. And somehow would be good to remove pressure to catch with everything, have the mindset of "take a look at main feed, and start riffing/sharing ideas on the prompts that resonate with you"
+                - The collective zettelkasten as a source for prompts to drive reflection, discussion, and ideas, on shared paths.
+                    - The value of collective vs private zettelkasten lies in the discussion (with different perspectives, claims, and answers) around the same questions/themes
+                        -  #Q How can we increase the discussion starting from each other's fleeting/literature/permanent notes and questions in a collective zettelkasten
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Zettelfy [this](((Ppshpjpy8)))
@@ -189,18 +201,6 @@ loud is what leads to significant insights).__
         - "Draft outline of announcement for [[Roam Games III]] on the [[Roaman Agora]]"
     - #Conversation
         - Simple replies
-            - "#Q How might [[Roam Portal]] be used in RC?" [°]([[@[[Brandon Toner]]]])
-                - Show a google earth type map to see where every graph is, on the globe
-                - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
-                    - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[[Sprints/1 — Roam Games 3 (managing dependencies)]]` and it's children for ex.) have the biggest word count.
-                    - Would be interesting to see which blocks are referenced the most
-                        - First results would be the DNP tags obviously, but what comes after is interesting.
-                - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
-            - "#Q How can we make the community notes section more rich and comprehensive?" [°]([[@[[Brandon Toner]]]])
-                - As prompts, surfacing interesting fleeting notes and questions is great I think. And somehow would be good to remove pressure to catch with everything, have the mindset of "take a look at main feed, and start riffing/sharing ideas on the prompts that resonate with you"
-                    - The collective zettelkasten as a source for prompts to drive reflection, discussion, and ideas, on shared paths.
-                        - The value of collective vs private zettelkasten lies in the discussion (with different perspectives, claims, and answers) around the same questions/themes
-                            -  #Q How can we increase the discussion starting from each other's fleeting/literature/permanent notes and questions in a collective zettelkasten
             - [@Charles]([[@[[Charles Farr]]]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
             - [@Charles]([[@[[Charles Farr]]]]) "[@Samuel]([[@[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"

@@ -137,7 +137,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
             - "#[Community Notes](<Community Notes.md>) [Roam Collective](<Roam Collective.md>)"
         5. Made lots of little CSS adjustments to color, etc
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away until tomorrow (still reachable thru twitter dms) | 🟢Online | 🟡On & Off | ⚫️Offline}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
     - [Scratchpad](<Scratchpad.md>) 
         - notes on call with [Stian Håklev](<Stian Håklev.md>) 
             - roam the protocol
@@ -173,11 +173,23 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
 — Shawn:__
                 - __As part of our collaboration, André and I use several acronyms in our
 communications.__
-                - __For example, NPO means 'no pride of ownership' — that's our way of saying we've
+                - __For example, ^^NPO means 'no pride of ownership' — that's our way of saying we've
 done our best with a piece of writing and we're handing it off to be improved
-by the other person.__
+by the other person^^.__
                 - __TOL means 'thinking out loud' — that's a signal that whatever follows isn't yet fully formed. It's a work in progress (and often the freedom of thinking out
 loud is what leads to significant insights).__
+        - "[Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?" [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+            - Show a google earth type map to see where every graph is, on the globe
+            - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
+                - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)` and it's children for ex.) have the biggest word count.
+                - Would be interesting to see which blocks are referenced the most
+                    - First results would be the DNP tags obviously, but what comes after is interesting.
+            - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
+        - "[Q](<Q.md>) How can we make the community notes section more rich and comprehensive?" [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+            - As prompts, surfacing interesting fleeting notes and questions is great I think. And somehow would be good to remove pressure to catch with everything, have the mindset of "take a look at main feed, and start riffing/sharing ideas on the prompts that resonate with you"
+                - The collective zettelkasten as a source for prompts to drive reflection, discussion, and ideas, on shared paths.
+                    - The value of collective vs private zettelkasten lies in the discussion (with different perspectives, claims, and answers) around the same questions/themes
+                        -  [Q](<Q.md>) How can we increase the discussion starting from each other's fleeting/literature/permanent notes and questions in a collective zettelkasten
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Zettelfy [this](((Ppshpjpy8)))
@@ -189,18 +201,6 @@ loud is what leads to significant insights).__
         - "Draft outline of announcement for [Roam Games III](<Roam Games III.md>) on the [Roaman Agora](<Roaman Agora.md>)"
     - [Conversation](<Conversation.md>)
         - Simple replies
-            - "[Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?" [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
-                - Show a google earth type map to see where every graph is, on the globe
-                - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
-                    - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)` and it's children for ex.) have the biggest word count.
-                    - Would be interesting to see which blocks are referenced the most
-                        - First results would be the DNP tags obviously, but what comes after is interesting.
-                - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
-            - "[Q](<Q.md>) How can we make the community notes section more rich and comprehensive?" [°]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
-                - As prompts, surfacing interesting fleeting notes and questions is great I think. And somehow would be good to remove pressure to catch with everything, have the mindset of "take a look at main feed, and start riffing/sharing ideas on the prompts that resonate with you"
-                    - The collective zettelkasten as a source for prompts to drive reflection, discussion, and ideas, on shared paths.
-                        - The value of collective vs private zettelkasten lies in the discussion (with different perspectives, claims, and answers) around the same questions/themes
-                            -  [Q](<Q.md>) How can we increase the discussion starting from each other's fleeting/literature/permanent notes and questions in a collective zettelkasten
             - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
             - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) "[@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"

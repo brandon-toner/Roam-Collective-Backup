@@ -8,6 +8,11 @@
 
 - [^[[Peter Rosso](<../^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<../~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- #[LN](<../LN.md>) [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
+
+- Related to Expert vs Planner chapter in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "[^[[Peter Rosso](<../^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<../~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<../Books/How to Take Smart Notes.md>)
 
