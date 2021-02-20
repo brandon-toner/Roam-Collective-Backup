@@ -10,7 +10,7 @@
         4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>) be used [resurface ]([resurfacing](<resurfacing.md>))information across time?
             - How could "SR" be used to resurface interesting information. #[spaced repetition](<spaced repetition.md>)
@@ -165,6 +165,7 @@
                 - The goal is a self-directed conversation that you mediate and tag using the block level tags.
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
                 - Still very bottom-up. The option to write-to-think without block-tags is still there and encouraged.
+            - 
         7. [@Wade]([@[[Wade Dominic](<@[[Wade Dominic.md>)]]) coming in HOT with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
             - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
             - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))
@@ -176,7 +177,7 @@
         1. Made some updates to [Welcome](<Welcome.md>) — still lots of work to do, mostly a draft.
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away until tomorrow (still reachable thru twitter dms) | 🟢Online | 🟡On & Off | ⚫️Offline}} "
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 

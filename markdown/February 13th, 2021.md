@@ -14,7 +14,7 @@
         1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]

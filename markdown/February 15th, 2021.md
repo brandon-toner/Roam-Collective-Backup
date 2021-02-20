@@ -14,7 +14,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -167,7 +167,7 @@
             - Nesting 
     - 
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟠Away until tomorrow (still reachable thru twitter dms) | ��Online | 🟡On & Off | ⚫️Offline}} "
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.

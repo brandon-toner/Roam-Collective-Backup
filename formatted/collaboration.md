@@ -11,6 +11,9 @@
 
 - "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
 

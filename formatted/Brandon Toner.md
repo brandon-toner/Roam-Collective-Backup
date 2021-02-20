@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}
+    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -34,7 +34,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

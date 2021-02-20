@@ -12,7 +12,7 @@
         - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
         - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)...
             - **[Thoughts](<Thoughts.md>):**
@@ -37,12 +37,46 @@ Breaking things apart, so they can be put together
                     - Missing: 
                         - Change Log
                         - Specific areas of work/thinking
+        - Incorporating [play](<play.md>) into your life [Interintellect](<Interintellect.md>) I+([Charles Farr](<Charles Farr.md>))
+            - inventor of binary code
+                - unicycle
+        - Stian conversation
+            - Conor skeptical of multiplayer
+                - Distributed graphs a problem
+            - Willing to build a few features to make Roam-inter more production-ready.
+            - Chat in Roam
+                - In-chat function
+                - 
     - [Conversation](<Conversation.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((HZk-NJWQ8)))
             - Yea, that's true. 
             - If that were a desired function, we could add a `[Bk](<Bk.md>)` or similar abbreviation.
                 - Similar to:
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F3op6cxyTYE.png?alt=media&token=67eeeebd-4000-4fc0-8417-3da98f08fbb3)
+        2. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [inter-graph conventions](((y4YNcoZ-9)))
+            - Yea, there will always be a diversity of graph conventions and I think that's probably healthy. That diversity will lead to the continuous discovery of better and better workflows.
+            - What I'm ultimately hoping for are some sort of converting interfaces that can facilitate effective transfer across graphs with different conventions.
+                - This feel like a very complicated problem though, with the wide array of user behaviour patterns.
+        3. [@Sam]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) Various 
+            - "demos, even if totally faked, that show powerful use cases, could get rewards, inspire the roam team, and inspire developers to build"
+                - ABSOLUTELY believe in the value of this. [Imagination]([imagination](<imagination.md>)) and [vision](<vision.md>) leads the way and directs [innovation](<innovation.md>).
+            - "UIs for specific use cases could have reduced functionality and have special extensions activated (unique css and js features), and they would use the [normal roam graph and UI](((ZmC71tQ_R))) as a storage system."
+                - Yea, I've considered the idea before. Basically applying constraints to focus the user experience for certain applications.
+                - At times, Roam's scope and potential is __too broad__ for some users to grok its value and utility. 
+                - It's only once constraints are implemented that users can "see" the value — once it's applied directly to their use-case. 
+                - #[FN](<FN.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour
+                    - #[FN](<FN.md>) more focused products have wider uptake within a given domain. [niche](<niche.md>)
+                    - #[FN](<FN.md>) collaboration and data compilation is empowered when user behaviours are constrained. [constraints](<constraints.md>)
+                        - Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[FN](<FN.md>) increased user constraints improve the feasibility of systems of collaboration.
+            - "For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective."
+                - yessssss.
+                    - #[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+                        - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) captures the spirit of [thinking out loud](<thinking out loud.md>) and [working-in-public](<working-in-public.md>).
+                        - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) facilitates more structured processes of thought. 
+                            - These processes can be further refined and advised by [algorithms of thought (AoTs)](<algorithms of thought (AoTs).md>)
+        4. @Charles
+            - [YES]([Bookmarks](<Bookmarks.md>)) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+            - "They are scratchpads of one form or another." [*](((O1XunbzQI)))
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Review past TODOs and reschedule ones that feels relevant still. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
         - [ ] Download [Roam Portal](<Roam Portal.md>) and give it a test drive. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
@@ -61,7 +95,7 @@ Breaking things apart, so they can be put together
             - "#[Community Notes](<Community Notes.md>) [Roam Collective](<Roam Collective.md>)"
         5. Made lots of little CSS adjustments to color, etc
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟡On & Off | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟠Away until tomorrow (still reachable thru twitter dms) | 🟢Online | 🟡On & Off | ⚫️Offline}} "
     - [Scratchpad](<Scratchpad.md>) 
         - notes on call with [Stian Håklev](<Stian Håklev.md>) 
             - roam the protocol
@@ -81,7 +115,7 @@ Breaking things apart, so they can be put together
                     - and the best way to do so is by making throroughly thought-out demos of how things could be, even if simulated.
                     - We could just re-create a lot of apps in roam, but we have an opportunity here to question existing apps and create better solutions that don't repeat their flaws.
             - Related to [this tweet](https://twitter.com/samuelbars/status/1361669347513614336?s=20), UIs could be decoupled from the normal roam UI
-                - The normal roam UI is just a powerful system of free hierarchies
+                - #[FN](<FN.md>) The normal roam UI is just a powerful system of free hierarchies
                 - UIs for specific use cases could have reduced functionality and have special extensions activated (unique css and js features), and they would use the [normal roam graph and UI](((ZmC71tQ_R))) as a storage system.
                     - Trying to articulate this clearly.
                     - Blocks can inputed in a certain UI, but then manipulated, referenced and re-used in other tasks you do in the usual UI
@@ -89,9 +123,9 @@ Breaking things apart, so they can be put together
                         - You could have a "therapy" app with content and writing prompts (like the excellent Intellect app on android), in a calming / feature-light UI.
                             - Different UIs induce different modes of attention
                             - Reflection/introspection by going over previous journaling sessions, seeing patterns with block refs, etc, could be done at another time, with the full-blow roam features
-        - Acronyms for collaborative work used by two marketers, Andre Chaperon and Shawn Twing (part of the very few I really like) [cc]([cc[[Brandon Toner](<cc[[Brandon Toner.md>)]])
-NPO = no pride of ownership
-TOL = thinking out loud
+        - Acronyms for collaborative work used by two marketers, Andre Chaperon and Shawn Twing (part of the very few I really like) [cc]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
+[NPO](<NPO.md>) = no pride of ownership
+[TOL](<TOL.md>) = thinking out loud
             - from emergent marketing newsletter
                 - __P.S.
 — Shawn:__
@@ -128,7 +162,9 @@ loud is what leads to significant insights).__
             - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
             - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) "[@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
-                - There are reading groups at 
+                - The writing prompts are not linked to progress on the book, seems a bit non-linear
+                    - I read a few chapters, skimmed a bit part of it, but yeah I've been slacking a bit 
+                - There are group readings at 3:30am on mondays, so I didn't join, and I forgot about checking the other group that popped up for accessible timezones
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) about [tweeting thoughts about the graph](((IYSIt3usl)))
             - Would be cool if we could share some interesting lines of thought/conversation from the discussions here.
                 - What do you think about integrating the plugin to send tweets from the db?
@@ -254,6 +290,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
                     - "[ ] Should we prepopulate some RGIII submission pages?"
                     - "[ ] Who tweets what?"
                         - "Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play"
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>)
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) thoughts on the draft [here](((JeHClfDnW)))?
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

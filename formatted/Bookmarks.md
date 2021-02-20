@@ -21,6 +21,9 @@
 
 - `[Bookmarks](<Bookmarks.md>)`
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- [YES]([Bookmarks](<Bookmarks.md>))
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 

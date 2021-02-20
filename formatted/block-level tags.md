@@ -62,6 +62,13 @@
 
 - [ ] Tweet out summary of this tomorrow: ""On the value of [block-level tags](<block-level tags.md>)"
 
+## [February 19th, 2021](<February 19th, 2021.md>)
+- #[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
+
+- #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
+
+- #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 

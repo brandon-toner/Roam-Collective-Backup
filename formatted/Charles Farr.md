@@ -90,6 +90,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
+- Incorporating [play](<play.md>) into your life [Interintellect](<Interintellect.md>) I+([Charles Farr](<Charles Farr.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 - Each chat would be registered with a member page, e.g., `Chat/[Charles Farr](<Charles Farr.md>)`
