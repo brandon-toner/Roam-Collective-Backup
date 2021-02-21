@@ -1775,6 +1775,276 @@ span.rm-page-ref[data-tag="G"] {
 span.rm-page-ref[data-tag="G"]:before {
     content: '🏆'
 }```
+            - GTD Tags
+                - GTD Core Tags
+                    - #INBOX
+                    - #Inbox
+                    - #Projects
+                    - #Goals
+                    - #[[Agenda]]
+                    - #[[Follow Up]]
+                    - #Mindsweep
+                    - #Waiting
+                    - #[[Waiting-[[resolved]]]]
+                    - #Tracking
+                    - #[[Daily Big 3]]
+                    - #[[Plan My Day]]
+                    - #[[Weekly Preview]]
+                    - #[[Next Steps]]
+                    - #[[GTD Zone]]
+                    - Code
+                        - ```css
+:root {
+  --background: var(--cl-gray-600);
+  --color: var(--cl-white);
+  --padding:2px 5px 2px 5px;
+  --font-size: 13px;
+  --line-height: 1em;
+  --font-weight: 500;
+  --border-radius: 5px 5px 5px 5px;
+  --position:relative; 
+}
+
+span.rm-page-ref[data-tag="GTD Zone"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="GTD Zone"]:before {
+    content: '✅';
+}
+
+span.rm-page-ref[data-tag="INBOX"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="INBOX"]:before {
+    content: '📥'
+}
+
+span.rm-page-ref[data-tag="Inbox"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Inbox"]:before {
+    content: '📥'
+}
+
+span.rm-page-ref[data-tag="Projects"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Projects"]:before {
+    content: '🔨'
+}
+
+span.rm-page-ref[data-tag="Goals"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Goals"]:before {
+    content: '🎯'
+}
+
+span.rm-page-ref[data-tag="Follow Up"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Follow Up"]:before {
+    content: '📌'
+}
+
+span.rm-page-ref[data-tag="Agenda"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Agenda"]:before {
+    content: '🗓'
+}
+
+span.rm-page-ref[data-tag="Mindsweep"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Mindsweep"]:before {
+    content: '🧹'
+}
+
+span.rm-page-ref[data-tag="Waiting"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Waiting"]:before {
+    content: '⏱'
+}
+
+span.rm-page-ref[data-tag="Waiting-[[resolved]]"] {
+    background: #607D8B;
+    color: #fff;
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Waiting-[[resolved]]"]:before {
+    content: '☑️'
+}
+
+span.rm-page-ref[data-tag="Tracking"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Tracking"]:before {
+    content: '👀'
+}
+
+span.rm-page-ref[data-tag="Daily Big 3"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Daily Big 3"]:before {
+    content: '🚩'
+}
+
+span.rm-page-ref[data-tag="Plan My Day"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Plan My Day"]:before {
+    content: '🎯'
+}
+
+span.rm-page-ref[data-tag="Weekly Preview"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Weekly Preview"]:before {
+    content: '🗓'
+}
+
+span.rm-page-ref[data-tag="Next Steps"] {
+    background: var(--background);
+    color: var(--color);
+    padding: var(--padding);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-weight: var(--font-weight);
+    border-radius: var(--border-radius);
+    position: var(--position);
+}
+
+span.rm-page-ref[data-tag="Next Steps"]:before {
+    content: '➡️'
+}```
+                - #Todos
+                    - ```css
+span.rm-page-ref[data-tag="Todos"] {
+    background: 	var(--cl-yellow-700);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+  	font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+}
+
+span.rm-page-ref[data-tag="Todos"]:before {
+    content: '🎯';
+}```
             - Page-type Tags
                 - #Articles
                     - ```css
@@ -2440,276 +2710,6 @@ span.rm-page-ref[data-tag="Weather Report"] {
 
 span.rm-page-ref[data-tag="Weather Report"]:before {
     content: '🌤'
-}```
-            - GTD Tags
-                - GTD Core Tags
-                    - #INBOX
-                    - #Inbox
-                    - #Projects
-                    - #Goals
-                    - #[[Agenda]]
-                    - #[[Follow Up]]
-                    - #Mindsweep
-                    - #Waiting
-                    - #[[Waiting-[[resolved]]]]
-                    - #Tracking
-                    - #[[Daily Big 3]]
-                    - #[[Plan My Day]]
-                    - #[[Weekly Preview]]
-                    - #[[Next Steps]]
-                    - #[[GTD Zone]]
-                    - Code
-                        - ```css
-:root {
-  --background: var(--cl-gray-600);
-  --color: var(--cl-white);
-  --padding:2px 5px 2px 5px;
-  --font-size: 13px;
-  --line-height: 1em;
-  --font-weight: 500;
-  --border-radius: 5px 5px 5px 5px;
-  --position:relative; 
-}
-
-span.rm-page-ref[data-tag="GTD Zone"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="GTD Zone"]:before {
-    content: '✅';
-}
-
-span.rm-page-ref[data-tag="INBOX"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="INBOX"]:before {
-    content: '📥'
-}
-
-span.rm-page-ref[data-tag="Inbox"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Inbox"]:before {
-    content: '📥'
-}
-
-span.rm-page-ref[data-tag="Projects"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Projects"]:before {
-    content: '🔨'
-}
-
-span.rm-page-ref[data-tag="Goals"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Goals"]:before {
-    content: '🎯'
-}
-
-span.rm-page-ref[data-tag="Follow Up"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Follow Up"]:before {
-    content: '📌'
-}
-
-span.rm-page-ref[data-tag="Agenda"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Agenda"]:before {
-    content: '🗓'
-}
-
-span.rm-page-ref[data-tag="Mindsweep"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Mindsweep"]:before {
-    content: '🧹'
-}
-
-span.rm-page-ref[data-tag="Waiting"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Waiting"]:before {
-    content: '⏱'
-}
-
-span.rm-page-ref[data-tag="Waiting-[[resolved]]"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Waiting-[[resolved]]"]:before {
-    content: '☑️'
-}
-
-span.rm-page-ref[data-tag="Tracking"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Tracking"]:before {
-    content: '👀'
-}
-
-span.rm-page-ref[data-tag="Daily Big 3"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Daily Big 3"]:before {
-    content: '🚩'
-}
-
-span.rm-page-ref[data-tag="Plan My Day"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Plan My Day"]:before {
-    content: '🎯'
-}
-
-span.rm-page-ref[data-tag="Weekly Preview"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Weekly Preview"]:before {
-    content: '🗓'
-}
-
-span.rm-page-ref[data-tag="Next Steps"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Next Steps"]:before {
-    content: '➡️'
-}```
-                - #Todos
-                    - ```css
-span.rm-page-ref[data-tag="Todos"] {
-    background: 	var(--cl-yellow-700);
-    color: 			var(--cl-white);
-    padding: 		2px 5px 2px 5px;
-    font-size: 		13px;
-    line-height: 	1em;
-  	font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-}
-
-span.rm-page-ref[data-tag="Todos"]:before {
-    content: '🎯';
 }```
             - Feedback Tags
                 - #Feedback

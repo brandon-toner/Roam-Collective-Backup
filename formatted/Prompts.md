@@ -15,9 +15,6 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
-## [February 20th, 2021](<February 20th, 2021.md>)
-- "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 

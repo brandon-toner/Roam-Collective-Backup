@@ -2,11 +2,16 @@
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) if you haven't already
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         - "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
             - ... "Found a better alternative: [[propositions]]"
                 - "I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. "
+        - Link to submission details survey for the [[Roaman Agora]]
+            - Short URL
+                - https://forms.gle/rMK5NFsYwXRepFwNA
+            - Long URL
+                - https://docs.google.com/forms/d/e/1FAIpQLScS8nkY_wTppy1h1bq_ZTa54kpexk2q0nw36uWDwFheWH0Gew/viewform?usp=sf_link
     - #Chat ((A place to propose objects of discussion)) 
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
@@ -245,12 +250,13 @@
                 - 
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
     - #Bookmarks
         - "#Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[Articles/Joel Chan — Knowledge Synthesis]])"
+        - "Roam Research: [[algorithms of thought]] #Clubhouse"
     - #[[The Zettelkasten]]
         - "#[[FN]] system/[[UI]] [[constraints]] focus user behaviour" which means that
             - #FN The design and features of our tools influence our behavior and type of attention
@@ -309,6 +315,10 @@
         - [@Charles]([[@[[Charles Farr]]]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
             - Practically, how would you make the demo? Drawing the chat interface on figma/some other design tool and putting some mock data in roam? 
             - Happy to help btw, very interested in this
+        - [@Peter]([[@[[Peter Rosso]]]]) about [using roam inter](((-I7IKqxTt))), I wanna try soon, will probably document.
+            - Still quite technical as it's a prototype. You have to host the script yourself somewhere (stian uses the free plan of netflify), I don't know how to do it but will figure out.
+        - [@Peter]([[@[[Peter Rosso]]]]) about [entry points](((j3W67Y1oB)))
+            - I was thinking about doing an end of week review, at least for the big themes of the week. Conversation is fragmented, spread out over days, so a report of the week can bring this conversation together, short summary of the big talking points.
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}" Currently using a Raspberry Pi...
     - #Inbox
@@ -385,10 +395,13 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} [°]([[csf]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - #Scratchpad
-        - {{[[TODO]]}} Tweet about the Agora
-        - {{[[TODO]]}} Google form for submission information
-        - Goal: Community awareness of the project
-            - Getting people into the graph
+        - Launching the [[Roaman Agora]]
+            - {{[[DONE]]}} Tweet about the Agora
+            - {{[[DONE]]}} Google form for submission information
+                - "Link to submission details survey for the [[Roaman Agora]]"
+            - Goal: Community awareness of the project
+                - Getting people into the graph
     - #Conversation #not-populated
-    - #[[Change Log]] #not-populated
+    - #[[Change Log]] 
+        - Added "Link to submission details survey for the [[Roaman Agora]]"
 - ---

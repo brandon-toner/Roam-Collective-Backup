@@ -177,7 +177,16 @@
         1. Made some updates to [[Welcome]] — still lots of work to do, mostly a draft.
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Conversation #not-populated
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
+    - #[[My Wins]]
+        - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -245,15 +254,6 @@ What's your take on fleeting notes that come from personal experience/journaling
                         - He's training us, with the daily writing sessions, to write freely and extensively, and then abstract from that. Less focus on being clear and intentional about what you're writing from the start, it's a wild free ride, but then going back and abstracting
                             - bottom up
                             - Writing to think, then hiding that (although you can come back for context) and collapsing it under "thumbnails" of thought
-- ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
-    - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation #not-populated
-    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
-    - #[[My Wins]]
-        - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
-- ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
         - On the value of [[block-level tags]]

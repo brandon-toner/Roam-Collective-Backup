@@ -2,11 +2,16 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) if you haven't already
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
             - ... "Found a better alternative: [propositions](<propositions.md>)"
                 - "I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. "
+        - Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
+            - Short URL
+                - https://forms.gle/rMK5NFsYwXRepFwNA
+            - Long URL
+                - https://docs.google.com/forms/d/e/1FAIpQLScS8nkY_wTppy1h1bq_ZTa54kpexk2q0nw36uWDwFheWH0Gew/viewform?usp=sf_link
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))
         - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
@@ -245,12 +250,13 @@
                 - 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off | ⚫️Offline}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
     - [Bookmarks](<Bookmarks.md>)
         - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))"
+        - "Roam Research: [algorithms of thought](<algorithms of thought.md>) [Clubhouse](<Clubhouse.md>)"
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - "#[FN](<FN.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour" which means that
             - [FN](<FN.md>) The design and features of our tools influence our behavior and type of attention
@@ -309,6 +315,10 @@
         - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
             - Practically, how would you make the demo? Drawing the chat interface on figma/some other design tool and putting some mock data in roam? 
             - Happy to help btw, very interested in this
+        - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) about [using roam inter](((-I7IKqxTt))), I wanna try soon, will probably document.
+            - Still quite technical as it's a prototype. You have to host the script yourself somewhere (stian uses the free plan of netflify), I don't know how to do it but will figure out.
+        - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) about [entry points](((j3W67Y1oB)))
+            - I was thinking about doing an end of week review, at least for the big themes of the week. Conversation is fragmented, spread out over days, so a report of the week can bring this conversation together, short summary of the big talking points.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}" Currently using a Raspberry Pi...
     - [Inbox](<Inbox.md>)
@@ -385,12 +395,15 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
     - [Scratchpad](<Scratchpad.md>)
-        - [ ] Tweet about the Agora
-        - [ ] Google form for submission information
-        - Goal: Community awareness of the project
-            - Getting people into the graph
+        - Launching the [Roaman Agora](<Roaman Agora.md>)
+            - [x] Tweet about the Agora
+            - [x] Google form for submission information
+                - "Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)"
+            - Goal: Community awareness of the project
+                - Getting people into the graph
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        - Added "Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)"
 - ---
 
 # Backlinks
