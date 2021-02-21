@@ -1,1 +1,29 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
+        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
+    - #Inbox
+        - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
+            - 
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation 
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+    - 
+- ---
+- #[[My Daily Notes]] [[Alexandra Westhoff]] {{word-count}}
 - 

@@ -1,0 +1,11 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@alwesthoff](https://twitter.com/alwesthoff)
+        - Website:: 
+        - Location:: Arnsberg, Germany
+        - Time Zone:: Berlin (GMT+1)
+    - Status::
+        - {{or:😴 Offline | 🟢Online | 🟠Away}}
+- ---
+- {{query: {and:[[@[[Alexandra Westhoff]]]]}}}
+- 

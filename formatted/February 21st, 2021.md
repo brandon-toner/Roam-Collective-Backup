@@ -1,1 +1,29 @@
+- {{embed: ((FRFW0hQu_))}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
+        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
+        - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
+        - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
+    - [Inbox](<Inbox.md>)
+        - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
+            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
+            - 
+    - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Alexandra Westhoff](<Alexandra Westhoff.md>) {{word-count}}
 - 
