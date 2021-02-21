@@ -33,7 +33,7 @@
                     - FN
                     - 
         - I've stopped using #[The Zettelkasten](<The Zettelkasten.md>) as a daily module — instead, I capture zettelkasten ideas inline using the block-level tags within my scratchpad. 
-            - Ideas arise **in context** so having to jump section to put them somewhere else felt unnatural and not optimal for future re-discovery of ideas and context.
+            - [Obs](<Obs.md>) Ideas arise **in context** so having to jump section to put them somewhere else felt unnatural and not optimal for future re-discovery of ideas and context.
             - Instead, I've built a series of queries that auto-collect contents from elsewhere in my DNP section. 
                 - [I](<I.md>) Something similar could be added to the [community notes](<community notes.md>) section at the top.
                     - This would auto-compile ALL of the block-level tags used throughout the day by all users — and would be a great way to detect [signal](<signal.md>) in the graph.
