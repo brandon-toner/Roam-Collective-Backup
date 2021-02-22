@@ -245,7 +245,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
         - [[Conventions]] to make [these](((HjC43lt9e))) work:
             - Append TODOs with a day or week tag to schedule them. ((Must be in the SAME BLOCK))
             - Append `#[[Flagged]]` to appear in the Flagged report.
-            - Update the [week & month variables](((bFUOGEPXz))) weekly and monthly.
+            - Update the [week & month variables](Global Variables) weekly and monthly.
             - Test Tasks
         - "So, in fact, I wanna level up the concept "#[[FN]] Roam {X} protocol" to be a page in [[Roam-Collective]]. "
             - [[~[[leekeifon]]]] [[Create new pages freely, in keeping with the conventions.]]

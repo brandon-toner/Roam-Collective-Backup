@@ -216,7 +216,7 @@
             - Decision:: #not-populated
             - Notes:: #not-populated
     - #[[Change Log]] 
-        1. Updated the [global variables](((bFUOGEPXz))) for the week/month
+        1. Updated the [global variables](Global Variables) for the week/month
         2. Added [Choice Options](((5JS54DGR5))) smartblock ((For adding an option, and corresponding pros and cons))
         3. Added namespace of `E/` in front of Evergreen notes [*](((u8etVKAtE)))
         4. Added a [random evergreen note](((Qyxu5azax))) smartblock

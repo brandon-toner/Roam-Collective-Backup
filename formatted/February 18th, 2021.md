@@ -10,7 +10,7 @@
         4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>) be used [resurface ]([resurfacing](<resurfacing.md>))information across time?
             - How could "SR" be used to resurface interesting information. #[spaced repetition](<spaced repetition.md>)
@@ -330,7 +330,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                     - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
             - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
-            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Samuel]([[[Samuel Bars](<[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
                 - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))

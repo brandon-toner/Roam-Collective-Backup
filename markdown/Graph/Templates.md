@@ -1,7 +1,7 @@
 - Tags:: #Collections
 - Related:: [[roam/templates]]
 - Table of Contents::
-    - [Global Variables](((bFUOGEPXz)))
+    - [Global Variables](Global Variables)
     - [Daily Templates](((dho4joU3n)))
     - [Dates](((hnK4dsiz3)))
     - [Productivity](((HjC43lt9e)))
@@ -13,10 +13,10 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - Contents::
     - Global Variables
-        - #42Setting ThisWeek #[[Week-07: 02-15-2021]]
-        - #42Setting ThisWkRaw Week-07: 02-15-2021
-        - #42Setting NextWeek #[[Week-08: 02-22-2021]]
-        - #42Setting NextWkRaw Week-08: 02-22-2021
+        - #42Setting ThisWeek #[[Week-08: 02-22-2021]]
+        - #42Setting ThisWkRaw Week-08: 02-22-2021
+        - #42Setting NextWeek #[[Week-09: 03-01-2021]]
+        - #42Setting NextWkRaw Week-09: 03-01-2021
         - #42Setting ThisMonth #[[February 2021]]
         - #42Setting ThisMnthRaw February 2021
         - #42Setting NextMonth #[[March 2021]]
@@ -111,9 +111,9 @@
             - Daily Review::
                 - **Scheduled for Today:**
                     - <%IFDAYOFWEEK:1,2%> {{[[TODO]]}} Update week variables <%DATE:Today%>
-                        - {{[[embed]]: ((bFUOGEPXz))}}
+                        - {{[[embed]]: Global Variables}}
                     - <%IFDAYOFMONTH:1,2%> {{[[TODO]]}} Update month variables <%DATE:Today%>
-                        - {{[[embed]]: ((bFUOGEPXz))}}
+                        - {{[[embed]]: Global Variables}}
                     - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,<%DATE:today%>,-DONE%>}}
                 - {{Overdue:42SmartBlock:.rc3TODO — TODO Overdue (10, with header)}}

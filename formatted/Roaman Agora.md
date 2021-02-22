@@ -18,7 +18,7 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Questions on the [Roaman Agora](<Roaman Agora.md>)
 
-- [@S]([[[Samuel Bars](<[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of The [Roaman Agora](<Roaman Agora.md>)
+- [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of The [Roaman Agora](<Roaman Agora.md>)
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - How is the [Roaman Agora](<Roaman Agora.md>)

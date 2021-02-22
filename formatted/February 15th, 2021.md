@@ -14,7 +14,7 @@
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What RC conventions would be helpful within [Joel Chan](<Joel Chan.md>)'s synthesis pilot project?
         - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -261,7 +261,7 @@
         - On self-accruing onboarding material
             - [@B]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
-            - [@S]([[[Samuel Bars](<[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of The [Roaman Agora](<Roaman Agora.md>) — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@S]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) + [@B]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) I'm super excited about the idea of The [Roaman Agora](<Roaman Agora.md>) — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[@[[Everyone](<@[[Everyone.md>)]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  

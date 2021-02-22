@@ -1,5 +1,5 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
-    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) #not-populated
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[The Zettelkasten]]
@@ -26,9 +26,9 @@
             - **Help Wanted Query:**
                 - #min-con {{[[query]]: {and: [[Help Wanted]] {not: {or: [[DONE]] [[roam/css]]}}}}}
     - #[[Change Log]]
-        - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: [[Community Notes]]}}}}
+        - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
             - Image::
@@ -46,5 +46,7 @@
     - #[[GTD Zone]]
         - **TODOs:**
             - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[TODO]]}}}
-    - #[[Change Log]] #not-populated
+    - #[[Change Log]] 
+        1. {{[[DONE]]}} Updated "Global Variables"
 - ---
+- 

@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
+    - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -35,7 +35,7 @@
 - **Personal SmartBlocks:**
     - BToner — .DNP Template #42SmartBlock #roam/templates 
         - <%DATEBASIS:DNP%>
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
             - #Scratchpad #not-populated
             - #Conversation #not-populated
             - #[[The Zettelkasten]]

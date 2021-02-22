@@ -14,7 +14,7 @@
         1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)

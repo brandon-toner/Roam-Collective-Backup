@@ -1,5 +1,5 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
-    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) [not-populated](<not-populated.md>)
+    - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -26,9 +26,9 @@
             - **Help Wanted Query:**
                 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) {not: {or: [DONE](<DONE.md>) [roam/css](<roam/css.md>)}}}}}
     - #[Change Log](<Change Log.md>)
-        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>) {not: [Community Notes](<Community Notes.md>)}}}}
+        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>) {not: {or:[Community Notes](<Community Notes.md>) [not-populated](<not-populated.md>)}}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>) [CSS](<CSS.md>)
             - **[Image](<Image.md>):**
@@ -46,8 +46,10 @@
     - #[GTD Zone](<GTD Zone.md>)
         - **TODOs:**
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}}}
-    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>) 
+        1. [x] Updated "Global Variables"
 - ---
+- 
 
 # Backlinks
 ## [February 22nd, 2021](<February 22nd, 2021.md>)

@@ -14,7 +14,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -261,7 +261,7 @@
         - On self-accruing onboarding material
             - [@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
-            - [@S]([[[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
+            - [@S]([[@[[Samuel Bars]]]]) + [@B]([[cc:[[Brandon Toner]]]]) I'm super excited about the idea of The [[Roaman Agora]] — a few more thoughts [here](((LauAx5MEi))). Would love to hear some more of your thoughts @Sam.
             - [@P]([[@[[Peter Rosso]]]]) what are you refering to [here](((V-5pe7Vgp)))?
             - [@P]([[@[[Peter Rosso]]]]) [re](((62sxQnxcI))) I think we would need to roll with the `{{or}}` function to really do the `[[@[[Everyone]]]]` tag, otherwise you risk creating weird compound pages...
             - [@B]([[~[[Brandon Toner]]]]) [re](((RrVy0MVux))) absolutely — we can standardize in a set of variables. Building out a rough structure for overall [colors](Blue) and then for [tags](((Z5ETQBI4D))).  

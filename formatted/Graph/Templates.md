@@ -1,7 +1,7 @@
 - **[Tags](<../Tags.md>):** [Collections](<../Collections.md>)
 - **[Related](<../Related.md>):** [roam/templates](<../roam/templates.md>)
 - **[Table of Contents](<../Table of Contents.md>):**
-    - [Global Variables](((bFUOGEPXz)))
+    - [Global Variables](Global Variables)
     - [Daily Templates](((dho4joU3n)))
     - [Dates](((hnK4dsiz3)))
     - [Productivity](((HjC43lt9e)))
@@ -13,10 +13,10 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - **[Contents](<../Contents.md>):**
     - Global Variables
-        - [42Setting](<../42Setting.md>) ThisWeek #[Week-07: 02-15-2021](<../Week-07: 02-15-2021.md>)
-        - [42Setting](<../42Setting.md>) ThisWkRaw Week-07: 02-15-2021
-        - [42Setting](<../42Setting.md>) NextWeek #[Week-08: 02-22-2021](<../Week-08: 02-22-2021.md>)
-        - [42Setting](<../42Setting.md>) NextWkRaw Week-08: 02-22-2021
+        - [42Setting](<../42Setting.md>) ThisWeek #[Week-08: 02-22-2021](<../Week-08: 02-22-2021.md>)
+        - [42Setting](<../42Setting.md>) ThisWkRaw Week-08: 02-22-2021
+        - [42Setting](<../42Setting.md>) NextWeek #[Week-09: 03-01-2021](<../Week-09: 03-01-2021.md>)
+        - [42Setting](<../42Setting.md>) NextWkRaw Week-09: 03-01-2021
         - [42Setting](<../42Setting.md>) ThisMonth #[February 2021](<../February 2021.md>)
         - [42Setting](<../42Setting.md>) ThisMnthRaw February 2021
         - [42Setting](<../42Setting.md>) NextMonth #[March 2021](<../March 2021.md>)
@@ -111,9 +111,9 @@
             - **[Daily Review](<../Daily Review.md>):**
                 - **Scheduled for Today:**
                     - <%IFDAYOFWEEK:1,2%> [ ] Update week variables <%DATE:Today%>
-                        - {{[embed](<../embed.md>): ((bFUOGEPXz))}}
+                        - {{[embed](<../embed.md>): Global Variables}}
                     - <%IFDAYOFMONTH:1,2%> [ ] Update month variables <%DATE:Today%>
-                        - {{[embed](<../embed.md>): ((bFUOGEPXz))}}
+                        - {{[embed](<../embed.md>): Global Variables}}
                     - **Page:** <%PAGE%>
 {{[embed](<../embed.md>): <%BLOCKMENTIONS:20,TODO,<%DATE:today%>,-DONE%>}}
                 - {{Overdue:42SmartBlock:.rc3TODO — TODO Overdue (10, with header)}}

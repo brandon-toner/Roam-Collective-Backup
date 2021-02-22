@@ -17,7 +17,7 @@
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
             - Found a better alternative: [[propositions]]
@@ -393,7 +393,7 @@
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)"
         - "#[[FN]] important [[questions]] central to an area of development should be elevated to [[page-level]] to promote more frequent consideration and [[resurfacing]]."
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} [°]([[csf]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] {{word-count}} [°]([[csf]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad
         - Launching the [[Roaman Agora]]
             - {{[[DONE]]}} Tweet about the Agora

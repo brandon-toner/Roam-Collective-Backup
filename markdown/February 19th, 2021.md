@@ -12,7 +12,7 @@
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)
             - Thoughts::
