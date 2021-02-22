@@ -238,6 +238,16 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- {{[query](<query.md>): {and: [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}
+
+- {{[query](<query.md>): {and: #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) [TODO](<TODO.md>)}
+
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 7. {{[TODO](<TODO.md>)}
 
@@ -350,6 +360,9 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [TODO](<TODO.md>)}
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) [TODO](<TODO.md>)}
 
 ## [Thoughts](<Thoughts.md>)
 - {{[TODO](<TODO.md>)}

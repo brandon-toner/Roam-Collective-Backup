@@ -984,7 +984,7 @@ span.rm-page-ref[data-tag="Community Notes"] {
 
  span.rm-page-ref[data-tag="Community Notes"] + span[data-link-title] {
      background: var(--cl-gray-400) !important;
-     color: var(--cl-gray-900) !important;
+     color: var(--cl-gray-800) !important;
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;
@@ -4959,6 +4959,9 @@ h6 {
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - {{[query](<../query.md>): {and: [Agenda](<../Agenda.md>) {not: [roam/css](<../roam/css.md>)]
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [min-con](<../min-con.md>) {{[query](<../query.md>): {and: [Help Wanted](<../Help Wanted.md>) {not: {or: [DONE](<../DONE.md>) [roam/css](<../roam/css.md>)}
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - (resolved) "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)

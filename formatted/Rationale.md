@@ -4,6 +4,10 @@
 - #[FN](<FN.md>) Use features as the are intended to be used.
             - **[Rationale](<Rationale.md>):**
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+2. Added Zettelkasten and TODO summaries to the Community Notes section (series of queries)
+            - **[Rationale](<Rationale.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 3. Added "Last Updated" and "Next Steps" as attributes to questions, evergreen notes, and creative projects templates. [*](((yURo5cs1L)))
             - **[Rationale](<Rationale.md>):**

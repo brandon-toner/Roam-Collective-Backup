@@ -45,6 +45,14 @@
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
                 - **[Image](<Image.md>):**
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+- DATE:today to auto-populate the correct day for the queries upon population.
+            - **[Image](<Image.md>):**
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>) [CSS](<CSS.md>)
+            - **[Image](<Image.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**

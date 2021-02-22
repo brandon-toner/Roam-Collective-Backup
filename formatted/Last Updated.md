@@ -36,6 +36,10 @@
 - **[Date Created](<Date Created.md>):** [February 15th, 2021](<February 15th, 2021.md>)
     - **[Last Updated](<Last Updated.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Last Updated](<Last Updated.md>):**

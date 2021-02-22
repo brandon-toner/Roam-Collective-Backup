@@ -144,6 +144,10 @@
 - **[Date Created](<Date Created.md>):** [January 30th, 2021](<January 30th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Created by](<Created by.md>):**
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
     - **[Created by](<Created by.md>):**

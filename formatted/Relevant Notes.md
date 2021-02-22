@@ -28,6 +28,10 @@
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Relevant Notes](<Relevant Notes.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Resources](<Resources.md>):** [not-populated](<not-populated.md>)
                 - **[Relevant Notes](<Relevant Notes.md>):**
@@ -65,6 +69,10 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}}}} [minimal](<minimal.md>)
+    - **[Relevant Notes](<Relevant Notes.md>):**
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}}}} [minimal](<minimal.md>)
     - **[Relevant Notes](<Relevant Notes.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)

@@ -58,7 +58,10 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [February 21st, 2021](<February 21st, 2021.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
@@ -89,7 +92,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!

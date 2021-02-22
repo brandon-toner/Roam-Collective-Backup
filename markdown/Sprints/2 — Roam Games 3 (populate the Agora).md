@@ -1,0 +1,29 @@
+- Tags:: #Sprints
+    - Date Created:: [[February 21st, 2021]]
+    - Date Range:: [[February 21st, 2021]] until [[February 28th, 2021]]
+    - Objectives::
+        - Populate Roam Games submissions (past and present) into the Agora
+        - Populate other community work, projects, and resources into the Agora
+    - Status:: [[Status/Active]]
+    - Resources:: 
+        - Link to [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora)
+        - [Request access to the Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA)
+    - **Outlines:** #not-populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[ex-A]] [[Outlines]]}}} #minimal
+    - **Questions:** #not-populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
+    - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
+        - Query::
+            - {{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal
+    - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
+        - Query:: 
+            - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}
+    - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
+        1. [[February 21st, 2021]] 
+            - **Brandon:** 
+                - Created sprint
+                - Brainstormed a bit on the Agora [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/K5EWRHJVd)
+                - Post to community notes section: "Help [brainstorm submissions and roam community work](((78frD4ZM9))) to populate in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora)."
+                - Tweeted a demo page: https://twitter.com/brandontoner/status/1363635045529960453?s=21

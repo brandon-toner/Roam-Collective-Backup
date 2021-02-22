@@ -1,0 +1,9 @@
+- Tags:: #[[Evergreens]]
+    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Tim Ferriss]]
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

@@ -1,29 +1,122 @@
-- {{embed: ((FRFW0hQu_))}}
-- ---
-- #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+        - Help [brainstorm submissions and roam community work](((78frD4ZM9))) to populate in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora).
+            - Next Steps:
+                - Brainstorm things to be populated into the Agora
+                - Populate them using the templates
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        - **Created a NEW SPRINT**: [[Sprints/2 — Roam Games 3 (populate the Agora)]]
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
-        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+        - **Active Sprint:** [[Sprints/2 — Roam Games 3 (populate the Agora)]]
+    - #[[Change Log]]
+        - #min-title {{[[query]]: {and: [[February 21st, 2021]] [[Change Log]] {not: [[Community Notes]]}}}}
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
     - #Inbox
         - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
             - 
-    - #[[Scratchpad]] #not-populated
+    - #[[Scratchpad]] 
+        - Author centric dependency
+            - @zsviczian
+                - `package?::`[:find
+                - `$::` 2000 (measure of perceived contribution of the  package to the problem or the solution that nominated it as an ancestor)
+                - `ancestors::` [1000]
+                    - 700 @roamhacker Roam42
+                        - @DharamKapila
+                            - `package?::`[:find
+                            - `$::` 100
+                            - `ancestors::`
+                                - #not_populated
+                        - @treetopian
+                            - nav
+                        - @thepericulum
+                            - open door
+                        - @shawnpmurphy8
+                            - dad
+                        - @AbhayPrasanna
+                            - SB icon
+                        - @gottalead
+                            - pitbull
+                        - @Mridgyy
+                            - brain
+                        - @MamanLunettes
+                            - mother
+                        - @beauhaan
+                            - aesthetics
+                        - @brandontoner
+                            - random
+                        - @MamanLunettes mother
+                        - @brandontoner random
+                    - @dvargas92495 `{{line}}`
+                    - @cortexfutura (Algorithms of Thought)
+                    - @Bieber (Datalog Queries)
+                    - @jacrify (Intro to RoamAlphaAPI)
+            - Swap author with package to have a package centric dependency tree. If you embed the section of the tree of each package mentioned on its page then they can nominate more ancestors and that page/relation gets included in the graph
+            - If the tweet address is supplied this should be automatable ((provided submission are already in the graph))
+                - On top this could propagate down the reshare path to see if there are further ancestors nominated
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
     - #Conversation 
-        - Query:
+        1. Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        2. On Anchestors mapping / Agora
+            - [@Brandon]([[~[[Brandon Toner]]]]) Do you still need help on [this?](((78frD4ZM9))) Don't have edit access to the agora, but [happy to help](((CzK5R-3Z6))). [*]([[cc:[[Charles Farr]]]])
+                - There is a quick example, but "If the tweet address is supplied this should be automatable ((provided submission are already in the graph))"
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
-    - 
 - ---
 - #[[My Daily Notes]] [[Alexandra Westhoff]] {{word-count}}
-- 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - Doing a bit of brainstorming/data population in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora) today — mapping the Roam Games and roamcult projects & tools more broadly.
+            - Would love some help in mapping the territory — **the more brainstormers the better**. (I'm bound to forget most things)
+                - To help: 
+                    - Brainstorm a list of: SUBMISSIONS, OTHER PROJECTS/TOOLS, and COMPANION TOOLS
+                        - Can either do that here or in the Agora.
+                    - Create placeholder submission pages for past, and present RoamGames projects. Don't worry too much about accuracy here... the project contributors can always take over to improve the information.
+                        - #I We could put a banner at the top of the page for each placeholder submission — as a disclaimer that we are populating it and that there may be inaccuracies.
+                            - With a CTA to let the project team know to update their section in the Agora.
+        - #Obs I'm feeling a lot of ideas/opportunities slip through my fingers...
+            - #I Start adding ideas to the [[Backlog]] page. [cc:Charles]([[@[[Charles Farr]]]])
+                - Model to emulate: https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim
+        - #[[Roam Enhancement Requests]]
+            - Add [[fuzzy search]] to the main search bar (as it exists for the block-search)
+        - [[Evergreens/deconstruct, selection, sequencing, stakes (DSSS)]]
+    - #Conversation #not-populated
+    - #[[The Zettelkasten]]
+        - Observations
+            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[Obs]]}}}
+        - Questions 
+            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[Q]]}}}
+        - Ideas
+            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[I]]}}}
+        - Fleeting Notes
+            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[FN]]}}}
+    - #Bookmarks
+        - "Author centric dependency" [[Epics/Managing knowledge dependencies in multiplayer]]
+    - #[[Change Log]] 
+        1. Updated [my personal DNP template](((VyS8OjXZx))) to include a set of queries for [[block-level tags]]. 
+            - A query now populates, automatically collecting any mentions of key block-level tags within my section.
+            - Key aspects:
+                - DATEBASIS = DNP to allow for populating my template in-advance for the next day.
+                - CONCAT function to prevent the queries from being created WITHIN the template block. (they would be big and slow)
+                - DATE:today to auto-populate the correct day for the queries upon population.
+            - Image::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZKXVPFSKtA.png?alt=media&token=7ceaa27c-b2b0-440e-b33b-507602d81d1c)
+        2. Added Zettelkasten and TODO summaries to the Community Notes section (series of queries)
+            - Rationale:: Compile results from the full DNP (across users)
+        3. Added a Change Log query to the Community Notes section
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Write an [end of week report](((dFbvCf9ei)))
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+- ---

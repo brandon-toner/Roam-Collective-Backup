@@ -10,7 +10,7 @@
         4. "On the value of [[block-level tags]]"
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
             - How could "SR" be used to resurface interesting information. #[[spaced repetition]]
@@ -330,7 +330,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                     - See: "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([[cc:[[Joel Chan]]]]) system with the addition of a `#FN` level that I call a `#Notion`
             - [@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
-            - [@Brandon]([[@[[Brandon Toner]]]]) & [@Samuel]([[[[Samuel Bars]]]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+            - [@Brandon]([[~[[Brandon Toner]]]]) & [@Samuel]([[[[Samuel Bars]]]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
                 - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [[block-level tags]]
             - [@Brandon]([[~[[Brandon Toner]]]]) [@Samuel]([[~[[Samuel Bars]]]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))

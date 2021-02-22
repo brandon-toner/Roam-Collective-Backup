@@ -84,6 +84,9 @@
 
 - [FN](<FN.md>) [block-level tags](<block-level tags.md>)
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+1. Updated [my personal DNP template](((VyS8OjXZx))) to include a set of queries for [block-level tags](<block-level tags.md>).
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 

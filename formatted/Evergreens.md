@@ -86,6 +86,9 @@
 ## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 

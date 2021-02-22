@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - What additional [FAQs]([[FAQ]]) might be helpful to add? (We haven't revisited these in a while)  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+        - What additional [FAQs]([[FAQ]]) might be helpful to add? (We haven't revisited these in a while)  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}"
     - #Chat ((A place to propose objects of discussion)) 
@@ -12,7 +12,7 @@
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)
             - Thoughts::
@@ -178,14 +178,14 @@ done our best with a piece of writing and we're handing it off to be improved
 by the other person^^.__
                 - __TOL means 'thinking out loud' — that's a signal that whatever follows isn't yet fully formed. It's a work in progress (and often the freedom of thinking out
 loud is what leads to significant insights).__
-        - "#Q How might [[Roam Portal]] be used in RC?" [°]([[@[[Brandon Toner]]]])
+        - "#Q How might [[Roam Portal]] be used in RC?" [°]([[~[[Brandon Toner]]]])
             - Show a google earth type map to see where every graph is, on the globe
             - Haven't understood all the specifics of how it works, but might be possible to highlight areas of high activity in the graph
                 - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[[Sprints/1 — Roam Games 3 (managing dependencies)]]` and it's children for ex.) have the biggest word count.
                 - Would be interesting to see which blocks are referenced the most
                     - First results would be the DNP tags obviously, but what comes after is interesting.
             - In the rbc demo, I remember being surprised that it had access to much more data than I thought it could. **There's potential here to resurface relevant things**, but that depends on specifics of what it can do, and heavily depends on graph conventions too.
-        - "#Q How can we make the community notes section more rich and comprehensive?" [°]([[@[[Brandon Toner]]]])
+        - "#Q How can we make the community notes section more rich and comprehensive?" [°]([[~[[Brandon Toner]]]])
             - As prompts, surfacing interesting fleeting notes and questions is great I think. And somehow would be good to remove pressure to catch with everything, have the mindset of "take a look at main feed, and start riffing/sharing ideas on the prompts that resonate with you"
                 - The collective zettelkasten as a source for prompts to drive reflection, discussion, and ideas, on shared paths.
                     - The value of collective vs private zettelkasten lies in the discussion (with different perspectives, claims, and answers) around the same questions/themes
@@ -207,17 +207,17 @@ loud is what leads to significant insights).__
                 - The writing prompts are not linked to progress on the book, seems a bit non-linear
                     - I read a few chapters, skimmed a bit part of it, but yeah I've been slacking a bit 
                 - There are group readings at 3:30am on mondays, so I didn't join, and I forgot about checking the other group that popped up for accessible timezones
-        - [@Brandon]([[@[[Brandon Toner]]]]) about [tweeting thoughts about the graph](((IYSIt3usl)))
+        - [@Brandon]([[~[[Brandon Toner]]]]) about [tweeting thoughts about the graph](((IYSIt3usl)))
             - Would be cool if we could share some interesting lines of thought/conversation from the discussions here.
                 - What do you think about integrating the plugin to send tweets from the db?
                     - Conventions could be
                         - Tweet things from your dnp only, but you can integrate block refs
                         - Make a second version of the block and children you wanna tweet, format so that it works with the plugin and add links (QT and else)/gifs/image.
                         - Then click send, and go back to original version so the linking and hierarchy keeps respecting graph conventions (so that queries and all that keep working)
-        - [@B]([[@[[Brandon Toner]]]]) about [scaling adoption of RC conventions](((ct3Iw8fLY)))
+        - [@B]([[~[[Brandon Toner]]]]) about [scaling adoption of RC conventions](((ct3Iw8fLY)))
             - Seems like https://roamlab.org/ from [[Kyle Stratis]] is also going to experiment with conventions, and maybe stumble on different ones? What's your take, thoughts, on this?
                 - It's possible that other projects emerge with people sharing a bunch of conventions different to the ones in RC. This can complicate future inter-graph sharing
-        - [@Brandon]([[@[[Brandon Toner]]]]) & [@Charles]([[@[[Charles Farr]]]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
+        - [@Brandon]([[~[[Brandon Toner]]]]) & [@Charles]([[@[[Charles Farr]]]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
             - I agree with you two on this, I enjoy the use of block-level tags to articulate/define your thought process.
                 - For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective.
 - ---

@@ -49,6 +49,10 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FXrX08XM4wy.png?alt=media&token=42f9892d-4ddd-493b-af5d-3f09c59b1eae)
     - **[Status](<Status.md>):**
 
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- Populate other community work, projects, and resources into the Agora
+    - **[Status](<Status.md>):**
+
 ## [Wade Dominic](<Wade Dominic.md>)
 - Send me a DM on Twitter (also great)
         - **[Status](<Status.md>):**

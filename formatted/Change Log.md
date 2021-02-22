@@ -55,6 +55,20 @@
 
 - #[Change Log](<Change Log.md>)
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 21st, 2021](<February 21st, 2021.md>) [Change Log](<Change Log.md>)
+
+- #[Change Log](<Change Log.md>)
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>)
+
+- #[Change Log](<Change Log.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -73,6 +87,11 @@
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - #[Change Log](<Change Log.md>)
+
+## [Graph/Templates](<Graph/Templates.md>)
+- #[Change Log](<Change Log.md>)
+
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: <%DATE:today%> [Change Log](<Change Log.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check the #[Change Log](<Change Log.md>)

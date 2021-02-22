@@ -1,10 +1,6 @@
 - 
 
 # Backlinks
-## [Brandon Toner](<Brandon Toner.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
-- **[SmartBlocks](<SmartBlocks.md>):**
-
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
         - **[SmartBlocks](<SmartBlocks.md>):**

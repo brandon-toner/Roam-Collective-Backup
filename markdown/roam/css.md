@@ -984,7 +984,7 @@ span.rm-page-ref[data-tag="Community Notes"] {
 
  span.rm-page-ref[data-tag="Community Notes"] + span[data-link-title] {
      background: var(--cl-gray-400) !important;
-     color: var(--cl-gray-900) !important;
+     color: var(--cl-gray-800) !important;
      padding: 3px 5px 3px 15px;
      font-size: 13px;
      line-height: 1em;

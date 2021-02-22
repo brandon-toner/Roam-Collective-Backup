@@ -17,7 +17,7 @@
         - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
         - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
         - "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
             - Found a better alternative: [propositions](<propositions.md>)
@@ -232,7 +232,7 @@
             - In particular, his book, [Books/Educational Leadership](<Books/Educational Leadership.md>) was recommended. I'm primarily reading that one now.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHv7r_09Uy3.png?alt=media&token=8d9de0ff-5771-4ee9-82f8-4ee71d3f6b76)
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbydVOh7frE.png?alt=media&token=8f8731a1-fb73-461a-b167-fe1e3390e37b)
-            - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting."
+            - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting."
                 - Yea — she'd love it. Great historical look on education, with a focus on philosophy and morality. It's a gem.
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on [fleeting notes](<fleeting notes.md>) vs [propositions](<propositions.md>) [*](((70BbCHmbe)))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
             - I agree — "#[FN](<FN.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)"
@@ -302,7 +302,7 @@
                 - Rewriting
             - ^ "All these are not just different tasks, but tasks requiring a different kind of attention."
     - [Conversation](<Conversation.md>)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) About [block level tags](((Spljfcp-2)))
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) About [block level tags](((Spljfcp-2)))
             - [FN](<FN.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - They see a question, with a fleeting notes as an answer underneath. They might think the question is good, but they think there is a better answer. Now they can just reference the question and give their answer.
                     - This is simple but it's magic.
@@ -356,7 +356,7 @@
                 - Another thoughts that comes to mind when thinking about code management and testing is CD/CI
                     - The idea is that code gets tested before being deployed. This works in an ideal world in which people actually write tests for their own code, but people never do that. When code is pushed to the main branch of their git remote, the code is tested and integrated into the general workflow. 
                     - If the code works and does not throw errors it becomes part of the bigger code.
-                    - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+                    - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
                         - Enters Roam Inter
                             - Imagine that the css and js necessary to run this page was organised on the Roam Agora. If the is a change on the code on the agora which only the creator can edit that change updates in the RC graph using roam inter.
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
@@ -372,15 +372,15 @@
         1. Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
         2. [claims](<claims.md>) vs [fleeting notes](<fleeting notes.md>) vs [preposition](<preposition.md>)
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]), [On Claims](((KS6457gQP))) I will need to find the exact section of the book, but we discussed this last week at a reading (unfortunately not recorded). Some claims can be fleeting notes, but the converse is not necessarily true. From the original definition, I think we have been using the scratch book as a list of fleeting notes and then sorting some of them into claims. Most of the current fleeting notes are claims but fleeting notes $$\neq$$ claims.
-                - Additionally, [On adoption of standards](((ct3Iw8fLY))) I think the next wave of Zettelkasten users will mostly be influenced by Beau's design given that he is running the RBC III. [cc:Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]), [On Claims](((KS6457gQP))) I will need to find the exact section of the book, but we discussed this last week at a reading (unfortunately not recorded). Some claims can be fleeting notes, but the converse is not necessarily true. From the original definition, I think we have been using the scratch book as a list of fleeting notes and then sorting some of them into claims. Most of the current fleeting notes are claims but fleeting notes $$\neq$$ claims.
+                - Additionally, [On adoption of standards](((ct3Iw8fLY))) I think the next wave of Zettelkasten users will mostly be influenced by Beau's design given that he is running the RBC III. [cc:Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
                 - On top of this it is worth considering what I have been repeating to anyone I zoomed about Zettelkasten development. In order to yield the greatest output it is important to have a personalised system that meets our needs.
-                    - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [FN](<FN.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
+                    - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [FN](<FN.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
                     - "THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags."
-                    - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]])[On Questions](((U8aJOgOcc))) [Q](<Q.md>) Are `[Q](<Q.md>)` convergent or divergent? and is there any point in answering the previous question?
+                    - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])[On Questions](((U8aJOgOcc))) [Q](<Q.md>) Are `[Q](<Q.md>)` convergent or divergent? and is there any point in answering the previous question?
                     - ---
-                    - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On your choice of reading](((zOU13sMXS))) How did you even end up picking this book?! (It's hard to find book)
-                        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting.
+                    - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On your choice of reading](((zOU13sMXS))) How did you even end up picking this book?! (It's hard to find book)
+                        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting.
         3. Epic/Agora [*]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
             - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [On current Epic/Agora](((46B1do3DS))) If help is still welcome/required I would love to help. The same way a Zettelkasten needs an entry point for a serendipitous exploration is there a specific block, the page I can start from in order to get an idea of what is the best way I can help?
                 - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [On prepopulating the Agora](((MnEbaYLbR))) We could ask people doing old submissions to test it? That way you would populate it with relevant material and create momentum in people using it.
@@ -393,7 +393,7 @@
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)"
         - "#[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>)."
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
         - Launching the [Roaman Agora](<Roaman Agora.md>)
             - [x] Tweet about the Agora

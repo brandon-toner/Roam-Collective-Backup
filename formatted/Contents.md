@@ -128,6 +128,10 @@
 - the purpose of the [divergence](<divergence.md>) phase is to generate [abundance](<abundance.md>).
     - **[Contents](<Contents.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
+    - **[Contents](<Contents.md>):**
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
     - **[Contents](<Contents.md>):**

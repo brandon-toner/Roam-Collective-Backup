@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -32,11 +32,24 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>) {not: {or: }}  }}}
         - **Todos:**
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
-- **[SmartBlocks](<SmartBlocks.md>):**
+- **Personal SmartBlocks:**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+        - <%DATEBASIS:DNP%>
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[The Zettelkasten](<The Zettelkasten.md>)
+                - **Observations:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Obs],]},},}%>
+                - **Questions:** 
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Q],]},},}%>
+                - **Ideas:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[I],]},},}%>
+                - **Fleeting Notes:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
+            - #[GTD Zone](<GTD Zone.md>)
+                - **TODOs:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
     - Mentions (BT)
@@ -194,6 +207,9 @@
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -261,6 +277,12 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [@Brandon]([Brandon Toner](<Brandon Toner.md>))
+
+## [February 21st, 2021](<February 21st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)

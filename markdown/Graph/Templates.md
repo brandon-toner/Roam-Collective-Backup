@@ -54,16 +54,36 @@
                     - ---
     - Daily Templates
         - .rc2DH — Daily Header #42SmartBlock #roam/templates
-            - {{embed: ((FRFW0hQu_))}}
-            - ---
-            - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
-                - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-                    - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+            - <%DATEBASIS:DNP%>
+            - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+                - #[[Daily Activities]] #not-populated
                 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
                 - #Chat ((A place to propose objects of discussion)) #not-populated
-                - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
-                    - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
-                    - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+                - #[[The Zettelkasten]]
+                    - **Observations:**
+                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
+                    - **Questions:** 
+                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
+                    - **Ideas:**
+                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
+                    - **Fleeting Notes:**
+                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
+                    - **Literature Notes:**
+                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+                - #[[GTD Zone]] 
+                    - **Active Epic(s):**
+                        - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]]}}}
+                    - **Active Sprint(s):**
+                        - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]]}}}
+                    - **Queries:**
+                        - **TODO Query:** (created today)
+                            - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+                        - **TODO Query:** (scheduled for this week)
+                            - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+                        - **Help Wanted Query:**
+                            - #min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                - #[[Change Log]]
+                    - #min-title {{[[query]]: {and: <%DATE:today%> [[Change Log]] {not: [[Community Notes]]}}}}
             - ---
         - .rc1DNP — Daily Notes Template #42SmartBlock #roam/templates
             - #[[My Daily Notes]] [[Your Name]] {{word-count}}

@@ -5,6 +5,9 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - #[LN](<LN.md>)
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [LN](<LN.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Use notes from each class ([FN](<FN.md>), [LN](<LN.md>),
 

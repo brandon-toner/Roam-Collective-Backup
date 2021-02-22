@@ -22,6 +22,11 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>)
+
+- [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Help Wanted](<Help Wanted.md>)
 

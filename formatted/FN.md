@@ -248,6 +248,14 @@
 
 - "#[FN](<FN.md>)
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [FN](<FN.md>)}
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>)
+
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [FN](<FN.md>)}
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>)
 
@@ -655,6 +663,9 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [FN](<FN.md>)
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "#[FN](<FN.md>)

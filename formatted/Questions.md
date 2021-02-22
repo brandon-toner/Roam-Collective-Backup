@@ -47,3 +47,6 @@
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
 
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
+

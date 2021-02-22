@@ -54,16 +54,36 @@
                     - ---
     - Daily Templates
         - .rc2DH — Daily Header [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
-            - {{embed: ((FRFW0hQu_))}}
-            - ---
-            - #[My Daily Notes](<../My Daily Notes.md>) [Roam-Collective](<../Roam-Collective.md>) {{word-count}} [*]([rc](<../rc.md>)) 
-                - #[Daily Activities](<../Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-                    - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<../Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+            - <%DATEBASIS:DNP%>
+            - #[Community Notes](<../Community Notes.md>) [Roam-Collective](<../Roam-Collective.md>) {{word-count}} [*]([rc](<../rc.md>)) 
+                - #[Daily Activities](<../Daily Activities.md>) [not-populated](<../not-populated.md>)
                 - #[The Main Feed](<../The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<../not-populated.md>) 
                 - [Chat](<../Chat.md>) ((A place to propose objects of discussion)) [not-populated](<../not-populated.md>)
-                - #[GTD Zone](<../GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<../not-populated.md>) 
-                    - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>)"
-                    - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+                - #[The Zettelkasten](<../The Zettelkasten.md>)
+                    - **Observations:**
+                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
+                    - **Questions:** 
+                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
+                    - **Ideas:**
+                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
+                    - **Fleeting Notes:**
+                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
+                    - **Literature Notes:**
+                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+                - #[GTD Zone](<../GTD Zone.md>) 
+                    - **Active Epic(s):**
+                        - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>)}}}
+                    - **Active Sprint(s):**
+                        - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>)}}}
+                    - **Queries:**
+                        - **TODO Query:** (created today)
+                            - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+                        - **TODO Query:** (scheduled for this week)
+                            - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+                        - **Help Wanted Query:**
+                            - [min-con](<../min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                - #[Change Log](<../Change Log.md>)
+                    - [min-title](<../min-title.md>) {{[query](<../query.md>): {and: <%DATE:today%> [Change Log](<../Change Log.md>) {not: [Community Notes](<../Community Notes.md>)}}}}
             - ---
         - .rc1DNP — Daily Notes Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>) {{word-count}}

@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - {{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}
+    - {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -32,11 +32,24 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}
         - **Todos:**
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
-- SmartBlocks::
+- **Personal SmartBlocks:**
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟢Online | 🟡On & Off | 🟠Away | ⚫️Offline}}"
+        - <%DATEBASIS:DNP%>
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
             - #Scratchpad #not-populated
             - #Conversation #not-populated
+            - #[[The Zettelkasten]]
+                - **Observations:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Obs],]},},}%>
+                - **Questions:** 
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Q],]},},}%>
+                - **Ideas:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[I],]},},}%>
+                - **Fleeting Notes:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
+            - #[[GTD Zone]]
+                - **TODOs:**
+                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
             - #[[Change Log]] #not-populated
         - ---
     - Mentions (BT)

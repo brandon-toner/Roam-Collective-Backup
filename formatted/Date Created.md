@@ -140,6 +140,10 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [divergence](<divergence.md>), [convergence](<convergence.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [design](<design.md>) [research](<research.md>) [divergence](<divergence.md>) [convergence](<convergence.md>)
     - **[Date Created](<Date Created.md>):**
@@ -227,6 +231,10 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **Central question:** [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- **[Tags](<Tags.md>):** [Sprints](<Sprints.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)

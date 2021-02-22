@@ -239,6 +239,9 @@
 ## [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)
 - **[Tags](<Tags.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Tags](<Tags.md>):**
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Tags](<Tags.md>):**
 
@@ -514,6 +517,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- **[Tags](<Tags.md>):**
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
 - **[Tags](<Tags.md>):**
 
 ## [Stefan Natter](<Stefan Natter.md>)

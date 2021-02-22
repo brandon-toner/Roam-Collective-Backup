@@ -17,6 +17,14 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [I](<I.md>)}
 
+## [February 21st, 2021](<February 21st, 2021.md>)
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [I](<I.md>)}
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [I](<I.md>)
+
+- {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [I](<I.md>)}
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[I](<I.md>)
 
@@ -43,6 +51,9 @@
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
+
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
 
 ## [roam/css](<roam/css.md>)
 - #[I](<I.md>)

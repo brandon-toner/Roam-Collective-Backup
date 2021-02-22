@@ -11,6 +11,7 @@
 - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) [Active](<Active.md>)
     - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [Active](<Active.md>)
+        - [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) [Active](<Active.md>)
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) [Active](<Active.md>)
     - [ ] "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
     - [ ] Draft & finalize Sprint template
@@ -30,4 +31,7 @@
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) maybe just add a `[Proposed](<Proposed.md>)` tag to processes or conventions (easy status to remember — using on the [Backlog](<Backlog.md>))
+
+## [February 21st, 2021](<February 21st, 2021.md>)
+- [I](<I.md>) Start adding ideas to the [Backlog](<Backlog.md>)
 

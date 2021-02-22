@@ -1,0 +1,50 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[The Zettelkasten]]
+        - **Observations:**
+            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Obs]] {not: [[query]]}}}}
+        - **Questions:** 
+            - #min-title {{[[query]]: {and: [[Q]] [[February 22nd, 2021]] {not: [[query]]]}}}}
+        - **Ideas:**
+            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[I]] {not: [[query]]}}}}
+        - **Fleeting Notes:**
+            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[FN]] {not: [[query]]}}}}
+        - **Literature Notes:**
+            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[LN]] {not: [[query]]}}}}
+    - #[[GTD Zone]] 
+        - **Active Epic(s):**
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]]}}}
+        - **Active Sprint(s):**
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]]}}}
+        - **Queries:**
+            - **TODO Query:** (created today)
+                - {{[[query]]: {and: [[February 22nd 2021]] [[TODO]]}}}
+            - **TODO Query:** (scheduled for this week)
+                - {{[[query]]: {and: #[[Week-07: 02-15-2021]] [[TODO]]}}}
+            - **Help Wanted Query:**
+                - #min-con {{[[query]]: {and: [[Help Wanted]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+    - #[[Change Log]]
+        - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: [[Community Notes]]}}}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
+            - Image::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F0Uj29mojgW.png?alt=media&token=1151c594-bcfa-4134-a3e0-4d783bc6f160)
+    - #Conversation #not-populated
+    - #[[The Zettelkasten]]
+        - **Observations:**
+            - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[Obs]]}}}
+        - **Questions:** 
+            - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[Q]]}}}
+        - **Ideas:**
+            - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[I]]}}}
+        - **Fleeting Notes:**
+            - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[FN]]}}}
+    - #[[GTD Zone]]
+        - **TODOs:**
+            - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[TODO]]}}}
+    - #[[Change Log]] #not-populated
+- ---

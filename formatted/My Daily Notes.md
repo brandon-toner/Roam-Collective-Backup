@@ -165,6 +165,11 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -276,8 +281,6 @@ As you get comfortable with the available tags, I'd recommend using them to help
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- #[My Daily Notes](<My Daily Notes.md>)
-
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

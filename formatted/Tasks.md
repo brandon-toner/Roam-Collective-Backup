@@ -19,3 +19,7 @@
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}}}} [minimal](<minimal.md>)
     - **[Tasks](<Tasks.md>):**
 
+## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}}}} [minimal](<minimal.md>)
+    - **[Tasks](<Tasks.md>):**
+

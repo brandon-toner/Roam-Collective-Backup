@@ -15,9 +15,6 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
-## [February 21st, 2021](<February 21st, 2021.md>)
-- "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
-
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
@@ -38,9 +35,6 @@
 - I like the [[[Roam Book Club](<[[Roam Book Club.md>) III]] approach of putting daily notes on a person's personal page and leaving the daily notes page for group communication, [Prompts](<Prompts.md>),
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
-
-## [Graph/Templates](<Graph/Templates.md>)
 - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)

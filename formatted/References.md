@@ -128,6 +128,10 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
+- **[Author](<Author.md>):** [Tim Ferriss](<Tim Ferriss.md>)
+    - **[References](<References.md>):**
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
     - **[References](<References.md>):**
