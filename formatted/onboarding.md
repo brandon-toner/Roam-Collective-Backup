@@ -10,7 +10,7 @@
 - Features of the graph:[*]([onboarding](<onboarding.md>))
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-- [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>).
+- [x] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>).
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - [therefore](<therefore.md>) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"

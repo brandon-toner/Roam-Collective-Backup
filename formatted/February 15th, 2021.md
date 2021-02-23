@@ -84,7 +84,7 @@
             - [Q](<Q.md>) What are the barriers to user engagement?
                 - [Q](<Q.md>) How might those barriers be navigated or reduced? 
             - **[Related](<Related.md>):** 
-                - "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)"
+                - "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>) "
                     - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
         - #[FN](<FN.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>) [questions](<questions.md>)
             - [Q](<Q.md>) "What learning objective is this questions trying to address?"
@@ -117,7 +117,7 @@
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>) in  [[[Roam Book Club](<[[Roam Book Club.md>) III]], so that'll be an additional feedback loop :)"
                 - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
-                    - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>)) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+                    - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>))  #[February 2021](<February 2021.md>) 
                 - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
                     - Great, yea I'd love to evolve the compare & contrast over time. My goal isn't to fully align with those conventions, but rather to develop these with appreciation and awareness of other systems that exist. Integrating best practices as a medley from other systems.
         3. [@Joel]([@[[Joel Chan](<@[[Joel Chan.md>)]]) (various)
@@ -275,11 +275,11 @@
         - [x] Review notes on the Roaman Agora
         - [x] Outline structure of the Agora
             - Use the creative projects page
-        - [ ] Investigate roam-inter
-            - [ ] Set up roam-inter to connect RC & The Agora (test)
-            - [ ] Reach out to Stian regarding roam inter
+        - [x] Investigate roam-inter
+            - Set up roam-inter to connect RC & The Agora (test)
+            - [x] Reach out to Stian regarding roam inter
             - [x] Watch Stian's overview videos
-            - [ ] Watch detailed technical video
+            - Watch detailed technical video
         - [ ] Pull in relevant notes from [Books/The Culture Code](<Books/The Culture Code.md>) regarding conventions
         - [ ] Brainstorm personal approach to converting thoughts → artifacts
         - [x] Review mentions & work of the last few days

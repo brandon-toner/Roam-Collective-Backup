@@ -4675,6 +4675,13 @@ span [data-tag="min-all"] {
 {
   color: #9E9E9E !important;
 }```
+            - Breaks — `---`
+                - ---
+                    - ```css
+.rm-hr {
+  border: 			.25px dashed var(--cl-gray-500);
+  margin-bottom: 	10px;
+}```
         - Content
             - Headings #Status/Enabled
                 - Preview

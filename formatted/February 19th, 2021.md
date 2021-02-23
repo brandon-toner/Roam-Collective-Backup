@@ -120,14 +120,15 @@ Breaking things apart, so they can be put together
 https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
                 - I'd make this more active-tone — ~~If you would like~~ → To have your RG submission included/showcased in the Agora...
     - #[GTD Zone](<GTD Zone.md>)
-        - [ ] Review past TODOs and reschedule ones that feels relevant still. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
-        - [ ] Download [Roam Portal](<Roam Portal.md>) and give it a test drive. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+        - [ ] Review past TODOs and reschedule ones that feels relevant still.  #[February 2021](<February 2021.md>) 
+        - [ ] Download [Roam Portal](<Roam Portal.md>) and give it a test drive. 
+ #[February 2021](<February 2021.md>) 
             - [Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?
-        - [ ] Create a guide to the zettelkasten / knowledge base conventions in the graph. #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+        - [ ] Create a guide to the zettelkasten / knowledge base conventions in the graph. #[February 2021](<February 2021.md>)
         - [ ] Implement dotted-line tag styling as seen in [Roaman Agora](<Roaman Agora.md>)
             - **[Images](<Images.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fw4i21Q-A8B.png?alt=media&token=9ac58fc9-bcbb-4977-981f-c326aca083d2)
-        - [ ] Experiment with [roam/js/tag-cycle](<roam/js/tag-cycle.md>) + notifications #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+        - [ ] Experiment with [roam/js/tag-cycle](<roam/js/tag-cycle.md>) + notifications #[February 2021](<February 2021.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated [Welcome](<Welcome.md>)
         2. "Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora"
@@ -339,7 +340,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
                     - "Plan to document all of the Roam Games III submissions"
                         - "Ask for everyone to join and add some details on their submission"
                 - "Questions"
-                    - "[ ] Should we prepopulate some RGIII submission pages?"
+                    - "[x] Should we prepopulate some RGIII submission pages?"
                     - "[ ] Who tweets what?"
                         - "Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play"
     - [Conversation](<Conversation.md>)

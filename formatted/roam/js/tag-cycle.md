@@ -89,6 +89,3 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - I added the [roam/js/tag-cycle](<../../roam/js/tag-cycle.md>)
 
-## [roam/js](<roam/js.md>)
-- RoamJS Tag-Cycles [roam/js/tag-cycle](<../../roam/js/tag-cycle.md>)
-

@@ -1,7 +1,7 @@
 - Tags:: #Collections
 - Related:: [[roam/templates]]
 - Table of Contents::
-    - [Global Variables](Global Variables)
+    - [Global Variables](((bFUOGEPXz)))
     - [Daily Templates](((dho4joU3n)))
     - [Dates](((hnK4dsiz3)))
     - [Productivity](((HjC43lt9e)))
@@ -60,30 +60,19 @@
                 - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
                 - #Chat ((A place to propose objects of discussion)) #not-populated
                 - #[[The Zettelkasten]]
-                    - **Observations:**
-                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
-                    - **Questions:** 
-                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
-                    - **Ideas:**
-                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
-                    - **Fleeting Notes:**
-                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
-                    - **Literature Notes:**
-                        - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+                    - {{Today + Obs:42SmartBlock:Today + Obs}}
+                    - {{Today + Q:42SmartBlock:Today + Q}}
+                    - {{Today + I:42SmartBlock:Today + I}}
+                    - {{Today + FN:42SmartBlock:Today + FN}}
+                    - {{Today + LN:42SmartBlock:Today + LN}}
                 - #[[GTD Zone]] 
-                    - **Active Epic(s):**
-                        - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]]}}}
-                    - **Active Sprint(s):**
-                        - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]]}}}
-                    - **Queries:**
-                        - **TODO Query:** (created today)
-                            - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
-                        - **TODO Query:** (scheduled for this week)
-                            - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
-                        - **Help Wanted Query:**
-                            - #min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                    - {{Active Epics:42SmartBlock:Active Epics}}
+                    - {{Active Sprints:42SmartBlock:Active Sprints}}
+                    - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+                    - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+                    - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
                 - #[[Change Log]]
-                    - #min-title {{[[query]]: {and: <%DATE:today%> [[Change Log]] {not: [[Community Notes]]}}}}
+                    - {{Change Log + Today:42SmartBlock:Change Log + Today}}
             - ---
         - .rc1DNP — Daily Notes Template #42SmartBlock #roam/templates
             - #[[My Daily Notes]] [[Your Name]] {{word-count}}
@@ -159,6 +148,42 @@
                 - **Results:** <%BLOCKMENTIONS:-1,TODO,Help Wanted,-DONE,-query,-`%> **Max:** 20
                 - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Help Wanted,-DONE,-query,-`%>}}
+    - Zettelkasten Queries 
+        - Daily
+            - Today + Obs #42SmartBlock
+                - **Observations:**
+                    - #min-title <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[Obs],] {not: [,[query]]}},},}%>
+            - Today + Q #42SmartBlock
+                - **Questions:** 
+                    - #min-title <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[Q],] {not: [,[query]]}},},}%>
+            - Today + I #42SmartBlock
+                - **Ideas:**
+                    - #min-title <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[I],] {not: [,[query]]}},},}%>
+            - Today + FN #42SmartBlock
+                - **Fleeting Notes:**
+                    - #min-title <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[FN],] {not: [,[query]]}},},}%>
+            - Today + LN #42SmartBlock
+                - **Literature Notes:**
+                    - #min-title <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[LN],] {not: [,[query]]}},},}%>
+    - TODO Queries
+        - Active Epics #42SmartBlock
+            - **Active Epic(s):**
+                - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+        - Active Sprints #42SmartBlock
+            - **Active Sprint(s):**
+                - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+        - TODO Created Today #42SmartBlock
+            - **TODO Query:** (created today)
+                - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+        - TODO + ThisWeek #42SmartBlock
+            - **TODO Query:** (scheduled for this week)
+                - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+        - TODO + Help Wanted #42SmartBlock
+            - **Help Wanted Query:**
+                - #min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+    - Change Log Query
+        - Change Log + Today #42SmartBlock
+            - <%CONCAT:#,min-title {,{[,[query]]: {and: <%DATE:today%> [,[Change Log]] {not: {or: [,[Community Notes]] [,[not-populated]]}}}}}%>
     - Page Templates
         - .rcPRJ — Projects Template #42SmartBlock #roam/templates
             - Tags:: #Projects

@@ -17,7 +17,7 @@
     - 1. Enable Roam42 (see below)
         - Click "Yes, know what I'm doing." to enable the Roam42 javascript code to run in this graph for you.
             - **Note:** Enabling Roam42 is not necessary to participate here, but it will make your life easier!
-        - "{{{[roam/js](<roam/js.md>)}}}"
+        - {{{[roam/js](<roam/js.md>)}}}
     - 2. Navigate to the Daily Notes
     - 3. Launch the Getting Started SmartBlock 
         - Use `jj` and select the `.gs — Getting Started` option

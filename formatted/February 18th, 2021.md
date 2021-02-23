@@ -166,7 +166,7 @@
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
                 - Still very bottom-up. The option to write-to-think without block-tags is still there and encouraged.
             - 
-        7. [@Wade]([@[[Wade Dominic](<@[[Wade Dominic.md>)]]) coming in HOT with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
+        7. [@Wade]([~[[Wade Dominic](<~[[Wade Dominic.md>)]]) coming in HOT with the expert-level `[My](<My.md>) Wins` [tag](((EglComi8g)))! 
             - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
             - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))
         8. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [landing pages](((QLgSYCYVl)))
@@ -178,7 +178,7 @@
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
@@ -311,7 +311,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - Plan to document all of the Roam Games III submissions
                     - Ask for everyone to join and add some details on their submission
             - Questions
-                - [ ] Should we prepopulate some RGIII submission pages?
+                - [x] Should we prepopulate some RGIII submission pages?
                 - [ ] Who tweets what?
                     - Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play
         - [Q](<Q.md>) What landing pages do we need for the [Roam Collective](<Roam Collective.md>) graph?[°](((5h0Y6Z_hI)))

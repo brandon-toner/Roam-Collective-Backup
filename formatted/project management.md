@@ -1,6 +1,9 @@
 - **[Related](<Related.md>):** [[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]
 
 # Backlinks
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- [ ] Create a set of questions (an algorithm of thought almost) to assess TODOs with. [GTD](<GTD.md>) #[task management](<task management.md>) [productivity](<productivity.md>) #[project management](<project management.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>)
 

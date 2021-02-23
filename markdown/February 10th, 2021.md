@@ -287,7 +287,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - Summarizing, the structure would look something like this...
                 - `[[Q:]] What are the fundamental dependent relationships within a knowledge graph?`
                     - **Oriented around:** answering a single focused question such as "#Q What are the fundamental dependent relationships within a knowledge graph?"
-                        - #Q What are the fundamental dependent relationships within a knowledge graph?
+                        - "#Q What are the fundamental dependent relationships within a knowledge graph?"
                     - **With status:** `#Sprint/Current`
                     - **Composed of:** a base `#Q` block maturing into a `[[Q:]]` page that at its completion is readily legible to an external audience (with relevant contxt)
                     - **Nested under:** "`Sprint/1`"

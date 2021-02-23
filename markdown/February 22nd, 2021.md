@@ -15,9 +15,9 @@
             - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
         - **Active Epic(s):**
-            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]]}}}
+            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
         - **Active Sprint(s):**
-            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]]}}}
+            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
         - **Queries:**
             - **TODO Query:** (created today)
                 - {{[[query]]: {and: [[February 22nd 2021]] [[TODO]]}}}
@@ -91,10 +91,10 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
     - #Inbox 
-        - "{{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]"
+        - "{{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[February 2021]]  [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]"
             - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.
     - #[[Scratchpad]]
-        - "{{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]"
+        - "{{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] "
             - First number should be about the mission and the purpose of RC
             - Second number can be a discussion on convergence and divergence?
             - as we draft these two we should have a `RC Newsletter/Pipeline` so that we can continuously feed multiple beasts at the same time and whenever a specific topic has enough material we can get a newsletter ready to be sent.
@@ -111,7 +111,7 @@
     - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---

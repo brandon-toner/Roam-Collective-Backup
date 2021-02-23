@@ -7,3 +7,5 @@
     - Next Steps:: #not-populated ((Plans for future elaboration or development))
     - Contents:: #not-populated
     - Work Summary:: #not-populated ((Link to work related to this page from elsewhere in the graph — Include name & date if relevant))
+- ---
+- #Q What are the fundamental dependent relationships within a knowledge graph?

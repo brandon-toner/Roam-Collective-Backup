@@ -84,7 +84,7 @@
             - #Q What are the barriers to user engagement?
                 - #Q How might those barriers be navigated or reduced? 
             - Related:: 
-                - "{{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]"
+                - "{{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] "
                     - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
         - #[[FN]] Use [[learning objectives]] to guide [[research]] [[questions]]
             - #Q "What learning objective is this questions trying to address?"
@@ -117,7 +117,7 @@
             - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
                 - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
-                    - {{[[TODO]]}} Review [[Beau Hann]]'s [[zettelkasten]] [[conventions]]. [*]([[Brandon Toner]]) #[[Week-07: 02-15-2021]]
+                    - {{[[TODO]]}} Review [[Beau Hann]]'s [[zettelkasten]] [[conventions]]. [*]([[Brandon Toner]])  #[[February 2021]] 
                 - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
                     - Great, yea I'd love to evolve the compare & contrast over time. My goal isn't to fully align with those conventions, but rather to develop these with appreciation and awareness of other systems that exist. Integrating best practices as a medley from other systems.
         3. [@Joel]([[@[[Joel Chan]]]]) (various)
@@ -275,11 +275,11 @@
         - {{[[DONE]]}} Review notes on the Roaman Agora
         - {{[[DONE]]}} Outline structure of the Agora
             - Use the creative projects page
-        - {{[[TODO]]}} Investigate roam-inter
-            - {{[[TODO]]}} Set up roam-inter to connect RC & The Agora (test)
-            - {{[[TODO]]}} Reach out to Stian regarding roam inter
+        - {{[[DONE]]}} Investigate roam-inter
+            - Set up roam-inter to connect RC & The Agora (test)
+            - {{[[DONE]]}} Reach out to Stian regarding roam inter
             - {{[[DONE]]}} Watch Stian's overview videos
-            - {{[[TODO]]}} Watch detailed technical video
+            - Watch detailed technical video
         - {{[[TODO]]}} Pull in relevant notes from [[Books/The Culture Code]] regarding conventions
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
         - {{[[DONE]]}} Review mentions & work of the last few days

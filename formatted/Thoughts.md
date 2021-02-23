@@ -58,7 +58,7 @@
             - **[Thoughts](<Thoughts.md>):**
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- [ ] Model an example of "Reviewed By" #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+- [ ] Model an example of "Reviewed By" #[February 2021](<February 2021.md>) 
                     - **[Thoughts](<Thoughts.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

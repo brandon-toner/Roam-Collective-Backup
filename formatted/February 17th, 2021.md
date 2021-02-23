@@ -198,7 +198,7 @@
             - Card Types
             - Card UID
     - #[GTD Zone](<GTD Zone.md>)
-        - [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))[*]([Week-07: 02-15-2021](<Week-07: 02-15-2021.md>))
+        - [x] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))[*]([Week-07: 02-15-2021](<Week-07: 02-15-2021.md>))
         - [ ] Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).

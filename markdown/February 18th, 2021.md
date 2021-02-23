@@ -166,7 +166,7 @@
                 - Capturing clarity of thought as it surfaces in whatever form it presents.
                 - Still very bottom-up. The option to write-to-think without block-tags is still there and encouraged.
             - 
-        7. [@Wade]([[@[[Wade Dominic]]]]) coming in HOT with the expert-level `#My Wins` [tag](((EglComi8g)))! 
+        7. [@Wade]([[~[[Wade Dominic]]]]) coming in HOT with the expert-level `#My Wins` [tag](((EglComi8g)))! 
             - The graph looks DOPE!! Nice to see the conventions from here port so well in another graph. Amazing.
             - Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([[agile development]])[*]([[Examples]])
         8. [@Charles]([[~[[Charles Farr]]]]) on [landing pages](((QLgSYCYVl)))
@@ -178,7 +178,7 @@
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
@@ -311,7 +311,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - Plan to document all of the Roam Games III submissions
                     - Ask for everyone to join and add some details on their submission
             - Questions
-                - {{[[TODO]]}} Should we prepopulate some RGIII submission pages?
+                - {{[[DONE]]}} Should we prepopulate some RGIII submission pages?
                 - {{[[TODO]]}} Who tweets what?
                     - Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play
         - #Q What landing pages do we need for the [[Roam Collective]] graph?[°](((5h0Y6Z_hI)))

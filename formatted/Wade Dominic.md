@@ -1,4 +1,4 @@
-- {{or: 😴 Offline | 🟢Online | 🟠Away}}
+- {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
 - ---
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -9,10 +9,10 @@
         - **[Birthday](<Birthday.md>):** 
         - **[How to contact me](<How to contact me.md>):** 
             - Send me a DM on Twitter (also great)
-        - **[Status](<Status.md>):**
+    - **[Online Status](<Online Status.md>):**
 - **[SmartBlocks](<SmartBlocks.md>):**
     - WDominic — .DNP Templatee [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or: 😴 Offline | 🟢Online | 🟠Away}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
@@ -20,6 +20,21 @@
             - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
         - ---
 - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
+- Playing around with the graph
+    - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}}
+        - **Welcome to Roam Collective!** 😃 
+            - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+        - **Tips:**
+        - Write some thoughts under your **scratchpad** block
+        - Comment on something in the graph under your **conversation** block
+        - Capture some initial feedback in your **feedback** block
+        - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
+            - __write here__
+        - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+            - __comment/reply here__
+                - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+        - #[Feedback & Questions](<Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<not-populated.md>)
+    - ---
 
 # Backlinks
 ## [February 12th, 2021](<February 12th, 2021.md>)
@@ -32,5 +47,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
 
 ## [Wade Dominic](<Wade Dominic.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>)
 

@@ -64,7 +64,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                         - First step is informal reviewing and basic commentary.
                             - Maybe a "Reviewed by:" attribute.
                                 - User can then block-ref to their commentary on the note itself.
-                                    - {{[[TODO]]}} Model an example of "Reviewed By" #[[Week-06: 02-08-2021]]
+                                    - {{[[TODO]]}} Model an example of "Reviewed By" #[[February 2021]] 
                     - Thoughts::
                         - #I Maybe reserve the evergreen namespace for claim-based ideas. "True" evergreens.
                         - #I Maybe add a `#Claims` or `#Concepts` tag to further differentiate evergreens.
@@ -95,9 +95,9 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                                 - Again, I've cast a wide-net on the definition of evergreen... so don't be too precious with making a seedling or evergreen. 
                                     - I would LOVE to have the problem of having "too many" evergreen notes.  
         - #Activities 
-            - {{[[TODO]]}} Create a draft of our "[[12 Favorite Problems]]" (A small collection of [[zettel questions]]) #Agenda #[[Week-06: 02-08-2021]]
-            - {{[[TODO]]}} Review our meta-structure in [[About Roam Collective]]  #[[Week-06: 02-08-2021]] #Agenda
-            - {{[[TODO]]}} Discuss Slack-to-Roam #Agenda #[[Week-06: 02-08-2021]]
+            - {{[[TODO]]}} Create a draft of our "[[12 Favorite Problems]]" (A small collection of [[zettel questions]]) #Agenda #[[February 2021]] 
+            - {{[[TODO]]}} Review our meta-structure in [[About Roam Collective]]  #Agenda #[[February 2021]] 
+            - {{[[TODO]]}} Discuss Slack-to-Roam #Agenda  #[[February 2021]] 
         - #Q What are the elements of [[Beau Hann]]'s success in coordinating a group of 2500 Roam users through [[Books/How to Take Smart Notes]]?
             - **Elements:**
                 - Energy & enthusiasm

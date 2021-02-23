@@ -53,7 +53,3 @@
 - Populate other community work, projects, and resources into the Agora
     - **[Status](<Status.md>):**
 
-## [Wade Dominic](<Wade Dominic.md>)
-- Send me a DM on Twitter (also great)
-        - **[Status](<Status.md>):**
-

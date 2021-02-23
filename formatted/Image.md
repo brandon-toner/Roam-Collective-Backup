@@ -53,6 +53,13 @@
 - [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>) [CSS](<CSS.md>)
             - **[Image](<Image.md>):**
 
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+                - **[Image](<Image.md>):**
+
+**UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
+            - **[Image](<Image.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**

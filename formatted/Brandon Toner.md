@@ -39,17 +39,14 @@
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>)
-                - **Observations:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Obs],]},},}%>
-                - **Questions:** 
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Q],]},},}%>
-                - **Ideas:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[I],]},},}%>
-                - **Fleeting Notes:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
+                - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+                - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+                - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+                - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
             - #[GTD Zone](<GTD Zone.md>)
-                - {{TODO.bnt:42SmartBlock:BToner — TODO + bnt}}
-                - {{TODO.createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+                - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
     - Mentions (BT)
@@ -69,15 +66,34 @@
                 - **Page:** <%PAGE%>
 {{[embed](<embed.md>): <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
         - BToner — TODO + bnt [42SmartBlock](<42SmartBlock.md>)
-            - **TODOs:** ((bnt, all time))
+            - **TODOs:** (+ bnt)
                 - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[bnt]] [,[TODO]] {not: [,[query]]}}}}%>
+        - BToner — TODO + Brandon Toner [42SmartBlock](<42SmartBlock.md>)
+            - **TODOs:** (+ Brandon Toner)
+                - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[Brandon Toner]] [,[TODO]] {not: [,[query]]}}}}%>
         - BToner — TODO + bnt + [today] [42SmartBlock](<42SmartBlock.md>)
-            - **TODOs:** ((bnt, today))
+            - **TODOs:** (+ bnt (created today))
                 - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
+    - Zettelkasten Queries
+        - BToner — Today + Obs + bnt [42SmartBlock](<42SmartBlock.md>)
+            - **Observations:**
+                - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[Obs],] {not: [,[query]]}},},}%>
+        - BToner — Today + Q + bnt[42SmartBlock](<42SmartBlock.md>)
+            - **Questions:** 
+                - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[Q],] {not: [,[query]]}},},}%>
+        - BToner — Today + I + bnt[42SmartBlock](<42SmartBlock.md>)
+            - **Ideas:**
+                - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[I],] {not: [,[query]]}},},}%>
+        - BToner — Today + FN + bnt [42SmartBlock](<42SmartBlock.md>)
+            - **Fleeting Notes:**
+                - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[FN],] {not: [,[query]]}},},}%>
+        - BToner — Today + LN + bnt [42SmartBlock](<42SmartBlock.md>)
+            - **Literature Notes:**
+                - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[LN],] {not: [,[query]]}},},}%>
     - BToner — ChatName [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **Brandon:** 
     - BToner — @Charles [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
 
 # Backlinks
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
@@ -265,7 +281,7 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- [ ] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))
+- [x] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
@@ -289,6 +305,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

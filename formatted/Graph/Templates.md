@@ -1,7 +1,7 @@
 - **[Tags](<../Tags.md>):** [Collections](<../Collections.md>)
 - **[Related](<../Related.md>):** [roam/templates](<../roam/templates.md>)
 - **[Table of Contents](<../Table of Contents.md>):**
-    - [Global Variables](Global Variables)
+    - [Global Variables](((bFUOGEPXz)))
     - [Daily Templates](((dho4joU3n)))
     - [Dates](((hnK4dsiz3)))
     - [Productivity](((HjC43lt9e)))
@@ -60,30 +60,19 @@
                 - #[The Main Feed](<../The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<../not-populated.md>) 
                 - [Chat](<../Chat.md>) ((A place to propose objects of discussion)) [not-populated](<../not-populated.md>)
                 - #[The Zettelkasten](<../The Zettelkasten.md>)
-                    - **Observations:**
-                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
-                    - **Questions:** 
-                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
-                    - **Ideas:**
-                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
-                    - **Fleeting Notes:**
-                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
-                    - **Literature Notes:**
-                        - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+                    - {{Today + Obs:42SmartBlock:Today + Obs}}
+                    - {{Today + Q:42SmartBlock:Today + Q}}
+                    - {{Today + I:42SmartBlock:Today + I}}
+                    - {{Today + FN:42SmartBlock:Today + FN}}
+                    - {{Today + LN:42SmartBlock:Today + LN}}
                 - #[GTD Zone](<../GTD Zone.md>) 
-                    - **Active Epic(s):**
-                        - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>)}}}
-                    - **Active Sprint(s):**
-                        - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>)}}}
-                    - **Queries:**
-                        - **TODO Query:** (created today)
-                            - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
-                        - **TODO Query:** (scheduled for this week)
-                            - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
-                        - **Help Wanted Query:**
-                            - [min-con](<../min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                    - {{Active Epics:42SmartBlock:Active Epics}}
+                    - {{Active Sprints:42SmartBlock:Active Sprints}}
+                    - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+                    - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+                    - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
                 - #[Change Log](<../Change Log.md>)
-                    - [min-title](<../min-title.md>) {{[query](<../query.md>): {and: <%DATE:today%> [Change Log](<../Change Log.md>) {not: [Community Notes](<../Community Notes.md>)}}}}
+                    - {{Change Log + Today:42SmartBlock:Change Log + Today}}
             - ---
         - .rc1DNP — Daily Notes Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>) {{word-count}}
@@ -159,6 +148,42 @@
                 - **Results:** <%BLOCKMENTIONS:-1,TODO,Help Wanted,-DONE,-query,-`%> **Max:** 20
                 - **Page:** <%PAGE%>
 {{[embed](<../embed.md>): <%BLOCKMENTIONS:20,TODO,Help Wanted,-DONE,-query,-`%>}}
+    - Zettelkasten Queries 
+        - Daily
+            - Today + Obs [42SmartBlock](<../42SmartBlock.md>)
+                - **Observations:**
+                    - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[Obs],] {not: [,[query]]}},},}%>
+            - Today + Q [42SmartBlock](<../42SmartBlock.md>)
+                - **Questions:** 
+                    - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[Q],] {not: [,[query]]}},},}%>
+            - Today + I [42SmartBlock](<../42SmartBlock.md>)
+                - **Ideas:**
+                    - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[I],] {not: [,[query]]}},},}%>
+            - Today + FN [42SmartBlock](<../42SmartBlock.md>)
+                - **Fleeting Notes:**
+                    - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[FN],] {not: [,[query]]}},},}%>
+            - Today + LN [42SmartBlock](<../42SmartBlock.md>)
+                - **Literature Notes:**
+                    - [min-title](<../min-title.md>) <%CONCAT:{,{[,[query],]: {and: %><%DATE:today%> <%CONCAT:[,[LN],] {not: [,[query]]}},},}%>
+    - TODO Queries
+        - Active Epics [42SmartBlock](<../42SmartBlock.md>)
+            - **Active Epic(s):**
+                - "[page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}"
+        - Active Sprints [42SmartBlock](<../42SmartBlock.md>)
+            - **Active Sprint(s):**
+                - "[page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}"
+        - TODO Created Today [42SmartBlock](<../42SmartBlock.md>)
+            - **TODO Query:** (created today)
+                - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+        - TODO + ThisWeek [42SmartBlock](<../42SmartBlock.md>)
+            - **TODO Query:** (scheduled for this week)
+                - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+        - TODO + Help Wanted [42SmartBlock](<../42SmartBlock.md>)
+            - **Help Wanted Query:**
+                - [min-con](<../min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+    - Change Log Query
+        - Change Log + Today [42SmartBlock](<../42SmartBlock.md>)
+            - <%CONCAT:#,min-title {,{[,[query]]: {and: <%DATE:today%> [,[Change Log]] {not: {or: [,[Community Notes]] [,[not-populated]]}}}}}%>
     - Page Templates
         - .rcPRJ — Projects Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Projects](<../Projects.md>)

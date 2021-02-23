@@ -16,6 +16,10 @@
 - **[Author(s)](<Author(s).md>):** [James Clear](<James Clear.md>)
     - **[Full Title](<Full Title.md>):**
 
+## [Books/Getting Things Done](<Books/Getting Things Done.md>)
+- **[Author(s)](<Author(s).md>):** [David Allen](<David Allen.md>)
+    - **[Full Title](<Full Title.md>):**
+
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Author(s)](<Author(s).md>):** [Joseph Campbell](<Joseph Campbell.md>)
     - **[Full Title](<Full Title.md>):**

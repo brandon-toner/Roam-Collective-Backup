@@ -110,7 +110,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - #Q Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([[evergreen notes]]), to [[steel-man]] the [[argument]] or [[claim]]? #Bookmarks
         - [[Kahlil Corazo]] on "Roam vs other [[project management]] software" #[[Tweet Threads]] #Resources
             - URL:: https://twitter.com/roamfu/status/1355186036884664323?s=21 
-                - {{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
+                - {{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[February 2021]]  [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
         - #[[Wish List]] #I
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([[i.e.]] exclude external authors like Andy M))

@@ -1,37 +1,43 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #Announcements
+        - "Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}"
+            - ""{{{[[roam/js]]}}}""
+        - "Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block."
+            - ""{{[[roam/js]]}}""
     - #[[Daily Activities]] #not-populated
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
-    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #Chat ((A place to propose objects of discussion)) 
+        1. 
     - #[[The Zettelkasten]]
         - **Observations:**
-            - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Obs]] {not: [[query]]}}}}
         - **Questions:** 
-            - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Q]] {not: [[query]]}}}}
         - **Ideas:**
-            - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[I]] {not: [[query]]}}}}
         - **Fleeting Notes:**
-            - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[FN]] {not: [[query]]}}}}
         - **Literature Notes:**
-            - #min-title <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
         - **Active Epic(s):**
-            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]]}}}
+            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
         - **Active Sprint(s):**
-            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]]}}}
+            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
         - **Queries:**
             - **TODO Query:** (created today)
-                - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+                - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]}}}
             - **TODO Query:** (scheduled for this week)
-                - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+                - {{[[query]]: {and: #[[Week-08: 02-22-2021]] [[TODO]]}}}
             - **Help Wanted Query:**
-                - #min-con <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]] {not: {or: [[DONE]] [[roam/css]]}}}}}
     - #[[Change Log]]
-        - #min-title {{[[query]]: {and: <%DATE:today%> [[Change Log]] {not: [[Community Notes]]}}}}
+        - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
     - #Inbox #not-populated
     - #[[Scratchpad]]
-        - "{{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?"
+        - "{{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?"
             - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
@@ -42,4 +48,91 @@
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
+Hey people, hopefully back here today, or 2morrow, to answer stuff and help with sprints
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - #I Create a #[[temp-queries]] tag to append to blocks with queries used "just for today"
+            - Goal: prevent database from slowing down due to too many queries
+                - #Q Is [this](((yVLz9g3wg))) a risk?
+            - Make that tag invisible to reduce [[visual noise]]
+        - #I Another strategy to "Goal: prevent database from slowing down due to too many queries" is to utlilize **smartblock buttons**
+        - {{[[TODO]]}} Write a process for [[weekly review]]
+            - Review TODOs tagged with any **past weeks** tags (e.g. [[Week-07: 02-15-2021]])
+                - Adjust the date tag
+                - Add the task to the backlog as a project / epic
+                - Remove the task
+            - Include a description of how to use the [[Date Planner]] to manage tasks.
+        - #FN The [[Date Planner]] serves as a [[tickler file]] with different levels of [[granularity]].
+            - Blocks can be tagged with days, weeks, or months to be included into daily, weekly, and monthly reviews respectively. 
+                - This is particularly helpful for managing TODOs
+        - {{[[TODO]]}} Create a set of questions (an algorithm of thought almost) to assess TODOs with. #GTD #[[task management]] #productivity #[[project management]]
+            - Is this the next action?
+            - What contexts are associated with this action?
+            - Is this actually a project or an epic?
+            - Who is this relevant to?
+            - #I Review [[Books/Getting Things Done]] for inspiration here.
+        - #Tips Use [[Tab Modifier]] (Google Chrome extension) to differentiate between several open graphs in the tab bar. [*](((MwZf0dM55)))
+        - I became great friends with CONCAT today...
+    - #Conversation 
+        1. Notifications Inbox
+            - #min-title {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: {or: [[query]] [[42SmartBlock]]}}}}}
+        2. [@Charles]([[~[[Charles Farr]]]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
+            - "[@Brandon]([[@[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FityVTqIvrx.png?alt=media&token=efdbb3f4-7d62-4dd4-96dd-768726f37ed9)
+        3. [@Peter]([[@[[Peter Rosso]]]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
+
+PS: great work running that! 
+
+**UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
+            - Image::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fpu3d-bRthC.png?alt=media&token=023951bb-da91-425d-9d1d-39326ac84021)
+    - #[[Bug Reports]]
+        - Aliased references are not showing up in queries. 
+            - #Obs Aliased mentions are not showing up in queries.
+                - #Q Does this generalize to ALL aliased mentions??
+    - #[[The Zettelkasten]]
+        - **Observations:**
+            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[Obs]]}}}
+        - **Questions:** 
+            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[Q]]}}}
+        - **Ideas:**
+            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[I]]}}}
+        - **Fleeting Notes:**
+            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[FN]]}}}
+    - #[[GTD Zone]]
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[[Change Log]] 
+        1. Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)
+        2. Reviewed tasks tagged with [[Week-07: 02-15-2021]] and rescheduled them (many I moved to [[February 2021]])... further processing still required.
+        3. Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+            - "{{{[[roam/js]]}}}"
+        4. Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block.
+            - "{{[[roam/js]]}}"
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad #not-populated
+        - 
+    - #Conversation
+        - Simple Replies
+            - [@Brandon]([[@[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
+    - #Bookmarks #not-populated
+    - #[[Change Log]]
+        - Changed Break Css → "Breaks — `---`"
+- ---
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - Holy crap. Come a long way since I began in here a few weeks ago. Disappointed with my absence lately. Hoping to get back in soon. (<- yes I am talking to myself!)
+    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
 - ---

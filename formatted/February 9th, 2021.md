@@ -64,7 +64,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                         - First step is informal reviewing and basic commentary.
                             - Maybe a "Reviewed by:" attribute.
                                 - User can then block-ref to their commentary on the note itself.
-                                    - [ ] Model an example of "Reviewed By" #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+                                    - [ ] Model an example of "Reviewed By" #[February 2021](<February 2021.md>) 
                     - **[Thoughts](<Thoughts.md>):**
                         - [I](<I.md>) Maybe reserve the evergreen namespace for claim-based ideas. "True" evergreens.
                         - [I](<I.md>) Maybe add a `[Claims](<Claims.md>)` or `[Concepts](<Concepts.md>)` tag to further differentiate evergreens.
@@ -95,9 +95,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                                 - Again, I've cast a wide-net on the definition of evergreen... so don't be too precious with making a seedling or evergreen. 
                                     - I would LOVE to have the problem of having "too many" evergreen notes.  
         - [Activities](<Activities.md>) 
-            - [ ] Create a draft of our "[12 Favorite Problems](<12 Favorite Problems.md>)" (A small collection of [zettel questions](<zettel questions.md>)) [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
-            - [ ] Review our meta-structure in [About Roam Collective](<About Roam Collective.md>)  #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [Agenda](<Agenda.md>)
-            - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>) #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+            - [ ] Create a draft of our "[12 Favorite Problems](<12 Favorite Problems.md>)" (A small collection of [zettel questions](<zettel questions.md>)) [Agenda](<Agenda.md>) #[February 2021](<February 2021.md>) 
+            - [ ] Review our meta-structure in [About Roam Collective](<About Roam Collective.md>)  [Agenda](<Agenda.md>) #[February 2021](<February 2021.md>) 
+            - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>)  #[February 2021](<February 2021.md>) 
         - [Q](<Q.md>) What are the elements of [Beau Hann](<Beau Hann.md>)'s success in coordinating a group of 2500 Roam users through [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)?
             - **Elements:**
                 - Energy & enthusiasm

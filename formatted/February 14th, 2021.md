@@ -53,7 +53,7 @@
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) ["Twitter acct"](((DweiIynrD))) 
             - So we could prob just make an @roam_collective account, and use that. (Pending availability).
 I'll have a look this week. #[Follow Up](<Follow Up.md>)
-                - [ ] Look into Twitter handles. [*]([Brandon Toner](<Brandon Toner.md>)) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+                - [ ] Look into Twitter handles. [*]([Brandon Toner](<Brandon Toner.md>))  #[February 2021](<February 2021.md>) 
         3. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On ["everyone"](((0Fg6SkW_z))) [cc:Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])
             - The problem is that that creates a big complex page. I prefer the dropdown for sure. 
                 - It also mess with the personal queries, adding a result for every permutation of that complex page created.

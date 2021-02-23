@@ -120,14 +120,15 @@ Breaking things apart, so they can be put together
 https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
                 - I'd make this more active-tone — ~~If you would like~~ → To have your RG submission included/showcased in the Agora...
     - #[[GTD Zone]]
-        - {{[[TODO]]}} Review past TODOs and reschedule ones that feels relevant still. #[[Week-07: 02-15-2021]]
-        - {{[[TODO]]}} Download [[Roam Portal]] and give it a test drive. #[[Week-07: 02-15-2021]]
+        - {{[[TODO]]}} Review past TODOs and reschedule ones that feels relevant still.  #[[February 2021]] 
+        - {{[[TODO]]}} Download [[Roam Portal]] and give it a test drive. 
+ #[[February 2021]] 
             - #Q How might [[Roam Portal]] be used in RC?
-        - {{[[TODO]]}} Create a guide to the zettelkasten / knowledge base conventions in the graph. #[[Week-07: 02-15-2021]]
+        - {{[[TODO]]}} Create a guide to the zettelkasten / knowledge base conventions in the graph. #[[February 2021]]
         - {{[[TODO]]}} Implement dotted-line tag styling as seen in [[Roaman Agora]]
             - Images::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fw4i21Q-A8B.png?alt=media&token=9ac58fc9-bcbb-4977-981f-c326aca083d2)
-        - {{[[TODO]]}} Experiment with [[roam/js/tag-cycle]] + notifications #[[Week-07: 02-15-2021]]
+        - {{[[TODO]]}} Experiment with [[roam/js/tag-cycle]] + notifications #[[February 2021]]
     - #[[Change Log]] 
         1. Updated [[Welcome]]
         2. "Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora"
@@ -339,7 +340,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
                     - "Plan to document all of the Roam Games III submissions"
                         - "Ask for everyone to join and add some details on their submission"
                 - "Questions"
-                    - "{{[[TODO]]}} Should we prepopulate some RGIII submission pages?"
+                    - "{{[[DONE]]}} Should we prepopulate some RGIII submission pages?"
                     - "{{[[TODO]]}} Who tweets what?"
                         - "Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play"
     - #Conversation

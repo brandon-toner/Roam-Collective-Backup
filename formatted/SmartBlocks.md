@@ -55,7 +55,7 @@
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Wade Dominic](<Wade Dominic.md>)
-- **[Status](<Status.md>):**
+- **[Online Status](<Online Status.md>):**
 - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [empty references](<empty references.md>)

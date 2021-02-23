@@ -245,7 +245,7 @@
                     - "Choice of attributes to offer more [[granularity]] in characteristics:"
                         - #Q What are the [[characteristics]] [[dimensions]] of an [evergreen note]([[evergreen notes]]) that could be used for [[assessment]] [[scoring]]?
                             - #Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?
-                                - {{[[TODO]]}} Import information on [[learning objectives]] and discuss with [[cc:[[Mark Robertson]]]] #[[Week-05: 02-01-2021]]
+                                - {{[[TODO]]}} Import information on [[learning objectives]] and discuss with [[cc:[[Mark Robertson]]]] #[[February 2021]] 
                     - 
         - [[~[[Charles Farr]]]] added some thoughts [here](((y6dCKOdEu))) 
         - "#[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf "
@@ -569,7 +569,7 @@
         - [[~[[Brandon Toner]]]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [[Quick Start Guide]] as a suggestion is the most democratic solution.
     - #[[Change Log]]
         - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
-        - [Added the RoamJS Query builder](((OIrYB9b3N)))
+        - [Added the RoamJS Query builder](RoamJS Query Builder)
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]

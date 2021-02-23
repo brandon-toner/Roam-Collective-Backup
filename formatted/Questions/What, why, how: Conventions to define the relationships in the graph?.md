@@ -7,6 +7,8 @@
     - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
     - **[Work Summary](<../Work Summary.md>):** [not-populated](<../not-populated.md>) ((Link to work related to this page from elsewhere in the graph — Include name & date if relevant))
+- ---
+- [Q](<../Q.md>) What are the fundamental dependent relationships within a knowledge graph?
 
 # Backlinks
 ## [February 11th, 2021](<February 11th, 2021.md>)

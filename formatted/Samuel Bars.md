@@ -60,6 +60,9 @@
 ## [February 21st, 2021](<February 21st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>)
 
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>)
+
 ## [Samuel Bars](<Samuel Bars.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>)
 

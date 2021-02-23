@@ -153,18 +153,8 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 ## [February 17th, 2021](<February 17th, 2021.md>)
 2. "{{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -205,8 +195,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -217,8 +205,6 @@
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
 
 - "{{[TODO](<TODO.md>)}
 
@@ -261,6 +247,17 @@
 - "{{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [TODO](<TODO.md>)}
+
+- {{[query](<query.md>): {and: #[Week-08: 02-22-2021](<Week-08: 02-22-2021.md>) [TODO](<TODO.md>)}
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) [TODO](<TODO.md>)
 
 - {{[TODO](<TODO.md>)}
 
@@ -384,6 +381,15 @@
 
 ## [Thoughts](<Thoughts.md>)
 - {{[TODO](<TODO.md>)}
+
+## [Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+- {{[query](<query.md>): {and: [Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [TODO](<TODO.md>){
+
+## [Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+- {{[query](<query.md>): {and: [Week-06: 02-08-2021](<Week-06: 02-08-2021.md>) [TODO](<TODO.md>){
+
+## [Week-07: 02-15-2021](<Week-07: 02-15-2021.md>)
+- {{[query](<query.md>): {and: [Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) [TODO](<TODO.md>){
 
 ## [roam/css](<roam/css.md>)
 - {{[query](<query.md>): {and: [TODO](<TODO.md>)

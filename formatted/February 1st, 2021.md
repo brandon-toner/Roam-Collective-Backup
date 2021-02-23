@@ -245,7 +245,7 @@
                     - "Choice of attributes to offer more [granularity](<granularity.md>) in characteristics:"
                         - [Q](<Q.md>) What are the [characteristics](<characteristics.md>) [dimensions](<dimensions.md>) of an [evergreen note]([evergreen notes](<evergreen notes.md>)) that could be used for [assessment](<assessment.md>) [scoring](<scoring.md>)?
                             - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
-                                - [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
+                                - [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[February 2021](<February 2021.md>) 
                     - 
         - [~[[Charles Farr](<~[[Charles Farr.md>)]] added some thoughts [here](((y6dCKOdEu))) 
         - "#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>) "
@@ -569,7 +569,7 @@
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [Quick Start Guide](<Quick Start Guide.md>) as a suggestion is the most democratic solution.
     - #[Change Log](<Change Log.md>)
         - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
-        - [Added the RoamJS Query builder](((OIrYB9b3N)))
+        - [Added the RoamJS Query builder](RoamJS Query Builder)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)

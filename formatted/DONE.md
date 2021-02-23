@@ -42,11 +42,19 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - "{{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - **[Related](<Related.md>):** "{{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
 
@@ -56,6 +64,8 @@
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
+
+- "{{[DONE](<DONE.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "{{[DONE](<DONE.md>)}
@@ -71,6 +81,9 @@
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) [TODO](<TODO.md>){not: {or: [DONE](<DONE.md>)
 
 1. {{[DONE](<DONE.md>)}
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) [TODO](<TODO.md>) {not: {or: [DONE](<DONE.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - {{[DONE](<DONE.md>)}

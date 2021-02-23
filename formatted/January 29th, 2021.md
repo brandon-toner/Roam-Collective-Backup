@@ -110,7 +110,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
         - [Q](<Q.md>) Could you represent an idea that you don't necessarily agree within as a fleeting note or [evergreen note]([evergreen notes](<evergreen notes.md>)), to [steel-man](<steel-man.md>) the [argument](<argument.md>) or [claim](<claim.md>)? [Bookmarks](<Bookmarks.md>)
         - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
             - **[URL](<URL.md>):** https://twitter.com/roamfu/status/1355186036884664323?s=21 
-                - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
+                - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
         - #[Wish List](<Wish List.md>) [I](<I.md>)
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([i.e.](<i.e..md>) exclude external authors like Andy M))

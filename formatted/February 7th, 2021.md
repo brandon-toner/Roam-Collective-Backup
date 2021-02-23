@@ -387,9 +387,9 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - If wanting communication on a post, maybe tag with chat? (Could rename to "Request for Chat" for increased clarity.)
     - #[GTD Zone](<GTD Zone.md>) 
         - Goal: Refresh Prompts and FAQs
-            - [ ] Refresh the prompts page #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+            - [ ] Refresh the prompts page #[February 2021](<February 2021.md>) 
                 - #[Help Wanted](<Help Wanted.md>) — What prompts would you add? ((Tag suggested prompts with the "Prompts" tag to collect them in linked references))
-            - [ ] Refresh the FAQs #[Week-06: 02-08-2021](<Week-06: 02-08-2021.md>)
+            - [ ] Refresh the FAQs #[February 2021](<February 2021.md>) 
                 - #[Help Wanted](<Help Wanted.md>) — What are some good FAQs to add? ((Tag suggested FAQs with the "Prompts" tag to collect them in linked references))
     - #[Change Log](<Change Log.md>) 
         1. Added some more color to the pages in the shortcuts sidebar — these colors can be later adjusted to match an eventual overall color strategy.

@@ -39,17 +39,14 @@
             - #Scratchpad #not-populated
             - #Conversation #not-populated
             - #[[The Zettelkasten]]
-                - **Observations:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Obs],]},},}%>
-                - **Questions:** 
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[Q],]},},}%>
-                - **Ideas:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[I],]},},}%>
-                - **Fleeting Notes:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
+                - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+                - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+                - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+                - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
             - #[[GTD Zone]]
-                - {{TODO.bnt:42SmartBlock:BToner — TODO + bnt}}
-                - {{TODO.createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+                - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
             - #[[Change Log]] #not-populated
         - ---
     - Mentions (BT)
@@ -69,12 +66,31 @@
                 - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
         - BToner — TODO + bnt #42SmartBlock
-            - **TODOs:** ((bnt, all time))
+            - **TODOs:** (+ bnt)
                 - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[bnt]] [,[TODO]] {not: [,[query]]}}}}%>
+        - BToner — TODO + Brandon Toner #42SmartBlock
+            - **TODOs:** (+ Brandon Toner)
+                - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[Brandon Toner]] [,[TODO]] {not: [,[query]]}}}}%>
         - BToner — TODO + bnt + [today] #42SmartBlock
-            - **TODOs:** ((bnt, today))
+            - **TODOs:** (+ bnt (created today))
                 - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
+    - Zettelkasten Queries
+        - BToner — Today + Obs + bnt #42SmartBlock
+            - **Observations:**
+                - #min-title <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[Obs],] {not: [,[query]]}},},}%>
+        - BToner — Today + Q + bnt#42SmartBlock
+            - **Questions:** 
+                - #min-title <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[Q],] {not: [,[query]]}},},}%>
+        - BToner — Today + I + bnt#42SmartBlock
+            - **Ideas:**
+                - #min-title <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[I],] {not: [,[query]]}},},}%>
+        - BToner — Today + FN + bnt #42SmartBlock
+            - **Fleeting Notes:**
+                - #min-title <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[FN],] {not: [,[query]]}},},}%>
+        - BToner — Today + LN + bnt #42SmartBlock
+            - **Literature Notes:**
+                - #min-title <%CONCAT:{,{[,[query],]: {and: [,[bnt]]%><%DATE:today%> <%CONCAT:[,[LN],] {not: [,[query]]}},},}%>
     - BToner — ChatName #42SmartBlock #roam/templates
         - **Brandon:** 
     - BToner — @Charles #42SmartBlock #roam/templates
-        - [@Charles]([[@[[Charles Farr]]]])
+        - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
