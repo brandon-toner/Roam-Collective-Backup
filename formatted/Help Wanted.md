@@ -27,6 +27,10 @@
 
 - [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>)
 
+- "[ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)"
+
+- "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Help Wanted](<Help Wanted.md>)
 

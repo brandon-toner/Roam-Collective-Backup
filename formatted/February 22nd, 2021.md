@@ -46,10 +46,41 @@
     - #[GTD Zone](<GTD Zone.md>)
         - **TODOs:**
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}}}
+            - [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>) {not: [query](<query.md>)}}}}
     - #[Change Log](<Change Log.md>) 
         1. [x] Updated "Global Variables"
 - ---
-- 
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+    - [Inbox](<Inbox.md>) 
+        - "[ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)"
+            - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.
+    - #[Scratchpad](<Scratchpad.md>)
+        - "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)"
+            - First number should be about the mission and the purpose of RC
+            - Second number can be a discussion on convergence and divergence?
+            - as we draft these two we should have a `RC Newsletter/Pipeline` so that we can continuously feed multiple beasts at the same time and whenever a specific topic has enough material we can get a newsletter ready to be sent.
+                - "[ ] Build a content production pipeline "
+                - We can call it the convergence engine!
+            - Weeky? But if we have more things building up in time we are covered.
+        - Funny how long you need it takes to install software on a new laptop
+    - #[GTD Zone](<GTD Zone.md>)
+        - [ ] Get a substack
+        - [ ] Get a twitter
+        - [ ] Build a content production pipeline 
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+- ---
 
 # Backlinks
 ## [February 22nd, 2021](<February 22nd, 2021.md>)

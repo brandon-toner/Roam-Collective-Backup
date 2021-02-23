@@ -48,8 +48,8 @@
                 - **Fleeting Notes:**
                     - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
             - #[GTD Zone](<GTD Zone.md>)
-                - **TODOs:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
+                - {{TODO.bnt:42SmartBlock:BToner — TODO + bnt}}
+                - {{TODO.createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
     - Mentions (BT)
@@ -62,11 +62,18 @@
             - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
             - **[Related](<Related.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
             - **[Contents](<Contents.md>):** [not-populated](<not-populated.md>)
-    - BToner — My TODOs [42SmartBlock](<42SmartBlock.md>)
-        - **Ways you can help:**
-            - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
-            - **Page:** <%PAGE%>
+    - TODO
+        - BToner — My TODOs [42SmartBlock](<42SmartBlock.md>)
+            - **Ways you can help:**
+                - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
+                - **Page:** <%PAGE%>
 {{[embed](<embed.md>): <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
+        - BToner — TODO + bnt [42SmartBlock](<42SmartBlock.md>)
+            - **TODOs:** ((bnt, all time))
+                - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[bnt]] [,[TODO]] {not: [,[query]]}}}}%>
+        - BToner — TODO + bnt + [today] [42SmartBlock](<42SmartBlock.md>)
+            - **TODOs:** ((bnt, today))
+                - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
     - BToner — ChatName [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **Brandon:** 
     - BToner — @Charles [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates

@@ -181,6 +181,21 @@
 
 - {{[query](<query.md>):
 
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>) {not: [query](<query.md>)}
+
+- "{{[query](<query.md>):
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- [min-title](<min-title.md>) {{[query](<query.md>):
+
+- "{{[query](<query.md>):
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[query](<query.md>):
 

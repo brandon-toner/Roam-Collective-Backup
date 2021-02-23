@@ -63,6 +63,9 @@
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 

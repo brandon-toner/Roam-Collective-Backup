@@ -1,0 +1,45 @@
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - **Observations:**
+            - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Obs],] {not: [,[query]]}},},}%>
+        - **Questions:** 
+            - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[Q],] {not: [,[query]]}},},}%>
+        - **Ideas:**
+            - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[I],] {not: [,[query]]}},},}%>
+        - **Fleeting Notes:**
+            - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[FN],] {not: [,[query]]}},},}%>
+        - **Literature Notes:**
+            - [min-title](<min-title.md>) <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[LN],] {not: [,[query]]}},},}%>
+    - #[GTD Zone](<GTD Zone.md>) 
+        - **Active Epic(s):**
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>)}}}
+        - **Active Sprint(s):**
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>)}}}
+        - **Queries:**
+            - **TODO Query:** (created today)
+                - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
+            - **TODO Query:** (scheduled for this week)
+                - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
+            - **Help Wanted Query:**
+                - [min-con](<min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+    - #[Change Log](<Change Log.md>)
+        - [min-title](<min-title.md>) {{[query](<query.md>): {and: <%DATE:today%> [Change Log](<Change Log.md>) {not: [Community Notes](<Community Notes.md>)}}}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+    - #[Scratchpad](<Scratchpad.md>)
+        - "{{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Does anyone know if we have got a sub stack? What about a twitter account?"
+            - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---

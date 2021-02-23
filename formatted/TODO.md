@@ -248,6 +248,20 @@
 
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}
 
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>)
+
+- "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 7. {{[TODO](<TODO.md>)}
 

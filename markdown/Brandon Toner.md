@@ -48,8 +48,8 @@
                 - **Fleeting Notes:**
                     - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[FN],]},},}%>
             - #[[GTD Zone]]
-                - **TODOs:**
-                    - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
+                - {{TODO.bnt:42SmartBlock:BToner — TODO + bnt}}
+                - {{TODO.createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
             - #[[Change Log]] #not-populated
         - ---
     - Mentions (BT)
@@ -62,11 +62,18 @@
             - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
             - Related:: #not-populated ((Not a reference, but a related idea, block or page))
             - Contents:: #not-populated
-    - BToner — My TODOs #42SmartBlock
-        - **Ways you can help:**
-            - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
-            - **Page:** <%PAGE%>
+    - TODO
+        - BToner — My TODOs #42SmartBlock
+            - **Ways you can help:**
+                - **Results:** <%BLOCKMENTIONS:-1,TODO,Brandon Toner,-DONE,-query,-`%> **Max:** 20
+                - **Page:** <%PAGE%>
 {{[[embed]]: <%BLOCKMENTIONS:20,TODO,Brandon Toner,-DONE,-query,-`%>}}
+        - BToner — TODO + bnt #42SmartBlock
+            - **TODOs:** ((bnt, all time))
+                - <%CONCAT:#,minimal {,{[,[query]]: {and: [,[bnt]] [,[TODO]] {not: [,[query]]}}}}%>
+        - BToner — TODO + bnt + [today] #42SmartBlock
+            - **TODOs:** ((bnt, today))
+                - <%CONCAT:{,{[,[query],]: {and: [,[bnt],] <%DATE:today%> [,[TODO],]},},}%>
     - BToner — ChatName #42SmartBlock #roam/templates
         - **Brandon:** 
     - BToner — @Charles #42SmartBlock #roam/templates

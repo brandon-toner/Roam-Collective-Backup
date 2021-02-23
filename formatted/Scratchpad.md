@@ -40,6 +40,12 @@
 ## [February 21st, 2021](<February 21st, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 

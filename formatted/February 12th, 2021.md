@@ -204,7 +204,7 @@
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `[A](<A.md>)` tag as an option for response to a `[Q](<Q.md>)` block.[*](((IB0MarB0y)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
     - [Inbox](<Inbox.md>) 
         - **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))"
         - see camera for type of links in roam

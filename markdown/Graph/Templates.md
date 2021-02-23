@@ -300,5 +300,5 @@
             - {{or: Option A | Option B | Option C}}
         - .rcBRB — Online/Status #42SmartBlock #roam/templates
             - {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
-        - .rcNotify — @Everyone Tag  #42SmartBlock 
+        - .rcNotify — @Everyone Tag  #42SmartBlock  #roam/templates
             - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}

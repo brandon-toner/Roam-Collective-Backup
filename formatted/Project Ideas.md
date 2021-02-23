@@ -24,6 +24,9 @@
 
 - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- "[ ] Establish [RC Newsletter](<RC Newsletter.md>) #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)"
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Project Ideas](<Project Ideas.md>)
 

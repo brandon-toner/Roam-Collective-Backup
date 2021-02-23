@@ -46,7 +46,38 @@
     - #[[GTD Zone]]
         - **TODOs:**
             - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[TODO]]}}}
+            - #minimal {{[[query]]: {and: [[bnt]] [[TODO]] {not: [[query]]}}}}
     - #[[Change Log]] 
         1. {{[[DONE]]}} Updated "Global Variables"
 - ---
-- 
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad #not-populated
+    - #Conversation #not-populated
+    - #Bookmarks #not-populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+    - #Inbox 
+        - "{{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[Week-05: 02-01-2021]] [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]"
+            - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.
+    - #[[Scratchpad]]
+        - "{{[[TODO]]}} Establish [[RC Newsletter]] #[[Week-07: 02-15-2021]] #[[Help Wanted]] #[[Project Ideas]]"
+            - First number should be about the mission and the purpose of RC
+            - Second number can be a discussion on convergence and divergence?
+            - as we draft these two we should have a `RC Newsletter/Pipeline` so that we can continuously feed multiple beasts at the same time and whenever a specific topic has enough material we can get a newsletter ready to be sent.
+                - "{{[[TODO]]}} Build a content production pipeline "
+                - We can call it the convergence engine!
+            - Weeky? But if we have more things building up in time we are covered.
+        - Funny how long you need it takes to install software on a new laptop
+    - #[[GTD Zone]]
+        - {{[[TODO]]}} Get a substack
+        - {{[[TODO]]}}  Get a twitter
+        - {{[[TODO]]}} Build a content production pipeline 
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+- ---

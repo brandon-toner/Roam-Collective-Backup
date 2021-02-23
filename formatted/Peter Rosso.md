@@ -1,5 +1,5 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) 
-    - {{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}
+    - {{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@rossopeter_](https://twitter.com/rossopeter_)
         - **[Website](<Website.md>):** [rosso.io](https://rosso.io)
@@ -19,7 +19,7 @@
                 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
+                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
                     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
                     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
@@ -69,6 +69,12 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>))
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [February 21st, 2021](<February 21st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [February 23rd, 2021](<February 23rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

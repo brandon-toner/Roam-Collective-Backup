@@ -1,5 +1,5 @@
 - Tags:: #People #Members 
-    - {{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}
+    - {{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}
     - About me::
         - Twitter:: [@rossopeter_](https://twitter.com/rossopeter_)
         - Website:: [rosso.io](https://rosso.io)
@@ -19,7 +19,7 @@
                 - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
         - SmartBlocks::
             - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
-                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:💻Waiting on a laptop | 🟢Online | 🟠Away | 🚫 offline}}"
+                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
                     - #Inbox #not-populated
                     - #[[Scratchpad]] #not-populated
                     - #[[GTD Zone]] #not-populated

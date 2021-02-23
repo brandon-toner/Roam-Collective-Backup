@@ -300,7 +300,7 @@
             - {{or: Option A | Option B | Option C}}
         - .rcBRB — Online/Status [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - {{or:🟢Online | 😴 offline, back tomorrow | 🟠Away}}
-        - .rcNotify — @Everyone Tag  [42SmartBlock](<../42SmartBlock.md>) 
+        - .rcNotify — @Everyone Tag  [42SmartBlock](<../42SmartBlock.md>)  [roam](<../roam.md>)/templates
             - {{or: [@[[Everyone](<../@[[Everyone.md>)]] | [@[[Charles Farr](<../@[[Charles Farr.md>)]] | [@[[Brandon Toner](<../@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<../@[[Peter Rosso.md>)]] | [@[[leekeifon](<../@[[leekeifon.md>)]] | [@[[Larissa de Lima](<../@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<../@[[Samuel Bars.md>)]] }}
 
 # Backlinks

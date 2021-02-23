@@ -22,6 +22,11 @@
 
 - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>)}
 
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>)}
+
+- [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>)}
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>)}
 
