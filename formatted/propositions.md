@@ -13,3 +13,6 @@
 
 - "Found a better alternative: [propositions](<propositions.md>)"
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [propositions](<propositions.md>)
+

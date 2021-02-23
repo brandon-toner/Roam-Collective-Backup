@@ -312,7 +312,7 @@
                     - [FN](<FN.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
                         - [FN](<FN.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
                             - Related to Expert vs Planner chapter in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)
-        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
+        - [@Charles]([^[[Charles Farr](<^[[Charles Farr.md>)]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
             - Practically, how would you make the demo? Drawing the chat interface on figma/some other design tool and putting some mock data in roam? 
             - Happy to help btw, very interested in this
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) about [using roam inter](((-I7IKqxTt))), I wanna try soon, will probably document.
@@ -356,7 +356,7 @@
                 - Another thoughts that comes to mind when thinking about code management and testing is CD/CI
                     - The idea is that code gets tested before being deployed. This works in an ideal world in which people actually write tests for their own code, but people never do that. When code is pushed to the main branch of their git remote, the code is tested and integrated into the general workflow. 
                     - If the code works and does not throw errors it becomes part of the bigger code.
-                    - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
+                    - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
                         - Enters Roam Inter
                             - Imagine that the css and js necessary to run this page was organised on the Roam Agora. If the is a change on the code on the agora which only the creator can edit that change updates in the RC graph using roam inter.
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
@@ -382,9 +382,9 @@
                     - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On your choice of reading](((zOU13sMXS))) How did you even end up picking this book?! (It's hard to find book)
                         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting.
         3. Epic/Agora [*]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
-            - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [On current Epic/Agora](((46B1do3DS))) If help is still welcome/required I would love to help. The same way a Zettelkasten needs an entry point for a serendipitous exploration is there a specific block, the page I can start from in order to get an idea of what is the best way I can help?
-                - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) [On prepopulating the Agora](((MnEbaYLbR))) We could ask people doing old submissions to test it? That way you would populate it with relevant material and create momentum in people using it.
-        4. Entry points and catching up [*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) [On current Epic/Agora](((46B1do3DS))) If help is still welcome/required I would love to help. The same way a Zettelkasten needs an entry point for a serendipitous exploration is there a specific block, the page I can start from in order to get an idea of what is the best way I can help?
+                - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) [On prepopulating the Agora](((MnEbaYLbR))) We could ask people doing old submissions to test it? That way you would populate it with relevant material and create momentum in people using it.
+        4. Entry points and catching up [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - [@Brandon]([Brandon Toner](<Brandon Toner.md>)) [On catching up on missing work](((us0FrcExU))). As mentioned to Charles [here](((nZRSNurhn))) perhaps an index of the topic discussed can be a good entry point? Maybe that index is already the `[Q](<Q.md>)` page. What's worth considering is that depending on timings, people might have a different level of urgency in catching up. 
                 - [Q](<Q.md>) Should we have `RC Entry Points` as well as `Evergreen Entry Points`
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)

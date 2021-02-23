@@ -246,9 +246,13 @@
 
 - {{[query](<query.md>): {and: #[Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) [TODO](<TODO.md>)}
 
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) [TODO](<TODO.md>){
+
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>)
+
+- {{[TODO](<TODO.md>)}
 
 - "{{[TODO](<TODO.md>)}
 

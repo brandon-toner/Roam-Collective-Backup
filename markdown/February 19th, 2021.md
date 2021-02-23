@@ -2,7 +2,7 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - What additional [FAQs]([[FAQ]]) might be helpful to add? (We haven't revisited these in a while)  {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}"
+        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}"
     - #Chat ((A place to propose objects of discussion)) 
         1. "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
         2. "#Q How might [[Roam Portal]] be used in RC?"
@@ -51,7 +51,7 @@ Breaking things apart, so they can be put together
             - Willing to build a few features to make Roam-inter more production-ready.
             - Chat in Roam
                 - In-chat function
-        - #Obs the block-level tags for [[block-level tags]] are likely getting VERY rich. We could prob start making some evergreen notes/speculative outlines [@Charles]([[@[[Charles Farr]]]])
+        - #Obs the block-level tags for [[block-level tags]] are likely getting VERY rich. We could prob start making some evergreen notes/speculative outlines [@Charles]([[~[[Charles Farr]]]])
         - "#Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[Articles/Joel Chan — Knowledge Synthesis]])"
             - The [[scientific method]]
                 - Make an [observation]([[observations]])
@@ -201,9 +201,9 @@ loud is what leads to significant insights).__
         - "Draft outline of announcement for [[Roam Games III]] on the [[Roaman Agora]]"
     - #Conversation
         - Simple replies
-            - [@Charles]([[@[[Charles Farr]]]]) re [bookmarks](((HZk-NJWQ8)))
+            - [@Charles]([[~[[Charles Farr]]]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
-            - [@Charles]([[@[[Charles Farr]]]]) "[@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
+            - [@Charles]([[~[[Charles Farr]]]]) "[@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
                 - The writing prompts are not linked to progress on the book, seems a bit non-linear
                     - I read a few chapters, skimmed a bit part of it, but yeah I've been slacking a bit 
                 - There are group readings at 3:30am on mondays, so I didn't join, and I forgot about checking the other group that popped up for accessible timezones
@@ -217,7 +217,7 @@ loud is what leads to significant insights).__
         - [@B]([[~[[Brandon Toner]]]]) about [scaling adoption of RC conventions](((ct3Iw8fLY)))
             - Seems like https://roamlab.org/ from [[Kyle Stratis]] is also going to experiment with conventions, and maybe stumble on different ones? What's your take, thoughts, on this?
                 - It's possible that other projects emerge with people sharing a bunch of conventions different to the ones in RC. This can complicate future inter-graph sharing
-        - [@Brandon]([[~[[Brandon Toner]]]]) & [@Charles]([[@[[Charles Farr]]]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
+        - [@Brandon]([[~[[Brandon Toner]]]]) & [@Charles]([[~[[Charles Farr]]]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
             - I agree with you two on this, I enjoy the use of block-level tags to articulate/define your thought process.
                 - For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective.
 - ---

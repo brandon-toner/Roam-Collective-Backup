@@ -68,7 +68,7 @@
 - {{[DONE](<DONE.md>)}
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) {not: {or: [DONE](<DONE.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Help Wanted](<Help Wanted.md>) [TODO](<TODO.md>){not: {or: [DONE](<DONE.md>)
 
 1. {{[DONE](<DONE.md>)}
 

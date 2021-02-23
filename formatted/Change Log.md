@@ -65,7 +65,9 @@
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>)
+
+- #[Change Log](<Change Log.md>)
 
 - #[Change Log](<Change Log.md>)
 

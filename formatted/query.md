@@ -139,21 +139,21 @@
 - {{[query](<query.md>):
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Obs](<Obs.md>) {not: [query](<query.md>)}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Obs](<Obs.md>) {not: [query](<query.md>)}
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [Q](<Q.md>) [February 22nd, 2021](<February 22nd, 2021.md>) {not: [query](<query.md>)]
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [Q](<Q.md>) [February 22nd, 2021](<February 22nd, 2021.md>) {not: [query](<query.md>)]
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [I](<I.md>) {not: [query](<query.md>)}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [I](<I.md>) {not: [query](<query.md>)}
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
@@ -169,7 +169,7 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-all](<min-all.md>) {{[query](<query.md>):
 
 - {{[query](<query.md>):
 

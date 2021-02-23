@@ -257,7 +257,7 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
     - #[[Scratchpad]] 
-        - Brandon on behalf of Peter. [cc:Charles]([[@[[Charles Farr]]]])
+        - Brandon on behalf of Peter. [cc:Charles]([[~[[Charles Farr]]]])
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
                 - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---

@@ -252,7 +252,7 @@
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [FN](<FN.md>)}
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>)
 
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [FN](<FN.md>)}
 

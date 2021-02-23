@@ -81,7 +81,7 @@
                         - **TODO Query:** (scheduled for this week)
                             - <%CONCAT:{,{[,[query],]: {and: <%42SETTING:ThisWeek%> [,[TODO],]},},}%>
                         - **Help Wanted Query:**
-                            - [min-con](<../min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
+                            - [min-con](<../min-con.md>) <%CONCAT:{,{[,[query]]: {and: [,[Help Wanted]] [,[TODO]] {not: {or: [,[DONE]] [,[roam/css]]}}}},}%>
                 - #[Change Log](<../Change Log.md>)
                     - [min-title](<../min-title.md>) {{[query](<../query.md>): {and: <%DATE:today%> [Change Log](<../Change Log.md>) {not: [Community Notes](<../Community Notes.md>)}}}}
             - ---

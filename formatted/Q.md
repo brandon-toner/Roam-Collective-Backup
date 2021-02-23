@@ -23,7 +23,7 @@
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [Q](<Q.md>)}
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [Q](<Q.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [Q](<Q.md>)
 
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [Q](<Q.md>)}
 

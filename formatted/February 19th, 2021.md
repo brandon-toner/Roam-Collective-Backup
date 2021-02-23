@@ -2,7 +2,7 @@
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - What additional [FAQs]([FAQ](<FAQ.md>)) might be helpful to add? (We haven't revisited these in a while)  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or:[@[[Everyone](<@[[Everyone.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}}"
+        1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or:[@[[Everyone](<@[[Everyone.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}}"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
         2. "[Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?"
@@ -51,7 +51,7 @@ Breaking things apart, so they can be put together
             - Willing to build a few features to make Roam-inter more production-ready.
             - Chat in Roam
                 - In-chat function
-        - [Obs](<Obs.md>) the block-level tags for [block-level tags](<block-level tags.md>) are likely getting VERY rich. We could prob start making some evergreen notes/speculative outlines [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+        - [Obs](<Obs.md>) the block-level tags for [block-level tags](<block-level tags.md>) are likely getting VERY rich. We could prob start making some evergreen notes/speculative outlines [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))"
             - The [scientific method](<scientific method.md>)
                 - Make an [observation]([observations](<observations.md>))
@@ -201,9 +201,9 @@ loud is what leads to significant insights).__
         - "Draft outline of announcement for [Roam Games III](<Roam Games III.md>) on the [Roaman Agora](<Roaman Agora.md>)"
     - [Conversation](<Conversation.md>)
         - Simple replies
-            - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) re [bookmarks](((HZk-NJWQ8)))
+            - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the "RANDOMBLOCKMENTION" command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
-            - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) "[@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
+            - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) "[@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?"
                 - The writing prompts are not linked to progress on the book, seems a bit non-linear
                     - I read a few chapters, skimmed a bit part of it, but yeah I've been slacking a bit 
                 - There are group readings at 3:30am on mondays, so I didn't join, and I forgot about checking the other group that popped up for accessible timezones
@@ -217,7 +217,7 @@ loud is what leads to significant insights).__
         - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) about [scaling adoption of RC conventions](((ct3Iw8fLY)))
             - Seems like https://roamlab.org/ from [Kyle Stratis](<Kyle Stratis.md>) is also going to experiment with conventions, and maybe stumble on different ones? What's your take, thoughts, on this?
                 - It's possible that other projects emerge with people sharing a bunch of conventions different to the ones in RC. This can complicate future inter-graph sharing
-        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [this](((4jsJ-Oqrk))) and [this](((XUr-8JBw_)))
             - I agree with you two on this, I enjoy the use of block-level tags to articulate/define your thought process.
                 - For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective.
 - ---

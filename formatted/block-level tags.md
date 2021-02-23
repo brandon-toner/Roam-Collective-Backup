@@ -87,6 +87,13 @@
 ## [February 21st, 2021](<February 21st, 2021.md>)
 1. Updated [my personal DNP template](((VyS8OjXZx))) to include a set of queries for [block-level tags](<block-level tags.md>).
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [ ] #[Follow Up](<Follow Up.md>) Review [block-level tags](<block-level tags.md>)
+
+- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) and [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
+
+- [FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 

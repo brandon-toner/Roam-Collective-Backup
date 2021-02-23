@@ -1,16 +1,16 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[The Zettelkasten]]
         - **Observations:**
-            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Obs]] {not: [[query]]}}}}
+            - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[Obs]] {not: [[query]]}}}}
         - **Questions:** 
-            - #min-title {{[[query]]: {and: [[Q]] [[February 22nd, 2021]] {not: [[query]]]}}}}
+            - #min-all {{[[query]]: {and: [[Q]] [[February 22nd, 2021]] {not: [[query]]]}}}}
         - **Ideas:**
-            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[I]] {not: [[query]]}}}}
+            - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[I]] {not: [[query]]}}}}
         - **Fleeting Notes:**
-            - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[FN]] {not: [[query]]}}}}
+            - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[FN]] {not: [[query]]}}}}
         - **Literature Notes:**
             - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
@@ -24,16 +24,22 @@
             - **TODO Query:** (scheduled for this week)
                 - {{[[query]]: {and: #[[Week-07: 02-15-2021]] [[TODO]]}}}
             - **Help Wanted Query:**
-                - #min-con {{[[query]]: {and: [[Help Wanted]] {not: {or: [[DONE]] [[roam/css]]}}}}}
+                - #min-con {{[[query]]: {and: [[Help Wanted]] [[TODO]]{not: {or: [[DONE]] [[roam/css]]}}}}}
     - #[[Change Log]]
-        - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
+        - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
         - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F0Uj29mojgW.png?alt=media&token=1151c594-bcfa-4134-a3e0-4d783bc6f160)
-    - #Conversation #not-populated
+        - #Obs Wow, absolutely stoked with how well the queries worked to resurface some old tasks and ideas. Great work, [@Peter]([[@[[Peter Rosso]]]]) in referencing some of those blocks with some ideas. Big potential here!
+    - #Conversation 
+        1. [@Peter]([[@[[Peter Rosso]]]]) — on [Twitter/Substack](((iKWVPHFCU)))
+            - No action taken yet, still an active item. Will get to it within 2 weeks prob, unless someone beats me to it haha. (anyone is more than welcome to spark it up)
+            - "Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack."
+                - NICE.
+        2. [@Peter]([[@[[Peter Rosso]]]]) You're killing it!! Great work. 🔥🔥🔥
     - #[[The Zettelkasten]]
         - **Observations:**
             - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[Obs]]}}}
@@ -51,9 +57,37 @@
         1. {{[[DONE]]}} Updated "Global Variables"
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
-    - #Scratchpad #not-populated
-    - #Conversation #not-populated
+    - #Scratchpad
+        - [[propositions]] versus [[notions]]
+            - Proposition
+                - something offered for consideration or acceptance — proposal
+                - the point to be discussed or maintained in argument usually stated in sentence form near the outset
+                - a theorem or problem to be demonstrated or performed
+                - an expression in language or signs of something that can be believed, doubted, or denied or is either true or false
+            - Notion
+                - an individual's conception or impression of something known, experienced, or imagined
+                - an inclusive general concept
+                - a theory or belief held by a person or group
+                - small useful items — sundries
+    - #Conversation
+        - [@Samuel]([[@[[Samuel Bars]]]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
+            - Though we could probably build come custom [[datalog]] to tackle this...
+        - [@Brandon]([[@[[Brandon Toner]]]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
+            - {{[[TODO]]}} #[[Follow Up]] Review [[block-level tags]] & aggregate into collection
+        - [@Brandon]([[@[[Brandon Toner]]]]) and [@Samuel]([[@[[Samuel Bars]]]]) on [[block-level tags]]
+            - "#FN Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
+                - #FN The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought
+        - [@Peter]([[@[[Peter Rosso]]]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
+            - However, if we got Roam Inter up and running in The Agora, we could easily aggregate updates centrally
+        - [@Brandon]([[@[[Brandon Toner]]]]) & [@Peter]([[@[[Peter Rosso]]]]) on Weekly Summaries
+            - I think something like [this](((dFbvCf9ei))) could be incredibly useful. However, is there a way to do some of this programatically?
+            - It could be cool to aggregate all new questions or fleeting note blocks added on a daily basis — could do it in the header...
+                - Just saw the "#[[The Zettelkasten]]" queries — looks great...
+        - [@Samuel]([[@[[Samuel Bars]]]]) let's brainstorm a bit more on [this](((JZqN2rYS0))) — I like we could structure the "database" in a few pages and then building some sort of mockup would be dope.
+        - [@Peter]([[@[[Peter Rosso]]]]) [any and all help is greatly appreciated!](((aehiME_SV))) I saw you logged a bit of work their today, thanks! I'm going to get back to it myself tomorrow...
     - #Bookmarks #not-populated
+    - #[[Change Log]]
+        - Added CSS for "#Prop"
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
     - #Inbox 
@@ -77,7 +111,7 @@
     - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---

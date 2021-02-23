@@ -1419,20 +1419,41 @@ span.rm-page-ref[data-tag="Literature Notes"] {
 }```
                 - #[[LN]] 
                     - ```css
-span.rm-page-ref[data-tag="LN"] {
-	background: var(--cl-blue-lt-600);
-    color: #FFFFFF;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+/*span.rm-page-ref[data-tag="FN"]:before {
+    content: 		'🕊';
+}*/
+
+span.rm-page-ref[data-tag="LN"]:after {
+    content: 		':';
 }
 
+span.rm-page-ref[data-tag="LN"] {
+    color: 			var(--cl-white) !important;
+    padding: 		2px 5px 2px 5px;
+	font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-blue-lt-600);
+}```
+                - #Prop
+                    - ```css
+span.rm-page-ref[data-tag="Prop"]:after {
+    /*content: 		'osition:';*/
+  	content: 	":";
+}
 
-
-```
+span.rm-page-ref[data-tag="Prop"] {
+    color: 			var(--cl-gray-900) !important;
+    padding: 		2px 5px 2px 5px;
+	font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-yellow-100);
+}```
                 - #[[Seedlings]]
                     - ```css
 span.rm-page-ref[data-tag="Seedlings"] {
@@ -4587,11 +4608,17 @@ display:none!important; /* hide page reference (title) */
   display:none !important;  /* hide the query string */
 }
 
-[data-tag="min-all"], 
 [data-tag="min-all"] + .rm-query .zoom-mentions-view,
 [data-tag="min-all"] + .rm-query .rm-title-arrow-wrapper,
 [data-tag="min-all"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
+}
+
+span [data-tag="min-all"] {
+  display: 			none;
+  height: 			0px !important;
+  max-height:		0px !important;
+  line-height:		0px !important;
 }
 
 [data-tag="minimal"] + .rm-query .rm-query-title::after,
