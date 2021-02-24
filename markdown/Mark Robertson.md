@@ -32,5 +32,7 @@
                     - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
                     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
                 - ---
-- Query
-- {{[[query]]: {and: [[@[[Mark Robertson]]]] {not: [[query]]}}}}
+- {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
+- **Query**
+    - {{[[query]]: {and: [[@[[Mark Robertson]]]] {not: [[query]]}}}}
+    - {{[[query]]: {and: [[cc:[[Mark Robertson]]]] {not: [[query]]}}}}

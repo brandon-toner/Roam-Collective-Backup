@@ -32,8 +32,10 @@
                     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
                     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
                 - ---
-- Query
-- {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
+- {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
+- **Query**
+    - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
+    - {{[query](<query.md>): {and: [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
 
 # Backlinks
 ## [February 15th, 2021](<February 15th, 2021.md>)
@@ -48,6 +50,9 @@
 - "[Mark]([Mark Robertson](<Mark Robertson.md>))
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
+
+## [February 24th, 2021](<February 24th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

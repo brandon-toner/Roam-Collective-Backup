@@ -189,6 +189,10 @@
 
 - [Related](<Related.md>)
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "discreet, and practical wisdom" is the genre of idea I'm looking to define.
+            - **[Related](<Related.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
             - **[Related](<Related.md>):**

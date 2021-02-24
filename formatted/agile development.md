@@ -18,6 +18,9 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - Tweet on [agile development](<agile development.md>)
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- [Obs](<Obs.md>) I REALLY like the concepts of epics and backlog. I needed this for my personal system as well. #[agile development](<agile development.md>)
+
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
 

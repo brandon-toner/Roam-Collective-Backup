@@ -345,6 +345,10 @@
 
 - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}
 
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] {not: [query](<query.md>)}
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>):
 

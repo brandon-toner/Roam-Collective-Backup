@@ -1,1 +1,121 @@
-- 
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[GTD Zone](<GTD Zone.md>) 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[Change Log](<Change Log.md>)
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) 
+        - [Mindsweep](<Mindsweep.md>)
+            - [ ] Review yesterday's discussions
+            - [Q](<Q.md>) How do we promote resurfacing/or presentation of key information without the use of queries?
+                - **What I like about queries:** they automate [compilation](<compilation.md>).
+                - **What I don't like about queries:** they seem [expensive on performance](((MWPM61ZXj))). [performance](<performance.md>)
+                    - I've tried to mitigate this effect through the use of [SmartBlock buttons](<SmartBlock buttons.md>)... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
+                    - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
+        - [Q](<Q.md>) What block-level tag could be used to signify a summary? A synthesis of the conversation down to the tl;dr... the decision/action items/resolution...
+            - Inspired by: "I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then..."
+        - [FN](<FN.md>) the use of block-level tags forces the user to be more clear and precise in their speech/documentation.
+        - [I](<I.md>) "[maxims](<maxims.md>)" as a word that may be helpful as a collection... 
+            - "discreet, and practical wisdom" is the genre of idea I'm looking to define.
+            - **[Related](<Related.md>):** [proverbs](<proverbs.md>) 
+                - "Definition: Easily digestible nuggets of wisdom. "
+            - [maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>) 
+            - **[Inspired by](<Inspired by.md>):** [Christopher Hodgkinson](<Christopher Hodgkinson.md>)'s [Books/Educational Leadership](<Books/Educational Leadership.md>), where he lists practical maxims at the end of the book as distillation of the philosophical discussions in the body of the book.
+        - [Obs](<Obs.md>) I REALLY like the concepts of epics and backlog. I needed this for my personal system as well. #[agile development](<agile development.md>)
+            - I often will define projects that get "stuck" because they are too broad in scope. Where "goal" doesn't quite feel right either. 
+                - [Q](<Q.md>) What is the difference between [epics](<epics.md>) and [goals](<goals.md>)?
+        - [FN](<FN.md>) The use of [block-level tags](<block-level tags.md>) in combination with [key words](<key words.md>) facilitates a stronger conversation that transcends the "now" -- extends across time.
+    - [Conversation](<Conversation.md>) 
+        1. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [temporary queries](((eDu1gnWM0)))
+            - Yea, I have the [same concern](((gpFDEvhhp))). Noticed a significant slow-down in the graph yesterday... and have a feeling that queries are quite taxing on performance. 
+            - Would LOVE to see this resolved by the Roam team, as queries are really the right tool for the job in many cases for compiling information (which is VERY helpful in communities like this.)
+            - A challenge is:
+                - [Q](<Q.md>) How do you compile information on a dashboard where TODAY's DATE is an operator in the query... 
+            - **Replies**
+                - "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
+                    - This is excellent! I think might be the answer.
+                        - LOVE the refresh with today's date. Brilliant. 
+                    - A thing I like about having the queries **on** the DNP is the ease of directing attention... it's more likely to be reviewed if it's right under your nose. 
+                    - But, this is a GREAT next-best if inclusion of the queries on the DNP directly is too expensive on performance.
+                - "Or you could just clear the queries at the end of the day. IDK "
+                    - Yea, thought about doing this too... was thinking on implementing [a tag to attach to temporary queries](((X5pnvusG2))) that I could go back and purge them after some time...
+                        - But this feels like work.
+                        - Would only really work if I could automate the purging somehow...
+                    - A big question for me is:
+                        - [Q](<Q.md>) Does the **total number** of [queries](<queries.md>) in a DB affect [performance](<performance.md>), or only the queries on a loaded page?
+                            -  [Q](<Q.md>) How do queries affect performance?
+                                - [Q](<Q.md>) Has the [Roam Team](<Roam Team.md>) weighed in on this?
+                - "You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity."
+                    - Yup, I have a good relationship with Bardia -- I can reach out on this. 
+                    - I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then...
+    - [Bookmarks](<Bookmarks.md>)
+        - On [queries](<queries.md>): "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[GTD Zone](<GTD Zone.md>)
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}   "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) on [Question regarding queries with today's date](((utHWR4Vlp))) [*]([queries](<queries.md>))
+            - First, I want to stress again, that my thoughts here are from experience, but not necessarily certainty - though I have attempted to discuss this with numerous people.
+            - These easiest solution I have found here is what I do for my own project management workflow. 
+                - I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FKQMzXKWf5Z.png?alt=media&token=96ae0be3-107d-49ce-9bb8-e69147a759f0)
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F-O7_iDrsDo.png?alt=media&token=1f95b0e3-51ae-4a32-922d-36d4bd47dd99)
+                - Since I have all my "working" queries on a single page on my `Action Dashboard`, I don't have to worry about collecting what are effectively irrelevant queries as the days move forward. 
+                - Therefore, the DNP remains a place for "working" and conversation, but it is no longer a "hub" for communications/project management.
+                - Or you could just clear the queries at the end of the day. IDK 
+            - Regarding your question about being "[right under your nose](((YOfGHXhgV)))", 
+                - Option 1:
+                    - it still can be by utilizing the sidebar - which we have both stated is kind of a pain on a small screen, but gets the job done. 
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWyah71QKQQ.png?alt=media&token=405c0e16-c758-4cb2-9d14-4cc9a187d791)
+                        - (do you have a tangent tag?) And yes, I am using the [Stylus Extension](<Stylus Extension.md>) to theme the collective - 😁 - its the only way to address the shared graph aesthetic to your liking! I have to have my masonry layout. 
+                            - Or if I am feeling froggy: [RailCast Theme](<RailCast Theme.md>)
+                                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FDmF-Tzm-JC.png?alt=media&token=9bfa8261-fdf6-4a83-b626-2352e316cca9)
+                - Option 2:
+                    - Embed your query from you directory page into your DNP SmartBlock the same way you are doing online status. HOWEVER, this may not have the performance gains. I am unsure if they in effect are duplicative or if it's just a portal?
+                    - **Replies:**
+                        - "Would only really work if I could automate the purging somehow..."
+                            - You can get someone to build a smartblock to delete blocks with a given tag. But that could be dangerous. But MORE THAN DOABLE. 
+                        - "[Q](<Q.md>) Does the **total number** of [queries](<queries.md>) in a DB affect [performance](<performance.md>), or only the queries on a loaded page?"
+                            - Its pretty clear that non-render queries in the background are also taxing on the system, though additionally so when rendered. 
+                            - I can show you a loom later where I turn on and off global filters to increase performance on my larger graph.
+                                - HOWEVER, this has gotten BETTER in recent months. But it is clear that without the major new architecture up and running, this is a medium to long-term problem.
+                        - " [Q](<Q.md>) How do queries affect performance?"
+                            - There is a debate about how the DNP works in general, especially the feed version of the Daily Notes Page. Its a different animal than a regular page. 
+                        - "[Q](<Q.md>) Has the [Roam Team](<Roam Team.md>) weighed in on this?"
+                            - We have asked multiple times. No direct reply yet. Implication is so far from the team that we are pushing the boundaries and it will be dealt with in the future. 
+            - **Replies:** regarding [rendering of queries](((tjZtz4opT)))
+                - It seems that a portal to a query - whether embed or block reference - is NOT as taxing on the system overall. 
+                    - Two things impact (it seems) DB speed in regards to queries:
+                        - 1) Whether the query is rendered or not
+                        - 2) Quantity of background queries in existence. 
+                    - Embeds and block refs only related to number [1](((9ygMoqID7))).
+                - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) **Next Actions:**
+                    - I think with this information it may be best to do further evidence gathering before making any decisions. 
+                    - You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity.
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+- ---

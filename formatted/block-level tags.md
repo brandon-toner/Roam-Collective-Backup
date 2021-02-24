@@ -94,6 +94,9 @@
 
 - [FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>)
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- [FN](<FN.md>) The use of [block-level tags](<block-level tags.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 
