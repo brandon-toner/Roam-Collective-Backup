@@ -70,11 +70,11 @@
                 - a theory or belief held by a person or group
                 - small useful items — sundries
     - [Conversation](<Conversation.md>)
-        - [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
+        - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
             - Though we could probably build come custom [datalog](<datalog.md>) to tackle this...
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - [ ] #[Follow Up](<Follow Up.md>) Review [block-level tags](<block-level tags.md>) & aggregate into collection
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) and [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) and [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
             - "[FN](<FN.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
                 - [FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
@@ -111,7 +111,7 @@
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+        - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}} Does anyone know if we have got a sub stack? What about a twitter account?
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

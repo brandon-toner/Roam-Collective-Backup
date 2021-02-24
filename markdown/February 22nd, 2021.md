@@ -70,11 +70,11 @@
                 - a theory or belief held by a person or group
                 - small useful items — sundries
     - #Conversation
-        - [@Samuel]([[@[[Samuel Bars]]]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
+        - [@Samuel]([[~[[Samuel Bars]]]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
             - Though we could probably build come custom [[datalog]] to tackle this...
         - [@Brandon]([[@[[Brandon Toner]]]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - {{[[TODO]]}} #[[Follow Up]] Review [[block-level tags]] & aggregate into collection
-        - [@Brandon]([[@[[Brandon Toner]]]]) and [@Samuel]([[@[[Samuel Bars]]]]) on [[block-level tags]]
+        - [@Brandon]([[@[[Brandon Toner]]]]) and [@Samuel]([[~[[Samuel Bars]]]]) on [[block-level tags]]
             - "#FN Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
                 - #FN The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([[@[[Peter Rosso]]]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
@@ -111,7 +111,7 @@
     - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Does anyone know if we have got a sub stack? What about a twitter account?
+        - {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---

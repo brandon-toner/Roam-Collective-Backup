@@ -269,6 +269,9 @@
 ## [GTD Zone](<GTD Zone.md>)
 - **[Tags](<Tags.md>):**
 
+## [George Silverman](<George Silverman.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Goal Ideas](<Goal Ideas.md>)
 - **[Tags](<Tags.md>):**
 

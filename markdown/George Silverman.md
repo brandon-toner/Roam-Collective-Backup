@@ -1,0 +1,15 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: @GeorgeSilverman
+        - Website::Mnav.com (Presently under repair)
+        - Location:: Nanuet, NY (20 mi North of NYC)
+        - Time Zone:: Eastern Time (US)
+    - **Online Status:**  
+        - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP G Silverman — Daily Notes Template [*]([[gs]]) #42SmartBlock
+        - #[[My Daily Notes]] [[George Silverman]] [*]([[gs]]) {{word-count}}  "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+            - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - ---

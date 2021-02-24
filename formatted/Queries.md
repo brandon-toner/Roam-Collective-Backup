@@ -20,7 +20,7 @@
         - **[Queries](<Queries.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-- {{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}
+- {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - **[Queries](<Queries.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)

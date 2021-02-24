@@ -32,6 +32,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
+## [George Silverman](<George Silverman.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
                 - **[About me](<About me.md>):**

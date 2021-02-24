@@ -25,13 +25,13 @@ var installScript = name => {
   extension.id = name;
   document.getElementsByTagName("head")[0].appendChild(extension);
 };
-installScript("mindmap");
+//installScript("mindmap");
 installScript("query-builder");
-installScript("query-tools");
-installScript("slack");
+//installScript("query-tools");
+//installScript("slack");
 installScript("sort-references");
 installScript("tag-cycle");
-installScript("wiki-data");
+//installScript("wiki-data");
 ```
 - Disable Intercom
     - {{{[[roam/js]]}}}

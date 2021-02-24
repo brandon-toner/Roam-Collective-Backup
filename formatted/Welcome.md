@@ -17,12 +17,12 @@
     - 1. Enable Roam42 (see below)
         - Click "Yes, know what I'm doing." to enable the Roam42 javascript code to run in this graph for you.
             - **Note:** Enabling Roam42 is not necessary to participate here, but it will make your life easier!
-        - {{{[roam/js](<roam/js.md>)}}}
+            - "{{{[roam/js](<roam/js.md>)}}}"
     - 2. Navigate to the Daily Notes
     - 3. Launch the Getting Started SmartBlock 
         - Use `jj` and select the `.gs — Getting Started` option
     - 4. Navigate to your personal page
-    - 5. Launch the Personal Page roam template using `jj` and select the `.rcYOU — Personal Page` option
+    - 5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option
     - 6. Fill out the About Me section
     - 7. Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>) to comment, ask questions, offer feedback, or just chat about the project.
     - 8. Review the graph [conventions]([Conventions](<Conventions.md>)). 
@@ -69,6 +69,9 @@
 12. Added [Welcome](<Welcome.md>)
 
 9. How can a [Welcome](<Welcome.md>)
+
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [Welcome](<Welcome.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - **[Related](<Related.md>):** [Welcome](<Welcome.md>),

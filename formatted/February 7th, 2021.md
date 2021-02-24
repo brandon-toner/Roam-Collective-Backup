@@ -74,7 +74,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
         - ""[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯""
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}} "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)) {{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Yesterday I introduced [Multiplayer Roam](<Multiplayer Roam.md>) to a small group of ~10 people who had little to no experience with multiplayer graphs and it was heartening to see how excited it made them and what kinds of questions they had.
             - Questions included:

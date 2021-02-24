@@ -186,7 +186,7 @@
     - #[My Wins](<My Wins.md>)
         - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms) | 🟡On & Off}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -330,7 +330,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                     - See: "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
             - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
-            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Samuel]([@[[Samuel Bars](<@[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
                 - "Convergence through osmosis"
         - Resurfacing useful tidbits almost always requires [block-level tags](<block-level tags.md>)
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) re [1](((6r92-8soo))) & [2](((_CqPdANue)))

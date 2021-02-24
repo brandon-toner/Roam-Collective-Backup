@@ -39,7 +39,7 @@
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
         - [[~[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}"
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
     - #Conversation 
         - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
         - [[~[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.

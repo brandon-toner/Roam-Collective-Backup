@@ -32,6 +32,10 @@
 - **[Twitter](<Twitter.md>):** [@eurunuela](https://twitter.com/eurunuela)
         - **[Website](<Website.md>):**
 
+## [George Silverman](<George Silverman.md>)
+- **[Twitter](<Twitter.md>):** @GeorgeSilverman
+        - **[Website](<Website.md>):**M
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Twitter](<Twitter.md>):** [not-populated](<not-populated.md>)
                     - **[Website](<Website.md>):**

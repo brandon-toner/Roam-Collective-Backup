@@ -537,7 +537,7 @@
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [[~[[Charles Farr]]]]" [[~[[Brandon Toner]]]] a little hacky-ness goes a long way!
     - 
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}" [*]([[mtv]]) {{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]] "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - ignore me
             - What I'm hearing about the internal / external communication chat idea

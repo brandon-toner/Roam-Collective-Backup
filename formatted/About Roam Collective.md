@@ -8,7 +8,7 @@
     - To build the [conventions](<conventions.md>) necessary to enable effective knowledge collaboration at scale.
 - **[Vision](<Vision.md>):** ((See block references for additional ideas.))
 - **[Purpose](<Purpose.md>):** ((See block references for additional ideas.))
-    - To provide a hub for meta-conversation around collaboration in Roam.
+    - To provide a hub for meta-conversation around **collaboration** in Roam.
     - To provide a hub for community collaboration surrounding the [Roam Games](<Roam Games.md>)
 - **[Goals](<Goals.md>):** ((See block references for additional ideas.))
     - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities.
@@ -45,6 +45,9 @@
 - Similar convention for within [About Roam Collective](<About Roam Collective.md>)
 
 - I think every person needs to activate the [roam/js](<roam/js.md>) block. I'll add that to getting started along with a link to [About Roam Collective](<About Roam Collective.md>).
+
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [About Roam Collective](<About Roam Collective.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - **[Related](<Related.md>):** [About Roam Collective](<About Roam Collective.md>)

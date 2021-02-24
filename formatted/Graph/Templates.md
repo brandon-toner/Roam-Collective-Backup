@@ -338,6 +338,9 @@
 ## [January 25th, 2021](<January 25th, 2021.md>)
 1. "[~](<../~.md>) [Brandon Toner](<../Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<../Graph/Templates.md>))
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [Graph/Templates](<../Graph/Templates.md>)
+
 ## [choice algorithm](<choice algorithm.md>)
 - **[Tags](<../Tags.md>):** [Graph/Templates](<../Graph/Templates.md>)
 

@@ -12,7 +12,7 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
         - **Things I have helped design or develop:**
             - [Journey to the Center of Hawkthorne](http://projecthawkthorne.com/)
             - Spotify's NYC Headquarters
-    - {{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}
+    - {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - **[Queries](<Queries.md>):**
         - [notifications](<notifications.md>)
             - {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}}}}
@@ -65,6 +65,18 @@ return [query, results];```
     - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
         - [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
+            - Starter Pack
+                - Shortcuts
+                    - [Welcome](<Welcome.md>)
+                    - [Quick Start Guide](<Quick Start Guide.md>)
+                    - [Conventions](<Conventions.md>)
+                    - [About Roam Collective](<About Roam Collective.md>)
+                    - [Directory](<Directory.md>)
+                    - [FAQ](<FAQ.md>)
+                - [Graph/Templates](<Graph/Templates.md>)
+                - [roam/templates](<roam/templates.md>)
+                - [DNP Modules](<DNP Modules.md>)
+                - [Prompts](<Prompts.md>)
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)

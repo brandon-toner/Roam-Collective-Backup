@@ -42,6 +42,9 @@ When answering writing prompts, nest your blocks beneath the [Promptstorming](<P
 ## [Learning Center](<Learning Center.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 

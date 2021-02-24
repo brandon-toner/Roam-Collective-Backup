@@ -231,7 +231,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
                 - Block references feel like the right way to go. 
                 - I think I prefer `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` for sake of queries.
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 

@@ -12,7 +12,7 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
         - **Things I have helped design or develop:**
             - [Journey to the Center of Hawkthorne](http://projecthawkthorne.com/)
             - Spotify's NYC Headquarters
-    - {{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}
+    - {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - Queries::
         - [[notifications]]
             - {{[[query]]: {and:[[@[[Matthew Vogel]]]] {or:[[cc:[[Matthew Vogel]]]]} {not:[[query]]}}}}
@@ -65,3 +65,15 @@ return [query, results];```
     - SmartBlocks::#not-populated
     - Bookmarks::
         - [[Evergreens/alert fatigue]]
+            - Starter Pack
+                - Shortcuts
+                    - [[Welcome]]
+                    - [[Quick Start Guide]]
+                    - [[Conventions]]
+                    - [[About Roam Collective]]
+                    - [[Directory]]
+                    - [[FAQ]]
+                - [[Graph/Templates]]
+                - [[roam/templates]]
+                - [[DNP Modules]]
+                - [[Prompts]]

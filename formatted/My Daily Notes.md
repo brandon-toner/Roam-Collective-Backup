@@ -185,6 +185,8 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -293,6 +295,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [George Silverman](<George Silverman.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [Graph/Templates](<Graph/Templates.md>)

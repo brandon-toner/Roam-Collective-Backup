@@ -537,7 +537,7 @@
             - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]]" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a little hacky-ness goes a long way!
     - 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:🟠Away | ⚫️Offline | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - ignore me
             - What I'm hearing about the internal / external communication chat idea

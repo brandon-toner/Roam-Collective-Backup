@@ -24,6 +24,9 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - What additional [FAQs]([FAQ](<FAQ.md>))
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [FAQ](<FAQ.md>)
+
 ## [Quick Start Guide](<Quick Start Guide.md>)
 3. Check out the [FAQ](<FAQ.md>)
 

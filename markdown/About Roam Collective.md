@@ -8,7 +8,7 @@
     - To build the [[conventions]] necessary to enable effective knowledge collaboration at scale.
 - Vision:: ((See block references for additional ideas.))
 - Purpose:: ((See block references for additional ideas.))
-    - To provide a hub for meta-conversation around collaboration in Roam.
+    - To provide a hub for meta-conversation around **collaboration** in Roam.
     - To provide a hub for community collaboration surrounding the [[Roam Games]]
 - Goals:: ((See block references for additional ideas.))
     - To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities.

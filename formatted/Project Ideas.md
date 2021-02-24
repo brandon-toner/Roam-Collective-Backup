@@ -27,6 +27,9 @@
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
 
+## [February 23rd, 2021](<February 23rd, 2021.md>)
+- [I](<I.md>) "Divide and conquer: leveraging group learning to make better notes and study tools." #[Project Ideas](<Project Ideas.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Project Ideas](<Project Ideas.md>)
 
