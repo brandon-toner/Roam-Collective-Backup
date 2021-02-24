@@ -253,7 +253,7 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
-- {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [TODO](<TODO.md>)}
+- {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [TODO](<TODO.md>){
 
 - {{[query](<query.md>): {and: #[Week-08: 02-22-2021](<Week-08: 02-22-2021.md>) [TODO](<TODO.md>)}
 

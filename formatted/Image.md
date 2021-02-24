@@ -54,6 +54,9 @@
             - **[Image](<Image.md>):**
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
+- "New conversation" button appears as you select and stays
+                                        - **[Image](<Image.md>):**
+
 - [Graph Database Stats](<Graph Database Stats.md>)
             - **[Image](<Image.md>):**
 

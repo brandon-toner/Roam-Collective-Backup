@@ -222,6 +222,8 @@
 
 - {{[query](<query.md>):
 
+- {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [TODO](<TODO.md>){not: [query](<query.md>)}
+
 - {{[query](<query.md>):
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
@@ -241,6 +243,8 @@
 - {{[query](<query.md>):
 
 - {{[query](<query.md>):
+
+- For example, my large database, 9000+ pages and nearly 700 queries has a stutter. If I actively filter OUT `[query](<query.md>)`
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[query](<query.md>):
