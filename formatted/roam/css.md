@@ -1112,6 +1112,8 @@ span.rm-page-ref[data-tag="My Daily Notes"] {
     position:relative;
 }
 
+/*.rm-sidebar-window*/
+
  span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
      background: var(--cl-gray-200) !important;
      color: var(--cl-gray-900) !important;
@@ -4528,33 +4530,36 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]),
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):focus,
 .rm-block-text > span > .bp3-button:not([class*="bp3-intent-"]):hover {
-  background-color: [D1D1D1](<../D1D1D1.md>);
-  font-size: 12px;
-  line-height: 12px;
-  padding: 2px 4px 2px 4px; 
-  min-height: 0px;
+  background-color: var(--cl-gray-200);
+  color:			var(--cl-gray-700);
+  font-size: 		11px;
+  line-height: 		13px;
+  padding: 			2px 4px 2px 4px; 
+  min-height: 		0px;
 }
 
 /* Buttons in Block References */
-	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]),
-	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):focus,
-	.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):hover {
-	background-color: [D1D1D1](<../D1D1D1.md>);
-	font-size: 12px;
-	line-height: 12px;
-	padding: 2px 4px 2px 4px; 
-	min-height: 0px;
+.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]),
+.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):focus,
+.rm-block-ref > span > .bp3-button:not([class*="bp3-intent-"]):hover {
+  background-color: var(--cl-gray-200);
+  color:			var(--cl-gray-700);
+  font-size: 		11px;
+  line-height: 		13px;
+  padding: 			2px 4px 2px 4px; 
+  min-height: 		0px;
 }
 
 /* Buttons in Zoom Masks */
-	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]),
-	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):focus,
-	.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):hover {
-	background-color: [D1D1D1](<../D1D1D1.md>);
-	font-size: 12px;
-	line-height: 12px;
-	padding: 2px 4px 2px 4px; 
-	min-height: 0px;
+.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]),
+.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):focus,
+.rm-zoom-item > span > div > div > span > .bp3-button:not([class*="bp3-intent-"]):hover {
+  background-color: var(--cl-gray-200);
+  color:			var(--cl-gray-700);
+  font-size: 		11px;
+  line-height: 		13px;
+  padding: 			2px 4px 2px 4px; 
+  min-height: 		0px;
 }```
             - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
                 - ```css

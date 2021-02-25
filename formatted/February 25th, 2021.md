@@ -37,3 +37,43 @@
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[GTD Zone](<GTD Zone.md>)
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - "[Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)"
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Alex Tentler](<Alex Tentler.md>) {{word-count}}
+    - **Welcome to Roam Collective!** 😃 
+        - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+    - **Tips:**
+        - Write some thoughts under your **scratchpad** block
+        - Comment on something in the graph under your **conversation** block
+        - Capture some initial feedback in your **feedback** block
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
+        - __write here__
+    - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+        - __comment/reply here__
+            - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+    - #[Feedback & Questions](<Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<not-populated.md>)
+- ---

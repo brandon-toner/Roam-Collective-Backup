@@ -17,6 +17,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Akiff Premjee](<Akiff Premjee.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Alex Tentler](<Alex Tentler.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -197,6 +200,14 @@ As you get comfortable with the available tags, I'd recommend using them to help
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

@@ -1,0 +1,14 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: @TechnoEdMedPeds
+        - Website:: #not-populated 
+        - Location:: #not-populated
+        - Time Zone:: Eastern US
+    - **Online Status:**  {{or:🟡On & Off | ⚫️Offline | 🟠Away | 🟢Online}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP ATentler — Daily Notes Template #42SmartBlock
+        - #[[My Daily Notes]] [[Alex Tentler]] {{word-count}}
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+            - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - ---

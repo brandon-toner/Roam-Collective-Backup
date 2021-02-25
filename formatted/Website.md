@@ -4,6 +4,10 @@
 - **[Twitter](<Twitter.md>):** [@bartadamley](https://twitter.com/bartadamley) 
         - **[Website](<Website.md>):**
 
+## [Alex Tentler](<Alex Tentler.md>)
+- **[Twitter](<Twitter.md>):** @TechnoEdMedPeds
+        - **[Website](<Website.md>):**
+
 ## [Alexandra Westhoff](<Alexandra Westhoff.md>)
 - **[Twitter](<Twitter.md>):** [@alwesthoff](https://twitter.com/alwesthoff)
         - **[Website](<Website.md>):**
