@@ -257,6 +257,13 @@
 
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>) [discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>)} {not: {or: [query](<query.md>)
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
+- "{{[query](<query.md>):
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[query](<query.md>):
 
