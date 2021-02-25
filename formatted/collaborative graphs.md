@@ -11,6 +11,13 @@
 
 - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+
+- "#[FN](<FN.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+
+- "#[FN](<FN.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 1. #[FN](<FN.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 

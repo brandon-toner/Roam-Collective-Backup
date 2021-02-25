@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - Building on "#[FN](<FN.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>),
 

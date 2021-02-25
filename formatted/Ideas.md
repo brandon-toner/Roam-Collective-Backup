@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) [ideas](<ideas.md>)
-
 ## [February 12th, 2021](<February 12th, 2021.md>)
 2. Once work starts to center around some common [themes](<themes.md>), [questions](<questions.md>) and [ideas](<ideas.md>),
 
@@ -11,6 +8,9 @@
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [ideas](<ideas.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>).

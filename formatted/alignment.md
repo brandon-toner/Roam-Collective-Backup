@@ -1,13 +1,13 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) More [alignment](<alignment.md>)
-
 ## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
 - Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [alignment](<alignment.md>)
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) More [alignment](<alignment.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - When everyone is in sinch, the compound effect of [alignment](<alignment.md>)

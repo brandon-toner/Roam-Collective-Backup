@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>) within a [collaborative graph](<collaborative graph.md>).
-
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [Q](<Q.md>) How could SRS be used in a [collaborative graph](<collaborative graph.md>)?
 
@@ -21,6 +18,9 @@
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - #[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>) within a [collaborative graph](<collaborative graph.md>).
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>) within a [collaborative graph](<collaborative graph.md>).
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - "[FN](<FN.md>) a [collaborative graph](<collaborative graph.md>)

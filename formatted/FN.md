@@ -11,51 +11,6 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [FN](<FN.md>)
 
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
-- "#[FN](<FN.md>)
-
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[FN](<FN.md>)
 
@@ -312,6 +267,64 @@
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>)
 
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>)

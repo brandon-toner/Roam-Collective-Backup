@@ -243,7 +243,6 @@ PS: great work running that!
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad #not-populated
-        - 
     - #Conversation
         - Simple Replies
             - [@Brandon]([[@[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
@@ -263,7 +262,7 @@ PS: great work running that!
                 - Users/Participants will surely come away with the impression: "The answer to my question must be in here!" because it is so well structure. 
                 - Amazing.
             - Just wanted to make sure that this works continues without praise - not that coming from me is all that special, but it still must be said.
-        - An additional piece of [[[[Feedback]]: [[Suggestions]]]] [[@[[Brandon Toner]]]] regarding the Daily Notes Protocol
+        - An additional piece of [[[[Feedback]]: [[Suggestions]]]] [[~[[Brandon Toner]]]] regarding the Daily Notes Protocol
             - In my experience, using the daily notes page as a "dashboard" platform for users is GREAT. However, given that I am part of numerous multiplayer graphs, and having used Roam for some time now, it is my belief (not scientific, but well founded) that the quantity of queries being populated on the daily notes page can overwhelm the graph eventually. 
                 - For example, my large database, 9000+ pages and nearly 700 queries has a stutter. If I actively filter OUT `[[query]]` via a global filter, my database speeds up dramatically.
                     - Even as I write this, focused on just my blocks, there is a significant stutter which I don't see on ANY of my other graphs that I work on - and I have a brand new M1 mac that screams. Roam Portal, for example, is no issue rendering 100,000 blocks in the 3D visualizer.  

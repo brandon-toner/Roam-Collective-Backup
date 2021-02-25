@@ -1,10 +1,5 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
-
-- "#[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
-
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>)
 
@@ -16,6 +11,11 @@
 - This would auto-compile ALL of the block-level tags used throughout the day by all users — and would be a great way to detect [signal](<signal.md>)
 
 - #[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
+
+- "#[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)

@@ -8,9 +8,6 @@
 
 - Some of my [Roam](<Roam.md>)
 
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "[Roam](<Roam.md>),
-
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - [Roam](<Roam.md>)
 
@@ -22,6 +19,11 @@
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - We could get context easily within [Roam](<Roam.md>),
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "[Roam](<Roam.md>),
+
+- "#[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).

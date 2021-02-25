@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
-
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
 
@@ -22,6 +19,9 @@
 - On [resurfacing](<resurfacing.md>)
 
 - "#[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>))

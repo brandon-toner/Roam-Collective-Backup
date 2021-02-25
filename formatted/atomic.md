@@ -1,13 +1,13 @@
 
 # Backlinks
-## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "[FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>))
-
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - [FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>))
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - #[FN](<FN.md>) break things down to build new things with the pieces.[*]([atomic](<atomic.md>))
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "[FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>))
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - "[FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>))

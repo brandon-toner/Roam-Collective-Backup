@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 24th, 2021](<February 24th, 2021.md>)
+- "#[FN](<FN.md>) [speculative outlines](<speculative outlines.md>)
+
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - Build [speculative outlines](<speculative outlines.md>)
 
