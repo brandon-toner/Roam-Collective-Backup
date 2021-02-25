@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>) to [noise](<noise.md>) by promoting [clarity](<clarity.md>) and [order](<order.md>).
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>)
 

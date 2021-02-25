@@ -43,7 +43,7 @@
         - "5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option"
             - `;;` vs `jj` might be unclear. 
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline | 💻Waiting on a laptop}}"
     - #Inbox #not-populated
     - #[[Scratchpad]]
         - "{{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?"

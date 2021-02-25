@@ -1,0 +1,44 @@
+- Type:: #[[Collections]]
+    - ---
+    - ### Outline
+        - Search & Parsing Costs | Signal Vs. Noise
+            - "#[[FN]] Find order through collective chaos. "
+            - "#FN The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought"
+            - "#[[FN]] [[block-level tags]] are a great indicator of [[signal]] within a [[collaborative graph]]."
+            - "#FN [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others."
+                - "#FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
+            - "#[[FN]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]]."
+            - "#FN Ease of [[comprehension]] (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([[cross-pollination]])"
+            - "#[[FN]] Writing [[fleeting notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips"
+            - "#[[FN]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))"
+        - Structured Thinking
+            - "#[[FN]] The use of [[block-level tags]] to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking."
+            - "#[[FN]] the use of [[block-level tags]] facilitates more structured processes of thought. "
+            - "#[[FN]] Documenting ideas using [[block-level tags]] requires a confidence in your ideas. "
+            - "#[[FN]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]]."
+            - "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+            - "#[[FN]] the use [prepositional linkages]([[prepositional linkages]]) "
+        - Rediscovery
+            - "#FN The use of [[block-level tags]] in combination with [[key words]] facilitates a stronger conversation that transcends the "now" -- extends across time."
+            - "#FN A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using"
+            - "#[[FN]] [[ideas]] and [[action items]] arise naturally in [[conversation]]."
+                - "[[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. "
+            - "#[[FN]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data."
+            - "#[[FN]] [[memory]] is very [[context]]-dependant."
+                - Block-level tags allow you to resurface a thought within it's original context
+            - "#[[FN]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]]."
+            - 
+        - Conventions
+            - "#FN [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts."
+            - "#FN [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge"
+            - "#FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
+            - "#FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu"
+            - "#[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents."
+            - "#[[FN]] Writing [[fleeting notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips"
+            - "#[[FN]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data."
+        - "#FN [[block-level tags]] allow you to choose where to respond to others, at any step of their thought process. "
+            - "#[[FN]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])"
+        - "#[[FN]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])"
+            - Block-level tags allow for interjections without interruptions within conversations 
+                - "#[[FN]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. "
+                - "#[[FN]] Roam was built to empower a "[[ride the lightning]]" workflow."

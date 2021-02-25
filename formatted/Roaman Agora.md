@@ -53,3 +53,6 @@
 
 - Added "Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)"
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [Roaman Agora](<Roaman Agora.md>),
+

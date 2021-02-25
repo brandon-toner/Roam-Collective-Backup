@@ -263,7 +263,7 @@ What's your take on fleeting notes that come from personal experience/journaling
                         - #FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
                 - Under this usage of the `#` convention, there are essentially two sub-conventions — using the `#` as [[section tags]] and as [[block-level tags]].
                     - I see section tags as being used best to aggregate **general** thoughts and information. They are scratchpads of one form or another. The information that is contained is either prose (like this) or unrefined ideas.
-                        - #FN [Section-level tags]([[section tags]]) should be used to aggregate loosely held ideas and general thoughts.
+                        - #FN [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts.
                     - I see block-level tags as being used best to summarize **atomic** and **focused** thoughts (of varying types and maturities). The information at the level of the block level tag should be digestible on its own, with context nested underneath. The context can be terse or flowing, rough or developed, but the priority for the highest block should be **concise** as hell.
                         - #FN [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge
                 - One of the [[implicit]] differences between these [two tag types](((loZtX8kki))) — [[block-level tags]] and [[section tags]] —  is their [[maturity]].

@@ -7,7 +7,7 @@
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         2. "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
-        3. "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+        3. "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
         4. **Brandon:** {{[embed](<embed.md>): ((oeQciItoi))}}
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
@@ -121,7 +121,8 @@
             - Rationale/Reason/Justification
             - Prediction
         - #[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
-            - #[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+            - #[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+                - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
                 - #[FN](<FN.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
                 - [Obs](<Obs.md>) "[statement chains](<statement chains.md>)" feels off, because lines of [logic](<logic.md>) involve more than [statements](<statements.md>). 
         - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
@@ -236,7 +237,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
-                - Re: "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+                - Re: "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
                     - If I were to rephrase this (using my css), it would look like...
                     - [Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy [therefore](<therefore.md>) css...
@@ -255,7 +256,7 @@
         - [ ] Update color scheme with better shades of blue and green
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline | 💻Waiting on a laptop}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Brandon on behalf of Peter. [cc:Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - Roam Graph for Tracking [Roam Games](<Roam Games.md>) by [Zsolt Viczián](<Zsolt Viczián.md>) [Videos](<Videos.md>) 
@@ -269,7 +270,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?"
-        - "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+        - "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [Mark Robertson](<Mark Robertson.md>) has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric" and on logic have stuff on that.

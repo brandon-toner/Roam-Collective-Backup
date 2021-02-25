@@ -1,6 +1,8 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+        1. Collection of [productivity definitions](((QOd5aDeNI)))
+        2. Discussions of [queries x performance](((eDu1gnWM0)))
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{Today + Obs:42SmartBlock:Today + Obs}}
@@ -19,13 +21,12 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
-        - [Mindsweep](<Mindsweep.md>)
-            - [ ] Review yesterday's discussions
-            - [Q](<Q.md>) How do we promote resurfacing/or presentation of key information without the use of queries?
-                - **What I like about queries:** they automate [compilation](<compilation.md>).
-                - **What I don't like about queries:** they seem [expensive on performance](((MWPM61ZXj))). [performance](<performance.md>)
-                    - I've tried to mitigate this effect through the use of [SmartBlock buttons](<SmartBlock buttons.md>)... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
-                    - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
+        - [ ] Review yesterday's discussions
+        - [Q](<Q.md>) How do we promote resurfacing/or presentation of key information without the use of queries?
+            - **What I like about queries:** they automate [compilation](<compilation.md>).
+            - **What I don't like about queries:** they seem [expensive on performance](((MWPM61ZXj))). [performance](<performance.md>)
+                - I've tried to mitigate this effect through the use of [SmartBlock buttons](<SmartBlock buttons.md>)... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
+                - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
         - [Q](<Q.md>) What block-level tag could be used to signify a summary? A synthesis of the conversation down to the tl;dr... the decision/action items/resolution...
             - Inspired by: "I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then..."
         - [FN](<FN.md>) the use of block-level tags forces the user to be more clear and precise in their speech/documentation.
@@ -62,6 +63,18 @@
                 - "You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity."
                     - Yup, I have a good relationship with Bardia -- I can reach out on this. 
                     - I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then...
+        2. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [goals](((lr_u_nfcz)))
+            - Yea, love that. Fits the intention I've personally set for using goals.
+            - Perfect recommendation, as I'm aiming to reconcile [GTD](<GTD.md>) horizons with [agile development](<agile development.md>) terminology.
+            - Current framing: [*]([Definitions](<Definitions.md>))
+                - [purpose](<purpose.md>) = the reason the organization exists. Tied to its [mission](<mission.md>).
+                - [values](<values.md>) & [principles](<principles.md>) = the set of subjective ideals that advise group decision making and align efforts. 
+                - [vision](<vision.md>) = description of a desired future state that inspires and advises the development of goals and epics. 
+                - [goals](<goals.md>) = aspirations, milestones, and objective (North Stars to aim towards) 
+                - [epics](<epics.md>) = broad-scope projects, comprised of sub-projects as more manageable working units. 
+                - [projects](<projects.md>) = collection of tasks, but smaller in cope than epics.
+                - [sprints](<sprints.md>) = short-term focus on a tangible project/set of tasks. A tool for alignment.
+                - [tasks](<tasks.md>) = the most granular unit of productivity. These should be discreet and actionable. 
     - [Bookmarks](<Bookmarks.md>)
         - On [queries](<queries.md>): "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -117,5 +130,40 @@
                 - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) **Next Actions:**
                     - I think with this information it may be best to do further evidence gathering before making any decisions. 
                     - You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity.
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) perhaps something to chew on [regarding defining what a goal is](((NTM1mESx9))), I just saw this.
+            - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🟢Online | 🚫 offline | 💻Waiting on a laptop}}"
+    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
+        - **[Using `Replies](<Using `Replies.md>):**` and `Next Actions::` as marker in conversations? so that conversations can be filtered? 
+            - `[On](<On.md>)` to filter topics?
+        - 
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+            - `[block-level](<block-level.md>) & [block-level tags](<block-level tags.md>)`
+                - [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [block-level](<block-level.md>) [block-level tags](<block-level tags.md>)} {not: {or: [query](<query.md>) }}  }}}
+            - `[discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>) [context](<context.md>)`
+                - [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>) [discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>)} {not: {or: [query](<query.md>) }}  }}}
+    - [Conversation](<Conversation.md>)
+        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [Roaman Agora](<Roaman Agora.md>), adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
+    - #[Change Log](<Change Log.md>)
+        - Added custom indexing code, inspired by [Maggie Delano](<Maggie Delano.md>)
+            - See: "Indexing code"
+            - Example: [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+                - Doesn't pull in all blocks of fleeting notes, but unclear why...
+                - [ ] Test queries & determine why function does not work as intended
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

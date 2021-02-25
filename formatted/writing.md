@@ -1,13 +1,18 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
-3. "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+3. "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
-- #[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+- #[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
-- Re: "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+- #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
-- "#[therefore](<therefore.md>) #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+- Re: "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+
+- "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>)  A shared [writing](<writing.md>)

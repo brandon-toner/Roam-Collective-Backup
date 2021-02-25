@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
 

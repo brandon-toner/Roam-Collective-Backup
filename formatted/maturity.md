@@ -67,6 +67,9 @@
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - "Still trying to wrap my head around the codifying [maturity](<maturity.md>)
 
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "[FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>))
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Most of my meanderings are non-mature thoughts. IMO, as long as ideas are traceable and in keeping with the important conventions, their degree of [certainty](<certainty.md>) or [maturity](<maturity.md>)
 

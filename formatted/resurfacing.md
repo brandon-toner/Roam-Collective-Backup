@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
 

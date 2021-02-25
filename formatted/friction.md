@@ -1,5 +1,10 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>)
+
+- "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Q](<Q.md>) What are potential sources of [friction](<friction.md>)
 

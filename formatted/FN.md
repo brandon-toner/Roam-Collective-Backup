@@ -11,6 +11,51 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [FN](<FN.md>)
 
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
+- "#[FN](<FN.md>)
+
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
 - "#[FN](<FN.md>)
 
@@ -104,23 +149,25 @@
 - "#[FN](<FN.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-3. "#[therefore](<therefore.md>) #[FN](<FN.md>)
+3. "#[therefore](<therefore.md>) "#[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 
-- #[therefore](<therefore.md>) #[FN](<FN.md>)
+- #[therefore](<therefore.md>) "#[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 
-- Re: "#[therefore](<therefore.md>) #[FN](<FN.md>)
+- #[FN](<FN.md>)
+
+- Re: "#[therefore](<therefore.md>) "#[FN](<FN.md>)
 
 - #[FN](<FN.md>)
 
-- "#[therefore](<therefore.md>) #[FN](<FN.md>)
+- "#[therefore](<therefore.md>) "#[FN](<FN.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - #[FN](<FN.md>)
@@ -260,6 +307,11 @@
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [FN](<FN.md>)
 
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 23rd, 2021](<February 23rd, 2021.md>) [FN](<FN.md>)}
+
+## [February 24th, 2021](<February 24th, 2021.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>)
+
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[FN](<FN.md>)

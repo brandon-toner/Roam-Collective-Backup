@@ -100,6 +100,9 @@
 
 - """#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>)
 
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what [fleeting notes](<fleeting notes.md>) are to [evergreen notes](<evergreen notes.md>).
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - In [these](((PmZ_NjkFA))) [fleeting notes](<fleeting notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>)
 

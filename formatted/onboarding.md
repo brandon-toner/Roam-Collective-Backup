@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
 
@@ -27,6 +30,9 @@
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>)
+
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Improved [onboarding](<onboarding.md>)

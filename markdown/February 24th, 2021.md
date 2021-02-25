@@ -1,6 +1,8 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] #not-populated
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+        1. Collection of [productivity definitions](((QOd5aDeNI)))
+        2. Discussions of [queries x performance](((eDu1gnWM0)))
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[The Zettelkasten]]
         - {{Today + Obs:42SmartBlock:Today + Obs}}
@@ -19,13 +21,12 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
-        - #Mindsweep
-            - {{[[TODO]]}} Review yesterday's discussions
-            - #Q How do we promote resurfacing/or presentation of key information without the use of queries?
-                - **What I like about queries:** they automate [[compilation]].
-                - **What I don't like about queries:** they seem [expensive on performance](((MWPM61ZXj))). #performance
-                    - I've tried to mitigate this effect through the use of [[SmartBlock buttons]]... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
-                    - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
+        - {{[[TODO]]}} Review yesterday's discussions
+        - #Q How do we promote resurfacing/or presentation of key information without the use of queries?
+            - **What I like about queries:** they automate [[compilation]].
+            - **What I don't like about queries:** they seem [expensive on performance](((MWPM61ZXj))). #performance
+                - I've tried to mitigate this effect through the use of [[SmartBlock buttons]]... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
+                - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
         - #Q What block-level tag could be used to signify a summary? A synthesis of the conversation down to the tl;dr... the decision/action items/resolution...
             - Inspired by: "I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then..."
         - #FN the use of block-level tags forces the user to be more clear and precise in their speech/documentation.
@@ -62,6 +63,18 @@
                 - "You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity."
                     - Yup, I have a good relationship with Bardia -- I can reach out on this. 
                     - I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then...
+        2. [@Mark]([[@[[Mark Robertson]]]]) on [goals](((lr_u_nfcz)))
+            - Yea, love that. Fits the intention I've personally set for using goals.
+            - Perfect recommendation, as I'm aiming to reconcile [[GTD]] horizons with [[agile development]] terminology.
+            - Current framing: [*]([[Definitions]])
+                - [[purpose]] = the reason the organization exists. Tied to its [[mission]].
+                - [[values]] & [[principles]] = the set of subjective ideals that advise group decision making and align efforts. 
+                - [[vision]] = description of a desired future state that inspires and advises the development of goals and epics. 
+                - [[goals]] = aspirations, milestones, and objective (North Stars to aim towards) 
+                - [[epics]] = broad-scope projects, comprised of sub-projects as more manageable working units. 
+                - [[projects]] = collection of tasks, but smaller in cope than epics.
+                - [[sprints]] = short-term focus on a tangible project/set of tasks. A tool for alignment.
+                - [[tasks]] = the most granular unit of productivity. These should be discreet and actionable. 
     - #Bookmarks
         - On [[queries]]: "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
     - #[[The Zettelkasten]]
@@ -117,5 +130,40 @@
                 - [@Brandon]([[@[[Brandon Toner]]]]) **Next Actions:**
                     - I think with this information it may be best to do further evidence gathering before making any decisions. 
                     - You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity.
+        - [@Brandon]([[@[[Brandon Toner]]]]) perhaps something to chew on [regarding defining what a goal is](((NTM1mESx9))), I just saw this.
+            - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline | 💻Waiting on a laptop}}"
+    - #Inbox #not-populated
+    - #[[Scratchpad]] 
+        - Using `Replies::` and `Next Actions::` as marker in conversations? so that conversations can be filtered? 
+            - `#On` to filter topics?
+        - 
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+    - 
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - [[Collection/Block-Level Tags]]
+            - `[[block-level]] & [[block-level tags]]`
+                - #min-all {{[[query]]: {and: {or: [[FN]] [[Fleeting Notes]]} {or: [[block-level]] [[block-level tags]]} {not: {or: [[query]] }}  }}}
+            - `[[discoverability]] [[search]] [[search costs]] [[fuzzy search]] [[context]]`
+                - #min-all {{[[query]]: {and: {or: [[FN]] [[Fleeting Notes]]} {or: [[context]] [[discoverability]] [[search]] [[search costs]] [[fuzzy search]]} {not: {or: [[query]] }}  }}}
+    - #Conversation
+        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
+    - #[[Change Log]]
+        - Added custom indexing code, inspired by [[Maggie Delano]]
+            - See: "Indexing code"
+            - Example: [[Index of Fleeting Notes]]
+                - Doesn't pull in all blocks of fleeting notes, but unclear why...
+                - {{[[TODO]]}} Test queries & determine why function does not work as intended
+    - #Bookmarks #not-populated
 - ---

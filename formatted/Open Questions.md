@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>)
 

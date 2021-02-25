@@ -7,7 +7,7 @@
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "SRS Call with [[Adam Krivka]] "
         2. "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
-        3. "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+        3. "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
         4. **Brandon:** {{[[embed]]: ((oeQciItoi))}}
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
@@ -121,7 +121,8 @@
             - Rationale/Reason/Justification
             - Prediction
         - #[[FN]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
-            - #[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+            - #[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+                - #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
                 - #[[FN]] the use [prepositional linkages]([[prepositional linkages]]) 
                 - #Obs "[[statement chains]]" feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
@@ -236,7 +237,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
-                - Re: "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+                - Re: "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
                     - If I were to rephrase this (using my css), it would look like...
                     - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy #therefore css...
@@ -255,7 +256,7 @@
         - {{[[TODO]]}} Update color scheme with better shades of blue and green
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟢Online | 💻Waiting on a laptop | 🟠Away}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🟢Online | 🚫 offline | 💻Waiting on a laptop}}"
     - #[[Scratchpad]] 
         - Brandon on behalf of Peter. [cc:Charles]([[~[[Charles Farr]]]])
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
@@ -269,7 +270,7 @@
     - #Bookmarks
         - "SRS Call with [[Adam Krivka]] "
         - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
-        - "#[[therefore]] #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+        - "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [[Mark Robertson]] has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.

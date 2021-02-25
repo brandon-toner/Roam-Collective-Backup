@@ -3,6 +3,11 @@
 ## [Announcements](<Announcements.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
+
+- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
+
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - > "I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>)
 
@@ -146,6 +151,9 @@
 - Document your ideas in [zettelkasten](<zettelkasten.md>)
 
 - Comment on some of the existing notes in the [zettelkasten](<zettelkasten.md>)
+
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))

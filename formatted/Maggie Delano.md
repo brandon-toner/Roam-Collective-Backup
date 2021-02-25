@@ -29,6 +29,9 @@
 
 - "[Maggie D]([Maggie Delano](<Maggie Delano.md>))
 
+## [February 24th, 2021](<February 24th, 2021.md>)
+- Added custom indexing code, inspired by [Maggie Delano](<Maggie Delano.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>)
 

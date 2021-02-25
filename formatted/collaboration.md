@@ -1,5 +1,12 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
+
+- "#[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+
+- "#[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
+
 ## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
 - Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>) amongst a community of people. Allowing them to effectively [collaborate]([collaboration](<collaboration.md>))
 
@@ -34,6 +41,9 @@
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""#[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))

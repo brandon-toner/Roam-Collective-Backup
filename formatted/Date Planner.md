@@ -38,6 +38,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Review how the [Date Planner](<Date Planner.md>)
 
+## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
+- "[FN](<FN.md>) The [Date Planner](<Date Planner.md>)
+
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [x] Add [Date Planner](<Date Planner.md>)
 
