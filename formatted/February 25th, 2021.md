@@ -18,24 +18,35 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟢Online | 🟠Away | 🚫 offline | 💻Waiting on a laptop}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
     - [Inbox](<Inbox.md>) 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability
             - What it's easier to stumble upon
             - What is cleaner?
             - What is more scalable
-    - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
-    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Alfred targeting the Inbox would be nice.
+            - If you chose different graphs it would be useful, but could be interesting.
+    - #[Scratchpad](<Scratchpad.md>) 
+        - `[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])` "How does the mechanism of block-level search impact the value of block-level tags?"
+            - Send him the notes you took on personal graph
+            - If you see this, sorry I am in the middle of a messy room fool of receipts and reorganising tasks for the next few months. Hopefully tomorrow I'll add something if you have't written it yet.
+        - "https://twitter.com/Conaw/status/1231331109775933440?s=20"
+        - **["Image](<"Image.md>):** I love this diagram of how overlapping areas translate to a tree..."
+            - "![Image](https://pbs.twimg.com/media/ERaRHhQVUAAmuiz?format=jpg&name=900x900)"
+                - LOL this looks so similar to the work I am doing on CAD
+                    - Connor might make it in my acknowledgments...
+    - #[GTD Zone](<GTD Zone.md>) 
+        - [February 26th, 2021](<February 26th, 2021.md>)
+            - [ ] Answer Charles
+                - "`[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])` "How does the mechanism of block-level search impact the value of block-level tags?""
+    - [Conversation](<Conversation.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-    - [Feedback](<Feedback.md>)
-        - 
+        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [@[[Brandon Toner](<@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
+            - Currently going though `[Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>)`
+    - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
@@ -45,7 +56,13 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [On GTD](((9IjO0uID4)))
+            - I'm got a bunch of half-baked ideas that I think could be refined through conversation. Would love to hammer it out sometime. 
+            - I can see a really neat blend of the [Date Planner](<Date Planner.md>), and a GTD Dashboard page of sorts. 
+                - With integration of the horizons of focus.
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIy_K29X4ZD.png?alt=media&token=48358f4f-e66b-45d7-9e37-51dca89b1658)
+            - **[Related](<Related.md>):** "Current framing: [*]([Definitions](<Definitions.md>))"
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
@@ -59,7 +76,17 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
-        - "[Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)"
+        - [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+            - Working on further refining "Outline of relevant FNs"
+            - A few questions as I think about the value of block-level tags...
+                - Is it worthwhile for us (the RC) to rationalize the various block-level tags we use?
+                - How does the mechanism of block-level search impact the value of block-level tags?
+                    - How does the mechanism of "Apply Children" impact the value of block-level tags?
+                - How do block-level tags impact the structure of the underlying graph?
+            - [Conor White-Sullivan](<Conor White-Sullivan.md>) had a great related tweet here today...
+                - https://twitter.com/Conaw/status/1231331109775933440?s=20
+                - **[Image](<Image.md>):** I love this diagram of how overlapping areas translate to a tree...
+                    - ![Image](https://pbs.twimg.com/media/ERaRHhQVUAAmuiz?format=jpg&name=900x900)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

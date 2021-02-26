@@ -1,5 +1,12 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- [x] "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
+
+- "#[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+
+- "#[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
+
 ## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
 - Shared [values](<values.md>) and [objectives](<objectives.md>) help to facilitate [alignment](<alignment.md>) amongst a community of people. Allowing them to effectively [collaborate]([collaboration](<collaboration.md>))
 
@@ -26,11 +33,11 @@
 - Some early thoughts I am in process of further refining under here: "#[FN](<FN.md>) Shared endeavors and [collaboration](<collaboration.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
+- "[x] "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
 
-- "#[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+- ""#[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
 
-- "#[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
+- ""#[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)

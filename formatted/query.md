@@ -249,13 +249,13 @@
 ## [February 24th, 2021](<February 24th, 2021.md>)
 - "{{[query](<query.md>):
 
-- [min-all](<min-all.md>) {{[query](<query.md>):
+- `[min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [block-level](<block-level.md>) [block-level tags](<block-level tags.md>)} {not: {or: [query](<query.md>)
+- `[min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [block-level](<block-level.md>) [block-level tags](<block-level tags.md>)} {not: {or: [query](<query.md>)
 
-- [min-all](<min-all.md>) {{[query](<query.md>):
+- `[min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>) [discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>)} {not: {or: [query](<query.md>)
+- `[min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>) [discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>)} {not: {or: [query](<query.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
 - "[page-focus](<page-focus.md>) {{[query](<query.md>):

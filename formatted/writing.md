@@ -1,5 +1,10 @@
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- [x] "#[FN](<FN.md>) It is easier to tolerate vague [writing](<writing.md>)
+
+- "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
 3. "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
@@ -12,9 +17,9 @@
 - "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "#[FN](<FN.md>) It is easier to tolerate vague [writing](<writing.md>)
+- "[x] "#[FN](<FN.md>) It is easier to tolerate vague [writing](<writing.md>)
 
-- "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+- ""#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>)  A shared [writing](<writing.md>)

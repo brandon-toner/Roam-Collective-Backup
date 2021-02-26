@@ -3,6 +3,11 @@
 - Process: 
 
 # Backlinks
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- "#[FN](<FN.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
+
+- "#[FN](<FN.md>) [Conversation]([conversation](<conversation.md>))
+
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - #[FN](<FN.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
 
@@ -21,9 +26,9 @@
 - #[FN](<FN.md>) [conversation](<conversation.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "#[FN](<FN.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
+- ""#[FN](<FN.md>) [ideas](<ideas.md>) and [action items](<action items.md>) arise naturally in [conversation](<conversation.md>).
 
-- "#[FN](<FN.md>) [Conversation]([conversation](<conversation.md>))
+- ""#[FN](<FN.md>) [Conversation]([conversation](<conversation.md>))
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "[Q](<Q.md>) How can a [conversation](<conversation.md>)

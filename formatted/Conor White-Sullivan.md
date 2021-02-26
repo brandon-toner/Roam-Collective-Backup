@@ -13,6 +13,9 @@
 
 - [Conor White-Sullivan](<Conor White-Sullivan.md>)
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- [Conor White-Sullivan](<Conor White-Sullivan.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor White-Sullivan](<Conor White-Sullivan.md>)
 

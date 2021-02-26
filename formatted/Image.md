@@ -66,6 +66,10 @@
 **UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
             - **[Image](<Image.md>):**
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- https://twitter.com/Conaw/status/1231331109775933440?s=20
+                - **[Image](<Image.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - This helps as a filter on pages as well. 
                             - **[Image](<Image.md>):**

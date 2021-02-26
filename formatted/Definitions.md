@@ -11,3 +11,6 @@
 ## [February 24th, 2021](<February 24th, 2021.md>)
 - Current framing: [*]([Definitions](<Definitions.md>))
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- **[Related](<Related.md>):** "Current framing: [*]([Definitions](<Definitions.md>))
+

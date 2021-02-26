@@ -10,6 +10,11 @@
 ## [Agreement Rating](<Agreement Rating.md>)
 - Idea: Ability to add a [slider](<slider.md>) to a note to rate the degree of agreement with the assertion. Great for [fleeting notes](<fleeting notes.md>)
 
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- [x] "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
+
+- "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
+
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>))
 
@@ -52,9 +57,9 @@
 2. [claims](<claims.md>) vs [fleeting notes](<fleeting notes.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
+- "[x] "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
 
-- "#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
+- ""#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>)

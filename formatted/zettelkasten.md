@@ -3,6 +3,13 @@
 ## [Announcements](<Announcements.md>)
 - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>))
 
+## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+- [x] "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
+
+- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
+
+- "#[FN](<FN.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
+
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - > "I think that synchronous and aligned activities in a multiplayer[zettelkasten](<zettelkasten.md>)
 
@@ -68,11 +75,11 @@
 - Clarification on the [key concepts](<key concepts.md>) of [zettelkasten](<zettelkasten.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
+- "[x] "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))
 
-- "#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
+- ""#[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>)
 
-- "#[FN](<FN.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
+- ""#[FN](<FN.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
