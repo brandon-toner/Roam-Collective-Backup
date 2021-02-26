@@ -21,7 +21,7 @@
         - **[Interests](<Interests.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)
-- [Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
+[Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
         - **[Interests](<Interests.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)

@@ -15,12 +15,12 @@
             - Country living (mini-ranch owner)
         - I started using [[Roam]] in [[November 2019]]
         - Some of my [[Roam]] related work:
-            - [Mark Robertson: History, Socratic Dialogue, Live-Roaming](https://www.buzzsprout.com/1194506/4875515)
-            - [Roaming in the Past: Thinking, Siri Shortcuts and Workflows](https://www.roambrain.com/roaming-in-the-past/)
-            - [Roam Tour with Historian Mark Robertson Pt. 1: Daily Notes, Structured Roam, Course Organization](https://youtu.be/O3Chd8ECy2A)
-            - [Roam Tour with Historian Mark Robertson Pt. 2: Live Impromptu Speaking with PKM Support](https://youtu.be/cO_z04mfG90)
-            - [Roam Research in Education with Mark Robertson](https://youtu.be/bSbuOPgHL3E)
-            - [Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
+            [Mark Robertson: History, Socratic Dialogue, Live-Roaming](https://www.buzzsprout.com/1194506/4875515)
+            [Roaming in the Past: Thinking, Siri Shortcuts and Workflows](https://www.roambrain.com/roaming-in-the-past/)
+            [Roam Tour with Historian Mark Robertson Pt. 1: Daily Notes, Structured Roam, Course Organization](https://youtu.be/O3Chd8ECy2A)
+            [Roam Tour with Historian Mark Robertson Pt. 2: Live Impromptu Speaking with PKM Support](https://youtu.be/cO_z04mfG90)
+            [Roam Research in Education with Mark Robertson](https://youtu.be/bSbuOPgHL3E)
+            [Mark Robertson - Part 2 - Roam Set-Up for College History Instruction](https://youtu.be/_QJ6Nt2r_xg)
         - Interests::
             - Everything. Seriously. It is hard for me to point to something that I am not intent on learning more about. 
         - Queries::
@@ -32,7 +32,7 @@
                     - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
                     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
                 - ---
-- {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
+- {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
 - **Query**
     - {{[[query]]: {and: [[@[[Mark Robertson]]]] {not: [[query]]}}}}
     - {{[[query]]: {and: [[cc:[[Mark Robertson]]]] {not: [[query]]}}}}
