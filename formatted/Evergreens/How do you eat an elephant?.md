@@ -1,4 +1,4 @@
-- **[Tags](<../Tags.md>):** [Evergreens](<../Evergreens.md>) [Proverbs](<../Proverbs.md>)
+- **[Tags](<../Tags.md>):** [Evergreens](<../Evergreens.md>) [Maxims](<../Maxims.md>)
     - **[Date Created](<../Date Created.md>):** [February 12th, 2021](<../February 12th, 2021.md>) 
     - **[Last Updated](<../Last Updated.md>):** [February 12th, 2021](<../February 12th, 2021.md>)
     - **[Created by](<../Created by.md>):** [Brandon Toner](<../Brandon Toner.md>)

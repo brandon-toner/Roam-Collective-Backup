@@ -14,3 +14,6 @@
 ## [February 25th, 2021](<February 25th, 2021.md>)
 - **[Related](<Related.md>):** "Current framing: [*]([Definitions](<Definitions.md>))
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [reasons](<reasons.md>) are statements of support for claims, making those claims something more than mere [assertions](<assertions.md>). [*]([Definitions](<Definitions.md>))
+

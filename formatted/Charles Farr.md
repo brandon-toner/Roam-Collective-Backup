@@ -10,7 +10,7 @@
 - # Personal Artifacts
     - SmartBlocks
         - [42SmartBlock](<42SmartBlock.md>) CFarr — DNP
-            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
                 - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                 - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
                 - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -267,6 +267,9 @@ window.updateIndexPage = updateIndexPage;
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 26th, 2021](<February 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

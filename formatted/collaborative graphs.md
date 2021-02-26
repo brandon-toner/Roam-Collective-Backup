@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[FN](<FN.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+- "#[FN](<FN.md>) [block references](<block references.md>) are a way to [crowdsource]([crowdsourcing](<crowdsourcing.md>)) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
 - "#[FN](<FN.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
@@ -19,7 +19,7 @@
 - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- ""#[FN](<FN.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+- ""#[FN](<FN.md>) [block references](<block references.md>) are a way to [crowdsource]([crowdsourcing](<crowdsourcing.md>)) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
 - ""#[FN](<FN.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
@@ -55,7 +55,7 @@
 - "#[FN](<FN.md>) A [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[FN](<FN.md>) [block references](<block references.md>) are a way to [crowd-source](<crowd-source.md>) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
+- #[FN](<FN.md>) [block references](<block references.md>) are a way to [crowdsource]([crowdsourcing](<crowdsourcing.md>)) contributions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 
 - #[FN](<FN.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))
 

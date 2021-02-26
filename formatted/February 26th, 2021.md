@@ -1,6 +1,126 @@
-- With integration of the horizons of focus. {{[∆](<∆.md>):1+2}}
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[GTD Zone](<GTD Zone.md>) 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - **Active Sprint(s):**
+            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[Change Log](<Change Log.md>)
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) 
+        - [Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
+            - [Q](<Q.md>) What is the role of [prompts](<prompts.md>) in knowledge base accumulation?
+            - #[FN](<FN.md>) When 2 or more people desire the same thing, there is an opportunity for [collaboration](<collaboration.md>) and resource-sharing.
+                - ["many hands make light work"](<"many hands make light work".md>)
+            - [Q](<Q.md>) How might you [crowdsource]([crowdsourcing](<crowdsourcing.md>)) [synthesis](<synthesis.md>)?
+                - [Obs](<Obs.md>) Multiple conclusions may be drawn from the same set of data.
+                    - [therefore](<therefore.md>) "#[FN](<FN.md>) Divergence can and should occur in the crowdsourcing of synthesis."
+                        - #[FN](<FN.md>) Divergence can and should occur in the crowdsourcing of synthesis.
+                        - [Q](<Q.md>) How might alternate versions of [synthesis](<synthesis.md>) be managed in a collaborative knowledge base?
+            - [Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?
+                - Argument: Claims, Reasons, Evidence | Department of Communication | University of Pittsburgh
+                    - **[URL](<URL.md>):** https://www.comm.pitt.edu/argument-claims-reasons-evidence
+                    - **[Highlights](<Highlights.md>):**
+                        - Critical thinking means being able to make good arguments. 
+                        - Arguments are claims backed by reasons that are supported by evidence. 
+                        - Argumentation is a social process of two or more people making arguments, responding to one another--not simply restating the same claims and reasons--and modifying or defending their positions accordingly. 
+                            - #[LN](<LN.md>) [argumentation](<argumentation.md>) has a negative social connotation, while the term simply describes the process of exchanging, challenging and modifying [claims](<claims.md>) or [assertions](<assertions.md>).
+                        - Claims are statements about what is true or good or about what should be done or believed. 
+                        - Claims are potentially arguable. 
+                        - [reasons](<reasons.md>) are statements of support for claims, making those claims something more than mere [assertions](<assertions.md>). [*]([Definitions](<Definitions.md>))
+                        - Reasons are statements in an argument that pass two tests: 
+                        - Reasons are answers to the hypothetical challenge to your claim:
+                        - “Why do you say that?”
+                        - “What reason can you give me to believe that?” 
+                        - Reasons can be linked to claims with the word because:
+                        - Liberal arts is best [claim] because it teaches students independent thinking [reason];
+                        - That was Newman's best [claim] because it presented the most difficult role [reason];
+                        - Global warming is real [claim] because the most reputable science points in that direction [reason].
+                        - Everyone should stop wearing seat belts [claim] because it would save lives [reason]. 
+                        - If reasons do not make sense in the hypothetical challenge or the 'because' tests, there is probably something wrong with the logic of the argument. 
+                        - Evidence serves as support for the reasons offered and helps compel audiences to accept claims. 
+                        - Evidence comes in different sorts, and it tends to vary from one academic field or subject of argument to another. 
+                        - Evidence answers challenges to the reasons given, and it comes in four main types: 
+                        - Specific instances include examples, case studies, and narratives. 
+                        - Statistics include raw numbers (117 million visitors to the Rock and Roll Hall of Fame,), averages ('women's bowling teams drink on average two pitchers less then men's'), statistical probabilities ('crossing North Main during rush hour increases your chances of death 20%'), and statistical trends ('applications have risen 40% over the past three years'). 
+                        - Testimony, or appeals to authority, come in two main types, eyewitness and expert. 
+                        - Eyewitness or first-hand testimonies are reports from people who directly experience some phenomenon. 
+                        - Experts may also rely on direct experience, but their testimony is also backed by more formal knowledge, methods, and training. 
+                        - When using testimony in arguments, you should always make sure the authority you are appealing to is in fact qualified to speak on the topic being discussed. 
+                        - In public speeches, statistics have the advantage of seeming objective, authoritative, and factual, but critical audiences will want to know about the sources and methods for determining your statistical evidence. 
+            - [Q](<Q.md>) How should [highlights](<highlights.md>) and [literature notes](<literature notes.md>) be differentiated?
+        - [David Vargas](<David Vargas.md>) on [backlogs](<backlogs.md>)
+            - **[Tweets](<Tweets.md>):**
+                - I'm becoming skeptical of backlogs ([View Highlight](https://twitter.com/dvargas92495/status/1365165424317521920))
+                    - **Note**: [backlogs](<backlogs.md>)
+                - The value proposition appears obvious. We can't do everything right now, so we write a task down to ensure we do it later.
+
+But somehow, writing it down invokes a similar endorphin kick as actually doing the task, making it more likely to sit in the bottom of our backlog forever ([View Highlight](https://twitter.com/dvargas92495/status/1365165426624368640))
+                - It's not just "work" tasks. I feel like a similar thing happens with reading lists, movie lists, etc ([View Highlight](https://twitter.com/dvargas92495/status/1365165427651993600))
+            - **My thoughts:**
+                - It depends on the intention:
+                    - "Things we WILL do" vs "Options for the future"
+                    - The *attachment* to the backlog is a choice.
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[GTD Zone](<GTD Zone.md>)
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>)
+        - ""Outline of relevant FNs""
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
+            - Memorialize
+        - [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+            - Tasks
+                - Scoping
+                    - [ ] Identify topic
+                    - [ ] Identify research questions to guide structure
+                - Syllabus Planning
+                    - [ ] Research appropriate source material
+                    - [ ] Recruit subject matter experts / guest speakers
+                - Administrivia
+                    - [ ] Set up overview page on public graph to market group
+                    - [ ] Set up application portal
+                        - [ ] Determine application criteria
+                    - [ ] Outline conventions for reading group
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+- ---
 
 # Backlinks
+## ["many hands make light work"](<"many hands make light work".md>)
+- **[Date Created](<Date Created.md>):** [February 26th, 2021](<February 26th, 2021.md>)
+
+- **[Last Updated](<Last Updated.md>):** [February 26th, 2021](<February 26th, 2021.md>)
+
 ## [February 25th, 2021](<February 25th, 2021.md>)
 - [February 26th, 2021](<February 26th, 2021.md>)
 

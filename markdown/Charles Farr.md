@@ -10,7 +10,7 @@
 - # Personal Artifacts
     - SmartBlocks
         - #42SmartBlock CFarr — DNP
-            - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+            - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
                 - #Scratchpad #not-populated
                 - #Conversation #not-populated
                 - #Bookmarks #not-populated

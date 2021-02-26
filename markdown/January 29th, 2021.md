@@ -87,7 +87,7 @@ Thoughts? - [[Brandon Toner]]
                         - My justification is that Andy's notes are [[atomic]]. If they were complex notes, containing multiple ideas, I would consider them articles, and use the reference notes template to interact with their contents.
                 - #[[FN]] many interpretations of [[zettelkasten]] are too strict and rigid. 
                     - [[Andy's Notes]] serve as a great example of a system that has clear standards and conventions, but will consciously [colour outside the lines]([[It is ok to colour outside of the lines.]]) when it [makes sense](((HuYfatW7v))).
-                - #[[FN]] [[block references]] are a way to [[crowd-source]] contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings
+                - #[[FN]] [[block references]] are a way to [crowdsource]([[crowdsourcing]]) contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings
                     - This allows groups of people to organize and work together to collectively create a unified product. 
                     - #[[FN]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten
                         - This allows an [[editor]] to [[Evergreens/Start from abundance]]. 

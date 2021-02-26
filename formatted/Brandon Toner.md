@@ -96,6 +96,9 @@
         - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
 
 # Backlinks
+## ["many hands make light work"](<"many hands make light work".md>)
+- **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -314,6 +317,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [February 26th, 2021](<February 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

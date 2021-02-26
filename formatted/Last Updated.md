@@ -1,5 +1,9 @@
 
 # Backlinks
+## ["many hands make light work"](<"many hands make light work".md>)
+- **[Date Created](<Date Created.md>):** [February 26th, 2021](<February 26th, 2021.md>)
+    - **[Last Updated](<Last Updated.md>):**
+
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
 - **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
     - **[Last Updated](<Last Updated.md>):**

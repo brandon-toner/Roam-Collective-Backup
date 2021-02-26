@@ -1,1 +1,116 @@
-- With integration of the horizons of focus. {{[[∆]]:1+2}}
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[The Zettelkasten]]
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[[GTD Zone]] 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - **Active Sprint(s):**
+            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
+            - #Q What is the role of [[prompts]] in knowledge base accumulation?
+            - #[[FN]] When 2 or more people desire the same thing, there is an opportunity for [[collaboration]] and resource-sharing.
+                - [["many hands make light work"]]
+            - #Q How might you [crowdsource]([[crowdsourcing]]) [[synthesis]]?
+                - #Obs Multiple conclusions may be drawn from the same set of data.
+                    - #therefore "#[[FN]] Divergence can and should occur in the crowdsourcing of synthesis."
+                        - #[[FN]] Divergence can and should occur in the crowdsourcing of synthesis.
+                        - #Q How might alternate versions of [[synthesis]] be managed in a collaborative knowledge base?
+            - #Q How should discourse around [[claims]] and [[assertions]] be conducted?
+                - Argument: Claims, Reasons, Evidence | Department of Communication | University of Pittsburgh
+                    - URL:: https://www.comm.pitt.edu/argument-claims-reasons-evidence
+                    - Highlights::
+                        - Critical thinking means being able to make good arguments. 
+                        - Arguments are claims backed by reasons that are supported by evidence. 
+                        - Argumentation is a social process of two or more people making arguments, responding to one another--not simply restating the same claims and reasons--and modifying or defending their positions accordingly. 
+                            - #[[LN]] [[argumentation]] has a negative social connotation, while the term simply describes the process of exchanging, challenging and modifying [[claims]] or [[assertions]].
+                        - Claims are statements about what is true or good or about what should be done or believed. 
+                        - Claims are potentially arguable. 
+                        - [[reasons]] are statements of support for claims, making those claims something more than mere [[assertions]]. [*]([[Definitions]])
+                        - Reasons are statements in an argument that pass two tests: 
+                        - Reasons are answers to the hypothetical challenge to your claim:
+                        - “Why do you say that?”
+                        - “What reason can you give me to believe that?” 
+                        - Reasons can be linked to claims with the word because:
+                        - Liberal arts is best [claim] because it teaches students independent thinking [reason];
+                        - That was Newman's best [claim] because it presented the most difficult role [reason];
+                        - Global warming is real [claim] because the most reputable science points in that direction [reason].
+                        - Everyone should stop wearing seat belts [claim] because it would save lives [reason]. 
+                        - If reasons do not make sense in the hypothetical challenge or the 'because' tests, there is probably something wrong with the logic of the argument. 
+                        - Evidence serves as support for the reasons offered and helps compel audiences to accept claims. 
+                        - Evidence comes in different sorts, and it tends to vary from one academic field or subject of argument to another. 
+                        - Evidence answers challenges to the reasons given, and it comes in four main types: 
+                        - Specific instances include examples, case studies, and narratives. 
+                        - Statistics include raw numbers (117 million visitors to the Rock and Roll Hall of Fame,), averages ('women's bowling teams drink on average two pitchers less then men's'), statistical probabilities ('crossing North Main during rush hour increases your chances of death 20%'), and statistical trends ('applications have risen 40% over the past three years'). 
+                        - Testimony, or appeals to authority, come in two main types, eyewitness and expert. 
+                        - Eyewitness or first-hand testimonies are reports from people who directly experience some phenomenon. 
+                        - Experts may also rely on direct experience, but their testimony is also backed by more formal knowledge, methods, and training. 
+                        - When using testimony in arguments, you should always make sure the authority you are appealing to is in fact qualified to speak on the topic being discussed. 
+                        - In public speeches, statistics have the advantage of seeming objective, authoritative, and factual, but critical audiences will want to know about the sources and methods for determining your statistical evidence. 
+            - #Q How should [[highlights]] and [[literature notes]] be differentiated?
+        - [[David Vargas]] on [[backlogs]]
+            - Tweets::
+                - I'm becoming skeptical of backlogs ([View Highlight](https://twitter.com/dvargas92495/status/1365165424317521920))
+                    - **Note**: #backlogs
+                - The value proposition appears obvious. We can't do everything right now, so we write a task down to ensure we do it later.
+
+But somehow, writing it down invokes a similar endorphin kick as actually doing the task, making it more likely to sit in the bottom of our backlog forever ([View Highlight](https://twitter.com/dvargas92495/status/1365165426624368640))
+                - It's not just "work" tasks. I feel like a similar thing happens with reading lists, movie lists, etc ([View Highlight](https://twitter.com/dvargas92495/status/1365165427651993600))
+            - **My thoughts:**
+                - It depends on the intention:
+                    - "Things we WILL do" vs "Options for the future"
+                    - The *attachment* to the backlog is a choice.
+    - #Conversation #not-populated
+    - #[[The Zettelkasten]]
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[[GTD Zone]]
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[[Change Log]] #not-populated
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Bookmarks
+        - ""Outline of relevant FNs""
+    - #Conversation #not-populated
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - [[Collection/Block-Level Tags]]
+            - Memorialize
+        - [[Projects/Outline structure for Roam Collective Reading Group (RBC4)]]
+            - Tasks
+                - Scoping
+                    - {{[[TODO]]}} Identify topic
+                    - {{[[TODO]]}} Identify research questions to guide structure
+                - Syllabus Planning
+                    - {{[[TODO]]}} Research appropriate source material
+                    - {{[[TODO]]}} Recruit subject matter experts / guest speakers
+                - Administrivia
+                    - {{[[TODO]]}} Set up overview page on public graph to market group
+                    - {{[[TODO]]}} Set up application portal
+                        - {{[[TODO]]}} Determine application criteria
+                    - {{[[TODO]]}} Outline conventions for reading group
+    - #Conversation #not-populated
+    - #Bookmarks #not-populated
+- ---

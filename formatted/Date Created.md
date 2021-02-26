@@ -1,5 +1,9 @@
 
 # Backlinks
+## ["many hands make light work"](<"many hands make light work".md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>) [crowdsourcing](<crowdsourcing.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
@@ -81,7 +85,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
-- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Proverbs](<Proverbs.md>)
+- **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Maxims](<Maxims.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
@@ -168,7 +172,7 @@
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
                 - **[Date Created](<Date Created.md>):**
 
-- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
                 - **[Date Created](<Date Created.md>):**
 
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
@@ -190,7 +194,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
-- **[Tags](<Tags.md>):** [Proverbs](<Proverbs.md>) [Metaphors](<Metaphors.md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>) [Metaphors](<Metaphors.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)

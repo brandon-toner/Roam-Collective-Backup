@@ -39,6 +39,9 @@
 
 - ""#[FN](<FN.md>) More [alignment](<alignment.md>) in [conventions](<conventions.md>) = more [collaborative]([collaboration](<collaboration.md>))
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- #[FN](<FN.md>) When 2 or more people desire the same thing, there is an opportunity for [collaboration](<collaboration.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>)
 

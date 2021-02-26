@@ -13,6 +13,13 @@
 
 - #[FN](<FN.md>) "All [claims](<claims.md>) are [evergreen notes](<evergreen notes.md>), but not all evergreen notes are claims" [I](<I.md>) [*]([assertions](<assertions.md>))
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>)
+
+- #[LN](<LN.md>) [argumentation](<argumentation.md>) has a negative social connotation, while the term simply describes the process of exchanging, challenging and modifying [claims](<claims.md>) or [assertions](<assertions.md>).
+
+- [reasons](<reasons.md>) are statements of support for claims, making those claims something more than mere [assertions](<assertions.md>).
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).
 

@@ -254,7 +254,7 @@
                 - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcPVB — Proverb Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
-            - **[Tags](<../Tags.md>):** [Proverbs](<../Proverbs.md>)
+            - **[Tags](<../Tags.md>):** [Maxims](<../Maxims.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)

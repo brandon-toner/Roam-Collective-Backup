@@ -1,4 +1,4 @@
-- Tags:: #Proverbs #Metaphors
+- Tags:: #Maxims #Metaphors
     - Date Created:: [[February 13th, 2021]]
     - Last Updated:: [[February 13th, 2021]]
     - Created by:: [[Brandon Toner]]

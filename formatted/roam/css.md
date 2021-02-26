@@ -2229,10 +2229,10 @@ span.rm-page-ref[data-tag="Members"] {
 span.rm-page-ref[data-tag="Members"]:before {
     content: '🔑'
 }```
-                - [Proverbs](<../Proverbs.md>)
+                - [Maxims](<../Maxims.md>)
                     - ```css
-span.rm-page-ref[data-tag="Proverbs"] {
-    background: [9E9E9E](<../9E9E9E.md>);
+span.rm-page-ref[data-tag="Maxims"] {
+    background: [607D8B](<../607D8B.md>);
     color: [fff](<../fff.md>);
     padding: 2px 5px 2px 5px;
     font-size: 13px;
@@ -2242,7 +2242,7 @@ span.rm-page-ref[data-tag="Proverbs"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Proverbs"]:before {
+span.rm-page-ref[data-tag="Maxims"]:before {
     content: '💫'
 }```
                 - #[Tips & Tricks](<../Tips & Tricks.md>)

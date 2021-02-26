@@ -158,7 +158,7 @@
             - Query: `[[discoverability]] [[search]] [[search costs]] [[fuzzy search]] [[context]]`
                 - `#min-all {{[[query]]: {and: {or: [[FN]] [[Fleeting Notes]]} {or: [[context]] [[discoverability]] [[search]] [[search costs]] [[fuzzy search]]} {not: {or: [[query]] }}  }}}`
             - "Outline of relevant FNs"
-                - "Search & Parsing Costs | Signal Vs. Noise"
+                - "Search & Parsing Costs | Signal Vs. NoiseD"
                     - "{{[[DONE]]}} "#[[FN]] Find order through collective chaos. ""
                     - "{{[[DONE]]}} "#FN The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought""
                     - "{{[[DONE]]}} "#[[FN]] [[block-level tags]] are a great indicator of [[signal]] within a [[collaborative graph]].""
@@ -185,7 +185,7 @@
                     - ""#[[FN]] [[memory]] is very [[context]]-dependant.""
                         - "Block-level tags allow you to resurface a thought within it's original context"
                     - ""#[[FN]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].""
-                    - ""#[[FN]] [[block references]] are a way to [[crowd-source]] contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings""
+                    - ""#[[FN]] [[block references]] are a way to [crowdsource]([[crowdsourcing]]) contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings""
                     - ""#[[FN]] [[speculative outlines]] create the [[scaffolding]] for future development.  ""
                 - "Conventions"
                     - ""#[[FN]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. ""

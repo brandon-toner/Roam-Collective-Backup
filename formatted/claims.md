@@ -26,3 +26,8 @@
 
 2. [claims](<claims.md>)
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [Q](<Q.md>) How should discourse around [claims](<claims.md>)
+
+- #[LN](<LN.md>) [argumentation](<argumentation.md>) has a negative social connotation, while the term simply describes the process of exchanging, challenging and modifying [claims](<claims.md>)
+

@@ -254,7 +254,7 @@
                 - Next Steps:: #not-populated ((Plans for future elaboration or development))
                 - Contents:: #not-populated
         - .rcPVB — Proverb Template #42SmartBlock #roam/templates
-            - Tags:: #Proverbs
+            - Tags:: #Maxims
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Created by:: #not-populated

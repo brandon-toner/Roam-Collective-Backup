@@ -1,0 +1,7 @@
+- Tags:: #Maxims #crowdsourcing
+    - Date Created:: [[February 26th, 2021]]
+    - Last Updated:: [[February 26th, 2021]]
+    - Created by:: [[Brandon Toner]]
+    - Origin:: #not-populated
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Contents:: #not-populated

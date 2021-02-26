@@ -68,6 +68,10 @@
 3. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) I think of this clip from [Fight Club](<Fight Club.md>) every time we discuss colours.
             - **[URL](<URL.md>):**
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- Argument: Claims, Reasons, Evidence | Department of Communication | University of Pittsburgh
+                    - **[URL](<URL.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - A great display of [constraints](<constraints.md>) in actions to create a focused experience. Beautiful. [focus](<focus.md>)
                 - **[URL](<URL.md>):**

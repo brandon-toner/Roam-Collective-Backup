@@ -1,7 +1,7 @@
 - **[Type](<../Type.md>):** #[Collections](<../Collections.md>)
     - ---
     - ### Outline of relevant FNs
-        - Search & Parsing Costs | Signal Vs. Noise
+        - Search & Parsing Costs | Signal Vs. NoiseD
             - Block level tags reduce the search costs within a knowledge graph
                 - [x] "[FN](<../FN.md>) The added context provided by [block-level tags](<../block-level tags.md>) decreases the [search costs](<../search costs.md>) and the amount of energy required to understand others' stream of conscious thought"
                 - [x] "#[FN](<../FN.md>) [block-level tags](<../block-level tags.md>) are a great indicator of [signal](<../signal.md>) within a [collaborative graph](<../collaborative graph.md>)."
@@ -38,7 +38,7 @@
             - "#[FN](<../FN.md>) [memory](<../memory.md>) is very [context](<../context.md>)-dependant."
                 - Block-level tags allow you to resurface a thought within it's original context
             - "#[FN](<../FN.md>) When ideas are documented in [zettelkasten](<../zettelkasten.md>) [conventions](<../conventions.md>), they persist through time. This improves [resurfacing](<../resurfacing.md>)."
-            - "#[FN](<../FN.md>) [block references](<../block references.md>) are a way to [crowd-source](<../crowd-source.md>) contributions within a [collaborative graph]([collaborative graphs](<../collaborative graphs.md>)). [zettelkasten](<../zettelkasten.md>) [Bookmarks](<../Bookmarks.md>) [Seedlings](<../Seedlings.md>)"
+            - "#[FN](<../FN.md>) [block references](<../block references.md>) are a way to [crowdsource]([crowdsourcing](<../crowdsourcing.md>)) contributions within a [collaborative graph]([collaborative graphs](<../collaborative graphs.md>)). [zettelkasten](<../zettelkasten.md>) [Bookmarks](<../Bookmarks.md>) [Seedlings](<../Seedlings.md>)"
             - "#[FN](<../FN.md>) [speculative outlines](<../speculative outlines.md>) create the [scaffolding](<../scaffolding.md>) for future development.  "
         - Conventions
             - "#[FN](<../FN.md>) the [components](<../components.md>) and [structure](<../structure.md>) of a [zettelkasten](<../zettelkasten.md>) should be optimized for a group's objectives and requirements. There is flexibility in its implementation. "
@@ -64,5 +64,8 @@
 - [Collection/Block-Level Tags](<../Collection/Block-Level Tags.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
+- [Collection/Block-Level Tags](<../Collection/Block-Level Tags.md>)
+
+## [February 26th, 2021](<February 26th, 2021.md>)
 - [Collection/Block-Level Tags](<../Collection/Block-Level Tags.md>)
 
