@@ -1,1 +1,39 @@
-- 
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[The Zettelkasten]]
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[[GTD Zone]] 
+        - **Active Epic(s):**
+            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+        - **Active Sprint(s):**
+            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
+    - #Inbox #not-populated
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        - [@Brandon]([[@[[Brandon Toner]]]]) on GTD: ...
+            - At the moment I am using the structure below. If action items need to be deferred there is a parent block above the TODO (but children to `Action Items`) which has either the decided date or `[[Status/Someday|Maybe]]`
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fk3J4rq3NG0.png?alt=media&token=11b73370-cf99-4702-a413-985f2f760aa3)
+                -  As I was doing the purge I changed background of done items, Items with dates and items with Defer tag so I could cycle through the week quickly and decide what I needed to do.
+                    - Said that I need to finish the Agile Product Development product
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+    - 
+- ---

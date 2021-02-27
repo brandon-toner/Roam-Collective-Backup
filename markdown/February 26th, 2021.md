@@ -93,6 +93,14 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - It depends on the intention:
                     - "Things we WILL do" vs "Options for the future"
                     - The *attachment* to the backlog is a choice.
+        - #I I'd love the be able to run a smartblock to return "one of Sam's ideas":
+            - Search components:
+                - Block containing `#I`
+                - Nested within his DNP section.
+            - This highlights the need for two different query functions:
+                - Search for components WITHIN the block.
+                - Search for components in the indentation chain.
+                - & combinations of AND/OR/NOT between them.
     - #Conversation 
         1. [@Mark]([[@[[Mark Robertson]]]]) on [conversational conventions](((FG2UXveKl)))
             - This happens naturally, doesn't it?
@@ -157,7 +165,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 

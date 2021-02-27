@@ -93,6 +93,14 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - It depends on the intention:
                     - "Things we WILL do" vs "Options for the future"
                     - The *attachment* to the backlog is a choice.
+        - [I](<I.md>) I'd love the be able to run a smartblock to return "one of Sam's ideas":
+            - Search components:
+                - Block containing `[I](<I.md>)`
+                - Nested within his DNP section.
+            - This highlights the need for two different query functions:
+                - Search for components WITHIN the block.
+                - Search for components in the indentation chain.
+                - & combinations of AND/OR/NOT between them.
     - [Conversation](<Conversation.md>) 
         1. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [conversational conventions](((FG2UXveKl)))
             - This happens naturally, doesn't it?
@@ -157,7 +165,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 

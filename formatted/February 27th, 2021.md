@@ -1,1 +1,39 @@
-- 
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[GTD Zone](<GTD Zone.md>) 
+        - **Active Epic(s):**
+            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+        - **Active Sprint(s):**
+            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[Change Log](<Change Log.md>)
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
+    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) on GTD: ...
+            - At the moment I am using the structure below. If action items need to be deferred there is a parent block above the TODO (but children to `Action Items`) which has either the decided date or `[Status/Someday|Maybe](<Status/Someday|Maybe.md>)`
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fk3J4rq3NG0.png?alt=media&token=11b73370-cf99-4702-a413-985f2f760aa3)
+                -  As I was doing the purge I changed background of done items, Items with dates and items with Defer tag so I could cycle through the week quickly and decide what I needed to do.
+                    - Said that I need to finish the Agile Product Development product
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---
