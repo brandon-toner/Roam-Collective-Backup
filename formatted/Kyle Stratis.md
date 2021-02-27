@@ -19,6 +19,11 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - Seems like https://roamlab.org/ from [Kyle Stratis](<Kyle Stratis.md>)
 
+## [February 27th, 2021](<February 27th, 2021.md>)
+- With [Jason Griffing](<Jason Griffing.md>), [Joel Chan](<Joel Chan.md>), [Robert Haisfield](<Robert Haisfield.md>), & [Kyle Stratis](<Kyle Stratis.md>)
+
+- [Kyle Stratis](<Kyle Stratis.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - [Kyle Stratis](<Kyle Stratis.md>)
 

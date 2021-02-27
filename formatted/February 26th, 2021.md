@@ -162,6 +162,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                     - Writing
                     - Working In Public
                     - Open Source
+                    - Creativity
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

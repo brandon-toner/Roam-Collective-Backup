@@ -9,3 +9,6 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Attributes could be improved for [querying](<querying.md>)
 
+## [February 27th, 2021](<February 27th, 2021.md>)
+- [Queries]([querying](<querying.md>))
+

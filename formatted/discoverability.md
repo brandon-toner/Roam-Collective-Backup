@@ -18,6 +18,9 @@
 
 - ""[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>)
 
+## [February 27th, 2021](<February 27th, 2021.md>)
+- [Discoverability]([discoverability](<discoverability.md>))
+
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>)
 

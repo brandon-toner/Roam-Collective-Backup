@@ -20,9 +20,14 @@
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
-    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+    - [Inbox](<Inbox.md>)
+        - "Indexing code"
+        - Other automated search for gtd
+        - Ask Charles why he finds block queries more powerful than page queries.
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>)
+        - [March 15th, 2021](<March 15th, 2021.md>)
+            - [ ] Assign date to inbox stuff or move to scratchpad
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
@@ -36,4 +41,34 @@
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>)
+        - [Roam Summit](<Roam Summit.md>) Session 1
+            - With [Jason Griffing](<Jason Griffing.md>), [Joel Chan](<Joel Chan.md>), [Robert Haisfield](<Robert Haisfield.md>), & [Kyle Stratis](<Kyle Stratis.md>)
+            - [Discoverability]([discoverability](<discoverability.md>))
+                - [Joel Chan](<Joel Chan.md>)
+                    - How do you navigate at a company? You go to the person that knows everyone. Analogy to an [index](<index.md>).
+                    - Important to understand the [entry points](<entry points.md>) & [hubs](<hubs.md>)
+                - [Jason Griffing](<Jason Griffing.md>)
+                    - A lot of us think in [outline](<outline.md>) form
+                    - Outlines can be main points to start
+                    - Places to get words on the page
+                        - [aggregation](<aggregation.md>) points
+                - [Kyle Stratis](<Kyle Stratis.md>)
+                    - Uses [kanban](<kanban.md>) boards for [hubs](<hubs.md>)
+                    - Research page
+                        - **[Image](<Image.md>):**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FxHg7Lyx2cf.png?alt=media&token=afe78ab8-1132-4b3c-b69e-8258b3af37cf)
+                    - [FN](<FN.md>) [block-level tags](<block-level tags.md>) and [block-level](<block-level.md>) search give you direct access to content — e.g., links — that are not possible with code...
+                - [Robert Haisfield](<Robert Haisfield.md>)
+                    - Jason: "you use a fundamentally different approach"
+                    - Uses queries as a way to teach himself where to look
+                    - [Queries]([querying](<querying.md>)) on [compound tags](<compound tags.md>) and [tag combinations](<tag combinations.md>)
+                    - A query is a [translation](<translation.md>) layer — working to aggregate what Rob places into his graph
+            - [Robert Haisfield](<Robert Haisfield.md>)
+                - Think of pages as collections; block references as threads
+                - 
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

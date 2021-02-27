@@ -5,6 +5,13 @@
 
 - "Foot in the door for getting paid for all the free stuff we do" - [Robert Haisfield](<Robert Haisfield.md>)
 
+## [February 27th, 2021](<February 27th, 2021.md>)
+- With [Jason Griffing](<Jason Griffing.md>), [Joel Chan](<Joel Chan.md>), [Robert Haisfield](<Robert Haisfield.md>),
+
+- [Robert Haisfield](<Robert Haisfield.md>)
+
+- [Robert Haisfield](<Robert Haisfield.md>)
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [@tracyplaces](https://twitter.com/tracyplaces) - not feeling the use cases part. But hmm, tangential thought --- what if you can like connect your twitter or something to your roam. then people can search for twitter people they like that have roam, and send request to check out there roam? idk, but some shit along the lines of... how tf does team roam actually use roam would be interesting. idk if this can be pulled off in any way thats not like hella annoying for the graph owners tho. OnlyGraphs lol. [Robert Haisfield](<Robert Haisfield.md>)
 

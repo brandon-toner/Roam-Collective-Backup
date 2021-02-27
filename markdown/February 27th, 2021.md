@@ -20,9 +20,14 @@
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
-    - #Inbox #not-populated
+    - #Inbox
+        - "Indexing code"
+        - Other automated search for gtd
+        - Ask Charles why he finds block queries more powerful than page queries.
     - #[[Scratchpad]] #not-populated
-    - #[[GTD Zone]] #not-populated
+    - #[[GTD Zone]]
+        - [[March 15th, 2021]]
+            - {{[[TODO]]}}  Assign date to inbox stuff or move to scratchpad
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
@@ -36,4 +41,34 @@
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - [[Roam Summit]] Session 1
+            - With [[Jason Griffing]], [[Joel Chan]], [[Robert Haisfield]], & [[Kyle Stratis]]
+            - [Discoverability]([[discoverability]])
+                - [[Joel Chan]]
+                    - How do you navigate at a company? You go to the person that knows everyone. Analogy to an [[index]].
+                    - Important to understand the [[entry points]] & [[hubs]]
+                - [[Jason Griffing]]
+                    - A lot of us think in [[outline]] form
+                    - Outlines can be main points to start
+                    - Places to get words on the page
+                        - [[aggregation]] points
+                - [[Kyle Stratis]]
+                    - Uses [[kanban]] boards for [[hubs]]
+                    - Research page
+                        - Image::
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FxHg7Lyx2cf.png?alt=media&token=afe78ab8-1132-4b3c-b69e-8258b3af37cf)
+                    - #FN [[block-level tags]] and [[block-level]] search give you direct access to content — e.g., links — that are not possible with code...
+                - [[Robert Haisfield]]
+                    - Jason: "you use a fundamentally different approach"
+                    - Uses queries as a way to teach himself where to look
+                    - [Queries]([[querying]]) on [[compound tags]] and [[tag combinations]]
+                    - A query is a [[translation]] layer — working to aggregate what Rob places into his graph
+            - [[Robert Haisfield]]
+                - Think of pages as collections; block references as threads
+                - 
+    - #Conversation #not-populated
+    - #Bookmarks #not-populated
 - ---

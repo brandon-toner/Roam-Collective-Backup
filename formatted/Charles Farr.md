@@ -272,6 +272,9 @@ window.updateIndexPage = updateIndexPage;
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [February 27th, 2021](<February 27th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "[Charles Farr](<Charles Farr.md>),
 
