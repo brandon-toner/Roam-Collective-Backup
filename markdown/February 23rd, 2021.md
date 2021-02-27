@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #Announcements
-        - "Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}"
+        - "Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}"
             - ""{{{[[roam/js]]}}}""
         - "Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block."
             - ""{{[[roam/js]]}}""
@@ -43,7 +43,7 @@
         - "5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option"
             - `;;` vs `jj` might be unclear. 
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
     - #Inbox #not-populated
     - #[[Scratchpad]]
         - "{{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?"
@@ -57,7 +57,7 @@
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
 Hey people, hopefully back here today, or 2morrow, to answer stuff and help with sprints
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Ideas for [chat demo](((6Zr6IVjYs))) while reading [[Chatting with Glue]]
@@ -236,7 +236,7 @@ PS: great work running that!
     - #[[Change Log]] 
         1. Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)
         2. Reviewed tasks tagged with [[Week-07: 02-15-2021]] and rescheduled them (many I moved to [[February 2021]])... further processing still required.
-        3. Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+        3. Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
             - "{{{[[roam/js]]}}}"
         4. Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block.
             - "{{[[roam/js]]}}"

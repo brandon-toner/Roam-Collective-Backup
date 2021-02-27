@@ -88,7 +88,7 @@
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
@@ -134,7 +134,7 @@
             - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
     - #Inbox #not-populated
     - #[[Scratchpad]] 
         - Using `Replies::` and `Next Actions::` as marker in conversations? so that conversations can be filtered? 
@@ -206,7 +206,7 @@
                 - ""#[[FN]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten""
                 - ""#[[FN]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.""
     - #Conversation
-        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
+        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
     - #[[Change Log]]
         - Added custom indexing code, inspired by [[Maggie Delano]]
             - See: "Indexing code"

@@ -5,6 +5,9 @@
 ## [DNP Modules](<DNP Modules.md>)
 - #[Questions](<Questions.md>)
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [@[[Charles Farr](<@[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
 

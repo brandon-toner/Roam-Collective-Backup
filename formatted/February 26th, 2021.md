@@ -1,10 +1,12 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
-    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
+        1. "[FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>)."[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{Today + Obs:42SmartBlock:Today + Obs}}
-        - {{Today + Q:42SmartBlock:Today + Q}}
+        - **Questions:** 
+            - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>) [Q](<Q.md>) {not: [query](<query.md>)}}}}
         - {{Today + I:42SmartBlock:Today + I}}
         - {{Today + FN:42SmartBlock:Today + FN}}
         - {{Today + LN:42SmartBlock:Today + LN}}
@@ -61,6 +63,24 @@
                         - When using testimony in arguments, you should always make sure the authority you are appealing to is in fact qualified to speak on the topic being discussed. 
                         - In public speeches, statistics have the advantage of seeming objective, authoritative, and factual, but critical audiences will want to know about the sources and methods for determining your statistical evidence. 
             - [Q](<Q.md>) How should [highlights](<highlights.md>) and [literature notes](<literature notes.md>) be differentiated?
+        - [Q](<Q.md>) What purposes might a collective community serve?
+        - [Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
+            - [I](<I.md>) Collective communities could be formed with the mission of mapping a domain.
+                - Curating material and ideas on a subject
+                    - Collect and organize resources (library formation).
+                    - Exploration of the resources for main ideas.
+                    - Create linkages between existing ideas within a domain.
+                    - Formation of new ideas or syntheses within a domain.
+                - #[FN](<FN.md>) There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
+                    - #[FN](<FN.md>) Before creating on a subject, a writer should be familiar with existing ideas and assertions.
+                    - [FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>).
+                        - But, synthesis may be a **natural byproduct** of exploration of a domain — and these fleeting propositions should be captured as they occur. 
+                            - Capturing these (potentially naive) ideas and propositions is valuable despite their unlikelihood of being novel. 
+                                - They become hypotheses to strive to disprove/validate. 
+                                    - #[FN](<FN.md>) A [claim]([claims](<claims.md>)) cannot be validated, only disproven or falsified.[*]([science](<science.md>))
+                                    - The stated proposition can be used to drive further questions, furthering the [research](<research.md>) [flywheel]([Flywheels](<Flywheels.md>)).
+                            - #[FN](<FN.md>) learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
+                                -  
         - [David Vargas](<David Vargas.md>) on [backlogs](<backlogs.md>)
             - **[Tweets](<Tweets.md>):**
                 - I'm becoming skeptical of backlogs ([View Highlight](https://twitter.com/dvargas92495/status/1365165424317521920))
@@ -73,7 +93,22 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - It depends on the intention:
                     - "Things we WILL do" vs "Options for the future"
                     - The *attachment* to the backlog is a choice.
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) 
+        1. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [conversational conventions](((FG2UXveKl)))
+            - This happens naturally, doesn't it?
+                - I'm thinking it would simply be a block ref to whatever the quoted block was. 
+                    - So as an observed to the thread, you'd simply notice a block ref — click to view references, and would see replies from different authors.
+                        - This would be the same whether at the start of a conversation, or mid-thread.
+                            - The biggest challenge IMO is making the thread __easy to follow__ from a [UI](<UI.md>) perspective.
+        2. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on questions
+            - The [Questions](<Questions.md>) tag is one in tension for me — I'm not entirely sure it's purpose.
+                - **[Thoughts](<Thoughts.md>):**
+                    - It's a formal collection-tag for the `[Q](<Q.md>)` block-level tag...
+                        - Which doesn't really give it a clear purpose.
+                    - What would be useful, is a tag that collects meta-questions ABOUT the graph... as a __user support__-type tag.
+                        - This is kinda what I have in mind for #[Feedback & Questions](<Feedback & Questions.md>)
+                            - I'd suggest using that one instead for the support-type stuff which I wrestle the purpose of `[Questions](<Questions.md>)` (which may get decommissioned)
+                            - But this becomes in tension with [Feedback](<Feedback.md>) ... so really I just need to sit down and reconcile all of these tags. The current layout is def broken haha.
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
@@ -85,14 +120,12 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
-    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
-    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
-    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - [Bookmarks](<Bookmarks.md>)
         - ""Outline of relevant FNs""
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - "[Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))"
+            - "[Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?"
+        - "[Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
@@ -111,8 +144,48 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                     - [ ] Set up application portal
                         - [ ] Determine application criteria
                     - [ ] Outline conventions for reading group
+            - Topics
+                - Meta
+                    - Patterns, Scale, Complexity
+                    - Knowledge
+                - Less Meta
+                    - Urbanism
+                    - Productivity / Habit Formation
+                    - Writing
+                    - Working In Public
+                    - Open Source
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [@[[Charles Farr](<@[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
+            - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
+            - **Replies:**
+                - [The joining part](((MeE0Hq_wN))), [makes sense](((zDm_SyiQz))), the following or catching up part is what vexes me the most [as I stated here](((VOijFrzHr))).
+                    - Perhaps the biggest crux is if that conversation has been ongoing for more than 3, 4, 5 levels/days/links - how does one build a conception of where the conversation is even going or what "conclusions" have even been made?
+                    - 
+            - How does one follow those threads of continuous discussion? 
+            - Been thinking hard on this one lately given conversation with [Brandon Toner](<Brandon Toner.md>) on [Twitter yesterday](((HanorJFB3))). 
+                - https://twitter.com/calhistorian/status/1364757525787107329?s=20
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
+    - [Inbox](<Inbox.md>) 
+        - [I](<I.md>) We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
+    - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
+    - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
 - ---
 
 # Backlinks
@@ -123,4 +196,10 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
 - [February 26th, 2021](<February 26th, 2021.md>)
+
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>)
+
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Date Created](<Date Created.md>):** [February 26th, 2021](<February 26th, 2021.md>)
 

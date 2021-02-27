@@ -36,6 +36,11 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
+
+- "[Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Bookmarks](<Bookmarks.md>)
 

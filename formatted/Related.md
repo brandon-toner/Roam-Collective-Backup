@@ -321,6 +321,10 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Date Created](<Date Created.md>):** [February 26th, 2021](<February 26th, 2021.md>)
+    - **[Related](<Related.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Date Created](<Date Created.md>):** [January 26th, 2021](<January 26th, 2021.md>)
     - **[Related](<Related.md>):**

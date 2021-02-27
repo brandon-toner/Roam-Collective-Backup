@@ -1,10 +1,12 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] #not-populated
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
-    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #Chat ((A place to propose objects of discussion)) 
+        1. "#FN Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]]."[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
     - #[[The Zettelkasten]]
         - {{Today + Obs:42SmartBlock:Today + Obs}}
-        - {{Today + Q:42SmartBlock:Today + Q}}
+        - **Questions:** 
+            - #min-title {{[[query]]: {and: [[February 26th, 2021]] [[Q]] {not: [[query]]}}}}
         - {{Today + I:42SmartBlock:Today + I}}
         - {{Today + FN:42SmartBlock:Today + FN}}
         - {{Today + LN:42SmartBlock:Today + LN}}
@@ -61,6 +63,24 @@
                         - When using testimony in arguments, you should always make sure the authority you are appealing to is in fact qualified to speak on the topic being discussed. 
                         - In public speeches, statistics have the advantage of seeming objective, authoritative, and factual, but critical audiences will want to know about the sources and methods for determining your statistical evidence. 
             - #Q How should [[highlights]] and [[literature notes]] be differentiated?
+        - #Q What purposes might a collective community serve?
+        - #Q What activities might a collective community engage in?[*]([[Bookmarks]])
+            - #I Collective communities could be formed with the mission of mapping a domain.
+                - Curating material and ideas on a subject
+                    - Collect and organize resources (library formation).
+                    - Exploration of the resources for main ideas.
+                    - Create linkages between existing ideas within a domain.
+                    - Formation of new ideas or syntheses within a domain.
+                - #[[FN]] There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
+                    - #[[FN]] Before creating on a subject, a writer should be familiar with existing ideas and assertions.
+                    - #FN Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]].
+                        - But, synthesis may be a **natural byproduct** of exploration of a domain — and these fleeting propositions should be captured as they occur. 
+                            - Capturing these (potentially naive) ideas and propositions is valuable despite their unlikelihood of being novel. 
+                                - They become hypotheses to strive to disprove/validate. 
+                                    - #[[FN]] A [claim]([[claims]]) cannot be validated, only disproven or falsified.[*]([[science]])
+                                    - The stated proposition can be used to drive further questions, furthering the [[research]] [flywheel]([[Flywheels]]).
+                            - #[[FN]] learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
+                                -  
         - [[David Vargas]] on [[backlogs]]
             - Tweets::
                 - I'm becoming skeptical of backlogs ([View Highlight](https://twitter.com/dvargas92495/status/1365165424317521920))
@@ -73,7 +93,22 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - It depends on the intention:
                     - "Things we WILL do" vs "Options for the future"
                     - The *attachment* to the backlog is a choice.
-    - #Conversation #not-populated
+    - #Conversation 
+        1. [@Mark]([[@[[Mark Robertson]]]]) on [conversational conventions](((FG2UXveKl)))
+            - This happens naturally, doesn't it?
+                - I'm thinking it would simply be a block ref to whatever the quoted block was. 
+                    - So as an observed to the thread, you'd simply notice a block ref — click to view references, and would see replies from different authors.
+                        - This would be the same whether at the start of a conversation, or mid-thread.
+                            - The biggest challenge IMO is making the thread __easy to follow__ from a [[UI]] perspective.
+        2. [@Mark]([[@[[Mark Robertson]]]]) on questions
+            - The #Questions tag is one in tension for me — I'm not entirely sure it's purpose.
+                - Thoughts::
+                    - It's a formal collection-tag for the `#Q` block-level tag...
+                        - Which doesn't really give it a clear purpose.
+                    - What would be useful, is a tag that collects meta-questions ABOUT the graph... as a __user support__-type tag.
+                        - This is kinda what I have in mind for #[[Feedback & Questions]]
+                            - I'd suggest using that one instead for the support-type stuff which I wrestle the purpose of `#Questions` (which may get decommissioned)
+                            - But this becomes in tension with #Feedback ... so really I just need to sit down and reconcile all of these tags. The current layout is def broken haha.
     - #[[The Zettelkasten]]
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
@@ -85,14 +120,12 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
-    - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #[[GTD Zone]] #not-populated
-    - #[[The Zettelkasten]] #not-populated
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - #Bookmarks
         - ""Outline of relevant FNs""
-    - #Conversation #not-populated
+        - "#Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])"
+            - "#Q How should discourse around [[claims]] and [[assertions]] be conducted?"
+        - "#Q What activities might a collective community engage in?[*]([[Bookmarks]])"
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
@@ -111,6 +144,46 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                     - {{[[TODO]]}} Set up application portal
                         - {{[[TODO]]}} Determine application criteria
                     - {{[[TODO]]}} Outline conventions for reading group
+            - Topics
+                - Meta
+                    - Patterns, Scale, Complexity
+                    - Knowledge
+                - Less Meta
+                    - Urbanism
+                    - Productivity / Habit Formation
+                    - Writing
+                    - Working In Public
+                    - Open Source
     - #Conversation #not-populated
     - #Bookmarks #not-populated
+- ---
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Conversation ((For nesting interactions with other members of the graph)) 
+        - [[~[[Brandon Toner]]]], [[@[[Charles Farr]]]], or anybody for that matter (or possibly in #[[Questions]])
+            - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
+            - **Replies:**
+                - [The joining part](((MeE0Hq_wN))), [makes sense](((zDm_SyiQz))), the following or catching up part is what vexes me the most [as I stated here](((VOijFrzHr))).
+                    - Perhaps the biggest crux is if that conversation has been ongoing for more than 3, 4, 5 levels/days/links - how does one build a conception of where the conversation is even going or what "conclusions" have even been made?
+                    - 
+            - How does one follow those threads of continuous discussion? 
+            - Been thinking hard on this one lately given conversation with [[Brandon Toner]] on [Twitter yesterday](((HanorJFB3))). 
+                - https://twitter.com/calhistorian/status/1364757525787107329?s=20
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
+    - #Inbox 
+        - #I We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Promptstorming #not-populated
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+        - [@Brandon]([[@[[Brandon Toner]]]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+    - 
 - ---

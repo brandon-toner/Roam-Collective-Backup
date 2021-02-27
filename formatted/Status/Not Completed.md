@@ -3,6 +3,9 @@
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
+
 ## [Projects/Publish a [Roam Collaboration Guide](<../Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<../Roam Collaboration Guide.md>).md>)
 - **[Date Completed](<../Date Completed.md>):** #[Status/Not Completed](<../Status/Not Completed.md>)
 

@@ -14,6 +14,10 @@
 - **[Areas](<Areas.md>):** [Areas/Roam Collective](<Areas/Roam Collective.md>)
     - **[Project Status](<Project Status.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
+    - **[Project Status](<Project Status.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
     - **[Project Status](<Project Status.md>):**

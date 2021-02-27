@@ -11,6 +11,10 @@
 - [Matthew Vogel](<Matthew Vogel.md>)
     - **[Areas](<Areas.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Contributors](<Contributors.md>):** [not-populated](<not-populated.md>)
+    - **[Areas](<Areas.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - 
     - **[Areas](<Areas.md>):**

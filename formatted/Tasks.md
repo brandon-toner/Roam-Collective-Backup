@@ -7,6 +7,10 @@
 - {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}}}} [minimal](<minimal.md>)
                 - **[Tasks](<Tasks.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
+    - **[Tasks](<Tasks.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
     - **[Tasks](<Tasks.md>):**

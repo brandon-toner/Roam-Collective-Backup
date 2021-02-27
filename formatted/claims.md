@@ -31,3 +31,7 @@
 
 - #[LN](<LN.md>) [argumentation](<argumentation.md>) has a negative social connotation, while the term simply describes the process of exchanging, challenging and modifying [claims](<claims.md>)
 
+- #[FN](<FN.md>) A [claim]([claims](<claims.md>))
+
+- "[Q](<Q.md>) How should discourse around [claims](<claims.md>)
+

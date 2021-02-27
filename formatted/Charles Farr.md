@@ -381,6 +381,11 @@ window.updateIndexPage = updateIndexPage;
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+
+- [Charles Farr](<Charles Farr.md>)
+
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
 

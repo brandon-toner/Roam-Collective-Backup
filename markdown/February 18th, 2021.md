@@ -186,7 +186,7 @@
     - #[[My Wins]]
         - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 

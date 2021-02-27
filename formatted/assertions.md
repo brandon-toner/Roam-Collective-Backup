@@ -20,6 +20,8 @@
 
 - [reasons](<reasons.md>) are statements of support for claims, making those claims something more than mere [assertions](<assertions.md>).
 
+- "[Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>)
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[FN](<FN.md>) [permanent notes](<permanent notes.md>) are [assertions](<assertions.md>).
 

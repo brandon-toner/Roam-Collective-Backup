@@ -179,6 +179,10 @@
 - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Created by](<Created by.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[People](<People.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
+        - **[Created by](<Created by.md>):**
+
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)
 - **[People](<People.md>):** ((People involved with the project))
         - **[Created by](<Created by.md>):**

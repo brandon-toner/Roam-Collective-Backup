@@ -250,7 +250,7 @@
                 - 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
@@ -320,7 +320,7 @@
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) about [entry points](((j3W67Y1oB)))
             - I was thinking about doing an end of week review, at least for the big themes of the week. Conversation is fragmented, spread out over days, so a report of the week can bring this conversation together, short summary of the big talking points.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}" Currently using a Raspberry Pi...
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}" Currently using a Raspberry Pi...
     - [Inbox](<Inbox.md>)
         - Has anyone used roam inter yet?
         - I have been using this group css for some time now, could I sink it?

@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
     - #Inbox 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability
@@ -48,7 +48,7 @@
     - #Feedback #not_populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
@@ -57,7 +57,7 @@
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad #not-populated
     - #Conversation 
-        1. [@Peter]([[@[[Peter Rosso]]]]) [On GTD](((9IjO0uID4)))
+        1. [@Peter]([[~[[Peter Rosso]]]]) [On GTD](((9IjO0uID4)))
             - I'm got a bunch of half-baked ideas that I think could be refined through conversation. Would love to hammer it out sometime. 
             - I can see a really neat blend of the [[Date Planner]], and a GTD Dashboard page of sorts. 
                 - With integration of the horizons of focus.

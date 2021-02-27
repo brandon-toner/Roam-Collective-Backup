@@ -8,6 +8,9 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - [Research]([research](<research.md>))
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- The stated proposition can be used to drive further questions, furthering the [research](<research.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 2. Review periodically, collecting ones that [resonate]([resonance](<resonance.md>)) or feel important to the direction of [research](<research.md>)
 

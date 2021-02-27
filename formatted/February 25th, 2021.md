@@ -18,7 +18,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
     - [Inbox](<Inbox.md>) 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability
@@ -48,7 +48,7 @@
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
@@ -57,7 +57,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
-        1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [On GTD](((9IjO0uID4)))
+        1. [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) [On GTD](((9IjO0uID4)))
             - I'm got a bunch of half-baked ideas that I think could be refined through conversation. Would love to hammer it out sometime. 
             - I can see a really neat blend of the [Date Planner](<Date Planner.md>), and a GTD Dashboard page of sorts. 
                 - With integration of the horizons of focus.

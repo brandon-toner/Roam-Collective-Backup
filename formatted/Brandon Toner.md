@@ -322,6 +322,8 @@
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+- Been thinking hard on this one lately given conversation with [Brandon Toner](<Brandon Toner.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
@@ -478,6 +480,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)

@@ -14,6 +14,10 @@
 - **[Date Created](<Date Created.md>):** [January 27th, 2021](<January 27th, 2021.md>)
     - **[People](<People.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
+    - **[People](<People.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
     - **[People](<People.md>):**

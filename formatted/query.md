@@ -265,9 +265,15 @@
 - "{{[query](<query.md>):
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>):
+
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>) [Q](<Q.md>) {not: [query](<query.md>)}
+
 - "[page-focus](<page-focus.md>) {{[query](<query.md>):
 
 - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
+- "{{[query](<query.md>):
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[query](<query.md>):

@@ -41,6 +41,10 @@
 - It feels quite possible to over-automate the process of algorithms of thought.
                 - **[Thoughts](<Thoughts.md>):**
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- The [Questions](<Questions.md>) tag is one in tension for me — I'm not entirely sure it's purpose.
+                - **[Thoughts](<Thoughts.md>):**
+
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - "Does each note type need multiple level of maturity?"
                 - **[Thoughts](<Thoughts.md>):**

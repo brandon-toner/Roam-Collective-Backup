@@ -1,1 +1,16 @@
-- 
+- Tags:: #Projects
+    - Date Created:: [[February 26th, 2021]]
+    - Related:: #[[not-populated]]
+    - People:: #[[not-populated]] #Housekeeping
+        - Created by:: [[Charles Farr]]
+        - Project Lead:: 
+            - [[Charles Farr]]
+            - [[Brandon Toner]]
+        - Contributors:: #not-populated
+    - Areas:: #[[not-populated]] #Housekeeping
+    - Project Status:: #[[not-populated]] #Housekeeping
+    - Due Date:: #[[not-populated]] #Housekeeping
+    - Reminders:: #[[not-populated]] 
+    - Date Completed:: #[[Status/Not Completed]]
+    - Notes:: #[[not-populated]]
+    - Tasks:: #not-populated

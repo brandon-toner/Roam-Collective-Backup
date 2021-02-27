@@ -11,6 +11,8 @@
 
 - [Q](<Q.md>) How might you [crowdsource]([crowdsourcing](<crowdsourcing.md>))
 
+- "[Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[FN](<FN.md>) [block references](<block references.md>) are a way to [crowdsource]([crowdsourcing](<crowdsourcing.md>))
 

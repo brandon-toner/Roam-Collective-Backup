@@ -32,6 +32,9 @@
 
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 23rd, 2021](<February 23rd, 2021.md>) [Q](<Q.md>)}
 
+## [February 26th, 2021](<February 26th, 2021.md>)
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>) [Q](<Q.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Q](<Q.md>)
 

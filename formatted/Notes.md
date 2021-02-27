@@ -41,6 +41,10 @@
 - **[Date Completed](<Date Completed.md>):** [January 27th, 2021](<January 27th, 2021.md>)
     - **[Notes](<Notes.md>):**
 
+## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
+- **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
+    - **[Notes](<Notes.md>):**
+
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Date Completed](<Date Completed.md>):** #[Status/Not Completed](<Status/Not Completed.md>)
     - **[Notes](<Notes.md>):**

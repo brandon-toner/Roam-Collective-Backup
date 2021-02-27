@@ -1,6 +1,6 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - [Announcements](<Announcements.md>)
-        - "Made a change to the [Roam42](<Roam42.md>) code to resolve a bug — you'll have to re-enable the code block.  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}"
+        - "Made a change to the [Roam42](<Roam42.md>) code to resolve a bug — you'll have to re-enable the code block.  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}"
             - ""{{{[roam/js](<roam/js.md>)}}}""
         - "Consolidated [RoamJS](<RoamJS.md>) scripts — you'll have to re-enable the code block."
             - ""{{[roam/js](<roam/js.md>)}}""
@@ -43,7 +43,7 @@
         - "5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option"
             - `;;` vs `jj` might be unclear. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
     - #[Scratchpad](<Scratchpad.md>)
         - "{{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}} Does anyone know if we have got a sub stack? What about a twitter account?"
@@ -57,7 +57,7 @@
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
 Hey people, hopefully back here today, or 2morrow, to answer stuff and help with sprints
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Ideas for [chat demo](((6Zr6IVjYs))) while reading [Chatting with Glue](<Chatting with Glue.md>)
@@ -236,7 +236,7 @@ PS: great work running that!
     - #[Change Log](<Change Log.md>) 
         1. Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)
         2. Reviewed tasks tagged with [Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) and rescheduled them (many I moved to [February 2021](<February 2021.md>))... further processing still required.
-        3. Made a change to the [Roam42](<Roam42.md>) code to resolve a bug — you'll have to re-enable the code block.  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
+        3. Made a change to the [Roam42](<Roam42.md>) code to resolve a bug — you'll have to re-enable the code block.  {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}
             - "{{{[roam/js](<roam/js.md>)}}}"
         4. Consolidated [RoamJS](<RoamJS.md>) scripts — you'll have to re-enable the code block.
             - "{{[roam/js](<roam/js.md>)}}"

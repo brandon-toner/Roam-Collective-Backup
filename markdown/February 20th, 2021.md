@@ -250,7 +250,7 @@
                 - 
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
@@ -320,7 +320,7 @@
         - [@Peter]([[@[[Peter Rosso]]]]) about [entry points](((j3W67Y1oB)))
             - I was thinking about doing an end of week review, at least for the big themes of the week. Conversation is fragmented, spread out over days, so a report of the week can bring this conversation together, short summary of the big talking points.
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}" Currently using a Raspberry Pi...
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}" Currently using a Raspberry Pi...
     - #Inbox
         - Has anyone used roam inter yet?
         - I have been using this group css for some time now, could I sink it?
