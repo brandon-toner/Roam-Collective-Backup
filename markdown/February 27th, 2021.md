@@ -19,13 +19,18 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟠Away | 🚫 offline | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
     - #Inbox
         - "Indexing code"
         - Other automated search for gtd
         - Ask Charles why he finds block queries more powerful than page queries.
-    - #[[Scratchpad]] #not-populated
+    - #[[Scratchpad]] 
+        - [[Roam Summit/Session I]]
+            - #I Branson and Charles should talk about multiplayer graphs and conventions.
+                - #I If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live.
     - #[[GTD Zone]]
+        - [[February 28th, 2021]]
+            - Import notes from personal graph on [roam summit]([[Roam Summit/Session I]])
         - [[March 15th, 2021]]
             - {{[[TODO]]}}  Assign date to inbox stuff or move to scratchpad
     - #Promptstorming #not-populated
@@ -38,6 +43,10 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fk3J4rq3NG0.png?alt=media&token=11b73370-cf99-4702-a413-985f2f760aa3)
                 -  As I was doing the purge I changed background of done items, Items with dates and items with Defer tag so I could cycle through the week quickly and decide what I needed to do.
                     - Said that I need to finish the Agile Product Development product
+        - [@Brandon]([[@[[Brandon Toner]]]]) & [@Charles]([[@[[Charles Farr]]]]) about Roam Summit...
+            - "#I Branson and Charles should talk about multiplayer graphs and conventions."
+            - "#I If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live."
+        - [@Charles]([[@[[Charles Farr]]]]) On block queries: Why do you think that block queries are more powerful than page queries
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 

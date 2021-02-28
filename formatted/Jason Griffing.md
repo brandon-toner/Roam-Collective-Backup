@@ -8,3 +8,6 @@
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - **[Participants](<Participants.md>):** [Jason Griffing](<Jason Griffing.md>),
 
+## [Roam Summit/Session I](<Roam Summit/Session I.md>)
+- [Jason Griffing](<Jason Griffing.md>)
+
