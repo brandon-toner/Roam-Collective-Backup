@@ -150,6 +150,9 @@
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
                 - **[Author](<Author.md>):**
 
+- **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)
+                - **[Author](<Author.md>):**
+
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**

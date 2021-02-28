@@ -1,3 +1,70 @@
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[GTD Zone](<GTD Zone.md>) 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[Change Log](<Change Log.md>)
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) 
+        - [Q](<Q.md>) How do you manage the problem of community fragmentation?
+            - i.e. as similar communities with similar missions form, how do you allocate your attention?
+                - The potential future issue that I see is one of re-work. And spreading ideas too-thin.
+                    - The collective model somewhat relies on a minimum threshold of engagement that increases as the diversity of topics widens. 
+                        - More diverse range of questions and topics = more engagement and members required for meaningful convergence on related topics.
+        - #[FN](<FN.md>) [maxims](<maxims.md>) are practical and easily communicated distillations of knowledge.
+            - They serve to summarize and crystallize a piece of wisdom.
+            - [I](<I.md>) Collecting [maxims](<maxims.md>) central to a domain might be helpful for mapping the territory of knowledge.
+            - [Q](<Q.md>) Are [mental models](<mental models.md>) maxims?
+                - I think many could be considered maxims. The format is similar. 
+                - I like the term "maxim" better. It feels less trendy, carrying less baggage from modern use and discussion.
+                - While many mental models might be considered maxims, going the other way feels kinda awkward...
+                    - [Q](<Q.md>) Is "a watched pot never boils" a mental model?
+                        - Feels less so. 
+                        - Maxims feel more proverbial than mental models.
+                            - [I](<I.md>) Maxims may encompass both mental models and proverbs. 
+                                - "[maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>) "
+                                - "#[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))"
+            - [Q](<Q.md>) What is the difference between [evergreen notes](<evergreen notes.md>) and [maxims](<maxims.md>)?[*]([Bookmarks](<Bookmarks.md>))
+            - Hierarchy:
+                - Maxims (practical application of knowledge)
+                - Claims (assertion of knowledge)
+                - References (sources of claims and maxims)
+                - Evidence (support for claims)
+            - Process:
+                - Collect maxims
+                - Collect claims that establish/rationalize their value
+                - Collect evidence that supports the claims
+                - Collect resources related to the maxims or claims 
+        - [I](<I.md>) [evergreen notes](<evergreen notes.md>) may be subdivided into [concepts](<concepts.md>), [claims](<claims.md>), and [maxims](<maxims.md>).
+            - [concepts](<concepts.md>) = definitional
+            - [claims](<claims.md>) = assertions of truths 
+            - [maxims](<maxims.md>) = core principles / practical rules of conduct — or [directives](<directives.md>).
+            - [Q](<Q.md>) What is missing from this framework?[*]([Bookmarks](<Bookmarks.md>))
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[GTD Zone](<GTD Zone.md>)
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+- ---
 
 # Backlinks
 ## [February 27th, 2021](<February 27th, 2021.md>)

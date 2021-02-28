@@ -81,6 +81,9 @@
 
 - ""#[FN](<FN.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>)
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- "#[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>)
 

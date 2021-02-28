@@ -26,9 +26,6 @@
 ## [Charles Farr](<Charles Farr.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>)
 
-## [Concepts](<Concepts.md>)
-- {{[TODO](<TODO.md>)}
-
 ## [Decisions](<Decisions.md>)
 - {{[TODO](<TODO.md>)}
 

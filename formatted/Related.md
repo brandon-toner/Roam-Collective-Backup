@@ -309,6 +309,10 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
 
+## [Maxims](<Maxims.md>)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJfLWErBBCv.png?alt=media&token=5643300b-a815-487a-86e0-c2a6cd11da79)
+- **[Related](<Related.md>):**
+
 ## [Members](<Members.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**

@@ -4984,9 +4984,6 @@ h6 {
 ## [CSS](<CSS.md>)
 - **[Redirect](<../Redirect.md>):** [roam/css](<../roam/css.md>)
 
-## [Concepts](<Concepts.md>)
-- [ ] Add to [roam/css](<../roam/css.md>)
-
 ## [Decisions](<Decisions.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 

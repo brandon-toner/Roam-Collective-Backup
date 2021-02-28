@@ -96,9 +96,6 @@
 ## [Charles Farr](<Charles Farr.md>)
 - **[Tags](<Tags.md>):**
 
-## [Concepts](<Concepts.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
 - **[Tags](<Tags.md>):**
 
@@ -308,7 +305,7 @@
 - .rcEVN — Evergreen Note Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
             - **[Tags](<Tags.md>):**
 
-- .rcPVB — Proverb Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+- .rcMXM — Maxims Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
             - **[Tags](<Tags.md>):**
 
 - .rcSDL — Seedlings Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates

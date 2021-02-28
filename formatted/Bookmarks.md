@@ -41,6 +41,11 @@
 
 - "[Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- [Q](<Q.md>) What is the difference between [evergreen notes](<evergreen notes.md>) and [maxims](<maxims.md>)?[*]([Bookmarks](<Bookmarks.md>))
+
+- [Q](<Q.md>) What is missing from this framework?[*]([Bookmarks](<Bookmarks.md>))
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Bookmarks](<Bookmarks.md>)
 

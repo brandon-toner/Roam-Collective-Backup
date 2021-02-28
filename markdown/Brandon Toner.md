@@ -34,7 +34,6 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - **Personal SmartBlocks:**
     - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - <%DATEBASIS:DNP%>
         - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
             - #Scratchpad #not-populated
             - #Conversation #not-populated

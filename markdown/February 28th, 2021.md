@@ -1,0 +1,67 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[The Zettelkasten]]
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[[GTD Zone]] 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - #Q How do you manage the problem of community fragmentation?
+            - i.e. as similar communities with similar missions form, how do you allocate your attention?
+                - The potential future issue that I see is one of re-work. And spreading ideas too-thin.
+                    - The collective model somewhat relies on a minimum threshold of engagement that increases as the diversity of topics widens. 
+                        - More diverse range of questions and topics = more engagement and members required for meaningful convergence on related topics.
+        - #[[FN]] [[maxims]] are practical and easily communicated distillations of knowledge.
+            - They serve to summarize and crystallize a piece of wisdom.
+            - #I Collecting [[maxims]] central to a domain might be helpful for mapping the territory of knowledge.
+            - #Q Are [[mental models]] maxims?
+                - I think many could be considered maxims. The format is similar. 
+                - I like the term "maxim" better. It feels less trendy, carrying less baggage from modern use and discussion.
+                - While many mental models might be considered maxims, going the other way feels kinda awkward...
+                    - #Q Is "a watched pot never boils" a mental model?
+                        - Feels less so. 
+                        - Maxims feel more proverbial than mental models.
+                            - #I Maxims may encompass both mental models and proverbs. 
+                                - "[[maxims]] feels less religiously charged than [[proverbs]] "
+                                - "#[[FN]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])"
+            - #Q What is the difference between [[evergreen notes]] and [[maxims]]?[*]([[Bookmarks]])
+            - Hierarchy:
+                - Maxims (practical application of knowledge)
+                - Claims (assertion of knowledge)
+                - References (sources of claims and maxims)
+                - Evidence (support for claims)
+            - Process:
+                - Collect maxims
+                - Collect claims that establish/rationalize their value
+                - Collect evidence that supports the claims
+                - Collect resources related to the maxims or claims 
+        - #I [[evergreen notes]] may be subdivided into [[concepts]], [[claims]], and [[maxims]].
+            - [[concepts]] = definitional
+            - [[claims]] = assertions of truths 
+            - [[maxims]] = core principles / practical rules of conduct — or [[directives]].
+            - #Q What is missing from this framework?[*]([[Bookmarks]])
+    - #Conversation #not-populated
+    - #[[The Zettelkasten]]
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[[GTD Zone]]
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[[Change Log]] #not-populated
+- ---

@@ -253,12 +253,13 @@
                 - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>) ((Not a reference, but a related idea, block or page))
                 - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
-        - .rcPVB — Proverb Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
+        - .rcMXM — Maxims Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Maxims](<../Maxims.md>)
                 - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
-                - **[Origin](<../Origin.md>):** [not-populated](<../not-populated.md>)
+                - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
+                - **[Source](<../Source.md>):** [not-populated](<../not-populated.md>)
                 - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>) ((Not a reference, but a related idea, block or page))
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcSDL — Seedlings Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates

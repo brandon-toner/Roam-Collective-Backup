@@ -19,6 +19,10 @@
 - #[Design Inspirations](<Design Inspirations.md>)
                     - **[Source](<Source.md>):**
 
+## [Graph/Templates](<Graph/Templates.md>)
+- **[Author](<Author.md>):** [not-populated](<not-populated.md>)
+                - **[Source](<Source.md>):**
+
 ## [spaced everything](<spaced everything.md>)
 - **[Related](<Related.md>):** #[spaced repetition](<spaced repetition.md>)
 - **[Source](<Source.md>):**

@@ -66,6 +66,9 @@
 ## [February 27th, 2021](<February 27th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 

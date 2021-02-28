@@ -253,12 +253,13 @@
                 - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
                 - Next Steps:: #not-populated ((Plans for future elaboration or development))
                 - Contents:: #not-populated
-        - .rcPVB — Proverb Template #42SmartBlock #roam/templates
+        - .rcMXM — Maxims Template #42SmartBlock #roam/templates
             - Tags:: #Maxims
                 - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
                 - Created by:: #not-populated
-                - Origin:: #not-populated
+                - Author:: #not-populated
+                - Source:: #not-populated
                 - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
                 - Contents:: #not-populated
         - .rcSDL — Seedlings Template #42SmartBlock #roam/templates

@@ -35,3 +35,11 @@
 
 - "[Q](<Q.md>) How should discourse around [claims](<claims.md>)
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- [I](<I.md>) [evergreen notes](<evergreen notes.md>) may be subdivided into [concepts](<concepts.md>), [claims](<claims.md>),
+
+- [claims](<claims.md>)
+
+## [Maxims](<Maxims.md>)
+- **[Related](<Related.md>):** [mental models](<mental models.md>), [proverbs](<proverbs.md>), [claims](<claims.md>)
+
