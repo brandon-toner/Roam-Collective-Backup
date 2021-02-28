@@ -77,7 +77,7 @@
                     - A query is a [translation](<translation.md>) layer — working to aggregate what Rob places into his graph
             - [Robert Haisfield](<Robert Haisfield.md>)
                 - Think of pages as collections; block references as threads
-                - 
+        - 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
