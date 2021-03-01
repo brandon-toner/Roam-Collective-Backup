@@ -1314,7 +1314,8 @@ span.rm-page-ref[data-tag="Dice Roll"]:before {
 }```
             - Notifications & Mentions
                 - [[@[[Their Name]]]]
-                    - ```css
+                    - Version 1
+                        - ```javascript
 span[data-link-title^="@"] {
         border: 2px solid #B35555 !important;
         padding: 3px 6px 3px 7px;
@@ -1331,8 +1332,38 @@ span[data-link-title^="@[[Everyone]]"]:before {
     color: #000746 !important;
     content: "🚨🚨" !important;
 }```
+                    - Version 2 #Status/Enabled
+                        - ```css
+span[data-link-title^="@"] {
+  	border:			.5px solid var(--cl-red-700);
+    padding: 		2px 5px 2px 5px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-gray-100);
+} 
+
+span[data-link-title^="@"] .rm-page-ref {
+  color: var(--cl-red-800) !important;
+  font-weight:	600;
+}
+
+span[data-link-title^="@"]:before {
+    color: 			var(--cl-black);
+    content: 		"🚨";
+  	padding-right:	3px;
+  	font-weight:	300;
+  	font-size:		13px;
+}
+
+span[data-link-title^="@[[Everyone]]"]:before {
+    color: var(--cl-black) !important;
+    content: "🚨🚨" !important;
+}```
                 - [[cc:[[Their Name]]]]
-                    - ```css
+                    - Version 1
+                        - ```javascript
 span[data-link-title^="cc:"] {
         border: 2px solid #2196F3 !important;
         padding: 3px 6px 3px 7px;
@@ -1344,8 +1375,32 @@ span[data-link-title^="cc:"]:before {
     color: #000746 !important;
     content: "📨 ";
 }```
+                    - Version 2 #Status/Enabled
+                        - ```css
+span[data-link-title^="cc:"] {
+  	border:			.5px solid var(--cl-blue-lt-600);
+    padding: 		2px 5px 2px 5px;
+    line-height: 	1em;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-gray-100);
+} 
+
+span[data-link-title^="cc:"] .rm-page-ref {
+  color: var(--cl-blue-dk-900) !important;
+  font-weight:	600;
+}
+
+span[data-link-title^="cc:"]:before {
+    color: 			var(--cl-black);
+    content: 		"📨";
+  	padding-right:	3px;
+  	font-weight:	300;
+  	font-size:		13px;
+}```
                 - [[~[[Your Name]]]]
-                    - ```css
+                    - Version 1
+                        - ```javascript
 span[data-link-title^="~"] {
         border: 2px solid #02B920 !important;
         padding: 3px 6px 3px 7px;
@@ -1357,8 +1412,32 @@ span[data-link-title^="~"]:before {
     color: #000746 !important;
     content: "✅read "
 }```
+                    - Version 2 #Status/Enabled
+                        - ```css
+span[data-link-title^="~"] {
+  	border:			.5px solid var(--cl-green-800);
+    padding: 		2px 5px 2px 5px;
+    line-height: 	1em;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-gray-100);
+} 
+
+span[data-link-title^="~"] .rm-page-ref {
+  color: var(--cl-green-900) !important;
+  font-weight:	600;
+}
+
+span[data-link-title^="~"]:before {
+    color: 			var(--cl-black);
+    content: 		"✅";
+  	padding-right:	3px;
+  	font-weight:	300;
+  	font-size:		13px;
+}```
                 - [[^[[Your Name]]]]
-                    - ```css
+                    - Version 1
+                        - ```javascript
 span[data-link-title^="^"] {
         border: 2px solid #4CAF50 !important;
         padding: 3px 6px 3px 7px;
@@ -1370,9 +1449,29 @@ span[data-link-title^="^"]:before {
     color: #000746 !important;
     content: "💾saved "
 }```
-                - Code
-                    - ```css
-```
+                    - Version 2 #Status/Enabled
+                        - ```css
+span[data-link-title^="^"] {
+  	border:			.5px solid var(--cl-gray-800);
+    padding: 		2px 5px 2px 5px;
+    line-height: 	1em;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+	background: 	var(--cl-gray-100);
+} 
+
+span[data-link-title^="^"] .rm-page-ref {
+  color: var(--cl-gray-600) !important;
+  font-weight:	600;
+}
+
+span[data-link-title^="^"]:before {
+    color: 			var(--cl-black);
+    content: 		"💾";
+  	padding-right:	3px;
+  	font-weight:	300;
+  	font-size:		13px;
+}```
             - Note & Zettelkasten Tags
                 - #[[Fleeting Notes]]
                     - ```css
@@ -1539,7 +1638,7 @@ span.rm-page-ref[data-tag="Annotations"] {
                         - Tag
                             - ```css
 span.rm-page-ref[data-tag="Evergreen"]:before {
-    content: '🌲 '
+    content: '�� '
 }
 
 span.rm-page-ref[data-tag="Evergreen"]:after {

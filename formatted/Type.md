@@ -3,6 +3,9 @@
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
 - **[Type](<Type.md>):**
 
+## [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+- **[Type](<Type.md>):**
+
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - **[Type](<Type.md>):**
 

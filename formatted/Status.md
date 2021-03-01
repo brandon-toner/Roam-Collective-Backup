@@ -20,6 +20,10 @@
 - **[Story Points](<Story Points.md>):** [not-populated](<not-populated.md>)
     - **[Status](<Status.md>):**
 
+## [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+- **[Full Title](<Full Title.md>):** 
+    - **[Status](<Status.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - **[Cons](<Cons.md>):** [not-populated](<not-populated.md>)
             - **[Status](<Status.md>):**

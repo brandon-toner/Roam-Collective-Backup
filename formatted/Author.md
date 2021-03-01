@@ -92,6 +92,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**
 
+## [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+- **[Category](<Category.md>):** [Essay](<Essay.md>)
+    - **[Author](<Author.md>):**
+
 ## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):**

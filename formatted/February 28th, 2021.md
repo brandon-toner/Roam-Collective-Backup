@@ -75,13 +75,55 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>)
-        - On building a [semi-lattice](<semi-lattice.md>) structure for knowledge work
-            - Write some stuff here
+        - On building a [semi-lattice](<semi-lattice.md>) structure for knowledge work...
+            - [Annotations](<Annotations.md>) [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+            - [Drafts](<Drafts.md>) The other day [Conor White-Sullivan](<Conor White-Sullivan.md>) tweeted out a note about [Christopher Alexander](<Christopher Alexander.md>)'s essay [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>). I've heard Alexander's name pop up in the roamcult before (shout out to [Matt B]([cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]])), so I felt compelled to dive in.
+                - As Alexander thinks in terms of cities, he is naturally thinking about three-dimensional environments. His thesis is that many designers plan cities using a simple tree structure...
+                    - For example...
+                        - A city is made up of N neighborhoods...
+                            - Neighborhood 1 contains each of the following...
+                                - School district A
+                                - Commercial district B
+                                - Emergency area C
+                            - Each of "School district A", "Commercial district B", and "Emergency area C" are wholly contained within Neighborhood 1.
+                    - This example is a simple tree — each node has one single parent node
+                        - [FN](<FN.md>) [Trees]([tree](<tree.md>))' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
+                - However, cities are much more complicated than trees — in reality, they are [semi-lattice](<semi-lattice.md>)s. In a semi-lattice, each node can have multiple parents. In this sense a semi-lattice is a more complex graph object than a tree.
+                    - [FN](<FN.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>)) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
+                        - **[Image](<Image.md>):**
+                            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWqDTXlkODx.jpeg?alt=media&token=db6e3bda-fd27-48b8-83ed-88d0908614a1)
+                        - In the above image, there are four layers, each representing some "category" of data or metadata. Once way to understand the above semi-lattice and the dotted line could be...
+                            - The dotted-line represents some data-object which is associated with different layers of metadata...
+                            - (Layer 1) Each yellow triangle represents a single graph member (the object's creator) — in this case, each block or page would only have one original creator
+                            - (Layer 2) Each orange circle represents a daily notes page for a given day. A data object (not a reference to said object) belongs to a single date in time.
+                            - (Layer 3) Each purple shape represents a Collection — if the dotted line represents a Project then the project would be associated with three separate collections...
+                            - (Layer 4) Each blue blob represents a concept (or a group of concepts) — if the dotted line again represents a project, then via the collections (layer 3), the project is associated with various concepts.
+                                - It is important to note here that some concepts map to multiple collections (and therefore in a [nodal view](((jId9rciJf))) would have multiple parents!)
+                - My initial thoughts on how we can use the idea of a [semi-lattice](<semi-lattice.md>) is as a mechanism to capture and understand the complexity of the knowledge in this graph (and all graphs...)
+                    - We've explored various note mythologies and types, discussed explicit and implicit levels of maturity, gone back and forth on the usage of block-level versus page-level information. Through most of this, the idea has been to come to rational categories.
+                        - While this is helpful for managing [complexity](<complexity.md>), rationalizing categories and their sub-components inevitably reduces the richness of information.
+                    - If I were to offer a tentative recommendation of how we could utilize the conceptual framework of a [semi-lattice](<semi-lattice.md>), it would be to begin thinking about  different layers of data and meta-data.
+                        - A few layers of interest might be....
+                            - Node-type: block versus page
+                            - Zettel note type: [fleeting notes](<fleeting notes.md>) versus [literature notes](<literature notes.md>) versus [permanent notes](<permanent notes.md>)
+                            - Synthesis note type: context versus observation/evidence versus proposition/claim/notion versus synthesis
+                            - Level of collaboration: individual thought versus community curation versus community driven
+                            - Collection membership: Notetaking versus Networked Thought versus Spaced Repetition versus ...
+                            - Concept relationships: notetaking versus networked thought versus spaced repetition versus ...
+                        - The layers are quite literally infinite, so some rationalization is most **definitely** required.
+                    - ...
+                - Calling it for the evening, but looking forward to exploring the idea of a [semi-lattice](<semi-lattice.md>) and its multitude of [layers](<layers.md>) in the future
     - [Conversation](<Conversation.md>)
-        - On the question of [community fragmentation](((UPtrVlc29)))
-            - I think that this is a big question for use to solve — how do we nurture divergence within a graph, but 
+        - 
     - [Bookmarks](<Bookmarks.md>)
         - "[Q](<Q.md>) How do you manage the problem of community fragmentation?"
+    - #[Change Log](<Change Log.md>)
+        - Updated the CSS for conversation tags... 
+            - [@[[Their Name](<@[[Their Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
+            - [cc:[[Their Name](<cc:[[Their Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
+            - [~[[Your Name](<~[[Your Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
+            - [^[[Your Name](<^[[Your Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
+            - Goal was to make them a bit more compact, a bit more eye catching...
 - ---
 
 # Backlinks

@@ -61,6 +61,9 @@
 
 - ""#[FN](<FN.md>) Writing [fleeting notes](<fleeting notes.md>)
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- Zettel note type: [fleeting notes](<fleeting notes.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>)
 

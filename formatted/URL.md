@@ -40,6 +40,10 @@
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
     - **[URL](<URL.md>):**
 
+## [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+- **[Status](<Status.md>):** [Processing](<Processing.md>)
+    - **[URL](<URL.md>):**
+
 ## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
 - **[Author](<Author.md>):** [Andy Matuschak](<Andy Matuschak.md>)
     - **[URL](<URL.md>):**

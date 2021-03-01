@@ -36,6 +36,10 @@
 - **[Author(s)](<Author(s).md>):** [Ray Dalio](<Ray Dalio.md>)
     - **[Full Title](<Full Title.md>):**
 
+## [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
+- **[Author](<Author.md>):** [Christopher Alexander](<Christopher Alexander.md>)
+    - **[Full Title](<Full Title.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Author(s)](<Author(s).md>):** [not-populated](<not-populated.md>)
                 - **[Full Title](<Full Title.md>):**
