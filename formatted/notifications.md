@@ -30,6 +30,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[FN](<FN.md>) Keeping up with [notifications](<notifications.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [notifications](<notifications.md>)
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [notifications](<notifications.md>)
 

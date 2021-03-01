@@ -48,6 +48,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [Kyle Stratis](<Kyle Stratis.md>)
+
 ## [Roam Summit/Session I](<Roam Summit/Session I.md>)
 - [Kyle Stratis](<Kyle Stratis.md>)
 

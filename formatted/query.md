@@ -273,6 +273,8 @@
 
 - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
+- {{[query](<query.md>):
+
 - "{{[query](<query.md>):
 
 ## [February 27th, 2021](<February 27th, 2021.md>)

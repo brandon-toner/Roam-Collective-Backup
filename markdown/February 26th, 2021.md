@@ -11,10 +11,12 @@
         - {{Today + FN:42SmartBlock:Today + FN}}
         - {{Today + LN:42SmartBlock:Today + LN}}
     - #[[GTD Zone]] 
-        - {{Active Epics:42SmartBlock:Active Epics}}
+        - **Active Epic(s):**
+        - 
         - **Active Sprint(s):**
             - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
-        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - **TODO Query:** (created today)
+            - {{[[query]]: {and: [[March 1st 2021]] [[TODO]]}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[[Change Log]]

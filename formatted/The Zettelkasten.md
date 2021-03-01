@@ -145,6 +145,9 @@
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 

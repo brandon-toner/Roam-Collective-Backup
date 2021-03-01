@@ -387,6 +387,17 @@ window.updateIndexPage = updateIndexPage;
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+- 12:12 [Charles Farr](<Charles Farr.md>):
+
+- "12:12 [Charles Farr](<Charles Farr.md>):
+
+- 12:13 [Charles Farr](<Charles Farr.md>):
+
+- 12:14 [Charles Farr](<Charles Farr.md>):
+
 ## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
 

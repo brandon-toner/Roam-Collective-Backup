@@ -131,6 +131,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[Daily Activities](<Daily Activities.md>)
 

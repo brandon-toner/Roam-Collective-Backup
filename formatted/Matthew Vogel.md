@@ -77,6 +77,9 @@ return [query, results];```
                 - [roam/templates](<roam/templates.md>)
                 - [DNP Modules](<DNP Modules.md>)
                 - [Prompts](<Prompts.md>)
+                - [Announcements](<Announcements.md>)
+                - [Collections](<Collections.md>)
+                - [Conventions](<Conventions.md>)
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)

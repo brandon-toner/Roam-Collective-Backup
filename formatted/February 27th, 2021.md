@@ -46,7 +46,7 @@
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) about Roam Summit...
             - "[I](<I.md>) Branson and Charles should talk about multiplayer graphs and conventions."
             - "[I](<I.md>) If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live."
-        - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) On block queries: Why do you think that block queries are more powerful than page queries
+        - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) On block queries: Why do you think that block queries are more powerful than page queries
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 

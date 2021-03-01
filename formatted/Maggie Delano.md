@@ -38,3 +38,6 @@
 ## [Maggie Delano](<Maggie Delano.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Maggie Delano](<Maggie Delano.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [Maggie Delano](<Maggie Delano.md>)
+

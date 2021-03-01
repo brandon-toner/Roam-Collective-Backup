@@ -222,6 +222,9 @@
 
 - **[Related](<Related.md>):** "{{[DONE](<DONE.md>)}
 
+## [People](<People.md>)
+- {{[DONE](<DONE.md>)}
+
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - ""{{[DONE](<DONE.md>)}
 

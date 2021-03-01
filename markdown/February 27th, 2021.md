@@ -46,7 +46,7 @@
         - [@Brandon]([[@[[Brandon Toner]]]]) & [@Charles]([[@[[Charles Farr]]]]) about Roam Summit...
             - "#I Branson and Charles should talk about multiplayer graphs and conventions."
             - "#I If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live."
-        - [@Charles]([[@[[Charles Farr]]]]) On block queries: Why do you think that block queries are more powerful than page queries
+        - [@Charles]([[~[[Charles Farr]]]]) On block queries: Why do you think that block queries are more powerful than page queries
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 

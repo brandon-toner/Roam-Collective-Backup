@@ -13,14 +13,14 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - **[Contents](<../Contents.md>):**
     - Global Variables
-        - [42Setting](<../42Setting.md>) ThisWeek #[Week-08: 02-22-2021](<../Week-08: 02-22-2021.md>)
-        - [42Setting](<../42Setting.md>) ThisWkRaw Week-08: 02-22-2021
-        - [42Setting](<../42Setting.md>) NextWeek #[Week-09: 03-01-2021](<../Week-09: 03-01-2021.md>)
-        - [42Setting](<../42Setting.md>) NextWkRaw Week-09: 03-01-2021
-        - [42Setting](<../42Setting.md>) ThisMonth #[February 2021](<../February 2021.md>)
-        - [42Setting](<../42Setting.md>) ThisMnthRaw February 2021
-        - [42Setting](<../42Setting.md>) NextMonth #[March 2021](<../March 2021.md>)
-        - [42Setting](<../42Setting.md>) NextMnthRaw March 2021
+        - [42Setting](<../42Setting.md>) ThisWeek #[Week-09: 03-01-2021](<../Week-09: 03-01-2021.md>)
+        - [42Setting](<../42Setting.md>) ThisWkRaw Week-09: 03-01-2021
+        - [42Setting](<../42Setting.md>) NextWeek #[Week-10: 03-08-2021](<../Week-10: 03-08-2021.md>)
+        - [42Setting](<../42Setting.md>) NextWkRaw Week-10: 03-08-2021
+        - [42Setting](<../42Setting.md>) ThisMonth #[March 2021](<../March 2021.md>)
+        - [42Setting](<../42Setting.md>) ThisMnthRaw March 2021
+        - [42Setting](<../42Setting.md>) NextMonth #[April 2021](<../April 2021.md>)
+        - [42Setting](<../42Setting.md>) NextMnthRaw April 2021
     - Getting Started
         - .rcGS — Getting Started  [42SmartBlock](<../42SmartBlock.md>) 
             - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}

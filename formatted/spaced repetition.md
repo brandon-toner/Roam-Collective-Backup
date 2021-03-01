@@ -61,6 +61,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [spaced repetition](<spaced repetition.md>)
+
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
 

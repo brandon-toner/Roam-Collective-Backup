@@ -269,6 +269,8 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
+- {{[query](<query.md>): {and: [March 1st 2021](<March 1st 2021.md>) [TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -377,13 +379,13 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [Members](<Members.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [Outlines](<Outlines.md>)
-- {{[TODO](<TODO.md>)}
-
-## [People](<People.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC](<Projects/Submit Grant Application to [Urbit](<Urbit.md>) for RC.md>)

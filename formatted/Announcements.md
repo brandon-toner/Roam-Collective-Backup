@@ -25,6 +25,9 @@
 ## [Announcements](<Announcements.md>)
 - **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [Announcements](<Announcements.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Announcements](<Announcements.md>)
 

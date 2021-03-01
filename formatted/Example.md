@@ -159,6 +159,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
                 - **[Example](<Example.md>):**
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- No risk of "taking over" the conversation thread as there is lots of room to move around in here! Conversation diverges and converges as necessary[*]([Bookmarks](<Bookmarks.md>))
+                    - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**

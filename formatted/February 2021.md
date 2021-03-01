@@ -67,9 +67,6 @@
 
 - [ ] Discuss Slack-to-Roam [Agenda](<Agenda.md>)  #[February 2021](<February 2021.md>)
 
-## [Graph/Templates](<Graph/Templates.md>)
-- [42Setting](<42Setting.md>) ThisMonth #[February 2021](<February 2021.md>)
-
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)
 

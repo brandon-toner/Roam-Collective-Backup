@@ -12,6 +12,11 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Books/The Culture Code](<../Books/The Culture Code.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- In [Books/The Culture Code](<../Books/The Culture Code.md>)
+
+- 12:14 [Charles Farr](<../Charles Farr.md>): Much of what I'm writing about is related to [Books/The Culture Code](<../Books/The Culture Code.md>).
+
 ## [[Roam Book Club](<../[Roam Book Club.md>) III](<[Roam Book Club](<../Roam Book Club.md>) III.md>)
 - [Books/The Culture Code](<../Books/The Culture Code.md>)
 

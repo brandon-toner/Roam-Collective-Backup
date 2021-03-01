@@ -1,0 +1,153 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) 
+        - "Feeling like another sync session for the RC might be helpful to cast a vision for the next steps and areas of focus. Realign around a common goal. -- maybe some night this week?"
+    - #[[The Zettelkasten]]
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[[GTD Zone]] 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad 
+        - #I There is huge potential in enhancing the query function in Roam.[*]([[Roam Enhancement Requests]])
+            - Within the block vs within the path
+            - AND/OR/NOT
+        - {{[[TODO]]}} Build out Mark's "refreshing" queries for daily dashboard.
+            - Place on "GTD Zone" and "The Zettelkasten" pages.
+        - #Q How could we develop a "magic-8 ball" similar to the "I'm feeling lucky button" with a better [[signal-to-noise ratio]] #randomization
+            - #Q Given no technical constraints, what results would [it](((Z8bdeyhld))) select from?
+            - #Q How could Roam's search and query functions be improved?
+        - Feeling like another sync session for the RC might be helpful to cast a vision for the next steps and areas of focus. Realign around a common goal. -- maybe some night this week?
+        - On **RC Conversation conventions**:[*]([[conversation]])[*]([[RC/conversation conventions]])
+            - Value comes from:
+                - Ability to think out loud, at no-one in particular, while simultaneously holding space for collaboration.
+                - Ability to "go off on a tangent" at any time, without taking the conversation off the rails. 
+                - Ability to integrate elements of conversation into the ever-growing [[knowledge base]] -- or attach it to active projects and initiatives.
+                    - Information can easily be **tended** -- gardening as a team through the act of conversation
+                        - Good gardeners look for opportunities to create links that naturally arise through conversation. Tending passively as opportunities arise. This is the main skill that drives the success of a collective graph.[*]([[Bookmarks]])
+                - Ability to go as deep and as far down the track on a subject as you are inspired. 
+                    - No risk of "taking over" the conversation thread as there is lots of room to move around in here! Conversation diverges and converges as necessary[*]([[Bookmarks]])
+                    - Example:: Compare discussion on [these ideas](((JQ-PVpFi4))) here vs in Slack.
+                        - I would have NEVER run with the ball so far on this topic within Slack. 
+                            - The [[RC/conversation conventions]] here allow for you to effectively run with the ball.
+                                - Related:: The idea of [[depth-first leadership]] -- with each member going as far as they can see on any given idea.[*]([[Bookmarks]])
+                                    - Is this a real concept, I first heard it mentioned by [Larissa]([[@[[Larissa de Lima]]]])m but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
+            - #I We need a keyword for the conversation convention lol... I feel the need to compile discussions on this recurring topic...
+                - [[RC/conversation conventions]] -- kinda like the RC namespace for this sort of thing... [@Charles]([[@[[Charles Farr]]]])
+    - #Conversation 
+        - [@Charles]([[~[[Charles Farr]]]]) Re: ["Think Tank"](((X9Q366noM)))
+            - [Move to graph](((vwOYQBlIF)))
+                - Yea I 100% agree. In seeing the initial activity, I've been super anxious thinking of all of the missed potential. A graph would help to bring a stronger perspective across time -- saving ideas and improving serendipities.
+                - "[[@[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam."
+                    - Yea, velocity is good. But not great if it's too lossy. I'd say that fast and lossy is much worse for driving progress, outcomes and clarity than slower graph communication.
+                    - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
+                    - But yea, agree. If we can find ways to make the graph experience more nimble and quick, then that would be a huge advancement. 
+                        - Not sure if in-graph chat is the answer though... unless it is effectively tied to documentation conventions. 
+                        - If separate and fleeting, Slack can still play that role.  
+                        - Interested in hearing more details about your vision for in-graph chat. It's yet to "click" for me haha.
+                - "However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication."
+                    - #Q Are RC conventions actually slower than other chat options?
+                        - Less convenient, yes (mobile, push notifications, etc) -- but I'm not quite convinced on slower.
+                            - I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed.
+            - On [personal interests](((_RnYc_LWd)))
+                - Perhaps predictably, I am very interested in most of these haha.
+    - #Bookmarks
+        - "On building a [[semi-lattice]] structure for knowledge work..."
+    - #[[Change Log]] 
+        - Updated global date [variables](((bFUOGEPXz))).
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - Thoughts on the discussion happening in the [[Projects/[[Roam Think Tank]]]] slack
+            - There are so many fascinating ideas bouncing around in the Slack channel... It really needs to move to a graph, though I think the overall velocity of discussion would diminish, it would be easier to establish continuity...
+            - Personal Interests
+                - Building conventions to support multiplayer graphs with varying objectives (e.g., shared knowledge synthesis, task & project management, community discussion & engagement, organizational design, etc.)
+                - Expanding features for communication within the graph (in-graph chat, an expanded notification system)
+                    - A notification system — identifying when you as a user are mentioned within the graph
+                    - In-graph chat — implemented as an additional sidebar; would allow for slack style chatting, memorialized within a single location within the graph, including native roam features (page and block referencing)
+                - Investigating knowledge frameworks, processes, and frameworks to support shared synthesis (revisions of zettelkasten, question & answer frameworks, analysis on strength of evidence)
+                    - Building more verbose mythologies to orient communities around learning objectives
+                    - Better visualization of knowledge relationships
+                    - Analytics to better connect related but tangential nodes
+                - Spaced repetition for learning and for incremental writing (in both community and individual settings)
+                - Decision making frameworks and decision tracking in both individual settings and in organization settings (dovetails well with work around Algorithms for Thought)
+                - Building graph seeds containing the conventions and tools to allow for rapid deployment of graph's to support a community's objectives
+            - Ideas to Track
+                - [[Kyle Stratis]]
+                    - Data Pipelines
+                        - Could these be used for pieces of knowledge?
+                    - [[semantic]] [[knowledge graphs]]
+                - [[Maggie Delano]]
+                    - Teaching courses in Roam
+                    - Group Zettelkasten
+                    - #Q Can Roam Collective help to develop some of the conventions and tutorials to support this?
+                - [[David Bieber]]
+                    - Broader usage and integration of Roam within the browser (using [[BrowserFlow]])
+                    - [[notifications]]
+                    - [[spaced repetition]]
+                    - Use of machine learning to draw connections, develop ideas, navigate the graph
+                - [[Joel Chan]]
+                    - [[knowledge synthesis]]
+                    - [[category theory]]
+                    - Coordination around [[shared knowledge]]
+                - Ivo
+                    - Building out [[semantic]] [[knowledge graphs]]
+                        - Adding additional attributes to a block — e.g., `:block/hasElaboration`
+                - [[Cortex Futura]]
+                    - Academic writing in roam
+                        - Tighter integration with PDFs & accompanying annotations
+                - [[Stian Håklev]]
+                    - [[roam-inter]]
+                - [[Dharam]]
+                    - Expanding visualizations
+                    - Layer-esque visualization (drawing on attributes)
+        - Thoughts on [[in-graph chat]], in-graph snail-mail, and the idea of [[velocity of conversation]]
+            - In [[Books/The Culture Code]] author [[Dan Coyle]] mentions that one way to understand the strength of a community is to evaluate the [[velocity of learning]]. Communities with a high velocity of learning are generally stronger.
+            - In our experience here, conversation and discussion is a real driver of thought, refinement, and synthesis. I would say that strong conversation (and thinking in public) really accelerates the [[velocity of learning]] (both individually and as a community).
+                - #FN The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]
+            - However, the nature of our communication is the [energy required]([[activation energy]]) is higher than other forms communication, such as Slack.
+                - As [[Brandon Toner]] rightly [points out](((iexsCPofn))), the fact that communication is slower forces us as a community to better structure what we're sharing, aiding with overall synthesis. I believe that the conventions of the `#Conversation` section are very effective at doing this.
+                    - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.
+            - So, I would propose a second channel for communication — an [[in-graph chat]] function.
+                - This would allow for rapid communication, which is ideal for certain type of communication.
+                - Asking for someone's opinion on an update to the CSS or if they want to find time time connect this week on a specific project are good example of communication that is fleeting and is appropriate for a chat.
+                    - See: "[[@[[Samuel Bars]]]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?"
+                - I also believe that this could lower the bar for broader participation, especially in mid-stream (per [Mark's](((m6u2SPGWP))) question).
+                    - Imagine you join the RC graph here after a bit and can ping the chat asking what you should review. It would be possible to get near instantaneous feedback on where to jump in.
+            - I think most importantly with the idea of [[in-graph chat]] is that it lives completely within roam.
+                - Each chat would be tagged with an author and a time
+                    - 12:12 [[Charles Farr]]: This is an example chat
+                - Chats would be stored in a single location
+                    - [[roam/chat]]
+                - Chats would be nested underneath a date
+                    - [[March 1st, 2021]]
+                        - "12:12 [[Charles Farr]]: This is an example chat"
+                - You could include page references and block references within a chat
+                    - 12:13 [[Charles Farr]]: Hey all, can you take a look at my thoughts here: "Thoughts on [[in-graph chat]], in-graph snail-mail, and the idea of [[velocity of conversation]]"
+                    - 12:14 [[Charles Farr]]: Much of what I'm writing about is related to [[Books/The Culture Code]]...
+            - Ultimately, I think adding this type of communication would be supplemental to the conventions we have now rather than acting as a replacement.
+    - #Conversation
+        - On Chat with Brandon
+            - [[@[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
+                - See: "#I Create an demo chat interface to demonstrate how native chat in roam could function"
+            - [[@[[Brandon Toner]]]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
+                - I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open.
+                - Now, another thing I would love would be some way to toggle visualizations that would essentially thread multiple conversation blocks together. Similar to clicking the references box, but more conversation oriented...
+        - [[@[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
+            - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+        - [[@[[Samuel Bars]]]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
+            - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
+        - [[@[[Brandon Toner]]]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [[conversation]] tags...
+    - #Bookmarks #not-populated
+- ---

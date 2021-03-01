@@ -5145,7 +5145,7 @@ h6 {
 - [ ] Add to [roam/css](<../roam/css.md>)
 
 ## [People](<People.md>)
-- [ ] Add to [roam/css](<../roam/css.md>)
+- [x] Add to [roam/css](<../roam/css.md>)
 
 ## [Thoughts](<Thoughts.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)

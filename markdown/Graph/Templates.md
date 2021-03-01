@@ -13,14 +13,14 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - Contents::
     - Global Variables
-        - #42Setting ThisWeek #[[Week-08: 02-22-2021]]
-        - #42Setting ThisWkRaw Week-08: 02-22-2021
-        - #42Setting NextWeek #[[Week-09: 03-01-2021]]
-        - #42Setting NextWkRaw Week-09: 03-01-2021
-        - #42Setting ThisMonth #[[February 2021]]
-        - #42Setting ThisMnthRaw February 2021
-        - #42Setting NextMonth #[[March 2021]]
-        - #42Setting NextMnthRaw March 2021
+        - #42Setting ThisWeek #[[Week-09: 03-01-2021]]
+        - #42Setting ThisWkRaw Week-09: 03-01-2021
+        - #42Setting NextWeek #[[Week-10: 03-08-2021]]
+        - #42Setting NextWkRaw Week-10: 03-08-2021
+        - #42Setting ThisMonth #[[March 2021]]
+        - #42Setting ThisMnthRaw March 2021
+        - #42Setting NextMonth #[[April 2021]]
+        - #42Setting NextMnthRaw April 2021
     - Getting Started
         - .rcGS — Getting Started  #42SmartBlock 
             - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}

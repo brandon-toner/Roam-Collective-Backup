@@ -73,6 +73,13 @@
 
 - "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- Good gardeners look for opportunities to create links that naturally arise through conversation. Tending passively as opportunities arise. This is the main skill that drives the success of a collective graph.[*]([Bookmarks](<Bookmarks.md>))
+
+- No risk of "taking over" the conversation thread as there is lots of room to move around in here! Conversation diverges and converges as necessary[*]([Bookmarks](<Bookmarks.md>))
+
+- **[Related](<Related.md>):** The idea of [depth-first leadership](<depth-first leadership.md>) -- with each member going as far as they can see on any given idea.[*]([Bookmarks](<Bookmarks.md>))
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
