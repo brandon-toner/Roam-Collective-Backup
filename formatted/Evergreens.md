@@ -11,6 +11,9 @@
 ## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 
+## [Evergreens/Cite shared principles to foster alignment.](<Evergreens/Cite shared principles to foster alignment..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+
 ## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
 

@@ -77,7 +77,6 @@
                     - A query is a [[translation]] layer — working to aggregate what Rob places into his graph
             - [[Robert Haisfield]]
                 - Think of pages as collections; block references as threads
-        - 
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---

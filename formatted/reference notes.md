@@ -13,16 +13,25 @@
 ## [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
+## [Books/12 Rules for Life](<Books/12 Rules for Life.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
+
 ## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
 ## [Books/Atomic Habits](<Books/Atomic Habits.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
+## [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
+
 ## [Books/Getting Things Done](<Books/Getting Things Done.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
+
+## [Books/Principles](<Books/Principles.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>)
 
 ## [Brandon Toner](<Brandon Toner.md>)

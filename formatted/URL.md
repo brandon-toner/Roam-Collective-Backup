@@ -12,6 +12,10 @@
 - **[Full Title](<Full Title.md>):** Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab
     - **[URL](<URL.md>):**
 
+## [Books/12 Rules for Life](<Books/12 Rules for Life.md>)
+- **[Full Title](<Full Title.md>):** 12 Rules for Life: An Antidote to Chaos
+    - **[URL](<URL.md>):**
+
 ## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
 - **[Full Title](<Full Title.md>):** Administrative Philosophy: values and motivations in administrative life
     - **[URL](<URL.md>):**
@@ -20,11 +24,19 @@
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
     - **[URL](<URL.md>):**
 
+## [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+    - **[URL](<URL.md>):**
+
 ## [Books/Getting Things Done](<Books/Getting Things Done.md>)
 - **[Full Title](<Full Title.md>):** Getting Things Done: The Art of Stress-Free Productivity
     - **[URL](<URL.md>):**
 
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
+- **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
+    - **[URL](<URL.md>):**
+
+## [Books/Principles](<Books/Principles.md>)
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
     - **[URL](<URL.md>):**
 

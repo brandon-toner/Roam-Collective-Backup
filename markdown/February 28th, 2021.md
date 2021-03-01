@@ -2,20 +2,6 @@
     - #[[Daily Activities]] #not-populated
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
-    - #[[The Zettelkasten]]
-        - {{Today + Obs:42SmartBlock:Today + Obs}}
-        - {{Today + Q:42SmartBlock:Today + Q}}
-        - {{Today + I:42SmartBlock:Today + I}}
-        - {{Today + FN:42SmartBlock:Today + FN}}
-        - {{Today + LN:42SmartBlock:Today + LN}}
-    - #[[GTD Zone]] 
-        - {{Active Epics:42SmartBlock:Active Epics}}
-        - {{Active Sprints:42SmartBlock:Active Sprints}}
-        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
-        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
-        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
-    - #[[Change Log]]
-        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad 
@@ -37,7 +23,19 @@
                             - #I Maxims may encompass both mental models and proverbs. 
                                 - "[[maxims]] feels less religiously charged than [[proverbs]] "
                                 - "#[[FN]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])"
-            - #Q What is the difference between [[evergreen notes]] and [[maxims]]?[*]([[Bookmarks]])
+            - #Q What are the differences between [[evergreen notes]] and [[maxims]]?[*]([[Bookmarks]])
+                - #Q Is an evergreen note a maxim?
+                    - And if so, 
+                        - Are all maxims evergreen notes?
+                            - And if so, 
+                                - #Q Should [[maxims]] bear the `Evergreens/` namespace?
+                                    - "#[[FN]] use [[namespaces]] sparingly; when information can only be classified in one way."
+                                        - "#I In this sense, I am tempted to remove namespacing for evergreen notes entirely... "
+            - #Q What are the differences between [[maxims]] and [[principles]]?
+                - I would wager: 
+                    - All principles are maxims, but not all maxims are principles.
+                    - Maxims can be more proverbial than principles.
+                - #Q What is a principle?
             - Hierarchy:
                 - Maxims (practical application of knowledge)
                 - Claims (assertion of knowledge)
@@ -53,15 +51,35 @@
             - [[claims]] = assertions of truths 
             - [[maxims]] = core principles / practical rules of conduct — or [[directives]].
             - #Q What is missing from this framework?[*]([[Bookmarks]])
+        - #[[FN]] use [[namespaces]] sparingly; when information can only be classified in one way.
+            - #[[FN]] [[namespaces]] are at risk of the same issues encountered by file-folder organizational systems. 
+                - "Is this a "this" or a "that"?"
+            - #I In this sense, I am tempted to remove namespacing for evergreen notes entirely... 
+        - [[Evergreens/Cite shared principles to foster alignment.]]
+        - Today's word-cloud I'm wrestling:
+            - [[maxims]]
+            - [[principles]]
+            - [[evergreen notes]]
+            - [[mental models]]
+            - [[claims]]
+            - [[concepts]]
+            - [[proverbs]]
+            - [[directives]]
+        - #[[FN]] accurate and precise category naming is more robust than metaphor or mythology naming.
+            - metaphors and analogies break down — accurate language does not.
+            - #[[FN]] Metaphors should be an interpretive layer above true category naming.
     - #Conversation #not-populated
-    - #[[The Zettelkasten]]
-        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
-        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
-        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
-        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
-    - #[[GTD Zone]]
-        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
-        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
-        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
-    - #[[Change Log]] #not-populated
+    - #[[Change Log]] 
+        - Imported maxims from [[Books/12 Rules for Life]] and [[Books/Beyond Order: 12 More Rules for Life]] as material for reference and demonstration of structure.
+            - Similar could be done for [[Ray Dalio]]'s [[Books/Principles]]
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - On building a [[semi-lattice]] structure for knowledge work
+            - Write some stuff here
+    - #Conversation
+        - On the question of [community fragmentation](((UPtrVlc29)))
+            - I think that this is a big question for use to solve — how do we nurture divergence within a graph, but 
+    - #Bookmarks
+        - "#Q How do you manage the problem of community fragmentation?"
 - ---

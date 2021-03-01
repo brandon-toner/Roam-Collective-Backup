@@ -8,6 +8,10 @@
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Articles](<Articles.md>) ((add type of resource... Articles, Books, Videos etc.))
     - **[Author(s)](<Author(s).md>):**
 
+## [Books/12 Rules for Life](<Books/12 Rules for Life.md>)
+- [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>)
+    - **[Author(s)](<Author(s).md>):**
+
 ## [Books/Administrative Philosophy](<Books/Administrative Philosophy.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):**
@@ -16,12 +20,20 @@
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):**
 
+## [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Books](<Books.md>)
+    - **[Author(s)](<Author(s).md>):**
+
 ## [Books/Getting Things Done](<Books/Getting Things Done.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):**
 
 ## [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)
 - **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) ((add type of resource... Articles, Books, Videos etc.)) [Books](<Books.md>)
+    - **[Author(s)](<Author(s).md>):**
+
+## [Books/Principles](<Books/Principles.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Books](<Books.md>)
     - **[Author(s)](<Author(s).md>):**
 
 ## [Graph/Templates](<Graph/Templates.md>)

@@ -1,0 +1,20 @@
+- Tags:: #Resources #[[Reference Notes]] #Books
+    - Related:: 
+        - [[Lecture Series/Maps of Meaning]]
+        - [[Books/Beyond Order: 12 More Rules for Life]]
+    - Author(s):: [[Jordan Peterson]]
+    - Full Title:: 12 Rules for Life: An Antidote to Chaos
+    - URL:: #not-populated
+    - Contents::
+        - [[Stand up straight with your shoulders back.]]
+        - [[Treat yourself like someone you are responsible for helping.]]
+        - [[Make friends with people who want the best for you.]]
+        - [[Compare yourself to who you were yesterday, not who someone else is today.]]
+        - [[Do not let your children do anything that makes you dislike them.]]
+        - [[Set your house in perfect order before you criticize the world.]]
+        - [[Pursue what is meaningful (not what is expedient).]]
+        - [[Tell the truth, or at least don't lie.]]
+        - [[Assume the person you are listening to might know something you don't.]]
+        - [[Be precise in your speech.]]
+        - [[Do not bother children when they are skateboarding.]]
+        - [[Pet a cat when you encounter one on the street.]]

@@ -100,11 +100,6 @@
 
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
-## [February 28th, 2021](<February 28th, 2021.md>)
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
-- #[The Zettelkasten](<The Zettelkasten.md>)
-
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 

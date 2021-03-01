@@ -160,7 +160,7 @@ window.updateIndexPage = updateIndexPage;
     - Follow Ups
         - #min-title {{[[query]]: {and: [[csf]] [[Follow Up]] {not: {or: }}  }}}
     - Bookmarks
-        - #min-title {{[[query]]: {and: [[csf]] [[Bookmarks]] {not: {or: [[not-populated]] }}  }}}
+        - #min-con {{[[query]]: {and: [[csf]] [[Bookmarks]] {not: {or: [[not-populated]] }}  }}}
     - Todos
         - #min-con {{[[query]]: {and: [[Charles Farr]] [[TODO]] {not: {or: [[query]] }}  }}}
     - Daily Notes

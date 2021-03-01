@@ -77,9 +77,11 @@
 - Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)"
 
 ## [February 28th, 2021](<February 28th, 2021.md>)
-- [Q](<Q.md>) What is the difference between [evergreen notes](<evergreen notes.md>)
+- [Q](<Q.md>) What are the differences between [evergreen notes](<evergreen notes.md>)
 
 - [I](<I.md>) [evergreen notes](<evergreen notes.md>)
+
+- [evergreen notes](<evergreen notes.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Keifon on not rushing to make [evergreen notes](<evergreen notes.md>)

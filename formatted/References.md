@@ -16,6 +16,10 @@
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
 
+## [Evergreens/Cite shared principles to foster alignment.](<Evergreens/Cite shared principles to foster alignment..md>)
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[References](<References.md>):**
+
 ## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
 - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
     - **[References](<References.md>):**

@@ -8,6 +8,10 @@
 ## [2nd-Degree Page Titles](<2nd-Degree Page Titles.md>)
 - #[Next Steps](<Next Steps.md>)
 
+## [Evergreens/Cite shared principles to foster alignment.](<Evergreens/Cite shared principles to foster alignment..md>)
+- **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Next Steps](<Next Steps.md>):**
+
 ## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
 - **[supported by](<supported by.md>):** [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
     - **[Next Steps](<Next Steps.md>):**

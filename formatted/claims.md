@@ -40,6 +40,8 @@
 
 - [claims](<claims.md>)
 
+- [claims](<claims.md>)
+
 ## [Maxims](<Maxims.md>)
 - **[Related](<Related.md>):** [mental models](<mental models.md>), [proverbs](<proverbs.md>), [claims](<claims.md>)
 

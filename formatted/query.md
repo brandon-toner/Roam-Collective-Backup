@@ -67,7 +67,7 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
+- [min-con](<min-con.md>) {{[query](<query.md>):
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 

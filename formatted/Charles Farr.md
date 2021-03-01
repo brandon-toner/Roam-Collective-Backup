@@ -160,7 +160,7 @@ window.updateIndexPage = updateIndexPage;
     - Follow Ups
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Follow Up](<Follow Up.md>) {not: {or: }}  }}}
     - Bookmarks
-        - [min-title](<min-title.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not-populated](<not-populated.md>) }}  }}}
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [csf](<csf.md>) [Bookmarks](<Bookmarks.md>) {not: {or: [not-populated](<not-populated.md>) }}  }}}
     - Todos
         - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Charles Farr](<Charles Farr.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
     - Daily Notes
@@ -273,6 +273,9 @@ window.updateIndexPage = updateIndexPage;
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 27th, 2021](<February 27th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [February 28th, 2021](<February 28th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

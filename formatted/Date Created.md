@@ -8,9 +8,89 @@
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Abandon ideology.](<Abandon ideology..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Act so that you can tell the truth about how you act.](<Act so that you can tell the truth about how you act..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Ask someone to do you a small favour, so that he or she can ask you to do one in the future.](<Ask someone to do you a small favour, so that he or she can ask you to do one in the future..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Assume the person you are listening to might know something you don't.](<Assume the person you are listening to might know something you don't..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Be careful who you share bad news with.](<Be careful who you share bad news with..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Be careful who you share good news with.](<Be careful who you share good news with..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Be grateful in spite of your suffering.](<Be grateful in spite of your suffering..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Be precise in your speech.](<Be precise in your speech..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
             - **[Date Created](<Date Created.md>):**
+
+## [Compare yourself to who you were yesterday, not who someone else is today.](<Compare yourself to who you were yesterday, not who someone else is today..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not allow yourself to become arrogant or resentful.](<Do not allow yourself to become arrogant or resentful..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not bother children when they are skateboarding.](<Do not bother children when they are skateboarding..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not carelessly denigrate social institutions or artistic achievement.](<Do not carelessly denigrate social institutions or artistic achievement..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not do what you hate.](<Do not do what you hate..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not hide unwanted things in the fog.](<Do not hide unwanted things in the fog..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not let your children do anything that makes you dislike them.](<Do not let your children do anything that makes you dislike them..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not transform your wife into a maid.](<Do not transform your wife into a maid..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Do not try to rescue someone who does not want to be rescued, and be very careful about rescuing someone who does.](<Do not try to rescue someone who does not want to be rescued, and be very careful about rescuing someone who does..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Don't avoid something frightening if it stands in your way -- and don't do unnecessarily dangerous things.](<Don't avoid something frightening if it stands in your way -- and don't do unnecessarily dangerous things..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Don't let bullies get away with it.](<Don't let bullies get away with it..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Dress like the person you want to be.](<Dress like the person you want to be..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
 
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
 - **[Tags](<Tags.md>):** `#[Evergreen Notes](<Evergreen Notes.md>)` [Experiments](<Experiments.md>) [Examples](<Examples.md>) [Status](<Status.md>)/Inactive
@@ -30,6 +110,10 @@
 
 ## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Evergreens/Cite shared principles to foster alignment.](<Evergreens/Cite shared principles to foster alignment..md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) [alignment](<alignment.md>) [Maxims](<Maxims.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
@@ -181,6 +265,50 @@
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
                 - **[Date Created](<Date Created.md>):**
 
+## [If old memories still upset you, write them down carefully and completely.](<If old memories still upset you, write them down carefully and completely..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [If you have to choose, be the one who does things, instead of the one who is seen to do things.](<If you have to choose, be the one who does things, instead of the one who is seen to do things..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Imagine who you could be, and then aim single-mindedly at that.](<Imagine who you could be, and then aim single-mindedly at that..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Maintain your connections with people.](<Maintain your connections with people..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Make at least one thing better every single place you go.](<Make at least one thing better every single place you go..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Make friends with people who want the best for you.](<Make friends with people who want the best for you..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Nothing well done is insignificant.](<Nothing well done is insignificant..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Notice that opportunity lurks where responsibility has been abdicated.](<Notice that opportunity lurks where responsibility has been abdicated..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Pay attention.](<Pay attention..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Pet a cat when you encounter one on the street.](<Pet a cat when you encounter one on the street..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Plan and work diligently to maintain the romance in your relationships.](<Plan and work diligently to maintain the romance in your relationships..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
 - **[Tags](<Tags.md>):** [Projects](<Projects.md>) [backup](<backup.md>) #[Roam-Collective](<Roam-Collective.md>)
     - **[Date Created](<Date Created.md>):**
@@ -199,6 +327,10 @@
 
 ## [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>)
 - **[Tags](<Tags.md>):** [Maxims](<Maxims.md>) [Metaphors](<Metaphors.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Pursue what is meaningful (not what is expedient).](<Pursue what is meaningful (not what is expedient)..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
@@ -221,6 +353,14 @@
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Read something written by someone great.](<Read something written by someone great..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Remember that what you do not yet know is more important than what you already know.](<Remember that what you do not yet know is more important than what you already know..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)
     - **[Date Created](<Date Created.md>):**
@@ -237,12 +377,44 @@
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>), [mutually exclusive](<mutually exclusive.md>), [Concepts](<Concepts.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [Set your house in perfect order before you criticize the world.](<Set your house in perfect order before you criticize the world..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - **Central question:** [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
 - **[Tags](<Tags.md>):** [Sprints](<Sprints.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Stand up straight with your shoulders back.](<Stand up straight with your shoulders back..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Tell the truth, or at least don't lie.](<Tell the truth, or at least don't lie..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Treat yourself as if you were someone that you are responsible for helping.](<Treat yourself as if you were someone that you are responsible for helping..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Treat yourself like someone you are responsible for helping.](<Treat yourself like someone you are responsible for helping..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Try to make one room in your house as beautiful as possible.](<Try to make one room in your house as beautiful as possible..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Work as hard as you possibly can on at least one thing and see what happens.](<Work as hard as you possibly can on at least one thing and see what happens..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
+    - **[Date Created](<Date Created.md>):**
+
+## [Write a letter to the government if you see something that needs fixing -- and propose a solution.](<Write a letter to the government if you see something that needs fixing -- and propose a solution..md>)
+- **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)

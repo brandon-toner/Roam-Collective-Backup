@@ -20,6 +20,10 @@
 ## [Becoming an Editor](<Becoming an Editor.md>)
 - **[Related](<Related.md>):**
 
+## [Books/12 Rules for Life](<Books/12 Rules for Life.md>)
+- **[Tags](<Tags.md>):** [Resources](<Resources.md>) #[Reference Notes](<Reference Notes.md>) [Books](<Books.md>)
+    - **[Related](<Related.md>):**
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
             - **[Related](<Related.md>):**
