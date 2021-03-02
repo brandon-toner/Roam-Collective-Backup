@@ -131,6 +131,10 @@
 - Excellent! Widely applicable. The themes covered in the series can be applied to many situations. 
     - **[URL](<URL.md>):**
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- Article on [maxims](<maxims.md>) [Resources](<Resources.md>)
+            - **[URL](<URL.md>):**
+
 ## [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
 - **[Full Title](<Full Title.md>):** Maps of Meaning 08: Neuropsychology of Symbolic Representation
     - **[URL](<URL.md>):**

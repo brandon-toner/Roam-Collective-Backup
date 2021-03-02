@@ -208,6 +208,8 @@
 - **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>), [evergreen notes](<evergreen notes.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
+- They all might be sub-types of [evergreen notes](<evergreen notes.md>)
+
 - [maxims](<maxims.md>) are similar to [evergreen notes](<evergreen notes.md>)
 
 ## [Reference Notes](<Reference Notes.md>)

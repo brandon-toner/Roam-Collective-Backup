@@ -388,6 +388,8 @@ window.updateIndexPage = updateIndexPage;
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
+- [Q](<Q.md>) What is the difference between a principle and a directive?[*]([Charles Farr](<Charles Farr.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 - 12:12 [Charles Farr](<Charles Farr.md>):
@@ -397,6 +399,8 @@ window.updateIndexPage = updateIndexPage;
 - 12:13 [Charles Farr](<Charles Farr.md>):
 
 - 12:14 [Charles Farr](<Charles Farr.md>):
+
+- I take it you shared this with [Stian Håklev](<Stian Håklev.md>) already [Charles Farr](<Charles Farr.md>)?
 
 ## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
@@ -423,4 +427,7 @@ window.updateIndexPage = updateIndexPage;
 - "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
+
+## [roam/chat](<roam/chat.md>)
+- [Charles Farr](<Charles Farr.md>)
 

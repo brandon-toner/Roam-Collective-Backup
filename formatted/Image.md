@@ -121,6 +121,10 @@ Resolve by "[replace as text](<replace as text.md>)"
 - "Roam wasn't built in a day" error message when adjusting [User Settings](<User Settings.md>)
         - **[Image](<Image.md>):**
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [~[[Mark Robertson](<~[[Mark Robertson.md>)]] regarding [my thoughts](((suZ32Mrpd))), I was thinking something more along the lines of the below...
+                - **[Image](<Image.md>):**
+
 ## [Pharmacist's Patient Care Process (Dalhousie University)](<Pharmacist's Patient Care Process (Dalhousie University).md>)
 - **[Authored by](<Authored by.md>):** [Dalhousie College of Pharmacy](<Dalhousie College of Pharmacy.md>)
     - **[Image](<Image.md>):**

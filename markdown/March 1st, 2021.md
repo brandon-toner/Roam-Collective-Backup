@@ -65,6 +65,16 @@
             - Comments::
                 - Gah, they still feel quite obtrusive though hahah
                     - I would have definitely buried [this mention](((V77vH8vel))) in an asterisk alias
+        - [[directives]] vs [[maxims]] vs [[principles]] vs [[claims]]
+            - **Claims**, **maxims/principles**, and **directives** might be all different things! 
+            - They all might be sub-types of [[evergreen notes]]
+            - #Q What is the difference between a principle and a directive?[*]([[Charles Farr]])
+                - [[directives]] lead with a verb.
+                - [[maxims]] are generalized or proverbial wisdom.
+                - [[claims]] are rational [[arguments]].
+        - Article on [[maxims]] #Resources
+            - URL:: https://www.thoughtco.com/what-is-a-maxim-p2-1691778
+            - 
     - #Conversation 
         - [@Charles]([[~[[Charles Farr]]]]) Re: ["Think Tank"](((X9Q366noM)))
             - [Move to graph](((vwOYQBlIF)))
@@ -85,6 +95,19 @@
                     - Hosting conversation here (as opposed to another new graph) would also help rest my tension around [community fragmentation](((UPtrVlc29))). 
             - On [personal interests](((_RnYc_LWd)))
                 - Perhaps predictably, I am very interested in most of these haha.
+        - [[@[[Wade Dominic]]]] on [agile development](((jcFsFvNoY)))[*]([[agile development]])
+            - Discussed stories with [Charles]([[@[[Charles Farr]]]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands.
+            - There is still a fair bit of work to be done to mature and implement the agile framework in RC, but this is something I'm keen to see happen. 
+            - The problem is, I am very loose and exploratory in my development style haha — so I'm until I catch a wave of clarity on this, I'm not super likely to push it forward. 
+            - Part of what is holding me back currently is likely the lack of clarity on overall direction/roadmap. 
+            - I'm sort waiting for the epics to form naturally rather than forcing their development... but who knows — they might emerge sooner. 
+            - "#Q How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?"
+                - Projects have statuses (on hold, in progress, completed, dropped, someday|maybe) — and these projects can easily be linked to one or several epics.
+                    - An epic is comprised of multiple projects. 
+                    - Sprints help to converge group attention and efforts to one or more projects as dictated by group priorities, interests and timelines.
+            - "#Q How do we capture story dependencies? eg Story B depends on A"
+                - Manually, this could be done based on a `Dependencies::` attribute on the story (project) page. — with the status block reffed on the same line to promote good [visibility](((D3gcKeMVe))) without having to click-in to the project.[*](((4d48_3iGO)))
+                    - This manual workflow is likely sufficient until a robust workflow emerges, making room for automation.
     - #Bookmarks
         - "On building a [[semi-lattice]] structure for knowledge work..."
     - #[[Change Log]] 
@@ -161,13 +184,26 @@
                     - 12:14 [[Charles Farr]]: Much of what I'm writing about is related to [[Books/The Culture Code]]...
             - Ultimately, I think adding this type of communication would be supplemental to the conventions we have now rather than acting as a replacement.
     - #Conversation
-        - On Chat with Brandon
+        - On Chat with Brandon & Mark
             - [[^[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
                 - See: "#I Create an demo chat interface to demonstrate how native chat in roam could function"
             - [[^[[Brandon Toner]]]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
                 - I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open.
                 - Now, another thing I would love would be some way to toggle visualizations that would essentially thread multiple conversation blocks together. Similar to clicking the references box, but more conversation oriented...
             - [[~[[Brandon Toner]]]] to your point [here](((JQod1Yt80))), I agree that this method is much stronger. However, the ideas I was building off of were widely shared in a chat form, and then expanded upon. I don't think people's approach to chat is going to change, so it would be worthwhile to bring it into a graph so anyone could then thread off of it!
+            - [[@[[Brandon Toner]]]] [[~[[Mark Robertson]]]] regarding [my thoughts](((suZ32Mrpd))), I was thinking something more along the lines of the below...
+                - Image::
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbpryAU5RPE.png?alt=media&token=649e13d3-7a94-41a4-b8a6-17312dbfe640)
+                - The components & process underpinning of the above are...
+                    - The [[Chatroom]], which would be an embedded chat, allowing users to easily type into the bar.
+                        - This window would write into the [[roam/chat]] page, which would essentially serve as a repository of the chat's history
+                            - The benefits here are numerous...
+                                - Chats can use roams page reference and block reference functions, as the foundation is a block within the [[roam/chat]] page
+                                - Graph users could go into block reference a chat block, to thread conversation (either within the Chatroom or on their own conversation page)
+                                - Eliminates the split between some IRC chatroom and the graph where work is done...
+                - In theory, you could have multiple chats going under different namespaces, such as `roam/chat/Roam Think Tank` or `roam/chat/General Chat`, which would be accessible through `Chatroom/Roam Think Tank` and `Chatroom/General Chat`
+                - Ultimately, this would provide most of the benefits of slack or discord without ever leaving the graph... The other upside is the ability to use native roam features within chat, and to use block-references to thread off of chat (either as a conversation or as input into other notes).
+                - My intuition is this is technically possible within roam — perhaps some [[render]] object could be used to create the Chatrooms?
         - Simple Replies
             - [[@[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
                 - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
@@ -176,6 +212,7 @@
                         - https://twitter.com/JoelChan86/status/1365352979331747845?s=20
             - [[@[[Samuel Bars]]]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
                 - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
+                - Check out my thoughts [here](((9SJh9UAcx))) — pulled together a janky mockup in figma
             - [[~[[Brandon Toner]]]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [[conversation]] tags...
         - [[Clubhouse]] chat with [[Brandon Toner]]
             - [[maxims]] are similar to [[evergreen notes]] in many ways; similar with [[catch phrases]], [[principles]], etc.
@@ -194,12 +231,28 @@
             - "the most developed approach will be spectrum based"
     - #Bookmarks
         - {{[[TODO]]}} Review Brandon's thoughts on maxims
+        - "I agree with these two points strongly. "
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) 
     - #Conversation
-        - 
+        - Regarding [[Projects/[[Roam Think Tank]]]] and the complexities of dialogue
+            - "I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed."
+            - "I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open."
+                - I agree with these two points strongly. 
+                - But I would disagree with the [latter](((ggdiG2UMw))) at some fundamental level in that conventions could be mediated in the short-term and shaped in the long-term to provide the thread experience. 
+                    - More testing would be necessary to work out the intricacies, [but look at this screenshot](((oQnsl-Asr)))
+                        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FQf-ahMbOnu.png?alt=media&token=514205cf-a9e3-44d3-822f-5e148526f198)
+                        - 
+                    - Is the above not what you were suggesting Charles?
+                        - #Q Couldn't some kind of anchor be used to guide a viewer to the top of the chain of conversation?  
+            - Replies:
+                - [My intuition](((ZYBIgpKx8))), likely not better than yours is absolutely possible. Perhaps even in JS, but definitely in [[roam/render]]. 
+                - I take it you shared this with [[Stian Håklev]] already [[Charles Farr]]?
+        - [[@[[Brandon Toner]]]] and [[@[[Charles Farr]]]] - I think the [[Projects/[[Roam Think Tank]]]] is calling for your expertise!
+            - Looks like [[Roamhacker]] wishes to open a graph for the group. 
+            - We are already on [[Discord]] now. 
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"

@@ -56,6 +56,9 @@
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - [@[[Zsolt Viczián](<../@[[Zsolt Viczián.md>)]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [roam/render](<../roam/render.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [My intuition](((ZYBIgpKx8))), likely not better than yours is absolutely possible. Perhaps even in JS, but definitely in [roam/render](<../roam/render.md>).
+
 ## [roam/render](<roam/render.md>)
 - {{[roam/render](<../roam/render.md>):
 

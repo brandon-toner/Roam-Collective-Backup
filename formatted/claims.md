@@ -42,6 +42,11 @@
 
 - [claims](<claims.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [directives](<directives.md>) vs [maxims](<maxims.md>) vs [principles](<principles.md>) vs [claims](<claims.md>)
+
+- [claims](<claims.md>)
+
 ## [Maxims](<Maxims.md>)
 - **[Related](<Related.md>):** [mental models](<mental models.md>), [proverbs](<proverbs.md>), [claims](<claims.md>)
 

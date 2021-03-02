@@ -32,3 +32,5 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [Stian Håklev](<Stian Håklev.md>)
 
+- I take it you shared this with [Stian Håklev](<Stian Håklev.md>)
+

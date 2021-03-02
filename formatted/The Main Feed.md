@@ -117,6 +117,9 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - #[The Main Feed](<The Main Feed.md>)
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- #[The Main Feed](<The Main Feed.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[The Main Feed](<The Main Feed.md>)
 

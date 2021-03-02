@@ -32,7 +32,7 @@
                     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
                     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
                 - ---
-- {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
+- {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
 - **Query**
     - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
     - {{[query](<query.md>): {and: [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
@@ -95,4 +95,7 @@
 
 ## [prepositional linkages](<prepositional linkages.md>)
 - [Mark Robertson](<Mark Robertson.md>)'
+
+## [roam/chat](<roam/chat.md>)
+- [Mark Robertson](<Mark Robertson.md>):
 
