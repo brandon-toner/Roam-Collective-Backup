@@ -114,7 +114,6 @@
                     - ...
                 - Calling it for the evening, but looking forward to exploring the idea of a [semi-lattice](<semi-lattice.md>) and its multitude of [layers](<layers.md>) in the future
     - [Conversation](<Conversation.md>)
-        - 
     - [Bookmarks](<Bookmarks.md>)
         - "[Q](<Q.md>) How do you manage the problem of community fragmentation?"
     - #[Change Log](<Change Log.md>)

@@ -22,3 +22,8 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - **[Vision](<Vision.md>):** Ability to reference the [Urbit](<Urbit.md>) [chat](<chat.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [FN](<FN.md>) Traditional [chat](<chat.md>)
+
+- **Decision:** I'm going to stop using [aliases](<aliases.md>) for [chat](<chat.md>).
+

@@ -269,7 +269,7 @@
 - {{[TODO](<TODO.md>)}
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
-- {{[query](<query.md>): {and: [March 1st 2021](<March 1st 2021.md>) [TODO](<TODO.md>)}
+- {{[query](<query.md>): {and: [February 26th 2021](<February 26th 2021.md>) [TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -380,6 +380,10 @@
 - {{[TODO](<TODO.md>)}
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
+- {{[query](<query.md>): {and: [February 26th 2021](<February 26th 2021.md>) [TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 ## [Members](<Members.md>)

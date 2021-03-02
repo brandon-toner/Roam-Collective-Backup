@@ -12,3 +12,7 @@
 - Guided writing sessions
             - **[Comments](<Comments.md>):**
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- Aliases don't visually change when changed to read/saved.
+            - **[Comments](<Comments.md>):**
+

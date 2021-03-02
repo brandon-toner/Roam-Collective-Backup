@@ -72,14 +72,14 @@
     - #Conversation
         - [@Samuel]([[~[[Samuel Bars]]]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
             - Though we could probably build come custom [[datalog]] to tackle this...
-        - [@Brandon]([[@[[Brandon Toner]]]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
+        - [@Brandon]([[~[[Brandon Toner]]]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - {{[[TODO]]}} #[[Follow Up]] Review [[block-level tags]] & aggregate into collection
-        - [@Brandon]([[@[[Brandon Toner]]]]) and [@Samuel]([[~[[Samuel Bars]]]]) on [[block-level tags]]
+        - [@Brandon]([[~[[Brandon Toner]]]]) and [@Samuel]([[~[[Samuel Bars]]]]) on [[block-level tags]]
             - "#FN Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
                 - #FN The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([[@[[Peter Rosso]]]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
             - However, if we got Roam Inter up and running in The Agora, we could easily aggregate updates centrally
-        - [@Brandon]([[@[[Brandon Toner]]]]) & [@Peter]([[@[[Peter Rosso]]]]) on Weekly Summaries
+        - [@Brandon]([[^[[Brandon Toner]]]]) & [@Peter]([[@[[Peter Rosso]]]]) on Weekly Summaries
             - I think something like [this](((dFbvCf9ei))) could be incredibly useful. However, is there a way to do some of this programatically?
             - It could be cool to aggregate all new questions or fleeting note blocks added on a daily basis — could do it in the header...
                 - Just saw the "#[[The Zettelkasten]]" queries — looks great...

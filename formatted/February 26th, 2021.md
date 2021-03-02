@@ -16,7 +16,7 @@
         - **Active Sprint(s):**
             - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
         - **TODO Query:** (created today)
-            - {{[query](<query.md>): {and: [March 1st 2021](<March 1st 2021.md>) [TODO](<TODO.md>)}}}
+            - {{[query](<query.md>): {and: [February 26th 2021](<February 26th 2021.md>) [TODO](<TODO.md>)}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[Change Log](<Change Log.md>)
@@ -168,7 +168,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
@@ -193,7 +193,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 

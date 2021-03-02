@@ -51,7 +51,7 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - On **RC Conversation conventions**:[*]([conversation](<conversation.md>))
 
-- [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [conversation](<conversation.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [conversation](<conversation.md>)
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Interests](<Interests.md>):** [hiking](<hiking.md>), [tools for thought](<tools for thought.md>), [learning](<learning.md>), [interdisciplinary thinking](<interdisciplinary thinking.md>), [systems thinking](<systems thinking.md>), [conversation](<conversation.md>)

@@ -23,6 +23,11 @@
 
 - Perfect recommendation, as I'm aiming to reconcile [GTD](<GTD.md>) horizons with [agile development](<agile development.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- In typical [agile development](<agile development.md>)
+
+- "In typical [agile development](<agile development.md>)
+
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)
 

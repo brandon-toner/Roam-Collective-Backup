@@ -32,7 +32,7 @@
                     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
                     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
                 - ---
-- {{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}
+- {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
 - **Query**
     - {{[query](<query.md>): {and: [@[[Mark Robertson](<@[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
     - {{[query](<query.md>): {and: [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] {not: [query](<query.md>)}}}}
@@ -82,6 +82,9 @@
 
 - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
+
+## [March 1st, 2021](<March 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)

@@ -572,6 +572,8 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 - As [Brandon Toner](<Brandon Toner.md>)
 
+- [Clubhouse](<Clubhouse.md>) chat with [Brandon Toner](<Brandon Toner.md>)
+
 ## [Nothing well done is insignificant.](<Nothing well done is insignificant..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 

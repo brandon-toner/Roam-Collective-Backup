@@ -78,7 +78,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
         - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [this](((pn24y17FZ)))
             - Yeah loving the block-level tags now. Using them in my own db regularly now
         - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [bookmarks](((TiZZW_6Ig))), I'm gonna try something different actually, instead of [randomization](<randomization.md>), with the question-centric workflows I'm tinkering with
@@ -202,20 +202,18 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
             - Each formulates one or more [literature notes](<literature notes.md>), SRS prompts, etc.
             - The compiled work together makes a better companion resource for all group members. 
     - [Conversation](<Conversation.md>) 
-        1. Notifications Inbox
-            - [min-title](<min-title.md>) {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: {or: [query](<query.md>) [42SmartBlock](<42SmartBlock.md>)}}}}}
-        2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
-            - "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+        1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
+            - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
                 - **[Image](<Image.md>):**
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FityVTqIvrx.png?alt=media&token=efdbb3f4-7d62-4dd4-96dd-768726f37ed9)
-        3. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
+        2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
 
 PS: great work running that! 
 
 **UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fpu3d-bRthC.png?alt=media&token=023951bb-da91-425d-9d1d-39326ac84021)
-        4. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) Thanks for the [feedback](((SoF26U1Le)))! Means a lot. We've definitely put a fair bit of work into making this into a functional space. 
+        3. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) Thanks for the [feedback](((SoF26U1Le)))! Means a lot. We've definitely put a fair bit of work into making this into a functional space. 
     - #[Bug Reports](<Bug Reports.md>)
         - Aliased references are not showing up in queries. 
             - [Obs](<Obs.md>) Aliased mentions are not showing up in queries.
@@ -245,7 +243,7 @@ PS: great work running that!
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - Simple Replies
-            - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>)
         - Changed Break Css → "Breaks — `---`"

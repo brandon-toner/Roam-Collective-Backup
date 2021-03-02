@@ -78,7 +78,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
     - #[[GTD Zone]] #not-populated
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
-        - [@Brandon]([[@[[Brandon Toner]]]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
+        - [@Brandon]([[~[[Brandon Toner]]]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
         - [@Charles]([[@[[Charles Farr]]]]) on [this](((pn24y17FZ)))
             - Yeah loving the block-level tags now. Using them in my own db regularly now
         - [@Charles]([[@[[Charles Farr]]]]) on [bookmarks](((TiZZW_6Ig))), I'm gonna try something different actually, instead of [[randomization]], with the question-centric workflows I'm tinkering with
@@ -202,20 +202,18 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
             - Each formulates one or more [[literature notes]], SRS prompts, etc.
             - The compiled work together makes a better companion resource for all group members. 
     - #Conversation 
-        1. Notifications Inbox
-            - #min-title {{[[query]]: {and: [[@[[Brandon Toner]]]] {not: {or: [[query]] [[42SmartBlock]]}}}}}
-        2. [@Charles]([[~[[Charles Farr]]]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
-            - "[@Brandon]([[@[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+        1. [@Charles]([[~[[Charles Farr]]]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
+            - "[@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
                 - Image::
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FityVTqIvrx.png?alt=media&token=efdbb3f4-7d62-4dd4-96dd-768726f37ed9)
-        3. [@Peter]([[@[[Peter Rosso]]]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
+        2. [@Peter]([[@[[Peter Rosso]]]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
 
 PS: great work running that! 
 
 **UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fpu3d-bRthC.png?alt=media&token=023951bb-da91-425d-9d1d-39326ac84021)
-        4. [@Mark]([[@[[Mark Robertson]]]]) Thanks for the [feedback](((SoF26U1Le)))! Means a lot. We've definitely put a fair bit of work into making this into a functional space. 
+        3. [@Mark]([[@[[Mark Robertson]]]]) Thanks for the [feedback](((SoF26U1Le)))! Means a lot. We've definitely put a fair bit of work into making this into a functional space. 
     - #[[Bug Reports]]
         - Aliased references are not showing up in queries. 
             - #Obs Aliased mentions are not showing up in queries.
@@ -245,7 +243,7 @@ PS: great work running that!
     - #Scratchpad #not-populated
     - #Conversation
         - Simple Replies
-            - [@Brandon]([[@[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
+            - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - #Bookmarks #not-populated
     - #[[Change Log]]
         - Changed Break Css → "Breaks — `---`"

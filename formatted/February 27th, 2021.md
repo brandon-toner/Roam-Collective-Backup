@@ -38,7 +38,7 @@
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) on GTD: ...
+        - [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) on GTD: ...
             - At the moment I am using the structure below. If action items need to be deferred there is a parent block above the TODO (but children to `Action Items`) which has either the decided date or `[Status/Someday|Maybe](<Status/Someday|Maybe.md>)`
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fk3J4rq3NG0.png?alt=media&token=11b73370-cf99-4702-a413-985f2f760aa3)
                 -  As I was doing the purge I changed background of done items, Items with dates and items with Defer tag so I could cycle through the week quickly and decide what I needed to do.

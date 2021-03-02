@@ -232,10 +232,6 @@
 
 - "{{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>):
-
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [@[[Brandon Toner](<@[[Brandon Toner.md>)]] {not: {or: [query](<query.md>)
-
 - {{[query](<query.md>):
 
 - {{[query](<query.md>):
@@ -381,6 +377,17 @@
 - {{[query](<query.md>):
 
 - {{[query](<query.md>): {and: [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] {not: [query](<query.md>)]
+
+## [March 1st, 2021](<March 1st, 2021.md>)
+- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
+- {{[query](<query.md>):
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>):

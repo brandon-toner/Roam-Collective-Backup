@@ -10,9 +10,12 @@
         - {{Today + FN:42SmartBlock:Today + FN}}
         - {{Today + LN:42SmartBlock:Today + LN}}
     - #[GTD Zone](<GTD Zone.md>) 
-        - {{Active Epics:42SmartBlock:Active Epics}}
-        - {{Active Sprints:42SmartBlock:Active Sprints}}
-        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - **Active Epic(s):**
+            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+        - **Active Sprint(s):**
+            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+        - **TODO Query:** (created today)
+            - {{[query](<query.md>): {and: [February 26th 2021](<February 26th 2021.md>) [TODO](<TODO.md>)}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[Change Log](<Change Log.md>)
@@ -23,7 +26,7 @@
         - [I](<I.md>) There is huge potential in enhancing the query function in Roam.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
             - Within the block vs within the path
             - AND/OR/NOT
-        - [ ] Build out Mark's "refreshing" queries for daily dashboard.
+        - [ ] Build out Mark's "refreshing" queries for daily dashboard. #[Week-09: 03-01-2021](<Week-09: 03-01-2021.md>)
             - Place on "GTD Zone" and "The Zettelkasten" pages.
         - [Q](<Q.md>) How could we develop a "magic-8 ball" similar to the "I'm feeling lucky button" with a better [signal-to-noise ratio](<signal-to-noise ratio.md>) [randomization](<randomization.md>)
             - [Q](<Q.md>) Given no technical constraints, what results would [it](((Z8bdeyhld))) select from?
@@ -42,14 +45,31 @@
                         - I would have NEVER run with the ball so far on this topic within Slack. 
                             - The [RC/conversation conventions](<RC/conversation conventions.md>) here allow for you to effectively run with the ball.
                                 - **[Related](<Related.md>):** The idea of [depth-first leadership](<depth-first leadership.md>) -- with each member going as far as they can see on any given idea.[*]([Bookmarks](<Bookmarks.md>))
-                                    - Is this a real concept, I first heard it mentioned by [Larissa]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])m but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
+                                    - Is this a real concept, I first heard it mentioned by [Larissa]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]) but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
+                                - [FN](<FN.md>) Traditional [chat](<chat.md>) interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
             - [I](<I.md>) We need a keyword for the conversation convention lol... I feel the need to compile discussions on this recurring topic...
-                - [RC/conversation conventions](<RC/conversation conventions.md>) -- kinda like the RC namespace for this sort of thing... [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+                - [RC/conversation conventions](<RC/conversation conventions.md>) -- kinda like the RC namespace for this sort of thing... [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+            - 
+        - [Q](<Q.md>) How might RC [conventions](<conventions.md>) change for communities with:
+            - 10 active users
+            - 50 active users 
+            - 100 active users 
+            - 500 active users
+        - **Decision:** I'm going to stop using [aliases](<aliases.md>) for [chat](<chat.md>). [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+            - **[Rationale](<Rationale.md>):** 
+                - I want mentions to appear in queries. 
+                    - "[Obs](<Obs.md>) Aliased mentions are not showing up in queries."
+                - I want to test the [new CSS](((LSEOq9Cyn)))
+                    - If it feels too "loud" we can further tame the CSS...
+                - Aliases don't visually change when changed to read/saved.
+            - **[Comments](<Comments.md>):**
+                - Gah, they still feel quite obtrusive though hahah
+                    - I would have definitely buried [this mention](((V77vH8vel))) in an asterisk alias
     - [Conversation](<Conversation.md>) 
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) Re: ["Think Tank"](((X9Q366noM)))
             - [Move to graph](((vwOYQBlIF)))
                 - Yea I 100% agree. In seeing the initial activity, I've been super anxious thinking of all of the missed potential. A graph would help to bring a stronger perspective across time -- saving ideas and improving serendipities.
-                - "[@[[Brandon Toner](<@[[Brandon Toner.md>)]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [velocity of conversation](<velocity of conversation.md>) is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam."
+                - "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [velocity of conversation](<velocity of conversation.md>) is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam."
                     - Yea, velocity is good. But not great if it's too lossy. I'd say that fast and lossy is much worse for driving progress, outcomes and clarity than slower graph communication.
                     - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
                     - But yea, agree. If we can find ways to make the graph experience more nimble and quick, then that would be a huge advancement. 
@@ -60,6 +80,9 @@
                     - [Q](<Q.md>) Are RC conventions actually slower than other chat options?
                         - Less convenient, yes (mobile, push notifications, etc) -- but I'm not quite convinced on slower.
                             - I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed.
+                - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] to your point [here](((JQod1Yt80))), I agree that this method is much stronger. However, the ideas I was building off of were widely shared in a chat form, and then expanded upon. I don't think people's approach to chat is going to change, so it would be worthwhile to bring it into a graph so anyone could then thread off of it!"
+                    - Maybe we could simply offer the RC graph as a conversational space in addition to the Slack channel. 
+                    - Hosting conversation here (as opposed to another new graph) would also help rest my tension around [community fragmentation](((UPtrVlc29))). 
             - On [personal interests](((_RnYc_LWd)))
                 - Perhaps predictably, I am very interested in most of these haha.
     - [Bookmarks](<Bookmarks.md>)
@@ -139,17 +162,62 @@
             - Ultimately, I think adding this type of communication would be supplemental to the conventions we have now rather than acting as a replacement.
     - [Conversation](<Conversation.md>)
         - On Chat with Brandon
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [velocity of conversation](<velocity of conversation.md>) is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [velocity of conversation](<velocity of conversation.md>) is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
                 - See: "[I](<I.md>) Create an demo chat interface to demonstrate how native chat in roam could function"
-            - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
                 - I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open.
                 - Now, another thing I would love would be some way to toggle visualizations that would essentially thread multiple conversation blocks together. Similar to clicking the references box, but more conversation oriented...
-        - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content.
-            - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
-        - [@[[Samuel Bars](<@[[Samuel Bars.md>)]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
-            - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [conversation](<conversation.md>) tags...
-    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] to your point [here](((JQod1Yt80))), I agree that this method is much stronger. However, the ideas I was building off of were widely shared in a chat form, and then expanded upon. I don't think people's approach to chat is going to change, so it would be worthwhile to bring it into a graph so anyone could then thread off of it!
+        - Simple Replies
+            - [@[[Peter Rosso](<@[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content.
+                - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+                - **[Related](<Related.md>):**
+                    - [cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]'s thread here is using different language but I believe working on a similar thesis...
+                        - https://twitter.com/JoelChan86/status/1365352979331747845?s=20
+            - [@[[Samuel Bars](<@[[Samuel Bars.md>)]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
+                - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [conversation](<conversation.md>) tags...
+        - [Clubhouse](<Clubhouse.md>) chat with [Brandon Toner](<Brandon Toner.md>)
+            - [maxims](<maxims.md>) are similar to [evergreen notes](<evergreen notes.md>) in many ways; similar with [catch phrases](<catch phrases.md>), [principles](<principles.md>), etc.
+                - easily digestable
+                - can build and stack
+                - can see where they converge
+                - don't need to compete for space, there are a number ways to say the same thing
+            - A [directive](<directive.md>)/[maxims](<maxims.md>)/[principles](<principles.md>) is a [claim](<claim.md>) in practice
+                - is there a difference here between active and passive?
+            - A synthesis note is a mature version of a claim; a maxim is a application of a claim (wisdom centric versus statement of fact centric)
+            - maxims and synthesis notes make up the universe of evergreen notes
+            - Levels
+                - claim (statement of fact) & maxim (application of findings)
+                - observations
+                - proposition
+            - "the most developed approach will be spectrum based"
+    - [Bookmarks](<Bookmarks.md>)
+        - [ ] Review Brandon's thoughts on maxims
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
+    - [Conversation](<Conversation.md>)
+        - 
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+    - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
+    - [Questions](<Questions.md>) ((about the graph, or directed towards someone))
+        - In typical [agile development](<agile development.md>) there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics.
+            - [Q](<Q.md>) How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?
+            - [Q](<Q.md>) How do we capture story dependencies? eg Story B depends on A
+                - how do we visualise story dependencies?
+                - When a story is blocked by something. How do we visualise that such that it shows up when looking at a story that depends on it?
+    - [Conversation](<Conversation.md>)
+        - cc [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [@[[Charles Farr](<@[[Charles Farr.md>)]]
+            - "In typical [agile development](<agile development.md>) there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics."
+                - "[Q](<Q.md>) How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?"
+                - "[Q](<Q.md>) How do we capture story dependencies? eg Story B depends on A"
+                    - "how do we visualise story dependencies?"
+                    - "When a story is blocked by something. How do we visualise that such that it shows up when looking at a story that depends on it?"
+    - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
 
 # Backlinks

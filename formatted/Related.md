@@ -321,6 +321,9 @@
 - The [RC/conversation conventions](<RC/conversation conventions.md>) here allow for you to effectively run with the ball.
                                 - **[Related](<Related.md>):**
 
+- It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+                - **[Related](<Related.md>):**
+
 ## [Maxims](<Maxims.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJfLWErBBCv.png?alt=media&token=5643300b-a815-487a-86e0-c2a6cd11da79)
 - **[Related](<Related.md>):**

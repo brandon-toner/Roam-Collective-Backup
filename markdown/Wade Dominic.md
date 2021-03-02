@@ -1,4 +1,4 @@
-- {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+- {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
 - ---
 - Tags:: #People #Members
     - About me::
@@ -12,12 +12,11 @@
     - Online Status::
 - SmartBlocks::
     - WDominic — .DNP Templatee #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #Conversation #not-populated
             - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
-            - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
         - ---
 - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
 - Playing around with the graph

@@ -102,6 +102,3 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [DNP Modules](<DNP Modules.md>)
 
-## [Wade Dominic](<Wade Dominic.md>)
-- For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
-

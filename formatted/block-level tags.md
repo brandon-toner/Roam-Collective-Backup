@@ -125,7 +125,7 @@
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - [ ] #[Follow Up](<Follow Up.md>) Review [block-level tags](<block-level tags.md>)
 
-- [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) and [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
+- [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) and [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
 
 - [FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>)
 

@@ -178,7 +178,7 @@
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated

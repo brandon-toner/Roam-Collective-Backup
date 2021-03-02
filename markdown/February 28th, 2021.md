@@ -114,7 +114,6 @@
                     - ...
                 - Calling it for the evening, but looking forward to exploring the idea of a [[semi-lattice]] and its multitude of [[layers]] in the future
     - #Conversation
-        - 
     - #Bookmarks
         - "#Q How do you manage the problem of community fragmentation?"
     - #[[Change Log]]

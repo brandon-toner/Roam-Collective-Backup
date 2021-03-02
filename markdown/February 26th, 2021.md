@@ -16,7 +16,7 @@
         - **Active Sprint(s):**
             - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
         - **TODO Query:** (created today)
-            - {{[[query]]: {and: [[March 1st 2021]] [[TODO]]}}}
+            - {{[[query]]: {and: [[February 26th 2021]] [[TODO]]}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[[Change Log]]
@@ -168,7 +168,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
@@ -193,7 +193,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #Conversation #not-populated
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - [@Brandon]([[@[[Brandon Toner]]]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
+        - [@Brandon]([[~[[Brandon Toner]]]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 

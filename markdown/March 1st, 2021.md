@@ -10,9 +10,12 @@
         - {{Today + FN:42SmartBlock:Today + FN}}
         - {{Today + LN:42SmartBlock:Today + LN}}
     - #[[GTD Zone]] 
-        - {{Active Epics:42SmartBlock:Active Epics}}
-        - {{Active Sprints:42SmartBlock:Active Sprints}}
-        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - **Active Epic(s):**
+            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+        - **Active Sprint(s):**
+            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+        - **TODO Query:** (created today)
+            - {{[[query]]: {and: [[February 26th 2021]] [[TODO]]}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[[Change Log]]
@@ -23,7 +26,7 @@
         - #I There is huge potential in enhancing the query function in Roam.[*]([[Roam Enhancement Requests]])
             - Within the block vs within the path
             - AND/OR/NOT
-        - {{[[TODO]]}} Build out Mark's "refreshing" queries for daily dashboard.
+        - {{[[TODO]]}} Build out Mark's "refreshing" queries for daily dashboard. #[[Week-09: 03-01-2021]]
             - Place on "GTD Zone" and "The Zettelkasten" pages.
         - #Q How could we develop a "magic-8 ball" similar to the "I'm feeling lucky button" with a better [[signal-to-noise ratio]] #randomization
             - #Q Given no technical constraints, what results would [it](((Z8bdeyhld))) select from?
@@ -42,14 +45,31 @@
                         - I would have NEVER run with the ball so far on this topic within Slack. 
                             - The [[RC/conversation conventions]] here allow for you to effectively run with the ball.
                                 - Related:: The idea of [[depth-first leadership]] -- with each member going as far as they can see on any given idea.[*]([[Bookmarks]])
-                                    - Is this a real concept, I first heard it mentioned by [Larissa]([[@[[Larissa de Lima]]]])m but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
+                                    - Is this a real concept, I first heard it mentioned by [Larissa]([[@[[Larissa de Lima]]]]) but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
+                                - #FN Traditional [[chat]] interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
             - #I We need a keyword for the conversation convention lol... I feel the need to compile discussions on this recurring topic...
-                - [[RC/conversation conventions]] -- kinda like the RC namespace for this sort of thing... [@Charles]([[@[[Charles Farr]]]])
+                - [[RC/conversation conventions]] -- kinda like the RC namespace for this sort of thing... [@Charles]([[~[[Charles Farr]]]])
+            - 
+        - #Q How might RC [[conventions]] change for communities with:
+            - 10 active users
+            - 50 active users 
+            - 100 active users 
+            - 500 active users
+        - **Decision:** I'm going to stop using [[aliases]] for [[chat]]. [[cc:[[Charles Farr]]]]
+            - Rationale:: 
+                - I want mentions to appear in queries. 
+                    - "#Obs Aliased mentions are not showing up in queries."
+                - I want to test the [new CSS](((LSEOq9Cyn)))
+                    - If it feels too "loud" we can further tame the CSS...
+                - Aliases don't visually change when changed to read/saved.
+            - Comments::
+                - Gah, they still feel quite obtrusive though hahah
+                    - I would have definitely buried [this mention](((V77vH8vel))) in an asterisk alias
     - #Conversation 
         - [@Charles]([[~[[Charles Farr]]]]) Re: ["Think Tank"](((X9Q366noM)))
             - [Move to graph](((vwOYQBlIF)))
                 - Yea I 100% agree. In seeing the initial activity, I've been super anxious thinking of all of the missed potential. A graph would help to bring a stronger perspective across time -- saving ideas and improving serendipities.
-                - "[[@[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam."
+                - "[[^[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam."
                     - Yea, velocity is good. But not great if it's too lossy. I'd say that fast and lossy is much worse for driving progress, outcomes and clarity than slower graph communication.
                     - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
                     - But yea, agree. If we can find ways to make the graph experience more nimble and quick, then that would be a huge advancement. 
@@ -60,6 +80,9 @@
                     - #Q Are RC conventions actually slower than other chat options?
                         - Less convenient, yes (mobile, push notifications, etc) -- but I'm not quite convinced on slower.
                             - I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed.
+                - "[[~[[Brandon Toner]]]] to your point [here](((JQod1Yt80))), I agree that this method is much stronger. However, the ideas I was building off of were widely shared in a chat form, and then expanded upon. I don't think people's approach to chat is going to change, so it would be worthwhile to bring it into a graph so anyone could then thread off of it!"
+                    - Maybe we could simply offer the RC graph as a conversational space in addition to the Slack channel. 
+                    - Hosting conversation here (as opposed to another new graph) would also help rest my tension around [community fragmentation](((UPtrVlc29))). 
             - On [personal interests](((_RnYc_LWd)))
                 - Perhaps predictably, I am very interested in most of these haha.
     - #Bookmarks
@@ -139,15 +162,60 @@
             - Ultimately, I think adding this type of communication would be supplemental to the conventions we have now rather than acting as a replacement.
     - #Conversation
         - On Chat with Brandon
-            - [[@[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
+            - [[^[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
                 - See: "#I Create an demo chat interface to demonstrate how native chat in roam could function"
-            - [[@[[Brandon Toner]]]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
+            - [[^[[Brandon Toner]]]] you make a [good point](((QmZ-dy0U3))) about what is essentially just technical barriers at current. Regardless, I think communicating using block references will always be slower than communicating in a chat thought.
                 - I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open.
                 - Now, another thing I would love would be some way to toggle visualizations that would essentially thread multiple conversation blocks together. Similar to clicking the references box, but more conversation oriented...
-        - [[@[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
-            - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
-        - [[@[[Samuel Bars]]]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
-            - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
-        - [[@[[Brandon Toner]]]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [[conversation]] tags...
-    - #Bookmarks #not-populated
+            - [[~[[Brandon Toner]]]] to your point [here](((JQod1Yt80))), I agree that this method is much stronger. However, the ideas I was building off of were widely shared in a chat form, and then expanded upon. I don't think people's approach to chat is going to change, so it would be worthwhile to bring it into a graph so anyone could then thread off of it!
+        - Simple Replies
+            - [[@[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
+                - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+                - Related::
+                    - [[cc:[[Joel Chan]]]]'s thread here is using different language but I believe working on a similar thesis...
+                        - https://twitter.com/JoelChan86/status/1365352979331747845?s=20
+            - [[@[[Samuel Bars]]]] do you want to connect on prototyping a [chat](((Xj3_JaYIm))) function sometime this week?
+                - Really interested in getting a physical demo / artifact spun up to share the idea and start generating some feedback on it...
+            - [[~[[Brandon Toner]]]] [re: meta namespaces](((X_gthxLfx))) — I like RC. In the Agora I used `Graph/` to do the same. Definitely helps to disentangle versus more general [[conversation]] tags...
+        - [[Clubhouse]] chat with [[Brandon Toner]]
+            - [[maxims]] are similar to [[evergreen notes]] in many ways; similar with [[catch phrases]], [[principles]], etc.
+                - easily digestable
+                - can build and stack
+                - can see where they converge
+                - don't need to compete for space, there are a number ways to say the same thing
+            - A [[directive]]/[[maxims]]/[[principles]] is a [[claim]] in practice
+                - is there a difference here between active and passive?
+            - A synthesis note is a mature version of a claim; a maxim is a application of a claim (wisdom centric versus statement of fact centric)
+            - maxims and synthesis notes make up the universe of evergreen notes
+            - Levels
+                - claim (statement of fact) & maxim (application of findings)
+                - observations
+                - proposition
+            - "the most developed approach will be spectrum based"
+    - #Bookmarks
+        - {{[[TODO]]}} Review Brandon's thoughts on maxims
+- ---
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone)) 
+    - #Conversation
+        - 
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
+- ---
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Questions ((about the graph, or directed towards someone))
+        - In typical [[agile development]] there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics.
+            - #Q How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?
+            - #Q How do we capture story dependencies? eg Story B depends on A
+                - how do we visualise story dependencies?
+                - When a story is blocked by something. How do we visualise that such that it shows up when looking at a story that depends on it?
+    - #Conversation
+        - cc [[@[[Brandon Toner]]]] [[@[[Charles Farr]]]]
+            - "In typical [[agile development]] there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics."
+                - "#Q How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?"
+                - "#Q How do we capture story dependencies? eg Story B depends on A"
+                    - "how do we visualise story dependencies?"
+                    - "When a story is blocked by something. How do we visualise that such that it shows up when looking at a story that depends on it?"
+    - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---

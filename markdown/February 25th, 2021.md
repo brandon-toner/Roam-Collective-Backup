@@ -43,12 +43,12 @@
     - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
+        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
             - Currently going though `[[Articles/Agile Product Management in Roam]]`
     - #Feedback #not_populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) #not-populated

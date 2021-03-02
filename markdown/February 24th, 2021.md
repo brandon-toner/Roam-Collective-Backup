@@ -88,11 +88,11 @@
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
-        - [@Brandon]([[@[[Brandon Toner]]]]) on [Question regarding queries with today's date](((utHWR4Vlp))) [*]([[queries]])
+        - [@Brandon]([[~[[Brandon Toner]]]]) on [Question regarding queries with today's date](((utHWR4Vlp))) [*]([[queries]])
             - First, I want to stress again, that my thoughts here are from experience, but not necessarily certainty - though I have attempted to discuss this with numerous people.
             - These easiest solution I have found here is what I do for my own project management workflow. 
                 - I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date.
@@ -127,10 +127,10 @@
                         - 1) Whether the query is rendered or not
                         - 2) Quantity of background queries in existence. 
                     - Embeds and block refs only related to number [1](((9ygMoqID7))).
-                - [@Brandon]([[@[[Brandon Toner]]]]) **Next Actions:**
+                - [@Brandon]([[~[[Brandon Toner]]]]) **Next Actions:**
                     - I think with this information it may be best to do further evidence gathering before making any decisions. 
                     - You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity.
-        - [@Brandon]([[@[[Brandon Toner]]]]) perhaps something to chew on [regarding defining what a goal is](((NTM1mESx9))), I just saw this.
+        - [@Brandon]([[~[[Brandon Toner]]]]) perhaps something to chew on [regarding defining what a goal is](((NTM1mESx9))), I just saw this.
             - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
@@ -206,7 +206,7 @@
                 - ""#[[FN]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten""
                 - ""#[[FN]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.""
     - #Conversation
-        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[@[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
+        - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
     - #[[Change Log]]
         - Added custom indexing code, inspired by [[Maggie Delano]]
             - See: "Indexing code"

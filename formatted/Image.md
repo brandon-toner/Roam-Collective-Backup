@@ -64,7 +64,7 @@
 - [Graph Database Stats](<Graph Database Stats.md>)
             - **[Image](<Image.md>):**
 
-- "[@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+- "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
                 - **[Image](<Image.md>):**
 
 **UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")

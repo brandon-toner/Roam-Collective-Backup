@@ -207,6 +207,9 @@
 ## [Literature Notes](<Literature Notes.md>)
 - **[Related](<Related.md>):** [fleeting notes](<fleeting notes.md>), [evergreen notes](<evergreen notes.md>)
 
+## [March 1st, 2021](<March 1st, 2021.md>)
+- [maxims](<maxims.md>) are similar to [evergreen notes](<evergreen notes.md>)
+
 ## [Reference Notes](<Reference Notes.md>)
 - [evergreen notes](<evergreen notes.md>)
 
