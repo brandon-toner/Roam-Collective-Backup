@@ -18,7 +18,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>) 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability
@@ -43,7 +43,7 @@
     - [Conversation](<Conversation.md>)
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
+        - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
             - Currently going though `[Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>)`
     - [Feedback](<Feedback.md>) [not_populated](<not_populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)

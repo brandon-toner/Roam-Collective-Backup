@@ -19,7 +19,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
     - #Inbox
         - "Indexing code"
         - Other automated search for gtd

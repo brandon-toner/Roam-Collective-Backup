@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
     - #Inbox 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability
@@ -43,7 +43,7 @@
     - #Conversation
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
-        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
+        - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
             - Currently going though `[[Articles/Agile Product Management in Roam]]`
     - #Feedback #not_populated
     - #Bookmarks #not-populated

@@ -256,7 +256,7 @@
         - {{[[TODO]]}} Update color scheme with better shades of blue and green
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 offline | 🟠Away | 🟢Online | 💻Waiting on a laptop}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
     - #[[Scratchpad]] 
         - Brandon on behalf of Peter. [cc:Charles]([[~[[Charles Farr]]]])
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 

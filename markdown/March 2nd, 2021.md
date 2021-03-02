@@ -31,3 +31,26 @@
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+    - #Inbox
+        - "[[~[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content."
+            - "It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__."
+            - "Related::"
+                - "[[cc:[[Joel Chan]]]]'s thread here is using different language but I believe working on a similar thesis..."
+                    - "https://twitter.com/JoelChan86/status/1365352979331747845?s=20"
+    - #[[Scratchpad]] 
+        - Chat thoughts
+            - Chat let's you react to a single input while the current format allows you to gather multiple thoughts in an argument.
+                - This can be maintained by using a drafting station.
+            - Threads by argument in chat?
+            - Bringing together different parts of conversation by block referencing?
+            - time dependent or block dependent?
+    - #[[GTD Zone]] 
+        - {{[[TODO]]}} Read about Roam think-tank  
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Bookmarks #not-populated
+    - 
+- ---

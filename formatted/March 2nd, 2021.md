@@ -31,3 +31,26 @@
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+    - [Inbox](<Inbox.md>)
+        - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content."
+            - "It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__."
+            - **["Related](<"Related.md>):**"
+                - "[cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]'s thread here is using different language but I believe working on a similar thesis..."
+                    - "https://twitter.com/JoelChan86/status/1365352979331747845?s=20"
+    - #[Scratchpad](<Scratchpad.md>) 
+        - Chat thoughts
+            - Chat let's you react to a single input while the current format allows you to gather multiple thoughts in an argument.
+                - This can be maintained by using a drafting station.
+            - Threads by argument in chat?
+            - Bringing together different parts of conversation by block referencing?
+            - time dependent or block dependent?
+    - #[GTD Zone](<GTD Zone.md>) 
+        - [ ] Read about Roam think-tank  
+    - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---

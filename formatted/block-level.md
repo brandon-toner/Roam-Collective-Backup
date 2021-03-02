@@ -14,5 +14,8 @@
 - [FN](<FN.md>) [block-level tags](<block-level tags.md>) and [block-level](<block-level.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
-- [@[[Peter Rosso](<@[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>)
+- [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>)
+
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>)
 

@@ -205,7 +205,7 @@
                 - Ultimately, this would provide most of the benefits of slack or discord without ever leaving the graph... The other upside is the ability to use native roam features within chat, and to use block-references to thread off of chat (either as a conversation or as input into other notes).
                 - My intuition is this is technically possible within roam — perhaps some [[render]] object could be used to create the Chatrooms?
         - Simple Replies
-            - [[@[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
+            - [[~[[Peter Rosso]]]] [re](((u9YdnOIa6))) — my thesis on [[block-level tags]] and generally working and thinking at the [[block-level]] is that doing so is more powerful than working at the page level, because you have direct access to the content.
                 - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
                 - Related::
                     - [[cc:[[Joel Chan]]]]'s thread here is using different language but I believe working on a similar thesis...
