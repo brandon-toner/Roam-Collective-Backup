@@ -84,6 +84,9 @@
 - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[Bookmarks](<Bookmarks.md>)
+
 ## [Samuel Bars](<Samuel Bars.md>)
 - {{[query](<query.md>): {and: [Bookmarks](<Bookmarks.md>)
 

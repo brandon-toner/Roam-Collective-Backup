@@ -32,6 +32,9 @@
 
 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- I am thinking once things are more fleshed out something could relatively easily be done with [roam/render](<roam/render.md>) and some [datalog](<datalog.md>)
+
 ## [datalog experimentation](<datalog experimentation.md>)
 - [datalog](<datalog.md>)
 

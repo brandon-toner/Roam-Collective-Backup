@@ -16,3 +16,6 @@
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - "[FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>)
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- [@[[Mark Robertson](<@[[Mark Robertson.md>)]] — [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] was toying with [this question](((YJczFOqWB))) here, essentially asking how we drive down the [search costs](<search costs.md>)
+

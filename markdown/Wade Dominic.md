@@ -1,4 +1,4 @@
-- {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
+- {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - ---
 - Tags:: #People #Members
     - About me::
@@ -12,7 +12,7 @@
     - Online Status::
 - SmartBlocks::
     - WDominic — .DNP Templatee #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #Conversation #not-populated

@@ -168,11 +168,11 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [@[[Charles Farr](<@[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [~[[Charles Farr](<~[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
             - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
             - **Replies:**
                 - [The joining part](((MeE0Hq_wN))), [makes sense](((zDm_SyiQz))), the following or catching up part is what vexes me the most [as I stated here](((VOijFrzHr))).
@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>) 
         - [I](<I.md>) We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)

@@ -81,6 +81,9 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [Joel Chan](<Joel Chan.md>)
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- I like Discord [~[[Mark Robertson](<~[[Mark Robertson.md>)]] — on voice chat with [Joel Chan](<Joel Chan.md>)
+
 ## [Roam Summit/Session I](<Roam Summit/Session I.md>)
 - [Joel Chan](<Joel Chan.md>)
 

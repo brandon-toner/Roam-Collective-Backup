@@ -135,6 +135,9 @@
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>)
 

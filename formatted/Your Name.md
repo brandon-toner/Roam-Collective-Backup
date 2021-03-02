@@ -13,6 +13,9 @@
 
 - "Projects I'm involved with" `{{[query](<query.md>): {and: [Status/Active](<Status/Active.md>) [Your Name](<Your Name.md>)}
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)
 

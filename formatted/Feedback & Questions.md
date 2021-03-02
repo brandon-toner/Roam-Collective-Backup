@@ -9,6 +9,9 @@
 ## [Graph/Templates](<Graph/Templates.md>)
 - #[Feedback & Questions](<Feedback & Questions.md>)
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[Feedback & Questions](<Feedback & Questions.md>)
+
 ## [Wade Dominic](<Wade Dominic.md>)
 - #[Feedback & Questions](<Feedback & Questions.md>)
 

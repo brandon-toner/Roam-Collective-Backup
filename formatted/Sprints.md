@@ -20,3 +20,6 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>)
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>)
+

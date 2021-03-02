@@ -1,0 +1,14 @@
+- Tags:: #Projects #[[Roam Think Tank]]
+    - Date Created:: [[March 2nd, 2021]]
+    - Related:: #[[not-populated]]
+    - People:: #[[not-populated]] #Housekeeping
+        - Created by:: #not-populated
+        - Project Lead:: #not-populated
+        - Contributors:: #not-populated
+    - Areas:: #[[not-populated]] #Housekeeping
+    - Project Status:: #[[not-populated]] #Housekeeping
+    - Due Date:: #[[not-populated]] #Housekeeping
+    - Reminders:: #[[not-populated]] 
+    - Date Completed:: #[[Status/Not Completed]]
+    - Notes:: #[[not-populated]]
+    - Tasks:: #not-populated

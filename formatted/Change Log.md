@@ -178,6 +178,9 @@
 
 - #[Change Log](<Change Log.md>)
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Change Log](<Change Log.md>)
 

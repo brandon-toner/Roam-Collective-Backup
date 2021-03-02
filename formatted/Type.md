@@ -9,6 +9,9 @@
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - **[Type](<Type.md>):**
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- **[Type](<Type.md>):**
+
 ## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - **[Type](<Type.md>):**
 

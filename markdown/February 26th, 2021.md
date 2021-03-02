@@ -168,11 +168,11 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
-        - [[~[[Brandon Toner]]]], [[@[[Charles Farr]]]], or anybody for that matter (or possibly in #[[Questions]])
+        - [[~[[Brandon Toner]]]], [[~[[Charles Farr]]]], or anybody for that matter (or possibly in #[[Questions]])
             - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
             - **Replies:**
                 - [The joining part](((MeE0Hq_wN))), [makes sense](((zDm_SyiQz))), the following or catching up part is what vexes me the most [as I stated here](((VOijFrzHr))).
@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - #Inbox 
         - #I We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[[Scratchpad]] #not-populated

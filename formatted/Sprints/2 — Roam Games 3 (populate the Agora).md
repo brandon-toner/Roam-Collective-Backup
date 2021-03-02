@@ -4,7 +4,7 @@
     - **[Objectives](<../Objectives.md>):**
         - Populate Roam Games submissions (past and present) into the Agora
         - Populate other community work, projects, and resources into the Agora
-    - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)
+    - **[Status](<../Status.md>):** [Status/Completed](<../Status/Completed.md>)
     - **[Resources](<../Resources.md>):** 
         - Link to [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora)
         - [Request access to the Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA)
@@ -36,4 +36,7 @@
 - **Created a NEW SPRINT**: [Sprints/2 — Roam Games 3 (populate the Agora)](<../Sprints/2 — Roam Games 3 (populate the Agora).md>)
 
 - **Active Sprint:** [Sprints/2 — Roam Games 3 (populate the Agora)](<../Sprints/2 — Roam Games 3 (populate the Agora).md>)
+
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- [x] [Sprints/2 — Roam Games 3 (populate the Agora)](<../Sprints/2 — Roam Games 3 (populate the Agora).md>)
 

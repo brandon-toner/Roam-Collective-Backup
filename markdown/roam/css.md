@@ -1709,22 +1709,6 @@ span.rm-page-ref[data-tag="Notion"] {
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
 }```
-                    - #Obs 
-                        - ```clojure
-span.rm-page-ref[data-tag="Obs"]:before {
-    content: 		'🔬 ';
-    font-size: 		var(--tag-icon-font-size);
-}
-
-span.rm-page-ref[data-tag="Obs"]:after {
-    content: 		':';
-}
-
-span.rm-page-ref[data-tag="Obs"] {
-	color: 			var(--note-tag-color);
- 	padding:		var(--note-tag-padding);
- 	font-weight: 	var(--note-tag-font-weight);
-}```
                     - #Syn #Test
                         - ```css
 span.rm-page-ref[data-tag="Syn"]:before {
@@ -1741,6 +1725,22 @@ span.rm-page-ref[data-tag="Syn"] {
  	padding:		var(--note-tag-padding);
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
+}```
+                    - #Obs 
+                        - ```clojure
+span.rm-page-ref[data-tag="Obs"]:before {
+    content: 		'🔬 ';
+    font-size: 		var(--tag-icon-font-size);
+}
+
+span.rm-page-ref[data-tag="Obs"]:after {
+    content: 		':';
+}
+
+span.rm-page-ref[data-tag="Obs"] {
+	color: 			var(--note-tag-color);
+ 	padding:		var(--note-tag-padding);
+ 	font-weight: 	var(--note-tag-font-weight);
 }```
                     - #[[Branching Notes]] [[Test]]
                         - ```css

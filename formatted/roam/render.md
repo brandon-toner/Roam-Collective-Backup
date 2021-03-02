@@ -59,6 +59,9 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [My intuition](((ZYBIgpKx8))), likely not better than yours is absolutely possible. Perhaps even in JS, but definitely in [roam/render](<../roam/render.md>).
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- I am thinking once things are more fleshed out something could relatively easily be done with [roam/render](<../roam/render.md>)
+
 ## [roam/render](<roam/render.md>)
 - {{[roam/render](<../roam/render.md>):
 

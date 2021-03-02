@@ -95,8 +95,8 @@
                     - Hosting conversation here (as opposed to another new graph) would also help rest my tension around [community fragmentation](((UPtrVlc29))). 
             - On [personal interests](((_RnYc_LWd)))
                 - Perhaps predictably, I am very interested in most of these haha.
-        - [[@[[Wade Dominic]]]] on [agile development](((jcFsFvNoY)))[*]([[agile development]])
-            - Discussed stories with [Charles]([[@[[Charles Farr]]]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands.
+        - [[~[[Wade Dominic]]]] on [agile development](((jcFsFvNoY)))[*]([[agile development]])
+            - Discussed stories with [Charles]([[~[[Charles Farr]]]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands.
             - There is still a fair bit of work to be done to mature and implement the agile framework in RC, but this is something I'm keen to see happen. 
             - The problem is, I am very loose and exploratory in my development style haha — so I'm until I catch a wave of clarity on this, I'm not super likely to push it forward. 
             - Part of what is holding me back currently is likely the lack of clarity on overall direction/roadmap. 
@@ -115,7 +115,7 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
-        - Thoughts on the discussion happening in the [[Projects/[[Roam Think Tank]]]] slack
+        - Thoughts on the discussion happening in the [[Projects/Develop Shared Graph for Roam Think Tank]] slack
             - There are so many fascinating ideas bouncing around in the Slack channel... It really needs to move to a graph, though I think the overall velocity of discussion would diminish, it would be easier to establish continuity...
             - Personal Interests
                 - Building conventions to support multiplayer graphs with varying objectives (e.g., shared knowledge synthesis, task & project management, community discussion & engagement, organizational design, etc.)
@@ -233,11 +233,11 @@
         - {{[[TODO]]}} Review Brandon's thoughts on maxims
         - "I agree with these two points strongly. "
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:⚫️Offline | 🟡On & Off | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) 
     - #Conversation
-        - Regarding [[Projects/[[Roam Think Tank]]]] and the complexities of dialogue
+        - Regarding [[Projects/Develop Shared Graph for Roam Think Tank]] and the complexities of dialogue
             - "I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed."
             - "I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open."
                 - I agree with these two points strongly. 
@@ -250,12 +250,12 @@
             - Replies:
                 - [My intuition](((ZYBIgpKx8))), likely not better than yours is absolutely possible. Perhaps even in JS, but definitely in [[roam/render]]. 
                 - I take it you shared this with [[Stian Håklev]] already [[Charles Farr]]?
-        - [[@[[Brandon Toner]]]] and [[@[[Charles Farr]]]] - I think the [[Projects/[[Roam Think Tank]]]] is calling for your expertise!
+        - [[@[[Brandon Toner]]]] and [[~[[Charles Farr]]]] - I think the [[Projects/Develop Shared Graph for Roam Think Tank]] is calling for your expertise!
             - Looks like [[Roamhacker]] wishes to open a graph for the group. 
             - We are already on [[Discord]] now. 
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone))
         - In typical [[agile development]] there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics.

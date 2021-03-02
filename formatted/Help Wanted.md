@@ -89,6 +89,9 @@
 ## [Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)](<Projects/Publish a [Roam Collaboration Guide](<Roam Collaboration Guide.md>).md>)
 - **[Contributors](<Contributors.md>):** #[Help Wanted](<Help Wanted.md>)
 
+## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
+- #[Help Wanted](<Help Wanted.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[Help Wanted](<Help Wanted.md>)
 

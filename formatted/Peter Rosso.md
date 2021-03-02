@@ -1,5 +1,5 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>) 
-    - {{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}
+    - {{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@rossopeter_](https://twitter.com/rossopeter_)
         - **[Website](<Website.md>):** [rosso.io](https://rosso.io)
@@ -19,7 +19,7 @@
                 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
                     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
                     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)

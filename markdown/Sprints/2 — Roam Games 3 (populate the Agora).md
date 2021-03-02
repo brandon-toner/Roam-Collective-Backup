@@ -4,7 +4,7 @@
     - Objectives::
         - Populate Roam Games submissions (past and present) into the Agora
         - Populate other community work, projects, and resources into the Agora
-    - Status:: [[Status/Active]]
+    - Status:: [[Status/Completed]]
     - Resources:: 
         - Link to [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora)
         - [Request access to the Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA)

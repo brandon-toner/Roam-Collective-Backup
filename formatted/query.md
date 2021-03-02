@@ -390,6 +390,14 @@
 - {{[query](<query.md>):
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
+- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+
+- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+
 - "{{[query](<query.md>):
 
 ## [Mark Robertson](<Mark Robertson.md>)

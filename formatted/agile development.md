@@ -24,11 +24,14 @@
 - Perfect recommendation, as I'm aiming to reconcile [GTD](<GTD.md>) horizons with [agile development](<agile development.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
-- [@[[Wade Dominic](<@[[Wade Dominic.md>)]] on [agile development](((jcFsFvNoY)))[*]([agile development](<agile development.md>))
+- [~[[Wade Dominic](<~[[Wade Dominic.md>)]] on [agile development](((jcFsFvNoY)))[*]([agile development](<agile development.md>))
 
 - In typical [agile development](<agile development.md>)
 
 - "In typical [agile development](<agile development.md>)
+
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- [@Brandon Toner]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) thanks for the [clarification](((FO4DW8gxL))) of where things are with respect to [agile development](<agile development.md>)
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>) #[agile development](<agile development.md>)

@@ -163,6 +163,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - No risk of "taking over" the conversation thread as there is lots of room to move around in here! Conversation diverges and converges as necessary[*]([Bookmarks](<Bookmarks.md>))
                     - **[Example](<Example.md>):**
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- [FN](<FN.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
+                - **[Example](<Example.md>):**
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**

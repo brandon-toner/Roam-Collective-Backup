@@ -6,7 +6,7 @@
 - #[Questions](<Questions.md>)
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
-- [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [@[[Charles Farr](<@[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [~[[Charles Farr](<~[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
 
 ## [Graph/Templates](<Graph/Templates.md>)
 - {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [Q](<Q.md>) [Questions](<Questions.md>)}
@@ -43,6 +43,10 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - I see more detail as [Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>)
             - **[Questions](<Questions.md>):**
+
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- **[[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status](<[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
+                    - **[Questions](<Questions.md>):**
 
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Questions](<Questions.md>)

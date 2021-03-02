@@ -89,7 +89,7 @@
     - #[[Change Log]]
         - Added CSS for "#Prop"
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - #Inbox 
         - "{{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[February 2021]]  [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]"
             - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.

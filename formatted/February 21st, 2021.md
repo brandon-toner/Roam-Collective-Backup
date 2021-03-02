@@ -13,7 +13,7 @@
     - #[Change Log](<Change Log.md>)
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 21st, 2021](<February 21st, 2021.md>) [Change Log](<Change Log.md>) {not: [Community Notes](<Community Notes.md>)}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On&Off | 🚫 offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>)
         - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
@@ -82,7 +82,7 @@
                         - [I](<I.md>) We could put a banner at the top of the page for each placeholder submission — as a disclaimer that we are populating it and that there may be inaccuracies.
                             - With a CTA to let the project team know to update their section in the Agora.
         - [Obs](<Obs.md>) I'm feeling a lot of ideas/opportunities slip through my fingers...
-            - [I](<I.md>) Start adding ideas to the [Backlog](<Backlog.md>) page. [cc:Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - [I](<I.md>) Start adding ideas to the [Backlog](<Backlog.md>) page. [cc:Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                 - Model to emulate: https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - Add [fuzzy search](<fuzzy search.md>) to the main search bar (as it exists for the block-search)

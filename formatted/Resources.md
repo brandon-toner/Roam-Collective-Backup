@@ -40,6 +40,6 @@
     - **[Resources](<Resources.md>):**
 
 ## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
-- **[Status](<Status.md>):** [Status/Active](<Status/Active.md>)
+- **[Status](<Status.md>):** [Status/Completed](<Status/Completed.md>)
     - **[Resources](<Resources.md>):**
 
