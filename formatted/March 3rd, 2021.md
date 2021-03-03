@@ -1,1 +1,32 @@
-- 
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
+    - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
+    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[GTD Zone](<GTD Zone.md>) 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[Change Log](<Change Log.md>)
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[The Zettelkasten](<The Zettelkasten.md>)
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[GTD Zone](<GTD Zone.md>)
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
