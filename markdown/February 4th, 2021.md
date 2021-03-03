@@ -194,6 +194,7 @@ Monthly reviews could include a zoom catchup?
         - {{[[embed]]: ((((rhJbktB9i))))}}
             - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[Evergreens/"Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[Evergreens/Use the native convention as much as possible.]])
                 - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
+                - [[@[[Matthew Vogel]]]]: I fully agree. Since the article I have learned the basics of Roam render. One of my current projects is  to create a proper roam/render query component.
         - [[Feature Request]] I would kill for a way to filter out code blocks from search results
         - {{[[embed]]: ((((0nxSPSAyD))))}}
             - I'm struggling with this on my personal graph as well. There needs to be a stronger connection between root level color options and where those colors are actually used
