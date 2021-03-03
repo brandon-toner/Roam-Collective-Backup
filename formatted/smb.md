@@ -27,6 +27,9 @@
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
+
 ## [Samuel Bars](<Samuel Bars.md>)
 - {{[query](<query.md>): {and: [smb](<smb.md>)
 

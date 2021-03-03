@@ -11,3 +11,6 @@
 
 - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [velocity of conversation](<velocity of conversation.md>)
 
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- "[FN](<FN.md>) The [velocity of conversation](<velocity of conversation.md>)
+

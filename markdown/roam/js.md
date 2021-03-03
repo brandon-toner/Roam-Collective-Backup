@@ -1,4 +1,4 @@
-- Please don't make changes here, instead suggest them using [this] process.
+- Please don't make changes here, instead suggest them. 
 - Roam42
     - {{{[[roam/js]]}}}
         - ```javascript

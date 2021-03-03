@@ -9,7 +9,7 @@
     - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((6w_N1hr1k)))
         - [Collections Tags](((JNVnlLDxv))) 
-        - [Notifications & Mentions](Notifications & Mentions)
+        - [Notifications & Mentions](((w3TzfgkhG)))
     - [Headings](((nL58k_bhI)))
     - [Page References](((kJ_piMpzy)))
     - [Block References](((xcLgPdvs0)))
@@ -1638,7 +1638,7 @@ span.rm-page-ref[data-tag="Annotations"] {
                         - Tag
                             - ```css
 span.rm-page-ref[data-tag="Evergreen"]:before {
-    content: '�� '
+    content: '🌲 '
 }
 
 span.rm-page-ref[data-tag="Evergreen"]:after {
@@ -5011,10 +5011,9 @@ span.rm-page-ref[data-tag="dbrk"] {
 span.rm-page-ref[data-tag="ubrk"] {
   display: none;
 }```
-            - Block Highlightings
-                - Block Highlights
-                    - `#blk-gray` #blk-gray
-                        - ```css
+            - Block Highlights
+                - `#blk-gray` #blk-gray
+                    - ```css
 [data-page-links*="blk-gray"] > .rm-block-main {
     /* color: #383d41; */
     background-color: var(--cl-gray-200);

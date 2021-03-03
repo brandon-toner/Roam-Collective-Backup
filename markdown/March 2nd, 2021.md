@@ -62,7 +62,7 @@
         - #Q How might RC conventions be optimized for the [[Roam Think Tank]]? [*]([[Projects/Develop Shared Graph for Roam Think Tank]])[*]([[@[[Charles Farr]]]])[*]([[@[[Mark Robertson]]]])
         - {{[[TODO]]}} Look into "lazy consensus"
     - #Conversation 
-        - [[@[[Mark Robertson]]]] 
+        - [[~[[Mark Robertson]]]] 
             - "We have a graph - "roaminati""
                 - Excellent. As conversation evolves, I'll offer our support for setting up RC conventions to ensure a smooth implementation.
                 - I think the "Think Tank" experiment will operate much better within a shared graph. Imagine ~10 daily active writers collaborating in this fashion.
@@ -115,7 +115,9 @@
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
+        - [Great tweet](((hKTCnzkeq))) from [[Interintellect]] about [[Discord]] - good foundational advice.
+            - https://twitter.com/interintellect_/status/1366825299879604229?s=21
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation 
         - [[@[[Brandon Toner]]]] & [[~[[Charles Farr]]]] regarding my comment yesterday: "Looks like [[Roamhacker]] wishes to open a graph for the group. "
@@ -138,4 +140,17 @@
             - "Discussed stories with [Charles]([[~[[Charles Farr]]]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands."
                 - [[@[[Wade Dominic]]]] [[@[[Brandon Toner]]]] the thought here was just that stories felt very product specific, but what we're doing here is a bit amorphous, so we landed on projects.
     - #Bookmarks #not-populated
+- ---
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+    - #Scratchpad
+    - #Questions ((about the graph, or directed towards someone)) #not-populated
+    - #Bookmarks
+        - On [[in-graph chat]]
+            - "#FN The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]"
+            - "However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication."
+            - "The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time."
+    - #[[The Zettelkasten]] #not-populated
+    - #Conversation
+        - [[@[[Charles Farr]]]] yes on [prototyping a chat tool](((nBevoAd8m))). 
+            - When is a good time for you? (I'm in central european time)
 - ---
