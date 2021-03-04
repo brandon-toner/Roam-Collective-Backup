@@ -29,8 +29,8 @@
                         - "Prepare a JSON file as a **"collective graph starter pack"** "
                 - **[[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) "Status](<[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
                     - **Options for "Next":**
-                        - Refine Agora submissions template to further enhance the navigation of dependencies
                         - Explore options for automation, making the population of the agora easier and more reliable.
+                        - Refine Agora submissions template to further enhance the navigation of dependencies
                 - **[[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) "Status](<[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
                     - **Options for "Next":**
                         - "Mature the backlog conventions. "

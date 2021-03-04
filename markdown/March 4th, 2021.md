@@ -1,0 +1,33 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[The Zettelkasten]]
+        - {{Today + Obs:42SmartBlock:Today + Obs}}
+        - {{Today + Q:42SmartBlock:Today + Q}}
+        - {{Today + I:42SmartBlock:Today + I}}
+        - {{Today + FN:42SmartBlock:Today + FN}}
+        - {{Today + LN:42SmartBlock:Today + LN}}
+    - #[[GTD Zone]] 
+        - {{Active Epics:42SmartBlock:Active Epics}}
+        - {{Active Sprints:42SmartBlock:Active Sprints}}
+        - {{TODO Created Today:42SmartBlock:TODO Created Today}}
+        - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
+        - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - #Scratchpad #not-populated
+    - #Conversation #not-populated
+    - #[[The Zettelkasten]]
+        - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+        - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+        - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+        - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+    - #[[GTD Zone]]
+        - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+        - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+        - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+    - #[[Change Log]] #not-populated
+- ---
