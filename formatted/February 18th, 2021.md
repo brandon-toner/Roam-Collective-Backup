@@ -10,7 +10,7 @@
         4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>) be used [resurface ]([resurfacing](<resurfacing.md>))information across time?
             - How could "SR" be used to resurface interesting information. #[spaced repetition](<spaced repetition.md>)

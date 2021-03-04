@@ -54,7 +54,7 @@
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) [On GTD](((9IjO0uID4)))

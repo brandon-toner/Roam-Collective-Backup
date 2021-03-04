@@ -10,7 +10,7 @@
         4. "On the value of [[block-level tags]]"
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
             - How could "SR" be used to resurface interesting information. #[[spaced repetition]]

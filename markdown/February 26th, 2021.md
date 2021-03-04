@@ -22,7 +22,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
             - #Q What is the role of [[prompts]] in knowledge base accumulation?

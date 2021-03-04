@@ -3,7 +3,7 @@
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How do you manage the problem of community fragmentation?
             - i.e. as similar communities with similar missions form, how do you allocate your attention?

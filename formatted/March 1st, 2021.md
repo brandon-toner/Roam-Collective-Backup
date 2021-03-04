@@ -21,7 +21,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [I](<I.md>) There is huge potential in enhancing the query function in Roam.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
             - Within the block vs within the path

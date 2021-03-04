@@ -19,7 +19,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [ ] Review yesterday's discussions
         - [Q](<Q.md>) How do we promote resurfacing/or presentation of key information without the use of queries?

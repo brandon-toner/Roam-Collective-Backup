@@ -71,7 +71,7 @@
 - ---
 - #[[My Daily Notes]] [[Alexandra Westhoff]] {{word-count}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - Doing a bit of brainstorming/data population in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora) today — mapping the Roam Games and roamcult projects & tools more broadly.
             - Would love some help in mapping the territory — **the more brainstormers the better**. (I'm bound to forget most things)

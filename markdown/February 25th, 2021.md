@@ -54,7 +54,7 @@
     - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad #not-populated
     - #Conversation 
         1. [@Peter]([[~[[Peter Rosso]]]]) [On GTD](((9IjO0uID4)))

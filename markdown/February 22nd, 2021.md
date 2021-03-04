@@ -28,7 +28,7 @@
     - #[[Change Log]]
         - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
             - Image::

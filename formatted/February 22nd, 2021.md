@@ -28,7 +28,7 @@
     - #[Change Log](<Change Log.md>)
         - [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>) {not: {or:[Community Notes](<Community Notes.md>) [not-populated](<not-populated.md>)}}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>) [CSS](<CSS.md>)
             - **[Image](<Image.md>):**

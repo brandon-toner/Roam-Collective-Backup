@@ -164,7 +164,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                             - Afterward it can even be simplified down to the essentials, making it easier to build a functioning chat plugin relatively fast. 
                     - And last note, sorry for dumping these huge walls of text. I work by bursts of inspiration!
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #I Create a #[[temp-queries]] tag to append to blocks with queries used "just for today"
             - Goal: prevent database from slowing down due to too many queries
