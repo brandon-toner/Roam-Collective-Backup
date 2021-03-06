@@ -82,7 +82,7 @@
     - #[Change Log](<Change Log.md>) 
         - Marked [Sprint 2](((lgl9DwCeJ))) as completed.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟠Away | 🟡 On & Off | 🟢Online}}"
     - [Inbox](<Inbox.md>)
         - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content."
             - "It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__."

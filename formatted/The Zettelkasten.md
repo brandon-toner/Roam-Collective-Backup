@@ -165,6 +165,11 @@
 ## [March 4th, 2021](<March 4th, 2021.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 
+## [March 6th, 2021](<March 6th, 2021.md>)
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
+- #[The Zettelkasten](<The Zettelkasten.md>)
+
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[The Zettelkasten](<The Zettelkasten.md>)
 

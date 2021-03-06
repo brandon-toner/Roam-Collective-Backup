@@ -54,7 +54,6 @@
                     - ---
     - Daily Templates
         - .rc2DH — Daily Header [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
-            - <%DATEBASIS:DNP%>
             - #[Community Notes](<../Community Notes.md>) [Roam-Collective](<../Roam-Collective.md>) {{word-count}} [*]([rc](<../rc.md>)) 
                 - #[Daily Activities](<../Daily Activities.md>) [not-populated](<../not-populated.md>)
                 - #[The Main Feed](<../The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<../not-populated.md>) 

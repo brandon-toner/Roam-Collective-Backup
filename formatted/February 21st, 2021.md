@@ -13,7 +13,7 @@
     - #[Change Log](<Change Log.md>)
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 21st, 2021](<February 21st, 2021.md>) [Change Log](<Change Log.md>) {not: [Community Notes](<Community Notes.md>)}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟠Away | 🟡 On & Off | 🟢Online}}"
     - [Inbox](<Inbox.md>)
         - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"

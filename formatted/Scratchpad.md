@@ -132,6 +132,9 @@
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
 - #[Scratchpad](<Scratchpad.md>)
 
+## [March 6th, 2021](<March 6th, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[Scratchpad](<Scratchpad.md>)
 

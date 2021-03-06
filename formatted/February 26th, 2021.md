@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟠Away | 🟡 On & Off | 🟢Online}}"
     - [Inbox](<Inbox.md>) 
         - [I](<I.md>) We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
