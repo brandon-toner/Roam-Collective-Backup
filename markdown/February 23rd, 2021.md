@@ -246,7 +246,7 @@ PS: great work running that!
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - #Bookmarks #not-populated
     - #[[Change Log]]
-        - Changed Break Css → "Breaks — `---`"
+        - Changed Break Css → "Breaks — `---`c"
 - ---
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))

@@ -4779,7 +4779,7 @@ span [data-tag="min-all"] {
 {
   color: [9E9E9E](<../9E9E9E.md>) !important;
 }```
-            - Breaks — `---`
+            - Breaks — `---`c
                 - ---
                     - ```css
 .rm-hr {

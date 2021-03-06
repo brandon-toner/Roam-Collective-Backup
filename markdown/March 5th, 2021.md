@@ -1,0 +1,18 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
+    - #[[Daily Activities]] #not-populated
+    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #Chat ((A place to propose objects of discussion)) #not-populated
+    - #[[Change Log]]
+        - {{Change Log + Today:42SmartBlock:Change Log + Today}}
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - #Scratchpad 
+        - #Announcements
+            - My apologies for being absent the last few days! Been working on a seed-graph project that will definitely help us to improve our processes over in the Collective. 
+            - Our work here is certainly getting the attention of the Roam Team and the community and is helping others in navigating multiplayer environments.
+            - More soon.
+            - BT
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
+- ---
+- 

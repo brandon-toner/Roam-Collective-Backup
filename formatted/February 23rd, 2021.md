@@ -246,7 +246,7 @@ PS: great work running that!
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>)
-        - Changed Break Css → "Breaks — `---`"
+        - Changed Break Css → "Breaks — `---`c"
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))

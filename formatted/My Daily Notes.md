@@ -465,6 +465,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [March 4th, 2021](<March 4th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [March 5th, 2021](<March 5th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
