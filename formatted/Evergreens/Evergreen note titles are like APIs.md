@@ -11,6 +11,9 @@
         - Related: [Grounded claims, after Qian et al](https://notes.andymatuschak.org/z8D1DJ4663xTUx2P3ztA8hM5FsmtbYmgRfPnC)
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
+
 ## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
 

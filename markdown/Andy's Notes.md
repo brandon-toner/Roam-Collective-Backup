@@ -1,0 +1,9 @@
+- Index::
+    - [[Evergreens/Spaced repetition systems can be used to program attention]]
+    - [[Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings]]
+    - [[Evergreens/Evergreen notes should be atomic]]
+    - [[Evergreens/Evergreen note titles are like APIs]]
+    - [[Evergreens/Evergreen notes should be densely linked]]
+    - [[Evergreens/Evergreen notes should be concept-oriented]]
+    - [[Evergreens/Evergreen note-writing helps insight accumulate]]
+    - [[Evergreens/Make evergreen notes as you write.]]

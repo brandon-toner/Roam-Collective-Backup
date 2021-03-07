@@ -161,7 +161,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Have a clear aim](<Evergreens/Have a clear aim.md>)
@@ -173,7 +173,7 @@
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
-- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)
+- **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>)
     - **[Date Created](<Date Created.md>):**
 
 ## [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)

@@ -2,7 +2,7 @@
     - **[Date Created](<../Date Created.md>):** [January 29th, 2021](<../January 29th, 2021.md>)
     - **[Created by](<../Created by.md>):** [Brandon Toner](<../Brandon Toner.md>)
     - **[Author](<../Author.md>):** [Andy Matuschak](<../Andy Matuschak.md>)
-    - URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+    - **URL:** [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<../Related.md>):** [not-populated](<../not-populated.md>) ((Not a reference, but a related idea, block or page))
     - **[Contents](<../Contents.md>):** 
@@ -22,6 +22,9 @@
             - [OS-level spaced repetition system](https://notes.andymatuschak.org/z36iMKLe4CDAXdtLSJD4Z6qPPFUS8ZXymUk3i)
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
 

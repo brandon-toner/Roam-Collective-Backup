@@ -1,4 +1,4 @@
-- **[Tags](<../Tags.md>):** #[Evergreens](<../Evergreens.md>)
+- **[Tags](<../Tags.md>):** #[Evergreens](<../Evergreens.md>) #[Reference Notes](<../Reference Notes.md>)
     - **[Date Created](<../Date Created.md>):** [January 30th, 2021](<../January 30th, 2021.md>) 
     - **[Created by](<../Created by.md>):** [Brandon Toner](<../Brandon Toner.md>)
     - **[Author](<../Author.md>):** [Andy Matuschak](<../Andy Matuschak.md>)
@@ -15,6 +15,9 @@
 - Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [Release valves for non-linear thought may support improved linear output](https://notes.andymatuschak.org/z3iT7pPmhbY8WtofoCccd58xtnhJUfkJPztGP).
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Evergreen notes should be densely linked](<../Evergreens/Evergreen notes should be densely linked.md>)
+
 ## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - Ensuring that [notes are densely linked]([Evergreens/Evergreen notes should be densely linked](<../Evergreens/Evergreen notes should be densely linked.md>))
 

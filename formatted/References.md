@@ -97,7 +97,7 @@
     - **[References](<References.md>):**
 
 ## [Evergreens/Spaced repetition systems can be used to program attention](<Evergreens/Spaced repetition systems can be used to program attention.md>)
-- URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+- **URL:** [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - **[References](<References.md>):**
 
 ## [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)

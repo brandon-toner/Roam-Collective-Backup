@@ -2,7 +2,7 @@
     - Date Created:: [[January 29th, 2021]]
     - Created by:: [[Brandon Toner]]
     - Author:: [[Andy Matuschak]]
-    - URL: [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
+    - **URL:** [link](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
     - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
     - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: 

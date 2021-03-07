@@ -15,6 +15,9 @@
         - Related: [“Better note-taking” misses the point; what matters is “better thinking”](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Evergreen note-writing helps insight accumulate](<../Evergreens/Evergreen note-writing helps insight accumulate.md>)
+
 ## [Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts](<Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts.md>)
 - [Evergreens/Evergreen note-writing helps insight accumulate](<../Evergreens/Evergreen note-writing helps insight accumulate.md>)
 

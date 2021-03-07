@@ -19,6 +19,9 @@
         - This would represent a system for __incremental thinking.__
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<../Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - [Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings](<../Evergreens/Spaced repetition may be a helpful tool to incrementally develop inklings.md>)
 

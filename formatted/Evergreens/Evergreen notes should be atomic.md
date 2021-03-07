@@ -12,6 +12,9 @@
         - The notion is quite similar to the software engineering principle of __separation of concerns,__ which suggests that modules should only be “about” one thing, so that they’re more easily reusable. But likewise, if you fragment modules too much, you’ll have a cohesion problem. In this way, [Evergreen note titles are like APIs](https://notes.andymatuschak.org/z3XP5GRmd9z1D2qCE7pxUvbeSVeQuMiqz9x1C).
 
 # Backlinks
+## [Andy's Notes](<Andy's Notes.md>)
+- [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)
+
 ## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
 - "The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>))
 
