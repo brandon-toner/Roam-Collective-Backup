@@ -30,3 +30,10 @@
     - #Bookmarks #not-populated
     - 
 - ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - #Announcements
+        - Still away — working on a seed project using RC conventions (can't disclose all the details, but it will definitely help us here.)
+    - #Scratchpad
+    - #Conversation #not-populated
+    - #[[Change Log]] #not-populated
+- ---

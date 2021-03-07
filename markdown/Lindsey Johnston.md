@@ -4,7 +4,8 @@
         - Clubhouse:: 👆🏻 same same
         - LinkedIn:: [linkedin.com/in/lindseyajohnston](https://www.linkedin.com/in/lindseyajohnston/)
         - Location:: [[Manhattan]], [[New York City]], [[New York]], [[United States]]
-            - Born & raised in Seattle so I still rep the west coast, best coast
+            - Born & raised in [[Seattle]] so I still rep the west coast, best coast
+        - Time Zone:: EST
         - Work:: [[digital advertising]], [[brand partnerships]], [[new business development]], [[shoppable content]]
             - Prev companies: Zulily.com, Gilt.com, RueLaLa.com, Nordstrom, & I did BizDev for retail blockchain startup back when crypto was all the rage (well, the first time it was all the rage)
         - MBA in Commercialization & Entrepreneurship
@@ -12,3 +13,11 @@
         - Interests:: [[branding]], [[storytelling]], [[fashion]], [[travel]], [[culture]], [[art]], [[design]], [[media]], [[marketing]], [[tech]], [[foodie]], [[podcasts]], [[reading]], [[meditation]], &c.
         - I also started using [[Roam]] in [[June 2020]]
         - Fun facts:: I have an adorable Blue Abyssinian kitten named Blueberry & she's much more active on Instagram than I am; I'm a proud member of #YelpEliteNYC (basically I get to go cool elite events for writing rad reviews); I also read/review pre-launch books for writers/publishers when I have time
+    - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP ljohnston — Daily Notes Template #42SmartBlock
+        - #[[My Daily Notes]] [[Lindsey Johnston]] {{word-count}}
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+            - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - ---

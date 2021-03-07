@@ -21,7 +21,7 @@
         - **[Work](<Work.md>):**
 
 ## [Lindsey Johnston](<Lindsey Johnston.md>)
-- Born & raised in Seattle so I still rep the west coast, best coast
+- **[Time Zone](<Time Zone.md>):** EST
         - **[Work](<Work.md>):**
 
 ## [Mark Robertson](<Mark Robertson.md>)

@@ -30,3 +30,10 @@
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 
 - ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - [Announcements](<Announcements.md>)
+        - Still away — working on a seed project using RC conventions (can't disclose all the details, but it will definitely help us here.)
+    - [Scratchpad](<Scratchpad.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+- ---
