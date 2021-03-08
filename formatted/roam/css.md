@@ -956,11 +956,8 @@ code {
 
 ```
                 - Example: `this is a code block`
-- ### **Code:**
-    - Elements
-        - Tags
-            - Variables
-                - ```css
+    - Variables
+        - ```css
 :root {
   /*
   Format:
@@ -968,6 +965,9 @@ code {
   */
   --tag-bg-cl-gtd:		var(--cl-blue-500);
 }```
+- ### **Code:**
+    - Elements
+        - Tags
             - Top-Section Tags
                 - #[Community Notes](<../Community Notes.md>) [Roam Collective](<../Roam Collective.md>)
                     - ```css
