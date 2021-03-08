@@ -1,9 +1,5 @@
 
 # Backlinks
-## [Alysson M. Costa](<Alysson M. Costa.md>)
-- **[Location](<Location.md>):** [Melbourne](<Melbourne.md>),[Australia](<Australia.md>)
-        - **[Work](<Work.md>):**
-
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
 - **[Location](<Location.md>):** [Wrocław](<Wrocław.md>), [Poland](<Poland.md>)
         - **[Work](<Work.md>):**

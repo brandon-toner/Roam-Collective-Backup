@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Alysson M. Costa](<Alysson M. Costa.md>)
-- I started using [Roam](<Roam.md>)
-
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
 - I started using [Roam](<Roam.md>)
 

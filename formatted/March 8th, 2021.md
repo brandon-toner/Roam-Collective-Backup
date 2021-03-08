@@ -1,4 +1,18 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
     - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
 - ---
-- 
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+    - [Inbox](<Inbox.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
+        - These days I mostly code for my PhD and working on the Roam API
+        - But I do come here every couple of days looking out for anything going on.
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+        - Query:
+            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Alysson M. Costa](<Alysson M. Costa.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>) 
+        - Finally had some time to check this! Looks really interesting. Lots to learn! I created a page Alysson by mistake and deleted it. I don't believe this a is case for change log.
+- ---

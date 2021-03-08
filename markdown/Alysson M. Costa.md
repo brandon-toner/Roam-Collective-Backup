@@ -3,8 +3,5 @@
         - Twitter:: [@alycosta](https://www.twitter.com/alycosta) 
         - Website:: https://blogs.unimelb.edu.au/alysson-costa/
         - Location:: [[Melbourne]],[[Australia]]
-        - Work:: [[lecturer]] 
         - How to contact me::
-            - Send me a DM on Twitter
-        - Received education at [[HEC Montreal]] 
-        - I started using [[Roam]] in [[June 2020]]
+            - twitter or e-mail at alysson@gmail.com

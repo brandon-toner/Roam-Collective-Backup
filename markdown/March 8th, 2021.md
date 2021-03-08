@@ -1,4 +1,18 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
     - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
 - ---
-- 
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+    - #Inbox
+    - #[[Scratchpad]] 
+        - These days I mostly code for my PhD and working on the Roam API
+        - But I do come here every couple of days looking out for anything going on.
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Bookmarks #not-populated
+    - 
+- ---
+- #[[My Daily Notes]] [[Alysson M. Costa]] {{word-count}}
+    - #Scratchpad 
+        - Finally had some time to check this! Looks really interesting. Lots to learn! I created a page Alysson by mistake and deleted it. I don't believe this a is case for change log.
+- ---

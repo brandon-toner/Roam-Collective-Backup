@@ -403,6 +403,9 @@
 ## [March 6th, 2021](<March 6th, 2021.md>)
 - "{{[query](<query.md>):
 
+## [March 8th, 2021](<March 8th, 2021.md>)
+- "{{[query](<query.md>):
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>):
 
