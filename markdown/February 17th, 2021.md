@@ -7,7 +7,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "SRS Call with [[Adam Krivka]] "
         2. "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
-        3. "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
+        3. "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
         4. **Brandon:** {{[[embed]]: ((oeQciItoi))}}
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
@@ -96,7 +96,7 @@
             - Meta
                 - Related:: [[prepositional linkages]]
                 - Disclaimer:: This is going to look/feel excessive — but I am attempting to map the full model in order to be [[collectively exhaustive]]. Some of these will be able to be inferred or implied based on context. 
-                    - #[[FN]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
+                    - #[[N]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
                 - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
                 - #Resources
                     - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [[structure]] here.
@@ -111,7 +111,7 @@
                 - #Q What are the types of statements that might exist in an article/piece of literature?
                     - Assertion/claim
                         - #I [[assertions]]/[[claims]] could be represented at the block-level with `#C`
-                            - #Q How does this differ from [[fleeting notes]], if at all?
+                            - #Q How does this differ from [["N"-notes]], if at all?
                     - Counter points
                         - #I [[counter points]] could be represented at the block-level with `#CP`
             - Example
@@ -120,10 +120,10 @@
             - Decisions
             - Rationale/Reason/Justification
             - Prediction
-        - #[[FN]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
-            - #[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
-                - #[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
-                - #[[FN]] the use [prepositional linkages]([[prepositional linkages]]) 
+        - #[[N]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
+            - #[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+                - #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+                - #[[N]] the use [prepositional linkages]([[prepositional linkages]]) 
                 - #Obs "[[statement chains]]" feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
             - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
@@ -131,7 +131,7 @@
                 - Burying the page names in an alias is kinda annoying.
         - #Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?
             - You can't, really. And that's ok.
-                - #[[FN]] [[collaborative graphs]] are [[chaotic]].
+                - #[[N]] [[collaborative graphs]] are [[chaotic]].
             - #Q What information is important to [[catch-up]] on?
                 - Epics
                 - Sprints
@@ -237,7 +237,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
-                - Re: "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
+                - Re: "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
                     - If I were to rephrase this (using my css), it would look like...
                     - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy #therefore css...
@@ -249,9 +249,9 @@
                                 3. The content of the note
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
                                 - See: Version 2
-                    - #[[FN]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+                    - #[[N]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
             - [@Brandon]([[~[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])"
-                - #FN [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
+                - #N [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
     - #[[GTD Zone]]
         - {{[[TODO]]}} Update color scheme with better shades of blue and green
     - #Bookmarks #not-populated
@@ -270,7 +270,7 @@
     - #Bookmarks
         - "SRS Call with [[Adam Krivka]] "
         - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
-        - "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
+        - "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [[Mark Robertson]] has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.

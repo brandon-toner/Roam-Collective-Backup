@@ -1339,26 +1339,6 @@ span.rm-page-ref[data-tag="Fleeting Notes"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
-                - [FN](<../FN.md>)
-                    - ```css
-/*span.rm-page-ref[data-tag="FN"]:before {
-    content: 		'🕊';
-}*/
-
-span.rm-page-ref[data-tag="FN"]:after {
-    content: 		':';
-}
-
-span.rm-page-ref[data-tag="FN"] {
-    color: 			var(--cl-gray-900) !important;
-    padding: 		2px 5px 2px 5px;
-	font-size: 		13px;
-    line-height: 	1em;
-    font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-yellow-100);
-}```
                 - #[Literature Notes](<../Literature Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Literature Notes"] {

@@ -472,7 +472,7 @@ span[data-link-title^="^"]:before {
   	font-size:		13px;
 }```
         - Notes
-            - "[FN](<../FN.md>)"
+            - [N](<../N.md>)
             - "[Notion](<../Notion.md>) [Test](<../Test.md>)"
     - ### FAQs
         - 

@@ -6,8 +6,8 @@
 
 - [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>))
 
-- #[FN](<FN.md>) In a collaborative environment, [cost](<cost.md>)
+- #[N](<N.md>) In a collaborative environment, [cost](<cost.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[FN](<FN.md>) In a collaborative environment, [cost](<cost.md>)
+- "#[N](<N.md>) In a collaborative environment, [cost](<cost.md>)
 

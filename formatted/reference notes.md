@@ -1,7 +1,7 @@
 - **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
 - **[Related](<Related.md>):**
     - [reference notes](<reference notes.md>)
-    - [fleeting notes](<fleeting notes.md>)
+    - ["N"-notes](<"N"-notes.md>)
     - [literature notes](<literature notes.md>)
     - [evergreen notes](<evergreen notes.md>)
 - For the collection of reference notes, visit: #[Reference Notes](<Reference Notes.md>)

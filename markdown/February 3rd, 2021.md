@@ -57,8 +57,8 @@
                     - Or if you're feeling creative you can go off the list to add something unique.
                 - Inspired by [Larissa's status updates](((JnHKrrTPC)))
     - #[[The Zettelkasten]] 
-        - #[[FN]] [[curation]] is an essential activity within a collaborative graph community. 
-            - Building on "#[[FN]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight"
+        - #[[N]] [[curation]] is an essential activity within a collaborative graph community. 
+            - Building on "#[[N]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight"
             - To assemble a puzzle you need to make sure you've gathered the related pieces. #Metaphors
                 - 1) Create ideas (pieces) -- divergence / brainstorming
                 - 2) Gather related ideas -- collection / curation
@@ -78,8 +78,8 @@
                 - No rush! Great to see you check in even as a one-liner haha. [[~[[Mark Robertson]]]]
         2. Outgoing messages:
             - [[~[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
-        3. Charles on [[fleeting notes]] vs [[seedlings]] #maturity
-            - "#Q What differentiates [[fleeting notes]] and [[seedlings]]?"
+        3. Charles on [["N"-notes]] vs [[seedlings]] #maturity
+            - "#Q What differentiates [["N"-notes]] and [[seedlings]]?"
                 - Seedlings are more "on the path towards" evergreen. 
                 - Fleeting notes are more chaotic, a bit less polished and concise.
                 - The objective difference I would propose would be page-status. [[~[[Charles Farr]]]]
@@ -166,7 +166,7 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])
     - #[[Scratchpad]] 
-        - "#[[FN]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph."
+        - "#[[N]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph."
         - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
         - "#[[GTD Zone]]"
         - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
@@ -178,8 +178,8 @@
             - 1 + 1 =3 comment in children of time
             - problem created by math mentioned in Humble Pi
         - #[[Follow Up]] "#[[Project Ideas]] Explore [[Wikipedia]]'s [[conventions]] as inspiration for components to emulate for [[RC]]."
-        - #[[Follow Up]] "#[[FN]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
-            - "#[[FN]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
+        - #[[Follow Up]] "#[[N]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]"
+            - "#[[N]] In a collaborative environment, [[cost]] of [[convergence]] scales with users"
             - how do I use `#Reply` and `#Reply-from`
     - #Conversation 
         - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
@@ -503,7 +503,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - https://twitter.com/calhistorian/status/1357033240507256832?s=20
                 - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
                     - [[~[[Larissa de Lima]]]] [[^[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for...
-                - #[[FN]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight
+                - #[[N]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight
         - Current gaps in onboarding & internal documentation #[[Follow Up]]
             - Philosophy of Roam Collective — mission statement, divergence → convergence → divergence, projects & goals
             - Convention encyclopedia 
@@ -513,7 +513,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - On Peter Russo's glorious wave & double-diamond analogies'
             - [[Peter Rosso]] the analogies [here](((In94jaGXw))) are incredible!
                 - I think that developing a library of [[exercises]] / [[activities]], both [[synchronous]] and [[asynchronous]], could be an incredible use case for use internally and to share externally
-                    - #[[FN]] Implementing synchronous & asynchronous writing [[exercises]] throughout the [[Evergreens/cycles of divergence and convergence]] better support the goals of each cycle
+                    - #[[N]] Implementing synchronous & asynchronous writing [[exercises]] throughout the [[Evergreens/cycles of divergence and convergence]] better support the goals of each cycle
                         - Exercises to support divergent thinking 
                             - Synchronous
                                 - ...
@@ -529,14 +529,14 @@ These users would have far better outcomes if they simply operated at or slightl
         - "[[Questions/Why build maturity into your knowledge management system?]]"
             - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
                 - "Why is maturity important?"
-                    - ""#[[FN]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])""
+                    - ""#[[N]] "Establishing levels within [[evergreen notes]] lowers the bar to creation and raises the bar for [[maturity]]." - [[Charles Farr]][*]([[creativity]])[*]([[minimum requirements]])[*]([[zettelkasten]])""
                     - ""We are close to nailing the nuance of a [[Evergreens/low floor, high ceiling]] [[zettelkasten]]! #Bookmarks""
                 - "How can you implement maturity?"
                     - ""For instance: `#Ideas` → `#InProgress` → `#Completed`""
                         - "Or: `#Fleeting` → `#Permanent`"
                         - "Or: `#Seedling` → `#Budding` → `#Evergreen`"
                 - "References::"
-                    - ""#[[FN]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].""
+                    - ""#[[N]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]].""
                         - ""Example:: If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.""
                         - ""**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up.""
                     - ""Circling back to [[~[[Peter Rosso]]]]'s original point about using the [[zettelkasten]] to capture "Meta" concepts, perhaps it makes sense to build some standard [[maturity]] scale for all elements in the graph""
@@ -570,7 +570,7 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""get the idea down on "paper"""
                                     - ""mark it as an "immature" evergreen or some such""
                                     - ""then have a process that forces you to return and mature it... ""
-                    - ""#[[FN]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. ""
+                    - ""#[[N]] Simply "becoming" an [evergreen note]([[evergreen notes]]) does not designate peak [[maturity]]. That is simply entry into the tier. ""
                     - ""Here is a draft of a maturity scale of the main graph components thus far: [[projects]], [[conventions]], and [[ideas]]. [*]([[Bookmarks]]) #Conventions ""
                     - ""Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])""
                         - ""Related::""
@@ -592,7 +592,7 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""#Q How do you differentiate title authorship from body authorship?""
                                         - ""For the purposes of avoiding [[plagarism]] and generating accurate [[references]].""
                             - ""On [[order]] of notes within the [[zettelkasten]]:""
-                                - ""#[[FN]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves.""
+                                - ""#[[N]] [[Sonke Ahrens]] describes that the order of notes within a [[zettelkasten]] matters as much as the content of the notes themselves.""
                                 - ""This is especially emphasized within [[Beau Hann]]'s expression of [[zettelkasten]].""
                                 - ""#Q How can the order of notes within the zettelkasten be represented in this emerging system?""
                                     - ""The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [[Charles Farr]] may be of use here.""
@@ -619,15 +619,15 @@ These users would have far better outcomes if they simply operated at or slightl
                             - ""#Q How can [[questions]] be integrated in to [[zettelkasten]]?""
                                 - ""Related:: ""
                                     - """#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"""
-                                    - """#[[FN]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."""
+                                    - """#[[N]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."""
                                     - """Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"""
                                     - """My preference is to limit it to a parent-level tag and then a block level tag"""
                             - ""#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?""
                         - ""Process:: [*]([[Processes]])""
-                            - ""Document ideas freely as [[fleeting notes]]""
+                            - ""Document ideas freely as [["N"-notes]]""
                             - ""[[literature notes]] or [[verbatim notes]] are representations of the author's ideas.""
                                 - ""OK to be verbatim — these should be quick & easy! ""
-                                    - ""#[[FN]] The need for originality adds [[cognitive burden]].""
+                                    - ""#[[N]] The need for [[originality]] adds [[cognitive burden]].""
                                 - ""References::""
                                     - ""https://twitter.com/syncretizm/status/1355812313505230852?s=21""
                             - ""As ideas begin to feel [[evergreen]], a page should be created.""
@@ -683,7 +683,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - ""Time for some [CONVERGENCE]([[convergence]]) — **Questions**" 🛠 Categorizing questions: "
             - Continued building a directory of questions, as a first step on aggregating and prioritizing (for when we are ready for [[convergence]])
             - Requests from community: please feel free to contest choices and groupings made!
-        - #[[FN]] Scoping is a key step for prioritization and getting things done
+        - #[[N]] Scoping is a key step for prioritization and getting things done
             - Think this is also very tied to GTD philosophy
             - The proliferation of new content in Roam creates two key challenges
                 - How to prioritize base on what has the greatest need?
@@ -774,7 +774,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - (low priority) On further exploring building "operationability" among atomic units and building blocks
             -  "[[~[[Larissa de Lima]]]] I am so curious now."
                 - [[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
-                    - "#[[FN]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
+                    - "#[[N]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
             - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[~[[Larissa de Lima]]]] #[[Experiments]]"
                 - [[~[[leekeifon]]]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
     - #Feedback 

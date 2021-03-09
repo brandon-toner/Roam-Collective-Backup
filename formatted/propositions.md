@@ -9,7 +9,7 @@
 
 - [Q](<Q.md>) How does a [provocation]([provocations](<provocations.md>)) differ from a [proposition]([propositions](<propositions.md>))
 
-2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on [fleeting notes](<fleeting notes.md>) vs [propositions](<propositions.md>)
+2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on ["N"-notes](<"N"-notes.md>) vs [propositions](<propositions.md>)
 
 - "Found a better alternative: [propositions](<propositions.md>)"
 

@@ -17,13 +17,13 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>))
 
-- "#[FN](<../FN.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)"
+- "#[N](<../N.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)"
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - ""Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)"
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- #[FN](<../FN.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
+- #[N](<../N.md>) [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<../Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)

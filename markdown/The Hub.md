@@ -8,7 +8,7 @@
 - ---
 - Notes
     - Fleeting Notes
-        - #min-con {{[[query]]: {and: [[FN]] {not: {or: [[query]] }}  }}}
+        - #min-con {{[[query]]: {and: [[N]] {not: {or: [[query]] }}  }}}
     - Literature Notes
         - #minimal {{[[query]]: {and: [[Literature Notes]]  {not: {or: [[query]] [[not-populated]] }}  }}}
     - Evergreen Notes

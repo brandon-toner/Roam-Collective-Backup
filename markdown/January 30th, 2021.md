@@ -167,7 +167,7 @@
                         - Like [[Lego]]
             - Review of purpose, vision, goals & projects
             - Discuss the [[Roam Games]]
-            - Writing [[fleeting notes]] & the [[collaborative zettelkasten]].
+            - Writing [["N"-notes]] & the [[collaborative zettelkasten]].
         - #Discoveries
             - You can [[filter]] the references on a [block reference]([[block references]]) by focusing on the block!! #Tips
         - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
@@ -218,7 +218,7 @@
     - #[[GTD Zone]] 
         - {{[[TODO]]}} Refine a system of [[convergence]] for [[open questions]]. #[[Week-04: 01-25-2021]]
             - Goal: Have related questions converge into fewer central questions. 
-                - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten"
+                - "#[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [["N"-notes]] are to [[evergreen notes]]. #zettelkasten"
         - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
             - Section for [[collections]] under Tag Styling #Status/Enabled
     - #[[Change Log]] 
@@ -234,10 +234,10 @@
         - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
             - Excellent experience so far (but I'm familiar with the specs and style guides)
             - I find that through the process of building a user-friendly ecosystem here, I am improving and clarifying my own systems and conceptualizations
-                - #[[FN]] [[writing]] for other people helps to facilitate [[clarity]], and therefore enhanced [[understanding]].
-                    - #[[FN]] A [collaborative graph]([[collaborative graphs]]) facilitates shared [[understanding]] through its requirements for explicit explanation and enhanced [[clarity]].
-                    - #[[FN]] It is easier to tolerate vague [[writing]] within a [[private graph]].
-                    - #[[FN]] Writing [[fleeting notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
+                - #[[N]] [[writing]] for other people helps to facilitate [[clarity]], and therefore enhanced [[understanding]].
+                    - #[[N]] A [collaborative graph]([[collaborative graphs]]) facilitates shared [[understanding]] through its requirements for explicit explanation and enhanced [[clarity]].
+                    - #[[N]] It is easier to tolerate vague [[writing]] within a [[private graph]].
+                    - #[[N]] Writing [["N"-notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
         - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
             - Improved [[onboarding]] documentation — it's decent now, but it could be better now that things have evolved a bit.
             - Some live events to drive some interest and activity.
@@ -245,11 +245,11 @@
             - More emphasis and training on the collective zettelkasten systems.
         - 
     - #[[The Zettelkasten]]
-        - #[[FN]] It is helpful to import [[verbatim]] passages from [[resources]] so that they can be directly referenced as [[context snippets]] within the [[zettelkasten]] or within [[conversation]].
+        - #[[N]] It is helpful to import [[verbatim]] passages from [[resources]] so that they can be directly referenced as [[context snippets]] within the [[zettelkasten]] or within [[conversation]].
             - Tools:: [[Memex]] [[copy-paster]]
-            - #[[FN]] the benefits of having access to [[verbatim]] passages offers an argument for being able to easily import [[full-text]] into [[Roam]].
-        - #[[FN]] Asterisk [[aliases]] can be used to [[hide]] content from blocks — improving [[readability]]. #Tips
-        - #[[FN]] [[copy-paster]]-like templating tools are helpful for standardizing [[conventions]]. This also applies to [[Roam templates]] and [[SmartBlocks]]. #standardization
+            - #[[N]] the benefits of having access to [[verbatim]] passages offers an argument for being able to easily import [[full-text]] into [[Roam]].
+        - #[[N]] Asterisk [[aliases]] can be used to [[hide]] content from blocks — improving [[readability]]. #Tips
+        - #[[N]] [[copy-paster]]-like templating tools are helpful for standardizing [[conventions]]. This also applies to [[Roam templates]] and [[SmartBlocks]]. #standardization
     - #Conversation 
         - #Observations
             - Love this `#minimal` [[CSS]] styling for queries. I needed this! Thanks, [[cc:[[Charles Farr]]]]
@@ -277,19 +277,19 @@
                 - Love this exploration. 
                 - There is a lot of information here worth crystallizing.
                 - Some thoughts inspired by this:
-                    - #[[FN]] Directing conversation about ideas in the form of [[zettelkasten]] is the most efficient way for [[ideas]] and [[trails of thought]] to persist through time.
+                    - #[[N]] Directing conversation about ideas in the form of [[zettelkasten]] is the most efficient way for [[ideas]] and [[trails of thought]] to persist through time.
                         - #Conventions [[conversation]] should be conducted in the form of [[zettelkasten]] notes whenever possible to facilitate the  development of ideas through time.
-                    - How I see this flowing: #Processes [*]([[fleeting notes]]) [*]([[evergreen notes]])
-                        1. Users document ideas as [[fleeting notes]] (low filter for creation)
+                    - How I see this flowing: #Processes [*]([["N"-notes]]) [*]([[evergreen notes]])
+                        1. Users document ideas as [["N"-notes]] (low filter for creation)
                             - Approach: Phrase your idea as a claim, that could be supported, challenged, or elaborated on. Accuracy doesn't matter too much here.
-                        2.  Users **continue the conversation** of these notes by [referencing]([[block referencing]]) them in discussion, and formulating new [[fleeting notes]] in response to them.
+                        2.  Users **continue the conversation** of these notes by [referencing]([[block referencing]]) them in discussion, and formulating new [["N"-notes]] in response to them.
                             - This may be an opportunity to use principles of [[logic]] and [[rhetoric]], but these conventions would be [[optional]].
                         3. Repeat [[ad infinitum]] until ideas have been exhausted and writing becomes less [[fruitful]]. 
                         4. Development and [[maturation]] of ideas in [[zettelkasten]] could be facilitated by [active or passive resurfacing]([[Evergreens/active vs passive resurfacing]]).
                         5. As ideas become heavily referenced, or feel "[[evergreen]]" in nature — a page should be created and an [evergreen note]([[evergreen notes]]) formed.
                             - Related:: [[The stages of [[maturation]] of [[zettelkasten]] notes]] #Seedlings
                         6. If a fleeting note is started on its journey towards becoming an evergreen note, but [that process has not been completed]([[What indicates that a seedling has fully matured into an evergreen note?]]) — a `#Seedlings` tag should be assigned.
-            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[Articles/How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[FN]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]"
+            - "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [[Andy Matuschak]]’s [[Articles/How to write good prompts]], which encodes some patterns on how we understand a concept. In other words, this set of tags should be able to serve as a "#[[N]] Roam {X} protocol" when communicating concept. [[^[[Brandon Toner]]]]"
                 - Wow this is excellent! Love these. Will definitely [look further into this]([[Bookmarks]]). #prompts #Resources
                     - URL:: https://andymatuschak.org/prompts/
                         - {{[[TODO]]}} Create literature notes from [[Articles/How to write good prompts]]. #[[Help Wanted]]
@@ -305,7 +305,7 @@
                 - hahaha, precisely what I'm currently doing. [[~[[Peter Rosso]]]]
             - "Going through conventions I thought that the [explanations ](((OrJE8GXKu)))should be distributed under each convention. In case the number of conventions would extend this would give them more structure." [*](((_RskG85VJ)))
                 - Yup, agree on this. The place to look to how to use a particular tag should we on the tag page itself. I've been somewhat [opportunistically]([[opportunistically]]) populating these as I interact with the graph.
-                    - #[[FN]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
+                    - #[[N]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
             - "According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts."
                 - YES! I was about to develop a Smartblock actually that would generate a RANDOMBLOCKMENTION of `#Seedlings`. 
                     - Created [here](((tE6jhytOC)))
@@ -317,7 +317,7 @@
                 - What's the origin one? Is that a different article?
                 - I've never really gotten into spaced repetition, but it's feeling like a [[next logical step]] for me for sure! What kind of event do you have in mind?
             - "When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [[maturity]] of the idea."
-                - "When referencing a [fleeting note]([[fleeting notes]]), we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the [relationship]([[relationships]]) between [[blocks]] which would benefit us in the future." [*](((DnN9U_S8t)))
+                - "When referencing a [fleeting note]([["N"-notes]]), we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the [relationship]([[relationships]]) between [[blocks]] which would benefit us in the future." [*](((DnN9U_S8t)))
                     - Yup, I have a vision for this once we have mapped out some good terms applying [[rhetoric]], [[debate]], and [[logic]] as referenced [here](((29MTnT-MQ)))
                         - {{[[TODO]]}} Extract [[literature notes]] and [[key concepts]] from those sources, distilling into some suggested tags for use in [this](((qVwDe2H31))) manner.
                 - "One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the maturity of the idea." [*](((DnN9U_S8t)))
@@ -335,7 +335,7 @@
             - `meta-j s` Roam42 shortcut while selecting a passage of text to copy as quote + alias has got to be one of my favourite [[block referencing]] [techniques]([[Techniques]]).
                 - Here's a [GIF]([[GIFs]])
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fmi5GFmBjwZ.gif?alt=media&token=ea71f8bf-0b4f-4339-856c-81a9ad2b8ff0)
-                    - #[[FN]] [[GIFs]] are an [[efficient]] and [[effective]] way to communicate a process or workflow. #teaching #documentation #Techniques #[[Quick Start Guide]] #onboarding #training
+                    - #[[N]] [[GIFs]] are an [[efficient]] and [[effective]] way to communicate a process or workflow. #teaching #documentation #Techniques #[[Quick Start Guide]] #onboarding #training
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] {{word-count}} #csf
     - #[[Scratchpad]]
@@ -383,17 +383,17 @@
                     - Debate
         3. "Yup, really like this idea. cc: [[~[[Charles Farr]]]]"
             - Sounds good [[~[[Brandon Toner]]]] — going to update all of the current SmartBlocks in the graph at some point today. Will note in the change log.
-        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[FN]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
+        4. "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[[N]] public vs private " when doing [[collaboration]]. [[~[[Charles Farr]]]]"
             - Ahhhh [[~[[leekeifon]]]] I see what you mean! Individualized settings within multiplayer graphs would be incredible. Personally, I would prefer to turn off brackets, but I'm pretty sure that would impact everyone here, so it's not something I can do.  
                 - [[Feature Request]]: Individualized CSS and view options within multi-player graphs
-        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([[fleeting notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[^[[Brandon Toner]]]] [[^[[leekeifon]]]]
+        5. Re: ""for a block that’s not yet been level-up to a page" [*](((Fvi-lhrAe)))[*](((67MsLIbX6))) [[cc:[[leekeifon]]]]" + "My [[threshold]] for documenting a [fleeting note]([["N"-notes]]) is far lower than my threshold for documenting an [evergreen note]([[evergreen notes]])" [[^[[Brandon Toner]]]] [[^[[leekeifon]]]]
             - Brandon and I were discussing structures for Evergreen note pages earlier...
                 - I would propose there is a way to simply and implicitly distinguish between an Evergreen that is ready to be a page and one that isn't
                     - For the most part, I think this has to do with the level of development of the necessary support and context
                     - A novel idea, combining across various pieces of literature and fleeting notes is an evergreen thought
                         - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
                 - So, the approach I use is as follows
-                    - As I read (and generally move through life) I collect [[literature notes]] and [[fleeting notes]]
+                    - As I read (and generally move through life) I collect [[literature notes]] and [["N"-notes]]
                         - At some point, an [[evergreen]] thought will precipitate out of these
                     - I will then define this evergreen thought quite simply in Roam at the block level
                         - #Evergreens Evergreen notes require detail and context to ensure they are readily communicable to either your future-self or to others

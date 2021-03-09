@@ -7,7 +7,7 @@
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         2. "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
-        3. "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
+        3. "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
         4. **Brandon:** {{[embed](<embed.md>): ((oeQciItoi))}}
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
@@ -96,7 +96,7 @@
             - Meta
                 - **[Related](<Related.md>):** [prepositional linkages](<prepositional linkages.md>)
                 - **[Disclaimer](<Disclaimer.md>):** This is going to look/feel excessive — but I am attempting to map the full model in order to be [collectively exhaustive](<collectively exhaustive.md>). Some of these will be able to be inferred or implied based on context. 
-                    - #[FN](<FN.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
+                    - #[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>) are implemented as graph [conventions](<conventions.md>) should be determined by how users may want to filter/query data.
                 - [I](<I.md>) The study of [grammar](<grammar.md>) may prove a valuable resource for the discovery of potential block-level tags and annotations.
                 - [Resources](<Resources.md>)
                     - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [structure](<structure.md>) here.
@@ -111,7 +111,7 @@
                 - [Q](<Q.md>) What are the types of statements that might exist in an article/piece of literature?
                     - Assertion/claim
                         - [I](<I.md>) [assertions](<assertions.md>)/[claims](<claims.md>) could be represented at the block-level with `[C](<C.md>)`
-                            - [Q](<Q.md>) How does this differ from [fleeting notes](<fleeting notes.md>), if at all?
+                            - [Q](<Q.md>) How does this differ from ["N"-notes](<"N"-notes.md>), if at all?
                     - Counter points
                         - [I](<I.md>) [counter points](<counter points.md>) could be represented at the block-level with `[CP](<CP.md>)`
             - Example
@@ -120,10 +120,10 @@
             - Decisions
             - Rationale/Reason/Justification
             - Prediction
-        - #[FN](<FN.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
-            - #[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
-                - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
-                - #[FN](<FN.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
+        - #[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>), fosters a consideration of the structure of [narratives](<narratives.md>).
+            - #[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>)."
+                - #[N](<N.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).
+                - #[N](<N.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) 
                 - [Obs](<Obs.md>) "[statement chains](<statement chains.md>)" feels off, because lines of [logic](<logic.md>) involve more than [statements](<statements.md>). 
         - [Q](<Q.md>) What are the benefits of nested-page [namespaces](<namespaces.md>)?
             - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
@@ -131,7 +131,7 @@
                 - Burying the page names in an alias is kinda annoying.
         - [Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?
             - You can't, really. And that's ok.
-                - #[FN](<FN.md>) [collaborative graphs](<collaborative graphs.md>) are [chaotic](<chaotic.md>).
+                - #[N](<N.md>) [collaborative graphs](<collaborative graphs.md>) are [chaotic](<chaotic.md>).
             - [Q](<Q.md>) What information is important to [catch-up](<catch-up.md>) on?
                 - Epics
                 - Sprints
@@ -237,7 +237,7 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
-                - Re: "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
+                - Re: "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
                     - If I were to rephrase this (using my css), it would look like...
                     - [Notion](<Notion.md>) The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy [therefore](<therefore.md>) css...
@@ -249,9 +249,9 @@
                                 3. The content of the note
                             - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
                                 - See: Version 2
-                    - #[FN](<FN.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+                    - #[N](<N.md>) CSS for [block-level tags](<block-level tags.md>) should allow for easy [parsing](<parsing.md>) of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
-                - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
+                - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Update color scheme with better shades of blue and green
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -270,7 +270,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - "SRS Call with [Adam Krivka](<Adam Krivka.md>) "
         - "[Q](<Q.md>) How to you "[catch-up](<catch-up.md>)" in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>))?"
-        - "#[therefore](<therefore.md>) "#[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
+        - "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>) for annotating [statement chains](<statement chains.md>) improves the quality of ones [thinking](<thinking.md>) and [writing](<writing.md>).""
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [Mark Robertson](<Mark Robertson.md>) has some block levels tags in his roam graph, should check out the tours with rob
                 - also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) resources on rhetoric" and on logic have stuff on that.

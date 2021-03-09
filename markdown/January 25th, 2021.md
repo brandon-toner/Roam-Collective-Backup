@@ -15,7 +15,7 @@
         - Check out the #[[Help Wanted]] page references for opportunities to contribute.
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
-        - Check out the #[[FN]] linked references for some [[atomic ideas]].
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
             - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
@@ -157,12 +157,12 @@
             - [[Charles Farr]]
                 - Seeding graphs
     - #[[The Zettelkasten]]
-        1. #[[FN]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.
-        2. #[[FN]] Strong conventions within a [collaborative graph]([[collaborative graphs]]) help to maintain [[order]] and mitigate [[chaos]].
-        3. #[[FN]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
+        1. #[[N]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.
+        2. #[[N]] Strong conventions within a [collaborative graph]([[collaborative graphs]]) help to maintain [[order]] and mitigate [[chaos]].
+        3. #[[N]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
         4. #[[Questions]] How can we prevent a collaborative graph from feeling overwhelming?
             - Maybe through strong onboarding? Clubhouse calls to address questions? Encouraging the use of the `#Questions` to create dialogue about conventions.
-        5. #[[FN]] The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
+        5. #[[N]] The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
         6. #I — Might change `#Comments` to `#Commentary`... feels more clear that it's commentary on stuff within the graph. #Conventions
     - #Promptstorming
         1. From the [[Prompts]] page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
@@ -258,8 +258,8 @@ Community suggests via block-level tagging, then graph editors compile them cent
             - How does a group determine its shared goals for knowledge work? How do these goals impact the artifact?
             - How does the nature of the work impact the artifact requirements?
     - #[[The Zettelkasten]]
-        - "#[[FN]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
-            - #[[FN]] Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
+        - "#[[N]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
+            - #[[N]] Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
     - #Conversation
         - "How important is it to stick to vanilla Roam?"
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.

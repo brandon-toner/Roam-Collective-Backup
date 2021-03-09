@@ -51,10 +51,10 @@
                         - Will also need to think of how we keep it current.
         - [I](<I.md>) I'm thinking [sprints](<sprints.md>) show NOT be named. Just date ranges... with the content of the sprint on the page?
             - "projects" should be listed on the sprint pages as places to focus efforts.
-            - [FN](<FN.md>) There should only be **one** active [sprint]([sprints](<sprints.md>)) at a time. 
-            - [FN](<FN.md>) [sprints](<sprints.md>) should have a defined time window that is firm / non-negotiable.
+            - [N](<N.md>) There should only be **one** active [sprint]([sprints](<sprints.md>)) at a time. 
+            - [N](<N.md>) [sprints](<sprints.md>) should have a defined time window that is firm / non-negotiable.
                 - If project work assigned to a sprint is not completed, it can be included in the next sprint.
-            - [FN](<FN.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
+            - [N](<N.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
                 - **[Example](<Example.md>):**
                     - **[Not this: "[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status](<Not this: "[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status.md>):** [Status/Active](<Status/Active.md>)""
                         - This sprint should have been resolved after 1-2 weeks, and a component of managing dependencies be built using a project.
@@ -146,7 +146,7 @@
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - On [in-graph chat](<in-graph chat.md>)
-            - "[FN](<FN.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
+            - "[N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
             - "However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication."
             - "The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time."
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)

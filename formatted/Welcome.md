@@ -1,5 +1,5 @@
 - ## Roam Collective
-    - This is a space to explore the budding potential of **working together** in Roam.
+    - This is a space to explore the budding potential of **working together** in Roam. And other things. Really, [this is a public workspace](((W9hbYSnOo))) — where we focus tend to focus pretty heavily on the meta-nature of this space.
     - We see a future where groups can effortlessly __accumulate shared knowledge__ and __accomplish shared objectives__ through the driving force of communication.
     - Conversation is RICH with value. Questions are asked, resources are shared, opportunities are identified, and ideas are born. 
     - In the short time since this experiment has begun, we have defined and collected some powerful conventions that empower us to mine the value encoded within natural conversation and exchanges. But we are just getting started...

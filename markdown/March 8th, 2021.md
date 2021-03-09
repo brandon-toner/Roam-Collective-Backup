@@ -1,4 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
+    - #Announcements
+        - "I murdered the FN tag 😱"
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
@@ -6,10 +8,20 @@
     - #Conversation 
         - [[@[[Alysson M. Costa]]]] re [change log](((BLrKswZok)))
             - Yup that's right! Change log is just for big changes that might affect other people.
-        - [[@[[Kaito Kikuchi]]]] [welcome!](((HJB-DxxGd)))
+        - [[~[[Kaito Kikuchi]]]] [welcome!](((HJB-DxxGd)))
             - Glad to have you here! Jump right in and let me know if you have any questions. 
             - Would also love your thoughts/impressions within a #Feedback section (simply add it in your section and nest thoughts underneath.)
                 - I'm interested in the good, the interesting, the confusing, the unclear, the exciting, the intimidating, etc etc. [[cc:[[Alysson M. Costa]]]]
+        - [[~[[Kaito Kikuchi]]]] on [what does one even do here lol](((RKEbGdx60))) [*]([[cc:[[Charles Farr]]]])[*]([[Bookmarks]])[*]([[Feedback]])
+            - Think of this as a public thinking space. 
+            - A central focus is the development of effective collaboration conventions for groups or teams in Roam — but it is much broader than that. 
+            - You could legit talk about your anything (your fav foods, projects you're working on, an article that just blew your mind) and this is a place where people can engage with you on those ideas in a meaningful way.
+            - Conversational energy oscillates, in that sometimes were are LIVELY with activity, and sometimes it fades — but part of the aim is how to manage that ebb and flow and to figure out good async systems.
+            - One thing has become VERY clear to mean. 
+                - [[Multiplayer Roam is more fun than single-player Roam.]]
+                    - There is some [[dopamine]] shit going on here for sure haha. 
+                    - I use graphs like this more than [[Twitter]] now.
+                    - The depth of conversation, interactivity and the continuous build of ideas is incredible.
     - #[[Change Log]] 
         - CSS Changes general approach = softened appearance: (with versions)
             - Notification Tags
@@ -19,6 +31,10 @@
         - Changed [[Roam42]] to test version
             - New "OPENPAGE"/"SIDEBAR" Commands available.
             - Can now auto-open conversation module in the sidebar on running the DNP (from there, pin it for the day) - [here's mine.](((tz8gJ1NJv)))
+        - I murdered the FN tag 😱
+            - Too much baggage with other systems of note-taking.
+            - Now it's just the "N-note" — at least for now. 
+            - Same usage, different name.
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - #Inbox
@@ -37,6 +53,16 @@
 - #[[My Daily Notes]] [[Kaito Kikuchi]] {{word-count}}
     - #Scratchpad
         - Very excited to join! Lots to learn and observe...
+    - #Feedback
+        - I'm starting to explore the [[zettelkasten]]s and find them very informative, especially seeing how people structure them
+            - For example, [structuring Literature Notes as Verbatim Notes to combat cognitive burden](((kvrzNKc5u))) was revelatory for me.
+        - I have a harder time grasping __how people use__ Roam Collective. 
+            - Pointers to what do people do every day, what is a typical flow, example conversations and pages could be very informative for beginners getting up to speed.
+    - #Conversation
+        - [[@[[Brandon Toner]]]] [on how to use Roam Collective](((Z2HuShhsE)))
+            - OK this was really helpful! Thank you!
+            - I like how a lot of thought is going into building good conventions for collaborative thinking
+            - Also starting to feel what you mean by [[Multiplayer Roam is more fun than single-player Roam.]] 😄
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad 

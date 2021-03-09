@@ -105,11 +105,11 @@ Monthly reviews could include a zoom catchup?
                 - #[P:Self](<P:Self.md>) Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
         - #[Q](<Q.md>) It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [datalog](<datalog.md>) query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [patterns](<patterns.md>) to be recognized.  [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
             - **[Related](<Related.md>):** sibling query feature request mentioned by [Joel Chan](<Joel Chan.md>) and [Robert Haisfield](<Robert Haisfield.md>) in their chatting video.
-            - **[Related](<Related.md>):** The above block is the example of "#[FN](<FN.md>) block-embed [model](<model.md>)"
-        - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[FN](<FN.md>) block-level [model](<model.md>)" and "#[FN](<FN.md>) block-embed [model](<model.md>)".
+            - **[Related](<Related.md>):** The above block is the example of "#[N](<N.md>) block-embed [model](<model.md>)"
+        - Actually, tooltip is a great entry point for conveying [conventions](<conventions.md>) on "#[N](<N.md>) block-level [model](<model.md>)" and "#[N](<N.md>) block-embed [model](<model.md>)".
         - #[Q](<Q.md>) What’s the best way to convey information within a block?
             - **[Observations](<Observations.md>):** one [tensions](<tensions.md>) is, when the linking intention and the center of block information don’t align.
-            - #[FN](<FN.md>) Those css that are not trying to convey the center of block information, tends to dull our concentration.
+            - #[N](<N.md>) Those css that are not trying to convey the center of block information, tends to dull our concentration.
                 - **[[ ] Examples](<[ ] Examples.md>):** convey what I think is good and what’s not.
         - "Assumption: everyone’s mind is reasonable."
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.

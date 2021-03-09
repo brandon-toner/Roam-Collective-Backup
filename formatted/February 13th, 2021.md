@@ -20,7 +20,7 @@
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
             - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>))
                 - **[Source](<Source.md>):** Reply to Visa's tweet.
-            - #[FN](<FN.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
+            - #[N](<N.md>) Start with known [classification](<classification.md>) systems and adapt them to specific needs.
                 - [I](<I.md>) Use [Wikipedia](<Wikipedia.md>) to find existing [classification](<classification.md>) systems.
             - [Q](<Q.md>) What [classification](<classification.md>) systems, [taxonomies](<taxonomies.md>), or lists would be useful within Roam Collective?
                 - List of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
@@ -42,10 +42,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - [Q](<Q.md>) What classes of tags are there that might have different colors?
-        - #[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
+        - #[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
-            - #[FN](<FN.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
+            - #[N](<N.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>) 
             - Weekly newsletter

@@ -92,7 +92,7 @@
             - **[Source](<Source.md>):**
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- [FN](<FN.md>) Breaking things apart, so they can be put together
+- [N](<N.md>) Breaking things apart, so they can be put together
             - **[Source](<Source.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)

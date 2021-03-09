@@ -246,7 +246,7 @@ window.updateIndexPage = updateIndexPage;
 
 - [Charles Farr](<Charles Farr.md>)
 
-- #[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+- #[N](<N.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>)
 
@@ -292,7 +292,7 @@ window.updateIndexPage = updateIndexPage;
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
-- ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+- ""#[N](<N.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - ""The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 
@@ -430,7 +430,7 @@ window.updateIndexPage = updateIndexPage;
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>), from [Charles Farr](<Charles Farr.md>)'
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
+- "#[N](<N.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[
 
 - "The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>)
 

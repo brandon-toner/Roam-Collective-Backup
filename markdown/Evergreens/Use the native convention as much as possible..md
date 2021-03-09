@@ -6,5 +6,5 @@
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[Evergreens/"Hacked" solutions are likely to break over time.]]
     - Contents::
-        - #[[FN]] Use features as the are intended to be used.
+        - #[[N]] Use features as the are intended to be used.
             - Rationale:: As the product develops, it is likely that enhancements will be in relation to established conventions.

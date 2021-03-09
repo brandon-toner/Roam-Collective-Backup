@@ -51,10 +51,10 @@
                         - Will also need to think of how we keep it current.
         - #I I'm thinking [[sprints]] show NOT be named. Just date ranges... with the content of the sprint on the page?
             - "projects" should be listed on the sprint pages as places to focus efforts.
-            - #FN There should only be **one** active [sprint]([[sprints]]) at a time. 
-            - #FN [[sprints]] should have a defined time window that is firm / non-negotiable.
+            - #N There should only be **one** active [sprint]([[sprints]]) at a time. 
+            - #N [[sprints]] should have a defined time window that is firm / non-negotiable.
                 - If project work assigned to a sprint is not completed, it can be included in the next sprint.
-            - #FN [[sprints]] should be defined by time rather than project content.
+            - #N [[sprints]] should be defined by time rather than project content.
                 - Example::
                     - Not this: "[[Sprints/1 — Roam Games 3 (managing dependencies)]] "Status:: [[Status/Active]]""
                         - This sprint should have been resolved after 1-2 weeks, and a component of managing dependencies be built using a project.
@@ -146,7 +146,7 @@
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Bookmarks
         - On [[in-graph chat]]
-            - "#FN The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]"
+            - "#N The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]"
             - "However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication."
             - "The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time."
     - #[[The Zettelkasten]] #not-populated

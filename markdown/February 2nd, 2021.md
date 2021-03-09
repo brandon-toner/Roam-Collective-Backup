@@ -80,11 +80,11 @@
         - Peter on [[waves]], signal, and synchronous engagement. [*](((e5szI-YDO)))
     - #[[The Zettelkasten]] 
         - #[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[Evergreens/double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system.
-        - #[[FN]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph.
+        - #[[N]] [[convergence]] and [[divergence]] activity phases can co-exist within a collaborative graph.
             - While converging ideas around a particular activity, more new ideas are likely to arise. 
-                - #[[FN]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
+                - #[[N]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
-                    - #[[FN]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
+                    - #[[N]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
     - #Conversation 
         1. On "1000 upvotes"
             - "[[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? "
@@ -188,7 +188,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]])  
     #Scratchpad 
         - 🛠 IN PROGRESS - RETURN LATER
-            - #[[FN]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
+            - #[[N]] Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
                     - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
                 - Arguments:
@@ -272,12 +272,12 @@ I think I need to go through the whole process to make sure I internalise it.
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
-            - "#[[FN]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
+            - "#[[N]] [[maturity]], should consider the **acceptance of a term and claim among the community**, in the context of [[collaboration]]."
                 - This is really striking at something
                 - The challenge is - how does one define acceptance of a term? 
-                    - #[[FN]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
+                    - #[[N]] [[convergence]] is important to the creative process but is costly / has a [[transaction cost]]
                         - This is analogous to applying heat to molecules to create structure 
-                        - #[[FN]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
+                        - #[[N]] In a collaborative environment, [[cost]] of [[convergence]] scales with users
                             - It is costly to:
                                 - (re: basis) have a (sufficient) basis of shared context
                                 - (re: process) share mental models asynchronously 
@@ -290,7 +290,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Hey back at you [[~[[Charles Farr]]]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     #[[Meetings & Discussions]]
         - "[[Charles Farr]], [[Larissa de Lima]], & [[Brandon Toner]] on [[Clubhouse]] "
-            - "#[[FN]] Community Notes are an Extension of Evergreen Notes"
+            - "#[[N]] Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -319,14 +319,14 @@ I think I need to go through the whole process to make sure I internalise it.
                     - Outline
                     - Community
                 - ## Associated Questions
-                    - #Q What differentiates [[fleeting notes]] and [[seedlings]]?
+                    - #Q What differentiates [["N"-notes]] and [[seedlings]]?
                     - #Q How does the impact of community participation/review/contribution impact maturity of an idea?
                     - #Q How do you differentiate a collection and an outline?
                         - #Q How do collections and outlines support [[convergence]]?
         - Background on the [[zettelkasten]]
             - #Evergreens #Q What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
-                    - #[[FN]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+                    - #[[N]] A [[zettelkasten]] is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [[Nicolas Luhmann]], was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
                     - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
@@ -382,7 +382,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[[FN]] Community Notes are an Extension of Evergreen Notes
+            - #[[N]] Community Notes are an Extension of Evergreen Notes
                 - #[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on...
     - #[[Change Log]]
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -415,19 +415,19 @@ I think I need to go through the whole process to make sure I internalise it.
             - I’m in [[@[[Dhrumil Shah]]]]
             - Why not consider current [[Roam Games]] as a little short term goal for practicing our system towards a more robust system? It would be interesting! [[~[[Brandon Toner]]]]
     - #[[Scratchpad]]
-        - #[[FN]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
+        - #[[N]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
             - Related:: [[Evergreens/Evergreen note titles are like APIs]]
-            - Related:: "#[[FN]] block-embed [[model]]"
+            - Related:: "#[[N]] block-embed [[model]]"
         - #[[I]] For [[verbatim notes]], I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [[~[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
-        - #[[FN]] Define composable local [[structure]] will enable predictable global [[structure]].
+        - #[[N]] Define composable local [[structure]] will enable predictable global [[structure]].
             - Related:: "#Q How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
-        - #[[FN]] [[procedures]] are of loose couple [[structure]] between each step.
-        - #[[FN]] "#[[FN]] block-level [[model]]" is of tight couple [[structure]].
+        - #[[N]] [[procedures]] are of loose couple [[structure]] between each step.
+        - #[[N]] "#[[N]] block-level [[model]]" is of tight couple [[structure]].
     - #[[Bookmarks]]
         - {{[[embed]]: ((wfOtQk0aX))}}
         - "#Q Can Roam Collective develop a color scheme that better supports our key mission?"
         - "#Q How could [[learning objectives]] be integrated into the [[zettelkasten]] system?"
-        - "#[[FN]] Community Notes are an Extension of Evergreen Notes"
+        - "#[[N]] Community Notes are an Extension of Evergreen Notes"
         - "#[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on..."
         - "#Q How can [[confirmation bias]] be avoided in a collective [[zettelkasten]]?"
         - {{[[embed]]: ((HmjblrRLi))}}

@@ -5,7 +5,7 @@
 - If making a new [collection]([collections](<collections.md>))
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- **[#[FN](<FN.md>) A `Tags](<#[FN](<FN.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>)
+- **[#[N](<N.md>) A `Tags](<#[N](<N.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - If we use the [zettelkasten](<zettelkasten.md>) as the organizing principle for the entire graph — i.e., almost everything is a note (even onboarding) — then I think we need to work to define a how to use [collections](<collections.md>)

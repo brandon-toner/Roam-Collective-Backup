@@ -52,13 +52,13 @@
             - Comments::
                 - A page can only have ONE namespace. 
                     - These can be nested hierarchically, but it's very [[file-folder]]-y
-                - #[[FN]] [[namespaces]] should be reserved for pages with a clear categorization.
-                - #[[FN]] A `Tags::` attribute can be used to designate [[collections]] and sub-collections, using a combination of tags.
+                - #[[N]] [[namespaces]] should be reserved for pages with a clear categorization.
+                - #[[N]] A `Tags::` attribute can be used to designate [[collections]] and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[[FN]] A test for strength of [[conventions]]: Are categories [[mutually exclusive]] when a categorization decision is necessary?
+        - #[[N]] A test for strength of [[conventions]]: Are categories [[mutually exclusive]] when a categorization decision is necessary?
             - #Q What conventions should be [[mutually exclusive]]? 
-                - #[[FN]] conventions with overlap in utility or lack-of-clarity of use should be flagged as `#Tensions` to allow for re-evaluation and resolution.
+                - #[[N]] conventions with overlap in utility or lack-of-clarity of use should be flagged as `#Tensions` to allow for re-evaluation and resolution.
         - Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
@@ -68,7 +68,7 @@
             - [Sprints]([[sprints]]) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
                 1. Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
-                    - #[[FN]] [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
+                    - #[[N]] [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
                 2. Once work starts to center around some common [[themes]], [[questions]] and [[ideas]], they could start to take the form of a defined "[epic]([[epics]])".
                     - An [epic]([[epics]]) is an objective centered around an open question or development milestone. [*]([[Definitions]])
                 3. The epic should be formed using the [epic template](((Gx7UUAS7L))), and information on the template should be populated to gather all relevant information in one place.
@@ -80,7 +80,7 @@
                 6. Sprints and epics should be easily visible on the daily notes page each day — giving users the ability to see at-a-glance what the group is converging around. 
                 7. Work related to sprints should be conducted within each user's DNP Section & referenced into the [Work Summary section](((JZ6S734y4))), as a rolling log of work completed by all team members.
                 8. As work accumulates, members (or a sprint leader) should then review the bits of work, **assembling the pieces into a summary document**. This is the [deliverable]([[deliverables]]) of the sprint.  
-                    - #[[FN]] By breaking down epics into [[intermediate packets]] or [[intermediate deliverables]] (as phrased by [Conor]([[Conor White-Sullivan]])), collaboration, the remixing of work, and the management of [[dependencies]] becomes easier.[*](((RyuMSELI3)))
+                    - #[[N]] By breaking down epics into [[intermediate packets]] or [[intermediate deliverables]] (as phrased by [Conor]([[Conor White-Sullivan]])), collaboration, the remixing of work, and the management of [[dependencies]] becomes easier.[*](((RyuMSELI3)))
                         - #Seedlings Breaking down work into intermediate packets improves collaboration, agility, and dependency management. 
                 9. Once a sprint is adequately completed, the team can then move to the next priority component of the epic. 
                 10. Repeat.
@@ -92,14 +92,14 @@
         - Thoughts:: [[prepositional linkages]]
             - [[Evergreens/Claim 1]]
             - [[Evergreens/Claim 2]]
-            - #[[FN]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
+            - #[[N]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
                 - Example:: "supported by:: [[Evergreens/Claim 2]]"
-            - #[[FN]] [[prepositional linkages]] should be past-tense in tone. 
+            - #[[N]] [[prepositional linkages]] should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [[dependencies]] as [[development]] progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[[FN]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
-                - #[[FN]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+            - #[[N]] [prepositional linkages]([[prepositional linkages]]) can be used within a graph database to track [[dependencies]].[*]([[Epics/Managing knowledge dependencies in multiplayer]])
+                - #[[N]] Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]] 
             - #Obs I'm often looking for a `response tag` to a `#Q`...
                 - Sometimes this is an `#I` for ideas, but sometimes it feels like I need an `#A` for Answer.
@@ -123,7 +123,7 @@
             - Related:: [[supported by]]
             - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
-        - #[[FN]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
+        - #[[N]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"

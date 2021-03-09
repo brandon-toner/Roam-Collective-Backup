@@ -1,4 +1,6 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
+    - [Announcements](<Announcements.md>)
+        - "I murdered the FN tag 😱"
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
@@ -6,10 +8,20 @@
     - [Conversation](<Conversation.md>) 
         - [@[[Alysson M. Costa](<@[[Alysson M. Costa.md>)]] re [change log](((BLrKswZok)))
             - Yup that's right! Change log is just for big changes that might affect other people.
-        - [@[[Kaito Kikuchi](<@[[Kaito Kikuchi.md>)]] [welcome!](((HJB-DxxGd)))
+        - [~[[Kaito Kikuchi](<~[[Kaito Kikuchi.md>)]] [welcome!](((HJB-DxxGd)))
             - Glad to have you here! Jump right in and let me know if you have any questions. 
             - Would also love your thoughts/impressions within a [Feedback](<Feedback.md>) section (simply add it in your section and nest thoughts underneath.)
                 - I'm interested in the good, the interesting, the confusing, the unclear, the exciting, the intimidating, etc etc. [cc:[[Alysson M. Costa](<cc:[[Alysson M. Costa.md>)]]
+        - [~[[Kaito Kikuchi](<~[[Kaito Kikuchi.md>)]] on [what does one even do here lol](((RKEbGdx60))) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])[*]([Bookmarks](<Bookmarks.md>))[*]([Feedback](<Feedback.md>))
+            - Think of this as a public thinking space. 
+            - A central focus is the development of effective collaboration conventions for groups or teams in Roam — but it is much broader than that. 
+            - You could legit talk about your anything (your fav foods, projects you're working on, an article that just blew your mind) and this is a place where people can engage with you on those ideas in a meaningful way.
+            - Conversational energy oscillates, in that sometimes were are LIVELY with activity, and sometimes it fades — but part of the aim is how to manage that ebb and flow and to figure out good async systems.
+            - One thing has become VERY clear to mean. 
+                - [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)
+                    - There is some [dopamine](<dopamine.md>) shit going on here for sure haha. 
+                    - I use graphs like this more than [Twitter](<Twitter.md>) now.
+                    - The depth of conversation, interactivity and the continuous build of ideas is incredible.
     - #[Change Log](<Change Log.md>) 
         - CSS Changes general approach = softened appearance: (with versions)
             - Notification Tags
@@ -19,6 +31,10 @@
         - Changed [Roam42](<Roam42.md>) to test version
             - New "OPENPAGE"/"SIDEBAR" Commands available.
             - Can now auto-open conversation module in the sidebar on running the DNP (from there, pin it for the day) - [here's mine.](((tz8gJ1NJv)))
+        - I murdered the FN tag 😱
+            - Too much baggage with other systems of note-taking.
+            - Now it's just the "N-note" — at least for now. 
+            - Same usage, different name.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>)
@@ -37,6 +53,16 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Kaito Kikuchi](<Kaito Kikuchi.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
         - Very excited to join! Lots to learn and observe...
+    - [Feedback](<Feedback.md>)
+        - I'm starting to explore the [zettelkasten](<zettelkasten.md>)s and find them very informative, especially seeing how people structure them
+            - For example, [structuring Literature Notes as Verbatim Notes to combat cognitive burden](((kvrzNKc5u))) was revelatory for me.
+        - I have a harder time grasping __how people use__ Roam Collective. 
+            - Pointers to what do people do every day, what is a typical flow, example conversations and pages could be very informative for beginners getting up to speed.
+    - [Conversation](<Conversation.md>)
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [on how to use Roam Collective](((Z2HuShhsE)))
+            - OK this was really helpful! Thank you!
+            - I like how a lot of thought is going into building good conventions for collaborative thinking
+            - Also starting to feel what you mean by [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>) 😄
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - [Scratchpad](<Scratchpad.md>) 
@@ -44,3 +70,8 @@
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
+
+# Backlinks
+## [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)
+- **[Date Created](<Date Created.md>):** [March 8th, 2021](<March 8th, 2021.md>)
+

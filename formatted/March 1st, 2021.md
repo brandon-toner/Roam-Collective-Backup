@@ -46,7 +46,7 @@
                             - The [RC/conversation conventions](<RC/conversation conventions.md>) here allow for you to effectively run with the ball.
                                 - **[Related](<Related.md>):** The idea of [depth-first leadership](<depth-first leadership.md>) -- with each member going as far as they can see on any given idea.[*]([Bookmarks](<Bookmarks.md>))
                                     - Is this a real concept, I first heard it mentioned by [Larissa]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]]) but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
-                                - [FN](<FN.md>) Traditional [chat](<chat.md>) interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
+                                - [N](<N.md>) Traditional [chat](<chat.md>) interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
             - [I](<I.md>) We need a keyword for the conversation convention lol... I feel the need to compile discussions on this recurring topic...
                 - [RC/conversation conventions](<RC/conversation conventions.md>) -- kinda like the RC namespace for this sort of thing... [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - 
@@ -161,7 +161,7 @@
         - Thoughts on [in-graph chat](<in-graph chat.md>), in-graph snail-mail, and the idea of [velocity of conversation](<velocity of conversation.md>)
             - In [Books/The Culture Code](<Books/The Culture Code.md>) author [Dan Coyle](<Dan Coyle.md>) mentions that one way to understand the strength of a community is to evaluate the [velocity of learning](<velocity of learning.md>). Communities with a high velocity of learning are generally stronger.
             - In our experience here, conversation and discussion is a real driver of thought, refinement, and synthesis. I would say that strong conversation (and thinking in public) really accelerates the [velocity of learning](<velocity of learning.md>) (both individually and as a community).
-                - [FN](<FN.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
+                - [N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
             - However, the nature of our communication is the [energy required]([activation energy](<activation energy.md>)) is higher than other forms communication, such as Slack.
                 - As [Brandon Toner](<Brandon Toner.md>) rightly [points out](((iexsCPofn))), the fact that communication is slower forces us as a community to better structure what we're sharing, aiding with overall synthesis. I believe that the conventions of the `[Conversation](<Conversation.md>)` section are very effective at doing this.
                     - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.

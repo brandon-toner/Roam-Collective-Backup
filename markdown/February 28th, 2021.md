@@ -10,7 +10,7 @@
                 - The potential future issue that I see is one of re-work. And spreading ideas too-thin.
                     - The collective model somewhat relies on a minimum threshold of engagement that increases as the diversity of topics widens. 
                         - More diverse range of questions and topics = more engagement and members required for meaningful convergence on related topics.
-        - #[[FN]] [[maxims]] are practical and easily communicated distillations of knowledge.
+        - #[[N]] [[maxims]] are practical and easily communicated distillations of knowledge.
             - They serve to summarize and crystallize a piece of wisdom.
             - #I Collecting [[maxims]] central to a domain might be helpful for mapping the territory of knowledge.
             - #Q Are [[mental models]] maxims?
@@ -22,14 +22,14 @@
                         - Maxims feel more proverbial than mental models.
                             - #I Maxims may encompass both mental models and proverbs. 
                                 - "[[maxims]] feels less religiously charged than [[proverbs]] "
-                                - "#[[FN]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])"
+                                - "#[[N]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])"
             - #Q What are the differences between [[evergreen notes]] and [[maxims]]?[*]([[Bookmarks]])
                 - #Q Is an evergreen note a maxim?
                     - And if so, 
                         - Are all maxims evergreen notes?
                             - And if so, 
                                 - #Q Should [[maxims]] bear the `Evergreens/` namespace?
-                                    - "#[[FN]] use [[namespaces]] sparingly; when information can only be classified in one way."
+                                    - "#[[N]] use [[namespaces]] sparingly; when information can only be classified in one way."
                                         - "#I In this sense, I am tempted to remove namespacing for evergreen notes entirely... "
             - #Q What are the differences between [[maxims]] and [[principles]]?
                 - I would wager: 
@@ -51,8 +51,8 @@
             - [[claims]] = assertions of truths 
             - [[maxims]] = core principles / practical rules of conduct — or [[directives]].
             - #Q What is missing from this framework?[*]([[Bookmarks]])
-        - #[[FN]] use [[namespaces]] sparingly; when information can only be classified in one way.
-            - #[[FN]] [[namespaces]] are at risk of the same issues encountered by file-folder organizational systems. 
+        - #[[N]] use [[namespaces]] sparingly; when information can only be classified in one way.
+            - #[[N]] [[namespaces]] are at risk of the same issues encountered by file-folder organizational systems. 
                 - "Is this a "this" or a "that"?"
             - #I In this sense, I am tempted to remove namespacing for evergreen notes entirely... 
         - [[Evergreens/Cite shared principles to foster alignment.]]
@@ -65,9 +65,9 @@
             - [[concepts]]
             - [[proverbs]]
             - [[directives]]
-        - #[[FN]] accurate and precise category naming is more robust than metaphor or mythology naming.
+        - #[[N]] accurate and precise category naming is more robust than metaphor or mythology naming.
             - metaphors and analogies break down — accurate language does not.
-            - #[[FN]] Metaphors should be an interpretive layer above true category naming.
+            - #[[N]] Metaphors should be an interpretive layer above true category naming.
     - #Conversation #not-populated
     - #[[Change Log]] 
         - Imported maxims from [[Books/12 Rules for Life]] and [[Books/Beyond Order: 12 More Rules for Life]] as material for reference and demonstration of structure.
@@ -87,9 +87,9 @@
                                 - Emergency area C
                             - Each of "School district A", "Commercial district B", and "Emergency area C" are wholly contained within Neighborhood 1.
                     - This example is a simple tree — each node has one single parent node
-                        - #FN [Trees]([[tree]])' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
+                        - #N [Trees]([[tree]])' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
                 - However, cities are much more complicated than trees — in reality, they are [[semi-lattice]]s. In a semi-lattice, each node can have multiple parents. In this sense a semi-lattice is a more complex graph object than a tree.
-                    - #FN [Semi-lattices]([[semi-lattice]]) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
+                    - #N [Semi-lattices]([[semi-lattice]]) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
                         - Image::
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWqDTXlkODx.jpeg?alt=media&token=db6e3bda-fd27-48b8-83ed-88d0908614a1)
                         - In the above image, there are four layers, each representing some "category" of data or metadata. Once way to understand the above semi-lattice and the dotted line could be...
@@ -105,7 +105,7 @@
                     - If I were to offer a tentative recommendation of how we could utilize the conceptual framework of a [[semi-lattice]], it would be to begin thinking about  different layers of data and meta-data.
                         - A few layers of interest might be....
                             - Node-type: block versus page
-                            - Zettel note type: [[fleeting notes]] versus [[literature notes]] versus [[permanent notes]]
+                            - Zettel note type: [["N"-notes]] versus [[literature notes]] versus [[permanent notes]]
                             - Synthesis note type: context versus observation/evidence versus proposition/claim/notion versus synthesis
                             - Level of collaboration: individual thought versus community curation versus community driven
                             - Collection membership: Notetaking versus Networked Thought versus Spaced Repetition versus ...

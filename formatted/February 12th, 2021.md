@@ -52,13 +52,13 @@
             - **[Comments](<Comments.md>):**
                 - A page can only have ONE namespace. 
                     - These can be nested hierarchically, but it's very [file-folder](<file-folder.md>)-y
-                - #[FN](<FN.md>) [namespaces](<namespaces.md>) should be reserved for pages with a clear categorization.
-                - **[#[FN](<FN.md>) A `Tags](<#[FN](<FN.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>) and sub-collections, using a combination of tags.
+                - #[N](<N.md>) [namespaces](<namespaces.md>) should be reserved for pages with a clear categorization.
+                - **[#[N](<N.md>) A `Tags](<#[N](<N.md>) A `Tags.md>):**` attribute can be used to designate [collections](<collections.md>) and sub-collections, using a combination of tags.
                 - Why I'm thinking about this:
                     - Is something a resource or a roam game submission? Can it be both?
-        - #[FN](<FN.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>) when a categorization decision is necessary?
+        - #[N](<N.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>) when a categorization decision is necessary?
             - [Q](<Q.md>) What conventions should be [mutually exclusive](<mutually exclusive.md>)? 
-                - #[FN](<FN.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
+                - #[N](<N.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
             - **Building on:** [Charles' work on agile in Roam](((74aPTS1FT)))
             - Epics = big picture surrounding a meaningful question.
@@ -68,7 +68,7 @@
             - [Sprints]([sprints](<sprints.md>)) = the unit of work
             - Here's the workflow I imagine: ((okkkk this might be a marathon haha))
                 1. Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
-                    - #[FN](<FN.md>) [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
+                    - #[N](<N.md>) [These tags](((foYwq0l3e))) (in combination with page links for keywords) provide a framework to labelling the meandering thoughts — allowing ideas to persist across time and related ideas to accumulate.
                 2. Once work starts to center around some common [themes](<themes.md>), [questions](<questions.md>) and [ideas](<ideas.md>), they could start to take the form of a defined "[epic]([epics](<epics.md>))".
                     - An [epic]([epics](<epics.md>)) is an objective centered around an open question or development milestone. [*]([Definitions](<Definitions.md>))
                 3. The epic should be formed using the [epic template](((Gx7UUAS7L))), and information on the template should be populated to gather all relevant information in one place.
@@ -80,7 +80,7 @@
                 6. Sprints and epics should be easily visible on the daily notes page each day — giving users the ability to see at-a-glance what the group is converging around. 
                 7. Work related to sprints should be conducted within each user's DNP Section & referenced into the [Work Summary section](((JZ6S734y4))), as a rolling log of work completed by all team members.
                 8. As work accumulates, members (or a sprint leader) should then review the bits of work, **assembling the pieces into a summary document**. This is the [deliverable]([deliverables](<deliverables.md>)) of the sprint.  
-                    - #[FN](<FN.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))), collaboration, the remixing of work, and the management of [dependencies](<dependencies.md>) becomes easier.[*](((RyuMSELI3)))
+                    - #[N](<N.md>) By breaking down epics into [intermediate packets](<intermediate packets.md>) or [intermediate deliverables](<intermediate deliverables.md>) (as phrased by [Conor]([Conor White-Sullivan](<Conor White-Sullivan.md>))), collaboration, the remixing of work, and the management of [dependencies](<dependencies.md>) becomes easier.[*](((RyuMSELI3)))
                         - [Seedlings](<Seedlings.md>) Breaking down work into intermediate packets improves collaboration, agility, and dependency management. 
                 9. Once a sprint is adequately completed, the team can then move to the next priority component of the epic. 
                 10. Repeat.
@@ -92,14 +92,14 @@
         - **[Thoughts](<Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)
             - [Evergreens/Claim 1](<Evergreens/Claim 1.md>)
             - [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
-            - #[FN](<FN.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
+            - #[N](<N.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
                 - **[Example](<Example.md>):** "supported by:: [Evergreens/Claim 2](<Evergreens/Claim 2.md>)"
-            - #[FN](<FN.md>) [prepositional linkages](<prepositional linkages.md>) should be past-tense in tone. 
+            - #[N](<N.md>) [prepositional linkages](<prepositional linkages.md>) should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [dependencies](<dependencies.md>) as [development](<development.md>) progresses.
                 - Not certain about this. There may be contexts where future-tense will be necessary — I'm curious to evaluate those circumstances.
-            - #[FN](<FN.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
-                - #[FN](<FN.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
+            - #[N](<N.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>)) can be used within a graph database to track [dependencies](<dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>))
+                - #[N](<N.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
                     - [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>) 
             - [Obs](<Obs.md>) I'm often looking for a `response tag` to a `[Q](<Q.md>)`...
                 - Sometimes this is an `[I](<I.md>)` for ideas, but sometimes it feels like I need an `[A](<A.md>)` for Answer.
@@ -123,7 +123,7 @@
             - **[Related](<Related.md>):** [supported by](<supported by.md>)
             - **[Resources](<Resources.md>):** https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
+        - #[N](<N.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
     - [Conversation](<Conversation.md>) 
         - [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) on `Obs` vs `Ob`
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"

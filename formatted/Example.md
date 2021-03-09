@@ -40,7 +40,7 @@
 - Work done on questions and sprints are embedded on their relevant epics. 
                         - **[Example](<Example.md>):**
 
-- #[FN](<FN.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
+- #[N](<N.md>) the [relevant notes](<relevant notes.md>) attribute can be used to house the relationships between [claims](<claims.md>) using [prepositional linkages](<prepositional linkages.md>).
                 - **[Example](<Example.md>):**
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
@@ -57,10 +57,10 @@
 - Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Example](<Example.md>):**
 
-- #[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
+- #[N](<N.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
                 - **[Example](<Example.md>):**
 
-- #[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+- #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):**
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
@@ -101,10 +101,10 @@
                 - **[Example](<Example.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[FN](<FN.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
+- #[N](<N.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
             - **[Example](<Example.md>):**
 
-- My [threshold](<threshold.md>) for documenting a [fleeting note]([fleeting notes](<fleeting notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))
+- My [threshold](<threshold.md>) for documenting a [fleeting note](["N"-notes](<"N"-notes.md>)) is far lower than my threshold for documenting an [evergreen note]([evergreen notes](<evergreen notes.md>))
                 - **[Example](<Example.md>):**
 
 - [Viewing page as truth](((H6M1XTGet))) is a concrete [goals](<goals.md>) to make our [communication](<communication.md>) [converge](<converge.md>).
@@ -150,10 +150,10 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
             - **[Example](<Example.md>):**
 
-- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[FN](<FN.md>) block-level [model](<model.md>)".
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[N](<N.md>) block-level [model](<model.md>)".
             - **[Example](<Example.md>):**
 
-- #[FN](<FN.md>) block-embed [model](<model.md>)
+- #[N](<N.md>) block-embed [model](<model.md>)
             - **[Example](<Example.md>):**
 
 - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
@@ -164,7 +164,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - **[Example](<Example.md>):**
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
-- [FN](<FN.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
+- [N](<N.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
                 - **[Example](<Example.md>):**
 
 ## [My Daily Notes](<My Daily Notes.md>)

@@ -6,7 +6,7 @@
     - **[Related](<../Related.md>):**  ((Not a reference, but a related idea, block or page))
         - [Evergreens/"Hacked" solutions are likely to break over time.](<../Evergreens/"Hacked" solutions are likely to break over time..md>)
     - **[Contents](<../Contents.md>):**
-        - #[FN](<../FN.md>) Use features as the are intended to be used.
+        - #[N](<../N.md>) Use features as the are intended to be used.
             - **[Rationale](<../Rationale.md>):** As the product develops, it is likely that enhancements will be in relation to established conventions.
 
 # Backlinks
@@ -20,5 +20,5 @@
 - [@[[Zsolt Viczián](<../@[[Zsolt Viczián.md>)]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [roam/render](<../roam/render.md>) custom components. [cc:[[Brandon Toner](<../cc:[[Brandon Toner.md>)]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([Evergreens/"Hacked" solutions are likely to break over time.](<../Evergreens/"Hacked" solutions are likely to break over time..md>)) with custom components being more ["native"]([Evergreens/Use the native convention as much as possible.](<../Evergreens/Use the native convention as much as possible..md>))
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[FN](<../FN.md>) [Evergreens/Use the native convention as much as possible.](<../Evergreens/Use the native convention as much as possible..md>)
+- #[N](<../N.md>) [Evergreens/Use the native convention as much as possible.](<../Evergreens/Use the native convention as much as possible..md>)
 

@@ -94,7 +94,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Main Feed](<Main Feed.md>)
 
-- #[FN](<FN.md>) The [meta](<meta.md>) fades when the system is clear. #[Main Feed](<Main Feed.md>)
+- #[N](<N.md>) The [meta](<meta.md>) fades when the system is clear. #[Main Feed](<Main Feed.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Main Feed](<Main Feed.md>)
@@ -136,6 +136,9 @@
 - #[Main Feed](<Main Feed.md>)
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
+- #[Main Feed](<Main Feed.md>)
+
+## [March 9th, 2021](<March 9th, 2021.md>)
 - #[Main Feed](<Main Feed.md>)
 
 ## [roam/css](<roam/css.md>)

@@ -13,9 +13,9 @@
 - Run with [inspired action](<inspired action.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[FN](<FN.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
+- #[N](<N.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
 
-- "#[FN](<FN.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)"
+- "#[N](<N.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)"
 
 ## [Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.](<Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing..md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>) #[inspired action](<inspired action.md>)

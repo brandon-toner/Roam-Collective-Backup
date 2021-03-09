@@ -6,5 +6,5 @@
     - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents::
         - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([[E/Evergreen notes persist across time]]) due to their enhanced [[resurfacing]] power.
-        - If an idea feels *almost* durable, it should be documented as a [fleeting note]([[fleeting notes]]), as these are (should) be periodically reviewed for formation of new [[evergreen notes]].
+        - If an idea feels *almost* durable, it should be documented as a [fleeting note]([["N"-notes]]), as these are (should) be periodically reviewed for formation of new [[evergreen notes]].
         - Related:: [[Evergreens/Documenting ideas in zettelkasten format promotes referencing in related contexts]]

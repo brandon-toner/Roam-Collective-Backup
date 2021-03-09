@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+- "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - [[[How To](<[[How To.md>) Onboard with Roam Collective]] [Drafts](<Drafts.md>) [*]([onboarding](<onboarding.md>))
@@ -16,15 +16,15 @@
 - [x] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>).
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-- [therefore](<therefore.md>) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+- [therefore](<therefore.md>) "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
-- [FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
+- [N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- [YES]([Bookmarks](<Bookmarks.md>)) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+- [YES]([Bookmarks](<Bookmarks.md>)) "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- ""[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+- ""[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [Cortex Futura](<Cortex Futura.md>) on [onboarding](<onboarding.md>)
@@ -35,7 +35,7 @@
 - [Robert Haisfield](<Robert Haisfield.md>) and [Dhrumil Shah](<Dhrumil Shah.md>) on [onboarding](<onboarding.md>)
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
-- "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+- "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Improved [onboarding](<onboarding.md>)

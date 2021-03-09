@@ -17,7 +17,7 @@
         - **Ideas:**
             - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[I]] {not: [[query]]}}}}
         - **Fleeting Notes:**
-            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[FN]] {not: [[query]]}}}}
+            - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[N]] {not: [[query]]}}}}
         - **Literature Notes:**
             - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
@@ -177,7 +177,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                 - Add the task to the backlog as a project / epic
                 - Remove the task
             - Include a description of how to use the [[Date Planner]] to manage tasks.
-        - #FN The [[Date Planner]] serves as a [[tickler file]] with different levels of [[granularity]].
+        - #N The [[Date Planner]] serves as a [[tickler file]] with different levels of [[granularity]].
             - Blocks can be tagged with days, weeks, or months to be included into daily, weekly, and monthly reviews respectively. 
                 - This is particularly helpful for managing TODOs
         - {{[[TODO]]}} Create a set of questions (an algorithm of thought almost) to assess TODOs with. #GTD #[[task management]] #productivity #[[project management]]
@@ -226,7 +226,7 @@ PS: great work running that!
         - **Ideas:**
             - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[I]]}}}
         - **Fleeting Notes:**
-            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[FN]]}}}
+            - {{[[query]]: {and: [[bnt]] [[February 23rd, 2021]] [[N]]}}}
     - #[[GTD Zone]]
         - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
         - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}

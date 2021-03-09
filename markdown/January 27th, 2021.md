@@ -69,31 +69,31 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FueizMHucY6.png?alt=media&token=5dbca56e-8a43-425e-8122-8a3b4e086cfe)
             - {{[[DONE]]}} Complete the [[GitHub]] transfer #[[Projects/Establish automated graph backups]]
     - #[[The Zettelkasten]]
-        - #[[FN]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. 
-        - #[[FN]] [[block references]] and tags are key to compiling group discussion on a given idea
-        - #[[FN]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]].
-        - #[[FN]] #tensions could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. #collaboration
-        - #[[FN]] Adding the `#Chat` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [[commentary]] on.
-        - #[[FN]] The [[DNP Modules]] tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) #convergence
-        - #[[FN]] A modular tag system helps to maintain order in a [collaborative graph]([[collaborative graphs]]).
+        - #[[N]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. 
+        - #[[N]] [[block references]] and tags are key to compiling group discussion on a given idea
+        - #[[N]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]].
+        - #[[N]] #tensions could be flagged by users or the curator to highlight key areas of tension or differing approach, opinion or perspective. #collaboration
+        - #[[N]] Adding the `#Chat` tag not just on the main daily notes page, but also weaved into your writing, allows you to tag parts of your writing and reflections that you want [[commentary]] on.
+        - #[[N]] The [[DNP Modules]] tags can be used anywhere. Their purpose is to organize content to various inboxes (the linked reference section of each tag) #convergence
+        - #[[N]] A modular tag system helps to maintain order in a [collaborative graph]([[collaborative graphs]]).
             - Each person has a separate [[DNP Section]] with various [[DNP Modules]] to make use of. 
-        - #[[FN]] Setting the [[conventions]] in a [collaborative graph]([[collaborative graphs]]) is both critical and difficult.
+        - #[[N]] Setting the [[conventions]] in a [collaborative graph]([[collaborative graphs]]) is both critical and difficult.
             - #[[Q]] Should community [[conventions]] be seeded or emergent within a [collaborative graph]([[collaborative graphs]]) community? 
             - #[[Q]] What [[conventions]] are helpful to [[converge]] group thinking towards intentional outputs? #convergence
-        - #[[FN]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. 
+        - #[[N]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. 
             - Learning through observation.
-            - #[[FN]] Watching others use [[Roam]] affects your own writing habits and [[conventions]].
+            - #[[N]] Watching others use [[Roam]] affects your own writing habits and [[conventions]].
                 - Shared graphs allow you to LEARN from the way others structure their thoughts
-        - #[[FN]]  A shared [[writing]] environment is an accelerator for cycles of [[order]] and [[chaos]] ([[expansion]] and [[contraction]]) ([[divergence]] and [[convergence]])
+        - #[[N]]  A shared [[writing]] environment is an accelerator for cycles of [[order]] and [[chaos]] ([[expansion]] and [[contraction]]) ([[divergence]] and [[convergence]])
         - #[[Project Ideas]] Perhaps, collectively, we could create a [[template]] of [[conventions]] that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
             - This EXACT block was written during the first session in [[[[Roam Book Club]] II]] and describes the [[mission]] of this graph well. The product is the [[Roam Collaboration Guide]]. 
-        - #[[FN]] [[alignment]] with community [[conventions]] is key to [[leveraging]] the scale of community and unlocking the power of the [[collective intelligence]]
+        - #[[N]] [[alignment]] with community [[conventions]] is key to [[leveraging]] the scale of community and unlocking the power of the [[collective intelligence]]
         - #Quotes [[collective intelligence]] > [[artificial intelligence]] - [[Conor White-Sullivan]]
-        - #[[FN]] Purpose, Mission, Vision, and Goals are important in a [collaborative graph]([[collaborative graphs]]). 
+        - #[[N]] Purpose, Mission, Vision, and Goals are important in a [collaborative graph]([[collaborative graphs]]). 
             - Shared purpose and objectives align efforts towards a common goal.
             - When there is a shared sense of direction... you can build structures ([[conventions]]) that bias towards the achievement of those goals.
-        - #[[FN]] Clear processes are important within a [collaborative graph]([[collaborative graphs]]) to maintain clarity and [[order]].
-        - #[[FN]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [collaborative graph]([[collaborative graphs]]) #chat
+        - #[[N]] Clear processes are important within a [collaborative graph]([[collaborative graphs]]) to maintain clarity and [[order]].
+        - #[[N]] The ability to easily [[query]] for unread notifications is important for any system of communication in a [collaborative graph]([[collaborative graphs]]) #chat
         - #Scratchpad #zettelkasten
             - [[zettelkasten]] #Processes #Overview
                 - Fleeting Notes **-[contribute to]>** Creative Projects
@@ -102,78 +102,78 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Literature Notes **-[contribute to]>** Evergreen Notes
             - Purpose:
                 - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
-                    - #[[FN]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [collaborative graph]([[collaborative graphs]]).
+                    - #[[N]] A [[collaborative zettelkasten]] helps to support [[convergence]] of ideas in a [collaborative graph]([[collaborative graphs]]).
             - Process:
-                - Capture assertions as [[fleeting notes]] (atomic ideas, succinct)
+                - Capture assertions as [["N"-notes]] (atomic ideas, succinct)
                 - Capture ideas from resources (articles, videos, books) as [[literature notes]] (the authors' assertions)
                 - Turn assertions into [[evergreen notes]] once they feel sufficiently (arbitrarily) mature and widely applicable. 
-                - Use notes from each class ([[FN]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
+                - Use notes from each class ([[N]], [[LN]], [[EN]]) as a basis for larger [[creative projects]].
                     - Related:: [[Evergreens/Start from abundance]]
                 - #[[Next Steps]] 
                     - {{[[DONE]]}} Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  #Chat
                     - [[^[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview"
-        - #[[FN]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
-        - #[[FN]] conversation surrounding [[fleeting notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [collaborative graph]([[collaborative graphs]]). #[[Roam Collaboration Guide]]
+        - #[[N]] It is best, but not required to support [[literature notes]] with [[Highlights]] ([[context snippets]] in [[Joel Chan]]'s terminology) #zettelkasten
+        - #[[N]] conversation surrounding [["N"-notes]] and other parts of the [[zettelkasten]] should be the centerpiece of [[collaboration]] in a [collaborative graph]([[collaborative graphs]]). #[[Roam Collaboration Guide]]
             - Block reference the FN into your Comments module, then nest comments underneath.
                 - "I agree with" "here is some supporting information/references..." "I disagree..." etc. 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]
-        - #Conventions relevant [[tags]] should be appended to any [[fleeting notes]] to promote effective [[convergence]]. #zettelkasten
+        - #Conventions relevant [[tags]] should be appended to any [["N"-notes]] to promote effective [[convergence]]. #zettelkasten
         - #I A [[Roam highlighter]] extension might be a good way to bring [[highlights]] from articles into the graph #zettelkasten #resources #[[reference notes]]
-        - #[[FN]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]
+        - #[[N]] One-directional linking would save the necessity of using [[inline code-blocks]] to deactivate page tags. "Why use [[inline code-blocks]] to disable tags?" #[[Roam Enhancement Requests]]
         - Fleeting Notes from [[[[Roam Book Club]] II]] imported (in same format and on the same theme!)
-            - #[[FN]] custom [[CSS]] is a helpful tool for encouraging user alignment with important [[conventions]]
-            - #[[FN]][[hidden tags]] would be hugely beneficial to the [[UX]] in a shared Roam database. #Suggestions #[[Roam Enhancement Requests]] #Highlight
+            - #[[N]] custom [[CSS]] is a helpful tool for encouraging user alignment with important [[conventions]]
+            - #[[N]][[hidden tags]] would be hugely beneficial to the [[UX]] in a shared Roam database. #Suggestions #[[Roam Enhancement Requests]] #Highlight
                 - IssueType:: #[[enhancement request]]
                 - #Chat [[Chinarut]] invite ya to tag enhancement requests #support and make a few of them todos! [[^[[Brandon Toner]]]]
                     - #Q What is a good convention for this? To take enhancement requests and make TODOs to create Roam GitHub tickets.
                         - Maybe: reference the block containing the request and add a [[Status/Submitted]] tag once submitted. #Processes
                             - #Q How do I flag half-build processes for future elaboration and completion? — Maybe use `#Seedlings`? Or another similar convention...
-            - #[[FN]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
-            - #[[FN]][[Evergreens/Start from abundance]]
-            - #[[FN]] `#not-populated` tags can be used to filter out empty attributes #conventions
+            - #[[N]] [[permanent notes]] are [[assertions]].[*](((3oGNZLyip)))
+            - #[[N]][[Evergreens/Start from abundance]]
+            - #[[N]] `#not-populated` tags can be used to filter out empty attributes #conventions
                 - This reduces the amount of noise on a page and improves the [[signal-to-noise ratio]]
-            - #[[FN]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]]).
+            - #[[N]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]]).
                 - ((_sY7e8FNg)) #[[Live Session 2]]
-            - #[[FN]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))
-            - #[[FN]] The writing context affects the style and structure of expression.
-            - #[[FN]] The [[meta]] fades when the system is clear. #[[Main Feed]]
-            - #[[FN]] few ideas are truly [[permanent]] #[[permanent notes]]
+            - #[[N]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))
+            - #[[N]] The writing context affects the style and structure of expression.
+            - #[[N]] The [[meta]] fades when the system is clear. #[[Main Feed]]
+            - #[[N]] few ideas are truly [[permanent]] #[[permanent notes]]
                 - For this reason I am [[hesitant]] to use the term.
                 - [[evergreen notes]] feels softer, less certain — more approachable maybe.
-            - #[[FN]] [[inline code-blocks]] can be used as an alternative formatting option.
-            - #[[FN]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references.
+            - #[[N]] [[inline code-blocks]] can be used as an alternative formatting option.
+            - #[[N]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references.
                 - This is. helpful when demonstrating the **use of a tag** when you don't want to muddy up the references.
-            - #[[FN]][[literature notes]] should be [[atomic]] and [[concise]] in nature. Only one idea or concept per literature note. #zettelkasten [*](((7nHVatWGu)))
-            - #[[FN]] [[fleeting notes]] far outnumber [[literature notes]] and [[permanent notes]] in quantity. It take an accumulation of [[fleeting notes]] before more mature and original ideas take form.
+            - #[[N]][[literature notes]] should be [[atomic]] and [[concise]] in nature. Only one idea or concept per literature note. #zettelkasten [*](((7nHVatWGu)))
+            - #[[N]] [["N"-notes]] far outnumber [[literature notes]] and [[permanent notes]] in quantity. It take an accumulation of [["N"-notes]] before more mature and original ideas take form.
                 - The [[evergreen notes]] [[metaphor]] works better here. 
                     - [[seedlings]] are the base-ideas. The "seeds" of more mature thought. These accumulate and grow connections until they can mature into [[evergreen notes]].
-            - #[[FN]] when beginning a [[zettelkasten]], it may take weeks or months before [[permanent notes]] start to accumulate.
-            - #[[FN]] [[context preservation]] empowers connected thought.
-            - #[[FN]] [[context preservation]] improves [[memory]] and idea [[recall]].
-                - "#[[FN]] [[memory]] is very [[context]]-dependant."
-            - #[[FN]] [[memory]] is very [[context]]-dependant.
-            - #[[FN]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]
+            - #[[N]] when beginning a [[zettelkasten]], it may take weeks or months before [[permanent notes]] start to accumulate.
+            - #[[N]] [[context preservation]] empowers connected thought.
+            - #[[N]] [[context preservation]] improves [[memory]] and idea [[recall]].
+                - "#[[N]] [[memory]] is very [[context]]-dependant."
+            - #[[N]] [[memory]] is very [[context]]-dependant.
+            - #[[N]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]
                 - [[Evergreens/Start from abundance]] — [[David Perell]]
         - My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten
             - [[consume]] & [[engage]]: (read, watch, listen, converse, reflect)
             - As content resonates with me, I save them as [[reference notes]] (capturing [[context]] — [[bibliographical notes]], [[highlights]], and [[quotes]]) #capture
-            - As my wanderings inspire thoughts and ideas, I save those ideas as [[fleeting notes]].
-                - These are statements written inline with my notes. [[fleeting notes]] are **the first tier of notes worth documenting** in my [[interpretation]].
+            - As my wanderings inspire thoughts and ideas, I save those ideas as [["N"-notes]].
+                - These are statements written inline with my notes. [["N"-notes]] are **the first tier of notes worth documenting** in my [[interpretation]].
                 - I keep the `originals` of these notes in a designated place. I keep a copy of the reference [[inline]] to preserve the context of where the note originated. 
-                    - Example:: "#[[FN]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]])."
+                    - Example:: "#[[N]] The power of a [collaborative graph database]([[Multiplayer Roam]]) improves with the degree of alignment with key [[conventions]]. Data needs to be compiled in order to [compound]([[compounding]])."
                 - [[supporting information]] is nested underneath the original block. As a block reference if necessary to preserve context of the related idea.
                     - These are [[context snippets]] in [[Joel Chan]]'s [[interpretation]]
                 - [[tags]] may be added inline at the end of the note or nested underneath to aid in [[connection]] and [[resurfacing]].
-                - When adding new [[fleeting notes]] to my [[zettelkasten]], if they feel relevant to several different areas of the zettelkasten, I will create a [[reference]] to nest it underneath the other related note(s). 
+                - When adding new [["N"-notes]] to my [[zettelkasten]], if they feel relevant to several different areas of the zettelkasten, I will create a [[reference]] to nest it underneath the other related note(s). 
                     - More commonly, I just create them in context and rely on references for convergence and patterns.
             - For content that I consider worth summarizing (the author makes great points that I would love to reference later in my own writing/ideas) — I form `#Literature Notes` #[[literature notes]]
                 - These are core concept summaries. They are **the author's ideas** phrased **in my own words**. They should be [[concise]] and [[atomic]] in nature. **Only one idea or concept per literature note**.
-            - As both [[fleeting notes]] and [[literature notes]] accumulate, [[patterns]] emerge and my [[opinions]] embolden. When it feels like I can form a [permanent note]([[permanent notes]]) on the subject, I create one.
+            - As both [["N"-notes]] and [[literature notes]] accumulate, [[patterns]] emerge and my [[opinions]] embolden. When it feels like I can form a [permanent note]([[permanent notes]]) on the subject, I create one.
             - As [[project ideas]] arise through different stages of the workflow, I add them to a section of my [[zettelkasten]] called `[[Project Ideas]]`.
                 - Over time, I link ideas that may be related to the project by referencing them as a [[nested block]].
                 - Once a clear outline has formed, or enough [[content]] exists to easily begin [[writing]], **I complete the project and the cycle continues**. 🎉🥂 
-                    - "#[[FN]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]"
+                    - "#[[N]] begin the writing process on a [project idea]([[project ideas]]) when it feels **easy** and **exciting**. #[[inspired action]]"
     - #Promptstorming
         - "Explore your vision for the future of collaboration in Roam."
             - Effortless communication among many users.
@@ -215,7 +215,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[[@[[Brandon Toner]]]]` [[~[[Matthew Vogel]]]]
         - "URL:: (Is currently set as private but a public backup could be nice)"
             - [[~[[Matthew Vogel]]]] Public would be better for sure — easy to do? Private is certainly fine for now. 
-        - "#[[FN]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references."
+        - "#[[N]] [[inline code-blocks]] can be used to "deactivate" a tag, preventing it from appearing in queries or references."
             - Fascinating to see this idea documented in [[[[Roam Book Club]] II]] — I forgot I thought of it over there first.
         - "My Zettelkasten Workflow imported from [[[[Roam Book Club]] II]] #zettelkasten"
             - This is a decent summary. Not too outdated. System has been quite stable. 

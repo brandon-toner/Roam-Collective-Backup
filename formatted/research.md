@@ -3,7 +3,7 @@
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - Questions drive [research](<research.md>)
 
-- #[FN](<FN.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>)
+- #[N](<N.md>) Use [learning objectives](<learning objectives.md>) to guide [research](<research.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - [Research]([research](<research.md>))

@@ -17,7 +17,7 @@
         - **Ideas:**
             - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [I](<I.md>) {not: [query](<query.md>)}}}}
         - **Fleeting Notes:**
-            - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}}}}
+            - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [N](<N.md>) {not: [query](<query.md>)}}}}
         - **Literature Notes:**
             - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [LN](<LN.md>) {not: [query](<query.md>)}}}}
     - #[GTD Zone](<GTD Zone.md>) 
@@ -177,7 +177,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                 - Add the task to the backlog as a project / epic
                 - Remove the task
             - Include a description of how to use the [Date Planner](<Date Planner.md>) to manage tasks.
-        - [FN](<FN.md>) The [Date Planner](<Date Planner.md>) serves as a [tickler file](<tickler file.md>) with different levels of [granularity](<granularity.md>).
+        - [N](<N.md>) The [Date Planner](<Date Planner.md>) serves as a [tickler file](<tickler file.md>) with different levels of [granularity](<granularity.md>).
             - Blocks can be tagged with days, weeks, or months to be included into daily, weekly, and monthly reviews respectively. 
                 - This is particularly helpful for managing TODOs
         - [ ] Create a set of questions (an algorithm of thought almost) to assess TODOs with. [GTD](<GTD.md>) #[task management](<task management.md>) [productivity](<productivity.md>) #[project management](<project management.md>)
@@ -226,7 +226,7 @@ PS: great work running that!
         - **Ideas:**
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 23rd, 2021](<February 23rd, 2021.md>) [I](<I.md>)}}}
         - **Fleeting Notes:**
-            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 23rd, 2021](<February 23rd, 2021.md>) [FN](<FN.md>)}}}
+            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 23rd, 2021](<February 23rd, 2021.md>) [N](<N.md>)}}}
     - #[GTD Zone](<GTD Zone.md>)
         - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
         - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}

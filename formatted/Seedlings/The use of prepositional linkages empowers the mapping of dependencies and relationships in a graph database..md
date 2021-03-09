@@ -6,8 +6,8 @@
     - **[References](<../References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
         - **Concept page:** [prepositional linkages](<../prepositional linkages.md>)
     - **[Relevant Notes](<../Relevant Notes.md>):**  ((Not a reference, but a related idea, block or page))
-        - "#[FN](<../FN.md>) [prepositional linkages]([prepositional linkages](<../prepositional linkages.md>)) can be used within a graph database to track [dependencies](<../dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>))"
-        - "#[FN](<../FN.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies."
+        - "#[N](<../N.md>) [prepositional linkages]([prepositional linkages](<../prepositional linkages.md>)) can be used within a graph database to track [dependencies](<../dependencies.md>).[*]([Epics/Managing knowledge dependencies in multiplayer](<../Epics/Managing knowledge dependencies in multiplayer.md>))"
+        - "#[N](<../N.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies."
     - **[Next Steps](<../Next Steps.md>):** [not-populated](<../not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
 

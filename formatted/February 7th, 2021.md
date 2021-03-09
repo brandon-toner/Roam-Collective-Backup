@@ -62,7 +62,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I did try to review material, but I think today I was truly burned out. [*](((9Q2agVyFC)))
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [*](((KJ2FvCNN3))) Harmful for two reasons. Quantity does not mean quality. And fear to fail and being observed is a limiting factor to the freedom people feel in expressing their mind. What I am trying to say with the second point is that we might preclude yourself from exploring ideas which disagree with the main ideas.
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
-            - "#[FN](<FN.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
+            - "#[N](<N.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
             - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
@@ -70,7 +70,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
         - I love that when I check my messages I can also see that 
     - [Bookmarks](<Bookmarks.md>)
-        - "#[FN](<FN.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
+        - "#[N](<N.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>))."
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
         - ""[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Heads up I messed up a little when setting up the [Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>). Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯""
 - ---
@@ -117,7 +117,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - Here is the link to that [graph](https://roamresearch.com/#/app/multiplayerknowledgebases/page/tIRpxfXyY). It's impressive.
                 - [ ] Review Mat's graph for lessons that can apply to Roam Collective.  #[Help Wanted](<Help Wanted.md>)
         - [Q](<Q.md>) How do you confront feelings of [chaos](<chaos.md>) and overwhelm? 
-            - #[FN](<FN.md>) Find the biggest rock you can lift, and carry it. [responsibility](<responsibility.md>)
+            - #[N](<N.md>) Find the biggest rock you can lift, and carry it. [responsibility](<responsibility.md>)
                 - [Q](<Q.md>) How does this apply to Roam Collective?
                     - Convergence and finding a sense of order is everyone's collective responsibility.
                     - If things feel chaotic, find something you can [clarify](<clarify.md>) and bring into [order](<order.md>).
@@ -128,18 +128,18 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                                 - What material needs to be summarized?
         - [Q](<Q.md>) Should phases of [divergence](<divergence.md>) and [convergence](<convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>)) [order](<order.md>) [chaos](<chaos.md>)
             - **[Thoughts](<Thoughts.md>):**
-                - #[FN](<FN.md>) Freedom of expression is fun.
-                    - #[FN](<FN.md>) Fun drives productivity and engagement.
-                - #[FN](<FN.md>) Individuals have varying thresholds for tolerance of [chaos](<chaos.md>).
+                - #[N](<N.md>) Freedom of expression is fun.
+                    - #[N](<N.md>) Fun drives productivity and engagement.
+                - #[N](<N.md>) Individuals have varying thresholds for tolerance of [chaos](<chaos.md>).
                 - It is easier to follow the rules when there are less of them.
                 - If each individual uses their own intuition as guide for navigating balance, then the whole will benefit. 
                 - Global phases of divergence and convergence could be offered, and followed loosely. 
-                - #[FN](<FN.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action.
+                - #[N](<N.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action.
                     - Run with [inspired action](<inspired action.md>) as it strikes.
                     - [non-coercive](<non-coercive.md>) [productivity](<productivity.md>).
                     - [Q](<Q.md>) What happens when everyone rides the lightning. 
-                    - #[FN](<FN.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow.
-            - #[FN](<FN.md>) Find order through collective chaos. 
+                    - #[N](<N.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow.
+            - #[N](<N.md>) Find order through collective chaos. 
                 - As we all ride the lightning, patterns emerge naturally; we improve the surface-area for [serendipity](<serendipity.md>)  and [alignment](<alignment.md>).
                 - Work independently together, and leverage moments of serendipitous alignment.
                     - Global [purpose](<purpose.md>), [goals](<goals.md>), and [vision](<vision.md>) narrows the space that we oscillate around. It creates a lens to think and act through.
@@ -172,7 +172,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - [neuroticism](<neuroticism.md>)
                     - [withdrawal](<withdrawal.md>)
                     - [volatility](<volatility.md>)
-            - #[FN](<FN.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)).
+            - #[N](<N.md>) Roam offers a [selection bias](<selection bias.md>) towards "gardeners" [*]([architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)).
         - A speculative outline of some speculative outlines: [Outlines](<Outlines.md>)
             - Sections
                 - Miscellaneous

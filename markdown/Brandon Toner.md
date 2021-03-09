@@ -26,7 +26,7 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[I]] [[bnt]] {not: {or: }}  }}}
     - Zettelkasten Notes
         - **Fleeting Notes:**
-            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[FN]] [[bnt]] {not: {or: }}  }}}
+            - #minimal {{[[query]]: {and: [[Brandon Toner]] [[N]] [[bnt]] {not: {or: }}  }}}
     - Productiviy
         - **Follow Ups:**
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[Follow Up]] [[bnt]] {not: {or: }}  }}}

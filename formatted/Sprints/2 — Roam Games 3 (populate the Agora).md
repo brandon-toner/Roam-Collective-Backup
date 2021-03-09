@@ -16,7 +16,7 @@
             - {{[query](<../query.md>): {and: [ex-A](<../ex-A.md>) {or: [Q](<../Q.md>) [Questions](<../Questions.md>)}}}} [minimal](<../minimal.md>)
     - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):**
-            - {{[query](<../query.md>): {and: [ex-A](<../ex-A.md>) {or: [E:](<../E:.md>) [FN](<../FN.md>) [I](<../I.md>) [Literature Notes](<../Literature Notes.md>)}}}} [minimal](<../minimal.md>)
+            - {{[query](<../query.md>): {and: [ex-A](<../ex-A.md>) {or: [E:](<../E:.md>) [N](<../N.md>) [I](<../I.md>) [Literature Notes](<../Literature Notes.md>)}}}} [minimal](<../minimal.md>)
     - **[Tasks](<../Tasks.md>):** [not-populated](<../not-populated.md>) ((Replace ex-A with the sprint page name))
         - **[Query](<../Query.md>):** 
             - {{[query](<../query.md>): {and: [ex-A](<../ex-A.md>) [TODO](<../TODO.md>)}}}

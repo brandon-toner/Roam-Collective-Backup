@@ -142,8 +142,8 @@
                 - [Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) populated?
                 - [Q](<Q.md>) How are drafts documented?
             - **[Thoughts](<Thoughts.md>):**
-                - #[FN](<FN.md>) [speculative outlines](<speculative outlines.md>) create the [scaffolding](<scaffolding.md>) for future development.  
-                - #[FN](<FN.md>) [speculative outlines](<speculative outlines.md>) create a shared lens for directed [brainstorming](<brainstorming.md>). [*](((eMa8XoHvR)))
+                - #[N](<N.md>) [speculative outlines](<speculative outlines.md>) create the [scaffolding](<scaffolding.md>) for future development.  
+                - #[N](<N.md>) [speculative outlines](<speculative outlines.md>) create a shared lens for directed [brainstorming](<brainstorming.md>). [*](((eMa8XoHvR)))
                     - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
                         - This is [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>) at [scale](<scale.md>).
                 - "[Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) documented?"

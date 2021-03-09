@@ -7,7 +7,7 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - Roam Research: [algorithms of thought](<algorithms of thought.md>)
 
-- #[FN](<FN.md>) Standard documentation processes and conventions may assist in algorithmic suggestions and [algorithms of thought](<algorithms of thought.md>).
+- #[N](<N.md>) Standard documentation processes and conventions may assist in algorithmic suggestions and [algorithms of thought](<algorithms of thought.md>).
 
 - **[Thoughts](<Thoughts.md>):** [*]([algorithms of thought](<algorithms of thought.md>))
 
@@ -21,7 +21,7 @@
 
 - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>)
 
-- #[FN](<FN.md>) [algorithms of thought](<algorithms of thought.md>)
+- #[N](<N.md>) [algorithms of thought](<algorithms of thought.md>)
 
 - [Q](<Q.md>) What are [algorithms of thought](<algorithms of thought.md>)?
 

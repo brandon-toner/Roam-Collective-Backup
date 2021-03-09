@@ -5,8 +5,8 @@
 
 - In our experience here, conversation and discussion is a real driver of thought, refinement, and synthesis. I would say that strong conversation (and thinking in public) really accelerates the [velocity of learning](<velocity of learning.md>)
 
-- [FN](<FN.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
+- [N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
-- "[FN](<FN.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
+- "[N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
 

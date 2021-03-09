@@ -12,5 +12,5 @@
 - Play around with [collapsing](<collapsing.md>) to simplify your view of the [DNP](<DNP.md>).
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[FN](<FN.md>) the blank [DNP](<DNP.md>)
+- #[N](<N.md>) the blank [DNP](<DNP.md>)
 

@@ -49,7 +49,7 @@
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Kaito Kikuchi](<Kaito Kikuchi.md>)
-- **[Location](<Location.md>):** [San Diego, CA](<San Diego, CA.md>)
+- **[Work](<Work.md>):** PhD Candidate in quantitative microbiology at [University of California, San Diego](<University of California, San Diego.md>)
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Kyle Stratis](<Kyle Stratis.md>)

@@ -10,7 +10,7 @@
                 - The potential future issue that I see is one of re-work. And spreading ideas too-thin.
                     - The collective model somewhat relies on a minimum threshold of engagement that increases as the diversity of topics widens. 
                         - More diverse range of questions and topics = more engagement and members required for meaningful convergence on related topics.
-        - #[FN](<FN.md>) [maxims](<maxims.md>) are practical and easily communicated distillations of knowledge.
+        - #[N](<N.md>) [maxims](<maxims.md>) are practical and easily communicated distillations of knowledge.
             - They serve to summarize and crystallize a piece of wisdom.
             - [I](<I.md>) Collecting [maxims](<maxims.md>) central to a domain might be helpful for mapping the territory of knowledge.
             - [Q](<Q.md>) Are [mental models](<mental models.md>) maxims?
@@ -22,14 +22,14 @@
                         - Maxims feel more proverbial than mental models.
                             - [I](<I.md>) Maxims may encompass both mental models and proverbs. 
                                 - "[maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>) "
-                                - "#[FN](<FN.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))"
+                                - "#[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))"
             - [Q](<Q.md>) What are the differences between [evergreen notes](<evergreen notes.md>) and [maxims](<maxims.md>)?[*]([Bookmarks](<Bookmarks.md>))
                 - [Q](<Q.md>) Is an evergreen note a maxim?
                     - And if so, 
                         - Are all maxims evergreen notes?
                             - And if so, 
                                 - [Q](<Q.md>) Should [maxims](<maxims.md>) bear the `Evergreens/` namespace?
-                                    - "#[FN](<FN.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way."
+                                    - "#[N](<N.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way."
                                         - "[I](<I.md>) In this sense, I am tempted to remove namespacing for evergreen notes entirely... "
             - [Q](<Q.md>) What are the differences between [maxims](<maxims.md>) and [principles](<principles.md>)?
                 - I would wager: 
@@ -51,8 +51,8 @@
             - [claims](<claims.md>) = assertions of truths 
             - [maxims](<maxims.md>) = core principles / practical rules of conduct — or [directives](<directives.md>).
             - [Q](<Q.md>) What is missing from this framework?[*]([Bookmarks](<Bookmarks.md>))
-        - #[FN](<FN.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way.
-            - #[FN](<FN.md>) [namespaces](<namespaces.md>) are at risk of the same issues encountered by file-folder organizational systems. 
+        - #[N](<N.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way.
+            - #[N](<N.md>) [namespaces](<namespaces.md>) are at risk of the same issues encountered by file-folder organizational systems. 
                 - "Is this a "this" or a "that"?"
             - [I](<I.md>) In this sense, I am tempted to remove namespacing for evergreen notes entirely... 
         - [Evergreens/Cite shared principles to foster alignment.](<Evergreens/Cite shared principles to foster alignment..md>)
@@ -65,9 +65,9 @@
             - [concepts](<concepts.md>)
             - [proverbs](<proverbs.md>)
             - [directives](<directives.md>)
-        - #[FN](<FN.md>) accurate and precise category naming is more robust than metaphor or mythology naming.
+        - #[N](<N.md>) accurate and precise category naming is more robust than metaphor or mythology naming.
             - metaphors and analogies break down — accurate language does not.
-            - #[FN](<FN.md>) Metaphors should be an interpretive layer above true category naming.
+            - #[N](<N.md>) Metaphors should be an interpretive layer above true category naming.
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Imported maxims from [Books/12 Rules for Life](<Books/12 Rules for Life.md>) and [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>) as material for reference and demonstration of structure.
@@ -87,9 +87,9 @@
                                 - Emergency area C
                             - Each of "School district A", "Commercial district B", and "Emergency area C" are wholly contained within Neighborhood 1.
                     - This example is a simple tree — each node has one single parent node
-                        - [FN](<FN.md>) [Trees]([tree](<tree.md>))' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
+                        - [N](<N.md>) [Trees]([tree](<tree.md>))' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
                 - However, cities are much more complicated than trees — in reality, they are [semi-lattice](<semi-lattice.md>)s. In a semi-lattice, each node can have multiple parents. In this sense a semi-lattice is a more complex graph object than a tree.
-                    - [FN](<FN.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>)) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
+                    - [N](<N.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>)) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
                         - **[Image](<Image.md>):**
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWqDTXlkODx.jpeg?alt=media&token=db6e3bda-fd27-48b8-83ed-88d0908614a1)
                         - In the above image, there are four layers, each representing some "category" of data or metadata. Once way to understand the above semi-lattice and the dotted line could be...
@@ -105,7 +105,7 @@
                     - If I were to offer a tentative recommendation of how we could utilize the conceptual framework of a [semi-lattice](<semi-lattice.md>), it would be to begin thinking about  different layers of data and meta-data.
                         - A few layers of interest might be....
                             - Node-type: block versus page
-                            - Zettel note type: [fleeting notes](<fleeting notes.md>) versus [literature notes](<literature notes.md>) versus [permanent notes](<permanent notes.md>)
+                            - Zettel note type: ["N"-notes](<"N"-notes.md>) versus [literature notes](<literature notes.md>) versus [permanent notes](<permanent notes.md>)
                             - Synthesis note type: context versus observation/evidence versus proposition/claim/notion versus synthesis
                             - Level of collaboration: individual thought versus community curation versus community driven
                             - Collection membership: Notetaking versus Networked Thought versus Spaced Repetition versus ...

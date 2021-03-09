@@ -5,7 +5,7 @@
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [Roam Games III](<Roam Games III.md>))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
-        2. Review of [fleeting notes](<fleeting notes.md>) with Sam — [here](((0oR0z3jPD))) [Onboarding](<Onboarding.md>) #[Graph Mentorship](<Graph Mentorship.md>)
+        2. Review of ["N"-notes](<"N"-notes.md>) with Sam — [here](((0oR0z3jPD))) [Onboarding](<Onboarding.md>) #[Graph Mentorship](<Graph Mentorship.md>)
         3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or:[@[[Everyone](<@[[Everyone.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}}
         4. "On the value of [block-level tags](<block-level tags.md>)"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
@@ -47,7 +47,7 @@
                 - I want people to be prepared for, and comfortable with a degree of [chaos](<chaos.md>).
                     - This feels like an article/write-up. I've got lots of thoughts on this.
                         - [ ] Write about managing [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>). [*][Brandon Toner](<Brandon Toner.md>) #[February 2021](<February 2021.md>)
-                            - #[FN](<FN.md>) To manage [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>) — aim to amplify [signal](<signal.md>), rather than reduce [noise](<noise.md>).
+                            - #[N](<N.md>) To manage [chaos](<chaos.md>) in a [collaborative graph](<collaborative graph.md>) — aim to amplify [signal](<signal.md>), rather than reduce [noise](<noise.md>).
                                 - Have clear places to look for 
                                     - Important updates & changes (Announcements, and Change Log, in our case)
                                     - Active projects (epics and sprints, in our case)
@@ -55,15 +55,15 @@
                                         - Goals/objectives
                                         - Status
                                         - Progress and updates
-                                        - #[FN](<FN.md>) To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
-                                            - #[FN](<FN.md>) In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
+                                        - #[N](<N.md>) To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
+                                            - #[N](<N.md>) In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
                                                 - This is [bottom-up](<bottom-up.md>), or emergent in style & feels quite natural in a Roam-environment.
-                                                    - #[FN](<FN.md>) a [bottom-up](<bottom-up.md>) or [emergent](<emergent.md>) development style is natural within a [collaborative graph](<collaborative graph.md>)
+                                                    - #[N](<N.md>) a [bottom-up](<bottom-up.md>) or [emergent](<emergent.md>) development style is natural within a [collaborative graph](<collaborative graph.md>)
                                     - Highlights & key discussions (The Main Feed, in our case)
                                 - 
                 - I want visitors to be able to understand the project, see the potential, and not become overwhelmed with complexity.
                     - [I](<I.md>) Stronger landing pages will be helpful here. 
-                        - #[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>).
+                        - #[N](<N.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>).
                             - [Q](<Q.md>) What are the elements of an effective [landing page]([landing pages](<landing pages.md>))?
                             - [Q](<Q.md>) Who is the target audience of a [landing page]([landing pages](<landing pages.md>))?
                             - [Q](<Q.md>) What are the goals of a [landing page]([landing pages](<landing pages.md>))?
@@ -95,11 +95,11 @@
                             - The best is a blend of these approaches, and likely one that is [opportunistic](<opportunistic.md>): 
                                 - As leaders or group members become clear on work that could/should be done — they define it. 
                                 - As members are inspired to do work, they do it. 
-                                - #[FN](<FN.md>) [non-coercive](<non-coercive.md>) development systems are optimal for volunteer communities.
+                                - #[N](<N.md>) [non-coercive](<non-coercive.md>) development systems are optimal for volunteer communities.
                                     - Optimize for inspired action.
                                     - "Run with [inspired action](<inspired action.md>) as it strikes."
-                                    - "#[FN](<FN.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action."
-                                    - "#[FN](<FN.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow."
+                                    - "#[N](<N.md>) "[ride the lightning](<ride the lightning.md>)" as a mode of action."
+                                    - "#[N](<N.md>) Roam was built to empower a "[ride the lightning](<ride the lightning.md>)" workflow."
         - [Evergreens/Make it work, then make it fast, then make it pretty.](<Evergreens/Make it work, then make it fast, then make it pretty..md>)
         - [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
         - [Roam Collective Exports](<Roam Collective Exports.md>)
@@ -138,15 +138,15 @@
             - There is a fleeting note (or several) in there — **I can feel it haha.**
                 - Toss a `[FN](<FN.md>)` tag and make a claim. (use these liberally)
                     - e.g.
-                        - [FN](<FN.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>)) chunks makes them more easily digestible for others.
-                            - [FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
+                        - [N](<N.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>)) chunks makes them more easily digestible for others.
+                            - [N](<N.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
                                 - This is THE REASON for creating a for mapping the [dependencies](<dependencies.md>) between ideas[*]([Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)) and probably the [mission](<mission.md>) of [Roam](<Roam.md>).
                             - [Q](<Q.md>) What information is best to "get from the source" on vs a summary?
                                 - [Ans](<Ans.md>) When the accuracy and precision of the idea is crucial to it's usage / when you are unable to trust the summarizing source.
                                     - This is NOT very often.
-                                        - [FN](<FN.md>) It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
-                                            - [FN](<FN.md>) We RELY on the [summaries](<summaries.md>) generated by others, in order to integrate a large amount of information into our [thinking](<thinking.md>).
-                                            - [FN](<FN.md>) a [collaborative graph](<collaborative graph.md>) offers the ability to maintain a chain of influence — enhancing the custom of source [citation](<citation.md>).
+                                        - [N](<N.md>) It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
+                                            - [N](<N.md>) We RELY on the [summaries](<summaries.md>) generated by others, in order to integrate a large amount of information into our [thinking](<thinking.md>).
+                                            - [N](<N.md>) a [collaborative graph](<collaborative graph.md>) offers the ability to maintain a chain of influence — enhancing the custom of source [citation](<citation.md>).
                                                 - This has the potential to improve both recreational and professional knowledge work.
         3. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) I think of this clip from [Fight Club](<Fight Club.md>) every time we discuss colours.
             - **[URL](<URL.md>):** {{[video](<video.md>): https://www.youtube.com/watch?v=UMXs9i201AQ}}
@@ -191,7 +191,7 @@
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
         - About [Beau's zettelkasten conventions/method in rbc](((2Kxu_piLV))) compared to the RC [zettelkasten](<zettelkasten.md>)
-            - [Fleeting notes]([fleeting notes](<fleeting notes.md>))
+            - [Fleeting notes](["N"-notes](<"N"-notes.md>))
                 - One of these takes 25mn or more to write, not just a little idea on a scrap of paper
                 - They are your reactions/thoughts from reading/watching something, not just an idea you got on a walk or in the shower. (his answer to my question about this is below, from rbc). At least for Beau's system, the zettelkasten is a dialogue partner born out of his internal conversation with sources only, without linking outside. 
                     - [Samuel Bars](<Samuel Bars.md>) to [Beau Haan](<Beau Haan.md>) and everyone else who wants to answer.
@@ -220,7 +220,7 @@ What's your take on fleeting notes that come from personal experience/journaling
     - [Bookmarks](<Bookmarks.md>)
         - "On moving towards a more agnostic [taxonomy](<taxonomy.md>)/[mythology](<mythology.md>) of notes..."
         - "[Q](<Q.md>) How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
-        - "#[FN](<FN.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>)."
+        - "#[N](<N.md>) Clear and effective [landing pages](<landing pages.md>) are especially important in a [collaborative graph](<collaborative graph.md>)."
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas
@@ -258,23 +258,23 @@ What's your take on fleeting notes that come from personal experience/journaling
     - [Scratchpad](<Scratchpad.md>)
         - On the value of [block-level tags](<block-level tags.md>)
             - More and more, I am realizing that I use the `#` functionally in a fundamentally different way that standard `[[]]` page references. The biggest different is when I use a `#` I rarely plan on visiting the page. Instead, I am looking to surface the associated blocks through queries at some future time.
-                - [FN](<FN.md>) A users planned method of [information retrieval](<information retrieval.md>) will impact all of the [knowledge](<knowledge.md>) [structure](<structure.md>)s they prefer using
-                    - [therefore](<therefore.md>) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
-                        - [FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
+                - [N](<N.md>) A users planned method of [information retrieval](<information retrieval.md>) will impact all of the [knowledge](<knowledge.md>) [structure](<structure.md>)s they prefer using
+                    - [therefore](<therefore.md>) "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+                        - [N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
                 - Under this usage of the `#` convention, there are essentially two sub-conventions — using the `#` as [section tags](<section tags.md>) and as [block-level tags](<block-level tags.md>).
                     - I see section tags as being used best to aggregate **general** thoughts and information. They are scratchpads of one form or another. The information that is contained is either prose (like this) or unrefined ideas.
-                        - [FN](<FN.md>) [Section-level tags]([section tags](<section tags.md>)) should be used to aggregate loosely bound ideas and general thoughts.
+                        - [N](<N.md>) [Section-level tags]([section tags](<section tags.md>)) should be used to aggregate loosely bound ideas and general thoughts.
                     - I see block-level tags as being used best to summarize **atomic** and **focused** thoughts (of varying types and maturities). The information at the level of the block level tag should be digestible on its own, with context nested underneath. The context can be terse or flowing, rough or developed, but the priority for the highest block should be **concise** as hell.
-                        - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should be used to summarize atomic and focused thoughts and pieces of knowledge
+                        - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should be used to summarize atomic and focused thoughts and pieces of knowledge
                 - One of the [implicit](<implicit.md>) differences between these [two tag types](((loZtX8kki))) — [block-level tags](<block-level tags.md>) and [section tags](<section tags.md>) —  is their [maturity](<maturity.md>).
                     - A thought that can be summarized in a single-block is at least somewhat thought out. One that requires an entire section may be chipping away at a unified idea, but the final understanding/idea is still [fluid]([fluidity](<fluidity.md>)).
             - Taking all of the above into account, we can use the implicit distinct between [block-level tags](<block-level tags.md>) and [section tags](<section tags.md>) to help [parse](((AcVV2n11w))) out [signal](<signal.md>) versus [noise](<noise.md>).
-                - [FN](<FN.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>)) thoughts.
+                - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>)) thoughts.
             - Block-level tags tangentially related benefits as well...
                 - They allow for the identification and summarization of high-quality thoughts anywhere in the graph.
                     - Often this leads to creation in-line with important contextual information.
                     - Viewing the though-processes around [idea formation](<idea formation.md>) increasing  [traceability](<traceability.md>) of our own and others' thought processes, ultimately allowing for easier [comprehension](<comprehension.md>) and greater [cross-pollination](<cross-pollination.md>) of ideas.
-                        - [FN](<FN.md>) Ease of [comprehension](<comprehension.md>) (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([cross-pollination](<cross-pollination.md>))
+                        - [N](<N.md>) Ease of [comprehension](<comprehension.md>) (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([cross-pollination](<cross-pollination.md>))
         - Importing [Maggie Delano](<Maggie Delano.md>)'s code for her Zettel Smartblock Aggregator
             - **[> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type](<> To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type.md>):** [Zettel](<Zettel.md>)` that are not referenced here, so ideally give your zettel its own page to find it, otherwise it will return whatever page the block is on. You need [Roam42](<Roam42.md>) running for it to work.
                 - > {{CLICK TO FIND PAGES WITH ZETTELS MISSING FROM INDEX:42SmartBlk:Check Zettels:42RemoveButton=false}}  
@@ -346,7 +346,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
     - [Bookmarks](<Bookmarks.md>)
         - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
-        - "[FN](<FN.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))"
+        - "[N](<N.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))"
         - #[Follow Up](<Follow Up.md>) "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) On [Beau's system](((Rm2wbbYEF)))"
         - #[Follow Up](<Follow Up.md>) "Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([agile development](<agile development.md>))[*]([Examples](<Examples.md>))"
     - [Todos](<Todos.md>)

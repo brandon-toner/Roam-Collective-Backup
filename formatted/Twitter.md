@@ -37,13 +37,13 @@
         - **[Twitter](<Twitter.md>):**
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[FN](<FN.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+- #[N](<N.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
 - **Compare with:** [Twitter](<Twitter.md>),
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- #[FN](<FN.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
+- #[N](<N.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
 
 ## [George Silverman](<George Silverman.md>)
 - **[About me](<About me.md>):**
@@ -88,6 +88,9 @@
 ## [Marc Koenig](<Marc Koenig.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
+
+## [March 8th, 2021](<March 8th, 2021.md>)
+- I use graphs like this more than [Twitter](<Twitter.md>)
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - **[About me](<About me.md>):** 

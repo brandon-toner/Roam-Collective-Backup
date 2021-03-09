@@ -20,7 +20,7 @@
             - Source:: Tweet by [[Visakan Veerasamy]]
             - The greatest challenge is coming up with coherent, minimally overlapping classifications. [*]([[Seedlings/mutually exclusive, collectively exhaustive (MECE)]])
                 - Source:: Reply to Visa's tweet.
-            - #[[FN]] Start with known [[classification]] systems and adapt them to specific needs.
+            - #[[N]] Start with known [[classification]] systems and adapt them to specific needs.
                 - #I Use [[Wikipedia]] to find existing [[classification]] systems.
             - #Q What [[classification]] systems, [[taxonomies]], or lists would be useful within Roam Collective?
                 - List of [prepositional linkages]([[prepositional linkages]])
@@ -42,10 +42,10 @@
                 - Some = special & unique
             - Goal: Be able to adjust the dark grey at will easily.
             - #Q What classes of tags are there that might have different colors?
-        - #[[FN]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
+        - #[[N]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
             - Proverb: "Definition: Easily digestible nuggets of wisdom. "
             - Atomic ideas are easily digestible. This is the format of a proverb. 
-            - #[[FN]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
+            - #[[N]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
     - #[[GTD Zone]]
         - {{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] 
             - Weekly newsletter

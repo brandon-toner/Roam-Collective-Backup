@@ -96,7 +96,7 @@
         - Ideas
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [I](<I.md>)}}}
         - Fleeting Notes
-            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [FN](<FN.md>)}}}
+            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [N](<N.md>)}}}
     - [Bookmarks](<Bookmarks.md>)
         - "Author centric dependency" [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
     - #[Change Log](<Change Log.md>) 

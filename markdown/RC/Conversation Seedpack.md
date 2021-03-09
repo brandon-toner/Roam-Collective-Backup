@@ -472,7 +472,7 @@ span[data-link-title^="^"]:before {
   	font-size:		13px;
 }```
         - Notes
-            - "#FN"
+            - #N
             - "#Notion #Test"
     - ### FAQs
         - 

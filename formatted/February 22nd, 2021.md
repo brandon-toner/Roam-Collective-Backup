@@ -10,7 +10,7 @@
         - **Ideas:**
             - [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [I](<I.md>) {not: [query](<query.md>)}}}}
         - **Fleeting Notes:**
-            - [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}}}}
+            - [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [N](<N.md>) {not: [query](<query.md>)}}}}
         - **Literature Notes:**
             - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [LN](<LN.md>) {not: [query](<query.md>)}}}}
     - #[GTD Zone](<GTD Zone.md>) 
@@ -48,7 +48,7 @@
         - **Ideas:**
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [I](<I.md>)}}}
         - **Fleeting Notes:**
-            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [FN](<FN.md>)}}}
+            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [N](<N.md>)}}}
     - #[GTD Zone](<GTD Zone.md>)
         - **TODOs:**
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}}}
@@ -75,8 +75,8 @@
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - [ ] #[Follow Up](<Follow Up.md>) Review [block-level tags](<block-level tags.md>) & aggregate into collection
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) and [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
-            - "[FN](<FN.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
-                - [FN](<FN.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought
+            - "[N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
+                - [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
             - However, if we got Roam Inter up and running in The Agora, we could easily aggregate updates centrally
         - [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) & [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on Weekly Summaries

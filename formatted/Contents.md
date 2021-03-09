@@ -177,7 +177,7 @@
     - **[Contents](<Contents.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
-- "#[FN](<FN.md>) [fleeting notes](<fleeting notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)"
+- "#[N](<N.md>) ["N"-notes](<"N"-notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)"
     - **[Contents](<Contents.md>):**
 
 ## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)
@@ -277,6 +277,10 @@
 
 ## [Make friends with people who want the best for you.](<Make friends with people who want the best for you..md>)
 - **[Relevant Notes](<Relevant Notes.md>):** [not-populated](<not-populated.md>) ((Not a reference, but a related idea, block or page))
+    - **[Contents](<Contents.md>):**
+
+## [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)
+- **[Next Steps](<Next Steps.md>):** [not-populated](<not-populated.md>) ((Plans for future elaboration or development))
     - **[Contents](<Contents.md>):**
 
 ## [Nothing well done is insignificant.](<Nothing well done is insignificant..md>)

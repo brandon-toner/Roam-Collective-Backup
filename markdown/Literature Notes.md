@@ -1,2 +1,2 @@
 - Tags:: #Glossary #zettelkasten
-- Related:: [[fleeting notes]], [[evergreen notes]]
+- Related:: [["N"-notes]], [[evergreen notes]]

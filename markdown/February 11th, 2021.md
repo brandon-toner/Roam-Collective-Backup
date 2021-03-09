@@ -76,7 +76,7 @@
             - CSS snippets
             - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
     - #[[The Zettelkasten]] 
-        - #[[FN]] [Sprint]([[sprints]]) and epic titles should be descriptive.
+        - #[[N]] [Sprint]([[sprints]]) and epic titles should be descriptive.
     - #Conversation 
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[~[[Charles Farr]]]])
         2. On a RC domain[*](((81t5uIxRT)))

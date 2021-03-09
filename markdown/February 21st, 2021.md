@@ -96,7 +96,7 @@
         - Ideas
             - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[I]]}}}
         - Fleeting Notes
-            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[FN]]}}}
+            - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[N]]}}}
     - #Bookmarks
         - "Author centric dependency" [[Epics/Managing knowledge dependencies in multiplayer]]
     - #[[Change Log]] 

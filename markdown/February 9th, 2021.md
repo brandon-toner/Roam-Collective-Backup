@@ -109,10 +109,10 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - "Energy & enthusiasm"
                     - Creates excitement & engagement
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
-                    - #[[FN]] Simplicity and constraints are important to focus a group — especially a large group.
+                    - #[[N]] Simplicity and constraints are important to focus a group — especially a large group.
                     - 
     - #[[The Zettelkasten]] 
-        - #[[FN]] [[convergence]] can be accomplished as an [[asynchronous]] team activity through the use of [[speculative outlines]] 
+        - #[[N]] [[convergence]] can be accomplished as an [[asynchronous]] team activity through the use of [[speculative outlines]] 
             - Process::
                 - Members brainstorm elements of outline.
                 - Outline draft is "ratified" or adopted (only as formal as necessary, often VERY informal)

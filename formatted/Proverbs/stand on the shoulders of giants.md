@@ -7,5 +7,5 @@
 
 # Backlinks
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- #[FN](<../FN.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<../Proverbs/stand on the shoulders of giants.md>),
+- #[N](<../N.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<../Proverbs/stand on the shoulders of giants.md>),
 

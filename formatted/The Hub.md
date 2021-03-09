@@ -8,7 +8,7 @@
 - ---
 - Notes
     - Fleeting Notes
-        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [FN](<FN.md>) {not: {or: [query](<query.md>) }}  }}}
+        - [min-con](<min-con.md>) {{[query](<query.md>): {and: [N](<N.md>) {not: {or: [query](<query.md>) }}  }}}
     - Literature Notes
         - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Literature Notes](<Literature Notes.md>)  {not: {or: [query](<query.md>) [not-populated](<not-populated.md>) }}  }}}
     - Evergreen Notes

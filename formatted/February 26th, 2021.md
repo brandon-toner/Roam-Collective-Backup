@@ -2,7 +2,7 @@
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. "[FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>)."[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
+        1. "[N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>)."[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{Today + Obs:42SmartBlock:Today + Obs}}
         - **Questions:** 
@@ -26,12 +26,12 @@
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
             - [Q](<Q.md>) What is the role of [prompts](<prompts.md>) in knowledge base accumulation?
-            - #[FN](<FN.md>) When 2 or more people desire the same thing, there is an opportunity for [collaboration](<collaboration.md>) and resource-sharing.
+            - #[N](<N.md>) When 2 or more people desire the same thing, there is an opportunity for [collaboration](<collaboration.md>) and resource-sharing.
                 - ["many hands make light work"](<"many hands make light work".md>)
             - [Q](<Q.md>) How might you [crowdsource]([crowdsourcing](<crowdsourcing.md>)) [synthesis](<synthesis.md>)?
                 - [Obs](<Obs.md>) Multiple conclusions may be drawn from the same set of data.
-                    - [therefore](<therefore.md>) "#[FN](<FN.md>) Divergence can and should occur in the crowdsourcing of synthesis."
-                        - #[FN](<FN.md>) Divergence can and should occur in the crowdsourcing of synthesis.
+                    - [therefore](<therefore.md>) "#[N](<N.md>) Divergence can and should occur in the crowdsourcing of synthesis."
+                        - #[N](<N.md>) Divergence can and should occur in the crowdsourcing of synthesis.
                         - [Q](<Q.md>) How might alternate versions of [synthesis](<synthesis.md>) be managed in a collaborative knowledge base?
             - [Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?
                 - Argument: Claims, Reasons, Evidence | Department of Communication | University of Pittsburgh
@@ -73,15 +73,15 @@
                     - Exploration of the resources for main ideas.
                     - Create linkages between existing ideas within a domain.
                     - Formation of new ideas or syntheses within a domain.
-                - #[FN](<FN.md>) There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
-                    - #[FN](<FN.md>) Before creating on a subject, a writer should be familiar with existing ideas and assertions.
-                    - [FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>).
+                - #[N](<N.md>) There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
+                    - #[N](<N.md>) Before creating on a subject, a writer should be familiar with existing ideas and assertions.
+                    - [N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>).
                         - But, synthesis may be a **natural byproduct** of exploration of a domain — and these fleeting propositions should be captured as they occur. 
                             - Capturing these (potentially naive) ideas and propositions is valuable despite their unlikelihood of being novel. 
                                 - They become hypotheses to strive to disprove/validate. 
-                                    - #[FN](<FN.md>) A [claim]([claims](<claims.md>)) cannot be validated, only disproven or falsified.[*]([science](<science.md>))
+                                    - #[N](<N.md>) A [claim]([claims](<claims.md>)) cannot be validated, only disproven or falsified.[*]([science](<science.md>))
                                     - The stated proposition can be used to drive further questions, furthering the [research](<research.md>) [flywheel]([Flywheels](<Flywheels.md>)).
-                            - #[FN](<FN.md>) learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
+                            - #[N](<N.md>) learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
                                 -  
         - [David Vargas](<David Vargas.md>) on [backlogs](<backlogs.md>)
             - **[Tweets](<Tweets.md>):**

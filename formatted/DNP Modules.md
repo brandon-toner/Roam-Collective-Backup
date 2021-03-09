@@ -47,7 +47,7 @@
 - Proper use of the [DNP Modules](<DNP Modules.md>).
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- #[FN](<FN.md>) The use of [DNP Modules](<DNP Modules.md>)
+- #[N](<N.md>) The use of [DNP Modules](<DNP Modules.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
@@ -73,7 +73,7 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
 
-- #[FN](<FN.md>) The [DNP Modules](<DNP Modules.md>)
+- #[N](<N.md>) The [DNP Modules](<DNP Modules.md>)
 
 - Each person has a separate [DNP Section](<DNP Section.md>) with various [DNP Modules](<DNP Modules.md>)
 

@@ -1,0 +1,9 @@
+- Tags:: #[[Evergreens]]
+    - Date Created:: [[March 8th, 2021]]
+    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Created by:: [[Brandon Toner]]
+    - Author:: [[Brandon Toner]]
+    - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
+    - Relevant Notes:: #not-populated ((Not a reference, but a related idea, block or page))
+    - Next Steps:: #not-populated ((Plans for future elaboration or development))
+    - Contents:: #not-populated

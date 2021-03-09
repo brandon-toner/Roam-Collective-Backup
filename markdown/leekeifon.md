@@ -7,7 +7,7 @@
         - How to contact me:: Twitter/Roam Slack
         - Interests:: Math/Logic/Design/Program
 - Queries::
-    - #minimal {{[[query]]: {and: [[FN]] [[leekeifon]]}}}
+    - #minimal {{[[query]]: {and: [[N]] [[leekeifon]]}}}
     - {{[[query]]: {and: [[leekeifon]] [[Bookmarks]]}}}
     - #minimal  {{[[query]]: {and: [[Experiments]] [[leekeifon]]}}}
     - # {{[[query]]: {and: [[@[[leekeifon]]]]}}}

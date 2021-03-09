@@ -41,7 +41,7 @@
                     - adds aesthetic
                     - Visual feedback communicates that the user used the "right tag"
                 - Scratchpad as a place for loosely organized thought -- a scratchpad.
-        - #[[FN]] aligned [[collaboration]] drives [[flow state]] work and thinking.
+        - #[[N]] aligned [[collaboration]] drives [[flow state]] work and thinking.
         - #I A roam/js extension that helps to "mirror" relationships between pages.
             - Example:: "supports"/"supported by"
             - bi-directional linking for [prepositional linkages]([[prepositional linkages]])
@@ -57,19 +57,19 @@
                 2. The top co-tags ordered by number of hits. 
                     - This gives you the ability to assess for what topics you have thought a lot about.
                         - These are rich places to look for the development of [[evergreen notes]]. 
-            - #[[FN]] The addition of a unique identifier to the [DNP Section]([[DNP Section]]) empowers the ability to [query]([[querying]]) for information from exclusively within your notes.
-        - #[[FN]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])
+            - #[[N]] The addition of a unique identifier to the [DNP Section]([[DNP Section]]) empowers the ability to [query]([[querying]]) for information from exclusively within your notes.
+        - #[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])
             - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [[block-level tags]]. 
-                - #[[FN]] [[ideas]] and [[action items]] arise naturally in [[conversation]].
+                - #[[N]] [[ideas]] and [[action items]] arise naturally in [[conversation]].
                     - [[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
-        - #[[FN]] A [collaborative graph]([[collaborative graphs]]) transcends "The Now". 
+        - #[[N]] A [collaborative graph]([[collaborative graphs]]) transcends "The Now". 
         - #Q How can the [[scientific method]] be integrated into [[collaborative zettelkasten]] conventions? [*]([[Bookmarks]])[*]([[Articles/Joel Chan — Knowledge Synthesis]])
             - Diagram::
                 - ![Lab 14 - Makeup Lab: The Scientific Method](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bigpicturebiology.com%2Fwp-content%2Fuploads%2F2015%2F05%2FThe-Scientific-Method.jpg&f=1&nofb=1)
             - #Q How might [[problems]] be stated at the [[block-level]]?
             - #Q How might [[hypotheses]] be documented at the [[block-level]]?
             - #Q How might [[conclusions]] be documented?
-        - #[[FN]] micro and macro levels of [[inquiry]].
+        - #[[N]] micro and macro levels of [[inquiry]].
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
         2. [@Charles]([[~[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
@@ -155,7 +155,7 @@
             - [@B]([[~[[Brandon Toner]]]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `#I` block they're nested under, which feels appropriate. 
             - [@B]([[~[[Brandon Toner]]]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `#csf` tag...
     - #Bookmarks
-        - "#[[FN]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])"
+        - "#[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])"
     - #[[Change Log]]
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme

@@ -4,7 +4,7 @@
 - Yesterday I introduced [Multiplayer Roam](<Multiplayer Roam.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[FN](<FN.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>))
+- #[N](<N.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>))
 
-- **[Example](<Example.md>):** "#[FN](<FN.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>))
+- **[Example](<Example.md>):** "#[N](<N.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>))
 

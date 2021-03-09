@@ -41,10 +41,10 @@
                 - This helps to synthesize and create new content on the shoulders of the work of others. I see this as the key strength of collaboration within a shared graph! 
                 - I related it to the concept of [[idea sex]] from [[Anne-Laure Le Cunff]] of [[Ness Labs]]. [Link](https://nesslabs.com/inspiration-to-idea-sex)
             - But... That doesn't mean the conventions should be __suffocating__! 
-            - #[[FN]] [[It is ok to colour outside of the lines.]]
+            - #[[N]] [[It is ok to colour outside of the lines.]]
                 - Some conventions are more important than others. If you just:
                     - Plus, the [editors]([[graph editors]]) can always sprinkle some tags and block references in there to foster some connections. 
-                        - #[[FN]] [[Start writing, and worry about optimizing structure later.]]
+                        - #[[N]] [[Start writing, and worry about optimizing structure later.]]
                     - Nest your thoughts underneath a DNP Section with your name and ramble on nested beneath a Scratchpad, that's still great!! Wayyyyy better than writing nothing for fear of "messing it up". 
         - #Questions If I [[filter]]-out some page links from a page ([[e.g.]] hiding "not-populated"), does that filter it out for everyone or just me?
         - #[[Q]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
@@ -95,7 +95,7 @@
         - Thoughts on this? [[~]][[Charles Farr]]
             - "#[[Q]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
     - #Conversation
-        - In [these](((PmZ_NjkFA))) [[fleeting notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
+        - In [these](((PmZ_NjkFA))) [["N"-notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
         - "Contributors:: #[[Help Wanted]]"
             - Maybe add a *request for support* or something tag here. Or *opportunities to help*.... #I
@@ -217,7 +217,7 @@
             - Divergent brainstorming
             - Convergent alignment
             - Summarizing resource / meeting / <event>
-            - FN:: The team algorithm of thought is used quite often in the Roam community, but it seems less accessible to a broader market. Is there a more approachable phrasing that strips away the [[jargon]]-iness from the term?
+            - N:: The team algorithm of thought is used quite often in the Roam community, but it seems less accessible to a broader market. Is there a more approachable phrasing that strips away the [[jargon]]-iness from the term?
         - #Q How can a community leverage [[serendipity]] (and serendipity [[generators]]) to seed [[divergent]] thinking? How can these tools be used to drive towards [[convergent]] thought?
         - #Q [[spaced repetition]] can be invaluable to an individual — are there similar use cases for communities?
             - To be clear, [[spaced repetition]] is very valuable to members in a community, and a community can encourage its members to implement spaced repetition. But is there a way in which space repetition can be used at the community level to drive towards an objective?

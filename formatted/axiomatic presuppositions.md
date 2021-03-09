@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- #[FN](<FN.md>) perceived [truth](<truth.md>) is dependant on [axiomatic presuppositions](<axiomatic presuppositions.md>).
+- #[N](<N.md>) perceived [truth](<truth.md>) is dependant on [axiomatic presuppositions](<axiomatic presuppositions.md>).
 
 - [objective [[truth](<objective [[truth.md>)]] is a result from [axiomatic presuppositions](<axiomatic presuppositions.md>)
 

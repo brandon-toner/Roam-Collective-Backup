@@ -40,7 +40,7 @@
 - #[I](<I.md>)
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [N](<N.md>) [I](<I.md>)
 
 ## [I](<I.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [I](<I.md>)
@@ -55,10 +55,10 @@
 - {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
+- {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>) [N](<N.md>) [I](<I.md>)
 
 ## [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
-- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [FN](<FN.md>) [I](<I.md>)
+- {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [N](<N.md>) [I](<I.md>)
 
 ## [roam/css](<roam/css.md>)
 - #[I](<I.md>)

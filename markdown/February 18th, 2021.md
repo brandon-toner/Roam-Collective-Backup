@@ -5,7 +5,7 @@
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [[Roam Games III]])
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
-        2. Review of [[fleeting notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
+        2. Review of [["N"-notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
         3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}
         4. "On the value of [[block-level tags]]"
     - #Chat ((A place to propose objects of discussion)) #not-populated
@@ -47,7 +47,7 @@
                 - I want people to be prepared for, and comfortable with a degree of [[chaos]].
                     - This feels like an article/write-up. I've got lots of thoughts on this.
                         - {{[[TODO]]}} Write about managing [[chaos]] in a [[collaborative graph]]. [*][[Brandon Toner]] #[[February 2021]]
-                            - #[[FN]] To manage [[chaos]] in a [[collaborative graph]] — aim to amplify [[signal]], rather than reduce [[noise]].
+                            - #[[N]] To manage [[chaos]] in a [[collaborative graph]] — aim to amplify [[signal]], rather than reduce [[noise]].
                                 - Have clear places to look for 
                                     - Important updates & changes (Announcements, and Change Log, in our case)
                                     - Active projects (epics and sprints, in our case)
@@ -55,15 +55,15 @@
                                         - Goals/objectives
                                         - Status
                                         - Progress and updates
-                                        - #[[FN]] To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
-                                            - #[[FN]] In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
+                                        - #[[N]] To effectively orient around a project or shared objective, you need to be able to identify where you are (status) and where you are going (objectives).
+                                            - #[[N]] In the absence of clear objectives, the objective is to brainstorm, explore, and discover.
                                                 - This is [[bottom-up]], or emergent in style & feels quite natural in a Roam-environment.
-                                                    - #[[FN]] a [[bottom-up]] or [[emergent]] development style is natural within a [[collaborative graph]]
+                                                    - #[[N]] a [[bottom-up]] or [[emergent]] development style is natural within a [[collaborative graph]]
                                     - Highlights & key discussions (The Main Feed, in our case)
                                 - 
                 - I want visitors to be able to understand the project, see the potential, and not become overwhelmed with complexity.
                     - #I Stronger landing pages will be helpful here. 
-                        - #[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]].
+                        - #[[N]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]].
                             - #Q What are the elements of an effective [landing page]([[landing pages]])?
                             - #Q Who is the target audience of a [landing page]([[landing pages]])?
                             - #Q What are the goals of a [landing page]([[landing pages]])?
@@ -95,11 +95,11 @@
                             - The best is a blend of these approaches, and likely one that is [[opportunistic]]: 
                                 - As leaders or group members become clear on work that could/should be done — they define it. 
                                 - As members are inspired to do work, they do it. 
-                                - #[[FN]] [[non-coercive]] development systems are optimal for volunteer communities.
+                                - #[[N]] [[non-coercive]] development systems are optimal for volunteer communities.
                                     - Optimize for inspired action.
                                     - "Run with [[inspired action]] as it strikes."
-                                    - "#[[FN]] "[[ride the lightning]]" as a mode of action."
-                                    - "#[[FN]] Roam was built to empower a "[[ride the lightning]]" workflow."
+                                    - "#[[N]] "[[ride the lightning]]" as a mode of action."
+                                    - "#[[N]] Roam was built to empower a "[[ride the lightning]]" workflow."
         - [[Evergreens/Make it work, then make it fast, then make it pretty.]]
         - [[Evergreens/Ready, Fire, Aim]]
         - [[Roam Collective Exports]]
@@ -138,15 +138,15 @@
             - There is a fleeting note (or several) in there — **I can feel it haha.**
                 - Toss a `#FN` tag and make a claim. (use these liberally)
                     - e.g.
-                        - #FN [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others.
-                            - #FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])
+                        - #N [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others.
+                            - #N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])
                                 - This is THE REASON for creating a for mapping the [[dependencies]] between ideas[*]([[Epics/Managing knowledge dependencies in multiplayer]]) and probably the [[mission]] of [[Roam]].
                             - #Q What information is best to "get from the source" on vs a summary?
                                 - #Ans When the accuracy and precision of the idea is crucial to it's usage / when you are unable to trust the summarizing source.
                                     - This is NOT very often.
-                                        - #FN It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
-                                            - #FN We RELY on the [[summaries]] generated by others, in order to integrate a large amount of information into our [[thinking]].
-                                            - #FN a [[collaborative graph]] offers the ability to maintain a chain of influence — enhancing the custom of source [[citation]].
+                                        - #N It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
+                                            - #N We RELY on the [[summaries]] generated by others, in order to integrate a large amount of information into our [[thinking]].
+                                            - #N a [[collaborative graph]] offers the ability to maintain a chain of influence — enhancing the custom of source [[citation]].
                                                 - This has the potential to improve both recreational and professional knowledge work.
         3. [@Charles]([[~[[Charles Farr]]]]) I think of this clip from [[Fight Club]] every time we discuss colours.
             - URL:: {{[[video]]: https://www.youtube.com/watch?v=UMXs9i201AQ}}
@@ -191,7 +191,7 @@
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
         - About [Beau's zettelkasten conventions/method in rbc](((2Kxu_piLV))) compared to the RC [[zettelkasten]]
-            - [Fleeting notes]([[fleeting notes]])
+            - [Fleeting notes]([["N"-notes]])
                 - One of these takes 25mn or more to write, not just a little idea on a scrap of paper
                 - They are your reactions/thoughts from reading/watching something, not just an idea you got on a walk or in the shower. (his answer to my question about this is below, from rbc). At least for Beau's system, the zettelkasten is a dialogue partner born out of his internal conversation with sources only, without linking outside. 
                     - [[Samuel Bars]] to [[Beau Haan]] and everyone else who wants to answer.
@@ -220,7 +220,7 @@ What's your take on fleeting notes that come from personal experience/journaling
     - #Bookmarks
         - "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
         - "#Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
-        - "#[[FN]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
+        - "#[[N]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas
@@ -258,23 +258,23 @@ What's your take on fleeting notes that come from personal experience/journaling
     - #Scratchpad
         - On the value of [[block-level tags]]
             - More and more, I am realizing that I use the `#` functionally in a fundamentally different way that standard `[[]]` page references. The biggest different is when I use a `#` I rarely plan on visiting the page. Instead, I am looking to surface the associated blocks through queries at some future time.
-                - #FN A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using
-                    - #therefore "#FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
-                        - #FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
+                - #N A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using
+                    - #therefore "#N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
+                        - #N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
                 - Under this usage of the `#` convention, there are essentially two sub-conventions — using the `#` as [[section tags]] and as [[block-level tags]].
                     - I see section tags as being used best to aggregate **general** thoughts and information. They are scratchpads of one form or another. The information that is contained is either prose (like this) or unrefined ideas.
-                        - #FN [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts.
+                        - #N [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts.
                     - I see block-level tags as being used best to summarize **atomic** and **focused** thoughts (of varying types and maturities). The information at the level of the block level tag should be digestible on its own, with context nested underneath. The context can be terse or flowing, rough or developed, but the priority for the highest block should be **concise** as hell.
-                        - #FN [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge
+                        - #N [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge
                 - One of the [[implicit]] differences between these [two tag types](((loZtX8kki))) — [[block-level tags]] and [[section tags]] —  is their [[maturity]].
                     - A thought that can be summarized in a single-block is at least somewhat thought out. One that requires an entire section may be chipping away at a unified idea, but the final understanding/idea is still [fluid]([[fluidity]]).
             - Taking all of the above into account, we can use the implicit distinct between [[block-level tags]] and [[section tags]] to help [parse](((AcVV2n11w))) out [[signal]] versus [[noise]].
-                - #FN [Block-level tags]([[block-level tags]]) tags can effectively increase the [[signal-to-noise ratio]] by proactively parsing out [mature]([[maturity]]) thoughts.
+                - #N [Block-level tags]([[block-level tags]]) tags can effectively increase the [[signal-to-noise ratio]] by proactively parsing out [mature]([[maturity]]) thoughts.
             - Block-level tags tangentially related benefits as well...
                 - They allow for the identification and summarization of high-quality thoughts anywhere in the graph.
                     - Often this leads to creation in-line with important contextual information.
                     - Viewing the though-processes around [[idea formation]] increasing  [[traceability]] of our own and others' thought processes, ultimately allowing for easier [[comprehension]] and greater [[cross-pollination]] of ideas.
-                        - #FN Ease of [[comprehension]] (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([[cross-pollination]])
+                        - #N Ease of [[comprehension]] (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([[cross-pollination]])
         - Importing [[Maggie Delano]]'s code for her Zettel Smartblock Aggregator
             - > To keep this updated, you can run a smart block that finds pages with zettels missing from the index. It checks for PAGES with `Page Type:: #Zettel` that are not referenced here, so ideally give your zettel its own page to find it, otherwise it will return whatever page the block is on. You need [[Roam42]] running for it to work.
                 - > {{CLICK TO FIND PAGES WITH ZETTELS MISSING FROM INDEX:42SmartBlk:Check Zettels:42RemoveButton=false}}  
@@ -346,7 +346,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - [@Brandon]([[~[[Brandon Toner]]]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
     - #Bookmarks
         - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
-        - "#FN When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
+        - "#N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
         - #[[Follow Up]] "[@Charles]([[~[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))"
         - #[[Follow Up]] "Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([[agile development]])[*]([[Examples]])"
     - #Todos

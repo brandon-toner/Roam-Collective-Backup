@@ -2,9 +2,10 @@
     - About me::
         - Twitter:: [@kickingkite](https://twitter.com/kickingkite)
         - Website:: [kaito.co]()https://www.kaito.co/)
-        - Location:: [[San Diego, CA]]
+        - Location:: [[San Diego]] [[California]]
+        - Work:: PhD Candidate in quantitative microbiology at [[University of California, San Diego]]
         - Time Zone:: Pacific Standard Time
-    - **Online Status:**  {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
+    - **Online Status:**  {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - ---
 - **Personal SmartBlocks:**
     - .rcDNP kaitochondria — Daily Notes Template #42SmartBlock

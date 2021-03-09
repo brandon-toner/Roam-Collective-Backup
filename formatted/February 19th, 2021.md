@@ -4,7 +4,7 @@
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`" {{or:[@[[Everyone](<@[[Everyone.md>)]] | [@[[Peter Rosso](<@[[Peter Rosso.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}}"
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
+        1. "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)"
         2. "[Q](<Q.md>) How might [Roam Portal](<Roam Portal.md>) be used in RC?"
     - #[Bug Reports](<Bug Reports.md>)
         - Aliased notifications not showing up in my personal notification [query](((HN8L0n32w))) — anyone else? Solution?
@@ -14,14 +14,14 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
-        - [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)
+        - [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)
             - **[Thoughts](<Thoughts.md>):**
                 - Thats what they are... 
                 - I'm a bit concerned about various definitions and meanings associated with the term in the community. It's quite fragmented. Especially with RBCIII, there will be a large cohort of folks who use fleeting notes differently.
-        - #[FN](<FN.md>) Broader adoption of RC conventions will help with inter-graph data sharing.
+        - #[N](<N.md>) Broader adoption of RC conventions will help with inter-graph data sharing.
             - Less conflicts in conventions
             - [I](<I.md>) If we develop a suite a graphs, then sharing material between them should be relatively easy.
-        - [FN](<FN.md>) Breaking things apart, so they can be put together
+        - [N](<N.md>) Breaking things apart, so they can be put together
             - **[Source](<Source.md>):**
                 - > The focus on simplicity is something I really only got when I encountered the [clojure](<clojure.md>) community - and it totally changed how I thought about building things 
 
@@ -29,16 +29,16 @@ This talk changed my definition of Design.
 
 Breaking things apart, so they can be put together
 |https://t.co/SRNOHpQGK4 ([View Highlight](https://twitter.com/Conaw/status/1362738571531063296))
-            - #[FN](<FN.md>) break things down to build new things with the pieces.[*]([atomic](<atomic.md>))
-                - #[FN](<FN.md>) the sum of the parts is greater than the whole
-        - #[FN](<FN.md>) users can review the contents of past-days' community notes to assist in [getting caught up](<getting caught up.md>) on graph highlights.[*](((Oj5U1aBXh)))
+            - #[N](<N.md>) break things down to build new things with the pieces.[*]([atomic](<atomic.md>))
+                - #[N](<N.md>) the sum of the parts is greater than the whole
+        - #[N](<N.md>) users can review the contents of past-days' community notes to assist in [getting caught up](<getting caught up.md>) on graph highlights.[*](((Oj5U1aBXh)))
             - [Q](<Q.md>) How can we make the community notes section more rich and comprehensive?
                 - [G](<G.md>) Ideally, review of the community notes would be sufficient for a user to get caught up.
                     - Missing: 
                         - Change Log
                         - Specific areas of work/thinking
         - [Q](<Q.md>) What prevents a user from distilling their ideas into [block-level tags](<block-level tags.md>)?
-            - #[FN](<FN.md>) Documenting ideas using [block-level tags](<block-level tags.md>) requires a confidence in your ideas. 
+            - #[N](<N.md>) Documenting ideas using [block-level tags](<block-level tags.md>) requires a confidence in your ideas. 
                 - [Obs](<Obs.md>) This is often exaggerated by users, often feeling they don't want to "muck up" the graph or references. 
                     - I believe this is mis-placed, and that ideas should be tagged more liberally — so that ideas as captured, making them available to build upon in the future, and for other users.
                     - [Q](<Q.md>) Can you [filter](<filter.md>) ideas at the block-level by [authorship](<authorship.md>).
@@ -61,7 +61,7 @@ Breaking things apart, so they can be put together
                 - Design an [experiment]([experiments](<experiments.md>))
                 - Collect and analyze [results](<results.md>)
                 - Construct a [conclusion]([conclusions](<conclusions.md>))
-            - #[FN](<FN.md>) The use of [block-level tags](<block-level tags.md>) to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
+            - #[N](<N.md>) The use of [block-level tags](<block-level tags.md>) to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
             - Set of [questions](<questions.md>) for scientific thinking [AoTs](<AoTs.md>)
                 - What did you observe?
                 - What is the problem?
@@ -98,18 +98,18 @@ Breaking things apart, so they can be put together
                 - Yea, I've considered the idea before. Basically applying constraints to focus the user experience for certain applications.
                 - At times, Roam's scope and potential is __too broad__ for some users to grok its value and utility. 
                 - It's only once constraints are implemented that users can "see" the value — once it's applied directly to their use-case. 
-                - #[FN](<FN.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour
-                    - #[FN](<FN.md>) more focused products have wider uptake within a given domain. [niche](<niche.md>)
-                    - #[FN](<FN.md>) collaboration and data compilation is empowered when user behaviours are constrained. [constraints](<constraints.md>)
-                        - Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[FN](<FN.md>) increased user constraints improve the feasibility of systems of collaboration.
+                - #[N](<N.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour
+                    - #[N](<N.md>) more focused products have wider uptake within a given domain. [niche](<niche.md>)
+                    - #[N](<N.md>) collaboration and data compilation is empowered when user behaviours are constrained. [constraints](<constraints.md>)
+                        - Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[N](<N.md>) increased user constraints improve the feasibility of systems of collaboration.
             - "For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective."
                 - yessssss.
-                    - #[FN](<FN.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
-                        - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) captures the spirit of [thinking out loud](<thinking out loud.md>) and [working-in-public](<working-in-public.md>).
-                        - #[FN](<FN.md>) the use of [block-level tags](<block-level tags.md>) facilitates more structured processes of thought. 
+                    - #[N](<N.md>) the use of [block-level]([block-level tags](<block-level tags.md>)) [questions](<questions.md>) invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [conclusions](<conclusions.md>) and [solutions](<solutions.md>).[*]([collaboration](<collaboration.md>))
+                        - #[N](<N.md>) the use of [block-level tags](<block-level tags.md>) captures the spirit of [thinking out loud](<thinking out loud.md>) and [working-in-public](<working-in-public.md>).
+                        - #[N](<N.md>) the use of [block-level tags](<block-level tags.md>) facilitates more structured processes of thought. 
                             - These processes can be further refined and advised by [algorithms of thought](<algorithms of thought.md>)
         4. @Charles
-            - [YES]([Bookmarks](<Bookmarks.md>)) "[FN](<FN.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
+            - [YES]([Bookmarks](<Bookmarks.md>)) "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
                 - This gets to the WHY behind many of the [conventions](<conventions.md>).
                 - [Q](<Q.md>) How do you educate users on the power or discoverability and search — and the use habits that strengthen the quality of these results?
             - This is a great description. Sub-scratchpads even, which further collect and pompile bits of related information. "They are scratchpads of one form or another." [*](((O1XunbzQI)))
@@ -158,7 +158,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
                     - and the best way to do so is by making throroughly thought-out demos of how things could be, even if simulated.
                     - We could just re-create a lot of apps in roam, but we have an opportunity here to question existing apps and create better solutions that don't repeat their flaws.
             - Related to [this tweet](https://twitter.com/samuelbars/status/1361669347513614336?s=20), UIs could be decoupled from the normal roam UI
-                - #[FN](<FN.md>) The normal roam UI is just a powerful system of free hierarchies
+                - #[N](<N.md>) The normal roam UI is just a powerful system of free hierarchies
                 - UIs for specific use cases could have reduced functionality and have special extensions activated (unique css and js features), and they would use the [normal roam graph and UI](((ZmC71tQ_R))) as a storage system.
                     - Trying to articulate this clearly.
                     - Blocks can inputed in a certain UI, but then manipulated, referenced and re-used in other tasks you do in the usual UI

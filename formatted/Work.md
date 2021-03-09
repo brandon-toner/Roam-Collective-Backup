@@ -12,6 +12,10 @@
 - **[Location](<Location.md>):** [Ann Arbor](<Ann Arbor.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
         - **[Work](<Work.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[Location](<Location.md>):** [San Diego](<San Diego.md>) [California](<California.md>)
+        - **[Work](<Work.md>):**
+
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>) -5:00)
         - **[Work](<Work.md>):**

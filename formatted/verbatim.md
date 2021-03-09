@@ -6,7 +6,7 @@
 - `#[Evergreen Notes](<Evergreen Notes.md>)` - Notes that reach a subjective sense of broad applicability and concision. - May be [verbatim](<verbatim.md>),
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- #[FN](<FN.md>) It is helpful to import [verbatim](<verbatim.md>)
+- #[N](<N.md>) It is helpful to import [verbatim](<verbatim.md>)
 
-- #[FN](<FN.md>) the benefits of having access to [verbatim](<verbatim.md>)
+- #[N](<N.md>) the benefits of having access to [verbatim](<verbatim.md>)
 

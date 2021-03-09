@@ -8,7 +8,7 @@
 - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>) and [flow state](<flow state.md>)
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
-- #[FN](<FN.md>) aligned [collaboration](<collaboration.md>) drives [flow state](<flow state.md>)
+- #[N](<N.md>) aligned [collaboration](<collaboration.md>) drives [flow state](<flow state.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - It's been particularly interesting to me the level of [flow state](<flow state.md>)

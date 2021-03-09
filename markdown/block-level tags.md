@@ -6,5 +6,5 @@
         - #I
         - #Ans
         - #Obs
-        - #FN
+        - #N
         - #LN

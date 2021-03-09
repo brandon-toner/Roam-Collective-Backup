@@ -4,7 +4,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "**RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}"
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)"
+        1. "#I Might rename [["N"-notes]] to [[claims]]... (no longer planning this)"
         2. "#Q How might [[Roam Portal]] be used in RC?"
     - #[[Bug Reports]]
         - Aliased notifications not showing up in my personal notification [query](((HN8L0n32w))) — anyone else? Solution?
@@ -14,14 +14,14 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
-        - #I Might rename [[fleeting notes]] to [[claims]]... (no longer planning this)
+        - #I Might rename [["N"-notes]] to [[claims]]... (no longer planning this)
             - Thoughts::
                 - Thats what they are... 
                 - I'm a bit concerned about various definitions and meanings associated with the term in the community. It's quite fragmented. Especially with RBCIII, there will be a large cohort of folks who use fleeting notes differently.
-        - #[[FN]] Broader adoption of RC conventions will help with inter-graph data sharing.
+        - #[[N]] Broader adoption of RC conventions will help with inter-graph data sharing.
             - Less conflicts in conventions
             - #I If we develop a suite a graphs, then sharing material between them should be relatively easy.
-        - #FN Breaking things apart, so they can be put together
+        - #N Breaking things apart, so they can be put together
             - Source::
                 - > The focus on simplicity is something I really only got when I encountered the #clojure community - and it totally changed how I thought about building things 
 
@@ -29,16 +29,16 @@ This talk changed my definition of Design.
 
 Breaking things apart, so they can be put together
 |https://t.co/SRNOHpQGK4 ([View Highlight](https://twitter.com/Conaw/status/1362738571531063296))
-            - #[[FN]] break things down to build new things with the pieces.[*]([[atomic]])
-                - #[[FN]] the sum of the parts is greater than the whole
-        - #[[FN]] users can review the contents of past-days' community notes to assist in [[getting caught up]] on graph highlights.[*](((Oj5U1aBXh)))
+            - #[[N]] break things down to build new things with the pieces.[*]([[atomic]])
+                - #[[N]] the sum of the parts is greater than the whole
+        - #[[N]] users can review the contents of past-days' community notes to assist in [[getting caught up]] on graph highlights.[*](((Oj5U1aBXh)))
             - #Q How can we make the community notes section more rich and comprehensive?
                 - #G Ideally, review of the community notes would be sufficient for a user to get caught up.
                     - Missing: 
                         - Change Log
                         - Specific areas of work/thinking
         - #Q What prevents a user from distilling their ideas into [[block-level tags]]?
-            - #[[FN]] Documenting ideas using [[block-level tags]] requires a confidence in your ideas. 
+            - #[[N]] Documenting ideas using [[block-level tags]] requires a confidence in your ideas. 
                 - #Obs This is often exaggerated by users, often feeling they don't want to "muck up" the graph or references. 
                     - I believe this is mis-placed, and that ideas should be tagged more liberally — so that ideas as captured, making them available to build upon in the future, and for other users.
                     - #Q Can you [[filter]] ideas at the block-level by [[authorship]].
@@ -61,7 +61,7 @@ Breaking things apart, so they can be put together
                 - Design an [experiment]([[experiments]])
                 - Collect and analyze [[results]]
                 - Construct a [conclusion]([[conclusions]])
-            - #[[FN]] The use of [[block-level tags]] to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
+            - #[[N]] The use of [[block-level tags]] to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
             - Set of [[questions]] for scientific thinking #AoTs
                 - What did you observe?
                 - What is the problem?
@@ -98,18 +98,18 @@ Breaking things apart, so they can be put together
                 - Yea, I've considered the idea before. Basically applying constraints to focus the user experience for certain applications.
                 - At times, Roam's scope and potential is __too broad__ for some users to grok its value and utility. 
                 - It's only once constraints are implemented that users can "see" the value — once it's applied directly to their use-case. 
-                - #[[FN]] system/[[UI]] [[constraints]] focus user behaviour
-                    - #[[FN]] more focused products have wider uptake within a given domain. #niche
-                    - #[[FN]] collaboration and data compilation is empowered when user behaviours are constrained. #constraints
-                        - Due to increased user uptake, a reduced [[learning curve]], and more homogenous user behaviour, #[[FN]] increased user constraints improve the feasibility of systems of collaboration.
+                - #[[N]] system/[[UI]] [[constraints]] focus user behaviour
+                    - #[[N]] more focused products have wider uptake within a given domain. #niche
+                    - #[[N]] collaboration and data compilation is empowered when user behaviours are constrained. #constraints
+                        - Due to increased user uptake, a reduced [[learning curve]], and more homogenous user behaviour, #[[N]] increased user constraints improve the feasibility of systems of collaboration.
             - "For example the questions are really good. Getting into the practice of turning issues/ideas into questions makes it much more inviting for others to give another answer/perspective."
                 - yessssss.
-                    - #[[FN]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])
-                        - #[[FN]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]].
-                        - #[[FN]] the use of [[block-level tags]] facilitates more structured processes of thought. 
+                    - #[[N]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])
+                        - #[[N]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]].
+                        - #[[N]] the use of [[block-level tags]] facilitates more structured processes of thought. 
                             - These processes can be further refined and advised by [[algorithms of thought]]
         4. @Charles
-            - [YES]([[Bookmarks]]) "#FN Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
+            - [YES]([[Bookmarks]]) "#N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
                 - This gets to the WHY behind many of the [[conventions]].
                 - #Q How do you educate users on the power or discoverability and search — and the use habits that strengthen the quality of these results?
             - This is a great description. Sub-scratchpads even, which further collect and pompile bits of related information. "They are scratchpads of one form or another." [*](((O1XunbzQI)))
@@ -158,7 +158,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
                     - and the best way to do so is by making throroughly thought-out demos of how things could be, even if simulated.
                     - We could just re-create a lot of apps in roam, but we have an opportunity here to question existing apps and create better solutions that don't repeat their flaws.
             - Related to [this tweet](https://twitter.com/samuelbars/status/1361669347513614336?s=20), UIs could be decoupled from the normal roam UI
-                - #[[FN]] The normal roam UI is just a powerful system of free hierarchies
+                - #[[N]] The normal roam UI is just a powerful system of free hierarchies
                 - UIs for specific use cases could have reduced functionality and have special extensions activated (unique css and js features), and they would use the [normal roam graph and UI](((ZmC71tQ_R))) as a storage system.
                     - Trying to articulate this clearly.
                     - Blocks can inputed in a certain UI, but then manipulated, referenced and re-used in other tasks you do in the usual UI

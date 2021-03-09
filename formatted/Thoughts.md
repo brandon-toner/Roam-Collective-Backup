@@ -3,7 +3,7 @@
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- #[FN](<FN.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
+- #[N](<N.md>) Blocks referenced by other users is analogous to [retweets](<retweets.md>) on [Twitter](<Twitter.md>).
         - **[Thoughts](<Thoughts.md>):**
 
 - [Draft Sprints template](((tG1HJs2dK)))
@@ -16,7 +16,7 @@
 9. Roam's upsides make up for its downsides.
         - **[Thoughts](<Thoughts.md>):**
 
-- #[FN](<FN.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
+- #[N](<N.md>) conventions with overlap in utility or lack-of-clarity of use should be flagged as `[Tensions](<Tensions.md>)` to allow for re-evaluation and resolution.
         - **[Thoughts](<Thoughts.md>):**
 
 - Idea of [prepositional linkages](<prepositional linkages.md>)
@@ -34,7 +34,7 @@
                         - **[Thoughts](<Thoughts.md>):**
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- [I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)
+- [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)
             - **[Thoughts](<Thoughts.md>):**
 
 ## [February 20th, 2021](<February 20th, 2021.md>)

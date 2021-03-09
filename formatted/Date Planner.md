@@ -33,7 +33,7 @@
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - Include a description of how to use the [Date Planner](<Date Planner.md>)
 
-- [FN](<FN.md>) The [Date Planner](<Date Planner.md>)
+- [N](<N.md>) The [Date Planner](<Date Planner.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
 - I can see a really neat blend of the [Date Planner](<Date Planner.md>),
@@ -42,7 +42,7 @@
 - Review how the [Date Planner](<Date Planner.md>)
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
-- "[FN](<FN.md>) The [Date Planner](<Date Planner.md>)
+- "[N](<N.md>) The [Date Planner](<Date Planner.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [x] Add [Date Planner](<Date Planner.md>)

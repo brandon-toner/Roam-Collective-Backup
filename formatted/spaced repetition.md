@@ -56,7 +56,7 @@
 
 - [Andy Matuschak](<Andy Matuschak.md>)'s system of [spaced repetition](<spaced repetition.md>)
 
-- #[FN](<FN.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>)
+- #[N](<N.md>) when an [evergreen note]([evergreen notes](<evergreen notes.md>)) is first created, a [spaced repetition](<spaced repetition.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Maintain familiarity through the use of [spaced repetition](<spaced repetition.md>)

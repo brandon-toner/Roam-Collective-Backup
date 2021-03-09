@@ -4,7 +4,7 @@
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) if you haven't already
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
+        - "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)"
             - ... "Found a better alternative: [propositions](<propositions.md>)"
                 - "I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. "
         - Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
@@ -19,7 +19,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
-        - "[I](<I.md>) Might rename [fleeting notes](<fleeting notes.md>) to [claims](<claims.md>)... (no longer planning this)"
+        - "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)"
             - Found a better alternative: [propositions](<propositions.md>)
                 - I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. 
                 - The tone fits perfectly — it is declarative, yet suggestive. Not overly confident in tone, simply proposing some facts, claims or assertions.
@@ -37,7 +37,7 @@
             - Instead, I've built a series of queries that auto-collect contents from elsewhere in my DNP section. 
                 - [I](<I.md>) Something similar could be added to the [community notes](<community notes.md>) section at the top.
                     - This would auto-compile ALL of the block-level tags used throughout the day by all users — and would be a great way to detect [signal](<signal.md>) in the graph.
-                        - #[FN](<FN.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>) within a [collaborative graph](<collaborative graph.md>).
+                        - #[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>) within a [collaborative graph](<collaborative graph.md>).
                             - Blocks containing a block-level tag are more likely to be signal-dense.
         - [Q](<Q.md>) How do we adjust the color/appearance of queries in CSS?
             - The black/blue feels off with the rest of the colors/theme
@@ -56,9 +56,9 @@
                     - [Q](<Q.md>) How does a [provocation]([provocations](<provocations.md>)) differ from a [proposition]([propositions](<propositions.md>))
                 - "[Q](<Q.md>) What are the metaphors we should be using to conceptualize internet spaces?"
                 - "The nature and characteristics of online and physical is converging."
-                    - #[FN](<FN.md>) Online spaces are influenced by physical spaces; physical spaces are influenced by online spaces.
-                    - #[FN](<FN.md>) Online spaces cast a vision and model of interaction that physical spaces can follow and emulate.
-                    - #[FN](<FN.md>) The internet, and online spaces, should be designed with care.
+                    - #[N](<N.md>) Online spaces are influenced by physical spaces; physical spaces are influenced by online spaces.
+                    - #[N](<N.md>) Online spaces cast a vision and model of interaction that physical spaces can follow and emulate.
+                    - #[N](<N.md>) The internet, and online spaces, should be designed with care.
                         - "The [metaphors](<metaphors.md>) we bring with us into design affect the products that we create, consciously and unconsciously." 
             - Provocation 1: "Digital societies amplify inequities existent in physical spaces"
                 - "Jad":
@@ -124,19 +124,19 @@
                     - [I](<I.md>) An algorithm of the selection of algorithms.
                 - "Technology may be able to eventually assist in the selection of tools."
                     - [I](<I.md>) Regular behaviours and patterns of documentation may be necessary for an algorithm to detect context.
-                        - #[FN](<FN.md>) Standard documentation processes and conventions may assist in algorithmic suggestions and [algorithms of thought](<algorithms of thought.md>).
+                        - #[N](<N.md>) Standard documentation processes and conventions may assist in algorithmic suggestions and [algorithms of thought](<algorithms of thought.md>).
                     - It feels quite possible to over-automate the process of algorithms of thought.
                 - **[Thoughts](<Thoughts.md>):** [*]([algorithms of thought](<algorithms of thought.md>))
-                    - #[FN](<FN.md>) Processes of thought are complex.
-                    - #[FN](<FN.md>) Processes of thought are deeply personal.
-                    - #[FN](<FN.md>) Processes of thought are adaptive to context
+                    - #[N](<N.md>) Processes of thought are complex.
+                    - #[N](<N.md>) Processes of thought are deeply personal.
+                    - #[N](<N.md>) Processes of thought are adaptive to context
                     - [Obs](<Obs.md>) Science employs [algorithms of thought](<algorithms of thought.md>).
-                    - #[FN](<FN.md>) "[augmentation](<augmentation.md>) over [automation](<automation.md>)"
+                    - #[N](<N.md>) "[augmentation](<augmentation.md>) over [automation](<automation.md>)"
                     - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) empower [flow state](<flow state.md>) writing?
                     - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) assist with [editing](<editing.md>)?
                     - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) support convergence?
                     - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) drive [creativity](<creativity.md>) and [divergence](<divergence.md>).
-                    - #[FN](<FN.md>) [algorithms of thought](<algorithms of thought.md>) should be [memetic](<memetic.md>) and adaptive.
+                    - #[N](<N.md>) [algorithms of thought](<algorithms of thought.md>) should be [memetic](<memetic.md>) and adaptive.
                     - [I](<I.md>) The degree of guidance and rigidity should vary Aot-to-Aot.
                     - "Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established."
                         - The [establishment](<establishment.md>) is a dominant frame — a shared lens. 
@@ -204,7 +204,7 @@
                         - Create the environment for uncommon ideas to bounce off of one another
                         - Take any series of concepts, and create dialogue between them.
                             - [idea sex](<idea sex.md>)
-                    - [FN](<FN.md>) There are aspects of creativity that can be programmatic and algorithmic.
+                    - [N](<N.md>) There are aspects of creativity that can be programmatic and algorithmic.
                 - Lorenzo
                     - The importance of asking the right questions.
                         - [Evergreens/A question well stated is a problem half-solved](<Evergreens/A question well stated is a problem half-solved.md>)
@@ -224,7 +224,7 @@
         - Ideas
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [I](<I.md>)}}}
         - Fleeting Notes
-            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [FN](<FN.md>)}}}
+            - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [N](<N.md>)}}}
     - [Conversation](<Conversation.md>) 
         1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On [reading choice](((BUM_0plKB))) ([Christopher Hodgkinson](<Christopher Hodgkinson.md>))
             - VERY hard to find.
@@ -234,8 +234,8 @@
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbydVOh7frE.png?alt=media&token=8f8731a1-fb73-461a-b167-fe1e3390e37b)
             - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting."
                 - Yea — she'd love it. Great historical look on education, with a focus on philosophy and morality. It's a gem.
-        2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on [fleeting notes](<fleeting notes.md>) vs [propositions](<propositions.md>) [*](((70BbCHmbe)))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
-            - I agree — "#[FN](<FN.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)"
+        2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on ["N"-notes](<"N"-notes.md>) vs [propositions](<propositions.md>) [*](((70BbCHmbe)))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
+            - I agree — "#[N](<N.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)"
             - [I](<I.md>) I think that "[flow state](<flow state.md>)" writing can take place in the form of TRUE "fleeting" notes — ones WITHOUT a [block-level tag]([block-level tags](<block-level tags.md>)) associated.
                 - THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags.
                     - In this way, the [conventions](<conventions.md>) both optimize for [flow state](<flow state.md>) writing, while being capable of [capturing](<capturing.md>) [convergent]([convergent](<convergent.md>)) insight as it precipitates.
@@ -245,8 +245,8 @@
             - Questions are special.
             - "is there any point in answering the previous question?" [*](((GofzUrNr3)))
                 - Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally.
-                    - #[FN](<FN.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process.
-                    - #[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
+                    - #[N](<N.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process.
+                    - #[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
                 - 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
@@ -258,18 +258,18 @@
         - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))"
         - "Roam Research: [algorithms of thought](<algorithms of thought.md>) [Clubhouse](<Clubhouse.md>)"
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        - "#[FN](<FN.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour" which means that
-            - [FN](<FN.md>) The design and features of our tools influence our behavior and type of attention
-                - [FN](<FN.md>) We take cues from our environment to adapt our behavior, often unconsciously
+        - "#[N](<N.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour" which means that
+            - [N](<N.md>) The design and features of our tools influence our behavior and type of attention
+                - [N](<N.md>) We take cues from our environment to adapt our behavior, often unconsciously
                     - An obvious example is social media. It is engineered to increase our time on the app, and increase ad revenue.
                         - [Obs](<Obs.md>) some of the behaviors that emerged on social media were probably not expected/designed, they were rather a side effects of the tool's design and social phenomena.
                             - Especially thinking about communities
                                 - politics twitter, arguing-about-everything-twitter, polarity, division
                                 - money twitter, people leveraging the algorithm and self-reinforcing communities to make money, echo chambers, content substance matters less than the validation of others in the community
                                 - Roamcult, one product kickstarting huge activity in tools for thought space, memex twitter (QT and threads) with connor/visakanv/many others, twitter becoming an intellectual caffe
-                            - [FN](<FN.md>) The design and functionality of social platforms has unexpected influence on user/group behavior
+                            - [N](<N.md>) The design and functionality of social platforms has unexpected influence on user/group behavior
                         - [Q](<Q.md>) How much of our behavior depends on our environment and tools, versus our internal frames, initiatives, desires, and other internal drivers?
-                    - [FN](<FN.md>) Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
+                    - [N](<N.md>) Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
                         - [Q](<Q.md>) If decision-making is consciously choosing an option, how do we name the process of making the endless "decisions" we're not even aware we do all the time, like which muscles to activate to make a step forward?
                             - Unconscious/Unaware decision making?
                         - How does attention relate to that? 
@@ -279,7 +279,7 @@
                                         - Which introduced FOMO?
                                             - There's always something else to check __out there__, not here, and I can get there **very** easily. Why stay where I am? It might be better there, there might be something/surprising/interesting, there might be something better. It's definitely going to be **new**
                                     - Others talk about media, television
-                - "Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[FN](<FN.md>) increased user constraints improve the feasibility of systems of collaboration."
+                - "Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[N](<N.md>) increased user constraints improve the feasibility of systems of collaboration."
         - #[LN](<LN.md>) [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) 9.3 Give Each Task the Right Kind of Attention (p. 61)
             - The examples here are in writing.
                 - Proofreading and writing require a very different kind of attention
@@ -303,14 +303,14 @@
             - ^ "All these are not just different tasks, but tasks requiring a different kind of attention."
     - [Conversation](<Conversation.md>)
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) About [block level tags](((Spljfcp-2)))
-            - [FN](<FN.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
+            - [N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - They see a question, with a fleeting notes as an answer underneath. They might think the question is good, but they think there is a better answer. Now they can just reference the question and give their answer.
                     - This is simple but it's magic.
-                - [FN](<FN.md>) [block-level tags](<block-level tags.md>) allow you to choose where to respond to others, at any step of their thought process. 
+                - [N](<N.md>) [block-level tags](<block-level tags.md>) allow you to choose where to respond to others, at any step of their thought process. 
                     - Maybe you think their claim is good but it raises a question they haven't thought of asking, or they ask a good question but you have another answer that the one they gave
                 - [Q](<Q.md>) Could this formalization of communicating thought keep us stuck in ways of thinking that make us miss the point, make us slower, or keep us from more fluid conversation?
-                    - [FN](<FN.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
-                        - [FN](<FN.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
+                    - [N](<N.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
+                        - [N](<N.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
                             - Related to Expert vs Planner chapter in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>)
         - [@Charles]([^[[Charles Farr](<^[[Charles Farr.md>)]]) YES on [this](((6Zr6IVjYs))) and [this](((puGpUyLbs)))
             - Practically, how would you make the demo? Drawing the chat interface on figma/some other design tool and putting some mock data in roam? 
@@ -347,7 +347,7 @@
         - On [resurfacing](<resurfacing.md>) of [questions](<questions.md>)
             - "Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally."
                 - And if a question is more pressing it can be made to a task so that we have control on when to address it rather than hoping to stumble on it.
-        - "#[FN](<FN.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process."
+        - "#[N](<N.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process."
             - [Books/Atomic Habits](<Books/Atomic Habits.md>) quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works.
         - Code inspired dependency management
             - "[*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. "
@@ -371,11 +371,11 @@
     - [Conversation](<Conversation.md>)
         1. Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
-        2. [claims](<claims.md>) vs [fleeting notes](<fleeting notes.md>) vs [preposition](<preposition.md>)
+        2. [claims](<claims.md>) vs ["N"-notes](<"N"-notes.md>) vs [preposition](<preposition.md>)
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]), [On Claims](((KS6457gQP))) I will need to find the exact section of the book, but we discussed this last week at a reading (unfortunately not recorded). Some claims can be fleeting notes, but the converse is not necessarily true. From the original definition, I think we have been using the scratch book as a list of fleeting notes and then sorting some of them into claims. Most of the current fleeting notes are claims but fleeting notes $$\neq$$ claims.
                 - Additionally, [On adoption of standards](((ct3Iw8fLY))) I think the next wave of Zettelkasten users will mostly be influenced by Beau's design given that he is running the RBC III. [cc:Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
                 - On top of this it is worth considering what I have been repeating to anyone I zoomed about Zettelkasten development. In order to yield the greatest output it is important to have a personalised system that meets our needs.
-                    - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [FN](<FN.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
+                    - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [N](<N.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
                     - "THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags."
                     - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])[On Questions](((U8aJOgOcc))) [Q](<Q.md>) Are `[Q](<Q.md>)` convergent or divergent? and is there any point in answering the previous question?
                     - ---
@@ -391,7 +391,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - Book: Administrative Philosophy
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)"
-        - "#[FN](<FN.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>)."
+        - "#[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>)."
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>)

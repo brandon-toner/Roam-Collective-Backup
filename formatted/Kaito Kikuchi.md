@@ -2,9 +2,10 @@
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** [@kickingkite](https://twitter.com/kickingkite)
         - **[Website](<Website.md>):** [kaito.co]()https://www.kaito.co/)
-        - **[Location](<Location.md>):** [San Diego, CA](<San Diego, CA.md>)
+        - **[Location](<Location.md>):** [San Diego](<San Diego.md>) [California](<California.md>)
+        - **[Work](<Work.md>):** PhD Candidate in quantitative microbiology at [University of California, San Diego](<University of California, San Diego.md>)
         - **[Time Zone](<Time Zone.md>):** Pacific Standard Time
-    - **Online Status:**  {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
+    - **Online Status:**  {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
 - ---
 - **Personal SmartBlocks:**
     - .rcDNP kaitochondria — Daily Notes Template [42SmartBlock](<42SmartBlock.md>)

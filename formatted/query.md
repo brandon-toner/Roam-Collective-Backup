@@ -153,7 +153,7 @@
 
 - [min-all](<min-all.md>) {{[query](<query.md>):
 
-- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [N](<N.md>) {not: [query](<query.md>)}
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
@@ -206,7 +206,7 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
-- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [FN](<FN.md>) {not: [query](<query.md>)}
+- [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [N](<N.md>) {not: [query](<query.md>)}
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
@@ -333,7 +333,7 @@
 - {{[query](<query.md>):
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[FN](<FN.md>) The ability to easily [query](<query.md>)
+- #[N](<N.md>) The ability to easily [query](<query.md>)
 
 - "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>):
 
@@ -489,7 +489,7 @@
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [FN](<FN.md>) {not: {or: [query](<query.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [N](<N.md>) {not: {or: [query](<query.md>)
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 

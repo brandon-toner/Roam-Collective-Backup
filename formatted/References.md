@@ -152,11 +152,15 @@
                 - **[References](<References.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- #[FN](<FN.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).
+- #[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).
                     - **[References](<References.md>):**
 
 - **[Status](<Status.md>):** Not yet included in conventions
             - **[References](<References.md>):**
+
+## [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)
+- **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
+    - **[References](<References.md>):**
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
 - **[Author](<Author.md>):** Adapted from Charles' block-level question.

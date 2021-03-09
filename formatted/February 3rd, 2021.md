@@ -57,8 +57,8 @@
                     - Or if you're feeling creative you can go off the list to add something unique.
                 - Inspired by [Larissa's status updates](((JnHKrrTPC)))
     - #[The Zettelkasten](<The Zettelkasten.md>) 
-        - #[FN](<FN.md>) [curation](<curation.md>) is an essential activity within a collaborative graph community. 
-            - Building on "#[FN](<FN.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight"
+        - #[N](<N.md>) [curation](<curation.md>) is an essential activity within a collaborative graph community. 
+            - Building on "#[N](<N.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight"
             - To assemble a puzzle you need to make sure you've gathered the related pieces. [Metaphors](<Metaphors.md>)
                 - 1) Create ideas (pieces) -- divergence / brainstorming
                 - 2) Gather related ideas -- collection / curation
@@ -78,8 +78,8 @@
                 - No rush! Great to see you check in even as a one-liner haha. [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
         2. Outgoing messages:
             - [~[[Charles Farr](<~[[Charles Farr.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] thoughts on [this](((P9-3EG6BG)))?
-        3. Charles on [fleeting notes](<fleeting notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
-            - "[Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?"
+        3. Charles on ["N"-notes](<"N"-notes.md>) vs [seedlings](<seedlings.md>) [maturity](<maturity.md>)
+            - "[Q](<Q.md>) What differentiates ["N"-notes](<"N"-notes.md>) and [seedlings](<seedlings.md>)?"
                 - Seedlings are more "on the path towards" evergreen. 
                 - Fleeting notes are more chaotic, a bit less polished and concise.
                 - The objective difference I would propose would be page-status. [~[[Charles Farr](<~[[Charles Farr.md>)]]
@@ -166,7 +166,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
     - #[Scratchpad](<Scratchpad.md>) 
-        - "#[FN](<FN.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph."
+        - "#[N](<N.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph."
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
         - "#[GTD Zone](<GTD Zone.md>)"
         - https://twitter.com/CharlesSimsFarr/status/1356718270460624896?s=20
@@ -178,8 +178,8 @@
             - 1 + 1 =3 comment in children of time
             - problem created by math mentioned in Humble Pi
         - #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>) Explore [Wikipedia](<Wikipedia.md>)'s [conventions](<conventions.md>) as inspiration for components to emulate for [RC](<RC.md>)."
-        - #[Follow Up](<Follow Up.md>) "#[FN](<FN.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
-            - "#[FN](<FN.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
+        - #[Follow Up](<Follow Up.md>) "#[N](<N.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)"
+            - "#[N](<N.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users"
             - how do I use `[Reply](<Reply.md>)` and `[Reply-from](<Reply-from.md>)`
     - [Conversation](<Conversation.md>) 
         - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
@@ -503,7 +503,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - https://twitter.com/calhistorian/status/1357033240507256832?s=20
                 - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
                     - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [^[[Brandon Toner](<^[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>) for...
-                - #[FN](<FN.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight
+                - #[N](<N.md>) [Curation]([curation](<curation.md>)) is a form of [synthesis](<synthesis.md>), combining the viewpoints of others to elucidate insight
         - Current gaps in onboarding & internal documentation #[Follow Up](<Follow Up.md>)
             - Philosophy of Roam Collective — mission statement, divergence → convergence → divergence, projects & goals
             - Convention encyclopedia 
@@ -513,7 +513,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - On Peter Russo's glorious wave & double-diamond analogies'
             - [Peter Rosso](<Peter Rosso.md>) the analogies [here](((In94jaGXw))) are incredible!
                 - I think that developing a library of [exercises](<exercises.md>) / [activities](<activities.md>), both [synchronous](<synchronous.md>) and [asynchronous](<asynchronous.md>), could be an incredible use case for use internally and to share externally
-                    - #[FN](<FN.md>) Implementing synchronous & asynchronous writing [exercises](<exercises.md>) throughout the [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>) better support the goals of each cycle
+                    - #[N](<N.md>) Implementing synchronous & asynchronous writing [exercises](<exercises.md>) throughout the [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>) better support the goals of each cycle
                         - Exercises to support divergent thinking 
                             - Synchronous
                                 - ...
@@ -529,14 +529,14 @@ These users would have far better outcomes if they simply operated at or slightl
         - "[Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)"
             - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
                 - "Why is maturity important?"
-                    - ""#[FN](<FN.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))""
+                    - ""#[N](<N.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))""
                     - ""We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<Evergreens/low floor, high ceiling.md>) [zettelkasten](<zettelkasten.md>)! [Bookmarks](<Bookmarks.md>)""
                 - "How can you implement maturity?"
                     - ""For instance: `[Ideas](<Ideas.md>)` → `[InProgress](<InProgress.md>)` → `[Completed](<Completed.md>)`""
                         - "Or: `[Fleeting](<Fleeting.md>)` → `[Permanent](<Permanent.md>)`"
                         - "Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`"
                 - **["References](<"References.md>):**"
-                    - ""#[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).""
+                    - ""#[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).""
                         - **[""Example](<""Example.md>):** If some terms is used widely by a particular person but his thoughts is not wide spread in the community, then it implicates that the term he/she use is not good enough or he/she didn’t provide enough context for that term. It’s good for personal I usage, but not publicly.""
                         - ""**Therefore**, those true but less acceptance terms are not necessarily turned into a page as soon as it comes up.""
                     - ""Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph""
@@ -570,7 +570,7 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""get the idea down on "paper"""
                                     - ""mark it as an "immature" evergreen or some such""
                                     - ""then have a process that forces you to return and mature it... ""
-                    - ""#[FN](<FN.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>). That is simply entry into the tier. ""
+                    - ""#[N](<N.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>). That is simply entry into the tier. ""
                     - ""Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>)) [Conventions](<Conventions.md>) ""
                     - ""Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))""
                         - **[""Related](<""Related.md>):**""
@@ -592,7 +592,7 @@ These users would have far better outcomes if they simply operated at or slightl
                                     - ""[Q](<Q.md>) How do you differentiate title authorship from body authorship?""
                                         - ""For the purposes of avoiding [plagarism](<plagarism.md>) and generating accurate [references](<references.md>).""
                             - ""On [order](<order.md>) of notes within the [zettelkasten](<zettelkasten.md>):""
-                                - ""#[FN](<FN.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>) matters as much as the content of the notes themselves.""
+                                - ""#[N](<N.md>) [Sonke Ahrens](<Sonke Ahrens.md>) describes that the order of notes within a [zettelkasten](<zettelkasten.md>) matters as much as the content of the notes themselves.""
                                 - ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'s expression of [zettelkasten](<zettelkasten.md>).""
                                 - ""[Q](<Q.md>) How can the order of notes within the zettelkasten be represented in this emerging system?""
                                     - ""The [block referenced aspects](((Kq6jZZIYI))) of the zettelkasten note template proposed by [Charles Farr](<Charles Farr.md>) may be of use here.""
@@ -619,15 +619,15 @@ These users would have far better outcomes if they simply operated at or slightl
                             - ""[Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?""
                                 - **[""Related](<""Related.md>):** ""
                                     - """[Q](<Q.md>) How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"""
-                                    - """#[FN](<FN.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>)."""
+                                    - """#[N](<N.md>) [evergreen notes](<evergreen notes.md>) and [zettel questions](<zettel questions.md>) should be very familiar to group members to facilitate their frequent tagging in related [resources](<resources.md>), [ideas](<ideas.md>) and [discussions](<discussions.md>)."""
                                     - """Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"""
                                     - """My preference is to limit it to a parent-level tag and then a block level tag"""
                             - ""[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?""
                         - **[""Process](<""Process.md>):** [*]([Processes](<Processes.md>))""
-                            - ""Document ideas freely as [fleeting notes](<fleeting notes.md>)""
+                            - ""Document ideas freely as ["N"-notes](<"N"-notes.md>)""
                             - ""[literature notes](<literature notes.md>) or [verbatim notes](<verbatim notes.md>) are representations of the author's ideas.""
                                 - ""OK to be verbatim — these should be quick & easy! ""
-                                    - ""#[FN](<FN.md>) The need for originality adds [cognitive burden](<cognitive burden.md>).""
+                                    - ""#[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).""
                                 - **[""References](<""References.md>):**""
                                     - ""https://twitter.com/syncretizm/status/1355812313505230852?s=21""
                             - ""As ideas begin to feel [evergreen](<evergreen.md>), a page should be created.""
@@ -683,7 +683,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - ""Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions**" 🛠 Categorizing questions: "
             - Continued building a directory of questions, as a first step on aggregating and prioritizing (for when we are ready for [convergence](<convergence.md>))
             - Requests from community: please feel free to contest choices and groupings made!
-        - #[FN](<FN.md>) Scoping is a key step for prioritization and getting things done
+        - #[N](<N.md>) Scoping is a key step for prioritization and getting things done
             - Think this is also very tied to GTD philosophy
             - The proliferation of new content in Roam creates two key challenges
                 - How to prioritize base on what has the greatest need?
@@ -774,7 +774,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - (low priority) On further exploring building "operationability" among atomic units and building blocks
             -  "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] I am so curious now."
                 - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
-                    - "#[FN](<FN.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
+                    - "#[N](<N.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals"
             - "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
                 - [~[[leekeifon](<~[[leekeifon.md>)]] awesome!  it's been quite a while since I've immersed in math so wasn't sure if I was using the right terms; saw that you are into math so was going to ask you for your reactions on whether it made sense :)
     - [Feedback](<Feedback.md>) 

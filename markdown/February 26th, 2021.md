@@ -2,7 +2,7 @@
     - #[[Daily Activities]] #not-populated
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#FN Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]]."[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
+        1. "#N Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]]."[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
     - #[[The Zettelkasten]]
         - {{Today + Obs:42SmartBlock:Today + Obs}}
         - **Questions:** 
@@ -26,12 +26,12 @@
     - #Scratchpad 
         - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
             - #Q What is the role of [[prompts]] in knowledge base accumulation?
-            - #[[FN]] When 2 or more people desire the same thing, there is an opportunity for [[collaboration]] and resource-sharing.
+            - #[[N]] When 2 or more people desire the same thing, there is an opportunity for [[collaboration]] and resource-sharing.
                 - [["many hands make light work"]]
             - #Q How might you [crowdsource]([[crowdsourcing]]) [[synthesis]]?
                 - #Obs Multiple conclusions may be drawn from the same set of data.
-                    - #therefore "#[[FN]] Divergence can and should occur in the crowdsourcing of synthesis."
-                        - #[[FN]] Divergence can and should occur in the crowdsourcing of synthesis.
+                    - #therefore "#[[N]] Divergence can and should occur in the crowdsourcing of synthesis."
+                        - #[[N]] Divergence can and should occur in the crowdsourcing of synthesis.
                         - #Q How might alternate versions of [[synthesis]] be managed in a collaborative knowledge base?
             - #Q How should discourse around [[claims]] and [[assertions]] be conducted?
                 - Argument: Claims, Reasons, Evidence | Department of Communication | University of Pittsburgh
@@ -73,15 +73,15 @@
                     - Exploration of the resources for main ideas.
                     - Create linkages between existing ideas within a domain.
                     - Formation of new ideas or syntheses within a domain.
-                - #[[FN]] There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
-                    - #[[FN]] Before creating on a subject, a writer should be familiar with existing ideas and assertions.
-                    - #FN Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]].
+                - #[[N]] There are many pre-requisite activities a group should engage in BEFORE attempting to synthesize novel ideas.
+                    - #[[N]] Before creating on a subject, a writer should be familiar with existing ideas and assertions.
+                    - #N Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]].
                         - But, synthesis may be a **natural byproduct** of exploration of a domain — and these fleeting propositions should be captured as they occur. 
                             - Capturing these (potentially naive) ideas and propositions is valuable despite their unlikelihood of being novel. 
                                 - They become hypotheses to strive to disprove/validate. 
-                                    - #[[FN]] A [claim]([[claims]]) cannot be validated, only disproven or falsified.[*]([[science]])
+                                    - #[[N]] A [claim]([[claims]]) cannot be validated, only disproven or falsified.[*]([[science]])
                                     - The stated proposition can be used to drive further questions, furthering the [[research]] [flywheel]([[Flywheels]]).
-                            - #[[FN]] learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
+                            - #[[N]] learning and exploration of existing knowledge within a domain should take priority over attempting to contribute novel knowledge to a field.
                                 -  
         - [[David Vargas]] on [[backlogs]]
             - Tweets::

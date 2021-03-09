@@ -88,8 +88,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - #[[Roam Enhancement Requests]]
             - Ability to see "blocks of mine that were reacted to or referenced by other users" — this would aid with [[notifications]].
                 - I want to know, without relying on serendipitous discovery, that someone referenced one of my blocks somewhere, or reacted with an emoji. 
-                    - #[[FN]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
-                    - #[[FN]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
+                    - #[[N]] [Emoji reactions]([[emoji reactions]]) are almost like [[likes]] in other social platforms. 
+                    - #[[N]] Blocks referenced by other users is analogous to [[retweets]] on [[Twitter]].
         - Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])
             - **Methods:**
                 - Via block ref count

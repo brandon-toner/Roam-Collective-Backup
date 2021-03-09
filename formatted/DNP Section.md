@@ -22,10 +22,10 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- #[FN](<FN.md>) Displaying word counts on each [DNP Section](<DNP Section.md>)
+- #[N](<N.md>) Displaying word counts on each [DNP Section](<DNP Section.md>)
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
-- #[FN](<FN.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>))
+- #[N](<N.md>) The addition of a unique identifier to the [DNP Section]([DNP Section](<DNP Section.md>))
 
 ## [Help Wanted](<Help Wanted.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)

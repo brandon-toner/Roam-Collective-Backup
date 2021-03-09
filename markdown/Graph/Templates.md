@@ -212,7 +212,7 @@
                         - {{[[query]]: {and: [[ex-A]] {or: [[Q]] [[Questions]]}}}} #minimal
                 - Relevant Notes:: #not-populated ((Replace ex-A with the sprint page name))
                     - Query::
-                        - {{[[query]]: {and: [[ex-A]] {or: [[E:]] [[FN]] [[I]] [[Literature Notes]]}}}} #minimal
+                        - {{[[query]]: {and: [[ex-A]] {or: [[E:]] [[N]] [[I]] [[Literature Notes]]}}}} #minimal
                 - Tasks:: #not-populated ((Replace ex-A with the sprint page name))
                     - Query:: 
                         - {{[[query]]: {and: [[ex-A]] [[TODO]]}}}

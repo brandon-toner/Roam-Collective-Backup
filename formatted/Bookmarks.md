@@ -80,6 +80,9 @@
 
 - **[Related](<Related.md>):** The idea of [depth-first leadership](<depth-first leadership.md>) -- with each member going as far as they can see on any given idea.[*]([Bookmarks](<Bookmarks.md>))
 
+## [March 8th, 2021](<March 8th, 2021.md>)
+- [~[[Kaito Kikuchi](<~[[Kaito Kikuchi.md>)]] on [what does one even do here lol](((RKEbGdx60))) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])[*]([Bookmarks](<Bookmarks.md>))
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**

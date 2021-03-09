@@ -5,7 +5,7 @@
 
 # Backlinks
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- #[FN](<FN.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>)
+- #[N](<N.md>) A test for strength of [conventions](<conventions.md>): Are categories [mutually exclusive](<mutually exclusive.md>)
 
 - [Q](<Q.md>) What conventions should be [mutually exclusive](<mutually exclusive.md>)?
 

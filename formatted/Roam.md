@@ -8,7 +8,7 @@
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
 - "[Roam](<Roam.md>),
 
-- "#[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- "#[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - [Roam](<Roam.md>)
@@ -25,10 +25,10 @@
 ## [February 24th, 2021](<February 24th, 2021.md>)
 - ""[Roam](<Roam.md>),
 
-- ""#[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- ""#[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>),
@@ -39,7 +39,7 @@
 - This is where I see [Roam](<Roam.md>)'
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- #[FN](<FN.md>) Watching others use [Roam](<Roam.md>)
+- #[N](<N.md>) Watching others use [Roam](<Roam.md>)
 
 - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
 
@@ -77,7 +77,7 @@
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)?
 
-- #[FN](<FN.md>) A community centered around [screenshot essays](<screenshot essays.md>) and a daily [writing](<writing.md>) habit, nested within the [Roam](<Roam.md>)
+- #[N](<N.md>) A community centered around [screenshot essays](<screenshot essays.md>) and a daily [writing](<writing.md>) habit, nested within the [Roam](<Roam.md>)
 
 - The UI design [example](((lRBaD3yYL))) from [Mark Robertson](<Mark Robertson.md>) really show us the limitless possibility that what [Roam](<Roam.md>)
 
@@ -102,7 +102,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [These](((CCODMMO6j))) were captured using [Memex](<Memex.md>). They have a [customizable](<customizable.md>) [copy-paster](<copy-paster.md>) that is excellent for getting information into [Roam](<Roam.md>)
 
-- #[FN](<FN.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
+- #[N](<N.md>) the benefits of having access to [verbatim](<verbatim.md>) passages offers an argument for being able to easily import [full-text](<full-text.md>) into [Roam](<Roam.md>).
 
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - I started using [Roam](<Roam.md>)

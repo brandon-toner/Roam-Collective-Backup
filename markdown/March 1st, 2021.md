@@ -46,7 +46,7 @@
                             - The [[RC/conversation conventions]] here allow for you to effectively run with the ball.
                                 - Related:: The idea of [[depth-first leadership]] -- with each member going as far as they can see on any given idea.[*]([[Bookmarks]])
                                     - Is this a real concept, I first heard it mentioned by [Larissa]([[@[[Larissa de Lima]]]]) but can't find a reference... Maybe I misunderstood it at the time.. but I like the idea hahah. 
-                                - #FN Traditional [[chat]] interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
+                                - #N Traditional [[chat]] interfaces truncate conversational potential by the restricting user's ability to "go off on a tangent" and their ability to link related ideas together.
             - #I We need a keyword for the conversation convention lol... I feel the need to compile discussions on this recurring topic...
                 - [[RC/conversation conventions]] -- kinda like the RC namespace for this sort of thing... [@Charles]([[~[[Charles Farr]]]])
             - 
@@ -161,7 +161,7 @@
         - Thoughts on [[in-graph chat]], in-graph snail-mail, and the idea of [[velocity of conversation]]
             - In [[Books/The Culture Code]] author [[Dan Coyle]] mentions that one way to understand the strength of a community is to evaluate the [[velocity of learning]]. Communities with a high velocity of learning are generally stronger.
             - In our experience here, conversation and discussion is a real driver of thought, refinement, and synthesis. I would say that strong conversation (and thinking in public) really accelerates the [[velocity of learning]] (both individually and as a community).
-                - #FN The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]
+                - #N The [[velocity of conversation]] within a community is strongly correlated with the [[velocity of learning]]
             - However, the nature of our communication is the [energy required]([[activation energy]]) is higher than other forms communication, such as Slack.
                 - As [[Brandon Toner]] rightly [points out](((iexsCPofn))), the fact that communication is slower forces us as a community to better structure what we're sharing, aiding with overall synthesis. I believe that the conventions of the `#Conversation` section are very effective at doing this.
                     - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.

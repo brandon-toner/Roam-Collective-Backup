@@ -57,7 +57,7 @@
                     - Vision:: Ability to reference the [[Urbit]] [[chat]] in [[Roam]], and Roam blocks in the Urbit chat.
                 - Future synchronous writing sessions like in [[Roam Book Club]]
                     - Live call to discuss active [[projects]], launch or work on [[sprints]], and to collectively reflect on prompts related to those projects or sprints.
-                        - Related:: "#[[FN]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
+                        - Related:: "#[[N]] "cycles" of [[brainstorming]] and reflecting — then [[compiling]] and [[summarizing]] could be coordinated by community moderators to get closer and closer to understanding and [[truth]]."
                 - Potential of using [[SmartBlocks]] to curate a [[newsfeed]] at the top of the page each day... random blocks, etc.
         - Free Thoughts::
             - #[[Questions]]
@@ -127,12 +127,12 @@
         - [[Robert Haisfield]] on [[structure]] in [[Roam]] #conventions #[[Tweet Threads]]
             - URL:: https://twitter.com/roberthaisfield/status/1354843146455109635?s=21
     - #[[The Zettelkasten]] 
-        - #[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [[fleeting notes]] are to [[evergreen notes]]. #zettelkasten
+        - #[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [["N"-notes]] are to [[evergreen notes]]. #zettelkasten
             - #[[Q]] what are the [[literature notes]] of [[questions]]? 
         - #[[Fleeting Notes]] Shared graphs are more effective teaching tools than [[Roam Tour]]s
             - Ok... maybe not "__better__" but different and complimentary!
             - Related:: 
-                - "#[[FN]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. "
+                - "#[[N]] A [collaborative graph]([[collaborative graphs]]) is an excellent [[learning]] arena for a newer [[Roam user]]. "
                 - Learning through observation and participation. Active learning.
         - #I [[Memex]] [[copy-paster]] could be used for bringing [[highlights]] and page metadata into Roam & for building [[reference notes]]
     - #Promptstorming 
@@ -148,8 +148,8 @@
                     - .... That being said... there are a TON of tags and pages missing right now, so we should hold off until things restore appropriately. 
 
 I may have to upload the backup.
-        - "Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?"
-            - I'll draw something out on this to further clarify, but in this expression [[fleeting notes]] are NOT based on the literature, and [[literature notes]] are based on some source material. #zettelkasten #Processes #Conventions #[[Follow Up]] [[^[[Brandon Toner]]]]
+        - "Seems like it's missing a step where [[literature notes]] inform/strengthen [["N"-notes]] or would that happen at the [[creative projects]] phase?"
+            - I'll draw something out on this to further clarify, but in this expression [["N"-notes]] are NOT based on the literature, and [[literature notes]] are based on some source material. #zettelkasten #Processes #Conventions #[[Follow Up]] [[^[[Brandon Toner]]]]
                 - Both could contribute to the development of [[evergreen notes]], being listed under `References` on the [[EN]] note page. (OPTIONAL)
                     - As indicated [here](References:: #not_populated ((Supporting fleeting notes or literature notes would go here))) in the template
                 - Both could ALSO contribute to [[creative projects]]. Any notes within the [[zettelkasten]] can be used to support ideas within a creative project. (OPTIONAL)
@@ -178,7 +178,7 @@ Resolve by "[[replace as text]]"
 - #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}} 
     - #[[Conversation]]
         - "[[^[[Charles Farr]]]], [[~[[Matthew Vogel]]]] -- do the above notes make sense? What parts need more clarity? "[[zettelkasten]] #Processes #Overview""
-            - Seems like it's missing a step where [[literature notes]] inform/strengthen [[fleeting notes]] or would that happen at the [[creative projects]] phase?
+            - Seems like it's missing a step where [[literature notes]] inform/strengthen [["N"-notes]] or would that happen at the [[creative projects]] phase?
         - [[~[[leekeifon]]]] [That sounds very interesting](((-vJfNui_K)))... Can you expand on what you see as the differences between inner chat and outside chat and the overall use of such a distinction?
             - [[~[[leekeifon]]]] Sounds like you're talking about [Personas](((-vJfNui_K))), have you taken a look at Persona styled tags to label those inner voices? [Antar](((bO-o1wmpp))) looks to be doing something similar
                 - {{[[embed]]: ((EZzT3MAmv))}}
@@ -194,7 +194,7 @@ Resolve by "[[replace as text]]"
             - distinguish private feed and public feed.
                 - Though there’s no ‘private’ in Roam database, but the idea of ‘private’ is just hiding the complexity from the public.
         - Some **concept** on Roam collaboration comes up these days...
-            - #[[FN]] Roam {X} protocol
+            - #[[N]] Roam {X} protocol
                 - **For example**, Roam publish protocol, Roam communicate protocol
                 - **Explanation**: From the computer network’s perspective, all computers should obey some protocols before they can communicate. So, we need to set up a set of minimal 
             - Roam reputation system

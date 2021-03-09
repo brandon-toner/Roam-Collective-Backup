@@ -80,11 +80,11 @@
         - Peter on [waves](<waves.md>), signal, and synchronous engagement. [*](((e5szI-YDO)))
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
-        - #[FN](<FN.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph.
+        - #[N](<N.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>) activity phases can co-exist within a collaborative graph.
             - While converging ideas around a particular activity, more new ideas are likely to arise. 
-                - #[FN](<FN.md>) [convergence](<convergence.md>) is a [lens]([lenses](<lenses.md>)). [*](((yDP-gHQj9)))
+                - #[N](<N.md>) [convergence](<convergence.md>) is a [lens]([lenses](<lenses.md>)). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
-                    - #[FN](<FN.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
+                    - #[N](<N.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
     - [Conversation](<Conversation.md>) 
         1. On "1000 upvotes"
             - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? "
@@ -188,7 +188,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  
     [Scratchpad](<Scratchpad.md>) 
         - 🛠 IN PROGRESS - RETURN LATER
-            - #[FN](<FN.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
+            - #[N](<N.md>) Creating a symbolic language or user interface that allows ease in "performing operations" on atomic claims would be analogous to inventing hindu-arabic numberals
                 - Epistemic status: I know this is a bold claim!! 😜 it's a strongly held intuition - but one that seems almost axiomatically true to me?  Also feels very "zeitgeist"-y?  Would love to discuss if someone believes in the counter.  
                     - As a sidenote, this belief is actually the reason I became excited with Roam in the first place, and exploring what "performing operations" on thought/language could mean is part of my personal motivation in joining the Roam Collective, so might as well come clean about it  
                 - Arguments:
@@ -272,12 +272,12 @@ I think I need to go through the whole process to make sure I internalise it.
                         - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
                     - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
-            - "#[FN](<FN.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
+            - "#[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
                 - This is really striking at something
                 - The challenge is - how does one define acceptance of a term? 
-                    - #[FN](<FN.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
+                    - #[N](<N.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
                         - This is analogous to applying heat to molecules to create structure 
-                        - #[FN](<FN.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
+                        - #[N](<N.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
                             - It is costly to:
                                 - (re: basis) have a (sufficient) basis of shared context
                                 - (re: process) share mental models asynchronously 
@@ -290,7 +290,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     #[Meetings & Discussions](<Meetings & Discussions.md>)
         - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) "
-            - "#[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes"
+            - "#[N](<N.md>) Community Notes are an Extension of Evergreen Notes"
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -319,14 +319,14 @@ I think I need to go through the whole process to make sure I internalise it.
                     - Outline
                     - Community
                 - ## Associated Questions
-                    - [Q](<Q.md>) What differentiates [fleeting notes](<fleeting notes.md>) and [seedlings](<seedlings.md>)?
+                    - [Q](<Q.md>) What differentiates ["N"-notes](<"N"-notes.md>) and [seedlings](<seedlings.md>)?
                     - [Q](<Q.md>) How does the impact of community participation/review/contribution impact maturity of an idea?
                     - [Q](<Q.md>) How do you differentiate a collection and an outline?
                         - [Q](<Q.md>) How do collections and outlines support [convergence](<convergence.md>)?
         - Background on the [zettelkasten](<zettelkasten.md>)
             - [Evergreens](<Evergreens.md>) [Q](<Q.md>) What is a Zettelkasten?
                 - At its core, a zettelkasten is a store of knowledge. Over time, it accumulates new bits and connections, reflecting the learnings of the individual (or community).
-                    - #[FN](<FN.md>) A [zettelkasten](<zettelkasten.md>) is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
+                    - #[N](<N.md>) A [zettelkasten](<zettelkasten.md>) is both an artifact and a process; that nature of knowledge is such that the process of building one never really ceases
                 - Translating the German word "Zettelkasten" means Slipbox. Its originator, [Nicolas Luhmann](<Nicolas Luhmann.md>), was a sociology professor who built a slipbox over decades, enabling him to publish prodigiously. 
                     - [Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>), working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
@@ -382,7 +382,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - Stronger foundations of shared experiences so people can work on that
             - Brandon
                 - The last week has been very divergent — now lets take a couple of days to be convergent
-            - #[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes
+            - #[N](<N.md>) Community Notes are an Extension of Evergreen Notes
                 - #[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on...
     - #[Change Log](<Change Log.md>)
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
@@ -415,19 +415,19 @@ I think I need to go through the whole process to make sure I internalise it.
             - I’m in [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]]
             - Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
     - #[Scratchpad](<Scratchpad.md>)
-        - #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+        - #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
             - **[Related](<Related.md>):** [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
-            - **[Related](<Related.md>):** "#[FN](<FN.md>) block-embed [model](<model.md>)"
+            - **[Related](<Related.md>):** "#[N](<N.md>) block-embed [model](<model.md>)"
         - #[I](<I.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
-        - #[FN](<FN.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
+        - #[N](<N.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
             - **[Related](<Related.md>):** "[Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
-        - #[FN](<FN.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
-        - #[FN](<FN.md>) "#[FN](<FN.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
+        - #[N](<N.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
+        - #[N](<N.md>) "#[N](<N.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
     - #[Bookmarks](<Bookmarks.md>)
         - {{[embed](<embed.md>): ((wfOtQk0aX))}}
         - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
         - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-        - "#[FN](<FN.md>) Community Notes are an Extension of Evergreen Notes"
+        - "#[N](<N.md>) Community Notes are an Extension of Evergreen Notes"
         - "#[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on..."
         - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
         - {{[embed](<embed.md>): ((HmjblrRLi))}}

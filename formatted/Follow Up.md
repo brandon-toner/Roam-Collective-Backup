@@ -113,7 +113,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
 - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- I'll draw something out on this to further clarify, but in this expression [fleeting notes](<fleeting notes.md>) are NOT based on the literature, and [literature notes](<literature notes.md>) are based on some source material. [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Conventions](<Conventions.md>) #[Follow Up](<Follow Up.md>)
+- I'll draw something out on this to further clarify, but in this expression ["N"-notes](<"N"-notes.md>) are NOT based on the literature, and [literature notes](<literature notes.md>) are based on some source material. [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Conventions](<Conventions.md>) #[Follow Up](<Follow Up.md>)
 
 ## [roam/css](<roam/css.md>)
 - #[Follow Up](<Follow Up.md>)

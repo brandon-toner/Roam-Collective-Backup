@@ -11,7 +11,7 @@
 
 - However, cities are much more complicated than trees — in reality, they are [semi-lattice](<semi-lattice.md>)s
 
-- [FN](<FN.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>))
+- [N](<N.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>))
 
 - My initial thoughts on how we can use the idea of a [semi-lattice](<semi-lattice.md>)
 

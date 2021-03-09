@@ -105,11 +105,11 @@ Monthly reviews could include a zoom catchup?
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
         - #[[Q]] It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [[datalog]] query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [[patterns]] to be recognized.  [[cc:[[Brandon Toner]]]] [[cc:[[Matthew Vogel]]]]
             - Related:: sibling query feature request mentioned by [[Joel Chan]] and [[Robert Haisfield]] in their chatting video.
-            - Related:: The above block is the example of "#[[FN]] block-embed [[model]]"
-        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[FN]] block-level [[model]]" and "#[[FN]] block-embed [[model]]".
+            - Related:: The above block is the example of "#[[N]] block-embed [[model]]"
+        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[N]] block-level [[model]]" and "#[[N]] block-embed [[model]]".
         - #[[Q]] What’s the best way to convey information within a block?
             - Observations:: one [[tensions]] is, when the linking intention and the center of block information don’t align.
-            - #[[FN]] Those css that are not trying to convey the center of block information, tends to dull our concentration.
+            - #[[N]] Those css that are not trying to convey the center of block information, tends to dull our concentration.
                 - {{[[TODO]]}} Examples:: convey what I think is good and what’s not.
         - "Assumption: everyone’s mind is reasonable."
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.

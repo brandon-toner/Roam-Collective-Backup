@@ -79,7 +79,7 @@
                         - **[Image](<Image.md>):**
 
 ## [February 28th, 2021](<February 28th, 2021.md>)
-- [FN](<FN.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>)) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
+- [N](<N.md>) [Semi-lattices]([semi-lattice](<semi-lattice.md>)) are a type of graph, best conceptualized as layers. However, unlike a tree, objects contained within each layer can have multiple relationships with the layer above (i.e., multiple parens).
                         - **[Image](<Image.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)

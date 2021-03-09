@@ -6,6 +6,10 @@
     - etc.
 
 # Backlinks
+## ["N"-notes](<"N"-notes.md>)
+- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>) [zettelkasten](<zettelkasten.md>)
+- **[Related](<Related.md>):**
+
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
@@ -96,7 +100,7 @@
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
     - **[Related](<Related.md>):**
 
-- If an idea feels *almost* durable, it should be documented as a [fleeting note]([fleeting notes](<fleeting notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
+- If an idea feels *almost* durable, it should be documented as a [fleeting note](["N"-notes](<"N"-notes.md>)), as these are (should) be periodically reviewed for formation of new [evergreen notes](<evergreen notes.md>).
         - **[Related](<Related.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
@@ -161,7 +165,7 @@
 - This might be what [R&D](<R&D.md>) is.[*](((6qTdvRXbI)))
             - **[Related](<Related.md>):**
 
-- #[FN](<FN.md>) within any given domain, there is a LOT of material that can be learned.
+- #[N](<N.md>) within any given domain, there is a LOT of material that can be learned.
                     - **[Related](<Related.md>):**
 
 - Cumulative knowledge base, driven by [just-in-time](<just-in-time.md>) problem solving.
@@ -206,13 +210,13 @@
             - **[Related](<Related.md>):**
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[FN](<FN.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
             - **[Related](<Related.md>):**
 
 - **[Related](<Related.md>):** [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
             - **[Related](<Related.md>):**
 
-- #[FN](<FN.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
+- #[N](<N.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
             - **[Related](<Related.md>):**
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
@@ -240,7 +244,7 @@
 - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
                 - **[Related](<Related.md>):**
 
-- Use notes from each class ([FN](<FN.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
                     - **[Related](<Related.md>):**
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
@@ -256,7 +260,7 @@
 - "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
                         - **[Related](<Related.md>):**
 
-- #[FN](<FN.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+- #[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
                     - **[Related](<Related.md>):**
 
 - I would prefer if presenting the prompts on the DNP didn't add to the block reference count. This is especially misleading when the same prompt is included in the Daily Writing Prompts for several days. ([false-positive](<false-positive.md>) for user-responses.)
@@ -268,7 +272,7 @@
 - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):**
 
-- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[FN](<FN.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[N](<N.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
             - **[Related](<Related.md>):**
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
@@ -288,7 +292,7 @@
 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
                     - **[Related](<Related.md>):**
 
-- #[FN](<FN.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
+- #[N](<N.md>) intentionally [tagging](<tagging.md>) the stages of note evolution or [maturity](<maturity.md>) helps to identify opportunities for development. [zettelkasten](<zettelkasten.md>)
             - **[Related](<Related.md>):**
 
 - goals

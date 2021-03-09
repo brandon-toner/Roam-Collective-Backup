@@ -35,16 +35,16 @@
                     - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
                 - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
                 - #I I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
-                - #[[FN]] [[learning]] with the [[self-directed learning]] method is hard work and time consuming.
-                - #[[FN]] within any given domain, there is a LOT of material that can be learned.
+                - #[[N]] [[learning]] with the [[self-directed learning]] method is hard work and time consuming.
+                - #[[N]] within any given domain, there is a LOT of material that can be learned.
                     - Related:: [[Seedlings/just-in-time vs just-in-case]]
                     - #Q How should learning projects be prioritized? 
                         - #Q What should be learned and when?
                         - #Q Are there pieces of "essential" knowledge that should be learned prior to engaging in projects within a domain?
-                - #[[FN]] team-based learning can help to accelerate the process of mapping a domain.
-                - #[[FN]] there is large overlap between the learning projects people embark on individually.
-                    - #[[FN]] There is a lot of unnecessary re-work when it comes to mapping a domain.
-                        - #[[FN]] Collaborative learning can help to improve the efficiency of learning.
+                - #[[N]] team-based learning can help to accelerate the process of mapping a domain.
+                - #[[N]] there is large overlap between the learning projects people embark on individually.
+                    - #[[N]] There is a lot of unnecessary re-work when it comes to mapping a domain.
+                        - #[[N]] Collaborative learning can help to improve the efficiency of learning.
                             - #Q What are the advantages of a collaborative learning strategy?
                             - #Q What are the potential downsides of a collaborative learning strategy?
                                 - Claim: The work of learning is where the learning takes place. Adding efficiency may decrease the effectiveness of the learning, defeating the purpose.
@@ -52,9 +52,9 @@
                                         - 1) Builds a database for easy reference
                                         - 2) The database can be used to drive [[spaced repetition]] systems, which can facilitate learning.
                                         - 3) Facilitates a shared truth among teams and communities.
-                                        - #[[FN]] The formation of maps of content is overrated as a method of learning. 
+                                        - #[[N]] The formation of maps of content is overrated as a method of learning. 
                                             - There are stronger methods that can be utilized once the maps exist. 
-        - #[[FN]] learn it once, and then have the answer easily accessible for future reference 
+        - #[[N]] learn it once, and then have the answer easily accessible for future reference 
             - e.g. explore the research in response to a specific clinical situation for a patient, then be able to use that knowledge the next time you encounter a similar case.[*]([[Pharmacist's Patient Care Process (Dalhousie University)]])
                 - Cumulative knowledge base, driven by [[just-in-time]] problem solving.
             - Related:: [[Evergreens/build once, sell twice]]
@@ -62,10 +62,10 @@
             - "It's been particularly interesting to me the level of [[flow state]] writing I've been able to tap into writing in here. " 
             - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])"
             - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. "
-            - "#[[FN]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
-        - #[[FN]] Displaying word counts on each [[DNP Section]] helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) #gamification
+            - "#[[N]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+        - #[[N]] Displaying word counts on each [[DNP Section]] helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) #gamification
     - #[[The Zettelkasten]] 
-        - #[[FN]] Let user questions drive the documentation of conventions and FAQs. 
+        - #[[N]] Let user questions drive the documentation of conventions and FAQs. 
             - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[~[[Charles Farr]]]])
                 - Receive question
                 - #Q Is there a clear answer?
@@ -78,7 +78,7 @@
                     - If no:: Revise it.
                 - #Q Is it easily accessible? Would users find it naturally? ((In one sense, this is an auto-no since they are asking))
                     - If no:: Improve its stumble-upon-ability / resurfacing strength
-        - #[[FN]] When leading a community, optimize for user engagement. 
+        - #[[N]] When leading a community, optimize for user engagement. 
             - User engagement is the lifeblood of collective communities.
             - #Q What makes users want to contribute to a collaborative graph? 
             - #Q What are the barriers to user engagement?
@@ -86,12 +86,12 @@
             - Related:: 
                 - "{{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] "
                     - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
-        - #[[FN]] Use [[learning objectives]] to guide [[research]] [[questions]]
+        - #[[N]] Use [[learning objectives]] to guide [[research]] [[questions]]
             - #Q "What learning objective is this questions trying to address?"
         - #[[Learning Objectives]] 
             - [[compare & contrast]] multiplayer [[chat]] [[conventions]]
-        - #[[FN]] Good [[questions]] are the path to good [[solutions]].
-        - #[[FN]] The [[fleeting notes]] format is very tweetable. 
+        - #[[N]] Good [[questions]] are the path to good [[solutions]].
+        - #[[N]] The [["N"-notes]] format is very tweetable. 
             - Many tweets can be fleeting notes, and many fleeting notes would make good tweet.
             - Idea of an activity: Take a note within the [[zettelkasten]] that calls to you, and write tweetstorm elaborating on the idea. #Activities
     - #Bookmarks 

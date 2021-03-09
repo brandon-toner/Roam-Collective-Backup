@@ -69,7 +69,7 @@
                     - Research page
                         - Image::
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FxHg7Lyx2cf.png?alt=media&token=afe78ab8-1132-4b3c-b69e-8258b3af37cf)
-                    - #FN [[block-level tags]] and [[block-level]] search give you direct access to content — e.g., links — that are not possible with code...
+                    - #N [[block-level tags]] and [[block-level]] search give you direct access to content — e.g., links — that are not possible with code...
                 - [[Robert Haisfield]]
                     - Jason: "you use a fundamentally different approach"
                     - Uses queries as a way to teach himself where to look

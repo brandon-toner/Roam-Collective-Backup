@@ -1,20 +1,20 @@
 
 # Backlinks
 ## [February 26th, 2021](<February 26th, 2021.md>)
-1. "[FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>)
+1. "[N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>)
 
-- [FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>)
+- [N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- #[FN](<FN.md>) [curation](<curation.md>)
+- #[N](<N.md>) [curation](<curation.md>)
 
-- Building on "#[FN](<FN.md>) [Curation]([curation](<curation.md>))
+- Building on "#[N](<N.md>) [Curation]([curation](<curation.md>))
 
 - On [curation](<curation.md>)
 
 - [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] noted the value of [curation](<curation.md>)
 
-- #[FN](<FN.md>) [Curation]([curation](<curation.md>))
+- #[N](<N.md>) [Curation]([curation](<curation.md>))
 
 - Support for [curation](<curation.md>)
 

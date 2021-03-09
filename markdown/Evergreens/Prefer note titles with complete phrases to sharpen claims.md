@@ -7,7 +7,7 @@
     - Related::  ((Not a reference, but a related idea, block or page))
         - [[Evergreens/Evergreen note titles are like APIs]]
         - "Less of an [assertion]([[assertions]]), but it is a concept that I refer to periodically. "
-        - "#[[FN]] [[fleeting notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten"
+        - "#[[N]] [["N"-notes]] and [[evergreen notes]] should be [[assertions]]. #zettelkasten"
     - Contents:: 
         - #Evergreens Prefer note titles with complete phrases to sharpen claims
             - When writing [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C), I’ve found that using complete phrases as note titles helps maintain concept-orientation ([Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)). For example: [Educational objectives often subvert themselves](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J), [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/z6C5H4eYH2A4omfNLuUcDiKibQ1hZG2RGNZ97).

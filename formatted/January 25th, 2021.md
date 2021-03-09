@@ -15,7 +15,7 @@
         - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
-        - Check out the #[FN](<FN.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
             - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
@@ -157,12 +157,12 @@
             - [Charles Farr](<Charles Farr.md>)
                 - Seeding graphs
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        1. #[FN](<FN.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). Non-intrusive commentary — the original context is preserved.
-        2. #[FN](<FN.md>) Strong conventions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
-        3. #[FN](<FN.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
+        1. #[N](<N.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). Non-intrusive commentary — the original context is preserved.
+        2. #[N](<N.md>) Strong conventions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
+        3. #[N](<N.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
         4. #[Questions](<Questions.md>) How can we prevent a collaborative graph from feeling overwhelming?
             - Maybe through strong onboarding? Clubhouse calls to address questions? Encouraging the use of the `[Questions](<Questions.md>)` to create dialogue about conventions.
-        5. #[FN](<FN.md>) The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
+        5. #[N](<N.md>) The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
         6. [I](<I.md>) — Might change `[Comments](<Comments.md>)` to `[Commentary](<Commentary.md>)`... feels more clear that it's commentary on stuff within the graph. [Conventions](<Conventions.md>)
     - [Promptstorming](<Promptstorming.md>)
         1. From the [Prompts](<Prompts.md>) page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
@@ -258,8 +258,8 @@ Community suggests via block-level tagging, then graph editors compile them cent
             - How does a group determine its shared goals for knowledge work? How do these goals impact the artifact?
             - How does the nature of the work impact the artifact requirements?
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        - "#[FN](<FN.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
-            - #[FN](<FN.md>) Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
+        - "#[N](<N.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
+            - #[N](<N.md>) Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
     - [Conversation](<Conversation.md>)
         - "How important is it to stick to vanilla Roam?"
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.
