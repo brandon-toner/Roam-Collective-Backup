@@ -3,7 +3,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
         1. Last night I ([Charles]([Charles Farr](<Charles Farr.md>))) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
             - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([^[[Charles Farr](<^[[Charles Farr.md>)]])
             - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
@@ -108,7 +108,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Resources](<Resources.md>) 
             - Interested in [Mat McGann](<Mat McGann.md>)'s work on collaborative Roaming. 
@@ -383,7 +383,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                     - Alignment of user activities 
                     - Satisfaction of user goals
                 - External Communication
-        - [I](<I.md>) Merge #[Chat](<Chat.md>) and #[The Main Feed](<The Main Feed.md>).
+        - [I](<I.md>) Merge #[Chat](<Chat.md>) and #[Main Feed](<Main Feed.md>).
             - If wanting communication on a post, maybe tag with chat? (Could rename to "Request for Chat" for increased clarity.)
     - #[GTD Zone](<GTD Zone.md>) 
         - Goal: Refresh Prompts and FAQs

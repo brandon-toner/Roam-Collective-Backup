@@ -14,13 +14,13 @@
                     - Will eventually live within [Roaman Agora](<Roaman Agora.md>)
                 - Building "[Roaman Agora](<Roaman Agora.md>)" -- [Charles Farr](<Charles Farr.md>)
                 - Integrating [roam-inter](<roam-inter.md>) into [Roaman Agora](<Roaman Agora.md>) -- [Charles Farr](<Charles Farr.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         1. Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>)) to encapsulate the meta-projects around building the RC.
             - "**Brandon:** Populated epic [description and vision statements](((owNcyPWbT)))."
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - Domains [Outlines](<Outlines.md>)
             - Onboarding

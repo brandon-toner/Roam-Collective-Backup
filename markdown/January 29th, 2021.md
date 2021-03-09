@@ -7,7 +7,7 @@
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [[project management]] that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]])"
     - "What are the steps of [[project management]] generally? How could they be applied in [[Roam]]? [*]([[Questions]])[*]([[Roam Games]])"
-- #[[The Main Feed]]
+- #[[Main Feed]]
     - 11:43 — Great [[Loom]] video by [[Mark Robertson]] highlighting a smooth workflow for responding to [[notifications]]. - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) #Processes 
     - **Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [[DNP Modules]] as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([[Beyond the Basics]])
         - {{[[embed]]: ((WcKOd06rp))}}
@@ -230,7 +230,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
                 - I would consider [[Evergreens/active vs passive resurfacing]] related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
         - [[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. 
-            - How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]].
+            - How does [global public feed](((cnygMuVlk))) compare to the [[Main Feed]].
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [[Roam Book Club]]?
             - Would love to see you mature some of these ideas as [[fleeting notes]]. I bet they would blend well within the [[zettelkasten]]. [[~[[leekeifon]]]]
                 - Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.
@@ -314,7 +314,7 @@ Thoughts? - [[Brandon Toner]]"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [[assertions]].
                 - **Effec**t: By breaking them into smaller distinctions, we may get a more clear sense on how you define these terms.
         - reply to "[[~[[leekeifon]]]] You're playing with some fascinating ideas! Love it. "
-            - "How does [global public feed](((cnygMuVlk))) compare to the [[The Main Feed]]."
+            - "How does [global public feed](((cnygMuVlk))) compare to the [[Main Feed]]."
                 - These two concepts should have almost the same meaning. Maybe the key point should be another concept that I mentioned when I talk about global public feed, that’s **Roam publish protocol**.
                     - The Roam publish protocol is good, for the following reasons...
                         - it can automate the **in time update property** of a feed through query mechanism, without needing Roamans jumping back and forth to publish their ideas.

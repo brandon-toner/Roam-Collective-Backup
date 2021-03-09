@@ -7,7 +7,7 @@
                 - Questions that feel important, recurrent, or central or simply resonant should be turned into a [page-status questions]([page-status questions](<page-status questions.md>))
                 - Conventions [here](((xfdvIW54z)))
                 - Process [here](((5CxAQCSjk)))
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
         - This is to indicate "**1000 upvotes**" from [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 

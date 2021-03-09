@@ -6,7 +6,7 @@
 - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - "What is your favourite convention within [[Roam-Collective]]?"
     - "__Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))"
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+- #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
     - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
     - Some explorations of zettelkasten conventions as it relates to evergreen notes: [here](((IRSOUC-2O))). Feat: [Charles](((sBu3zOPiV)))

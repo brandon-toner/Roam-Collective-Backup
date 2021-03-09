@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] #not-populated
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
         1. "#FN Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]]."[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
     - #[[The Zettelkasten]]
@@ -22,7 +22,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
             - #Q What is the role of [[prompts]] in knowledge base accumulation?

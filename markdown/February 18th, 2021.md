@@ -3,14 +3,14 @@
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [[Roam Games III]])
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
         2. Review of [[fleeting notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
         3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}
         4. "On the value of [[block-level tags]]"
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
             - How could "SR" be used to resurface interesting information. #[[spaced repetition]]
@@ -358,6 +358,6 @@ What's your take on fleeting notes that come from personal experience/journaling
             - Could use it as a slick link shortener and to add customer meta-tags for links
     - #[[Change Log]]
         - Added better blue shades: "Blue"
-        - Added "Spacing" & "Block Highlights"
+        - Added "Spacing" & Block Highlights
             - [@Brandon]([[~[[Brandon Toner]]]]) added [css](((rADwGn6Ml))) in RC
 - ---

@@ -65,6 +65,10 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - [Article is here](https://www.kylestratis.com/post/introducing-roamlab-a-framework-for-building-community-labs)
         - **[Twitter](<Twitter.md>):**

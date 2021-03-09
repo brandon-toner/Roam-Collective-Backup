@@ -1,9 +1,9 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How do you manage the problem of community fragmentation?
             - i.e. as similar communities with similar missions form, how do you allocate your attention?
@@ -118,10 +118,10 @@
         - "[Q](<Q.md>) How do you manage the problem of community fragmentation?"
     - #[Change Log](<Change Log.md>)
         - Updated the CSS for conversation tags... 
-            - [@[[Their Name](<@[[Their Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
-            - [cc:[[Their Name](<cc:[[Their Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
-            - [~[[Your Name](<~[[Your Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
-            - [^[[Your Name](<^[[Your Name.md>)]] → "Version 2 [Status](<Status.md>)/Enabled"
+            - [@[[Their Name](<@[[Their Name.md>)]] → Version 2 [Status](<Status.md>)/Enabled
+            - [cc:[[Their Name](<cc:[[Their Name.md>)]] → Version 2 [Status](<Status.md>)/Enabled
+            - [~[[Your Name](<~[[Your Name.md>)]] → Version 2 [Status](<Status.md>)/Enabled
+            - [^[[Your Name](<^[[Your Name.md>)]] → Version 2 [Status](<Status.md>)/Enabled
             - Goal was to make them a bit more compact, a bit more eye catching...
 - ---
 

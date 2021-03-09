@@ -9,7 +9,7 @@
                 - Extend the outlines
                 - Reference an aspect of the outline and brainstorm the components of that section
                 - Whatever feels right.
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+- #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - [[Brandon Toner]]
         - {{[[embed]]: ((LFSTdlWF1))}}
         - {{[[embed]]: ((lLhwYNuv-))}}

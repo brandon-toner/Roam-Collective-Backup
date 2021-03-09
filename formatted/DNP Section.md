@@ -56,6 +56,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Within your [DNP Section](<DNP Section.md>)
 
+## [Main Feed](<Main Feed.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
@@ -75,9 +78,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [Scratchpad](<Scratchpad.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
-
-## [The Main Feed](<The Main Feed.md>)
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 
 ## [The Zettelkasten](<The Zettelkasten.md>)

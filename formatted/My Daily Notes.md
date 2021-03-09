@@ -23,6 +23,8 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Charles Farr](<Charles Farr.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -431,6 +433,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Joel Chan](<Joel Chan.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Larissa de Lima](<Larissa de Lima.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
@@ -477,6 +482,12 @@ As you get comfortable with the available tags, I'd recommend using them to help
 - #[My Daily Notes](<My Daily Notes.md>)
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
 - #[My Daily Notes](<My Daily Notes.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>)

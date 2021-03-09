@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([Chat](<Chat.md>)))
-    - {{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}
+    - {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -33,21 +33,13 @@
         - **Todos:**
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **Personal SmartBlocks:**
-    - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates 
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>)
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
-            - #[The Zettelkasten](<The Zettelkasten.md>)
-                - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
-                - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
-                - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
-                - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
-            - #[GTD Zone](<GTD Zone.md>)
-                - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
-                - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
-                - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
         - ---
+        - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
     - Mentions (BT)
     - BToner — Andy's Notes [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
@@ -93,6 +85,22 @@
         - **Brandon:** 
     - BToner — @Charles [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
+    - **Archive**
+        - BToner — .DNP Template (V1) 
+            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+                - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+                - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+                - #[The Zettelkasten](<The Zettelkasten.md>)
+                    - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+                    - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+                    - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+                    - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+                - #[GTD Zone](<GTD Zone.md>)
+                    - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+                    - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                    - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+                - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+            - ---
 
 # Backlinks
 ## ["many hands make light work"](<"many hands make light work".md>)
@@ -152,6 +160,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Compare yourself to who you were yesterday, not who someone else is today.](<Compare yourself to who you were yesterday, not who someone else is today..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
@@ -587,6 +597,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [March 6th, 2021](<March 6th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [March 8th, 2021](<March 8th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Nothing well done is insignificant.](<Nothing well done is insignificant..md>)

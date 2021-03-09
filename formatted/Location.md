@@ -56,6 +56,10 @@
 - **[Website](<Website.md>):** In progress
         - **[Location](<Location.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[Website](<Website.md>):** [kaito.co]()https://www.kaito.co/)
+        - **[Location](<Location.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - [RoamLab](https://roamlab.org) [RoamLab](<RoamLab.md>)
         - **[Location](<Location.md>):**

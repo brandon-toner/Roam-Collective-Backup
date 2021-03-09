@@ -99,9 +99,6 @@
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 
-## [Graph/Templates](<Graph/Templates.md>)
-- #[Daily Activities](<Daily Activities.md>)
-
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
 

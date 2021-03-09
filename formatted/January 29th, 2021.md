@@ -7,7 +7,7 @@
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
     - "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)? [*]([Questions](<Questions.md>))[*]([Roam Games](<Roam Games.md>))"
-- #[The Main Feed](<The Main Feed.md>)
+- #[Main Feed](<Main Feed.md>)
     - 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>). - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) [Processes](<Processes.md>) 
     - **Exploring the idea of evergreen notes a bit deeper today.** This notes section shows how the lines can be blurred with the [DNP Modules](<DNP Modules.md>) as well. ((Bookmarks used as a tag, fleeting notes created nested as a comment... using these tags IN CONTEXT while writing within your DNP section preserves the query benefits, with a more natural writing style)) [*]([Beyond the Basics](<Beyond the Basics.md>))
         - {{[embed](<embed.md>): ((WcKOd06rp))}}
@@ -230,7 +230,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [sorting](<sorti
                 - "I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](https://notes.andymatuschak.org/z53fk5XwrsnueNDDCq6WNe2VbPhrDGQmmVgNS), [Enacted experience](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH), [Enabling environment](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)"
                 - I would consider [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>) related to "nouns and noun-phrases"... an anchor page for more related notes to reference to.
         - [~[[leekeifon](<~[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. 
-            - How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>).
+            - How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>).
             - What do you see [official events](((yuqfEynX8))) as looking like? Synchronous calls like with [Roam Book Club](<Roam Book Club.md>)?
             - Would love to see you mature some of these ideas as [fleeting notes](<fleeting notes.md>). I bet they would blend well within the [zettelkasten](<zettelkasten.md>). [~[[leekeifon](<~[[leekeifon.md>)]]
                 - Particularly, [public vs private](((j50xmn4aN))) and any other ideas you'd like to crystalize into something atomic.
@@ -314,7 +314,7 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
             - You may want to distinguish these two concepts a little bit deep first. And the distinctions themselves will become [assertions](<assertions.md>).
                 - **Effec**t: By breaking them into smaller distinctions, we may get a more clear sense on how you define these terms.
         - reply to "[~[[leekeifon](<~[[leekeifon.md>)]] You're playing with some fascinating ideas! Love it. "
-            - "How does [global public feed](((cnygMuVlk))) compare to the [The Main Feed](<The Main Feed.md>)."
+            - "How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>)."
                 - These two concepts should have almost the same meaning. Maybe the key point should be another concept that I mentioned when I talk about global public feed, that’s **Roam publish protocol**.
                     - The Roam publish protocol is good, for the following reasons...
                         - it can automate the **in time update property** of a feed through query mechanism, without needing Roamans jumping back and forth to publish their ideas.

@@ -3,7 +3,7 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
         1. Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
             - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([[^[[Charles Farr]]]])
             - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([[~[[Charles Farr]]]])
@@ -108,7 +108,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[[Scratchpad]] 
         - #Resources 
             - Interested in [[Mat McGann]]'s work on collaborative Roaming. 
@@ -383,7 +383,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                     - Alignment of user activities 
                     - Satisfaction of user goals
                 - External Communication
-        - #I Merge #[[Chat]] and #[[The Main Feed]].
+        - #I Merge #[[Chat]] and #[[Main Feed]].
             - If wanting communication on a post, maybe tag with chat? (Could rename to "Request for Chat" for increased clarity.)
     - #[[GTD Zone]] 
         - Goal: Refresh Prompts and FAQs

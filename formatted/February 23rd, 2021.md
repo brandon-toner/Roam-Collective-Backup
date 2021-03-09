@@ -5,7 +5,7 @@
         - "Consolidated [RoamJS](<RoamJS.md>) scripts — you'll have to re-enable the code block."
             - ""{{[roam/js](<roam/js.md>)}}""
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. "[Obs](<Obs.md>) I notice performance is lagging quite a bit since the changes today/yesterday. Not sure if Roam/js or the queries. Anyone else notice any performance issues?"
         2. "[Q](<Q.md>) Is "chat" better as a query?"
@@ -164,7 +164,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                             - Afterward it can even be simplified down to the essentials, making it easier to build a functioning chat plugin relatively fast. 
                     - And last note, sorry for dumping these huge walls of text. I work by bursts of inspiration!
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [I](<I.md>) Create a #[temp-queries](<temp-queries.md>) tag to append to blocks with queries used "just for today"
             - Goal: prevent database from slowing down due to too many queries

@@ -4,7 +4,7 @@
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
         - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "SRS Call with [[Adam Krivka]] "
         2. "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
         3. "#[[therefore]] "#[[FN]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
@@ -12,7 +12,7 @@
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q Can the "online status indicator" be automated with Roam/js
         - [[Roam Games]] [[Clubhouse]] call #[[Meetings & Discussions]]

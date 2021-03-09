@@ -1,6 +1,6 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. "[FN](<FN.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>)."[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -22,7 +22,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
             - [Q](<Q.md>) What is the role of [prompts](<prompts.md>) in knowledge base accumulation?

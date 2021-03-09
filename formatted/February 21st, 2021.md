@@ -4,7 +4,7 @@
             - Next Steps:
                 - Brainstorm things to be populated into the Agora
                 - Populate them using the templates
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - **Created a NEW SPRINT**: [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
@@ -71,7 +71,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Alexandra Westhoff](<Alexandra Westhoff.md>) {{word-count}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - Doing a bit of brainstorming/data population in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora) today — mapping the Roam Games and roamcult projects & tools more broadly.
             - Would love some help in mapping the territory — **the more brainstormers the better**. (I'm bound to forget most things)

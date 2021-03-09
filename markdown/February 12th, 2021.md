@@ -3,7 +3,7 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         - **Brandon:** [Thoughts on sprints, epics and breaking work into intermediate deliverables](((74aPTS1FT)))
         - **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
         - Charles Farr:: Graph goal: make everything [MECE](((rIe6X12fA)))
@@ -12,7 +12,7 @@
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad
         - Added page: [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]])

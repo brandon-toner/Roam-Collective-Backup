@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] #not-populated
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
         - "Feeling like another sync session for the RC might be helpful to cast a vision for the next steps and areas of focus. Realign around a common goal. -- maybe some night this week?"
     - #[[The Zettelkasten]]
@@ -21,7 +21,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #I There is huge potential in enhancing the query function in Roam.[*]([[Roam Enhancement Requests]])
             - Within the block vs within the path
@@ -178,7 +178,7 @@
                     - [[roam/chat]]
                 - Chats would be nested underneath a date
                     - [[March 1st, 2021]]
-                        - "12:12 [[Charles Farr]]: This is an example chat"
+                        - 12:12 [[Charles Farr]]: This is an example chat [*](((mSXP90Irg)))
                 - You could include page references and block references within a chat
                     - 12:13 [[Charles Farr]]: Hey all, can you take a look at my thoughts here: "Thoughts on [[in-graph chat]], in-graph snail-mail, and the idea of [[velocity of conversation]]"
                     - 12:14 [[Charles Farr]]: Much of what I'm writing about is related to [[Books/The Culture Code]]...

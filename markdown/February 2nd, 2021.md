@@ -7,7 +7,7 @@
                 - Questions that feel important, recurrent, or central or simply resonant should be turned into a [page-status questions]([[page-status questions]])
                 - Conventions [here](((xfdvIW54z)))
                 - Process [here](((5CxAQCSjk)))
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         - "#[[Project Ideas]] build a collection of [[activities]] that match with various stages of the [[Evergreens/double diamond model (design)]] as it relates to our [[zettelkasten]] and [[project management]] system."
         - This is to indicate "**1000 upvotes**" from [[~[[Larissa de Lima]]]] for [Charles]([[cc:[[Charles Farr]]]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - #Chat ((A place to propose objects of discussion)) 

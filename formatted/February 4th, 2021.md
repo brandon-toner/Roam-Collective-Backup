@@ -3,7 +3,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion))
         1. **Peter:** "[Everyone](<Everyone.md>) Would people want to add birthdays to their profiles?"
             1. I've added mine - Brandon (page ref to 2021 to generate the reference)
@@ -141,7 +141,7 @@ Monthly reviews could include a zoom catchup?
         - {{[embed](<embed.md>): ((r1FQAyh6N))}}
         - {{[embed](<embed.md>): ((jbnNi00AV))}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - Are we creating [MSN Messenger](<MSN Messenger.md>)? 😂 
             - **[Image](<Image.md>):**

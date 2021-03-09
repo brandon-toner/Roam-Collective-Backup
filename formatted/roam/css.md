@@ -8,8 +8,8 @@
 - **[### Shortcuts](<../### Shortcuts.md>):**
     - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((6w_N1hr1k)))
-        - [Collections Tags](((JNVnlLDxv))) 
-        - [Notifications & Mentions](((w3TzfgkhG)))
+        - [Collections Tags](Page-type Tags) 
+        - [Notifications & Mentions](Notifications & Mentions)
     - [Headings](((nL58k_bhI)))
     - [Page References](((kJ_piMpzy)))
     - [Block References](((xcLgPdvs0)))
@@ -1021,18 +1021,19 @@ span.rm-page-ref[data-tag="Community Notes"]:before {
                 - [Announcements](<../Announcements.md>)
                     - ```css
 span.rm-page-ref[data-tag="Announcements"] {
-    background: var(--cl-red-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+    background: 	var(--cl-red-800);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
 }
 
 span.rm-page-ref[data-tag="Announcements"]:before {
-    content: '📢';
+    content: 		'📢';
+  	padding-right: 	2px;
 }```
                 - #[Daily Activities](<../Daily Activities.md>)
                     - ```css
@@ -1050,53 +1051,22 @@ span.rm-page-ref[data-tag="Daily Activities"] {
 span.rm-page-ref[data-tag="Daily Activities"]:before {
     content: '✍🏼'
 }```
-                - #[The Main Feed](<../The Main Feed.md>)
+                - #[Main Feed](<../Main Feed.md>)
                     - ```css
-span.rm-page-ref[data-tag="The Main Feed"] {
-	background: var(--cl-orange-600);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Main Feed"] {
+	background: 	var(--cl-blue-700);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
 }
 
-span.rm-page-ref[data-tag="The Main Feed"]:before {
-    content: '⭐️'
-}```
-                - #[Chat](<../Chat.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Chat"] {
-    background: var(--cl-blue-500);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Chat"]:before {
-    content: '📢'
-}```
-                - #[Daily Log](<../Daily Log.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Daily Log"] {
-    background: [FF9800](<../FF9800.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Log"]:before {
-    content: '📆'
+span.rm-page-ref[data-tag="Main Feed"]:before {
+    content:     	'⭐️';
+  	padding-right: 	2px;
 }```
             - DNP Modules
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
@@ -1150,327 +1120,211 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-width: 11px;
     margin-top: -11px;
 }```
-                - #[Scratchpad](<../Scratchpad.md>)
+                - [Scratchpad](<../Scratchpad.md>)
                     - ```css
-span.rm-page-ref[data-tag="Scratchpad"] {
-    background: var(--cl-yellow-800);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Scratchpad"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-800);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 3px  [DFDFDF](<../DFDFDF.md>);
 }
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
-    content: '✏️';
+    content: 	'✏️';
+  	padding-right:	2px;
 }```
                 - [Conversation](<../Conversation.md>)
                     - ```css
-span.rm-page-ref[data-tag="Conversation"] {
-    background: var(--cl-green-700);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Conversation"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
 }
 
 span.rm-page-ref[data-tag="Conversation"]:before {
-    content: '💬'
+    content: 		'📮';
+  	padding-right: 	2px;
+}```
+                - #[Change Log](<../Change Log.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Change Log"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-800);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢';
+  	padding-right: 2px;  
+}```
+                - #[Feedback](<../Feedback.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Feedback"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-purple-900);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
+}
+
+span.rm-page-ref[data-tag="Feedback"]:before {
+    content: '💬';
+  	padding-right: 2px;  
 }```
                 - #[Bookmarks](<../Bookmarks.md>)
                     - ```css
-span.rm-page-ref[data-tag="Bookmarks"] {
-    background: var(--cl-blue-500);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Bookmarks"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
 }
 
 span.rm-page-ref[data-tag="Bookmarks"]:before {
     content: '💾';
+  	padding-right: 2px;
 }```
-                - #[Change Log](<../Change Log.md>)
+                - [Todos](<../Todos.md>)
                     - ```css
-span.rm-page-ref[data-tag="Change Log"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Todos"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
 }
 
-span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
+span.rm-page-ref[data-tag="Todos"]:before {
+    content: 		'🎯';
+  	padding-right: 	2px;
 }```
-                - #[The Zettelkasten](<../The Zettelkasten.md>)
+                - #[Daily Log](<../Daily Log.md>)
                     - ```css
-span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Daily Log"] 
+{ background: [fff](<../fff.md>);
+  background-size: 100%;
+  color: [000](<../000.md>);
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 0px -1px 5px  [DFDFDF](<../DFDFDF.md>);
 }
 
-span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡';
-}```
-                - [Questions](<../Questions.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Questions"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓';
-}```
-                - [Promptstorming](<../Promptstorming.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Promptstorming"] {
-    background: var(--cl-red-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Promptstorming"]:before {
-    content: '🌪️';
-}```
-                - #[Help Wanted](<../Help Wanted.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Help Wanted"] {
-    background: [9C27B0](<../9C27B0.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Help Wanted"]:before {
-    content: '😃'
-}```
-                - #[Feedback & Questions](<../Feedback & Questions.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Feedback & Questions"] {
-    background: var(--cl-purple-900);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Feedback & Questions"]:before {
-    content: '📢';
-}```
-                - "[Questions](<../Questions.md>)"
-                - "#[Chat](<../Chat.md>)"
-                - #[Dice Roll](<../Dice Roll.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Dice Roll"] {
-    background: [009688](<../009688.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Dice Roll"]:before {
-    content: '🎲'
+span.rm-page-ref[data-tag="Daily Log"]:before {
+    content: '📆'
 }```
             - Notifications & Mentions
                 - [@[[Their Name](<../@[[Their Name.md>)]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="@"] {
-        border: 2px solid [B35555](<../B35555.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="@"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "🚨unread ";
-}
-
-span[data-link-title^="@[Everyone](<../Everyone.md>)"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "🚨🚨" !important;
-}```
-                    - Version 2 [Status](<../Status.md>)/Enabled
-                        - ```css
-span[data-link-title^="@"] {
-  	border:			.5px solid var(--cl-red-700);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="@"] .rm-page-ref {
-  color: var(--cl-red-800) !important;
-  font-weight:	600;
+  color: var(--cl-orange-600);
+  font-weight:	500;
 }
 
 span[data-link-title^="@"]:before {
-    color: 			var(--cl-black);
-    content: 		"🚨";
+   /* content: 		"🧭";*/
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }
 
-span[data-link-title^="@[Everyone](<../Everyone.md>)"]:before {
+span[data-link-title^="@[Admin](<../Admin.md>)"]:before {
     color: var(--cl-black) !important;
     content: "🚨🚨" !important;
 }```
                 - [cc:[[Their Name](<../cc:[[Their Name.md>)]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="cc:"] {
-        border: 2px solid [2196F3](<../2196F3.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="cc:"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "📨 ";
-}```
-                    - Version 2 [Status](<../Status.md>)/Enabled
-                        - ```css
-span[data-link-title^="cc:"] {
-  	border:			.5px solid var(--cl-blue-lt-600);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="cc:"] .rm-page-ref {
-  color: var(--cl-blue-dk-900) !important;
-  font-weight:	600;
+  color: var(--cl-yellow-800) !important;
+  font-weight:	500;
 }
 
 span[data-link-title^="cc:"]:before {
     color: 			var(--cl-black);
-    content: 		"📨";
+ /*   content: 		"📨"; */
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }```
                 - [~[[Your Name](<../~[[Your Name.md>)]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="~"] {
-        border: 2px solid [02B920](<../02B920.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="~"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "✅read "
-}```
-                    - Version 2 [Status](<../Status.md>)/Enabled
-                        - ```css
-span[data-link-title^="~"] {
-  	border:			.5px solid var(--cl-green-800);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="~"] .rm-page-ref {
   color: var(--cl-green-900) !important;
-  font-weight:	600;
+  font-weight:	500;
 }
 
 span[data-link-title^="~"]:before {
     color: 			var(--cl-black);
-    content: 		"✅";
+ /*   content: 		"✅";*/
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }```
                 - [^[[Your Name](<../^[[Your Name.md>)]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="^"] {
-        border: 2px solid [4CAF50](<../4CAF50.md>) !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="^"]:before {
-    color: [000746](<../000746.md>) !important;
-    content: "💾saved "
-}```
-                    - Version 2 [Status](<../Status.md>)/Enabled
-                        - ```css
-span[data-link-title^="^"] {
-  	border:			.5px solid var(--cl-gray-800);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="^"] .rm-page-ref {
-  color: var(--cl-gray-600) !important;
-  font-weight:	600;
-}
-
-span[data-link-title^="^"]:before {
-    color: 			var(--cl-black);
-    content: 		"💾";
-  	padding-right:	3px;
-  	font-weight:	300;
-  	font-size:		13px;
+  color: var(--cl-blue-600) !important;
+  font-weight:	500;
 }```
             - Note & Zettelkasten Tags
                 - #[Fleeting Notes](<../Fleeting Notes.md>)
@@ -1593,6 +1447,38 @@ span.rm-page-ref[data-tag="Evergreens"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
+                - [Maxims](<../Maxims.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Maxims"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+  	border-style: 	dotted;
+  	border-color:	var(--cl-gray-500);
+  	border-width:	2px;
+    border-radius: 	5px 5px 5px 5px;
+    padding: 		2px 5px 2px 5px;
+}
+
+span.rm-page-ref[data-tag="Maxims"]:before {
+    content: 		'💫';
+  	padding-right: 	px;
+}```
+                - [Claims](<../Claims.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Claims"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+  	border-style: 	dotted;
+  	border-color:	var(--cl-gray-500);
+  	border-width:	2px;
+    border-radius: 	5px 5px 5px 5px;
+    padding: 		2px 5px 2px 5px;
+}
+
+span.rm-page-ref[data-tag="Claims"]:before {
+    content: 		'📜';
+  	padding-right:	px;
+}```
                 - #[Reference Notes](<../Reference Notes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
@@ -1632,6 +1518,107 @@ span.rm-page-ref[data-tag="Annotations"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
+}```
+                - ### Block-level Tags
+                    - [Q](<../Q.md>) (Questions)→ 
+                        - ```css
+span.rm-page-ref[data-tag="Q"] {
+    color: var(--cl-purple-800);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="Q"]:after {
+    content: ':'
+}```
+                    - #[I](<../I.md>) (Ideas)
+                        - ```css
+span.rm-page-ref[data-tag="I"] {
+    color: var(--cl-yellow-900);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="I"]:after {
+    content: ':'
+}```
+                    - [N](<../N.md>) (Notes/Assertions/Propositions)
+                        - ```css
+span.rm-page-ref[data-tag="N"] {
+    color: var(--cl-green-900);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="N"]:after {
+    content: ':'
+}```
+                    - [V](<../V.md>) (vision — description of a desirable future)
+                        - ```css
+span.rm-page-ref[data-tag="V"] {
+    color: var(--cl-blue-600);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="V"]:before {
+    content: ''
+}
+span.rm-page-ref[data-tag="V"]:after {
+    content: ':'
+}```
+                    - [Rec](<../Rec.md>) (Recommendation)
+                        - **[Definition](<../Definition.md>):** Meta (or graph) recommendations, surrounding such things as conventions, processes, css, etc.
+                        - ```css
+span.rm-page-ref[data-tag="Rec"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Rec"]:before {
+    content: '👉'
+}
+span.rm-page-ref[data-tag="Rec"]:after {
+    content: ':'
+}```
+                    - [Ans](<../Ans.md>) (Answers)
+                        - ```css
+span.rm-page-ref[data-tag="Ans"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Ans"]:after {
+    content: ':'
+}```
+                    - #[Obs](<../Obs.md>) (Observations)
+                        - ```css
+span.rm-page-ref[data-tag="Obs"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Obs"]:after {
+    content: ':'
+}```
+                    - [G](<../G.md>) (Goals)
+                        - ```css
+span.rm-page-ref[data-tag="G"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="G"]:before {
+    content: '🏆'
+}
+span.rm-page-ref[data-tag="G"]:after {
+    content: ':'
+}```
+                    - [Tips](<../Tips.md>)
+                        - ```css
+span.rm-page-ref[data-tag="Tips"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Tips"]:before {
+    content: '☝️'
+}
+span.rm-page-ref[data-tag="Tips"]:after {
+    content: ':'
 }```
                 - ### Experimental & Deprecated Note Types
                     - [Evergreen](<../Evergreen.md>)
@@ -1815,87 +1802,6 @@ span.rm-page-ref[data-tag="therefore"] {
  	padding:		var(--note-tag-padding);
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
-}```
-            - Block-level Tags
-                - #[I](<../I.md>) (Ideas)
-                    - ```css
-span.rm-page-ref[data-tag="I"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="I"]:before {
-    content: '💡'
-}```
-                - [Q](<../Q.md>) (Questions)
-                    - ```css
-span.rm-page-ref[data-tag="Q"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Q"]:before {
-    content: '❓'
-}```
-                - [Ans](<../Ans.md>) (Answers)
-                    - ```css
-span.rm-page-ref[data-tag="Ans"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Ans"]:before {
-    content: '✅'
-}```
-                - #[Obs](<../Obs.md>) (Observations)
-                    - ```css
-span.rm-page-ref[data-tag="Obs"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Obs"]:before {
-    content: '👀'
-}```
-                - [G](<../G.md>) (Goals)
-                    - ```css
-span.rm-page-ref[data-tag="G"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="G"]:before {
-    content: '🏆'
 }```
             - GTD Tags
                 - GTD Core Tags
@@ -2151,687 +2057,114 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-                - [Todos](<../Todos.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Todos"] {
-    background: 	var(--cl-yellow-700);
-    color: 			var(--cl-white);
-    padding: 		2px 5px 2px 5px;
-    font-size: 		13px;
-    line-height: 	1em;
-  	font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-}
-
-span.rm-page-ref[data-tag="Todos"]:before {
-    content: '🎯';
-}```
             - Page-type Tags
                 - [Articles](<../Articles.md>)
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Articles"]:before {
-    content: '📰'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Books](<../Books.md>)
                     - ```css
 span.rm-page-ref[data-tag="Books"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Books"]:before {
-    content: '📚'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - [Collections](<../Collections.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Collections"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Experiments](<../Experiments.md>)
                     - ```css
 span.rm-page-ref[data-tag="Experiments"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Experiments"]:before {
-    content: '🧪'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Podcasts](<../Podcasts.md>)
                     - ```css
 span.rm-page-ref[data-tag="Podcasts"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Podcasts"]:before {
-    content: '🎙'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Tweets](<../Tweets.md>)
                     - ```css
 span.rm-page-ref[data-tag="Tweets"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tweets"]:before {
-    content: '🐦'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
-                - #[Meetings & Discussions](<../Meetings & Discussions.md>)
+                - #[Meeting Notes](<../Meeting Notes.md>)
                     - ```css
-span.rm-page-ref[data-tag="Meetings & Discussions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Meetings & Discussions"]:before {
-    content: '👥'
+span.rm-page-ref[data-tag="Meeting Notes"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
-                - #[Prompt Ideas](<../Prompt Ideas.md>)
+                - [Indexes](<../Indexes.md>)
                     - ```css
-span.rm-page-ref[data-tag="Prompt Ideas"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompt Ideas"]:before {
-    content: '💭'
+span.rm-page-ref[data-tag="Indexes"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - #[Prompts](<../Prompts.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Prompts"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Outlines](<../Outlines.md>)
                     - ```css
 span.rm-page-ref[data-tag="Outlines"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Outlines"]:before {
-    content: '📝'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - [Questions](<../Questions.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Questions"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [People](<../People.md>)
                     - ```css
 span.rm-page-ref[data-tag="People"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="People"]:before {
-    content: '😃'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - [Products](<../Products.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Products"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Members](<../Members.md>)
                     - ```css
 span.rm-page-ref[data-tag="Members"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Members"]:before {
-    content: '🔑'
-}```
-                - [Maxims](<../Maxims.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Maxims"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Maxims"]:before {
-    content: '💫'
-}```
-                - #[Tips & Tricks](<../Tips & Tricks.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Tips & Tricks"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tips & Tricks"]:before {
-    content: '🔑'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Thoughts](<../Thoughts.md>)
                     - ```css
 span.rm-page-ref[data-tag="Thoughts"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Thoughts"]:before {
-    content: '💭'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Observations](<../Observations.md>)
                     - ```css
 span.rm-page-ref[data-tag="Observations"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Observations"]:before {
-    content: '👀'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Conventions](<../Conventions.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conventions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Conventions"]:before {
-    content: '⚙️'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - [Processes](<../Processes.md>)
                     - ```css
 span.rm-page-ref[data-tag="Processes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Processes"]:before {
-    content: '⚙️'
-}```
-                - [Tips](<../Tips.md>)
-                    - ```css
-span.rm-page-ref[data-tag="Tips"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tips"]:before {
-    content: '☝️'
-}```
-                - Secondary & Experimental
-                    - `[Lectures](<../Lectures.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Lectures"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Lectures"]:before {
-    content: '🏫'
-}```
-                    - `#[Learning Objectives](<../Learning Objectives.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Learning Objectives"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Learning Objectives"]:before {
-    content: '🎓'
-}```
-                    - `[Discoveries](<../Discoveries.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Discoveries"] {
-    background: [03A9F4](<../03A9F4.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Discoveries"]:before {
-    content: '🎈'
-}```
-                    - `[Recommendations](<../Recommendations.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Recommendations"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Recommendations"]:before {
-    content: '📍'
-}```
-                    - `[Jokes](<../Jokes.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Jokes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Jokes"]:before {
-    content: '🤣'
-}```
-                    - `[Frameworks](<../Frameworks.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Frameworks"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Frameworks"]:before {
-    content: '⚙️'
-}```
-                    - `#[Goal Ideas](<../Goal Ideas.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Goal Ideas"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Goal Ideas"]:before {
-    content: '🎯'
-}```
-                    - `#[Graph Mentorship](<../Graph Mentorship.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Graph Mentorship"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Graph Mentorship"]:before {
-    content: '🤝'
-}```
-                    - `[Quotes](<../Quotes.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Quotes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Quotes"]:before {
-    content: '💬'
-}```
-                    - `[Prompts](<../Prompts.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Prompts"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompts"]:before {
-    content: '💭'
-}```
-                    - `[missing-list](<../missing-list.md>)
-                        - ```css
-span.rm-page-ref[data-tag="missing-list"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="missing-list"]:before {
-    content: '🔍'
-}```
-                    - `[Opportunities](<../Opportunities.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Opportunities"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Opportunities"]:before {
-    content: '🚀'
-}```
-                    - `[Examples](<../Examples.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Examples"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Examples"]:before {
-    content: '🏷'
-}```
-                    - `[Transcript](<../Transcript.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Transcript"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Transcript"]:before {
-    content: '📜'
-}```
-                    - `[Resources](<../Resources.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Resources"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Resources"]:before {
-    content: '🗃'
-}```
-                    - `[Stories](<../Stories.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Stories"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Stories"]:before {
-    content: '🎭'
-}```
-                    - `[Sprints](<../Sprints.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Sprints"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Sprints"]:before {
-    content: '🏃‍♂️'
-}```
-                    - `[Predictions](<../Predictions.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Predictions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Predictions"]:before {
-    content: '🔮'
-}```
-                    - `[Replies](<../Replies.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Replies"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Replies"]:before {
-    content: '💬'
-}```
-                    - `[Idioms](<../Idioms.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Idioms"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Idioms"]:before {
-    content: '🗣'
-}```
-                    - `[Timestamps](<../Timestamps.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Timestamps"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-                    - `[Tensions](<../Tensions.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Tensions"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tensions"]:before {
-    content: '⛓'
-}```
-                    - `#[Open Questions](<../Open Questions.md>)`
-                        - ```html
-span.rm-page-ref[data-tag="Open Questions"] {
-    background: [607D8B](<../607D8B.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Open Questions"]:before {
-    content: '❓'
-}```
-                    - `[Shownotes](<../Shownotes.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Shownotes"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-                    - `#[Weather Report](<../Weather Report.md>)
-                        - ```css
-span.rm-page-ref[data-tag="Weather Report"] {
-    background: [9E9E9E](<../9E9E9E.md>);
-    color: [fff](<../fff.md>);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Weather Report"]:before {
-    content: '🌤'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
             - Feedback Tags
                 - [Feedback](<../Feedback.md>)
@@ -2839,7 +2172,7 @@ span.rm-page-ref[data-tag="Weather Report"]:before {
                     - #[[[Feedback](<../[[Feedback.md>): What could be better]]
                     - #[[[Feedback](<../[[Feedback.md>): [Suggestions](<../Suggestions.md>)]]
                     - Code
-                        - ```css
+                        - ```clojure
 :root {
   --color:[FFFFFF](<../FFFFFF.md>);
   --padding:2px 5px 2px 5px;
@@ -4786,6 +4119,12 @@ span [data-tag="min-all"] {
   border: 			.25px dashed var(--cl-gray-500);
   margin-bottom: 	10px;
 }```
+            - Astrolabe Symbol
+                - make [astrolabe](<../astrolabe.md>) footnote symbol more visible
+                    - ```css
+.rm-spacer {
+    background: [FFF59D](<../FFF59D.md>) !important; 
+}```
         - Content
             - Headings [Status](<../Status.md>)/Enabled
                 - Preview
@@ -5011,19 +4350,168 @@ span.rm-page-ref[data-tag="dbrk"] {
 span.rm-page-ref[data-tag="ubrk"] {
   display: none;
 }```
-            - Block Highlights
-                - `[blk-gray](<../blk-gray.md>)` [blk-gray](<../blk-gray.md>)
-                    - ```css
-[data-page-links*="blk-gray"] > .rm-block-main {
+            - Block Background Highlights
+                - Highlight Entire Blocks
+                    - **Note:** Adding one of the below tags will change the color of the block, however the tags will not appear unless actively editing a block
+                    - grey blocks (use `[blk-grey](<../blk-grey.md>)`) [blk-grey](<../blk-grey.md>)
+                        - ```css
+[data-page-links*="blk-grey"] > .rm-block-main,
+[data-page-links*="blk-chld-grey"],
+[data-page-links*="chld-grey"] > .rm-block-children
+{
     /* color: [383d41](<../383d41.md>); */
-    background-color: var(--cl-gray-200);
-    border: .5px dashed var(--cl-gray-400); 
-    /*margin-bottom: 5px;*/
-}
-
-span.rm-page-ref[data-tag="blk-gray"] {
-  display: none;
+    background-color: [e2e3e5](<../e2e3e5.md>);
+    border: 2px solid [D3D2D2](<../D3D2D2.md>); 
+    margin-bottom: 5px;
 }```
+                        - Examples (note, tags have been "hidden")
+                            - Main block only [blk-red](<../blk-red.md>)
+                                - but not the children of that block
+                            - Gray at this level [blk-chld-grey](<../blk-chld-grey.md>)
+                                - Pre-empted by red at this level  [blk-chld-red](<../blk-chld-red.md>)
+                                    - And down to this level
+                            - Only children [chld-grey](<../chld-grey.md>)
+                                - Child 1
+                                - Child 2
+                    - blue blocks (use `[blk-blue](<../blk-blue.md>)`) [blk-blue](<../blk-blue.md>)
+                        - ```css
+[data-page-links*="blk-blue"] > .rm-block-main,
+[data-page-links*="blk-chld-blue"],
+[data-page-links*="chld-blue"] > .rm-block-children
+{
+ /*	 color: [004085](<../004085.md>);*/
+    background-color: [cce5ff](<../cce5ff.md>);
+    /*border-color: [b8daff](<../b8daff.md>);*/
+  border: solid 1px [b8daff](<../b8daff.md>);
+  /*border-color: [80BDFF](<../80BDFF.md>);*/
+    margin-bottom: 5px;
+}```
+                    - light blue blocks (use `[blk-light-blue](<../blk-light-blue.md>)`) [blk-light-blue](<../blk-light-blue.md>)
+                        - ```css
+[data-page-links*="blk-light-blue"] > .rm-block-main,
+[data-page-links*="blk-chld-light-blue"],
+[data-page-links*="chld-light-blue"] > .rm-block-children
+{
+ /*	 color: [004085](<../004085.md>);*/
+    background-color: [EEF6FF](<../EEF6FF.md>);
+    /*border-color: [b8daff](<../b8daff.md>);*/
+  border: solid 1px [98BCE3](<../98BCE3.md>);
+  /*border-color: [80BDFF](<../80BDFF.md>);*/
+    margin-bottom: 5px;
+}```
+                    - red blocks (use `[blk-red](<../blk-red.md>)`) [blk-red](<../blk-red.md>)
+                        - ```css
+[data-page-links*="blk-red"] > .rm-block-main,
+[data-page-links*="blk-chld-red"],
+[data-page-links*="chld-red"] > .rm-block-children
+{
+ 
+  /*   color: [721c24](<../721c24.md>);*/
+    background-color: [F7DCDE](<../F7DCDE.md>);
+    border: 1px solid [f5c6cb](<../f5c6cb.md>);
+  
+    margin-bottom: 5px;
+/*  box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 
+            0px -1px 5px  [DFDFDF](<../DFDFDF.md>);*/
+}```
+                    - light red blocks (use `[blk-light-red](<../blk-light-red.md>)`) [blk-light-red](<../blk-light-red.md>)
+                        - ```css
+[data-page-links*="blk-light-red"] > .rm-block-main,
+[data-page-links*="blk-chld-light-red"],
+[data-page-links*="chld-light-red"] > .rm-block-children
+{
+ 
+  /*   color: [155724](<../155724.md>); */
+    background-color: [FFFEFE](<../FFFEFE.md>);
+    border: 1px solid [E91E63](<../E91E63.md>);
+  
+    margin-bottom: 5px;
+}```
+                    - green blocks (use `[blk-green](<../blk-green.md>)`) [blk-green](<../blk-green.md>)
+                        - ```css
+[data-page-links*="blk-green"] > .rm-block-main,
+[data-page-links*="blk-chld-green"],
+[data-page-links*="chld-green"] > .rm-block-children
+{
+ 
+  /*   color: [155724](<../155724.md>); */
+    background-color: [d4edda](<../d4edda.md>);
+    border: 1px solid [c3e6cb](<../c3e6cb.md>);
+  
+    margin-bottom: 5px;
+}```
+                    - light green blocks (use `[blk-light-green](<../blk-light-green.md>)`) [blk-light-green](<../blk-light-green.md>)
+                        - ```css
+[data-page-links*="blk-light-green"] > .rm-block-main,
+[data-page-links*="blk-chld-light-green"],
+[data-page-links*="chld-light-green"] > .rm-block-children
+{
+ 
+  /*   color: [155724](<../155724.md>); */
+    background-color: [F7FFF9](<../F7FFF9.md>);
+    border: 1px solid [89D79A](<../89D79A.md>);
+  
+    margin-bottom: 5px;
+}```
+                    - yellow blocks (use `[blk-yellow](<../blk-yellow.md>)`) [blk-yellow](<../blk-yellow.md>)
+                        - ```css
+[data-page-links*="blk-yellow"] > .rm-block-main,
+[data-page-links*="blk-chld-yellow"],
+[data-page-links*="chld-yellow"] > .rm-block-children
+{
+ 
+ /*  color: [856404](<../856404.md>); */
+    background-color: [fff3cd](<../fff3cd.md>);
+    
+    border: 1px solid [ffeeba](<../ffeeba.md>);
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 
+            0px -1px 5px  [DFDFDF](<../DFDFDF.md>);*/
+}```
+                    - orange blocks (use `[blk-orange](<../blk-orange.md>)`) [blk-orange](<../blk-orange.md>)
+                        - ```css
+[data-page-links*="blk-orange"] > .rm-block-main,
+[data-page-links*="blk-chld-orange"],
+[data-page-links*="chld-orange"] > .rm-block-children
+{
+ 
+ /*  color: [856404](<../856404.md>); */
+    background-color: [F7DAB1](<../F7DAB1.md>);
+    
+    border: 1px solid [ffeeba](<../ffeeba.md>);
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 
+            0px -1px 5px  [DFDFDF](<../DFDFDF.md>);*/
+}```
+                    - purple blocks (use `[blk-purple](<../blk-purple.md>)`) [blk-purple](<../blk-purple.md>)
+                        - ```css
+[data-page-links*="blk-purple"] > .rm-block-main,
+[data-page-links*="blk-chld-purple"],
+[data-page-links*="chld-purple"] > .rm-block-children
+{
+ 
+ /*  color: [856404](<../856404.md>); */
+    background-color: [F8EDFF](<../F8EDFF.md>);
+    
+    border: 1px solid [CB89D7](<../CB89D7.md>);
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px [000000](<../000000.md>), 
+            0px -1px 5px  [DFDFDF](<../DFDFDF.md>);*/
+}```
+                        - 
+                    - Accessory CSS to hide `[blk-](<../blk-.md>)<color>` tags
+                        - ```css
+
+/* this code hides all the block tags */
+[data-tag^="chld"],
+[data-tag^="blk-chld"],
+[data-tag^="blk"] {
+display:none;
+}```
+                - 
         - Miscellaneous
             - Sign Up Form Iframe
                 - ```css

@@ -6,6 +6,8 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
 ## [DNP Modules](<DNP Modules.md>)
 - #[Change Log](<Change Log.md>)
 
@@ -124,9 +126,6 @@
 ## [February 8th, 2021](<February 8th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
-## [Graph/Templates](<Graph/Templates.md>)
-- #[Change Log](<Change Log.md>)
-
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check the #[Change Log](<Change Log.md>)
 
@@ -194,6 +193,9 @@
 ## [March 6th, 2021](<March 6th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
+- #[Change Log](<Change Log.md>)
+
+## [March 8th, 2021](<March 8th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
 ## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)

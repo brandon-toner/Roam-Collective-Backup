@@ -6,7 +6,7 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
     - {{[[embed]]: ((XS29OCnVF))}}
 - ---
-- #[[The Main Feed]]
+- #[[Main Feed]]
     - {{[[embed]]: ((JfnNhLc4U))}}
 - ---
 - #[[Daily Activities]]
@@ -137,7 +137,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - ((_sY7e8FNg)) #[[Live Session 2]]
             - #[[FN]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))
             - #[[FN]] The writing context affects the style and structure of expression.
-            - #[[FN]] The [[meta]] fades when the system is clear. #[[The Main Feed]]
+            - #[[FN]] The [[meta]] fades when the system is clear. #[[Main Feed]]
             - #[[FN]] few ideas are truly [[permanent]] #[[permanent notes]]
                 - For this reason I am [[hesitant]] to use the term.
                 - [[evergreen notes]] feels softer, less certain — more approachable maybe.

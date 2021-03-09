@@ -56,6 +56,10 @@
 - **[Twitter](<Twitter.md>):** [@shaffner_justin](https://twitter.com/shaffner_justin)
         - **[Website](<Website.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[Twitter](<Twitter.md>):** [@kickingkite](https://twitter.com/kickingkite)
+        - **[Website](<Website.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Twitter](<Twitter.md>):** [@kylestratis](https://twitter.com/kylestratis)
         - **[Website](<Website.md>):**

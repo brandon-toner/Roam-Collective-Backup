@@ -1,6 +1,6 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - "Feeling like another sync session for the RC might be helpful to cast a vision for the next steps and areas of focus. Realign around a common goal. -- maybe some night this week?"
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -21,7 +21,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - [Scratchpad](<Scratchpad.md>) 
         - [I](<I.md>) There is huge potential in enhancing the query function in Roam.[*]([Roam Enhancement Requests](<Roam Enhancement Requests.md>))
             - Within the block vs within the path
@@ -178,7 +178,7 @@
                     - [roam/chat](<roam/chat.md>)
                 - Chats would be nested underneath a date
                     - [March 1st, 2021](<March 1st, 2021.md>)
-                        - "12:12 [Charles Farr](<Charles Farr.md>): This is an example chat"
+                        - 12:12 [Charles Farr](<Charles Farr.md>): This is an example chat [*](((mSXP90Irg)))
                 - You could include page references and block references within a chat
                     - 12:13 [Charles Farr](<Charles Farr.md>): Hey all, can you take a look at my thoughts here: "Thoughts on [in-graph chat](<in-graph chat.md>), in-graph snail-mail, and the idea of [velocity of conversation](<velocity of conversation.md>)"
                     - 12:14 [Charles Farr](<Charles Farr.md>): Much of what I'm writing about is related to [Books/The Culture Code](<Books/The Culture Code.md>)...

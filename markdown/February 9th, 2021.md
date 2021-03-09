@@ -13,12 +13,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
             - How graph onboarding and documentation could be improved to orient new visitors
             - A set of questions that guide our explorations. Ref: [[12 Favorite Problems]]
             - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About Roam Collective]])
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Meetup Wednesday at 20:00GMT"
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[[Scratchpad]] 
         - Hopped on [[Clubhouse]] for "20 mins" stayed for 2 hours. [[February 8th, 2021]] 
             - Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):

@@ -416,6 +416,9 @@
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Tags](<Tags.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Tags](<Tags.md>):**
 
@@ -438,6 +441,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Maggie Delano](<Maggie Delano.md>)
+- **[Tags](<Tags.md>):**
+
+## [Main Feed](<Main Feed.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Maintain your connections with people.](<Maintain your connections with people..md>)
@@ -667,9 +673,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [The Hub](<The Hub.md>)
-- **[Tags](<Tags.md>):**
-
-## [The Main Feed](<The Main Feed.md>)
 - **[Tags](<Tags.md>):**
 
 ## [The Zettelkasten](<The Zettelkasten.md>)

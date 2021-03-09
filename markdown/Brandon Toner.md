@@ -9,7 +9,7 @@
             - Send me a DM on Roam Slack (preferred)
             - Send me a DM on Twitter (also great)
             - Tag me in something here ([under development, but YEA give it a hook — I'll see it]([[Chat]]))
-    - {{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}
+    - {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
 - **Personal Queries:**
     - Notifications
         - **Unread Notifications:**
@@ -33,21 +33,13 @@
         - **Todos:**
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - **Personal SmartBlocks:**
-    - BToner — .DNP Template #42SmartBlock #roam/templates 
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+    - BToner — .DNP Template #42SmartBlock
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
             - #Scratchpad #not-populated
-            - #Conversation #not-populated
-            - #[[The Zettelkasten]]
-                - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
-                - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
-                - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
-                - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
-            - #[[GTD Zone]]
-                - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
-                - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
-                - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+            - #Conversation #not-populated <%CURRENTBLOCKREF:newDNPRoot%>
             - #[[Change Log]] #not-populated
         - ---
+        - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
     - Mentions (BT)
     - BToner — Andy's Notes #42SmartBlock #roam/templates
         - Tags:: #[[Evergreens]] #[[Reference Notes]] #[[Andy's Notes]]
@@ -93,3 +85,19 @@
         - **Brandon:** 
     - BToner — @Charles #42SmartBlock #roam/templates
         - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
+    - **Archive**
+        - BToner — .DNP Template (V1) 
+            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+                - #Scratchpad #not-populated
+                - #Conversation #not-populated
+                - #[[The Zettelkasten]]
+                    - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
+                    - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
+                    - {{BToner — Today + I + bnt:42SmartBlock:BToner — Today + I + bnt}}
+                    - {{BToner — Today + FN + bnt:42SmartBlock:BToner — Today + FN + bnt}}
+                - #[[GTD Zone]]
+                    - {{TODO + bnt:42SmartBlock:BToner — TODO + bnt}}
+                    - {{TODO + bnt + createdtoday:42SmartBlock:BToner — TODO + bnt + [today]}}
+                    - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
+                - #[[Change Log]] #not-populated
+            - ---

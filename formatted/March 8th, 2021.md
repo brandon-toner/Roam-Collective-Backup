@@ -1,5 +1,24 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+    - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+    - [Conversation](<Conversation.md>) 
+        - [@[[Alysson M. Costa](<@[[Alysson M. Costa.md>)]] re [change log](((BLrKswZok)))
+            - Yup that's right! Change log is just for big changes that might affect other people.
+        - [@[[Kaito Kikuchi](<@[[Kaito Kikuchi.md>)]] [welcome!](((HJB-DxxGd)))
+            - Glad to have you here! Jump right in and let me know if you have any questions. 
+            - Would also love your thoughts/impressions within a [Feedback](<Feedback.md>) section (simply add it in your section and nest thoughts underneath.)
+                - I'm interested in the good, the interesting, the confusing, the unclear, the exciting, the intimidating, etc etc. [cc:[[Alysson M. Costa](<cc:[[Alysson M. Costa.md>)]]
+    - #[Change Log](<Change Log.md>) 
+        - CSS Changes general approach = softened appearance: (with versions)
+            - Notification Tags
+            - Top Section
+            - Block-Level Tags
+            - DNP Modules
+        - Changed [Roam42](<Roam42.md>) to test version
+            - New "OPENPAGE"/"SIDEBAR" Commands available.
+            - Can now auto-open conversation module in the sidebar on running the DNP (from there, pin it for the day) - [here's mine.](((tz8gJ1NJv)))
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>)
@@ -10,9 +29,18 @@
         - Query:
             - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Alysson M. Costa](<Alysson M. Costa.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) 
         - Finally had some time to check this! Looks really interesting. Lots to learn! I created a page Alysson by mistake and deleted it. I don't believe this a is case for change log.
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Kaito Kikuchi](<Kaito Kikuchi.md>) {{word-count}}
+    - [Scratchpad](<Scratchpad.md>)
+        - Very excited to join! Lots to learn and observe...
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - [Scratchpad](<Scratchpad.md>) 
+        - Returning to thoughts around [roam/chat](<roam/chat.md>)
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

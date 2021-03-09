@@ -6,7 +6,7 @@
         -  {{[embed](<embed.md>): ((mbcPwYoAX))}}
     - Made a few minor additions as I worked through open questions. [Charles Farr](<Charles Farr.md>)
         - {{embed: ((DJkpCjWNY))}}
-- #[The Main Feed](<The Main Feed.md>)
+- #[Main Feed](<Main Feed.md>)
     - **Questions:**
         - {{[query](<query.md>): {and: [January 26th, 2021](<January 26th, 2021.md>) [Questions](<Questions.md>)}}}
     - {{[embed](<embed.md>): ((uXSkzmCUC))}}

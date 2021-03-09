@@ -36,8 +36,3 @@
 ## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
 span[data-link-title^="@[Everyone](<Everyone.md>)"
 
-## [roam/css](<roam/css.md>)
-span[data-link-title^="@[Everyone](<Everyone.md>)"
-
-span[data-link-title^="@[Everyone](<Everyone.md>)"
-

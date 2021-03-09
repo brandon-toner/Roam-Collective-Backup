@@ -1,9 +1,9 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] #not-populated
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How do you manage the problem of community fragmentation?
             - i.e. as similar communities with similar missions form, how do you allocate your attention?
@@ -118,9 +118,9 @@
         - "#Q How do you manage the problem of community fragmentation?"
     - #[[Change Log]]
         - Updated the CSS for conversation tags... 
-            - [[@[[Their Name]]]] → "Version 2 #Status/Enabled"
-            - [[cc:[[Their Name]]]] → "Version 2 #Status/Enabled"
-            - [[~[[Your Name]]]] → "Version 2 #Status/Enabled"
-            - [[^[[Your Name]]]] → "Version 2 #Status/Enabled"
+            - [[@[[Their Name]]]] → Version 2 #Status/Enabled
+            - [[cc:[[Their Name]]]] → Version 2 #Status/Enabled
+            - [[~[[Your Name]]]] → Version 2 #Status/Enabled
+            - [[^[[Your Name]]]] → Version 2 #Status/Enabled
             - Goal was to make them a bit more compact, a bit more eye catching...
 - ---

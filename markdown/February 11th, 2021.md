@@ -2,7 +2,7 @@
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)"
         2. See [Sprint 1 Page]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) for updates on that.[*](((RK8SxJ-Pb)))
     - #Chat ((A place to propose objects of discussion)) 
@@ -11,7 +11,7 @@
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - Active Sprint:: [[Sprints/1 — Roam Games 3 (managing dependencies)]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[[Scratchpad]] 
         - #Q What do you do if a sprint is also a question? 
             - #I Duplicate it as a questions page, linking to the sprint. 

@@ -4,7 +4,7 @@
     - "Describe your experience in [[Roam-Collective]] so far. What is going well? What conventions are working?[*]([[[[Feedback]]: What's working]])."
     - "Think of one thing that could improve the [[Roam-Collective]] experience.[*]([[[[Feedback]]: What could be better]])"
     - __Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
-- #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+- #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - My morning podcast listening felt VERY relevant to this project, so I imported my [[Readwise]] highlights via [[JSON]]. #Serendipity
         - "[[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]"
             - "#[[Literature Notes]] [[rules]] are [emergent]([[emergent]]). They are the product of implicit systems of behaviour, made explicit through [[experience]] and subsequent revelation or [insight]([[insights]]). ([[pattern-recognition]]) #conventions [*]([[Roam Collaboration Guide]])"

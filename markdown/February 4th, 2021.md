@@ -3,7 +3,7 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
     - #Chat ((A place to propose objects of discussion))
         1. **Peter:** "[[Everyone]] Would people want to add birthdays to their profiles?"
             1. I've added mine - Brandon (page ref to 2021 to generate the reference)
@@ -141,7 +141,7 @@ Monthly reviews could include a zoom catchup?
         - {{[[embed]]: ((r1FQAyh6N))}}
         - {{[[embed]]: ((jbnNi00AV))}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[[Scratchpad]] 
         - Are we creating [[MSN Messenger]]? 😂 
             - Image::

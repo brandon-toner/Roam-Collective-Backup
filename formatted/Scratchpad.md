@@ -147,6 +147,3 @@
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [Scratchpad](<Scratchpad.md>)
 
-## [roam/css](<roam/css.md>)
-- #[Scratchpad](<Scratchpad.md>)
-

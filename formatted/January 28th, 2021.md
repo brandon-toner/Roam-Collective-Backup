@@ -1,5 +1,5 @@
 - {{embed: ((b9pQnEURN))}}
-- #[The Main Feed](<The Main Feed.md>)
+- #[Main Feed](<Main Feed.md>)
     - Did quite a bit in my section towards the end of the day on [January 27th, 2021](<January 27th, 2021.md>) — particularly in "#[The Zettelkasten](<The Zettelkasten.md>)"
 - ---
 - #[Daily Activities](<Daily Activities.md>)
@@ -10,7 +10,7 @@
             - [Template](((d4tbH1tCA))) for structuring consistent [metadata](<metadata.md>).
     - "How should we handle graph instability?"
     - "What problem do you think the Roam team is experiencing with [project management](<project management.md>) that inspired this as the first challenge? ((What is the problem, and what are possible solutions?)) [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]])"
-- #[The Main Feed](<The Main Feed.md>)
+- #[Main Feed](<Main Feed.md>)
     - "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)"
     - "I am LOVING the new indentation collapse feature. Soooo helpful for these daily pages. "
     - ((i66SL3BAl))

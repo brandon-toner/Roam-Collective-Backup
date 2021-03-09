@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[The Zettelkasten]]
         - **Observations:**
@@ -28,7 +28,7 @@
     - #[[Change Log]]
         - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
             - Image::

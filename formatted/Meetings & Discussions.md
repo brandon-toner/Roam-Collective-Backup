@@ -43,6 +43,3 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [[[RC Meetup](<[[RC Meetup.md>) (Feb 10)]] #[Meetings & Discussions](<Meetings & Discussions.md>)
 
-## [roam/css](<roam/css.md>)
-- #[Meetings & Discussions](<Meetings & Discussions.md>)
-

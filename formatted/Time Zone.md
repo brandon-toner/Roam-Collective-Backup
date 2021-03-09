@@ -48,6 +48,10 @@
 - **[Work](<Work.md>):** [anthropologist](<anthropologist.md>) [researcher](<researcher.md>)
         - **[Time Zone](<Time Zone.md>):**
 
+## [Kaito Kikuchi](<Kaito Kikuchi.md>)
+- **[Location](<Location.md>):** [San Diego, CA](<San Diego, CA.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - **[Location](<Location.md>):** [Boston](<Boston.md>), [Massachusetts](<Massachusetts.md>) [USA](<USA.md>)
         - **[Time Zone](<Time Zone.md>):**

@@ -3,7 +3,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) [*]([rc](<rc.md>)) {{word-count}}
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
-    - #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
         - Discussions include:
             - [CSS & visual organization](((ohA0JBJZ6)))
             - [Norms](((CaGPiJ2TS)))
@@ -25,7 +25,7 @@
                     - Imported to personal graph
                     - Copied in missing pieces.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #[Scratchpad](<Scratchpad.md>) 
         - [Observations](<Observations.md>)
             - The [[[Roam Book Club](<[[Roam Book Club.md>) III]] graph looks AMAZING! [Examples](<Examples.md>)
@@ -654,7 +654,7 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Rationalize down the number of tags we have a current (design has been divergent, time to converge a bit)
                     - Develop a visual language that has implied meaning
                         - For instance...
-                            - All section-level tags have a background (e.g., "[Conversation](<Conversation.md>)")
+                            - All section-level tags have a background (e.g., [Conversation](<Conversation.md>))
                             - All block-level tags are bolded and add a `:` at the end (e.g., formatting like `#[Q](<Q.md>) like [Evergreen](<Evergreen.md>))
                             - Aligning color palettes with specific tag groupings (e.g., all DNP modules tags are shades of blue while notes are shades green (spitballing here))
                     - Create some "dashboard" pages that aggregate specific tags (e.g., a layout that makes it easy to see the latest Questions, or Questions that have been answered, etc.)

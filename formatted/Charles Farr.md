@@ -394,7 +394,7 @@ window.updateIndexPage = updateIndexPage;
 
 - 12:12 [Charles Farr](<Charles Farr.md>):
 
-- "12:12 [Charles Farr](<Charles Farr.md>):
+- 12:12 [Charles Farr](<Charles Farr.md>):
 
 - 12:13 [Charles Farr](<Charles Farr.md>):
 
@@ -403,6 +403,9 @@ window.updateIndexPage = updateIndexPage;
 - I take it you shared this with [Stian Håklev](<Stian Håklev.md>) already [Charles Farr](<Charles Farr.md>)?
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
+## [March 8th, 2021](<March 8th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
 ## [Projects/Outline structure for Roam Collective Reading Group (RBC4)](<Projects/Outline structure for Roam Collective Reading Group (RBC4).md>)

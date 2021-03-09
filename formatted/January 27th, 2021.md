@@ -6,7 +6,7 @@
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
     - {{[embed](<embed.md>): ((XS29OCnVF))}}
 - ---
-- #[The Main Feed](<The Main Feed.md>)
+- #[Main Feed](<Main Feed.md>)
     - {{[embed](<embed.md>): ((JfnNhLc4U))}}
 - ---
 - #[Daily Activities](<Daily Activities.md>)
@@ -137,7 +137,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - ((_sY7e8FNg)) #[Live Session 2](<Live Session 2.md>)
             - #[FN](<FN.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>) to [noise](<noise.md>) by promoting [clarity](<clarity.md>) and [order](<order.md>). [*](((io7qOh0kA)))
             - #[FN](<FN.md>) The writing context affects the style and structure of expression.
-            - #[FN](<FN.md>) The [meta](<meta.md>) fades when the system is clear. #[The Main Feed](<The Main Feed.md>)
+            - #[FN](<FN.md>) The [meta](<meta.md>) fades when the system is clear. #[Main Feed](<Main Feed.md>)
             - #[FN](<FN.md>) few ideas are truly [permanent](<permanent.md>) #[permanent notes](<permanent notes.md>)
                 - For this reason I am [hesitant](<hesitant.md>) to use the term.
                 - [evergreen notes](<evergreen notes.md>) feels softer, less certain — more approachable maybe.

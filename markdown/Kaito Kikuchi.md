@@ -1,0 +1,14 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@kickingkite](https://twitter.com/kickingkite)
+        - Website:: [kaito.co]()https://www.kaito.co/)
+        - Location:: [[San Diego, CA]]
+        - Time Zone:: Pacific Standard Time
+    - **Online Status:**  {{or:🟢Online | ⚫️Offline | 🟠Away | 🟡On & Off}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP kaitochondria — Daily Notes Template #42SmartBlock
+        - #[[My Daily Notes]] [[Kaito Kikuchi]] {{word-count}}
+            - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+            - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - ---

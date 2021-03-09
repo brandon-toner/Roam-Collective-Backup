@@ -14,13 +14,13 @@
                     - Will eventually live within [[Roaman Agora]]
                 - Building "[[Roaman Agora]]" -- [[Charles Farr]]
                 - Integrating [[roam-inter]] into [[Roaman Agora]] -- [[Charles Farr]]
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day))  
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC.
             - "**Brandon:** Populated epic [description and vision statements](((owNcyPWbT)))."
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - Domains #Outlines
             - Onboarding

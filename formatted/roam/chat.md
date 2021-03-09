@@ -14,3 +14,6 @@
 
 - Chats can use roams page reference and block reference functions, as the foundation is a block within the [roam/chat](<../roam/chat.md>)
 
+## [March 8th, 2021](<March 8th, 2021.md>)
+- Returning to thoughts around [roam/chat](<../roam/chat.md>)
+

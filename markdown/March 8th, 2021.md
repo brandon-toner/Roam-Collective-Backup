@@ -1,5 +1,24 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+    - #Scratchpad #not-populated
+    - #Conversation 
+        - [[@[[Alysson M. Costa]]]] re [change log](((BLrKswZok)))
+            - Yup that's right! Change log is just for big changes that might affect other people.
+        - [[@[[Kaito Kikuchi]]]] [welcome!](((HJB-DxxGd)))
+            - Glad to have you here! Jump right in and let me know if you have any questions. 
+            - Would also love your thoughts/impressions within a #Feedback section (simply add it in your section and nest thoughts underneath.)
+                - I'm interested in the good, the interesting, the confusing, the unclear, the exciting, the intimidating, etc etc. [[cc:[[Alysson M. Costa]]]]
+    - #[[Change Log]] 
+        - CSS Changes general approach = softened appearance: (with versions)
+            - Notification Tags
+            - Top Section
+            - Block-Level Tags
+            - DNP Modules
+        - Changed [[Roam42]] to test version
+            - New "OPENPAGE"/"SIDEBAR" Commands available.
+            - Can now auto-open conversation module in the sidebar on running the DNP (from there, pin it for the day) - [here's mine.](((tz8gJ1NJv)))
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
     - #Inbox
@@ -10,9 +29,18 @@
         - Query:
             - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
     - #Bookmarks #not-populated
-    - 
 - ---
 - #[[My Daily Notes]] [[Alysson M. Costa]] {{word-count}}
     - #Scratchpad 
         - Finally had some time to check this! Looks really interesting. Lots to learn! I created a page Alysson by mistake and deleted it. I don't believe this a is case for change log.
+- ---
+- #[[My Daily Notes]] [[Kaito Kikuchi]] {{word-count}}
+    - #Scratchpad
+        - Very excited to join! Lots to learn and observe...
+- ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad 
+        - Returning to thoughts around [[roam/chat]]
+    - #Conversation #not-populated
+    - #Bookmarks #not-populated
 - ---

@@ -6,7 +6,7 @@
         -  {{[[embed]]: ((mbcPwYoAX))}}
     - Made a few minor additions as I worked through open questions. [[Charles Farr]]
         - {{embed: ((DJkpCjWNY))}}
-- #[[The Main Feed]]
+- #[[Main Feed]]
     - **Questions:**
         - {{[[query]]: {and: [[January 26th, 2021]] [[Questions]]}}}
     - {{[[embed]]: ((uXSkzmCUC))}}

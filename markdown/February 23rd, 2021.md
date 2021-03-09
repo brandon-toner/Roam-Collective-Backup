@@ -5,7 +5,7 @@
         - "Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block."
             - ""{{[[roam/js]]}}""
     - #[[Daily Activities]] #not-populated
-    - #[[The Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
         1. "#Obs I notice performance is lagging quite a bit since the changes today/yesterday. Not sure if Roam/js or the queries. Anyone else notice any performance issues?"
         2. "#Q Is "chat" better as a query?"
@@ -164,7 +164,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                             - Afterward it can even be simplified down to the essentials, making it easier to build a functioning chat plugin relatively fast. 
                     - And last note, sorry for dumping these huge walls of text. I work by bursts of inspiration!
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟠Away | 🟡On & Off | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
     - #Scratchpad 
         - #I Create a #[[temp-queries]] tag to append to blocks with queries used "just for today"
             - Goal: prevent database from slowing down due to too many queries

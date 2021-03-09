@@ -8,8 +8,8 @@
 - ### Shortcuts::
     - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((6w_N1hr1k)))
-        - [Collections Tags](((JNVnlLDxv))) 
-        - [Notifications & Mentions](((w3TzfgkhG)))
+        - [Collections Tags](Page-type Tags) 
+        - [Notifications & Mentions](Notifications & Mentions)
     - [Headings](((nL58k_bhI)))
     - [Page References](((kJ_piMpzy)))
     - [Block References](((xcLgPdvs0)))
@@ -1021,18 +1021,19 @@ span.rm-page-ref[data-tag="Community Notes"]:before {
                 - #Announcements
                     - ```css
 span.rm-page-ref[data-tag="Announcements"] {
-    background: var(--cl-red-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+    background: 	var(--cl-red-800);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
 }
 
 span.rm-page-ref[data-tag="Announcements"]:before {
-    content: '📢';
+    content: 		'📢';
+  	padding-right: 	2px;
 }```
                 - #[[Daily Activities]]
                     - ```css
@@ -1050,53 +1051,22 @@ span.rm-page-ref[data-tag="Daily Activities"] {
 span.rm-page-ref[data-tag="Daily Activities"]:before {
     content: '✍🏼'
 }```
-                - #[[The Main Feed]]
+                - #[[Main Feed]]
                     - ```css
-span.rm-page-ref[data-tag="The Main Feed"] {
-	background: var(--cl-orange-600);
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Main Feed"] {
+	background: 	var(--cl-blue-700);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
 }
 
-span.rm-page-ref[data-tag="The Main Feed"]:before {
-    content: '⭐️'
-}```
-                - #[[Chat]]
-                    - ```css
-span.rm-page-ref[data-tag="Chat"] {
-    background: var(--cl-blue-500);
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Chat"]:before {
-    content: '📢'
-}```
-                - #[[Daily Log]]
-                    - ```css
-span.rm-page-ref[data-tag="Daily Log"] {
-    background: #FF9800;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Daily Log"]:before {
-    content: '📆'
+span.rm-page-ref[data-tag="Main Feed"]:before {
+    content:     	'⭐️';
+  	padding-right: 	2px;
 }```
             - DNP Modules
                 - #[[My Daily Notes]] [[Your Name]]
@@ -1150,327 +1120,211 @@ span.rm-page-ref[data-tag="My Daily Notes"]:before {
     border-width: 11px;
     margin-top: -11px;
 }```
-                - #[[Scratchpad]]
+                - #Scratchpad
                     - ```css
-span.rm-page-ref[data-tag="Scratchpad"] {
-    background: var(--cl-yellow-800);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Scratchpad"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-800);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 3px  #DFDFDF;
 }
 
 span.rm-page-ref[data-tag="Scratchpad"]:before {
-    content: '✏️';
+    content: 	'✏️';
+  	padding-right:	2px;
 }```
                 - #Conversation
                     - ```css
-span.rm-page-ref[data-tag="Conversation"] {
-    background: var(--cl-green-700);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Conversation"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
 }
 
 span.rm-page-ref[data-tag="Conversation"]:before {
-    content: '💬'
+    content: 		'📮';
+  	padding-right: 	2px;
+}```
+                - #[[Change Log]]
+                    - ```css
+span.rm-page-ref[data-tag="Change Log"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-800);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="Change Log"]:before {
+    content: '📢';
+  	padding-right: 2px;  
+}```
+                - #[[Feedback]]
+                    - ```css
+span.rm-page-ref[data-tag="Feedback"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-purple-900);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="Feedback"]:before {
+    content: '💬';
+  	padding-right: 2px;  
 }```
                 - #[[Bookmarks]]
                     - ```css
-span.rm-page-ref[data-tag="Bookmarks"] {
-    background: var(--cl-blue-500);
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Bookmarks"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
 }
 
 span.rm-page-ref[data-tag="Bookmarks"]:before {
     content: '💾';
+  	padding-right: 2px;
 }```
-                - #[[Change Log]]
+                - #Todos
                     - ```css
-span.rm-page-ref[data-tag="Change Log"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Todos"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
 }
 
-span.rm-page-ref[data-tag="Change Log"]:before {
-    content: '📢'
+span.rm-page-ref[data-tag="Todos"]:before {
+    content: 		'🎯';
+  	padding-right: 	2px;
 }```
-                - #[[The Zettelkasten]]
+                - #[[Daily Log]]
                     - ```css
-span.rm-page-ref[data-tag="The Zettelkasten"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
+span.rm-page-ref[data-tag="Daily Log"] 
+{ background: #fff;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: var(--cl-gray-700);
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
 }
 
-span.rm-page-ref[data-tag="The Zettelkasten"]:before {
-    content: '⚡';
-}```
-                - #Questions
-                    - ```css
-span.rm-page-ref[data-tag="Questions"] {
-    background: var(--cl-gray-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Questions"]:before {
-    content: '❓';
-}```
-                - #Promptstorming
-                    - ```css
-span.rm-page-ref[data-tag="Promptstorming"] {
-    background: var(--cl-red-600);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Promptstorming"]:before {
-    content: '🌪️';
-}```
-                - #[[Help Wanted]]
-                    - ```css
-span.rm-page-ref[data-tag="Help Wanted"] {
-    background: #9C27B0;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Help Wanted"]:before {
-    content: '😃'
-}```
-                - #[[Feedback & Questions]]
-                    - ```css
-span.rm-page-ref[data-tag="Feedback & Questions"] {
-    background: var(--cl-purple-900);
-    color: var(--cl-white);
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Feedback & Questions"]:before {
-    content: '📢';
-}```
-                - "#Questions"
-                - "#[[Chat]]"
-                - #[[Dice Roll]]
-                    - ```css
-span.rm-page-ref[data-tag="Dice Roll"] {
-    background: #009688;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Dice Roll"]:before {
-    content: '🎲'
+span.rm-page-ref[data-tag="Daily Log"]:before {
+    content: '📆'
 }```
             - Notifications & Mentions
                 - [[@[[Their Name]]]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="@"] {
-        border: 2px solid #B35555 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="@"]:before {
-    color: #000746 !important;
-    content: "🚨unread ";
-}
-
-span[data-link-title^="@[[Everyone]]"]:before {
-    color: #000746 !important;
-    content: "🚨🚨" !important;
-}```
-                    - Version 2 #Status/Enabled
-                        - ```css
-span[data-link-title^="@"] {
-  	border:			.5px solid var(--cl-red-700);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="@"] .rm-page-ref {
-  color: var(--cl-red-800) !important;
-  font-weight:	600;
+  color: var(--cl-orange-600);
+  font-weight:	500;
 }
 
 span[data-link-title^="@"]:before {
-    color: 			var(--cl-black);
-    content: 		"🚨";
+   /* content: 		"🧭";*/
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }
 
-span[data-link-title^="@[[Everyone]]"]:before {
+span[data-link-title^="@[[Admin]]"]:before {
     color: var(--cl-black) !important;
     content: "🚨🚨" !important;
 }```
                 - [[cc:[[Their Name]]]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="cc:"] {
-        border: 2px solid #2196F3 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="cc:"]:before {
-    color: #000746 !important;
-    content: "📨 ";
-}```
-                    - Version 2 #Status/Enabled
-                        - ```css
-span[data-link-title^="cc:"] {
-  	border:			.5px solid var(--cl-blue-lt-600);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="cc:"] .rm-page-ref {
-  color: var(--cl-blue-dk-900) !important;
-  font-weight:	600;
+  color: var(--cl-yellow-800) !important;
+  font-weight:	500;
 }
 
 span[data-link-title^="cc:"]:before {
     color: 			var(--cl-black);
-    content: 		"📨";
+ /*   content: 		"📨"; */
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }```
                 - [[~[[Your Name]]]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="~"] {
-        border: 2px solid #02B920 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    	line-height: 2em;
-} 
-
-span[data-link-title^="~"]:before {
-    color: #000746 !important;
-    content: "✅read "
-}```
-                    - Version 2 #Status/Enabled
-                        - ```css
-span[data-link-title^="~"] {
-  	border:			.5px solid var(--cl-green-800);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="~"] .rm-page-ref {
   color: var(--cl-green-900) !important;
-  font-weight:	600;
+  font-weight:	500;
 }
 
 span[data-link-title^="~"]:before {
     color: 			var(--cl-black);
-    content: 		"✅";
+ /*   content: 		"✅";*/
   	padding-right:	3px;
   	font-weight:	300;
   	font-size:		13px;
 }```
                 - [[^[[Your Name]]]]
-                    - Version 1
-                        - ```javascript
-span[data-link-title^="^"] {
-        border: 2px solid #4CAF50 !important;
-        padding: 3px 6px 3px 7px;
-        margin-right: 1px;
-    line-height: 2em;
-} 
-
-span[data-link-title^="^"]:before {
-    color: #000746 !important;
-    content: "💾saved "
-}```
-                    - Version 2 #Status/Enabled
-                        - ```css
-span[data-link-title^="^"] {
-  	border:			.5px solid var(--cl-gray-800);
-    padding: 		2px 5px 2px 5px;
-    line-height: 	1em;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-	background: 	var(--cl-gray-100);
-} 
-
+                    - ```css
 span[data-link-title^="^"] .rm-page-ref {
-  color: var(--cl-gray-600) !important;
-  font-weight:	600;
-}
-
-span[data-link-title^="^"]:before {
-    color: 			var(--cl-black);
-    content: 		"💾";
-  	padding-right:	3px;
-  	font-weight:	300;
-  	font-size:		13px;
+  color: var(--cl-blue-600) !important;
+  font-weight:	500;
 }```
             - Note & Zettelkasten Tags
                 - #[[Fleeting Notes]]
@@ -1593,6 +1447,38 @@ span.rm-page-ref[data-tag="Evergreens"] {
     border-radius: 5px 5px 5px 5px;
     position:relative;
 }```
+                - #Maxims
+                    - ```css
+span.rm-page-ref[data-tag="Maxims"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+  	border-style: 	dotted;
+  	border-color:	var(--cl-gray-500);
+  	border-width:	2px;
+    border-radius: 	5px 5px 5px 5px;
+    padding: 		2px 5px 2px 5px;
+}
+
+span.rm-page-ref[data-tag="Maxims"]:before {
+    content: 		'💫';
+  	padding-right: 	px;
+}```
+                - #Claims
+                    - ```css
+span.rm-page-ref[data-tag="Claims"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+  	border-style: 	dotted;
+  	border-color:	var(--cl-gray-500);
+  	border-width:	2px;
+    border-radius: 	5px 5px 5px 5px;
+    padding: 		2px 5px 2px 5px;
+}
+
+span.rm-page-ref[data-tag="Claims"]:before {
+    content: 		'📜';
+  	padding-right:	px;
+}```
                 - #[[Reference Notes]]
                     - ```css
 span.rm-page-ref[data-tag="Reference Notes"] {
@@ -1632,6 +1518,107 @@ span.rm-page-ref[data-tag="Annotations"] {
     font-weight: 500;
     border-radius: 5px 5px 5px 5px;
     position:relative;
+}```
+                - ### Block-level Tags
+                    - #Q (Questions)→ 
+                        - ```css
+span.rm-page-ref[data-tag="Q"] {
+    color: var(--cl-purple-800);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="Q"]:after {
+    content: ':'
+}```
+                    - #[[I]] (Ideas)
+                        - ```css
+span.rm-page-ref[data-tag="I"] {
+    color: var(--cl-yellow-900);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="I"]:after {
+    content: ':'
+}```
+                    - #N (Notes/Assertions/Propositions)
+                        - ```css
+span.rm-page-ref[data-tag="N"] {
+    color: var(--cl-green-900);
+    font-weight: 600;
+}
+span.rm-page-ref[data-tag="N"]:after {
+    content: ':'
+}```
+                    - #V (vision — description of a desirable future)
+                        - ```css
+span.rm-page-ref[data-tag="V"] {
+    color: var(--cl-blue-600);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="V"]:before {
+    content: ''
+}
+span.rm-page-ref[data-tag="V"]:after {
+    content: ':'
+}```
+                    - #Rec (Recommendation)
+                        - Definition:: Meta (or graph) recommendations, surrounding such things as conventions, processes, css, etc.
+                        - ```css
+span.rm-page-ref[data-tag="Rec"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Rec"]:before {
+    content: '👉'
+}
+span.rm-page-ref[data-tag="Rec"]:after {
+    content: ':'
+}```
+                    - #Ans (Answers)
+                        - ```css
+span.rm-page-ref[data-tag="Ans"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Ans"]:after {
+    content: ':'
+}```
+                    - #[[Obs]] (Observations)
+                        - ```css
+span.rm-page-ref[data-tag="Obs"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Obs"]:after {
+    content: ':'
+}```
+                    - #G (Goals)
+                        - ```css
+span.rm-page-ref[data-tag="G"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="G"]:before {
+    content: '🏆'
+}
+span.rm-page-ref[data-tag="G"]:after {
+    content: ':'
+}```
+                    - #Tips
+                        - ```css
+span.rm-page-ref[data-tag="Tips"] {
+    color: var(--tag-text-cl);
+    font-weight: 600;
+}
+
+span.rm-page-ref[data-tag="Tips"]:before {
+    content: '☝️'
+}
+span.rm-page-ref[data-tag="Tips"]:after {
+    content: ':'
 }```
                 - ### Experimental & Deprecated Note Types
                     - #Evergreen
@@ -1815,87 +1802,6 @@ span.rm-page-ref[data-tag="therefore"] {
  	padding:		var(--note-tag-padding);
 /* 	font-weight: 	var(--note-tag-font-weight);*/
   	font-weight:	600;
-}```
-            - Block-level Tags
-                - #[[I]] (Ideas)
-                    - ```css
-span.rm-page-ref[data-tag="I"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="I"]:before {
-    content: '💡'
-}```
-                - #Q (Questions)
-                    - ```css
-span.rm-page-ref[data-tag="Q"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Q"]:before {
-    content: '❓'
-}```
-                - #Ans (Answers)
-                    - ```css
-span.rm-page-ref[data-tag="Ans"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Ans"]:before {
-    content: '✅'
-}```
-                - #[[Obs]] (Observations)
-                    - ```css
-span.rm-page-ref[data-tag="Obs"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Obs"]:before {
-    content: '👀'
-}```
-                - #G (Goals)
-                    - ```css
-span.rm-page-ref[data-tag="G"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="G"]:before {
-    content: '🏆'
 }```
             - GTD Tags
                 - GTD Core Tags
@@ -2151,687 +2057,114 @@ span.rm-page-ref[data-tag="Next Steps"] {
 span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
 }```
-                - #Todos
-                    - ```css
-span.rm-page-ref[data-tag="Todos"] {
-    background: 	var(--cl-yellow-700);
-    color: 			var(--cl-white);
-    padding: 		2px 5px 2px 5px;
-    font-size: 		13px;
-    line-height: 	1em;
-  	font-weight: 	500;
-    border-radius: 	5px 5px 5px 5px;
-    position:		relative;
-}
-
-span.rm-page-ref[data-tag="Todos"]:before {
-    content: '🎯';
-}```
             - Page-type Tags
                 - #Articles
                     - ```css
 span.rm-page-ref[data-tag="Articles"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Articles"]:before {
-    content: '📰'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Books
                     - ```css
 span.rm-page-ref[data-tag="Books"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Books"]:before {
-    content: '📚'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - #Collections
+                    - ```css
+span.rm-page-ref[data-tag="Collections"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Experiments
                     - ```css
 span.rm-page-ref[data-tag="Experiments"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Experiments"]:before {
-    content: '🧪'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Podcasts
                     - ```css
 span.rm-page-ref[data-tag="Podcasts"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Podcasts"]:before {
-    content: '🎙'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Tweets
                     - ```css
 span.rm-page-ref[data-tag="Tweets"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tweets"]:before {
-    content: '🐦'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
-                - #[[Meetings & Discussions]]
+                - #[[Meeting Notes]]
                     - ```css
-span.rm-page-ref[data-tag="Meetings & Discussions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Meetings & Discussions"]:before {
-    content: '👥'
+span.rm-page-ref[data-tag="Meeting Notes"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
-                - #[[Prompt Ideas]]
+                - #Indexes
                     - ```css
-span.rm-page-ref[data-tag="Prompt Ideas"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompt Ideas"]:before {
-    content: '💭'
+span.rm-page-ref[data-tag="Indexes"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - #[[Prompts]]
+                    - ```css
+span.rm-page-ref[data-tag="Prompts"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Outlines
                     - ```css
 span.rm-page-ref[data-tag="Outlines"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Outlines"]:before {
-    content: '📝'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - #Questions
+                    - ```css
+span.rm-page-ref[data-tag="Questions"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #People
                     - ```css
 span.rm-page-ref[data-tag="People"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="People"]:before {
-    content: '😃'
+    color: var(--tag-text-cl);
+    font-weight: 450;
+}```
+                - #Products
+                    - ```css
+span.rm-page-ref[data-tag="Products"] {
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Members
                     - ```css
 span.rm-page-ref[data-tag="Members"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Members"]:before {
-    content: '🔑'
-}```
-                - #Maxims
-                    - ```css
-span.rm-page-ref[data-tag="Maxims"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Maxims"]:before {
-    content: '💫'
-}```
-                - #[[Tips & Tricks]]
-                    - ```css
-span.rm-page-ref[data-tag="Tips & Tricks"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tips & Tricks"]:before {
-    content: '🔑'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Thoughts
                     - ```css
 span.rm-page-ref[data-tag="Thoughts"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Thoughts"]:before {
-    content: '💭'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Observations
                     - ```css
 span.rm-page-ref[data-tag="Observations"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Observations"]:before {
-    content: '👀'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Conventions
                     - ```css
 span.rm-page-ref[data-tag="Conventions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Conventions"]:before {
-    content: '⚙️'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
                 - #Processes
                     - ```css
 span.rm-page-ref[data-tag="Processes"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Processes"]:before {
-    content: '⚙️'
-}```
-                - #Tips
-                    - ```css
-span.rm-page-ref[data-tag="Tips"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tips"]:before {
-    content: '☝️'
-}```
-                - Secondary & Experimental
-                    - `#Lectures
-                        - ```css
-span.rm-page-ref[data-tag="Lectures"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Lectures"]:before {
-    content: '🏫'
-}```
-                    - `#[[Learning Objectives]]
-                        - ```css
-span.rm-page-ref[data-tag="Learning Objectives"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Learning Objectives"]:before {
-    content: '🎓'
-}```
-                    - `#Discoveries
-                        - ```css
-span.rm-page-ref[data-tag="Discoveries"] {
-    background: #03A9F4;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Discoveries"]:before {
-    content: '🎈'
-}```
-                    - `#Recommendations
-                        - ```css
-span.rm-page-ref[data-tag="Recommendations"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Recommendations"]:before {
-    content: '📍'
-}```
-                    - `#Jokes
-                        - ```css
-span.rm-page-ref[data-tag="Jokes"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Jokes"]:before {
-    content: '🤣'
-}```
-                    - `#Frameworks
-                        - ```css
-span.rm-page-ref[data-tag="Frameworks"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Frameworks"]:before {
-    content: '⚙️'
-}```
-                    - `#[[Goal Ideas]]
-                        - ```css
-span.rm-page-ref[data-tag="Goal Ideas"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Goal Ideas"]:before {
-    content: '🎯'
-}```
-                    - `#[[Graph Mentorship]]
-                        - ```css
-span.rm-page-ref[data-tag="Graph Mentorship"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Graph Mentorship"]:before {
-    content: '🤝'
-}```
-                    - `#Quotes
-                        - ```css
-span.rm-page-ref[data-tag="Quotes"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Quotes"]:before {
-    content: '💬'
-}```
-                    - `#Prompts
-                        - ```css
-span.rm-page-ref[data-tag="Prompts"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Prompts"]:before {
-    content: '💭'
-}```
-                    - `#missing-list
-                        - ```css
-span.rm-page-ref[data-tag="missing-list"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="missing-list"]:before {
-    content: '🔍'
-}```
-                    - `#Opportunities
-                        - ```css
-span.rm-page-ref[data-tag="Opportunities"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Opportunities"]:before {
-    content: '🚀'
-}```
-                    - `#Examples
-                        - ```css
-span.rm-page-ref[data-tag="Examples"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Examples"]:before {
-    content: '🏷'
-}```
-                    - `#Transcript
-                        - ```css
-span.rm-page-ref[data-tag="Transcript"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Transcript"]:before {
-    content: '📜'
-}```
-                    - `#Resources
-                        - ```css
-span.rm-page-ref[data-tag="Resources"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Resources"]:before {
-    content: '🗃'
-}```
-                    - `#Stories
-                        - ```css
-span.rm-page-ref[data-tag="Stories"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Stories"]:before {
-    content: '🎭'
-}```
-                    - `#Sprints
-                        - ```css
-span.rm-page-ref[data-tag="Sprints"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Sprints"]:before {
-    content: '🏃‍♂️'
-}```
-                    - `#Predictions
-                        - ```css
-span.rm-page-ref[data-tag="Predictions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Predictions"]:before {
-    content: '🔮'
-}```
-                    - `#Replies
-                        - ```css
-span.rm-page-ref[data-tag="Replies"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Replies"]:before {
-    content: '💬'
-}```
-                    - `#Idioms
-                        - ```css
-span.rm-page-ref[data-tag="Idioms"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Idioms"]:before {
-    content: '🗣'
-}```
-                    - `#Timestamps
-                        - ```css
-span.rm-page-ref[data-tag="Timestamps"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-                    - `#Tensions
-                        - ```css
-span.rm-page-ref[data-tag="Tensions"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Tensions"]:before {
-    content: '⛓'
-}```
-                    - `#[[Open Questions]]`
-                        - ```html
-span.rm-page-ref[data-tag="Open Questions"] {
-    background: #607D8B;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Open Questions"]:before {
-    content: '❓'
-}```
-                    - `#Shownotes
-                        - ```css
-span.rm-page-ref[data-tag="Shownotes"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}```
-                    - `#[[Weather Report]]
-                        - ```css
-span.rm-page-ref[data-tag="Weather Report"] {
-    background: #9E9E9E;
-    color: #fff;
-    padding: 2px 5px 2px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    font-weight: 500;
-    border-radius: 5px 5px 5px 5px;
-    position:relative;
-}
-
-span.rm-page-ref[data-tag="Weather Report"]:before {
-    content: '🌤'
+    color: var(--tag-text-cl);
+    font-weight: 450;
 }```
             - Feedback Tags
                 - #Feedback
@@ -2839,7 +2172,7 @@ span.rm-page-ref[data-tag="Weather Report"]:before {
                     - #[[[[Feedback]]: What could be better]]
                     - #[[[[Feedback]]: [[Suggestions]]]]
                     - Code
-                        - ```css
+                        - ```clojure
 :root {
   --color:#FFFFFF;
   --padding:2px 5px 2px 5px;
@@ -4786,6 +4119,12 @@ span [data-tag="min-all"] {
   border: 			.25px dashed var(--cl-gray-500);
   margin-bottom: 	10px;
 }```
+            - Astrolabe Symbol
+                - make [[astrolabe]] footnote symbol more visible
+                    - ```css
+.rm-spacer {
+    background: #FFF59D !important; 
+}```
         - Content
             - Headings #Status/Enabled
                 - Preview
@@ -5011,19 +4350,168 @@ span.rm-page-ref[data-tag="dbrk"] {
 span.rm-page-ref[data-tag="ubrk"] {
   display: none;
 }```
-            - Block Highlights
-                - `#blk-gray` #blk-gray
-                    - ```css
-[data-page-links*="blk-gray"] > .rm-block-main {
+            - Block Background Highlights
+                - Highlight Entire Blocks
+                    - **Note:** Adding one of the below tags will change the color of the block, however the tags will not appear unless actively editing a block
+                    - grey blocks (use `#blk-grey`) #blk-grey
+                        - ```css
+[data-page-links*="blk-grey"] > .rm-block-main,
+[data-page-links*="blk-chld-grey"],
+[data-page-links*="chld-grey"] > .rm-block-children
+{
     /* color: #383d41; */
-    background-color: var(--cl-gray-200);
-    border: .5px dashed var(--cl-gray-400); 
-    /*margin-bottom: 5px;*/
-}
-
-span.rm-page-ref[data-tag="blk-gray"] {
-  display: none;
+    background-color: #e2e3e5;
+    border: 2px solid #D3D2D2; 
+    margin-bottom: 5px;
 }```
+                        - Examples (note, tags have been "hidden")
+                            - Main block only #blk-red
+                                - but not the children of that block
+                            - Gray at this level #blk-chld-grey
+                                - Pre-empted by red at this level  #blk-chld-red
+                                    - And down to this level
+                            - Only children #chld-grey
+                                - Child 1
+                                - Child 2
+                    - blue blocks (use `#blk-blue`) #blk-blue
+                        - ```css
+[data-page-links*="blk-blue"] > .rm-block-main,
+[data-page-links*="blk-chld-blue"],
+[data-page-links*="chld-blue"] > .rm-block-children
+{
+ /*	 color: #004085;*/
+    background-color: #cce5ff;
+    /*border-color: #b8daff;*/
+  border: solid 1px #b8daff;
+  /*border-color: #80BDFF;*/
+    margin-bottom: 5px;
+}```
+                    - light blue blocks (use `#blk-light-blue`) #blk-light-blue
+                        - ```css
+[data-page-links*="blk-light-blue"] > .rm-block-main,
+[data-page-links*="blk-chld-light-blue"],
+[data-page-links*="chld-light-blue"] > .rm-block-children
+{
+ /*	 color: #004085;*/
+    background-color: #EEF6FF;
+    /*border-color: #b8daff;*/
+  border: solid 1px #98BCE3;
+  /*border-color: #80BDFF;*/
+    margin-bottom: 5px;
+}```
+                    - red blocks (use `#blk-red`) #blk-red
+                        - ```css
+[data-page-links*="blk-red"] > .rm-block-main,
+[data-page-links*="blk-chld-red"],
+[data-page-links*="chld-red"] > .rm-block-children
+{
+ 
+  /*   color: #721c24;*/
+    background-color: #F7DCDE;
+    border: 1px solid #f5c6cb;
+  
+    margin-bottom: 5px;
+/*  box-shadow: 0px 1px 3px -1px #000000, 
+            0px -1px 5px  #DFDFDF;*/
+}```
+                    - light red blocks (use `#blk-light-red`) #blk-light-red
+                        - ```css
+[data-page-links*="blk-light-red"] > .rm-block-main,
+[data-page-links*="blk-chld-light-red"],
+[data-page-links*="chld-light-red"] > .rm-block-children
+{
+ 
+  /*   color: #155724; */
+    background-color: #FFFEFE;
+    border: 1px solid #E91E63;
+  
+    margin-bottom: 5px;
+}```
+                    - green blocks (use `#blk-green`) #blk-green
+                        - ```css
+[data-page-links*="blk-green"] > .rm-block-main,
+[data-page-links*="blk-chld-green"],
+[data-page-links*="chld-green"] > .rm-block-children
+{
+ 
+  /*   color: #155724; */
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+  
+    margin-bottom: 5px;
+}```
+                    - light green blocks (use `#blk-light-green`) #blk-light-green
+                        - ```css
+[data-page-links*="blk-light-green"] > .rm-block-main,
+[data-page-links*="blk-chld-light-green"],
+[data-page-links*="chld-light-green"] > .rm-block-children
+{
+ 
+  /*   color: #155724; */
+    background-color: #F7FFF9;
+    border: 1px solid #89D79A;
+  
+    margin-bottom: 5px;
+}```
+                    - yellow blocks (use `#blk-yellow`) #blk-yellow
+                        - ```css
+[data-page-links*="blk-yellow"] > .rm-block-main,
+[data-page-links*="blk-chld-yellow"],
+[data-page-links*="chld-yellow"] > .rm-block-children
+{
+ 
+ /*  color: #856404; */
+    background-color: #fff3cd;
+    
+    border: 1px solid #ffeeba;
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px #000000, 
+            0px -1px 5px  #DFDFDF;*/
+}```
+                    - orange blocks (use `#blk-orange`) #blk-orange
+                        - ```css
+[data-page-links*="blk-orange"] > .rm-block-main,
+[data-page-links*="blk-chld-orange"],
+[data-page-links*="chld-orange"] > .rm-block-children
+{
+ 
+ /*  color: #856404; */
+    background-color: #F7DAB1;
+    
+    border: 1px solid #ffeeba;
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px #000000, 
+            0px -1px 5px  #DFDFDF;*/
+}```
+                    - purple blocks (use `#blk-purple`) #blk-purple
+                        - ```css
+[data-page-links*="blk-purple"] > .rm-block-main,
+[data-page-links*="blk-chld-purple"],
+[data-page-links*="chld-purple"] > .rm-block-children
+{
+ 
+ /*  color: #856404; */
+    background-color: #F8EDFF;
+    
+    border: 1px solid #CB89D7;
+ 
+    margin-bottom: 5px;
+/*    box-shadow: 0px 1px 3px -1px #000000, 
+            0px -1px 5px  #DFDFDF;*/
+}```
+                        - 
+                    - Accessory CSS to hide `#blk-<color>` tags
+                        - ```css
+
+/* this code hides all the block tags */
+[data-tag^="chld"],
+[data-tag^="blk-chld"],
+[data-tag^="blk"] {
+display:none;
+}```
+                - 
         - Miscellaneous
             - Sign Up Form Iframe
                 - ```css

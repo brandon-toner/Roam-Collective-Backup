@@ -4,7 +4,7 @@
     - "Describe your experience in [Roam-Collective](<Roam-Collective.md>) so far. What is going well? What conventions are working?[*]([[[Feedback](<[[Feedback.md>): What's working]])."
     - "Think of one thing that could improve the [Roam-Collective](<Roam-Collective.md>) experience.[*]([[[Feedback](<[[Feedback.md>): What could be better]])"
     - __Interested in more prompts?__ Browse the [full list of prompts]([Prompts](<Prompts.md>))! ((Don't forget to nest your responses under the Promptstorming tag))
-- #[The Main Feed](<The Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
+- #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
     - My morning podcast listening felt VERY relevant to this project, so I imported my [Readwise](<Readwise.md>) highlights via [JSON](<JSON.md>). [Serendipity](<Serendipity.md>)
         - "[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)"
             - "#[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))"

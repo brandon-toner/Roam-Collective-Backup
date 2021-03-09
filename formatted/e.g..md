@@ -50,7 +50,7 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Report of evergreen notes authored by graph members. (excluding externally authored notes, [e.g.](<e.g..md>)
 
-## [The Main Feed](<The Main Feed.md>)
+## [Main Feed](<Main Feed.md>)
 - "#[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>)
 
 ## [i.e.](<i.e..md>)

@@ -94,6 +94,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[Q](<Q.md>)
 
+## [Main Feed](<Main Feed.md>)
+- "#[Q](<Q.md>)
+
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Questions](<Questions.md>) or [Q](<Q.md>)s
 
@@ -108,9 +111,6 @@
 
 ## [The Hub](<The Hub.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Q](<Q.md>)
-
-## [The Main Feed](<The Main Feed.md>)
-- "#[Q](<Q.md>)
 
 ## [What indicates that a seedling has fully matured into an evergreen note?](<What indicates that a seedling has fully matured into an evergreen note?.md>)
 - **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Q](<Q.md>)
