@@ -85,6 +85,12 @@
         - **Brandon:** 
     - BToner — @Charles #42SmartBlock #roam/templates
         - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
+    - BToner — Chat banner UTC **+ Local** #42SmartBlock
+        - Brandon:: __<%J:return dayjs.utc().format("HH:mm") + " UTC" 
+          + ' / ' + 
+         dayjs().format("HH:mm ") +  new Date().toLocaleTimeString('en-us',{timeZoneName:'short'})  .split(' ')[2]%>__
+    - BToner — Chat banner UTC **ONLY** #42SmartBlock
+        - Brandon:: __<%J:return dayjs.utc().format("HH:mm") + " UTC"%>__
     - **Archive**
         - BToner — .DNP Template (V1) 
             - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"

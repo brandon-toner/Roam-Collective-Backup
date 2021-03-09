@@ -1,3 +1,33 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
-    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
+        - Brandon:: __15:53 UTC / 11:53 AST__
+"#V The [[RC Conversation Module]] could be used as basis to establish [[Twitter]]-like Roam interactions." 
+- ---
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+    - #Scratchpad 
+        - #V The [[RC Conversation Module]] could be used as basis to establish [[Twitter]]-like Roam interactions.
+            - On [[Twitter]]
+                - User creates tweet.
+                    - Ability to [[thread]] tweets into a string.
+                    - Ability to [quote-tweet]([[quote-tweets]]) existing tweets.
+                    - Ability to [mention]([[Social/Mentions]]) other users.
+                    - Ability to reference/contribute to collections with [hashtags]([[Social/Hashtags]])
+                    - Tweets populate a main [feed]([[Social/News Feed]]) of all users that a user [[Social/Follows]].
+                    - The user's [feed]([[Social/News Feed]]) is [algorithmically]([[algorithms]]) sorted.
+                    - Ability to [like]([[Social/Likes]]) tweets.
+                    - Ability to [comment]([[Social/Comments]]) on tweets. 
+            - In [[Roam]]
+                - User creates a post in their `#Conversation` module.[*](((Af6UZVlBv)))
+                    - Ability to block-ref contents of the graph.[*](((SpzVTWVs8)))
+                    - Ability to string several blocks together as a thread.[*](((iEmQm-YjE)))
+                    - Ability to mention other users.[*](((QJTpZVw-4)))
+                    - Ability to [react]([[emoji reactions]]) to blocks[*](((jTE6MNem6)))
+                    - **Open Questions:**
+                        - #Q How might [[Social/Comments]] be integrated into [this model](((Bzh7rDrm1)))
+                        - #Q How might the [[Social/News Feed]] be integrated into [this model](((Bzh7rDrm1)))
+                        - #Q How might the [[Social/News Feed]] be individually curated by user [[Social/Follows]]?
+                            - #Q What controls could be given to the user over their [[Social/News Feed]]?[*](((Bzh7rDrm1)))
+                        - #Q How might this model/system be made easier?[*](((Bzh7rDrm1)))
+    - #Conversation #not-populated 
+    - #[[Change Log]] #not-populated
 - ---

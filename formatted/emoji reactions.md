@@ -15,3 +15,6 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Can't seem to [emoji react]([emoji reactions](<emoji reactions.md>))
 
+## [March 9th, 2021](<March 9th, 2021.md>)
+- Ability to [react]([emoji reactions](<emoji reactions.md>))
+

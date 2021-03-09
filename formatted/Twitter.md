@@ -92,6 +92,13 @@
 ## [March 8th, 2021](<March 8th, 2021.md>)
 - I use graphs like this more than [Twitter](<Twitter.md>)
 
+## [March 9th, 2021](<March 9th, 2021.md>)
+"[V](<V.md>) The [RC Conversation Module](<RC Conversation Module.md>) could be used as basis to establish [Twitter](<Twitter.md>)-
+
+- [V](<V.md>) The [RC Conversation Module](<RC Conversation Module.md>) could be used as basis to establish [Twitter](<Twitter.md>)-
+
+- On [Twitter](<Twitter.md>)
+
 ## [Mark Robertson](<Mark Robertson.md>)
 - **[About me](<About me.md>):** 
         - **[Twitter](<Twitter.md>):**

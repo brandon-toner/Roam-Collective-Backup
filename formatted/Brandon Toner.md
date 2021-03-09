@@ -85,6 +85,12 @@
         - **Brandon:** 
     - BToner — @Charles [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - <%CONCAT:[@Charles]([,[@[,[Charles Farr]]]])%>
+    - BToner — Chat banner UTC **+ Local** [42SmartBlock](<42SmartBlock.md>)
+        - **[Brandon](<Brandon.md>):** __<%J:return dayjs.utc().format("HH:mm") + " UTC" 
+          + ' / ' + 
+         dayjs().format("HH:mm ") +  new Date().toLocaleTimeString('en-us',{timeZoneName:'short'})  .split(' ')[2]%>__
+    - BToner — Chat banner UTC **ONLY** [42SmartBlock](<42SmartBlock.md>)
+        - **[Brandon](<Brandon.md>):** __<%J:return dayjs.utc().format("HH:mm") + " UTC"%>__
     - **Archive**
         - BToner — .DNP Template (V1) 
             - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
@@ -600,6 +606,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [March 9th, 2021](<March 9th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)

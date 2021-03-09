@@ -1,3 +1,33 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
-    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
+    - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
+        - **[Brandon](<Brandon.md>):** __15:53 UTC / 11:53 AST__
+"[V](<V.md>) The [RC Conversation Module](<RC Conversation Module.md>) could be used as basis to establish [Twitter](<Twitter.md>)-like Roam interactions." 
+- ---
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+    - [Scratchpad](<Scratchpad.md>) 
+        - [V](<V.md>) The [RC Conversation Module](<RC Conversation Module.md>) could be used as basis to establish [Twitter](<Twitter.md>)-like Roam interactions.
+            - On [Twitter](<Twitter.md>)
+                - User creates tweet.
+                    - Ability to [thread](<thread.md>) tweets into a string.
+                    - Ability to [quote-tweet]([quote-tweets](<quote-tweets.md>)) existing tweets.
+                    - Ability to [mention]([Social/Mentions](<Social/Mentions.md>)) other users.
+                    - Ability to reference/contribute to collections with [hashtags]([Social/Hashtags](<Social/Hashtags.md>))
+                    - Tweets populate a main [feed]([Social/News Feed](<Social/News Feed.md>)) of all users that a user [Social/Follows](<Social/Follows.md>).
+                    - The user's [feed]([Social/News Feed](<Social/News Feed.md>)) is [algorithmically]([algorithms](<algorithms.md>)) sorted.
+                    - Ability to [like]([Social/Likes](<Social/Likes.md>)) tweets.
+                    - Ability to [comment]([Social/Comments](<Social/Comments.md>)) on tweets. 
+            - In [Roam](<Roam.md>)
+                - User creates a post in their `[Conversation](<Conversation.md>)` module.[*](((Af6UZVlBv)))
+                    - Ability to block-ref contents of the graph.[*](((SpzVTWVs8)))
+                    - Ability to string several blocks together as a thread.[*](((iEmQm-YjE)))
+                    - Ability to mention other users.[*](((QJTpZVw-4)))
+                    - Ability to [react]([emoji reactions](<emoji reactions.md>)) to blocks[*](((jTE6MNem6)))
+                    - **Open Questions:**
+                        - [Q](<Q.md>) How might [Social/Comments](<Social/Comments.md>) be integrated into [this model](((Bzh7rDrm1)))
+                        - [Q](<Q.md>) How might the [Social/News Feed](<Social/News Feed.md>) be integrated into [this model](((Bzh7rDrm1)))
+                        - [Q](<Q.md>) How might the [Social/News Feed](<Social/News Feed.md>) be individually curated by user [Social/Follows](<Social/Follows.md>)?
+                            - [Q](<Q.md>) What controls could be given to the user over their [Social/News Feed](<Social/News Feed.md>)?[*](((Bzh7rDrm1)))
+                        - [Q](<Q.md>) How might this model/system be made easier?[*](((Bzh7rDrm1)))
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) 
+    - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
