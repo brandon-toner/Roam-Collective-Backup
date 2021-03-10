@@ -52,6 +52,3 @@
         - #Highlight **[page 19]** These experiments suggest strongly that people have an underlying tendency, when faced by a complex organization, to reorganize it mentally in terms of non-overlapping units. The complexity of the semilattice is replaced by the simpler and more easily grasped tree form.
         - #Highlight **[page 19]** To have structure, you must have the right overlap, and this is for us almost certainly different from the old overlap which we observe in historic cities. As the relationships between functions change, so the systems which need to overlap in order to receive these relationships must also change. The recreation of old kinds of overlap will be inappropriate, and chaotic instead of structured.
         - #Highlight **[page 21]** When we think in terms of trees we are trading the humanity and richness of the living city for a conceptual simplicity which benefits only designers, planners, administrators and developers. Every time a piece of a city is torn out, and a tree made to replace the semilattice that was there before, the city takes a further step toward dissociation.
-    - ---
-    - ### Essay Summary
-        - 

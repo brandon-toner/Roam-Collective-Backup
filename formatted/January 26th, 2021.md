@@ -252,7 +252,7 @@
             - Expands the function of both the `#[Open Questions](<Open Questions.md>)` and `[Questions](<Questions.md>)` tags
             - Envision being able to use it with [SmartBlocks](<SmartBlocks.md>) and [queries](<queries.md>)
         - Added new CSS from Maggie Delano to clean up queries
-            - Here: "Query Display Options [Status](<Status.md>)/Enabled"
+            - Here: "Query Display Options"
                 - `[minimal](<minimal.md>)` — hides breadcrumbs and page reference
                 - `[min-con](<min-con.md>)` — hides the breadcrumbs in a query
                 - `[min-title](<min-title.md>)` — hides the page references

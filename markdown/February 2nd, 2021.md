@@ -386,7 +386,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - #[[Follow Up]] What do Community Notes look like? Use this as an example to brainstorm on...
     - #[[Change Log]]
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
-            - "External Links #Status/Enabled"
+            - "External Links "
         - Added color scheme setting
             - Colors
             - Note: Did not update any existing css code to utilize the `var()` best practice

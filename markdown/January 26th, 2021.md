@@ -252,7 +252,7 @@
             - Expands the function of both the `#[[Open Questions]]` and `#Questions` tags
             - Envision being able to use it with [[SmartBlocks]] and [[queries]]
         - Added new CSS from Maggie Delano to clean up queries
-            - Here: "Query Display Options #Status/Enabled"
+            - Here: "Query Display Options"
                 - `#minimal` — hides breadcrumbs and page reference
                 - `#min-con` — hides the breadcrumbs in a query
                 - `#min-title` — hides the page references

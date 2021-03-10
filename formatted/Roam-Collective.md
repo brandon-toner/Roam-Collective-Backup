@@ -156,6 +156,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - "What is your favourite convention within [Roam-Collective](<Roam-Collective.md>)?
 
+## [March 10th, 2021](<March 10th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 

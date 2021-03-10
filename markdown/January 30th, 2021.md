@@ -428,7 +428,7 @@
     - #[[Change Log]]
         - Added "SmartBlock & Roam Template Conventions"
             - Updated all of the current SmartBlock names...
-        - Changed the CSS for Headings "Headings #Status/Enabled"
+        - Changed the CSS for Headings "Headings "
             - Sets all headings equal to `14px` font size
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}

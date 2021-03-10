@@ -3934,7 +3934,7 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
     font-weight: 500;
 }```
         - User Interface
-            - Buttons & Word Count [Status](<../Status.md>)/Enabled
+            - Buttons & Word Count 
                 - Example: {{word-count}}
                 - Code
                     - ```css
@@ -3973,7 +3973,7 @@ span.rm-page-ref[data-tag="SCC/Transfer"] {
   padding: 			2px 4px 2px 4px; 
   min-height: 		0px;
 }```
-            - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing)) [Status](<../Status.md>)/Enabled
+            - Scope Highlighting ((This colors the vertical lines to show your mouse location and the bullet that you are editing))
                 - ```css
 
 .roam-block-container  div.roam-block-container {
@@ -3991,7 +3991,7 @@ transition:  box-shadow 0.5s;
 {
 background-color: var(--cl-black);
 }```
-            - Query Display Options [Status](<../Status.md>)/Enabled
+            - Query Display Options
                 - Code
                     - ```css
 /* RR change: MINIMIZE QUERIES: add any one of the following tags 
@@ -4052,13 +4052,13 @@ span [data-tag="min-all"] {
 [data-tag="page-focus"] + .rm-query .rm-query-title {
   display:none !important;  /* hide everything */
 }```
-            - Prevent right sidebar title from jumping around when editing [Status](<../Status.md>)/Enabled
+            - Prevent right sidebar title from jumping around when editing 
                 - ```css
 
 [right-sidebar](<../right-sidebar.md>) .rm-title-textarea {
     width: 95%;
 }```
-            - Show Main Page multibar [Status](<../Status.md>)/Enabled
+            - Show Main Page multibar 
                 - This is to stop people (read: me :P ) from accidentally clicking on the bar
                 - ```css
 
@@ -4069,7 +4069,7 @@ span [data-tag="min-all"] {
 .rm-level-0>.rm-multibar:hover {
     border-right: 3px solid [5C7080](<../5C7080.md>), .5);
 }```
-            - Left Sidebar — Highlight important pages [Status](<../Status.md>)/Enabled
+            - Left Sidebar — Highlight important pages 
                 - ```css
 
 .starred-pages a[href*="MorTyZR-2"]>.page,
@@ -4106,7 +4106,7 @@ span [data-tag="min-all"] {
     background: [FFF59D](<../FFF59D.md>) !important; 
 }```
         - Content
-            - Headings [Status](<../Status.md>)/Enabled
+            - Headings 
                 - Preview
                     - # Heading 1
                         - ## Heading 2
@@ -4179,7 +4179,7 @@ h1.level2,
   font-size: var(--fnt-size-page-title);
   color: var(--fg-h1);
 }```
-            - Page References [Status](<../Status.md>)/Enabled
+            - Page References 
                 - ```css
 .rm-page-ref-link-color {
     color: var(--cl-blue-500);
@@ -4194,7 +4194,7 @@ a {
 .rm-page-ref__brackets{
   display:none;
 }```
-            - Block Reference styling [Status](<../Status.md>)/Enabled
+            - Block Reference styling 
                 - ```css
 /*Block Reference formatting*/
 
@@ -4205,7 +4205,7 @@ a {
   	text-decoration: underline;
   	text-decoration-color: [FF9800](<../FF9800.md>); */
 }```
-            - Page Reference Underlines & Nested Links [Status](<../Status.md>)/Enabled
+            - Page Reference Underlines & Nested Links 
                 - Example
                     - [Evergreens/active vs passive resurfacing](<../Evergreens/active vs passive resurfacing.md>)
                 - Code
@@ -4270,7 +4270,7 @@ a {
     text-decoration: none;
     padding-bottom: 0px;
 }```
-            - External Links [Status](<../Status.md>)/Enabled
+            - External Links 
                 - V1
                     - ```css
 .rm-alias--external {
