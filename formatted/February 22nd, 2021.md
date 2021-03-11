@@ -89,7 +89,7 @@
     - #[Change Log](<Change Log.md>)
         - Added CSS for "[Prop](<Prop.md>)"
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>) 
         - "[ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)"
             - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.

@@ -18,7 +18,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - #Inbox 
         - RC conversation vs the Colour based conversation like in RBCII(?)
             - Inclusivity vs traceability

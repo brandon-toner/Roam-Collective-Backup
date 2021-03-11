@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - #Inbox 
         - #I We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[[Scratchpad]] #not-populated

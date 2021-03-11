@@ -36,7 +36,7 @@
             - Now it's just the "N-note" — at least for now. 
             - Same usage, different name.
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - #Inbox
     - #[[Scratchpad]] 
         - These days I mostly code for my PhD and working on the Roam API

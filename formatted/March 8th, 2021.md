@@ -36,7 +36,7 @@
             - Now it's just the "N-note" — at least for now. 
             - Same usage, different name.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - [Inbox](<Inbox.md>)
     - #[Scratchpad](<Scratchpad.md>) 
         - These days I mostly code for my PhD and working on the Roam API

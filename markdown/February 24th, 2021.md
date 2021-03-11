@@ -134,7 +134,7 @@
             - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🟡 On & Off | 🚫 Offline | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
     - #Inbox #not-populated
     - #[[Scratchpad]] 
         - Using `Replies::` and `Next Actions::` as marker in conversations? so that conversations can be filtered? 

@@ -1,0 +1,15 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+- ---
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+    - #Inbox #not-populated
+    - #[[Scratchpad]] #not-populated
+    - #[[GTD Zone]] #not-populated
+    - #Conversation #not-populated
+        - Query:
+            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+    - #Feedback  
+        - I love the new CSS
+    - #Bookmarks #not-populated
+    - 
+- ---
