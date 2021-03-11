@@ -62,6 +62,66 @@ return [query, results];```
             - {{[[query]]: {and:[[Matthew Vogel]] [[mtv]] }}}
         - People near me!
             - {{[[query]]: {and:[[Location]] {or:[[Brooklyn]] [[Manhattan]] [[New York]] [[New York City]]} {not:[[query]]}}}}
+            - tests
+        - tests
+            - ```javascript
+
+:q [:find (pull ?e [[:block/string]
+                    [:block/uid]
+                    [:edit/time]
+                    [:edit/seen-by]]) 
+    :where 
+    [?f :node/title "Quote"]  
+     [?e :block/refs ?f]
+    ]
+
+
+:q [:find (pull ?f [[:block/string]
+                    [:block/uid]
+                    [:edit/time]
+                    [:edit/seen-by]]) 
+    :where 
+    [?f :block/uid "a8H7Z1PC5"]  
+    ]
+
+
+:q [:find ?members ?uid
+ 	:where 
+    	[?b :user/display-name ?members]
+		[?b :user/uid ?uid]
+		[?b :db/id] ?id]]
+
+:q [:find (pull ?user [
+                    [:user/display-name]
+                    ]) 
+    :where 
+      [?f :block/uid "a8H7Z1PC5"]  
+      [?f :edit/user ?user]]
+
+      
+      
+queryText = `[:find (pull ?e [[:block/string][:block/uid]])
+     		            :in $ ?pagetitle
+     		            :where
+     		                [?f :node/title ?pagetitle]
+     		                [?e :block/refs ?f]]`;
+
+          result = window.roamAlphaAPI.q(queryText, "Quotes");
+          console.log(result);
+```
+            - :q [:find (pull ?user [:user/display-name]) .
+    :where 
+      [?f :block/uid "a8H7Z1PC5"]  
+      [?f :edit/user ?user]]
+            - :q [:find ?members 
+ 	:where 
+    	[?b :graph/settings ?members]
+		]
+            - :q [:find ?members ?uid ?email
+ 	:where 
+    	[?b :user/display-name ?members]
+		[?b :user/uid ?uid]
+		[?b :user/email ?email]]
     - SmartBlocks::#not-populated
     - Bookmarks::
         - [[Evergreens/alert fatigue]]
