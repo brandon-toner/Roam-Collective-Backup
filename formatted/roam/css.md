@@ -4509,9 +4509,6 @@ h6 {
 ## [Agenda](<Agenda.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
-## [CSS](<CSS.md>)
-- **[Redirect](<../Redirect.md>):** [roam/css](<../roam/css.md>)
-
 ## [Decisions](<Decisions.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 

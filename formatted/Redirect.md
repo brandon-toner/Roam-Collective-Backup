@@ -1,8 +1,5 @@
 
 # Backlinks
-## [CSS](<CSS.md>)
-- **[Redirect](<Redirect.md>):**
-
 ## [Feedback](<Feedback.md>)
 - **[Redirect](<Redirect.md>):**
 
