@@ -231,5 +231,5 @@
 - SmartBlocks for engaging with content within the [GTD Zone](<GTD Zone.md>)
 
 ## [roam/css](<roam/css.md>)
-- #[GTD Zone](<GTD Zone.md>)
+#[GTD Zone](<GTD Zone.md>)
 

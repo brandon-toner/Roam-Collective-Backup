@@ -1,11 +1,4 @@
-- **[Conventions](<../Conventions.md>):**
-    1. Nest code under examples
-        - [Meta](<../Meta.md>)
-            - ```css
-```
-    2. Add note under a #[Change Log](<../Change Log.md>) header in your Daily Notes Section, referencing the code block and detailing the change
-    3. Try to use the standard set of colors & variables as much as possible!
-- **[### Shortcuts](<../### Shortcuts.md>):**
+- ## Shortcuts:
     - [Colors](((ClLqIfFSn)))
     - [Tag Styling](((6w_N1hr1k)))
         - [Collections Tags](Page-type Tags) 
@@ -17,7 +10,7 @@
     - [Aliases](((MLfGQ-X-L)))
     - [Nested Links](((y9rumn-yn)))
     - [Queries](((KOuJf-Smr)))
-- **Settings & Variables:**
+- ## Settings & Variables:
     - Colors
         - Color Scheme
             - > Use names for consistent colors throughout your them — `--cl-name-strength`
@@ -957,15 +950,30 @@ code {
 ```
                 - Example: `this is a code block`
     - Variables
-        - ```css
+        - Variables
+            - ```css
 :root {
   /*
   Format:
   --tag-bg-cl-<family-name>: 	var(--cl-<color-name>);
   */
-  --tag-bg-cl-gtd:		var(--cl-blue-500);
+  
+  --tag-text-cl:		var(--cl-gray-700);
+  --tag-text-wt:		;
 }```
-- ### **Code:**
+            - ```css
+:root {
+  --background:;
+  --color: var(--tag-text-cl);
+  --padding:;
+  --font-size: ;
+  --line-height: ;
+  --font-weight: 500;
+  --border-radius: ;
+  --position:relative;
+  
+}```
+- ## Code:
     - Elements
         - Tags
             - Top-Section Tags
@@ -1784,35 +1792,19 @@ span.rm-page-ref[data-tag="therefore"] {
   	font-weight:	600;
 }```
             - GTD Tags
-                - GTD Core Tags
-                    - [INBOX](<../INBOX.md>)
-                    - [Inbox](<../Inbox.md>)
-                    - [Projects](<../Projects.md>)
-                    - [Goals](<../Goals.md>)
-                    - #[Agenda](<../Agenda.md>)
-                    - #[Follow Up](<../Follow Up.md>)
-                    - [Mindsweep](<../Mindsweep.md>)
-                    - [Waiting](<../Waiting.md>)
-                    - #[Waiting-[[resolved](<../Waiting-[[resolved.md>)]]
-                    - [Tracking](<../Tracking.md>)
-                    - #[Daily Big 3](<../Daily Big 3.md>)
-                    - #[Plan My Day](<../Plan My Day.md>)
-                    - #[Weekly Preview](<../Weekly Preview.md>)
-                    - #[Next Steps](<../Next Steps.md>)
-                    - #[GTD Zone](<../GTD Zone.md>)
-                    - Code
-                        - ```css
-:root {
-  --background: var(--cl-gray-600);
-  --color: var(--cl-white);
-  --padding:2px 5px 2px 5px;
-  --font-size: 13px;
-  --line-height: 1em;
-  --font-weight: 500;
-  --border-radius: 5px 5px 5px 5px;
-  --position:relative; 
-}
-
+                - `[INBOX](<../INBOX.md>)
+[Inbox](<../Inbox.md>)
+[Projects](<../Projects.md>)
+[Goals](<../Goals.md>)
+[Mindsweep](<../Mindsweep.md>)
+[Waiting](<../Waiting.md>)
+[Tracking](<../Tracking.md>)
+#[Daily Big 3](<../Daily Big 3.md>)
+#[Plan My Day](<../Plan My Day.md>)
+#[Weekly Preview](<../Weekly Preview.md>)
+#[Next Steps](<../Next Steps.md>)
+#[GTD Zone](<../GTD Zone.md>)
+                    - ```css
 span.rm-page-ref[data-tag="GTD Zone"] {
     background: var(--background);
     color: var(--color);
@@ -1824,9 +1816,9 @@ span.rm-page-ref[data-tag="GTD Zone"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="GTD Zone"]:before {
-    content: '✅';
-}
+/*span.rm-page-ref[data-tag="GTD Zone"]:before {
+    content: '✅'
+}*/
 
 span.rm-page-ref[data-tag="INBOX"] {
     background: var(--background);
@@ -1839,9 +1831,9 @@ span.rm-page-ref[data-tag="INBOX"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="INBOX"]:before {
+/*span.rm-page-ref[data-tag="INBOX"]:before {
     content: '📥'
-}
+}*/
 
 span.rm-page-ref[data-tag="Inbox"] {
     background: var(--background);
@@ -1854,9 +1846,9 @@ span.rm-page-ref[data-tag="Inbox"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Inbox"]:before {
+/*span.rm-page-ref[data-tag="Inbox"]:before {
     content: '📥'
-}
+}*/
 
 span.rm-page-ref[data-tag="Projects"] {
     background: var(--background);
@@ -1869,9 +1861,9 @@ span.rm-page-ref[data-tag="Projects"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Projects"]:before {
+/*span.rm-page-ref[data-tag="Projects"]:before {
     content: '🔨'
-}
+}*/
 
 span.rm-page-ref[data-tag="Goals"] {
     background: var(--background);
@@ -1884,39 +1876,9 @@ span.rm-page-ref[data-tag="Goals"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Goals"]:before {
+/*span.rm-page-ref[data-tag="Goals"]:before {
     content: '🎯'
-}
-
-span.rm-page-ref[data-tag="Follow Up"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Follow Up"]:before {
-    content: '📌'
-}
-
-span.rm-page-ref[data-tag="Agenda"] {
-    background: var(--background);
-    color: var(--color);
-    padding: var(--padding);
-    font-size: var(--font-size);
-    line-height: var(--line-height);
-    font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
-    position: var(--position);
-}
-
-span.rm-page-ref[data-tag="Agenda"]:before {
-    content: '🗓'
-}
+}*/
 
 span.rm-page-ref[data-tag="Mindsweep"] {
     background: var(--background);
@@ -1929,9 +1891,9 @@ span.rm-page-ref[data-tag="Mindsweep"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Mindsweep"]:before {
+/*span.rm-page-ref[data-tag="Mindsweep"]:before {
     content: '🧹'
-}
+}*/
 
 span.rm-page-ref[data-tag="Waiting"] {
     background: var(--background);
@@ -1944,9 +1906,9 @@ span.rm-page-ref[data-tag="Waiting"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Waiting"]:before {
+/*span.rm-page-ref[data-tag="Waiting"]:before {
     content: '⏱'
-}
+}*/
 
 span.rm-page-ref[data-tag="Waiting-[resolved](<../resolved.md>)"] {
     background: [607D8B](<../607D8B.md>);
@@ -1959,9 +1921,9 @@ span.rm-page-ref[data-tag="Waiting-[resolved](<../resolved.md>)"] {
     position:relative;
 }
 
-span.rm-page-ref[data-tag="Waiting-[resolved](<../resolved.md>)"]:before {
+/*span.rm-page-ref[data-tag="Waiting-[resolved](<../resolved.md>)"]:before {
     content: '☑️'
-}
+}*/
 
 span.rm-page-ref[data-tag="Tracking"] {
     background: var(--background);
@@ -1974,9 +1936,9 @@ span.rm-page-ref[data-tag="Tracking"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Tracking"]:before {
+/*span.rm-page-ref[data-tag="Tracking"]:before {
     content: '👀'
-}
+}*/
 
 span.rm-page-ref[data-tag="Daily Big 3"] {
     background: var(--background);
@@ -1989,9 +1951,9 @@ span.rm-page-ref[data-tag="Daily Big 3"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Daily Big 3"]:before {
+/*span.rm-page-ref[data-tag="Daily Big 3"]:before {
     content: '🚩'
-}
+}*/
 
 span.rm-page-ref[data-tag="Plan My Day"] {
     background: var(--background);
@@ -2004,9 +1966,9 @@ span.rm-page-ref[data-tag="Plan My Day"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Plan My Day"]:before {
+/*span.rm-page-ref[data-tag="Plan My Day"]:before {
     content: '🎯'
-}
+}*/
 
 span.rm-page-ref[data-tag="Weekly Preview"] {
     background: var(--background);
@@ -2019,9 +1981,9 @@ span.rm-page-ref[data-tag="Weekly Preview"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Weekly Preview"]:before {
+/*span.rm-page-ref[data-tag="Weekly Preview"]:before {
     content: '🗓'
-}
+}*/
 
 span.rm-page-ref[data-tag="Next Steps"] {
     background: var(--background);
@@ -2034,9 +1996,9 @@ span.rm-page-ref[data-tag="Next Steps"] {
     position: var(--position);
 }
 
-span.rm-page-ref[data-tag="Next Steps"]:before {
+/*span.rm-page-ref[data-tag="Next Steps"]:before {
     content: '➡️'
-}```
+}*/```
             - Page-type Tags
                 - [Articles](<../Articles.md>)
                     - ```css

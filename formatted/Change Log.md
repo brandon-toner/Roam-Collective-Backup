@@ -208,7 +208,5 @@
 - [Change Log](<Change Log.md>)
 
 ## [roam/css](<roam/css.md>)
-2. Add note under a #[Change Log](<Change Log.md>)
-
 - #[Change Log](<Change Log.md>)
 
