@@ -135,7 +135,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/7-iN8IzpA"
             - Added the function of auto-creating a custom DNP smartblock upon creation of the Personal Page.
         3. Updated [[Beyond the Basics]]
         4. Adjusted the top-section to be different than the user DNP Sections (**"Community Notes"**)
-            - "#[[Community Notes]] [[Roam Collective]]"
+            - #[[Community Notes]] [[Roam Collective]]
         5. Made lots of little CSS adjustments to color, etc
 - ---
 - #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "

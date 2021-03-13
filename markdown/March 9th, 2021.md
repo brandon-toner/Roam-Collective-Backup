@@ -1,6 +1,6 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
-        - Brandon:: __15:53 UTC / 11:53 AST__
+        - Brandon Toner:: __15:53 UTC / 11:53 AST__
 "#V The [[RC Conversation Module]] could be used as basis to establish [[Twitter]]-like Roam interactions." 
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"

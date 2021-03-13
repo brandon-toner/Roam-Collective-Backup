@@ -20,6 +20,9 @@ As you get comfortable with the available tags, I'd recommend using them to help
 ## [Alex Tentler](<Alex Tentler.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Ashwin Siddarth](<Ashwin Siddarth.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

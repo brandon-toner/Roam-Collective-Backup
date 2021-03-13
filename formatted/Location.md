@@ -20,6 +20,10 @@
 - **[Website](<Website.md>):** [Nette's Blog](https://antonetteladeras.substack.com/)
         - **[Location](<Location.md>):**
 
+## [Ashwin Siddarth](<Ashwin Siddarth.md>)
+- **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
+        - **[Location](<Location.md>):**
+
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
 - **[Website](<Website.md>):** [bart.lubaszka.me](https://bart.lubaszka.me)
         - **[Location](<Location.md>):**

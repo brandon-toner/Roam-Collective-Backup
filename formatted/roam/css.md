@@ -1026,6 +1026,22 @@ span.rm-page-ref[data-tag="Community Notes"]:before {
     border-width: 11px;
     margin-top: -11px;
 }```
+                - #[Voting](<../Voting.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Voting"] {
+    background: [607D8B](<../607D8B.md>);
+    color: [fff](<../fff.md>);
+    padding: 2px 5px 2px 5px;
+    font-size: 13px;
+    line-height: 1em;
+    font-weight: 500;
+    border-radius: 5px 5px 5px 5px;
+    position:relative;
+}
+
+span.rm-page-ref[data-tag="Voting"]:before {
+    content: '🗳'
+}```
                 - [Announcements](<../Announcements.md>)
                     - ```css
 span.rm-page-ref[data-tag="Announcements"] {
@@ -1074,6 +1090,23 @@ span.rm-page-ref[data-tag="Main Feed"] {
 
 span.rm-page-ref[data-tag="Main Feed"]:before {
     content:     	'⭐️';
+  	padding-right: 	2px;
+}```
+                - #[Graph Change Log](<../Graph Change Log.md>)
+                    - ```css
+span.rm-page-ref[data-tag="Graph Change Log"] {
+	background: 	var(--cl-gray-800);
+    color: 			var(--cl-white);
+    padding: 		2px 5px 2px 5px;
+    font-size: 		13px;
+    line-height: 	1em;
+    font-weight: 	500;
+    border-radius: 	5px 5px 5px 5px;
+    position:		relative;
+}
+
+span.rm-page-ref[data-tag="Graph Change Log"]:before {
+    content:     	'⚙️';
   	padding-right: 	2px;
 }```
             - DNP Modules
@@ -4067,6 +4100,37 @@ span [data-tag="min-all"] {
 .rm-spacer {
     background: [FFF59D](<../FFF59D.md>) !important; 
 }```
+            - Block-Width Fix (based on adjustable width update)
+                - ```css
+/*.roam-body-main > div {
+  padding-right: calc((100% - 600px) / 2);
+  padding-left: calc((100% - 600px) / 2);
+}*/
+
+/*.roam-block,
+.rm-autocomplete__wrapper {
+  min-width: 90%;
+}
+.rm-block__ref-count {
+  position: relative;
+  left: -140px;
+}*/
+
+.roam-block,
+.rm-autocomplete__wrapper {
+  min-width: 90%;
+}
+.rm-block__ref-count {
+  position: relative;
+  left: -140px;
+  min-width:	10px;
+} 
+
+/*.roam-block-container .rm-block-main .rm-block-separator {
+  min-width: 10px !important;
+  max-width: 10px !important;
+}*/
+```
         - Content
             - Headings 
                 - Preview

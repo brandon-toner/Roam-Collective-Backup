@@ -1,6 +1,6 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) 
-        - **[Brandon](<Brandon.md>):** __15:53 UTC / 11:53 AST__
+        - **[Brandon Toner](<Brandon Toner.md>):** __15:53 UTC / 11:53 AST__
 "[V](<V.md>) The [RC Conversation Module](<RC Conversation Module.md>) could be used as basis to establish [Twitter](<Twitter.md>)-like Roam interactions." 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"

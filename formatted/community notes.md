@@ -13,3 +13,6 @@
 
 - "[~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [^[[Brandon Toner](<^[[Brandon Toner.md>)]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [community notes](<community notes.md>)
 
+## [March 12th, 2021](<March 12th, 2021.md>)
+- Reinforces the [community notes](<community notes.md>)
+

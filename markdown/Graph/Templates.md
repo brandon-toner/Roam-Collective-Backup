@@ -56,6 +56,7 @@
         - .rc2DH — Daily Header #42SmartBlock #roam/templates
             - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
                 - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+                - #[[Graph Change Log]] #not-populated
             - ---
         - .rc1DNP — Daily Notes Template #42SmartBlock #roam/templates
             - #[[My Daily Notes]] [[Your Name]] {{word-count}}

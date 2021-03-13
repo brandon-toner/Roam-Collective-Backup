@@ -66,6 +66,9 @@
 ## [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
 - **[Tags](<Tags.md>):**
 
+## [Ashwin Siddarth](<Ashwin Siddarth.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Ask someone to do you a small favour, so that he or she can ask you to do one in the future.](<Ask someone to do you a small favour, so that he or she can ask you to do one in the future..md>)
 - **[Tags](<Tags.md>):**
 

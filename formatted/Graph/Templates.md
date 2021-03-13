@@ -56,6 +56,7 @@
         - .rc2DH — Daily Header [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - #[Community Notes](<../Community Notes.md>) [Roam-Collective](<../Roam-Collective.md>) {{word-count}} [*]([rc](<../rc.md>)) 
                 - #[Main Feed](<../Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<../not-populated.md>) 
+                - #[Graph Change Log](<../Graph Change Log.md>) [not-populated](<../not-populated.md>)
             - ---
         - .rc1DNP — Daily Notes Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>) {{word-count}}
