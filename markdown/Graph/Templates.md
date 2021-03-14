@@ -13,10 +13,12 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - Contents::
     - Global Variables
-        - #42Setting ThisWeek #[[Week-09: 03-01-2021]]
-        - #42Setting ThisWkRaw Week-09: 03-01-2021
-        - #42Setting NextWeek #[[Week-10: 03-08-2021]]
-        - #42Setting NextWkRaw Week-10: 03-08-2021
+        - #42Setting LastWeek #[[Week-10: 03-08-2021]]
+        - #42Setting LastWkRaw Week-10: 03-08-2021
+        - #42Setting ThisWeek #[[Week-11: 03-15-2021]]
+        - #42Setting ThisWkRaw Week-11: 03-15-2021
+        - #42Setting NextWeek #[[Week-12: 03-22-2021]]
+        - #42Setting NextWkRaw Week-12: 03-22-2021
         - #42Setting ThisMonth #[[March 2021]]
         - #42Setting ThisMnthRaw March 2021
         - #42Setting NextMonth #[[April 2021]]

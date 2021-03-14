@@ -601,6 +601,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 ## [March 13th, 2021](<March 13th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [March 14th, 2021](<March 14th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 

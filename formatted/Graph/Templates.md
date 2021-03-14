@@ -13,10 +13,12 @@
     - [Miscellaneous](((3Oj1R8i4j)))
 - **[Contents](<../Contents.md>):**
     - Global Variables
-        - [42Setting](<../42Setting.md>) ThisWeek #[Week-09: 03-01-2021](<../Week-09: 03-01-2021.md>)
-        - [42Setting](<../42Setting.md>) ThisWkRaw Week-09: 03-01-2021
-        - [42Setting](<../42Setting.md>) NextWeek #[Week-10: 03-08-2021](<../Week-10: 03-08-2021.md>)
-        - [42Setting](<../42Setting.md>) NextWkRaw Week-10: 03-08-2021
+        - [42Setting](<../42Setting.md>) LastWeek #[Week-10: 03-08-2021](<../Week-10: 03-08-2021.md>)
+        - [42Setting](<../42Setting.md>) LastWkRaw Week-10: 03-08-2021
+        - [42Setting](<../42Setting.md>) ThisWeek #[Week-11: 03-15-2021](<../Week-11: 03-15-2021.md>)
+        - [42Setting](<../42Setting.md>) ThisWkRaw Week-11: 03-15-2021
+        - [42Setting](<../42Setting.md>) NextWeek #[Week-12: 03-22-2021](<../Week-12: 03-22-2021.md>)
+        - [42Setting](<../42Setting.md>) NextWkRaw Week-12: 03-22-2021
         - [42Setting](<../42Setting.md>) ThisMonth #[March 2021](<../March 2021.md>)
         - [42Setting](<../42Setting.md>) ThisMnthRaw March 2021
         - [42Setting](<../42Setting.md>) NextMonth #[April 2021](<../April 2021.md>)
