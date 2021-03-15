@@ -1,0 +1,7 @@
+- #[[My Daily Notes]] [[Your Name]] {{word-count}}
+    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+        - __write here__
+    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - __comment/reply here__
+            - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+- ---
