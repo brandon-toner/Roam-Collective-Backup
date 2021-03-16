@@ -387,6 +387,9 @@ window.updateIndexPage = updateIndexPage;
 
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [March 15th, 2021](<March 15th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [Q](<Q.md>) What is the difference between a principle and a directive?[*]([Charles Farr](<Charles Farr.md>))
 

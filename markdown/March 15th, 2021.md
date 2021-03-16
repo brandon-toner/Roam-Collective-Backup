@@ -10,3 +10,9 @@
     - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU)
     - -Brandon 
 - ---
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+    - #Scratchpad
+        - It's been too long! A few other projects have pulled me away...
+    - #Conversation #not-populated
+    - #Bookmarks #not-populated
+- ---
