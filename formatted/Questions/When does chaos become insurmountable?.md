@@ -3,7 +3,7 @@
 - ---
 - **[Tags](<../Tags.md>):** [Questions](<../Questions.md>)
     - **[Date Created](<../Date Created.md>):** [February 10th, 2021](<../February 10th, 2021.md>)
-    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<../Created by.md>):** [Charles Farr](<../Charles Farr.md>)
     - **[Author](<../Author.md>):** [Peter Rosso](<../Peter Rosso.md>)
     - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))

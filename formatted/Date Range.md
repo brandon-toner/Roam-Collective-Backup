@@ -5,7 +5,7 @@
     - **[Date Range](<Date Range.md>):**
 
 ## [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Date Range](<Date Range.md>):**
 
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
@@ -13,7 +13,7 @@
     - **[Date Range](<Date Range.md>):**
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Date Range](<Date Range.md>):**
 
 - **[Created by](<Created by.md>):** [not-populated](<not-populated.md>)

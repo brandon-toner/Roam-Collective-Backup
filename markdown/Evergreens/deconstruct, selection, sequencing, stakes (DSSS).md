@@ -1,6 +1,6 @@
 - Tags:: #[[Evergreens]]
-    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Date Created:: {{Today:42SmartBlock:.Today}}
+    - Last Updated:: {{Today:42SmartBlock:.Today}}
     - Created by:: [[Brandon Toner]]
     - Author:: [[Tim Ferriss]]
     - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))

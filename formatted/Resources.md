@@ -19,7 +19,7 @@
             - **[Resources](<Resources.md>):**
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Resources](<Resources.md>):**
 
 - **[Status](<Status.md>):** [not-populated](<not-populated.md>)

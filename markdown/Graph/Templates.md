@@ -64,10 +64,10 @@
             - If this is your first time making a DNP section, use .gs instead.
             - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU) 
             - ---
-    - Dates
-        - .rc3TD — Today #42SmartBlock
+    - Quick Dates (uses the week & month format of the [[Date Planner]])
+        - .Today #42SmartBlock
             - <%DATE:today%>
-        - .rc3TMRW — Tomorrow #42SmartBlock
+        - .Tomorrow #42SmartBlock
             - <%DATE:tomorrow%>
         - .This Week #42SmartBlock
             - <%SET:dt,<%DATE:today,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
@@ -185,7 +185,7 @@
     - Page Templates
         - .rcPRJ — Projects Template #42SmartBlock #roam/templates
             - Tags:: #Projects
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
                 - Related:: #[[not-populated]]
                 - People:: #[[not-populated]] #Housekeeping
                     - Created by:: #not-populated
@@ -205,8 +205,8 @@
                 - URL:: #not-populated
         - .rcCRT — Creative Project Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Projects #Creative
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-                - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
+                - Last Updated:: {{Today:42SmartBlock:.Today}}
                 - Resources:: #not-populated
                 - Relevant Notes:: #not-populated
                 - Outline:: #not-populated
@@ -214,7 +214,7 @@
                 - Contents:: #not-populated
         - .rcSPR — Sprints Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Sprints
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
                 - Date Range:: #not-populated
                 - Description:: #not-populated
                 - Status:: #not-populated
@@ -234,7 +234,7 @@
                 - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
         - .rcEPC — Epics Template #42SmartBlock #[[roam/templates]]
             - Tags:: #Epics
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
                 - Created by:: #not-populated
                 - Date Range:: #not-populated
                 - Description:: #not-populated
@@ -243,8 +243,8 @@
                 - Work Summary:: #not-populated ((Include your name, the date, a description of the work, and a link to the work))
         - .rcEVN — Evergreen Note Template #42SmartBlock #roam/templates
             - Tags:: #[[Evergreens]]
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-                - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
+                - Last Updated:: {{Today:42SmartBlock:.Today}}
                 - Created by:: #not-populated
                 - Author:: #not-populated
                 - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
@@ -253,8 +253,8 @@
                 - Contents:: #not-populated
         - .rcMXM — Maxims Template #42SmartBlock #roam/templates
             - Tags:: #Maxims
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-                - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
+                - Last Updated:: {{Today:42SmartBlock:.Today}}
                 - Created by:: #not-populated
                 - Author:: #not-populated
                 - Source:: #not-populated
@@ -262,8 +262,8 @@
                 - Contents:: #not-populated
         - .rcSDL — Seedlings Template #42SmartBlock #roam/templates
             - Tags:: #Seedlings
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-                - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
+                - Last Updated:: {{Today:42SmartBlock:.Today}}
                 - Created by:: #not-populated
                 - Author:: #not-populated
                 - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))
@@ -272,8 +272,8 @@
                 - Contents:: #not-populated
         - .rcQST — Questions Template #42SmartBlock #roam/templates
             - Tags:: #Questions
-                - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
-                - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+                - Date Created:: {{Today:42SmartBlock:.Today}}
+                - Last Updated:: {{Today:42SmartBlock:.Today}}
                 - Created by:: #not-populated
                 - Author:: #not-populated
                 - Relevant Notes:: #not-populated ((Related notes in the graph — FN, LN, EN, Q, I, etc.))

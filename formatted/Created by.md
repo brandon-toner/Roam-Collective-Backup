@@ -6,7 +6,7 @@
     - **[Created by](<Created by.md>):**
 
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [2nd-Degree Filter](<2nd-Degree Filter.md>)
@@ -125,11 +125,11 @@
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/Create speculative outlines while you write](<Evergreens/Create speculative outlines while you write.md>)
@@ -233,7 +233,7 @@
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
@@ -248,19 +248,19 @@
 - **[People](<People.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
                     - **[Created by](<Created by.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<Created by.md>):**
 
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<Created by.md>):**
 
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<Created by.md>):**
 
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<Created by.md>):**
 
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<Created by.md>):**
 
 ## [If old memories still upset you, write them down carefully and completely.](<If old memories still upset you, write them down carefully and completely..md>)
@@ -332,11 +332,11 @@
     - **[Created by](<Created by.md>):**
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
@@ -344,11 +344,11 @@
     - **[Created by](<Created by.md>):**
 
 ## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [Read something written by someone great.](<Read something written by someone great..md>)
@@ -408,7 +408,7 @@
     - **[Created by](<Created by.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)
@@ -416,6 +416,6 @@
     - **[Created by](<Created by.md>):**
 
 ## [prepositional linkages](<prepositional linkages.md>)
-- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 

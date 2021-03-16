@@ -1,6 +1,6 @@
 - Tags:: #Evergreens #Buddings #Concepts
     - Date Created:: [[February 12th, 2021]]
-    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Last Updated:: {{Today:42SmartBlock:.Today}}
     - Created by:: [[Brandon Toner]]
     - Author:: [[Brandon Toner]]
     - References::  ((Supporting FN, LN, EN, or RN would go here))

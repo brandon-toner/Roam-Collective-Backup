@@ -1,6 +1,6 @@
 - **[Tags](<../Tags.md>):** #[Evergreens](<../Evergreens.md>)
-    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
     - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
     - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))

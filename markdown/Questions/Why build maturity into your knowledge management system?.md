@@ -1,6 +1,6 @@
 - Tags:: #Questions
     - Date Created:: [[February 3rd, 2021]]
-    - Last Updated:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Last Updated:: {{Today:42SmartBlock:.Today}}
     - Created by:: #not-populated
     - Author:: #not-populated
     - References:: #not-populated ((Supporting FN, LN, EN, or RN would go here))

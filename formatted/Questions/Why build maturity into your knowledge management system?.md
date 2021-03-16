@@ -1,6 +1,6 @@
 - **[Tags](<../Tags.md>):** [Questions](<../Questions.md>)
     - **[Date Created](<../Date Created.md>):** [February 3rd, 2021](<../February 3rd, 2021.md>)
-    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
     - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
     - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))

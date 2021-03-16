@@ -230,7 +230,7 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 - **[Related](<Related.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Related](<Related.md>):**
 
 ## [Graph/backup](<Graph/backup.md>)

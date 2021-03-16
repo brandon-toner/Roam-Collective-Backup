@@ -1,5 +1,5 @@
 - **[Tags](<../Tags.md>):** [Epics](<../Epics.md>)
-    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Date Range](<../Date Range.md>):** [not-populated](<../not-populated.md>)
     - **[Description](<../Description.md>):** [not-populated](<../not-populated.md>)
     - **[Status](<../Status.md>):** [Status/Active](<../Status/Active.md>)

@@ -1,6 +1,6 @@
 - **[Tags](<../Tags.md>):** #[Evergreens](<../Evergreens.md>)
-    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+    - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<../Created by.md>):** [Brandon Toner](<../Brandon Toner.md>)
     - **[Author](<../Author.md>):** [Tim Ferriss](<../Tim Ferriss.md>)
     - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))

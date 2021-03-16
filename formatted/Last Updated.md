@@ -5,7 +5,7 @@
     - **[Last Updated](<Last Updated.md>):**
 
 ## [12 Favorite Problems](<12 Favorite Problems.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Abandon ideology.](<Abandon ideology..md>)
@@ -97,11 +97,11 @@
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Evergreens/Claim 2](<Evergreens/Claim 2.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Evergreens/Claim 3](<Evergreens/Claim 3.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Evergreens/How do you eat an elephant?](<Evergreens/How do you eat an elephant?.md>)
@@ -125,23 +125,23 @@
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Last Updated](<Last Updated.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Last Updated](<Last Updated.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Last Updated](<Last Updated.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Last Updated](<Last Updated.md>):**
 
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Last Updated](<Last Updated.md>):**
 
 ## [If old memories still upset you, write them down carefully and completely.](<If old memories still upset you, write them down carefully and completely..md>)
@@ -205,7 +205,7 @@
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
@@ -273,7 +273,7 @@
     - **[Last Updated](<Last Updated.md>):**
 
 ## [falling between the cracks](<falling between the cracks.md>)
-- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
     - **[Last Updated](<Last Updated.md>):**
 
 ## [grist for the mill](<grist for the mill.md>)

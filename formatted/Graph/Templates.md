@@ -64,10 +64,10 @@
             - If this is your first time making a DNP section, use .gs instead.
             - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU) 
             - ---
-    - Dates
-        - .rc3TD — Today [42SmartBlock](<../42SmartBlock.md>)
+    - Quick Dates (uses the week & month format of the [Date Planner](<../Date Planner.md>))
+        - .Today [42SmartBlock](<../42SmartBlock.md>)
             - <%DATE:today%>
-        - .rc3TMRW — Tomorrow [42SmartBlock](<../42SmartBlock.md>)
+        - .Tomorrow [42SmartBlock](<../42SmartBlock.md>)
             - <%DATE:tomorrow%>
         - .This Week [42SmartBlock](<../42SmartBlock.md>)
             - <%SET:dt,<%DATE:today,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
@@ -185,7 +185,7 @@
     - Page Templates
         - .rcPRJ — Projects Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Projects](<../Projects.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Related](<../Related.md>):** #[not-populated](<../not-populated.md>)
                 - **[People](<../People.md>):** #[not-populated](<../not-populated.md>) [Housekeeping](<../Housekeeping.md>)
                     - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
@@ -205,8 +205,8 @@
                 - **[URL](<../URL.md>):** [not-populated](<../not-populated.md>)
         - .rcCRT — Creative Project Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Projects](<../Projects.md>) [Creative](<../Creative.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Resources](<../Resources.md>):** [not-populated](<../not-populated.md>)
                 - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>)
                 - **[Outline](<../Outline.md>):** [not-populated](<../not-populated.md>)
@@ -214,7 +214,7 @@
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcSPR — Sprints Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Sprints](<../Sprints.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Date Range](<../Date Range.md>):** [not-populated](<../not-populated.md>)
                 - **[Description](<../Description.md>):** [not-populated](<../not-populated.md>)
                 - **[Status](<../Status.md>):** [not-populated](<../not-populated.md>)
@@ -234,7 +234,7 @@
                 - **[Work Summary](<../Work Summary.md>):** [not-populated](<../not-populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
         - .rcEPC — Epics Template [42SmartBlock](<../42SmartBlock.md>) #[roam/templates](<../roam/templates.md>)
             - **[Tags](<../Tags.md>):** [Epics](<../Epics.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
                 - **[Date Range](<../Date Range.md>):** [not-populated](<../not-populated.md>)
                 - **[Description](<../Description.md>):** [not-populated](<../not-populated.md>)
@@ -243,8 +243,8 @@
                 - **[Work Summary](<../Work Summary.md>):** [not-populated](<../not-populated.md>) ((Include your name, the date, a description of the work, and a link to the work))
         - .rcEVN — Evergreen Note Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** #[Evergreens](<../Evergreens.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
                 - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
                 - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
@@ -253,8 +253,8 @@
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcMXM — Maxims Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Maxims](<../Maxims.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
                 - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
                 - **[Source](<../Source.md>):** [not-populated](<../not-populated.md>)
@@ -262,8 +262,8 @@
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcSDL — Seedlings Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Seedlings](<../Seedlings.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
                 - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
                 - **[References](<../References.md>):** [not-populated](<../not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
@@ -272,8 +272,8 @@
                 - **[Contents](<../Contents.md>):** [not-populated](<../not-populated.md>)
         - .rcQST — Questions Template [42SmartBlock](<../42SmartBlock.md>) [roam](<../roam.md>)/templates
             - **[Tags](<../Tags.md>):** [Questions](<../Questions.md>)
-                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
-                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+                - **[Date Created](<../Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                - **[Last Updated](<../Last Updated.md>):** {{Today:42SmartBlock:.Today}}
                 - **[Created by](<../Created by.md>):** [not-populated](<../not-populated.md>)
                 - **[Author](<../Author.md>):** [not-populated](<../not-populated.md>)
                 - **[Relevant Notes](<../Relevant Notes.md>):** [not-populated](<../not-populated.md>) ((Related notes in the graph — FN, LN, EN, Q, I, etc.))

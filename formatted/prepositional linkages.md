@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [Evergreens](<Evergreens.md>) [Buddings](<Buddings.md>) [Concepts](<Concepts.md>)
     - **[Date Created](<Date Created.md>):** [February 12th, 2021](<February 12th, 2021.md>)
-    - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.rc3TD — Today}}
+    - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**  ((Supporting FN, LN, EN, or RN would go here))

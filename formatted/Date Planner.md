@@ -41,6 +41,9 @@
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Review how the [Date Planner](<Date Planner.md>)
 
+## [Graph/Templates](<Graph/Templates.md>)
+- Quick Dates (uses the week & month format of the [Date Planner](<Date Planner.md>))
+
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
 - "[N](<N.md>) The [Date Planner](<Date Planner.md>)
 

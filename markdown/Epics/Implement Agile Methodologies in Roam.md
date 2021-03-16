@@ -1,5 +1,5 @@
 - Tags:: #Epics
-    - Date Created:: {{Today:42SmartBlock:.rc3TD — Today}}
+    - Date Created:: {{Today:42SmartBlock:.Today}}
     - Date Range:: #not-populated
     - Description:: #not-populated
     - Status:: [[Status/Active]]
