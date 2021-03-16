@@ -183,7 +183,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - #Bookmarks
     - Notifications Inbox
     - #Conversation 
-        - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+        - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[[My Daily Notes]] [[Your Name]] {{word-count}}) Thoughts? [[~]][[Brandon Toner]]"
             - Yup, this is a great idea! 
             - I added the [[roam/js/tag-cycle]] page such that "CTRL+SHIFT+C HASH" removes the not-populated tag as well -- another option.
             - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]
@@ -233,9 +233,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - I think I prefer `[[@[[Brandon Toner]]]]` for sake of queries.
 - #[[My Daily Notes]] [[Matthew Vogel]] "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([[mtv]]) {{word-count}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
-        - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]"
+        - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[[My Daily Notes]] [[Your Name]] {{word-count}}) Thoughts? [[~]][[Brandon Toner]]"
     - #Questions ((about the graph, or directed towards someone)) 
-        - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](((JCg22PlRk))) Thoughts? [[~]][[Brandon Toner]]
+        - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `#not-populated` to `#not_populated` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[[My Daily Notes]] [[Your Name]] {{word-count}}) Thoughts? [[~]][[Brandon Toner]]
     - #Conversation
         - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [[~]] [[Matthew Vogel]]"
             - whoops will do in the future!

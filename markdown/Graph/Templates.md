@@ -61,26 +61,22 @@
                 - #[[Graph Change Log]] #not-populated
             - ---
         - .rc1DNP — Daily Notes Template #42SmartBlock #roam/templates
-            - #[[My Daily Notes]] [[Your Name]] {{word-count}}
-                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
-                    - __write here__
-                - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
-                    - __comment/reply here__
-                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+            - If this is your first time making a DNP section, use .gs instead.
+            - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU) 
             - ---
     - Dates
         - .rc3TD — Today #42SmartBlock
             - <%DATE:today%>
         - .rc3TMRW — Tomorrow #42SmartBlock
             - <%DATE:tomorrow%>
-        - .rc4WK — This Week #42SmartBlock
-            - <%42SETTING:ThisWeek%>
-        - .rc4MNTH — This Month #42SmartBlock
-            - <%42SETTING:ThisMonth%>
-        - .rc4NW — Next Week #42SmartBlock
-            - <%42SETTING:NextWeek%>
-        - .rc4NM — Next Month #42SmartBlock
-            - <%42SETTING:NextMonth%>
+        - .Insert WEEK Tag (input) #42SmartBlock
+            - <%SET:dt,<%DATE:<%INPUT:Week of?%%Today%>,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
+            - <%SET:weekNum,<%J:return dayjs(roam42.sb.vars["dt"]).week()-1%>%> <%NOBLOCKOUTPUT%>
+            - <%CONCAT:#,[,[Week-%><%GET:weekNum%>: <%GET:dt%>]]
+        - .Insert MONTH Tag (input) #42SmartBlock
+            - <%SET:dt,<%DATE:<%INPUT:Week of?%%Today%>,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
+            - <%SET:weekNum,<%J:return dayjs(roam42.sb.vars["dt"]).week()-1%>%> <%NOBLOCKOUTPUT%>
+            - <%CONCAT:#,[,[%><%DATE:<%GET:dt%>,MMMM YYYY%>]]
     - Productivity
         - .rc3GTD — Daily Review GTD #42SmartBlock
             - Daily Review::

@@ -1,7 +1,12 @@
+- #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
+    - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
+    - #[[Graph Change Log]] 
+        - Added new smartblocks for population of week and month tags. These accept natural language, and work in concert with the [[Date Planner]].
+            - ".Insert WEEK Tag (input) #42SmartBlock"
+            - ".Insert MONTH Tag (input) #42SmartBlock"
+- ---
 - #[[My Daily Notes]] [[Your Name]] {{word-count}}
-    - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
-        - __write here__
-    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
-        - __comment/reply here__
-            - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+    - If this is your first time making a DNP section, use .gs instead.
+    - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU)
+    - -Brandon 
 - ---
