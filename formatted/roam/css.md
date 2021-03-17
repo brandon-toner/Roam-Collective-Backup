@@ -4101,7 +4101,7 @@ span [data-tag="min-all"] {
     background: [FFF59D](<../FFF59D.md>) !important; 
 }```
             - Block-Width Fix (based on adjustable width update)
-                - ```css
+                - ```plain text
 /*.roam-body-main > div {
   padding-right: calc((100% - 600px) / 2);
   padding-left: calc((100% - 600px) / 2);
