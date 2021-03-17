@@ -71,6 +71,7 @@
             - <%DATE:tomorrow%>
         - .This Week #42SmartBlock
             - <%SET:dt,<%DATE:today,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
+            - <%J:roam42.sb.vars["dt"]= dayjs(roam42.common.startOfWeek(new Date(roam42.sb.vars["dt"]))).format('MM-DD-YYYY')%><%NOBLOCKOUTPUT%>
             - <%SET:weekNum,<%J:return dayjs(roam42.sb.vars["dt"]).week()-1%>%> <%NOBLOCKOUTPUT%>
             - <%CONCAT:#,[,[Week-%><%GET:weekNum%>: <%GET:dt%>]]
         - .This Month #42SmartBlock
@@ -79,6 +80,7 @@
             - <%CONCAT:#,[,[%><%DATE:<%GET:dt%>,MMMM YYYY%>]]
         - .Next Week #42SmartBlock
             - <%SET:dt,<%DATE:next week,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
+            - <%J:roam42.sb.vars["dt"]= dayjs(roam42.common.startOfWeek(new Date(roam42.sb.vars["dt"]))).format('MM-DD-YYYY')%><%NOBLOCKOUTPUT%>
             - <%SET:weekNum,<%J:return dayjs(roam42.sb.vars["dt"]).week()-1%>%> <%NOBLOCKOUTPUT%>
             - <%CONCAT:#,[,[Week-%><%GET:weekNum%>: <%GET:dt%>]]
         - .Next Month #42SmartBlock
@@ -87,6 +89,7 @@
             - <%CONCAT:#,[,[%><%DATE:<%GET:dt%>,MMMM YYYY%>]]
         - .Insert WEEK Tag (input) #42SmartBlock
             - <%SET:dt,<%DATE:<%INPUT:Week of?%%Today%>,MM-DD-YYYY%>%><%NOBLOCKOUTPUT%>
+            - <%J:roam42.sb.vars["dt"]= dayjs(roam42.common.startOfWeek(new Date(roam42.sb.vars["dt"]))).format('MM-DD-YYYY')%><%NOBLOCKOUTPUT%>
             - <%SET:weekNum,<%J:return dayjs(roam42.sb.vars["dt"]).week()-1%>%> <%NOBLOCKOUTPUT%>
             - <%CONCAT:#,[,[Week-%><%GET:weekNum%>: <%GET:dt%>]]
         - .Insert MONTH Tag (input) #42SmartBlock

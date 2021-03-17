@@ -177,6 +177,9 @@
 ## [March 16th, 2021](<March 16th, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+## [March 17th, 2021](<March 17th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 

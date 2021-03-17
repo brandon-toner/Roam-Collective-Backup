@@ -2,8 +2,8 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #[[Graph Change Log]] 
         - Added new smartblocks for population of week and month tags. These accept natural language, and work in concert with the [[Date Planner]].
-            - ".Insert WEEK Tag (input) #42SmartBlock"
-            - ".Insert MONTH Tag (input) #42SmartBlock"
+            - .Insert WEEK Tag (input) #42SmartBlock
+            - .Insert MONTH Tag (input) #42SmartBlock
 - ---
 - #[[My Daily Notes]] [[Your Name]] {{word-count}}
     - If this is your first time making a DNP section, use .gs instead.
