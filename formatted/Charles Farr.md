@@ -390,6 +390,9 @@ window.updateIndexPage = updateIndexPage;
 ## [March 15th, 2021](<March 15th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 
+## [March 18th, 2021](<March 18th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [Q](<Q.md>) What is the difference between a principle and a directive?[*]([Charles Farr](<Charles Farr.md>))
 
@@ -427,6 +430,9 @@ window.updateIndexPage = updateIndexPage;
 - **[Author](<Author.md>):** [Charles Farr](<Charles Farr.md>)
 
 ## [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>)
+- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
 
 ## [Seedlings/mutually exclusive, collectively exhaustive (MECE)](<Seedlings/mutually exclusive, collectively exhaustive (MECE).md>)

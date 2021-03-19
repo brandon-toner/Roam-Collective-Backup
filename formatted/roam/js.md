@@ -58,6 +58,9 @@ try{
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - I think every person needs to activate the [roam/js](<../roam/js.md>)
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- [roam/js](<../roam/js.md>)
+
 ## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - {{[roam/js](<../roam/js.md>)}
 

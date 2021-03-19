@@ -361,6 +361,10 @@
 - **[Tags](<Tags.md>):** [Questions](<Questions.md>)
     - **[Date Created](<Date Created.md>):**
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- **[Created by](<Created by.md>):** [Charles Farr](<Charles Farr.md>)
+    - **[Date Created](<Date Created.md>):**
+
 ## [Read something written by someone great.](<Read something written by someone great..md>)
 - **[Tags](<Tags.md>):** [Maxims](<Maxims.md>)
     - **[Date Created](<Date Created.md>):**

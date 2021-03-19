@@ -4637,6 +4637,9 @@ h6 {
 ## [People](<People.md>)
 - [x] Add to [roam/css](<../roam/css.md>)
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- [roam/css](<../roam/css.md>)
+
 ## [Thoughts](<Thoughts.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 

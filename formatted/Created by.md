@@ -351,6 +351,10 @@
 - **[Last Updated](<Last Updated.md>):** {{Today:42SmartBlock:.Today}}
     - **[Created by](<Created by.md>):**
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- **[Tags](<Tags.md>):** [Seedpack](<Seedpack.md>)
+    - **[Created by](<Created by.md>):**
+
 ## [Read something written by someone great.](<Read something written by someone great..md>)
 - **[Last Updated](<Last Updated.md>):** [February 28th, 2021](<February 28th, 2021.md>)
     - **[Created by](<Created by.md>):**

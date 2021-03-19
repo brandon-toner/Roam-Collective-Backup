@@ -23,6 +23,9 @@ Shifted from using `#[Change Log](<Change Log.md>)` to `#[Graph Change Log](<Gra
 ## [March 17th, 2021](<March 17th, 2021.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 
+## [March 18th, 2021](<March 18th, 2021.md>)
+- #[Graph Change Log](<Graph Change Log.md>)
+
 ## [roam/css](<roam/css.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 

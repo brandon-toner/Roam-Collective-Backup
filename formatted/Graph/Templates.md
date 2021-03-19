@@ -343,6 +343,9 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [Graph/Templates](<../Graph/Templates.md>)
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- [Graph/Templates](<../Graph/Templates.md>)
+
 ## [choice algorithm](<choice algorithm.md>)
 - **[Tags](<../Tags.md>):** [Graph/Templates](<../Graph/Templates.md>)
 

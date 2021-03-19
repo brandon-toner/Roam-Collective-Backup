@@ -138,6 +138,9 @@
 ## [March 17th, 2021](<March 17th, 2021.md>)
 - #[Main Feed](<Main Feed.md>)
 
+## [March 18th, 2021](<March 18th, 2021.md>)
+- #[Main Feed](<Main Feed.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - #[Main Feed](<Main Feed.md>)
 

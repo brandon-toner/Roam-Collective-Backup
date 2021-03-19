@@ -606,6 +606,9 @@
 ## [RBC](<RBC.md>)
 - **[Tags](<Tags.md>):**
 
+## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Random Review](<Random Review.md>)
 - **[Tags](<Tags.md>):**
 

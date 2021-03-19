@@ -1,0 +1,29 @@
+- Tags:: #Seedpack
+    - Created by:: [[Charles Farr]]
+    - Date Created:: [[March 18th, 2021]]
+    - ---
+    - Welcome
+        - Info
+    - Creation of Core Pages
+        - Functional Pages
+            - [[roam/js]]
+            - [[roam/css]]
+        - Organizational Pages
+            - [[Graph/Templates]]
+            - [[Graph/SmartBlocks]]
+            - [[Graph/Extensions]]
+        - Information Pages
+            - [[Onboarding/Conventions]]
+            - [[Onboarding/Extensions]]
+    - Importing Key Functions
+        - Roam42
+        - Color Scheme
+    - Importing Conventions
+        - Daily Notes Modules
+        - Communication
+        - Notes & Questions
+        - Projects
+    - Importing Dashboards
+        - 
+    - Building on the Primitives
+        - 
