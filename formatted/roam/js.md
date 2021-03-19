@@ -61,6 +61,8 @@ try{
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [roam/js](<../roam/js.md>)
 
+- {{{[roam/js](<../roam/js.md>)}
+
 ## [SmartBlock/Datomic Query Templates](<SmartBlock/Datomic Query Templates.md>)
 - {{[roam/js](<../roam/js.md>)}
 

@@ -4640,6 +4640,8 @@ h6 {
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [roam/css](<../roam/css.md>)
 
+- Drag either the "Color Scheme (Hosted)" or the "Color Scheme (Full)" into the [roam/css](<../roam/css.md>)
+
 ## [Thoughts](<Thoughts.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 

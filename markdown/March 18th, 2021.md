@@ -4,8 +4,7 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
     - #Scratchpad
-        - Working on a combo seedpack / onboarding — [[RC/Onboarding Seedpack]]
-            - 
+        - Working on a combo seedpack / onboarding package → [[RC/Onboarding Seedpack]]
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---
