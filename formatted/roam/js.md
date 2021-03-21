@@ -65,8 +65,6 @@ try{
 
 - {{[roam/js](<../roam/js.md>)}
 
-- {{[roam/js](<../roam/js.md>)}
-
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [roam/js](<../roam/js.md>)
 
