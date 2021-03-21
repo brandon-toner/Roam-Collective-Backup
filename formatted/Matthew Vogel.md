@@ -123,15 +123,66 @@ queryText = `[:find (pull ?e [[:block/string][:block/uid]])
 		[?b :user/uid ?uid]
 		[?b :user/email ?email]]
         - noti test
+            - [stable Roam42](http://roam42.com/)
+                - {{[roam/js](<roam/js.md>)}}
+                    - ```javascript
+
+// DISABLE FEATURES 
+// Remove two forward slashes from in front of name 
+// of feature to DISABLE it 
+// Everything is enabled by default 
+window.disabledFeatures = [ 
+  // 'quickReference', 
+    // 'turnDown', 
+    // 'dateProcessing', 
+    // 'lookupUI', 
+     'livePreview', 
+     'dailyNote', 
+    // 'templatePoc', 
+    // 'jumpToDate', 
+    // 'jumpNav', 
+];
+
+
+var s = document.createElement('script');
+	s.type = "text/javascript";
+  	s.src =  "https://roam42.glitch.me/main.js";
+  	s.async = true;
+document.body.appendChild(s);
+```
+                - {{[roam/js](<roam/js.md>)}}
+                    - ```javascript
+
+var s = document.createElement('script');
+	s.type = "text/javascript";
+  	s.src =  "https://roam42.glitch.me/main.js";
+  	s.async = true;
+document.body.appendChild(s);
+```
+                - Settings
+                    - [42Setting](<42Setting.md>) DailyNotePopup off
+                    - [42Setting](<42Setting.md>) LivePreview off
+                - Shortcuts
+                    - Natural language date processing -`ALT+SHIFT+D`
             - remove icon
                 - {{[roam/js](<roam/js.md>)}}
                     - ```javascript
 
+var elem = document.getElementById("notification-center-flex");
+  elem.parentNode.removeChild(elem);
+```
+            - remove script
+                - {{[roam/js](<roam/js.md>)}}
+                    - ```javascript
+
+var elem = document.getElementById("roamnotifications");
+  elem.parentNode.removeChild(elem);
+var elem = document.getElementById("roamnotificationscss");
+  elem.parentNode.removeChild(elem);
 
 var elem = document.getElementById("notification-center-button");
   elem.parentNode.removeChild(elem);
-var element2 = document.getElementById("notification-center-flex-space");
-	element.parentNode.removeChild(element2);```
+```
             - [remote reload](https://github.com/austinbirch/roam-cljs-example)
                 - {{[roam/js](<roam/js.md>)}}
                     - ```javascript
@@ -139,7 +190,15 @@ var s = document.createElement("script");
 s.src = "http://127.0.0.1:8081/internal_notifications_masonry.js";
 s.id = "roamnotifications";
 s.type = "text/javascript";
-document.getElementsByTagName("head")[0].appendChild(s);```
+document.getElementsByTagName("head")[0].appendChild(s);
+
+var ncss = document.createElement("link");
+ncss.rel = "stylesheet"
+ncss.href = "http://127.0.0.1:8081/notification-center.css";
+ncss.id = "roamnotificationscss";
+ncss.type = "text/css";
+document.getElementsByTagName("head")[0].appendChild(ncss);
+```
             - local noti
                 - {{[roam/js](<roam/js.md>)}}
                     - ```javascript
