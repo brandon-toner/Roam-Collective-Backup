@@ -7,7 +7,7 @@
 - The following CSS uses a standard color scheme to style elements. All of the CSS code here draws on the color scheme.
             - **[Import Instructions](<Import Instructions.md>):**
 
-- **[Info](<Info.md>):**
+- 
             - **[Import Instructions](<Import Instructions.md>):**
 
 - **[Info](<Info.md>):**

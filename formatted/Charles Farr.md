@@ -408,6 +408,9 @@ window.updateIndexPage = updateIndexPage;
 
 - I take it you shared this with [Stian Håklev](<Stian Håklev.md>) already [Charles Farr](<Charles Farr.md>)?
 
+## [March 20th, 2021](<March 20th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
+
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>)
 

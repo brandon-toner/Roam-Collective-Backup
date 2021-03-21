@@ -122,6 +122,269 @@ queryText = `[:find (pull ?e [[:block/string][:block/uid]])
     	[?b :user/display-name ?members]
 		[?b :user/uid ?uid]
 		[?b :user/email ?email]]
+        - noti test
+            - stable roam42
+                - [Roam42](http://roam42.com/)
+                    - {{[[roam/js]]}}
+                        - ```javascript
+
+// DISABLE FEATURES 
+// Remove two forward slashes from in front of name 
+// of feature to DISABLE it 
+// Everything is enabled by default 
+window.disabledFeatures = [ 
+  // 'quickReference', 
+    // 'turnDown', 
+    // 'dateProcessing', 
+    // 'lookupUI', 
+     'livePreview', 
+     'dailyNote', 
+    // 'templatePoc', 
+    // 'jumpToDate', 
+    // 'jumpNav', 
+];
+
+
+var s = document.createElement('script');
+	s.type = "text/javascript";
+  	s.src =  "https://roam42.glitch.me/main.js";
+  	s.async = true;
+document.body.appendChild(s);
+```
+                    - Settings
+                        - #42Setting DailyNotePopup off
+                        - #42Setting LivePreview off
+                    - Shortcuts
+                        - Natural language date processing -`ALT+SHIFT+D`
+            - remove icon
+                - {{[[roam/js]]}}
+                    - ```javascript
+
+
+var elem = document.getElementById("notification-center-button");
+  elem.parentNode.removeChild(elem);
+var element2 = document.getElementById("notification-center-flex-space");
+	element.parentNode.removeChild(element2);```
+            - [remote reload](https://github.com/austinbirch/roam-cljs-example)
+                - {{[[roam/js]]}}
+                    - ```javascript
+var s = document.createElement("script");
+s.src = "http://127.0.0.1:8081/internal_notifications_masonry.js";
+s.id = "roamnotifications";
+s.type = "text/javascript";
+document.getElementsByTagName("head")[0].appendChild(s);```
+            - local noti
+                - {{[[roam/js]]}}
+                    - ```javascript
+// this heavily cribs from roam42 and random-page-plugin.js
+(()=>{
+  notificationCenter = {};
+  notificationCenter.tippy = {};
+  loadNotificationCenterIcon = async ()=>  {
+    // this is the page to watch for notifications
+    // TODO find a better way of doing this...
+      var pageToWatch = 'roam/css';
+
+      var mySleep = m => new Promise(r => setTimeout(r, m));
+      //Loop to check if roam-topbar has been loaded yet... if not, sleep for a bit to wait for it
+      for (let y = 1; y < 20; y++) {
+          if (document.getElementsByClassName("rm-topbar") != null &&
+              document.getElementsByClassName("roam-body-main") != null &&
+              document.getElementById("right-sidebar") != null) {
+              if (document.getElementsByClassName("rm-topbar").length > 0 &&
+                  document.getElementsByClassName("roam-body-main").length > 0) { break; }
+          }
+          await mySleep(100);
+      }
+
+      // Sleep for an extra little bit to load later than other icons to help with
+      // ordering left to right (200 = 3rd)
+      await mySleep(200);
+
+      function loadCSS(){
+          var styles = `
+              .unread-notifications.bp3-icon-notifications::before {
+                  color: red; }
+          `
+
+          var styleSheet = document.createElement("style")
+          styleSheet.type = "text/css"
+          styleSheet.innerText = styles
+          document.head.appendChild(styleSheet)
+      }
+
+      function convertTimestamp(time){
+        const options = {
+        	// weekday: 'long',
+        	year: 'numeric',
+        	month: 'numeric',
+        	day: 'numeric',
+        	hour: 'numeric',
+          minute: 'numeric'};
+
+        const dateTimeFormat = new Intl.DateTimeFormat('en-us', options);
+        return dateTimeFormat.format(time);
+      }
+
+      // load the notifications when the button is clicked
+      displayMenu = async ()=>{
+          const db = location.hash.split('/')[2];
+          let menu = '';
+          menu += `<div class="notification-center bp3-popover-content">
+                    <div class="bp3-menu">
+                      <header>
+                        <div class="notification-header"><strong class="bp3-icon-notifications bp3-intent" tabindex="0" role="button"> Notifications</strong></div>
+                        <div class="bp3-button-group bp3-fill">
+                          <a class="bp3-button bp3-icon-inbox bp3-intent bp3-active" tabindex="0" role="button">Mentions</a>
+                          <a class="bp3-button bp3-icon-git-new-branch bp3-intent bp3-disabled" tabindex="0" role="button">Refs</a>
+                        </div>
+                      </header>
+                      <div class="message-container">`;
+          // query for all references to your pageToWatch
+          query = `[:find (pull ?e [[:block/string][:block/uid][:edit/time]])
+     		            :in $ ?pagetitle
+     		            :where
+     		                [?f :node/title ?pagetitle]
+     		                [?e :block/refs ?f]]`;
+
+          result = window.roamAlphaAPI.q(query, pageToWatch);
+          watchPageUIDQuery = `[:find (pull ?e [:block/uid]) .
+                 		            :in $ ?pagetitle
+                 		            :where
+                 		                [?e :node/title ?pagetitle]]`;
+
+          // get the url for your pageToWatch
+          var pageToWatchUID = window.roamAlphaAPI.q(watchPageUIDQuery, pageToWatch).uid;
+          var pageToWatchURL = `https://roamresearch.com/#/app/${db}/page/${pageToWatchUID}`
+          console.log(result);
+
+          for (i = 0; i < result.length; i++) {
+              if (!result[i][0].string.includes('{{[[query]]:')){ //skip {{queries}}
+                var blockUID = result[i][0].uid
+                var displayNameQuery = `[:find (pull ?user [:user/display-name]) .
+            		            :in $ ?block
+            		            :where
+            		                [?f :block/uid ?block]
+            		                [?f :edit/user ?user]]`;
+                var displayName = window.roamAlphaAPI.q(displayNameQuery, blockUID)['display-name'];
+                console.log(displayName);
+
+                var editTime = convertTimestamp(result[i][0].time)
+                var blockURL = `https://roamresearch.com/#/app/${db}/page/${blockUID}`
+                // menu += `<div class="flex-v-box rm-menu-item">
+                //             <ul>
+                //               <li class="rm-search-list-item">
+                //                 <a href="${blockURL}" class="bp3-menu-item bp3-popover-dismiss">
+                //                   ${result[i][0].string}
+                //                 </a>
+                //               </li>
+                //             </ul>
+                //           </div>`;
+                menu += `<div class="dialog-box bp3-menu-item bp3-popover-dismiss">
+                            <div class="metadata">
+                              <div class="contents">
+                                <div class="left"><strong>${displayName}</strong></div>
+                                <div class="right">${editTime}</div>
+                              </div>
+                            </div>
+                            <div class="contents main-content"><p>${result[i][0].string}</p></div>
+                          </div>`;
+          }}
+          menu += '</div></div></div>'
+      return menu;
+      }
+
+      //Add css for notificaion icon
+      loadCSS();
+
+      createMenu = async ()=>{}
+      //Add button (thanks Tyler Wince!)
+      var nameToUse = 'notification-center';
+      //Find icons to use at: https://blueprintjs.com/docs/#icons
+      var bpIconName = 'notifications';
+
+      var checkForButton = document.getElementById(nameToUse + '-icon');
+      if (!checkForButton) {
+          // add overarching div
+          var mainButton = document.createElement('span');
+            mainButton.id = nameToUse + '-button';
+            mainButton.classList.add('bp3-popover-wrapper');
+          var spanTwo = document.createElement('span');
+            spanTwo.classList.add('bp3-popover-target');
+            mainButton.appendChild(spanTwo);
+          var mainIcon = document.createElement('span');
+            mainIcon.id = nameToUse + '-icon';
+            //check if there are existing notificaitons
+            queryText = `[:find (pull ?e [[:block/string][:block/uid]])
+        								:in $ ?pagetitle
+        								:where
+        									[?f :node/title ?pagetitle]
+        									[?e :block/refs ?f]]`;
+        		let notiResults= window.roamAlphaAPI.q(queryText, pageToWatch);
+            if (notiResults.length > 0){
+                mainIcon.classList.add('unread-notifications',
+                                      'bp3-icon-' + bpIconName,
+                                      'bp3-button',
+                                      'bp3-minimal',
+                                      'bp3-small');
+            }else {
+                mainIcon.classList.add('bp3-icon-' + bpIconName,
+                                      'bp3-button',
+                                      'bp3-minimal',
+                                      'bp3-small');
+            }
+          spanTwo.appendChild(mainIcon);
+          var roamTopbar = document.getElementsByClassName("rm-topbar");
+
+          var nextIconButton = roamTopbar[0].lastElementChild;
+          var flexDiv = document.createElement('div');
+            flexDiv.id = nameToUse + '-flex';
+            flexDiv.className = 'rm-topbar__spacer-sm';
+          nextIconButton.insertAdjacentElement('afterend', mainButton);
+          mainButton.insertAdjacentElement('afterend', flexDiv);
+
+          // mainButton.addEventListener('click', displayMenu);
+
+          notificationCenter.tippy = tippy(`#${nameToUse}-button`, {
+            allowHTML: true,
+            interactive: true,
+            interactiveBorder: 5,
+            arrow: false,
+            trigger: 'click',
+            position: 'auto',
+            onShow(instance) {
+              setTimeout(async ()=>{
+                var elem = document.getElementById(instance.popper.id).firstElementChild
+                if(window.innerWidth < elem.getBoundingClientRect().right ){
+                  elem.style.left = '-' + Number(elem.style.width.replace('px','')) + 'px';
+                }
+                instance.setContent( await displayMenu() )
+              },50)
+            },
+            onMount(instance) {
+                      setTimeout(async ()=>{
+                        // ${nameToUse}
+                          var bck = document.querySelector(`#notification-center-button + div .tippy-box`);
+                          console.log(bck);
+                          bck.style.width="400px";
+                		  bck.classList.add('bp3-popover');
+
+                          instance.setContent( await displayMenu() ); //force content in for sizing
+                      },50)
+            },
+          });
+
+          tippy(`#${nameToUse}-button`, {
+            content: `<div class="bp3-popover-content">Notifications</div>`,
+            allowHTML: true,
+            arrow: false,
+            theme: 'light-border',
+          });
+      }
+  }
+})();
+loadNotificationCenterIcon();
+```
     - SmartBlocks::#not-populated
     - Bookmarks::
         - [[Evergreens/alert fatigue]]

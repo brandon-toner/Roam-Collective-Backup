@@ -1112,55 +1112,54 @@ span.rm-page-ref[data-tag="Graph Change Log"]:before {
             - DNP Modules
                 - #[My Daily Notes](<../My Daily Notes.md>) [Your Name](<../Your Name.md>)
                     - ```css
-span.rm-page-ref[data-tag="My Daily Notes"] {
-	background-image: linear-gradient(to right, var(--cl-gray-600),var(--cl-gray-600));
-	background-size: 100%;
-    color: var(--cl-white);
-    padding: 3px 2px 3px 5px;
-    font-size: 13px;
-    line-height: 1em;
-    border-radius: 3px 0 0 3px;
-    position:relative;
+span.rm-page-ref[data-tag="My Daily Notes"] 
+{ 
+  background: 		var(--cl-gray-300);
+  color: 			var(--cl-black);
+  padding: 			2px 5px 2px 5px;
+  font-size: 		13px;
+  line-height: 		1rem;
+  font-weight: 		600;
+  border-radius: 	5px 5px 5px 5px;
+  border-style: 	solid;
+  border-color: 	var(--cl-gray-800);
+  border-width: 	thin;
+  position:			relative;
+  box-shadow: 		0px 1px 3px -1px var(--cl-black), 0px -1px 3px  var(--cl-gray-500);
+  z-index:			1;
 }
 
-/*.rm-sidebar-window*/
-
- span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] {
-     background: var(--cl-gray-200) !important;
-     color: var(--cl-gray-900) !important;
-     padding: 3px 5px 3px 15px;
-     font-size: 13px;
-     line-height: 1em;
-     font-weight: 400;
-     border-radius: 0 3px 3px 0;
-     margin-left: -5px;
+span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] 
+{
+  	background: 	var(--cl-white);
+  	font-size: 		13px;
+  	line-height: 	1rem;
+  	border-radius: 	5px 5px 5px 5px;
+  	border-style: 	solid;
+  	border-color: 	var(--cl-gray-800);
+  	border-width: 	thin;
+    border-radius: 	0 5px 5px 0;
+	margin-left: 	-10px;
+  	padding: 		2px 5px 2px 15px;
+  	position:		relative;
+  	box-shadow: 	0px 1px 3px -1px var(--cl-black), 0px -1px 3px  var(--cl-gray-500);
+  	z-index:		-1;
 }
 
-
-span.rm-page-ref[data-tag="My Daily Notes"]:after, span.rm-page-ref[data-tag="Post"]:before {
-    left: 100%;
-    top: 50%;
-    border: solid transparent;
-    content: " ";
-    height: 0;
-    width: 0;
-    position: absolute;
-    pointer-events: none;
+span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] > .rm-page-ref
+{
+  	color: 			var(--cl-yellow-900);
+  	font-weight:	500;
 }
 
-span.rm-page-ref[data-tag="My Daily Notes"]:after {
-    border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-gray-600);
-    border-width: 11px;
-    margin-top: -11px;
+span.rm-page-ref[data-tag="My Daily Notes"] + span[data-link-title] > .rm-page-ref::before
+{
+  content:			"ᐅ";
+  color: 			var(--cl-yellow-900);
+  padding-right:	5px;
+  font-weight:		900;
 }
-
-span.rm-page-ref[data-tag="My Daily Notes"]:before {
-    border-color: rgba(255,255,255,0);
-    border-left-color: var(--cl-gray-600);
-    border-width: 11px;
-    margin-top: -11px;
-}```
+```
                 - [Scratchpad](<../Scratchpad.md>)
                     - ```css
 span.rm-page-ref[data-tag="Scratchpad"] 

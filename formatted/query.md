@@ -429,6 +429,8 @@
 
 - {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}
 
+if (!result[i][0].string.includes('{{[query](<query.md>):
+
 ## [Peter Rosso](<Peter Rosso.md>)
 - {{[query](<query.md>):
 

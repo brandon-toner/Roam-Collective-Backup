@@ -43,7 +43,7 @@
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-[?b :user/email ?email]]
+```
     - **[SmartBlocks](<SmartBlocks.md>):**#
 
 ## [Peter Rosso](<Peter Rosso.md>)
