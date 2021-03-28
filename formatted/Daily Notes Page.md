@@ -1,5 +1,3 @@
-- **[Aliases](<Aliases.md>):** [DNP](<DNP.md>)
-- **[Tags](<Tags.md>):** [Glossary](<Glossary.md>)
 
 # Backlinks
 ## [February 9th, 2021](<February 9th, 2021.md>)

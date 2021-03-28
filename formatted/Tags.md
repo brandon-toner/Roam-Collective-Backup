@@ -156,10 +156,6 @@
 ## [Daily Log](<Daily Log.md>)
 - **[Tags](<Tags.md>):**
 
-## [Daily Notes Page](<Daily Notes Page.md>)
-- **[Aliases](<Aliases.md>):** [DNP](<DNP.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Decisions](<Decisions.md>)
 - **[Tags](<Tags.md>):**
 

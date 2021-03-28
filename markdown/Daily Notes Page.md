@@ -1,2 +1,0 @@
-- Aliases:: [[DNP]]
-- Tags:: #Glossary
