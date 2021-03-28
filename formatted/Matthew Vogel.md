@@ -164,7 +164,7 @@ document.body.appendChild(s);
                     - [42Setting](<42Setting.md>) LivePreview off
                 - Shortcuts
                     - Natural language date processing -`ALT+SHIFT+D`
-            - remove icon
+            - remove icon flex
                 - {{[roam/js](<roam/js.md>)}}
                     - ```javascript
 
@@ -198,10 +198,6 @@ ncss.href = "http://127.0.0.1:8081/notification-center.css";
 ncss.id = "roamnotificationscss";
 ncss.type = "text/css";
 document.getElementsByTagName("head")[0].appendChild(ncss);
-```
-            - local noti
-                - {{[roam/js](<roam/js.md>)}}
-                    - ```javascript
 ```
     - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
