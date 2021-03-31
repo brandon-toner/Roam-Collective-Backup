@@ -9,14 +9,14 @@
 
 - On [collections](<collections.md>) versus [concept pages](<concept pages.md>)
 
-- [^[[Brandon Toner](<^[[Brandon Toner.md>)]] — re: "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
+- [^[[Brandon Toner](<^[[Brandon Toner.md>)]] — re: [Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
 
 - The idea of [concept pages](<concept pages.md>)
 
-- Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
+- Jamming on [Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
+- [Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
 
-- "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
+- [Q](<Q.md>) How should "[concept pages](<concept pages.md>)"
 

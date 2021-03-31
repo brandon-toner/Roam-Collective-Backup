@@ -26,3 +26,7 @@
 
 - [Evergreens/Evergreen note-writing helps insight accumulate](<../Evergreens/Evergreen note-writing helps insight accumulate.md>)
 
+- [Evergreens/Evergreen note-writing helps insight accumulate](<../Evergreens/Evergreen note-writing helps insight accumulate.md>)
+
+- [Evergreens/Evergreen note-writing helps insight accumulate](<../Evergreens/Evergreen note-writing helps insight accumulate.md>)
+

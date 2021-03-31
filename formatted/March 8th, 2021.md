@@ -1,9 +1,9 @@
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>))
     - [Announcements](<Announcements.md>)
-        - "I murdered the FN tag 😱"
+        - I murdered the FN tag 😱
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         - [@[[Alysson M. Costa](<@[[Alysson M. Costa.md>)]] re [change log](((BLrKswZok)))
@@ -36,14 +36,14 @@
             - Now it's just the "N-note" — at least for now. 
             - Same usage, different name.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>)
     - #[Scratchpad](<Scratchpad.md>) 
         - These days I mostly code for my PhD and working on the Roam API
         - But I do come here every couple of days looking out for anything going on.
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Alysson M. Costa](<Alysson M. Costa.md>) {{word-count}}
@@ -64,7 +64,7 @@
             - I like how a lot of thought is going into building good conventions for collaborative thinking
             - Also starting to feel what you mean by [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>) 😄
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) 
         - Returning to thoughts around [roam/chat](<roam/chat.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

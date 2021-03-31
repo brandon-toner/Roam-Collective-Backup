@@ -6,7 +6,7 @@
 - Draft outline of announcement for [Roam Games III](<Roam Games III.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- "Draft outline of announcement for [Roam Games III](<Roam Games III.md>)
+- Draft outline of announcement for [Roam Games III](<Roam Games III.md>)
 
-- "Draft outline of announcement for [Roam Games III](<Roam Games III.md>)
+- Draft outline of announcement for [Roam Games III](<Roam Games III.md>)
 

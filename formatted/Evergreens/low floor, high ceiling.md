@@ -17,15 +17,15 @@
 - We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
+- We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 
-- ""[Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
+- [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
+- We are close to nailing the nuance of a [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 
-- "[Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
+- [Evergreens/low floor, high ceiling](<../Evergreens/low floor, high ceiling.md>)
 

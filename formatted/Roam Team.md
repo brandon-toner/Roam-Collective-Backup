@@ -6,5 +6,5 @@
 ## [February 24th, 2021](<February 24th, 2021.md>)
 - [Q](<Q.md>) Has the [Roam Team](<Roam Team.md>)
 
-- "[Q](<Q.md>) Has the [Roam Team](<Roam Team.md>)
+- [Q](<Q.md>) Has the [Roam Team](<Roam Team.md>)
 

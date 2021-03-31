@@ -11,37 +11,37 @@
         - {{Today + LN:42SmartBlock:Today + LN}}
     - #[GTD Zone](<GTD Zone.md>) 
         - **Active Epic(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - **Active Sprint(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - {{TODO Created Today:42SmartBlock:TODO Created Today}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) Where are we with Sprints/Epics?
             - **Epics:**
-                - **[[Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>) "Status](<[Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
+                - **[[Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>) Status](<[Epics/Establish and document baseline RC conventions and workflows](<Epics/Establish and document baseline RC conventions and workflows.md>) Status.md>):** [Status/Active](<Status/Active.md>)
                     - **Options for "Next":**
-                        - "Prepare a JSON file as a **"collective graph starter pack"** "
-                - **[[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) "Status](<[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
+                        - Prepare a JSON file as a **"collective graph starter pack"** 
+                - **[[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) Status](<[Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) Status.md>):** [Status/Active](<Status/Active.md>)
                     - **Options for "Next":**
                         - Explore options for automation, making the population of the agora easier and more reliable.
                         - Refine Agora submissions template to further enhance the navigation of dependencies
-                - **[[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) "Status](<[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
+                - **[[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) Status](<[Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) Status.md>):** [Status/Active](<Status/Active.md>)
                     - **Options for "Next":**
-                        - "Mature the backlog conventions. "
+                        - Mature the backlog conventions. 
                         - Document the workflow somewhere, as guidance documentation. 
             - **Sprints:**
-                - **[[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status](<[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status.md>):** [Status/Active](<Status/Active.md>)"
+                - **[[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) Status](<[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) Status.md>):** [Status/Active](<Status/Active.md>)
                     - **[Questions](<Questions.md>):**
                         - What work is left to do here?
                         - What are the open questions? 
                         - Are we still eager to work on this actively? Or do we want to move on to something else. 
-                - **[[x] [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) "Status](<[x] [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) "Status.md>):** [Status/Completed](<Status/Completed.md>)"
+                - **[[x] [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) Status](<[x] [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) Status.md>):** [Status/Completed](<Status/Completed.md>)
                     - Status adjusted to **completed.** 
             - **Suggestions for "Next":**
                 1. Mature the backlog conventions. 
@@ -56,19 +56,19 @@
                 - If project work assigned to a sprint is not completed, it can be included in the next sprint.
             - [N](<N.md>) [sprints](<sprints.md>) should be defined by time rather than project content.
                 - **[Example](<Example.md>):**
-                    - **[Not this: "[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status](<Not this: "[Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) "Status.md>):** [Status/Active](<Status/Active.md>)""
+                    - **[Not this: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) Status](<Not this: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) Status.md>):** [Status/Active](<Status/Active.md>)
                         - This sprint should have been resolved after 1-2 weeks, and a component of managing dependencies be built using a project.
         - [ ] Review Mark's notes from [March 1st, 2021](<March 1st, 2021.md>) 
         - [Q](<Q.md>) How might RC conventions be optimized for the [Roam Think Tank](<Roam Think Tank.md>)? [*]([Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Mark Robertson](<@[[Mark Robertson.md>)]])
         - [ ] Look into "lazy consensus"
     - [Conversation](<Conversation.md>) 
         - [~[[Mark Robertson](<~[[Mark Robertson.md>)]] 
-            - "We have a graph - "roaminati""
+            - We have a graph - "roaminati"
                 - Excellent. As conversation evolves, I'll offer our support for setting up RC conventions to ensure a smooth implementation.
                 - I think the "Think Tank" experiment will operate much better within a shared graph. Imagine ~10 daily active writers collaborating in this fashion.
                 - Lots of potential here! 
                 - Slack is too lossy and too linear for the wide array of topics that will be on the table. 
-            - "Ugh...Communities. Vote for tech stack preference on slack! "
+            - Ugh...Communities. Vote for tech stack preference on slack! 
                 - Appears to be leaning Slack...
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
@@ -82,13 +82,13 @@
     - #[Change Log](<Change Log.md>) 
         - Marked [Sprint 2](((lgl9DwCeJ))) as completed.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>)
-        - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content."
-            - "It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__."
-            - **["Related](<"Related.md>):**"
-                - "[cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]'s thread here is using different language but I believe working on a similar thesis..."
-                    - "https://twitter.com/JoelChan86/status/1365352979331747845?s=20"
+        - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>) and generally working and thinking at the [block-level](<block-level.md>) is that doing so is more powerful than working at the page level, because you have direct access to the content.
+            - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+            - **[Related](<Related.md>):**
+                - [cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]'s thread here is using different language but I believe working on a similar thesis...
+                    - https://twitter.com/JoelChan86/status/1365352979331747845?s=20
     - #[Scratchpad](<Scratchpad.md>) 
         - Chat thoughts
             - Chat let's you react to a single input while the current format allows you to gather multiple thoughts in an argument.
@@ -101,54 +101,54 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - [@Brandon Toner]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) thanks for the [clarification](((FO4DW8gxL))) of where things are with respect to [agile development](<agile development.md>)
-            - **[This is also what I was thinking -> "Manually, this could be done based on a `Dependencies](<This is also what I was thinking -> "Manually, this could be done based on a `Dependencies.md>):**` attribute on the story (project) page. — with the status block reffed on the same line to promote good [visibility](((D3gcKeMVe))) without having to click-in to the project.[*](((4d48_3iGO)))"
+            - **[This is also what I was thinking -> Manually, this could be done based on a `Dependencies](<This is also what I was thinking -> Manually, this could be done based on a `Dependencies.md>):**` attribute on the story (project) page. — with the status block reffed on the same line to promote good [visibility](((D3gcKeMVe))) without having to click-in to the project.[*](((4d48_3iGO)))
                 - I am thinking once things are more fleshed out something could relatively easily be done with [roam/render](<roam/render.md>) and some [datalog](<datalog.md>) queries
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - [Great tweet](((hKTCnzkeq))) from [Interintellect](<Interintellect.md>) about [Discord](<Discord.md>) - good foundational advice.
             - https://twitter.com/interintellect_/status/1366825299879604229?s=21
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
-        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] & [~[[Charles Farr](<~[[Charles Farr.md>)]] regarding my comment yesterday: "Looks like [Roamhacker](<Roamhacker.md>) wishes to open a graph for the group. "
+        - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] & [~[[Charles Farr](<~[[Charles Farr.md>)]] regarding my comment yesterday: Looks like [Roamhacker](<Roamhacker.md>) wishes to open a graph for the group. 
             - We have a graph - "roaminati"
         - Replies:
             - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) [regarding Slack](((hrcewvqhP))) and get on Discord if you haven't already. They have moved off of slack entirely already.
                 - Ugh...Communities. Vote for tech stack preference on slack! 
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
-        - "[Q](<Q.md>) How might RC conventions be optimized for the [Roam Think Tank](<Roam Think Tank.md>)? [*]([Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Mark Robertson](<@[[Mark Robertson.md>)]])"
+        - [Q](<Q.md>) How might RC conventions be optimized for the [Roam Think Tank](<Roam Think Tank.md>)? [*]([Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Mark Robertson](<@[[Mark Robertson.md>)]])
         - [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
     - [Conversation](<Conversation.md>) 
         - On Chat
-            - "We are already on [Discord](<Discord.md>) now. "
+            - We are already on [Discord](<Discord.md>) now. 
                 - I like Discord [~[[Mark Robertson](<~[[Mark Robertson.md>)]] — on voice chat with [Joel Chan](<Joel Chan.md>) and [Roamhacker](<Roamhacker.md>) right now.
             - [@[[Mark Robertson](<@[[Mark Robertson.md>)]] — [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] was toying with [this question](((YJczFOqWB))) here, essentially asking how we drive down the [search costs](<search costs.md>) to allow for participation.
         - On Agile
-            - "Discussed stories with [Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands."
+            - Discussed stories with [Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) last week as they relate to epics — and we opted to move towards "projects" as the smaller unit of work as  compared to epics. So stories = **projects** in RC as it currently stands.
                 - [@[[Wade Dominic](<@[[Wade Dominic.md>)]] [@[[Brandon Toner](<@[[Brandon Toner.md>)]] the thought here was just that stories felt very product specific, but what we're doing here is a bit amorphous, so we landed on projects.
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - [Scratchpad](<Scratchpad.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - On [in-graph chat](<in-graph chat.md>)
-            - "[N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
-            - "However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication."
-            - "The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time."
+            - [N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
+            - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.
+            - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - [@[[Charles Farr](<@[[Charles Farr.md>)]] yes on [prototyping a chat tool](((nBevoAd8m))). 

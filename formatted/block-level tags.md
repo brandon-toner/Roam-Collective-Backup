@@ -14,45 +14,45 @@
 - Using the [block-level tags](<block-level tags.md>).
 
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- [x] "[N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
+- [x] [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
 
-- [x] "#[N](<N.md>) [block-level tags](<block-level tags.md>)
+- [x] #[N](<N.md>) [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) Documenting ideas using [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) Documenting ideas using [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
+- #[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
 
-- "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
+- [N](<N.md>) The use of [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- "#[N](<N.md>) CSS for [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) CSS for [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) [block-level tags](<block-level tags.md>)
+- [N](<N.md>) [block-level tags](<block-level tags.md>)
 
-- "#[N](<N.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
+- #[N](<N.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - As knowledge is shared, ideas surface in various forms, where they are able to be crystallized in context using one of the [block-level tags](<block-level tags.md>).
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-2. "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
+2. [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
 
-3. "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+3. #[therefore](<therefore.md>) #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
 - [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
 
@@ -60,22 +60,22 @@
 
 - #[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
 
-- #[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[therefore](<therefore.md>) #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
 - #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- Re: "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- Re: #[therefore](<therefore.md>) #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
 - #[N](<N.md>) CSS for [block-level tags](<block-level tags.md>)
 
 - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- "#[therefore](<therefore.md>) "#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[therefore](<therefore.md>) #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- "[ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)"
+- [ ] Develop an [annotative library](<annotative library.md>) of [block-level tags](<block-level tags.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-4. "On the value of [block-level tags](<block-level tags.md>)"
+4. On the value of [block-level tags](<block-level tags.md>)
 
 - On the value of [block-level tags](<block-level tags.md>)
 
@@ -95,7 +95,7 @@
 
 - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I think that one of the biggest reasons why I like singular for [block-level tags](<block-level tags.md>)
 
-- [ ] Tweet out summary of this tomorrow: ""On the value of [block-level tags](<block-level tags.md>)"
+- [ ] Tweet out summary of this tomorrow: On the value of [block-level tags](<block-level tags.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - [Q](<Q.md>) What prevents a user from distilling their ideas into [block-level tags](<block-level tags.md>)?
@@ -136,37 +136,37 @@
 
 - `[min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [block-level](<block-level.md>) [block-level tags](<block-level tags.md>)}
 
-- "[x] "[N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
+- [x] [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
 
-- "[x] "#[N](<N.md>) [block-level tags](<block-level tags.md>)
+- [x] #[N](<N.md>) [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) Documenting ideas using [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) Documenting ideas using [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
+- #[N](<N.md>) Annotating writing and literature with [block-level tags](<block-level tags.md>),
 
-- ""#[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) the use of [block-level tags](<block-level tags.md>)
 
-- ""[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
+- [N](<N.md>) The use of [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
 
-- ""[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- ""[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- ""#[N](<N.md>) CSS for [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) CSS for [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
+- #[N](<N.md>) The selection of which [block-level tags](<block-level tags.md>)
 
-- ""[N](<N.md>) [block-level tags](<block-level tags.md>)
+- [N](<N.md>) [block-level tags](<block-level tags.md>)
 
-- ""#[N](<N.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
+- #[N](<N.md>) the use of [block-level]([block-level tags](<block-level tags.md>))
 
 ## [February 27th, 2021](<February 27th, 2021.md>)
 - [N](<N.md>) [block-level tags](<block-level tags.md>)
@@ -175,21 +175,21 @@
 4. Added [I](<I.md>) as a [block-level]([block-level tags](<block-level tags.md>))
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
-- "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- "[N](<N.md>) The use of [block-level tags](<block-level tags.md>)
+- [N](<N.md>) The use of [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
-- "[N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
+- [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) [block-level tags](<block-level tags.md>)
+- [N](<N.md>) [block-level tags](<block-level tags.md>)
 
-- "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
+- [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>))
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>)
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
-- "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>)
+- [~[[Peter Rosso](<~[[Peter Rosso.md>)]] [re](((u9YdnOIa6))) — my thesis on [block-level tags](<block-level tags.md>)
 

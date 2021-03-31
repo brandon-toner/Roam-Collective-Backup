@@ -1,21 +1,40 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #Announcements
     - Meetup Today at 20:00GMT
         - To suggest agenda items, tag the block with `#Agenda` — [like this](((qt8oh69sN)))
         - Zoom link:
-            - "https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
-You will have to wait for me ([[Peter Rosso]]) to let you in."
+            - https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
+You will have to wait for me ([[Peter Rosso]]) to let you in.
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        - "Meetup Today at 20:00GMT"
-        - "Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])"
-        - "Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]]."
-        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))"
-            - "[Draft Sprints template](((tG1HJs2dK)))"
+        - Meetup Today at 20:00GMT
+        - Processes:: How to annotate an article or other piece of reference material[*]([[annotations]])[*]([[reference notes]])
+        - Added the convention of adding [[R:]] [namespace]([[namespaces]]) for [[reference notes]] and [[Q:]] namespace for [[questions]].
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
+            - [Draft Sprints template](((tG1HJs2dK)))
     - #[[Meetings & Discussions]]
         - #Agenda
             - Overview — Brandon
@@ -64,9 +83,9 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Explain the idea for graph dependency
     - #Conversation 
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([[Processes]])
@@ -81,8 +100,8 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             3. Add the type of reference (Articles, Books, Podcasts) as a tag.
             4. Create a bullet in you DNP Section with the name of the reference note page and `#Annotations` #Important
                 - Example:: 
-                    - "#Annotations of [[Articles/How to write good prompts]] [*]([[cc:[[leekeifon]]]])"
-                    - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                    - #Annotations of [[Articles/How to write good prompts]] [*]([[cc:[[leekeifon]]]])
+                    - #Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
             5. The method of HOW you document your annotations here is less important... some creative liberties are fine and encouraged.
                 - It is helpful, however to make use of tags such as: `#[[Literature Notes]]`, `#Highlights`, and `#Notes` / `#Comments` (?) 
         - #[[Roam Enhancement Requests]]
@@ -106,7 +125,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                         - Using the `top-level parent` block
         - #Q How do we tag suggested or draft processes and conventions?[*]([[~[[Charles Farr]]]])
             - I'm hesitant to tag with #Processes or #Conventions as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
-                - Example:: "Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])"
+                - Example:: Thoughts:: [[voting]] mechanism [@]([[^[[Charles Farr]]]])
         - #Q How should pages for [[sprints]] be designed? 
         - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [[orientation]] problem, as well as maintains the DNP sections as the main place of writing...[*]([[~[[Charles Farr]]]]), [*]([[@[[Larissa de Lima]]]])[*](((8TBYt9NTT)))
             - #I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
@@ -128,12 +147,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)
     - #Conversation 
         1. Simple Replies
-            - "[[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))" 
+            - [[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb))) 
                 - Ah no way! I use both PDF Expert and Spark and Scanner Pro. I LOVE [[Readdle]] haha.[*]([[~[[Charles Farr]]]])
-            - "Some `[[@[[Charles Farr]]]]` mentions don't show up within my `[[Charles Farr]]` page — only really seems to impact notes from [Brandon]([[cc:[[Brandon Toner]]]])"
+            - Some `[[@[[Charles Farr]]]]` mentions don't show up within my `[[Charles Farr]]` page — only really seems to impact notes from [Brandon]([[cc:[[Brandon Toner]]]])
                 - Is it the ones I'm tucking into aliases?? [[~[[Charles Farr]]]]
-            - "{{[[DONE]]}} Create template for Q pages [*](((n0APOFCfx)))"
-                - See here ".rcQST — Questions Template #42SmartBlock #roam/templates"[*]([[~[[Charles Farr]]]])
+            - {{[[DONE]]}} Create template for Q pages [*](((n0APOFCfx)))
+                - See here .rcQST — Questions Template #42SmartBlock #roam/templates[*]([[~[[Charles Farr]]]])
         2. On Charle's [highlights/notes syntax](((l8ATiYKZG))) with page number
             - How did you generate this syntax with page number? [*]([[~[[Charles Farr]]]])
         3. On `[[R:]]` namespacing.[*](((sqydLl-Vb)))
@@ -141,7 +160,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - Feeling like this is a good implementation for RC. Create a page with an `[[R:]]` namespace for any references or resources in the database.[*]([[~[[Charles Farr]]]])
                     - Example:: [[Articles/Joel Chan — Knowledge Synthesis]]
     - #Bookmarks
-        - "I have included 8 different algorithms in the Roam Agile template. These are:"
+        - I have included 8 different algorithms in the Roam Agile template. These are:
         - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
     - #[[Meetings & Discussions]]
     - #Sprints #Examples
@@ -157,12 +176,12 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - Query
                 - {{[[query]]: {and: [[Agenda]] {not: [[roam/css]]]}}}}
             - Agenda::
-                - "Overview — Brandon"
-                - "Meta Structure in "About" section — Brandon"
-                - "Draft "Favourite Problems" — Brandon"
-                - "Slack-to-Roam — Brandon"
-                - "Roam Games Idea — Peter"
-                - "Output Channels — Peter"
+                - Overview — Brandon
+                - Meta Structure in "About" section — Brandon
+                - Draft "Favourite Problems" — Brandon
+                - Slack-to-Roam — Brandon
+                - Roam Games Idea — Peter
+                - Output Channels — Peter
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #[[Bug Reports]]
@@ -286,18 +305,18 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - ---
             - Summarizing, the structure would look something like this...
                 - `[[Q:]] What are the fundamental dependent relationships within a knowledge graph?`
-                    - **Oriented around:** answering a single focused question such as "#Q What are the fundamental dependent relationships within a knowledge graph?"
-                        - "#Q What are the fundamental dependent relationships within a knowledge graph?"
+                    - **Oriented around:** answering a single focused question such as #Q What are the fundamental dependent relationships within a knowledge graph?
+                        - #Q What are the fundamental dependent relationships within a knowledge graph?
                     - **With status:** `#Sprint/Current`
                     - **Composed of:** a base `#Q` block maturing into a `[[Q:]]` page that at its completion is readily legible to an external audience (with relevant contxt)
-                    - **Nested under:** "`Sprint/1`"
+                    - **Nested under:** `Sprint/1`
                 - `Sprint/1`
                     - **Oriented around:** a realistic set of questions to be answered in 7 days time (tentative)
                     - **With status:** `#Sprint/Active`
                     - **Composed of:** multiple questions (`#Q` blocks → `[[Q:]]` pages) and an associate set of tasks (e.g., create a template for output or implement roam garden extension)
-                    - **Nested under:** "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                    - **Nested under:** `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
                 - `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
-                    - **Oriented around:** answering a single broad question such as "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
+                    - **Oriented around:** answering a single broad question such as #Q How do you manage dependency of ideas and influence within a community knowledge graph?
                     - **With status:** `#Epic/Active`
                     - **Composed of:** two sprints (through next Wednesday & then through next Sunday)
             - Outlining an Epic would proceed like...
@@ -336,9 +355,9 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
                 - I was on the free trial version but may actually purchase the full one on the strength of this alone
                 - From the same firm (Readdle) that developed the [Spark](https://sparkmailapp.com/) email client, which I also highly recommend...
             - I like the `Annotations` convention [*]([[cc:[[Brandon Toner]]]]) [*](((XIszaTY8o))) — additional examples...
-                - "#Annotations Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)"
-                - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
-                - "#Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                - #Annotations Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)
+                - #Annotations [[Articles/Agile Product Management in Roam]] - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
+                - #Annotations [[Articles/Agile Product Management in Roam]] - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
             - [[^[[Brandon Toner]]]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[[@[[Charles Farr]]]]`, just not the `[[Charles Farr]]` page
     - #[[GTD Zone]]
         - {{[[DONE]]}} Import [connectors](((NbeK4NK4e)))
@@ -360,11 +379,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
         - Convergent targets allow for easier re-entry
             - — [[~[[Larissa de Lima]]]]
         - Sprint/Roam Game Example
-            - "#Q What are the most basic conventions required for effective participation?"
-            - "#Q How do "optional but effective" conventions go above and beyond?[*]([[Evergreens/beneficial, but optional]])"
-            - "#Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
+            - #Q What are the most basic conventions required for effective participation?
+            - #Q How do "optional but effective" conventions go above and beyond?[*]([[Evergreens/beneficial, but optional]])
+            - #Q How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([[mtv]])
+- #[[My Daily Notes]] [[Matthew Vogel]] {{word-count}}  {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([[mtv]])
     - #Scratchpad 
         - #[[Meetings & Discussions]]
             - use fleeting notes and q for free, make pages once you ref an idea multiple times
@@ -376,7 +395,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in."
             - [[Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation]]
             - question well stated is half solved
                 - what why how - a structural guide to making questions
-            - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
+            - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
         - Thinking about [[Roam Games]] and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [[Roam-Collective]] on the shoulders of?
             - [[Roam Book Club]] conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
 - ---

@@ -2,7 +2,7 @@
     - #[Daily Activities](<Daily Activities.md>) [not-populated](<not-populated.md>)
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. "[N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>)."[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
+        1. [N](<N.md>) Group [learning](<learning.md>) and resource/knowledge [curation](<curation.md>) is a better activity for a [community](<community.md>) than group [synthesis](<synthesis.md>). Unless the community is comprised of [experts](<experts.md>).[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Joel Chan](<@[[Joel Chan.md>)]])
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{Today + Obs:42SmartBlock:Today + Obs}}
         - **Questions:** 
@@ -14,7 +14,7 @@
         - **Active Epic(s):**
         - 
         - **Active Sprint(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - **TODO Query:** (created today)
             - {{[query](<query.md>): {and: [February 26th 2021](<February 26th 2021.md>) [TODO](<TODO.md>)}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
@@ -22,7 +22,7 @@
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
             - [Q](<Q.md>) What is the role of [prompts](<prompts.md>) in knowledge base accumulation?
@@ -30,7 +30,7 @@
                 - ["many hands make light work"](<"many hands make light work".md>)
             - [Q](<Q.md>) How might you [crowdsource]([crowdsourcing](<crowdsourcing.md>)) [synthesis](<synthesis.md>)?
                 - [Obs](<Obs.md>) Multiple conclusions may be drawn from the same set of data.
-                    - [therefore](<therefore.md>) "#[N](<N.md>) Divergence can and should occur in the crowdsourcing of synthesis."
+                    - [therefore](<therefore.md>) #[N](<N.md>) Divergence can and should occur in the crowdsourcing of synthesis.
                         - #[N](<N.md>) Divergence can and should occur in the crowdsourcing of synthesis.
                         - [Q](<Q.md>) How might alternate versions of [synthesis](<synthesis.md>) be managed in a collaborative knowledge base?
             - [Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?
@@ -130,14 +130,14 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - [Bookmarks](<Bookmarks.md>)
-        - ""Outline of relevant FNs""
-        - "[Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))"
-            - "[Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?"
-        - "[Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))"
+        - Outline of relevant FNs
+        - [Q](<Q.md>) How could a knowledge base be systematically and progressively developed through community engagement?[*]([crowdsourcing](<crowdsourcing.md>))
+            - [Q](<Q.md>) How should discourse around [claims](<claims.md>) and [assertions](<assertions.md>) be conducted?
+        - [Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
             - Memorialize
@@ -168,7 +168,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>) 
         - [I](<I.md>) We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
@@ -192,7 +192,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)

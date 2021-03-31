@@ -13,7 +13,7 @@
 
 # Backlinks
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- "I" — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [falling between the cracks](<falling between the cracks.md>)
+- I — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [falling between the cracks](<falling between the cracks.md>)
 
 ## [convergence](<convergence.md>)
 - A tag to use to tag "acts of convergence" — These are valuable efforts to prevent from [falling between the cracks](<falling between the cracks.md>).

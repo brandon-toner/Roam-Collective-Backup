@@ -6,9 +6,9 @@
 - Some of my [Roam](<Roam.md>)
 
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "[Roam](<Roam.md>),
+- [Roam](<Roam.md>),
 
-- "#[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - [Roam](<Roam.md>)
@@ -23,9 +23,9 @@
 - We could get context easily within [Roam](<Roam.md>),
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- ""[Roam](<Roam.md>),
+- [Roam](<Roam.md>),
 
-- ""#[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
+- #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
@@ -41,11 +41,11 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[N](<N.md>) Watching others use [Roam](<Roam.md>)
 
-- "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
+- One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
 
-- "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
+- One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>)
 
-- "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
+- And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
 
 - Very interested in the shared space between [Roam](<Roam.md>)
 
@@ -60,6 +60,14 @@
 
 - [Robert Haisfield](<Robert Haisfield.md>) on [structure](<structure.md>) in [Roam](<Roam.md>)
 
+- **Property** of a [communication](<communication.md>) entity is **reachability**, in other words, anything in [Roam](<Roam.md>)
+
+- A thread in [Roam](<Roam.md>)
+
+- An event([i.e.](<i.e..md>) activity) in [Roam](<Roam.md>)
+
+- A global public feed in [Roam](<Roam.md>)
+
 - One handy starting point to build up [communication](<communication.md>) [model](<model.md>) in [Roam](<Roam.md>)
 
 - **Property** of a [communication](<communication.md>) entity is **reachability**, in other words, anything in [Roam](<Roam.md>)
@@ -70,12 +78,12 @@
 
 - A global public feed in [Roam](<Roam.md>)
 
-- "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
+- And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>)
 
-- "With this huge surge of interest in solving the problems that us [Roam](<Roam.md>)
+- With this huge surge of interest in solving the problems that us [Roam](<Roam.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)?
+- What are the steps of [project management](<project management.md>) generally? How could they be applied in [Roam](<Roam.md>)?
 
 - #[N](<N.md>) A community centered around [screenshot essays](<screenshot essays.md>) and a daily [writing](<writing.md>) habit, nested within the [Roam](<Roam.md>)
 
@@ -89,7 +97,7 @@
 
 - Maybe it’s not necessarily to delete private messages actually, we could **just make it hard to find**, or hides behind the auto-complete list, but that maybe a job for [Roam](<Roam.md>) team. For us, in order to create such a space, we may insert some encoded content into [Roam](<Roam.md>)
 
-- One reward for Roaman with high reputation in "Roam reputation system" may be the permission to create new page? If we view [Roam](<Roam.md>)
+- One reward for Roaman with high reputation in Roam reputation system may be the permission to create new page? If we view [Roam](<Roam.md>)
 
 - Maybe, we could view page as [truth](<truth.md>), in one [Roam](<Roam.md>)
 

@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 18th, 2021](<February 18th, 2021.md>)
-- "Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))
+- Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))
 
 - Recently I completely broke away from the [Luhmann]([Nicolas Luhmann](<Nicolas Luhmann.md>))
 

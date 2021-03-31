@@ -4,7 +4,7 @@
 - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)"
+- Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[Experiments](<Experiments.md>)

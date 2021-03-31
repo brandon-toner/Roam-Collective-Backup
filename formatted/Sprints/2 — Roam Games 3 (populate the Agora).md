@@ -25,7 +25,7 @@
             - **Brandon:** 
                 - Created sprint
                 - Brainstormed a bit on the Agora [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/K5EWRHJVd)
-                - Post to community notes section: "Help [brainstorm submissions and roam community work](((78frD4ZM9))) to populate in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora)."
+                - Post to community notes section: Help [brainstorm submissions and roam community work](((78frD4ZM9))) to populate in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora).
                 - Tweeted a demo page: https://twitter.com/brandontoner/status/1363635045529960453?s=21
 
 # Backlinks

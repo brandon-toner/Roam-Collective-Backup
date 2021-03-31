@@ -11,9 +11,9 @@
 - [maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>)
 
 ## [February 28th, 2021](<February 28th, 2021.md>)
-- "[maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>)
+- [maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>)
 
-- "#[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
+- #[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
 
 - [proverbs](<proverbs.md>)
 

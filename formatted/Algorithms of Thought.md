@@ -31,10 +31,10 @@
 
 - [Q](<Q.md>) What [algorithms of thought](<algorithms of thought.md>)
 
-- "Roam Research: [algorithms of thought](<algorithms of thought.md>)
+- Roam Research: [algorithms of thought](<algorithms of thought.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [algorithms of thought](<algorithms of thought.md>)
+- Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [algorithms of thought](<algorithms of thought.md>)
 
 - On labeling [prompts](<prompts.md>) disguised as [questions](<questions.md>) with BToner → [algorithms of thought](<algorithms of thought.md>)
 

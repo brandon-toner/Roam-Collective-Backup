@@ -5,11 +5,14 @@
         - It should be a numbered list 
         - To reply, reference the block into your "Comments" section, nesting your reply beneath.
             - **[Example](<Example.md>):**
-                - "11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>). - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) [Processes](<Processes.md>) "
+                - 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>) highlighting a smooth workflow for responding to [notifications](<notifications.md>). - [link](https://www.loom.com/share/7f019eeb4a55408f8eddd28a6a6851c4) [Processes](<Processes.md>) 
 - How to Chat?
     - Tag 
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- [chat](<chat.md>)
+
 ## [February 15th, 2021](<February 15th, 2021.md>)
 - [compare & contrast](<compare & contrast.md>) multiplayer [chat](<chat.md>)
 
@@ -26,4 +29,7 @@
 - [N](<N.md>) Traditional [chat](<chat.md>)
 
 - **Decision:** I'm going to stop using [aliases](<aliases.md>) for [chat](<chat.md>).
+
+## [My Daily Notes](<My Daily Notes.md>)
+- [chat](<chat.md>)
 

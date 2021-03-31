@@ -1,20 +1,39 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
         1. Welcome [@Samuel]([[Samuel Bars]])!
         2. Request from Larissa: can someone get on quick call to catch me up pls? 😄🙏 
         3. **Brandon:** 
-            - "#Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?"
-            - "Knowledge seeking workflow #Bookmarks #Outlines #zettelkasten"
-            - "#Q How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?"
+            - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
+            - Knowledge seeking workflow #Bookmarks #Outlines #zettelkasten
+            - #Q How does the [knowledge seeking workflow](((9tw8l2xYp))) relate to action and development?
             - 
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q What RC conventions would be helpful within [[Joel Chan]]'s synthesis pilot project?
         - {{[[TODO]]}} Complete review of TODOs in the graph, prioritizing the date-tagged ones. [[February 15th, 2021]] [*]([[Brandon Toner]])
@@ -32,7 +51,7 @@
             - This might be what [[R&D]] is.[*](((6qTdvRXbI)))
             - Related:: [[Pharmacist's Patient Care Process (Dalhousie University)]]
                 - Specifically the diagram of the process that unites the cycles of care and of research (information gathering and resolution of self-directed [[learning objectives]])
-                    - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)"
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMy-Working-Notes%2FJAi2waZn7b.png?alt=media&token=707b0b80-605d-4ea0-92d7-e4c3accc545b)
                 - These systems are not unique to healthcare. They are adapted from general problem solving frameworks.
                 - #I I believe the processes of "self-directed learning", "critical appraisal", and "problem solving" can be mapped onto our existing structures, creating a model that could facilitate effective convergence and distributed learning projects.
                 - #[[N]] [[learning]] with the [[self-directed learning]] method is hard work and time consuming.
@@ -59,17 +78,17 @@
                 - Cumulative knowledge base, driven by [[just-in-time]] problem solving.
             - Related:: [[Evergreens/build once, sell twice]]
         - #Q How might conventions/workflows/frameworks be utilized to optimize for [[flow state]] writing?
-            - "It's been particularly interesting to me the level of [[flow state]] writing I've been able to tap into writing in here. " 
-            - "At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])"
-            - "Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. "
-            - "#[[N]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]"
+            - It's been particularly interesting to me the level of [[flow state]] writing I've been able to tap into writing in here.  
+            - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
+            - Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [[inspired action]] and [[flow state]] exploration of ideas. 
+            - #[[N]] [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
         - #[[N]] Displaying word counts on each [[DNP Section]] helps to provide user feedback on graph engagement. [*](((jXm2--4G6))) #gamification
     - #[[The Zettelkasten]] 
         - #[[N]] Let user questions drive the documentation of conventions and FAQs. 
             - Process: #[[Algorithms of Thought]] #Processes [cc:Charles]([[~[[Charles Farr]]]])
                 - Receive question
                 - #Q Is there a clear answer?
-                    - If yes:: "#Q Is it documented?"
+                    - If yes:: #Q Is it documented?
                     - If no:: reflect on it and create clarity.
                 - #Q Is it documented?
                     - If yes:: Link them to it.
@@ -84,8 +103,8 @@
             - #Q What are the barriers to user engagement?
                 - #Q How might those barriers be navigated or reduced? 
             - Related:: 
-                - "{{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] "
-                    - "This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas."
+                - {{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] 
+                    - This would also help to drive engagement for members, giving them a reminder and an easy jump-in point if they wanted to contribute some ideas.
         - #[[N]] Use [[learning objectives]] to guide [[research]] [[questions]]
             - #Q "What learning objective is this questions trying to address?"
         - #[[Learning Objectives]] 
@@ -95,33 +114,33 @@
             - Many tweets can be fleeting notes, and many fleeting notes would make good tweet.
             - Idea of an activity: Take a note within the [[zettelkasten]] that calls to you, and write tweetstorm elaborating on the idea. #Activities
     - #Bookmarks 
-        - #Feedback ""I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.""
+        - #Feedback "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
     - #Conversation 
         1. [@Samuel]([[~[[Samuel Bars]]]]) On [where users write](((wHHBViiGV)))
             - Great work jumping into the chat conventons!! perfect.
             - Yea, this is on my radar to reassess if it begins to feel overwhelming. What's nice here is that having all the work centralized fosters more conversation and collaboration -- but that might not scale well. 
         2. [@Samuel]([[~[[Samuel Bars]]]]) (various)
             - Loving the thoughts! I added a Q and an I tag in there just to demonstrate where I might use them. I use these pretty liberally so don't worry about overuse. 
-            - "I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling."
+            - I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling.
                 -  I love the rambling! I think that's the beauty of RC - we can "think in public", giving others the opportunity to benefit from out half-baked idea, and the opportunity to offer insight and questions that can push use past sticking points.
                     - Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this.
                     - As ideas start to crystallize, and questions, ideas, claims, etc start to emerge -- you can use the zettelkasten-like conventions to tag those thoughts accordingly. 
                         - These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. 
                         - Don't worry about diluting things with unformed thought. It's all "[[grist for the mill]]".
-            - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
+            - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
                 - I love this -- speaks to the value of collective idea sharing and building! We can go further, faster working together.
-            - "Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games."
+            - Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games.
                 - Totally! [@Charles]([[~[[Charles Farr]]]]) has been cooking up ideas around this project. More on that [here](((tGpOsbalj))) -- (and block search using keyword agora)
-            - "Question: Is there any convention around reactions?" #Conventions #[[emoji reactions]]
+            - Question: Is there any convention around reactions? #Conventions #[[emoji reactions]]
                 - [@Samuel]([[~[[Samuel Bars]]]]) Use them liberally! No existing convention -- but I'd love to see more usage of them bc I see them as powerful especially since [[Roam Portal]]'s latest update.
-            - "Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)"
+            - Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)
                 - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                     - I suspect we have some significant differences in ZK flow though.
                     - {{[[TODO]]}} Review [[Beau Hann]]'s [[zettelkasten]] [[conventions]]. [*]([[Brandon Toner]])  #[[February 2021]] 
-                - "In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more."
+                - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
                     - Great, yea I'd love to evolve the compare & contrast over time. My goal isn't to fully align with those conventions, but rather to develop these with appreciation and awareness of other systems that exist. Integrating best practices as a medley from other systems.
         3. [@Joel]([[@[[Joel Chan]]]]) (various)
-            - "I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy"
+            - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
                 - Yea, this is a draft still. I still see questions as top-tier. But i think it's a bit of a [[chicken-and-egg]] situation...
                     - Sometimes research starts with a questions, and other times it seems to start with an objective -- from which questions are formed to address...
                     - I suspect the best answer will be something along the lines of "start with whatever place feels natural" and formulate into questions to drive the research process.
@@ -167,7 +186,7 @@
             - Nesting 
     - 
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Scratchpad
         - Hello everyone! Happy to be on the graph. Still figuring out how to join the conversation while respecting the conventions, but should be okay soon enough. I'll start writing here and will connect things as I move forward
             - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
@@ -185,14 +204,14 @@
                     - `#submissions`
                 - send submissions
                     - add a `#.send-to-roamgames` tag to parent block
-            - To continue on this I will "{{[[TODO]]}} Take notes on [[roam-inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors".
+            - To continue on this I will {{[[TODO]]}} Take notes on [[roam-inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors.
                 - It is a significant contribution that brings a whole set of new challenges and ideas to roam. The unfamiliarity of it can explain the lack of interest. Also because it's still only accessible to technically savy users.
                 - I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
-        - Big agree on "#[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
+        - Big agree on #[[Project Ideas]] Build a directory of [[Roam Games]] submissions. [*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
             - Without going too far in the not-yet possible, just documenting all submissions in a graph would substantially improve collaboration for the roam games.
                 - Instead of twitter hashtag search, have the linked refs to the `#submission` tag or similar
                     - Makes it easier to not miss the work of others, save time for everyone
-                        - "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
+                        - I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time.
                     - Also would make navigation between ancestors and descendants much easier.
         - I might keep my "figuring things out" journaling sessions in my personal graph, and share what I got from it after here. Easier to make it concise and more valuable. Context without unnecessary rambling.
             - update: will keep the scratchpad for rambling, and progressively abstract, synthesize and connect as I get more familiar with zettelkasten conventions.
@@ -207,15 +226,15 @@
                 - It can become the place where you check what members shouldn't miss.
                     - Seems like the announcements page is filling that role here.
         2. [@Brandon]([[~[[Brandon Toner]]]]) (various)
-            - "Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this."
+            - Unstructured ramblings are def encouraged, the scratched pad is especially well-suited for this.
                 - Great, still getting familiar with what the different "locations" (tags) mean, but I like that approach. Diverge before converging.
-            - "These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. "
+            - These can be used pretty liberally! Bias on the side of using them more than you think -- I'll provide feedback as you go. 
                 - Good to know too. I'm slowly learning/practicing these with the guidance of [[Beau Hann]] in  [[[[Roam Book Club]] III]], so that'll be an additional feedback loop :)
             - Question: Is there any convention around reactions?
-            - "I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!"
+            - I'd be curious to assess where these conventions and Beau's align and convergence. -- I've yet to deep dive on his RBCIII stuff but it looks awesome!
                 - In the current book club, we haven't got to permanent notes (evergreen) yet, but there are some obvious differences already. Might be worth asking a previous book club member for the details. Otherwise I can share when we know more.
 - ---
-- #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Joel Chan]] {{word-count}} [*]([[jc]]) {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
     - #Scratchpad #not-populated
     - #[[The Zettelkasten]] #not-populated
     - #Bookmarks #not-populated
@@ -239,12 +258,12 @@
             - I have similar thoughts around scopes and levels of maturity, with "synthesis notes" being a [very large play space](((1CLMHBZHf))) due to the affordances of Roam: we can have a GIANT theoretical claim (e.g., `natural selection explains the origin of species` that is a compression of a bunch of theoretical claims, which may also compete with other competing explanations, etc.)
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
-        - "{{[[DONE]]}} Review mentions & work of the last few days"
-        - "{{[[DONE]]}} Review notes on the Roaman Agora"
-            - "[@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
-        - "{{[[DONE]]}} Review Bookmarks & Saved Items"
+        - {{[[DONE]]}} Review mentions & work of the last few days
+        - {{[[DONE]]}} Review notes on the Roaman Agora
+            - [@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
+        - {{[[DONE]]}} Review Bookmarks & Saved Items
         - #Annotations on [[Book/The Art of Doing Science & Engineering]]
             - 19: **It has rarely proved practical to produce exactly the same product by machines as we produced by hand.**
                 - 19: Indeed, one of the major items in the conversion from hand to machine production is the imaginative redesign of an __equivalent product__. Thus in thinking of mechanizing a large organization, it won't work if you try to keep things in detail exactly the same, rather there must be a larger give and take there is to be significant success. You must get the essentials of the job in mind and then design the mechanization to do that job rather than trying to mechanize the current version — if you want a significant success in the long run.
@@ -269,7 +288,7 @@
                 - The biggest addition for me is a `#Notion` tag, which captures something akin to a "fleeting note" that is really just a thought — no immediate evidence or some implied context, but I'm too lazy to develop it into a `#Obs` of `#Syn` note.
                 - Back to connecting though, maybe we can set up a discussion time this week on the topic for the wider Roam Collective — thoughts [@B]([[^[[Brandon Toner]]]])?
     - #Bookmarks
-        - "IMO a discourse-centric approach can mitigate these risks"
+        - IMO a discourse-centric approach can mitigate these risks
     - #[[GTD Zone]]
         - {{[[DONE]]}} Review Bookmarks & Saved Items
         - {{[[DONE]]}} Review notes on the Roaman Agora
@@ -284,7 +303,7 @@
         - {{[[TODO]]}} Brainstorm personal approach to converting thoughts → artifacts
         - {{[[DONE]]}} Review mentions & work of the last few days
 - ---
-- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) "{{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}"
+- #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:🟡On & Off | 🟢Online | 🟠Away | ⚫️Offline}}
     - #Scratchpad
         - Still challenging to get up to speed - would someone mind getting on a quick chat to catch-up?
         - Getting up to speed!

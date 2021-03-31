@@ -19,6 +19,9 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[N](<../N.md>) Implementing synchronous & asynchronous writing [exercises](<../exercises.md>) throughout the [Evergreens/cycles of divergence and convergence](<../Evergreens/cycles of divergence and convergence.md>)
 
+## [February 4th, 2021](<February 4th, 2021.md>)
+- #[N](<../N.md>) Implementing synchronous & asynchronous writing [exercises](<../exercises.md>) throughout the [Evergreens/cycles of divergence and convergence](<../Evergreens/cycles of divergence and convergence.md>)
+
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - [Q](<../Q.md>) Should phases of [divergence](<../divergence.md>) and [convergence](<../convergence.md>) be at the same time for all graph members? Or should the individual oscillate though those cycles independent of the group?[*]([Evergreens/cycles of divergence and convergence](<../Evergreens/cycles of divergence and convergence.md>))
 

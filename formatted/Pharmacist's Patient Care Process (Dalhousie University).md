@@ -9,13 +9,13 @@
         4. Prioritize [drug therapy problems (DTPs)](<drug therapy problems (DTPs).md>)
         5. Identify and assess options (for resolving the [DTPs]([drug therapy problems (DTPs)](<drug therapy problems (DTPs).md>)))
         6. Reflect: "Can you make a recommendation with certainty?"
-            - Yes -> "Make recommendation"
+            - Yes -> Make recommendation
             - No [*]([research](<research.md>))
                 - Formulate question (clinical question) [*]([learning objectives](<learning objectives.md>))
                 - Search for best information (best evidence)
                 - Assess the information ([critical appraisal](<critical appraisal.md>))
                 - Reassess decision-making factors
-                - "Make recommendation"
+                - Make recommendation
         7. Make recommendation
         8. Develop monitoring plan
         9. Monitor / Follow-up ([assessment](((ZU2IhvhWt))))

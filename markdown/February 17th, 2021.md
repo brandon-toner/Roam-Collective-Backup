@@ -1,18 +1,42 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
-        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
+        - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
+        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "SRS Call with [[Adam Krivka]] "
-        2. "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
-        3. "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
-        4. **Brandon:** {{[[embed]]: ((oeQciItoi))}}
+        1. SRS Call with [[Adam Krivka]] 
+        2. {{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]
+        3. #[[therefore]] #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+        4. **Brandon:** 
+            - #[[Change Log]] 
+                1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+                    - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
+                2. Adjusted the [[Graph/backup]] to every 6 hours (running low on action minutes on [[GitHub]]).
+                3. Adjusted #[[My Daily Notes]] [[Your Name]] to align with the Agora's colour scheme 
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q Can the "online status indicator" be automated with Roam/js
         - [[Roam Games]] [[Clubhouse]] call #[[Meetings & Discussions]]
@@ -100,7 +124,7 @@
                 - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
                 - #Resources
                     - [JBP on "How to Write an Essay"](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937) — I remember there being s focus on [[structure]] here.
-                    - "#I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations."
+                    - #I The study of [[grammar]] may prove a valuable resource for the discovery of potential block-level tags and annotations.
                         - #I Academic writing centers from universities might have some good resources for this. 
                             - E.g. how to write a paper / the breakdown of sentences and linking phrases.
             - Questions
@@ -121,12 +145,12 @@
             - Rationale/Reason/Justification
             - Prediction
         - #[[N]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
-            - #[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]]."
+            - #[[therefore]] #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
                 - #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
                 - #[[N]] the use [prepositional linkages]([[prepositional linkages]]) 
                 - #Obs "[[statement chains]]" feels off, because lines of [[logic]] involve more than [[statements]]. 
         - #Q What are the benefits of nested-page [[namespaces]]?
-            - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+            - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
                 - I really want to be able to link an evergreen note, and them to turn green due to the collapsing namespaces. (the color feels like another **tier** of link)
                 - Burying the page names in an alias is kinda annoying.
         - #Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?
@@ -206,26 +230,26 @@
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
         2. [@Charles]([[~[[Charles Farr]]]]) on [CSS](((XkuzI7Zp8)))
-            - "Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`)."
+            - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
                 - This is perfect!
-            - "You could pair this with some fancy #therefore css..."
+            - You could pair this with some fancy #therefore css...
                 - This is FIRE!
-            - "[@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization..."
+            - [@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
                 - Perhaps we could adjust the CSS of `#Fleeting  Notes` to be more subtle....
                     - OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])
     - #[[Change Log]] 
         1. Reverting to the traditional (Evergreens/) namespacing for evergreen notes, questions and references [*](((NCITTcklh)))  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
             - Prefer the visual presentation of it, and am not seeing enough compelling benefit from the nested tag — may re-evaluate in a couple weeks. 
         2. Adjusted the [[Graph/backup]] to every 6 hours (running low on action minutes on [[GitHub]]).
-        3. Adjusted "#[[My Daily Notes]] [[Your Name]]" to align with the Agora's colour scheme 
+        3. Adjusted #[[My Daily Notes]] [[Your Name]] to align with the Agora's colour scheme 
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad #not-populated
     - #Conversation
         - On Graph [[CSS]] settings [°]([[~[[Brandon Toner]]]])
             - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
-                - CSS block with color variables → see: "Red"
-                - CSS block with variables for specific features → see: "Tags"
+                - CSS block with color variables → see: Red
+                - CSS block with variables for specific features → see: Tags
             - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
             - Specifically for your question [here](((OyHWMqBxC))) Brandon, most tags would use the `var(--bg-tag)`, representing the standard __tag background__.
                 - You could also create additional tag categories, such as for DNP tags (`var(--cl-dnp-tags)`).
@@ -237,11 +261,11 @@
                 - Draft 1, so feel free to let me know what you think or make some direct tweaks yourself.
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((SYpAVMmID))) — Suhweet, made a few tweaks to the Agora Overview page based on your language.
             - [@Brandon]([[~[[Brandon Toner]]]]) one element of your `#[[Fleeting Notes]]` that always trips me up is the capitalization...
-                - Re: "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
+                - Re: #[[therefore]] #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
                     - If I were to rephrase this (using my css), it would look like...
                     - #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - You could pair this with some fancy #therefore css...
-                    - #therefore "#Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing"
+                    - #therefore #Notion The use of block-level tags for annotating statement chains improves the quality of ones thinking & writing
                         - Using this approach leads to better separation between the constituent parts of the block-level tag...
                             - You can easily parse out...
                                 1. The [[prepositional linkages]]
@@ -250,30 +274,30 @@
                             - It would be easy to implement similar CSS with the `#[[Fleeting Notes]]` tag...
                                 - See: Version 2
                     - #[[N]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
-            - [@Brandon]([[~[[Brandon Toner]]]]) I like the idea of using `#FN`: "OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])"
+            - [@Brandon]([[~[[Brandon Toner]]]]) I like the idea of using `#FN`: OR EVEN simplify down to `#FN` and `#LN` as block level tags... [*]([[~[[Charles Farr]]]])
                 - #N [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
     - #[[GTD Zone]]
         - {{[[TODO]]}} Update color scheme with better shades of blue and green
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] 
         - Brandon on behalf of Peter. [cc:Charles]([[~[[Charles Farr]]]])
             - Roam Graph for Tracking [[Roam Games]] by [[Zsolt Viczián]] #Videos 
                 - URL:: {{[[video]]: https://www.youtube.com/watch?v=KJ2HOKcgCKk&feature=youtu.be&ab_channel=ZsoltViczi%C3%A1n}}
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Added some interests on my personal page, related to what I wanna keep up with on this graph (feel free to cc me on stuff about these)
         - So many graphs, so little time...
     - #[[GTD Zone]]
     - #Bookmarks
-        - "SRS Call with [[Adam Krivka]] "
-        - "#Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?"
-        - "#[[therefore]] "#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
+        - SRS Call with [[Adam Krivka]] 
+        - #Q How to you "[[catch-up]]" in a [collaborative graph]([[collaborative graphs]])?
+        - #[[therefore]] #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
             - I was just thinking about this the last few days, wanna get deeper into it
                 - [[Mark Robertson]] has some block levels tags in his roam graph, should check out the tours with rob
-                - also wanna see if "{{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric" and on logic have stuff on that.
+                - also wanna see if {{[[TODO]]}} Review [[Purdue Online Writing Lab]] resources on rhetoric and on logic have stuff on that.
                 - I know I saw some other source about this, can't remember now
-        - "{{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]"
+        - {{[[TODO]]}} Develop an [[annotative library]] of [[block-level tags]]
 - ---

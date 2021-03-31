@@ -13,7 +13,7 @@
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - notes on call with [Stian Håklev](<Stian Håklev.md>)
 
-- "Ideas from Chat with [Stian Håklev](<Stian Håklev.md>)"
+- Ideas from Chat with [Stian Håklev](<Stian Håklev.md>)
 
 - Chat with [Stian Håklev](<Stian Håklev.md>)
 
@@ -25,7 +25,7 @@
 - [Prior Work](<Prior Work.md>): Roam Inter by [Stian Håklev](<Stian Håklev.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "[Stian Håklev](<Stian Håklev.md>)'
+- [Stian Håklev](<Stian Håklev.md>)'
 
 - [Stian Håklev](<Stian Håklev.md>)'
 

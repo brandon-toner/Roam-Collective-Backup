@@ -91,24 +91,24 @@
 - {{[query](<query.md>):
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 - {{[query](<query.md>):
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- i.e. here "This is really cool because the [query](<query.md>)
+- i.e. here This is really cool because the [query](<query.md>)
 
 - [min-con](<min-con.md>) {{[query](<query.md>):
 
@@ -123,12 +123,12 @@
 
 - {{[query](<query.md>):
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 21st, 2021](<February 21st, 2021.md>)
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 - {{[query](<query.md>):
 
@@ -159,13 +159,13 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [LN](<LN.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
 - {{[query](<query.md>):
 
@@ -189,7 +189,7 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>) {not: [query](<query.md>)}
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - [min-title](<min-title.md>) {{[query](<query.md>):
@@ -212,13 +212,13 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 23rd, 2021](<February 23rd, 2021.md>) [LN](<LN.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
 - {{[query](<query.md>):
 
@@ -230,7 +230,7 @@
 
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 - {{[query](<query.md>):
 
@@ -243,7 +243,7 @@
 - For example, my large database, 9000+ pages and nearly 700 queries has a stutter. If I actively filter OUT `[query](<query.md>)`
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 - `[min-all](<min-all.md>) {{[query](<query.md>):
 
@@ -254,35 +254,35 @@
 - `[min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>) [discoverability](<discoverability.md>) [search](<search.md>) [search costs](<search costs.md>) [fuzzy search](<fuzzy search.md>)} {not: {or: [query](<query.md>)
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - [min-title](<min-title.md>) {{[query](<query.md>):
 
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>) [Q](<Q.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
 - {{[query](<query.md>):
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 27th, 2021](<February 27th, 2021.md>)
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - {{[query](<query.md>):
@@ -293,28 +293,30 @@
 `{{[query](<query.md>):
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
+- i.e. here This is really cool because the [query](<query.md>)
+
 `{{[query](<query.md>):
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 7th, 2021](<February 7th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [Graph/Templates](<Graph/Templates.md>)
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
 - {{[query](<query.md>):
 
@@ -335,11 +337,19 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[N](<N.md>) The ability to easily [query](<query.md>)
 
-- "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>):
+- What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>):
 
 - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>):
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
+- This is a [query](<query.md>)-
+
+- This is a [query](<query.md>)-able attribute. `{{[query](<query.md>):
+
+- It might be even better to place the project status in the Tags line so that your could query for `{{[query](<query.md>):
+
+- "Projects I'm involved with" `{{[query](<query.md>):
+
 - This is a [query](<query.md>)-
 
 - This is a [query](<query.md>)-able attribute. `{{[query](<query.md>):
@@ -379,35 +389,35 @@
 - {{[query](<query.md>): {and: [cc:[[Maggie Delano](<cc:[[Maggie Delano.md>)]] {not: [query](<query.md>)]
 
 ## [March 11th, 2021](<March 11th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
 - {{[query](<query.md>):
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>):
+- [page-focus](<page-focus.md>) {{[query](<query.md>):
 
-- "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
+- [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [March 6th, 2021](<March 6th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - {{[query](<query.md>):
@@ -421,7 +431,13 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - {{[query](<query.md>):
 
+- {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}
+
+- {{[query](<query.md>):
+
 - {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}
+
+- [query](<query.md>)
 
 - {{[query](<query.md>):
 
@@ -436,7 +452,7 @@
 
 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]
 
-- "{{[query](<query.md>):
+- {{[query](<query.md>):
 
 ## [Queries](<Queries.md>)
 - **[Related](<Related.md>):** [Queries](<Queries.md>), [query](<query.md>)

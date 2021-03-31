@@ -16,6 +16,9 @@
     - {{[query](<query.md>): {and: [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]]}}}
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- [Kyle Stratis](<Kyle Stratis.md>)
+
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - Seems like https://roamlab.org/ from [Kyle Stratis](<Kyle Stratis.md>)
 
@@ -49,6 +52,9 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Kyle Stratis](<Kyle Stratis.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
+- [Kyle Stratis](<Kyle Stratis.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
 - [Kyle Stratis](<Kyle Stratis.md>)
 
 ## [Roam Summit/Session I](<Roam Summit/Session I.md>)

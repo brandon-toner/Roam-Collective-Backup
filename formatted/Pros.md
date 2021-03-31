@@ -21,6 +21,10 @@
 - Uppercase → collection on topic
                     - **[Pros](<Pros.md>):**
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- Using a `Community/Vote` attribute
+                            - **[Pros](<Pros.md>):**
+
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - [Q](<Q.md>) Is "chat" better as a query?
             - **[Pros](<Pros.md>):**

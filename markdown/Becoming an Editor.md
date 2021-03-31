@@ -1,3 +1,6 @@
 - Related:: [[graph editors]]
-- "What do graph editors do?"
-- {{[[embed]]: ((pulgXb6nT))}}
+- What do graph editors do?
+- How do I become a graph editor? 
+    - Learn the graph conventions
+    - Contribute to the graph
+    - Message [[Brandon Toner]] on Roam Slack

@@ -6,7 +6,7 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - #[N](<N.md>) intentionally [tagging](<tagging.md>)
 
-5. "#[N](<N.md>) [tagging](<tagging.md>)
+5. #[N](<N.md>) [tagging](<tagging.md>)
 
 - #[N](<N.md>) [tagging](<tagging.md>)
 

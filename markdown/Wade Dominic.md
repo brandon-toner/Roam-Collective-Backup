@@ -12,13 +12,13 @@
     - Online Status::
 - SmartBlocks::
     - WDominic — .DNP Templatee #42SmartBlock #roam/templates
-        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+        - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
             - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #Conversation #not-populated
             - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
         - ---
-- "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+- Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
 - Playing around with the graph
     - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}}
         - **Welcome to Roam Collective!** 😃 

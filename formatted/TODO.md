@@ -20,6 +20,15 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [Beyond the Basics](<Beyond the Basics.md>)
+3. {{[TODO](<TODO.md>)}
+
+11. {{[TODO](<TODO.md>)}
+
+13. {{[TODO](<TODO.md>)}
+
+- [e.g.](<e.g..md>) {{[TODO](<TODO.md>)}
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>)
 
@@ -68,19 +77,11 @@
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -90,9 +91,7 @@
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
-
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -110,9 +109,19 @@
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -140,18 +149,18 @@
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
-- To continue on this I will "{{[TODO](<TODO.md>)}
+- To continue on this I will {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-2. "{{[TODO](<TODO.md>)}
+2. {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -161,9 +170,9 @@
 
 - {{[TODO](<TODO.md>)}
 
-- also wanna see if "{{[TODO](<TODO.md>)}
+- also wanna see if {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - {{[TODO](<TODO.md>)}
@@ -203,9 +212,25 @@
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- {{[TODO](<TODO.md>)}
+
+13. {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -237,11 +262,11 @@
 
 - {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
-- "{{[TODO](<TODO.md>)}
+- {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -349,7 +374,7 @@
 
 13. {{[TODO](<TODO.md>)}
 
-- [e.g.](<e.g..md>) "{{[TODO](<TODO.md>)}
+- [e.g.](<e.g..md>) {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
 
@@ -358,6 +383,10 @@
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - {{[TODO](<TODO.md>)}
+
+- <%IFDAYOFWEEK:1,2%> {{[TODO](<TODO.md>)}
+
+- <%IFDAYOFMONTH:1,2%> {{[TODO](<TODO.md>)}
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - {{[TODO](<TODO.md>)}
@@ -370,7 +399,21 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
+13. {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -395,6 +438,15 @@
 
 ## [Members](<Members.md>)
 - {{[TODO](<TODO.md>)}
+
+## [My Daily Notes](<My Daily Notes.md>)
+3. {{[TODO](<TODO.md>)}
+
+11. {{[TODO](<TODO.md>)}
+
+13. {{[TODO](<TODO.md>)}
+
+- [e.g.](<e.g..md>) {{[TODO](<TODO.md>)}
 
 ## [Outlines](<Outlines.md>)
 - {{[TODO](<TODO.md>)}

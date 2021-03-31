@@ -1,9 +1,9 @@
-- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - Fiddling with [[RC/Onboarding Seedpack]]
     - #Conversation #not-populated
     - #Bookmarks #not-populated
     - #[[Change Log]]
-        - Updated css for: "#[[My Daily Notes]] [[Your Name]]"
+        - Updated css for: #[[My Daily Notes]] [[Your Name]]
             - Better matches the css of the other DNP modules
 - ---

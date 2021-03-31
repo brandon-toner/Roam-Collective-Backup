@@ -31,13 +31,13 @@
 - [Related](<Related.md>) [spaced repetition](<spaced repetition.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "[Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
+- [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
+- One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-1. "For anyone who uses [spaced repetition](<spaced repetition.md>),
+1. For anyone who uses [spaced repetition](<spaced repetition.md>),
 
 - For anyone who uses [spaced repetition](<spaced repetition.md>),
 
@@ -49,8 +49,16 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - this model maybe [Related](<Related.md>) to [spaced repetition](<spaced repetition.md>).
 
+- this model maybe [Related](<Related.md>) to [spaced repetition](<spaced repetition.md>).
+
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "And if you can’t write even one atomic note on the idea you have, [Spaced repetition may be a helpful tool to incrementally develop inklings](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ)." #[spaced repetition](<spaced repetition.md>)
+- And if you can’t write even one atomic note on the idea you have, [Spaced repetition may be a helpful tool to incrementally develop inklings](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ). #[spaced repetition](<spaced repetition.md>)
+
+- Interesting labeling of [spaced repetition](<spaced repetition.md>)
+
+- [Andy Matuschak](<Andy Matuschak.md>)'s system of [spaced repetition](<spaced repetition.md>)
+
+- And if you can’t write even one atomic note on the idea you have, [Spaced repetition may be a helpful tool to incrementally develop inklings](https://notes.andymatuschak.org/z7iCjRziX6V6unNWL81yc2dJicpRw2Cpp9MfQ). #[spaced repetition](<spaced repetition.md>)
 
 - Interesting labeling of [spaced repetition](<spaced repetition.md>)
 
@@ -65,7 +73,7 @@
 - [spaced repetition](<spaced repetition.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
+- One big component I hope to layer in is [spaced repetition](<spaced repetition.md>)
 
 ## [spaced everything](<spaced everything.md>)
 - **[Related](<Related.md>):** #[spaced repetition](<spaced repetition.md>)

@@ -34,7 +34,7 @@
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - **Personal SmartBlocks:**
     - BToner — .DNP Template #42SmartBlock
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
             - #Scratchpad #not-populated
             - #Conversation #not-populated <%CURRENTBLOCKREF:newDNPRoot%>
             - #[[Change Log]] #not-populated
@@ -96,7 +96,7 @@
         - {{Pull Calls to Attention:42SmartBlock:BToner - Calls to Attention-Button:42RemoveButton=True}}
     - **Archive**
         - BToner — .DNP Template (V1) 
-            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
                 - #Scratchpad #not-populated
                 - #Conversation #not-populated
                 - #[[The Zettelkasten]]

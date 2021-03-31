@@ -3,7 +3,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q How do you manage the problem of community fragmentation?
             - i.e. as similar communities with similar missions form, how do you allocate your attention?
@@ -21,16 +21,16 @@
                         - Feels less so. 
                         - Maxims feel more proverbial than mental models.
                             - #I Maxims may encompass both mental models and proverbs. 
-                                - "[[maxims]] feels less religiously charged than [[proverbs]] "
-                                - "#[[N]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])"
+                                - [[maxims]] feels less religiously charged than [[proverbs]] 
+                                - #[[N]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
             - #Q What are the differences between [[evergreen notes]] and [[maxims]]?[*]([[Bookmarks]])
                 - #Q Is an evergreen note a maxim?
                     - And if so, 
                         - Are all maxims evergreen notes?
                             - And if so, 
                                 - #Q Should [[maxims]] bear the `Evergreens/` namespace?
-                                    - "#[[N]] use [[namespaces]] sparingly; when information can only be classified in one way."
-                                        - "#I In this sense, I am tempted to remove namespacing for evergreen notes entirely... "
+                                    - #[[N]] use [[namespaces]] sparingly; when information can only be classified in one way.
+                                        - #I In this sense, I am tempted to remove namespacing for evergreen notes entirely... 
             - #Q What are the differences between [[maxims]] and [[principles]]?
                 - I would wager: 
                     - All principles are maxims, but not all maxims are principles.
@@ -73,7 +73,7 @@
         - Imported maxims from [[Books/12 Rules for Life]] and [[Books/Beyond Order: 12 More Rules for Life]] as material for reference and demonstration of structure.
             - Similar could be done for [[Ray Dalio]]'s [[Books/Principles]]
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - On building a [[semi-lattice]] structure for knowledge work...
             - #Annotations [[Essay/A City is Not a Tree]]
@@ -85,7 +85,7 @@
                                 - School district A
                                 - Commercial district B
                                 - Emergency area C
-                            - Each of "School district A", "Commercial district B", and "Emergency area C" are wholly contained within Neighborhood 1.
+                            - Each of School district A, Commercial district B, and Emergency area C are wholly contained within Neighborhood 1.
                     - This example is a simple tree — each node has one single parent node
                         - #N [Trees]([[tree]])' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
                 - However, cities are much more complicated than trees — in reality, they are [[semi-lattice]]s. In a semi-lattice, each node can have multiple parents. In this sense a semi-lattice is a more complex graph object than a tree.
@@ -115,7 +115,7 @@
                 - Calling it for the evening, but looking forward to exploring the idea of a [[semi-lattice]] and its multitude of [[layers]] in the future
     - #Conversation
     - #Bookmarks
-        - "#Q How do you manage the problem of community fragmentation?"
+        - #Q How do you manage the problem of community fragmentation?
     - #[[Change Log]]
         - Updated the CSS for conversation tags... 
             - [[@[[Their Name]]]] → Version 2 #Status/Enabled

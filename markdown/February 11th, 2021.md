@@ -1,17 +1,36 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)"
+        1. Developed a [Sprints Template](((tG1HJs2dK))) & Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)
         2. See [Sprint 1 Page]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) for updates on that.[*](((RK8SxJ-Pb)))
     - #Chat ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
-        2. "[[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
+        2. [[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - Active Sprint:: [[Sprints/1 — Roam Games 3 (managing dependencies)]]
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - #Q What do you do if a sprint is also a question? 
             - #I Duplicate it as a questions page, linking to the sprint. 
@@ -92,8 +111,8 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]] 
-        - "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
-        - "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+        - #Q How do you manage dependency of ideas and influence within a community knowledge graph?
+        - `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
             - Possible structure
                 - Types
                     - Structural/Uncontextualised relations
@@ -107,7 +126,7 @@
                     - Comparison to Code reviews and dependency
         - ((iGUsXhqcg))
             - Do we still need a domain, or is a substack enough for now?
-        - "[On reviews and maintainence](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]]), [*]([[cc:[[Charles Farr]]]])."
+        - [On reviews and maintainence](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]]), [*]([[cc:[[Charles Farr]]]]).
     - #[[GTD Zone]]
         - Produce a small graph that has different kind of connections and use it as test. 
         - Once the test is running experiment with the RC graph
@@ -117,7 +136,7 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [[Brandon Toner]] I am not sure the idea of [duplicating blocks](((czpA6rCRy))) is right. Have you had an example in mind? Can we keep them always distinct but connected. A sprint should be a hypothesis trying to answer a question. Otherwise, I would recommend having a fixed hierarchy so that either the question is always ls always blocked referenced to the sprint or vice-versa? Or probably better, avoid block references?
         - [[Everyone]] What is the current hierarchy flow of `#I, #Q, [[Q:]], [[E:]]` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
             - I wish I started at the beginnings as it would have been fun/interesting to document changes 
@@ -126,7 +145,7 @@
         - [*]([[~[[Brandon Toner]]]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
             - [*]([[~[[Brandon Toner]]]]) #I [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([[~[[Brandon Toner]]]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
-        - [*]([[Brandon Toner]]) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
+        - [*]([[Brandon Toner]]) Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general. What about Hacking?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
@@ -143,9 +162,9 @@
             - @ [Brandon]([[~[[Brandon Toner]]]]) & [Peter]([[@[[Peter Rosso]]]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
                 - As it relates to Brandon's [question](((_LcN8ZnW8))), the question should actually be outlined at the Epic level. By comparison, sprints are just timebound sets of tasks. An Epic can be one or multiple sprints.
                     - For epics, I propose a two part stucture:
-                        - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                        - An Epic page: `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
                         - Oriented around a question block and page:
-                            - Initial block: "#Q How do you manage dependency of ideas and influence within a community knowledge graph?"
+                            - Initial block: #Q How do you manage dependency of ideas and influence within a community knowledge graph?
                             - Ultimate page: [[Questions/How do you manage dependency of ideas and influence within a community knowledge graph?]]
                     - How work splits across Epics & Questions...
                         - The epic page is used to outline sprints and individual story points / questions
@@ -158,12 +177,12 @@
                     - [[Epics/Managing knowledge dependencies in multiplayer]] ← Epic related to [[Roam Games]] 3
                     - [[Sprints/1 — Roam Games 3 (managing dependencies)]] ← Sprint from now until next Sunday
                     - {{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
-                    - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
-            - "#I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
-                - "[Draft Sprints template](((tG1HJs2dK)))"
-            - Like this: "Sprints/Title Example"
+                    - {{[[TODO]]}} #Q What are the fundamental dependent relationships within a knowledge graph? ← Q block that has yet to turn into a Q page
+            - #I Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
+                - [Draft Sprints template](((tG1HJs2dK)))
+            - Like this: Sprints/Title Example
         - Simple Replies
-            - Agree: "Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]])" [[~[[Brandon Toner]]]] — I updated the epic & sprint namespaces I had created
+            - Agree: Namespaces [plural](((ynPcWxxh5)))? [*]([[~[[Charles Farr]]]]) [[~[[Brandon Toner]]]] — I updated the epic & sprint namespaces I had created
     - #Bookmarks
-        - "Possible structure"
+        - Possible structure
 - ---

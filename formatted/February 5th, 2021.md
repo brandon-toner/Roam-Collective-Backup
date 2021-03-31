@@ -1,18 +1,37 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Bookmarks](<Bookmarks.md>)
         - On a broadcasting smartblock. #[Follow Up](<Follow Up.md>)
-            - "What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?"
+            - What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?
     - [Conversation](<Conversation.md>) 
         1. On [Live Preview](<Live Preview.md>) [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]], [~[[Peter Rosso](<~[[Peter Rosso.md>)]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
-            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
                 - I haven't in a while, but will at the next opportunity. 
                     - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) improve functionality of drop-down menus.
             - 
@@ -26,20 +45,20 @@
             - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
     - #[GTD Zone](<GTD Zone.md>) 
         - Order old tasks by priority
-        - "Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)"
-        - reply "Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon."
+        - Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)
+        - reply Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon.
     - [Conversation](<Conversation.md>)
         - I love [~[[Charles Farr](<~[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
-            - "[~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
+            - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
                 - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) Preview of specific pages that contains a chosen tag
         - [@[[leekeifon](<@[[leekeifon.md>)]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)){{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)){{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - [Conversation](<Conversation.md>) 
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
         - [~[[leekeifon](<~[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
@@ -66,9 +85,9 @@
             - Feedback: `[Announcements](<Announcements.md>)`
                 - Slim down total announcements — too much detail gets lost
             - Addition: Onboarding "AoT"
-                - Re: "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more"
+                - Re: [^[[Brandon Toner](<^[[Brandon Toner.md>)]] almost like a onboarding algorithm... Going to identify this as a #[Follow Up](<Follow Up.md>) because I want to think about it a bit more
                 - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
-        - "[datalog](<datalog.md>) experimentation"
+        - [datalog](<datalog.md>) experimentation
         - [datalog](<datalog.md>) flashcards
             - What attribute do pages have but blocks do not?
                 - `:node/title`
@@ -87,5 +106,5 @@
                 - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
                 - Collective convergence benefits from synchronous
     - [Conversation](<Conversation.md>)
-        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents"
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents
 - ---

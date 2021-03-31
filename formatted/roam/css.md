@@ -1658,7 +1658,7 @@ span.rm-page-ref[data-tag="Evergreen"] {
  font-weight: 700 !important;
 }```
                         - In Block Reference
-                            - Example: "[Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims"
+                            - Example: [Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims
                             - ```css
 .rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
   /*display: none;*/
@@ -1687,7 +1687,7 @@ span.rm-page-ref[data-tag="Community Note"] {
  font-weight: 700 !important;
 }```
                         - In Block Reference
-                            - Example: "[Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims"
+                            - Example: [Evergreens](<../Evergreens.md>) Prefer note titles with complete phrases to sharpen claims
                             - ```html
 .rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Notes"]{
   /*display: none;*/
@@ -4572,6 +4572,17 @@ h6 {
 ## [Agenda](<Agenda.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
+## [Beyond the Basics](<Beyond the Basics.md>)
+7. Added [roam/css](<../roam/css.md>)
+
+5. [x] Add [Processes](<../Processes.md>) to [roam/css](<../roam/css.md>)
+
+11. [ ] Improve [roam/css](<../roam/css.md>)
+
+- [e.g.](<../e.g..md>) [ ] Improve [roam/css](<../roam/css.md>)
+
+1. Added [roam/css](<../roam/css.md>)
+
 ## [Decisions](<Decisions.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
 
@@ -4591,7 +4602,7 @@ h6 {
 - [min-con](<../min-con.md>) {{[query](<../query.md>): {and: [Help Wanted](<../Help Wanted.md>) [TODO](<../TODO.md>) {not: {or: [DONE](<../DONE.md>) [roam/css](<../roam/css.md>)}
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- (resolved) "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+- (resolved) [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
 ## [Frameworks](<Frameworks.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
@@ -4606,7 +4617,7 @@ h6 {
 
 11. [ ] Improve [roam/css](<../roam/css.md>)
 
-- [e.g.](<../e.g..md>) "[ ] Improve [roam/css](<../roam/css.md>)
+- [e.g.](<../e.g..md>) [ ] Improve [roam/css](<../roam/css.md>)
 
 1. Added [roam/css](<../roam/css.md>)
 
@@ -4616,19 +4627,34 @@ h6 {
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [ ] Reorganize the [roam/css](<../roam/css.md>)
 
+- [ ] Reorganize the [roam/css](<../roam/css.md>)
+
 - [minimal](<../minimal.md>) {{[query](<../query.md>): {and: [Evergreens](<../Evergreens.md>) {not: {or: [E:](<../E:.md>) [roam/css](<../roam/css.md>)}
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+- [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+
+- [ ] Reorganize the [roam/css](<../roam/css.md>)
 
 - [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
-10. "Yup " — "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+10. Yup  — [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
-- "[Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
+- [Q](<../Q.md>) Is it possible to change [roam/css](<../roam/css.md>)
 
 ## [Members](<Members.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+7. Added [roam/css](<../roam/css.md>)
+
+5. [x] Add [Processes](<../Processes.md>) to [roam/css](<../roam/css.md>)
+
+11. [ ] Improve [roam/css](<../roam/css.md>)
+
+- [e.g.](<../e.g..md>) [ ] Improve [roam/css](<../roam/css.md>)
+
+1. Added [roam/css](<../roam/css.md>)
 
 ## [Outlines](<Outlines.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)
@@ -4639,7 +4665,7 @@ h6 {
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [roam/css](<../roam/css.md>)
 
-- Drag either the "Color Scheme (Hosted)" or the "Color Scheme (Full)" into the [roam/css](<../roam/css.md>)
+- Drag either the Color Scheme (Hosted) or the Color Scheme (Full) into the [roam/css](<../roam/css.md>)
 
 ## [Thoughts](<Thoughts.md>)
 - [ ] Add to [roam/css](<../roam/css.md>)

@@ -45,16 +45,18 @@
 - Quick Dates (uses the week & month format of the [Date Planner](<Date Planner.md>))
 
 ## [Index of Fleeting Notes](<Index of Fleeting Notes.md>)
-- "[N](<N.md>) The [Date Planner](<Date Planner.md>)
+- [N](<N.md>) The [Date Planner](<Date Planner.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
+- Added [Date Planner](<Date Planner.md>)
+
 - [x] Add [Date Planner](<Date Planner.md>)
 
 ## [March 15th, 2021](<March 15th, 2021.md>)
 - Added new smartblocks for population of week and month tags. These accept natural language, and work in concert with the [Date Planner](<Date Planner.md>).
 
 ## [March 17th, 2021](<March 17th, 2021.md>)
-- Updated "Quick Dates (uses the week & month format of the [Date Planner](<Date Planner.md>))
+- Updated Quick Dates (uses the week & month format of the [Date Planner](<Date Planner.md>))
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - [Date Planner](<Date Planner.md>)

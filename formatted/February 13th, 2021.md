@@ -1,20 +1,39 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
         1. **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
-        2. **Brandon:** "[I](<I.md>) Weekly [Substack](<Substack.md>) [newsletter](<newsletter.md>) with graph updates, highlights, active projects/sprints etc."
-            - "[I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>)) for drafting the contents of the letter."
+        2. **Brandon:** [I](<I.md>) Weekly [Substack](<Substack.md>) [newsletter](<newsletter.md>) with graph updates, highlights, active projects/sprints etc.
+            - [I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>)) for drafting the contents of the letter.
         3. **From Charles' section:** 
-            - [Obs](<Obs.md>) "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
-                - **Result:** "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
+            - [Obs](<Obs.md>) I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
+                - **Result:** Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
-        1. "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
+        1. [Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - #[Literature Notes](<Literature Notes.md>) "[information architecture](<information architecture.md>) is hard."
             - **[Source](<Source.md>):** Tweet by [Visakan Veerasamy](<Visakan Veerasamy.md>)
@@ -43,7 +62,7 @@
             - Goal: Be able to adjust the dark grey at will easily.
             - [Q](<Q.md>) What classes of tags are there that might have different colors?
         - #[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
-            - Proverb: "Definition: Easily digestible nuggets of wisdom. "
+            - Proverb: Definition: Easily digestible nuggets of wisdom. 
             - Atomic ideas are easily digestible. This is the format of a proverb. 
             - #[N](<N.md>) Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [Proverbs/stand on the shoulders of giants](<Proverbs/stand on the shoulders of giants.md>), but engage with them in [conversation](<conversation.md>).
     - #[GTD Zone](<GTD Zone.md>)
@@ -69,63 +88,63 @@
                     - Built using 
                     - Incorporating
                     - Inspired by
-                    - **[I like "`Influence](<I like "`Influence.md>):**`"
+                    - **[I like `Influence](<I like `Influence.md>):**`
                         - The nature of the influence could be added next to the mention with simple text.
-                    - **[Perhaps plural for "`Contributor](<Perhaps plural for "`Contributor.md>):**`"
+                    - **[Perhaps plural for `Contributor](<Perhaps plural for `Contributor.md>):**`
                     - [Q](<Q.md>) How could the "ancestors" be explicity connected to roam games submission pages? 
     - #[Change Log](<Change Log.md>) 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
-        - "On the foundations of [statement chains](<statement chains.md>)..."
-            - "[Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)"
-                - "The idea of a **statement chain** is not something that is well developed, just something that live in his head."
-                - "However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain."
-            - "Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently..."
-                - "[Q](<Q.md>) What are the [fundamental](<fundamental.md>) [linkage](<linkage.md>) / [connection](<connection.md>) types for pieces of [knowledge](<knowledge.md>)?"
-            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>) & phrases"
+        - On the foundations of [statement chains](<statement chains.md>)...
+            - [Conor](<Conor.md>) mentioned that he thinks of education as a series of [statement chains](<statement chains.md>)
+                - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
+                - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
+            - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
+                - [Q](<Q.md>) What are the [fundamental](<fundamental.md>) [linkage](<linkage.md>) / [connection](<connection.md>) types for pieces of [knowledge](<knowledge.md>)?
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>) & phrases
                 - Relations between two nodes
-                    - "Relates to"
-                        - ""in tension with""
-                        - ""analogous to""
-                        - ""related to""
-                    - "Supports"
-                        - "Supports"
-                            - "Supported By"
-                        - "Strengthens"
-                            - "Strengthened by"
-                        - "Example"
-                    - "Disproves"
-                        - "Disproves"
-                            - "Disproved By"
-                        - "Challenges"
-                            - "Challenged By"
-                        - "Weakens"
-                            - "Weakened By"
-                        - "Counter-example"
+                    - Relates to
+                        - in tension with
+                        - analogous to
+                        - related to
+                    - Supports
+                        - Supports
+                            - Supported By
+                        - Strengthens
+                            - Strengthened by
+                        - Example
+                    - Disproves
+                        - Disproves
+                            - Disproved By
+                        - Challenges
+                            - Challenged By
+                        - Weakens
+                            - Weakened By
+                        - Counter-example
                 - Argument structure
                     - __This requires a separate schema...__
-            - "[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)"
-            - "[prepositional linkages](<prepositional linkages.md>)"
+            - [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
+            - [prepositional linkages](<prepositional linkages.md>)
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - [Outlines](<Outlines.md>) Continued exploration of story points [*](((my07O-J1h)))
-                - "[x] Draft & finalize Sprint template"
-                - "[x] Draft & finalize Epic template"
-                    - "Definitely a query of all the sprint involved"
-                - "[ ] Collate related questions → insert into outline"
-                - "[ ] Collate related ideas  → format into questions → insert into outline"
-                - "[ ] What, Why, How: Implementing a Zettelkasten"
-                    - "[ ] "[Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))""
+                - [x] Draft & finalize Sprint template
+                - [x] Draft & finalize Epic template
+                    - Definitely a query of all the sprint involved
+                - [ ] Collate related questions → insert into outline
+                - [ ] Collate related ideas  → format into questions → insert into outline
+                - [ ] What, Why, How: Implementing a Zettelkasten
+                    - [ ] [Q](<Q.md>) What are the foundational elements of knowledge? [*](((RljJeMbuS)))
                     - What, Why, How: Taxonomy of Notes
-                - "[ ] What, Why, How: Collaborating within Roam"
-                    - "[ ] What, Why, How: Communicating within Roam"
+                - [ ] What, Why, How: Collaborating within Roam
+                    - [ ] What, Why, How: Communicating within Roam
                         - What is communication in Roam?
                             - Asynchronous vs. synchronous
                         - Why communicate in Roam?
                         - How to implement communication in Roam?
                             - What are the various conventions available for use?
-                    - "[ ] What, Why, How: Divergent Thinking"
+                    - [ ] What, Why, How: Divergent Thinking
                         - What is divergence and divergent thinking?
                         - Why is divergent thinking helpful?
                         - How to support divergent thinking in Roam?
@@ -134,8 +153,8 @@
                                 - [ ] Why use AoT's to support divergent thinking?
                                 - [ ] How to use AoT's to support divergent thinking?
                                     - Would include examples
-                        - "[ ] "[Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) ""
-                    - "[ ] What, Why, How: Convergent Thinking"
+                        - [ ] [Q](<Q.md>) [Questions/When does chaos become insurmountable?](<Questions/When does chaos become insurmountable?.md>) 
+                    - [ ] What, Why, How: Convergent Thinking
                         - What is convergence and convergent thinking?
                         - Why is convergence helpful?
                         - How to support convergence in Roam?
@@ -149,8 +168,8 @@
                         - [ ] What, Why, How: Algorithms to Support Convergence
                     - [ ] What, Why, How: Contributing to Shared Artifacts
                 - [ ] What, Why, How: Dependencies within a Graph
-                    - "[ ] What, Why, How: Defining Types of Relationships"
-                        - "[ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W)))"
+                    - [ ] What, Why, How: Defining Types of Relationships
+                        - [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W)))
                     - [ ] What, Why, How: Tracking Conversations
                 - [ ] What, Why, How: Analyzing Your Graph
                     - [ ] What, Why, How: Leveraging The Relationships Between Ideas
@@ -190,8 +209,8 @@
                     - Roam Collective
                 - Onboarding
                     - Guide
-                        - "About"
-                        - "Convention Overview"
+                        - About
+                        - Convention Overview
                     - SmartBlocks & Templates
                         - For setup
                 - Convention Overview
@@ -205,11 +224,11 @@
                     - Examples
                 - roam-inter set up
     - [Conversation](<Conversation.md>)
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "[@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))"
-            - See: "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))
+            - See: Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>) 
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
@@ -218,11 +237,11 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

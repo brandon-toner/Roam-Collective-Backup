@@ -10,7 +10,7 @@
 - [I](<I.md>) [assertions](<assertions.md>)/[claims](<claims.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-1. "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
+1. [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
 
 - [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
 
@@ -20,9 +20,9 @@
 - So maybe [claims](<claims.md>)
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
-- "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
+- [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
 
-- "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
+- [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>).
 
 2. [claims](<claims.md>)
 
@@ -33,7 +33,7 @@
 
 - #[N](<N.md>) A [claim]([claims](<claims.md>))
 
-- "[Q](<Q.md>) How should discourse around [claims](<claims.md>)
+- [Q](<Q.md>) How should discourse around [claims](<claims.md>)
 
 ## [February 28th, 2021](<February 28th, 2021.md>)
 - [I](<I.md>) [evergreen notes](<evergreen notes.md>) may be subdivided into [concepts](<concepts.md>), [claims](<claims.md>),

@@ -9,9 +9,9 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
 
-- **[My thoughts continued more centrally located [here]"Thoughts](<My thoughts continued more centrally located [here]"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
+- **[My thoughts continued more centrally located [here]Thoughts](<My thoughts continued more centrally located [here]Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
 
-- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
+- **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
@@ -22,7 +22,7 @@
 - `[Bookmarks](<Bookmarks.md>)`
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
+- [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
 
 - [YES]([Bookmarks](<Bookmarks.md>))
 
@@ -31,15 +31,19 @@
 
 - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
+- Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
+
+- Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
-- "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
+- [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))
 
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - [Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
 
-- "[Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
+- [Q](<Q.md>) What activities might a collective community engage in?[*]([Bookmarks](<Bookmarks.md>))
 
 ## [February 28th, 2021](<February 28th, 2021.md>)
 - [Q](<Q.md>) What are the differences between [evergreen notes](<evergreen notes.md>) and [maxims](<maxims.md>)?[*]([Bookmarks](<Bookmarks.md>))
@@ -50,14 +54,17 @@
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
+- Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 
-- ""Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
+- #[Bookmarks](<Bookmarks.md>)
+
+## [January 28th, 2021](<January 28th, 2021.md>)
 - #[Bookmarks](<Bookmarks.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
@@ -71,7 +78,7 @@
 
 - Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
-- "Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+- Thoughts on [questions](<questions.md>) [conventions]([Conventions](<Conventions.md>)) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - Good gardeners look for opportunities to create links that naturally arise through conversation. Tending passively as opportunities arise. This is the main skill that drives the success of a collective graph.[*]([Bookmarks](<Bookmarks.md>))
@@ -94,15 +101,15 @@
 - {{[query](<query.md>): {and: [Bookmarks](<Bookmarks.md>)
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
+- Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>))
 
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
 ## [Wade Dominic](<Wade Dominic.md>)
-- **["Thoughts](<"Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
+- **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
 
 ## [evergreen notes](<evergreen notes.md>)
-- "Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
 
 ## [leekeifon](<leekeifon.md>)
 - {{[query](<query.md>): {and: [leekeifon](<leekeifon.md>) [Bookmarks](<Bookmarks.md>)}

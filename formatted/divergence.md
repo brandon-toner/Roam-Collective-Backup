@@ -14,7 +14,7 @@
 - #[N](<N.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[N](<N.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>)
+- #[N](<N.md>) [convergence](<convergence.md>) and [divergence](<divergence.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - enables [divergence](<divergence.md>)

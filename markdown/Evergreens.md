@@ -2,4 +2,16 @@
 - Entry Points:: #not-populated
 - Index::
 - How to document [[evergreen notes]]: [*]
-    - {{[[embed]]: ((vDdMH0T-r))}}
+    - Process:: [*]([[Processes]])
+        - Document ideas freely as [["N"-notes]]
+        - [[literature notes]] or [[verbatim notes]] are representations of the author's ideas.
+            - OK to be verbatim — these should be quick & easy! 
+                - #[[N]] The need for [[originality]] adds [[cognitive burden]].
+            - References::
+                - https://twitter.com/syncretizm/status/1355812313505230852?s=21
+        - As ideas begin to feel [[evergreen]], a page should be created.
+            - The body of a fleeting note could be made into a page.
+        - The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page.
+            - Populate date created, created by and author right away.
+                - If author is unknown, use the [[Unknown]] tag.
+                    - #Q is there advantage to this vs leaving as `#not_populated`?

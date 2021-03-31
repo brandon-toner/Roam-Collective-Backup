@@ -1,18 +1,37 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Bookmarks
         - On a broadcasting smartblock. #[[Follow Up]]
-            - "What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?"
+            - What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?
     - #Conversation 
         1. On [[Live Preview]] [[cc:[[Matthew Vogel]]]], [[~[[Peter Rosso]]]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
-            - "[[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?"
+            - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
                 - I haven't in a while, but will at the next opportunity. 
                     - #[[Roam Enhancement Requests]] improve functionality of drop-down menus.
             - 
@@ -26,20 +45,20 @@
             - I wonder what level of reporting we could do to turn this is a proper experiment. Publishable research is a good advertisement for rc. Is there any social scientist/ system-oriented researcher int the collective? 
     - #[[GTD Zone]] 
         - Order old tasks by priority
-        - "Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]"
-        - reply "Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon."
+        - Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]
+        - reply Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon.
     - #Conversation
         - I love [[~[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Larissa de Lima]]]]
         - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [[~[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
-            - "[[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))"
+            - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
                 - #[[Roam Enhancement Requests]] Preview of specific pages that contains a chosen tag
         - [[@[[leekeifon]]]] and that is [very clear definition](((1dcTvgxys))) that for some reason I missed - rereading your thoughts today, sorry!
         - [[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - Ideally, it would be nice to be able to use specific pages in the graph as a way to publish blog posts on the website.
         - [[~[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - #Conversation 
         - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
         - [[~[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
@@ -66,9 +85,9 @@
             - Feedback: `#Announcements`
                 - Slim down total announcements — too much detail gets lost
             - Addition: Onboarding "AoT"
-                - Re: "[[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more"
+                - Re: [[^[[Brandon Toner]]]] almost like a onboarding algorithm... Going to identify this as a #[[Follow Up]] because I want to think about it a bit more
                 - The idea would be to inject fresh perspective into the graph, before new users have been assimilated! 
-        - "[[datalog]] experimentation"
+        - [[datalog]] experimentation
         - [[datalog]] flashcards
             - What attribute do pages have but blocks do not?
                 - `:node/title`
@@ -87,5 +106,5 @@
                 - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
                 - Collective convergence benefits from synchronous
     - #Conversation
-        - [[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents"
+        - [[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `#tag1` & `#tag2` in contents
 - ---

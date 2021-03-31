@@ -31,6 +31,10 @@
 
 - [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
 
+- [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
+
+- [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - While making ["N"-notes](<../"N"-notes.md>), try to make them into full descriptive sentences so that they make more sense in isolation from their original context. I generally use the guidance of [Evergreens/Evergreen note titles are like APIs](<../Evergreens/Evergreen note titles are like APIs.md>)
 

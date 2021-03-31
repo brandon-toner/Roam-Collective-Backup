@@ -20,13 +20,13 @@
 - [Q](<../Q.md>) How can the [scientific method](<../scientific method.md>) be integrated into [collaborative zettelkasten](<../collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<../Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- "[Q](<../Q.md>) How can the [scientific method](<../scientific method.md>) be integrated into [collaborative zettelkasten](<../collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<../Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
+- [Q](<../Q.md>) How can the [scientific method](<../scientific method.md>) be integrated into [collaborative zettelkasten](<../collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<../Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
-- "[Q](<../Q.md>) How can the [scientific method](<../scientific method.md>) be integrated into [collaborative zettelkasten](<../collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<../Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
+- [Q](<../Q.md>) How can the [scientific method](<../scientific method.md>) be integrated into [collaborative zettelkasten](<../collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<../Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
-- Changes heavily inspired by "[Annotations](<../Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
+- Changes heavily inspired by [Annotations](<../Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
 
 - [Annotations](<../Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<../Articles/Joel Chan — Knowledge Synthesis.md>))
 

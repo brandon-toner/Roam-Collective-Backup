@@ -52,6 +52,10 @@
 - **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - **[Next Steps](<Next Steps.md>):**
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- Thoughts on [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
+                    - **[Next Steps](<Next Steps.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Outline](<Outline.md>):** [not-populated](<not-populated.md>)
                 - **[Next Steps](<Next Steps.md>):**
@@ -66,6 +70,12 @@
                 - **[Next Steps](<Next Steps.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- #[Next Steps](<Next Steps.md>)
+
+- #[Next Steps](<Next Steps.md>)
+
+- #[Next Steps](<Next Steps.md>)
+
 - #[Next Steps](<Next Steps.md>)
 
 - #[Next Steps](<Next Steps.md>)
@@ -98,7 +108,7 @@
     - **[Next Steps](<Next Steps.md>):**
 
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
-- "#[N](<N.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies."
+- #[N](<N.md>) Making the prepositional links between ideas explicit empowers the mapping of a complex matrix of relationships and dependencies.
     - **[Next Steps](<Next Steps.md>):**
 
 ## [Seedlings/just-in-time vs just-in-case](<Seedlings/just-in-time vs just-in-case.md>)

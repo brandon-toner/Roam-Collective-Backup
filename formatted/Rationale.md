@@ -20,7 +20,7 @@
             - **[Rationale](<Rationale.md>):**
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
-- **[Decision](<Decision.md>):** "Q:"
+- **[Decision](<Decision.md>):** Q:
                         - **[Rationale](<Rationale.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)

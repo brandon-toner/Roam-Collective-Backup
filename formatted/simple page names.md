@@ -4,5 +4,5 @@
 - #[N](<N.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>)
 
 ## [evergreen notes](<evergreen notes.md>)
-- "#[N](<N.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>)
+- #[N](<N.md>) [evergreen notes](<evergreen notes.md>) should be documented with [simple page names](<simple page names.md>)
 

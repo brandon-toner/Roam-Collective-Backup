@@ -19,7 +19,7 @@
                 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}
         - **[SmartBlocks](<SmartBlocks.md>):**
             - PROS - .DNP TEMPLATE [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+                - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
                     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
                     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
@@ -27,7 +27,7 @@
                     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
                     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
                         - Query:
-                            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+                            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
                     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
                     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
                     - 

@@ -5,7 +5,10 @@
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- "[Annotations](<../Annotations.md>) of [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
+- [Annotations](<../Annotations.md>) of [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Create literature notes from [Articles/How to write good prompts](<../Articles/How to write good prompts.md>).
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<../Andy Matuschak.md>)’s [Articles/How to write good prompts](<../Articles/How to write good prompts.md>),
@@ -13,13 +16,13 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Annotations](<../Annotations.md>) of [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
 
-- "[Annotations](<../Annotations.md>) of [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
+- [Annotations](<../Annotations.md>) of [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
 
-- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<../Andy Matuschak.md>)’s [Articles/How to write good prompts](<../Articles/How to write good prompts.md>),
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<../Andy Matuschak.md>)’s [Articles/How to write good prompts](<../Articles/How to write good prompts.md>),
 
 - [ ] Create literature notes from [Articles/How to write good prompts](<../Articles/How to write good prompts.md>).
 
-- "We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
+- We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
 
 - We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<../Articles/How to write good prompts.md>)
 

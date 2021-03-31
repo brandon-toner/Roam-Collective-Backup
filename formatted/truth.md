@@ -3,18 +3,20 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - #[N](<N.md>) To seek [truthfulness]([truth](<truth.md>))
 
+- #[N](<N.md>) To seek [truthfulness]([truth](<truth.md>))
+
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[N](<N.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>).
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- **[Related](<Related.md>):** "#[N](<N.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>).
+- **[Related](<Related.md>):** #[N](<N.md>) "cycles" of [brainstorming](<brainstorming.md>) and reflecting — then [compiling](<compiling.md>) and [summarizing](<summarizing.md>) could be coordinated by community moderators to get closer and closer to understanding and [truth](<truth.md>).
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[N](<N.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) can be an effective tool to use in the pursuit of shared [truth](<truth.md>)
 
 - Interested to hear more about logic and [truth](<truth.md>)-
 
-- "#[N](<N.md>) treat page as [truth](<truth.md>).
+- #[N](<N.md>) treat page as [truth](<truth.md>).
 
 - #[N](<N.md>) objective [truth](<truth.md>)
 

@@ -19,7 +19,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - {{[[TODO]]}} Review yesterday's discussions
         - #Q How do we promote resurfacing/or presentation of key information without the use of queries?
@@ -28,12 +28,12 @@
                 - I've tried to mitigate this effect through the use of [[SmartBlock buttons]]... only running the queries on-demand... but this doesn't feel like a great solution, depending on HOW taxing queries are on performance.
                 - I've also tried to mitigate this effect by using block refs to display queries where possible (not unique to today's date)... but not sure if this actually translates to performance gains because the query needs to load/refresh to be displayed... (as also expressed by mark [here](((dy2zoEVze))))
         - #Q What block-level tag could be used to signify a summary? A synthesis of the conversation down to the tl;dr... the decision/action items/resolution...
-            - Inspired by: "I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then..."
+            - Inspired by: I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then...
         - #N the use of block-level tags forces the user to be more clear and precise in their speech/documentation.
         - #I "[[maxims]]" as a word that may be helpful as a collection... 
             - "discreet, and practical wisdom" is the genre of idea I'm looking to define.
             - Related:: [[proverbs]] 
-                - "Definition: Easily digestible nuggets of wisdom. "
+                - Definition: Easily digestible nuggets of wisdom. 
             - [[maxims]] feels less religiously charged than [[proverbs]] 
             - Inspired by:: [[Christopher Hodgkinson]]'s [[Books/Educational Leadership]], where he lists practical maxims at the end of the book as distillation of the philosophical discussions in the body of the book.
         - #Obs I REALLY like the concepts of epics and backlog. I needed this for my personal system as well. #[[agile development]]
@@ -47,12 +47,12 @@
             - A challenge is:
                 - #Q How do you compile information on a dashboard where TODAY's DATE is an operator in the query... 
             - **Replies**
-                - "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
+                - I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date.
                     - This is excellent! I think might be the answer.
                         - LOVE the refresh with today's date. Brilliant. 
                     - A thing I like about having the queries **on** the DNP is the ease of directing attention... it's more likely to be reviewed if it's right under your nose. 
                     - But, this is a GREAT next-best if inclusion of the queries on the DNP directly is too expensive on performance.
-                - "Or you could just clear the queries at the end of the day. IDK "
+                - Or you could just clear the queries at the end of the day. IDK 
                     - Yea, thought about doing this too... was thinking on implementing [a tag to attach to temporary queries](((X5pnvusG2))) that I could go back and purge them after some time...
                         - But this feels like work.
                         - Would only really work if I could automate the purging somehow...
@@ -60,7 +60,7 @@
                         - #Q Does the **total number** of [[queries]] in a DB affect [[performance]], or only the queries on a loaded page?
                             -  #Q How do queries affect performance?
                                 - #Q Has the [[Roam Team]] weighed in on this?
-                - "You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity."
+                - You may have better luck given the gravity of the roam collective now to get a response from Bardia perhaps. He is very receptive to larger community concerns. If you don't have a direct line of communication, or haven't established a culture of doing so with the team, I can do so. But I highly doubt they wouldn't receive your question with gravity.
                     - Yup, I have a good relationship with Bardia -- I can reach out on this. 
                     - I agree, [more information](((3FwUWKnKY))) before an informed decision on how to proceed. I'll likely lighten on the queries a bit until then...
         2. [@Mark]([[@[[Mark Robertson]]]]) on [goals](((lr_u_nfcz)))
@@ -76,7 +76,7 @@
                 - [[sprints]] = short-term focus on a tangible project/set of tasks. A tool for alignment.
                 - [[tasks]] = the most granular unit of productivity. These should be discreet and actionable. 
     - #Bookmarks
-        - On [[queries]]: "I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date."
+        - On [[queries]]: I have a button on date specific queries that refreshes the query given today's date. The button just recreates the query with today's date.
     - #[[The Zettelkasten]]
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
@@ -88,7 +88,7 @@
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
@@ -111,15 +111,15 @@
                 - Option 2:
                     - Embed your query from you directory page into your DNP SmartBlock the same way you are doing online status. HOWEVER, this may not have the performance gains. I am unsure if they in effect are duplicative or if it's just a portal?
                     - **Replies:**
-                        - "Would only really work if I could automate the purging somehow..."
+                        - Would only really work if I could automate the purging somehow...
                             - You can get someone to build a smartblock to delete blocks with a given tag. But that could be dangerous. But MORE THAN DOABLE. 
-                        - "#Q Does the **total number** of [[queries]] in a DB affect [[performance]], or only the queries on a loaded page?"
+                        - #Q Does the **total number** of [[queries]] in a DB affect [[performance]], or only the queries on a loaded page?
                             - Its pretty clear that non-render queries in the background are also taxing on the system, though additionally so when rendered. 
                             - I can show you a loom later where I turn on and off global filters to increase performance on my larger graph.
                                 - HOWEVER, this has gotten BETTER in recent months. But it is clear that without the major new architecture up and running, this is a medium to long-term problem.
-                        - " #Q How do queries affect performance?"
+                        -  #Q How do queries affect performance?
                             - There is a debate about how the DNP works in general, especially the feed version of the Daily Notes Page. Its a different animal than a regular page. 
-                        - "#Q Has the [[Roam Team]] weighed in on this?"
+                        - #Q Has the [[Roam Team]] weighed in on this?
                             - We have asked multiple times. No direct reply yet. Implication is so far from the team that we are pushing the boundaries and it will be dealt with in the future. 
             - **Replies:** regarding [rendering of queries](((tjZtz4opT)))
                 - It seems that a portal to a query - whether embed or block reference - is NOT as taxing on the system overall. 
@@ -134,7 +134,7 @@
             - https://twitter.com/gtdguy/status/1362075421148389386?s=21
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox #not-populated
     - #[[Scratchpad]] 
         - Using `Replies::` and `Next Actions::` as marker in conversations? so that conversations can be filtered? 
@@ -145,75 +145,75 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - [[Collection/Block-Level Tags]]
             - Query: `[[block-level]] & [[block-level tags]]`
                 - `#min-all {{[[query]]: {and: {or: [[FN]] [[Fleeting Notes]]} {or: [[block-level]] [[block-level tags]]} {not: {or: [[query]] }}  }}}`
             - Query: `[[discoverability]] [[search]] [[search costs]] [[fuzzy search]] [[context]]`
                 - `#min-all {{[[query]]: {and: {or: [[FN]] [[Fleeting Notes]]} {or: [[context]] [[discoverability]] [[search]] [[search costs]] [[fuzzy search]]} {not: {or: [[query]] }}  }}}`
-            - "Outline of relevant FNs"
-                - "Search & Parsing Costs | Signal Vs. NoiseD"
-                    - "{{[[DONE]]}} "#[[N]] Find order through collective chaos. ""
-                    - "{{[[DONE]]}} "#N The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought""
-                    - "{{[[DONE]]}} "#[[N]] [[block-level tags]] are a great indicator of [[signal]] within a [[collaborative graph]].""
-                    - "{{[[DONE]]}} "#N [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others.""
-                        - "{{[[DONE]]}} "#N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])""
-                    - ""#[[N]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]].""
-                    - "{{[[DONE]]}} "#N Ease of [[comprehension]] (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([[cross-pollination]])""
-                    - "{{[[DONE]]}} "#[[N]] Writing [["N"-notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips""
-                    - "{{[[DONE]]}} "#[[N]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA)))" "
-                    - "{{[[DONE]]}} "#[[N]] It is easier to tolerate vague [[writing]] within a [[private graph]].""
-                - "Structured Thinking"
-                    - ""#[[N]] The use of [[block-level tags]] to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.""
-                    - ""#[[N]] the use of [[block-level tags]] facilitates more structured processes of thought. ""
-                    - ""#[[N]] Documenting ideas using [[block-level tags]] requires a confidence in your ideas. ""
-                    - ""#[[N]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].""
-                    - ""#[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].""
-                    - ""#[[N]] the use [prepositional linkages]([[prepositional linkages]]) ""
-                - "Rediscovery"
-                    - ""#N The use of [[block-level tags]] in combination with [[key words]] facilitates a stronger conversation that transcends the "now" -- extends across time.""
-                    - ""#N A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using""
-                    - ""#[[N]] [[ideas]] and [[action items]] arise naturally in [[conversation]].""
-                        - ""[[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. ""
-                    - ""#[[N]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.""
-                    - ""#[[N]] [[memory]] is very [[context]]-dependant.""
-                        - "Block-level tags allow you to resurface a thought within it's original context"
-                    - ""#[[N]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].""
-                    - ""#[[N]] [[block references]] are a way to [crowdsource]([[crowdsourcing]]) contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings""
-                    - ""#[[N]] [[speculative outlines]] create the [[scaffolding]] for future development.  ""
-                - "Conventions"
-                    - ""#[[N]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. ""
-                    - ""#N [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts.""
-                    - ""#N [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge""
-                    - ""#N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]""
-                    - ""#N [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu""
-                    - ""#[[N]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.""
-                    - ""#[[N]] Writing [["N"-notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips""
-                    - ""#[[N]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.""
-                - ""#N [[block-level tags]] allow you to choose where to respond to others, at any step of their thought process. ""
-                    - ""#[[N]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])""
-                - ""#[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])""
-                    - "Block-level tags allow for interjections without interruptions within conversations "
-                        - ""#[[N]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. ""
-                        - ""#[[N]] Roam was built to empower a "[[ride the lightning]]" workflow.""
-                - ""#[[N]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].""
-                - ""#[[N]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten""
-                - ""#[[N]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.""
+            - Outline of relevant FNs
+                - Search & Parsing Costs | Signal Vs. NoiseD
+                    - {{[[DONE]]}} #[[N]] Find order through collective chaos. 
+                    - {{[[DONE]]}} #N The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought
+                    - {{[[DONE]]}} #[[N]] [[block-level tags]] are a great indicator of [[signal]] within a [[collaborative graph]].
+                    - {{[[DONE]]}} #N [[summarizing]] complex ideas into [atomic]([[atomic]]) chunks makes them more easily digestible for others.
+                        - {{[[DONE]]}} #N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])
+                    - #[[N]] the use of [[block-level tags]] captures the spirit of [[thinking out loud]] and [[working-in-public]].
+                    - {{[[DONE]]}} #N Ease of [[comprehension]] (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([[cross-pollination]])
+                    - {{[[DONE]]}} #[[N]] Writing [["N"-notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
+                    - {{[[DONE]]}} #[[N]] Strategic and intentional use of [[conventions]], improves the ratio of [[signal]] to [[noise]] by promoting [[clarity]] and [[order]]. [*](((io7qOh0kA))) 
+                    - {{[[DONE]]}} #[[N]] It is easier to tolerate vague [[writing]] within a [[private graph]].
+                - Structured Thinking
+                    - #[[N]] The use of [[block-level tags]] to explicitly label elements of thinking can help to facilitate more scientific and analytical thinking.
+                    - #[[N]] the use of [[block-level tags]] facilitates more structured processes of thought. 
+                    - #[[N]] Documenting ideas using [[block-level tags]] requires a confidence in your ideas. 
+                    - #[[N]] Annotating writing and literature with [[block-level tags]], fosters a consideration of the structure of [[narratives]].
+                    - #[[N]] the use of [[block-level tags]] for annotating [[statement chains]] improves the quality of ones [[thinking]] and [[writing]].
+                    - #[[N]] the use [prepositional linkages]([[prepositional linkages]]) 
+                - Rediscovery
+                    - #N The use of [[block-level tags]] in combination with [[key words]] facilitates a stronger conversation that transcends the "now" -- extends across time.
+                    - #N A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using
+                    - #[[N]] [[ideas]] and [[action items]] arise naturally in [[conversation]].
+                        - [[Roam]], in combination with the [[conventions]] set out by RC simple allow these natural conversation elements to be captured — and resurfaced in related instances in the future. 
+                    - #[[N]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
+                    - #[[N]] [[memory]] is very [[context]]-dependant.
+                        - Block-level tags allow you to resurface a thought within it's original context
+                    - #[[N]] When ideas are documented in [[zettelkasten]] [[conventions]], they persist through time. This improves [[resurfacing]].
+                    - #[[N]] [[block references]] are a way to [crowdsource]([[crowdsourcing]]) contributions within a [collaborative graph]([[collaborative graphs]]). #zettelkasten #Bookmarks #Seedlings
+                    - #[[N]] [[speculative outlines]] create the [[scaffolding]] for future development.  
+                - Conventions
+                    - #[[N]] the [[components]] and [[structure]] of a [[zettelkasten]] should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
+                    - #N [Section-level tags]([[section tags]]) should be used to aggregate loosely bound ideas and general thoughts.
+                    - #N [Block-level tags]([[block-level tags]]) should be used to summarize atomic and focused thoughts and pieces of knowledge
+                    - #N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
+                    - #N [Block-level tags]([[block-level tags]]) should prioritize short words with no spaces so users are not required to rely on the [[auto-populate]]d menu
+                    - #[[N]] CSS for [[block-level tags]] should allow for easy [[parsing]] of the constituent parts; adding visuals cues allows for easier and more rapid processing of block contents.
+                    - #[[N]] Writing [["N"-notes]] in context, rather than in a designated location reduces the [[friction]] of capturing them, and helps to preserve [[context]]. #zettelkasten #Tips
+                    - #[[N]] The selection of which [[block-level tags]] are implemented as graph [[conventions]] should be determined by how users may want to filter/query data.
+                - #N [[block-level tags]] allow you to choose where to respond to others, at any step of their thought process. 
+                    - #[[N]] the use of [block-level]([[block-level tags]]) [[questions]] invites and inspires others to jump into the conversation — multiplying the probability of arriving at some worthwhile [[conclusions]] and [[solutions]].[*]([[collaboration]])
+                - #[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])
+                    - Block-level tags allow for interjections without interruptions within conversations 
+                        - #[[N]] More [[alignment]] in [[conventions]] = more [collaborative]([[collaboration]]) power. 
+                        - #[[N]] Roam was built to empower a "[[ride the lightning]]" workflow.
+                - #[[N]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
+                - #[[N]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten
+                - #[[N]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.
     - #Conversation
         - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
     - #[[Change Log]]
         - Added custom indexing code, inspired by [[Maggie Delano]]
-            - See: "Indexing code"
+            - See: Indexing code
             - Example: [[Index of Fleeting Notes]]
                 - Doesn't pull in all blocks of fleeting notes, but unclear why...
                 - {{[[TODO]]}} Test queries & determine why function does not work as intended
     - #Bookmarks
-        - "What's hilarious, and informative, is its giving me some early 90s community forum vibes with a well thought out community. "
-        - "An additional piece of [[[[Feedback]]: [[Suggestions]]]] [[~[[Brandon Toner]]]] regarding the Daily Notes Protocol"
+        - What's hilarious, and informative, is its giving me some early 90s community forum vibes with a well thought out community. 
+        - An additional piece of [[[[Feedback]]: [[Suggestions]]]] [[~[[Brandon Toner]]]] regarding the Daily Notes Protocol
 - ---

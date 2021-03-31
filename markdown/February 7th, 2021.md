@@ -1,12 +1,31 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
-        1. Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology"
+        1. Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see Thinking on objectives and the relationship to mythology
             - **Brandon:** This is a great summary of ideas, Charles. Still percolating my thoughts around it all, but have bookmarked it with Follow Up to continue to think it through. While foundational, I think we can maintain course as we have been until clarity strikes. [*]([[^[[Charles Farr]]]])
-            - **Larissa:**  Strongly agree with "Mythologies are so often chosen based on the type of work we're trying to do" [*]([[~[[Charles Farr]]]])
+            - **Larissa:**  Strongly agree with Mythologies are so often chosen based on the type of work we're trying to do [*]([[~[[Charles Farr]]]])
                 - Touches on the point re: what are the objectives?  Is it just to build a guide?  
                     - The reason I struggle with that is that tools and process for collaboration depend on the desired output.  Do we aim to create a guide that works for all types of collaboration?   
         2. Some outlines on [structure and process](((W8X67wb_G))) for Roam Collective
@@ -24,7 +43,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                     - Personally, also love [this](((2iqWWvBph))) and would suggest adding it as a norm - as it also provides "permission" to suggest and improve wherever an opportunity is observed
                 - Re: Prompts: should we have a process to connect the prompts and the set of [open questions](((rQhJBlEnm)))? and perhaps a process to mark questions as "resolved"?
     - #Chat ((A place to propose objects of discussion)) 
-        1. "~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~"
+        1. ~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~
 - ---
 - #[[My Daily Notes]] [[Reddy2Go]] {{word-count}} [*]([[rtg]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]]
@@ -38,7 +57,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - partner movement = sex
         - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
     - #[[GTD Zone]] #not-populated
-        - "Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see "Thinking on objectives and the relationship to mythology""
+        - Last night I ([Charles]([[Charles Farr]])) wrote about mythologies of notes — I would love to get **everyone's** thoughts on refactoring our current note structure → see Thinking on objectives and the relationship to mythology
         - Eisenhower the past tasks and scratch pad contents
             - Get up to date
 - ---
@@ -51,30 +70,30 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - #I can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [[~[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
         - Tweet referring to Conor 😅 [[~[[Brandon Toner]]]]
             - https://twitter.com/houshuang/status/1358448758082658311?s=20
         - [[@[[Matthew Vogel]]]] People's pressure can be relieved by organising sessions. Debate? Book club? Write a story? Game? [(*)](((am0u4AQuf)))
 
-            - "Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged." -> We should layer conventions so that people both get the endorphin kick of ticking a todo list, but also they understand to what extent their understanding of the "rules"
-            - "Being overwhelmed by the daily notes page was a common sentiment among the group." -> We could  add a free writing section in the collective daily page. No rules to release the tension?
+            - Strong conventions at the start hare a huge help. Potentially a short period at the start of the graph inception (2 days?) where fundamental conventions can be challenged. -> We should layer conventions so that people both get the endorphin kick of ticking a todo list, but also they understand to what extent their understanding of the "rules"
+            - Being overwhelmed by the daily notes page was a common sentiment among the group. -> We could  add a free writing section in the collective daily page. No rules to release the tension?
         - [[~[[Matthew Vogel]]]] I did try to review material, but I think today I was truly burned out. [*](((9Q2agVyFC)))
         - [[~[[Matthew Vogel]]]] [*](((KJ2FvCNN3))) Harmful for two reasons. Quantity does not mean quality. And fear to fail and being observed is a limiting factor to the freedom people feel in expressing their mind. What I am trying to say with the second point is that we might preclude yourself from exploring ideas which disagree with the main ideas.
         - [[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
-            - "#[[N]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
+            - #[[N]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]]).
         - [[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
-            - "https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20"
+            - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
             - [[~[[Brandon Toner]]]] [*](((OisL9Hbuc))) It is the same problem to align work and research in a research group.
         - [[@[[Matthew Vogel]]]] I think I saw this [*](((k3pgleY8f))) as an interpretation of the [[double diamond]] The variation was on the first part not being created. ((I shall find the article))
     - #Feedback  #not-populated
         - I love that when I check my messages I can also see that 
     - #Bookmarks
-        - "#[[N]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]])."
+        - #[[N]] Roam offers a [[selection bias]] towards "gardeners" [*]([[architects, gardeners, and librarians]]).
         - https://twitter.com/CharlesSimsFarr/status/1358100464127074308?s=20
-        - ""[[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯""
+        - [[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+- #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]) {{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Yesterday I introduced [[Multiplayer Roam]] to a small group of ~10 people who had little to no experience with multiplayer graphs and it was heartening to see how excited it made them and what kinds of questions they had.
             - Questions included:
@@ -108,7 +127,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
             - [[~[[Peter Rosso]]]] Information overload is right! I'm in the same boat honestly. There's been an incredible amount writing and conventions developed in this graph so far. [*](((FqyiA2fgt)))
             - [[~[[Peter Rosso]]]] Haha I came to the same conclusion as you were typing a response [*](((tvvL44n95)))
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - #Resources 
             - Interested in [[Mat McGann]]'s work on collaborative Roaming. 
@@ -395,19 +414,19 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         1. Added some more color to the pages in the shortcuts sidebar — these colors can be later adjusted to match an eventual overall color strategy.
     - #Bookmarks
         - [Charles]([[cc:[[Charles Farr]]]]) on note mythology and categorization #[[Follow Up]]
-            - "Thinking on objectives and the relationship to mythology"
+            - Thinking on objectives and the relationship to mythology
         - [Charles]([[cc:[[Charles Farr]]]]) on [onboarding and meta-structure](((qe0xbFYul))) #[[Follow Up]]
     - #Conversation 
         1. Simple Replies
-            - "[[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence."
+            - [[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
                 - Agreed. I think objectives and targets help to align individual work with collective goals. [[~[[Peter Rosso]]]]
-            - "Tweet referring to Conor 😅 [[~[[Brandon Toner]]]]"
+            - Tweet referring to Conor 😅 [[~[[Brandon Toner]]]]
                 - Great thread [[cc:[[Peter Rosso]]]]. 
                 - What were you big takeaways? 
                     - Seems like Conor/Roam have used systems similar to what we have in place here. 
                     - I think our notification are better than "the dropzone"
                     - Interesting to hear that Conor views multiplayer as aberration haha
-            - "[[~[[Brandon Toner]]]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol"
+            - [[~[[Brandon Toner]]]] I started using an attribute — I hope I don't come to [regret](((xaNyqoEJT))) it lol
                 - hahaha
             - [On reviews and maintainence](((b5_pXqQgk)))[*]([[@[[Peter Rosso]]]]), [*]([[cc:[[Charles Farr]]]]).
                 - Right now, my thought is to think as if things everything is fleeting — making links to promote eventual resurfacing in the right contexts.
@@ -417,24 +436,24 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
                 - This requires both some detachment and some faith in the magic junkyard lol.
                 - I did some thinking on overall [structure and process](((W8X67wb_G))), and I think the next step is to start to build that out a bit to formalize it.
                 - Once we get over this hurdle (defining structure and process), then we likely enter the phase of **engaging with** those processes, primarily knowledge development, and productivity (working on projects and outputs).
-            - "[[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
-            - "[[~[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))"
+            - [[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
+            - [[~[[Brandon Toner]]]] did some more tweaking of CSS, interested in your thoughts. We may be getting into overload territory with to many tweaks from vanilla for new users [*](((uiP-kSPjh)))
                 - I don't think we're overboard. Most CSS adjustments have been little tweaks here and there. I think there is room left for more customization if we feel it helpful. Not scared of it. [[~[[Matthew Vogel]]]]
         2. On a RC Website #Bookmarks #[[February 2021]]
-            - "[[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start."
+            - [[~[[Brandon Toner]]]] We can start [setting up the website](((m-bFHWp73))) either using a service like wordpress/squareplace or building one and hosting it on https://app.netlify.com/ for a start.
             - 
         3. On riffing on other people's stuff
-            - "22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?"
+            - 22:12 can i gatecrash into other's daily notes and start riffing, taking off on a tangent or playing in tandem?
                 - Absolutely! Just take a block reference of the part that catches your attention, paste it into your section — and nest all of your thoughts on that idea and beyond [[@[[Reddy2Go]]]]
         4. On [[GitHub]] minute budget
-            - "[[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯"
+            - [[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
                 - Where do I check my minutes usage? Can't seem to find. [[~[[Matthew Vogel]]]]
-                - "[[~[[Brandon Toner]]]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**"
+                - [[~[[Brandon Toner]]]] [*](((sHV6egRKL)))It's on your account settings page under **billing**→**usage this month**→**actions**
                     - I bought 1 month of premium last week to navigate an overage... but usage seems down since. I'll keep an eye as I enter next month. Thanks! [[~[[Matthew Vogel]]]] 
                     - Image:
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fed2fPTuVS7.png?alt=media&token=e606603a-aca2-45d3-b5e0-08aab80bdabe)
         5. [[architects, gardeners, and librarians]]
-            - "[[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))"
+            - [[~[[Brandon Toner]]]] Are you familiar with the concept of Architects, Gardeners and Librarians? Brandon Sanderson and George RR Marting use this pretty much self-explanatory ideas to describe writers. [*](((ymhg0zmwY)))
                 - I have heard that! That's the exact vein I was thinking in. Thanks for the reference. I couldn't quite place it. 
                 - Yea, I have a feeling this is quite applicable. Gonna think on this. [[~[[Peter Rosso]]]]
         6. Thoughts on [this](((bUlmW8JmS)))? [*]([[Charles Farr]]) — See [example](((XwG-Noysg)))
@@ -448,10 +467,10 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - Simple Commentary
             - I've found that the "collapse all a level X" feature has really lessened the [burden associated with a wall of content on a daily page](((zoEy3NHP4)))
     - #Bookmarks
-        - "A speculative outline of some speculative outlines: #Outlines"
-        - "Roam Collective Structure & Process"'
-        - "#I I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles."
-        - #[[Follow Up]] "Thinking on objectives and the relationship to mythology"
+        - A speculative outline of some speculative outlines: #Outlines
+        - Roam Collective Structure & Process'
+        - #I I suspect that there is an association between an individual's personality and their propensity to gravitate towards various graph activities and roles.
+        - #[[Follow Up]] Thinking on objectives and the relationship to mythology
     - #[[GTD Zone]]
         - {{[[TODO]]}} Implement a [broadcast mechanism](((N6JYOLMZE))) within the graph
 - ---

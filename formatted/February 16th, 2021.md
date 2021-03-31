@@ -1,24 +1,43 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
         - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        1. "[Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([Tips](<Tips.md>))" (I discovered that I have made 149 fleeting notes!)
+        1. [Obs](<Obs.md>) This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([Tips](<Tips.md>)) (I discovered that I have made 149 fleeting notes!)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
             - Where are we with this?
             - How is the [Roaman Agora](<Roaman Agora.md>) coming along? Is there a graph we can view? How can we help? [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]])
-                - "Questions on the [Roaman Agora](<Roaman Agora.md>)"
-                - "Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)"
-                    - "A place to collate ideas & influence related to Roam Games"
+                - Questions on the [Roaman Agora](<Roaman Agora.md>)
+                - Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)
+                    - A place to collate ideas & influence related to Roam Games
                     - I like the [about](((tJ4cJ9377))) structure & conventions
-                        - "Convention Overview"
+                        - Convention Overview
                 - [Q](<Q.md>) What is a dependency graph? 
                     - What sort of dependencies should be mapped? Is there any precursor models or best practices?
         - [I](<I.md>) Set up a collection of "[Activities]([activities](<activities.md>))" and randomize from a limited selection each day to keep it fresh. 
@@ -76,9 +95,9 @@
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - [Scratchpad](<Scratchpad.md>)
-        - "[Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))"
+        - [Q](<Q.md>) How could [code snippets](<code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>))
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
     - #[GTD Zone](<GTD Zone.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -86,7 +105,7 @@
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)). [cc: @b]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
             - In summary: I really believe in the idea of an agora on a roam graph, since it's already booming on twitter, but not sure it's the best way to manage an actual dependency graph.
                 - I think the ideal would be a clean and minimalist dependency graph as a stream, sent to the roaman agora where all the discussion happens.
-            - "A place to collate ideas & influence related to Roam Games"
+            - A place to collate ideas & influence related to Roam Games
                 - Beyond the roam games, a place to collate ideas and influences for roamcult collaboration
                     - Design, UI, onboarding, ux
                     - Code, functionality
@@ -96,11 +115,11 @@
                 - Also this lightweight, clean and maybe specially structured db would make it easier for the roam team to distribute rewards
                 - **actually**: if the submissions are pretty clean and have a consistent structure and are not too tightly linked to the discussions, they could be part of the larger roaman agora, and be exported to some website or another graph for ease of access to that info.
                     - totally possible by extending roam-inter, just need to parse and convert the blocks correctly
-            - "DNP for live conversation"
+            - DNP for live conversation
                 - I'm just getting familiar with conventions here, but this is really great for conversation! I don't know if it should be in the dependency graph, but I think it could replace a big part of what roam-cult does on Twitter.
                     - Of course twitter would stay there for updates, news, getting the word out, etc, but just talking deep and solving problems seems more fitting in a graph.
             - Agreed on conventions (nesting, dependencies, etc)
-            - "SmartBlocks & Templates"
+            - SmartBlocks & Templates
                 - This gets me thinking about how we could reduce friction as much as possible, to really get every contributor on this.
                 - Maybe you could have some sort of roamgames plugin.
                     - Get a roam inter feed of submissions. On roamgames page, nested under daily page link (some sort of notification)
@@ -112,7 +131,7 @@
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) re [email](((EGJodIb92)))
             - samuel.bars@outlook.fr
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - Chat with [Brandon Toner](<Brandon Toner.md>)
             - First seed convention/graph
@@ -155,7 +174,7 @@
             - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `[I](<I.md>)` block they're nested under, which feels appropriate. 
             - [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `[csf](<csf.md>)` tag...
     - [Bookmarks](<Bookmarks.md>)
-        - "#[N](<N.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))"
+        - #[N](<N.md>) [Conversation]([conversation](<conversation.md>)) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([Seedlings](<Seedlings.md>))
     - #[Change Log](<Change Log.md>)
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme

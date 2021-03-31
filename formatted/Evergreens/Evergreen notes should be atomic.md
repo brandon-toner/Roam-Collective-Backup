@@ -16,11 +16,15 @@
 - [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)
 
 ## [Evergreens/Evergreen notes should be concept-oriented](<Evergreens/Evergreen notes should be concept-oriented.md>)
-- "The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>))
+- The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>))
 
 - The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>))
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)
+
+- [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)
+
 - [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)
 
 - [Evergreens/Evergreen notes should be atomic](<../Evergreens/Evergreen notes should be atomic.md>)

@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- #[Follow Up](<Follow Up.md>) "[^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>)
+- #[Follow Up](<Follow Up.md>) [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - This [twitter thread]([Tweet Threads](<Tweet Threads.md>))
@@ -14,7 +14,7 @@
 - [Robert Haisfield](<Robert Haisfield.md>) on [structure](<structure.md>) in [Roam](<Roam.md>) [conventions](<conventions.md>) #[Tweet Threads](<Tweet Threads.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-2. [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>)
+2. [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>)
 
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>)
 

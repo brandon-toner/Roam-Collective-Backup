@@ -15,5 +15,5 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [Zsolt]([Zsolt Viczián](<Zsolt Viczián.md>))
 
-- "[Zsolt]([Zsolt Viczián](<Zsolt Viczián.md>))
+- [Zsolt]([Zsolt Viczián](<Zsolt Viczián.md>))
 

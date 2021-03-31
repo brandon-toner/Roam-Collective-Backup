@@ -2,7 +2,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #[[Graph Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Obs Without constant sync support, or daily momentum in a graph, shared graphs can begin to feel like [[ghost towns]].
             - #Q What design elements could be implemented to move the focus from **daily** to weekly or monthly.

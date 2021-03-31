@@ -1,6 +1,6 @@
 - **[Type](<Type.md>):** [Collections](<Collections.md>)
     - Query
-        - See: "Indexing code"
+        - See: Indexing code
         - `FN`
             - ```javascript
 updateIndexPage('[FN](<FN.md>)', 'Index of Fleeting Notes','z38kUDqsi')```
@@ -11,51 +11,51 @@ updateIndexPage('#[Fleeting Notes](<Fleeting Notes.md>)', 'Index of Fleeting Not
     - Outline
     - ---
     - Incremental Index 
-        - "```javascript
-updateIndexPage('#[Fleeting Notes](<Fleeting Notes.md>)', 'Index of Fleeting Notes','z38kUDqsi')```"
-        - "1st level = Siblings under `#[Fleeting Notes](<Fleeting Notes.md>)` parent blocks"
-        - "3rd level = summarizing the whole note on the parent level block, next to `#[Fleeting Notes](<Fleeting Notes.md>)`"
-        - "#[Fleeting Notes](<Fleeting Notes.md>)"
-        - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization..."
-        - "It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag..."
-        - "#[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what ["N"-notes](<"N"-notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)"
-        - "`#[Fleeting Notes](<Fleeting Notes.md>)` - Not related or loosely related to literature (own words)"
-        - "#[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s"
-        - "[N](<N.md>) A users planned method of [information retrieval](<information retrieval.md>) will impact all of the [knowledge](<knowledge.md>) [structure](<structure.md>)s they prefer using"
-        - "[N](<N.md>) a [collaborative graph](<collaborative graph.md>) offers the ability to maintain a chain of influence — enhancing the custom of source [citation](<citation.md>)."
-        - "[N](<N.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>)) chunks makes them more easily digestible for others."
-        - "Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`"
-        - "[N](<N.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))"
-        - "[N](<N.md>)"
+        - ```javascript
+updateIndexPage('#[Fleeting Notes](<Fleeting Notes.md>)', 'Index of Fleeting Notes','z38kUDqsi')```
+        - 1st level = Siblings under `#[Fleeting Notes](<Fleeting Notes.md>)` parent blocks
+        - 3rd level = summarizing the whole note on the parent level block, next to `#[Fleeting Notes](<Fleeting Notes.md>)`
+        - #[Fleeting Notes](<Fleeting Notes.md>)
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) one element of your `#[Fleeting Notes](<Fleeting Notes.md>)` that always trips me up is the capitalization...
+        - It would be easy to implement similar CSS with the `#[Fleeting Notes](<Fleeting Notes.md>)` tag...
+        - #[Fleeting Notes](<Fleeting Notes.md>) [open questions](<open questions.md>) are to [zettel questions](<zettel questions.md>) what ["N"-notes](<"N"-notes.md>) are to [evergreen notes](<evergreen notes.md>). [zettelkasten](<zettelkasten.md>)
+        - `#[Fleeting Notes](<Fleeting Notes.md>)` - Not related or loosely related to literature (own words)
+        - #[Fleeting Notes](<Fleeting Notes.md>) Shared graphs are more effective teaching tools than [Roam Tour](<Roam Tour.md>)s
+        - [N](<N.md>) A users planned method of [information retrieval](<information retrieval.md>) will impact all of the [knowledge](<knowledge.md>) [structure](<structure.md>)s they prefer using
+        - [N](<N.md>) a [collaborative graph](<collaborative graph.md>) offers the ability to maintain a chain of influence — enhancing the custom of source [citation](<citation.md>).
+        - [N](<N.md>) [summarizing](<summarizing.md>) complex ideas into [atomic]([atomic](<atomic.md>)) chunks makes them more easily digestible for others.
+        - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([cc:[[Joel Chan](<cc:[[Joel Chan.md>)]]) system with the addition of a `[FN](<FN.md>)` level that I call a `[Notion](<Notion.md>)`
+        - [N](<N.md>) When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([zettelkasten](<zettelkasten.md>))[*]([collaboration](<collaboration.md>))
         - [N](<N.md>)
-        - "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should be used to summarize atomic and focused thoughts and pieces of knowledge"
-        - "[N](<N.md>) the use of block-level tags forces the user to be more clear and precise in their speech/documentation."
-        - "[N](<N.md>) [Section-level tags]([section tags](<section tags.md>)) should be used to aggregate loosely bound ideas and general thoughts."
-        - "[N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)"
-        - "[N](<N.md>) Breaking things apart, so they can be put together"
-        - "[N](<N.md>) The use of [block-level tags](<block-level tags.md>) in combination with [key words](<key words.md>) facilitates a stronger conversation that transcends the "now" -- extends across time."
-        - "[N](<N.md>) We take cues from our environment to adapt our behavior, often unconsciously"
-        - "```javascript
-updateIndexPage('[FN](<FN.md>)', 'Index of Fleeting Notes','z38kUDqsi')```"
-        - "[N](<N.md>) Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions"
-        - "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu"
-        - "[N](<N.md>) We RELY on the [summaries](<summaries.md>) generated by others, in order to integrate a large amount of information into our [thinking](<thinking.md>)."
-        - "[N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought"
-        - "[N](<N.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations."
-        - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [N](<N.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. "
-        - "[N](<N.md>) The design and features of our tools influence our behavior and type of attention"
-        - "[N](<N.md>) Ease of [comprehension](<comprehension.md>) (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([cross-pollination](<cross-pollination.md>))"
-        - "[N](<N.md>) The design and functionality of social platforms has unexpected influence on user/group behavior"
-        - "[N](<N.md>) It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects..."
-        - "[N](<N.md>) [block-level tags](<block-level tags.md>) allow you to choose where to respond to others, at any step of their thought process. "
-        - "[N](<N.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in"
-        - "[N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>)) thoughts."
-        - "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
-        - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: "OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])""
-        - "[N](<N.md>) There are aspects of creativity that can be programmatic and algorithmic."
-        - "[N](<N.md>) The [Date Planner](<Date Planner.md>) serves as a [tickler file](<tickler file.md>) with different levels of [granularity](<granularity.md>)."
-        - "Toss a `[FN](<FN.md>)` tag and make a claim. (use these liberally)"
-        - "[N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
+        - [N](<N.md>)
+        - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should be used to summarize atomic and focused thoughts and pieces of knowledge
+        - [N](<N.md>) the use of block-level tags forces the user to be more clear and precise in their speech/documentation.
+        - [N](<N.md>) [Section-level tags]([section tags](<section tags.md>)) should be used to aggregate loosely bound ideas and general thoughts.
+        - [N](<N.md>) Educating new users of [knowledge graphs](<knowledge graphs.md>) on the power of [discoverability](<discoverability.md>) and the available [search](<search.md>) functions is critical to [onboarding](<onboarding.md>)
+        - [N](<N.md>) Breaking things apart, so they can be put together
+        - [N](<N.md>) The use of [block-level tags](<block-level tags.md>) in combination with [key words](<key words.md>) facilitates a stronger conversation that transcends the "now" -- extends across time.
+        - [N](<N.md>) We take cues from our environment to adapt our behavior, often unconsciously
+        - ```javascript
+updateIndexPage('[FN](<FN.md>)', 'Index of Fleeting Notes','z38kUDqsi')```
+        - [N](<N.md>) Our brains are processing tremendous amounts of data, spotting patterns and key information to make decisions
+        - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) should prioritize short words with no spaces so users are not required to rely on the [auto-populate](<auto-populate.md>)d menu
+        - [N](<N.md>) We RELY on the [summaries](<summaries.md>) generated by others, in order to integrate a large amount of information into our [thinking](<thinking.md>).
+        - [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought
+        - [N](<N.md>) You have to learn the rules to break them. Being comfortable within some rules makes you aware of their limitations.
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [N](<N.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
+        - [N](<N.md>) The design and features of our tools influence our behavior and type of attention
+        - [N](<N.md>) Ease of [comprehension](<comprehension.md>) (through effective summary or well documented context) increases an ideas ability to [cross-pollinate]([cross-pollination](<cross-pollination.md>))
+        - [N](<N.md>) The design and functionality of social platforms has unexpected influence on user/group behavior
+        - [N](<N.md>) It is often impractical or impossible to complete all of the background readings on a subject yourself. Let alone many subjects...
+        - [N](<N.md>) [block-level tags](<block-level tags.md>) allow you to choose where to respond to others, at any step of their thought process. 
+        - [N](<N.md>) Practicing how to think, [in a structured way](((Spljfcp-2))), matters more than the pros and cons what structure you are thinking in
+        - [N](<N.md>) [Block-level tags]([block-level tags](<block-level tags.md>)) tags can effectively increase the [signal-to-noise ratio](<signal-to-noise ratio.md>) by proactively parsing out [mature]([maturity](<maturity.md>)) thoughts.
+        - OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+        - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I like the idea of using `[FN](<FN.md>)`: OR EVEN simplify down to `[FN](<FN.md>)` and `[LN](<LN.md>)` as block level tags... [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+        - [N](<N.md>) There are aspects of creativity that can be programmatic and algorithmic.
+        - [N](<N.md>) The [Date Planner](<Date Planner.md>) serves as a [tickler file](<tickler file.md>) with different levels of [granularity](<granularity.md>).
+        - Toss a `[FN](<FN.md>)` tag and make a claim. (use these liberally)
+        - [N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
 
 # Backlinks
 ## [February 24th, 2021](<February 24th, 2021.md>)

@@ -13,12 +13,12 @@
 - Tomorrow I'm hoping to continue on with my [datalog](<datalog.md>)
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
-- "[datalog](<datalog.md>)
+- [datalog](<datalog.md>)
 
 - [datalog](<datalog.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
-- I upvote this section "[datalog](<datalog.md>)
+- I upvote this section [datalog](<datalog.md>)
 
 - **[Solution](<Solution.md>):** One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [datalog](<datalog.md>)
 
@@ -28,12 +28,15 @@
 - While [plaintext](<plaintext.md>) [datalog](<datalog.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-11. "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!
+11. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!
 
 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[datalog](<datalog.md>)!
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
 - I am thinking once things are more fleshed out something could relatively easily be done with [roam/render](<roam/render.md>) and some [datalog](<datalog.md>)
+
+## [Matthew Vogel](<Matthew Vogel.md>)
+- [datalog](<datalog.md>)
 
 ## [datalog experimentation](<datalog experimentation.md>)
 - [datalog](<datalog.md>)

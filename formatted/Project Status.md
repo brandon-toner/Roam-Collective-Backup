@@ -10,6 +10,16 @@
 - **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
                 - **[Project Status](<Project Status.md>):**
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- Added some [Project Statuses]([Project Status](<Project Status.md>))
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+- **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
+                            - **[Project Status](<Project Status.md>):**
+
+- **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
+                            - **[Project Status](<Project Status.md>):**
+
 ## [Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>)
 - **[Areas](<Areas.md>):** #[not-populated](<not-populated.md>) [Housekeeping](<Housekeeping.md>)
     - **[Project Status](<Project Status.md>):**

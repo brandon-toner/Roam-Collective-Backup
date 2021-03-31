@@ -169,10 +169,10 @@
     - TODO Queries
         - Active Epics [42SmartBlock](<../42SmartBlock.md>)
             - **Active Epic(s):**
-                - "[page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}"
+                - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Epics](<../Epics.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}
         - Active Sprints [42SmartBlock](<../42SmartBlock.md>)
             - **Active Sprint(s):**
-                - "[page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}"
+                - [page-focus](<../page-focus.md>) {{[query](<../query.md>): {and: [Sprints](<../Sprints.md>) [Status/Active](<../Status/Active.md>) {not: [query](<../query.md>)}}}}
         - TODO Created Today [42SmartBlock](<../42SmartBlock.md>)
             - **TODO Query:** (created today)
                 - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>
@@ -331,6 +331,9 @@
             - {{or: [@[[Everyone](<../@[[Everyone.md>)]] | [@[[Charles Farr](<../@[[Charles Farr.md>)]] | [@[[Brandon Toner](<../@[[Brandon Toner.md>)]] | [@[[Peter Rosso](<../@[[Peter Rosso.md>)]] | [@[[leekeifon](<../@[[leekeifon.md>)]] | [@[[Larissa de Lima](<../@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<../@[[Samuel Bars.md>)]] }}
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+1. [~](<../~.md>) [Brandon Toner](<../Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<../Graph/Templates.md>))
+
 ## [DNP Section](<DNP Section.md>)
 - DNP Templates are found [here]([Graph/Templates](<../Graph/Templates.md>))
 
@@ -338,10 +341,13 @@
 - Check out [these]([Graph/Templates](<../Graph/Templates.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
-1. "[~](<../~.md>) [Brandon Toner](<../Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<../Graph/Templates.md>))
+1. [~](<../~.md>) [Brandon Toner](<../Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<../Graph/Templates.md>))
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [Graph/Templates](<../Graph/Templates.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+1. [~](<../~.md>) [Brandon Toner](<../Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<../Graph/Templates.md>))
 
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [Graph/Templates](<../Graph/Templates.md>)

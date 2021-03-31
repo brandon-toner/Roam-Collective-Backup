@@ -10,7 +10,7 @@
 
 # Backlinks
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- "[I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>))
+- [I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>))
 
 - [I](<I.md>) Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([grist for the mill](<grist for the mill.md>))
 

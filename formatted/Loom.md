@@ -4,5 +4,5 @@
 - 11:43 — Great [Loom](<Loom.md>)
 
 ## [chat](<chat.md>)
-- "11:43 — Great [Loom](<Loom.md>)
+- 11:43 — Great [Loom](<Loom.md>)
 

@@ -17,7 +17,7 @@
     - 1. Enable Roam42 (see below)
         - Click "Yes, know what I'm doing." to enable the Roam42 javascript code to run in this graph for you.
             - **Note:** Enabling Roam42 is not necessary to participate here, but it will make your life easier!
-            - "{{{[roam/js](<roam/js.md>)}}}"
+            - {{{[roam/js](<roam/js.md>)}}}
     - 2. Navigate to the Daily Notes
     - 3. Launch the Getting Started SmartBlock 
         - Use `jj` and select the `.gs — Getting Started` option
@@ -41,7 +41,35 @@
 ## [Announcements](<Announcements.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
 
+## [Beyond the Basics](<Beyond the Basics.md>)
+12. Added [Welcome](<Welcome.md>)
+
+9. How can a [Welcome](<Welcome.md>)
+
+## [February 10th, 2021](<February 10th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 11th, 2021](<February 11th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 12th, 2021](<February 12th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 13th, 2021](<February 13th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 14th, 2021](<February 14th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 15th, 2021](<February 15th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 16th, 2021](<February 16th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 - [Obs](<Obs.md>) The page ID for the [Welcome](<Welcome.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
@@ -55,13 +83,40 @@
 1. Updated [Welcome](<Welcome.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 - INTERNALLY, I think the learning center should stem off of the [Welcome](<Welcome.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 4th, 2021](<February 4th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 ## [February 5th, 2021](<February 5th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 - Feedback: [Welcome](<Welcome.md>)
 
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 ## [February 7th, 2021](<February 7th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 - [~[[Reddy2Go](<~[[Reddy2Go.md>)]], I recommend you go through the `[Welcome](<Welcome.md>)`
+
+## [February 8th, 2021](<February 8th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
@@ -70,8 +125,31 @@
 
 9. How can a [Welcome](<Welcome.md>)
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [January 27th, 2021](<January 27th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [January 29th, 2021](<January 29th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>))
+
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - [Welcome](<Welcome.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+12. Added [Welcome](<Welcome.md>)
+
+9. How can a [Welcome](<Welcome.md>)
 
 ## [Quick Start Guide](<Quick Start Guide.md>)
 - **[Related](<Related.md>):** [Welcome](<Welcome.md>),

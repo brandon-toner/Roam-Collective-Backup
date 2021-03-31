@@ -1,6 +1,11 @@
 - **[Redirect](<Redirect.md>):** [Feedback](<Feedback.md>)
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- [Feedback](<Feedback.md>)
+
+- See the [Feedback](<Feedback.md>)
+
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - Perhaps a bit of confirmation (for what its worth) [~[[Brandon Toner](<~[[Brandon Toner.md>)]][*]([Feedback](<Feedback.md>))
 
@@ -16,12 +21,17 @@
 - See the [Feedback](<Feedback.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- "There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)`
+- There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)`
 
 - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)`
 
 ## [March 8th, 2021](<March 8th, 2021.md>)
 - [~[[Kaito Kikuchi](<~[[Kaito Kikuchi.md>)]] on [what does one even do here lol](((RKEbGdx60))) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])[*]([Bookmarks](<Bookmarks.md>))[*]([Feedback](<Feedback.md>))
+
+## [My Daily Notes](<My Daily Notes.md>)
+- [Feedback](<Feedback.md>)
+
+- See the [Feedback](<Feedback.md>)
 
 ## [Requests for Feedback](<Requests for Feedback.md>)
 - **[Related](<Related.md>):** [Feedback](<Feedback.md>)

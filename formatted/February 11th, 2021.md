@@ -1,17 +1,36 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)"
+        1. Developed a [Sprints Template](((tG1HJs2dK))) & Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)
         2. See [Sprint 1 Page]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) for updates on that.[*](((RK8SxJ-Pb)))
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         1. Are "minimal" queries displaying correctly for others?
-        2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph."
+        2. [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - **[Active Sprint](<Active Sprint.md>):** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) What do you do if a sprint is also a question? 
             - [I](<I.md>) Duplicate it as a questions page, linking to the sprint. 
@@ -92,8 +111,8 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>) 
-        - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
-        - "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+        - [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
+        - `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
             - Possible structure
                 - Types
                     - Structural/Uncontextualised relations
@@ -107,7 +126,7 @@
                     - Comparison to Code reviews and dependency
         - ((iGUsXhqcg))
             - Do we still need a domain, or is a substack enough for now?
-        - "[On reviews and maintainence](((b5_pXqQgk)))[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]), [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])."
+        - [On reviews and maintainence](((b5_pXqQgk)))[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]), [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]).
     - #[GTD Zone](<GTD Zone.md>)
         - Produce a small graph that has different kind of connections and use it as test. 
         - Once the test is running experiment with the RC graph
@@ -117,7 +136,7 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [Brandon Toner](<Brandon Toner.md>) I am not sure the idea of [duplicating blocks](((czpA6rCRy))) is right. Have you had an example in mind? Can we keep them always distinct but connected. A sprint should be a hypothesis trying to answer a question. Otherwise, I would recommend having a fixed hierarchy so that either the question is always ls always blocked referenced to the sprint or vice-versa? Or probably better, avoid block references?
         - [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)` and `Task-> Sprint -> Epic` I would like to slowly start map out information flow across the graph.
             - I wish I started at the beginnings as it would have been fun/interesting to document changes 
@@ -126,7 +145,7 @@
         - [*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) Last night I had  one open, but there are lots of free options we can see when we need to start publishing work.
             - [*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [I](<I.md>) [*](((2ME3jHrfB))) A substack would be a decent free option. [*](((u4u14n9xO))) @roamcollective twitter account is already taken. 
         - [*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) What I forgot to say on the call last night is that our conversation section feels like a Twitter thread at times. [*](((WRve5mXzY)))
-        - [*]([Brandon Toner](<Brandon Toner.md>)) "Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general." What about Hacking?
+        - [*]([Brandon Toner](<Brandon Toner.md>)) Is RG too narrow? Maybe broaden to beyond the games, mapping the community work around Roam in general. What about Hacking?
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
@@ -143,9 +162,9 @@
             - @ [Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) & [Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
                 - As it relates to Brandon's [question](((_LcN8ZnW8))), the question should actually be outlined at the Epic level. By comparison, sprints are just timebound sets of tasks. An Epic can be one or multiple sprints.
                     - For epics, I propose a two part stucture:
-                        - An Epic page: "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                        - An Epic page: `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
                         - Oriented around a question block and page:
-                            - Initial block: "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+                            - Initial block: [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
                             - Ultimate page: [Questions/How do you manage dependency of ideas and influence within a community knowledge graph?](<Questions/How do you manage dependency of ideas and influence within a community knowledge graph?.md>)
                     - How work splits across Epics & Questions...
                         - The epic page is used to outline sprints and individual story points / questions
@@ -158,19 +177,21 @@
                     - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) ← Epic related to [Roam Games](<Roam Games.md>) 3
                     - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) ← Sprint from now until next Sunday
                     - [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<Questions/What, why, how: Conventions to define the relationships in the graph?.md>) [*](((YPpysvE6W))) ← [Q block](((a2kXq-DuZ))) turned into an Q page to begin drafting an answer...
-                    - [ ] "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?" ← Q block that has yet to turn into a Q page
-            - "[I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit."
-                - "[Draft Sprints template](((tG1HJs2dK)))"
-            - Like this: "Sprints/Title Example"
+                    - [ ] [Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph? ← Q block that has yet to turn into a Q page
+            - [I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
+                - [Draft Sprints template](((tG1HJs2dK)))
+            - Like this: Sprints/Title Example
         - Simple Replies
-            - Agree: "Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — I updated the epic & sprint namespaces I had created
+            - Agree: Namespaces [plural](((ynPcWxxh5)))? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]]) [~[[Brandon Toner](<~[[Brandon Toner.md>)]] — I updated the epic & sprint namespaces I had created
     - [Bookmarks](<Bookmarks.md>)
-        - "Possible structure"
+        - Possible structure
 - ---
 
 # Backlinks
 ## [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
 - **[Date Created](<Date Created.md>):** [February 11th, 2021](<February 11th, 2021.md>)
+
+1. [February 11th, 2021](<February 11th, 2021.md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 1. [February 11th, 2021](<February 11th, 2021.md>)

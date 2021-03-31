@@ -6,6 +6,9 @@
         - [to-populate](<to-populate.md>)
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+14. [x] Establish a "[Daily Activities](<Daily Activities.md>)"
+
 ## [DWP](<DWP.md>)
 - [Abbreviations](<Abbreviations.md>) — short for [Daily Activities](<Daily Activities.md>)
 
@@ -74,7 +77,7 @@
 
 - Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>).
 
-7. [ ] [Choice](<Choice.md>):  "Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>).
+7. [ ] [Choice](<Choice.md>):  Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>).
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
@@ -145,6 +148,9 @@
 
 ## [March 6th, 2021](<March 6th, 2021.md>)
 - #[Daily Activities](<Daily Activities.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+14. [x] Establish a "[Daily Activities](<Daily Activities.md>)"
 
 ## [roam/css](<roam/css.md>)
 - #[Daily Activities](<Daily Activities.md>)

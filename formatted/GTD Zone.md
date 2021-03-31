@@ -3,6 +3,9 @@
 - When used in the [Top Section of the DNP](<Top Section of the DNP.md>), it is the home of the [Daily Review](((hUyrZQscO)))
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- #[GTD Zone](<GTD Zone.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - #[GTD Zone](<GTD Zone.md>)
 
@@ -138,7 +141,7 @@
 #[GTD Zone](<GTD Zone.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[GTD Zone](<GTD Zone.md>)"
+- #[GTD Zone](<GTD Zone.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[GTD Zone](<GTD Zone.md>)
@@ -220,6 +223,9 @@
 
 ## [Mark Robertson](<Mark Robertson.md>)
 - Productivity coach in [GTD Zone](<GTD Zone.md>),
+
+## [My Daily Notes](<My Daily Notes.md>)
+- #[GTD Zone](<GTD Zone.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)
 - #[GTD Zone](<GTD Zone.md>)

@@ -17,7 +17,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox #not-populated
     - #[[Scratchpad]] #not-populated
     - #[[GTD Zone]] #not-populated
@@ -25,12 +25,12 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Announcements
         - Still away — working on a seed project using RC conventions (can't disclose all the details, but it will definitely help us here.)
     - #Scratchpad

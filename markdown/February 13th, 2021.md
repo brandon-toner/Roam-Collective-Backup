@@ -1,20 +1,39 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
         1. **Current Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
-        2. **Brandon:** "#I Weekly [[Substack]] [[newsletter]] with graph updates, highlights, active projects/sprints etc."
-            - "#I Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([[grist for the mill]]) for drafting the contents of the letter."
+        2. **Brandon:** #I Weekly [[Substack]] [[newsletter]] with graph updates, highlights, active projects/sprints etc.
+            - #I Use content from `The Main Feed`, and the **work log** on the sprints as [grist]([[grist for the mill]]) for drafting the contents of the letter.
         3. **From Charles' section:** 
-            - #Obs "I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself"
-                - **Result:** "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
+            - #Obs I think there are additional elements of the third Roam games that we're missing, namely the application to Roam Games itself
+                - **Result:** Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])"
+        1. #Q Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([[~[[Charles Farr]]]])
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #[[Literature Notes]] "[[information architecture]] is hard."
             - Source:: Tweet by [[Visakan Veerasamy]]
@@ -43,7 +62,7 @@
             - Goal: Be able to adjust the dark grey at will easily.
             - #Q What classes of tags are there that might have different colors?
         - #[[N]] The purpose of my [[zettelkasten]] / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([[proverbs]])
-            - Proverb: "Definition: Easily digestible nuggets of wisdom. "
+            - Proverb: Definition: Easily digestible nuggets of wisdom. 
             - Atomic ideas are easily digestible. This is the format of a proverb. 
             - #[[N]] Documented authorship empowers the zettelkasten to integrate the ideas of others so that you can not only [[Proverbs/stand on the shoulders of giants]], but engage with them in [[conversation]].
     - #[[GTD Zone]]
@@ -69,63 +88,63 @@
                     - Built using 
                     - Incorporating
                     - Inspired by
-                    - I like "`Influence::`"
+                    - I like `Influence::`
                         - The nature of the influence could be added next to the mention with simple text.
-                    - Perhaps plural for "`Contributor::`"
+                    - Perhaps plural for `Contributor::`
                     - #Q How could the "ancestors" be explicity connected to roam games submission pages? 
     - #[[Change Log]] 
         1. Adjusted [block ref CSS](((xcLgPdvs0))) to remove leading indicator all together — added as version.
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
-        - "On the foundations of [[statement chains]]..."
-            - "[[Conor]] mentioned that he thinks of education as a series of [[statement chains]]"
-                - "The idea of a **statement chain** is not something that is well developed, just something that live in his head."
-                - "However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain."
-            - "Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently..."
-                - "#Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?"
-            - "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[prepositional linkages]] & phrases"
+        - On the foundations of [[statement chains]]...
+            - [[Conor]] mentioned that he thinks of education as a series of [[statement chains]]
+                - The idea of a **statement chain** is not something that is well developed, just something that live in his head.
+                - However, judging by the structure of Roam and the foundation upon which it was built, I think many of us can imagine how a series of interlinked pages can easily form a statement chain.
+            - Understanding the mechanism of linkage seems trivial. The next question that jumps to mind is what do those linkages and connections look like? Stated differently...
+                - #Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?
+            - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[prepositional linkages]] & phrases
                 - Relations between two nodes
-                    - "Relates to"
-                        - ""in tension with""
-                        - ""analogous to""
-                        - ""related to""
-                    - "Supports"
-                        - "Supports"
-                            - "Supported By"
-                        - "Strengthens"
-                            - "Strengthened by"
-                        - "Example"
-                    - "Disproves"
-                        - "Disproves"
-                            - "Disproved By"
-                        - "Challenges"
-                            - "Challenged By"
-                        - "Weakens"
-                            - "Weakened By"
-                        - "Counter-example"
+                    - Relates to
+                        - in tension with
+                        - analogous to
+                        - related to
+                    - Supports
+                        - Supports
+                            - Supported By
+                        - Strengthens
+                            - Strengthened by
+                        - Example
+                    - Disproves
+                        - Disproves
+                            - Disproved By
+                        - Challenges
+                            - Challenged By
+                        - Weakens
+                            - Weakened By
+                        - Counter-example
                 - Argument structure
                     - __This requires a separate schema...__
-            - "[[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]"
-            - "[[prepositional linkages]]"
+            - [[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
+            - [[prepositional linkages]]
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines Continued exploration of story points [*](((my07O-J1h)))
-                - "{{[[DONE]]}} Draft & finalize Sprint template"
-                - "{{[[DONE]]}} Draft & finalize Epic template"
-                    - "Definitely a query of all the sprint involved"
-                - "{{[[TODO]]}} Collate related questions → insert into outline"
-                - "{{[[TODO]]}} Collate related ideas  → format into questions → insert into outline"
-                - "{{[[TODO]]}} What, Why, How: Implementing a Zettelkasten"
-                    - "{{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))""
+                - {{[[DONE]]}} Draft & finalize Sprint template
+                - {{[[DONE]]}} Draft & finalize Epic template
+                    - Definitely a query of all the sprint involved
+                - {{[[TODO]]}} Collate related questions → insert into outline
+                - {{[[TODO]]}} Collate related ideas  → format into questions → insert into outline
+                - {{[[TODO]]}} What, Why, How: Implementing a Zettelkasten
+                    - {{[[TODO]]}} #Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))
                     - What, Why, How: Taxonomy of Notes
-                - "{{[[TODO]]}} What, Why, How: Collaborating within Roam"
-                    - "{{[[TODO]]}} What, Why, How: Communicating within Roam"
+                - {{[[TODO]]}} What, Why, How: Collaborating within Roam
+                    - {{[[TODO]]}} What, Why, How: Communicating within Roam
                         - What is communication in Roam?
                             - Asynchronous vs. synchronous
                         - Why communicate in Roam?
                         - How to implement communication in Roam?
                             - What are the various conventions available for use?
-                    - "{{[[TODO]]}} What, Why, How: Divergent Thinking"
+                    - {{[[TODO]]}} What, Why, How: Divergent Thinking
                         - What is divergence and divergent thinking?
                         - Why is divergent thinking helpful?
                         - How to support divergent thinking in Roam?
@@ -134,8 +153,8 @@
                                 - {{[[TODO]]}} Why use AoT's to support divergent thinking?
                                 - {{[[TODO]]}} How to use AoT's to support divergent thinking?
                                     - Would include examples
-                        - "{{[[TODO]]}} "#Q [[Questions/When does chaos become insurmountable?]] ""
-                    - "{{[[TODO]]}} What, Why, How: Convergent Thinking"
+                        - {{[[TODO]]}} #Q [[Questions/When does chaos become insurmountable?]] 
+                    - {{[[TODO]]}} What, Why, How: Convergent Thinking
                         - What is convergence and convergent thinking?
                         - Why is convergence helpful?
                         - How to support convergence in Roam?
@@ -149,8 +168,8 @@
                         - {{[[TODO]]}} What, Why, How: Algorithms to Support Convergence
                     - {{[[TODO]]}} What, Why, How: Contributing to Shared Artifacts
                 - {{[[TODO]]}} What, Why, How: Dependencies within a Graph
-                    - "{{[[TODO]]}} What, Why, How: Defining Types of Relationships"
-                        - "{{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))"
+                    - {{[[TODO]]}} What, Why, How: Defining Types of Relationships
+                        - {{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
                     - {{[[TODO]]}} What, Why, How: Tracking Conversations
                 - {{[[TODO]]}} What, Why, How: Analyzing Your Graph
                     - {{[[TODO]]}} What, Why, How: Leveraging The Relationships Between Ideas
@@ -190,8 +209,8 @@
                     - Roam Collective
                 - Onboarding
                     - Guide
-                        - "About"
-                        - "Convention Overview"
+                        - About
+                        - Convention Overview
                     - SmartBlocks & Templates
                         - For setup
                 - Convention Overview
@@ -205,11 +224,11 @@
                     - Examples
                 - roam-inter set up
     - #Conversation
-        - [[~[[Brandon Toner]]]] re: "[@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))"
-            - See: "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
+        - [[~[[Brandon Toner]]]] re: [@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
+            - See: Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox 
         - Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. —Dee Hock
     - #[[Scratchpad]] #not-populated
@@ -218,11 +237,11 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated

@@ -25,7 +25,7 @@
         - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
         - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - #[Daily Activities](<Daily Activities.md>)  
-    - "Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?"
+    - Describe your experiences with multiplayer Roam. What has worked well? What has been challenging? What does "good" look like?
 - #[Daily Log](<Daily Log.md>)
     - 14:00 — [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
     - 14:00-19:06 — [Brandon Toner](<Brandon Toner.md>) Established the graph with the goal of reaching a stable baseline for others to join in.
@@ -52,7 +52,7 @@
                 - Similar to the @Channel feature in [Slack](<Slack.md>)...
                     - Can use `@[Everyone](<Everyone.md>)` to elevate something to everyone's attention. 
                         - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
-            12. Added [Welcome](<Welcome.md>) and the "Getting Started" sections 
+            12. Added [Welcome](<Welcome.md>) and the Getting Started sections 
             13. Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
         - #[GTD Zone](<GTD Zone.md>)
             1. [x] Add process for suggestions [*](((7PyTNYa6C)))
@@ -79,18 +79,18 @@
             16. [x] Reflect on a [Resources](<Resources.md>) collection.
             17. [x] Add some project-management and task-based SmartBlocks
     - [Scratchpad](<Scratchpad.md>)
-        - "Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))"
+        - Description of the [DNP Modules](<DNP Modules.md>) ((This list is ever-evolving, and flexible. These are the core examples — I'll update this periodically.))
         - Thoughts about [Roam Collective]([About Roam Collective](<About Roam Collective.md>))
-            - **["Mission](<"Mission.md>):** ((See block references for additional ideas.))"
+            - **[Mission](<Mission.md>):** ((See block references for additional ideas.))
                 - To define an approach for effective collaboration in Roam.
-            - **["Vision](<"Vision.md>):** ((See block references for additional ideas.))"
+            - **[Vision](<Vision.md>):** ((See block references for additional ideas.))
                 - A space that is able to asynchronously host collaboration towards a common goal. 
                 - Members of the space adhere to shared conventions that facilitate clear and orderly communication. 
                 - It is easy to tell what is going on. 
                 - It is easy to contribute.
                 - It is accessible to "intermediate users" 
             - **[Conversation](<Conversation.md>):**
-                - "Seeding graphs"
+                - Seeding graphs
                     - How can we effectively "seed" graphs with baseline information?
                         - Depending on features used, JSON or markdown exports should work relatively well for this.
                             - When cross-graph linking comes, it could be as simple has hosting a source graph.
@@ -106,11 +106,11 @@
             1. [Brandon Toner](<Brandon Toner.md>)
             3. Build your DNP Section using the universal [template](((qONZuXh3Y))). 
             4. Use the [Daily Log](<Daily Log.md>) to sign-in
-            5. "Work on something from the `Daily Activities`."
+            5. Work on something from the `Daily Activities`.
                 - Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
                     - **[Example](<Example.md>):**
         - [Beyond the Basics](<Beyond the Basics.md>)
-            1. "Using the other [DNP Modules](<DNP Modules.md>)."
+            1. Using the other [DNP Modules](<DNP Modules.md>).
             2. Using the [Chat](<Chat.md>) features
             3. Commenting on the contents of the graph [to_populate](<to_populate.md>)
             4. Giving [feedback](<feedback.md>) [to_populate](<to_populate.md>)
@@ -127,7 +127,7 @@
         5. What is the best method of notifications?
         6. What is type of information is [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]?
         7. How could I flag things as request for comment/feedback?
-            - [e.g.](<e.g..md>) "[ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)"
+            - [e.g.](<e.g..md>) [ ] Improve [roam/css](<roam/css.md>) styling (make it more consistent and easy on the eyes)
         8. What is the distinction between conventions and processes?
         9. How can a [Welcome](<Welcome.md>) page be designed to quickly orient the new member to the community conventions and processes?
         10. [page naming](<page naming.md>) — singular or plural?
@@ -165,39 +165,39 @@
         5. #[N](<N.md>) The Zettelkasten might be the best place for open questions... as they can be blended with assertions and other ideas. Less filing burden ("where does this go?").
         6. [I](<I.md>) — Might change `[Comments](<Comments.md>)` to `[Commentary](<Commentary.md>)`... feels more clear that it's commentary on stuff within the graph. [Conventions](<Conventions.md>)
     - [Promptstorming](<Promptstorming.md>)
-        1. From the [Prompts](<Prompts.md>) page: "What types of products or outcomes could collaborative communities work towards? How might this look?"
+        1. From the [Prompts](<Prompts.md>) page: What types of products or outcomes could collaborative communities work towards? How might this look?
             - For book club:
                 - Book reading companion
                     - Thinking of something like what [Sam Marfleet](<Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)...
                 - Study guide
-        1. "What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](((ODwYwd-L7)))"
-            - "To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities."
-        3. From the references on `[Open Questions](<Open Questions.md>)`: "What is the best method of notifications?"
+        1. What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](((ODwYwd-L7)))
+            - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities.
+        3. From the references on `[Open Questions](<Open Questions.md>)`: What is the best method of notifications?
             - The `@` and `~` convention from [[[Roam Book Club](<[[Roam Book Club.md>) II]] seemed to work well.
             - #[Q](<Q.md>) Is this only possible if "only edit your blocks" is disabled?
-        4. "How to tag ideas related to graph conventions and processes?"
+        4. How to tag ideas related to graph conventions and processes?
             - Under `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`?
-        5. "How important is it to stick to vanilla Roam?"
+        5. How important is it to stick to vanilla Roam?
     - [Conversation](<Conversation.md>)
-        1. "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>) any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below)" — fixed
-        1. "[~](<~.md>) [Brandon Toner](<Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure..." Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<Graph/Templates.md>))
+        1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below) — fixed
+        1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<Graph/Templates.md>))
             - Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>) there [Processes](<Processes.md>) [templates](<templates.md>)
         1. Added [roam/css](<roam/css.md>)
             - I copy/pasted from another shared graph so I'm not sure what's there yet haha. Will sift through later.
-        2. "**Creating new pages.** All new pages should be ^^LOWERCASE^^, except:"
+        2. **Creating new pages.** All new pages should be ^^LOWERCASE^^, except:
             - I know this sounds restrictive, but it is really important to compile ideas optimally. 
             - Nothing will "break" if you don't follow this, but it will lead to a bunch of sorta-related page names and some missed connections.
         3. [Woah](<Woah.md>) the new "unread block references" feature is AWESOME!! 
-        6. "[~](<~.md>) [Brandon Toner](<Brandon Toner.md>) Also, think that it could be valuable to build out a tag for relevant references or resources. Ideally these would be ones related to the goals of the graph..."
+        6. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) Also, think that it could be valuable to build out a tag for relevant references or resources. Ideally these would be ones related to the goals of the graph...
             - Yup this is a great idea. 
             - Maybe `[Resources](<Resources.md>)`? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
-                - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] This would work. In my personal graph is use block level tags to identify resources and then aggregate them in a central location..."
+                - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This would work. In my personal graph is use block level tags to identify resources and then aggregate them in a central location...
                     - Yup, this is exactly the workflow I have in mind! 
 Community suggests via block-level tagging, then graph editors compile them centrally. 
-        7. "Just created my bio page at this point. Still reading through the extensive documentation 🤣"
+        7. Just created my bio page at this point. Still reading through the extensive documentation 🤣
             - I just thinned it out a bunch haha
     - [Chat](<Chat.md>)
-        - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): "Block ref the sections to add your ideas around mission, vision, purpose, goals, etc."
+        - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>), [Everyone](<Everyone.md>): Block ref the sections to add your ideas around mission, vision, purpose, goals, etc.
             - Feels like a good way to converge ideas on something. 
             - Note the use of the (()) symbol on [About Roam Collective](<About Roam Collective.md>)
         - [~](<~.md>)[Charles Farr](<Charles Farr.md>) — Added [Roam Collaboration Guide](<Roam Collaboration Guide.md>) as a target artifact for this group. My thoughts is that if we can work to collaborate towards a finished product here, we can port the processes into [Roam Book Club](<Roam Book Club.md>) and other communities. 
@@ -258,17 +258,17 @@ Community suggests via block-level tagging, then graph editors compile them cent
             - How does a group determine its shared goals for knowledge work? How do these goals impact the artifact?
             - How does the nature of the work impact the artifact requirements?
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        - "#[N](<N.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content."
+        - #[N](<N.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
             - #[N](<N.md>) Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
     - [Conversation](<Conversation.md>)
-        - "How important is it to stick to vanilla Roam?"
+        - How important is it to stick to vanilla Roam?
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.
             - However, any extension represents a tradeoff in user-friendliness. Worthwhile to considering adding documentation to support onboarding. 
     - [Feedback](<Feedback.md>)
         - [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure...
         - [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) Also, think that it could be valuable to build out a tag for relevant references or resources. Ideally these would be ones related to the goals of the graph...
         - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below)
-        - "Maybe `[Resources](<Resources.md>)`? [~](<~.md>)[Charles Farr](<Charles Farr.md>)"
+        - Maybe `[Resources](<Resources.md>)`? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This would work. In my personal graph is use block level tags to identify resources and then aggregate them in a central location...
                 - For instance `[Ref](<Ref.md>), [Book](<Book.md>), [Article](<Article.md>)` which would be captured in a query within `[Resources](<Resources.md>)`
                     - An example would be `[Book](<Book.md>) How To Take Smart Notes`
@@ -301,9 +301,80 @@ Community suggests via block-level tagging, then graph editors compile them cent
 ## [Announcements](<Announcements.md>)
 - Check out [January 25th, 2021](<January 25th, 2021.md>)
 
+## [February 10th, 2021](<February 10th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 11th, 2021](<February 11th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 12th, 2021](<February 12th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 13th, 2021](<February 13th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 14th, 2021](<February 14th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 15th, 2021](<February 15th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 16th, 2021](<February 16th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 17th, 2021](<February 17th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 20th, 2021](<February 20th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 4th, 2021](<February 4th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 5th, 2021](<February 5th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 6th, 2021](<February 6th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 7th, 2021](<February 7th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 8th, 2021](<February 8th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [February 9th, 2021](<February 9th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Check out [January 25th, 2021](<January 25th, 2021.md>)
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [January 27th, 2021](<January 27th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [January 29th, 2021](<January 29th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
+## [January 30th, 2021](<January 30th, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- Check out [January 25th, 2021](<January 25th, 2021.md>)
+
 - **Page:** [January 25th, 2021](<January 25th, 2021.md>)
 

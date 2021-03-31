@@ -26,7 +26,7 @@
         - **[Queries](<Queries.md>):**
         - **[SmartBlocks](<SmartBlocks.md>):**
             - MRobertson — DNT [42SmartBlock](<42SmartBlock.md>)
-                - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+                - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
                     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
                     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
                     - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
@@ -47,7 +47,7 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [Mark]([Mark Robertson](<Mark Robertson.md>))
 
-- "[Mark]([Mark Robertson](<Mark Robertson.md>))
+- [Mark]([Mark Robertson](<Mark Robertson.md>))
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
@@ -68,7 +68,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}
+- What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}
 
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
@@ -94,7 +94,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>)
 
 ## [chat](<chat.md>)
-- "11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>)
+- 11:43 — Great [Loom](<Loom.md>) video by [Mark Robertson](<Mark Robertson.md>)
 
 ## [prepositional linkages](<prepositional linkages.md>)
 - [Mark Robertson](<Mark Robertson.md>)'

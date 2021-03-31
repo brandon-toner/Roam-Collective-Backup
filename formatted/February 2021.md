@@ -15,7 +15,7 @@
 - [ ] Look into Twitter handles. [*]([Brandon Toner](<Brandon Toner.md>))  #[February 2021](<February 2021.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>)
+- [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>)
 
 - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>))  #[February 2021](<February 2021.md>)
 
@@ -32,7 +32,13 @@
 - [ ] Experiment with [roam/js/tag-cycle](<roam/js/tag-cycle.md>) + notifications #[February 2021](<February 2021.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)
+
 - **This Month:** `#[February 2021](<February 2021.md>)`
+
+- [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>)
+
+- [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)
 
 - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>)
 
@@ -40,10 +46,12 @@
 
 - [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[February 2021](<February 2021.md>)
 
-## [February 22nd, 2021](<February 22nd, 2021.md>)
-- "[ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)
+- [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[February 2021](<February 2021.md>)
 
-- "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>)
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)
+
+- [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>)
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 2. Reviewed tasks tagged with [Week-07: 02-15-2021](<Week-07: 02-15-2021.md>) and rescheduled them (many I moved to [February 2021](<February 2021.md>))

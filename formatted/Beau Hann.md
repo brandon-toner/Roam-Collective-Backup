@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- "Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>)
+- Good to know too. I'm slowly learning/practicing these with the guidance of [Beau Hann](<Beau Hann.md>)
 
 - [ ] Review [Beau Hann](<Beau Hann.md>)'
 
@@ -17,7 +17,7 @@
 - "We need more smart people in Roam to solve big problems" - [Beau Hann](<Beau Hann.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- ""This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
+- This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 
 - Completely agree that the graph [Beau Hann](<Beau Hann.md>)
 
@@ -36,5 +36,5 @@
 - This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-- "This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
+- This is especially emphasized within [Beau Hann](<Beau Hann.md>)'
 

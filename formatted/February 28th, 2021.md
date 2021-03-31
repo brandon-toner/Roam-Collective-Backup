@@ -3,7 +3,7 @@
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day)) [not-populated](<not-populated.md>) 
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How do you manage the problem of community fragmentation?
             - i.e. as similar communities with similar missions form, how do you allocate your attention?
@@ -21,16 +21,16 @@
                         - Feels less so. 
                         - Maxims feel more proverbial than mental models.
                             - [I](<I.md>) Maxims may encompass both mental models and proverbs. 
-                                - "[maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>) "
-                                - "#[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))"
+                                - [maxims](<maxims.md>) feels less religiously charged than [proverbs](<proverbs.md>) 
+                                - #[N](<N.md>) The purpose of my [zettelkasten](<zettelkasten.md>) / knowledge base is to facilitate the collection and creation of proverbial wisdom. [*]([proverbs](<proverbs.md>))
             - [Q](<Q.md>) What are the differences between [evergreen notes](<evergreen notes.md>) and [maxims](<maxims.md>)?[*]([Bookmarks](<Bookmarks.md>))
                 - [Q](<Q.md>) Is an evergreen note a maxim?
                     - And if so, 
                         - Are all maxims evergreen notes?
                             - And if so, 
                                 - [Q](<Q.md>) Should [maxims](<maxims.md>) bear the `Evergreens/` namespace?
-                                    - "#[N](<N.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way."
-                                        - "[I](<I.md>) In this sense, I am tempted to remove namespacing for evergreen notes entirely... "
+                                    - #[N](<N.md>) use [namespaces](<namespaces.md>) sparingly; when information can only be classified in one way.
+                                        - [I](<I.md>) In this sense, I am tempted to remove namespacing for evergreen notes entirely... 
             - [Q](<Q.md>) What are the differences between [maxims](<maxims.md>) and [principles](<principles.md>)?
                 - I would wager: 
                     - All principles are maxims, but not all maxims are principles.
@@ -73,7 +73,7 @@
         - Imported maxims from [Books/12 Rules for Life](<Books/12 Rules for Life.md>) and [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>) as material for reference and demonstration of structure.
             - Similar could be done for [Ray Dalio](<Ray Dalio.md>)'s [Books/Principles](<Books/Principles.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - On building a [semi-lattice](<semi-lattice.md>) structure for knowledge work...
             - [Annotations](<Annotations.md>) [Essay/A City is Not a Tree](<Essay/A City is Not a Tree.md>)
@@ -85,7 +85,7 @@
                                 - School district A
                                 - Commercial district B
                                 - Emergency area C
-                            - Each of "School district A", "Commercial district B", and "Emergency area C" are wholly contained within Neighborhood 1.
+                            - Each of School district A, Commercial district B, and Emergency area C are wholly contained within Neighborhood 1.
                     - This example is a simple tree — each node has one single parent node
                         - [N](<N.md>) [Trees]([tree](<tree.md>))' structures can have many branches and levels, but they always follow the same maxim: each node has one and only one parent.
                 - However, cities are much more complicated than trees — in reality, they are [semi-lattice](<semi-lattice.md>)s. In a semi-lattice, each node can have multiple parents. In this sense a semi-lattice is a more complex graph object than a tree.
@@ -115,7 +115,7 @@
                 - Calling it for the evening, but looking forward to exploring the idea of a [semi-lattice](<semi-lattice.md>) and its multitude of [layers](<layers.md>) in the future
     - [Conversation](<Conversation.md>)
     - [Bookmarks](<Bookmarks.md>)
-        - "[Q](<Q.md>) How do you manage the problem of community fragmentation?"
+        - [Q](<Q.md>) How do you manage the problem of community fragmentation?
     - #[Change Log](<Change Log.md>)
         - Updated the CSS for conversation tags... 
             - [@[[Their Name](<@[[Their Name.md>)]] → Version 2 [Status](<Status.md>)/Enabled

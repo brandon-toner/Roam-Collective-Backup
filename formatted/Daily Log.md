@@ -2,9 +2,19 @@
 - **[Instructions](<Instructions.md>):**
     - Timestamp your activity as you visit or make changes in the graph.
         - **[Example](<Example.md>):** 
-            - {{embed: ((aXbOspJJ4))}}
+            - #[Daily Log](<Daily Log.md>)
+                - 14:00 — [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
+                - 14:00-19:06 — [Brandon Toner](<Brandon Toner.md>) Established the graph with the goal of reaching a stable baseline for others to join in.
+                - 22:17 — Set goal of creating a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+                - 23:16 — Noticed some [CSS](<CSS.md>) changes (looks good!) Might be helpful to log those changes using the `#[Change Log](<Change Log.md>)`, nested under your [DNP Section](<DNP Section.md>) so that we can track them (who made what change when +/- why).
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+4. Use the [Daily Log](<Daily Log.md>)
+
+## [Daily Log](<Daily Log.md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [February 10th, 2021](<February 10th, 2021.md>)
 - #[Daily Log](<Daily Log.md>)
 
@@ -48,6 +58,9 @@
 - #[Daily Log](<Daily Log.md>)
 
 - #[Daily Log](<Daily Log.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+4. Use the [Daily Log](<Daily Log.md>)
 
 ## [Stefan Natter](<Stefan Natter.md>)
 - #[Daily Log](<Daily Log.md>)

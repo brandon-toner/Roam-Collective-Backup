@@ -1,8 +1,8 @@
 - Documentation:: https://roamjs.com/docs/extensions/tag-cycle
 - Index::
     - [Unique Keystroke Commands](((BMvSFegBs)))
-        - [Waiting](((DIVe2lOed))) "CTRL+SHIFT+W HASH"
-        - [Project Status](((J7_2JH3xh))) "CTRL+SHIFT+P HASH"
+        - [Waiting](((DIVe2lOed))) CTRL+SHIFT+W HASH
+        - [Project Status](((J7_2JH3xh))) CTRL+SHIFT+P HASH
     - [Universal Keystroke Commands (CTRL+SHIFT+C)](((TyPjQ3OI4))) 
         - [Waiting](((zOaT41yyv)))
         - [Project Status](((-huRQIm74)))

@@ -15,9 +15,9 @@
             - #min-title {{[[query]]: {and: [[February 22nd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
         - **Active Epic(s):**
-            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
         - **Active Sprint(s):**
-            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
         - **Queries:**
             - **TODO Query:** (created today)
                 - {{[[query]]: {and: [[February 22nd 2021]] [[TODO]]}}}
@@ -28,7 +28,7 @@
     - #[[Change Log]]
         - #min-all {{[[query]]: {and: [[February 22nd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q How can we fix the offset in queries? They appear slightly below the block. #[[Help Wanted]] #CSS
             - Image::
@@ -37,7 +37,7 @@
     - #Conversation 
         1. [@Peter]([[@[[Peter Rosso]]]]) — on [Twitter/Substack](((iKWVPHFCU)))
             - No action taken yet, still an active item. Will get to it within 2 weeks prob, unless someone beats me to it haha. (anyone is more than welcome to spark it up)
-            - "Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack."
+            - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
                 - NICE.
         2. [@Peter]([[@[[Peter Rosso]]]]) You're killing it!! Great work. 🔥🔥🔥
     - #[[The Zettelkasten]]
@@ -54,9 +54,9 @@
             - {{[[query]]: {and: [[bnt]] [[February 22nd 2021]] [[TODO]]}}}
             - #minimal {{[[query]]: {and: [[bnt]] [[TODO]] {not: [[query]]}}}}
     - #[[Change Log]] 
-        1. {{[[DONE]]}} Updated "Global Variables"
+        1. {{[[DONE]]}} Updated Global Variables
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - [[propositions]] versus [[notions]]
             - Proposition
@@ -75,30 +75,30 @@
         - [@Brandon]([[~[[Brandon Toner]]]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - {{[[TODO]]}} #[[Follow Up]] Review [[block-level tags]] & aggregate into collection
         - [@Brandon]([[~[[Brandon Toner]]]]) and [@Samuel]([[~[[Samuel Bars]]]]) on [[block-level tags]]
-            - "#N Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
+            - #N Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - #N The added context provided by [[block-level tags]] decreases the [[search costs]] and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([[@[[Peter Rosso]]]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
             - However, if we got Roam Inter up and running in The Agora, we could easily aggregate updates centrally
         - [@Brandon]([[^[[Brandon Toner]]]]) & [@Peter]([[@[[Peter Rosso]]]]) on Weekly Summaries
             - I think something like [this](((dFbvCf9ei))) could be incredibly useful. However, is there a way to do some of this programatically?
             - It could be cool to aggregate all new questions or fleeting note blocks added on a daily basis — could do it in the header...
-                - Just saw the "#[[The Zettelkasten]]" queries — looks great...
+                - Just saw the #[[The Zettelkasten]] queries — looks great...
         - [@Samuel]([[~[[Samuel Bars]]]]) let's brainstorm a bit more on [this](((JZqN2rYS0))) — I like we could structure the "database" in a few pages and then building some sort of mockup would be dope.
         - [@Peter]([[@[[Peter Rosso]]]]) [any and all help is greatly appreciated!](((aehiME_SV))) I saw you logged a bit of work their today, thanks! I'm going to get back to it myself tomorrow...
     - #Bookmarks #not-populated
     - #[[Change Log]]
-        - Added CSS for "#Prop"
+        - Added CSS for #Prop
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox 
-        - "{{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[February 2021]]  [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]"
+        - {{[[TODO]]}} Create literature notes based on [this thread](((0PZ_hR4QF))). #[[February 2021]]  [*]([[[[Roam Games]] Challenge 1: Project Management in a team, with handoffs]]) #[[Help Wanted]]
             - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.
     - #[[Scratchpad]]
-        - "{{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] "
+        - {{[[TODO]]}} Establish [[RC Newsletter]]  #[[Help Wanted]] #[[Project Ideas]] #[[February 2021]] 
             - First number should be about the mission and the purpose of RC
             - Second number can be a discussion on convergence and divergence?
             - as we draft these two we should have a `RC Newsletter/Pipeline` so that we can continuously feed multiple beasts at the same time and whenever a specific topic has enough material we can get a newsletter ready to be sent.
-                - "{{[[TODO]]}} Build a content production pipeline "
+                - {{[[TODO]]}} Build a content production pipeline 
                 - We can call it the convergence engine!
             - Weeky? But if we have more things building up in time we are covered.
         - Funny how long you need it takes to install software on a new laptop
@@ -110,7 +110,7 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?
     - #Feedback  #not-populated
     - #Bookmarks #not-populated

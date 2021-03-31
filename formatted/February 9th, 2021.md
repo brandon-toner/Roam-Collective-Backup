@@ -1,4 +1,23 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - [Announcements](<Announcements.md>)
     - Meetup Wednesday at 20:00GMT
@@ -14,11 +33,11 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
             - A set of questions that guide our explorations. Ref: [12 Favorite Problems](<12 Favorite Problems.md>)
             - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [About Roam Collective](<About Roam Collective.md>))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        1. "Meetup Wednesday at 20:00GMT"
+        1. Meetup Wednesday at 20:00GMT
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))  
         - #[Help Wanted](<Help Wanted.md>) — Setup for the [Slack](<Slack.md>) integration. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - Hopped on [Clubhouse](<Clubhouse.md>) for "20 mins" stayed for 2 hours. [February 8th, 2021](<February 8th, 2021.md>) 
             - Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
@@ -37,27 +56,27 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                             - Q
                             - I
                     - How to use these notes
-                        - "Fleeting notes" — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
-                        - "Seedlings" — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
+                        - Fleeting notes — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
+                        - Seedlings — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
                             - Populate with the [seedlings template](((anEZNe19K)))
                                 - DO THIS RIGHT AWAY when creating the page!
                             - A note remains a seedling until *some* content is populated on the page. 
                             - Seedlings can also be used at the __block-level__ to identify ideas that could/should develop into more crystallized ideas. Example: [here](((exoq3sS3y)))
-                        - "Budding (plural? — thinking no)" — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
+                        - Budding (plural? — thinking no) — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
                             - The conversion of seedlings to budding is kinda feeling-based. You'll know when it's more developed than a seedling. Precision is not important, really.
                             - Change the tag from `Seedlings` to `Evergreens` AND `Budding`
                             - The `[E:](<E:.md>)` namespace can now be placed on the note as well.
-                        - "Evergreens" — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
+                        - Evergreens — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
                             - An evergreen note is never "done" but this is the "final" stage of maturity.
                             - Further maturity is informally measured by use, references, commentary, depth of sources, etc.
                             - These can be concepts, claims, principles, whatever. If it's a significant idea, it's an evergreen.
-                        - "Literature notes" — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
-                        - "Zettel Questions (name?)" — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
+                        - Literature notes — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
+                        - Zettel Questions (name?) — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
                             - Compare with [Richard Feynman](<Richard Feynman.md>)'s [12 Favorite Problems](<12 Favorite Problems.md>).
-                            - Evolves from "Q"
-                            - Uses the "Namespace: `[Q:](<Q:.md>)`[*](((_Wr78aOE-)))"
-                        - "Q" — The fleeting notes of questions
-                        - "I" — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [falling between the cracks](<falling between the cracks.md>)
+                            - Evolves from Q
+                            - Uses the Namespace: `[Q:](<Q:.md>)`[*](((_Wr78aOE-)))
+                        - Q — The fleeting notes of questions
+                        - I — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [falling between the cracks](<falling between the cracks.md>)
                     - Other notes on maturity
                         - Beyond EN status, maturity is based on use, sourcing, and community review. 
                         - Community [consensus](<consensus.md>) will be VERY hard to obtain, and I'm not yet interested in formalizing [ratification](<ratification.md>) processes. 
@@ -86,7 +105,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                                         - Logical
                                         - Might be a bit unintuitive
                             - **[Status](<Status.md>):** [not-populated](<not-populated.md>)
-                            - **[Decision](<Decision.md>):** "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
+                            - **[Decision](<Decision.md>):** C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section. (tentative)
                             - **[Notes](<Notes.md>):** [not-populated](<not-populated.md>)
                     - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
                         - **[Tips](<Tips.md>):**
@@ -106,7 +125,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - Daily videos and activities
                 - Guided writing sessions
             - **[Comments](<Comments.md>):**
-                - "Energy & enthusiasm"
+                - Energy & enthusiasm
                     - Creates excitement & engagement
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
                     - #[N](<N.md>) Simplicity and constraints are important to focus a group — especially a large group.
@@ -141,7 +160,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                     - Questions should be the most clearly articulated notes once polished, but can be used to generate speculative outlines as well
                         - As such, question pages share the same maturity levels as [S:](((i3KPQUiAr))) pages
                 - `[Collection](<Collection.md>)` — general purpose speculative outlines that organize around a topic or concept, not a central question
-            - Changes heavily inspired by "[Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)) — [Joel Chan](<Joel Chan.md>) — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
+            - Changes heavily inspired by [Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)) — [Joel Chan](<Joel Chan.md>) — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
                 - Only real change is I added the `[Notion](<Notion.md>)` note class, which is most analogous to a Fleeting Note
                     - Seemed like a worthwhile addition to ensure a distinction between notes coming from sources (i.e., `[Obs](<Obs.md>)`) versus elsewhere...
         - [Annotations](<Annotations.md>) [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)) — [Joel Chan](<Joel Chan.md>) — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
@@ -181,7 +200,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - **Highlight [page 17]:** Blake, C., & Pratt, W. (2006). Collaborative information synthesis II: Recommendations for information systems to support synthesis activities. Journal of the American Society for Information Science and Technology, 57(14), 1888–1895. https://doi.org/10.1002/asi.20486 ↩
                 - **Highlight [page 17]:** Clark, T., Ciccarese, P. N., & Goble, C. A. (2014). Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications. Journal of Biomedical Semantics, 5(1), 28. https://doi.org/10.1186/2041-1480-5-28 ↩
                 - **Highlight [page 18]:** Strike, K., & Posner, G. (1983). Types of synthesis and their criteria. ↩
-        - #[Follow Up](<Follow Up.md>) "Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):"
+        - #[Follow Up](<Follow Up.md>) Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
     - [Conversation](<Conversation.md>)
         - On updates to note mythology...
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
@@ -189,23 +208,23 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
         - Simple Replies
             - Love the idea [cc:[[Matt Brockwell](<cc:[[Matt Brockwell.md>)]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
                 - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
-            - **[[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with "Decision](<[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with "Decision.md>):** "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
+            - **[[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with Decision](<[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I agree with Decision.md>):** Q: — I think setting up the distinction will make organizing around questions a bit easier...
             - [@[[leekeifon](<@[[leekeifon.md>)]] that's correct! [*](((a5b-u6IqI)))
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Build Broadcast Mechansim
         - [x] Create template for Q pages [*](((n0APOFCfx)))
-        - [ ] Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)"
-        - [ ] Document notetaking conventions: "[[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]"
-            - "Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))"
+        - [ ] Finish thoughts here: Right now Roam Collective is a fantastic forum for divergence... #[Work In Process](<Work In Process.md>) #[Follow Up](<Follow Up.md>)
+        - [ ] Document notetaking conventions: [[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]
+            - Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))
         - [ ] Summarize value of the Question as an organizing principle
-            - Phrase the "#[Follow Up](<Follow Up.md>) on [12 Favorite Problems](<12 Favorite Problems.md>)" as questions...
+            - Phrase the #[Follow Up](<Follow Up.md>) on [12 Favorite Problems](<12 Favorite Problems.md>) as questions...
     - [Bookmarks](<Bookmarks.md>)
-        - "I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph."
+        - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - [Conversation](<Conversation.md>) 
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
         - [Agenda](<Agenda.md>) I think I have an idea for the #[Roam Games](<Roam Games.md>). I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.

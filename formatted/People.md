@@ -10,6 +10,23 @@
 - **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
                 - **[People](<People.md>):**
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- Add your name to the "contributors" section of the project if you are interested in working on [Projects/Publish a [[Roam Collaboration Guide](<Projects/Publish a [[Roam Collaboration Guide.md>)]]. 
+        - **[People](<People.md>):**
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+3. They add their name as applicable
+                        - **[People](<People.md>):**
+
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
+                            - **[People](<People.md>):**
+
+3. They add their name as applicable
+                        - **[People](<People.md>):**
+
+- **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
+                            - **[People](<People.md>):**
+
 ## [Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>)
 - **[Related](<Related.md>):** #[not-populated](<not-populated.md>)
     - **[People](<People.md>):**

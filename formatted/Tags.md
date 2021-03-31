@@ -329,7 +329,7 @@
 - **[Tags](<Tags.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
+- I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>)
@@ -405,6 +405,13 @@
 
 ## [Imagine who you could be, and then aim single-mindedly at that.](<Imagine who you could be, and then aim single-mindedly at that..md>)
 - **[Tags](<Tags.md>):**
+
+## [January 28th, 2021](<January 28th, 2021.md>)
+5. They assign attributes as applicable
+                        - **[Tags](<Tags.md>):**
+
+5. They assign attributes as applicable
+                        - **[Tags](<Tags.md>):**
 
 ## [Joel Chan](<Joel Chan.md>)
 - **[Tags](<Tags.md>):**

@@ -33,7 +33,7 @@
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         1. [February 11th, 2021](<../February 11th, 2021.md>) 
             - **Brandon:** Idea - Build a Roam Games directory, mapping dependencies.[*](((aIf4ipiC6))) 
-                - "Pages for submissions, organized by challenge, with links to tweets/work & authors "
+                - Pages for submissions, organized by challenge, with links to tweets/work & authors 
             - **Brandon:** Question - How could the code variants of the community be mapped for easy of navigation and distribution? [*](((ykxX5bHS9)))
         2. [February 12th, 2021](<../February 12th, 2021.md>) 
             - **Brandon:** Nearly comprehensive draft of a [workflow for agile project management](((74aPTS1FT))). [Drafts](<../Drafts.md>) [Outlines](<../Outlines.md>)
@@ -51,7 +51,7 @@
 - Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
-1. "Developed a [Sprints Template](((tG1HJs2dK)))" & "Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
+1. Developed a [Sprints Template](((tG1HJs2dK))) & Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 2. See [Sprint 1 Page]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
@@ -81,37 +81,37 @@
 - **Current Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- Big agree on "#[Project Ideas](<../Project Ideas.md>) Build a directory of [Roam Games](<../Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
+- Big agree on #[Project Ideas](<../Project Ideas.md>) Build a directory of [Roam Games](<../Roam Games.md>) submissions. [*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
-- "[Q](<../Q.md>) How could [code snippets](<../code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
+- [Q](<../Q.md>) How could [code snippets](<../code snippets.md>) and modifications be shared efficiently amongst the community?[*]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 - [@Charles]([~[[Charles Farr](<../~[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>))
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)
-- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 - I know you can see which pages have the biggest word count, but not sure if you can see which page (or even block) __references__ (a block with `[Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)`
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
-- "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+- **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 - [@Charles]([~[[Charles Farr](<../~[[Charles Farr.md>)]]) [@Brandon]([^[[Brandon Toner](<../^[[Brandon Toner.md>)]]) ((see the whole thread)) One test case I thought that would be interesting is not to use the agora only as a way to collate ideas in terms of code, but do the other job of a dependency graph which is to propagate changes. #[Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
 - [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
-- Not this: "[Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
+- Not this: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<../query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<../Sprints/1 — Roam Games 3 (managing dependencies).md>)

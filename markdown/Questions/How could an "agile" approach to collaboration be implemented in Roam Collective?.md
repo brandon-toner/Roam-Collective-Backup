@@ -4,7 +4,7 @@
     - Created by:: [[Brandon Toner]]
     - Author:: Adapted from Charles' block-level question.
     - References::  ((Supporting FN, LN, EN, or RN would go here))
-        - "#Q What does an [[agile development]] approach look like for Roam Collective?"
+        - #Q What does an [[agile development]] approach look like for Roam Collective?
     - Resources::
         - [[Articles/Agile Product Management in Roam]]
     - Related::

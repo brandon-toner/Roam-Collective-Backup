@@ -177,7 +177,7 @@
     - **[Contents](<Contents.md>):**
 
 ## [Evergreens/Prefer note titles with complete phrases to sharpen claims](<Evergreens/Prefer note titles with complete phrases to sharpen claims.md>)
-- "#[N](<N.md>) ["N"-notes](<"N"-notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)"
+- #[N](<N.md>) ["N"-notes](<"N"-notes.md>) and [evergreen notes](<evergreen notes.md>) should be [assertions](<assertions.md>). [zettelkasten](<zettelkasten.md>)
     - **[Contents](<Contents.md>):**
 
 ## [Evergreens/Ready, Fire, Aim](<Evergreens/Ready, Fire, Aim.md>)

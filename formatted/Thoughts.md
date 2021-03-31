@@ -22,6 +22,12 @@
 - Idea of [prepositional linkages](<prepositional linkages.md>)
         - **[Thoughts](<Thoughts.md>):**
 
+- [Inbox](<Inbox.md>) 
+        - **[Thoughts](<Thoughts.md>):**
+
+- Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
             - **[Thoughts](<Thoughts.md>):**
@@ -41,13 +47,19 @@
 - It feels quite possible to over-automate the process of algorithms of thought.
                 - **[Thoughts](<Thoughts.md>):**
 
+- Found a better alternative: [propositions](<propositions.md>)
+        - **[Thoughts](<Thoughts.md>):**
+
 ## [February 26th, 2021](<February 26th, 2021.md>)
 - The [Questions](<Questions.md>) tag is one in tension for me — I'm not entirely sure it's purpose.
                 - **[Thoughts](<Thoughts.md>):**
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "Does each note type need multiple level of maturity?"
+- Does each note type need multiple level of maturity?
                 - **[Thoughts](<Thoughts.md>):**
+
+- Allow for ease in generating [output](<output.md>).
+                        - **[Thoughts](<Thoughts.md>):**
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - I would suggest plaintext for names to avoid gathering a bunch of linked refs maybe?
@@ -71,4 +83,12 @@
 
 - Able to handle simple, "off the cuff" questions, and anchoring research questions.
             - **[Thoughts](<Thoughts.md>):**
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- Allow for ease in generating [output](<output.md>).
+        - **[Thoughts](<Thoughts.md>):**
+
+## [Wade Dominic](<Wade Dominic.md>)
+- ---
+- **[Thoughts](<Thoughts.md>):**
 

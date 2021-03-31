@@ -17,3 +17,7 @@
 
 - [Evergreens/Create speculative outlines while you write](<../Evergreens/Create speculative outlines while you write.md>)
 
+- [Evergreens/Create speculative outlines while you write](<../Evergreens/Create speculative outlines while you write.md>)
+
+- [Evergreens/Create speculative outlines while you write](<../Evergreens/Create speculative outlines while you write.md>)
+

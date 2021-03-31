@@ -7,6 +7,13 @@
 - {{[query](<query.md>): {and: [ex-A](<ex-A.md>) {or: [E:](<E:.md>) [N](<N.md>) [I](<I.md>) [Literature Notes](<Literature Notes.md>)}}}} [minimal](<minimal.md>)
                 - **[Tasks](<Tasks.md>):**
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
+                            - **[Tasks](<Tasks.md>):**
+
+- **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
+                            - **[Tasks](<Tasks.md>):**
+
 ## [Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>)
 - **[Notes](<Notes.md>):** #[not-populated](<not-populated.md>)
     - **[Tasks](<Tasks.md>):**

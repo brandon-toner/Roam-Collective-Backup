@@ -8,15 +8,15 @@
         - **Created a NEW SPRINT**: [[Sprints/2 — Roam Games 3 (populate the Agora)]]
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
-        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
         - **Active Sprint:** [[Sprints/2 — Roam Games 3 (populate the Agora)]]
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 21st, 2021]] [[Change Log]] {not: [[Community Notes]]}}}}
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox
         - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
             - 
     - #[[Scratchpad]] 
         - Author centric dependency
@@ -62,16 +62,16 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation 
         1. Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         2. On Anchestors mapping / Agora
             - [@Brandon]([[~[[Brandon Toner]]]]) Do you still need help on [this?](((78frD4ZM9))) Don't have edit access to the agora, but [happy to help](((CzK5R-3Z6))). [*]([[cc:[[Charles Farr]]]])
-                - There is a quick example, but "If the tweet address is supplied this should be automatable ((provided submission are already in the graph))"
+                - There is a quick example, but If the tweet address is supplied this should be automatable ((provided submission are already in the graph))
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Alexandra Westhoff]] {{word-count}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - Doing a bit of brainstorming/data population in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora) today — mapping the Roam Games and roamcult projects & tools more broadly.
             - Would love some help in mapping the territory — **the more brainstormers the better**. (I'm bound to forget most things)
@@ -98,7 +98,7 @@
         - Fleeting Notes
             - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[N]]}}}
     - #Bookmarks
-        - "Author centric dependency" [[Epics/Managing knowledge dependencies in multiplayer]]
+        - Author centric dependency [[Epics/Managing knowledge dependencies in multiplayer]]
     - #[[Change Log]] 
         1. Updated [my personal DNP template](((VyS8OjXZx))) to include a set of queries for [[block-level tags]]. 
             - A query now populates, automatically collecting any mentions of key block-level tags within my section.
@@ -112,7 +112,7 @@
             - Rationale:: Compile results from the full DNP (across users)
         3. Added a Change Log query to the Community Notes section
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]

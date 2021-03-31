@@ -1,11 +1,11 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- [x] "#[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
+- [x] #[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
 
-- "#[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
+- #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
 
-- "#[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
+- #[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
 
 ## [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
 - [passive resurfacing](<passive resurfacing.md>) relies on [serendipity](<serendipity.md>) or [context](<context.md>)
@@ -15,14 +15,14 @@
 
 - `[min-all](<min-all.md>) {{[query](<query.md>): {and: {or: [FN](<FN.md>) [Fleeting Notes](<Fleeting Notes.md>)} {or: [context](<context.md>)
 
-- "[x] "#[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
+- [x] #[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
 
-- ""#[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
+- #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
 
-- ""#[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
+- #[N](<N.md>) Writing ["N"-notes](<"N"-notes.md>) in context, rather than in a designated location reduces the [friction](<friction.md>) of capturing them, and helps to preserve [context](<context.md>).
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
-- "#[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
+- #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
 
 - #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-
 

@@ -12,6 +12,10 @@
 - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
     - **[References](<References.md>):**
 
+## [Evergreens](<Evergreens.md>)
+- #[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).
+            - **[References](<References.md>):**
+
 ## [Evergreens/"Hacked" solutions are likely to break over time.](<Evergreens/"Hacked" solutions are likely to break over time..md>)
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
     - **[References](<References.md>):**
@@ -144,6 +148,13 @@
 - **[Author](<Author.md>):** [Unknown](<Unknown.md>), but frequently cited by the [Roam Team](<Roam Team.md>)
     - **[References](<References.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Or: `[Seedling](<Seedling.md>)` → `[Budding](<Budding.md>)` → `[Evergreen](<Evergreen.md>)`
+                - **[References](<References.md>):**
+
+- #[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).
+                                - **[References](<References.md>):**
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Author](<Author.md>):** [not-populated](<not-populated.md>)
                 - **[References](<References.md>):**
@@ -197,6 +208,9 @@
 ## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
 - ---
 - **[References](<References.md>):**
+
+- #[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).
+                - **[References](<References.md>):**
 
 ## [architects, gardeners, and librarians](<architects, gardeners, and librarians.md>)
 - **[Tags](<Tags.md>):** [Seedlings](<Seedlings.md>)

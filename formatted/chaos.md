@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+2. #[N](<N.md>) Strong conventions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
+
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - I want people to be prepared for, and comfortable with a degree of [chaos](<chaos.md>).
 
@@ -20,4 +23,7 @@
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[N](<N.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+2. #[N](<N.md>) Strong conventions within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)) help to maintain [order](<order.md>) and mitigate [chaos](<chaos.md>).
 

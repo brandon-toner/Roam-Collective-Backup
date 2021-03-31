@@ -1,9 +1,9 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]])
     - #Announcements
-        - "I murdered the FN tag 😱"
+        - I murdered the FN tag 😱
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad #not-populated
     - #Conversation 
         - [[@[[Alysson M. Costa]]]] re [change log](((BLrKswZok)))
@@ -36,14 +36,14 @@
             - Now it's just the "N-note" — at least for now. 
             - Same usage, different name.
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox
     - #[[Scratchpad]] 
         - These days I mostly code for my PhD and working on the Roam API
         - But I do come here every couple of days looking out for anything going on.
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Alysson M. Costa]] {{word-count}}
@@ -64,7 +64,7 @@
             - I like how a lot of thought is going into building good conventions for collaborative thinking
             - Also starting to feel what you mean by [[Multiplayer Roam is more fun than single-player Roam.]] 😄
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad 
         - Returning to thoughts around [[roam/chat]]
     - #Conversation #not-populated

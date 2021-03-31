@@ -18,7 +18,7 @@
         - {{[query](<query.md>): {and: [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] {not: [query](<query.md>)}}}}
 - **[SmartBlocks](<SmartBlocks.md>):**
     - LaBrisa — .DNP Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
             - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -43,12 +43,12 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [Larissa]([Larissa de Lima](<Larissa de Lima.md>))
 
-- "[Larissa]([Larissa de Lima](<Larissa de Lima.md>))
+- [Larissa]([Larissa de Lima](<Larissa de Lima.md>))
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>)
 
-- "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
+- [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
 
 - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>),
 

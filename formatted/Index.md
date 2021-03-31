@@ -11,6 +11,9 @@
 - Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
             - **[Index](<Index.md>):**
 
+- Exploring [Andy Matuschak](<Andy Matuschak.md>)'s [Notes](https://notes.andymatuschak.org/)
+            - **[Index](<Index.md>):**
+
 ## [Learning Center](<Learning Center.md>)
 - **[Related](<Related.md>):**
 - **[Index](<Index.md>):**

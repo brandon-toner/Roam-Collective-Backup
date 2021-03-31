@@ -9,9 +9,9 @@
 - [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
-- "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
+- [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
 
-- Big agree on "#[Project Ideas](<Project Ideas.md>)
+- Big agree on #[Project Ideas](<Project Ideas.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [Thoughts](<Thoughts.md>) on [Project Ideas](<Project Ideas.md>)
@@ -20,27 +20,27 @@
 
 - In most cases I agree, but have decided to go with `#[Project Ideas](<Project Ideas.md>)`
 
-- "Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
+- Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
 
 - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)`
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
-- "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
+- [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>)
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
 - [I](<I.md>) "Divide and conquer: leveraging group learning to make better notes and study tools." #[Project Ideas](<Project Ideas.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Project Ideas](<Project Ideas.md>)
-
 - #[Project Ideas](<Project Ideas.md>)
 
 - #[Project Ideas](<Project Ideas.md>)
 
-- "#[Project Ideas](<Project Ideas.md>)
+- #[Project Ideas](<Project Ideas.md>)
+
+- #[Project Ideas](<Project Ideas.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- #[Follow Up](<Follow Up.md>) "#[Project Ideas](<Project Ideas.md>)
+- #[Follow Up](<Follow Up.md>) #[Project Ideas](<Project Ideas.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Project Ideas](<Project Ideas.md>)

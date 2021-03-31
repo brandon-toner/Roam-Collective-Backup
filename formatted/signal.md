@@ -1,9 +1,9 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- [x] "#[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
+- [x] #[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
 
-- [x] "#[N](<N.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
+- [x] #[N](<N.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - [Q](<Q.md>) How might bookmarks, or other surrogates for [signal](<signal.md>)
@@ -18,9 +18,9 @@
 - #[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- "[x] "#[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
+- [x] #[N](<N.md>) [block-level tags](<block-level tags.md>) are a great indicator of [signal](<signal.md>)
 
-- "[x] "#[N](<N.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
+- [x] #[N](<N.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[N](<N.md>) Strategic and intentional use of [conventions](<conventions.md>), improves the ratio of [signal](<signal.md>)

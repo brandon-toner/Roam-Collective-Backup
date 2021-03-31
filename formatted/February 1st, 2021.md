@@ -1,6 +1,37 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
-- {{[embed](<embed.md>): ((YoxM3sMoZ))}}
+- [Announcements](<Announcements.md>) (**Temporary Message**)
+    9. Making the shift from several questions formats to a **simplified** setup. [Conventions](<Conventions.md>)
+        - [Questions](<Questions.md>) = [DNP Module Tag]([DNP Modules](<DNP Modules.md>)) and [Collections]([collections](<collections.md>)) tag
+        - [Q](<Q.md>) = block level tag. 
+            - This one should be used at the block level to flag a block as a question. 
+        - **[Notes](<Notes.md>):**
+            - The following tags are now retired, with deactivated CSS:
+                - Open Questions
+                - Context Questions
+                - Zettel Questions 
+    10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
+        - `Chat` should be reserved for the top-section for now.
+        - `Conversation` as a DNP Module as opposed to Chat + Comments.
 - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.)) 
     - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))
     - **[Suggestion](<Suggestion.md>):**
@@ -11,39 +42,92 @@
                 - Whatever feels right.
 - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
     - [Brandon Toner](<Brandon Toner.md>)
-        - {{[embed](<embed.md>): ((LFSTdlWF1))}}
-        - {{[embed](<embed.md>): ((lLhwYNuv-))}}
-        - "Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! "
+        - Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>). 
+            - **[Related](<Related.md>):** 
+                - [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
+                - [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
+                - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
+        - Here is a draft of a maturity scale of the main graph components thus far: [projects](<projects.md>), [conventions](<conventions.md>), and [ideas](<ideas.md>). [*]([Bookmarks](<Bookmarks.md>)) [Conventions](<Conventions.md>) 
+            - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
+            - **[Image](<Image.md>):**
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FV0ylj7pFEN.png?alt=media&token=fb9f7607-3a4a-44b6-9d99-98a0c8e45023)
+            - **Projects:**
+                - #[Status/Idea](<Status/Idea.md>)
+                - #[Status/Active](<Status/Active.md>)
+                - #[Status/Completed](<Status/Completed.md>)
+                - #[Status/On-Hold](<Status/On-Hold.md>)
+                - #[Status/Dropped](<Status/Dropped.md>)
+                - #[Status/Someday|Maybe](<Status/Someday|Maybe.md>)
+            - **Conventions:**
+                - #[Status/Idea](<Status/Idea.md>)
+                - [Status](<Status.md>)/Experimental
+                - #[Status/Active](<Status/Active.md>)
+                - [Status](<Status.md>)/Deactivated
+            - **Ideas:** (Zettelkasten)
+                - Entry Tier
+                    - `#[Fleeting Notes](<Fleeting Notes.md>)` - Not related or loosely related to literature (own words)
+                    - `#[Literature Notes](<Literature Notes.md>)` - Main ideas extracted from literature/resources (may be [verbatim](<verbatim.md>))
+                - Maturity Tier
+                    - `#[Evergreen Notes](<Evergreen Notes.md>)` - Notes that reach a subjective sense of broad applicability and concision. - May be [verbatim](<verbatim.md>), includes documented authorship and source links if applicable.
+                        - Includes original zettels
+                        - Atomized ideas of others (maybe a matured literature note)
+                        - Concept notes (summaries of concepts or principles)
+            - **[Comments](<Comments.md>):**
+                - Note that "truthfulness", "accuracy", and "level or supporting evidence" was not included as pre-requisite for evergreen note creation. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+                    - I'm tying this to authorship. 
+                    - Supporting evidence, background, elaboration, examples, etc are all encouraged — But not considered part of [minimum requirements](<minimum requirements.md>)[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))
+                    - If you disagree with a zettel, reference it and engage in conversation with it. Use principles of [rhetoric](<rhetoric.md>), and seek truth through iterative reasoning. 
+                        - #[N](<N.md>) the validity of a note within the zettelkasten should be surrogated by the content of its references. 
+                            - Is it being frequently [cited]([citation](<citation.md>))?
+                            - Is it being challenged? Supported?
+                    - #[N](<N.md>) To seek [truthfulness]([truth](<truth.md>)) as minimum requirement is to be paralyzed out of the gates. #[evergreen notes](<evergreen notes.md>) [zettelkasten](<zettelkasten.md>)
+                    - [Q](<Q.md>) How can we objectively categorize the degree of maturity of an evergreen note? 
+                        - #[N](<N.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>). That is simply entry into the tier. 
+        - Much more activity in the `Conversation` module lately than the `Scratchpad` — interesting! 
 - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
 - #[Daily Log](<Daily Log.md>) ((A place to log milestone activities or sign-in to the graph)) [not-populated](<not-populated.md>)
 - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))
     - **[Daily Review](<Daily Review.md>):**
         - **Scheduled for Today:**
             - **Page:** [January 31st, 2021](<January 31st, 2021.md>)
-{{[embed](<embed.md>): ((l8aQmrssa))}}
+
+                - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
         - **Overdue TODOs:**  
-            - {{[embed](<embed.md>): ((9ZdW5S8U6))}}
+            13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>) 
         - **This Week:** `#[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)`
             **Results:** 3 **Max:** 25
             **Page:** [January 29th, 2021](<January 29th, 2021.md>)
-{{[embed](<embed.md>): ((h4qDkzBRI))}}
+
+                - [x] Add the [choice algorithm](<choice algorithm.md>) template convention. #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
             **Page:** [January 29th, 2021](<January 29th, 2021.md>)
-{{[embed](<embed.md>): ((CSNScVulJ))}}
+
+                - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
             **Page:** [January 31st, 2021](<January 31st, 2021.md>)
-{{[embed](<embed.md>): ((UTsXd_3pp))}}
+
+                - [x] Find out how to make this the default in the CSS (I know it's possible, maybe within the [Leyendecker](<Leyendecker.md>) code?) [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>) [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
         - **This Month:** `#[February 2021](<February 2021.md>)`
             - **Results:** 1 **Max:** 25
             - **Page:** [February 1st, 2021](<February 1st, 2021.md>)
-{{[embed](<embed.md>): ((J15XEXJ4p))}}
+
+                - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
+                    - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. [Projects](<Projects.md>) [I](<I.md>)
+                        - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
+                            - **[Related](<Related.md>):** Process:: [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)
     - **Ways you can help:**
         - __Check out the linked references on the Help Wanted tag for more other ways you can contribute.__ Thanks for being here 😄
         - **Results:** 3 **Max:** 20
         - **Page:** [January 29th, 2021](<January 29th, 2021.md>)
-{{[embed](<embed.md>): ((CSNScVulJ))}}
+
+            - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
         - **Page:** [January 30th, 2021](<January 30th, 2021.md>)
-{{[embed](<embed.md>): ((6WHeIizl5))}}
+
+            - [ ] Create literature notes from [Articles/How to write good prompts](<Articles/How to write good prompts.md>). #[Help Wanted](<Help Wanted.md>)
+                - [x] Create a smartblock for the [Daily Review](<Daily Review.md>) that pulls TODO + Help Wanted. [January 30th, 2021](<January 30th, 2021.md>) 
         - **Page:** [January 30th, 2021](<January 30th, 2021.md>)
-{{[embed](<embed.md>): ((29MTnT-MQ))}}
+
+            - [ ] Import sections of the [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) on [rhetoric](<rhetoric.md>), the [Toulmin Argument](<Toulmin Argument.md>), and [logic](<logic.md>) into the graph as [evergreen notes](<evergreen notes.md>). ((With external authorship documented (verbatim import)) #[Help Wanted](<Help Wanted.md>) #[January 2021](<January 2021.md>)
+                - [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])
+                - [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>) [*]([^[[leekeifon](<^[[leekeifon.md>)]]) [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - #[Scratchpad](<Scratchpad.md>) 
@@ -88,10 +172,10 @@
         - [Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages.
     - #[Change Log](<Change Log.md>) 
         - Drafted a "[maturity](<maturity.md>) progression" for projects, conventions, and ideas. [*](((lLhwYNuv-)))
-        - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
+        - Changed the name-spacing convention for [evergreen notes](<evergreen notes.md>) [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
         - 
     - [Bookmarks](<Bookmarks.md>)
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)"
+        - ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[N](<N.md>) writing in a [zettelkasten](<zettelkasten.md>) is a lot like writing on [Twitter](<Twitter.md>).
             - [atomic ideas](<atomic ideas.md>), brief claims and assertions.
@@ -105,21 +189,21 @@
             - ... but this might be satisfied by not_populated! 
         - #[N](<N.md>) [constraints](<constraints.md>) help to facilitate [convergence](<convergence.md>).
     - [Conversation](<Conversation.md>) 
-        - "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
+        - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
             - There is definitely some variance on the structure of zettelkastens.
                 - This likely stems from users trying to adapt an analog system into a graph database software. With technology, different workflows are possible, so there is a lot of experimentation ongoing. 
                 - This is an exciting area of development and exploration  -- and an area I am keen to explore through this graph experience.
                     - On one hand, implementing a system internally for use within the [RC]([Roam-Collective](<Roam-Collective.md>))
                     - On the other, building [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) that help others to implement a similar system.
-        - "Can  [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?"
+        - Can  [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?
             - Interesting. Talk a  bit more about that... not sure I quite understand the idea yet.
-                - "When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note."
+                - When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.
                     - Ah! Yes. Gotcha now. Great idea and great explanation. 100% want that.
                         - [ ] Develop evergreen notes on the purpose and potential of a (collaborative) [zettelkasten](<zettelkasten.md>). #[February 2021](<February 2021.md>) #[Help Wanted](<Help Wanted.md>)
                             - Work these into an outline, then writeup on the **reason** for pursuing a zettelkasten in a collaborative graph. [Projects](<Projects.md>) [I](<I.md>)
                                 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
-                                    - **[Related](<Related.md>):** "Process:: [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)"
-        - "[Q](<Q.md>) What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?"
+                                    - **[Related](<Related.md>):** Process:: [creativity](<creativity.md>) [collaboration](<collaboration.md>) #[creative projects](<creative projects.md>)
+        - [Q](<Q.md>) What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?
             - Yea I like the idea of dashboards as well. In a personal graph populating in the daily note works quite well for this, but a constantly updating dashboard would likely be best in a collaborative graph. Once we have a clear vision of the components of that dashboard, it is likely quite build-able.
                 - [Projects](<Projects.md>) [I](<I.md>) Build a productivity [dashboard](<dashboard.md>).
         - Some thoughts on [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]] [zettelkasten](<zettelkasten.md>)
@@ -138,20 +222,20 @@
                     - **[Related](<Related.md>):** 
                         - [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>)
                         - [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
-                        - "[x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) "
-        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how"
+                        - [x] [Choice](<Choice.md>): For [evergreen notes](<evergreen notes.md>), what should the [namespaces](<namespaces.md>) be? ((((cv2ny1Xe-)))) 
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - Yea, I have the same feelings about it....
                 - I think no-brackets works best with the nested pages CSS and cuts a lot of noise, but that might not be universal user preference.
                     - I'd opt to keep it a user preference, and see if it becomes annoying to those new to the graph. - Thanks for finding that!
                         - What are your thoughts? [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
                             - Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'"
                                 - Agreed [*](((Sh32I3JAi))) 
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
             - I'm fine with just using simple namespacing for those sorts of collections:
                 - e.g. [Books/The Culture Code](<Books/The Culture Code.md>)
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FE10x0Oa5Rm.png?alt=media&token=d2226fa3-27de-4fec-b63e-bfae84cbce50)
             - **[What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`
-                - **[i.e. here "This is really cool because the [query](<query.md>) finds the combination of `Tags](<i.e. here "This is really cool because the [query](<query.md>) finds the combination of `Tags.md>):**` and `[Members](<Members.md>)` within a single block, creating an [array](<array.md>) of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title."[*](((xHjy_KXGZ)))
+                - **[i.e. here This is really cool because the [query](<query.md>) finds the combination of `Tags](<i.e. here This is really cool because the [query](<query.md>) finds the combination of `Tags.md>):**` and `[Members](<Members.md>)` within a single block, creating an [array](<array.md>) of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.[*](((xHjy_KXGZ)))
                 - This method will allow us to access powerful uses of specific [2nd-degree connections](<2nd-degree connections.md>) to build [abstractions](<abstractions.md>) that we can use for querying. 
                     - This is eventually where [logic](<logic.md>) will get quite fun. 
                 - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([Evergreens/Use the native convention as much as possible.](<Evergreens/Use the native convention as much as possible..md>)).
@@ -193,33 +277,33 @@
                         - [Q](<Q.md>) How can we objectively categorize the degree of maturity of an evergreen note? 
                             - #[N](<N.md>) Simply "becoming" an [evergreen note]([evergreen notes](<evergreen notes.md>)) does not designate peak [maturity](<maturity.md>). That is simply entry into the tier. 
         - #[Graph Mentorship](<Graph Mentorship.md>)
-            - "[Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
+            - [Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
                 - Just changed `#[Context Questions](<Context Questions.md>)` to [Q](<Q.md>) here. [*](((LndnjT55D)))
                     - HA! This was me, before the switch.
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] seeing lots of great questions, consider prepending some with `[Q](<Q.md>)` to make sure they are carried forward. 
                 - Also, feel free to tag more liberally in your writing, that will help with querying/filtering as we start digging through the database soon. I use [this]([Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)) philosophy even when writing in the DNP.
                     - Big keywords and glossary terms are the main ones to include (as relevant)
-        - "[Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"[*](((nECtcrahY))) [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
+        - [Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?[*](((nECtcrahY))) [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
             - My thoughts are:
                 - 1) We need to clearly separate the INTERNAL how-to's and the EXTERNAL how-to's.
                     - My thought is that the How To's as they are currently set out should be reserved for EXTERNAL. This should be clear on those pages (or in the page name itself) to avoid any confusion with the internal conventions. 
                         - This is important because the scope of the externally facing documents is larger than the internal conventions — and contradictions will exist. 
                         - Clarity = key here.
                     - INTERNALLY, I think the learning center should stem off of the [Welcome](<Welcome.md>) page — though "Welcome" feels off, if it's a place for existing users to go as well... maybe we make a [Learning Center](<Learning Center.md>) that mirrors some of that structure, or at least serves as a directory for navigating the [conventions](<conventions.md>) in a logical order/sequence. [Bookmarks](<Bookmarks.md>) #[February 2021](<February 2021.md>) #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
-        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I think you hit it on the head with the `[Projects](<Projects.md>)` + `[Ideas](<Ideas.md>)`"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I think you hit it on the head with the `[Projects](<Projects.md>)` + `[Ideas](<Ideas.md>)`
             - In most cases I agree, but have decided to go with `#[Project Ideas](<Project Ideas.md>)` for this one use-case. [~[[Charles Farr](<~[[Charles Farr.md>)]]
-                - "The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. "
+                - The idea of using [combinations over compound tags](((IX96gb5b6))) as been discussed — but for this specific case, I use this combo a ton... and consider it kinda part of the zettelkasten. 
                 - Flagged it as experimental. 
-        - Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[E:](<E:.md>)`" [~[[Charles Farr](<~[[Charles Farr.md>)]]
-        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] This idea goes hand in hand with the idea of double diamond in engineering design and product development."
+        - Yup, [this](((QKH6Nx7jZ))) was the clincher for Option A - `[E:](<E:.md>)` [~[[Charles Farr](<~[[Charles Farr.md>)]]
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
             - [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) — love it.
-        - "This is [one screenshot](((j0NJb8DOE))) when I’m trying to figure out what’s going on in a conversation."
+        - This is [one screenshot](((j0NJb8DOE))) when I’m trying to figure out what’s going on in a conversation.
             - Oh wow hahahah [~[[leekeifon](<~[[leekeifon.md>)]]
             - Definitely need to use some block zooming to get better views on things to make use of screen space.
                 - Related but you're likely already using pretty thoroughly:
-                    - "[Tips](<Tips.md>) the [sidebar](<sidebar.md>) is important for navigating [conversations](<conversations.md>)"
-                    - "[Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages."
-        - **["Example](<"Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)"
+                    - [Tips](<Tips.md>) the [sidebar](<sidebar.md>) is important for navigating [conversations](<conversations.md>)
+                    - [Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages.
+        - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
             - This example is REALLY clean to me: [cc:[[leekeifon](<cc:[[leekeifon.md>)]]
                 1. Import Andy's notes as [evergreen notes](<evergreen notes.md>) (with Andy as author).
                 2. Reference those notes in conversation among the group. 
@@ -230,10 +314,10 @@
         - [zettelkasten](<zettelkasten.md>) variations [*](((ouhexdetE))) [Bookmarks](<Bookmarks.md>)
             - #[N](<N.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>) should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
                 - From [Charles Farr](<Charles Farr.md>):
-                    - "Single-player versus multiplayer"
-                    - "Output-oriented versus memorialization-driven"
-                    - "Level of detail required"
-                    - "Relation to other note types (literature, fleeting, permanent, seedlings, buddings, evergreens, etc, etc, etc)"
+                    - Single-player versus multiplayer
+                    - Output-oriented versus memorialization-driven
+                    - Level of detail required
+                    - Relation to other note types (literature, fleeting, permanent, seedlings, buddings, evergreens, etc, etc, etc)
                 - In addition:
                     - Level of [rigour](<rigour.md>) desired.
                         - Reliance on [references](<references.md>) and [citations](<citations.md>).
@@ -242,24 +326,24 @@
                         - maturity
                         - completeness
                         - connectivity
-                    - "Choice of attributes to offer more [granularity](<granularity.md>) in characteristics:"
+                    - Choice of attributes to offer more [granularity](<granularity.md>) in characteristics:
                         - [Q](<Q.md>) What are the [characteristics](<characteristics.md>) [dimensions](<dimensions.md>) of an [evergreen note]([evergreen notes](<evergreen notes.md>)) that could be used for [assessment](<assessment.md>) [scoring](<scoring.md>)?
                             - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
                                 - [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[February 2021](<February 2021.md>) 
                     - 
         - [~[[Charles Farr](<~[[Charles Farr.md>)]] added some thoughts [here](((y6dCKOdEu))) 
-        - "#[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>) "
+        - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>) 
             - Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]]
-        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement "
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
             - Hmm, I'll have a look. But it's `[Q](<Q.md>)` now.  Use them liberally. Actually just logged onto think about questions a bit. 
             - Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now.
-                - "Should there be some norm around memorializing key decisions on conventions?"
+                - Should there be some norm around memorializing key decisions on conventions?
                     - As for [conventions]([Conventions](<Conventions.md>)) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE))).
-        - "Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)` — [compound tags](<compound tags.md>) shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))"
+        - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)` — [compound tags](<compound tags.md>) shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
             - Yea, I see [project ideas](<project ideas.md>) as the output engine of the [zettelkasten](<zettelkasten.md>).
                 - #[N](<N.md>) [project ideas](<project ideas.md>) are what drives the [zettelkasten](<zettelkasten.md>) towards [output](<output.md>).
         - [Charles Farr](<Charles Farr.md>) on [concept pages](((tzhAdFJur)))[*]([concept pages](<concept pages.md>)) [Bookmarks](<Bookmarks.md>)
-            - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
+            - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
                 - Would adjust to *may* get processed — most won't.
                     - Many similar ["N"-notes](<"N"-notes.md>) may highlight a pattern of thought that I then crystallize one or more [evergreen notes](<evergreen notes.md>).[*]([pattern-recognition](<pattern-recognition.md>))
                         - #[N](<N.md>) ["N"-notes](<"N"-notes.md>) capture [resonant]([resonance](<resonance.md>)) ideas, mapping the territory of thought. [Patterns]([patterns](<patterns.md>)) in fleeting notes documented hint towards central ideas worth distilling into [evergreen notes](<evergreen notes.md>).
@@ -267,7 +351,7 @@
             - Agree with [this](((0kuQY9q7f))). If I had to get to complete evergreen note on first pass, that would be FAR too arduous. I like an iterative and free process, to optimize for [inspired action](<inspired action.md>) and [flow state](<flow state.md>) exploration of ideas. 
                 - #[N](<N.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)
                     - #[N](<N.md>) excessive quality [standards](<standards.md>) can halt or smother [creativity](<creativity.md>).
-            - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
+            - The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity
                 - #[N](<N.md>) "Establishing levels within [evergreen notes](<evergreen notes.md>) lowers the bar to creation and raises the bar for [maturity](<maturity.md>)." - [Charles Farr](<Charles Farr.md>)[*]([creativity](<creativity.md>))[*]([minimum requirements](<minimum requirements.md>))[*]([zettelkasten](<zettelkasten.md>))
                     - LOVE this. This is getting quite good. [~[[Charles Farr](<~[[Charles Farr.md>)]]
                         - [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`?
@@ -275,7 +359,7 @@
                                 - [YES.](((SGUHeHTkV)))
                                     - I think we should work on conventions for [seedlings](<seedlings.md>) next. That feels like a fruitful endeavour.
                                         - Establish conventions for [seedlings](<seedlings.md>) #[Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
-        - "Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?"
+        - Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?
             - This was the direction I was leading to this afternoon.... 
             - For me, anchoring the concepts and definitions is important for mapping the territory. And is actually a [pre-requisite](<pre-requisite.md>). 
                 - #[N](<N.md>) it's easier to first collect and [map](<map.md>) known information before making new [assertions](<assertions.md>).
@@ -293,7 +377,7 @@
                                     - "C" is novel. Z and E are more common in the community...
                                         - So maybe [claims](<claims.md>) become [zettels](<zettels.md>).
                                             - "All zettels are evergreen notes, but not all evergreen notes are zettels"[*](((KQk7Dpudp)))
-        - "I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful"
+        - I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful
             - Yes, it will be both! Same for [evergreen notes](<evergreen notes.md>).
     - #[Bug Reports](<Bug Reports.md>)
         - I'm sure I marked a bunch of things as read, then on another browser they were unread again. Not sure what happened — don't notice anything else missing/off.
@@ -304,32 +388,32 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
     - [Conversation](<Conversation.md>) 
-        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"[Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]][Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[everyone](<everyone.md>)`  Could have a query under the announcement banner?
-        - "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
-            - "Selecting the right approach"
+        - Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])
+            - Selecting the right approach
                 - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
-        - "On the other, building [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) that help others to implement a similar system."
+        - On the other, building [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) that help others to implement a similar system.
             - Can  [guidance documents]([[[How To](<[[How To.md>) Implement a Zettelkasten]]) be implemented in the Zettlekasten itself adding further layer of system engineering and management literature to motivate the reasons to use said systems?
-                "Interesting. Talk a  bit more about that... not sure I quite understand the idea yet."
+                Interesting. Talk a  bit more about that... not sure I quite understand the idea yet.
                     - When I joined this graph, I had to explore it. I had questions, and I was answering them as I pressed on more links, opened more pages. When someone starts implementing a Zettlekasten might be prompted by the same process. Other than explanations I'd sometimes like to know why I am following a process, and said reasons are often interesting enough to be worthwhile being included as a permanent note.
         - Hi [~[[Peter Rosso](<~[[Peter Rosso.md>)]], welcome to the RC!
             - Thanks [~[[Charles Farr](<~[[Charles Farr.md>)]] loving how  conversations are continuously iterated and resurfaced in the setup we have for conversations.
-            - Regarding "Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])"
+            - Regarding Reflection on any of the [How To](<How To.md>) pages [Charles Farr](<Charles Farr.md>) has developed. (these are for the purpose of assisting others in setting up a shared graph like this one. They are all related to [[[How To](<[[How To.md>) Seed Your Graph]])
                  I was wondering if we should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
 `[How to](<How to.md>)` would be considered a prefix-
                 My graph is currently responding properly, thus I might not be able to upload an example, but I am currently using the `[main[[-suffix](<main[[-suffix.md>)]]` in my Zettelkasten. I am using the same system that Beau Hann showed in a video on Robert Haisfield's youtube channel.  
                     What I realised is that I often have reference stuff in academic papers, thus some permanent notes have use the suffix as a link to the bibliographical page I have on my graph. 
-        - "Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph"
+        - Circling back to [~[[Peter Rosso](<~[[Peter Rosso.md>)]]'s original point about using the [zettelkasten](<zettelkasten.md>) to capture "Meta" concepts, perhaps it makes sense to build some standard [maturity](<maturity.md>) scale for all elements in the graph
             - [~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  
             - If we were concerned to see how fleeting conversation ended up becoming a permanent note there are different considerations to to make:
                 - Fleeting notes should be fleeting, thus we should not be concerned with them.
                 - If we were still concerned with them, should these notes be promoted at least to literature notes?
                 - Is this going to promote a good process or information hoarding?
-            - "Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
+            - Fleeting notes should be fleeting, thus we should not be concerned with them. and Is this going to promote a good process or information hoarding? beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
             - One thing I definitely I agree is that we need clear systems which would incentivize clear and unburdened thinking.  According to the book "the motivation myth" systems are the true way forward.
-        - "https://twitter.com/brandontoner/status/1353493176296894464?s=21"
+        - https://twitter.com/brandontoner/status/1353493176296894464?s=21
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] This idea goes hand in hand with the idea of double diamond in engineering design and product development.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FdlGzsQA9E5.png?alt=media&token=1f34e98d-e688-4e4c-8ad7-f6609bfc2547)
                 - I like to think that the first phase is the Zettlekasten phase, while the second phase is the output phase.
@@ -375,16 +459,16 @@
 		[?tag :node/title "Tags"]]
 ```
     - [Bookmarks](<Bookmarks.md>)
-        - #[Follow Up](<Follow Up.md>) "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?""
+        - #[Follow Up](<Follow Up.md>) [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
     - [Questions](<Questions.md>)
-        - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
+        - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
             - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>) be integrated into a community [zettelkasten](<zettelkasten.md>) system?
         - [Q](<Q.md>) How do we digest all of the information we're adding to the graph?
             - What processing happens implicitly through conversation and collaboration?
             - What processing needs to be undertaken explicitly to capture the rest?
     - [Conversation](<Conversation.md>)
         - On [compound tags](<compound tags.md>) with BToner
-            - "[~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ..."
+            - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I think you hit it on the head with the `[Projects](<Projects.md>)` + `[Ideas](<Ideas.md>)`
                     - In this sense, the project is just an idea — perhaps once you get started, you change `[Ideas](<Ideas.md>)` to `#[In Flight](<In Flight.md>)` or some such.
                         - So, `[Ideas](<Ideas.md>)` is essentially a "state" that something can be in, and it can apply to a variety of different elements
@@ -402,27 +486,27 @@
                             - [Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?
                                 - The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)
         - On [internal-facing](<internal-facing.md>) content with BToner
-            - Re: "The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)"
+            - Re: The alternative would be to create some sort of internal convention the helps to detail how to jump on in (across various realms)
                 - I'm realizing that [~[[Brandon Toner](<~[[Brandon Toner.md>)]] you've probably already thought of this — is there a convention you've built for the purpose?
         - On nested `[E:](<E:.md>)` [namespaces](<namespaces.md>) / title references with BToner
-            - "Some thoughts on [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]] [zettelkasten](<zettelkasten.md>)"
+            - Some thoughts on [Evergreens/Evergreen Note example 1](<Evergreens/Evergreen Note example 1.md>) [~[[Charles Farr](<~[[Charles Farr.md>)]] [zettelkasten](<zettelkasten.md>)
                 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
-                    - "The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes."
+                    - The benefit of being able to [apply children](((zRmgBy3JB))) is not something I see value in for this graph's purposes as of yet -- but will keep this function in mind as we evolve our zettelkasten processes.
                         - Yep, this makes sense — I came back to this point actually when thinking about it [yesterday](((VpmyBCAWV)))
                             - I was thinking that we could include multiple approaches in the [[[How To](<[[How To.md>) Implement a Zettelkasten]], even if we only use one approach to capture knowledge in our graph here...
-                    - "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page."
+                    - Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page.
                         - This is hugely powerful — really a big reason why it's nice to have a reference in title, because often you won't have access to the `#[Evergreen Notes](<Evergreen Notes.md>)` tag within linked references
                         - The other benefit is being able to query based on the combination of `[E:](<E:.md>)` and some topic of interest — for instance `[resurfacing](<resurfacing.md>)`
                             - [min-con](<min-con.md>) {{[query](<query.md>): {and: [E:](<E:.md>) [resurfacing](<resurfacing.md>)}}}
                             - I changed the title for [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>) to illustrate above...
                         - However, this same [query](((NrGcnTXDx))) can be accomplished using `[Evergreen Notes](<Evergreen Notes.md>)`, so perhaps a bit duplicative...
                             - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Evergreens](<Evergreens.md>) [resurfacing](<resurfacing.md>)}}}
-                    - "Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>). "
+                    - Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>). 
                         - This seems like a good happy medium!
         - On [[[How To](<[[How To.md>) Determine Goals for a Graph]] with PRosso + BToner
             - [ ] Outline [[[How To](<[[How To.md>) Determine Goals for a Graph]]
             - Hi [~[[Peter Rosso](<~[[Peter Rosso.md>)]], welcome to the RC!
-                - Thinking a bit about your question here: "Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?"
+                - Thinking a bit about your question here: Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
                     - I agree with what [~[[Brandon Toner](<~[[Brandon Toner.md>)]] brought up [here](((qWfyYQ5ra))) — there are a lot of different approaches
                         - I think that generally there are some standard best practices (such as how to nest metadata and maybe even how to create a namespace), but the final structure is likely dependent on the goals for the [zettelkasten](<zettelkasten.md>)...
                         - The final structure will depend on:
@@ -441,8 +525,8 @@
                             - Self-reflection (in tandem with journaling or some such)
                         - Some guidance on the merits of the various components, how to leverage the stock and standard conventions we (Roam Collective) lay out, and then how to remix them for a community's own purposes
         - On [prefixes](<prefixes.md>) and [suffixes](<suffixes.md>) with PRosso
-            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: " I was wondering if we should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
-`[How to](<How to.md>)` would be considered a prefix-"
+            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re:  I was wondering if we should we have conventions on how we use nested squared brackets? `[[[prefix-](<[[prefix-.md>)[main](<main.md>)[-suffix](<-suffix.md>)]]` 
+`[How to](<How to.md>)` would be considered a prefix-
                 - Categorizing nested brackets as either prefixes or suffixes is a good way for us to formalize and track conventions
                     - In my personal graph, I use mainly prefixes, as it allows for easy filtering during a `[[]]` search
                         - I really only use it for my Evergreen notes, which all get a`[Z:](<Z:.md>)` prefix
@@ -452,10 +536,10 @@
                                 - [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
                                     - Could you even tie this CSS to an internal flag that turns on namespaces?
         - On [CSS](<CSS.md>) workaround for [Namespaces](<Namespaces.md>) with BToner + MVogel
-            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] wanted to get your expertise on → [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
             - [ ] Investigate CSS workaround for namespaces
         - On [maturity](<maturity.md>) and [maturation](<maturation.md>) of [notes](<notes.md>) with PRosso
-            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  "
+            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: [~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  
                 - Generally speaking, I believe that is what Sonke advocates for. However, I find that this can be a high bar. Instead, I work through stages of maturation in my own notes...
                     - [The stages of [[maturation](<The stages of [[maturation.md>) of [zettelkasten](<zettelkasten.md>) notes]]
                         - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
@@ -475,30 +559,30 @@
                         - To you're original [question](((vc2Px8TdX))), it's not always critical to get all the way to an Evergreen on the first pass. If I am able to pull together a seedling, I find I've generally captured 70-80% of the idea. The [maturation](<maturation.md>) process gets me the rest of the way to 100% (or at least close).
                             - One big component I hope to layer in is [spaced repetition](<spaced repetition.md>) writing to ensure that maturation process occurs across my notes and I don't lose any within my graph...  
                         - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] Also wanted to get your attention here, especially in relation to your comment [here](((dpsc4UzxX))) on maturity as it relates to truthfulness or accuracy
-                            - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
+                            - Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context
                             - The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity
                                 - In doing so, it can serve as a [forcing function](<forcing function.md>) to actually complete high quality permanent notes or zettels[*]([evergreen notes](<evergreen notes.md>))
                                     - get the idea down on "paper"
                                     - mark it as an "immature" evergreen or some such
                                     - then have a process that forces you to return and mature it... 
             - Build process to progress [seedlings](<seedlings.md>) into higher levels of maturity [*](((mfnMxjFW1)))
-            - "Convert definitions of page types into literature / evergreen / internal documentation..."
+            - Convert definitions of page types into literature / evergreen / internal documentation...
         - On [collections](<collections.md>) versus [concept pages](<concept pages.md>) with BToner
-            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] — re: "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" + "Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] — re: [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>) + Thoughts on this thread of thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - The idea of [concept pages](<concept pages.md>) is an interesting one... Perhaps worthwhile for me to quickly map the space as I see it and then think about how they relate...
                     - I see:
-                        - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
-                            - "Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)"
-                        - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
-                            - "Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely"
-                        - "**Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes."
-                            - "Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them"
-                                - "In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity..."
-                                    - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
-                                    - "Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references"
-                                        - "Often through this process, I find that the big idea is refined"
-                                    - "Evergreens — I have the big idea tacked down and all of the context and supporting references"
-                                        - "Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed"
+                        - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
+                            - Fleeting Notes have no stages — they either exist or they don't (though it's important to add context if important)
+                        - **Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions
+                            - Literature Notes have no stages either, but there is a more ardous process to create them — unlike Fleeting notes, they come out of a source material, so care needs to be taken to summarize accurately and concisely
+                        - **Evergreen Notes** are atomic ideas, hopefully novel ones, that I composed based on a foundational of Fleeting and Literature Notes.
+                            - Evergreen Notes do have maturity, determined by 1) the level of development of the main thought (i.e., the "title"), and 2) the level of context provided to support them
+                                - In my personal graph, I use Seedling, Budding, & Evergreen tags to indicate the level of maturity...
+                                    - Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context
+                                    - Buddings — I have begin to summarize the context and connect it to other notes in my graph; I am working to firm up the supporting references
+                                        - Often through this process, I find that the big idea is refined
+                                    - Evergreens — I have the big idea tacked down and all of the context and supporting references
+                                        - Often I take some time between the Budding & Evergreen stage to step away; when I return, I can see the note with clear eyes and make adjustments as needed
                         - **Definitions** — most closely related to your concept page for [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
                         - **Collections** — a set of evergreens oriented around a higher level concept
                             - When compared to alter fatigue, it might be "sustaining participation in shared endeavors," which requires mitigating [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
@@ -510,13 +594,13 @@
                                 - [Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
                             - A Collection — "C: Information Overload" (or some other higher level concept that alert fatigue rolls up under)
                         - I think my biggest qualm with a simply titled definition page is it gives you relatively little information right off the bat. It's functionally a fancy [alert fatigue](<alert fatigue.md>) page.
-                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front "[Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party"
+                            - Whereas a definition Evergreen (with the definition in the title) gives you the info up front [Evergreens](<Evergreens.md>) Alert fatigue stems from excess notifications and results in desensitization to future notification from the affected party
                                 - Perhaps a `[Definition](<Definition.md>)` or `[Concept](<Concept.md>)` tag within the evergreen page itself could then identify it as such?
             - Convert definitions of page types into literature / evergreen / internal documentation...
         - On [internal-facing](<internal-facing.md>) versus [external-facing](<external-facing.md>) documentation with BToner + PRosso
             - Re: [How To pages](((mMz7pLfVD))) [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — I like the distinction, we can block reference out internal documentation where relevant in the How To pages — internal essentially being a subset  
         - On [namespaces](<namespaces.md>) for [definitions](<definitions.md>) and [collections](<collections.md>) with BToner
-            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] "[Q](<Q.md>) Does the namespace change? [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [Q](<Q.md>) Does the namespace change? [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - I like no namespace for collections personally
                     - In my personal graph I took inspiration from yourself and actually use capitalization to denote collections
                         - [alert fatigue](<alert fatigue.md>) versus [Alert Fatigue](<Alert Fatigue.md>)
@@ -527,22 +611,22 @@
                     - **[Cons](<Cons.md>):**
                         - When dealing with meta concepts, can be a bit confusing (e.g., `[Evergreen Notes](<Evergreen Notes.md>)`)
         - On processing all of the graph
-            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: [Q](<Q.md>) How do we digest all of the information we're adding to the graph?
                 - In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing
                     - I think I need to get better about using either the bookmark or follow up tag...
             - [ ] Create weekly review mechanism to revisit critical ideas
         - Simple replies
             - Makes sense [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re `#[Project Ideas](<Project Ideas.md>)` — [compound tags](<compound tags.md>) shouldn't be a hard and fast rule. A single tag probably does work better for a page that is going to have content / be used often [*](((7I7pjnCLL)))
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I couldn't agree more [here](((nHhKPP6DQ)))!
-            - "Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]]" [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a little hacky-ness goes a long way!
+            - Ha, had realized the same issue with filtering/querying for something within your DNP section today. Great idea. [~[[Charles Farr](<~[[Charles Farr.md>)]] [~[[Brandon Toner](<~[[Brandon Toner.md>)]] a little hacky-ness goes a long way!
     - 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - ignore me
             - What I'm hearing about the internal / external communication chat idea
         - Possible workflow for internal (personal) chat app
-            - [P](<P.md>):Self "What I'm hearing about the internal / external communication chat idea"
+            - [P](<P.md>):Self What I'm hearing about the internal / external communication chat idea
             - [P](<P.md>):Critic Internal chat doesn't go anywhere, what's the point
             - [P](<P.md>):Loving Getting in touch with the different parts of you and weighing those options is an important part of making the best decision you can with the information you have
             - [P](<P.md>):Critic more internal
@@ -565,7 +649,11 @@
             - [Books/The Culture Code](<Books/The Culture Code.md>)
     - [Conversation](<Conversation.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
-            - {{[embed](<embed.md>): ((((u8k4sDzcA))))}}
+            - Page Reference Brackets
+                - ```ruby
+.rm-page-ref__brackets{
+  display:none;
+}```
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I've got much the same opinion as [you](((kf11cjKz3))). I'm not aware of a way to change user preferences and even if there was one it would be JS and need to be enabled by the user which defeats the purpose. I'd say adding it to the [Quick Start Guide](<Quick Start Guide.md>) as a suggestion is the most democratic solution.
     - #[Change Log](<Change Log.md>)
         - REVERSED — [Removed double brackets around pages using CSS.](((UTsXd_3pp))) This overrides whatever the user's preference is. See the CSS rules [here](((u8k4sDzcA))).
@@ -584,33 +672,63 @@
                 - **[claim](<claim.md>):**
                     - #[N](<N.md>) [conversation](<conversation.md>) designed for async communication should have clear [goals](<goals.md>).
             - [Related](<Related.md>) [*](((-sjmnGf_D))) [*](((0eWl7ORS7))) [*](((pCqXnE-QK)))
-        - Concrete [need](((l1bAGu1Op))) for "#[N](<N.md>) public vs private ".
+        - Concrete [need](((l1bAGu1Op))) for #[N](<N.md>) public vs private .
         - #[Evergreens](<Evergreens.md>) chunk size
             - A cognitive concept that I learn from [Andy Matuschak](<Andy Matuschak.md>)
             - [Related](<Related.md>) [spaced repetition](<spaced repetition.md>)
     - #[Bookmarks](<Bookmarks.md>)
-        - "1) We need to clearly separate the INTERNAL how-to's and the EXTERNAL how-to's."
-        - "[maturity](<maturity.md>) comes from the state of a given notes"
-        - "The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity"
-        - "[Q](<Q.md>) Whats the difference between a seedling and a fleeting note?"
+        - 1) We need to clearly separate the INTERNAL how-to's and the EXTERNAL how-to's.
+        - [maturity](<maturity.md>) comes from the state of a given notes
+        - The idea of having some levels within evergreen notes lowers the bar for creation but raises the bar for maturity
+        - [Q](<Q.md>) Whats the difference between a seedling and a fleeting note?
         - Clarification on the [key concepts](<key concepts.md>) of [zettelkasten](<zettelkasten.md>)
-            - "**Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes..."
+            - **Fleeting Notes** are those that are very unrefined or tangentially related to a topic I am reading about — they will get processed and eventually be incorporated into more mature original notes...
                 - Something like a side note / comment in my own language?
-            - "**Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions"
-            - "Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context"
-            - "Seedlings may be used to designate a [fleeting note](["N"-notes](<"N"-notes.md>)) that has near-term potential to develop into an [evergreen note]([evergreen notes](<evergreen notes.md>))."
-        - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
-        - {{[embed](<embed.md>): ((((CY2GCSwsp))))}}
-        - "What needs to be different in knowledge management and creation, if it is collaborative?"
-        - "But these units of ideas exist at very different levels of abstraction.  "
-            - [Related](<Related.md>) "#[Evergreens](<Evergreens.md>) chunk size"
+            - **Literature Notes** are summaries of what I am reading or other general factoids — they are important to understand by alone don't speak to the novel points or ask the pertinent questions
+            - Seedlings — the big idea is present; I may or may not have collected some contextual references; I have yet to summarize the context
+            - Seedlings may be used to designate a [fleeting note](["N"-notes](<"N"-notes.md>)) that has near-term potential to develop into an [evergreen note]([evergreen notes](<evergreen notes.md>)).
+        - In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing
+        - [zettelkasten](<zettelkasten.md>) variations [*](((ouhexdetE))) [Bookmarks](<Bookmarks.md>)
+            - #[N](<N.md>) the [components](<components.md>) and [structure](<structure.md>) of a [zettelkasten](<zettelkasten.md>) should be optimized for a group's objectives and requirements. There is flexibility in its implementation. 
+                - From [Charles Farr](<Charles Farr.md>):
+                    - Single-player versus multiplayer
+                    - Output-oriented versus memorialization-driven
+                    - Level of detail required
+                    - Relation to other note types (literature, fleeting, permanent, seedlings, buddings, evergreens, etc, etc, etc)
+                - In addition:
+                    - Level of [rigour](<rigour.md>) desired.
+                        - Reliance on [references](<references.md>) and [citations](<citations.md>).
+                    - Choice of attributes to offer more [granularity](<granularity.md>) in characteristics:
+                        - reliability
+                        - maturity
+                        - completeness
+                        - connectivity
+                    - Choice of attributes to offer more [granularity](<granularity.md>) in characteristics:
+                        - [Q](<Q.md>) What are the [characteristics](<characteristics.md>) [dimensions](<dimensions.md>) of an [evergreen note]([evergreen notes](<evergreen notes.md>)) that could be used for [assessment](<assessment.md>) [scoring](<scoring.md>)?
+                            - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
+                                - [ ] Import information on [learning objectives](<learning objectives.md>) and discuss with [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]] #[February 2021](<February 2021.md>) 
+                    - 
+        - What needs to be different in knowledge management and creation, if it is collaborative?
+        - But these units of ideas exist at very different levels of abstraction.  
+            - [Related](<Related.md>) #[Evergreens](<Evergreens.md>) chunk size
         - Ways to provide [structure](<structure.md>)
-            - {{[embed](<embed.md>): ((1SxJDY8Ks))}}
-                - "Hierarchies that provide an approximate sense of scope, and a guide for navigation"
-                - "Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions"
-                - "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[I](<I.md>)
+            - Ways to provide structure
+                - Indentation that helps clarify like-minded concepts 
+                    - One of the most powerful features in Roam, part of what separates it from linear text, is indentation.  Indentation is an invitation for rigor in grappling with ideas across levels of abstraction
+                    - Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals
+                        - Conversation could look a bit more like Reddit, where indentation signals elaboration or reply
+                - Hierarchies that provide an approximate sense of scope, and a guide for navigation
+                    - One of the challenges in collaboration is navigating the abstraction landscape
+                        - It's already challenging enough to untangle the knots and separate out abstraction levels across one's own knowledge management system
+                        - This is only compound when you have a group of individuals with different contexts, histories and mental models.  The challenge grows with the number of people
+                    - How 
+                - Questions that serve as containers for collections of zettles
+                    - Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions
+                - Hierarchies that provide an approximate sense of scope, and a guide for navigation
+                - Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions
+                - Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals #[I](<I.md>)
     - #[Conversation](<Conversation.md>)
-        - Jamming on "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)" [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
+        - Jamming on [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>) [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context.
                 - One [implication]([significance and implications](<significance and implications.md>)) of rush, is not enough [maturity](<maturity.md>).
                     - #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
@@ -659,7 +777,7 @@
                             - Different time commitment 
                         - Prioritization
     - [Conversation](<Conversation.md>)  
-        - ""Fleeting notes should be fleeting, thus we should not be concerned with them." and "Is this going to promote a good process or information hoarding?" beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?"
+        - Fleeting notes should be fleeting, thus we should not be concerned with them. and Is this going to promote a good process or information hoarding? beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
             - Could there be two types of fleeting notes? 
                 - One that is meant for the individual to write unimpeded, and to have a body of ideas to build off.  A fleeting note that is identical to what would exist in one's personal graph
                 - Then, there might be fleeting notes meant to seed collaboration.  It's ready enough to have someone else's eyes on them, but hasn't quite reached the level of being ready 
@@ -668,22 +786,25 @@
                 - In an individual KM system, it's the step taken to convert fleeting note to permanent note, then categorize and index it within the system.  A bottoms-up approach can work well, as the goal is personal.  
                 - Do we need some more tools for consensus at a higher-level?   
                     - How to we work through shared prioritization, for example, of what questions are worth dedicating time to?
-        - "As for [conventions]([Conventions](<Conventions.md>)) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE)))."
+        - As for [conventions]([Conventions](<Conventions.md>)) around the change log. I'l like to make more use of the [choice algorithm](((BpLiZ8Jcd))). That worked well [here](((u8etVKAtE))).
             - Love it! Imagine then there's probably a long list of things to log in here :)
     - [Feedback](<Feedback.md>) 
         - Should there be a page with norms on using the DNP template?
             - I am personally confused as to when to use Questions vs. Conversation
-        - **["Questions](<"Questions.md>):** More big picture, related to the domain we're trying to navigate"
+        - **[Questions](<Questions.md>):** More big picture, related to the domain we're trying to navigate
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I see a screenshot in Slack saying open questions is deprecated, but then can't find the announcement 
                 - Should there be some norm around memorializing key decisions on conventions?
                     - When I look at the change log for Questions, I find the decision but not the explanation
         - #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]] resolved 
-            - "Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now."
+            - Feel like they need to be synthesized a bit, so I'm gonna set that as the daily activity for a few days to get some well documented main questions `Zettel Question` as I still have them in my head — but terminology is a bit loose right now.
                 - I would advocate for something like a "questions directory", instead of just a tag.  Think a page that provides at least a sense for the questions at the high-ish-level of abstraction could be helpful
-                - Some early thoughts I am in process of further refining under here: "#[N](<N.md>) Shared endeavors and [collaboration](<collaboration.md>) require solidity" 
+                - Some early thoughts I am in process of further refining under here: #[N](<N.md>) Shared endeavors and [collaboration](<collaboration.md>) require solidity 
 - ---
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>)
+
 ## [E/Evergreen Note example 2](<E/Evergreen Note example 2.md>)
 - **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
 
@@ -697,11 +818,20 @@
 - **[Date Created](<Date Created.md>):** [February 1st, 2021](<February 1st, 2021.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>)
+
+13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>)
+
 - **Page:** [February 1st, 2021](<February 1st, 2021.md>)
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>)
+
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+13. [ ] Create some structure around the first [Roam Games](<Roam Games.md>) challenge [February 1st, 2021](<February 1st, 2021.md>)
 

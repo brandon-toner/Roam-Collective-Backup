@@ -32,6 +32,12 @@
 
 - [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
 
+- [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
+
+- [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
+
+- [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
+
 ## [spaced everything](<spaced everything.md>)
 - **[Source](<../Source.md>):** [Evergreens/Spaced repetition systems can be used to program attention](<../Evergreens/Spaced repetition systems can be used to program attention.md>)
 

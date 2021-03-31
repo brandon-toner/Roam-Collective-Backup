@@ -37,7 +37,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "#[N](<N.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
+- #[N](<N.md>) treat page as [truth](<truth.md>). - [leekeifon](<leekeifon.md>)[
 
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>)
 

@@ -10,18 +10,18 @@
         - {{Today + LN:42SmartBlock:Today + LN}}
     - #[GTD Zone](<GTD Zone.md>) 
         - **Active Epic(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - **Active Sprint(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - {{TODO Created Today:42SmartBlock:TODO Created Today}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
         - {{TODO + Help Wanted:42SmartBlock:TODO + Help Wanted}}
     - #[Change Log](<Change Log.md>)
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>)
-        - "Indexing code"
+        - Indexing code
         - Other automated search for gtd
         - Ask Charles why he finds block queries more powerful than page queries.
     - #[Scratchpad](<Scratchpad.md>) 
@@ -37,21 +37,21 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) on GTD: ...
             - At the moment I am using the structure below. If action items need to be deferred there is a parent block above the TODO (but children to `Action Items`) which has either the decided date or `[Status/Someday|Maybe](<Status/Someday|Maybe.md>)`
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fk3J4rq3NG0.png?alt=media&token=11b73370-cf99-4702-a413-985f2f760aa3)
                 -  As I was doing the purge I changed background of done items, Items with dates and items with Defer tag so I could cycle through the week quickly and decide what I needed to do.
                     - Said that I need to finish the Agile Product Development product
         - [@Brandon]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) & [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) about Roam Summit...
-            - "[I](<I.md>) Branson and Charles should talk about multiplayer graphs and conventions."
-            - "[I](<I.md>) If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live."
+            - [I](<I.md>) Branson and Charles should talk about multiplayer graphs and conventions.
+            - [I](<I.md>) If this happen it would be cool if we had lot's of users using the graph and taking notes on here and commenting on each other notes so that they can talk over it while it's happening live.
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) On block queries: Why do you think that block queries are more powerful than page queries
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - [Roam Summit](<Roam Summit.md>) Session 1
             - With [Jason Griffing](<Jason Griffing.md>), [Joel Chan](<Joel Chan.md>), [Robert Haisfield](<Robert Haisfield.md>), & [Kyle Stratis](<Kyle Stratis.md>)

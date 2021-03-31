@@ -1,14 +1,33 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) 
     - #Chat ((A place to propose objects of discussion))
-        1. **Peter:** "[[Everyone]] Would people want to add birthdays to their profiles?"
+        1. **Peter:** [[Everyone]] Would people want to add birthdays to their profiles?
             1. I've added mine - Brandon (page ref to 2021 to generate the reference)
             2. Added mine - Peter
-        2. **Peter:** "[[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))"
+        2. **Peter:** [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
         3. **Brandon:** Thoughts on [this](((ROVBmMBrp)))? 
             - Peter: I think I can get by this! Let's try it. You should see author and time by hovering over the dot. I wonder if the time is in your timezone.
             - **Matt V** I like how we can see everyone's conversations here
@@ -37,7 +56,7 @@
         8. **Peter:** roamcollective.org is $10 per year 👀 Output channell?
             - **Brandon:** Ou! Cool idea. Totally. How do we get it set up? [[~[[Peter Rosso]]]]
             - Charles Farr:: I think this is a great idea — I've got a $1 I'm willing to chip in lol
-        9. **Brandon:** "Doubting the usefulness of the #Everyone tag... thoughts?"
+        9. **Brandon:** Doubting the usefulness of the #Everyone tag... thoughts?
             - **Larissa** I like leekeifon's idea of having some tag that triggers a vote/action, imagine that's a similar motivation to an Everyone tag, but doesn't seem like the `#Everyone` is the right implementation
         10. **Brandon:** Where in the CSS does the query appearance get adjusted? (Not seeing anything references in the change log)
             - Image::
@@ -47,30 +66,30 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]]) {{or:🟠Away | 😴 offline, back tomorrow | 🟢Online}}
     - #[[Scratchpad]] 
-        - "Go thought yesterdays Scratchpad before opening any Pandora's Box."
+        - Go thought yesterdays Scratchpad before opening any Pandora's Box.
             - PPV keeps a meaningful and directed approach which avoids getting lost in too many tasks https://www.youtube.com/watch?v=b0GrpGA0o2k&ab_channel=AugustBradley
                 - See Book Essentialism
                 - Divengence/Convergence
                     - Exploration/Concretization
-        - '`[[@[[@[[Larissa de Lima]]]]`'"[[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) "
+        - '`[[@[[@[[Larissa de Lima]]]]`'[[^[[Peter Rosso]]]] the below block is an attempt to explain what I had in mind, a bit out there, more like several steps further down the line from agreeing on what's a brick :) 
             - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
         - Can we map out all of the topics we have discussed over last week in a page and as important notes correction were made things can be ~~struck through~~ or they can converge to a permanent note.
             - I find conversation difficult to follow at times, how so we bring them to a one page view?
         - are there #conventions about how to react to people entries? If I just wanted to upvote a message, validate it or show that I read an `[[everyone]]` message we could just react to the block like I am reacting to this message. 
         - Conventions for Δ?
     - #[[GTD Zone]] 
-        - Check out "#Scratchpad ((Use this as scrap paper. A place to jot down you ideas))"
+        - Check out #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
     - #Conversation 
         - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
-            - "Think it could be interesting to explore - what types of questions / template are you envisioning?"
+            - Think it could be interesting to explore - what types of questions / template are you envisioning?
                 - [[^[[Brandon Toner]]]] we need to make a decision on what information to keep coming back which to archive and possibly which to delete. Or at least we need to have a conversation about what are our objectives. For examples my management system is still in notion, for now, my weekly pages give me an overview of the important things I wrote/noted in daily pages (e.g. did I stick to my habits, how did I sleep, how happy was I?) Having all of that information in one place you can go through them and decide what is to be forgotten and only found when searched, what needs to be archived, or what needs to be dealt with and when. That works well with tasks, but how do we do something similar?
 At the end of a week/month, I feel like fleeting notes should be reorganised in a page forming a conversation which might lead the following week to some permanent notes. [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] 
 __I love that your comment came from back in time 🤣!!__
 
 Monthly reviews could include a zoom catchup?
-"How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support collaboration in a collaborative graph?"
+How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support collaboration in a collaborative graph?
         - [[Everyone]] How do we develop a skill to have divergent and convergent conversations. I think lots of interesting conversation with friends just kept on diverging until nobody remembered why we were discussing what and we just moved on. Not all conversations need to go somewhere, but is there a skill?
         - [[~[[leekeifon]]]] What does [reasonable](((5SJKfkOSd))) mean?
         - [[Everyone]] Would people want to add birthdays to their profiles?
@@ -78,14 +97,14 @@ Monthly reviews could include a zoom catchup?
             - 🙏
         - [[~[[Matthew Vogel]]]], is there a way to get a preview of the page when hovering over a connection that does not use a hashtag like when hovering above a connection a link, i.e. can we get a page preview like the one you get on the evergreen notes website? 
             - [[~[[Peter Rosso]]]] Yes but only if you're running roam42. It's called [[Live Preview]] and you'll need to enable it yourself
-                - "Use `CTRL+Hover` to preview a page or a block reference using [[Roam42]] [[Live Preview]]"
+                - Use `CTRL+Hover` to preview a page or a block reference using [[Roam42]] [[Live Preview]]
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FWVf4pT2gge.png?alt=media&token=710c85ef-2f1e-4a6f-8346-27cb25740cda)
         - [[~[[Brandon Toner]]]] The [drop-down menus](((uRYMznUlI))) could be used to indicate the maturity of an `Evergreen Note`... Do they work with links to pages? e.g.
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FfuS8_9AO_C.png?alt=media&token=7260d414-f478-4663-9727-eb3c2f23c21c)
         - [[~[[Brandon Toner]]]] Yes to [everything you said](((ROVBmMBrp))) about `Chat` vs `Conversation.
     - #Bookmarks 
-        - #[[Follow Up]] ""[[Questions/Why build maturity into your knowledge management system?]]""
-        - #[[Follow Up]] """https://twitter.com/syncretizm/status/1355812313505230852?s=21"""
+        - #[[Follow Up]] [[Questions/Why build maturity into your knowledge management system?]]
+        - #[[Follow Up]] https://twitter.com/syncretizm/status/1355812313505230852?s=21
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}  {{or:😴 offline, back tomorrow | 🟢Online | 🟠Away}}
     - #[[Scratchpad]]
@@ -105,13 +124,13 @@ Monthly reviews could include a zoom catchup?
                 - #[[P:Self]] Sadly speaking, this may be the core reason why I don’t like casual phone call, seems that i don’t have much ‘hooks’ to do fast association with pure voice when the content itself has not much structure(even with my previous girl friend...). Kind of weird, man...
         - #[[Q]] It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [[datalog]] query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [[patterns]] to be recognized.  [[cc:[[Brandon Toner]]]] [[cc:[[Matthew Vogel]]]]
             - Related:: sibling query feature request mentioned by [[Joel Chan]] and [[Robert Haisfield]] in their chatting video.
-            - Related:: The above block is the example of "#[[N]] block-embed [[model]]"
-        - Actually, tooltip is a great entry point for conveying [[conventions]] on "#[[N]] block-level [[model]]" and "#[[N]] block-embed [[model]]".
+            - Related:: The above block is the example of #[[N]] block-embed [[model]]
+        - Actually, tooltip is a great entry point for conveying [[conventions]] on #[[N]] block-level [[model]] and #[[N]] block-embed [[model]].
         - #[[Q]] What’s the best way to convey information within a block?
             - Observations:: one [[tensions]] is, when the linking intention and the center of block information don’t align.
             - #[[N]] Those css that are not trying to convey the center of block information, tends to dull our concentration.
                 - {{[[TODO]]}} Examples:: convey what I think is good and what’s not.
-        - "Assumption: everyone’s mind is reasonable."
+        - Assumption: everyone’s mind is reasonable.
             - concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’.
         - #[[I]] Technically speaking, I think it’s possible to write a `roam/js` plugin ((not rely on browser setting)) for community members to render their own private style. Am I wrong? [[cc:[[Matthew Vogel]]]] [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
         - Play around with datalog
@@ -122,11 +141,11 @@ Monthly reviews could include a zoom catchup?
 	]
         - #[[Experiments]] discover pattern on indentation.
     - #[[Conversation]]
-        - (re:) "Doubting the usefulness of the #Everyone tag... thoughts?" [[cc:[[Brandon Toner]]]]
+        - (re:) Doubting the usefulness of the #Everyone tag... thoughts? [[cc:[[Brandon Toner]]]]
             - Different from announcement, which is controlled in [your]([[Brandon Toner]]) hand, `#Everyone` tag can be used by other community memebers.
             - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
             - One way to think of it, is to consider it as a [Roam collective personal publish protocol](((Mfh93O_VB))), that gives each community member the power to establish their own channel.
-        - (re:) "concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’." reply on [this](((ggbIr98bW))) [[~[[Peter Rosso]]]]
+        - (re:) concretely speaking, there should be a logical chain behind what we said, implicitly or explicitly. And we may be able to trace along the logical chain   and that’s what I mean ‘reasonable’. reply on [this](((ggbIr98bW))) [[~[[Peter Rosso]]]]
         - Lightweight Replies
             - I’m not a professional mathematical guy, but I think I have some experience on  tasting the power of language and the building blocks of language, especially programming language. And I think it deserve a long term goal in community. Those who could build up a set of language are the god of that universe. [[~[[Larissa de Lima]]]]
             - re[*](((lJdLQr9GD))): yeah, the hover on alias, the text is white which is almost invisible. [[^[[Charles Farr]]]]
@@ -134,14 +153,45 @@ Monthly reviews could include a zoom catchup?
     - #[[Help Wanted]]
         - The display of of **alias + block embed + tooltip** sucks [*](((fQ5H_Edl8))), any idea on how we could adjust this? [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]]
     - #[[Bookmarks]]
-        - "Left Sidebar — Highlight important pages "
-        - {{[[embed]]: ((((BrDNimG4F))))}}
-        - "[[Feature Request]] I would kill for a way to filter out code blocks from search results"
-        - {{[[embed]]: ((YT3Dy690T))}}
-        - {{[[embed]]: ((r1FQAyh6N))}}
-        - {{[[embed]]: ((jbnNi00AV))}}
+        - Left Sidebar — Highlight important pages 
+        - How do you #query? for blocks that contain 2 tags and not for when one is a child of the other
+            - i.e. look for this 
+                - #tag1 #tag2
+            - Not this
+                - #tag1
+                    - #tag2
+        - [[Feature Request]] I would kill for a way to filter out code blocks from search results
+        - On [[curation]] versus [[synthesis]]
+            - [[cc:[[Mark Robertson]]]] noted the value of [[curation]] as a mechanism for synthesis
+                - https://twitter.com/calhistorian/status/1357033240507256832?s=20
+                - With so many great viewpoints and conversations going on in the graph, there are times where synthesis into a completely "original" or rewritten note may do a disservice
+                    - [[~[[Larissa de Lima]]]] [[^[[Brandon Toner]]]] the curation of ideas around a specific topic (with a proposed conclusion drawn from them) is what I envision us using [[community notes]] for...
+                - #[[N]] [Curation]([[curation]]) is a form of [[synthesis]], combining the viewpoints of others to elucidate insight
+        - I think that developing a library of [[exercises]] / [[activities]], both [[synchronous]] and [[asynchronous]], could be an incredible use case for use internally and to share externally
+            - #[[N]] Implementing synchronous & asynchronous writing [[exercises]] throughout the [[Evergreens/cycles of divergence and convergence]] better support the goals of each cycle
+                - Exercises to support divergent thinking 
+                    - Synchronous
+                        - ...
+                    - Asynchronous
+                        - ...
+                - Exercises to support convergent thinking
+                    - Synchronous
+                        - ...
+                    - Asynchronous
+                        - ...
+            - Examples of exercises
+                - [Weekly or monthly reviews](((27-7K-sVS)))
+        - On disentangling note types & note [[maturity]]
+            - [[^[[Brandon Toner]]]] I've been thinking about this all day and I think that we should disentangle note type and maturity status
+                - Below, the lowest level of maturity is any type of note at the block level, then move up from there through levels of maturity after transclusion to a page
+                    - Questions:
+                        - Does each note type need multiple level of maturity?
+                            - If so, should the levels of maturity be the same across note type?
+                        - What is the right scale for maturity?
+                            - Does using a mythology popular elsewhere (seedling → budding → evergreen) muddy the waters?
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fs72eIo55jm.png?alt=media&token=b693d9e9-c70b-4a47-9d7c-4cf0c6915bc6)
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - Are we creating [[MSN Messenger]]? 😂 
             - Image::
@@ -164,17 +214,17 @@ Monthly reviews could include a zoom catchup?
         3. Disabled Intercom
     - #Conversation 
         1. On top-section [[chat]] 
-            - "**Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))"
+            - **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
                 - For each post & reply, label your block with **Your Name:**
                     - Example:: 
-                        - "**Brandon:** Thoughts on [this](((ROVBmMBrp)))? "
+                        - **Brandon:** Thoughts on [this](((ROVBmMBrp)))? 
                 - For simple replies, reply in-line
                 - For elaborate replies, block ref the reply into your Conversations block.
                     - #Q How do we objectively differentiate ["simple"](((0dNc0LCd3))) from ["elaborate"](((OQ9-k8lsZ)))
         2. Matt's CSS [adjustments](((uiP-kSPjh)))
             - All great! Nice improvements. [[cc:[[Matthew Vogel]]]]
         3. Different methods of chat
-            - "The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused   " #Bookmarks 
+            - The more separate and different conventions we have for chat (just for example) the more likely they are going to be misused    #Bookmarks 
                 - Yea, this is a risk. Let's see how it goes the next few days and see if we can come up with clear guidelines for when to use each style of chat... [[~[[Matthew Vogel]]]] 
                     - I like the top-section one for ease-of-use & ease-of-review — but concerned with confusion as well...
                     - Will keep it on my radar for reassessment.
@@ -189,16 +239,21 @@ Monthly reviews could include a zoom catchup?
         - #[[[[Feedback]]: What's working]]
             - Liking the look & functionality of the [drop-down menu statuses](((a5khoiytS)))!
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}} "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}"
+- #[[My Daily Notes]] [[Matthew Vogel]][*]([[mtv]]) {{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
-        - {{[[embed]]: ((((rhJbktB9i))))}}
+        - What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`
+            - i.e. here This is really cool because the [[query]] finds the combination of `Tags::` and `#Members` within a single block, creating an [[array]] of `members`, then looks for instances where a block contains both `Author::` and a `member`'s name in the same block, returning the page title.[*](((xHjy_KXGZ)))
+            - This method will allow us to access powerful uses of specific [[2nd-degree connections]] to build [[abstractions]] that we can use for querying. 
+                - This is eventually where [[logic]] will get quite fun. 
+            - Another reason why I like this prospect is that it allows us to access power [while working within standard conventions]([[Evergreens/Use the native convention as much as possible.]]).
             - [[@[[Zsolt Viczián]]]] has put together several smartblock templates that will run a datalog query and display it in a nice way. It's great work and an exceptionally good article but in my opinion actually pollutes the graph with `:hiccup` blocks. The better way would probably be to use [[roam/render]] custom components. [[cc:[[Brandon Toner]]]] here's another rabbit hole of customization to fall down :P Right now the smartblock solution feels very much like a ["Hacked" solution]([[Evergreens/"Hacked" solutions are likely to break over time.]]) with custom components being more ["native"]([[Evergreens/Use the native convention as much as possible.]])
                 - You can get his smartblocks [here](https://zsviczian.github.io/DatomicQuery.zip) but be warned they're very complicated.  Nothing like the simple system you've imagined.
                 - [[~[[Matthew Vogel]]]]: I fully agree. Since the article I have learned the basics of Roam render. One of my current projects is  to create a proper roam/render query component.
         - [[Feature Request]] I would kill for a way to filter out code blocks from search results
-        - {{[[embed]]: ((((0nxSPSAyD))))}}
+        - ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [[~[[Matthew Vogel]]]] [[~[[Charles Farr]]]] [[cc:[[Peter Rosso]]]]
+            - Is there a standard way to lay it out so that it is more modular and navigable?
             - I'm struggling with this on my personal graph as well. There needs to be a stronger connection between root level color options and where those colors are actually used
-                - "**Matt V:** 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks"
+                - **Matt V:** 🚨 FYI I was talking to an engineer with Roam and he told me that block versions are kind of a hack and can sometimes lead to orphaned blocks
     - #Questions ((about the graph, or directed towards someone)) 
         - How do you #query? for blocks that contain 2 tags and not for when one is a child of the other
             - i.e. look for this 
@@ -226,10 +281,10 @@ Monthly reviews could include a zoom catchup?
     - #Scratchpad 
         - Big meeting tomorrow so just stopping by very quickly!
     - #Conversation
-        - "I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend."
+        - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
             - Ooh what book?
         - On new away messages
-            - "[[~[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?"
+            - [[~[[Charles Farr]]]] [[~[[Larissa de Lima]]]] thoughts on [this](((P9-3EG6BG)))?
                 - 😂 love it!
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}  {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
@@ -259,6 +314,6 @@ Monthly reviews could include a zoom catchup?
             - [[~[[Larissa de Lima]]]] oof I know the feeling! [Good luck](((tKYIYdWGq)))!
             - [[cc:[[Brandon Toner]]]] [status](((cLrCgntHm))) looks great!
     - #Bookmarks
-        - {{[[DONE]]}} #[[Follow Up]] Re: "How do you #query? for blocks that contain 2 tags and not for when one is a child of the other"
+        - {{[[DONE]]}} #[[Follow Up]] Re: How do you #query? for blocks that contain 2 tags and not for when one is a child of the other
             - Tomorrow I'm hoping to continue on with my [[datalog]] tutorial — will ponder...
     - ---

@@ -8,5 +8,5 @@
 - [N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
-- "[N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)"
+- [N](<N.md>) The [velocity of conversation](<velocity of conversation.md>) within a community is strongly correlated with the [velocity of learning](<velocity of learning.md>)
 

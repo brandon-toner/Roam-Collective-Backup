@@ -1,12 +1,31 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) if you haven't already
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)"
-            - ... "Found a better alternative: [propositions](<propositions.md>)"
-                - "I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. "
+        - [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)
+            - ... Found a better alternative: [propositions](<propositions.md>)
+                - I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. 
         - Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
             - Short URL
                 - https://forms.gle/rMK5NFsYwXRepFwNA
@@ -14,12 +33,12 @@
                 - https://docs.google.com/forms/d/e/1FAIpQLScS8nkY_wTppy1h1bq_ZTa54kpexk2q0nw36uWDwFheWH0Gew/viewform?usp=sf_link
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock))
-        - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
-        - "**Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)"
+        - **Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+        - **Active Sprint:** [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
-        - "[I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)"
+        - [I](<I.md>) Might rename ["N"-notes](<"N"-notes.md>) to [claims](<claims.md>)... (no longer planning this)
             - Found a better alternative: [propositions](<propositions.md>)
                 - I was flipping through a book this morning and the author would summarize their main assertions or "propositions" at the end of each chapter. Brilliant. 
                 - The tone fits perfectly — it is declarative, yet suggestive. Not overly confident in tone, simply proposing some facts, claims or assertions.
@@ -54,53 +73,53 @@
             - [Annotations](<Annotations.md>)
                 - [Obs](<Obs.md>) I love the idea of [provocations](<provocations.md>)
                     - [Q](<Q.md>) How does a [provocation]([provocations](<provocations.md>)) differ from a [proposition]([propositions](<propositions.md>))
-                - "[Q](<Q.md>) What are the metaphors we should be using to conceptualize internet spaces?"
-                - "The nature and characteristics of online and physical is converging."
+                - [Q](<Q.md>) What are the metaphors we should be using to conceptualize internet spaces?
+                - The nature and characteristics of online and physical is converging.
                     - #[N](<N.md>) Online spaces are influenced by physical spaces; physical spaces are influenced by online spaces.
                     - #[N](<N.md>) Online spaces cast a vision and model of interaction that physical spaces can follow and emulate.
                     - #[N](<N.md>) The internet, and online spaces, should be designed with care.
-                        - "The [metaphors](<metaphors.md>) we bring with us into design affect the products that we create, consciously and unconsciously." 
-            - Provocation 1: "Digital societies amplify inequities existent in physical spaces"
-                - "Jad":
+                        - The [metaphors](<metaphors.md>) we bring with us into design affect the products that we create, consciously and unconsciously. 
+            - Provocation 1: Digital societies amplify inequities existent in physical spaces
+                - Jad:
                     - Digital societies amplify inequities existent in physical spaces
                     - "A game of the top 1%"
-                - "[Maggie]([Maggie Appleton](<Maggie Appleton.md>))":
-                    - "Digital societies amplify inequities existent in physical spaces"
+                - [Maggie]([Maggie Appleton](<Maggie Appleton.md>)):
+                    - Digital societies amplify inequities existent in physical spaces
                         - We tell ourselves the narrative of the democratic nature of the internet.
                         - "Its all egalitarian online" "Anyone can be a YouTube star"
                         - Q: Have we let the narrative overshoot the reality of how its really working?
-                - "Prakhar"
+                - Prakhar
                     - Difference between value creation and receipt of reward
-                - "Jad"
+                - Jad
                     - A creator middle class would require smaller platforms
                         - An article.
-                    - "The superstar effect" drives "Digital societies amplify inequities existent in physical spaces"
-            - Provocation 2: "[Maggie]([Maggie Appleton](<Maggie Appleton.md>))": "The internet is not finished and has been "built by a few privileged white men""
-                - "[Maggie]([Maggie Appleton](<Maggie Appleton.md>))"
+                    - "The superstar effect" drives Digital societies amplify inequities existent in physical spaces
+            - Provocation 2: [Maggie]([Maggie Appleton](<Maggie Appleton.md>)): The internet is not finished and has been "built by a few privileged white men"
+                - [Maggie]([Maggie Appleton](<Maggie Appleton.md>))
                     - The internet is not finished and has been "built by a few privileged white men"
                     - "You have the right to build whatever you want"
                     - An unhealthy idolization of them
                     - Paints a picture of "who is the type of person who builds a protocol"
                     - Out metaphors are very deeply culturally ingrained
                     - The [metaphors](<metaphors.md>) we bring with us into design affect the products that we create, consciously and unconsciously.
-            - Provocation 3: "Prakhar" (missed it)
+            - Provocation 3: Prakhar (missed it)
             - [Q](<Q.md>) What are the metaphors we should be using to conceptualize internet spaces?
-                - "Prakhar"
+                - Prakhar
                     - A place as close to the place we live in physically
                         - Cities, parks, etc
                         - Expand beyond office metaphor
-            - Provocation 4: "Sai"
+            - Provocation 4: Sai
                 - The future of the internet has the potential to impact the future of humanity.
                 - The nature and characteristics of online and physical is converging.
                 - While physical spaces are finite, online spaces are infinite.
                     - You can create infinite amounts of "online land"
-            - "Jad": The metaverse
+            - Jad: The metaverse
                 - Who owns and operates the metaverse?
-            - "[Maggie]([Maggie Appleton](<Maggie Appleton.md>))"
+            - [Maggie]([Maggie Appleton](<Maggie Appleton.md>))
                 - [Q](<Q.md>) Is it possible for individual people to build large-scale, complex, reactive applications?
                     - [Q](<Q.md>) Does [Moore's Law](<Moore's Law.md>) empower [this](((gkJdghHrV))) future?
-            - Provocation 5: "Sense of self online / effects of our [information diet](<information diet.md>)"
-                - "Daniel"
+            - Provocation 5: Sense of self online / effects of our [information diet](<information diet.md>)
+                - Daniel
                     - Alice in Wonderland: Who are you?
                     - Sense of self online / effects of our [information diet](<information diet.md>)
                     - Each bite of content online alters our thinking.
@@ -117,12 +136,12 @@
                 - [Larissa]([Larissa de Lima](<Larissa de Lima.md>))
                 - [Mark]([Mark Robertson](<Mark Robertson.md>))
             - [Annotations](<Annotations.md>)
-                - ""I want [Jarvis](<Jarvis.md>), rather than [Clippy](<Clippy.md>).""
+                - "I want [Jarvis](<Jarvis.md>), rather than [Clippy](<Clippy.md>)."
                     - [Q](<Q.md>) What are the characteristics of [Jarvis](<Jarvis.md>)? ([Iron Man](<Iron Man.md>)'s AI assistant)
                     - [Q](<Q.md>) How might [Jarvis](<Jarvis.md>) be expressed within Roam? What would it do? What information would it provide? How would it detect context?
-                - "Recommendation of algorithms"
+                - Recommendation of algorithms
                     - [I](<I.md>) An algorithm of the selection of algorithms.
-                - "Technology may be able to eventually assist in the selection of tools."
+                - Technology may be able to eventually assist in the selection of tools.
                     - [I](<I.md>) Regular behaviours and patterns of documentation may be necessary for an algorithm to detect context.
                         - #[N](<N.md>) Standard documentation processes and conventions may assist in algorithmic suggestions and [algorithms of thought](<algorithms of thought.md>).
                     - It feels quite possible to over-automate the process of algorithms of thought.
@@ -138,10 +157,10 @@
                     - [Q](<Q.md>) How might [algorithms of thought](<algorithms of thought.md>) drive [creativity](<creativity.md>) and [divergence](<divergence.md>).
                     - #[N](<N.md>) [algorithms of thought](<algorithms of thought.md>) should be [memetic](<memetic.md>) and adaptive.
                     - [I](<I.md>) The degree of guidance and rigidity should vary Aot-to-Aot.
-                    - "Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established."
+                    - Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established.
                         - The [establishment](<establishment.md>) is a dominant frame — a shared lens. 
                     - [I](<I.md>) An algorithmic approach to thinking and behaviour
-                    - "Take any series of concepts, and create dialogue between them."
+                    - Take any series of concepts, and create dialogue between them.
                         - [I](<I.md>) Develop randomization systems that facilitate the environment and the mind-space for creativity.
                     - 
             - **[Notes](<Notes.md>):**
@@ -151,45 +170,45 @@
                 - [Q](<Q.md>) What [algorithms of thought](<algorithms of thought.md>) might be helpful, and why?
                 - Simple set of guiding structures
                 - [Norman](((UFDGB6kL3)))
-                - "Lisa-Marie"
+                - Lisa-Marie
                     - Break down processes for "how I think"
                         - "Can I actually do that?"
                         - Standardized thinking processes
                         - Building processes to support my thinking
                             - "I don't think I've ever gone that deep"
-                - "Lukas"
-                    - "[Chris]([Roamhacker](<Roamhacker.md>)) " — Brainstorming with yourself // Post-mortems
-                    - "Lisa-Marie" — Meta-processes
+                - Lukas
+                    - [Chris]([Roamhacker](<Roamhacker.md>))  — Brainstorming with yourself // Post-mortems
+                    - Lisa-Marie — Meta-processes
                     - [Q](<Q.md>) How do you help people to think in processes?
                     - Ideas:
                         - Presentation of general framework and guidance.
                         - Presentation of context-dependant suggestions that may be valuable within those frameworks.
                             - On structure, process, and content.
-                            - "[Maggie D]([Maggie Delano](<Maggie Delano.md>))" — like a smarter [Clippy](<Clippy.md>)?
+                            - [Maggie D]([Maggie Delano](<Maggie Delano.md>)) — like a smarter [Clippy](<Clippy.md>)?
                         - Engage with the system manually.
                             - "I want [Jarvis](<Jarvis.md>), rather than [Clippy](<Clippy.md>)."
-                - "[Chris]([Roamhacker](<Roamhacker.md>)) "
+                - [Chris]([Roamhacker](<Roamhacker.md>)) 
                     - [Q](<Q.md>) How can we integrate these suggestions into our workflows without initiating the command manually?
-                - "Lukas"
-                - "[Larissa]([Larissa de Lima](<Larissa de Lima.md>))"
+                - Lukas
+                - [Larissa]([Larissa de Lima](<Larissa de Lima.md>))
                     - How might it be triggered by the individual?
                         - Recommendation of questions
                         - Recommendation of algorithms
-                - "[Mark]([Mark Robertson](<Mark Robertson.md>))"
+                - [Mark]([Mark Robertson](<Mark Robertson.md>))
                     - Build the toolbox
                     - Then scan that list of potential tools, manually
                     - Technology may be able to eventually assist in the selection of tools.
                     - If there is too much prompting, too much AI, there will be a significant loss of context.
-                - "Not a calculator, but more of a socratic guide." - "Lukas"
-                - "Resistant to the idea of being asked questions by something non-organic" - "Lisa-Marie"
-                - Q: What is the source of that resistance? - "Lukas"
+                - "Not a calculator, but more of a socratic guide." - Lukas
+                - "Resistant to the idea of being asked questions by something non-organic" - Lisa-Marie
+                - Q: What is the source of that resistance? - Lukas
                     - Common objection.
                     - "I like organic, free-range thinking rather that rigid process guides"
-                - "When I talk about process to other people: Process is extremely personal" - "Lisa-Marie"
+                - "When I talk about process to other people: Process is extremely personal" - Lisa-Marie
                     - Leary of standardized processes 
-                - "[Zsolt]([Zsolt Viczián](<Zsolt Viczián.md>))"
+                - [Zsolt]([Zsolt Viczián](<Zsolt Viczián.md>))
                     - Check out Edward Bono's work on 
-                - "[Maggie D]([Maggie Delano](<Maggie Delano.md>))"
+                - [Maggie D]([Maggie Delano](<Maggie Delano.md>))
                     - Observation: Milestones of convergence can create a dominant frame that is hard to reevaluate or shift once established.
                 - Shana
                     - How do we prevent prescription AoTs to 
@@ -232,10 +251,10 @@
             - In particular, his book, [Books/Educational Leadership](<Books/Educational Leadership.md>) was recommended. I'm primarily reading that one now.
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FHv7r_09Uy3.png?alt=media&token=8d9de0ff-5771-4ee9-82f8-4ee71d3f6b76)
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FbydVOh7frE.png?alt=media&token=8f8731a1-fb73-461a-b167-fe1e3390e37b)
-            - "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting."
+            - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On book recommendations](((sHamuQUzn))) Thanks a lot, my GF is doing a PhD in AI and education so she might find this very interesting.
                 - Yea — she'd love it. Great historical look on education, with a focus on philosophy and morality. It's a gem.
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on ["N"-notes](<"N"-notes.md>) vs [propositions](<propositions.md>) [*](((70BbCHmbe)))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])
-            - I agree — "#[N](<N.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)"
+            - I agree — #[N](<N.md>) To keep ideas flowing, you need to keep [minimum requirements](<minimum requirements.md>) low. [momentum](<momentum.md>)
             - [I](<I.md>) I think that "[flow state](<flow state.md>)" writing can take place in the form of TRUE "fleeting" notes — ones WITHOUT a [block-level tag]([block-level tags](<block-level tags.md>)) associated.
                 - THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags.
                     - In this way, the [conventions](<conventions.md>) both optimize for [flow state](<flow state.md>) writing, while being capable of [capturing](<capturing.md>) [convergent]([convergent](<convergent.md>)) insight as it precipitates.
@@ -250,15 +269,15 @@
                 - 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)
     - [Bookmarks](<Bookmarks.md>)
-        - "[Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))"
-        - "Roam Research: [algorithms of thought](<algorithms of thought.md>) [Clubhouse](<Clubhouse.md>)"
+        - [Q](<Q.md>) How can the [scientific method](<scientific method.md>) be integrated into [collaborative zettelkasten](<collaborative zettelkasten.md>) conventions? [*]([Bookmarks](<Bookmarks.md>))[*]([Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>))
+        - Roam Research: [algorithms of thought](<algorithms of thought.md>) [Clubhouse](<Clubhouse.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
-        - "#[N](<N.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour" which means that
+        - #[N](<N.md>) system/[UI](<UI.md>) [constraints](<constraints.md>) focus user behaviour which means that
             - [N](<N.md>) The design and features of our tools influence our behavior and type of attention
                 - [N](<N.md>) We take cues from our environment to adapt our behavior, often unconsciously
                     - An obvious example is social media. It is engineered to increase our time on the app, and increase ad revenue.
@@ -279,7 +298,7 @@
                                         - Which introduced FOMO?
                                             - There's always something else to check __out there__, not here, and I can get there **very** easily. Why stay where I am? It might be better there, there might be something/surprising/interesting, there might be something better. It's definitely going to be **new**
                                     - Others talk about media, television
-                - "Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[N](<N.md>) increased user constraints improve the feasibility of systems of collaboration."
+                - Due to increased user uptake, a reduced [learning curve](<learning curve.md>), and more homogenous user behaviour, #[N](<N.md>) increased user constraints improve the feasibility of systems of collaboration.
         - #[LN](<LN.md>) [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) 9.3 Give Each Task the Right Kind of Attention (p. 61)
             - The examples here are in writing.
                 - Proofreading and writing require a very different kind of attention
@@ -320,37 +339,37 @@
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) about [entry points](((j3W67Y1oB)))
             - I was thinking about doing an end of week review, at least for the big themes of the week. Conversation is fragmented, spread out over days, so a report of the week can bring this conversation together, short summary of the big talking points.
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}" Currently using a Raspberry Pi...
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}} Currently using a Raspberry Pi...
     - [Inbox](<Inbox.md>)
         - Has anyone used roam inter yet?
         - I have been using this group css for some time now, could I sink it?
         - [Q](<Q.md>) What is a viable unit test for a Roam games js/css submission?
-        - "Found a better alternative: [propositions](<propositions.md>)"
-        - **["Thoughts](<"Thoughts.md>):** [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])"
-            - "**Methods:**"
-                - "Via block ref count"
-                - "Via emoji reactions"
-                    - "By using 👍or ➕on the `Option Blocks`"
-                    - "By using 1,2,3 emojis on a `Summary Block`"
-                        - "Using a `Community/Vote` attribute"
-                            - **["Pros](<"Pros.md>):** "
-                                - "Can click that attribute to see similar votes"
-                                - "Can reference that block to further elaborate on the thoughts/nuance behind the vote"
-                            - **["Cons](<"Cons.md>):**"
-                                - "Need to expand the parent to see it. "
-                                    - "Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless."
-                        - "Using the `top-level parent` block"
+        - Found a better alternative: [propositions](<propositions.md>)
+        - **[Thoughts](<Thoughts.md>):** [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])
+            - **Methods:**
+                - Via block ref count
+                - Via emoji reactions
+                    - By using 👍or ➕on the `Option Blocks`
+                    - By using 1,2,3 emojis on a `Summary Block`
+                        - Using a `Community/Vote` attribute
+                            - **[Pros](<Pros.md>):** 
+                                - Can click that attribute to see similar votes
+                                - Can reference that block to further elaborate on the thoughts/nuance behind the vote
+                            - **[Cons](<Cons.md>):**
+                                - Need to expand the parent to see it. 
+                                    - Is this a con? If voting with 1,2,3 then there isn't enough context on the parent block to gain insight into the meaning or direction of the vote anyway... expansion is required regardless.
+                        - Using the `top-level parent` block
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F_8RWheuEC4.png?alt=media&token=b57bfd43-2bc1-4c31-9c82-a3ebfa980a69)
     - #[Scratchpad](<Scratchpad.md>)
         - Voting
             - [Q](<Q.md>) Can we use thumbs up and down to [vote](((Rze0wSaaN)))? [*]((((FFs7Dxscf)))
         - On [resurfacing](<resurfacing.md>) of [questions](<questions.md>)
-            - "Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally."
+            - Yes, and no. They are always there for the answering — and the attempt to answer any defined question is always worthwhile — yet, I don't think that questions __need__ to be answered. They can be left to simmer and set for a while, until they resurface or resolve naturally.
                 - And if a question is more pressing it can be made to a task so that we have control on when to address it rather than hoping to stumble on it.
-        - "#[N](<N.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process."
+        - #[N](<N.md>) The act of defining [questions](<questions.md>) is in itself valuable — independent of the answering process.
             - [Books/Atomic Habits](<Books/Atomic Habits.md>) quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works.
         - Code inspired dependency management
-            - "[*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. "
+            - [*]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) I was listening to a Python podcast before corona, and one of the episodes was about a graph analysis of different software packages. Python is a package which is still verified from the creator,  this gives the language centralised controlled systems. Other languages which followed more anarchic systems had problems growing and being maintained over time. Without an entity or a group of people, it is harder to how code would change over time. But at the same time, it would be great if we could leverage a more modular approach to everything developed so that people writing new code don't need to reinvent the wheel. 
                 - The podcast explored the idea of centralisation of control versus lack of centralisation. Despite the latter approach ruby is still a widely used language, but what the Agora would do is to achieve centralisation. 
                 - Every time I need to write new code I look for documentation. Documentation is accompanied by a centralised library of all the code that is freely available.
                 - Another thoughts that comes to mind when thinking about code management and testing is CD/CI
@@ -362,21 +381,21 @@
                             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
                             - This kind of fix would be automatically updated to all the graphs with the mentioned code.
                             - Thoughts?
-        - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Peter Rosso](<@[[Peter Rosso.md>)]] check out the new mythology of notes I implemented in my personal graph, regarding your thoughts on `[Obs](<Obs.md>)` [*](((1jQSerSAt)))"
+        - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[Peter Rosso](<@[[Peter Rosso.md>)]] check out the new mythology of notes I implemented in my personal graph, regarding your thoughts on `[Obs](<Obs.md>)` [*](((1jQSerSAt)))
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Install roam inter 
-        - [ ] Find "[Books/Atomic Habits](<Books/Atomic Habits.md>) quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works."
+        - [ ] Find [Books/Atomic Habits](<Books/Atomic Habits.md>) quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works.
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>)
         1. Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         2. [claims](<claims.md>) vs ["N"-notes](<"N"-notes.md>) vs [preposition](<preposition.md>)
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]), [On Claims](((KS6457gQP))) I will need to find the exact section of the book, but we discussed this last week at a reading (unfortunately not recorded). Some claims can be fleeting notes, but the converse is not necessarily true. From the original definition, I think we have been using the scratch book as a list of fleeting notes and then sorting some of them into claims. Most of the current fleeting notes are claims but fleeting notes $$\neq$$ claims.
                 - Additionally, [On adoption of standards](((ct3Iw8fLY))) I think the next wave of Zettelkasten users will mostly be influenced by Beau's design given that he is running the RBC III. [cc:Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
                 - On top of this it is worth considering what I have been repeating to anyone I zoomed about Zettelkasten development. In order to yield the greatest output it is important to have a personalised system that meets our needs.
                     - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On propositions](((TO6VRGI7D))) This is very cool! But I still think that a proposition is a subset of a fleeting note. Fleeting notes should give the freedom to a person to write almost in a state of free-flow so that then all possible connection, claims, the proposition can be drawn in a more definitive statement. [N](<N.md>) Proposition and claim feel like convergence (or at least the beginning of it), while fleeting note feels more like divergence. 
-                    - "THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags."
+                    - THEN, as insights emerge in the form of questions, ideas, and propositions — they can be captured using the block-level tags.
                     - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])[On Questions](((U8aJOgOcc))) [Q](<Q.md>) Are `[Q](<Q.md>)` convergent or divergent? and is there any point in answering the previous question?
                     - ---
                     - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On your choice of reading](((zOU13sMXS))) How did you even end up picking this book?! (It's hard to find book)
@@ -390,20 +409,20 @@
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Book: Administrative Philosophy
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)"
-        - "#[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>)."
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FO3Ur5A_PBE.png?alt=media&token=e8903c97-3c74-4f84-87d0-7cb1ff41a518)
+        - #[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [°]([csf](<csf.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>)
         - Launching the [Roaman Agora](<Roaman Agora.md>)
             - [x] Tweet about the Agora
             - [x] Google form for submission information
-                - "Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)"
+                - Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
             - Goal: Community awareness of the project
                 - Getting people into the graph
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
-        - Added "Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)"
+        - Added Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
 - ---
 
 # Backlinks

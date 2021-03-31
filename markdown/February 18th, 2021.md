@@ -1,16 +1,16 @@
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "**Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]"
-        - "**Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]"
+        - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
+        - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
         - Check out the [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collective submission for [[Roam Games III]])
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
+        1. I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph.
         2. Review of [["N"-notes]] with Sam — [here](((0oR0z3jPD))) #Onboarding #[[Graph Mentorship]]
-        3. **RC hashtag:** "Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective`" {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}
-        4. "On the value of [[block-level tags]]"
+        3. **RC hashtag:** Tweet your thoughts about the Project (or graph highlights) using the hashtag `#RoamCollective` {{or:[[@[[Everyone]]]] | [[@[[Peter Rosso]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}}
+        4. On the value of [[block-level tags]]
     - #Chat ((A place to propose objects of discussion)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q How might bookmarks, or other surrogates for [[signal]] be used [resurface ]([[resurfacing]])information across time?
             - How could "SR" be used to resurface interesting information. #[[spaced repetition]]
@@ -18,7 +18,7 @@
                     - #Q How might an organization facilitate meaningful engagement and familiarization with that collective knowledge base?
                         - #Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?
                             - i.e. card surfacing and responses are user-specific.
-            - Related:: "{{[[DONE]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command" #randomization #serendipity 
+            - Related:: {{[[DONE]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command #randomization #serendipity 
                 - I want this SO bad. Here is my understanding of what is currently possible:[*]([[Bookmarks]])
                     - [[SmartBlocks]] [Random Commands](https://roamresearch.com/#/app/roamhacker/page/UEV5tM9KC)
                         - Image::
@@ -97,9 +97,9 @@
                                 - As members are inspired to do work, they do it. 
                                 - #[[N]] [[non-coercive]] development systems are optimal for volunteer communities.
                                     - Optimize for inspired action.
-                                    - "Run with [[inspired action]] as it strikes."
-                                    - "#[[N]] "[[ride the lightning]]" as a mode of action."
-                                    - "#[[N]] Roam was built to empower a "[[ride the lightning]]" workflow."
+                                    - Run with [[inspired action]] as it strikes.
+                                    - #[[N]] "[[ride the lightning]]" as a mode of action.
+                                    - #[[N]] Roam was built to empower a "[[ride the lightning]]" workflow.
         - [[Evergreens/Make it work, then make it fast, then make it pretty.]]
         - [[Evergreens/Ready, Fire, Aim]]
         - [[Roam Collective Exports]]
@@ -128,13 +128,13 @@
         - {{[[TODO]]}} Move all non-basic templates to Roam42, reserving roam/templates for basic functions
         - {{[[TODO]]}} Adjust the sidebar colors to a cohesive color strategy
     - #Conversation 
-        1. [@Sam]([[~[[Samuel Bars]]]]) on [[roam-inter]] "I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer."
+        1. [@Sam]([[~[[Samuel Bars]]]]) on [[roam-inter]] I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
             - These are the main points that I don't yet understand, but would be interested in knowing. 
             - Even simply: What can it do? What are the limitations?
                 - Where does it insert blocks?
                     - Nested beneath a designated parent?
                     - What happens if that parent is deleted?
-        2. [@Sam]([[~[[Samuel Bars]]]]) "On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation"
+        2. [@Sam]([[~[[Samuel Bars]]]]) On [the value of making ideas more accessible](((KpVmFpyiw))) for collaborative innovation
             - There is a fleeting note (or several) in there — **I can feel it haha.**
                 - Toss a `#FN` tag and make a claim. (use these liberally)
                     - e.g.
@@ -154,7 +154,7 @@
                 - Which, admittedly, is a really nice blue 😂— we should find a nice place to use it hahah — a nice little easter egg for the CSS
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2ForHq073oFI.png?alt=media&token=b5200ab1-b36f-44cc-a953-c635cfe3ddba)
         4. Simple Replies
-            - "I use the `#Follow Up` block in this way, but it's not perfect"
+            - I use the `#Follow Up` block in this way, but it's not perfect
                 - I do this as well — and will sometimes add a tag if I want to add it to the linked references/query results with other information.
         5. [@Charles]([[~[[Charles Farr]]]]) on [Bookmarks](((RbE7YKTsL)))
             - Right now our behaviour on bookmarks isnt block-level though... We nest multiple bookmarks under a single `#Bookmarks` tag.
@@ -172,13 +172,13 @@
         8. [@Charles]([[~[[Charles Farr]]]]) on [landing pages](((QLgSYCYVl)))
             - I'd say just [[Welcome]] — it's feeling much better now.
     - #Bookmarks
-        - #[[Follow Up]] "[@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs." #[[Week-07: 02-15-2021]]
+        - #[[Follow Up]] [@B]([[^[[Brandon Toner]]]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `#Q` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs. #[[Week-07: 02-15-2021]]
     - #[[Change Log]] 
         1. Made some updates to [[Welcome]] — still lots of work to do, mostly a draft.
         2. Created a [getting started smartblock](((6VI-7PBAd))) and a [personal page smartblock](((8BBipopP5))). — Adapted from Roaman Agora
 - ---
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
@@ -186,7 +186,7 @@
     - #[[My Wins]]
         - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -218,26 +218,26 @@ What's your take on fleeting notes that come from personal experience/journaling
             - hypothesis: Reduce the amount of effort necessary to understand an idea = Increase amount of people building from it
                 - assumption: Even smart people have limited time and energy, and tend to be intellectually lazy outside of their most important work/inquiry
     - #Bookmarks
-        - "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
-        - "#Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?"
-        - "#[[N]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]]."
+        - On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes...
+        - #Q How might SR systems be adapted for a multiplayer graph such that each individual would have a unique experience with the cards/prompts?
+        - #[[N]] Clear and effective [[landing pages]] are especially important in a [[collaborative graph]].
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]]
         - {{[[TODO]]}} Read the [agora protocol](https://docs.google.com/document/d/1JdaC_9J0uYFNFp7g7x4VNtMxJSZQsE2MQkOMmydLCCc/edit#) from [@flancian](https://twitter.com/flancian), note ideas
             - source of rec (thread reply)
                 - https://twitter.com/flancian/status/1362189138326401024?s=20
         - {{[[TODO]]}} Take notes on [[roam-inter]]'s technical walkthrough. Eventually write up some summary/takeaways for contributors
-            - "Even simply: What can it do? What are the limitations?"
-                - "Where does it insert blocks?"
-                    - "Nested beneath a designated parent?"
-                    - "What happens if that parent is deleted?"
+            - Even simply: What can it do? What are the limitations?
+                - Where does it insert blocks?
+                    - Nested beneath a designated parent?
+                    - What happens if that parent is deleted?
         - {{[[DONE]]}} Check if I can randomly resurface 2 bookmarks a day in my dnp with the RANDOM command
             - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
-        - {{[[TODO]]}} "Will add more fleeting notes/answers/questions" to [this](((0oR0z3jPD)))
+        - {{[[TODO]]}} Will add more fleeting notes/answers/questions to [this](((0oR0z3jPD)))
     - #[[The Zettelkasten]]
     - #Conversation #not-populated
         - [@B]([[~[[Brandon Toner]]]]) various: 
-            - "19YO genius kid in ...." Mauritius
+            - 19YO genius kid in .... Mauritius
             - [re roam inter explanation](((posZGcO_u)))
                 - Yeah I think there's a low hanging fruit there, just making a simple, clear, explanation.
                     - Maybe just drawing some of these things out (how ShareDB works, simple, but even simpler when illustrated)
@@ -245,21 +245,21 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - I like the `#Ans` tag
                 - Will add more fleeting notes/answers/questions
         - [@Charles]([[~[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))
-            - "Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system."
+            - Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system.
                 - Haven't got the details yet of how Sonke does it
-            - "What are your thoughts?"
+            - What are your thoughts?
                 - Maybe not journaling but certainly a more reflective process, and less focused on blocks compared to RC
                     - With how you guys do it here, it's breaking down thinking block by block. Beau uses a "wall of text", multiple blocks, for one fleeting note, permanent note, etc.
                         - I guess the idea is that the divergence at the beginning, when you're writing a fleeting note, is less important for him to resurface, and he wants to focus attention on the parent block, where the big idea is summarized (calls them "thumbnails")
                         - He's training us, with the daily writing sessions, to write freely and extensively, and then abstract from that. Less focus on being clear and intentional about what you're writing from the start, it's a wild free ride, but then going back and abstracting
                             - bottom up
                             - Writing to think, then hiding that (although you can come back for context) and collapsing it under "thumbnails" of thought
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - On the value of [[block-level tags]]
             - More and more, I am realizing that I use the `#` functionally in a fundamentally different way that standard `[[]]` page references. The biggest different is when I use a `#` I rarely plan on visiting the page. Instead, I am looking to surface the associated blocks through queries at some future time.
                 - #N A users planned method of [[information retrieval]] will impact all of the [[knowledge]] [[structure]]s they prefer using
-                    - #therefore "#N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]"
+                    - #therefore #N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
                         - #N Educating new users of [[knowledge graphs]] on the power of [[discoverability]] and the available [[search]] functions is critical to [[onboarding]]
                 - Under this usage of the `#` convention, there are essentially two sub-conventions — using the `#` as [[section tags]] and as [[block-level tags]].
                     - I see section tags as being used best to aggregate **general** thoughts and information. They are scratchpads of one form or another. The information that is contained is either prose (like this) or unrefined ideas.
@@ -289,10 +289,10 @@ What's your take on fleeting notes that come from personal experience/journaling
             - Discuss the Agora
                 - Helpful for us to share how we see working with roam-inter?
             - Questions on roam-inter
-                - "Even simply: What can it do? What are the limitations?"
-                    - "Where does it insert blocks?"
-                        - "Nested beneath a designated parent?"
-                        - "What happens if that parent is deleted?"
+                - Even simply: What can it do? What are the limitations?
+                    - Where does it insert blocks?
+                        - Nested beneath a designated parent?
+                        - What happens if that parent is deleted?
                 - How does it handle Daily Note Pages across databases?
                     - Would a Daily Notes reference from a publisher graph link onto a subscription database?
                 - What needs to happen for roam-inter to really launch?
@@ -321,13 +321,13 @@ What's your take on fleeting notes that come from personal experience/journaling
                 - Reminds me of Aaron Burr complaining about Alexander Hamilton's output for the Federalist Papers lol
     - #Conversation
         - On [[CSS]] styling
-            - "#Q Should page link, alias, and external link all be different colours?"
+            - #Q Should page link, alias, and external link all be different colours?
                 - [@Brandon]([[~[[Brandon Toner]]]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors
         - On [[zettelkasten]] systems
             - [@Samuel]([[~[[Samuel Bars]]]]) I seem [Beau's system](((HkBIGfSJa))) as much more akin to journaling than to a research based system.
                 - What are your thoughts?
                 - Recently I completely broke away from the [Luhmann]([[Nicolas Luhmann]])/[Sonke]([[Sonke Ahrens]]) approach in favor of what feels like a more "agnostic" system.
-                    - See: "On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes..."
+                    - See: On moving towards a more agnostic [[taxonomy]]/[[mythology]] of notes...
                         - Goal was to use simpler language that  spoke to the information a given note contained — essentially it's just [Joel's]([[cc:[[Joel Chan]]]]) system with the addition of a `#FN` level that I call a `#Notion`
             - [@Samuel]([[~[[Samuel Bars]]]]) [re](((CAMjHNUyO))) are you all reading the book in tandem with the writing prompts?
             - [@Brandon]([[~[[Brandon Toner]]]]) & [@Samuel]([[~[[Samuel Bars]]]]) I agree with Brandon [here](((4jsJ-Oqrk))) — actually wrote [this](((tkaCguXBu))) before stumbling across Brandons' thoughts...
@@ -345,19 +345,19 @@ What's your take on fleeting notes that come from personal experience/journaling
         - On "[Cornflower Blue]([[cornflower blue]])" [°](((MtLeq6G4N)))
             - [@Brandon]([[~[[Brandon Toner]]]]) see `--cl-blue-300` & `cl-blue-lt-500` 🤐
     - #Bookmarks
-        - "I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph."
-        - "#N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])"
-        - #[[Follow Up]] "[@Charles]([[~[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))"
-        - #[[Follow Up]] "Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([[agile development]])[*]([[Examples]])"
+        - I feel like we need to tidy up the "Welcome" and "Onboarding" parts of the graph.
+        - #N When you reduce the amount of effort necessary to understand an idea, you increase the amount of people that can build on it.[*](((dBkUYuwoz)))[*]([[zettelkasten]])[*]([[collaboration]])
+        - #[[Follow Up]] [@Charles]([[~[[Charles Farr]]]]) On [Beau's system](((Rm2wbbYEF)))
+        - #[[Follow Up]] Particularly love the [Roadmap](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/jzJhiUFXk), [Backlog](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/cXU68xJim), and [Sprint](https://roamresearch.com/#/app/Datahike-Squad-Logs/page/8qmDeH08U) pages! [*]([[agile development]])[*]([[Examples]])
     - #Todos
-        - {{[[TODO]]}} Tweet out summary of this tomorrow: ""On the value of [[block-level tags]]""
+        - {{[[TODO]]}} Tweet out summary of this tomorrow: On the value of [[block-level tags]]
         - {{[[TODO]]}} Create Agora conventions seed-pack
-        - {{[[TODO]]}} Adapt Maggies code to work with block level tags: "Importing [[Maggie Delano]]'s code for her Zettel Smartblock Aggregator"
+        - {{[[TODO]]}} Adapt Maggies code to work with block level tags: Importing [[Maggie Delano]]'s code for her Zettel Smartblock Aggregator
         - {{[[TODO]]}} Purchase domain for Roam Collective
             - Lots of options — my favorite is `roamcollective.ly`
             - Could use it as a slick link shortener and to add customer meta-tags for links
     - #[[Change Log]]
-        - Added better blue shades: "Blue"
-        - Added "Spacing" & Block Highlights
+        - Added better blue shades: Blue
+        - Added Spacing & Block Highlights
             - [@Brandon]([[~[[Brandon Toner]]]]) added [css](((rADwGn6Ml))) in RC
 - ---

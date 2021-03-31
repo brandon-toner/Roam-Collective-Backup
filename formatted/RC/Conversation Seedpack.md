@@ -473,7 +473,7 @@ span[data-link-title^="^"]:before {
 }```
         - Notes
             - [N](<../N.md>)
-            - "[Notion](<../Notion.md>) [Test](<../Test.md>)"
+            - [Notion](<../Notion.md>) [Test](<../Test.md>)
     - ### FAQs
         - 
 

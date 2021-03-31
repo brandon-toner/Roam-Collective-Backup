@@ -9,13 +9,13 @@
     - [Completed](<Completed.md>)
 - ---
 - [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>) [Active](<Active.md>)
-    - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+    - [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
         - [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) [Active](<Active.md>)
         - [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>) [Active](<Active.md>)
 - [Epics/Implement Agile Methodologies in Roam](<Epics/Implement Agile Methodologies in Roam.md>) [Active](<Active.md>)
-    - [ ] "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
+    - [ ] [Q](<Q.md>) What are the most basic conventions required for effective participation?
     - [ ] Draft & finalize Sprint template
-        - [ ] "[Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? "
+        - [ ] [Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? 
     - [ ] Draft & finalize Epic template
 - Onboarding new contributors [Proposed](<Proposed.md>)
     - [Q](<Q.md>) How to onboard new contributors to Roam Collective?

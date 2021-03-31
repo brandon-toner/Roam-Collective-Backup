@@ -32,7 +32,7 @@
 - #[Resources](<Resources.md>)
 
 ## [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
-- "[Q](<Q.md>) What does an [agile development](<agile development.md>) approach look like for Roam Collective?"
+- [Q](<Q.md>) What does an [agile development](<agile development.md>) approach look like for Roam Collective?
     - **[Resources](<Resources.md>):**
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)

@@ -7,5 +7,5 @@
 
 - On defining [norms](<norms.md>)
 
-- Awesome! Pulled something together here: "Draft version of [norms](<norms.md>)
+- Awesome! Pulled something together here: Draft version of [norms](<norms.md>)
 

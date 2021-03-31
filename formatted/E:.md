@@ -7,18 +7,20 @@
 - Could use `[S:](<S:.md>)` + `[E:](<E:.md>)`
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
-2. "[Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)`
+2. [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)`
 
 - [Everyone](<Everyone.md>) What is the current hierarchy flow of `[I](<I.md>), [Q](<Q.md>), [Q:](<Q:.md>), [E:](<E:.md>)`
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- Considering: Adopt `[E:](<E:.md>)`
+
 - I still can't quite grok the value of the [E:](<E:.md>)
 
 - Ability to filter a page by `[E:](<E:.md>)`
 
 - Considering: Adopt `[E:](<E:.md>)`
 
-- Yup, [this](((QKH6Nx7jZ))) was the clincher for "Option A - `[E:](<E:.md>)`
+- Yup, [this](((QKH6Nx7jZ))) was the clincher for Option A - `[E:](<E:.md>)`
 
 - [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`
 
@@ -26,16 +28,16 @@
 
 - On nested `[E:](<E:.md>)`
 
-- "Ability to filter a page by `[E:](<E:.md>)`
+- Ability to filter a page by `[E:](<E:.md>)`
 
 - The other benefit is being able to query based on the combination of `[E:](<E:.md>)`
 
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [E:](<E:.md>)
 
-- "Considering: Adopt `[E:](<E:.md>)`
+- Considering: Adopt `[E:](<E:.md>)`
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "[Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`
+- [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - Intermediary step before acquiring the `[E:](<E:.md>)`
@@ -65,11 +67,11 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - Option A - `[E:](<E:.md>)`
 
-- "Ability to filter a page by `[E:](<E:.md>)`
+- Ability to filter a page by `[E:](<E:.md>)`
 
 - `[E:](<E:.md>)`
 
-- **[Decision](<Decision.md>):** "Option A - `[E:](<E:.md>)`
+- **[Decision](<Decision.md>):** Option A - `[E:](<E:.md>)`
 
 ## [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)
 - {{[query](<query.md>): {and: [Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>) {or: [E:](<E:.md>)

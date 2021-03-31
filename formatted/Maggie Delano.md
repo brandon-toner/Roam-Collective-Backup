@@ -20,14 +20,14 @@
 ## [February 18th, 2021](<February 18th, 2021.md>)
 - Importing [Maggie Delano](<Maggie Delano.md>)'
 
-- [ ] Adapt Maggies code to work with block level tags: "Importing [Maggie Delano](<Maggie Delano.md>)'
+- [ ] Adapt Maggies code to work with block level tags: Importing [Maggie Delano](<Maggie Delano.md>)'
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [Maggie D]([Maggie Delano](<Maggie Delano.md>))
 
-- "[Maggie D]([Maggie Delano](<Maggie Delano.md>))
+- [Maggie D]([Maggie Delano](<Maggie Delano.md>))
 
-- "[Maggie D]([Maggie Delano](<Maggie Delano.md>))
+- [Maggie D]([Maggie Delano](<Maggie Delano.md>))
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
 - Added custom indexing code, inspired by [Maggie Delano](<Maggie Delano.md>)

@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+- #[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
 
 ## [Evergreens/Make evergreen notes as you write.](<Evergreens/Make evergreen notes as you write..md>)
 - ^^As insights crystallize, document them as evergreen notes.^^ This allows those ideas to [persist across time]([E/Evergreen notes persist across time](<E/Evergreen notes persist across time.md>)) due to their enhanced [resurfacing](<resurfacing.md>)
@@ -21,10 +21,10 @@
 
 - On [resurfacing](<resurfacing.md>)
 
-- "#[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
+- #[N](<N.md>) important [questions](<questions.md>) central to an area of development should be elevated to [page-level](<page-level.md>) to promote more frequent consideration and [resurfacing](<resurfacing.md>).
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- ""#[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
+- #[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - I consider most content quite fleeting and try to keep the good stuff by linking and tagging to concepts or collections I know will be more likely to [resurface]([resurfacing](<resurfacing.md>))
@@ -43,16 +43,16 @@ This addresses the problem of “missing things”. If ideas are documented in z
 
 - In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
 
-- "Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
+- Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
 
-- "In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
+- In general, I think the [I](<I.md>) and [Vision](<Vision.md>) tags may be helpful to promote [resurfacing](<resurfacing.md>)
 
 - Yeah, they’re pretty good [resurfacing](<resurfacing.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
-- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
+- According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
 
-- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
+- According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
 
 - According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>), these seedling note should have higher priority to [resurfacing](<resurfacing.md>)
 

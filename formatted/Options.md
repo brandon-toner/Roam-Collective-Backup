@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-7. [ ] [Choice](<Choice.md>):  "Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>). To make that a place to nest responses to prompts AND contributions to daily activities." ((((e-lL4buZ1))))
+7. [ ] [Choice](<Choice.md>):  Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>). To make that a place to nest responses to prompts AND contributions to daily activities. ((((e-lL4buZ1))))
             - **[Options](<Options.md>):**
 
 ## [February 8th, 2021](<February 8th, 2021.md>)

@@ -10,7 +10,10 @@
     - #Promptstorming
         - A place to respond to prompts.
     - #[[Bookmarks]]
-        - {{[[embed]]: ((XS29OCnVF))}}
+        - Added #Bookmarks to the [[DNP Modules]]
+            - Example::
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
     - #[[The Zettelkasten]]
         - A place to input content into a zettelkasten.
         - More formal ideas go here.

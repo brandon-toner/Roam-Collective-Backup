@@ -17,6 +17,12 @@
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - Use notes from each class ([N](<N.md>), [LN](<LN.md>),
 
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>),
+
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>),
+
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>),
+
 ## [roam/css](<roam/css.md>)
 - #[LN](<LN.md>)
 

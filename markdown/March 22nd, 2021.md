@@ -2,7 +2,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #[[Graph Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - OU! I LOVE the new __My Daily Notes__ CSS. 
             - [[@[[Charles Farr]]]] was this you? haha 

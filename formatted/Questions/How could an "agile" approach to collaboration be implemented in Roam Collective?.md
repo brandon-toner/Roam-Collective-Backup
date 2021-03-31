@@ -4,7 +4,7 @@
     - **[Created by](<../Created by.md>):** [Brandon Toner](<../Brandon Toner.md>)
     - **[Author](<../Author.md>):** Adapted from Charles' block-level question.
     - **[References](<../References.md>):**  ((Supporting FN, LN, EN, or RN would go here))
-        - "[Q](<../Q.md>) What does an [agile development](<../agile development.md>) approach look like for Roam Collective?"
+        - [Q](<../Q.md>) What does an [agile development](<../agile development.md>) approach look like for Roam Collective?
     - **[Resources](<../Resources.md>):**
         - [Articles/Agile Product Management in Roam](<../Articles/Agile Product Management in Roam.md>)
     - **[Related](<../Related.md>):**

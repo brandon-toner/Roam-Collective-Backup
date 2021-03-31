@@ -28,8 +28,8 @@
                 - Roam42 is a javascript extension for Roam Research, adding some incredibly powerful features.
                 - For more information on Roam42, see [Roam42.com](https://roam42.com)
             - **[Import Instructions](<../Import Instructions.md>):**
-                - Drag the "Roam42 js" block below into the [Graph/Extensions](<../Graph/Extensions.md>) page
-                - Drag the "Roam42 Conventions & Uses" below into the [Onboarding/Using extensions](<../Onboarding/Using extensions.md>) page
+                - Drag the Roam42 js block below into the [Graph/Extensions](<../Graph/Extensions.md>) page
+                - Drag the Roam42 Conventions & Uses below into the [Onboarding/Using extensions](<../Onboarding/Using extensions.md>) page
             - Roam42 js
                 - {{{[roam/js](<../roam/js.md>)}}}
                     - ```javascript
@@ -47,7 +47,7 @@ document.body.appendChild(s);
             - **[Info](<../Info.md>):**
                 - The following CSS uses a standard color scheme to style elements. All of the CSS code here draws on the color scheme.
             - **[Import Instructions](<../Import Instructions.md>):**
-                - Drag either the "Color Scheme (Hosted)" or the "Color Scheme (Full)" into the [roam/css](<../roam/css.md>) page
+                - Drag either the Color Scheme (Hosted) or the Color Scheme (Full) into the [roam/css](<../roam/css.md>) page
             - **[Code](<../Code.md>):**
                 - Color Scheme (Hosted)
                     - ```css

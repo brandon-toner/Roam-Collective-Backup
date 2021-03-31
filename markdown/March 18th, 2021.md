@@ -2,7 +2,7 @@
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #[[Graph Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - Working on a combo seedpack / onboarding package → [[RC/Onboarding Seedpack]]
     - #Conversation #not-populated

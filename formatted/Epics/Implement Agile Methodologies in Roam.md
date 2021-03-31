@@ -9,7 +9,9 @@
         - [Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?](<../Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?.md>)
     - **[Work Summary](<../Work Summary.md>):**  ((Include your name, the date, a description of the work, and a link to the work))
         1. Embedded work from `[[[Q:](<../[[Q:.md>) How could an "[agile](<../agile.md>)" approach to collaboration be implemented in Roam Collective?]]`:
-            - {{[embed](<../embed.md>): ((hERIWAO3v))}}
+            - **[Work Summary](<../Work Summary.md>):** 
+                - [Charles' initial work mapping out this area](((6GfcqwQrI)))
+                - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))
 
 # Backlinks
 ## [Backlog](<Backlog.md>)

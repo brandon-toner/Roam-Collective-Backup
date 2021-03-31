@@ -1,21 +1,40 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - [Announcements](<Announcements.md>)
     - Meetup Today at 20:00GMT
         - To suggest agenda items, tag the block with `[Agenda](<Agenda.md>)` — [like this](((qt8oh69sN)))
         - Zoom link:
-            - "https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
-You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
+            - https://bristol-ac-uk.zoom.us/j/99841437559?pwd=Rjd3eU1RaDlDRUg1RUw2QWZPTExUUT09
+You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - "Meetup Today at 20:00GMT"
-        - **["Processes](<"Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))"
-        - "Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>)."
-        - "Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))"
-            - "[Draft Sprints template](((tG1HJs2dK)))"
+        - Meetup Today at 20:00GMT
+        - **[Processes](<Processes.md>):** How to annotate an article or other piece of reference material[*]([annotations](<annotations.md>))[*]([reference notes](<reference notes.md>))
+        - Added the convention of adding [R:](<R:.md>) [namespace]([namespaces](<namespaces.md>)) for [reference notes](<reference notes.md>) and [Q:](<Q:.md>) namespace for [questions](<questions.md>).
+        - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))
+            - [Draft Sprints template](((tG1HJs2dK)))
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Agenda](<Agenda.md>)
             - Overview — Brandon
@@ -64,9 +83,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - Explain the idea for graph dependency
     - [Conversation](<Conversation.md>) 
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - In the [reference notes template](((gix1P4auD))), The "literature notes" and "highlights" attributes feel to individual...
             - I'm thinking on removing those, and graph contributors can document their lit notes and highlights under an "annotations" tag in combination with the page title.[*]([Processes](<Processes.md>))
@@ -81,8 +100,8 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             3. Add the type of reference (Articles, Books, Podcasts) as a tag.
             4. Create a bullet in you DNP Section with the name of the reference note page and `[Annotations](<Annotations.md>)` [Important](<Important.md>)
                 - **[Example](<Example.md>):** 
-                    - "[Annotations](<Annotations.md>) of [Articles/How to write good prompts](<Articles/How to write good prompts.md>) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])"
-                    - "[Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                    - [Annotations](<Annotations.md>) of [Articles/How to write good prompts](<Articles/How to write good prompts.md>) [*]([cc:[[leekeifon](<cc:[[leekeifon.md>)]])
+                    - [Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
             5. The method of HOW you document your annotations here is less important... some creative liberties are fine and encouraged.
                 - It is helpful, however to make use of tags such as: `#[Literature Notes](<Literature Notes.md>)`, `[Highlights](<Highlights.md>)`, and `[Notes](<Notes.md>)` / `[Comments](<Comments.md>)` (?) 
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
@@ -106,7 +125,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                         - Using the `top-level parent` block
         - [Q](<Q.md>) How do we tag suggested or draft processes and conventions?[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
             - I'm hesitant to tag with [Processes](<Processes.md>) or [Conventions](<Conventions.md>) as to not dilute those tags with noise... but want to make sure that the bits of partial work are properly carried forward... 
-                - **[Example](<Example.md>):** "Thoughts:: [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])"
+                - **[Example](<Example.md>):** Thoughts:: [voting](<voting.md>) mechanism [@]([^[[Charles Farr](<^[[Charles Farr.md>)]])
         - [Q](<Q.md>) How should pages for [sprints](<sprints.md>) be designed? 
         - Ah! I think I have an idea on the sprints and projects side of things that helps to resolve the [orientation](<orientation.md>) problem, as well as maintains the DNP sections as the main place of writing...[*]([~[[Charles Farr](<~[[Charles Farr.md>)]]), [*]([@[[Larissa de Lima](<@[[Larissa de Lima.md>)]])[*](((8TBYt9NTT)))
             - [I](<I.md>) Within the "Sprint" or "Project" page, there could be an update log... a shared space where we we list the date, our name, and the work that we did on developing the active pursuit.
@@ -128,12 +147,12 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)
     - [Conversation](<Conversation.md>) 
         1. Simple Replies
-            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb)))" 
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb))) 
                 - Ah no way! I use both PDF Expert and Spark and Scanner Pro. I LOVE [Readdle](<Readdle.md>) haha.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
-            - "Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)` page — only really seems to impact notes from [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])"
+            - Some `[@[[Charles Farr](<@[[Charles Farr.md>)]]` mentions don't show up within my `[Charles Farr](<Charles Farr.md>)` page — only really seems to impact notes from [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
                 - Is it the ones I'm tucking into aliases?? [~[[Charles Farr](<~[[Charles Farr.md>)]]
-            - "[x] Create template for Q pages [*](((n0APOFCfx)))"
-                - See here ".rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates"[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
+            - [x] Create template for Q pages [*](((n0APOFCfx)))
+                - See here .rcQST — Questions Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         2. On Charle's [highlights/notes syntax](((l8ATiYKZG))) with page number
             - How did you generate this syntax with page number? [*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
         3. On `[R:](<R:.md>)` namespacing.[*](((sqydLl-Vb)))
@@ -141,7 +160,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - Feeling like this is a good implementation for RC. Create a page with an `[R:](<R:.md>)` namespace for any references or resources in the database.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                     - **[Example](<Example.md>):** [Articles/Joel Chan — Knowledge Synthesis](<Articles/Joel Chan — Knowledge Synthesis.md>)
     - [Bookmarks](<Bookmarks.md>)
-        - "I have included 8 different algorithms in the Roam Agile template. These are:"
+        - I have included 8 different algorithms in the Roam Agile template. These are:
         - [Inspirations and ancestors to RC](((RCwNQ4AD1)))
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
     - [Sprints](<Sprints.md>) [Examples](<Examples.md>)
@@ -157,12 +176,12 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - Query
                 - {{[query](<query.md>): {and: [Agenda](<Agenda.md>) {not: [roam/css](<roam/css.md>)]}}}}
             - **[Agenda](<Agenda.md>):**
-                - "Overview — Brandon"
-                - "Meta Structure in "About" section — Brandon"
-                - "Draft "Favourite Problems" — Brandon"
-                - "Slack-to-Roam — Brandon"
-                - "Roam Games Idea — Peter"
-                - "Output Channels — Peter"
+                - Overview — Brandon
+                - Meta Structure in "About" section — Brandon
+                - Draft "Favourite Problems" — Brandon
+                - Slack-to-Roam — Brandon
+                - Roam Games Idea — Peter
+                - Output Channels — Peter
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - #[Bug Reports](<Bug Reports.md>)
@@ -286,18 +305,18 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - ---
             - Summarizing, the structure would look something like this...
                 - `[Q:](<Q:.md>) What are the fundamental dependent relationships within a knowledge graph?`
-                    - **Oriented around:** answering a single focused question such as "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
-                        - "[Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?"
+                    - **Oriented around:** answering a single focused question such as [Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?
+                        - [Q](<Q.md>) What are the fundamental dependent relationships within a knowledge graph?
                     - **With status:** `[Sprint](<Sprint.md>)/Current`
                     - **Composed of:** a base `[Q](<Q.md>)` block maturing into a `[Q:](<Q:.md>)` page that at its completion is readily legible to an external audience (with relevant contxt)
-                    - **Nested under:** "`Sprint/1`"
+                    - **Nested under:** `Sprint/1`
                 - `Sprint/1`
                     - **Oriented around:** a realistic set of questions to be answered in 7 days time (tentative)
                     - **With status:** `[Sprint](<Sprint.md>)/Active`
                     - **Composed of:** multiple questions (`[Q](<Q.md>)` blocks → `[Q:](<Q:.md>)` pages) and an associate set of tasks (e.g., create a template for output or implement roam garden extension)
-                    - **Nested under:** "`Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`"
+                    - **Nested under:** `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
                 - `Epic/How do you manage dependency of ideas and influence within a community knowledge graph?`
-                    - **Oriented around:** answering a single broad question such as "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+                    - **Oriented around:** answering a single broad question such as [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
                     - **With status:** `[Epic](<Epic.md>)/Active`
                     - **Composed of:** two sprints (through next Wednesday & then through next Sunday)
             - Outlining an Epic would proceed like...
@@ -336,9 +355,9 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
                 - I was on the free trial version but may actually purchase the full one on the strength of this alone
                 - From the same firm (Readdle) that developed the [Spark](https://sparkmailapp.com/) email client, which I also highly recommend...
             - I like the `Annotations` convention [*]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) [*](((XIszaTY8o))) — additional examples...
-                - "[Annotations](<Annotations.md>) Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)"
-                - "[Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)"
-                - "[Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)"
+                - [Annotations](<Annotations.md>) Slack-to-Roam integration — [roamjs](https://roamjs.com/docs/extensions/slack)
+                - [Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 1 — [zsolt](https://www.zsolt.blog/2021/01/agile-product-management-in-roam-part-1.html)
+                - [Annotations](<Annotations.md>) [Articles/Agile Product Management in Roam](<Articles/Agile Product Management in Roam.md>) - Part 2 — [zsolt](https://www.zsolt.blog/2021/02/agile-product-management-in-roam-part-2.html)
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] not entirely sure which ones are [missing](((N2piKtO8Z))) — weird thing is they all show up on the actual `[@[[Charles Farr](<@[[Charles Farr.md>)]]`, just not the `[Charles Farr](<Charles Farr.md>)` page
     - #[GTD Zone](<GTD Zone.md>)
         - [x] Import [connectors](((NbeK4NK4e)))
@@ -360,11 +379,11 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
         - Convergent targets allow for easier re-entry
             - — [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - Sprint/Roam Game Example
-            - "[Q](<Q.md>) What are the most basic conventions required for effective participation?"
-            - "[Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))"
-            - "[Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?"
+            - [Q](<Q.md>) What are the most basic conventions required for effective participation?
+            - [Q](<Q.md>) How do "optional but effective" conventions go above and beyond?[*]([Evergreens/beneficial, but optional](<Evergreens/beneficial, but optional.md>))
+            - [Q](<Q.md>) How can you use conventions to define the relationships in the graph (child-parent → support versus contradictory)?
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>))
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{word-count}}  {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([mtv](<mtv.md>))
     - [Scratchpad](<Scratchpad.md>) 
         - #[Meetings & Discussions](<Meetings & Discussions.md>)
             - use fleeting notes and q for free, make pages once you ref an idea multiple times
@@ -376,7 +395,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in."
             - [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>)
             - question well stated is half solved
                 - what why how - a structural guide to making questions
-            - "[Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?"
+            - [Q](<Q.md>) How do you manage dependency of ideas and influence within a community knowledge graph?
         - Thinking about [Roam Games](<Roam Games.md>) and one of the strong things that has come through is the emphasis on building on the work of others. Who have we built [Roam-Collective](<Roam-Collective.md>) on the shoulders of?
             - [Roam Book Club](<Roam Book Club.md>) conventions, Andy matuschak, Smartblocks/RoamHacker, @Mappletons for OG roam tag styling, etc
 - ---

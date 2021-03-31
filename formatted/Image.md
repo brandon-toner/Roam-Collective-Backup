@@ -47,6 +47,9 @@
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
+            - **[Image](<Image.md>):**
+
+- [~[[Charles Farr](<~[[Charles Farr.md>)]], [^[[Peter Rosso](<^[[Peter Rosso.md>)]]
                 - **[Image](<Image.md>):**
 
 ## [February 21st, 2021](<February 21st, 2021.md>)
@@ -64,13 +67,16 @@
 - [Graph Database Stats](<Graph Database Stats.md>)
             - **[Image](<Image.md>):**
 
-- "[@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+- [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en) — **muuuuuuuuch better!**
                 - **[Image](<Image.md>):**
 
-**UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
+**UPDATE:** Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components))
             - **[Image](<Image.md>):**
 
 ## [February 25th, 2021](<February 25th, 2021.md>)
+- https://twitter.com/Conaw/status/1231331109775933440?s=20
+        - **[Image](<Image.md>):**
+
 - https://twitter.com/Conaw/status/1231331109775933440?s=20
                 - **[Image](<Image.md>):**
 

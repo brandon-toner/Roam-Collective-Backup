@@ -2,4 +2,8 @@
 - Instructions::
     - Timestamp your activity as you visit or make changes in the graph.
         - Example:: 
-            - {{embed: ((aXbOspJJ4))}}
+            - #[[Daily Log]]
+                - 14:00 — [[[[Clubhouse]] conversation: Jan 25 2021]]
+                - 14:00-19:06 — [[Brandon Toner]] Established the graph with the goal of reaching a stable baseline for others to join in.
+                - 22:17 — Set goal of creating a [[Roam Collaboration Guide]]
+                - 23:16 — Noticed some [[CSS]] changes (looks good!) Might be helpful to log those changes using the `#[[Change Log]]`, nested under your [[DNP Section]] so that we can track them (who made what change when +/- why).

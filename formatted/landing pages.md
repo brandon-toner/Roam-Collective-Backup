@@ -11,5 +11,5 @@
 
 - [Q](<Q.md>) Where should visitors be directed from a [landing page]([landing pages](<landing pages.md>))
 
-- "#[N](<N.md>) Clear and effective [landing pages](<landing pages.md>)
+- #[N](<N.md>) Clear and effective [landing pages](<landing pages.md>)
 

@@ -9,4 +9,6 @@
         - [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
     - Work Summary::  ((Include your name, the date, a description of the work, and a link to the work))
         1. Embedded work from `[[[[Q:]] How could an "[[agile]]" approach to collaboration be implemented in Roam Collective?]]`:
-            - {{[[embed]]: ((hERIWAO3v))}}
+            - Work Summary:: 
+                - [Charles' initial work mapping out this area](((6GfcqwQrI)))
+                - **Brandon:** [Thoughts on the "work summary" attribute](((JZ6S734y4)))

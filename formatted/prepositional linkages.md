@@ -21,7 +21,7 @@
 
 # Backlinks
 ## [Collection/Block-Level Tags](<Collection/Block-Level Tags.md>)
-- "#[N](<N.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- #[N](<N.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - Idea of [prepositional linkages](<prepositional linkages.md>)
@@ -38,16 +38,16 @@
 
 - [prepositional linkages](<prepositional linkages.md>)
 
-- **["Thoughts](<"Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)"
+- **[Thoughts](<Thoughts.md>):** [prepositional linkages](<prepositional linkages.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
 - List of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
 - Maybe there are some [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
-- "To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>)
+- To answer [the above](((S6sTyt088))) question, we need to build an inventory of [prepositional linkages](<prepositional linkages.md>)
 
-- "[prepositional linkages](<prepositional linkages.md>)"
+- [prepositional linkages](<prepositional linkages.md>)
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
 - Building a collection of [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
@@ -63,10 +63,10 @@
 1. The [prepositional linkages](<prepositional linkages.md>)
 
 ## [February 24th, 2021](<February 24th, 2021.md>)
-- ""#[N](<N.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- #[N](<N.md>) the use [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - **Concept page:** [prepositional linkages](<prepositional linkages.md>)
 
-- "#[N](<N.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
+- #[N](<N.md>) [prepositional linkages]([prepositional linkages](<prepositional linkages.md>))
 

@@ -20,5 +20,5 @@
 - Calling it for the evening, but looking forward to exploring the idea of a [semi-lattice](<semi-lattice.md>)
 
 ## [March 1st, 2021](<March 1st, 2021.md>)
-- "On building a [semi-lattice](<semi-lattice.md>)
+- On building a [semi-lattice](<semi-lattice.md>)
 

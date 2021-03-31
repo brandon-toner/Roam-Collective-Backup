@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>)
+
 ## [Eneko Uruñuela](<Eneko Uruñuela.md>)
 - {{[query](<query.md>): {and: [@](<@.md>) [Eneko Uruñuela](<Eneko Uruñuela.md>)}}}
         - **[SmartBlocks](<SmartBlocks.md>):**
@@ -14,19 +17,21 @@
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - Envision being able to use it with [SmartBlocks](<SmartBlocks.md>)
 
+- Envision being able to use it with [SmartBlocks](<SmartBlocks.md>)
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Potential of using [SmartBlocks](<SmartBlocks.md>)
 
 - Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
-- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - 17:54 — Added some Productivity [SmartBlocks](<SmartBlocks.md>).
 
 - 18:18 — Added the "Daily Review" [SmartBlock]([SmartBlocks](<SmartBlocks.md>))
 
-- "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: "Looking at all of the [SmartBlocks](<SmartBlocks.md>)
+- [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what do you think about: Looking at all of the [SmartBlocks](<SmartBlocks.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[N](<N.md>) [copy-paster](<copy-paster.md>)-like templating tools are helpful for standardizing [conventions](<conventions.md>). This also applies to [Roam templates](<Roam templates.md>) and [SmartBlocks](<SmartBlocks.md>).
@@ -45,6 +50,9 @@
 ## [Matthew Vogel](<Matthew Vogel.md>)
 ```
     - **[SmartBlocks](<SmartBlocks.md>):**#
+
+## [My Daily Notes](<My Daily Notes.md>)
+- Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)
 - {{[query](<query.md>): {and: [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}  }}

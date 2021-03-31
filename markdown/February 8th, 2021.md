@@ -1,10 +1,29 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! "
+        1. For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
     - #Chat ((A place to propose objects of discussion)) 
         1. [emoji reactions]([[emoji reactions]]) seem no longer [broken](((9hY8K9SvB)))! 
 - ---
@@ -21,7 +40,7 @@
                 - is that (even) theoretically possible?
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - #Resources
             - For anyone who uses [[spaced repetition]], there is a great new [Roam extension](https://roamresearch.com/#/app/roam-depot-developers/page/uQSCwVKx0)! 
@@ -53,8 +72,8 @@
                                 - Clear distinction between evergreen and questions
                                     - Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
                                     - Empowers a workflow that encourages tagging them with ease. 
-                    - Decision:: "Q:"
-                        - Rationale:: "Benefit when looking to browse the questions, say for something that might apply to what you are writing about. "
+                    - Decision:: Q:
+                        - Rationale:: Benefit when looking to browse the questions, say for something that might apply to what you are writing about. 
                     - Notes:: #not-populated
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
@@ -121,7 +140,7 @@
         - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
     - #Conversation 
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Bookmarks
-        - "https://twitter.com/Conaw/status/1352840390286602241?s=20"
+        - https://twitter.com/Conaw/status/1352840390286602241?s=20
 - ---

@@ -4,24 +4,38 @@
 - [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
-- also wanna see if "[ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- also wanna see if [ ] Review [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+## [February 1st, 2021](<February 1st, 2021.md>)
+- [ ] Import sections of the [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+- [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+- [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
 - [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
-- "[Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
-- "[Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
 - There are some great resources online on the [Purdue University](<Purdue University.md>) [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
 - [ ] Import sections of the [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
-- "[Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
-- "[Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 
-- "[Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+- [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+## [January 31st, 2021](<January 31st, 2021.md>)
+- [ ] Import sections of the [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+- [Annotations](<Annotations.md>) of [rhetoric](<rhetoric.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
+
+- [Annotations](<Annotations.md>) of [Toulmin Argument](<Toulmin Argument.md>) on [Purdue Online Writing Lab](<Purdue Online Writing Lab.md>)
 

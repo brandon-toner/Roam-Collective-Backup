@@ -7,4 +7,4 @@
     - Related:: #not-populated ((Not a reference, but a related idea, block or page))
     - Contents:: #not-populated
     - Next Steps:: #not-populated ((Plans for future elaboration or development))
-    - "#Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+    - #Evergreens Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...

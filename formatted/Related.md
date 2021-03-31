@@ -189,6 +189,12 @@
                 - **[Related](<Related.md>):**
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- Considering: Adopt `[E:](<E:.md>)` as the [namespace]([namespaces](<namespaces.md>)) of choice, while adopting [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>). 
+            - **[Related](<Related.md>):**
+
+- [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
+                            - **[Related](<Related.md>):**
+
 - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                                     - **[Related](<Related.md>):**
 
@@ -219,6 +225,13 @@
 - #[N](<N.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
             - **[Related](<Related.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+                        - **[Related](<Related.md>):**
+
+- [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+                                - **[Related](<Related.md>):**
+
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[Q](<Q.md>) It should be possible to differentiate [these structure](((fQ5H_Edl8))) by [datalog](<datalog.md>) query. But I would like a discussion on the semantics of these structures. In other words, **why we want to distinguish these two types of structure when we’re writing**? It has certain [patterns](<patterns.md>) to be recognized.  [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]
             - **[Related](<Related.md>):**
@@ -241,23 +254,46 @@
 - **[Related](<Related.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                - **[Related](<Related.md>):**
+
 - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
                 - **[Related](<Related.md>):**
 
 - Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                                - **[Related](<Related.md>):**
+
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
                     - **[Related](<Related.md>):**
+
+- Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
+            - **[Related](<Related.md>):**
+
+- Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                            - **[Related](<Related.md>):**
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Live call to discuss active [projects](<projects.md>), launch or work on [sprints](<sprints.md>), and to collectively reflect on prompts related to those projects or sprints.
                         - **[Related](<Related.md>):**
 
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                            - **[Related](<Related.md>):**
+
 - Ok... maybe not "__better__" but different and complimentary!
             - **[Related](<Related.md>):**
+
+- **[Date Created](<Date Created.md>):** {{Today:42SmartBlock:.Today}}
+                            - **[Related](<Related.md>):**
+
+- this model maybe [Related](<Related.md>)
 
 - this model maybe [Related](<Related.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- "When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge."
+- When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
+                        - **[Related](<Related.md>):**
+
+- When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
                         - **[Related](<Related.md>):**
 
 - #[N](<N.md>) When ideas are documented in [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>), they persist through time. This improves [resurfacing](<resurfacing.md>).
@@ -272,7 +308,7 @@
 - **“Public vs Private”** is one **dimension** to address the **‘space’** concept.
             - **[Related](<Related.md>):**
 
-- **[Related](<Related.md>):** "Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of "#[N](<N.md>) public vs private " when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+- **[Related](<Related.md>):** Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [alignment](<alignment.md>) would accelerate our [communication](<communication.md>) efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of #[N](<N.md>) public vs private  when doing [collaboration](<collaboration.md>). [~[[Charles Farr](<~[[Charles Farr.md>)]]
             - **[Related](<Related.md>):**
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
@@ -309,6 +345,10 @@
 
 - [Related](<Related.md>)
 
+- [Related](<Related.md>)
+
+- [Related](<Related.md>)
+
 ## [Learning Center](<Learning Center.md>)
 - [Status](<Status.md>)/Experimental
 - **[Related](<Related.md>):**
@@ -327,6 +367,10 @@
 
 - It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
                 - **[Related](<Related.md>):**
+
+## [March 2nd, 2021](<March 2nd, 2021.md>)
+- It's a rough theory and I'm interrogating why I believe it. I want to be able to articulate it well, where right now it's really just something that I __feel__.
+            - **[Related](<Related.md>):**
 
 ## [Maxims](<Maxims.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJfLWErBBCv.png?alt=media&token=5643300b-a815-487a-86e0-c2a6cd11da79)
@@ -415,6 +459,13 @@
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<Related.md>):**
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>)) [conventions]([Conventions](<Conventions.md>)). [zettelkasten](<zettelkasten.md>) [*]([Bookmarks](<Bookmarks.md>))
+        - **[Related](<Related.md>):**
+
+- [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+                - **[Related](<Related.md>):**
 
 ## [Week-05: 02-01-2021](<Week-05: 02-01-2021.md>)
 - **[Related](<Related.md>):**

@@ -1,17 +1,63 @@
-- {{embed: ((b9pQnEURN))}}
+- [Announcements](<Announcements.md>) **READ THIS**
+    - 
+    - **The graph is periodically unstable — if things look odd, there might be sync stuff going on:** 
+        - Missing/misplaced blocks
+        - Missing CSS
+        - Announcements section looks weird
+        - Unable to add blocks in some places
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - Create a hub for the [Roam Games](<Roam Games.md>)
+    - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - [Announcements](<Announcements.md>)
     - Change in [convention]([Conventions](<Conventions.md>))! [Chat](<Chat.md>)
         - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)` to `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` ([complex page names](<complex page names.md>)) — **note that the CSS box should wrap the name**
-        - Can now "**save**" a notification by changing to a `^` "Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` "
+        - Can now "**save**" a notification by changing to a `^` Mark the notification as "read" by changing `@` to `~`, or "save" the message by changing to a `^` 
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fgud_OjGiPq.png?alt=media&token=a138fdca-7b3d-4572-8771-56d197428850)
-    - {{[embed](<embed.md>): ((XS29OCnVF))}}
+    - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
+        - **[Example](<Example.md>):**
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FZdVnkdPaza.png?alt=media&token=5c3e65d4-5a31-4b80-bc88-27c56c49c625)
 - ---
 - #[Main Feed](<Main Feed.md>)
-    - {{[embed](<embed.md>): ((JfnNhLc4U))}}
+    - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
+        - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
+            - Fleeting Notes **-[contribute to]>** Creative Projects
+            - Fleeting Notes **-[contribute to]>** Evergreen Notes
+            - Literature Notes **-[contribute to]>** Creative Projects
+            - Literature Notes **-[contribute to]>** Evergreen Notes
+        - Purpose:
+            - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                - #[N](<N.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)).
+        - Process:
+            - Capture assertions as ["N"-notes](<"N"-notes.md>) (atomic ideas, succinct)
+            - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
+            - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
+            - Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                - **[Related](<Related.md>):** [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+            - #[Next Steps](<Next Steps.md>) 
+                - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
+            -  [Chat](<Chat.md>)
+                - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
 - ---
 - #[Daily Activities](<Daily Activities.md>)
-    - "Explore your vision for the future of collaboration in Roam."
-    - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+    - Explore your vision for the future of collaboration in Roam.
+    - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
     - [Scratchpad](<Scratchpad.md>)
         - [Tips](<Tips.md>)
@@ -54,7 +100,26 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - #[Change Log](<Change Log.md>) 
             - Adjusted not-populated to not_populated based on [Matthew Vogel](<Matthew Vogel.md>)'s suggestion.
             - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
-                - **[Related](<Related.md>):** {{[embed](<embed.md>): ((JfnNhLc4U))}}
+                - **[Related](<Related.md>):** 
+                    - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
+                        - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
+                            - Fleeting Notes **-[contribute to]>** Creative Projects
+                            - Fleeting Notes **-[contribute to]>** Evergreen Notes
+                            - Literature Notes **-[contribute to]>** Creative Projects
+                            - Literature Notes **-[contribute to]>** Evergreen Notes
+                        - Purpose:
+                            - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                                - #[N](<N.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)).
+                        - Process:
+                            - Capture assertions as ["N"-notes](<"N"-notes.md>) (atomic ideas, succinct)
+                            - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
+                            - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
+                            - Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                                - **[Related](<Related.md>):** [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+                            - #[Next Steps](<Next Steps.md>) 
+                                - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
+                            -  [Chat](<Chat.md>)
+                                - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
             - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
                 - **[Example](<Example.md>):**
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fl6JHFb9mgM.png?alt=media&token=59063c37-6e7a-4792-94d4-7a151f0a3ff8)
@@ -112,7 +177,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - #[Next Steps](<Next Steps.md>) 
                     - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
                 -  [Chat](<Chat.md>)
-                    - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? "[zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)"
+                    - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
         - #[N](<N.md>) It is best, but not required to support [literature notes](<literature notes.md>) with [Highlights](<Highlights.md>) ([context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s terminology) [zettelkasten](<zettelkasten.md>)
         - #[N](<N.md>) conversation surrounding ["N"-notes](<"N"-notes.md>) and other parts of the [zettelkasten](<zettelkasten.md>) should be the centerpiece of [collaboration](<collaboration.md>) in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). #[Roam Collaboration Guide](<Roam Collaboration Guide.md>)
             - Block reference the FN into your Comments module, then nest comments underneath.
@@ -120,7 +185,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                     - Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [~[[Charles Farr](<~[[Charles Farr.md>)]]
         - [Conventions](<Conventions.md>) relevant [tags](<tags.md>) should be appended to any ["N"-notes](<"N"-notes.md>) to promote effective [convergence](<convergence.md>). [zettelkasten](<zettelkasten.md>)
         - [I](<I.md>) A [Roam highlighter](<Roam highlighter.md>) extension might be a good way to bring [highlights](<highlights.md>) from articles into the graph [zettelkasten](<zettelkasten.md>) [resources](<resources.md>) #[reference notes](<reference notes.md>)
-        - #[N](<N.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. "Why use [inline code-blocks](<inline code-blocks.md>) to disable tags?" #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
+        - #[N](<N.md>) One-directional linking would save the necessity of using [inline code-blocks](<inline code-blocks.md>) to deactivate page tags. Why use [inline code-blocks](<inline code-blocks.md>) to disable tags? #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
         - Fleeting Notes from [[[Roam Book Club](<[[Roam Book Club.md>) II]] imported (in same format and on the same theme!)
             - #[N](<N.md>) custom [CSS](<CSS.md>) is a helpful tool for encouraging user alignment with important [conventions](<conventions.md>)
             - #[N](<N.md>)[hidden tags](<hidden tags.md>) would be hugely beneficial to the [UX](<UX.md>) in a shared Roam database. [Suggestions](<Suggestions.md>) #[Roam Enhancement Requests](<Roam Enhancement Requests.md>) [Highlight](<Highlight.md>)
@@ -151,7 +216,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - #[N](<N.md>) when beginning a [zettelkasten](<zettelkasten.md>), it may take weeks or months before [permanent notes](<permanent notes.md>) start to accumulate.
             - #[N](<N.md>) [context preservation](<context preservation.md>) empowers connected thought.
             - #[N](<N.md>) [context preservation](<context preservation.md>) improves [memory](<memory.md>) and idea [recall](<recall.md>).
-                - "#[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant."
+                - #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant.
             - #[N](<N.md>) [memory](<memory.md>) is very [context](<context.md>)-dependant.
             - #[N](<N.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
                 - [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>) — [David Perell](<David Perell.md>)
@@ -161,7 +226,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - As my wanderings inspire thoughts and ideas, I save those ideas as ["N"-notes](<"N"-notes.md>).
                 - These are statements written inline with my notes. ["N"-notes](<"N"-notes.md>) are **the first tier of notes worth documenting** in my [interpretation](<interpretation.md>).
                 - I keep the `originals` of these notes in a designated place. I keep a copy of the reference [inline](<inline.md>) to preserve the context of where the note originated. 
-                    - **[Example](<Example.md>):** "#[N](<N.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>))."
+                    - **[Example](<Example.md>):** #[N](<N.md>) The power of a [collaborative graph database]([Multiplayer Roam](<Multiplayer Roam.md>)) improves with the degree of alignment with key [conventions](<conventions.md>). Data needs to be compiled in order to [compound]([compounding](<compounding.md>)).
                 - [supporting information](<supporting information.md>) is nested underneath the original block. As a block reference if necessary to preserve context of the related idea.
                     - These are [context snippets](<context snippets.md>) in [Joel Chan](<Joel Chan.md>)'s [interpretation](<interpretation.md>)
                 - [tags](<tags.md>) may be added inline at the end of the note or nested underneath to aid in [connection](<connection.md>) and [resurfacing](<resurfacing.md>).
@@ -173,9 +238,9 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - As [project ideas](<project ideas.md>) arise through different stages of the workflow, I add them to a section of my [zettelkasten](<zettelkasten.md>) called `[Project Ideas](<Project Ideas.md>)`.
                 - Over time, I link ideas that may be related to the project by referencing them as a [nested block](<nested block.md>).
                 - Once a clear outline has formed, or enough [content](<content.md>) exists to easily begin [writing](<writing.md>), **I complete the project and the cycle continues**. 🎉🥂 
-                    - "#[N](<N.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)"
+                    - #[N](<N.md>) begin the writing process on a [project idea]([project ideas](<project ideas.md>)) when it feels **easy** and **exciting**. #[inspired action](<inspired action.md>)
     - [Promptstorming](<Promptstorming.md>)
-        - "Explore your vision for the future of collaboration in Roam."
+        - Explore your vision for the future of collaboration in Roam.
             - Effortless communication among many users.
                 - "200,000 people in the group chat" without it being total chaos.
             - Ability to host multiple conversations, multiple groups, etc in the same space.
@@ -183,70 +248,73 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - [Bookmarks](<Bookmarks.md>)
     - Notifications Inbox
     - [Conversation](<Conversation.md>) 
-        - "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+        - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - Yup, this is a great idea! 
-            - I added the [roam/js/tag-cycle](<roam/js/tag-cycle.md>) page such that "CTRL+SHIFT+C HASH" removes the not-populated tag as well -- another option.
+            - I added the [roam/js/tag-cycle](<roam/js/tag-cycle.md>) page such that CTRL+SHIFT+C HASH removes the not-populated tag as well -- another option.
             - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)
-        - "Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+        - Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - Check out the [Chat](<Chat.md>) page for some conventions. 
             - I'll leave some breadcrumbs on the conventions page as well.
-        - "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+        - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - Yea, I noticed this the other day as well...
             - If we made complex pages like [~[[Mark Robertson](<~[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags
-        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
-            - Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."
-        - "There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
+        - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+            - Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
             - Yup, I feel this as a [tension]([Tensions](<Tensions.md>)) as well...
                 - I this "Questions" is more a training thing. Asking for clarity, process, or convention.
                 - While #[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]] are suggestions for improvement.
                 - Either way works well in the short term, but I think more mutually exclusive distinctions would be helpful for clarity and consolidation. [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
             - 
-        - "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
+        - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
             - Ou, yea that's an important difference for sync. 
             - I'll adjust the wording to suggest zooming.
-        - "That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+        - That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [[
             - That's a great illustrative example. Love that. Any suggestions on how we might apply that technique to our conventions here? [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
-        - "And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+        - And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - This "shouting while running by" description is great. I feel that.
             - I think preventing that phenomenon and working towards better collaborative systems is in perfect alignment with what I'd like to work on in this space.
-        - "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`"
+        - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
             - `---` is WAY better. Using that now.
             - PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
-        - **["URL](<"URL.md>):** (Is currently set as private but a public backup could be nice)"
+        - **[URL](<URL.md>):** (Is currently set as private but a public backup could be nice)
             - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Public would be better for sure — easy to do? Private is certainly fine for now. 
-        - "#[N](<N.md>) [inline code-blocks](<inline code-blocks.md>) can be used to "deactivate" a tag, preventing it from appearing in queries or references."
+        - #[N](<N.md>) [inline code-blocks](<inline code-blocks.md>) can be used to "deactivate" a tag, preventing it from appearing in queries or references.
             - Fascinating to see this idea documented in [[[Roam Book Club](<[[Roam Book Club.md>) II]] — I forgot I thought of it over there first.
-        - "My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)"
+        - My Zettelkasten Workflow imported from [[[Roam Book Club](<[[Roam Book Club.md>) II]] [zettelkasten](<zettelkasten.md>)
             - This is a decent summary. Not too outdated. System has been quite stable. 
             - 
     - [Feedback](<Feedback.md>) 
         - #[[[Feedback](<[[Feedback.md>): What's working]]
             - Loving the (()) symbol for hiding instructions within templates. 
                 - **[Example](<Example.md>):**
-                    - {{embed: ((qONZuXh3Y))}}
+                    - .rc1DNP — Daily Notes Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
+                        - If this is your first time making a DNP section, use .gs instead.
+                        - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU) 
+                        - ---
             - Liking the idea of the `#[Help Wanted](<Help Wanted.md>)` tag -- this could be great for teamwork.
         - #[[[Feedback](<[[Feedback.md>): What could be better]]
             - Chat conventions feel a bit messy confusing. [Conventions](<Conventions.md>)
                 - I'd like to prevent writing within each other's sections, but stronger processes would be helpful.
                 - Block references feel like the right way to go. 
                 - I think I prefer `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` for sake of queries.
-- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([mtv](<mtv.md>)) {{word-count}}
+- #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([mtv](<mtv.md>)) {{word-count}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
-        - Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+        - Loving some of these tags and their css tweaks. It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
     - [Conversation](<Conversation.md>)
-        - "PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)"
+        - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)
             - whoops will do in the future!
-        - "[Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz)))" [I](<I.md>)
+        - [Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz))) [I](<I.md>)
             - Completely possible for a basic version to pull in graph activity and stats. I don's know how you define what is "Top" so that could be tricky
-        - "[Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax."
+        - [Questions](<Questions.md>) How do I make a [horizontal line](<horizontal line.md>)? I know there is a way with hiccup, but I can't recall the syntax.
             - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) Why do you want to use hiccup? use `---`
             - ---
     - [Promptstorming](<Promptstorming.md>)
         - #[Daily Activities](<Daily Activities.md>)
-            - "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+            - Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
                 - Existing chat conventions work for now but can be difficult to find if you don't actively keep the graph open and continue to check mentions. I'm currently working on a plugin that would act as a JS bridge to other chat apps (a slack bot for example). The bridge would send you [notifications](<notifications.md>) of mentions and/or block ref of your created blocks.
                     - It's early days but I've worked up some `:q` [queries](<queries.md>) that will find people who have referenced blocks of yours that you have yet to see. I'll be creating some kind of notification center within roam first I think. Not sure yet how to tackle notifications when you're away from the roam graph. This may just be something we wait for the full [Roam API](<Roam API.md>) for
                     - Need to do some further investigation into all the ideas brought but by [David Bieber](<David Bieber.md>) [here](((1NzXjSWfB)))
@@ -257,7 +325,27 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - 11:54 - [Matthew Vogel](<Matthew Vogel.md>) and [Eneko Uruñuela](<Eneko Uruñuela.md>) are looking into [backup](<backup.md>) solutions #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - 12:30 - EDN, JSON, and Markdown [backup](<backup.md>) is up and running with ownership being transferred to [Brandon Toner](<Brandon Toner.md>) #[Projects/Establish automated graph backups](<Projects/Establish automated graph backups.md>)
     - 14:13 - Did some work on the [zettelkasten](<zettelkasten.md>) workflow. I quite like it.
-        - {{[embed](<embed.md>): ((bEsJXYWZs))}}
+        - Added templates for [Creative Projects](((ley0GPQlY))) and [Evergreen Notes](((DhNyAu1Td))) [zettelkasten](<zettelkasten.md>)
+            - **[Related](<Related.md>):** 
+                - [Scratchpad](<Scratchpad.md>) [zettelkasten](<zettelkasten.md>)
+                    - [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
+                        - Fleeting Notes **-[contribute to]>** Creative Projects
+                        - Fleeting Notes **-[contribute to]>** Evergreen Notes
+                        - Literature Notes **-[contribute to]>** Creative Projects
+                        - Literature Notes **-[contribute to]>** Evergreen Notes
+                    - Purpose:
+                        - The purpose of capturing and summarizing ideas in a progressive and atomic format is to support the easy convergence of ideas across users, and across different units of time.
+                            - #[N](<N.md>) A [collaborative zettelkasten](<collaborative zettelkasten.md>) helps to support [convergence](<convergence.md>) of ideas in a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)).
+                    - Process:
+                        - Capture assertions as ["N"-notes](<"N"-notes.md>) (atomic ideas, succinct)
+                        - Capture ideas from resources (articles, videos, books) as [literature notes](<literature notes.md>) (the authors' assertions)
+                        - Turn assertions into [evergreen notes](<evergreen notes.md>) once they feel sufficiently (arbitrarily) mature and widely applicable. 
+                        - Use notes from each class ([N](<N.md>), [LN](<LN.md>), [EN](<EN.md>)) as a basis for larger [creative projects](<creative projects.md>).
+                            - **[Related](<Related.md>):** [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>)
+                        - #[Next Steps](<Next Steps.md>) 
+                            - [x] Clarify this zettelkasten workflow further... with images and a longer write-up.
+                        -  [Chat](<Chat.md>)
+                            - [^[[Charles Farr](<^[[Charles Farr.md>)]], [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] -- do the above notes make sense? What parts need more clarity? [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Overview](<Overview.md>)
         - #[Help Wanted](<Help Wanted.md>) 
             - Would love some feedback on this.
                 - Tag feedback with `[Feedback](<Feedback.md>)` and `[zettelkasten](<zettelkasten.md>)` with block references to the context.
@@ -270,14 +358,14 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
         - And what I wanted to say at the [Clubhouse](<Clubhouse.md>) meetup yesterday but couldn't due to family attention, we should also create spaces in which to interact. Not necessarily required, but a space which is opened easily and closed easily, to further discuss any one topic. "Space" is hard to conceptualize in [Roam](<Roam.md>) due to its organic nature. But if you are always moving (discussing in different contexts/spaces) it will feel as if you are not really building, but shouting as you run by. I hope that makes sense. I don't know the solution either, though I have ideas. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
-            - You maybe right with your comment here: "Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."" . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+            - You maybe right with your comment here: Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously. . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
         - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
-            - Re: "If we made complex pages like [~[[Mark Robertson](<~[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags". My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
+            - Re: If we made complex pages like [~[[Mark Robertson](<~[[Mark Robertson.md>)]], that would work. That might be reason enough to switch conventions. DEFINITELY need a way to query for attention tags. My suggestion in this same block does work, but from what you suggest we may need to find either a JS SmartBlock or easy way to toggle read/unread. [~[[Mark Robertson](<~[[Mark Robertson.md>)]]
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
     - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
     - [Conversation](<Conversation.md>)
-        - partially in response to: "Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?"
+        - partially in response to: Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
             - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
             - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence
             - basically, if someone adds a reaction, IMO, the author of that block should be notified somehow, or, non-intrusively, at least have a list of reactions that gets updated with "new/fresh/unseen" reactions, because I think that's a key way that conversations can start

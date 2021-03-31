@@ -1,4 +1,23 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
@@ -8,11 +27,11 @@
         - **Brandon:** Exploration of the idea of [prepositional linkages](((yfs_C3Z9A)))
         - Charles Farr:: Graph goal: make everything [MECE](((rIe6X12fA)))
     - #Chat ((A place to propose objects of discussion))
-        - "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
+        - [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
         - Has anyone open a graph from their phones?! (I am writing from my phone 👀)
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad
         - Added page: [[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]]
         - Thoughts:: `Work Summary` attribute[*]([[Questions/How could an "agile" approach to collaboration be implemented in Roam Collective?]])
@@ -93,7 +112,7 @@
             - [[Evergreens/Claim 1]]
             - [[Evergreens/Claim 2]]
             - #[[N]] the [[relevant notes]] attribute can be used to house the relationships between [[claims]] using [[prepositional linkages]].
-                - Example:: "supported by:: [[Evergreens/Claim 2]]"
+                - Example:: supported by:: [[Evergreens/Claim 2]]
             - #[[N]] [[prepositional linkages]] should be past-tense in tone. 
                 - It is easier (possible) to build off of existing claims than it is to connect to future claims. 
                 - This process allows a continuous documentation of [[dependencies]] as [[development]] progresses.
@@ -113,7 +132,7 @@
                 - however
             - **Back-looking**
                 - supported by
-                - because (inverse of "[[therefore]]")
+                - because (inverse of [[therefore]])
             - **Neutral**
                 - in tension with
                 - analogous to
@@ -127,7 +146,7 @@
     - #Conversation 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
-            - "[@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason."
+            - [@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
                 - It's not a required tag by any means, and not an essential part of any collaborative structure. "[Beneficial, but optional]([[Evergreens/beneficial, but optional]])"... so it's more a take-it-or-leave it kinda convention. (Not worried about over-complexity here)
         - [@Peter]([[@[[Peter Rosso]]]]) On messaging conventions [*](((HeW5OoT_5)))
             -  Yea, I like it. Particularly the @[name]. I find it a bit more natural to toss the ref in an alias or in context some times — but that's nothing that needs to be universal in style. As long as its there is the main thing to converge on as a group.
@@ -137,23 +156,23 @@
                     - You'll be less likely to *get* input unless people have the habit of checking that inbox... which is a bit labour intensive, but I donno.
                     - I still prefer the top-section "Chat" for elevation. This could be used in combo no problem, though. It's non-destructive.
         - On [Charles' personal system](((vxaP_RzP-))):[*]([[^[[Charles Farr]]]])
-            - "`#Obs` / `#Observations` — summarizing literature or resources in one or multiple concise statements"
+            - `#Obs` / `#Observations` — summarizing literature or resources in one or multiple concise statements
                 - Ha! [Same tag](((cxK_gynrp))) — different use context... 
                     - I'm conceptualizing Obs/Observations as being much more broad than __observations on specific literature__.
-            - "`#Syn` / `[[S:]]` pages — new synthesized "evergreen" thoughts"
+            - `#Syn` / `[[S:]]` pages — new synthesized "evergreen" thoughts
                 - I like this in a personal system, or one focused on the synthesis of knowledge in a research-like approach — but I think Evergreen is appropriate in RC as it is more broad in definition. (concepts and claims, rather than just claims)
                     - I do think that claims could be further sub-tagged in the EN structure though. Addition of a `#Claims` tag would suit here for more "synthesis notes"
-            - "`#Q` / `#Questions` / `[[Q:]]` — my knowledge graph is organized around answering one or multiple questions; essentially, questions are output oriented..."
+            - `#Q` / `#Questions` / `[[Q:]]` — my knowledge graph is organized around answering one or multiple questions; essentially, questions are output oriented...
                 - Similar to existing RC conventions.
-            - "`#Collection` — general purpose speculative outlines that organize around a topic or concept, not a central question"
+            - `#Collection` — general purpose speculative outlines that organize around a topic or concept, not a central question
                 - Feels too close in name to "Collections" as a type of tag in general. But would work well in a personal graph.
-            - "`#Notion` — "a general understanding;" "vague or imperfect conception or idea of something;" "an opinion, view, or belief;" a general "conception or idea" — [dictionary.com](https://www.dictionary.com/browse/notion)"
+            - `#Notion` — "a general understanding;" "vague or imperfect conception or idea of something;" "an opinion, view, or belief;" a general "conception or idea" — [dictionary.com](https://www.dictionary.com/browse/notion)
                 - This is intriguing — I'm thinking the role of a Notion note would be satisfied by the space around FN and SDL
                     - Level of [[uncertainty]] could be eventually captured with a **confidence level** attribute.
         - [@Charles]([[~[[Charles Farr]]]]) I haven't yet been able to grok the proposed structure [here](((67jhmzS6u))) 
             - Working through it, gradually. & working to intergrate your thoughts into the templates [here](((tG1HJs2dK))) and [here](((Gx7UUAS7L))).
             - Stories is the part that I haven't been able to work in yet — feels too zoomed in maybe? Sprints are already pretty high-res. I think I conceptualize stories as  being outlines on an epic that are worked upon during a sprint. I don't find the "user stories" metaphor clicks with me at all haha
-            - My thoughts continued more centrally located [here]"Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+            - My thoughts continued more centrally located [here]Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
         - [@Charles]([[~[[Charles Farr]]]]) — Made MECE a page; that's a good one! Use that idea allll the time, but didn't know that term/synthesis. Love it! 
         - [@Charles]([[~[[Charles Farr]]]]) on [[notifications]][*]
             - On [Aliases](((OpfbgR-H7))) — This makes sense.
@@ -198,15 +217,15 @@
                         - At the end of the day, I want people to engage with whatever calls their attention. Whatever they feel like writing on. Whatever they feel clear on. [*]([[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]])
             - On convergence
                 - Same thing, I like the idea of convergence and divergence happening concurrently, but there is something to be said about increasing degrees of team [[alignment]] — ref: [[standing waves]] concept.
-                    - > "I think that synchronous and aligned activities in a multiplayer[[zettelkasten]] can lead to compound effects like [[standing waves]] created by signals."
+                    - > I think that synchronous and aligned activities in a multiplayer[[zettelkasten]] can lead to compound effects like [[standing waves]] created by signals.
     - #[[Change Log]] 
         1. Upgraded [Charles]([[~[[Charles Farr]]]])' block-level question on agile to page-level. Lots of ideas around that lately. 
         2. Adjusted [block ref indicator](((xcLgPdvs0))) bar to dark grey (the orange was bugging me lol)
         3. Added an `#A` tag as an option for response to a `#Q` block.[*](((IB0MarB0y)))
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox 
-        - "Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])"
+        - Thoughts:: [[agile development]] ([Sprints]([[sprints]]), [Epics]([[epics]]), etc) [*]([[Processes]])[*]([[Outlines]])[*]([[~[[Charles Farr]]]])[*]([[@[[Peter Rosso]]]])[*]([[Drafts]])[*]([[Bookmarks]])
         - see camera for type of links in roam
     - #[[Scratchpad]] 
         - New people might be afraid of breaking something when joining a very pretty and very organised graph. 
@@ -217,7 +236,7 @@
         - Order without design
             - What is order?
             - #Q can we quantify the [[entropy]] of a [[zettelkasten]]?
-        - "#Q [[Questions/When does chaos become insurmountable?]] "
+        - #Q [[Questions/When does chaos become insurmountable?]] 
             - [[entropy]]
         - Anarchic design and anarchic thinking
             - check papers by andrew Ma on anarchic manufactutring
@@ -228,8 +247,8 @@
         - #Q Do we want to force convergence?
         - #Q How do we make sure there are not too many/overlapping questions?
         - On change of Conventions in the graph
-            - c. "[@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?"
-d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse."
+            - c. [@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
+d. [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEONmm8aD))) I think we reinvented emails. We now are using objects! For Other people reading messages, I think it makes it very easy to parse.
                 - This thread of messages could be observed from evolution of language. Brandon and I developed a way to message which might either stabilize for some time, or evolve over time. The graph show evidence of linguistic evolution.
                     - #Q Could we do a social study of the graph? Interactions, language  and structures are continuously changing.
     - #[[GTD Zone]] #not-populated
@@ -237,7 +256,7 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #[[The Zettelkasten]] #not-populated
     - #Conversation
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
             - also, trying a new tag to indicate `@` who I am speaking to, `""` What I am referring to (if I am not kinking to a word or a sentence), thoughts?
         - [@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
@@ -247,7 +266,7 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - #Outlines of tentative Story points
@@ -257,15 +276,15 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - {{[[TODO]]}} Collate related questions → insert into outline
                 - {{[[TODO]]}} Collate related ideas  → format into questions → insert into outline
                 - {{[[TODO]]}} What, Why, How: Implementing a Zettelkasten
-                    - {{[[TODO]]}} "#Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))"
+                    - {{[[TODO]]}} #Q What are the foundational elements of knowledge? [*](((RljJeMbuS)))
                 - {{[[TODO]]}} What, Why, How: Collaborating within Roam
                     - {{[[TODO]]}} What, Why, How: Divergent Thinking
-                        - {{[[TODO]]}} "#Q [[Questions/When does chaos become insurmountable?]] "
+                        - {{[[TODO]]}} #Q [[Questions/When does chaos become insurmountable?]] 
                     - {{[[TODO]]}} What, Why, How: Convergent Thinking
                     - {{[[TODO]]}} What, Why, How: Communicating within Roam
                 - {{[[TODO]]}} What, Why, How: Defining Types of Relationships
                     - {{[[TODO]]}} [[Questions/What, why, how: Conventions to define the relationships in the graph?]] [*](((YPpysvE6W)))
-                        - {{[[TODO]]}} "#Q What are the fundamental dependent relationships within a knowledge graph?"
+                        - {{[[TODO]]}} #Q What are the fundamental dependent relationships within a knowledge graph?
         - #Q How do you balance the energy required to adhere to conventions with the value said conventions provide?
         - On the foundations of [[statement chains]]...
             - [[Conor]] mentioned that he thinks of education as a series of [[statement chains]]
@@ -275,9 +294,9 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - #Q What are the [[fundamental]] [[linkage]] / [[connection]] types for pieces of [[knowledge]]?
             - To answer [the above](((S6sTyt088))) question, we need to build an inventory of [[prepositional linkages]] & phrases
                 - Relates to
-                    - "in tension with"
-                    - "analogous to"
-                    - "related to"
+                    - in tension with
+                    - analogous to
+                    - related to
                 - Supports
                     - Supports
                         - Supported By
@@ -316,7 +335,7 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                 - #[[Change Log]]
                     - Updated the CSS for `[[@[[Everyone]]]]` to remove the `unread` — only affects the everyone tag
             - [@Peter]([[@[[Peter Rosso]]]]) [""](((oUrBVnzPi))) Let me know what you think about Chan's paper — I changed over my previous mythology based on [[Books/How to Take Smart Notes]] to Joel's, adding the `#Notion` category to capture the more fleeting note types... 
-                - See → "Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))"
+                - See → Today I revised my personal [[taxonomy]] of notes... ((this is in my graph, not here in Roam Collective))
             - [@Brandon]([[~[[Brandon Toner]]]]) maybe just add a `#Proposed` tag to processes or conventions (easy status to remember — using on the [[Backlog]]) as well [*](((lZGgXcABy)))
             - [@B]([[~[[Brandon Toner]]]]) [~P]([[~[[Peter Rosso]]]]) we could build a SmartBlock onboarding that takes [this](((A_7HYiUDR))) step by step
                 - Would add a few prompts to ask them to respond to:
@@ -324,14 +343,14 @@ d. "[@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEO
                     - What's a problem you've experienced with trying to coordinate digitally with a group? Could multiplayer Roam solve it?
                     - 
     - #Bookmarks
-        - "Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)"
-        - "Thoughts:: [[prepositional linkages]]"
-        - "New people might be afraid of breaking something when joining a very pretty and very organised graph. "
+        - Explore ideas loosely in the form of the various options for tags (Q, I, Obs, FN, EN)
+        - Thoughts:: [[prepositional linkages]]
+        - New people might be afraid of breaking something when joining a very pretty and very organised graph. 
 - ---
-- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Made Online/Offline status global with a block reference to my profile.
-            - "{{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}"
+            - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 

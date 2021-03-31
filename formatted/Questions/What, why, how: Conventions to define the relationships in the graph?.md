@@ -18,5 +18,5 @@
 - [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<../Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- "[ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<../Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
+- [ ] [Questions/What, why, how: Conventions to define the relationships in the graph?](<../Questions/What, why, how: Conventions to define the relationships in the graph?.md>)
 

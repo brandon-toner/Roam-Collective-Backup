@@ -3,7 +3,7 @@
     - #[[Graph Change Log]] 
         - {{[[DONE]]}} Updated global variables.
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - {{[[DONE]]}} Notify Bardia of bug re: transfer of children to newly added sibling block [[March 14th, 2021]] 
             - #Obs Getting instances (even while posting this) where pressing enter at the end of a block transfers the nested content to the newly created block.[*]([[Bug Reports]]) 

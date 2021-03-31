@@ -4,6 +4,13 @@
 - **Have a look at a fully developed personal daily notes section** — Not all will be this complete, but this gives a good example of how data should be organized. 
             - **[Example](<Example.md>):**
 
+- Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
+                                    - **[Example](<Example.md>):**
+
+## [DNP Modules](<DNP Modules.md>)
+- Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
+            - **[Example](<Example.md>):**
+
 ## [DNP Section](<DNP Section.md>)
 - DNP Templates are found [here]([Graph/Templates](<Graph/Templates.md>))
 - **[Example](<Example.md>):**
@@ -60,6 +67,9 @@
 - #[N](<N.md>) [evergreen notes](<evergreen notes.md>) are like the [Twitter threads](<Twitter threads.md>) you keep coming back to. The anchoring points to explain an idea or concept. 
                 - **[Example](<Example.md>):**
 
+- [Tips](<Tips.md>) Using the back and forward browser shortcuts is important for navigating between pages.
+        - **[Example](<Example.md>):**
+
 - #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                         - **[Example](<Example.md>):**
 
@@ -71,6 +81,10 @@
 - [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
 
+## [February 3rd, 2021](<February 3rd, 2021.md>)
+- #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+                        - **[Example](<Example.md>):**
+
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - For each post & reply, label your block with **Your Name:**
                     - **[Example](<Example.md>):**
@@ -81,12 +95,18 @@
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - You can filter any of the main [DNP Modules](<DNP Modules.md>) by your name! (or anyone else's) — This is SUPER powerful for being able to narrow down information. As data builds, [the ability to effectively filter]([filtering](<filtering.md>)) becomes both more important and more interesting.
+            - **[Example](<Example.md>):**
+
+- You can filter any of the main [DNP Modules](<DNP Modules.md>) by your name! (or anyone else's) — This is SUPER powerful for being able to narrow down information. As data builds, [the ability to effectively filter]([filtering](<filtering.md>)) becomes both more important and more interesting.
                 - **[Example](<Example.md>):**
 
 - Using `[Highlights](<Highlights.md>)` is a possibility! 
                 - **[Example](<Example.md>):**
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
+        - **[Example](<Example.md>):**
+
 - Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
                 - **[Example](<Example.md>):**
 
@@ -99,6 +119,9 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - Projects naming convention `[Projects/Project name](<Projects/Project name.md>)`.
                 - **[Example](<Example.md>):**
+
+- Added [Bookmarks](<Bookmarks.md>) to the [DNP Modules](<DNP Modules.md>)
+                        - **[Example](<Example.md>):**
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
 - #[N](<N.md>) [conventions](<conventions.md>) (and likely many other things) can be documented in the same way as [evergreen notes](<evergreen notes.md>). (sentence as page, with content elaboration and collection tag on the page itself.)
@@ -134,6 +157,9 @@
 - Love this `[minimal](<minimal.md>)` [CSS](<CSS.md>) styling for queries. I needed this! Thanks, [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
                 - **[Example](<Example.md>):**
 
+- [This would be a concept page as opposed to a collections page](((qC3qprnIn)))
+                    - **[Example](<Example.md>):**
+
 - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [maturity](<maturity.md>) of the idea.
                 - **[Example](<Example.md>):**
 
@@ -150,11 +176,17 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
             - **[Example](<Example.md>):**
 
-- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of "#[N](<N.md>) block-level [model](<model.md>)".
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of #[N](<N.md>) block-level [model](<model.md>).
             - **[Example](<Example.md>):**
 
 - #[N](<N.md>) block-embed [model](<model.md>)
             - **[Example](<Example.md>):**
+
+- **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
+                    - **[Example](<Example.md>):**
+
+- **[Example](<Example.md>):** Actually, we could think of current `[Fleeting](<Fleeting.md>) Notes` and `[Evergreen](<Evergreen.md>)` a kind of #[N](<N.md>) block-level [model](<model.md>).
+                    - **[Example](<Example.md>):**
 
 - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[Experiments](<Experiments.md>)
                 - **[Example](<Example.md>):**
@@ -170,6 +202,13 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
 ## [My Daily Notes](<My Daily Notes.md>)
 - Use `[not-populated](<not-populated.md>)` in your template to avoid creating [empty references](<empty references.md>)
     - **[Example](<Example.md>):**
+
+- Nest your prompt-replies underneath the [Promptstorming](<Promptstorming.md>) tag.
+                            - **[Example](<Example.md>):**
+
+## [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
+- #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
+        - **[Example](<Example.md>):**
 
 ## [chat](<chat.md>)
 - To reply, reference the block into your "Comments" section, nesting your reply beneath.

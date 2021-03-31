@@ -103,6 +103,10 @@
 - **[Full Title](<Full Title.md>):** [not-populated](<not-populated.md>)
                 - **[URL](<URL.md>):**
 
+## [January 27th, 2021](<January 27th, 2021.md>)
+- PS, note that I changed the conventions on Chat so that its a nested page. Like this: `[@[[Brandon Toner](<@[[Brandon Toner.md>)]]` [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]]
+        - **[URL](<URL.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - [Kahlil Corazo](<Kahlil Corazo.md>) on "when should you use professional [project management](<project management.md>)? #[Tweet Threads](<Tweet Threads.md>)
             - **[URL](<URL.md>):**
@@ -146,4 +150,8 @@
 ## [Roam Summit/Session I](<Roam Summit/Session I.md>)
 - [Kyle Stratis](<Kyle Stratis.md>)
 - **[URL](<URL.md>):**
+
+## [cornflower blue](<cornflower blue.md>)
+3. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) I think of this clip from [Fight Club](<Fight Club.md>) every time we discuss colours.
+    - **[URL](<URL.md>):**
 

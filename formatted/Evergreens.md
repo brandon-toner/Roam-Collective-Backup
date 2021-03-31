@@ -2,7 +2,19 @@
 - **[Entry Points](<Entry Points.md>):** [not-populated](<not-populated.md>)
 - **[Index](<Index.md>):**
 - How to document [evergreen notes](<evergreen notes.md>): [*]
-    - {{[embed](<embed.md>): ((vDdMH0T-r))}}
+    - **[Process](<Process.md>):** [*]([Processes](<Processes.md>))
+        - Document ideas freely as ["N"-notes](<"N"-notes.md>)
+        - [literature notes](<literature notes.md>) or [verbatim notes](<verbatim notes.md>) are representations of the author's ideas.
+            - OK to be verbatim — these should be quick & easy! 
+                - #[N](<N.md>) The need for [originality](<originality.md>) adds [cognitive burden](<cognitive burden.md>).
+            - **[References](<References.md>):**
+                - https://twitter.com/syncretizm/status/1355812313505230852?s=21
+        - As ideas begin to feel [evergreen](<evergreen.md>), a page should be created.
+            - The body of a fleeting note could be made into a page.
+        - The [evergreen note template](((DhNyAu1Td))) should be used right away to populate the page.
+            - Populate date created, created by and author right away.
+                - If author is unknown, use the [Unknown](<Unknown.md>) tag.
+                    - [Q](<Q.md>) is there advantage to this vs leaving as `[not_populated](<not_populated.md>)`?
 
 # Backlinks
 ## [Brandon Toner](<Brandon Toner.md>)
@@ -103,12 +115,12 @@
 
 - #[Evergreens](<Evergreens.md>)
 
-- [Related](<Related.md>) "#[Evergreens](<Evergreens.md>)
+- [Related](<Related.md>) #[Evergreens](<Evergreens.md>)
 
 - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>)
+- **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>)
 
 ## [Graph/Templates](<Graph/Templates.md>)
 - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>)

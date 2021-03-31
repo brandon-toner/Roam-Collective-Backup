@@ -1,8 +1,27 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) {{word-count}} [*]([rc](<rc.md>)) 
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([Prompts](<Prompts.md>)) ((Don't forget to nest your responses under the Promptstorming tag))
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
@@ -11,21 +30,21 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) 
-        - "[~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents""
-        - "[datalog experimentation](<datalog experimentation.md>)"
+        - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents
+        - [datalog experimentation](<datalog experimentation.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Help Wanted](<Help Wanted.md>)
         - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
     - #[Conversation](<Conversation.md>)
-        - I upvote this section "[datalog](<datalog.md>) flashcards"! [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
+        - I upvote this section [datalog](<datalog.md>) flashcards! [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [activities](<activities.md>) we could try for [convergence](<convergence.md>). [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
             - **[Solution](<Solution.md>):** One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [datalog](<datalog.md>) and then manually add a slider bar to make a vote on it.
     - #[Bookmarks](<Bookmarks.md>)
-        - "[datalog experimentation](<datalog experimentation.md>)"
+        - [datalog experimentation](<datalog experimentation.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Reddy2Go](<Reddy2Go.md>) {{word-count}}
     - what on earth am I doing here? [Brandon Toner](<Brandon Toner.md>) teleported me into this garden over a week ago, yet I only dared to dabble today
@@ -35,8 +54,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}}
     - [Scratchpad](<Scratchpad.md>)
         - Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
-            - "Summary — {{word-count}}"
-        - Meta-discussion on: "Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)"
+            - Summary — {{word-count}}
+        - Meta-discussion on: Drafting: [Summary/of maturity of notes](<Summary/of maturity of notes.md>)
             - How would we describe this type of note? Is it a collection or a summary or a community note or an evergreen or a...?
         - Thinking on objectives and the relationship to mythology
             - Mythologies are so often chosen based on the type of work we're trying to do
@@ -102,7 +121,7 @@
                     - More specifically, I can't quite understand the difference between how everyone defines evergreen notes versus fleeting.
                     - I keep transferring my personal definition onto the graph here, which does not align with yours (and with a lot of others in the graph)
                 - Ultimately I proposed a new approach to categorizing and structuring our notes (and all other work) — hopefully its at least a helpful thought piece to spur come convergence around how we (RC) take notes here...
-                - p.s. — your question on "What is a community note? How is it different from an evergreen note?" is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
+                - p.s. — your question on What is a community note? How is it different from an evergreen note? is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
         - Welcome [@[[Reddy2Go](<@[[Reddy2Go.md>)]]!
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Stefan Natter](<Stefan Natter.md>) {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -110,7 +129,7 @@
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [Clubhouse](<Clubhouse.md>) session with [Robert Haisfield](<Robert Haisfield.md>), [cc:[[Mark Robertson](<cc:[[Mark Robertson.md>)]], [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] and many more was very interesting. I learned a lot about the future of [Roam](<Roam.md>), [Roam42](<Roam42.md>), and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[Scratchpad](<Scratchpad.md>) 
         - On [proximity](<proximity.md>) and [synthesis](<synthesis.md>).
             - Ideas start small and grow. 
@@ -146,7 +165,7 @@
                 - #[N](<N.md>) [speculative outlines](<speculative outlines.md>) create a shared lens for directed [brainstorming](<brainstorming.md>). [*](((eMa8XoHvR)))
                     - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
                         - This is [Evergreens/Start from abundance](<Evergreens/Start from abundance.md>) at [scale](<scale.md>).
-                - "[Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) documented?"
+                - [Q](<Q.md>) How are [speculative outlines](<speculative outlines.md>) documented?
                     - [speculative outlines](<speculative outlines.md>) can be created in several ways:
                         - First think of the topic. What is it? What type of outline are you creating?
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.

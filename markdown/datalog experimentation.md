@@ -44,7 +44,7 @@
 	[?p :node/title "February 5th, 2021"]
 	[?b	:block/uid ?blkid]
    ]
-    - Contents of `((3gDduJgIk))` "#Scratchpad"
+    - Contents of `((3gDduJgIk))` #Scratchpad
         - ```javascript
 :q [:find ?contents ?children
    	:where
@@ -57,7 +57,7 @@
 	[?b :block/string ?contents]
 	[?b :block/children ?children]]
         - Block with `eid` = 13163, i.e., `((m4CjJq8zU))`
-            - "Feedback: [[Quick Start Guide]]"
+            - Feedback: [[Quick Start Guide]]
             - :q [:find ?attr ?contents
 :where
 [13163 ?attr ?contents]]

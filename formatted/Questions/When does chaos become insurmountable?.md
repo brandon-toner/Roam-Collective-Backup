@@ -16,10 +16,10 @@
 - [Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
-- "[Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
+- [Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
 
-- [ ] "[Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
+- [ ] [Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
-- "[ ] "[Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
+- [ ] [Q](<../Q.md>) [Questions/When does chaos become insurmountable?](<../Questions/When does chaos become insurmountable?.md>)
 

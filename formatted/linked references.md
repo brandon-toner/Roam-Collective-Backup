@@ -12,10 +12,10 @@
 
 - A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>)
 
-- "A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>)
+- A cool approach to this is to filter YOUR PAGE [linked references](<linked references.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
-- **[Related](<Related.md>):** "I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>):
+- **[Related](<Related.md>):** I just want [one-way links](<one-way links.md>) so that I can do stuff like this without junking up the [linked references](<linked references.md>):
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - I generally prefer the [linked references](<linked references.md>)

@@ -1,4 +1,23 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [January 30th, 2021](<January 30th, 2021.md>)) [*]([Announcements](<Announcements.md>))
+    - Welcome to [Roam-Collective](<Roam-Collective.md>)! [Start here]([Welcome](<Welcome.md>)). 
+    - **[Objectives](<Objectives.md>):** 
+        - Create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+        - [x] Create a hub for the [Roam Games](<Roam Games.md>)
+    - **[Tips](<Tips.md>):** 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[Help Wanted](<Help Wanted.md>) page references for opportunities to contribute.
+        - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
+            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
+        - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
+            - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
+    - **Catching up on the action**
+        - Check the #[Change Log](<Change Log.md>) linked references for a running list of the changes over time.
+        - Check the [Announcements](<Announcements.md>) linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [Prompts](<Prompts.md>) page to see community responses to various prompts
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Roam-Collective](<Roam-Collective.md>) [*]([rc](<rc.md>)) {{word-count}}
     - #[Daily Activities](<Daily Activities.md>) ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
@@ -8,7 +27,7 @@
                 - Conventions [here](((xfdvIW54z)))
                 - Process [here](((5CxAQCSjk)))
     - #[Main Feed](<Main Feed.md>) ((A place to showcase graph highlights throughout the day))  
-        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+        - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
         - This is to indicate "**1000 upvotes**" from [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] for [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])' work on organizing [his conversations section](((fPou5O8sR))). 🌟🌟🌟🌟🌟
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) 
         - Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
@@ -22,7 +41,7 @@
         - [I](<I.md>) Nesting ideas under a block reference to the ["next steps" block](((KIIJBRnIY))) on the page. 
             - **[Example](<Example.md>):**
                 - Thoughts on [Evergreens/active vs passive resurfacing](<Evergreens/active vs passive resurfacing.md>)
-                    - **["Next Steps](<"Next Steps.md>):**"
+                    - **[Next Steps](<Next Steps.md>):**
                         - #[Project Ideas](<Project Ideas.md>) develop a guide to thinking about resurfacing in Roam.
                         - Clarify methods of passive resurfacing
                         - Review how the [Date Planner](<Date Planner.md>) drives [active resurfacing](<active resurfacing.md>)
@@ -53,7 +72,7 @@
         5. Nested the main DNP Section at the top. [*](((7hC24BFpU)))
         6. Reverted CSS for external links to blue for now 
             - **[Rationale](<Rationale.md>):** find the green a bit jarring, like the hover line change in V1
-        7. [ ] [Choice](<Choice.md>):  "Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>). To make that a place to nest responses to prompts AND contributions to daily activities." ((((e-lL4buZ1))))
+        7. [ ] [Choice](<Choice.md>):  Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>). To make that a place to nest responses to prompts AND contributions to daily activities. ((((e-lL4buZ1))))
             - **[Options](<Options.md>):** 
                 - A - Leave as `Promptstorming` 
                     - **[Pros](<Pros.md>):** 
@@ -72,9 +91,9 @@
             - **[Notes](<Notes.md>):** [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>)
         - Keifon on not rushing to make [evergreen notes](<evergreen notes.md>)
-            - **["argument](<"argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context."
+            - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context.
         - Peter on the dangers of too much alignment and the importance of [contrarians](<contrarians.md>).
-            - "The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[contrarians](<contrarians.md>)". This can lead to [confirmation bias](<confirmation bias.md>), creation of echo chambers and in some extent cults and collectives 😂"
+            - The danger in continuous alignment is that the output is unilaterally aligned in one direction missing the inquisitive intervention of the "[contrarians](<contrarians.md>)". This can lead to [confirmation bias](<confirmation bias.md>), creation of echo chambers and in some extent cults and collectives 😂
                 - [Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
                     -  [Q](<Q.md>) Could an [AoT](<AoT.md>) be developed to help avoid cognitive [biases]([bias](<bias.md>))
         - Peter on [waves](<waves.md>), signal, and synchronous engagement. [*](((e5szI-YDO)))
@@ -87,10 +106,10 @@
                     - #[N](<N.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
     - [Conversation](<Conversation.md>) 
         1. On "1000 upvotes"
-            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? "
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
                 - Ha! Agreed. This is a MUCH better visual experience. Well done, [~[[Charles Farr](<~[[Charles Farr.md>)]]
         2. On processing growing data in the graph.
-            - "[^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?""
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] how are you approaching this: [Q](<Q.md>) How do we digest all of the information we're adding to the graph?
                 - I've been thinking of my [future self](<future self.md>) through the use of [tagging](<tagging.md>).
                     - 1) I use [this]([Evergreens/Evergreen notes should be densely linked](<Evergreens/Evergreen notes should be densely linked.md>)) idea as much as I can. 
                     - 2) I use the Bookmarks tag to flag things the ring particularly resonant.
@@ -106,7 +125,7 @@
                                     - "How do I want to come across this again?" 
                                     - "How important is it that I come across this again?"
                                     - "Is it time-sensitive?"
-                                - "The questions I constantly ask myself (somewhat by second nature) is: "
+                                - The questions I constantly ask myself (somewhat by second nature) is: 
                                     - [~[[Charles Farr](<~[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
                                         - **[Cons](<Cons.md>):**
                                             - The linked references for `[Prompts](<Prompts.md>)` can serve as a place for people to suggest prompts to be added to the main library... adding more noise may decrease the value of the linked refs there?
@@ -115,43 +134,43 @@
         3. Accidentally discovered the meaning of the phrase "[research](<research.md>) & [development](<development.md>)" (R&D) [here](((wALPyzpN9))) haha.
             - Used that phrasing then realized: "Hey, that's R&D!" -- sign that "research" and "development" are great broad categories for tagging.
         4. On prompt-like questions:
-            - "Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [algorithms of thought](<algorithms of thought.md>) to build using a template, in  which case I would just nest them under the tag for said AoT"
+            - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [algorithms of thought](<algorithms of thought.md>) to build using a template, in  which case I would just nest them under the tag for said AoT
                 - Love this solution. An AoT tag is the answer here. Great work. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         5. On Roam Games - Dhrumil
-            - "going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together."
+            - going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together.
                 - Nice! Welcome to the graph [~[[Dhrumil Shah](<~[[Dhrumil Shah.md>)]]!
                 - I know there's a Clubhouse call tonight at 10PM ET where some folks will likely be talking Roam Games.
                 - Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. 
         6. On external CSS
-            - "I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links"
+            - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                 - I find the blue a bit easier on the eyes, and the underline helps to identify as an external link. [~[[Peter Rosso](<~[[Peter Rosso.md>)]], [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
                     - Opted for version 1
                         - PS LOVE the versioning in CSS. 
         7. Charles on color conventions
-            - "Added color scheme setting"
+            - Added color scheme setting
                 - Love this idea. Yea I think a color strategy would be fun. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         8. [Replies](<Replies.md>)
-            - "[~[[Brandon Toner](<~[[Brandon Toner.md>)]] I like to top level summary for most sections where significant works goes on underneath a single block"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I like to top level summary for most sections where significant works goes on underneath a single block
                 - Agreed. Been doing that a bit, but will do more often.
-            - "Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `[Q](<Q.md>)` block mention and ask the community to think on it..."
+            - Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `[Q](<Q.md>)` block mention and ask the community to think on it...
                 - This type of [randomization](<randomization.md>) will be VERY good once we distill the Qs a bit (need to randomize from a smaller, higher quality set of options, IMO) [^[[Charles Farr](<^[[Charles Farr.md>)]]
             - 
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
     - #[Scratchpad](<Scratchpad.md>) 
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)"
+        - ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)
             - That's why lot of research processes start with taxonomies.
             - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
-        - "#[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system."
+        - #[Project Ideas](<Project Ideas.md>) build a collection of [activities](<activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>) as it relates to our [zettelkasten](<zettelkasten.md>) and [project management](<project management.md>) system.
         - I am ill and the place I go is this graph to regurgitate thoughts. You broke me.
     - #[GTD Zone](<GTD Zone.md>)
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Add [double diamond](<double diamond.md>) literature notes from thesis
     - [Conversation](<Conversation.md>) 
-        - **["What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<"What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`"
+        - **[What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`
             - **[I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
-        - "Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day"
+        - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] I am so curious now.
         - Following [~[[Brandon Toner](<~[[Brandon Toner.md>)]] ottered 🤣🦦 audio add considerations about
             - The way we digest is individual through exploration, but collective or at least shared through conversation. 
@@ -175,15 +194,15 @@
                     - ![Standing Waves](https://lh3.googleusercontent.com/proxy/s6kOFb7oFLlNYBnH3ckq06GEo235Xn6IJ4-W4teQfhVmQ7cvp4zvU1ed6dkROOfiHuzns4lgwD96VwLX7k9tBct89tmW-prCiaiytp4tmAcz2E5eKuw8mbpEpXw)
                 - 
 (If you understand where I am going with this you can reference this bloc i will word it better and move it in my scratchpad preserving links. )
-            - "[^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?  "" [^[[Charles Farr](<^[[Charles Farr.md>)]] [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have just gave this section a couple of passes. 
+            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] — re: [~[[Charles Farr](<~[[Charles Farr.md>)]] Isn't the idea reinforced in [Books/How to Take Smart Notes](<Books/How to Take Smart Notes.md>) that permanent notes should always be completed, but they can be updated?   [^[[Charles Farr](<^[[Charles Farr.md>)]] [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I have just gave this section a couple of passes. 
 I think I need to go through the whole process to make sure I internalise it.
-        - "Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?"
+        - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
             - [~[[Charles Farr](<~[[Charles Farr.md>)]] The excess of green shall act as a reminder. I don't see the rush.
     - [Feedback](<Feedback.md>) 
-        - "Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))
-            - "Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp))."
+        - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector) [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))
+            - Some effective note “API design” techniques: separation of concerns ([Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)), sharp titles ([Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW)), and positive framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z8T6sLNco2benUMgcXUXeJh35eW2obP48DoPp)).
     - [Bookmarks](<Bookmarks.md>)
-        - "^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)"
+        - ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>))  
     [Scratchpad](<Scratchpad.md>) 
@@ -200,65 +219,65 @@ I think I need to go through the whole process to make sure I internalise it.
                         - Their explanation of what makes Hindu-Arabic numerals amazing is good
                             - >  ...it’s worth pointing out that the Hindu-Arabic numerals aren’t just an extraordinary piece of design. They’re also an extraordinary mathematical insight. They involve many non-obvious ideas, if all you know is Roman numerals. Perhaps most remarkably, the meaning of a numeral actually __changes__, depending on its position within a number. Also remarkable, consider that when we add the numbers 72 and 83 we at some point will likely use 2+3=5; similarly, when we add 27 and 38 we will also use 2+3=5, despite the fact that the meaning of 2 and 3 in the second sum is completely different than in the first sum. In modern user interface terms, the numerals have the same affordances, despite their meaning being very different in the two cases.
                     - And it turns out this is not that "zeitgeist-y", see Herman Hesse's The Glass Bead Game (1943)
-        - "Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions**" 🛠 Categorizing questions: 
+        - Time for some [CONVERGENCE]([convergence](<convergence.md>)) — **Questions** 🛠 Categorizing questions: 
             - Thinking about categorization
                 - Motivation -> Principles -> Process Design -> Implementation -> Output
             - Motivation / Foundational
-                - "[Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
+                - [Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
             - Principles
                 - Collaborative Zettelkasten
-                    - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-                    - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
-                    - "[Q](<Q.md>) What are potential sources of [friction](<friction.md>) in [collaboration](<collaboration.md>)?  "
-                    - "[Q](<Q.md>) What drives [friction](<friction.md>) in [shared communication](<shared communication.md>) (driven by the nature of language)?  "
-                    - "[Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>) be integrated into a community [zettelkasten](<zettelkasten.md>) system?"
-                    - "[Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?"
+                    - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
+                    - [Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
+                    - [Q](<Q.md>) What are potential sources of [friction](<friction.md>) in [collaboration](<collaboration.md>)?  
+                    - [Q](<Q.md>) What drives [friction](<friction.md>) in [shared communication](<shared communication.md>) (driven by the nature of language)?  
+                    - [Q](<Q.md>) How could [spaced repetition](<spaced repetition.md>) be integrated into a community [zettelkasten](<zettelkasten.md>) system?
+                    - [Q](<Q.md>) How can a [conversation](<conversation.md>) be best facilitated among the notes of the [zettelkasten](<zettelkasten.md>)?
                 - Zettelkasten
-                    - "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)"
-                    - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-                    - "[Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?"
-                        - "[Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?"
-                    - "[Q](<Q.md>) How can the order of notes within the zettelkasten be represented in this emerging system?"
+                    - [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)
+                    - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
+                    - [Q](<Q.md>) How can [questions](<questions.md>) be integrated in to [zettelkasten](<zettelkasten.md>)?
+                        - [Q](<Q.md>) How can "important questions" or "research questions" that are of central importance be integrated into the [zettelkasten](<zettelkasten.md>)?
+                    - [Q](<Q.md>) How can the order of notes within the zettelkasten be represented in this emerging system?
             - Process design
-                - "#[Q](<Q.md>) What could be the common base of a digital environment of loosely connected people expectation?"
-                - "[Q](<Q.md>) What are the [characteristics](<characteristics.md>) [dimensions](<dimensions.md>) of an [evergreen note]([evergreen notes](<evergreen notes.md>)) that could be used for [assessment](<assessment.md>) [scoring](<scoring.md>)?"
+                - #[Q](<Q.md>) What could be the common base of a digital environment of loosely connected people expectation?
+                - [Q](<Q.md>) What are the [characteristics](<characteristics.md>) [dimensions](<dimensions.md>) of an [evergreen note]([evergreen notes](<evergreen notes.md>)) that could be used for [assessment](<assessment.md>) [scoring](<scoring.md>)?
                 - Communication
-                    - "#[Q](<Q.md>) What’s the best practice for async communication? [~[[Brandon Toner](<~[[Brandon Toner.md>)]]"
+                    - #[Q](<Q.md>) What’s the best practice for async communication? [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
                 - Shared language
-                    - "[Q](<Q.md>) How can we objectively categorize the degree of maturity of an evergreen note? "
-                    - "[Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)"
+                    - [Q](<Q.md>) How can we objectively categorize the degree of maturity of an evergreen note? 
+                    - [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>)
                 - Convergence
-                    - "#[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>) should be aspired to? "
+                    - #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>) should be aspired to? 
                 - Engagement
                     - [Q](<Q.md>) How can we maintain momentum when users inevitably get busy and need to step away from the graph for a while?
                     - New users
-                        - "[Q](<Q.md>) How can systems be streamlined such that it is clear, and easy to adopt for [new users](<new users.md>) or [graph members](<graph members.md>)?"
+                        - [Q](<Q.md>) How can systems be streamlined such that it is clear, and easy to adopt for [new users](<new users.md>) or [graph members](<graph members.md>)?
                 - Individual absorption
-                    - "[Q](<Q.md>) How do we digest all of the information we're adding to the graph?"
-                    - "[Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible"
-                    - "#[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>) smoothly."
-                    - "[Q](<Q.md>) How could we keep track of updates to ensure that documentation scattered around the graph stays [up-to-date](<up-to-date.md>)? [*]([Processes](<Processes.md>))"
+                    - [Q](<Q.md>) How do we digest all of the information we're adding to the graph?
+                    - [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
+                    - #[Q](<Q.md>) One subproblem is, how new comer join the [conversation](<conversation.md>) smoothly.
+                    - [Q](<Q.md>) How could we keep track of updates to ensure that documentation scattered around the graph stays [up-to-date](<up-to-date.md>)? [*]([Processes](<Processes.md>))
             - Implementation / Mechanics
                 - Daily page usage and norms
-                    - "[Q](<Q.md>) What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. "
+                    - [Q](<Q.md>) What is the role of the Daily Log? Maybe it can be dropped... The** main feed /change log could handle it's contents.** Might be better actually to avoid the splitting of content. 
                 - Collaborating
-                    - "[Q](<Q.md>) When to use 📨 vs. 🚨 ?"
-                    - "[Q](<Q.md>) For "next steps", how could this be contributed to by multiple users?"
-                - "[Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`?""[Q](<Q.md>) Why is it important to limit the number of tags used in a graph?"
+                    - [Q](<Q.md>) When to use 📨 vs. 🚨 ?
+                    - [Q](<Q.md>) For "next steps", how could this be contributed to by multiple users?
+                - [Q](<Q.md>) At the level of the [seedling]([seedlings](<seedlings.md>)), would the namespace of the note still be `[E:](<E:.md>)`?[Q](<Q.md>) Why is it important to limit the number of tags used in a graph?
                 - 
                 - Visual presentation
                     - Organizing CSS
-                        - "[Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps."
-                    - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
-                    - "[Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?"
-                    - "[Q](<Q.md>) Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?"
-                    - (resolved) "[Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? "
+                        - [Q](<Q.md>) Is there a standard format for CSS page documentation? I feel like [Cato Minor](<Cato Minor.md>) came up with something at some point perhaps.
+                    - [Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?
+                    - [Q](<Q.md>) Would it be possible to approximate namespacing for references that include a `/`? For example, could you program `[Books/](<Books/.md>)` to appear as `B/` using CSS?
+                    - [Q](<Q.md>) Is it possible with CSS or otherwise to make subpages inaccessible for clickthrough?
+                    - (resolved) [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links? 
                 - 
                 - Naming Conventions
-                    - "[Q](<Q.md>) What should the convention be for the use of [abbreviations](<abbreviations.md>)? [Conventions](<Conventions.md>)"
-                    - "[Q](<Q.md>) Should minor questions of clarifications also be tagged?  "
+                    - [Q](<Q.md>) What should the convention be for the use of [abbreviations](<abbreviations.md>)? [Conventions](<Conventions.md>)
+                    - [Q](<Q.md>) Should minor questions of clarifications also be tagged?  
             - Output / memorialization
-                - "[Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?"
+                - [Q](<Q.md>) Should [How To](<How To.md>) pages be externally focused (the product for others to consume), do we also want to use them internally (detailing the innerworkings of the Roam Collective)?
     #[GTD Zone](<GTD Zone.md>)
         - Finish thoughts on number analogy
         - Catch up on How To series
@@ -269,10 +288,10 @@ I think I need to go through the whole process to make sure I internalise it.
                 - [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
                 - As an axiom in the back of my mind:  it's better to expedite the "catch-up time" so people can spend more time contributing instead of just organizing what is going on
                     - [~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  
-                        - "In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing"
+                        - In my [conversation](((fPou5O8sR))) section today I went through and titled every interaction I had — some explicit processing
                     - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
         - On the process of collaboration
-            - "#[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>)."
+            - #[N](<N.md>) [maturity](<maturity.md>), should consider the **acceptance of a term and claim among the community**, in the context of [collaboration](<collaboration.md>).
                 - This is really striking at something
                 - The challenge is - how does one define acceptance of a term? 
                     - #[N](<N.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
@@ -284,13 +303,13 @@ I think I need to go through the whole process to make sure I internalise it.
                                 - (re: outcome) align on implications
                             - #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>) should be aspired to? 
         - On what gives abstraction power
-            - "That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books."
+            - That's why we learn numbers and letters as children. We learn sentences, and for some people those bricks become speeches and books.
                 - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
     [Chat](<Chat.md>)
         - Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
     #[Meetings & Discussions](<Meetings & Discussions.md>)
-        - "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) "
-            - "#[N](<N.md>) Community Notes are an Extension of Evergreen Notes"
+        - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) 
+            - #[N](<N.md>) Community Notes are an Extension of Evergreen Notes
                 - Memo can encapsulate a conversation, a back and forth that is happening in the graph, structuring it "roam-style" (e.g., as a series of blocks, using indentation, wordsmithing for clarity)
                     - Easier to jump into the conversation, reducing search costs to enter the conversation
                     - Easier to identify gaps and points where further reflection, supporting iterative community refinement / upskilling
@@ -302,11 +321,11 @@ I think I need to go through the whole process to make sure I internalise it.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) {{word-count}} [csf](<csf.md>)
     - [Scratchpad](<Scratchpad.md>)
-        - "**Activity:** Review, query, filter and browse the many [questions](<questions.md>) captured so far in the graph. Begin to summarize them into fewer, well phrased questions. "
+        - **Activity:** Review, query, filter and browse the many [questions](<questions.md>) captured so far in the graph. Begin to summarize them into fewer, well phrased questions. 
         - Trying to tie together the collective's thoughts on [maturity](<maturity.md>)
             - #[Follow Up](<Follow Up.md>) In progress...
                 - [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
-                    - "[Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought..."
+                    - [Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...
             - [maturity](<maturity.md>) scale for notes
                 - ## Maturity Levels
                     - Fleeting
@@ -333,14 +352,14 @@ I think I need to go through the whole process to make sure I internalise it.
                         - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
     - [Conversation](<Conversation.md>)
         - On [conversation](<conversation.md>) conventions with LdeLima
-            - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  "
+            - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: [~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
         - On CSS for external links
-            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] re: ""Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)" [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))"
+            - [^[[Peter Rosso](<^[[Peter Rosso.md>)]] re: Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector) [~[[Charles Farr](<~[[Charles Farr.md>)]] I like the new hyperlink CSS, but I stumbled in some sections where it might be a bit "strong" ((see below))
                 - I don't disagree — happy to tweak it — though all of Andy's posts have a lot of external links
                     - Perhaps worthwhile to transition some of those links to articles we have pulled into the graph ?
         - On labeling [prompts](<prompts.md>) disguised as [questions](<questions.md>) with BToner → [algorithms of thought](<algorithms of thought.md>) creation
-            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] re: "[~[[Charles Farr](<~[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?"
+            - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] re: [~[[Charles Farr](<~[[Charles Farr.md>)]] How would you tag these types of [questions](<questions.md>)? They are more prompts, than questions, but related to a particular domain. Would you tag them as prompts?
                 - As far as tagging questions like these, I've just been adding the `[Q](<Q.md>)` tag — ultimately for most of the questions I've identified, I would like to return to them
                 - Are you asking specifically about how to tag these questions everytime you use them? Ultimately, the set of questions [here](((WiNFUPiec))) seems like a good [algorithms of thought](<algorithms of thought.md>) to build using a template, in  which case I would just nest them under the tag for said AoT
                     - [42SmartBlock](<42SmartBlock.md>) .rc4AoT — Resurfacing for Future Me
@@ -350,19 +369,19 @@ I think I need to go through the whole process to make sure I internalise it.
                             - When do I need to resurface this?
                                 - [ ] Add buttons to SmartBlock for various timefames (1 day, 3 days, 7 days, 14 days, 28 days, Someday (3 months))
         - On Daily Activities and automated population of [prompts](<prompts.md>)
-            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: "Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: Considering [this change](((j_FNzzIhb))), thoughts? [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - Is daily activities a top-level DNP block or one that could be nested within MDNs (My Daily Notes)?
                     - If under MDNs, would be great to programmatically inject prompts for  or activities for people to respond to — decreases the burden of needing to check to level
                     - Regardless, wonder if there is a way to build a pipeline of responses that get automatically injected into the top level — for instance, could pull in a random `[Q](<Q.md>)` block mention and ask the community to think on it...
         - Simply Replies
-            - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: "Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail"
+            - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: Hey back at you [~[[Charles Farr](<~[[Charles Farr.md>)]]! 😃 Would be great to connect!! We can DM on twitter?  My email is twitter handle + gmail
                 - I'll shoot you a DM on Twitter!
-            - "[I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]"
+            - [I](<I.md>) Charles' convention for the conversation section might actually be best practice for the scratchpad as well! [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I like to top level summary for most sections where significant works goes on underneath a single block
     - [Bookmarks](<Bookmarks.md>)
-        - #[Follow Up](<Follow Up.md>) ""^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)""
-        - **[#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) "I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table."
-        - #[Follow Up](<Follow Up.md>) "[^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. "[Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)""
+        - #[Follow Up](<Follow Up.md>) ^^If one wants to build a castle from atoms, it helps to agree on what's a brick^^ [Metaphors](<Metaphors.md>)
+        - **[#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<#[Follow Up](<Follow Up.md>) [datalog](<datalog.md>) I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
+        - #[Follow Up](<Follow Up.md>) [^[[Charles Farr](<^[[Charles Farr.md>)]] — Interested in your thoughts on Kahlil's latest stuff. [Kahlil Corazo](<Kahlil Corazo.md>) on "Roam vs other [project management](<project management.md>) software" #[Tweet Threads](<Tweet Threads.md>) [Resources](<Resources.md>)
     - #[Meetings & Discussions](<Meetings & Discussions.md>)
         - [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>) on [Clubhouse](<Clubhouse.md>) 
             - On [zettelkasten](<zettelkasten.md>)
@@ -386,15 +405,15 @@ I think I need to go through the whole process to make sure I internalise it.
                 - #[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on...
     - #[Change Log](<Change Log.md>)
         - Updated CSS for External Links (changed color, added trailing arrow, switched to `.rm-alias--external` selector)
-            - "External Links "
+            - External Links 
         - Added color scheme setting
             - Colors
             - Note: Did not update any existing css code to utilize the `var()` best practice
                 - [ ] Standardize color scheme #[February 2021](<February 2021.md>)
-                    - "[Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])"
+                    - [Q](<Q.md>) Could the tag styling CSS be changed such that the background of tags could be changed all together? [@]([~[[Charles Farr](<~[[Charles Farr.md>)]])
                     - [Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?
                         - This could be some standardization of colors for types of tags (e.g., shades of green for Meta tags)
-        - Added SmartBlock to handle resurfacing: "[42SmartBlock](<42SmartBlock.md>) .rc4AoT — Resurfacing for Future Me"
+        - Added SmartBlock to handle resurfacing: [42SmartBlock](<42SmartBlock.md>) .rc4AoT — Resurfacing for Future Me
             - Not complete
             - Idea is this programs some level of spaced repetition for a user
                 - Need to build some sort of aggregation query to find all overdue "resurfaced" blocks...
@@ -402,7 +421,7 @@ I think I need to go through the whole process to make sure I internalise it.
 - #[My Daily Notes](<My Daily Notes.md>) [Dhrumil Shah](<Dhrumil Shah.md>) {{word-count}}
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone))
         - going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together.
-            - "Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. "
+            - Best bet is to start riffing in your Scratchpad section, and whoever is around will likely comment /chime in. I'll be off & on throughout the night. 
                 - I'm working in my personal roam so i can ref things in from like the countless roam projects i've done so far. But I'll put it all in my scratchpad once there's a measurable amount.
                 - also, i have an android so can't join clubhouse unfortunately
 - ---
@@ -411,26 +430,31 @@ I think I need to go through the whole process to make sure I internalise it.
         - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
         - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - Why not set up current [Roam Games](<Roam Games.md>) a little short term goal for practicing our system towards a 
-        - "going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together."
+        - going to spend some time tonight on [Roam Games](<Roam Games.md>), anyone doing it this week? we can jam together.
             - I’m in [@[[Dhrumil Shah](<@[[Dhrumil Shah.md>)]]
             - Why not consider current [Roam Games](<Roam Games.md>) as a little short term goal for practicing our system towards a more robust system? It would be interesting! [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
     - #[Scratchpad](<Scratchpad.md>)
         - #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
             - **[Related](<Related.md>):** [Evergreens/Evergreen note titles are like APIs](<Evergreens/Evergreen note titles are like APIs.md>)
-            - **[Related](<Related.md>):** "#[N](<N.md>) block-embed [model](<model.md>)"
+            - **[Related](<Related.md>):** #[N](<N.md>) block-embed [model](<model.md>)
         - #[I](<I.md>) For [verbatim notes](<verbatim notes.md>), I think we could add a feature on it, that’s to help check the similarities of its content in the database and showing us who else is referring/quoting similar stuff. [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         - #[N](<N.md>) Define composable local [structure](<structure.md>) will enable predictable global [structure](<structure.md>).
-            - **[Related](<Related.md>):** "[Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  "
+            - **[Related](<Related.md>):** [Q](<Q.md>) How do we roam together?  How do we organize ourselves together?  How to add intentional structure?  
         - #[N](<N.md>) [procedures](<procedures.md>) are of loose couple [structure](<structure.md>) between each step.
-        - #[N](<N.md>) "#[N](<N.md>) block-level [model](<model.md>)" is of tight couple [structure](<structure.md>).
+        - #[N](<N.md>) #[N](<N.md>) block-level [model](<model.md>) is of tight couple [structure](<structure.md>).
     - #[Bookmarks](<Bookmarks.md>)
-        - {{[embed](<embed.md>): ((wfOtQk0aX))}}
-        - "[Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?"
-        - "[Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?"
-        - "#[N](<N.md>) Community Notes are an Extension of Evergreen Notes"
-        - "#[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on..."
-        - "[Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?"
-        - {{[embed](<embed.md>): ((HmjblrRLi))}}
+        - [Evergreens](<Evergreens.md>) Different levels of maturity for knowledge artifacts lowers the bar for creation but raises the bar for ultimate clarity of thought...
+        - [Q](<Q.md>) Can Roam Collective develop a color scheme that better supports our key mission?
+        - [Q](<Q.md>) How could [learning objectives](<learning objectives.md>) be integrated into the [zettelkasten](<zettelkasten.md>) system?
+        - #[N](<N.md>) Community Notes are an Extension of Evergreen Notes
+        - #[Follow Up](<Follow Up.md>) What do Community Notes look like? Use this as an example to brainstorm on...
+        - [Q](<Q.md>) How can [confirmation bias](<confirmation bias.md>) be avoided in a collective [zettelkasten](<zettelkasten.md>)?
+        - #[N](<N.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
+            - It is costly to:
+                - (re: basis) have a (sufficient) basis of shared context
+                - (re: process) share mental models asynchronously 
+                - (re: outcome) align on implications
+            - #[Q](<Q.md>) What are the right levels of abstraction for which [convergence](<convergence.md>) should be aspired to? 
     - #[Feedback](<Feedback.md>)
         - Vote for the [change of main feed structure](((7hC24BFpU))).
 - ---

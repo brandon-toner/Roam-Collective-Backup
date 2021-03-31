@@ -44,7 +44,7 @@
 	[?p :node/title "February 5th, 2021"]
 	[?b	:block/uid ?blkid]
    ]
-    - Contents of `((3gDduJgIk))` "[Scratchpad](<Scratchpad.md>)"
+    - Contents of `((3gDduJgIk))` [Scratchpad](<Scratchpad.md>)
         - ```javascript
 :q [:find ?contents ?children
    	:where
@@ -57,7 +57,7 @@
 	[?b :block/string ?contents]
 	[?b :block/children ?children]]
         - Block with `eid` = 13163, i.e., `((m4CjJq8zU))`
-            - "Feedback: [Quick Start Guide](<Quick Start Guide.md>)"
+            - Feedback: [Quick Start Guide](<Quick Start Guide.md>)
             - :q [:find ?attr ?contents
 :where
 [13163 ?attr ?contents]]
@@ -176,7 +176,7 @@ return [query, results];```
 - [datalog experimentation](<datalog experimentation.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
-- "[datalog experimentation](<datalog experimentation.md>)"
+- [datalog experimentation](<datalog experimentation.md>)
 
-- "[datalog experimentation](<datalog experimentation.md>)"
+- [datalog experimentation](<datalog experimentation.md>)
 

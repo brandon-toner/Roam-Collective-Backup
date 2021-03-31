@@ -1,4 +1,4 @@
 - The goal/artifact we're working towards. 
-    - > "To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities."
+    - > To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities.
 - Table of Contents::
     - #to-populate

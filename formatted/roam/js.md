@@ -40,17 +40,20 @@ try{
 } catch(e) {};```
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+8. Added [roam/js](<../roam/js.md>)
+
 ## [Charles Farr](<Charles Farr.md>)
 - {{[roam/js](<../roam/js.md>)}
 
 ## [February 23rd, 2021](<February 23rd, 2021.md>)
-- ""{{{[roam/js](<../roam/js.md>)}
+- {{{[roam/js](<../roam/js.md>)}
 
-- ""{{[roam/js](<../roam/js.md>)}
+- {{[roam/js](<../roam/js.md>)}
 
-- "{{{[roam/js](<../roam/js.md>)}
+- {{{[roam/js](<../roam/js.md>)}
 
-- "{{[roam/js](<../roam/js.md>)}
+- {{[roam/js](<../roam/js.md>)}
 
 ## [January 25th, 2021](<January 25th, 2021.md>)
 8. Added [roam/js](<../roam/js.md>)
@@ -69,6 +72,12 @@ try{
 
 - {{[roam/js](<../roam/js.md>)}
 
+## [My Daily Notes](<My Daily Notes.md>)
+8. Added [roam/js](<../roam/js.md>)
+
+## [Quick Start Guide](<Quick Start Guide.md>)
+- {{{[roam/js](<../roam/js.md>)}
+
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [roam/js](<../roam/js.md>)
 
@@ -78,7 +87,7 @@ try{
 - {{[roam/js](<../roam/js.md>)}
 
 ## [Welcome](<Welcome.md>)
-- "{{{[roam/js](<../roam/js.md>)}
+- {{{[roam/js](<../roam/js.md>)}
 
 ## [roam/js](<roam/js.md>)
 - {{{[roam/js](<../roam/js.md>)}

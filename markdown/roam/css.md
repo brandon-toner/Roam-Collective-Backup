@@ -1658,7 +1658,7 @@ span.rm-page-ref[data-tag="Evergreen"] {
  font-weight: 700 !important;
 }```
                         - In Block Reference
-                            - Example: "#Evergreens Prefer note titles with complete phrases to sharpen claims"
+                            - Example: #Evergreens Prefer note titles with complete phrases to sharpen claims
                             - ```css
 .rm-block-ref > span > span.rm-page-ref--tag[data-tag="Evergreen"]{
   /*display: none;*/
@@ -1687,7 +1687,7 @@ span.rm-page-ref[data-tag="Community Note"] {
  font-weight: 700 !important;
 }```
                         - In Block Reference
-                            - Example: "#Evergreens Prefer note titles with complete phrases to sharpen claims"
+                            - Example: #Evergreens Prefer note titles with complete phrases to sharpen claims
                             - ```html
 .rm-block-ref > span > span.rm-page-ref--tag[data-tag="Community Notes"]{
   /*display: none;*/

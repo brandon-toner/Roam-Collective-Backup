@@ -4,7 +4,20 @@
         - Don't delete stuff
         - Don't write in other people's daily notes sections
         - Use judgement when making edits in the common spaces — reach out if you are not sure.
-- {{[embed](<embed.md>): ((Tmgh10tvd))}}
+- ## Getting Started
+    - 0. Sign up for graph access [here]([Sign Up for Roam Collective](<Sign Up for Roam Collective.md>))
+    - 1. Enable Roam42 (see below)
+        - Click "Yes, know what I'm doing." to enable the Roam42 javascript code to run in this graph for you.
+            - **Note:** Enabling Roam42 is not necessary to participate here, but it will make your life easier!
+            - {{{[roam/js](<roam/js.md>)}}}
+    - 2. Navigate to the Daily Notes
+    - 3. Launch the Getting Started SmartBlock 
+        - Use `jj` and select the `.gs — Getting Started` option
+    - 4. Navigate to your personal page
+    - 5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option
+    - 6. Fill out the About Me section
+    - 7. Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>) to comment, ask questions, offer feedback, or just chat about the project.
+    - 8. Review the graph [conventions]([Conventions](<Conventions.md>)). 
 - **More Activities:**
     1. Learn the conversation and notification conventions.
     2. Work on something from the `Daily Activities`.
@@ -17,6 +30,9 @@ When answering writing prompts, nest your blocks beneath the [Promptstorming](<P
 - **[Next](<Next.md>):** [Beyond the Basics](<Beyond the Basics.md>)
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - Another option might be to make that a step in the "[Quick Start Guide](<Quick Start Guide.md>)'
 
@@ -43,11 +59,16 @@ When answering writing prompts, nest your blocks beneath the [Promptstorming](<P
 - [Quick Start Guide](<Quick Start Guide.md>)
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
+- Feedback: [Quick Start Guide](<Quick Start Guide.md>)
+
+- [Quick Start Guide](<Quick Start Guide.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
 ## [datalog experimentation](<datalog experimentation.md>)
-- "Feedback: [Quick Start Guide](<Quick Start Guide.md>)"
+- Feedback: [Quick Start Guide](<Quick Start Guide.md>)
 

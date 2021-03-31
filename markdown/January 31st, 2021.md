@@ -1,18 +1,47 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #Announcements (**Temporary Message**)
-    - {{[[embed]]: ((LndnjT55D))}}
-    - {{[[embed]]: ((vjbkNQ8uM))}}
+    9. Making the shift from several questions formats to a **simplified** setup. #Conventions
+        - #Questions = [DNP Module Tag]([[DNP Modules]]) and [Collections]([[collections]]) tag
+        - #Q = block level tag. 
+            - This one should be used at the block level to flag a block as a question. 
+        - Notes::
+            - The following tags are now retired, with deactivated CSS:
+                - Open Questions
+                - Context Questions
+                - Zettel Questions 
+    10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
+        - `Chat` should be reserved for the top-section for now.
+        - `Conversation` as a DNP Module as opposed to Chat + Comments.
 - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-    - "What is your favourite convention within [[Roam-Collective]]?"
-    - "__Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))"
+    - What is your favourite convention within [[Roam-Collective]]?
+    - __Interested in more prompts?__ Browse the [full list of prompts]([[Prompts]])! ((Don't forget to nest your responses under the Promptstorming tag))
 - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
     - Took the [Choice](((BpLiZ8Jcd))) algorithm for a spin. [Choice: Evergreen notes namespace](((u8etVKAtE)))
-    - "Added a [random evergreen note](((Qyxu5azax))) smartblock"
+    - Added a [random evergreen note](((Qyxu5azax))) smartblock
     - Some explorations of zettelkasten conventions as it relates to evergreen notes: [here](((IRSOUC-2O))). Feat: [Charles](((sBu3zOPiV)))
 - #Chat ((A place to propose objects of discussion)) 
-    - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
-    - "What is this thing officially called? → (())"
+    - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
+    - What is this thing officially called? → (())
 - #[[Daily Log]] ((A place to log milestone activities or sign-in to the graph)) 
     - Welcoming [[Larissa de Lima]] to the graph! Lots of great ideas already 😃
 - #[[Bug Reports]]
@@ -24,9 +53,10 @@
     - Daily Review::
         - **Scheduled for Today:**
             - **Page:** [[January 25th, 2021]]
-{{[[embed]]: ((9ZdW5S8U6))}}
+
+                13. {{[[TODO]]}} Create some structure around the first [[Roam Games]] challenge [[February 1st, 2021]] 
         - **Overdue TODOs:**
-            - {{[[embed]]: ((ohyjByrR0))}}
+            - {{[[DONE]]}} Create a smartblock for the [[Daily Review]] that pulls TODO + Help Wanted. [[January 30th, 2021]] 
         - **Flagged:**
             - **Results:** 0 **Max:** 20
         - **Waiting:**
@@ -34,13 +64,21 @@
         - **This Week:** `#[[Week-04: 01-25-2021]]`
             **Results:** 2 **Max:** 25
             **Page:** [[January 30th, 2021]]
-{{[[embed]]: ((Nxmtoyo2O))}}
+
+                - {{[[TODO]]}} Refine a system of [[convergence]] for [[open questions]]. #[[Week-04: 01-25-2021]]
+                    - Goal: Have related questions converge into fewer central questions. 
+                        - #[[Fleeting Notes]] [[open questions]] are to [[zettel questions]] what [["N"-notes]] are to [[evergreen notes]]. #zettelkasten
             **Page:** [[January 30th, 2021]]
-{{[[embed]]: ((r1E6gBj56))}}
+
+                - {{[[TODO]]}} Reorganize the [[roam/css]] page #[[Week-04: 01-25-2021]]
+                    - Section for [[collections]] under Tag Styling #Status/Enabled
         - **This Month:** `#[[January 2021]]`
             - **Results:** 1 **Max:** 25
             - **Page:** [[January 30th, 2021]]
-{{[[embed]]: ((29MTnT-MQ))}}
+
+                - {{[[TODO]]}} Import sections of the [[Purdue Online Writing Lab]] on [[rhetoric]], the [[Toulmin Argument]], and [[logic]] into the graph as [[evergreen notes]]. ((With external authorship documented (verbatim import)) #[[Help Wanted]] #[[January 2021]]
+                    - #Annotations of [[rhetoric]] on [[Purdue Online Writing Lab]] [*]([[cc:[[Charles Farr]]]]) [*]([[cc:[[leekeifon]]]])
+                    - #Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]])
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]])
     - #[[Scratchpad]] 
@@ -61,7 +99,7 @@
                 - [[alphabetical order]] (of primary interest, particularly [here](**Pages authored by graph members:**))
         - Thoughts on [evergreen note]([[evergreen notes]]) [conventions]([[Conventions]]). #zettelkasten [*]([[Bookmarks]])
             - Related::
-                - "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+                - {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
                 - Charle's detailed thoughts [here](((sBu3zOPiV)))
             - Objectives::
                 - Have [[pages]] for commonly referenced ideas.
@@ -86,16 +124,16 @@
                     - #Q How do you integrate ideas from various authors within a [[zettelkasten]]? In respect to note order.
                 - On note [[maturity]]:
                     - In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. 
-                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+                        - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
                     - #Q How does the [[seedlings]] concept fit in here?
-                        - Maybe the current expression of "#Evergreens Prefer note titles with complete phrases to sharpen claims" as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
+                        - Maybe the current expression of #Evergreens Prefer note titles with complete phrases to sharpen claims as a block (not a page), is better expressed as a seedling to improve [disambiguation](((QyZaIx66_))).
                             - Replace tree with seedling emoji, same effect.
                         - Maybe all fleeting notes are seedlings?
                         - #Q Whats the difference between a seedling and a fleeting note?
                 - On epistemology:
-                    - "In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. "
-                        - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
-                - On "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
+                    - In the future, as aspects of [[epistemology]] are integrated into the [[zettelkasten]], an attribute could be created that helps to filter notes by the method of arrival at the idea. 
+                        - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
+                - On However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
                     - While I agree, I think the "fleshing it out" occurs over time. More detail can be requested by other readers, prompting the original author to further elaborate. 
                     - Getting a note to page status does help with the use of the idea around the database, if it is a commonly referenced idea. [[Seedlings/knowledge graphs should be populated opportunistically to optimize for flow state writing.]]
                     - I see more detail as [[Evergreens/beneficial, but optional]]
@@ -105,10 +143,10 @@
                 - #Q How can systems be streamlined such that it is clear, and easy to adopt for [[new users]] or [[graph members]]?
                 - #Q How can [[questions]] be integrated in to [[zettelkasten]]?
                     - Related:: 
-                        - "#Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)"
-                        - "#[[N]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]]."
-                        - "Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?"
-                        - "My preference is to limit it to a parent-level tag and then a block level tag"
+                        - #Q How should questions be incorporated in the zettelkasten (e.g., with fleeting, literature, or evergreen notes)
+                        - #[[N]] [[evergreen notes]] and [[zettel questions]] should be very familiar to group members to facilitate their frequent tagging in related [[resources]], [[ideas]] and [[discussions]].
+                        - Do I use Q, Questions, Open Questions, Context Questions, Zettel Questions?
+                        - My preference is to limit it to a parent-level tag and then a block level tag
                 - #Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?
             - Process:: [*]([[Processes]])
                 - Document ideas freely as [["N"-notes]]
@@ -126,26 +164,26 @@
         - Thoughts on [[questions]] [conventions]([[Conventions]]) #zettelkasten [*]([[Bookmarks]])
             - Related::
                 - Lots nested here: [How should we disambiguate between the various types of question tags?](((l2vvUxzlS)))
-                - "Questions as a first-class citizen of the [[zettelkasten]]."
-                - "#Q What happens if we organize our zettelkastens around questions."
-                - "#Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?"
-                - "#Q How can [[questions]] be integrated in to [[zettelkasten]]?"
-                - "#Q What is the role of the Q questions tag?"
+                - Questions as a first-class citizen of the [[zettelkasten]].
+                - #Q What happens if we organize our zettelkastens around questions.
+                - #Q How can "important questions" or "research questions" that are of central importance be integrated into the [[zettelkasten]]?
+                - #Q How can [[questions]] be integrated in to [[zettelkasten]]?
+                - #Q What is the role of the Q questions tag?
             - Objectives::
                 - Simple
                 - Effective
                 - Clear
                 - Able to handle simple, "off the cuff" questions, and anchoring research questions.
             - Thoughts::
-                - Love [Charle's]([[Charles Farr]]) ideas here: "My preference is to limit it to a parent-level tag and then a block level tag" and [here](((IX96gb5b6)))
+                - Love [Charle's]([[Charles Farr]]) ideas here: My preference is to limit it to a parent-level tag and then a block level tag and [here](((IX96gb5b6)))
                     - Questions as one of the [[DNP Modules]] and a [[collections]] tag.
                     - `#Q` at the block level to flag individual questions.
                     - As a question [matures]([[maturation]]), it should be transformed into a page. There should be a [Questions template](((HBqwZEBCv))) with `Tags:: #Questions` included. 
                     - A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [[important questions]] or [[zettel questions]].
             - Process::
-                - "`#Q` at the block level to flag individual questions."
-                - "As a question [matures]([[maturation]]), it should be transformed into a page. There should be a [Questions template](((HBqwZEBCv))) with `Tags:: #Questions` included. "
-                - "A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [[important questions]] or [[zettel questions]]."
+                - `#Q` at the block level to flag individual questions.
+                - As a question [matures]([[maturation]]), it should be transformed into a page. There should be a [Questions template](((HBqwZEBCv))) with `Tags:: #Questions` included. 
+                - A [secondary tag](((IX96gb5b6))) could be implemented to further refine to [[important questions]] or [[zettel questions]].
         - Notes from [[[[Roam Book Club]] III]]
             - [[[[RBC]] Live Session 1: (Jan 31)]]
                 - #[[Books/The Culture Code]]
@@ -175,23 +213,23 @@
                         - [[Evergreens/Evergreen Note example 1]]
                     - Pros:: 
                         - Able to be included as a query element.
-                            - "#Q Is this important?"
-                            - "Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page."
+                            - #Q Is this important?
+                            - Ability to filter a page by `[[E:]]` to see all [[evergreen notes]] on a page.
                     - Cons:: 
                         - Not in alignment with native namespacing convention... can't be hidden/collapsed ([[readability]])
                 - Option B - `E/`
                     - Pros::
-                        - Native convention — "Alignment with native [[namespacing]] conventions"
+                        - Native convention — Alignment with native [[namespacing]] conventions
                             - I reallllllly like that it turns green 🌲
                     - Cons::
-                        - Not able — "Ability to be included as a query element"
+                        - Not able — Ability to be included as a query element
                             - #Q Is this important?
-                        - "The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse."
+                        - The [namespaces]([[namespaces]]) of [[complex page names]] do not collapse.
                             - This leads to inconsistent visual presentation... 
                                 - #[[N]] [[evergreen notes]] should be documented with [[simple page names]] — terms within the title that are desired for querying should be included in the `Tags::` block. #Conventions
             - Status:: ^^Updated to E/^^ 
                 - `[[E:]]` (at the time of creation)
-            - Decision:: "Option A - `[[E:]]`", used with [[Evergreens/Evergreen Note example 3]]
+            - Decision:: Option A - `[[E:]]`, used with [[Evergreens/Evergreen Note example 3]]
             - Factors::
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
@@ -227,9 +265,9 @@
                         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F96jbK_lray.gif?alt=media&token=c2976d60-6c8b-4646-9bc8-ca121e2ec96a)
         5. Changed `Notes::` to `Contents::` in the [evergreen notes template](((DhNyAu1Td)))
         6. Added a [questions template](((HBqwZEBCv))) & proposed process for managing questions
-            - "Thoughts on [[questions]] [conventions]([[Conventions]]) #zettelkasten [*]([[Bookmarks]])"
+            - Thoughts on [[questions]] [conventions]([[Conventions]]) #zettelkasten [*]([[Bookmarks]])
         7. Added ["in tension with"](((Lc_lSNDeP))) template.
-            - "#Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)"
+            - #Q How can we flag and process threats to [[disambiguation]]? ([[i.e.]] overlap or duplication of pages or conventions.)
         8. Deleted a bunch of empty references from the DNP Sections based on the not_populated tag (from the past week)
         9. Making the shift from several questions formats to a **simplified** setup. #Conventions
             - #Questions = [DNP Module Tag]([[DNP Modules]]) and [Collections]([[collections]]) tag
@@ -242,7 +280,7 @@
                     - Zettel Questions 
         10. Making the shift from **"Comments"** to **"Conversation"** in the DNP Modules. 
             - `Chat` should be reserved for the top-section for now.
-            - "`Conversation` as a DNP Module as opposed to Chat + Comments."
+            - `Conversation` as a DNP Module as opposed to Chat + Comments.
     - #[[The Zettelkasten]] 
         - #[[N]] intentionally [[tagging]] the stages of note evolution or [[maturity]] helps to identify opportunities for development. #zettelkasten
             - Related:: 
@@ -286,8 +324,8 @@
         - #Q Since BLOCKMENTIONS doesn't have the capability to randomly generate results, what is the best way to create [[randomization]] systems?
         - #Q How could we keep track of updates to ensure that documentation scattered around the graph stays [[up-to-date]]? [*]([[Processes]])
     - #Bookmarks
-        - "However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out"
-        - "Brandon and I were discussing structures for Evergreen note pages earlier..." #[[evergreen notes]] #Conventions
+        - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
+        - Brandon and I were discussing structures for Evergreen note pages earlier... #[[evergreen notes]] #Conventions
     - #Conversation 
         1. #[[Chat]]
             - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
@@ -301,97 +339,106 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FIkjY3wRCo4.png?alt=media&token=e844dd85-e65d-4ea4-b690-f469694e1a41)
                     - Note that each FN conveys a complete idea. 
         3. #Replies
-            - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying."
+            - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
                 - I solve this appearance issue by using [[aliases]]. Does this help? [[~[[leekeifon]]]]
                 - The reason I'm hesitant to change the css related to [["N"-notes]] is that the tag is a helpful [visual cue]([[visual cues]]) to trigger the the presence of a zettelkasten idea in various contexts.
-            - "Don’t know if these are [[fruitful]] new concepts for you. "#[[N]] block-level [[model]]" and "#[[N]] block-embed [[model]]" [[~[[Brandon Toner]]]]"
+            - Don’t know if these are [[fruitful]] new concepts for you. #[[N]] block-level [[model]] and #[[N]] block-embed [[model]] [[~[[Brandon Toner]]]]
                 - I haven't fully [grokked]([[grok]]) the idea yet — but I think I definitely use a combination of [references]([[block references]]) and [embeds]([[block embeds]]) when making references. 
                     - Factors I use to choose:
                         - Do I want to also display children blocks?
                         - Do I want easy access to editing the content from the reference destination?
-            - "#[[N]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal"
+            - #[[N]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal
                 - Excellent documentation on this!! 
                     - Maybe consider [appending some relevant tags](should be appended with any relevant tags to the idea. ((to facilitate connections within the zettelkasten))) to the line as well to promote [[resurfacing]].
                         - Id suggest:
                             - collaboration
                             - goals
                 - Related:: [[Evergreens/Have a clear aim]]
-            - "ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page"
+            - ADDRESSED - Are smartblocks working?  Wasn't able to action it for my daily page
                 - I think every person needs to activate the [[roam/js]] block. I'll add that to getting started along with a link to [[About Roam Collective]]. Thanks! 
-            - "Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?"
+            - Given how unbounded Roam can be, could it be helpful to present the quick steps as a video?
                 - Yup, this would be cool. My video-creating skills are less than fine-tuned so I'll need to figure out how that best looks workflow-wise. 
                 - I can record GIFs pretty easily, so I might start tossing them into the mix more often. 
-            - "Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?"
+            - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
                 - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[Evergreens/beneficial, but optional]] step. 
-            - "Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST"
+            - Logged bio and DNT around 9:30AM EST, logging off at 10:45AM EST. LOL jk, logging off at 10:56AM EST
                 - I'd place this within a Daily Log module instead. 
                 - Change Log is best for changes to the graph and its conventions
                 - Perfect! [*](((JZ5RfJLcK)))
-                - "Better to place it under one's daily notes or within the daily log up above?  "
+                - Better to place it under one's daily notes or within the daily log up above?  
                     - Within your [[DNP Section]] is perfect. The conventions are still kinda emergent for this, but I like how you did it. I see "within your DNP" as a personal log, while pinned to the top as a global log. Central might be better for visibility... will [[sleep on it]].
-        4. "Turn off brackets to streamline the look of page looks a bit"
+        4. Turn off brackets to streamline the look of page looks a bit
             - {{[[DONE]]}} Find out how to make this the default in the CSS (I know it's possible, maybe within the [[Leyendecker]] code?) [[cc:[[Charles Farr]]]] #[[Week-05: 02-01-2021]] [[~[[Matthew Vogel]]]]
-        5. "#[[N]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags" #Bookmarks
+        5. #[[N]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags #Bookmarks
             - Love this! Great direction. Interested in using this idea to sort out a good system for incorporating [[questions]] throughout the graph.
-        6. "Allows for seamless inline referencing of Evergreen notes"
+        6. Allows for seamless inline referencing of Evergreen notes
             - What determines whether you'd reference the page or the block?
             - My gut seems to lean towards referencing the page inline...
                 - I generally prefer the [[linked references]] and [[filtering]] associated with [[pages]] over [[blocks]].
-        7. "Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon"
+        7. Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon
             - This does look nice! 
                 - Some reasons for hesitation:
                     - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]].
                         - Especially Evergreen vs Evergreen Notes
-        8. "In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s"
+        8. In the graph, we need to disentangle our approach and conventions versus those we want to share with others in the form of [[graph seed]]s
             - Excellent. This is on my mind as well. 
-            - "[[[[How To]] Seed Your Graph]]"
-        9. "[[~[[Brandon Toner]]]] I actually proposed this to Matt haha"
+            - [[[[How To]] Seed Your Graph]]
+        9. [[~[[Brandon Toner]]]] I actually proposed this to Matt haha
             - HA! I had a feeling. Excellent. Will do tomorrow likely. 
                 - {{[[TODO]]}} Change convention from Comments to Conversation (in alignment with [[[[Roam Book Club]] III]]) [[February 1st, 2021]] [[Brandon Toner]]
-        10. "Yup " — "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? "
+        10. Yup  — #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? 
             - You are THE MAN! [[~[[Matthew Vogel]]]]
-        11. "[[~[[Brandon Toner]]]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[[datalog]]!"
+        11. [[~[[Brandon Toner]]]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[[datalog]]!
             - All the credit goes to [[Dharam]] and [[David Vargas]]! 
             - But yes, cool as hell. Lots of potential with datalog. 
-        12. "The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [[~[[Brandon Toner]]]]"
+        12. The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [[~[[Brandon Toner]]]]
             - Yea, I thought that might be an issue too... changed back to the orange Matt set it to originally. 
     - #[[Roam Enhancement Requests]]
         - Make [[namespaces]] a query-able element 
-            - Related:: "{{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) "
+            - Related:: {{[[DONE]]}} [[Choice]]: For [[evergreen notes]], what should the [[namespaces]] be? ((((cv2ny1Xe-)))) 
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
     - #[[Scratchpad]]
         - #[[N]] block-level [[model]]
             - **Definition**: (Logical) structure that could be contained within a single block ((one way to understand this is, using one sentence to conclude what you wanna express)).
             - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
-            - Example:: Actually, we could think of current `#Fleeting Notes` and `#Evergreen` a kind of "#[[N]] block-level [[model]]".
+            - Example:: Actually, we could think of current `#Fleeting Notes` and `#Evergreen` a kind of #[[N]] block-level [[model]].
             - Example:: Try to think of the following situation, saying that I want to **distinguish two concepts by introducing their difference**. 
-""#[[N]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[N]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]"
+#[[N]] block-embed [[model]] conveys information in a rather ‘networked way’ while #[[N]] block-level [[model]] conveys information in a ‘linear way’. #[[.concept/difference]]
                 - [[Related]] to [view concepts with different lenses](((MawQmWVvk)))
                 - [[Related]] to [substructure graph generation](((WC25L-wqT)))
             - **Origin**: This is a concept I come up when I try to generalize the AXYZ [[model]] ((A do X under Y condition and observe Z)) purposed by [[Joel Chan]], based on my own understanding.
         - #[[N]] block-embed [[model]]
-            - Example:: {{[[embed]]: ((zFyFH7Z_m))}}
-        - "#[[N]] block-embed [[model]]" conveys information in a rather ‘networked way’ while "#[[N]] block-level [[model]]" conveys information in a ‘linear way’. #[[.concept/difference]]
+            - Example:: 
+                - #[[N]] block-level [[model]]
+                    - **Definition**: (Logical) structure that could be contained within a single block ((one way to understand this is, using one sentence to conclude what you wanna express)).
+                    - **Significance**: Based on this semantic, we could design block based CSS, which could convey structure in a visual way. 
+                    - Example:: Actually, we could think of current `#Fleeting Notes` and `#Evergreen` a kind of #[[N]] block-level [[model]].
+                    - Example:: Try to think of the following situation, saying that I want to **distinguish two concepts by introducing their difference**. 
+#[[N]] block-embed [[model]] conveys information in a rather ‘networked way’ while #[[N]] block-level [[model]] conveys information in a ‘linear way’. #[[.concept/difference]]
+                        - [[Related]] to [view concepts with different lenses](((MawQmWVvk)))
+                        - [[Related]] to [substructure graph generation](((WC25L-wqT)))
+                    - **Origin**: This is a concept I come up when I try to generalize the AXYZ [[model]] ((A do X under Y condition and observe Z)) purposed by [[Joel Chan]], based on my own understanding.
+        - #[[N]] block-embed [[model]] conveys information in a rather ‘networked way’ while #[[N]] block-level [[model]] conveys information in a ‘linear way’. #[[.concept/difference]]
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying.
         - #[[N]] composable [[visual cues]]
         - #[[N]] visual feedback as rewards
         - [convention on fleeting note content](Each documented fleeting note: ) [[^[[leekeifon]]]]
-        - "#[[N]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal" [[^[[leekeifon]]]]
+        - #[[N]] Learning [[collaboration]] requires separate clear shared [[goals]], to enable the process of learning collaboration to serve as a meta-goal [[^[[leekeifon]]]]
         - #[[P:Self]] It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
-        - "#[[N]] Effective teaming requires clear norms and expectations" [[^[[leekeifon]]]]
+        - #[[N]] Effective teaming requires clear norms and expectations [[^[[leekeifon]]]]
         - #[[Q]] What could be the common base of a digital environment of loosely connected people expectation?
     - #[[Conversation]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
-        - Don’t know if these are [[fruitful]] new concepts for you. "#[[N]] block-level [[model]]" and "#[[N]] block-embed [[model]]" [[~[[Brandon Toner]]]]
-        - "[This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying." [[^[[Brandon Toner]]]]
+        - Don’t know if these are [[fruitful]] new concepts for you. #[[N]] block-level [[model]] and #[[N]] block-embed [[model]] [[~[[Brandon Toner]]]]
+        - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying. [[^[[Brandon Toner]]]]
         - I understand your hesitation [here](((Z4Z2VoSX-))), visual cue is quite useful for new come Roaman, they could get what you mean at a glance, **iff.** these visual cue don’t get mess together ((like using more than two fleeting notes at the same time)) and [[aliases]] serve the job to hide these messy situation. Or in other words, our [[visual cues]] are not able to mix/compose together within a block. [[~[[Brandon Toner]]]]
             - So, technically, is there a pure css way to change css appearance when the block is referenced? There should be a JS way to do so. #[[Experiments]]
                 - Example:: When the fleeting notes is referenced, the fleeting note content should be erased, and instead, the referenced one’s background color will become yellow to indicate that it’s a fleeting note in a little bit implicit way, rather than hide its nature purely in [[aliases]].
-            - [[Related]] "#[[N]] composable [[visual cues]]"
-        - My starting point on [block-level model](((zFyFH7Z_m))) is "#[[N]] visual feedback as rewards". [[~[[Brandon Toner]]]]
+            - [[Related]] #[[N]] composable [[visual cues]]
+        - My starting point on [block-level model](((zFyFH7Z_m))) is #[[N]] visual feedback as rewards. [[~[[Brandon Toner]]]]
             - Saying that we are able to render the block based on its inner structure(manually or automatically), then we’re able to **get intention of author** at a glance(e.g. fleeting notes block). But the **first step** to achieve this, is that we might need to **find out some fundamental** [[patterns]] we tend to use in block ((AXYZ model from Joel Chan is one example)).
-            - [[Related]] "#[[N]] composable [[visual cues]]".
+            - [[Related]] #[[N]] composable [[visual cues]].
     - #[[[[Feedback]]: [[Suggestions]]]]
         - The green color for [distinguish internal and external link](((3ak7VaCMQ))) is good, but for me, it’s kind of confusing me on the semantic for **evergreen**. [[~[[Brandon Toner]]]]
     - #[[Resources]]
@@ -425,11 +472,11 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
     - #Conversation
         - #Replies
-            - "Excellent documentation on this!! "
+            - Excellent documentation on this!! 
                 - Added the recommended tags!!
-            - "I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[Evergreens/beneficial, but optional]] step. "
+            - I saw this and love the idea! I've used `Rationale::` with similar purpose on occasion... maybe `Basis::`? I see it as an [[Evergreens/beneficial, but optional]] step. 
                 - On an optional basis, for those interested in it, I think it could be interesting to develop some shorthands that help indicate both level of confidence and level of evidence.  At least, I think there could be some interesting experimentation around building collective knowledge that build from individual knowledge basis
-            - "I'd place this within a Daily Log module instead. "
+            - I'd place this within a Daily Log module instead. 
                 - Better to place it under one's daily notes or within the daily log up above?  
                     - Was looking for a polite way to "log off" :) not sure there is a convention for that 
                     - For the specific goal of knowing who is "online" and to facilitate in-roam conversations (such as the one we are having), it could suffice to have a tag to signal that (e.g., "live now" or some other convention).  Then it doesn't have to be up top on the daily note 
@@ -485,11 +532,11 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - [[[[How To]] Seed Your Graph]]
             - Copy over the conventions, FAQs, and CSS relevant to your graph!
     - #Conversation
-        - "Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))"
+        - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
             - [[^[[Brandon Toner]]]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
                 - See my [comments yesterday](((dg-k5f3s6))) for some more thoughts on Evergreen notes
-        - "#Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]"
+        - #Q How should we disambiguate between the various types of question tags? #Bookmarks [[~[[Charles Farr]]]]
             - My preference is to limit it to a parent-level tag and then a block level tag
                 - This would look like
                     - `#Questions`
@@ -508,19 +555,19 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - #[[N]] [[tagging]] [[conventions]] should lean on using tag combinations as opposed to compound tags
                 - Tag combinations reduce the total number of tags required of the user to remember — easing cognitive burden is helpful during onboarding and can sustain participation
                     - Compound tags almost always have more detailed and specific definitions — not easy to pick up rapidly in a large graph
-        - "E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]]."
+        - E vs Evergreen vs Evergreen Notes all as active tags feels challenging for [[disambiguation]].
             - [[~[[Brandon Toner]]]] makes complete sense — I think we can consolidate it down to be a bit more manageable
                 - If I were to build an updated format, this is what it might look like...
                     - [[Evergreens/Evergreen Note example 1]]
-        - "Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?"
+        - Thinking of making the switch... thoughts [[~[[Charles Farr]]]]?
             - [[~[[Brandon Toner]]]] I actually proposed this to Matt haha
                 - But yeah I agree — any type of communication, either with reference to a block or not would easily be captured by the `#Converation` block...
-        - "[[~[[Charles Farr]]]] Check [this](((3u0iEUdbd))) out.
+        - [[~[[Charles Farr]]]] Check [this](((3u0iEUdbd))) out.
 
 I'm thinking we could adjust the buttons more specifically for out needs.
 - TODO (this sprint)
 
-If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([[Roam Enhancement Requests]])"
+If BLOCKMENTIONS worked with the regular query engine this would be VERY powerful.[*]([[Roam Enhancement Requests]])
             - [[~[[Brandon Toner]]]] I like this SmartBlock a lot
                 - Question that immediately jumps to mind is...
                     - #Q What is the value of recreating lists of TODOs on the Daily Note versus pulling from some central repository?
@@ -529,8 +576,8 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
                             - The big difference is being able to tie work in Roam directly to the task and the project...
     - #[[Change Log]]
         - Added CSS to eliminate the `#Evergreen` from block references, leaving only the icon
-            - See CSS here: "In Block Reference"
-            - Example: "#Evergreens Prefer note titles with complete phrases to sharpen claims"
+            - See CSS here: In Block Reference
+            - Example: #Evergreens Prefer note titles with complete phrases to sharpen claims
             - Allows for seamless inline referencing of Evergreen notes
     - #[[GTD Zone]]
         - {{[[TODO]]}} Catalog the various structures for Zettelkasten ([see](((T1QZe1Ebn))))
@@ -539,9 +586,9 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - Hey [[~[[Larissa de Lima]]]] 👋🏼! Just checked out your twitter and I'm pretty sure we were at OW for quite some time! I just left at the beginning of December.
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
-- #[[My Daily Notes]] [[Matthew Vogel]] "{{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}" [*]([[mtv]]) {{word-count}}
+- #[[My Daily Notes]] [[Matthew Vogel]] {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([[mtv]]) {{word-count}}
     - #Conversation
-        - "#Q Is it possible to change [[roam/css]] to differentiate between internal links and external links? " [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
+        - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links?  [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
             - Yup 
                 - Preview
                     - https://roamresearch.com/
@@ -549,7 +596,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
                     - [Internal page alias]([[testing]])
                     - [Internal block alias](((0WDHO73kP)))
                     - [[testing]] #testing
-                - "```css
+                - ```css
 .rm-alias--external {
   color: var(--fg-link);
 }
@@ -568,7 +615,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
   color: var(--cl-blue-700);
   text-decoration: none!important;
   border-bottom: 1px solid;
-}```"
+}```
                 - [*Takes bow* ](((QGuX4-a7B)))
         - [[~[[Brandon Toner]]]] I am too tired to follow [this logic](((DSTTIVhQ3))) right now but it looks cool as hell, bravo! Seems like you've really taken to #[[datalog]]!
 - ---

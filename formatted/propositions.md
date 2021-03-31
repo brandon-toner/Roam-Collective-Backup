@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 20th, 2021](<February 20th, 2021.md>)
-- ... "Found a better alternative: [propositions](<propositions.md>)"
+- ... Found a better alternative: [propositions](<propositions.md>)
 
 - Found a better alternative: [propositions](<propositions.md>)
 
@@ -11,7 +11,7 @@
 
 2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on ["N"-notes](<"N"-notes.md>) vs [propositions](<propositions.md>)
 
-- "Found a better alternative: [propositions](<propositions.md>)"
+- Found a better alternative: [propositions](<propositions.md>)
 
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - [propositions](<propositions.md>)

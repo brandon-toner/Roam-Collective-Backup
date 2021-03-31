@@ -3,7 +3,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FPD1NxJJUZu.png?alt=media&token=b36f5f8b-2f7b-4a69-ba9b-dd979320fa8b)
     - **[Related](<../Related.md>):**
         - [Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation](<../Podcasts/Maps of Meaning 08: Neuropsychology of Symbolic Representation.md>) (as an example of emergent structure in the episode)
-            - "#[Literature Notes](<../Literature Notes.md>) [rules](<../rules.md>) are [emergent]([emergent](<../emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<../experience.md>) and subsequent revelation or [insight]([insights](<../insights.md>)). ([pattern-recognition](<../pattern-recognition.md>)) [conventions](<../conventions.md>) [*]([Roam Collaboration Guide](<../Roam Collaboration Guide.md>))"
+            - #[Literature Notes](<../Literature Notes.md>) [rules](<../rules.md>) are [emergent]([emergent](<../emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<../experience.md>) and subsequent revelation or [insight]([insights](<../insights.md>)). ([pattern-recognition](<../pattern-recognition.md>)) [conventions](<../conventions.md>) [*]([Roam Collaboration Guide](<../Roam Collaboration Guide.md>))
 
 # Backlinks
 ## [January 30th, 2021](<January 30th, 2021.md>)

@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)
-- "Added the convention of adding [R:](<R:.md>)
+- Added the convention of adding [R:](<R:.md>)
 
 1. Create a reference note for the resource. (Include the `[R:](<R:.md>)`
 

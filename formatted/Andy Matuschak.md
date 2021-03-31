@@ -41,7 +41,7 @@
 ## [February 1st, 2021](<February 1st, 2021.md>)
 - That being said, [Andy Matuschak](<Andy Matuschak.md>)
 
-- **["Example](<"Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)"
+- **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
 
 - A cognitive concept that I learn from [Andy Matuschak](<Andy Matuschak.md>)
 
@@ -58,6 +58,12 @@
 
 - I consider this as I add some of [Andy Matuschak](<Andy Matuschak.md>)'
 
+- Exploring [Andy Matuschak](<Andy Matuschak.md>)'
+
+- [Andy Matuschak](<Andy Matuschak.md>)'
+
+- I consider this as I add some of [Andy Matuschak](<Andy Matuschak.md>)'
+
 - **[Example](<Example.md>):** Jamming about notes on [Andy Matuschak](<Andy Matuschak.md>)
 
 - Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
@@ -65,9 +71,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Report of evergreen notes authored by graph members. (excluding externally authored notes, [e.g.](<e.g..md>) [Andy Matuschak](<Andy Matuschak.md>))
 
-- "Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
+- Triggered by [this note](((3F1bAiJBO))), I suggest a set of tags that I learn from [Andy Matuschak](<Andy Matuschak.md>)’
 
-- "We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<Articles/How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
+- We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<Articles/How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 
 - We should definitely start up an event, sharing our ideas on [Articles/How to write good prompts](<Articles/How to write good prompts.md>) by reading about [Andy Matuschak](<Andy Matuschak.md>)’
 

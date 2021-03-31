@@ -1,14 +1,14 @@
 - #[[Community Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #Announcements
-        - "Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}"
-            - ""{{{[[roam/js]]}}}""
-        - "Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block."
-            - ""{{[[roam/js]]}}""
+        - Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
+            - {{{[[roam/js]]}}}
+        - Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block.
+            - {{[[roam/js]]}}
     - #[[Daily Activities]] #not-populated
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#Obs I notice performance is lagging quite a bit since the changes today/yesterday. Not sure if Roam/js or the queries. Anyone else notice any performance issues?"
-        2. "#Q Is "chat" better as a query?"
+        1. #Obs I notice performance is lagging quite a bit since the changes today/yesterday. Not sure if Roam/js or the queries. Anyone else notice any performance issues?
+        2. #Q Is "chat" better as a query?
     - #[[The Zettelkasten]]
         - **Observations:**
             - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Obs]] {not: [[query]]}}}}
@@ -22,9 +22,9 @@
             - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[LN]] {not: [[query]]}}}}
     - #[[GTD Zone]] 
         - **Active Epic(s):**
-            - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+            - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
         - **Active Sprint(s):**
-            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
         - **Queries:**
             - **TODO Query:** (created today)
                 - {{[[query]]: {and: [[February 23rd, 2021]] [[TODO]]{not: [[query]]}}}}
@@ -35,29 +35,29 @@
     - #[[Change Log]]
         - #min-title {{[[query]]: {and: [[February 23rd, 2021]] [[Change Log]] {not: {or:[[Community Notes]] [[not-populated]]}}}}}
 - ---
-- #[[My Daily Notes]] [[George Silverman]] [*]([[gs]]) {{word-count}}  "{{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}".
+- #[[My Daily Notes]] [[George Silverman]] [*]([[gs]]) {{word-count}}  {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}.
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
     - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) 
     - #Feedback
-        - "To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](((dunAq0mq-)))"
-        - "5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option"
+        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](((dunAq0mq-)))
+        - 5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option
             - `;;` vs `jj` might be unclear. 
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox #not-populated
     - #[[Scratchpad]]
-        - "{{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?"
+        - {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]]}} Does anyone know if we have got a sub stack? What about a twitter account?
             - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
 Hey people, hopefully back here today, or 2morrow, to answer stuff and help with sprints
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Ideas for [chat demo](((6Zr6IVjYs))) while reading [[Chatting with Glue]]
@@ -86,12 +86,12 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                 - not sure yet with the specifics of how
         - [@Charles]([[@[[Charles Farr]]]]) on [chat demo](((Iz0SgiMLi)))
             - Have to admit I had thoughts about it, then totally unsure again. Will bounce back off your brainstorming session.
-                - "Could exist within a side bar or elsewhere"
+                - Could exist within a side bar or elsewhere
                     - If we think about the masonry sidebar layout or other box like designs, would it be possible to put the chat interface in one of those boxes?
                         - Roam-render?
                         - Iframe?
                         - I know very little about web dev and roam plugin dev
-                - "Could add a reply / thread feature (imagining it as a button in chat)"
+                - Could add a reply / thread feature (imagining it as a button in chat)
                     - Just having a reply button is the biggest reason I personally want this, even if it's just that feature in a multiuser graph.
                     - Replying manually is tedious, even tough it gets much faster with the right things open in sidebar, and more keyboard shortcuts than mouse
                     - How it would work
@@ -107,7 +107,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                         7. write alias
                         8. Paste reference
                         9. Finally write message
-                - "There are other ways this could be organized"
+                - There are other ways this could be organized
                     - We could do [quill-like](((1wWMSL_LN))) thread based messaging
                         - 1. UI (thinking this would in a third sidebar, not same UI than roam)
                             - To create a new conversation, click on "New conversation", add contacts, and write first message. Eventually have a convo title
@@ -134,14 +134,14 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                                 - Displays all your last messages, click on one and it switches to conversation view, focusing on the message from notif
                                 - Option to mark as read (switches tag) or snooze to resurface later
                         - 2. Archive Structure
-                            - "To create a new conversation, click on "New conversation", add contacts, and write first message. Eventually have a convo title"
+                            - To create a new conversation, click on "New conversation", add contacts, and write first message. Eventually have a convo title
                                 - Parent block has the people in the conversation, and starts the feed with roam-inter or whatever
                                 - Child block is the first message
-                            - "Reply button"
+                            - Reply button
                                 - [did you mean](((RIYyXKQa-))) a block ref of the reply is inserted below what you're replying to? If so I agree
                                 - Could have a reply attribute. Good to differentiate stuff, especially if people start indenting things
                                     - `reply:: ((block ref))`
-                            - "Clicking it makes you start a new conversation from [scratch](((eCxR1J0B0)))"
+                            - Clicking it makes you start a new conversation from [scratch](((eCxR1J0B0)))
                                 - New parent block
                                 - First children are block-refs to original messages from previous thread
                                     - Maybe convert to text and alias. Edit the text if necessary, but keep the reference to the original.
@@ -164,13 +164,13 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
                             - Afterward it can even be simplified down to the essentials, making it easier to build a functioning chat plugin relatively fast. 
                     - And last note, sorry for dumping these huge walls of text. I work by bursts of inspiration!
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #I Create a #[[temp-queries]] tag to append to blocks with queries used "just for today"
             - Goal: prevent database from slowing down due to too many queries
                 - #Q Is [this](((yVLz9g3wg))) a risk?
             - Make that tag invisible to reduce [[visual noise]]
-        - #I Another strategy to "Goal: prevent database from slowing down due to too many queries" is to utlilize **smartblock buttons**
+        - #I Another strategy to Goal: prevent database from slowing down due to too many queries is to utlilize **smartblock buttons**
         - {{[[TODO]]}} Write a process for [[weekly review]]
             - Review TODOs tagged with any **past weeks** tags (e.g. [[Week-07: 02-15-2021]])
                 - Adjust the date tag
@@ -203,14 +203,14 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
             - The compiled work together makes a better companion resource for all group members. 
     - #Conversation 
         1. [@Charles]([[~[[Charles Farr]]]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
-            - "[@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)" — **muuuuuuuuch better!**
+            - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en) — **muuuuuuuuch better!**
                 - Image::
                     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FityVTqIvrx.png?alt=media&token=efdbb3f4-7d62-4dd4-96dd-768726f37ed9)
         2. [@Peter]([[@[[Peter Rosso]]]]) — FYI when running the DNP Header template, it needs to be done as a **smartblock** to properly render some of the components. 
 
 PS: great work running that! 
 
-**UPDATE:** "Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)")
+**UPDATE:** Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components))
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2Fpu3d-bRthC.png?alt=media&token=023951bb-da91-425d-9d1d-39326ac84021)
         3. [@Mark]([[@[[Mark Robertson]]]]) Thanks for the [feedback](((SoF26U1Le)))! Means a lot. We've definitely put a fair bit of work into making this into a functional space. 
@@ -235,18 +235,18 @@ PS: great work running that!
         1. Edited the [header template]((((MZ6sdsQ7j))) such that it WILL work as a native template (with buttons for the "smart" components)
         2. Reviewed tasks tagged with [[Week-07: 02-15-2021]] and rescheduled them (many I moved to [[February 2021]])... further processing still required.
         3. Made a change to the [[Roam42]] code to resolve a bug — you'll have to re-enable the code block.  {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}
-            - "{{{[[roam/js]]}}}"
+            - {{{[[roam/js]]}}}
         4. Consolidated [[RoamJS]] scripts — you'll have to re-enable the code block.
-            - "{{[[roam/js]]}}"
+            - {{[[roam/js]]}}
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad #not-populated
     - #Conversation
         - Simple Replies
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - #Bookmarks #not-populated
     - #[[Change Log]]
-        - Changed Break Css → "Breaks — `---`c"
+        - Changed Break Css → Breaks — `---`c
 - ---
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))

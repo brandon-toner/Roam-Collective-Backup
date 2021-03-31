@@ -5,6 +5,11 @@
 ## [Antonette Laderas](<Antonette Laderas.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Q](<Q.md>)
 
+## [Beyond the Basics](<Beyond the Basics.md>)
+9. Added #[Q](<Q.md>)
+
+- #[Q](<Q.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Q](<Q.md>)
 
@@ -36,18 +41,20 @@
 - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 26th, 2021](<February 26th, 2021.md>) [Q](<Q.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
+
+- #[Q](<Q.md>)
 
 - #[Q](<Q.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 
 - All block-level tags are bolded and add a `:` at the end (e.g., formatting like `#[Q](<Q.md>)
 
@@ -67,7 +74,7 @@
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - #[Q](<Q.md>)
 
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
 - #[Q](<Q.md>)
@@ -95,7 +102,12 @@
 - #[Q](<Q.md>)
 
 ## [Main Feed](<Main Feed.md>)
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+9. Added #[Q](<Q.md>)
+
+- #[Q](<Q.md>)
 
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Questions](<Questions.md>) or [Q](<Q.md>)s
@@ -116,5 +128,5 @@
 - **[Tags](<Tags.md>):** #[Zettel Questions](<Zettel Questions.md>) #[Q](<Q.md>)
 
 ## [replace with text](<replace with text.md>)
-- "#[Q](<Q.md>)
+- #[Q](<Q.md>)
 

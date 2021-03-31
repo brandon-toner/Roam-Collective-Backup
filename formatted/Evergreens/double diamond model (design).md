@@ -17,11 +17,11 @@
 - [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
-- "#[Project Ideas](<../Project Ideas.md>) build a collection of [activities](<../activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
+- #[Project Ideas](<../Project Ideas.md>) build a collection of [activities](<../activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
 
 - #[Project Ideas](<../Project Ideas.md>) build a collection of [activities](<../activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
 
-- "#[Project Ideas](<../Project Ideas.md>) build a collection of [activities](<../activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
+- #[Project Ideas](<../Project Ideas.md>) build a collection of [activities](<../activities.md>) that match with various stages of the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>)
 
 - The up and down in the waveform below have some parallel with the [Evergreens/double diamond model (design)](<../Evergreens/double diamond model (design).md>).
 

@@ -1,8 +1,27 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
-        - "Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))"
+        - Choose whatever tickles your fancy from the [prompts list]([[Prompts]]) ((Don't forget to nest your responses under the Promptstorming tag))
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Scratchpad]] #not-populated
@@ -11,21 +30,21 @@
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
     - #Bookmarks 
-        - "[[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: "Block with `#tag1` & `#tag2` in contents""
-        - "[[datalog experimentation]]"
+        - [[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `#tag1` & `#tag2` in contents
+        - [[datalog experimentation]]
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Help Wanted]]
         - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [[cc:[[Charles Farr]]]] [[cc:[[Brandon Toner]]]]
     - #[[Conversation]]
-        - I upvote this section "[[datalog]] flashcards"! [[cc:[[Charles Farr]]]]
+        - I upvote this section [[datalog]] flashcards! [[cc:[[Charles Farr]]]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [[activities]] we could try for [[convergence]]. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]] [[cc:[[Peter Rosso]]]] [[cc:[[Larissa de Lima]]]]
             - Solution:: One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [[datalog]] and then manually add a slider bar to make a vote on it.
     - #[[Bookmarks]]
-        - "[[datalog experimentation]]"
+        - [[datalog experimentation]]
 - ---
 - #[[My Daily Notes]] [[Reddy2Go]] {{word-count}}
     - what on earth am I doing here? [[Brandon Toner]] teleported me into this garden over a week ago, yet I only dared to dabble today
@@ -35,8 +54,8 @@
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
     - #Scratchpad
         - Drafting: [[Summary/of maturity of notes]]
-            - "Summary — {{word-count}}"
-        - Meta-discussion on: "Drafting: [[Summary/of maturity of notes]]"
+            - Summary — {{word-count}}
+        - Meta-discussion on: Drafting: [[Summary/of maturity of notes]]
             - How would we describe this type of note? Is it a collection or a summary or a community note or an evergreen or a...?
         - Thinking on objectives and the relationship to mythology
             - Mythologies are so often chosen based on the type of work we're trying to do
@@ -102,7 +121,7 @@
                     - More specifically, I can't quite understand the difference between how everyone defines evergreen notes versus fleeting.
                     - I keep transferring my personal definition onto the graph here, which does not align with yours (and with a lot of others in the graph)
                 - Ultimately I proposed a new approach to categorizing and structuring our notes (and all other work) — hopefully its at least a helpful thought piece to spur come convergence around how we (RC) take notes here...
-                - p.s. — your question on "What is a community note? How is it different from an evergreen note?" is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
+                - p.s. — your question on What is a community note? How is it different from an evergreen note? is a good example of where I think the new structure could dispel **a lot** of ambiguity that exists at current...
         - Welcome [[@[[Reddy2Go]]]]!
 - ---
 - #[[My Daily Notes]] [[Stefan Natter]] {{word-count}}   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
@@ -110,7 +129,7 @@
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Today's [[Clubhouse]] session with [[Robert Haisfield]], [[cc:[[Mark Robertson]]]], [[cc:[[Brandon Toner]]]] and many more was very interesting. I learned a lot about the future of [[Roam]], [[Roam42]], and how the mood in the community. I listened to the conversation for more than ~4+ hours. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - On [[proximity]] and [[synthesis]].
             - Ideas start small and grow. 
@@ -146,7 +165,7 @@
                 - #[[N]] [[speculative outlines]] create a shared lens for directed [[brainstorming]]. [*](((eMa8XoHvR)))
                     - Group members can reference an element in an outline to elaborate on, providing content that can eventually be used to develop a draft of the intended writing project.
                         - This is [[Evergreens/Start from abundance]] at [[scale]].
-                - "#Q How are [[speculative outlines]] documented?"
+                - #Q How are [[speculative outlines]] documented?
                     - [[speculative outlines]] can be created in several ways:
                         - First think of the topic. What is it? What type of outline are you creating?
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.

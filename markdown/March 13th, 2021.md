@@ -3,7 +3,7 @@
         - Check out [AcademiaRoamana](https://roamresearch.com/#/app/AcademiaRoamana) -- the latest installment of RC-style conventions!   
     - #[[Graph Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #I make this graph a place for graph-builders to visit to check out the conventions. 
             - A show-room to support people who are using RC-based communities.

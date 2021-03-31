@@ -21,6 +21,10 @@
 - Simple implicit convention
                     - **[Cons](<Cons.md>):**
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- Can reference that block to further elaborate on the thoughts/nuance behind the vote
+                            - **[Cons](<Cons.md>):**
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - Considering changing [Promptstorming](<Promptstorming.md>) to #[Daily Activities](<Daily Activities.md>). To make that a place to nest responses to prompts AND contributions to daily activities.
             - **[Cons](<Cons.md>):**
@@ -56,7 +60,7 @@
                 - **[Cons](<Cons.md>):**
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
-- "Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page."
+- Ability to filter a page by `[E:](<E:.md>)` to see all [evergreen notes](<evergreen notes.md>) on a page.
                     - **[Cons](<Cons.md>):**
 
 - I reallllllly like that it turns green 🌲

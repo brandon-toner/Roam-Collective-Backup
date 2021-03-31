@@ -34,7 +34,7 @@
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **Personal SmartBlocks:**
     - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>)
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
             - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
             - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
             - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
@@ -96,7 +96,7 @@
         - {{Pull Calls to Attention:42SmartBlock:BToner - Calls to Attention-Button:42RemoveButton=True}}
     - **Archive**
         - BToner — .DNP Template (V1) 
-            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
                 - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
                 - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
                 - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -153,6 +153,20 @@
 ## [Be precise in your speech.](<Be precise in your speech..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [Becoming an Editor](<Becoming an Editor.md>)
+- Message [Brandon Toner](<Brandon Toner.md>)
+
+## [Beyond the Basics](<Beyond the Basics.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+1. [Brandon Toner](<Brandon Toner.md>)
+
+1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+
+1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+
+6. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [Brandon Toner](<Brandon Toner.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
 
@@ -184,7 +198,10 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [DNP Section](<DNP Section.md>)
-- "#[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [Daily Log](<Daily Log.md>)
+- 14:00-19:06 — [Brandon Toner](<Brandon Toner.md>)
 
 ## [Do not allow yourself to become arrogant or resentful.](<Do not allow yourself to become arrogant or resentful..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
@@ -334,6 +351,8 @@
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 10th, 2021](<February 10th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>)
@@ -341,6 +360,8 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 11th, 2021](<February 11th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>)
@@ -348,19 +369,27 @@
 - [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 12th, 2021](<February 12th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [@]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 13th, 2021](<February 13th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 14th, 2021](<February 14th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [ ] Look into Twitter handles. [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 15th, 2021](<February 15th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [ ] Complete review of TODOs in the graph, prioritizing the date-tagged ones. [February 15th, 2021](<February 15th, 2021.md>) [*]([Brandon Toner](<Brandon Toner.md>))
@@ -368,11 +397,15 @@
 - [ ] Review [Beau Hann](<Beau Hann.md>)'s [zettelkasten](<zettelkasten.md>) [conventions](<conventions.md>). [*]([Brandon Toner](<Brandon Toner.md>))
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - Chat with [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 17th, 2021](<February 17th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [x] Review [Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora) for opportunities to improve RC design and [onboarding](<onboarding.md>). [*]([Brandon Toner](<Brandon Toner.md>))
@@ -386,11 +419,17 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - [Brandon Toner](<Brandon Toner.md>)
+
+- [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [@Brandon]([Brandon Toner](<Brandon Toner.md>))
@@ -419,9 +458,11 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "[Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>)
+- [Charles Farr](<Charles Farr.md>), [Larissa de Lima](<Larissa de Lima.md>), & [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>)
 
@@ -430,34 +471,48 @@
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>))
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 5th, 2021](<February 5th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - Chat with [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 6th, 2021](<February 6th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - what on earth am I doing here? [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 7th, 2021](<February 7th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [February 8th, 2021](<February 8th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>):
 
 ## [February 9th, 2021](<February 9th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [If old memories still upset you, write them down carefully and completely.](<If old memories still upset you, write them down carefully and completely..md>)
@@ -480,11 +535,11 @@
 
 1. [Brandon Toner](<Brandon Toner.md>)
 
-1. "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-1. "[~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
-6. "[~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+6. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [Brandon Toner](<Brandon Toner.md>)
 
@@ -495,7 +550,13 @@
 - [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - 10:00 — 11:00 played around a bit. [Brandon Toner](<Brandon Toner.md>)
+
+- **[Project Lead](<Project Lead.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
@@ -503,30 +564,34 @@
 
 - [Brandon Toner](<Brandon Toner.md>)
 
-- "I've landed on " [Brandon Toner](<Brandon Toner.md>)
+- I've landed on  [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 27th, 2021](<January 27th, 2021.md>)
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - From `[@](<@.md>)[Brandon Toner](<Brandon Toner.md>)`
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+- It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-- "Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+- Is there discussion/dialogue convention. I see here [⬆️](((HjQ5425kF))), a convention to get your attention. Where are the standards here. I thought I saw it before you did some of the restructuring. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-- "What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+- What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-- "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
+- One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
+- There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)"
+- One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+- That helps. Explorers will always find the path, and show the way for others. And for builders, sometimes let others determine that paths they would take, before establishing predefined funnels. This is a general observation about building spaces for people. For example, many European nations (particularly Scandinavia) do not build paths through parks and open spaces UNTIL people determine what way they would want to go. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-- "[~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+- [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
-- Loving some of these tags and their css tweaks. "It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)"
+- Loving some of these tags and their css tweaks. It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
 - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
@@ -540,14 +605,18 @@
 
 - One thing that has been clear with all the multiplayer graphs I have worked with, is that zooming in on the bullet/area you are working on CAN be helpful to allow [Roam](<Roam.md>) to more efficiently sync changes AND it eases content moving right before your eyes. - since we will in effect be on different pages, instead of on one. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- You maybe right with your comment here: "Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] "Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously."" . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+- You maybe right with your comment here: Is this captured by this tip? [~[[Mark Robertson](<~[[Mark Robertson.md>)]] Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously. . Though I know that Zooming is under-the-hood different, from collapse. Basically collapsing is a change of state, not of page. Where if you zoom in, you are actually on another URL. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
 - What are the ideas for creating a dashboard for seeing how people are getting your attention. You can't efficiently query at this point using our conventions. If I was to create a query `{{[query](<query.md>): {and: [@](<@.md>) [Mark Robertson](<Mark Robertson.md>)}}}` I will not get my own `taps`, but instead get the ones that I have created on my DNP. The easy way, but don't know how stable is to add a `{not:}` for each member, but that seems to be an update nightmare.  [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
 
 - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
-- "12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)"
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
+- 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)
 
 - 12:10 — **Graph restored after crash lasted for >12 hours**. EDN format used. No known data loss. - [Brandon Toner](<Brandon Toner.md>)
 
@@ -560,24 +629,32 @@
 - [@[[Kyle Stratis](<@[[Kyle Stratis.md>)]] related to your comment [here](((bIl7_WLyg))), [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 29th, 2021](<January 29th, 2021.md>)
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
+- Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
-Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
+Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
-- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>),
+- According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>),
 
-- "According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>),
+- According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>),
 
 - According to the [definition](((o2aZIL3oU))) of [seedlings](<seedlings.md>) and the [context](((8zuNrwoHM))) on how it’s used from [Brandon Toner](<Brandon Toner.md>),
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
+- **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>))
+
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
@@ -646,6 +723,17 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 - **[Author](<Author.md>):** [Brandon Toner](<Brandon Toner.md>)
 
+## [My Daily Notes](<My Daily Notes.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+1. [Brandon Toner](<Brandon Toner.md>)
+
+1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
+
+1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+
+6. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
+
 ## [Nothing well done is insignificant.](<Nothing well done is insignificant..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -687,6 +775,11 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)"
 
 ## [Remember that what you do not yet know is more important than what you already know.](<Remember that what you do not yet know is more important than what you already know..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+## [Roles](<Roles.md>)
+- **[Administrator](<Administrator.md>):** [Brandon Toner](<Brandon Toner.md>)
+
+- **[Editor](<Editor.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)

@@ -169,10 +169,10 @@
     - TODO Queries
         - Active Epics #42SmartBlock
             - **Active Epic(s):**
-                - "#page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}"
+                - #page-focus {{[[query]]: {and: [[Epics]] [[Status/Active]] {not: [[query]]}}}}
         - Active Sprints #42SmartBlock
             - **Active Sprint(s):**
-                - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+                - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
         - TODO Created Today #42SmartBlock
             - **TODO Query:** (created today)
                 - <%CONCAT:{,{[,[query],]: {and: <%DATE:today%> [,[TODO],]},},}%>

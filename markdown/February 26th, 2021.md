@@ -2,7 +2,7 @@
     - #[[Daily Activities]] #not-populated
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day)) #not-populated 
     - #Chat ((A place to propose objects of discussion)) 
-        1. "#N Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]]."[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
+        1. #N Group [[learning]] and resource/knowledge [[curation]] is a better activity for a [[community]] than group [[synthesis]]. Unless the community is comprised of [[experts]].[*]([[@[[Charles Farr]]]])[*]([[@[[Joel Chan]]]])
     - #[[The Zettelkasten]]
         - {{Today + Obs:42SmartBlock:Today + Obs}}
         - **Questions:** 
@@ -14,7 +14,7 @@
         - **Active Epic(s):**
         - 
         - **Active Sprint(s):**
-            - "#page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}"
+            - #page-focus {{[[query]]: {and: [[Sprints]] [[Status/Active]] {not: [[query]]}}}}
         - **TODO Query:** (created today)
             - {{[[query]]: {and: [[February 26th 2021]] [[TODO]]}}}
         - {{TODO + ThisWeek:42SmartBlock:TODO + ThisWeek}}
@@ -22,7 +22,7 @@
     - #[[Change Log]]
         - {{Change Log + Today:42SmartBlock:Change Log + Today}}
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
             - #Q What is the role of [[prompts]] in knowledge base accumulation?
@@ -30,7 +30,7 @@
                 - [["many hands make light work"]]
             - #Q How might you [crowdsource]([[crowdsourcing]]) [[synthesis]]?
                 - #Obs Multiple conclusions may be drawn from the same set of data.
-                    - #therefore "#[[N]] Divergence can and should occur in the crowdsourcing of synthesis."
+                    - #therefore #[[N]] Divergence can and should occur in the crowdsourcing of synthesis.
                         - #[[N]] Divergence can and should occur in the crowdsourcing of synthesis.
                         - #Q How might alternate versions of [[synthesis]] be managed in a collaborative knowledge base?
             - #Q How should discourse around [[claims]] and [[assertions]] be conducted?
@@ -130,14 +130,14 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
         - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
     - #[[Change Log]] #not-populated
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Bookmarks
-        - ""Outline of relevant FNs""
-        - "#Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])"
-            - "#Q How should discourse around [[claims]] and [[assertions]] be conducted?"
-        - "#Q What activities might a collective community engage in?[*]([[Bookmarks]])"
+        - Outline of relevant FNs
+        - #Q How could a knowledge base be systematically and progressively developed through community engagement?[*]([[crowdsourcing]])
+            - #Q How should discourse around [[claims]] and [[assertions]] be conducted?
+        - #Q What activities might a collective community engage in?[*]([[Bookmarks]])
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - [[Collection/Block-Level Tags]]
             - Memorialize
@@ -168,7 +168,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #Conversation #not-populated
     - #Bookmarks #not-populated
 - ---
-- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - "{{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}"
+- #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #Conversation ((For nesting interactions with other members of the graph)) 
@@ -183,7 +183,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - https://twitter.com/calhistorian/status/1364757525787107329?s=20
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
-- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - #Inbox 
         - #I We should build a conversation guide page where we can highlight some of the features of the current conversation convention.
     - #[[Scratchpad]] #not-populated
@@ -192,7 +192,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #[[The Zettelkasten]] #not-populated
     - #Conversation #not-populated
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@Brandon]([[~[[Brandon Toner]]]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.
     - #Feedback  #not-populated
     - #Bookmarks #not-populated

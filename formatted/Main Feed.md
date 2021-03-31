@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - Hahah, still shopping around for a name, but trying to address this:
-    - "#[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it..."
+    - #[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
 - **[Process](<Process.md>):**
     - Reference or embed any content in this space that you'd like to elevate to a more central place for group review/consideration
 
@@ -106,7 +106,9 @@
 
 - How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>).
 
-- "How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>).
+- How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>).
+
+- How does [global public feed](((cnygMuVlk))) compare to the [Main Feed](<Main Feed.md>).
 
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - #[Main Feed](<Main Feed.md>)

@@ -93,6 +93,8 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 
 - {{[query](<query.md>): {and:[Location](<Location.md>)
 
+- {{[query](<query.md>): {and:[Location](<Location.md>)
+
 ## [Michael Shulman](<Michael Shulman.md>)
 - **[LinkedIn](<LinkedIn.md>):** https://linkedin.com/in/ymshulman
         - **[Location](<Location.md>):**

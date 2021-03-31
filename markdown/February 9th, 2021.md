@@ -1,4 +1,23 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #Announcements
     - Meetup Wednesday at 20:00GMT
@@ -14,11 +33,11 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
             - A set of questions that guide our explorations. Ref: [[12 Favorite Problems]]
             - The purpose, goals, potential projects, etc of Roam Collective (Goal: Update [[About Roam Collective]])
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "Meetup Wednesday at 20:00GMT"
+        1. Meetup Wednesday at 20:00GMT
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock))  
         - #[[Help Wanted]] — Setup for the [[Slack]] integration. 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #[[Scratchpad]] 
         - Hopped on [[Clubhouse]] for "20 mins" stayed for 2 hours. [[February 8th, 2021]] 
             - Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):
@@ -37,27 +56,27 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                             - Q
                             - I
                     - How to use these notes
-                        - "Fleeting notes" — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
-                        - "Seedlings" — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
+                        - Fleeting notes — sawdust - these are ideas stated in the form of claims, with a low threshold for creation. Make these liberally.
+                        - Seedlings — If an idea/concept feels like it's on the road to becoming an evergreen, make it a page. Once it's a page, it's a seedling.
                             - Populate with the [seedlings template](((anEZNe19K)))
                                 - DO THIS RIGHT AWAY when creating the page!
                             - A note remains a seedling until *some* content is populated on the page. 
                             - Seedlings can also be used at the __block-level__ to identify ideas that could/should develop into more crystallized ideas. Example: [here](((exoq3sS3y)))
-                        - "Budding (plural? — thinking no)" — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
+                        - Budding (plural? — thinking no) — Once some ideas are logged on the page of the seedling... an outline, some partial content, etc. It is now considered a "budding note"
                             - The conversion of seedlings to budding is kinda feeling-based. You'll know when it's more developed than a seedling. Precision is not important, really.
                             - Change the tag from `Seedlings` to `Evergreens` AND `Budding`
                             - The `[[E:]]` namespace can now be placed on the note as well.
-                        - "Evergreens" — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
+                        - Evergreens — Once **a first draft** has been created and the page is populated and feels somewhat stable... the budding tag should be removed. 
                             - An evergreen note is never "done" but this is the "final" stage of maturity.
                             - Further maturity is informally measured by use, references, commentary, depth of sources, etc.
                             - These can be concepts, claims, principles, whatever. If it's a significant idea, it's an evergreen.
-                        - "Literature notes" — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
-                        - "Zettel Questions (name?)" — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
+                        - Literature notes — kinda like fleeting notes, but anchored in reference material. May be verbatim. Summaries of main ideas found in some external source.
+                        - Zettel Questions (name?) — page-level questions. The companion to evergreens. These drive curiosity and exploration. They are North Stars, guiding the pursuit of knowledge, clarity, and ever-elusive truths. 
                             - Compare with [[Richard Feynman]]'s [[12 Favorite Problems]].
-                            - Evolves from "Q"
-                            - Uses the "Namespace: `[[Q:]]`[*](((_Wr78aOE-)))"
-                        - "Q" — The fleeting notes of questions
-                        - "I" — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [[falling between the cracks]]
+                            - Evolves from Q
+                            - Uses the Namespace: `[[Q:]]`[*](((_Wr78aOE-)))
+                        - Q — The fleeting notes of questions
+                        - I — This is for the ideas that are not phrased as claims, and are therefore not quite fleeting notes. Ideas are looser than fleeting notes, and are perhaps more meta in nature... This tag helps to track ideas users have, to reduce their likelihood of [[falling between the cracks]]
                     - Other notes on maturity
                         - Beyond EN status, maturity is based on use, sourcing, and community review. 
                         - Community [[consensus]] will be VERY hard to obtain, and I'm not yet interested in formalizing [[ratification]] processes. 
@@ -86,7 +105,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                                         - Logical
                                         - Might be a bit unintuitive
                             - Status:: #not-populated
-                            - Decision:: "C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section." (tentative)
+                            - Decision:: C - `Your Name:` [feedback here](((block ref to thoughts))) in the Reviewed By section. (tentative)
                             - Notes:: #not-populated
                     - **Final Notes:** This feels more complex than it is in practice when written out like this. Best way to learn it is to use it and observe it. 
                         - Tips::
@@ -106,7 +125,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - Daily videos and activities
                 - Guided writing sessions
             - Comments::
-                - "Energy & enthusiasm"
+                - Energy & enthusiasm
                     - Creates excitement & engagement
                 - [Clarity](((s-_ufOqAn))) and [Simplicity](((0oz2i2GxQ))) — FOCUS
                     - #[[N]] Simplicity and constraints are important to focus a group — especially a large group.
@@ -141,7 +160,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                     - Questions should be the most clearly articulated notes once polished, but can be used to generate speculative outlines as well
                         - As such, question pages share the same maturity levels as [S:](((i3KPQUiAr))) pages
                 - `#Collection` — general purpose speculative outlines that organize around a topic or concept, not a central question
-            - Changes heavily inspired by "#Annotations [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[Articles/Joel Chan — Knowledge Synthesis]]) — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)"
+            - Changes heavily inspired by #Annotations [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[Articles/Joel Chan — Knowledge Synthesis]]) — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
                 - Only real change is I added the `#Notion` note class, which is most analogous to a Fleeting Note
                     - Seemed like a worthwhile addition to ensure a distinction between notes coming from sources (i.e., `#Obs`) versus elsewhere...
         - #Annotations [Knowledge synthesis: A conceptual model and practical guide · Open and Sustainable Innovation Systems (OASIS) Lab]([[Articles/Joel Chan — Knowledge Synthesis]]) — [[Joel Chan]] — [paper](https://oasislab.pubpub.org/pub/54t0y9mk/release/2)
@@ -181,7 +200,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - **Highlight [page 17]:** Blake, C., & Pratt, W. (2006). Collaborative information synthesis II: Recommendations for information systems to support synthesis activities. Journal of the American Society for Information Science and Technology, 57(14), 1888–1895. https://doi.org/10.1002/asi.20486 ↩
                 - **Highlight [page 17]:** Clark, T., Ciccarese, P. N., & Goble, C. A. (2014). Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications. Journal of Biomedical Semantics, 5(1), 28. https://doi.org/10.1186/2041-1480-5-28 ↩
                 - **Highlight [page 18]:** Strike, K., & Posner, G. (1983). Types of synthesis and their criteria. ↩
-        - #[[Follow Up]] "Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):"
+        - #[[Follow Up]] Some notes from the last leg with myself and [Charles]([[cc:[[Charles Farr]]]]):
     - #Conversation
         - On updates to note mythology...
             - [[~[[Larissa de Lima]]]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
@@ -189,23 +208,23 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
         - Simple Replies
             - Love the idea [[cc:[[Matt Brockwell]]]]! Marking as saved, I need to come back here... [*](((bzSk_atZh)))
                 - [[~[[Peter Rosso]]]] perhaps similar to the tag cycling Matt proposed, we could do a similar version for the status flag [*](((VOEZsJYpL)))
-            - [[~[[Brandon Toner]]]] I agree with "Decision:: "Q:"" — I think setting up the distinction will make organizing around questions a bit easier...
+            - [[~[[Brandon Toner]]]] I agree with Decision:: Q: — I think setting up the distinction will make organizing around questions a bit easier...
             - [[@[[leekeifon]]]] that's correct! [*](((a5b-u6IqI)))
     - #[[GTD Zone]]
         - {{[[TODO]]}} Build Broadcast Mechansim
         - {{[[DONE]]}} Create template for Q pages [*](((n0APOFCfx)))
-        - {{[[TODO]]}} Finish thoughts here: "Right now Roam Collective is a fantastic forum for divergence... #[[Work In Process]] #[[Follow Up]]"
-        - {{[[TODO]]}} Document notetaking conventions: "[[[[Roam-Collective]]: Zettelkasten Conventions]]"
-            - "Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))"
+        - {{[[TODO]]}} Finish thoughts here: Right now Roam Collective is a fantastic forum for divergence... #[[Work In Process]] #[[Follow Up]]
+        - {{[[TODO]]}} Document notetaking conventions: [[[[Roam-Collective]]: Zettelkasten Conventions]]
+            - Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))
         - {{[[TODO]]}} Summarize value of the Question as an organizing principle
-            - Phrase the "#[[Follow Up]] on [[12 Favorite Problems]]" as questions...
+            - Phrase the #[[Follow Up]] on [[12 Favorite Problems]] as questions...
     - #Bookmarks
-        - "I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph."
+        - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #Conversation 
         - Query:
-            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [[~[[Brandon Toner]]]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...
         - #Agenda I think I have an idea for the #[[Roam Games]]. I am just trying to structure it in an argument. But essentially I have been wanting to monitor the growth of my zettlekasten using indexing patterns in graph databases.
             - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.

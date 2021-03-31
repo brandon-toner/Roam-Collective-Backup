@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [Daily Log](<Daily Log.md>)
+- 23:16 — Noticed some [CSS](<CSS.md>)
+
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - [Q](<Q.md>) How might a [CSS](<CSS.md>)
 

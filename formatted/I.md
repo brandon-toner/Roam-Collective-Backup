@@ -12,7 +12,7 @@
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [I](<I.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
-- "Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals" #[I](<I.md>)
+- Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals #[I](<I.md>)
 
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [I](<I.md>)}
@@ -34,7 +34,7 @@
 - #[I](<I.md>)
 
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
-- "#[I](<I.md>)
+- #[I](<I.md>)
 
 ## [February 4th, 2021](<February 4th, 2021.md>)
 - #[I](<I.md>)

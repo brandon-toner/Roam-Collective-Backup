@@ -21,5 +21,5 @@
 ## [February 12th, 2021](<February 12th, 2021.md>)
 - [Evergreens/Claim 2](<../Evergreens/Claim 2.md>)
 
-- **[Example](<../Example.md>):** "supported by:: [Evergreens/Claim 2](<../Evergreens/Claim 2.md>)"
+- **[Example](<../Example.md>):** supported by:: [Evergreens/Claim 2](<../Evergreens/Claim 2.md>)
 

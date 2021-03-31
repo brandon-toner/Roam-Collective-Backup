@@ -4,9 +4,15 @@
     - **[URL](<../URL.md>):** [not-populated](<../not-populated.md>)
 
 # Backlinks
+## [Beyond the Basics](<Beyond the Basics.md>)
+- Thinking of something like what [Sam Marfleet](<../Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<../Books/Hero of a Thousand Faces.md>).
+
 ## [January 25th, 2021](<January 25th, 2021.md>)
 - Thinking of something like what [Sam Marfleet](<../Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<../Books/Hero of a Thousand Faces.md>).
 
 ## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
 - **[Related](<../Related.md>):** [Books/Hero of a Thousand Faces](<../Books/Hero of a Thousand Faces.md>)
+
+## [My Daily Notes](<My Daily Notes.md>)
+- Thinking of something like what [Sam Marfleet](<../Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<../Books/Hero of a Thousand Faces.md>).
 

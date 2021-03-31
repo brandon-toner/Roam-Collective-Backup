@@ -15,9 +15,9 @@
             - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [LN](<LN.md>) {not: [query](<query.md>)}}}}
     - #[GTD Zone](<GTD Zone.md>) 
         - **Active Epic(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Epics](<Epics.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - **Active Sprint(s):**
-            - "[page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}"
+            - [page-focus](<page-focus.md>) {{[query](<query.md>): {and: [Sprints](<Sprints.md>) [Status/Active](<Status/Active.md>) {not: [query](<query.md>)}}}}
         - **Queries:**
             - **TODO Query:** (created today)
                 - {{[query](<query.md>): {and: [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}}}
@@ -28,7 +28,7 @@
     - #[Change Log](<Change Log.md>)
         - [min-all](<min-all.md>) {{[query](<query.md>): {and: [February 22nd, 2021](<February 22nd, 2021.md>) [Change Log](<Change Log.md>) {not: {or:[Community Notes](<Community Notes.md>) [not-populated](<not-populated.md>)}}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - [Q](<Q.md>) How can we fix the offset in queries? They appear slightly below the block. #[Help Wanted](<Help Wanted.md>) [CSS](<CSS.md>)
             - **[Image](<Image.md>):**
@@ -37,7 +37,7 @@
     - [Conversation](<Conversation.md>) 
         1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — on [Twitter/Substack](((iKWVPHFCU)))
             - No action taken yet, still an active item. Will get to it within 2 weeks prob, unless someone beats me to it haha. (anyone is more than welcome to spark it up)
-            - "Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack."
+            - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
                 - NICE.
         2. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) You're killing it!! Great work. 🔥🔥🔥
     - #[The Zettelkasten](<The Zettelkasten.md>)
@@ -54,9 +54,9 @@
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 22nd 2021](<February 22nd 2021.md>) [TODO](<TODO.md>)}}}
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [bnt](<bnt.md>) [TODO](<TODO.md>) {not: [query](<query.md>)}}}}
     - #[Change Log](<Change Log.md>) 
-        1. [x] Updated "Global Variables"
+        1. [x] Updated Global Variables
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - [propositions](<propositions.md>) versus [notions](<notions.md>)
             - Proposition
@@ -75,30 +75,30 @@
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
             - [ ] #[Follow Up](<Follow Up.md>) Review [block-level tags](<block-level tags.md>) & aggregate into collection
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) and [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) on [block-level tags](<block-level tags.md>)
-            - "[N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation."
+            - [N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - [N](<N.md>) The added context provided by [block-level tags](<block-level tags.md>) decreases the [search costs](<search costs.md>) and the amount of energy required to understand others' stream of conscious thought
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [re](((hgrZ2dAS8))) Most will use some sort of `import()` statement to pull code from a distributed location (generally github), so I don't think the Agora would need to host and distribute code.
             - However, if we got Roam Inter up and running in The Agora, we could easily aggregate updates centrally
         - [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) & [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) on Weekly Summaries
             - I think something like [this](((dFbvCf9ei))) could be incredibly useful. However, is there a way to do some of this programatically?
             - It could be cool to aggregate all new questions or fleeting note blocks added on a daily basis — could do it in the header...
-                - Just saw the "#[The Zettelkasten](<The Zettelkasten.md>)" queries — looks great...
+                - Just saw the #[The Zettelkasten](<The Zettelkasten.md>) queries — looks great...
         - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) let's brainstorm a bit more on [this](((JZqN2rYS0))) — I like we could structure the "database" in a few pages and then building some sort of mockup would be dope.
         - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [any and all help is greatly appreciated!](((aehiME_SV))) I saw you logged a bit of work their today, thanks! I'm going to get back to it myself tomorrow...
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>)
-        - Added CSS for "[Prop](<Prop.md>)"
+        - Added CSS for [Prop](<Prop.md>)
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>) 
-        - "[ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)"
+        - [ ] Create literature notes based on [this thread](((0PZ_hR4QF))). #[February 2021](<February 2021.md>)  [*]([[[Roam Games](<[[Roam Games.md>) Challenge 1: Project Management in a team, with handoffs]]) #[Help Wanted](<Help Wanted.md>)
             - I am currently looking at different project management as I am trying to transition my current method from notion to Roam.
     - #[Scratchpad](<Scratchpad.md>)
-        - "[ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>) "
+        - [ ] Establish [RC Newsletter](<RC Newsletter.md>)  #[Help Wanted](<Help Wanted.md>) #[Project Ideas](<Project Ideas.md>) #[February 2021](<February 2021.md>) 
             - First number should be about the mission and the purpose of RC
             - Second number can be a discussion on convergence and divergence?
             - as we draft these two we should have a `RC Newsletter/Pipeline` so that we can continuously feed multiple beasts at the same time and whenever a specific topic has enough material we can get a newsletter ready to be sent.
-                - "[ ] Build a content production pipeline "
+                - [ ] Build a content production pipeline 
                 - We can call it the convergence engine!
             - Weeky? But if we have more things building up in time we are covered.
         - Funny how long you need it takes to install software on a new laptop
@@ -110,7 +110,7 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
         - Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}} Does anyone know if we have got a sub stack? What about a twitter account?
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)

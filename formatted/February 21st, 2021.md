@@ -8,15 +8,15 @@
         - **Created a NEW SPRINT**: [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
     - [Chat](<Chat.md>) ((A place to propose objects of discussion)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) ((Run the "Daily Review" smartblock)) [not-populated](<not-populated.md>) 
-        - "**Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)"
+        - **Active Epic:** [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
         - **Active Sprint:** [Sprints/2 — Roam Games 3 (populate the Agora)](<Sprints/2 — Roam Games 3 (populate the Agora).md>)
     - #[Change Log](<Change Log.md>)
         - [min-title](<min-title.md>) {{[query](<query.md>): {and: [February 21st, 2021](<February 21st, 2021.md>) [Change Log](<Change Log.md>) {not: [Community Notes](<Community Notes.md>)}}}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
     - [Inbox](<Inbox.md>)
         - Does the Agora have a Status Page? (Versions) So that people can see if their version is up to date they need to "pull" an update on their graph?
-            - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)"
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FJzaAhAR6Ac.png?alt=media&token=b18eadcf-0f2a-4128-b8e3-ce370f31e27b)
             - 
     - #[Scratchpad](<Scratchpad.md>) 
         - Author centric dependency
@@ -62,16 +62,16 @@
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Conversation](<Conversation.md>) 
         1. Query:
-            - "{{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}"
+            - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         2. On Anchestors mapping / Agora
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) Do you still need help on [this?](((78frD4ZM9))) Don't have edit access to the agora, but [happy to help](((CzK5R-3Z6))). [*]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]])
-                - There is a quick example, but "If the tweet address is supplied this should be automatable ((provided submission are already in the graph))"
+                - There is a quick example, but If the tweet address is supplied this should be automatable ((provided submission are already in the graph))
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Alexandra Westhoff](<Alexandra Westhoff.md>) {{word-count}}
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - Doing a bit of brainstorming/data population in [the Agora](https://roamresearch.com/#/app/The-Roaman-Agora) today — mapping the Roam Games and roamcult projects & tools more broadly.
             - Would love some help in mapping the territory — **the more brainstormers the better**. (I'm bound to forget most things)
@@ -98,7 +98,7 @@
         - Fleeting Notes
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [N](<N.md>)}}}
     - [Bookmarks](<Bookmarks.md>)
-        - "Author centric dependency" [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
+        - Author centric dependency [Epics/Managing knowledge dependencies in multiplayer](<Epics/Managing knowledge dependencies in multiplayer.md>)
     - #[Change Log](<Change Log.md>) 
         1. Updated [my personal DNP template](((VyS8OjXZx))) to include a set of queries for [block-level tags](<block-level tags.md>). 
             - A query now populates, automatically collecting any mentions of key block-level tags within my section.
@@ -112,7 +112,7 @@
             - **[Rationale](<Rationale.md>):** Compile results from the full DNP (across users)
         3. Added a Change Log query to the Community Notes section
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>)) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>)

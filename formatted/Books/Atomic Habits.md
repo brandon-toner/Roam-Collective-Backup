@@ -7,5 +7,5 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [Books/Atomic Habits](<../Books/Atomic Habits.md>)
 
-- [ ] Find "[Books/Atomic Habits](<../Books/Atomic Habits.md>)
+- [ ] Find [Books/Atomic Habits](<../Books/Atomic Habits.md>)
 

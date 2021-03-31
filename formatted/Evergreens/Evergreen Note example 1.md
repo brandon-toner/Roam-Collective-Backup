@@ -17,11 +17,13 @@
 - [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
 
 ## [February 1st, 2021](<February 1st, 2021.md>)
+- [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
+
 - Some thoughts on [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
 
 - [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
 
-- "Some thoughts on [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
+- Some thoughts on [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)
 
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - [Evergreens/Evergreen Note example 1](<../Evergreens/Evergreen Note example 1.md>)

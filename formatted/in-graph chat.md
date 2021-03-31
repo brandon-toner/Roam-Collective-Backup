@@ -7,7 +7,7 @@
 
 - I think most importantly with the idea of [in-graph chat](<in-graph chat.md>)
 
-- 12:13 [Charles Farr](<Charles Farr.md>): Hey all, can you take a look at my thoughts here: "Thoughts on [in-graph chat](<in-graph chat.md>),
+- 12:13 [Charles Farr](<Charles Farr.md>): Hey all, can you take a look at my thoughts here: Thoughts on [in-graph chat](<in-graph chat.md>),
 
 ## [March 2nd, 2021](<March 2nd, 2021.md>)
 - On [in-graph chat](<in-graph chat.md>)

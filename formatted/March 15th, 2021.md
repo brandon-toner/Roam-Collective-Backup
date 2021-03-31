@@ -10,7 +10,7 @@
     - If you are using this to routinely make a DNP section, create a custom one instead (use .YOU)
     - -Brandon 
 - ---
-- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - It's been too long! A few other projects have pulled me away...
     - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)

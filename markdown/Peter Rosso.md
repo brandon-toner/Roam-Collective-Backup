@@ -19,7 +19,7 @@
                 - {{[[query]]: {and: [[cc:[[Peter Rosso]]]] {not: [[query]]]}}  }}
         - SmartBlocks::
             - PROS - .DNP TEMPLATE #42SmartBlock #roam/templates
-                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   "{{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}"
+                - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
                     - #Inbox #not-populated
                     - #[[Scratchpad]] #not-populated
                     - #[[GTD Zone]] #not-populated
@@ -27,7 +27,7 @@
                     - #[[The Zettelkasten]] #not-populated
                     - #Conversation #not-populated
                         - Query:
-                            - "{{[[query]]: {and:[[@[[Peter Rosso]]]]}}}"
+                            - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
                     - #Feedback  #not-populated
                     - #Bookmarks #not-populated
                     - 

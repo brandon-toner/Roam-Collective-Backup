@@ -25,9 +25,9 @@
 
 - [Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>)
 
-1. FYI "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>))
+1. FYI Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>))
 
-3. "Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>))
+3. Defined [a new Epic]([Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>))
 
 ## [February 16th, 2021](<February 16th, 2021.md>)
 - [Epics/Establish and document baseline RC conventions and workflows](<../Epics/Establish and document baseline RC conventions and workflows.md>)

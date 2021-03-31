@@ -1,24 +1,43 @@
-- {{embed: ((FRFW0hQu_))}}
+- **Welcome!** **READ THIS** (last updated [[January 30th, 2021]]) [*]([[Announcements]])
+    - Welcome to [[Roam-Collective]]! [Start here]([[Welcome]]). 
+    - Objectives:: 
+        - Create a [[Roam Collaboration Guide]]
+        - {{[[DONE]]}} Create a hub for the [[Roam Games]]
+    - Tips:: 
+        - Click on any bullet to "zoom in" for a more focused perspective (reducing the noise, and focusing on your section) - this also helps with stability if there are a lot of us writing simultaneously.
+        - Check out the #[[Help Wanted]] page references for opportunities to contribute.
+        - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
+        - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
+        - Check out the #[[N]] linked references for some [[atomic ideas]].
+            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+        - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
+        - [[Create new pages freely, in keeping with the conventions.]] 
+            - If making a new [collection]([[collections]]), document within your [[change log]].
+    - **Catching up on the action**
+        - Check the #[[Change Log]] linked references for a running list of the changes over time.
+        - Check the #Announcements linked references for a running list of important memos
+        - Quickly scan some previous DNP pages to browse for interesting content and observe some conventions in action.
+        - Explore the block references on the [[Prompts]] page to see community responses to various prompts
 - ---
 - #[[My Daily Notes]] [[Roam-Collective]] {{word-count}} [*]([[rc]]) 
     - #[[Daily Activities]] ((Prompts to expand our knowledge base. If not already selected, choose one or more from the Prompts page.))
         - **Active Epic:** [[Epics/Managing knowledge dependencies in multiplayer]]
         - **Active Sprint:** [[Sprints/1 — Roam Games 3 (managing dependencies)]]
     - #[[Main Feed]] ((A place to showcase graph highlights throughout the day))  
-        1. "#Obs This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([[~[[Charles Farr]]]])[*]([[Tips]])" (I discovered that I have made 149 fleeting notes!)
+        1. #Obs This is a fun way to explore your ideas! Visit your "initials" page, then filter by the block-level tag you are interested in investigating. [*]([[~[[Charles Farr]]]])[*]([[Tips]]) (I discovered that I have made 149 fleeting notes!)
     - #Chat ((A place to propose objects of discussion)) #not-populated
     - #[[GTD Zone]] ((Run the "Daily Review" smartblock)) #not-populated 
 - ---
-- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) "{{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}"
+- #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad 
         - [[Sprints/1 — Roam Games 3 (managing dependencies)]]
             - Where are we with this?
             - How is the [[Roaman Agora]] coming along? Is there a graph we can view? How can we help? [@Charles]([[~[[Charles Farr]]]])
-                - "Questions on the [[Roaman Agora]]"
-                - "Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)"
-                    - "A place to collate ideas & influence related to Roam Games"
+                - Questions on the [[Roaman Agora]]
+                - Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)
+                    - A place to collate ideas & influence related to Roam Games
                     - I like the [about](((tJ4cJ9377))) structure & conventions
-                        - "Convention Overview"
+                        - Convention Overview
                 - #Q What is a dependency graph? 
                     - What sort of dependencies should be mapped? Is there any precursor models or best practices?
         - #I Set up a collection of "[Activities]([[activities]])" and randomize from a limited selection each day to keep it fresh. 
@@ -76,9 +95,9 @@
             - Probably "To define and demonstrate how to collaborate in Roam"
             - Mmm yea, I dig that.
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) "{{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} "
+- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
     - #Scratchpad
-        - "#Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])"
+        - #Q How could [[code snippets]] and modifications be shared efficiently amongst the community?[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
     - #[[GTD Zone]]
     - #[[The Zettelkasten]]
@@ -86,7 +105,7 @@
         - [@Charles]([[~[[Charles Farr]]]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]). [cc: @b]([[cc:[[Brandon Toner]]]])
             - In summary: I really believe in the idea of an agora on a roam graph, since it's already booming on twitter, but not sure it's the best way to manage an actual dependency graph.
                 - I think the ideal would be a clean and minimalist dependency graph as a stream, sent to the roaman agora where all the discussion happens.
-            - "A place to collate ideas & influence related to Roam Games"
+            - A place to collate ideas & influence related to Roam Games
                 - Beyond the roam games, a place to collate ideas and influences for roamcult collaboration
                     - Design, UI, onboarding, ux
                     - Code, functionality
@@ -96,11 +115,11 @@
                 - Also this lightweight, clean and maybe specially structured db would make it easier for the roam team to distribute rewards
                 - **actually**: if the submissions are pretty clean and have a consistent structure and are not too tightly linked to the discussions, they could be part of the larger roaman agora, and be exported to some website or another graph for ease of access to that info.
                     - totally possible by extending roam-inter, just need to parse and convert the blocks correctly
-            - "DNP for live conversation"
+            - DNP for live conversation
                 - I'm just getting familiar with conventions here, but this is really great for conversation! I don't know if it should be in the dependency graph, but I think it could replace a big part of what roam-cult does on Twitter.
                     - Of course twitter would stay there for updates, news, getting the word out, etc, but just talking deep and solving problems seems more fitting in a graph.
             - Agreed on conventions (nesting, dependencies, etc)
-            - "SmartBlocks & Templates"
+            - SmartBlocks & Templates
                 - This gets me thinking about how we could reduce friction as much as possible, to really get every contributor on this.
                 - Maybe you could have some sort of roamgames plugin.
                     - Get a roam inter feed of submissions. On roamgames page, nested under daily page link (some sort of notification)
@@ -112,7 +131,7 @@
         - [@Charles]([[~[[Charles Farr]]]]) re [email](((EGJodIb92)))
             - samuel.bars@outlook.fr
 - ---
-- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — "{{or:🟢Online | 😴 Offline | 🟠Away}}"
+- #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - Chat with [[Brandon Toner]]
             - First seed convention/graph
@@ -155,7 +174,7 @@
             - [@B]([[~[[Brandon Toner]]]]) [re](((XDhisXPg5))) — if you're asking about the bottom two blocks without block-level tags, I don't think it would be worthwhile to tag them at the block-level. They seem associated with the `#I` block they're nested under, which feels appropriate. 
             - [@B]([[~[[Brandon Toner]]]]) [re](((-I69rW89U))) — all of the queries on my page are build on top of the `#csf` tag...
     - #Bookmarks
-        - "#[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])"
+        - #[[N]] [Conversation]([[conversation]]) is the driving force in a collaborative graph. [*](((vpjnwXgpo))) [*]([[Seedlings]])
     - #[[Change Log]]
         - Updated color scheme variables [here](((2qUvADEmE)))
             - Have not reworked any of the css code to use the new color scheme
