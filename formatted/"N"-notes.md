@@ -169,6 +169,9 @@
 ## [Literature Notes](<Literature Notes.md>)
 - **[Related](<Related.md>):** ["N"-notes](<"N"-notes.md>),
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen ["N"-notes](<"N"-notes.md>)
+
 ## [N](<N.md>)
 - ["N"-notes](<"N"-notes.md>)
 

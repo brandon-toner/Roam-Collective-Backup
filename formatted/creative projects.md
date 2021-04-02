@@ -42,3 +42,6 @@
 
 4. The [project lead](<project lead.md>) or graph [editor](<editor.md>) reviews the contributions in the [block references](<block references.md>) and uses them to develop their ideas and build out the full bodied [creative project]([creative projects](<creative projects.md>))
 
+## [Matthew Vogel](<Matthew Vogel.md>)
+- Seems like it's missing a step where [literature notes](<literature notes.md>) inform/strengthen ["N"-notes](<"N"-notes.md>) or would that happen at the [creative projects](<creative projects.md>)
+

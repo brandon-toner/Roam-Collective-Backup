@@ -256,7 +256,8 @@ return [query, results];```
             - tests
         - tests
             - ```javascript
-
+my db id - 1632
+my uid   - "rTvmoxu9FGSWal8SbCZiywCL2Nm1"
 :q [:find (pull ?e [[:block/string]
                     [:block/uid]
                     [:edit/time]
@@ -300,19 +301,41 @@ queryText = `[:find (pull ?e [[:block/string][:block/uid]])
           result = window.roamAlphaAPI.q(queryText, "Quotes");
           console.log(result);
 ```
-            - :q [:find (pull ?user [:user/display-name]) .
+            - misc queries
+                - :q [:find (pull ?user [:user/display-name]) .
     :where 
       [?f :block/uid "a8H7Z1PC5"]  
       [?f :edit/user ?user]]
-            - :q [:find ?members 
+                - :q [:find ?members 
  	:where 
     	[?b :graph/settings ?members]
 		]
-            - :q [:find ?members ?uid ?email
+                - :q [:find ?members ?uid ?email 
  	:where 
     	[?b :user/display-name ?members]
 		[?b :user/uid ?uid]
 		[?b :user/email ?email]]
+            - [noti queries](((4P2V21RJ3)))
+                - Seems like it's missing a step where [[literature notes]] inform/strengthen [["N"-notes]] or would that happen at the [[creative projects]] phase?
+                - ```clojure
+let query = `[
+	:find (pull ?block [{:block/_refs ...}
+                        :block/string
+                        :block/uid
+                        :edit/seen-by
+                        :edit/user
+                        :edit/time])
+    :in $ ?user    
+    :where
+        [?block :create/user ?user]
+        [(missing? $ ?block :node/title)]
+        (not [(missing? $ ?block :block/_refs)])
+
+        ]`
+
+let results = window.roamAlphaAPI.q(query,1632);
+
+console.log(results);```
         - noti test
             - [stable Roam42](http://roam42.com/)
                 - {{[[roam/js]]}}
