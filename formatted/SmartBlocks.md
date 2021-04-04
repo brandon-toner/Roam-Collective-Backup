@@ -48,7 +48,7 @@
         - **[SmartBlocks](<SmartBlocks.md>):**
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
-```
+)```
     - **[SmartBlocks](<SmartBlocks.md>):**#
 
 ## [My Daily Notes](<My Daily Notes.md>)

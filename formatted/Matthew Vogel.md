@@ -413,6 +413,262 @@ ncss.id = "roamnotificationscss";
 ncss.type = "text/css";
 document.getElementsByTagName("head")[0].appendChild(ncss);
 ```
+        - noti render
+            - v5 populate list
+                - ui
+                    - {{[roam/render](<roam/render.md>):((pEoDNX6ij)) [testing](<testing.md>) [Test](<Test.md>)}}
+                        - 
+                    - {{[roam/css](<roam/css.md>)}}
+                        - ```css
+.radio-toolbar input[type="radio"] {
+  opacity: 0;
+  position: fixed;
+  width: 0;
+}
+.unread-notifications.bp3-icon-notifications::before {
+  color: red;
+}
+
+.notification-center{
+  box-shadow: 0px 6.4px 14.4px rgba(0, 0, 0, 0.13),
+              0px 1.2px 3.6px rgba(0, 0, 0, 0.1);
+}
+
+
+.notification-center .pt-button{
+  width:50%;
+  border-radius: 0;
+}
+
+.notification-center .pt-button:not([class*=pt-intent-]),
+.notification-center .pt-button-group,
+.notification-center .pt-fill{
+  background-image:none !important;
+}
+
+.notification-center .notification-header{
+  text-align: center;
+  margin-bottom:10px;
+  font-size:16px;
+}
+
+.notification-center header{
+  /* border-bottom:3px solid rgba(0,0,0,.2); */
+  width:100%;
+}
+
+/* message styling */
+
+.notification-center h1 {
+  font-weight: 100;
+  color: white;
+  font-size: 1.5em
+}
+.notification-center .bp3-menu{
+}
+.notification-center .message-container{
+  overflow:auto;
+}
+.notification-center .dialog-box {
+
+  min-height: 80px;
+  max-height: 180px;
+  background-color:[DDDDE0](<DDDDE0.md>);
+  color:[040507](<040507.md>);
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.06);
+  margin:5px 10px 8px 10px;
+  padding:0px;
+  display:inline-block;
+  /* flex-direction: column; */
+}
+
+.notification-center .dialog-box .metadata {
+  height: 25px;
+  /* position: relative; */
+  color: [5C5B5C](<5C5B5C.md>);
+  background-color:[E7E7E7](<E7E7E7.md>);
+  /* width:inherit; */
+  width:100%;
+  z-index: 100;
+  position: inherit;
+  font-size: 0.8em;
+}
+
+.notification-center .left {
+  float: left; */
+  text-align: left;
+  width: content-max;
+  padding: 3px 0 0 10px;
+
+}
+
+.notification-center .right {
+  float: right; */
+  /* text-align: right; */
+  width: content-max;
+  padding: 3px 10px 0 0;
+}
+
+
+
+.notification-center .main-content {
+  padding: 8px 20px 10px 10px;
+  height: content-max;
+  color:blue;
+  /* width: 200px; */
+
+}
+```
+                - code
+                    - ```clojure
+(ns notification-center-v3
+  (:require
+   [reagent.core :as r]
+   [datascript.core :as d]
+   [roam.datascript.reactive :as dr]
+   [roam.util :as u]
+   [clojure.pprint :as pp]
+   [clojure.string :as str]))```
+                    - ```clojure
+;set some default values
+(declare load-mentions) 
+(def app-state (r/atom {:mode "Mentions"
+                        :load-fn load-mentions}))
+
+(defonce db-name (nth (str/split js/location.hash #"\/") 2))
+(declare ref-card)
+
+;datomic functions
+(defn uid-from-title [x]
+   (:block/uid @(dr/q '[:find (pull ?e [:block/uid]) .
+                 		            :in $ ?pagetitle
+                 		            :where
+                 		                [?e :node/title ?pagetitle]]
+                x
+                ))
+    
+
+)
+(defn page-refs [page-name]
+   @(dr/q '[:find (pull ?e [:block/string :block/uid :edit/time]) 
+     		            :in $ ?page-title
+     		            :where
+     		                [?f :node/title ?page-title]
+     		                [?e :block/refs ?f]]
+                          page-name)
+)
+
+(defn block-created-by [block-uid]
+   (:user/display-name @(dr/q '[:find (pull ?user [:user/display-name]) .
+            		            :in $ ?block
+            		            :where
+            		                [?f :block/uid ?block]
+            		                [?f :edit/user ?user]]
+                          block-uid))
+)
+
+(defn convert-timestamp [time]
+  (-> (js/Intl.DateTimeFormat. "en-us" [js](<js.md>){:year "numeric" 
+                                                  :month "numeric" 
+                                                  :day "numeric" 
+                                                  :hour "numeric" 
+                                                  :minute "numeric"})
+    (.format time))
+  )```
+                    - ```clojure
+
+(defn load-mentions 
+  "loads mentions"
+  [pages]
+  (print "pages")
+  [:div.message-container
+   	(for [[i x] (map-indexed vector pages)]
+      ;^{:key id} (print i)
+      (print i (nth x 1))
+      ;(def *test-block (nth(nth (page-refs (str x)) 0)0))
+      ;(let [test-block (nth(nth (page-refs (str x)) 0)0)]
+       	;(print (str (block-created-by (:block/uid (nth(nth (page-refs (str x)) 0)0)))))
+        ;(print test-block)
+        ;(def page-to-watch-url (str "https://roamresearch.com/#/app/" db-name "/page/" (:block/uid test-block)));pageToWatchUID)
+      (ref-card 
+       	(block-created-by (:block/uid (nth(nth (page-refs (str x)) 0)0))) 
+       	(convert-timestamp (:edit/time (nth(nth (page-refs (str x)) 0)0)))
+       	(:edit/time (nth(nth (page-refs (str x)) 0)0))
+      	(:block/string (nth(nth (page-refs (str x)) 0)0)))
+	)
+    
+    ;(ref-card (block-created-by (:block/uid test-block)) (convert-timestamp (:edit/time test-block)) (:block/string test-block))
+
+    ;(ref-card "user" "TIME" "UID" "[ ] Recreate in roam/render")
+
+   ;(print (block-created-by "dIb0jnk9O"))
+
+   ])
+
+(defn load-refs 
+  "loads refs"
+  []
+  (print "it's refs")
+
+  )
+```
+                    - ```clojure
+;ui;
+(defn radio [label name icon-name checked btn-fn]
+   [:label {:class (str (str "bp3-small 
+                         bp3-button 
+                         bp3-intent 
+                         radio-selectors
+                         bp3-icon-" icon-name)
+                         (if (identical? (:mode @app-state) label) " bp3-active"))}
+    [:input {:type :radio 
+             :name name 
+             :value label 
+             :default-checked checked
+             :on-click (fn []
+                         (swap! app-state
+                                 (fn [data]
+                                   (-> data
+                                     ; set new value
+                                     (assoc :mode label)
+                                     (assoc :load-fn btn-fn)
+                                     )))
+                       )
+             
+             }]
+    label])
+
+
+(defn ref-card [created-user edit-time block-id text]
+  [:div {:class "dialog-box
+                 bp3-menu-item
+         		 bp3-popover-dismiss"
+         :id block-id}
+   	[:div.metadata
+    	[:div.left [:strong created-user]]
+     	[:div.right edit-time]
+     ]
+    [:div.main-content text] ;(u/parse text)
+   ]
+  )```
+                    - ```clojure
+
+(defn main [{:keys [block-uid]} & args]
+  [:div.notification-center
+   [:header.notification-header
+    [:strong.bp3-intent "Notifications"]
+    [:div.radio-toolbar.bp3-button-group.bp3-fill
+          (radio "Mentions" "tst" "inbox" true load-mentions)
+          (radio "Refs" "tst" "git-new-branch" false load-refs)
+        ]]
+     
+       ((:load-fn @app-state) args) ;run the needed function 
+		
+      
+      
+   ]
+)```
     - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
         - [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)
