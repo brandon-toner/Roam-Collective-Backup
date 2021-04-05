@@ -414,9 +414,182 @@ ncss.type = "text/css";
 document.getElementsByTagName("head")[0].appendChild(ncss);
 ```
         - noti render
-            - v5 populate list
+            - v6 populate mentions
+                - very simply pulls refs and puts them into notifications
+                    - **issues:**
+                        - just to test so only pulls the first ref
+                        - will pull in unwanted refs (query and the render component itself)
+                        - width of the notification is weird and had to be set at 90% with css
+                        - code needs to be re-factored to use atoms better...
+                    - What if refs are put into an atom and tracked with `r/track`?
+                        - can a pull watch update an atom? probably not but something to talk to bardia about
+                        - 
                 - ui
                     - {{[roam/render](<roam/render.md>):((pEoDNX6ij)) [testing](<testing.md>) [Test](<Test.md>)}}
+                        - 
+                - code
+                    - ```clojure
+(ns notification-center-v6
+  (:require
+   [reagent.core :as r]
+   [datascript.core :as d]
+   [roam.datascript.reactive :as dr]
+   [roam.util :as u]
+   [clojure.pprint :as pp]
+   [clojure.string :as str]))```
+                    - ```clojure
+;set some default values
+(declare load-mentions) 
+(def app-state (r/atom {:mode "Mentions"
+                        :load-fn load-mentions}))
+(def mention-data (r/atom []))
+(def ref-data (r/atom []))
+
+
+(defonce db-name (nth (str/split js/location.hash #"\/") 2))
+(declare ref-card)
+
+;datomic functions
+(defn uid-from-title [x]
+   (:block/uid @(dr/q '[:find (pull ?e [:block/uid]) .
+                 		            :in $ ?pagetitle
+                 		            :where
+                 		                [?e :node/title ?pagetitle]]
+                x
+                ))
+    
+
+)
+(defn page-refs [page-uid]
+   @(dr/q '[:find (pull ?e [:block/string :block/uid :edit/time]) 
+     		            :in $ ?page-uid
+     		            :where
+     		                [?f :block/uid ?page-uid]
+     		                [?e :block/refs ?f]]
+                          page-uid)
+)
+
+(defn block-created-by [block-uid]
+   (:user/display-name @(dr/q '[:find (pull ?user [:user/display-name]) .
+            		            :in $ ?block
+            		            :where
+            		                [?f :block/uid ?block]
+            		                [?f :edit/user ?user]]
+                          block-uid))
+)
+
+(defn convert-timestamp [time]
+  (-> (js/Intl.DateTimeFormat. "en-us" [js](<js.md>){:year "numeric" 
+                                                  :month "numeric" 
+                                                  :day "numeric" 
+                                                  :hour "numeric" 
+                                                  :minute "numeric"})
+    (.format time))
+  )```
+                    - ```clojure
+
+(defn load-mentions 
+  "loads mentions"
+  [pages]
+
+  [:div.message-container
+   	(for [[i x] (map-indexed vector pages)]
+      ;^{:key id} (print i)
+		;(print (nth (page-refs (str (nth x 1))) 0) )
+      ;(let [test-block (nth(nth (page-refs (str x)) 0)0)]
+       	;(print (str (block-created-by (:block/uid (nth(nth (page-refs (str x)) 0)0)))))
+        ;(print test-block)
+        ;(def page-to-watch-url (str "https://roamresearch.com/#/app/" db-name "/page/" (:block/uid test-block)));pageToWatchUID)
+      (ref-card 
+       	(block-created-by (:block/uid (nth(nth (page-refs (str (nth x 1))) 0)0))) 
+       	(convert-timestamp (:edit/time (nth(nth (page-refs (str (nth x 1))) 0)0)))
+       	(:block/uid (nth(nth (page-refs (str (nth x 1))) 0)0))
+      	(:block/string (nth(nth (page-refs (str (nth x 1))) 0)0)))
+	)
+    
+    ;(ref-card (block-created-by (:block/uid test-block)) (convert-timestamp (:edit/time test-block)) (:block/string test-block))
+
+    ;(ref-card "user" "TIME" "UID" "[ ] Recreate in roam/render")
+
+   ;(print (block-created-by "dIb0jnk9O"))
+
+   ])
+
+(defn load-refs 
+  "loads refs"
+  []
+  (print "it's refs")
+
+  )
+```
+                    - ```clojure
+;ui;
+(defn radio [label name icon-name checked btn-fn]
+   [:label {:class (str (str "bp3-small 
+                         bp3-button 
+                         bp3-intent 
+                         radio-selectors
+                         bp3-icon-" icon-name)
+                         (if (identical? (:mode @app-state) label) " bp3-active"))}
+    [:input {:type :radio 
+             :name name 
+             :value label 
+             :default-checked checked
+             :on-click (fn []
+                         (swap! app-state
+                                 (fn [data]
+                                   (-> data
+                                     ; set new value
+                                     (assoc :mode label)
+                                     (assoc :load-fn btn-fn)
+                                     )))
+                       )
+             
+             }]
+    label])
+
+
+(defn ref-card [created-user edit-time block-id text]
+  [:div {:class "dialog-box
+                 bp3-menu-item
+         		 bp3-popover-dismiss"
+         :id block-id}
+   	[:div.metadata
+    	[:div.left [:strong created-user]]
+     	[:div.right edit-time]
+     ]
+    [:div.main-content text] ;(u/parse text)
+   ]
+  )```
+                    - ```clojure
+
+(defn main [{:keys [block-uid]} & args]
+  [:div.notification-center
+   [:header.notification-header
+    [:strong.bp3-intent "Notifications"]
+    [:div.radio-toolbar.bp3-button-group.bp3-fill
+          (radio "Mentions" "tst" "inbox" true load-mentions)
+          (radio "Refs" "tst" "git-new-branch" false load-refs)
+        ]]
+     
+       ((:load-fn @app-state) args) ;run the needed function 
+		
+      
+      
+   ]
+)```
+            - v7 use atoms to hold data
+                - very simply pulls refs and puts them into notifications
+                    - **issues:**
+                        - just to test so only pulls the first ref
+                        - will pull in unwanted refs (query and the render component itself)
+                        - width of the notification is weird and had to be set at 90% with css
+                        - code needs to be re-factored to use atoms better...
+                    - What if refs are put into an atom and tracked with `r/track`?
+                        - can a pull watch update an atom? probably not but something to talk to bardia about
+                        - 
+                - ui
+                    - {{[roam/render](<roam/render.md>):((G6eb4K14H)) [testing](<testing.md>) [Test](<Test.md>)}}
                         - 
                     - {{[roam/css](<roam/css.md>)}}
                         - ```css
@@ -480,6 +653,7 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
   margin:5px 10px 8px 10px;
   padding:0px;
   display:inline-block;
+  width:90%;
   /* flex-direction: column; */
 }
 
@@ -515,14 +689,14 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
 .notification-center .main-content {
   padding: 8px 20px 10px 10px;
   height: content-max;
-  color:blue;
-  /* width: 200px; */
+  /*color:blue;
+   width: 200px; */
 
 }
 ```
                 - code
                     - ```clojure
-(ns notification-center-v3
+(ns notification-center-v7
   (:require
    [reagent.core :as r]
    [datascript.core :as d]
@@ -535,28 +709,29 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
 (declare load-mentions) 
 (def app-state (r/atom {:mode "Mentions"
                         :load-fn load-mentions}))
+(def mention-data (r/atom []))
+(def ref-data (r/atom []))
 
 (defonce db-name (nth (str/split js/location.hash #"\/") 2))
+
 (declare ref-card)
 
 ;datomic functions
 (defn uid-from-title [x]
    (:block/uid @(dr/q '[:find (pull ?e [:block/uid]) .
-                 		            :in $ ?pagetitle
-                 		            :where
-                 		                [?e :node/title ?pagetitle]]
+                        :in $ ?pagetitle
+                        :where
+                            [?e :node/title ?pagetitle]]
                 x
                 ))
-    
-
 )
-(defn page-refs [page-name]
+(defn page-refs [page-uid]
    @(dr/q '[:find (pull ?e [:block/string :block/uid :edit/time]) 
-     		            :in $ ?page-title
+     		            :in $ ?page-uid
      		            :where
-     		                [?f :node/title ?page-title]
+     		                [?f :block/uid ?page-uid]
      		                [?e :block/refs ?f]]
-                          page-name)
+                          page-uid)
 )
 
 (defn block-created-by [block-uid]
@@ -567,6 +742,14 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
             		                [?f :edit/user ?user]]
                           block-uid))
 )
+(defn title-from-uid [page-uid]
+  (print page-uid)
+  @(dr/q '[:find (pull ?f [:node/title]) 
+     		            :in $ ?page-uid
+     		            :where
+     		                [?f :block/uid ?page-uid]]
+                          page-uid)
+ )
 
 (defn convert-timestamp [time]
   (-> (js/Intl.DateTimeFormat. "en-us" [js](<js.md>){:year "numeric" 
@@ -581,33 +764,33 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
 (defn load-mentions 
   "loads mentions"
   [pages]
-  (print "pages")
+
   [:div.message-container
    	(for [[i x] (map-indexed vector pages)]
       ;^{:key id} (print i)
-      (print i (nth x 1))
-      ;(def *test-block (nth(nth (page-refs (str x)) 0)0))
+      (print (title-from-uid (nth x 1)))
+		;(print (nth (page-refs (str (nth x 1))) 0) )
       ;(let [test-block (nth(nth (page-refs (str x)) 0)0)]
        	;(print (str (block-created-by (:block/uid (nth(nth (page-refs (str x)) 0)0)))))
         ;(print test-block)
         ;(def page-to-watch-url (str "https://roamresearch.com/#/app/" db-name "/page/" (:block/uid test-block)));pageToWatchUID)
       (ref-card 
-       	(block-created-by (:block/uid (nth(nth (page-refs (str x)) 0)0))) 
-       	(convert-timestamp (:edit/time (nth(nth (page-refs (str x)) 0)0)))
-       	(:edit/time (nth(nth (page-refs (str x)) 0)0))
-      	(:block/string (nth(nth (page-refs (str x)) 0)0)))
+       	(block-created-by (:block/uid (nth(nth (page-refs (str (nth x 1))) 0)0))) 
+       	(convert-timestamp (:edit/time (nth(nth (page-refs (str (nth x 1))) 0)0)))
+       	(:block/uid (nth(nth (page-refs (str (nth x 1))) 0)0))
+      	(:block/string (nth(nth (page-refs (str (nth x 1))) 0)0)))
 	)
     
     ;(ref-card (block-created-by (:block/uid test-block)) (convert-timestamp (:edit/time test-block)) (:block/string test-block))
 
     ;(ref-card "user" "TIME" "UID" "[ ] Recreate in roam/render")
 
-   ;(print (block-created-by "dIb0jnk9O"))
+   ;(print (block-created-by "vHhMXzLo3"))
 
    ])
 
 (defn load-refs 
-  "loads refs"
+  "loads unseen refs for blocks the user has created"
   []
   (print "it's refs")
 
@@ -616,6 +799,7 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
                     - ```clojure
 ;ui;
 (defn radio [label name icon-name checked btn-fn]
+  "creates single select buttons from radios"
    [:label {:class (str (str "bp3-small 
                          bp3-button 
                          bp3-intent 
@@ -635,11 +819,15 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
                                      (assoc :load-fn btn-fn)
                                      )))
                        )
-             
              }]
     label])
 
+(defn highlight-mention [text, mention-page]
+  ;could also use (split) to 'correctly' create span elements
+  ;<span class="rm-highlight"><span>cool</span></span>
+  (replace text mention-page (str "<span class='rm-highlight'><span>" mention-page "</span></span>"))
 
+  )
 (defn ref-card [created-user edit-time block-id text]
   [:div {:class "dialog-box
                  bp3-menu-item

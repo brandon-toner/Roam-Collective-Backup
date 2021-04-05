@@ -15,6 +15,9 @@
 ## [Announcements](<Announcements.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 
+## [April 4th, 2021](<April 4th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [Beyond the Basics](<Beyond the Basics.md>)
 12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
 

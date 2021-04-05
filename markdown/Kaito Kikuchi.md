@@ -1,6 +1,6 @@
 - Tags:: #People #Members
     - About me::
-        - Twitter:: [@kickingkite](https://twitter.com/kickingkite)
+        - Twitter:: [@kaitochondria(https://twitter.com/kaitochondria)
         - Website:: [kaito.co]()https://www.kaito.co/)
         - Location:: [[San Diego]] [[California]]
         - Work:: PhD Candidate in quantitative microbiology at [[University of California, San Diego]]

@@ -1,6 +1,6 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
-        - **[Twitter](<Twitter.md>):** [@kickingkite](https://twitter.com/kickingkite)
+        - **[Twitter](<Twitter.md>):** [@kaitochondria(https://twitter.com/kaitochondria)
         - **[Website](<Website.md>):** [kaito.co]()https://www.kaito.co/)
         - **[Location](<Location.md>):** [San Diego](<San Diego.md>) [California](<California.md>)
         - **[Work](<Work.md>):** PhD Candidate in quantitative microbiology at [University of California, San Diego](<University of California, San Diego.md>)

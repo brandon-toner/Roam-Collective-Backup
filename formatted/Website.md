@@ -61,7 +61,7 @@
         - **[Website](<Website.md>):**
 
 ## [Kaito Kikuchi](<Kaito Kikuchi.md>)
-- **[Twitter](<Twitter.md>):** [@kickingkite](https://twitter.com/kickingkite)
+- **[Twitter](<Twitter.md>):** [@kaitochondria(https://twitter.com/kaitochondria)
         - **[Website](<Website.md>):**
 
 ## [Kyle Stratis](<Kyle Stratis.md>)
