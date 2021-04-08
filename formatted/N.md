@@ -8,9 +8,6 @@
 ## [Announcements](<Announcements.md>)
 - Check out the #[N](<N.md>)
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [N](<N.md>)
-
 ## [Beyond the Basics](<Beyond the Basics.md>)
 1. #[N](<N.md>)
 
@@ -932,6 +929,9 @@
 3. #[N](<N.md>)
 
 5. #[N](<N.md>)
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [N](<N.md>)
 
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
 - #[N](<N.md>)

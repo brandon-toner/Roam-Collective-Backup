@@ -8,9 +8,6 @@
 ## [Agenda](<Agenda.md>)
 - {{[TODO](<TODO.md>)}
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [TODO](<TODO.md>)
-
 ## [Backlog](<Backlog.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -452,6 +449,9 @@
 13. {{[TODO](<TODO.md>)}
 
 - [e.g.](<e.g..md>) {{[TODO](<TODO.md>)}
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [TODO](<TODO.md>)
 
 ## [Outlines](<Outlines.md>)
 - {{[TODO](<TODO.md>)}

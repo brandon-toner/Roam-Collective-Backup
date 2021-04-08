@@ -16,10 +16,6 @@
 - **[Twitter](<Twitter.md>):** [@alycosta](https://www.twitter.com/alycosta) 
         - **[Website](<Website.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Twitter](<Twitter.md>):** [@nettesblog](https://twitter.com/nettesblog)
-        - **[Website](<Website.md>):**
-
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - **[Twitter](<Twitter.md>):** [not-populated](<not-populated.md>)
         - **[Website](<Website.md>):**
@@ -82,6 +78,10 @@
 
 ## [Matthew Vogel](<Matthew Vogel.md>)
 - **[Twitter](<Twitter.md>):** [@todayIwasbetter](https://twitter.com/todayIwasbetter)
+        - **[Website](<Website.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
+- **[Twitter](<Twitter.md>):** [@nettesblog](https://twitter.com/nettesblog)
         - **[Website](<Website.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)

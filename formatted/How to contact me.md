@@ -8,10 +8,6 @@
 - **[Location](<Location.md>):** [Melbourne](<Melbourne.md>),[Australia](<Australia.md>)
         - **[How to contact me](<How to contact me.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Birthday](<Birthday.md>):** [October 28th, 2021](<October 28th, 2021.md>) 
-        - **[How to contact me](<How to contact me.md>):**
-
 ## [Bart Lubaszka](<Bart Lubaszka.md>)
 - **[Work](<Work.md>):** English Teacher for British Council
         - **[How to contact me](<How to contact me.md>):**
@@ -58,6 +54,10 @@
 
 ## [Michael Shulman](<Michael Shulman.md>)
 - **[Work](<Work.md>):** [PhD student](<PhD student.md>) [Industrial Organizational Psychology](<Industrial Organizational Psychology.md>)
+        - **[How to contact me](<How to contact me.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
+- **[Birthday](<Birthday.md>):** [October 28th, 2021](<October 28th, 2021.md>) 
         - **[How to contact me](<How to contact me.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)

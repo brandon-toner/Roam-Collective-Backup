@@ -2,9 +2,6 @@
 - **[Related](<Related.md>):** [I](<I.md>), [Obs](<Obs.md>)
 
 # Backlinks
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Q](<Q.md>)
-
 ## [Beyond the Basics](<Beyond the Basics.md>)
 9. Added #[Q](<Q.md>)
 
@@ -108,6 +105,9 @@
 9. Added #[Q](<Q.md>)
 
 - #[Q](<Q.md>)
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [Q](<Q.md>)
 
 ## [Promptstorming](<Promptstorming.md>)
 - Or sift through the references to [Questions](<Questions.md>) or [Q](<Q.md>)s

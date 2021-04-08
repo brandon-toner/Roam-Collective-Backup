@@ -5,9 +5,6 @@
     - [minimal](<minimal.md>) {{[query](<query.md>): {and: [I](<I.md>)  {not: {or: [query](<query.md>) }}  }}}
 
 # Backlinks
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [I](<I.md>)
-
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [I](<I.md>)
 
@@ -50,6 +47,9 @@
                 - **[I](<I.md>):**
 
 - I mean, could we fulfill our online social need purely in [Roam](<Roam.md>), through different events, instead of merely doing knowledge synthesis? #[I](<I.md>)
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [I](<I.md>)
 
 ## [Samuel Bars](<Samuel Bars.md>)
 - {{[query](<query.md>): {and: [smb](<smb.md>) [I](<I.md>)

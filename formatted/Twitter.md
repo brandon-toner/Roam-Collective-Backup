@@ -16,10 +16,6 @@
 - **[About me](<About me.md>):** 
         - **[Twitter](<Twitter.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[About me](<About me.md>):**
-        - **[Twitter](<Twitter.md>):**
-
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
@@ -112,6 +108,10 @@
         - **[Twitter](<Twitter.md>):**
 
 ## [Michael Shulman](<Michael Shulman.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 

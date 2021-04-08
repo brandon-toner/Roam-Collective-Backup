@@ -1,16 +1,5 @@
 
 # Backlinks
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [bnt](<bnt.md>)
-
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Q](<Q.md>) [bnt](<bnt.md>)
-
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [I](<I.md>) [bnt](<bnt.md>)
-
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [N](<N.md>) [bnt](<bnt.md>)
-
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>)
-
 ## [Brandon Toner](<Brandon Toner.md>)
 - [min-con](<min-con.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [bnt](<bnt.md>)
 
@@ -196,4 +185,15 @@
 
 ## [March 9th, 2021](<March 9th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [bnt](<bnt.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [Q](<Q.md>) [bnt](<bnt.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [I](<I.md>) [bnt](<bnt.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [N](<N.md>) [bnt](<bnt.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [Follow Up](<Follow Up.md>) [bnt](<bnt.md>)
 

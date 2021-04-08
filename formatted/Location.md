@@ -16,10 +16,6 @@
 - **[Website](<Website.md>):** https://blogs.unimelb.edu.au/alysson-costa/
         - **[Location](<Location.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Website](<Website.md>):** [Nette's Blog](https://antonetteladeras.substack.com/)
-        - **[Location](<Location.md>):**
-
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
         - **[Location](<Location.md>):**
@@ -97,6 +93,10 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
 
 ## [Michael Shulman](<Michael Shulman.md>)
 - **[LinkedIn](<LinkedIn.md>):** https://linkedin.com/in/ymshulman
+        - **[Location](<Location.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
+- **[Website](<Website.md>):** [Nette's Blog](https://antonetteladeras.substack.com/)
         - **[Location](<Location.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)

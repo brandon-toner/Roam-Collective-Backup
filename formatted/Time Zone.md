@@ -12,10 +12,6 @@
 - **[Location](<Location.md>):** Arnsberg, Germany
         - **[Time Zone](<Time Zone.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Location](<Location.md>):** [Pinamalayan](<Pinamalayan.md>), [Oriental Mindoro](<Oriental Mindoro.md>) [Philippines](<Philippines.md>)
-        - **[Time Zone](<Time Zone.md>):**
-
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - **[Location](<Location.md>):** [not-populated](<not-populated.md>)
         - **[Time Zone](<Time Zone.md>):**
@@ -82,6 +78,10 @@
 
 ## [Michael Shulman](<Michael Shulman.md>)
 - Pre-Covid: [Silver Spring](<Silver Spring.md>) / [Baltimore](<Baltimore.md>) [Maryland](<Maryland.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
+- **[Location](<Location.md>):** [Pinamalayan](<Pinamalayan.md>), [Oriental Mindoro](<Oriental Mindoro.md>) [Philippines](<Philippines.md>)
         - **[Time Zone](<Time Zone.md>):**
 
 ## [Peter Rosso](<Peter Rosso.md>)

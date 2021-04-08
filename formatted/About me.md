@@ -16,10 +16,6 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
-    - **[About me](<About me.md>):**
-
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
@@ -93,6 +89,10 @@
     - **[About me](<About me.md>):**
 
 ## [Michael Shulman](<Michael Shulman.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**
 

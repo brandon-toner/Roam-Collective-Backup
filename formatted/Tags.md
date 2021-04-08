@@ -54,9 +54,6 @@
 ## [Announcements](<Announcements.md>)
 - **[Tags](<Tags.md>):**
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- **[Tags](<Tags.md>):**
-
 ## [Areas/Roam Collective](<Areas/Roam Collective.md>)
 - **[Tags](<Tags.md>):**
 
@@ -504,6 +501,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [N](<N.md>)
+- **[Tags](<Tags.md>):**
+
+## [Nette Laderas](<Nette Laderas.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Next Steps](<Next Steps.md>)

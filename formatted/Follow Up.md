@@ -1,9 +1,6 @@
 - **[Tags](<Tags.md>):** [Collections](<Collections.md>)
 
 # Backlinks
-## [Antonette Laderas](<Antonette Laderas.md>)
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [Follow Up](<Follow Up.md>)
-
 ## [Brandon Toner](<Brandon Toner.md>)
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [Follow Up](<Follow Up.md>)
 
@@ -116,4 +113,7 @@ I'll have a look this week. #[Follow Up](<Follow Up.md>)
 
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - I'll draw something out on this to further clarify, but in this expression ["N"-notes](<"N"-notes.md>) are NOT based on the literature, and [literature notes](<literature notes.md>) are based on some source material. [zettelkasten](<zettelkasten.md>) [Processes](<Processes.md>) [Conventions](<Conventions.md>) #[Follow Up](<Follow Up.md>)
+
+## [Nette Laderas](<Nette Laderas.md>)
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [Follow Up](<Follow Up.md>)
 

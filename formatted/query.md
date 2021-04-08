@@ -12,31 +12,6 @@
 ## [About Roam Collective](<About Roam Collective.md>)
 - [query](<query.md>)
 
-## [Antonette Laderas](<Antonette Laderas.md>)
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [@[[Antonette Laderas](<@[[Antonette Laderas.md>)]] {not: [query](<query.md>)]
-
-- {{[query](<query.md>):
-
-- {{[query](<query.md>): {and: [cc:[[Antonette Laderas](<cc:[[Antonette Laderas.md>)]] {not: [query](<query.md>)]
-
-- [min-con](<min-con.md>) {{[query](<query.md>):
-
-- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [bnt](<bnt.md>) {not: {or: [query](<query.md>)
-
-- [minimal](<minimal.md>) {{[query](<query.md>):
-
-- [minimal](<minimal.md>) {{[query](<query.md>):
-
-- [minimal](<minimal.md>) {{[query](<query.md>):
-
-- [minimal](<minimal.md>) {{[query](<query.md>):
-
-- [minimal](<minimal.md>) {{[query](<query.md>):
-
-- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Antonette Laderas](<Antonette Laderas.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
-
 ## [Brandon Toner](<Brandon Toner.md>)
 - {{[query](<query.md>):
 
@@ -444,6 +419,31 @@
 - {{[query](<query.md>):
 
 - {{[query](<query.md>): {and:[Location](<Location.md>) {or:[Brooklyn](<Brooklyn.md>) [Manhattan](<Manhattan.md>) [New York](<New York.md>) [New York City](<New York City.md>)} {not:[query](<query.md>)}
+
+## [Nette Laderas](<Nette Laderas.md>)
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [@[[Nette Laderas](<@[[Nette Laderas.md>)]] {not: [query](<query.md>)]
+
+- {{[query](<query.md>):
+
+- {{[query](<query.md>): {and: [cc:[[Nette Laderas](<cc:[[Nette Laderas.md>)]] {not: [query](<query.md>)]
+
+- [min-con](<min-con.md>) {{[query](<query.md>):
+
+- [min-con](<min-con.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [bnt](<bnt.md>) {not: {or: [query](<query.md>)
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>):
+
+- [minimal](<minimal.md>) {{[query](<query.md>): {and: [Nette Laderas](<Nette Laderas.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>)
 
 ## [Peter Rosso](<Peter Rosso.md>)
 - {{[query](<query.md>):
