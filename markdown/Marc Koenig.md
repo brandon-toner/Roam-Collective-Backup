@@ -5,3 +5,30 @@
 
         - Location:: [[Madison, WI]], [[Wisconsin]] [[United States]]
         - Time Zone:: [[Central Time]] ([[UTC]] -6:00)
+    - #[[My Daily Notes]] [[Marc]] {{word-count}}
+        - **Welcome to Roam Collective!** 😃 
+            - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+        - **Tips:**
+            - Write some thoughts under your **scratchpad** block
+            - Comment on something in the graph under your **conversation** block
+            - Capture some initial feedback in your **feedback** block
+        - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
+            - __write here__
+        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+            - __comment/reply here__
+                - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+        - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated
+    - ---
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: #not-populated
+        - Website:: #not-populated 
+        - Location:: #not-populated
+        - Time Zone:: #not-populated
+    - **Online Status:**  {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP Marc Koenig — Daily Notes Template #42SmartBlock
+        - #[[My Daily Notes]] [[Marc]] {{word-count}}
+        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+    - ---

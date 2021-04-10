@@ -89,6 +89,9 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [March 8th, 2021](<March 8th, 2021.md>)
 - I use graphs like this more than [Twitter](<Twitter.md>)
 

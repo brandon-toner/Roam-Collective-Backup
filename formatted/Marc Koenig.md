@@ -5,3 +5,30 @@
 
         - **[Location](<Location.md>):** [Madison, WI](<Madison, WI.md>), [Wisconsin](<Wisconsin.md>) [United States](<United States.md>)
         - **[Time Zone](<Time Zone.md>):** [Central Time](<Central Time.md>) ([UTC](<UTC.md>) -6:00)
+    - #[My Daily Notes](<My Daily Notes.md>) [Marc](<Marc.md>) {{word-count}}
+        - **Welcome to Roam Collective!** 😃 
+            - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
+        - **Tips:**
+            - Write some thoughts under your **scratchpad** block
+            - Comment on something in the graph under your **conversation** block
+            - Capture some initial feedback in your **feedback** block
+        - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
+            - __write here__
+        - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+            - __comment/reply here__
+                - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
+        - #[Feedback & Questions](<Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<not-populated.md>)
+    - ---
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):** [not-populated](<not-populated.md>)
+        - **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
+        - **[Location](<Location.md>):** [not-populated](<not-populated.md>)
+        - **[Time Zone](<Time Zone.md>):** [not-populated](<not-populated.md>)
+    - **Online Status:**  {{or:⚫️Offline | 🟢Online | 🟠Away | 🟡On & Off}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP Marc Koenig — Daily Notes Template [42SmartBlock](<42SmartBlock.md>)
+        - #[My Daily Notes](<My Daily Notes.md>) [Marc](<Marc.md>) {{word-count}}
+        - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+    - ---

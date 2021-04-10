@@ -628,6 +628,11 @@ Community suggests via block-level tagging, then graph editors compile them cent
 ## [Maggie Delano](<Maggie Delano.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [Marc Koenig](<Marc Koenig.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [March 11th, 2021](<March 11th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
