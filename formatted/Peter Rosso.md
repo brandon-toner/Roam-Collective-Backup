@@ -35,6 +35,12 @@
     - 
 
 # Backlinks
+## [April 11th, 2021](<April 11th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
+## [April 12th, 2021](<April 12th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>)
+
 ## [Evergreens/double diamond model (design)](<Evergreens/double diamond model (design).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) (based on it's reference by [Peter Rosso](<Peter Rosso.md>))
 

@@ -2,6 +2,12 @@
 - Scrap-paper, a place to write down your ideas.
 
 # Backlinks
+## [April 11th, 2021](<April 11th, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
+## [April 12th, 2021](<April 12th, 2021.md>)
+- #[Scratchpad](<Scratchpad.md>)
+
 ## [DNP Modules](<DNP Modules.md>)
 - #[Scratchpad](<Scratchpad.md>)
 

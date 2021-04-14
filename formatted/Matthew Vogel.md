@@ -396,19 +396,20 @@ var elem = document.getElementById("roamnotificationscss");
 
 var elem = document.getElementById("notification-center-button");
   elem.parentNode.removeChild(elem);
-```
+var elem = document.getElementById("roamnotificationsbuttoncss");
+  elem.parentNode.removeChild(elem);```
             - [remote reload](https://github.com/austinbirch/roam-cljs-example)
                 - {{[roam/js](<roam/js.md>)}}
                     - ```javascript
 var s = document.createElement("script");
-s.src = "http://127.0.0.1:8081/internal_notifications_masonry.js";
+s.src = "http://127.0.0.1:8081/roam-js-live-reload/127.0.0.1%253a8081/internal_notifications_masonry_radio.js";
 s.id = "roamnotifications";
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);
 
 var ncss = document.createElement("link");
 ncss.rel = "stylesheet"
-ncss.href = "http://127.0.0.1:8081/notification-center.css";
+ncss.href = "http://127.0.0.1:8081/roam-js-live-reload/127.0.0.1%253a8081/notification-center.css";
 ncss.id = "roamnotificationscss";
 ncss.type = "text/css";
 document.getElementsByTagName("head")[0].appendChild(ncss);
@@ -586,8 +587,8 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
                         - width of the notification is weird and had to be set at 90% with css
                         - code needs to be re-factored to use atoms better...
                     - What if refs are put into an atom and tracked with `r/track`?
-                        - can a pull watch update an atom? probably not but something to talk to bardia about
-                        - 
+                        - can a pull watch update an atom? probably not but something to talk to bardia/stian about
+                    - Frustrating that this does not live update - how can a live update be achieved?
                 - ui
                     - {{[roam/render](<roam/render.md>):((G6eb4K14H)) [testing](<testing.md>) [Test](<Test.md>)}}
                         - 

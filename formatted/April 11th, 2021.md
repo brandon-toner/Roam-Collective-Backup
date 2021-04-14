@@ -1,0 +1,9 @@
+- #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
+    - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
+    - #[Scratchpad](<Scratchpad.md>) 
+        - Just checking what is going on...
+    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
+    - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
+    - 
+- ---

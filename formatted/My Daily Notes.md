@@ -192,6 +192,12 @@ Community suggests via block-level tagging, then graph editors compile them cent
 ## [Alex Tentler](<Alex Tentler.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 
+## [April 11th, 2021](<April 11th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
+## [April 12th, 2021](<April 12th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>)
+
 ## [Ashwin Siddarth](<Ashwin Siddarth.md>)
 - #[My Daily Notes](<My Daily Notes.md>)
 

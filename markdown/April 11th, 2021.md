@@ -1,0 +1,9 @@
+- #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🚫 Offline | 🟡 On & Off | 🟠Away | 🟢Online}}
+    - #Inbox #not-populated
+    - #[[Scratchpad]] 
+        - Just checking what is going on...
+    - #Conversation #not-populated
+    - #Feedback  #not-populated
+    - #Bookmarks #not-populated
+    - 
+- ---
