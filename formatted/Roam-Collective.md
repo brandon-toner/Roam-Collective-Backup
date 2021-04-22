@@ -15,6 +15,9 @@
 ## [Announcements](<Announcements.md>)
 - Welcome to [Roam-Collective](<Roam-Collective.md>)!
 
+## [April 19th, 2021](<April 19th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [April 4th, 2021](<April 4th, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 

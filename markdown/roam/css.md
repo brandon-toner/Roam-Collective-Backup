@@ -1540,7 +1540,7 @@ span.rm-page-ref[data-tag="Annotations"] {
     position:relative;
 }```
                 - ### Block-level Tags
-                    - #Q (Questions)→ 
+                    - #Q (Questions)
                         - ```css
 span.rm-page-ref[data-tag="Q"] {
     color: var(--cl-purple-800);
