@@ -298,9 +298,18 @@ queryText = `[:find (pull ?e [[:block/string][:block/uid]])
      		                [?f :node/title ?pagetitle]
      		                [?e :block/refs ?f]]`;
 
-          result = window.roamAlphaAPI.q(queryText, "Quotes");
-          console.log(result);
-```
+result = window.roamAlphaAPI.q(queryText, "Quotes");
+console.log(result);
+
+user_uid = document.querySelector('.roam-article .roam-block').id.split('-')[2];
+
+queryText = `[:find (pull ?f [*])
+     		            :in $ ?uid
+     		            :where
+     		                [?f :user/uid ?uid]
+     		                ]`;
+result = window.roamAlphaAPI.q(queryText, user_uid);
+console.log(result["0"][0]["id"]);```
             - misc queries
                 - :q [:find (pull ?user [:user/display-name]) .
     :where 
@@ -314,7 +323,8 @@ queryText = `[:find (pull ?e [[:block/string][:block/uid]])
  	:where 
     	[?b :user/display-name ?members]
 		[?b :user/uid ?uid]
-		[?b :user/email ?email]]
+		[?b :user/email ?email]
+                ]
             - [noti queries](((4P2V21RJ3)))
                 - Seems like it's missing a step where [[literature notes]] inform/strengthen [["N"-notes]] or would that happen at the [[creative projects]] phase?
                 - ```clojure
@@ -402,14 +412,14 @@ var elem = document.getElementById("roamnotificationsbuttoncss");
                 - {{[[roam/js]]}}
                     - ```javascript
 var s = document.createElement("script");
-s.src = "http://127.0.0.1:8081/roam-js-live-reload/127.0.0.1%253a8081/internal_notifications_masonry_radio.js";
+s.src = "http://127.0.0.1:8081/127.0.0.1%253a8081/internal_notifications_masonry_radio.js";
 s.id = "roamnotifications";
 s.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(s);
 
 var ncss = document.createElement("link");
 ncss.rel = "stylesheet"
-ncss.href = "http://127.0.0.1:8081/roam-js-live-reload/127.0.0.1%253a8081/notification-center.css";
+ncss.href = "http://127.0.0.1:8081/127.0.0.1%253a8081/notification-center.css";
 ncss.id = "roamnotificationscss";
 ncss.type = "text/css";
 document.getElementsByTagName("head")[0].appendChild(ncss);
