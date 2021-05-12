@@ -24,6 +24,10 @@
 - **[Birthday](<Birthday.md>):** 
         - **[How to contact me](<How to contact me.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Work](<Work.md>):** [Engineerig](<Engineerig.md>)
+        - **[How to contact me](<How to contact me.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Birthday](<Birthday.md>):** [September 15th, 2021](<September 15th, 2021.md>)
         - **[How to contact me](<How to contact me.md>):**

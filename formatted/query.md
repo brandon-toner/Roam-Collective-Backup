@@ -342,6 +342,9 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>):
 
+## [Jorge Arone](<Jorge Arone.md>)
+- {{[query](<query.md>):
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - {{[query](<query.md>):
 

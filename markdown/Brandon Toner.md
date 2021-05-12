@@ -33,13 +33,12 @@
         - **Todos:**
             - #minimal {{[[query]]: {and: [[Brandon Toner]] [[TODO]] {not: {or: [[query]] }}  }}}
 - **Personal SmartBlocks:**
-    - BToner — .DNP Template #42SmartBlock
-        - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
-            - #Scratchpad #not-populated
-            - #Conversation #not-populated <%CURRENTBLOCKREF:newDNPRoot%>
-            - #[[Change Log]] #not-populated
+    - BToner -- .DNP Template #roam/templates #Graph/Templates
+        - [[Brandon Toner]] {{word-count}} [*]([[bnt]])
+            - [[Journal]]
+            - [[Conversation]]
+                - {{Pull Calls to Attention:42SmartBlock:BToner - Calls to Attention-Button:42RemoveButton=True}}
         - ---
-        - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
     - Mentions (BT)
     - BToner — Andy's Notes #42SmartBlock #roam/templates
         - Tags:: #[[Evergreens]] #[[Reference Notes]] #[[Andy's Notes]]
@@ -110,3 +109,10 @@
                     - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
                 - #[[Change Log]] #not-populated
             - ---
+        - BToner — .DNP Template (V2)
+            - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
+                - #Scratchpad #not-populated
+                - #Conversation #not-populated <%CURRENTBLOCKREF:newDNPRoot%>
+                - #[[Change Log]] #not-populated
+            - ---
+            - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>

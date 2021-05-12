@@ -1,0 +1,12 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@specht08](https://twitter.com/specht08)
+        - Website:: #not-populated 
+        - Location:: [[Vienna]] [[Austria]]
+        - Time Zone:: [[UTC]]+2
+    - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
+- ---
+- **Personal SmartBlocks:**
+    - .rcDNP spech — Daily Notes Template #42SmartBlock #roam/templates
+        - [[Sebastian Pech]] {{word-count}}
+        - ---

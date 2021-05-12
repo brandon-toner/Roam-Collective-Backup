@@ -33,13 +33,12 @@
         - **Todos:**
             - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>) [TODO](<TODO.md>) {not: {or: [query](<query.md>) }}  }}}
 - **Personal SmartBlocks:**
-    - BToner — .DNP Template [42SmartBlock](<42SmartBlock.md>)
-        - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
-            - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
-            - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+    - BToner -- .DNP Template [roam](<roam.md>)/templates [Graph](<Graph.md>)/Templates
+        - [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+            - [Journal](<Journal.md>)
+            - [Conversation](<Conversation.md>)
+                - {{Pull Calls to Attention:42SmartBlock:BToner - Calls to Attention-Button:42RemoveButton=True}}
         - ---
-        - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
     - Mentions (BT)
     - BToner — Andy's Notes [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
         - **[Tags](<Tags.md>):** #[Evergreens](<Evergreens.md>) #[Reference Notes](<Reference Notes.md>) #[Andy's Notes](<Andy's Notes.md>)
@@ -110,6 +109,13 @@
                     - {{TODO + Brandon Toner:42SmartBlock:BToner — TODO + Brandon Toner}}
                 - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
             - ---
+        - BToner — .DNP Template (V2)
+            - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
+                - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
+                - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
+                - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
+            - ---
+            - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
 
 # Backlinks
 ## ["many hands make light work"](<"many hands make light work".md>)
@@ -180,7 +186,7 @@
 
 - [minimal](<minimal.md>) {{[query](<query.md>): {and: [Brandon Toner](<Brandon Toner.md>)
 
-- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+- [Brandon Toner](<Brandon Toner.md>)
 
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
@@ -191,6 +197,8 @@
         - **[Brandon Toner](<Brandon Toner.md>):**
 
 - re: [replace_this_text](<%BLOCKMENTIONS:20,@[Brandon Toner](<Brandon Toner.md>),
+
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
 
@@ -721,6 +729,16 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
         - **[Brandon Toner](<Brandon Toner.md>):**
 
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [May 11th, 2021](<May 11th, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
+## [May 5th, 2021](<May 5th, 2021.md>)
+- #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>)
+
+## [May 9th, 2021](<May 9th, 2021.md>)
+- #[Graph Change Log](<Graph Change Log.md>)
+        - **[Brandon Toner](<Brandon Toner.md>):**
 
 ## [Multiplayer Roam is more fun than single-player Roam.](<Multiplayer Roam is more fun than single-player Roam..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)

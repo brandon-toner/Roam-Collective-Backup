@@ -7,6 +7,10 @@
 - **[Interests](<Interests.md>):** [hiking](<hiking.md>), [photography](<photography.md>), [rock music](<rock music.md>), [tools for thought](<tools for thought.md>), [learning](<learning.md>), [machine learning](<machine learning.md>), [programming](<programming.md>), [algorithms](<algorithms.md>), [guitar](<guitar.md>), ...
         - **[Queries](<Queries.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Interests](<Interests.md>):** [future self](<future self.md>) [productivity](<productivity.md>) [cryptocurrencies](<cryptocurrencies.md>) [metacognition](<metacognition.md>) [infinite learner](<infinite learner.md>) [conversation](<conversation.md>)
+        - **[Queries](<Queries.md>):**
+
 ## [Kyle Stratis](<Kyle Stratis.md>)
 - Send me a DM on Twitter (also great)
 - **[Queries](<Queries.md>):**

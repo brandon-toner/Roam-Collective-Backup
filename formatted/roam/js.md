@@ -2,13 +2,15 @@
 - Roam42
     - {{{[roam/js](<../roam/js.md>)}}}
         - ```javascript
-var s = document.createElement('script');
-	s.type = "text/javascript";
-    s.src =  "https://roam42-test.glitch.me/main.js"
-  // 	s.src =  "https://roam42-test.glitch.me/main.js"
-  	s.async = true;
-document.body.appendChild(s);
-```
+var existing = document.getElementById("roamjs-roam42-main");
+if (!existing) {
+  var extension = document.createElement("script");
+  extension.src = "https://roamjs.com/roam42/main.js";
+  extension.id = "roamjs-roam42-main";
+  extension.async = true;
+  extension.type = "text/javascript";
+  document.getElementsByTagName("head")[0].appendChild(extension);
+}```
 - RoamJS
     - {{[roam/js](<../roam/js.md>)}}
         - ```javascript

@@ -8,6 +8,10 @@
 - Read about my work on my [Google Scholar profile](https://scholar.google.com/citations?user=KLIjERgAAAAJ&hl=en).
         - **[Interests](<Interests.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- Send me a email: aronejorge02@gmail.com
+        - **[Interests](<Interests.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - I started using [Roam](<Roam.md>) on [October 4th, 2019](<October 4th, 2019.md>)
         - **[Interests](<Interests.md>):**

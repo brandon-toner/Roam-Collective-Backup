@@ -25,19 +25,11 @@
         - #42Setting NextMnthRaw April 2021
     - Getting Started
         - .rcGS — Getting Started  #42SmartBlock 
-            - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
+            - [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
                 - **Welcome to Roam Collective!** 😃 
-                    - Once you create you personal page using the [Personal Page Template](((8BBipopP5))), customize your pre-made Daily Notes Template with your name (instead of this one)
-                - **Tips:**
-                    - Write some thoughts under your **scratchpad** block
-                    - Comment on something in the graph under your **conversation** block
-                    - Capture some initial feedback in your **feedback** block
-                - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
-                    - __write here__
-                - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
-                    - __comment/reply here__
-                        - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
-                - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated
+                - **Next Steps:**
+                    - Create your personal page using this template - [Personal Page Template](((8BBipopP5))).
+                    - Share some thoughts.
             - ---
         - .rcYOU — Personal Page #42SmartBlock
             - Tags:: #People #Members
@@ -49,10 +41,8 @@
                 - **Online Status:**  {{or:⚫️Offline | 🟠Away | 🟡On & Off | 🟢Online}}
             - ---
             - **Personal SmartBlocks:**
-                - .rcDNP <%CONCAT:<%INPUT:Your first initial and last name, or unique identifier%>%> — Daily Notes Template <%CONCAT:#,42SmartBlock%>
-                    - <%CONCAT:#,[,[,My Daily Notes,],], [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
-                        - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
-                        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+                - .rcDNP <%CONCAT:<%INPUT:Your first initial and last name, or unique identifier%>%> — Daily Notes Template <%CONCAT:#,42SmartBlock%> <%CONCAT:#,roam/templates%>
+                    - [,[,<%INPUT:What is your name or pseudonym?%>,],]%> {{word-count}}
                     - ---
     - Daily Templates
         - .rc2DH — Daily Header #42SmartBlock #roam/templates

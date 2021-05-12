@@ -1,0 +1,13 @@
+- Tags:: #People #Members
+    - About me::
+        - Twitter:: [@jorgearoneh](https://twitter.com/jorgearoneh)
+        - Location:: [[Lima - Perú]]
+        - Time Zone:: [[America-Lima]] ([[UTC]] - 5:00)
+        - Work:: [[Engineerig]]
+        - How to contact me::
+            - Send me a email: aronejorge02@gmail.com
+        - Interests:: [[future self]] [[productivity]] [[cryptocurrencies]] [[metacognition]] [[infinite learner]] [[conversation]]
+        - Queries::
+            - {{[[query]]: {and: [[@[[Jorge Arone]]]]}}}
+    - **Online Status:**
+        - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}

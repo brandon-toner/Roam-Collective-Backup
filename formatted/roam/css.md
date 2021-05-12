@@ -1844,7 +1844,7 @@ span.rm-page-ref[data-tag="GTD Zone"] {
     font-size: var(--font-size);
     line-height: var(--line-height);
     font-weight: var(--font-weight);
-    border-radius: var(--border-radius);
+    border-radius: var(--border-radius); 
     position: var(--position);
 }
 

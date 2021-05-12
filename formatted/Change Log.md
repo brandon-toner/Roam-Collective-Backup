@@ -284,6 +284,9 @@ Shifted from using `#[Change Log](<Change Log.md>)`
 ## [March 9th, 2021](<March 9th, 2021.md>)
 - #[Change Log](<Change Log.md>)
 
+## [May 5th, 2021](<May 5th, 2021.md>)
+- #[Change Log](<Change Log.md>)
+
 ## [My Daily Notes](<My Daily Notes.md>)
 - #[Change Log](<Change Log.md>)
 

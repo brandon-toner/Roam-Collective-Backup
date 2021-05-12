@@ -284,6 +284,9 @@
 ## [March 9th, 2021](<March 9th, 2021.md>)
 - #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
 
+## [May 9th, 2021](<May 9th, 2021.md>)
+- #[Community Notes](<Community Notes.md>) [Roam-Collective](<Roam-Collective.md>)
+
 ## [My Daily Notes](<My Daily Notes.md>)
 12. [x] Clarify the [zettelkasten](<zettelkasten.md>) conventions for [Roam-Collective](<Roam-Collective.md>)
 

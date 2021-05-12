@@ -892,6 +892,8 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
             - Expanding features for communication within the graph (in-graph chat, an expanded notification system)
                 - A notification system — identifying when you as a user are mentioned within the graph
                 - In-graph chat — implemented as an additional sidebar; would allow for slack style chatting, memorialized within a single location within the graph, including native roam features (page and block referencing)
+    - render components
+        - TODO Progress Bar 
 
 # Backlinks
 ## [February 10th, 2021](<February 10th, 2021.md>)

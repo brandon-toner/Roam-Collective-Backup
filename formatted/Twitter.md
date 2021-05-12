@@ -57,6 +57,10 @@
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
@@ -127,6 +131,10 @@
         - **[Twitter](<Twitter.md>):**
 
 ## [Samuel Bars](<Samuel Bars.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
+## [Sebastian Pech](<Sebastian Pech.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
 

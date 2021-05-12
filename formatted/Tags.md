@@ -416,6 +416,9 @@
 ## [Jokes](<Jokes.md>)
 - **[Tags](<Tags.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Tags](<Tags.md>):**
 
@@ -652,6 +655,9 @@
 - **[Tags](<Tags.md>):**
 
 ## [Scratchpad](<Scratchpad.md>)
+- **[Tags](<Tags.md>):**
+
+## [Sebastian Pech](<Sebastian Pech.md>)
 - **[Tags](<Tags.md>):**
 
 ## [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)

@@ -48,6 +48,10 @@
 - See also public working notes at https://joelchan.roam.garden/
         - **[Location](<Location.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Twitter](<Twitter.md>):** [@jorgearoneh](https://twitter.com/jorgearoneh)
+        - **[Location](<Location.md>):**
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Website](<Website.md>):** [itsjustmath.net](https://itsjustmath.net/)
         - **[Location](<Location.md>):**
@@ -111,6 +115,10 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
         - **[Location](<Location.md>):**
 
 ## [Samuel Bars](<Samuel Bars.md>)
+- **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
+        - **[Location](<Location.md>):**
+
+## [Sebastian Pech](<Sebastian Pech.md>)
 - **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
         - **[Location](<Location.md>):**
 

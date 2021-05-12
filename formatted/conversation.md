@@ -48,6 +48,9 @@
 ## [January 31st, 2021](<January 31st, 2021.md>)
 - [Q](<Q.md>) How can a [conversation](<conversation.md>)
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Interests](<Interests.md>):** [future self](<future self.md>) [productivity](<productivity.md>) [cryptocurrencies](<cryptocurrencies.md>) [metacognition](<metacognition.md>) [infinite learner](<infinite learner.md>) [conversation](<conversation.md>)
+
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - On **RC Conversation conventions**:[*]([conversation](<conversation.md>))
 

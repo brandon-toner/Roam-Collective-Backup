@@ -12,6 +12,9 @@
 ## [Joel Chan](<Joel Chan.md>)
 - **[Time Zone](<Time Zone.md>):** [Eastern Time](<Eastern Time.md>) ([UTC](<UTC.md>)
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Time Zone](<Time Zone.md>):** [America-Lima](<America-Lima.md>) ([UTC](<UTC.md>)
+
 ## [Justin Mather](<Justin Mather.md>)
 - **[Time Zone](<Time Zone.md>):** [Pacific Time](<Pacific Time.md>) ([UTC](<UTC.md>)
 
@@ -35,6 +38,9 @@
 
 ## [Reddy2Go](<Reddy2Go.md>)
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>)
+
+## [Sebastian Pech](<Sebastian Pech.md>)
+- **[Time Zone](<Time Zone.md>):** [UTC](<UTC.md>)+
 
 ## [Siva Arunagiri](<Siva Arunagiri.md>)
 - **[Time Zone](<Time Zone.md>):** ([UTC](<UTC.md>)

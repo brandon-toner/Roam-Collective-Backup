@@ -8,6 +8,10 @@
 - **[Time Zone](<Time Zone.md>):** [Central European Time](<Central European Time.md>) ([UTC](<UTC.md>) +1:00)
         - **[Work](<Work.md>):**
 
+## [Jorge Arone](<Jorge Arone.md>)
+- **[Time Zone](<Time Zone.md>):** [America-Lima](<America-Lima.md>) ([UTC](<UTC.md>) - 5:00)
+        - **[Work](<Work.md>):**
+
 ## [Justin Shaffner](<Justin Shaffner.md>)
 - **[Location](<Location.md>):** [Ann Arbor](<Ann Arbor.md>), [Michigan](<Michigan.md>) [United States](<United States.md>)
         - **[Work](<Work.md>):**
