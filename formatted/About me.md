@@ -44,6 +44,10 @@
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
                 - **[About me](<About me.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
+    - **[About me](<About me.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[Tags](<Tags.md>):** [People](<People.md>) [Members](<Members.md>)
     - **[About me](<About me.md>):**

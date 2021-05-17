@@ -403,6 +403,9 @@
 ## [Imagine who you could be, and then aim single-mindedly at that.](<Imagine who you could be, and then aim single-mindedly at that..md>)
 - **[Tags](<Tags.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[Tags](<Tags.md>):**
+
 ## [January 28th, 2021](<January 28th, 2021.md>)
 5. They assign attributes as applicable
                         - **[Tags](<Tags.md>):**

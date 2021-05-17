@@ -44,6 +44,10 @@
 - **[Twitter](<Twitter.md>):** [not-populated](<not-populated.md>)
                     - **[Website](<Website.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[Twitter](<Twitter.md>):** https://twitter.com/uberstuber
+        - **[Website](<Website.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[Twitter](<Twitter.md>):** [@joelchan86](https://twitter.com/joelchan86)
         - **[Website](<Website.md>):**

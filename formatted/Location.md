@@ -44,6 +44,10 @@
 - **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
                     - **[Location](<Location.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[Website](<Website.md>):** https://jamesstuber.com/
+        - **[Location](<Location.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - See also public working notes at https://joelchan.roam.garden/
         - **[Location](<Location.md>):**

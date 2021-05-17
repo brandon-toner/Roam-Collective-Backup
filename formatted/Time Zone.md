@@ -36,6 +36,10 @@
 - **[Location](<Location.md>):** [not-populated](<not-populated.md>)
                     - **[Time Zone](<Time Zone.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[Location](<Location.md>):** [Seattle](<Seattle.md>)
+        - **[Time Zone](<Time Zone.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[Location](<Location.md>):** [College Park](<College Park.md>) [Maryland](<Maryland.md>) [United States](<United States.md>)
         - **[Time Zone](<Time Zone.md>):**

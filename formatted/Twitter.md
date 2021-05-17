@@ -53,6 +53,10 @@
 - **[About me](<About me.md>):**
                     - **[Twitter](<Twitter.md>):**
 
+## [James Stuber](<James Stuber.md>)
+- **[About me](<About me.md>):**
+        - **[Twitter](<Twitter.md>):**
+
 ## [Joel Chan](<Joel Chan.md>)
 - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):**
