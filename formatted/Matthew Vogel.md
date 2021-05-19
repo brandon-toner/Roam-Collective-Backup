@@ -18,6 +18,20 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
     - **[Queries](<Queries.md>):**
         - [notifications](<notifications.md>)
             - {{[query](<query.md>): {and:[@[[Matthew Vogel](<@[[Matthew Vogel.md>)]] {or:[cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]]} {not:[query](<query.md>)}}}}
+        - custom [roam/css](<roam/css.md>)
+            - {{[roam/css](<roam/css.md>)}}
+                - ```css
+
+.rm-inline-references 
+:not(.rm-block--mine) 
+.rm-block::before{
+  content: "From: " attr(data-edit-display-name);
+}
+.rm-query
+:not(.rm-block--mine) 
+.rm-block::before{
+  content: "From: " attr(data-edit-display-name);
+}```
         - Misc useful [datalog](<datalog.md>) [queries](<queries.md>)
             - [query](<query.md>) for all projects
                 - :q [:find ?project
@@ -868,6 +882,7 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
       
    ]
 )```
+    - 
     - **[SmartBlocks](<SmartBlocks.md>):**[not-populated](<not-populated.md>)
     - **[Bookmarks](<Bookmarks.md>):**
         - [Evergreens/alert fatigue](<Evergreens/alert fatigue.md>)

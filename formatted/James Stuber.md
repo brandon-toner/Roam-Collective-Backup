@@ -8,10 +8,13 @@
 - ---
 - **Personal SmartBlocks:**
     - .rcDNP jstuber — Daily Notes Template [42SmartBlock](<42SmartBlock.md>) [roam](<roam.md>)/templates
-        - [,[,James Stuber,],]%> {{word-count}}
+        - [James Stuber](<James Stuber.md>) {{word-count}}
         - ---
 
 # Backlinks
+## [James Stuber](<James Stuber.md>)
+- [James Stuber](<James Stuber.md>)
+
 ## [May 14th, 2021](<May 14th, 2021.md>)
-- [James Stuber](<James Stuber.md>)%
+- [James Stuber](<James Stuber.md>)
 

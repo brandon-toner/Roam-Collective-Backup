@@ -18,6 +18,20 @@ __Not nice yet because I can't stop tweaking it long enough to actually get it t
     - Queries::
         - [[notifications]]
             - {{[[query]]: {and:[[@[[Matthew Vogel]]]] {or:[[cc:[[Matthew Vogel]]]]} {not:[[query]]}}}}
+        - custom [[roam/css]]
+            - {{[[roam/css]]}}
+                - ```css
+
+.rm-inline-references 
+:not(.rm-block--mine) 
+.rm-block::before{
+  content: "From: " attr(data-edit-display-name);
+}
+.rm-query
+:not(.rm-block--mine) 
+.rm-block::before{
+  content: "From: " attr(data-edit-display-name);
+}```
         - Misc useful #datalog #queries
             - [[query]] for all projects
                 - :q [:find ?project
@@ -868,6 +882,7 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
       
    ]
 )```
+    - 
     - SmartBlocks::#not-populated
     - Bookmarks::
         - [[Evergreens/alert fatigue]]

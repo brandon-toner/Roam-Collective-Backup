@@ -8,5 +8,5 @@
 - ---
 - **Personal SmartBlocks:**
     - .rcDNP jstuber — Daily Notes Template #42SmartBlock #roam/templates
-        - [,[,James Stuber,],]%> {{word-count}}
+        - [[James Stuber]] {{word-count}}
         - ---

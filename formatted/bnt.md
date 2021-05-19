@@ -191,6 +191,9 @@
 ## [May 11th, 2021](<May 11th, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
 
+## [May 19th, 2021](<May 19th, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
+
 ## [May 5th, 2021](<May 5th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
 
