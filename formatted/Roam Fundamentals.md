@@ -8,8 +8,17 @@
 
 # Backlinks
 ## [About Roam Collective](<About Roam Collective.md>)
+- To help others learn how to use Roam effectively by demonstrating the fundamentals.  [*](To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>))
+
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>))
 
 ## [January 26th, 2021](<January 26th, 2021.md>)
 - [Andy Henson](<Andy Henson.md>)'s [Roam Fundamentals](<Roam Fundamentals.md>)
+
+## [Welcome](<Welcome.md>)
+- To help others learn how to use Roam effectively by demonstrating the fundamentals.  [*](To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>))
+
+## [Welcome V1 ([Archive](<Archive.md>))](<Welcome V1 ([Archive](<Archive.md>)).md>)
+- To help others learn how to use Roam effectively by demonstrating the fundamentals.  [*](To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>))
 

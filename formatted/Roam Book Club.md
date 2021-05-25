@@ -5,6 +5,9 @@
 
 # Backlinks
 ## [About Roam Collective](<About Roam Collective.md>)
+- To support other collaborative projects, such as Roam Book Club. [*](To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
+
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
 
 ## [Beyond the Basics](<Beyond the Basics.md>)
@@ -41,4 +44,10 @@
 
 ## [RBC](<RBC.md>)
 - **[Redirect](<Redirect.md>):** [Roam Book Club](<Roam Book Club.md>)
+
+## [Welcome](<Welcome.md>)
+- To support other collaborative projects, such as Roam Book Club. [*](To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
+
+## [Welcome V1 ([Archive](<Archive.md>))](<Welcome V1 ([Archive](<Archive.md>)).md>)
+- To support other collaborative projects, such as Roam Book Club. [*](To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).
 

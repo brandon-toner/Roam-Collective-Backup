@@ -16,7 +16,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -89,7 +89,7 @@
                 - It is easy to tell what is going on. 
                 - It is easy to contribute.
                 - It is accessible to "intermediate users" 
-            - Conversation::
+            - Conversation & Comments::
                 - Seeding graphs
                     - How can we effectively "seed" graphs with baseline information?
                         - Depending on features used, JSON or markdown exports should work relatively well for this.
@@ -170,7 +170,7 @@
                 - Book reading companion
                     - Thinking of something like what [[Sam Marfleet]] made for [[Books/Hero of a Thousand Faces]]...
                 - Study guide
-        1. What goals or objectives would you like to work towards with [[Roam-Collective]]? [*](((ODwYwd-L7)))
+        1. What goals or objectives would you like to work towards with [[Roam-Collective]]? [*](Goals:: ((See block references for additional ideas.)))
             - To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities.
         3. From the references on `[[Open Questions]]`: What is the best method of notifications?
             - The `@` and `~` convention from [[[[Roam Book Club]] II]] seemed to work well.
@@ -178,7 +178,7 @@
         4. How to tag ideas related to graph conventions and processes?
             - Under `[[[[Feedback]]: [[Suggestions]]]]`?
         5. How important is it to stick to vanilla Roam?
-    - #Conversation
+    - #[[Conversation & Comments]]
         1. [[~]][[Brandon Toner]] any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below) — fixed
         1. [[~]] [[Brandon Toner]] how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([[Graph/Templates]])
             - Feel free to add some! You could make a `#Templates` section in your DNP section, and create some [[SmartBlocks]] there #Processes #templates
@@ -260,7 +260,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[[The Zettelkasten]]
         - #[[N]] The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
             - #[[N]] Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
-    - #Conversation
+    - #[[Conversation & Comments]]
         - How important is it to stick to vanilla Roam?
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.
             - However, any extension represents a tradeoff in user-friendliness. Worthwhile to considering adding documentation to support onboarding. 

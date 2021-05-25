@@ -17,7 +17,7 @@
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - A place to input content into a zettelkasten.
         - More formal ideas go here.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - [Questions](<Questions.md>)
         - A place to document questions. 

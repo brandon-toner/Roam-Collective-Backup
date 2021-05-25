@@ -5,7 +5,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [@[[Alysson M. Costa](<@[[Alysson M. Costa.md>)]] re [change log](((BLrKswZok)))
             - Yup that's right! Change log is just for big changes that might affect other people.
         - [~[[Kaito Kikuchi](<~[[Kaito Kikuchi.md>)]] [welcome!](((HJB-DxxGd)))
@@ -41,7 +41,7 @@
     - #[Scratchpad](<Scratchpad.md>) 
         - These days I mostly code for my PhD and working on the Roam API
         - But I do come here every couple of days looking out for anything going on.
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -58,7 +58,7 @@
             - For example, [structuring Literature Notes as Verbatim Notes to combat cognitive burden](((kvrzNKc5u))) was revelatory for me.
         - I have a harder time grasping __how people use__ Roam Collective. 
             - Pointers to what do people do every day, what is a typical flow, example conversations and pages could be very informative for beginners getting up to speed.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] [on how to use Roam Collective](((Z2HuShhsE)))
             - OK this was really helpful! Thank you!
             - I like how a lot of thought is going into building good conventions for collaborative thinking
@@ -67,7 +67,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) 
         - Returning to thoughts around [roam/chat](<roam/chat.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 

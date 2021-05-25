@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -188,7 +188,7 @@
         - #I a #[[Reference Needed]] tag can be helpful for flagging and populating missing references. 
             - ... but this might be satisfied by not_populated! 
         - #[[N]] [[constraints]] help to facilitate [[convergence]].
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
             - There is definitely some variance on the structure of zettelkastens.
                 - This likely stems from users trying to adapt an analog system into a graph database software. With technology, different workflows are possible, so there is a lot of experimentation ongoing. 
@@ -387,7 +387,7 @@
 - ---
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}}
     - #[[Scratchpad]]
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[~[[Brandon Toner]]]]#Q How could [[notifications]] be managed with this? @/~ wouldn't work bc when would you switch it?
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[[everyone]]`  Could have a query under the announcement banner?
@@ -466,7 +466,7 @@
         - #Q How do we digest all of the information we're adding to the graph?
             - What processing happens implicitly through conversation and collaboration?
             - What processing needs to be undertaken explicitly to capture the rest?
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On [[compound tags]] with BToner
             - [[~[[Charles Farr]]]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                 - [[~[[Brandon Toner]]]] I think you hit it on the head with the `#Projects` + `#Ideas`
@@ -647,7 +647,7 @@
                 - Hooks
         - CSS Playground
             - [[Books/The Culture Code]]
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[~[[Brandon Toner]]]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - Page Reference Brackets
                 - ```ruby
@@ -727,7 +727,7 @@
                 - Hierarchies that provide an approximate sense of scope, and a guide for navigation
                 - Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions
                 - Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals #[[I]]
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - Jamming on #Q How should "[[concept pages]]" be handled? #zettelkasten #[[evergreen notes]] [[~[[Brandon Toner]]]]
             - argument:: I still hold the point that we shouldn’t **rush** to make [[Evergreens]] [[pages]], in [[collaboration]] context.
                 - One [implication]([[significance and implications]]) of rush, is not enough [[maturity]].
@@ -776,7 +776,7 @@
                         - Asynchronicity
                             - Different time commitment 
                         - Prioritization
-    - #Conversation  
+    - #[[Conversation & Comments]]  
         - Fleeting notes should be fleeting, thus we should not be concerned with them. and Is this going to promote a good process or information hoarding? beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
             - Could there be two types of fleeting notes? 
                 - One that is meant for the individual to write unimpeded, and to have a body of ideas to build off.  A fleeting note that is identical to what would exist in one's personal graph

@@ -13,6 +13,6 @@
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - It's been too long! A few other projects have pulled me away...
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
 - ---

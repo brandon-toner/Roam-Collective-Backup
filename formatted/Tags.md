@@ -135,6 +135,9 @@
 ## [Compare yourself to who you were yesterday, not who someone else is today.](<Compare yourself to who you were yesterday, not who someone else is today..md>)
 - **[Tags](<Tags.md>):**
 
+## [Conversation & Comments](<Conversation & Comments.md>)
+- **[Tags](<Tags.md>):**
+
 ## [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>)
 - **[Tags](<Tags.md>):**
 
@@ -821,9 +824,6 @@
 - **[Tags](<Tags.md>):**
 
 ## [convergence](<convergence.md>)
-- **[Tags](<Tags.md>):**
-
-## [conversation](<conversation.md>)
 - **[Tags](<Tags.md>):**
 
 ## [empty references](<empty references.md>)

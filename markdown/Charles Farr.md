@@ -12,7 +12,7 @@
         - #42SmartBlock CFarr — DNP
             - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
                 - #Scratchpad #not-populated
-                - #Conversation #not-populated
+                - #[[Conversation & Comments]] #not-populated
                 - #Bookmarks #not-populated
             - ---
     - Custom JavaScript

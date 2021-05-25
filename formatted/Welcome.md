@@ -2,14 +2,12 @@
     - This is a space to explore the budding potential of **working together** in Roam. And other things. Really, [this is a public workspace](((W9hbYSnOo))) — where we focus tend to focus pretty heavily on the meta-nature of this space.
     - We see a future where groups can effortlessly __accumulate shared knowledge__ and __accomplish shared objectives__ through the driving force of communication.
     - Conversation is RICH with value. Questions are asked, resources are shared, opportunities are identified, and ideas are born. 
-    - In the short time since this experiment has begun, we have defined and collected some powerful conventions that empower us to mine the value encoded within natural conversation and exchanges. But we are just getting started...
+    - Using this space in early 2021, we have defined and collected some powerful conventions that empower us to mine the value encoded within natural conversation and exchanges. But we are just getting started...
     - Our objectives:
-        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](((dunAq0mq-)))
-        - To build the conventions necessary to enable effective knowledge collaboration at scale. [*](((Ph6GmvSym)))
-        - To provide a hub for meta-conversation around collaboration in Roam. [*](((eANvlBt9C)))
-        - To provide a hub for community collaboration surrounding the Roam Games [*](((J3g3yeNQW))) — See [The Roaman Agora](https://roamresearch.com/#/app/The-Roaman-Agora/page/wujSyfjAu) (A Roam Collaborative project)
-        - To help others learn how to use Roam effectively by demonstrating the fundamentals.  [*](((atERD5myP)))
-        - To support other collaborative projects, such as Roam Book Club. [*](((kpwuAoflN)))
+        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))))
+        - To build the conventions necessary to enable effective knowledge collaboration at scale. [*](To build the [conventions](<conventions.md>) necessary to enable effective knowledge collaboration at scale.)
+        - To help others learn how to use Roam effectively by demonstrating the fundamentals.  [*](To help others learn how to use Roam effectively by demonstrating [the fundamentals]([Roam Fundamentals](<Roam Fundamentals.md>)). )
+        - To support other collaborative projects, such as Roam Book Club. [*](To support other collaborative projects, such as [Roam Book Club](<Roam Book Club.md>).)
     - We operate with an agile spirit of experimentation and iteration — this is a place of chaos (**so put on your hard hat and buckle up**).
     - __Learn more about Roam Collective__ [here]([About Roam Collective](<About Roam Collective.md>)).
 - ## Getting Started
@@ -33,9 +31,10 @@
 - ## If you are just visiting:
     - Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>) to comment, ask questions, offer feedback, or just chat about the project.
     - Tweet your thoughts about the Project (or graph highlights) using the hashtag `[RoamCollective](<RoamCollective.md>)`
+- See also: [Welcome V1 ([[Archive](<Welcome V1 ([[Archive.md>))]]
 
 # Backlinks
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - **[Related](<Related.md>):** [Welcome](<Welcome.md>)
 
 ## [Announcements](<Announcements.md>)
@@ -155,5 +154,8 @@
 - **[Related](<Related.md>):** [Welcome](<Welcome.md>),
 
 ## [Roam-Collective](<Roam-Collective.md>)
+- [Welcome](<Welcome.md>)
+
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
 - [Welcome](<Welcome.md>)
 

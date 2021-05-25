@@ -27,7 +27,7 @@
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
             - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
             - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - ---
 - todo
     - {{[query](<query.md>): {and: [smb](<smb.md>) [TODO](<TODO.md>) {not: [query](<query.md>)]}}}}
@@ -47,8 +47,6 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>)
 
 ## [February 18th, 2021](<February 18th, 2021.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>)
-
 - [Samuel Bars](<Samuel Bars.md>)
 
 ## [February 19th, 2021](<February 19th, 2021.md>)

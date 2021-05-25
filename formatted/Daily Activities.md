@@ -9,6 +9,9 @@
 ## [Beyond the Basics](<Beyond the Basics.md>)
 14. [x] Establish a "[Daily Activities](<Daily Activities.md>)"
 
+## [CSS V1 ([Archive](<Archive.md>))](<CSS V1 ([Archive](<Archive.md>)).md>)
+- #[Daily Activities](<Daily Activities.md>)
+
 ## [DWP](<DWP.md>)
 - [Abbreviations](<Abbreviations.md>) — short for [Daily Activities](<Daily Activities.md>)
 
@@ -151,7 +154,4 @@
 
 ## [My Daily Notes](<My Daily Notes.md>)
 14. [x] Establish a "[Daily Activities](<Daily Activities.md>)"
-
-## [roam/css](<roam/css.md>)
-- #[Daily Activities](<Daily Activities.md>)
 

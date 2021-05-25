@@ -19,7 +19,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}

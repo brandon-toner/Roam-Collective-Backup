@@ -333,6 +333,11 @@
 ## [May 19th, 2021](<May 19th, 2021.md>)
 - {{[DONE](<DONE.md>)}
 
+## [May 24th, 2021](<May 24th, 2021.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [My Daily Notes](<My Daily Notes.md>)
 1. {{[DONE](<DONE.md>)}
 

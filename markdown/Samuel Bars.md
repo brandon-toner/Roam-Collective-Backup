@@ -27,7 +27,7 @@
             - #Questions ((about the graph, or directed towards someone)) #not-populated
             - #[[GTD Zone]] #not-populated
             - #[[The Zettelkasten]] #not-populated
-            - #Conversation #not-populated
+            - #[[Conversation & Comments]] #not-populated
         - ---
 - todo
     - {{[[query]]: {and: [[smb]] [[TODO]] {not: [[query]]]}}}}

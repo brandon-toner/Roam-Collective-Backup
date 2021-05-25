@@ -35,7 +35,7 @@
             - {{[[TODO]]}}  Assign date to inbox stuff or move to scratchpad
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@Brandon]([[^[[Brandon Toner]]]]) on GTD: ...
@@ -77,6 +77,6 @@
                     - A query is a [[translation]] layer — working to aggregate what Rob places into his graph
             - [[Robert Haisfield]]
                 - Think of pages as collections; block references as threads
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
 - ---

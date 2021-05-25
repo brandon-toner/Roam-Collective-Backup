@@ -13,7 +13,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - It's been too long! A few other projects have pulled me away...
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 

@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -188,7 +188,7 @@
         - [I](<I.md>) a #[Reference Needed](<Reference Needed.md>) tag can be helpful for flagging and populating missing references. 
             - ... but this might be satisfied by not_populated! 
         - #[N](<N.md>) [constraints](<constraints.md>) help to facilitate [convergence](<convergence.md>).
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - Is there a right approach for a person or is it dependent on circumstances? Can there be a hybrid approach which allows people to use a particular strength if necessary?
             - There is definitely some variance on the structure of zettelkastens.
                 - This likely stems from users trying to adapt an analog system into a graph database software. With technology, different workflows are possible, so there is a lot of experimentation ongoing. 
@@ -387,7 +387,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}}
     - #[Scratchpad](<Scratchpad.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]][Q](<Q.md>) How could [notifications](<notifications.md>) be managed with this? @/~ wouldn't work bc when would you switch it?
             - Could they elapse after a week? If this was a convention people would have to add it to their personal page query and add a time constraint to it?
             - Or `[everyone](<everyone.md>)`  Could have a query under the announcement banner?
@@ -466,7 +466,7 @@
         - [Q](<Q.md>) How do we digest all of the information we're adding to the graph?
             - What processing happens implicitly through conversation and collaboration?
             - What processing needs to be undertaken explicitly to capture the rest?
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On [compound tags](<compound tags.md>) with BToner
             - [~[[Charles Farr](<~[[Charles Farr.md>)]], how would you suggest tagging project ideas ([example](((yBEHWbudk)))) in alignment with [this](((IX96gb5b6))) principle? ...
                 - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I think you hit it on the head with the `[Projects](<Projects.md>)` + `[Ideas](<Ideas.md>)`
@@ -647,7 +647,7 @@
                 - Hooks
         - CSS Playground
             - [Books/The Culture Code](<Books/The Culture Code.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm personally not a fan of making this the default since the CSS will override whatever user preference is set but since [you asked](((UTsXd_3pp))) here's how
             - Page Reference Brackets
                 - ```ruby
@@ -727,7 +727,7 @@
                 - Hierarchies that provide an approximate sense of scope, and a guide for navigation
                 - Idea for experimentation:  Would it be helpful to have a directory of collective questions?  So not just a tag for questions, but someplace to collectively play around with the level of abstraction of the different questions
                 - Idea for experimentation:  create a common shared chat, instead of   breaking it down indented under individuals #[I](<I.md>)
-    - #[Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Jamming on [Q](<Q.md>) How should "[concept pages](<concept pages.md>)" be handled? [zettelkasten](<zettelkasten.md>) #[evergreen notes](<evergreen notes.md>) [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - **[argument](<argument.md>):** I still hold the point that we shouldn’t **rush** to make [Evergreens](<Evergreens.md>) [pages](<pages.md>), in [collaboration](<collaboration.md>) context.
                 - One [implication]([significance and implications](<significance and implications.md>)) of rush, is not enough [maturity](<maturity.md>).
@@ -776,7 +776,7 @@
                         - Asynchronicity
                             - Different time commitment 
                         - Prioritization
-    - [Conversation](<Conversation.md>)  
+    - #[Conversation & Comments](<Conversation & Comments.md>)  
         - Fleeting notes should be fleeting, thus we should not be concerned with them. and Is this going to promote a good process or information hoarding? beg the question. Are an excess of fleeting notes going to slow down this graph and if that's the case should we have revisions which aim to purge fleeting notes?
             - Could there be two types of fleeting notes? 
                 - One that is meant for the individual to write unimpeded, and to have a body of ideas to build off.  A fleeting note that is identical to what would exist in one's personal graph

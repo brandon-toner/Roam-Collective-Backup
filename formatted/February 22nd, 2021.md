@@ -34,7 +34,7 @@
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2F0Uj29mojgW.png?alt=media&token=1151c594-bcfa-4134-a3e0-4d783bc6f160)
         - [Obs](<Obs.md>) Wow, absolutely stoked with how well the queries worked to resurface some old tasks and ideas. Great work, [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) in referencing some of those blocks with some ideas. Big potential here!
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) — on [Twitter/Substack](((iKWVPHFCU)))
             - No action taken yet, still an active item. Will get to it within 2 weeks prob, unless someone beats me to it haha. (anyone is more than welcome to spark it up)
             - Blocked the https://roamcollective.substack.com/ name. Can add other editors if people are still keen using substack.
@@ -69,7 +69,7 @@
                 - an inclusive general concept
                 - a theory or belief held by a person or group
                 - small useful items — sundries
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) [regarding bookmarks](((sdbslN-d9))), unfortunately there isn't any way you can do this. RoamHacker's block mentions only look at individual blocks, not tags associated with their parents.
             - Though we could probably build come custom [datalog](<datalog.md>) to tackle this...
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) agree regarding the [maturity of thought](((qB-cP3Wo7))) around block-level tags...
@@ -108,7 +108,7 @@
         - [ ] Build a content production pipeline 
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]]}} Does anyone know if we have got a sub stack? What about a twitter account?

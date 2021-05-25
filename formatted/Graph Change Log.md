@@ -6,6 +6,9 @@
 ## [April 4th, 2021](<April 4th, 2021.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 
+## [CSS V1 ([Archive](<Archive.md>))](<CSS V1 ([Archive](<Archive.md>)).md>)
+- #[Graph Change Log](<Graph Change Log.md>)
+
 ## [Graph/Templates](<Graph/Templates.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 
@@ -44,9 +47,9 @@ Shifted from using `#[Change Log](<Change Log.md>)` to `#[Graph Change Log](<Gra
 ## [March 31st, 2021](<March 31st, 2021.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 
-## [May 9th, 2021](<May 9th, 2021.md>)
-- #[Graph Change Log](<Graph Change Log.md>)
+## [May 24th, 2021](<May 24th, 2021.md>)
+- [Graph Change Log](<Graph Change Log.md>)
 
-## [roam/css](<roam/css.md>)
+## [May 9th, 2021](<May 9th, 2021.md>)
 - #[Graph Change Log](<Graph Change Log.md>)
 

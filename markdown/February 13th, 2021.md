@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -73,7 +73,7 @@
                 - Section on the Roam Games latest.
             - #I We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
             - #Q Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]] | [[~[[Larissa de Lima]]]]}}
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Charles]([[~[[Charles Farr]]]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - Image::
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
@@ -223,7 +223,7 @@
                             - non-roam-inter
                     - Examples
                 - roam-inter set up
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[~[[Brandon Toner]]]] re: [@Charles]([[~[[Charles Farr]]]]) on [RG3](((7z8czexD_)))
             - See: Roam Games Multiplayer Graph — [[Roaman Agora]] (The Roman Forum)
     - #Bookmarks #not-populated
@@ -235,7 +235,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
@@ -244,7 +244,7 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - ---

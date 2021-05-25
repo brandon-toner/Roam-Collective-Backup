@@ -17,7 +17,7 @@
 ## [@](<@.md>)
 - **[Related](<Related.md>):**
 
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>) during [[[Clubhouse](<[[Clubhouse.md>) conversation: Jan 25 2021]]
 - **[Related](<Related.md>):**
 
@@ -31,6 +31,10 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - **[References](<References.md>):** [not-populated](<not-populated.md>) ((Supporting FN, LN, EN, or RN would go here))
             - **[Related](<Related.md>):**
+
+## [Conversation & Comments](<Conversation & Comments.md>)
+- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
+- **[Related](<Related.md>):**
 
 ## [Dice Roll](<Dice Roll.md>)
 - This is certainly an optional convention. 
@@ -485,10 +489,6 @@
 - **[Related](<Related.md>):**
 
 ## [collections](<collections.md>)
-- **[Related](<Related.md>):**
-
-## [conversation](<conversation.md>)
-- **[Tags](<Tags.md>):** [Collections](<Collections.md>) #[DNP Section](<DNP Section.md>)
 - **[Related](<Related.md>):**
 
 ## [e.g.](<e.g..md>)

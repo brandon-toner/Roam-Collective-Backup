@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -28,7 +28,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
@@ -39,7 +39,7 @@
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}} [*]([[ptr]])   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[[Help Wanted]]
         - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [[cc:[[Charles Farr]]]] [[cc:[[Brandon Toner]]]]
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - I upvote this section [[datalog]] flashcards! [[cc:[[Charles Farr]]]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [[activities]] we could try for [[convergence]]. [[cc:[[Brandon Toner]]]] [[cc:[[Charles Farr]]]] [[cc:[[Peter Rosso]]]] [[cc:[[Larissa de Lima]]]]
             - Solution:: One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [[datalog]] and then manually add a slider bar to make a vote on it.
@@ -114,7 +114,7 @@
                             - I don't know where I land here...
                     - ...
             - Ultimately, my preference would be to adopt a new note schema for us to use in this graph — I like the [structure Joel has proposed](((PsBKVvanv))) and believe it would support us as we tackle the tricky challenge of convergence within a community graph. **But what I really want is to hear everyone else's thoughts!**  
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On tagging curation
             - [[^[[Brandon Toner]]]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
                 - Frankly, I kept getting caught up on how to distinguish between the various pieces of content we're putting into the graph.
@@ -171,7 +171,7 @@
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
                     - #Q What are they called? How are they tagged? 
                 - 
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) #Bookmarks #[[Follow Up]]
             - Great question. Gonna think on this! [[~[[Charles Farr]]]]
                 - Does it need a tag? — I think so.

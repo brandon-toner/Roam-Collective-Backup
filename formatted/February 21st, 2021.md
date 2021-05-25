@@ -60,7 +60,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         2. On Anchestors mapping / Agora
@@ -87,7 +87,7 @@
         - #[Roam Enhancement Requests](<Roam Enhancement Requests.md>)
             - Add [fuzzy search](<fuzzy search.md>) to the main search bar (as it exists for the block-search)
         - [Evergreens/deconstruct, selection, sequencing, stakes (DSSS)](<Evergreens/deconstruct, selection, sequencing, stakes (DSSS).md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - Observations
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 21st, 2021](<February 21st, 2021.md>) [Obs](<Obs.md>)}}}
@@ -118,7 +118,7 @@
     - #[GTD Zone](<GTD Zone.md>)
         - [ ] Write an [end of week report](((dFbvCf9ei)))
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
 - ---
 
 # Backlinks

@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -234,7 +234,7 @@
                 - Ability to be included as a query element
                 - Alignment with native [[namespacing]] conventions
                     - Allows the name to be visually streamlined #readability
-            - Conversation::
+            - Conversation & Comments::
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
                     - Related:: [[Evergreens/Evergreen Note example 3]]
             - Notes::
@@ -326,7 +326,7 @@
     - #Bookmarks
         - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
         - Brandon and I were discussing structures for Evergreen note pages earlier... #[[evergreen notes]] #Conventions
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. #[[Chat]]
             - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
                 - Interested in your thoughts on the use of the Choice Algorithm
@@ -428,7 +428,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #[[P:Self]] It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
         - #[[N]] Effective teaming requires clear norms and expectations [[^[[leekeifon]]]]
         - #[[Q]] What could be the common base of a digital environment of loosely connected people expectation?
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [[fruitful]] new concepts for you. #[[N]] block-level [[model]] and #[[N]] block-embed [[model]] [[~[[Brandon Toner]]]]
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying. [[^[[Brandon Toner]]]]
@@ -470,7 +470,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
                 - Seems like all my unread references are showing up, regardless if its a thread I was reading.  Will see how this looks next time I log in
         - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
-    - #Conversation
+    - #[[Conversation & Comments]]
         - #Replies
             - Excellent documentation on this!! 
                 - Added the recommended tags!!
@@ -531,7 +531,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Conventions
         - [[[[How To]] Seed Your Graph]]
             - Copy over the conventions, FAQs, and CSS relevant to your graph!
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Check this out, [[~[[Charles Farr]]]] [Namespace choice AoT](((u8etVKAtE)))
             - [[^[[Brandon Toner]]]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
@@ -587,7 +587,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([[mtv]]) {{word-count}}
-    - #Conversation
+    - #[[Conversation & Comments]]
         - #Q Is it possible to change [[roam/css]] to differentiate between internal links and external links?  [*](((3ak7VaCMQ))) [[~[[Brandon Toner]]]]
             - Yup 
                 - Preview

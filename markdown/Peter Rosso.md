@@ -25,7 +25,7 @@
                     - #[[GTD Zone]] #not-populated
                     - #Promptstorming #not-populated
                     - #[[The Zettelkasten]] #not-populated
-                    - #Conversation #not-populated
+                    - #[[Conversation & Comments]] #not-populated
                         - Query:
                             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
                     - #Feedback  #not-populated

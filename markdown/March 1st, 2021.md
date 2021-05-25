@@ -75,7 +75,7 @@
         - Article on [[maxims]] #Resources
             - URL:: https://www.thoughtco.com/what-is-a-maxim-p2-1691778
             - 
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [@Charles]([[~[[Charles Farr]]]]) Re: ["Think Tank"](((X9Q366noM)))
             - [Move to graph](((vwOYQBlIF)))
                 - Yea I 100% agree. In seeing the initial activity, I've been super anxious thinking of all of the missed potential. A graph would help to bring a stronger perspective across time -- saving ideas and improving serendipities.
@@ -183,7 +183,7 @@
                     - 12:13 [[Charles Farr]]: Hey all, can you take a look at my thoughts here: Thoughts on [[in-graph chat]], in-graph snail-mail, and the idea of [[velocity of conversation]]
                     - 12:14 [[Charles Farr]]: Much of what I'm writing about is related to [[Books/The Culture Code]]...
             - Ultimately, I think adding this type of communication would be supplemental to the conventions we have now rather than acting as a replacement.
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On Chat with Brandon & Mark
             - [[^[[Brandon Toner]]]] [re](((u3WYIwaTM))) — I completely agree. The one thing I will say is the [[velocity of conversation]] is much higher in slack, which is important when you have more people together. This is part of the reason why I'm interested in building a in-graph chat extension for Roam.
                 - See: #I Create an demo chat interface to demonstrate how native chat in roam could function
@@ -236,7 +236,7 @@
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) 
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Regarding [[Projects/Develop Shared Graph for Roam Think Tank]] and the complexities of dialogue
             - I think the effect of "slower" might be more related to **notifications** & **getting in-and-out of Roam** vs actual convention speed.
             - I think a big reason why isn't actually the technical capabilities, but the view and layout of the communication. In a chat all you have to do is look up or scroll up, where our current conventions require you to have multiple blocks open.
@@ -263,7 +263,7 @@
             - #Q How do we capture story dependencies? eg Story B depends on A
                 - how do we visualise story dependencies?
                 - When a story is blocked by something. How do we visualise that such that it shows up when looking at a story that depends on it?
-    - #Conversation
+    - #[[Conversation & Comments]]
         - cc [[@[[Brandon Toner]]]] [[@[[Charles Farr]]]]
             - In typical [[agile development]] there is stories which are allocated to an epic. This story is then completed in a sprint, carried over to following sprints, or cancelled. But sometimes this story relates to multiple Epics. What is a good way to track the progress of a story between TODO, DOING, DONE. That is captured across sprints on the same and different epics.
                 - #Q How can we visualise/model the completion of progress made on stories in relation to a sprint but also globally across sprints and epics?

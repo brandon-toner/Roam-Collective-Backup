@@ -19,7 +19,7 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #[[The Zettelkasten]]
         - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
         - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}

@@ -12,3 +12,8 @@
 
 - Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
 
+## [Welcome V1 ([Archive](<Archive.md>))](<Welcome V1 ([Archive](<Archive.md>)).md>)
+- 7. Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
+
+- Join the `[Roam-Collective](<Roam-Collective.md>)` channel on [Roam Slack](<Roam Slack.md>)
+

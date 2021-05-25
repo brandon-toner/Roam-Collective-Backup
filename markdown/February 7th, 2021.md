@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -68,7 +68,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - #Questions
             - How to quantify the value of a block or a note? [*](((Ys9BGmef3)))
                 - #I can the notion of degree of connection give us a value of a block, or a measure of the focus of the group
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [[~[[Reddy2Go]]]], I recommend you go through the `[[Welcome]]` `[[Quick Start Guide]]` and `[[Conventions]]'. You will find information regarding the [meaning of each tag](((XW6KutyOv))) and you should find information on [how to create your own smart block](((gMGp4oTIC))). In the first week on here, I copied Brandon's block even though I use templates on my graph 🙄
@@ -118,7 +118,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - ~~Would a block creation leaderboard be fun or harmful? (ie top writers and block creators on a multiplayer graph)~~
             - This could turn the graph into more of a game similar to the Fitbit leaderboard. Could also be harmful pressure "My contribution is so small and not worth it"
                 - It's hard to quantify the value of an idea. A single idea/block could spawn dozens of blocks. Hmm maybe blocks with the most refs...
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - Works for me! Thanks [[~[[Charles Farr]]]]! [*](((shPwbVEW0)))
         - [[~[[Brandon Toner]]]] Heads up I messed up a little when setting up the [[Projects/Establish automated graph backups]]. Apparently using macOS to do the backups is expensive (1 run minute costs 10 minutes???). Live and learn! ¯\_(ツ)_/¯
             - A user gets 2000 free run minutes a month and mine are close to running out 😬. Check the repo for an incoming PR to fix this
@@ -416,7 +416,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - [Charles]([[cc:[[Charles Farr]]]]) on note mythology and categorization #[[Follow Up]]
             - Thinking on objectives and the relationship to mythology
         - [Charles]([[cc:[[Charles Farr]]]]) on [onboarding and meta-structure](((qe0xbFYul))) #[[Follow Up]]
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. Simple Replies
             - [[~[[Brandon Toner]]]] [*](((cxyHE-hYX))) It depends. On a day to day basis people should follow their own rhythms for maximal output. Though deadlines on output could require synchronous convergence.
                 - Agreed. I think objectives and targets help to align individual work with collective goals. [[~[[Peter Rosso]]]]
@@ -463,7 +463,7 @@ I think the FAQs could be a lot more relevant, and the Prompts more usable (mayb
         - #[[Experiments]] Discover pattern on indentation usage
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}}
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Simple Commentary
             - I've found that the "collapse all a level X" feature has really lessened the [burden associated with a wall of content on a daily page](((zoEy3NHP4)))
     - #Bookmarks

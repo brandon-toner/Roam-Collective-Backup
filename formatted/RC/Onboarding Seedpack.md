@@ -346,7 +346,7 @@ span.rm-page-ref[data-tag="Scratchpad"]:before {
     content: 		'✏️';
   	padding-right:	2px;
 }```
-                - [Conversation](<../Conversation.md>)
+                - #[Conversation & Comments](<../Conversation & Comments.md>)
                     - ```css
 span.rm-page-ref[data-tag="Conversation"] 
 { background: 		var(--cl-white);

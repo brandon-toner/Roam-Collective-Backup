@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -201,7 +201,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - **Highlight [page 17]:** Clark, T., Ciccarese, P. N., & Goble, C. A. (2014). Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications. Journal of Biomedical Semantics, 5(1), 28. https://doi.org/10.1186/2041-1480-5-28 ↩
                 - **Highlight [page 18]:** Strike, K., & Posner, G. (1983). Types of synthesis and their criteria. ↩
         - #[Follow Up](<Follow Up.md>) Some notes from the last leg with myself and [Charles]([cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]):
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On updates to note mythology...
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] regarding [mythologies](((5j9LcGs4B))), today [I revised my personal note taxonomy](((vxaP_RzP-))) that I use in my graph to be a bit more agnostic. Much of the core tenets are the same, but the language is a simpler and more general.
                 - On a related note, last night [Brandon]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]) and I discussed [note classes](((_QWUf9796))) yesterday and aligned on the "stable" taxonomy for now. Idea is to settle the conventions to move to output.
@@ -222,7 +222,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
         - I did some reading about refactoring and graph databases for a completely different project, but maybe we can give a grade at each node in a graph.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] After posting the YouTube video here[*](((saJ3vGzdz))) The whole database froze for me. The irony...

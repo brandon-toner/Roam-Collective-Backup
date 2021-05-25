@@ -14,7 +14,7 @@
             - Capture some initial feedback in your **feedback** block
         - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
             - __write here__
-        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - #[[Conversation & Comments]] ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
             - __comment/reply here__
                 - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
         - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated
@@ -30,5 +30,5 @@
 - **Personal SmartBlocks:**
     - .rcDNP Marc Koenig — Daily Notes Template #42SmartBlock
         - #[[My Daily Notes]] [[Marc]] {{word-count}}
-        - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+        - #[[Conversation & Comments]] ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
     - ---

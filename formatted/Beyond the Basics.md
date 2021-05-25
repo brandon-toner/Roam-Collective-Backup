@@ -60,7 +60,7 @@
                                 - It is easy to tell what is going on. 
                                 - It is easy to contribute.
                                 - It is accessible to "intermediate users" 
-                            - **[Conversation](<Conversation.md>):**
+                            - **[Conversation & Comments](<Conversation & Comments.md>):**
                                 - Seeding graphs
                                     - How can we effectively "seed" graphs with baseline information?
                                         - Depending on features used, JSON or markdown exports should work relatively well for this.
@@ -141,7 +141,7 @@
                                 - Book reading companion
                                     - Thinking of something like what [Sam Marfleet](<Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)...
                                 - Study guide
-                        1. What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](((ODwYwd-L7)))
+                        1. What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](Goals:: ((See block references for additional ideas.)))
                             - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities.
                         3. From the references on `[Open Questions](<Open Questions.md>)`: What is the best method of notifications?
                             - The `@` and `~` convention from [[[Roam Book Club](<[[Roam Book Club.md>) II]] seemed to work well.
@@ -149,7 +149,7 @@
                         4. How to tag ideas related to graph conventions and processes?
                             - Under `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`?
                         5. How important is it to stick to vanilla Roam?
-                    - [Conversation](<Conversation.md>)
+                    - #[Conversation & Comments](<Conversation & Comments.md>)
                         1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below) — fixed
                         1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<Graph/Templates.md>))
                             - Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>) there [Processes](<Processes.md>) [templates](<templates.md>)

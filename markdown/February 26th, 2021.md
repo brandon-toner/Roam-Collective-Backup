@@ -103,7 +103,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - Search for components WITHIN the block.
                 - Search for components in the indentation chain.
                 - & combinations of AND/OR/NOT between them.
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Mark]([[@[[Mark Robertson]]]]) on [conversational conventions](((FG2UXveKl)))
             - This happens naturally, doesn't it?
                 - I'm thinking it would simply be a block ref to whatever the quoted block was. 
@@ -165,13 +165,13 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                     - Working In Public
                     - Open Source
                     - Creativity
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation ((For nesting interactions with other members of the graph)) 
+    - #[[Conversation & Comments]] ((For nesting interactions with other members of the graph)) 
         - [[~[[Brandon Toner]]]], [[~[[Charles Farr]]]], or anybody for that matter (or possibly in #[[Questions]])
             - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
             - **Replies:**
@@ -190,7 +190,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@Brandon]([[~[[Brandon Toner]]]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.

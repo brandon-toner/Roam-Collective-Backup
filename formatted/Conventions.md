@@ -70,6 +70,9 @@
 ## [Welcome](<Welcome.md>)
 - 8. Review the graph [conventions]([Conventions](<Conventions.md>))
 
+## [Welcome V1 ([Archive](<Archive.md>))](<Welcome V1 ([Archive](<Archive.md>)).md>)
+- 8. Review the graph [conventions]([Conventions](<Conventions.md>))
+
 ## [evergreen notes](<evergreen notes.md>)
 - **[Andy's Notes](<Andy's Notes.md>):** https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C
 - **[Conventions](<Conventions.md>):**

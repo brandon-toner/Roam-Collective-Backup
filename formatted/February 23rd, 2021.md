@@ -37,9 +37,9 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [George Silverman](<George Silverman.md>) [*]([gs](<gs.md>)) {{word-count}}  {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}.
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) 
     - [Feedback](<Feedback.md>)
-        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](((dunAq0mq-)))
+        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))))
         - 5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option
             - `;;` vs `jj` might be unclear. 
 - ---
@@ -51,7 +51,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
@@ -77,7 +77,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
         - [@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]]) on [this](((pn24y17FZ)))
             - Yeah loving the block-level tags now. Using them in my own db regularly now
@@ -201,7 +201,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
             - Each takes notes (or several)
             - Each formulates one or more [literature notes](<literature notes.md>), SRS prompts, etc.
             - The compiled work together makes a better companion resource for all group members. 
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en) — **muuuuuuuuch better!**
                 - **[Image](<Image.md>):**
@@ -241,7 +241,7 @@ PS: great work running that!
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Simple Replies
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -251,7 +251,7 @@ PS: great work running that!
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} 
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Holy crap. Come a long way since I began in here a few weeks ago. Disappointed with my absence lately. Hoping to get back in soon. (<- yes I am talking to myself!)
-    - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.))
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.))
         - Perhaps a bit of confirmation (for what its worth) [~[[Brandon Toner](<~[[Brandon Toner.md>)]][*]([Feedback](<Feedback.md>))
             - The clarity/onboarding you have built in here is astounding, particularly when you compare with the earlier iterations.
             - One of the most difficult parts of creating a digital space for collaboration and a community is directing attention where necessary. 

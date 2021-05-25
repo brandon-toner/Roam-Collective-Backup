@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -73,7 +73,7 @@
                 - Section on the Roam Games latest.
             - [I](<I.md>) We could form a "publishing committee" comprised of those of use who are interested in curating and writing the newsletter.
             - [Q](<Q.md>) Is it possible to get the @roamcolletive twitter from that other inactive account that holds it?  {{or:[~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]}}
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) How might I tag [this](((ymP3NFKsg))) type of content at the block level?
             - **[Image](<Image.md>):**
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FtT8E6FG6Q_.png?alt=media&token=28571bd2-ae74-41de-add0-9ea8f4707a2c)
@@ -223,7 +223,7 @@
                             - non-roam-inter
                     - Examples
                 - roam-inter set up
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] re: [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [RG3](((7z8czexD_)))
             - See: Roam Games Multiplayer Graph — [Roaman Agora](<Roaman Agora.md>) (The Roman Forum)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -235,7 +235,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
@@ -244,7 +244,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
     - For descriptions of the other "DNP Modules", visit this page → `[DNP Modules](<DNP Modules.md>)`
 - ---

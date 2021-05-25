@@ -277,6 +277,3 @@
 
 - Thoughts on [evergreen note]([evergreen notes](<evergreen notes.md>))
 
-## [permanent notes](<permanent notes.md>)
-- **[Redirect](<Redirect.md>):** [evergreen notes](<evergreen notes.md>)
-

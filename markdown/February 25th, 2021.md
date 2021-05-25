@@ -40,7 +40,7 @@
         - [[February 26th, 2021]]
             - {{[[TODO]]}}  Answer Charles
                 - `[@Charles]([[@[[Charles Farr]]]])` How does the mechanism of block-level search impact the value of block-level tags?
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - {{or: [[@[[Everyone]]]] | [[@[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
@@ -51,12 +51,12 @@
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
+    - #[[Conversation & Comments]] ((For nesting interactions with other members of the graph)) #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad #not-populated
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Peter]([[~[[Peter Rosso]]]]) [On GTD](((9IjO0uID4)))
             - I'm got a bunch of half-baked ideas that I think could be refined through conversation. Would love to hammer it out sometime. 
             - I can see a really neat blend of the [[Date Planner]], and a GTD Dashboard page of sorts. 
@@ -87,7 +87,7 @@
                 - https://twitter.com/Conaw/status/1231331109775933440?s=20
                 - Image:: I love this diagram of how overlapping areas translate to a tree...
                     - ![Image](https://pbs.twimg.com/media/ERaRHhQVUAAmuiz?format=jpg&name=900x900)
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
 - ---
 - #[[My Daily Notes]] [[Alex Tentler]] {{word-count}}
@@ -99,7 +99,7 @@
         - Capture some initial feedback in your **feedback** block
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
         - __write here__
-    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
+    - #[[Conversation & Comments]] ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) #not-populated
         - __comment/reply here__
             - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
     - #[[Feedback & Questions]] ((A place to log feedback and questions related to the graph)) #not-populated

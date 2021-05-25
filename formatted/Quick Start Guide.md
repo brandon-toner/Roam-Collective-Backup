@@ -69,6 +69,9 @@ When answering writing prompts, nest your blocks beneath the [Promptstorming](<P
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Quick Start Guide](<Quick Start Guide.md>)
 
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Quick Start Guide](<Quick Start Guide.md>)
+
 ## [datalog experimentation](<datalog experimentation.md>)
 - Feedback: [Quick Start Guide](<Quick Start Guide.md>)
 

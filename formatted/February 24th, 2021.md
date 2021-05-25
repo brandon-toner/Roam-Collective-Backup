@@ -40,7 +40,7 @@
             - I often will define projects that get "stuck" because they are too broad in scope. Where "goal" doesn't quite feel right either. 
                 - [Q](<Q.md>) What is the difference between [epics](<epics.md>) and [goals](<goals.md>)?
         - [N](<N.md>) The use of [block-level tags](<block-level tags.md>) in combination with [key words](<key words.md>) facilitates a stronger conversation that transcends the "now" -- extends across time.
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [temporary queries](((eDu1gnWM0)))
             - Yea, I have the [same concern](((gpFDEvhhp))). Noticed a significant slow-down in the graph yesterday... and have a feeling that queries are quite taxing on performance. 
             - Would LOVE to see this resolved by the Roam team, as queries are really the right tool for the job in many cases for compiling information (which is VERY helpful in communities like this.)
@@ -91,7 +91,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}}   {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((For nesting interactions with other members of the graph)) 
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) on [Question regarding queries with today's date](((utHWR4Vlp))) [*]([queries](<queries.md>))
             - First, I want to stress again, that my thoughts here are from experience, but not necessarily certainty - though I have attempted to discuss this with numerous people.
             - These easiest solution I have found here is what I do for my own project management workflow. 
@@ -143,7 +143,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
@@ -205,7 +205,7 @@
                 - #[N](<N.md>) [structure](<structure.md>) type [tags](<tags.md>) as API for block clusters in [Roam](<Roam.md>).
                 - #[N](<N.md>) [block references](<block references.md>) enable an editorial step between [brainstorming](<brainstorming.md>) and [synthesis](<synthesis.md>) within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). [zettelkasten](<zettelkasten.md>)
                 - #[N](<N.md>) [Block references]([block references](<block references.md>)) are key within a [collaborative graph]([collaborative graphs](<collaborative graphs.md>)). Non-intrusive commentary — the original context is preserved.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [~[[Charles Farr](<~[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [Roaman Agora](<Roaman Agora.md>), adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
     - #[Change Log](<Change Log.md>)
         - Added custom indexing code, inspired by [Maggie Delano](<Maggie Delano.md>)

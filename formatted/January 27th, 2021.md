@@ -16,7 +16,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -150,7 +150,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
             - #[N](<N.md>) Watching others use [Roam](<Roam.md>) affects your own writing habits and [conventions](<conventions.md>).
                 - Shared graphs allow you to LEARN from the way others structure their thoughts
         - #[N](<N.md>)  A shared [writing](<writing.md>) environment is an accelerator for cycles of [order](<order.md>) and [chaos](<chaos.md>) ([expansion](<expansion.md>) and [contraction](<contraction.md>)) ([divergence](<divergence.md>) and [convergence](<convergence.md>))
-        - #[Project Ideas](<Project Ideas.md>) Perhaps, collectively, we could create a [template](<template.md>) of [conventions](<conventions.md>) that could be used by any group, working on any problem or pursuit. [*](((1OMp7Xq5d))) [*](((SLLuGm0I5))) 
+        - **[#[Project Ideas](<Project Ideas.md>) Perhaps, collectively, we could create a [template](<template.md>) of [conventions](<conventions.md>) that could be used by any group, working on any problem or pursuit. [*](Mission](<#[Project Ideas](<Project Ideas.md>) Perhaps, collectively, we could create a [template](<template.md>) of [conventions](<conventions.md>) that could be used by any group, working on any problem or pursuit. [*](Mission.md>):** ((See block references for additional ideas.))) [*](Purpose:: ((See block references for additional ideas.))) 
             - This EXACT block was written during the first session in [[[Roam Book Club](<[[Roam Book Club.md>) II]] and describes the [mission](<mission.md>) of this graph well. The product is the [Roam Collaboration Guide](<Roam Collaboration Guide.md>). 
         - #[N](<N.md>) [alignment](<alignment.md>) with community [conventions](<conventions.md>) is key to [leveraging](<leveraging.md>) the scale of community and unlocking the power of the [collective intelligence](<collective intelligence.md>)
         - [Quotes](<Quotes.md>) [collective intelligence](<collective intelligence.md>) > [artificial intelligence](<artificial intelligence.md>) - [Conor White-Sullivan](<Conor White-Sullivan.md>)
@@ -247,7 +247,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
                 - Filtering content to hone the experience and focus.
     - [Bookmarks](<Bookmarks.md>)
     - Notifications Inbox
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
             - Yup, this is a great idea! 
             - I added the [roam/js/tag-cycle](<roam/js/tag-cycle.md>) page such that CTRL+SHIFT+C HASH removes the not-populated tag as well -- another option.
@@ -304,7 +304,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - Loving some of these tags and their css tweaks. It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) 
         - It's a small thing but could we could shift some of the tags and default template test to make them easier to select? Changing `[not-populated](<not-populated.md>)` to `[not_populated](<not_populated.md>)` makes it possible to select the text with a single double click in order to delete it when you're ready. [Same thing should extend to any of the 'dummy' text inside templates that's meant to be deleted.](#[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>) {{word-count}}) Thoughts? [~](<~.md>)[Brandon Toner](<Brandon Toner.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - PS, to send a notification, use the @ symbol rather than ~ to indicated "unread" status. When read, you can replace with a ~ to indicate read. [~](<~.md>) [Matthew Vogel](<Matthew Vogel.md>)
             - whoops will do in the future!
         - [Q](<Q.md>) With the new [Roam API](<Roam API.md>), would it be possible to create a bot that reported on users activity within a graph during each day, or at the beginning of the next day? [*](((BC305kDqz))) [I](<I.md>)
@@ -364,7 +364,7 @@ So, I’d say “if you know the convention, use it — if you don’t, rely on 
         - There is also a disconnect in my mind, because of the nature of this graph's purpose, between what is `[Feedback](<Feedback.md>)` and what is a `[Question](<Question.md>)`. Is there something more specific for the feedback, as in elements that are built and we have feedback on. And question would be pushing the frontiers as well as potential suggestions. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Matt Brockwell](<Matt Brockwell.md>) {{word-count}}
     - Good morning everyone here! Brandon, cheers for setting this up, looking forward to seeing what happens here!
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - partially in response to: Explore the idea of chat in a multiplayer graph. Brainstorm ideas on how existing chat conventions might be improved. What does better look like?
             - This is totally "low hanging fruit" that I feel has been missed, but I honestly I feel like a simple notification system when someone "reacts" to a block with an emoji, after they right click to get the "add reaction" menu, would be one of the simplest, easiest things the development team could do to help groups opf people communicate asynchronously in a graph
             - As it is, reactions are "siloed off" from the rest of the graph, which is absolutely too bad, because they are very content rich and potentially a source of valuable group attention convergence

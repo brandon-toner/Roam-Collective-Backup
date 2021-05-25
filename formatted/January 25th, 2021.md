@@ -16,7 +16,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -89,7 +89,7 @@
                 - It is easy to tell what is going on. 
                 - It is easy to contribute.
                 - It is accessible to "intermediate users" 
-            - **[Conversation](<Conversation.md>):**
+            - **[Conversation & Comments](<Conversation & Comments.md>):**
                 - Seeding graphs
                     - How can we effectively "seed" graphs with baseline information?
                         - Depending on features used, JSON or markdown exports should work relatively well for this.
@@ -170,7 +170,7 @@
                 - Book reading companion
                     - Thinking of something like what [Sam Marfleet](<Sam Marfleet.md>) made for [Books/Hero of a Thousand Faces](<Books/Hero of a Thousand Faces.md>)...
                 - Study guide
-        1. What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](((ODwYwd-L7)))
+        1. What goals or objectives would you like to work towards with [Roam-Collective](<Roam-Collective.md>)? [*](Goals:: ((See block references for additional ideas.)))
             - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>) that can be used to support multiplayer Roam communities.
         3. From the references on `[Open Questions](<Open Questions.md>)`: What is the best method of notifications?
             - The `@` and `~` convention from [[[Roam Book Club](<[[Roam Book Club.md>) II]] seemed to work well.
@@ -178,7 +178,7 @@
         4. How to tag ideas related to graph conventions and processes?
             - Under `[[[Feedback](<[[Feedback.md>): [Suggestions](<Suggestions.md>)]]`?
         5. How important is it to stick to vanilla Roam?
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         1. [~](<~.md>)[Brandon Toner](<Brandon Toner.md>) any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below) — fixed
         1. [~](<~.md>) [Brandon Toner](<Brandon Toner.md>) how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([Graph/Templates](<Graph/Templates.md>))
             - Feel free to add some! You could make a `[Templates](<Templates.md>)` section in your DNP section, and create some [SmartBlocks](<SmartBlocks.md>) there [Processes](<Processes.md>) [templates](<templates.md>)
@@ -260,7 +260,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
     - #[The Zettelkasten](<The Zettelkasten.md>)
         - #[N](<N.md>) The biggest hurdle is in ESTABLISHING shared conventions. Once they are set and understood, the system fades, and emphasis directs towards the content.
             - #[N](<N.md>) Shared conventions are part of the graph "platform" that enables higher-level tasks — building a flexible and lightweight platform allows for innovation and ideally lowers friction for users
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - How important is it to stick to vanilla Roam?
             - It's my belief that there are too many valuable extensions to not leverage them if they can provide some benefit.
             - However, any extension represents a tradeoff in user-friendliness. Worthwhile to considering adding documentation to support onboarding. 
@@ -295,7 +295,7 @@ Community suggests via block-level tagging, then graph editors compile them cent
         - The one thing that will be important to master is [conventions](<conventions.md>) because I use Roam in a specific way in my personal graph but there needs to be more structure and order in this kind of space so that there isn't a ton of noise
 
 # Backlinks
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>) on [January 25th, 2021](<January 25th, 2021.md>)
 
 ## [Announcements](<Announcements.md>)

@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -80,7 +80,7 @@
     - #[[GTD Zone]] 
         - Check out #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[Everyone]] do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [[^[[Brandon Toner]]]] [[~[[Larissa de Lima]]]] [[cc:[[Charles Farr]]]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
             - Think it could be interesting to explore - what types of questions / template are you envisioning?
@@ -140,7 +140,7 @@ How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support co
 		[(re-matches #".*Community Note.*" ?str)]	  
 	]
         - #[[Experiments]] discover pattern on indentation.
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - (re:) Doubting the usefulness of the #Everyone tag... thoughts? [[cc:[[Brandon Toner]]]]
             - Different from announcement, which is controlled in [your]([[Brandon Toner]]) hand, `#Everyone` tag can be used by other community memebers.
             - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
@@ -212,7 +212,7 @@ How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support co
         1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
         2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
         3. Disabled Intercom
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. On top-section [[chat]] 
             - **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
                 - For each post & reply, label your block with **Your Name:**
@@ -261,7 +261,7 @@ How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support co
             - Not this
                 - #tag1
                     - #tag2
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[~[[Brandon Toner]]]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without #datalog . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [[Tags]] attribute so who knows lol 
         - [[~[[Brandon Toner]]]] what benefit do you see for filtering a page using [[OR]] instead of constructing a regular #query ? 
@@ -280,7 +280,7 @@ How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support co
 - #[[My Daily Notes]] [[Larissa de Lima]] {{word-count}} [*]([[ldl]]) {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #Scratchpad 
         - Big meeting tomorrow so just stopping by very quickly!
-    - #Conversation
+    - #[[Conversation & Comments]]
         - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
             - Ooh what book?
         - On new away messages
@@ -291,7 +291,7 @@ How could synchronous tools like [[Zoom]] or [[Clubhouse]] be used to support co
     - #Scratchpad
         - If you click into the MDN level you can `ctrl c ctrl m` and advance through everyone's notes — good way to read through the graph...
         - Still trying to wrap my head around the codifying [[maturity]] and [[progression]] of notes (and all other written artifacts) — need to #[[Follow Up]] [here](((JifHTbhQh)))
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On Weekly Reviews with PRosso
             - [[~[[Peter Rosso]]]] I like this [idea](((nZArzolvZ))) — [[~[[Larissa de Lima]]]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
                 - Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]

@@ -68,7 +68,7 @@
         - #[[N]] accurate and precise category naming is more robust than metaphor or mythology naming.
             - metaphors and analogies break down — accurate language does not.
             - #[[N]] Metaphors should be an interpretive layer above true category naming.
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #[[Change Log]] 
         - Imported maxims from [[Books/12 Rules for Life]] and [[Books/Beyond Order: 12 More Rules for Life]] as material for reference and demonstration of structure.
             - Similar could be done for [[Ray Dalio]]'s [[Books/Principles]]
@@ -113,7 +113,7 @@
                         - The layers are quite literally infinite, so some rationalization is most **definitely** required.
                     - ...
                 - Calling it for the evening, but looking forward to exploring the idea of a [[semi-lattice]] and its multitude of [[layers]] in the future
-    - #Conversation
+    - #[[Conversation & Comments]]
     - #Bookmarks
         - #Q How do you manage the problem of community fragmentation?
     - #[[Change Log]]

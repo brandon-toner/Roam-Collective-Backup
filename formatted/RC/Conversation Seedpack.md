@@ -292,7 +292,7 @@ span.rm-page-ref[data-tag="Scratchpad"] {
 span.rm-page-ref[data-tag="Scratchpad"]:before {
     content: '✏️';
 }```
-            - [Conversation](<../Conversation.md>)
+            - #[Conversation & Comments](<../Conversation & Comments.md>)
                 - ```css
 span.rm-page-ref[data-tag="Conversation"] {
     background: var(--cl-green-700);

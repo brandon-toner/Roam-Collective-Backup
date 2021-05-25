@@ -29,7 +29,7 @@
                 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
                     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
                     - #Questions ((about the graph, or directed towards someone)) #not-populated
-                    - #Conversation ((For nesting interactions with other members of the graph)) #not-populated
+                    - #[[Conversation & Comments]] ((For nesting interactions with other members of the graph)) #not-populated
                     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
                 - ---
 - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}

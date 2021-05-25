@@ -60,7 +60,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         2. On Anchestors mapping / Agora
@@ -87,7 +87,7 @@
         - #[[Roam Enhancement Requests]]
             - Add [[fuzzy search]] to the main search bar (as it exists for the block-search)
         - [[Evergreens/deconstruct, selection, sequencing, stakes (DSSS)]]
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #[[The Zettelkasten]]
         - Observations
             - {{[[query]]: {and: [[bnt]] [[February 21st, 2021]] [[Obs]]}}}
@@ -118,5 +118,5 @@
     - #[[GTD Zone]]
         - {{[[TODO]]}} Write an [end of week report](((dFbvCf9ei)))
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
 - ---

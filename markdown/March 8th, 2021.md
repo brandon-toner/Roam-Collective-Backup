@@ -5,7 +5,7 @@
 - ---
 - #[[My Daily Notes]] [[Brandon Toner]] {{word-count}} [*]([[bnt]]) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - #Scratchpad #not-populated
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[@[[Alysson M. Costa]]]] re [change log](((BLrKswZok)))
             - Yup that's right! Change log is just for big changes that might affect other people.
         - [[~[[Kaito Kikuchi]]]] [welcome!](((HJB-DxxGd)))
@@ -41,7 +41,7 @@
     - #[[Scratchpad]] 
         - These days I mostly code for my PhD and working on the Roam API
         - But I do come here every couple of days looking out for anything going on.
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Bookmarks #not-populated
@@ -58,7 +58,7 @@
             - For example, [structuring Literature Notes as Verbatim Notes to combat cognitive burden](((kvrzNKc5u))) was revelatory for me.
         - I have a harder time grasping __how people use__ Roam Collective. 
             - Pointers to what do people do every day, what is a typical flow, example conversations and pages could be very informative for beginners getting up to speed.
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[@[[Brandon Toner]]]] [on how to use Roam Collective](((Z2HuShhsE)))
             - OK this was really helpful! Thank you!
             - I like how a lot of thought is going into building good conventions for collaborative thinking
@@ -67,6 +67,6 @@
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad 
         - Returning to thoughts around [[roam/chat]]
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
 - ---

@@ -12,6 +12,9 @@
 ## [Beyond the Basics](<Beyond the Basics.md>)
 4. Use the [Daily Log](<Daily Log.md>)
 
+## [CSS V1 ([Archive](<Archive.md>))](<CSS V1 ([Archive](<Archive.md>)).md>)
+- #[Daily Log](<Daily Log.md>)
+
 ## [Daily Log](<Daily Log.md>)
 - #[Daily Log](<Daily Log.md>)
 
@@ -63,8 +66,5 @@
 4. Use the [Daily Log](<Daily Log.md>)
 
 ## [Stefan Natter](<Stefan Natter.md>)
-- #[Daily Log](<Daily Log.md>)
-
-## [roam/css](<roam/css.md>)
 - #[Daily Log](<Daily Log.md>)
 

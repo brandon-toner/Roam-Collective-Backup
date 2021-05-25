@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -85,7 +85,7 @@
                 - 4) Use that new formed stability to continue the cycle.
                     - Build on the ideas, follow the tangents, continue the thread.
                     - Like adding a new level of scaffolding as you work your way up the side of a building. Building it as you go, and standing on the prior construction.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         1. Simple Replies
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] whenever I get a [sync issue](((86am-w_M5))), I copy my daily notes section to my personal graph, refresh, and then just copy back in — should capture everything (that on the DNP at least)
                 - Riiiight, this tactic slipped my mind. Thanks!
@@ -200,7 +200,7 @@
         - #[Follow Up](<Follow Up.md>) #[N](<N.md>) [convergence](<convergence.md>) is important to the creative process but is costly / has a [transaction cost](<transaction cost.md>)
             - #[N](<N.md>) In a collaborative environment, [cost](<cost.md>) of [convergence](<convergence.md>) scales with users
             - how do I use `[Reply](<Reply.md>)` and `[Reply-from](<Reply-from.md>)`
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - Is there a way to highlight in a different colour the `Welcome 😃`, `Quick Start Guide` and 'Conventions`? This might attract the eye of new members.
             - > Changes the color and fonts of the different menus
 
@@ -692,7 +692,7 @@ These users would have far better outcomes if they simply operated at or slightl
         - #[Follow Up](<Follow Up.md>) When Brandon commented made about [asynchronous](<asynchronous.md>) editing/exploration, My contrarian mind immediately thought: "What happens when the editing and exploration are [synchronous](<synchronous.md>)?!" 
         - #[Follow Up](<Follow Up.md>) [x] Obviously [Robert Haisfield](<Robert Haisfield.md>)  lol, probably the go-to person for this
         - #[Follow Up](<Follow Up.md>) [x] [Rasmus Andersson](<Rasmus Andersson.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On graph visual organization, layout, and design
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] re: ^^Interested in best ways to organize this part.^^ **Open to edits/suggestions.** [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] [~[[Charles Farr](<~[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]]
                 - Completely agree that the graph [Beau Hann](<Beau Hann.md>) pullled together for RBC3 looks incredibly clean — something to emulate.
@@ -705,7 +705,7 @@ These users would have far better outcomes if they simply operated at or slightl
                     - Rationalize down the number of tags we have a current (design has been divergent, time to converge a bit)
                     - Develop a visual language that has implied meaning
                         - For instance...
-                            - All section-level tags have a background (e.g., [Conversation](<Conversation.md>))
+                            - All section-level tags have a background (e.g., #[Conversation & Comments](<Conversation & Comments.md>))
                             - All block-level tags are bolded and add a `:` at the end (e.g., formatting like `#[Q](<Q.md>) like [Evergreen](<Evergreen.md>))
                             - Aligning color palettes with specific tag groupings (e.g., all DNP modules tags are shades of blue while notes are shades green (spitballing here))
                     - Create some "dashboard" pages that aggregate specific tags (e.g., a layout that makes it easy to see the latest Questions, or Questions that have been answered, etc.)
@@ -753,7 +753,7 @@ These users would have far better outcomes if they simply operated at or slightl
             - [Q](<Q.md>) When to use 📨 vs. 🚨 ?
                 - 🚨 Response requested
                 - 📨 FYI
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - #[Help Wanted](<Help Wanted.md>) on process of organizing questions
             - I think yes. The meatier ones get escalated to page-level. (hasn't happened yet to my knowledge)
                 - Challenge identified:  having many instances of a tag slows Roam when going navigating by scrolling through linked references

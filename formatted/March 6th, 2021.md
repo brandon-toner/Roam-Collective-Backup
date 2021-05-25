@@ -23,7 +23,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
@@ -34,6 +34,6 @@
     - [Announcements](<Announcements.md>)
         - Still away — working on a seed project using RC conventions (can't disclose all the details, but it will definitely help us here.)
     - [Scratchpad](<Scratchpad.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---

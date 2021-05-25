@@ -9,3 +9,6 @@
 ## [Roam-Collective](<Roam-Collective.md>)
 - [Directory](<Directory.md>)
 
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Directory](<Directory.md>)
+

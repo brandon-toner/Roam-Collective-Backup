@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -89,7 +89,7 @@
             - #Q How might [[hypotheses]] be documented at the [[block-level]]?
             - #Q How might [[conclusions]] be documented?
         - #[[N]] micro and macro levels of [[inquiry]].
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
         2. [@Charles]([[~[[Charles Farr]]]]) — Best documentation is [here]([[About Roam Collective]]), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
@@ -101,7 +101,7 @@
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
     - #[[GTD Zone]]
     - #[[The Zettelkasten]]
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [@Charles]([[~[[Charles Farr]]]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]). [cc: @b]([[cc:[[Brandon Toner]]]])
             - In summary: I really believe in the idea of an agora on a roam graph, since it's already booming on twitter, but not sure it's the best way to manage an actual dependency graph.
                 - I think the ideal would be a clean and minimalist dependency graph as a stream, sent to the roaman agora where all the discussion happens.
@@ -162,11 +162,11 @@
                 The primitive conventions underpinning the structure of The Agora are a direct outcome of the experimentation of Roam Collective.
                 Roam Collective was formed around the idea of...
             - # Goals for this Graph
-                Leverage the #Conversation convention to drive discussion, ultimately spawning collisions of ideas and thought...
+                Leverage the #[[Conversation & Comments]] convention to drive discussion, ultimately spawning collisions of ideas and thought...
                 Collating ideas (#I) and questions (#Q) at the block-level to identify and guide new lines of inquiry...
                 Foster collaboration on new projects that are shaping the future of Roam and our shared hypergraphic future...
         - Did most of my work in the [[Roaman Agora]] graph today, plus a long CH call with Brandon — lots to think on...
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Discussions
             - [re](((A5lIDpmnY))): [@B]([[~[[Brandon Toner]]]]) just added you as an editor. [@S]([[~[[Samuel Bars]]]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.

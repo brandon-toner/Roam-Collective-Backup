@@ -9,9 +9,6 @@
 ## [February 17th, 2021](<February 17th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
 
-## [February 18th, 2021](<February 18th, 2021.md>)
-- #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
-
 ## [February 19th, 2021](<February 19th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Samuel Bars](<Samuel Bars.md>) {{word-count}} [*]([smb](<smb.md>))
 

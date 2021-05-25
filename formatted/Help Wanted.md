@@ -166,3 +166,6 @@
 ## [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
 - #[Help Wanted](<Help Wanted.md>)
 
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Help Wanted](<Help Wanted.md>)
+

@@ -8,7 +8,7 @@
         - [x] Notify Bardia of bug re: transfer of children to newly added sibling block [March 14th, 2021](<March 14th, 2021.md>) 
             - [Obs](<Obs.md>) Getting instances (even while posting this) where pressing enter at the end of a block transfers the nested content to the newly created block.[*]([Bug Reports](<Bug Reports.md>)) 
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froaminati%2FvRlRdfpfRj.gif?alt=media&token=32bdd974-a0be-4053-8f8d-a04da80e91d6)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 

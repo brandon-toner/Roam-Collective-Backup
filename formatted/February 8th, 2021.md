@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -49,7 +49,7 @@
                 - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
     - #[Change Log](<Change Log.md>) 
         - Added [roam/js/slack](<roam/js/slack.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [roam/js/tag-cycle](<roam/js/tag-cycle.md>) for changing notification states.[*]([Matt Brockwell](<Matt Brockwell.md>))
             - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
                 - The challenge I've run into is that currently the keyboard shortcut assignment is **global** (applied to ALL users), so with diversity of platform and browser, I've found it difficult to find keystrokes that work for everyone...
@@ -104,7 +104,7 @@
         - Updated conventions for notes types
             - [[[Roam-Collective](<[[Roam-Collective.md>): Zettelkasten Conventions]]
             - #[N](<N.md>) Fleeting notes capture nascent ideas with potential to contribute to
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] do we want to have a question page-level tag `[Q:](<Q:.md>)`, use the `[E:](<E:.md>)`, or use no page-level tag at all? 
             - Candidate for change: [Questions/Why build maturity into your knowledge management system?](<Questions/Why build maturity into your knowledge management system?.md>)
                 - My original intention for this page was for it to be output focused 
@@ -138,7 +138,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[Scratchpad](<Scratchpad.md>)
         - {{[video](<video.md>): https://www.youtube.com/watch?v=G_nOXbNetVQ}}
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Bookmarks](<Bookmarks.md>)

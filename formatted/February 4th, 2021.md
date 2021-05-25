@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -80,7 +80,7 @@
     - #[GTD Zone](<GTD Zone.md>) 
         - Check out [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))
         - Go thought yesterdays Scratchpad before opening any Pandora's Box.
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [Everyone](<Everyone.md>) do we have weekly and monthly reviews which can be used as structured ways to force convergence? Structured reviews become like habits and take increasingly less time and become frictionless as the systems put in place make them easy to perform [^[[Brandon Toner](<^[[Brandon Toner.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] ((Shall we have review cycles to force convergence of certain topics so that we don't diverge too much?))
             - e.g. Weekly reviews: https://youtu.be/kNL6mA5kRec
             - Think it could be interesting to explore - what types of questions / template are you envisioning?
@@ -140,7 +140,7 @@ How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>
 		[(re-matches #".*Community Note.*" ?str)]	  
 	]
         - #[Experiments](<Experiments.md>) discover pattern on indentation.
-    - #[Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - (re:) Doubting the usefulness of the [Everyone](<Everyone.md>) tag... thoughts? [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
             - Different from announcement, which is controlled in [your]([Brandon Toner](<Brandon Toner.md>)) hand, `[Everyone](<Everyone.md>)` tag can be used by other community memebers.
             - Seems that we have no way to ignore it automatically(i.e. by query) after we read the message with `Everyone` tag, not like current communication mechanism.
@@ -212,7 +212,7 @@ How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>
         1. Added a [dropdown template](((Grh61WxTF))) (for making dropdowns)
         2. Added a "online status" dropdown to [my DNP Template](((VyS8OjXZx)))
         3. Disabled Intercom
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. On top-section [chat](<chat.md>) 
             - **Brandon:** For the top-section chat, let's think up some conventions/norms ((Block ref into your section, as these might get elaborate!))
                 - For each post & reply, label your block with **Your Name:**
@@ -261,7 +261,7 @@ How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>
             - Not this
                 - [tag1](<tag1.md>)
                     - [tag2](<tag2.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Short answer, no. Namespaces aren't expressed in CSS, they're interpreted by Roam's internal parser. The only way I know of changing the namespace is through user prefs.[*](((uAKl3yKFe)))
             - I uses namespaces extensively in my personal graph since I know they'll be useful in the future but at this moment in Roam they're cosmetic. You can't query for them without [datalog](<datalog.md>) . Right now it feels like page references in the page name work alright but I often end up duplicating the page reference under a [Tags](<Tags.md>) attribute so who knows lol 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] what benefit do you see for filtering a page using [OR](<OR.md>) instead of constructing a regular [query](<query.md>) ? 
@@ -280,7 +280,7 @@ How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>
 - #[My Daily Notes](<My Daily Notes.md>) [Larissa de Lima](<Larissa de Lima.md>) {{word-count}} [*]([ldl](<ldl.md>)) {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) 
         - Big meeting tomorrow so just stopping by very quickly!
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - I found an interesting consideration about what you said in a Sci-Fi book I was reading last weekend.
             - Ooh what book?
         - On new away messages
@@ -291,7 +291,7 @@ How could synchronous tools like [Zoom](<Zoom.md>) or [Clubhouse](<Clubhouse.md>
     - [Scratchpad](<Scratchpad.md>)
         - If you click into the MDN level you can `ctrl c ctrl m` and advance through everyone's notes — good way to read through the graph...
         - Still trying to wrap my head around the codifying [maturity](<maturity.md>) and [progression](<progression.md>) of notes (and all other written artifacts) — need to #[Follow Up](<Follow Up.md>) [here](((JifHTbhQh)))
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On Weekly Reviews with PRosso
             - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] I like this [idea](((nZArzolvZ))) — [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] had started to concatenate a but of questions together. Maybe worthwhile to create a grouped list of all of the scratchpad and conversation topics from the past week.
                 - Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)

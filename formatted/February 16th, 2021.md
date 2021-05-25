@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -89,7 +89,7 @@
             - [Q](<Q.md>) How might [hypotheses](<hypotheses.md>) be documented at the [block-level](<block-level.md>)?
             - [Q](<Q.md>) How might [conclusions](<conclusions.md>) be documented?
         - #[N](<N.md>) micro and macro levels of [inquiry](<inquiry.md>).
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((atnTKErSm)))) — Yea me too, but this was the first time I peaked hahah.
         2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) — Best documentation is [here]([About Roam Collective](<About Roam Collective.md>)), but I bet I'd re-write it differently now haha
             - Probably "To define and demonstrate how to collaborate in Roam"
@@ -101,7 +101,7 @@
             - A roam-depot graph, and a way to pull code in your graph (`npm install x`). Still thinking about how that would work in practice, and how it could help roam community devs.
     - #[GTD Zone](<GTD Zone.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) about [the roaman agora](((0aw_FbcLO))) and [roam games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)). [cc: @b]([cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]])
             - In summary: I really believe in the idea of an agora on a roam graph, since it's already booming on twitter, but not sure it's the best way to manage an actual dependency graph.
                 - I think the ideal would be a clean and minimalist dependency graph as a stream, sent to the roaman agora where all the discussion happens.
@@ -162,11 +162,11 @@
                 The primitive conventions underpinning the structure of The Agora are a direct outcome of the experimentation of Roam Collective.
                 Roam Collective was formed around the idea of...
             - # Goals for this Graph
-                Leverage the [Conversation](<Conversation.md>) convention to drive discussion, ultimately spawning collisions of ideas and thought...
+                Leverage the #[Conversation & Comments](<Conversation & Comments.md>) convention to drive discussion, ultimately spawning collisions of ideas and thought...
                 Collating ideas ([I](<I.md>)) and questions ([Q](<Q.md>)) at the block-level to identify and guide new lines of inquiry...
                 Foster collaboration on new projects that are shaping the future of Roam and our shared hypergraphic future...
         - Did most of my work in the [Roaman Agora](<Roaman Agora.md>) graph today, plus a long CH call with Brandon — lots to think on...
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Discussions
             - [re](((A5lIDpmnY))): [@B]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) just added you as an editor. [@S]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) let me know what email I should use to do the same.
                 - Going to sketch out the key parts of it shortly and then start building the structure.

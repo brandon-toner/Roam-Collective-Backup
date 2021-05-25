@@ -103,7 +103,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                 - Search for components WITHIN the block.
                 - Search for components in the indentation chain.
                 - & combinations of AND/OR/NOT between them.
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Mark]([@[[Mark Robertson](<@[[Mark Robertson.md>)]]) on [conversational conventions](((FG2UXveKl)))
             - This happens naturally, doesn't it?
                 - I'm thinking it would simply be a block ref to whatever the quoted block was. 
@@ -165,13 +165,13 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
                     - Working In Public
                     - Open Source
                     - Creativity
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((For nesting interactions with other members of the graph)) 
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]], [~[[Charles Farr](<~[[Charles Farr.md>)]], or anybody for that matter (or possibly in #[Questions](<Questions.md>))
             - How does the collective thread conversations in which individuals join mid-stream? <- this is the hardest nut to crack I see (IMHO) 
             - **Replies:**
@@ -190,7 +190,7 @@ But somehow, writing it down invokes a similar endorphin kick as actually doing 
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [On GTD](((T94UZexAq))) I am not sure whether to start from a topdown or a bottom up approach.

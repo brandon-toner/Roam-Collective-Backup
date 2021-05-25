@@ -35,7 +35,7 @@
             - [ ] Assign date to inbox stuff or move to scratchpad
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [@Brandon]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) on GTD: ...
@@ -77,6 +77,6 @@
                     - A query is a [translation](<translation.md>) layer — working to aggregate what Rob places into his graph
             - [Robert Haisfield](<Robert Haisfield.md>)
                 - Think of pages as collections; block references as threads
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

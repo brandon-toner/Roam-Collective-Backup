@@ -1,4 +1,3 @@
-- **[Redirect](<Redirect.md>):** [evergreen notes](<evergreen notes.md>)
 
 # Backlinks
 ## [February 28th, 2021](<February 28th, 2021.md>)

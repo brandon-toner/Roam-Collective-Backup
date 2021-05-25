@@ -10,6 +10,6 @@
             - We could keep the latest updates active here, so graph-builders could easily emulate. 
             - Ideally, this would be a separate "showcase" graph, where updates to "Seed packs" could be published and stored.
             - [Q](<Q.md>) Could we host seedpacks for easy download?
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>) 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---

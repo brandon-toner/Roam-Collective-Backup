@@ -81,7 +81,7 @@ Breaking things apart, so they can be put together
                     - chaos, disorder, lossy, missed opportunities for resurfacing and collaboration.
                     - Then reflect how breakthroughs in the RC have helped to resolve those tensions and envision a brighter future.
                 - 
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [Bookmarks](((HZk-NJWQ8)))
             - Yea, that's true. 
             - If that were a desired function, we could add a `[Bk](<Bk.md>)` or similar abbreviation.
@@ -200,7 +200,7 @@ loud is what leads to significant insights).__
         - [This thread about roam blogs](https://twitter.com/Malcolm_Ocean/status/1200607647579262977?s=20) and the others it links to + replies might be relevant to the discussion of cross-db multiplayer roam. It has already been explored, the discussion is just very fragmented over time.
             - Question by vgr: How would you reimagine blogs around graph databases as the foundation?
         - Draft outline of announcement for [Roam Games III](<Roam Games III.md>) on the [Roaman Agora](<Roaman Agora.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Simple replies
             - [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) re [bookmarks](((HZk-NJWQ8)))
                 - Seems like the RANDOMBLOCKMENTION command takes only one argument, so I could randomly pull bookmarks, but not filter out those of other members. Is there a solution here?
@@ -343,7 +343,7 @@ https://roamresearch.com/#/app/The-Roaman-Agora/page/Dly7fOEzO
                     - [x] Should we prepopulate some RGIII submission pages?
                     - [ ] Who tweets what?
                         - Was thinking that I could do a thread on the Agora and then Brandon could do one to expound on how this represents an outgrowth from RC and is just one part of the longer-play
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) thoughts on the draft [here](((JeHClfDnW)))?
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---

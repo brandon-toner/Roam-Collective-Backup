@@ -28,6 +28,6 @@
                         - [Q](<Q.md>) How might the [Social/News Feed](<Social/News Feed.md>) be individually curated by user [Social/Follows](<Social/Follows.md>)?
                             - [Q](<Q.md>) What controls could be given to the user over their [Social/News Feed](<Social/News Feed.md>)?[*](((Bzh7rDrm1)))
                         - [Q](<Q.md>) How might this model/system be made easier?[*](((Bzh7rDrm1)))
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>) 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---

@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -227,7 +227,7 @@
         - [ ] Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
         2. [@Charles]([~[[Charles Farr](<~[[Charles Farr.md>)]]) on [CSS](((XkuzI7Zp8)))
             - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
@@ -245,7 +245,7 @@
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [csf](<csf.md>) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On Graph [CSS](<CSS.md>) settings [°]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
                 - CSS block with color variables → see: Red

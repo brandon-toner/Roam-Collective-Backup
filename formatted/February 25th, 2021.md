@@ -40,7 +40,7 @@
         - [February 26th, 2021](<February 26th, 2021.md>)
             - [ ] Answer Charles
                 - `[@Charles]([@[[Charles Farr](<@[[Charles Farr.md>)]])` How does the mechanism of block-level search impact the value of block-level tags?
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - {{or: [@[[Everyone](<@[[Everyone.md>)]] | [@[[Charles Farr](<@[[Charles Farr.md>)]] | [~[[Brandon Toner](<~[[Brandon Toner.md>)]] | [~[[Peter Rosso](<~[[Peter Rosso.md>)]] | [@[[leekeifon](<@[[leekeifon.md>)]] | [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] | [@[[Samuel Bars](<@[[Samuel Bars.md>)]] }} Selfish question, I am halfway my annual GTD purge. Any recommendation on blogposts to read to have my GTD running on roam?
@@ -51,12 +51,12 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) [On GTD](((9IjO0uID4)))
             - I'm got a bunch of half-baked ideas that I think could be refined through conversation. Would love to hammer it out sometime. 
             - I can see a really neat blend of the [Date Planner](<Date Planner.md>), and a GTD Dashboard page of sorts. 
@@ -87,7 +87,7 @@
                 - https://twitter.com/Conaw/status/1231331109775933440?s=20
                 - **[Image](<Image.md>):** I love this diagram of how overlapping areas translate to a tree...
                     - ![Image](https://pbs.twimg.com/media/ERaRHhQVUAAmuiz?format=jpg&name=900x900)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Alex Tentler](<Alex Tentler.md>) {{word-count}}
@@ -99,7 +99,7 @@
         - Capture some initial feedback in your **feedback** block
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
         - __write here__
-    - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
         - __comment/reply here__
             - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
     - #[Feedback & Questions](<Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<not-populated.md>)

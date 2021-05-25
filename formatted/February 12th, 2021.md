@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -143,7 +143,7 @@
             - **[Resources](<Resources.md>):** https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[The Zettelkasten](<The Zettelkasten.md>) 
         - #[N](<N.md>) The use of [DNP Modules](<DNP Modules.md>) in combination with strategic [indentation](<indentation.md>) empowers powerful [queries](<queries.md>) and [linked references](<linked references.md>) on keywords, projects, and questions. 
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [@Peter]([~[[Peter Rosso](<~[[Peter Rosso.md>)]]) on `Obs` vs `Ob`
             - [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
@@ -254,7 +254,7 @@ d. [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [on "This new messagi
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         - [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [""](((cxK_gynrp))) `👀[Obs](<Obs.md>)` seems plural, what about `👀[Ob](<Ob.md>)`?
@@ -313,7 +313,7 @@ d. [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [on "This new messagi
                     - Counter-example
             - [Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.](<Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database..md>)
             - [prepositional linkages](<prepositional linkages.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([~[[Brandon Toner](<~[[Brandon Toner.md>)]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
                 - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
@@ -352,7 +352,7 @@ d. [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) [on "This new messagi
         - Made Online/Offline status global with a block reference to my profile.
             - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) 
         - Discovered that the drop down selector from Or query is out of place when viewed on Firefox
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzfGGKU_cn9.png?alt=media&token=60ed969f-b718-4f04-a73f-dc071f7939bd)

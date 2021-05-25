@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -280,7 +280,7 @@
             - #[[N]] the benefits of having access to [[verbatim]] passages offers an argument for being able to easily import [[full-text]] into [[Roam]].
         - #[[N]] Asterisk [[aliases]] can be used to [[hide]] content from blocks — improving [[readability]]. #Tips
         - #[[N]] [[copy-paster]]-like templating tools are helpful for standardizing [[conventions]]. This also applies to [[Roam templates]] and [[SmartBlocks]]. #standardization
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - #Observations
             - Love this `#minimal` [[CSS]] styling for queries. I needed this! Thanks, [[cc:[[Charles Farr]]]]
                 - Example:: 
@@ -402,7 +402,7 @@
     - #[[GTD Zone]]
         - {{[[DONE]]}} Update all of the SmartBlocks in the graph to match new conventions #[[Week-04: 01-25-2021]]
             - {{[[DONE]]}} Document conventions for creating SmartBlocks & Templates
-    - #Conversation
+    - #[[Conversation & Comments]]
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
         2. Perhaps this is a great place to use some of the rhetoric arguments we were thinking about defining... [[~[[Charles Farr]]]]
             - Agree [[~[[Brandon Toner]]]] — any thoughts on areas of thought we should research to help build out this stucture?
@@ -453,7 +453,7 @@
                     - Following up here — this approach works for me because I am trying to leverage my notes for output.
                         - I want to be able to easily pull up the content of a note in-line to tie into something I am writing
                     - As we evaluate what the correct approach for the [[zettelkasten]] in [[Roam-Collective]] is, it will be critical to settle on our goals
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         1. [[~[[Brandon Toner]]]]do you have a tag already created that you use similarly? If so, we should merge them... 
     - #[[Change Log]]
         - Added SmartBlock & Roam Template Conventions
@@ -479,12 +479,12 @@
     - #[[Scratchpad]]
         - According to the [definition](((o2aZIL3oU))) of [[seedlings]] and the [context](((8zuNrwoHM))) on how it’s used from [[Brandon Toner]], these seedling note should have higher priority to [[resurfacing]] via prompts.
         - #Annotations of [[Toulmin Argument]] on [[Purdue Online Writing Lab]] [*]([[^[[leekeifon]]]]) [*]([[cc:[[Charles Farr]]]]) [[^[[leekeifon]]]]
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - [This method](((5NLcwZHoo))) thoroughly discuss how to make a smooth yet reliable way to develop deep thoughts across time and I will no doubt adapting this into my own database!  #[[procedural knowledge]] [*]([[cc:[[Brandon Toner]]]])[*]([[cc:[[Charles Farr]]]])
             - This method agree with most of my previous thoughts, eg. [view page as resource](((3SbDzgrZF))), [treat page as truth](((ZZWmGCw0B))), as it builds up a intermediate state that help us slow down the speed on creating too much page, which is actually increasing the complexity of our database.
             - Also, the user experience for block auto-completion with a `#Evergreen` tag at the front is almost the same as page auto-completion.
             - In other words, I vote for this procedure. (But I don’t know how to add an emoji to it in iPad...)
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - Would like to add a detail on [this step](((wL9FWsYpE))) of the the [new process](((X8fzypdUg))). [[~[[Brandon Toner]]]]
             - When referencing a fleeting note, we’d better assign a property along with it. Concretely speaking, that’s a way to indicate the relationship between blocks which would benefit us in the future. One idea that I’ve alway thought of is that we could automatically label inner reference link with such properties in a graph view, and we could do better sense on the [[maturity]] of the idea.
                 - Example:: Just like this [set of tags](((dlHi_aDut))) when we’re clarifying a concept between each other’s.

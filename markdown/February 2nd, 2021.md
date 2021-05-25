@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -104,7 +104,7 @@
                 - #[[N]] [[convergence]] is a [lens]([[lenses]]). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
                     - #[[N]] balancing [[convergence]] and [[divergence]] is similar to balancing [[order]] and [[chaos]].
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. On "1000 upvotes"
             - [[~[[Brandon Toner]]]] How can I give Charles' convention a 1,000 upvotes? 
                 - Ha! Agreed. This is a MUCH better visual experience. Well done, [[~[[Charles Farr]]]]
@@ -167,7 +167,7 @@
         - Answer to [[^[[Peter Rosso]]]] 
             - {{[[query]]: {and: [[^[[Peter Rosso]]]] {not: [[query]]]}}}}
         - Add [[double diamond]] literature notes from thesis
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - What I'm VERY interested in, is finding ways to use an eventual [[datalog query builder]] identify pages as members of a collection based on the presences of `Tags::` + `[[Collection Name]]`
             - I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags::` and it would be nice to see all of them as a table.
         - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
@@ -282,7 +282,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
-    #Conversation
+    #[[Conversation & Comments]]
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? 
                 - #Q How can on get up to speed and ready to contribute in the least [costly]([[cost]]) way possible
@@ -350,7 +350,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - [[Nicolas Luhmann]]'s captured insights in his zettelkasten as [[permanent notes]], working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
                         - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On [[conversation]] conventions with LdeLima
             - [[~[[Larissa de Lima]]]] re: [[~[[Charles Farr]]]] what you did was so incredibly helpful!  
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
@@ -426,7 +426,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - also, i have an android so can't join clubhouse unfortunately
 - ---
 - #[[My Daily Notes]] [[leekeifon]] {{word-count}}
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [[~[[Larissa de Lima]]]] #[[Experiments]]
         - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [[~[[Brandon Toner]]]]
         - Why not set up current [[Roam Games]] a little short term goal for practicing our system towards a 

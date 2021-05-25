@@ -91,6 +91,9 @@ try{
 ## [Welcome](<Welcome.md>)
 - {{{[roam/js](<../roam/js.md>)}
 
+## [Welcome V1 ([Archive](<../Archive.md>))](<Welcome V1 ([Archive](<../Archive.md>)).md>)
+- {{{[roam/js](<../roam/js.md>)}
+
 ## [roam/js](<roam/js.md>)
 - {{{[roam/js](<../roam/js.md>)}
 

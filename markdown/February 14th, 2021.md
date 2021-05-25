@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -67,7 +67,7 @@
                 - Establish CSS color strategy with easy adjustment in centralized location.
         - Zettelkasten conventions
         - Agile Development
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. FYI Defined [a new Epic]([[Epics/Establish and document baseline RC conventions and workflows]]) to encapsulate the meta-projects around building the RC. {{or:[[~[[Larissa de Lima]]]] | [[~[[Peter Rosso]]]] | [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[@[[leekeifon]]]]}}
         2. [@Peter]([[@[[Peter Rosso]]]]) ["Twitter acct"](((DweiIynrD))) 
             - So we could prob just make an @roam_collective account, and use that. (Pending availability).
@@ -111,7 +111,7 @@ I'll have a look this week. #[[Follow Up]]
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@B]([[~[[Brandon Toner]]]]) Check [Roam Portal](https://chrome.google.com/webstore/detail/roam-portal/kgkmjbhbdakcdfkkgmmihcceekcdmefe?hl=en) out! So cool! 

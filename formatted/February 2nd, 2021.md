@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -104,7 +104,7 @@
                 - #[N](<N.md>) [convergence](<convergence.md>) is a [lens]([lenses](<lenses.md>)). [*](((yDP-gHQj9)))
                     - Like shining a flashlight around in a dark room, activities driving convergence help to bring more order to a particular set of information. 
                     - #[N](<N.md>) balancing [convergence](<convergence.md>) and [divergence](<divergence.md>) is similar to balancing [order](<order.md>) and [chaos](<chaos.md>).
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. On "1000 upvotes"
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] How can I give Charles' convention a 1,000 upvotes? 
                 - Ha! Agreed. This is a MUCH better visual experience. Well done, [~[[Charles Farr](<~[[Charles Farr.md>)]]
@@ -167,7 +167,7 @@
         - Answer to [^[[Peter Rosso](<^[[Peter Rosso.md>)]] 
             - {{[query](<query.md>): {and: [^[[Peter Rosso](<^[[Peter Rosso.md>)]] {not: [query](<query.md>)]}}}}
         - Add [double diamond](<double diamond.md>) literature notes from thesis
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - **[What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags](<What I'm VERY interested in, is finding ways to use an eventual [datalog query builder](<datalog query builder.md>) identify pages as members of a collection based on the presences of `Tags.md>):**` + `[Collection Name](<Collection Name.md>)`
             - **[I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags](<I was thinking whether it would be possible to build tables like in notion, All my "bibliographical notes" have the same `Tags.md>):**` and it would be nice to see all of them as a table.
         - Exactly!  Have more thoughts on connections to numbers specifically, will return back later in the day
@@ -282,7 +282,7 @@ I think I need to go through the whole process to make sure I internalise it.
         - Finish thoughts on number analogy
         - Catch up on How To series
         - Go through Questions
-    [Conversation](<Conversation.md>)
+    #[Conversation & Comments](<Conversation & Comments.md>)
         - On organizing conversations  
             - On my mind as I logged in this morning: what did I miss? What were the important conversations about? 
                 - [Q](<Q.md>) How can on get up to speed and ready to contribute in the least [costly]([cost](<cost.md>)) way possible
@@ -350,7 +350,7 @@ I think I need to go through the whole process to make sure I internalise it.
                     - [Nicolas Luhmann](<Nicolas Luhmann.md>)'s captured insights in his zettelkasten as [permanent notes](<permanent notes.md>), working on pieces of paper.
                         - His approach was to capture the entirety of a note at one time and then filing it away within his physical slipbox for later rediscovery and use.
                         - While Luhmann is a great inspiration for the newfound applications of zettelkasten for knowledge management, it seems advisable to update the approach for our modern times and differing objectives. Luhmann was focused on academic research and publish (publications that most of us would consider to be quite "dense").
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On [conversation](<conversation.md>) conventions with LdeLima
             - [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] re: [~[[Charles Farr](<~[[Charles Farr.md>)]] what you did was so incredibly helpful!  
                 - It was helpful for me too! Glad to hear it was helpful for others as well...
@@ -426,7 +426,7 @@ I think I need to go through the whole process to make sure I internalise it.
                 - also, i have an android so can't join clubhouse unfortunately
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}}
-    - #[Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Big fan for this [symbolic language idea](((_LaBRZ9kj))), I’m in. [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]] #[Experiments](<Experiments.md>)
         - What’s your convention on adding new thoughts on the `Bookmarks`ed blocks across time? Hope to hear your thoughts on it. [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - Why not set up current [Roam Games](<Roam Games.md>) a little short term goal for practicing our system towards a 

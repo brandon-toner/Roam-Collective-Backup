@@ -4,7 +4,7 @@
     - [to-populate](<to-populate.md>)
 
 # Backlinks
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
 ## [Announcements](<Announcements.md>)
@@ -128,6 +128,9 @@
 
 ## [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 - > To create a [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
+
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Roam Collaboration Guide](<Roam Collaboration Guide.md>)
 
 ## [Stories/Moses and the Ten Commandments](<Stories/Moses and the Ten Commandments.md>)
 - #[Literature Notes](<Literature Notes.md>) [rules](<rules.md>) are [emergent]([emergent](<emergent.md>)). They are the product of implicit systems of behaviour, made explicit through [experience](<experience.md>) and subsequent revelation or [insight]([insights](<insights.md>)). ([pattern-recognition](<pattern-recognition.md>)) [conventions](<conventions.md>) [*]([Roam Collaboration Guide](<Roam Collaboration Guide.md>))

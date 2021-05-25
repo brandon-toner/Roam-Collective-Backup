@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -115,7 +115,7 @@
             - Idea of an activity: Take a note within the [zettelkasten](<zettelkasten.md>) that calls to you, and write tweetstorm elaborating on the idea. [Activities](<Activities.md>)
     - [Bookmarks](<Bookmarks.md>) 
         - [Feedback](<Feedback.md>) "I should've joined sooner btw, because I brainstormed on my side for Roam Games, and came to many conclusions similar to what's been talked about here. Would've saved me time."
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Samuel]([~[[Samuel Bars](<~[[Samuel Bars.md>)]]) On [where users write](((wHHBViiGV)))
             - Great work jumping into the chat conventons!! perfect.
             - Yea, this is on my radar to reassess if it begins to feel overwhelming. What's nice here is that having all the work centralized fosters more conversation and collaboration -- but that might not scale well. 
@@ -218,7 +218,7 @@
     - #[GTD Zone](<GTD Zone.md>)
         - [x] Create your own personal page, by placing your name at the top of your daily notes.
         - [x] Follow [these instructions](Build your bio page ) to make your own page.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         1. [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) About [writing on daily pages vs your own](((dakVN3D1r)))
             - When the amount of active users increases and the daily page starts getting overwhelming.
                 - In Roam Book Club, every daily writing template is tagged with the day, so you have daily activity, but in linked refs (easily collapsible to prevent lagging)
@@ -238,7 +238,7 @@
     - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] I'm thinking about your proposed [knowledge seeking workflow](((9tw8l2xYp))) (Love the framing of knowledge-seeking btw!)
             - I'm surprised that [learning objectives](((dG6NHqSN_))) are above questions in the hierarchy
                 - Shouldn't questions drive learning objectives, which imply a particular path towards addressing a question? 
@@ -276,7 +276,7 @@
                 - [Q](<Q.md>) If each submission had a page that was aggregating its updates, would it be automatically updated?
                     - Or, in its current state, does the window & page need to be open?
                 - What is the bar for an individual setting up a stream? Do they need to set up their own Netlify account to do so? Could they use code hosted on a roam-collective account?
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On self-accruing onboarding material
             - [@B]([^[[Brandon Toner](<^[[Brandon Toner.md>)]]) regarding your thoughts [here](((CQ2KmSKqz))) and the AoT, I think this is well in line with our orientation around `[Q](<Q.md>)` questions. If we work to answer questions (meta ones for onboarding) with clear and concise prose, then we can aggregate them as FAQs.
         - Discussions
@@ -318,7 +318,7 @@
         - [Q](<Q.md>) What type of conventions and processes best scale with number of users?
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---
 

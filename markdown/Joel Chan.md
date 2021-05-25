@@ -16,6 +16,6 @@
             - #Scratchpad #not-populated
             - #[[The Zettelkasten]] #not-populated
             - #Bookmarks #not-populated
-            - #Conversation #not-populated
+            - #[[Conversation & Comments]] #not-populated
             - #[[Change Log]] #not-populated
         - ---

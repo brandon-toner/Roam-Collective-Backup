@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -81,7 +81,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
     - #[GTD Zone](<GTD Zone.md>)
         - Explain the idea for graph dependency
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
 - ---
@@ -145,7 +145,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
         - Developed a [Sprints Template](((tG1HJs2dK)))
         - Created a sprint for [Roam Games 3]([Sprints/1 — Roam Games 3 (managing dependencies)](<Sprints/1 — Roam Games 3 (managing dependencies).md>)) (merged with Charles' version)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. Simple Replies
             - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb))) 
                 - Ah no way! I use both PDF Expert and Spark and Scanner Pro. I LOVE [Readdle](<Readdle.md>) haha.[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])
@@ -343,7 +343,7 @@ You will have to wait for me ([Peter Rosso](<Peter Rosso.md>)) to let you in.
                     - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
                 - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[Q:](<Q:.md>)` implicitly denotes an increase in maturity
             - 
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On "[domains](<domains.md>)" within the Roam Collective
             -  [@[[Larissa de Lima](<@[[Larissa de Lima.md>)]] I almost think of [these](((xRXhJOm2O))) as distinct domains — meta, internal knowledge, external knowledge.
                 - Obviously there is a ton of overlap and exchange between each, but they each have distinct objectives and conventions

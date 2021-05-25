@@ -36,7 +36,7 @@
     - BToner -- .DNP Template [roam](<roam.md>)/templates [Graph](<Graph.md>)/Templates
         - [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>))
             - [Journal](<Journal.md>)
-            - [Conversation](<Conversation.md>)
+            - [Conversation & Comments](<Conversation & Comments.md>)
                 - {{Pull Calls to Attention:42SmartBlock:BToner - Calls to Attention-Button:42RemoveButton=True}}
         - ---
     - Mentions (BT)
@@ -97,7 +97,7 @@
         - BToner — .DNP Template (V1) 
             - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
                 - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-                - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+                - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
                 - #[The Zettelkasten](<The Zettelkasten.md>)
                     - {{BToner — Today + Obs + bnt :42SmartBlock:BToner — Today + Obs + bnt}}
                     - {{BToner — Today + Q + bnt:42SmartBlock:BToner — Today + Q + bnt}}
@@ -112,7 +112,7 @@
         - BToner — .DNP Template (V2)
             - #[My Daily Notes](<My Daily Notes.md>) [Brandon Toner](<Brandon Toner.md>) {{word-count}} [*]([bnt](<bnt.md>)) {{or:🟡On & Off | 🟠Away | ⚫️Offline | 🟢Online}}
                 - [Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
-                - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
+                - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>) <%CURRENTBLOCKREF:newDNPRoot%>
                 - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
             - ---
             - <%SIDEBARWINDOWOPEN:<%GET:newDNPRoot%>%>
@@ -127,7 +127,7 @@
 ## [Abandon ideology.](<Abandon ideology..md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - **[Created by](<Created by.md>):** [Brandon Toner](<Brandon Toner.md>)
 
 ## [Act so that you can tell the truth about how you act.](<Act so that you can tell the truth about how you act..md>)
@@ -734,6 +734,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [May 19th, 2021](<May 19th, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
+## [May 24th, 2021](<May 24th, 2021.md>)
 - [Brandon Toner](<Brandon Toner.md>)
 
 ## [May 5th, 2021](<May 5th, 2021.md>)

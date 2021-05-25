@@ -61,7 +61,7 @@
         - {{[[TODO]]}} Review Mark's notes from [[March 1st, 2021]] 
         - #Q How might RC conventions be optimized for the [[Roam Think Tank]]? [*]([[Projects/Develop Shared Graph for Roam Think Tank]])[*]([[@[[Charles Farr]]]])[*]([[@[[Mark Robertson]]]])
         - {{[[TODO]]}} Look into "lazy consensus"
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[~[[Mark Robertson]]]] 
             - We have a graph - "roaminati"
                 - Excellent. As conversation evolves, I'll offer our support for setting up RC conventions to ensure a smooth implementation.
@@ -99,7 +99,7 @@
     - #[[GTD Zone]] 
         - {{[[TODO]]}} Read about Roam think-tank  
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Bookmarks #not-populated
@@ -108,7 +108,7 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [@Brandon Toner]([[@[[Brandon Toner]]]]) thanks for the [clarification](((FO4DW8gxL))) of where things are with respect to [[agile development]]
             - This is also what I was thinking -> Manually, this could be done based on a `Dependencies::` attribute on the story (project) page. — with the status block reffed on the same line to promote good [visibility](((D3gcKeMVe))) without having to click-in to the project.[*](((4d48_3iGO)))
                 - I am thinking once things are more fleshed out something could relatively easily be done with [[roam/render]] and some [[datalog]] queries
@@ -119,7 +119,7 @@
         - [Great tweet](((hKTCnzkeq))) from [[Interintellect]] about [[Discord]] - good foundational advice.
             - https://twitter.com/interintellect_/status/1366825299879604229?s=21
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[@[[Brandon Toner]]]] & [[~[[Charles Farr]]]] regarding my comment yesterday: Looks like [[Roamhacker]] wishes to open a graph for the group. 
             - We have a graph - "roaminati"
         - Replies:
@@ -131,7 +131,7 @@
     - #Scratchpad
         - #Q How might RC conventions be optimized for the [[Roam Think Tank]]? [*]([[Projects/Develop Shared Graph for Roam Think Tank]])[*]([[@[[Charles Farr]]]])[*]([[@[[Mark Robertson]]]])
         - [[RC/Conversation Seedpack]]
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - On Chat
             - We are already on [[Discord]] now. 
                 - I like Discord [[~[[Mark Robertson]]]] — on voice chat with [[Joel Chan]] and [[Roamhacker]] right now.
@@ -150,7 +150,7 @@
             - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.
             - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[@[[Charles Farr]]]] yes on [prototyping a chat tool](((nBevoAd8m))). 
             - When is a good time for you? (I'm in central european time)
 - ---

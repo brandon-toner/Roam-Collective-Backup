@@ -25,7 +25,7 @@
                     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
                     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
                     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-                    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+                    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
                         - Query:
                             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
                     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)

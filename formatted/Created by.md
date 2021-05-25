@@ -21,7 +21,7 @@
 - **[Last Updated](<Last Updated.md>):** [February 28th, 2021](<February 28th, 2021.md>)
     - **[Created by](<Created by.md>):**
 
-## [About Roam Collective](<About Roam Collective.md>)
+## [About Roam Collective V1 ([Archive](<Archive.md>))](<About Roam Collective V1 ([Archive](<Archive.md>)).md>)
 - **[Created by](<Created by.md>):**
 
 ## [Act so that you can tell the truth about how you act.](<Act so that you can tell the truth about how you act..md>)

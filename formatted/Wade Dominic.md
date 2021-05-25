@@ -15,7 +15,7 @@
         - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
             - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
             - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-            - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+            - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
             - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
         - ---
 - **[Thoughts](<Thoughts.md>):** [agile development](<agile development.md>) ([Sprints]([sprints](<sprints.md>)), [Epics]([epics](<epics.md>)), etc) [*]([Processes](<Processes.md>))[*]([Outlines](<Outlines.md>))[*]([~[[Charles Farr](<~[[Charles Farr.md>)]])[*]([@[[Peter Rosso](<@[[Peter Rosso.md>)]])[*]([Drafts](<Drafts.md>))[*]([Bookmarks](<Bookmarks.md>))
@@ -29,7 +29,7 @@
         - Capture some initial feedback in your **feedback** block
         - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas)) [not-populated](<not-populated.md>)
             - __write here__
-        - [Conversation](<Conversation.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
+        - #[Conversation & Comments](<Conversation & Comments.md>) ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) [not-populated](<not-populated.md>)
             - __comment/reply here__
                 - **Instructions:** __Block reference blocks from elsewhere in the graph & nest comments underneath them__
         - #[Feedback & Questions](<Feedback & Questions.md>) ((A place to log feedback and questions related to the graph)) [not-populated](<not-populated.md>)

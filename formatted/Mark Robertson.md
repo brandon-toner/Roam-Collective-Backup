@@ -29,7 +29,7 @@
                 - #[My Daily Notes](<My Daily Notes.md>) [Mark Robertson](<Mark Robertson.md>) {{word-count}} - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
                     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
                     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-                    - [Conversation](<Conversation.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
+                    - #[Conversation & Comments](<Conversation & Comments.md>) ((For nesting interactions with other members of the graph)) [not-populated](<not-populated.md>)
                     - [Feedback](<Feedback.md>) ((share your comments about the experience, click on the feedback tag for more info)) [not-populated](<not-populated.md>)
                 - ---
 - {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}

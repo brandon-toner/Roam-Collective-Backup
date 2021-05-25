@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -27,7 +27,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - On a broadcasting smartblock. #[Follow Up](<Follow Up.md>)
             - What about some flag `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` that when combined with a date will automatically get populated to a top-level section?
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. On [Live Preview](<Live Preview.md>) [cc:[[Matthew Vogel](<cc:[[Matthew Vogel.md>)]], [~[[Peter Rosso](<~[[Peter Rosso.md>)]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
@@ -47,7 +47,7 @@
         - Order old tasks by priority
         - Let's get started on this here: [Weekly Review: Graph Seed — February 4, 2020](<Weekly Review: Graph Seed — February 4, 2020.md>)
         - reply Also, l love the idea of making it a [synchronous](<synchronous.md>) activity — let's all hop on Zoom or Clubhouse soon.
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - I love [~[[Charles Farr](<~[[Charles Farr.md>)]]'s idea of [specific tags](((cfEfYDOAh))) `[Broadcast](<Broadcast.md>) / [Radio](<Radio.md>) / [Vote](<Vote.md>)` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [@[[leekeifon](<@[[leekeifon.md>)]] [~[[Larissa de Lima](<~[[Larissa de Lima.md>)]]
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
@@ -59,7 +59,7 @@
         - [~[[Brandon Toner](<~[[Brandon Toner.md>)]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) [*]([mtv](<mtv.md>)){{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [~[[Peter Rosso](<~[[Peter Rosso.md>)]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
         - [~[[leekeifon](<~[[leekeifon.md>)]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
 - ---
@@ -105,6 +105,6 @@
                 - Curation creates proximity, which naturally leads to convergence
                 - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
                 - Collective convergence benefits from synchronous
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [~[[Matthew Vogel](<~[[Matthew Vogel.md>)]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `[tag1](<tag1.md>)` & `[tag2](<tag2.md>)` in contents
 - ---

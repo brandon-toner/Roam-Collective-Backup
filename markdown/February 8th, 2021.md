@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -49,7 +49,7 @@
                 - [Figma link](https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/Dhrumil%26Robert---RoamGames-Challenge-2?node-id=0%3A1)
     - #[[Change Log]] 
         - Added [[roam/js/slack]]
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [[roam/js/tag-cycle]] for changing notification states.[*]([[Matt Brockwell]])
             - Matt, great ideas here! I've actually used tag-cycling in this exact way before. (Changing state from unread, to read, to saved with a keystroke)
                 - The challenge I've run into is that currently the keyboard shortcut assignment is **global** (applied to ALL users), so with diversity of platform and browser, I've found it difficult to find keystrokes that work for everyone...
@@ -104,7 +104,7 @@
         - Updated conventions for notes types
             - [[[[Roam-Collective]]: Zettelkasten Conventions]]
             - #[[N]] Fleeting notes capture nascent ideas with potential to contribute to
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[~[[Brandon Toner]]]] do we want to have a question page-level tag `[[Q:]]`, use the `[[E:]]`, or use no page-level tag at all? 
             - Candidate for change: [[Questions/Why build maturity into your knowledge management system?]]
                 - My original intention for this page was for it to be output focused 
@@ -138,7 +138,7 @@
 - #[[My Daily Notes]] [[Peter Rosso]] {{word-count}} [*]([[ptr]])   {{or:🟠Away | 🟢Online | 😴 offline, back tomorrow}}
     - #[[Scratchpad]]
         - {{[[video]]: https://www.youtube.com/watch?v=G_nOXbNetVQ}}
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Bookmarks

@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -227,7 +227,7 @@
         - {{[[TODO]]}} Update color layout in roam/css.
             - Emulate Roaman Agora layout.
             - Default [tag backgrounds](((OyHWMqBxC))).
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Charles]([[~[[Charles Farr]]]]) ([REF](((kXxn-TAKO)))) — Loving the draft. A good model for how we might design it for RC.
         2. [@Charles]([[~[[Charles Farr]]]]) on [CSS](((XkuzI7Zp8)))
             - Then, for the `color:` attribute for tags either uses the standard variable (e.g., `var(--bg-tag)`) or a specific color variable (e.g., `var(--cl-red-900)`).
@@ -245,7 +245,7 @@
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On Graph [[CSS]] settings [°]([[~[[Brandon Toner]]]])
             - To modularize the CSS, the best way seems to be to decouple variables for general color and then for coloring specific objects. In practice, that looks like this.
                 - CSS block with color variables → see: Red

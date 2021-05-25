@@ -16,7 +16,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -157,7 +157,7 @@
     - #Chat
         - Thoughts on this? [[~]][[Charles Farr]]
             - #[[Q]] How do I "elevate" content to the main stage for more visibility? ([[e.g.]] I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
-    - #Conversation
+    - #[[Conversation & Comments]]
         - In [these](((PmZ_NjkFA))) [["N"-notes]], I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [[evergreen notes]] perhaps. I consider making a page link a step in [[zettelkasten]] maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [[evergreen notes]] template to it to complete the metamorphosis.
         - Contributors:: #[[Help Wanted]]
@@ -304,7 +304,7 @@
                         - Most problems are solved deductively, but there are benefits to presenting a solution inductively
                 - #[[Follow Up]] on the [[The Pyramid Principle]]
         - #Q How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
-    - #Conversation
+    - #[[Conversation & Comments]]
         - I've landed on  [[Brandon Toner]]
             - Developing the question a bit more...
                 - #Q A [[zettelkasten]] / [[slipbox]] is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))

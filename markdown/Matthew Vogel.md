@@ -901,7 +901,7 @@ document.getElementsByTagName("head")[0].appendChild(ncss);
                 - [[Announcements]]
                 - [[Collections]]
                 - [[Conventions]]
-            - #Conversation 
+            - #[[Conversation & Comments]] 
             - notifications
                 - {{[[mentions]]: [[notification]]}}
             - Expanding features for communication within the graph (in-graph chat, an expanded notification system)

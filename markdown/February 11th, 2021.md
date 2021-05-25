@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -96,7 +96,7 @@
             - This relates to the discussion of dependencies because most of the code that someone works with is adapted heavily from previous work. I would like to be able to capture and organize the adaptive modifications associated with commonly used pieces of code.[*]([[Sprints/1 — Roam Games 3 (managing dependencies)]])
     - #[[The Zettelkasten]] 
         - #[[N]] [Sprint]([[sprints]]) and epic titles should be descriptive.
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. Thoughts on [this](((_LcN8ZnW8))), Charles? [*]([[~[[Charles Farr]]]])
         2. On a RC domain[*](((81t5uIxRT)))
             - I don't think we need one quite yet, but once we start pivoting towards output, we could easily reassess the need for one. 
@@ -134,7 +134,7 @@
         - 
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [[Brandon Toner]] I am not sure the idea of [duplicating blocks](((czpA6rCRy))) is right. Have you had an example in mind? Can we keep them always distinct but connected. A sprint should be a hypothesis trying to answer a question. Otherwise, I would recommend having a fixed hierarchy so that either the question is always ls always blocked referenced to the sprint or vice-versa? Or probably better, avoid block references?
@@ -157,7 +157,7 @@
                 - Can Epics & Sprints be oriented around the same questions?
         - Maybe we just outline using blocks and then once we're most of the way there we consolidate into `Q/` or `Story/` pages...
     - #Sprints #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On structuring work around Epics, Sprints, & Questions
             - @ [Brandon]([[~[[Brandon Toner]]]]) & [Peter]([[@[[Peter Rosso]]]]) — yesterday I wrote about how we could implement the agile framework ([here](((6GfcqwQrI))))
                 - As it relates to Brandon's [question](((_LcN8ZnW8))), the question should actually be outlined at the Epic level. By comparison, sprints are just timebound sets of tasks. An Epic can be one or multiple sprints.

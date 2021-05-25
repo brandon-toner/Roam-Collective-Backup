@@ -68,7 +68,7 @@
         - #[N](<N.md>) accurate and precise category naming is more robust than metaphor or mythology naming.
             - metaphors and analogies break down — accurate language does not.
             - #[N](<N.md>) Metaphors should be an interpretive layer above true category naming.
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Imported maxims from [Books/12 Rules for Life](<Books/12 Rules for Life.md>) and [Books/Beyond Order: 12 More Rules for Life](<Books/Beyond Order: 12 More Rules for Life.md>) as material for reference and demonstration of structure.
             - Similar could be done for [Ray Dalio](<Ray Dalio.md>)'s [Books/Principles](<Books/Principles.md>)
@@ -113,7 +113,7 @@
                         - The layers are quite literally infinite, so some rationalization is most **definitely** required.
                     - ...
                 - Calling it for the evening, but looking forward to exploring the idea of a [semi-lattice](<semi-lattice.md>) and its multitude of [layers](<layers.md>) in the future
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
     - [Bookmarks](<Bookmarks.md>)
         - [Q](<Q.md>) How do you manage the problem of community fragmentation?
     - #[Change Log](<Change Log.md>)

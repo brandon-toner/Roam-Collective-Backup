@@ -1,7 +1,7 @@
 - #[[My Daily Notes]] [[Charles Farr]] [°]([[csf]]) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad
         - Fiddling with [[RC/Onboarding Seedpack]]
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Bookmarks #not-populated
     - #[[Change Log]]
         - Updated css for: #[[My Daily Notes]] [[Your Name]]

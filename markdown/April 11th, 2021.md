@@ -2,7 +2,7 @@
     - #Inbox #not-populated
     - #[[Scratchpad]] 
         - Just checking what is going on...
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Feedback  #not-populated
     - #Bookmarks #not-populated
     - 

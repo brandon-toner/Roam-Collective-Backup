@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -244,7 +244,7 @@
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [I](<I.md>)}}}
         - Fleeting Notes
             - {{[query](<query.md>): {and: [bnt](<bnt.md>) [February 20th, 2021](<February 20th, 2021.md>) [N](<N.md>)}}}
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. [@Peter]([@[[Peter Rosso](<@[[Peter Rosso.md>)]]) On [reading choice](((BUM_0plKB))) ([Christopher Hodgkinson](<Christopher Hodgkinson.md>))
             - VERY hard to find.
             - This author came HIGHLY recommended to my by a mentor of mine — who studied ethics and organizational leadership for his PhD and was a previous superintendent of a school board. I borrowed his copy of a different one of his books — and recently found a few copies online via a second hand resale site. Just arrived on delivery yesterday.
@@ -320,7 +320,7 @@
                 - Correcting
                 - Rewriting
             - ^ "All these are not just different tasks, but tasks requiring a different kind of attention."
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@Brandon]([~[[Brandon Toner](<~[[Brandon Toner.md>)]]) About [block level tags](((Spljfcp-2)))
             - [N](<N.md>) Making the characteristics/type of our sentences/blocks explicit tells others how and where to join the conversation.
                 - They see a question, with a fleeting notes as an answer underneath. They might think the question is good, but they think there is a better answer. Now they can just reference the question and give their answer.
@@ -387,7 +387,7 @@
         - [ ] Find [Books/Atomic Habits](<Books/Atomic Habits.md>) quote which discusses the importance of writing down the question we have and todo we have in mind in order to bring finality to this. It's the same reason why GTD works.
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         1. Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
         2. [claims](<claims.md>) vs ["N"-notes](<"N"-notes.md>) vs [preposition](<preposition.md>)
@@ -420,7 +420,7 @@
                 - Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
             - Goal: Community awareness of the project
                 - Getting people into the graph
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>) 
         - Added Link to submission details survey for the [Roaman Agora](<Roaman Agora.md>)
 - ---

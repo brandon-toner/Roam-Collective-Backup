@@ -40,7 +40,7 @@
             - I often will define projects that get "stuck" because they are too broad in scope. Where "goal" doesn't quite feel right either. 
                 - #Q What is the difference between [[epics]] and [[goals]]?
         - #N The use of [[block-level tags]] in combination with [[key words]] facilitates a stronger conversation that transcends the "now" -- extends across time.
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Mark]([[@[[Mark Robertson]]]]) on [temporary queries](((eDu1gnWM0)))
             - Yea, I have the [same concern](((gpFDEvhhp))). Noticed a significant slow-down in the graph yesterday... and have a feeling that queries are quite taxing on performance. 
             - Would LOVE to see this resolved by the Roam team, as queries are really the right tool for the job in many cases for compiling information (which is VERY helpful in communities like this.)
@@ -91,7 +91,7 @@
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}   {{or:🟡On & Off | ⚫️Offline | 🟢Online | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation ((For nesting interactions with other members of the graph)) 
+    - #[[Conversation & Comments]] ((For nesting interactions with other members of the graph)) 
         - [@Brandon]([[~[[Brandon Toner]]]]) on [Question regarding queries with today's date](((utHWR4Vlp))) [*]([[queries]])
             - First, I want to stress again, that my thoughts here are from experience, but not necessarily certainty - though I have attempted to discuss this with numerous people.
             - These easiest solution I have found here is what I do for my own project management workflow. 
@@ -143,7 +143,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
@@ -205,7 +205,7 @@
                 - #[[N]] [[structure]] type [[tags]] as API for block clusters in [[Roam]].
                 - #[[N]] [[block references]] enable an editorial step between [[brainstorming]] and [[synthesis]] within a [collaborative graph]([[collaborative graphs]]). #zettelkasten
                 - #[[N]] [Block references]([[block references]]) are key within a [collaborative graph]([[collaborative graphs]]). Non-intrusive commentary — the original context is preserved.
-    - #Conversation
+    - #[[Conversation & Comments]]
         - {{or: [[@[[Everyone]]]] | [[~[[Charles Farr]]]] | [[~[[Brandon Toner]]]] | [[~[[Peter Rosso]]]] | [[@[[leekeifon]]]] | [[@[[Larissa de Lima]]]] | [[@[[Samuel Bars]]]] }}  — if anyone has some time, it would be awesome to generate a bit of conversation in the [[Roaman Agora]], adding questions and ideas related to submissions. More info [here](https://roamresearch.com/#/app/The-Roaman-Agora/page/mF5E41KQx)!
     - #[[Change Log]]
         - Added custom indexing code, inspired by [[Maggie Delano]]

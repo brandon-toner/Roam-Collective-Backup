@@ -16,7 +16,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - Jump right in! [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -157,7 +157,7 @@
     - [Chat](<Chat.md>)
         - Thoughts on this? [~](<~.md>)[Charles Farr](<Charles Farr.md>)
             - #[Q](<Q.md>) How do I "elevate" content to the main stage for more visibility? ([e.g.](<e.g..md>) I'd like to make [this question](((jteC3b2n_)))) more visible upon visiting the DNP page, but don't want to tag anyone in it...
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - In [these](((PmZ_NjkFA))) ["N"-notes](<"N"-notes.md>), I made page links out of the statements. I did this because they felt a bit more mature and universal as I typed them. On the way to becoming [evergreen notes](<evergreen notes.md>) perhaps. I consider making a page link a step in [zettelkasten](<zettelkasten.md>) maturity.
             - A NEXT step would be to add some content to those pages, maybe add the [evergreen notes](<evergreen notes.md>) template to it to complete the metamorphosis.
         - **[Contributors](<Contributors.md>):** #[Help Wanted](<Help Wanted.md>)
@@ -304,7 +304,7 @@
                         - Most problems are solved deductively, but there are benefits to presenting a solution inductively
                 - #[Follow Up](<Follow Up.md>) on the [The Pyramid Principle](<The Pyramid Principle.md>)
         - [Q](<Q.md>) How could a publishing layer on top of a Roam graph change how we share content directly from the graph? [*](((ZOKE8eFvq)))
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - I've landed on  [Brandon Toner](<Brandon Toner.md>)
             - Developing the question a bit more...
                 - [Q](<Q.md>) A [zettelkasten](<zettelkasten.md>) / [slipbox](<slipbox.md>) is a great knowledge repository for academic research but does it transition well to other functions?[*](((ulQPDnrKC)))

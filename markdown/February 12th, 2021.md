@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -143,7 +143,7 @@
             - Resources:: https://twitter.com/beauhaan/status/1360064803214155777?s=21
     - #[[The Zettelkasten]] 
         - #[[N]] The use of [[DNP Modules]] in combination with strategic [[indentation]] empowers powerful [[queries]] and [[linked references]] on keywords, projects, and questions. 
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [@Peter]([[~[[Peter Rosso]]]]) on `Obs` vs `Ob`
             - [@Peter]([[@[[Peter Rosso]]]]) [on "Ob" vs "Obs"](((7TT80uRn7))): I think "Obs" is the standard abbreviation for "Observation" or "Observed"
             - [@Brandon]([[~[[Brandon Toner]]]]) [on "Ob" vs "Obs"](((iEONmm8aD))) If it's a standard then I think it's perfect. It's good to have an "element" for each collection, but does this increase the chance of having too many collection tags? I like the idea, I am just worried about the structure becoming too complex for no reason.
@@ -254,7 +254,7 @@ d. [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEON
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
         - [@]([[~[[Brandon Toner]]]]) [""](((cxK_gynrp))) `👀#Obs` seems plural, what about `👀#Ob`?
@@ -313,7 +313,7 @@ d. [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEON
                     - Counter-example
             - [[Seedlings/The use of prepositional linkages empowers the mapping of dependencies and relationships in a graph database.]]
             - [[prepositional linkages]]
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On the distinction between observations and fleeting notes: [*](((gZjqbMskv))) [@]([[~[[Brandon Toner]]]])
             - I would argue that the uses aren't that dissimilar at all! The idea of an observation is just to summarize something tangible — something that happened or is concrete, which could be an insight from a book/research or an example within this graph.
                 - It is distinct from a Fleeting Note or an Evergreen Note in that it contains some objective truth, evidenced by an actual fact in the world. Evergreen notes build on ideas (notions, Fleeting Notes, whatever)
@@ -352,7 +352,7 @@ d. [@Brandon]([[~[[Brandon Toner]]]]) [on "This new messaging structure"](((iEON
         - Made Online/Offline status global with a block reference to my profile.
             - {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) 
         - Discovered that the drop down selector from Or query is out of place when viewed on Firefox
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FzfGGKU_cn9.png?alt=media&token=60ed969f-b718-4f04-a73f-dc071f7939bd)

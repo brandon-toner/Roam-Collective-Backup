@@ -61,7 +61,7 @@
         - [ ] Review Mark's notes from [March 1st, 2021](<March 1st, 2021.md>) 
         - [Q](<Q.md>) How might RC conventions be optimized for the [Roam Think Tank](<Roam Think Tank.md>)? [*]([Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Mark Robertson](<@[[Mark Robertson.md>)]])
         - [ ] Look into "lazy consensus"
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [~[[Mark Robertson](<~[[Mark Robertson.md>)]] 
             - We have a graph - "roaminati"
                 - Excellent. As conversation evolves, I'll offer our support for setting up RC conventions to ensure a smooth implementation.
@@ -99,7 +99,7 @@
     - #[GTD Zone](<GTD Zone.md>) 
         - [ ] Read about Roam think-tank  
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
@@ -108,7 +108,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Wade Dominic](<Wade Dominic.md>) {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>) ((Use this as scrap paper. A place to jot down you ideas))[not-populated](<not-populated.md>)
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@Brandon Toner]([@[[Brandon Toner](<@[[Brandon Toner.md>)]]) thanks for the [clarification](((FO4DW8gxL))) of where things are with respect to [agile development](<agile development.md>)
             - **[This is also what I was thinking -> Manually, this could be done based on a `Dependencies](<This is also what I was thinking -> Manually, this could be done based on a `Dependencies.md>):**` attribute on the story (project) page. — with the status block reffed on the same line to promote good [visibility](((D3gcKeMVe))) without having to click-in to the project.[*](((4d48_3iGO)))
                 - I am thinking once things are more fleshed out something could relatively easily be done with [roam/render](<roam/render.md>) and some [datalog](<datalog.md>) queries
@@ -119,7 +119,7 @@
         - [Great tweet](((hKTCnzkeq))) from [Interintellect](<Interintellect.md>) about [Discord](<Discord.md>) - good foundational advice.
             - https://twitter.com/interintellect_/status/1366825299879604229?s=21
     - [Questions](<Questions.md>) ((about the graph, or directed towards someone)) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - [@[[Brandon Toner](<@[[Brandon Toner.md>)]] & [~[[Charles Farr](<~[[Charles Farr.md>)]] regarding my comment yesterday: Looks like [Roamhacker](<Roamhacker.md>) wishes to open a graph for the group. 
             - We have a graph - "roaminati"
         - Replies:
@@ -131,7 +131,7 @@
     - [Scratchpad](<Scratchpad.md>)
         - [Q](<Q.md>) How might RC conventions be optimized for the [Roam Think Tank](<Roam Think Tank.md>)? [*]([Projects/Develop Shared Graph for Roam Think Tank](<Projects/Develop Shared Graph for Roam Think Tank.md>))[*]([@[[Charles Farr](<@[[Charles Farr.md>)]])[*]([@[[Mark Robertson](<@[[Mark Robertson.md>)]])
         - [RC/Conversation Seedpack](<RC/Conversation Seedpack.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - On Chat
             - We are already on [Discord](<Discord.md>) now. 
                 - I like Discord [~[[Mark Robertson](<~[[Mark Robertson.md>)]] — on voice chat with [Joel Chan](<Joel Chan.md>) and [Roamhacker](<Roamhacker.md>) right now.
@@ -150,7 +150,7 @@
             - However, these conventions are slow. Instead of an immediate chat, I believe that they are more like writing a letter (snail-mail) or an email. There is great value in this approach, but it does fall short for other types of communication.
             - The value of the graph is that things are **organized** as they are communicated. It bundles those steps -- driving the compounding of ideas across time.
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [@[[Charles Farr](<@[[Charles Farr.md>)]] yes on [prototyping a chat tool](((nBevoAd8m))). 
             - When is a good time for you? (I'm in central european time)
 - ---

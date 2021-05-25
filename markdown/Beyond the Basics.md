@@ -60,7 +60,7 @@
                                 - It is easy to tell what is going on. 
                                 - It is easy to contribute.
                                 - It is accessible to "intermediate users" 
-                            - Conversation::
+                            - Conversation & Comments::
                                 - Seeding graphs
                                     - How can we effectively "seed" graphs with baseline information?
                                         - Depending on features used, JSON or markdown exports should work relatively well for this.
@@ -141,7 +141,7 @@
                                 - Book reading companion
                                     - Thinking of something like what [[Sam Marfleet]] made for [[Books/Hero of a Thousand Faces]]...
                                 - Study guide
-                        1. What goals or objectives would you like to work towards with [[Roam-Collective]]? [*](((ODwYwd-L7)))
+                        1. What goals or objectives would you like to work towards with [[Roam-Collective]]? [*](Goals:: ((See block references for additional ideas.)))
                             - To create a [[Roam Collaboration Guide]] that can be used to support multiplayer Roam communities.
                         3. From the references on `[[Open Questions]]`: What is the best method of notifications?
                             - The `@` and `~` convention from [[[[Roam Book Club]] II]] seemed to work well.
@@ -149,7 +149,7 @@
                         4. How to tag ideas related to graph conventions and processes?
                             - Under `[[[[Feedback]]: [[Suggestions]]]]`?
                         5. How important is it to stick to vanilla Roam?
-                    - #Conversation
+                    - #[[Conversation & Comments]]
                         1. [[~]][[Brandon Toner]] any blocks you create we can't edit/delete — just something to keep in mind (see the duplicate comments and feedback sections below) — fixed
                         1. [[~]] [[Brandon Toner]] how do you feel about using templates? I like these daily note headings — I think using either templates or smartblocks could be great to standardize structure... Love templates, they help to facilitate structure — started some [here]([[Graph/Templates]])
                             - Feel free to add some! You could make a `#Templates` section in your DNP section, and create some [[SmartBlocks]] there #Processes #templates

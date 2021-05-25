@@ -127,7 +127,7 @@
                         - The [added signal](((Mbn9vD_YE))) is not worth the [distraction](((4EIv3EgzF)))
         - {{[[TODO]]}} Move all non-basic templates to Roam42, reserving roam/templates for basic functions
         - {{[[TODO]]}} Adjust the sidebar colors to a cohesive color strategy
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Sam]([[~[[Samuel Bars]]]]) on [[roam-inter]] I'm going to try extracting the big ideas, the remaining challenges to be solved, what questions this raises, and what this could mean for the future of roam multiplayer.
             - These are the main points that I don't yet understand, but would be interested in knowing. 
             - Even simply: What can it do? What are the limitations?
@@ -181,12 +181,12 @@
 - #[[My Daily Notes]] [[Wade Dominic]] {{word-count}} {{or:🟡On & Off | 🟢Online | ⚫️Offline | 🟠Away}}
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))#not-populated
     - #Questions ((about the graph, or directed towards someone)) #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #Feedback ((share your comments about the experience, click on the feedback tag for more info)) #not-populated
     - #[[My Wins]]
         - Integrated some of the nice tagging systems here in My Daily Notes on the  Datahike-Squad-Logs graph I am working on. https://roamresearch.com/#/app/Datahike-Squad-Logs/page/02-18-2021
 - ---
-- #[[My Daily Notes]] [[Samuel Bars]] {{word-count}} [*]([[smb]]) {{or:⚫️Offline | 🟢Online | 🟡On & Off | 🟠Away until tomorrow (still reachable thru twitter dms)}} 
+- [[Welcome V1 ([[Archive]])]]
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - On [alien blocks](((cR0Q76Dpl)))
             - Below I copy pasted two blocks from another graph. Would be cool if they had some slightly different styling, maybe a link to the graph, idk. 
@@ -235,7 +235,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - even better, resurface them in gtd zone with a `{{[[TODO]]}} Read ((block ref from bookmarks))` next to them
         - {{[[TODO]]}} Will add more fleeting notes/answers/questions to [this](((0oR0z3jPD)))
     - #[[The Zettelkasten]]
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - [@B]([[~[[Brandon Toner]]]]) various: 
             - 19YO genius kid in .... Mauritius
             - [re roam inter explanation](((posZGcO_u)))
@@ -319,7 +319,7 @@ What's your take on fleeting notes that come from personal experience/journaling
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoam-Collective%2FpppC83KQch.png?alt=media&token=6f307e83-962a-4f3c-9817-78e34c8e5656)
             - Trying to keep up with [@Brandon]([[cc:[[Brandon Toner]]]])'s output on a daily basis is impossible...
                 - Reminds me of Aaron Burr complaining about Alexander Hamilton's output for the Federalist Papers lol
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On [[CSS]] styling
             - #Q Should page link, alias, and external link all be different colours?
                 - [@Brandon]([[~[[Brandon Toner]]]]) I think that each element should be distinguishable readily within the graph — so yes, at least different colors

@@ -8,6 +8,6 @@
             - [[@[[Charles Farr]]]] was this you? haha 
                 - Confirmed — found [your note](((XGnwOJQ_2)))
                 - Would love to do the same to the Community Notes. Thinking same format sans shadow. 
-    - #Conversation #not-populated 
+    - #[[Conversation & Comments]] #not-populated 
     - #[[Change Log]] #not-populated
 - ---

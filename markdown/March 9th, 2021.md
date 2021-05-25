@@ -28,6 +28,6 @@
                         - #Q How might the [[Social/News Feed]] be individually curated by user [[Social/Follows]]?
                             - #Q What controls could be given to the user over their [[Social/News Feed]]?[*](((Bzh7rDrm1)))
                         - #Q How might this model/system be made easier?[*](((Bzh7rDrm1)))
-    - #Conversation #not-populated 
+    - #[[Conversation & Comments]] #not-populated 
     - #[[Change Log]] #not-populated
 - ---

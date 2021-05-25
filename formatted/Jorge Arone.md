@@ -13,6 +13,9 @@
         - {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}
 
 # Backlinks
+## [May 24th, 2021](<May 24th, 2021.md>)
+- [Jorge Arone](<Jorge Arone.md>)
+
 ## [May 5th, 2021](<May 5th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Jorge Arone](<Jorge Arone.md>)
 

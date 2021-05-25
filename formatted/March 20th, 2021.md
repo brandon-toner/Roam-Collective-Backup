@@ -1,7 +1,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [Charles Farr](<Charles Farr.md>) [°]([csf](<csf.md>)) {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - [Scratchpad](<Scratchpad.md>)
         - Fiddling with [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
     - [Bookmarks](<Bookmarks.md>) [not-populated](<not-populated.md>)
     - #[Change Log](<Change Log.md>)
         - Updated css for: #[My Daily Notes](<My Daily Notes.md>) [Your Name](<Your Name.md>)

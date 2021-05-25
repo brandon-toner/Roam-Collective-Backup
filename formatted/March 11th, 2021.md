@@ -5,7 +5,7 @@
     - [Inbox](<Inbox.md>) [not-populated](<not-populated.md>)
     - #[Scratchpad](<Scratchpad.md>) [not-populated](<not-populated.md>)
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  

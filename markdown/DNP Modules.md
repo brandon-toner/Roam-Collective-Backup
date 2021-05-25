@@ -17,7 +17,7 @@
     - #[[The Zettelkasten]]
         - A place to input content into a zettelkasten.
         - More formal ideas go here.
-    - #Conversation
+    - #[[Conversation & Comments]]
         - A place to reply to Chats or comment on anything in the database without disrupting the original context of the thing you want to comment on.
     - #Questions
         - A place to document questions. 

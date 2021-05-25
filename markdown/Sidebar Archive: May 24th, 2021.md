@@ -1,0 +1,20 @@
+- Sidebar pages prior to [[May 24th, 2021]]
+- ---
+- [[Welcome]]
+- [[Quick Start Guide]]
+- ---
+- [[About Roam Collective]]
+- [[Directory]]
+- [[FAQ]]
+- ---
+- [[Help Wanted]]
+- [[Prompts]]
+- [[Feedback]]
+- ---
+- [[Roam Collaboration Guide]]
+- [[Change Log]]
+- [[Graph/Templates]]
+- [[Glossary]]
+- [[Next Steps]]
+- [[Learning Center]]
+- [[Date Planner]]

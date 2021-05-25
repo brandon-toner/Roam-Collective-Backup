@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -81,7 +81,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                 - Let's start with a niche? We can discuss lot's of things under the multiplayer graph lens.
     - #[[GTD Zone]]
         - Explain the idea for graph dependency
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
 - ---
@@ -145,7 +145,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
             - See more: [Choice on Questions namespace](((_Wr78aOE-))) & [making a reference note: process](((FYmbBPKjS)))
         - Developed a [Sprints Template](((tG1HJs2dK)))
         - Created a sprint for [Roam Games 3]([[Sprints/1 — Roam Games 3 (managing dependencies)]]) (merged with Charles' version)
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. Simple Replies
             - [[~[[Brandon Toner]]]] it's a new feature I stumbled across in [PDF Expert](https://pdfexpert.com/) that exports highlights and notes to markdown [*](((L5rLIvAsb))) 
                 - Ah no way! I use both PDF Expert and Spark and Scanner Pro. I LOVE [[Readdle]] haha.[*]([[~[[Charles Farr]]]])
@@ -343,7 +343,7 @@ You will have to wait for me ([[Peter Rosso]]) to let you in.
                     - This is good practice because it is linked into the conversation and gives context around exactly what gave rise to the question.
                 - When moving into the drafting phase of an "answer" or synthesis in response to a question, creating a `[[Q:]]` implicitly denotes an increase in maturity
             - 
-    - #Conversation
+    - #[[Conversation & Comments]]
         - On "[[domains]]" within the Roam Collective
             -  [[@[[Larissa de Lima]]]] I almost think of [these](((xRXhJOm2O))) as distinct domains — meta, internal knowledge, external knowledge.
                 - Obviously there is a ton of overlap and exchange between each, but they each have distinct objectives and conventions

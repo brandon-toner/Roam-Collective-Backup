@@ -23,7 +23,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
@@ -34,6 +34,6 @@
     - #Announcements
         - Still away — working on a seed project using RC conventions (can't disclose all the details, but it will definitely help us here.)
     - #Scratchpad
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
     - #[[Change Log]] #not-populated
 - ---

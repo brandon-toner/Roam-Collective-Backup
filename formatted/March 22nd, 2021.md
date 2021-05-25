@@ -8,6 +8,6 @@
             - [@[[Charles Farr](<@[[Charles Farr.md>)]] was this you? haha 
                 - Confirmed — found [your note](((XGnwOJQ_2)))
                 - Would love to do the same to the Community Notes. Thinking same format sans shadow. 
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>) 
     - #[Change Log](<Change Log.md>) [not-populated](<not-populated.md>)
 - ---

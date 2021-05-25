@@ -19,6 +19,7 @@
     - [Q2: 2021](<Q2: 2021.md>) 
         - [April 2021](<April 2021.md>)
         - [May 2021](<May 2021.md>)
+            - [Week-21: 05-24-2021](<Week-21: 05-24-2021.md>)
         - [June 2021](<June 2021.md>)
     - [Q3: 2021](<Q3: 2021.md>) 
         - [July 2021](<July 2021.md>)
@@ -57,6 +58,9 @@
 
 ## [March 17th, 2021](<March 17th, 2021.md>)
 - Updated Quick Dates (uses the week & month format of the [Date Planner](<Date Planner.md>))
+
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Date Planner](<Date Planner.md>)
 
 ## [[project management](<[project management.md>) in Roam](<[project management](<project management.md>) in Roam.md>)
 - [Date Planner](<Date Planner.md>)

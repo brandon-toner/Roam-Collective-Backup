@@ -16,7 +16,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - Jump right in! [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -226,7 +226,7 @@ This addresses the problem of “missing things”. If ideas are documented in z
             - I would love to be able to have complex queries for:
                 - ENs written by members of the graph (([[i.e.]] exclude external authors like Andy M))
                     - ENs NOT written by members of the graph
-            - #Conversation
+            - #[[Conversation & Comments]]
                 - "members of the graph" [*](((dYIpKh0sF)))
                     - This would require [[second-degree connections]]. [[i.e.]] `#People` who are also `#Members`
                         - #[[Q]] How could [[second-degree connections]] be facilitated?
@@ -352,7 +352,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
         - 23:27 — Added a [random fleeting note](((9j2PVNMXj))) SmartBlock [[cc:[[Charles Farr]]]] [[cc:[[Matt Brockwell]]]] [[cc:[[Beau Hann]]]]
         - Check out [these thoughts](((bFs8wmzoq))) 
             - [[cc:[[Charles Farr]]]], [[cc:[[Matt Brockwell]]]], [[cc:[[Joel Chan]]]]
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[~[[Brandon Toner]]]] what do you think about: Looking at all of the [[SmartBlocks]] in the graph and I think we need to have an approach for delineating between personal SmartBlocks (and templates) and community ones #Conventions
             - Yup, really like this idea. cc: [[~[[Charles Farr]]]]
                 - For personal naming conventions, I like `BToner` ([FLast])((reason: keeps the initials intact, so I can type BT)) or a personally designated SmartBlock user code. It doesn't really matter what it is as long as it is: #Conventions
@@ -481,7 +481,7 @@ I'd also add a `.` before the `rcDNP` to `.rcDNP` to benefit in [[sorting]]. (__
     - #[[Help Wanted]]
         - Getting lost when replying to different messages. Don’t know where to go back...
         - Have the friction on not knowing how to backup the information in chat.
-    - #[[Conversation]]
+    - #[[Conversation & Comments]]
         - Thanks for [your reply](((n_PNVqwuw))). I need to clarify my [custom css idea](((FehE8jv6_))) more here, my idea is that maybe everyone will have their own ‘best’ css setting, though some basic [[alignment]] would accelerate our [[communication]] efficiency. But the **actual point** I want to make is probably trying to distinguish the idea of #[[N]] public vs private  when doing [[collaboration]]. [[~[[Charles Farr]]]]
         - Is the [following idea](((M-PUp1Fng))) interest you and worth your time to dig into? cc [[~[[Brandon Toner]]]]
         - Also [this one](((j50xmn4aN))).  cc [[^[[Brandon Toner]]]]
@@ -542,7 +542,7 @@ Thoughts? - [[Brandon Toner]]
         - [[~[[Brandon Toner]]]] I would like to add the [query builder script](https://roamjs.com/docs/extensions/query-builder) to the graph
     - For descriptions of the other "DNP Modules", visit this page → `[[DNP Modules]]`
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}}
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Definitely open to re-evaluating this over time. 
             - Another item to consider is that long discussions (with this convention) will indent very quickly, potentially leaving little to no room for readability as we move closer to the right margin. [[~[[Brandon Toner]]]]. Again, organic development is probably best here, and remain flexible. 
             - 

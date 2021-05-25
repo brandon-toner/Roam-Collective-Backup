@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -234,7 +234,7 @@
                 - Ability to be included as a query element
                 - Alignment with native [namespacing](<namespacing.md>) conventions
                     - Allows the name to be visually streamlined [readability](<readability.md>)
-            - **[Conversation](<Conversation.md>):**
+            - **[Conversation & Comments](<Conversation & Comments.md>):**
                 - [Brandon's commentary on "EN Example 1"](((6eY3e3c4z)))
                     - **[Related](<Related.md>):** [Evergreens/Evergreen Note example 3](<Evergreens/Evergreen Note example 3.md>)
             - **[Notes](<Notes.md>):**
@@ -326,7 +326,7 @@
     - [Bookmarks](<Bookmarks.md>)
         - However, to efficiently transit it to others, it needs to be more than a page title — you have to flesh it out
         - Brandon and I were discussing structures for Evergreen note pages earlier... #[evergreen notes](<evergreen notes.md>) [Conventions](<Conventions.md>)
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         1. #[Chat](<Chat.md>)
             - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
                 - Interested in your thoughts on the use of the Choice Algorithm
@@ -428,7 +428,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
         - #[P:Self](<P:Self.md>) It’s nice to have belief(at least roughly, not numerically) in your own notes, like the example [here](((AiViaN4j-))).
         - #[N](<N.md>) Effective teaming requires clear norms and expectations [^[[leekeifon](<^[[leekeifon.md>)]]
         - #[Q](<Q.md>) What could be the common base of a digital environment of loosely connected people expectation?
-    - #[Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Some concepts stay in mind for a long time and would like to discuss with you guys.
         - Don’t know if these are [fruitful](<fruitful.md>) new concepts for you. #[N](<N.md>) block-level [model](<model.md>) and #[N](<N.md>) block-embed [model](<model.md>) [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
         - [This example](((__BAONQ4o))) serves as my supportive argument on [adding a tag which could hide content of css](((LKFDKdVqQ))). Otherwise, if we refer to more than two blocks at the same time, it’s somehow visually annoying. [^[[Brandon Toner](<^[[Brandon Toner.md>)]]
@@ -470,7 +470,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Wonder how this works, and how it might work for blocks with multiple authors (although not sure authorship is tracked as blocks are showing up as "anonymous")
                 - Seems like all my unread references are showing up, regardless if its a thread I was reading.  Will see how this looks next time I log in
         - Is there value in adding something like "epistemic status" to fleeting notes - so people know immediately if it's just some spitballing or something more robust?
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [Replies](<Replies.md>)
             - Excellent documentation on this!! 
                 - Added the recommended tags!!
@@ -531,7 +531,7 @@ The difference is that FNs are a bit more "rough" or less timeless in their cont
             - Conventions
         - [[[How To](<[[How To.md>) Seed Your Graph]]
             - Copy over the conventions, FAQs, and CSS relevant to your graph!
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - Check this out, [~[[Charles Farr](<~[[Charles Farr.md>)]] [Namespace choice AoT](((u8etVKAtE)))
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I like the AOT but disagree with the choice!
                 - My stance remains that there are a ton of benefits to having an identifier in the actual page title
@@ -587,7 +587,7 @@ If BLOCKMENTIONS worked with the regular query engine this would be VERY powerfu
             - Would love to connect sometime to hear about your work at OW Forum!
 - ---
 - #[My Daily Notes](<My Daily Notes.md>) [Matthew Vogel](<Matthew Vogel.md>) {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}} [*]([mtv](<mtv.md>)) {{word-count}}
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - [Q](<Q.md>) Is it possible to change [roam/css](<roam/css.md>) to differentiate between internal links and external links?  [*](((3ak7VaCMQ))) [~[[Brandon Toner](<~[[Brandon Toner.md>)]]
             - Yup 
                 - Preview

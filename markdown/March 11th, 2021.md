@@ -5,7 +5,7 @@
     - #Inbox #not-populated
     - #[[Scratchpad]] #not-populated
     - #[[GTD Zone]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  

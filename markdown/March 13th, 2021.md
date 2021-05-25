@@ -10,6 +10,6 @@
             - We could keep the latest updates active here, so graph-builders could easily emulate. 
             - Ideally, this would be a separate "showcase" graph, where updates to "Seed packs" could be published and stored.
             - #Q Could we host seedpacks for easy download?
-    - #Conversation #not-populated 
+    - #[[Conversation & Comments]] #not-populated 
     - #[[Change Log]] #not-populated
 - ---

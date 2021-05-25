@@ -9,3 +9,6 @@
 ## [May 19th, 2021](<May 19th, 2021.md>)
 - [Journal](<Journal.md>)
 
+## [May 24th, 2021](<May 24th, 2021.md>)
+- [Journal](<Journal.md>)
+

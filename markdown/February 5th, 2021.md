@@ -9,7 +9,7 @@
         - Check out [[January 25th, 2021]] for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([[Brandon Toner]]) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[[N]] linked references for some [[atomic ideas]].
-            - Reference them under a #Conversation block within your [[DNP Section]] to add some commentary.
+            - Reference them under a #[[Conversation & Comments]] block within your [[DNP Section]] to add some commentary.
         - Document your ideas in [the collective zettelkasten]([[zettelkasten]]) to improve their longevity and connection to other ideas in the database.
         - [[Create new pages freely, in keeping with the conventions.]] 
             - If making a new [collection]([[collections]]), document within your [[change log]].
@@ -27,7 +27,7 @@
     - #Bookmarks
         - On a broadcasting smartblock. #[[Follow Up]]
             - What about some flag `#Broadcast / #Radio / #Vote` that when combined with a date will automatically get populated to a top-level section?
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. On [[Live Preview]] [[cc:[[Matthew Vogel]]]], [[~[[Peter Rosso]]]] 
             - The best way to achieve that is to keep live preview deactivated on hover, and to use `ctrl + hover` to trigger the preview — works well for on-demand preview.
         2. Simple replies
@@ -47,7 +47,7 @@
         - Order old tasks by priority
         - Let's get started on this here: [[Weekly Review: Graph Seed — February 4, 2020]]
         - reply Also, l love the idea of making it a [[synchronous]] activity — let's all hop on Zoom or Clubhouse soon.
-    - #Conversation
+    - #[[Conversation & Comments]]
         - I love [[~[[Charles Farr]]]]'s idea of [specific tags](((cfEfYDOAh))) `#Broadcast / #Radio / #Vote` resurfacing using smart blocks. I wish [status flag](((hj8c8eDin))) could be set using drop down menu. That way we are sure that people always set a status.  — cc: [[~[[Brandon Toner]]]] [[@[[leekeifon]]]] [[~[[Larissa de Lima]]]]
         - [[~[[Brandon Toner]]]] Damn, I should have [checked](((uQo0I4CWK))). Did you try to ask anyone at Roam?
         - [[~[[Matthew Vogel]]]] Can [live preview](((Ue69JZ6i5))) be used only on specific blocks/pages? e.g. only on evergreen notes?
@@ -59,7 +59,7 @@
         - [[~[[Brandon Toner]]]] [Version control works](((SHRExdEg8))) for any bloc, not only code.
 - ---
 - #[[My Daily Notes]] [[Matthew Vogel]] [*]([[mtv]]){{word-count}} {{or:😴Offline | 🟠Away | 🟡On & Off | 🟢Online}}
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         - [[~[[Peter Rosso]]]] No, live preview is for all pages. I don't think there's currently a way to only preview evergreen notes. [*](((hZjna0IrM)))
         - [[~[[leekeifon]]]] [*](((rUTsMbOZ8))) I know some people do this with chrome plugins like RoamThemes and Stylish. I'm sure those could be ported over to roam/js but would probably be time consuming for minimal gain in my opinion.
 - ---
@@ -105,6 +105,6 @@
                 - Curation creates proximity, which naturally leads to convergence
                 - Speculative outlining and curation of collections in parallel with more divergent activities allows for easier convergence
                 - Collective convergence benefits from synchronous
-    - #Conversation
+    - #[[Conversation & Comments]]
         - [[~[[Matthew Vogel]]]] I don't know if you were looking for a datalog query to answer your question [here](((BrDNimG4F))), but if you are, check this out: Block with `#tag1` & `#tag2` in contents
 - ---

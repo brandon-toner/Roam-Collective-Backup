@@ -9,7 +9,7 @@
         - Check out [January 25th, 2021](<January 25th, 2021.md>) for some great examples of the conventions in motion.
         - **Jump right in!** [I'll]([Brandon Toner](<Brandon Toner.md>)) be moderating so will be able to provide guidance/feedback as you create blocks.
         - Check out the #[N](<N.md>) linked references for some [atomic ideas](<atomic ideas.md>).
-            - Reference them under a [Conversation](<Conversation.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
+            - Reference them under a #[Conversation & Comments](<Conversation & Comments.md>) block within your [DNP Section](<DNP Section.md>) to add some commentary.
         - Document your ideas in [the collective zettelkasten]([zettelkasten](<zettelkasten.md>)) to improve their longevity and connection to other ideas in the database.
         - [Create new pages freely, in keeping with the conventions.](<Create new pages freely, in keeping with the conventions..md>) 
             - If making a new [collection]([collections](<collections.md>)), document within your [change log](<change log.md>).
@@ -28,7 +28,7 @@
     - #[GTD Zone](<GTD Zone.md>) [not-populated](<not-populated.md>)
     - [Promptstorming](<Promptstorming.md>) [not-populated](<not-populated.md>)
     - #[The Zettelkasten](<The Zettelkasten.md>) [not-populated](<not-populated.md>)
-    - [Conversation](<Conversation.md>) [not-populated](<not-populated.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>) [not-populated](<not-populated.md>)
         - Query:
             - {{[query](<query.md>): {and:[@[[Peter Rosso](<@[[Peter Rosso.md>)]]}}}
     - [Feedback](<Feedback.md>)  [not-populated](<not-populated.md>)
@@ -39,7 +39,7 @@
 - #[My Daily Notes](<My Daily Notes.md>) [leekeifon](<leekeifon.md>) {{word-count}} [*]([ptr](<ptr.md>))   {{or:😴 offline, back tomorrow | 🟠Away | 🟢Online}}
     - #[Help Wanted](<Help Wanted.md>)
         - A small question on Roam ‘button’, seems that we could type `{{}}`, it will create something like a button? So, when we click on it, it will emit a button click event? Just curious. [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]]
-    - #[Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - I upvote this section [datalog](<datalog.md>) flashcards! [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]]
         - We may need a mechanism to find out **what to vote** and **how to vote** and make it visible to community members, which is one type of [activities](<activities.md>) we could try for [convergence](<convergence.md>). [cc:[[Brandon Toner](<cc:[[Brandon Toner.md>)]] [cc:[[Charles Farr](<cc:[[Charles Farr.md>)]] [cc:[[Peter Rosso](<cc:[[Peter Rosso.md>)]] [cc:[[Larissa de Lima](<cc:[[Larissa de Lima.md>)]]
             - **[Solution](<Solution.md>):** One naive solution to find out what to vote may be just querying out blocks created last week(or yesterday) and sorting them out using [datalog](<datalog.md>) and then manually add a slider bar to make a vote on it.
@@ -114,7 +114,7 @@
                             - I don't know where I land here...
                     - ...
             - Ultimately, my preference would be to adopt a new note schema for us to use in this graph — I like the [structure Joel has proposed](((PsBKVvanv))) and believe it would support us as we tackle the tricky challenge of convergence within a community graph. **But what I really want is to hear everyone else's thoughts!**  
-    - [Conversation](<Conversation.md>)
+    - #[Conversation & Comments](<Conversation & Comments.md>)
         - On tagging curation
             - [^[[Brandon Toner](<^[[Brandon Toner.md>)]] I did some more thinking on [this piece](((oErRCR35l))) → take a look [here](((NOWabDQws)))
                 - Frankly, I kept getting caught up on how to distinguish between the various pieces of content we're putting into the graph.
@@ -171,7 +171,7 @@
                         - Think of active questions you may have about the topic. You don't need answers. Document the questions first, then try to answer them.
                     - [Q](<Q.md>) What are they called? How are they tagged? 
                 - 
-    - [Conversation](<Conversation.md>) 
+    - #[Conversation & Comments](<Conversation & Comments.md>) 
         - On Charles' [meta-discussion](((mrPOboYir))) (How do we tag a summary/curation) [Bookmarks](<Bookmarks.md>) #[Follow Up](<Follow Up.md>)
             - Great question. Gonna think on this! [~[[Charles Farr](<~[[Charles Farr.md>)]]
                 - Does it need a tag? — I think so.

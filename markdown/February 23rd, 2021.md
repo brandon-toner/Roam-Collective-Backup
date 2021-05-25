@@ -37,9 +37,9 @@
 - ---
 - #[[My Daily Notes]] [[George Silverman]] [*]([[gs]]) {{word-count}}  {{or:🟠Away | 🟡On & Off | 🟢Online | ⚫️Offline}}.
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas)) #not-populated
-    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) 
+    - #[[Conversation & Comments]] ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.)) 
     - #Feedback
-        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](((dunAq0mq-)))
+        - To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))) [*](To define and demonstrate how to collaborate in Roam.[*](((-VfLPtkvE))))
         - 5. Launch the Personal Page roam template by pressing `jj` where you want to insert the template and selecting the `.rcYOU — Personal Page` option
             - `;;` vs `jj` might be unclear. 
 - ---
@@ -51,7 +51,7 @@
     - #[[GTD Zone]] #not-populated
     - #Promptstorming #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - Query:
             - {{[[query]]: {and:[[@[[Peter Rosso]]]]}}}
     - #Feedback  #not-populated
@@ -77,7 +77,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
     - #Questions ((about the graph, or directed towards someone)) #not-populated
     - #[[GTD Zone]] #not-populated
     - #[[The Zettelkasten]] #not-populated
-    - #Conversation #not-populated
+    - #[[Conversation & Comments]] #not-populated
         - [@Brandon]([[~[[Brandon Toner]]]]) Saw you added some more ideas on the roaman agora, answering tomorrow :)
         - [@Charles]([[@[[Charles Farr]]]]) on [this](((pn24y17FZ)))
             - Yeah loving the block-level tags now. Using them in my own db regularly now
@@ -201,7 +201,7 @@ Hey people, hopefully back here today, or 2morrow, to answer stuff and help with
             - Each takes notes (or several)
             - Each formulates one or more [[literature notes]], SRS prompts, etc.
             - The compiled work together makes a better companion resource for all group members. 
-    - #Conversation 
+    - #[[Conversation & Comments]] 
         1. [@Charles]([[~[[Charles Farr]]]]) What was that extension you were using to change the icons & text of the tabs? (to differentiate between different open graphs)
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en) — **muuuuuuuuch better!**
                 - Image::
@@ -241,7 +241,7 @@ PS: great work running that!
 - ---
 - #[[My Daily Notes]] [[Charles Farr]] #csf {{word-count}} — {{or:🟢Online | 😴 Offline | 🟠Away}}
     - #Scratchpad #not-populated
-    - #Conversation
+    - #[[Conversation & Comments]]
         - Simple Replies
             - [@Brandon]([[~[[Brandon Toner]]]]) [re](((reWogLa4B))) — [Tab Modifier](https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai?hl=en)
     - #Bookmarks #not-populated
@@ -251,7 +251,7 @@ PS: great work running that!
 - #[[My Daily Notes]] [[Mark Robertson]] {{word-count}} 
     - #Scratchpad ((Use this as scrap paper. A place to jot down you ideas))
         - Holy crap. Come a long way since I began in here a few weeks ago. Disappointed with my absence lately. Hoping to get back in soon. (<- yes I am talking to myself!)
-    - #Conversation ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.))
+    - #[[Conversation & Comments]] ((This is where the magic happens. Block reference the block you want to comment or reply to, then nest your reply beneath the reference.))
         - Perhaps a bit of confirmation (for what its worth) [[~[[Brandon Toner]]]][*]([[Feedback]])
             - The clarity/onboarding you have built in here is astounding, particularly when you compare with the earlier iterations.
             - One of the most difficult parts of creating a digital space for collaboration and a community is directing attention where necessary. 

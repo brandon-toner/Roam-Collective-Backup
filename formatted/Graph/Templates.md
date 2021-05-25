@@ -342,6 +342,9 @@
 ## [RC/Onboarding Seedpack](<RC/Onboarding Seedpack.md>)
 - [Graph/Templates](<../Graph/Templates.md>)
 
+## [Sidebar Archive: May 24th, 2021](<Sidebar Archive: May 24th, 2021.md>)
+- [Graph/Templates](<../Graph/Templates.md>)
+
 ## [choice algorithm](<choice algorithm.md>)
 - **[Tags](<../Tags.md>):** [Graph/Templates](<../Graph/Templates.md>)
 
