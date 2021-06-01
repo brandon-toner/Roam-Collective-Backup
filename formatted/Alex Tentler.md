@@ -2,7 +2,7 @@
     - **[About me](<About me.md>):**
         - **[Twitter](<Twitter.md>):** @TechnoEdMedPeds
         - **[Website](<Website.md>):** [not-populated](<not-populated.md>) 
-        - **[Location](<Location.md>):** [not-populated](<not-populated.md>)
+        - **[Location](<Location.md>):** #[New York](<New York.md>)
         - **[Time Zone](<Time Zone.md>):** Eastern US
     - **Online Status:**  {{or:🟡On & Off | ⚫️Offline | 🟠Away | 🟢Online}}
 - ---

@@ -2,7 +2,7 @@
     - About me::
         - Twitter:: @TechnoEdMedPeds
         - Website:: #not-populated 
-        - Location:: #not-populated
+        - Location:: #[[New York]]
         - Time Zone:: Eastern US
     - **Online Status:**  {{or:🟡On & Off | ⚫️Offline | 🟠Away | 🟢Online}}
 - ---
