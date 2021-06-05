@@ -404,6 +404,9 @@ Leverage the #[Conversation & Comments](<Conversation & Comments.md>)
 ## [Joel Chan](<Joel Chan.md>)
 - #[Conversation & Comments](<Conversation & Comments.md>)
 
+## [June 4th, 2021](<June 4th, 2021.md>)
+- [Conversation & Comments](<Conversation & Comments.md>)
+
 ## [Kaito Kikuchi](<Kaito Kikuchi.md>)
 - #[Conversation & Comments](<Conversation & Comments.md>)
 

@@ -667,6 +667,9 @@ Thoughts? - [Brandon Toner](<Brandon Toner.md>)
 
 - [ ] Change convention from Comments to Conversation (in alignment with [[[Roam Book Club](<[[Roam Book Club.md>) III]]) [February 1st, 2021](<February 1st, 2021.md>) [Brandon Toner](<Brandon Toner.md>)
 
+## [June 4th, 2021](<June 4th, 2021.md>)
+- [Brandon Toner](<Brandon Toner.md>)
+
 ## [Lectures/Maps of Meaning - JBP (lecture series)](<Lectures/Maps of Meaning - JBP (lecture series).md>)
 - [Brandon Toner](<Brandon Toner.md>)
 
