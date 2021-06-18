@@ -74,6 +74,9 @@
 ## [February 9th, 2021](<February 9th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
 
+## [June 18th, 2021](<June 18th, 2021.md>)
+- [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
+
 ## [March 11th, 2021](<March 11th, 2021.md>)
 - #[My Daily Notes](<My Daily Notes.md>) [Peter Rosso](<Peter Rosso.md>) {{word-count}} [*]([ptr](<ptr.md>))
 

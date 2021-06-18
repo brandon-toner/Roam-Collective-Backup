@@ -3,6 +3,9 @@
 ## [Brandon Toner](<Brandon Toner.md>)
 - [Journal](<Journal.md>)
 
+## [June 18th, 2021](<June 18th, 2021.md>)
+- [Journal](<Journal.md>)
+
 ## [June 4th, 2021](<June 4th, 2021.md>)
 - [Journal](<Journal.md>)
 
