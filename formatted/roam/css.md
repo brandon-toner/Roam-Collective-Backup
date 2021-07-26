@@ -510,7 +510,7 @@ We can't change the selection background in some menus yet, so make sure, that y
                 - Block References
                     - > Modifies the background of the reference blocks
                     - Preview
-                        - ((IeFN6yma5))
+                        - > Modifies the background of the reference blocks
                     - Colors
                         - ```css
 :root {
