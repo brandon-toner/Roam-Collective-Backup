@@ -561,7 +561,7 @@ These users would have far better outcomes if they simply operated at or slightl
                 - Concise definition of all tags
                 - A taxonomy of notes and maturity
                 - Guide to collaboration within the graph
-        - On Peter Russo's glorious wave & double-diamond analogies'
+        - On Peter Rosso's glorious wave & double-diamond analogies'
             - [Peter Rosso](<Peter Rosso.md>) the analogies [here](((In94jaGXw))) are incredible!
                 - I think that developing a library of [exercises](<exercises.md>) / [activities](<activities.md>), both [synchronous](<synchronous.md>) and [asynchronous](<asynchronous.md>), could be an incredible use case for use internally and to share externally
                     - #[N](<N.md>) Implementing synchronous & asynchronous writing [exercises](<exercises.md>) throughout the [Evergreens/cycles of divergence and convergence](<Evergreens/cycles of divergence and convergence.md>) better support the goals of each cycle
